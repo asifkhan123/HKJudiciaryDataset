@@ -1,0 +1,214 @@
+FAMC No. 15 of 2024
+
+[2024] HKCFA 25
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 15 OF 2024 (CRIMINAL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL FROM
+
+CACC NO. 62 OF 2022)
+
+________________________
+
+BETWEEN
+
+ 	HKSAR	Respondent
+ 	and	 
+ 	TAM TAK CHI (譚得志)	Applicant
+________________________
+
+Appeal Committee:	Mr Justice Ribeiro PJ, Mr Justice Fok PJ and Mr Justice Lam PJ
+Date of Hearing and Determination:	14 August 2024
+______________________
+
+DETERMINATION
+
+______________________
+
+Mr Justice Ribeiro PJ :
+
+1.  This is the Determination of the Appeal Committee. The applicant was charged with uttering seditious words contrary to section 10(1)(b) of the Crimes Ordinance (“CO”).[1]  He was convicted before HH Judge Stanley Chan[2] and his appeal was dismissed by the Court of Appeal[3] which then certified[4] the following questions:
+
+Are the offences identified in sections 9 and 10 [now repealed] of the Crimes Ordinance, Cap. 200 (“Offences”) indictable offences that must be tried in the Court of First Instance by a judge and jury under the requirements of the Second Schedule, Part I, Paragraph 5 [now repealed] of the Magistrates Ordinance, Cap. 227? (“Question 1”)
+
+Does proof of the Offences mean the prosecution has to prove an intention on the part of the defendant to incite third parties to violence or public disorder? (“Question 2”)
+
+If the answer to (2) is “No”, are the Offences unconstitutional because they constitute a disproportionate restriction on free speech or are not prescribed by law? (“Question 3”)
+
+As to Questions 1 and 2
+
+2.  We are satisfied that Question 1 (amended to refer to Part III instead of Part I of the Second Schedule) and Question 2 are of the requisite importance and grant leave to appeal in respect thereof.
+
+As to Question 3
+
+3.  The applicant seeks to argue that if proof of an intention to incite third parties to violence or public disorder is not a requirement of the offences created by CO sections 9 and 10, those offences[5] are constitutionally invalid for legal uncertainty and lack of proportionality.
+
+Legal certainty
+
+4.  The applicant contends that the language of the said offences is insufficiently certain to satisfy the requirement of Art 39 of the Basic Law that “[the] rights and freedoms enjoyed by Hong Kong residents shall not be restricted unless as prescribed by law”.
+
+5.  The approach to when legal certainty is sufficient to qualify as an operative “prescription by law” was summarised by Sir Anthony Mason NPJ in Mo Yuk Ping v HKSAR,[6] in relation to the offence of conspiracy to defraud as follows:
+
+“A criminal offence must be so clearly defined in law that it is accessible and formulated with sufficient precision to enable the citizen to foresee, if need be with appropriate advice, whether his course of conduct is lawful or unlawful. It is, however, accepted that absolute certainty is unattainable and would entail excessive rigidity. Hence it is recognised that a prescription by law inevitably may involve some degree of vagueness in the prescription which may require clarification by the courts.
+
+... [With] the common law, as with the interpretation of statute law, it is inevitable that questions continue to arise which require clarification by judicial decision. That is one reason why absolute certainty is unattainable and why some degree of vagueness is inherent in the formulation of laws, especially laws expressed in general terms.”
+
+6.  The applicant submits that:
+
+“The ambiguous nature of section 9(1) CO means that a person cannot regulate their conduct to avoid criminal liability, except by not exercising their right to free speech at all or self-censoring by guessing where legal boundaries might or might not exist.”[7]
+
+7.  The ambiguity is alleged to arise out of the subjective nature of the words used in CO section 9(1):
+
+“Section 9(1) CO describes ‘seditious intention’. It includes words such as ‘hatred’, ‘contempt’, ‘disaffection’, ‘discontent’, ‘feelings of ill-will and enmity’. Applying an objective standard to see whether speech engenders these subjective feelings is impossible. The speaker may not be able to predict the effect of words. In a pluralistic society where people are of different religious, racial and social backgrounds, standards of tolerance to kinds of political speech will vary widely. One person's political persuasion may lead to an outraged response (‘discontent’ or ‘hatred’) but have no effect on another person.”[8]
+
+8.  The challenge is misguided. Legal certainty is not assessed by looking at individual words taken out of context, especially in relation to an elaborately defined offence. As Sir Anthony Mason NPJ made plain, the question is whether the offence is formulated with sufficient precision to enable the individual to foresee, if need be with appropriate advice, whether a contemplated course of conduct is lawful or unlawful. It is the structure and content of the offence as a whole that must be examined.
+
+9.  CO sections 9 and 10 are set out in the Appendix to this Determination. Section 9 defines “seditious intention”. It does so in two parts. Section 9(1) lists seven varieties of intention which amount to seditious intention, each by reference to an unlawful intended consequence. For instance, section 9(1)(a) specifies that a person has a seditious intention if the intention is “to bring into hatred or contempt or to excite disaffection against the [CPG], or against the [HKSARG]”. Six other varieties of such seditious intention are listed. But that is not the end of the definition. Section 9(1) must be read together with section 9(2) which specifies when certain categories of intention are not seditious. Four such categories are listed. They cover situations where the individual advances what may be called constructive criticisms. CO section 10 completes the definition by defining certain acts done with seditious intention as offences. In the present case, it was alleged that the applicant had uttered seditious words – defined in CO section 10(5) as “words having a seditious intention”.
+
+10.  Section 9’s structure, involving the interplay between section 9(1) and section 9(2) provides a framework for the court to conduct a nuanced assessment of the defendant’s intention: does it fall within section 9(1) or might it better be viewed as falling within section 9(2)? The offence is designed to avoid excessive rigidity and relies on the courts to apply the concepts employed purposively and with discrimination. Such flexibility means that absolute certainty is unattainable and that the concepts used are necessarily colourable to a degree. That does not make the offence legally uncertain.
+
+11.  We do not in any event agree that the words used in section 9(1), read in context, are excessively vague, subjective or difficult to understand. A person will generally be able to judge, with legal advice if necessary, whether the intended consequences of their acts, viewed objectively, are likely to fall within one or more of the section 9(1) categories, enabling them to avoid such unlawful conduct.
+
+12.  We do not consider the “prescribed by law” challenge reasonably arguable.
+
+Proportionality - rational connection
+
+13.  The applicant states that he accepts that national security and public order are legitimate aims of the CO.[9] However, in asserting that the various limbs of “seditious intention” in section 9(1) are not rationally connected with those aims, he makes it clear that he attributes an extremely narrow meaning to “national security” and what constitutes a threat to national security:
+
+“As far as national security is concerned, it is questionable how the various limbs of ‘seditious intention’ under section 9(1) (except section 9(1)(f)) can directly threaten national security in that the HKSAR government or CPG’s political or territorial integrity would be endangered.”[10] (Italics supplied)
+
+14.  Thus, his contention is that for the impugned offences to be rationally connected to the legitimate aim of protecting national security, they must target acts accompanied by a seditious intention which involves a “direct” threat to “the HKSAR government or CPG’s political or territorial integrity”. No authority was provided for this view of what constitutes endangering national security.
+
+15.  If one adopts an excessively narrow definition of what is said to be the legitimate aim, the entire proportionality inquiry will be skewed. Impugned measures may be said to go beyond that narrow aim and so argued to be rationally unconnected with advancing that aim. Such measures may also be said to be more than reasonably necessary to achieve that aim.
+
+16.  It may be noted that the Safeguarding National Security Ordinance (“SNSO”)[11] section 4 defines “national security” much more broadly as follows:
+
+“In this Ordinance or any other Ordinance, a reference to national security is a reference to the status in which the state’s political regime, sovereignty, unity and territorial integrity, the welfare of the people, sustainable economic and social development, and other major interests of the state are relatively free from danger and internal or external threats, and the capability to maintain a sustained status of security.”
+
+17.  It is not for the Appeal Committee to decide whether that definition applies to the present rule challenge against CO sections 9 and 10. It suffices to note that it is arguably applicable since section 4 applies not just to the SNSO but also to “any other Ordinance”. Although repealed by the SNSO, CO continues in force as “another Ordinance” for the purposes of the present prosecution by virtue of section 23 of the Interpretation and General Clauses Ordinance.[12]
+
+18.  Section 4 in any event illustrates how conceptually narrow the applicant’s definition is. It is not at all apparent, for instance, why the threat to national security should have to endanger national security “directly” (whatever that may mean). Why should seditious intention be limited to an intention to threaten the political or territorial integrity of the PRC or HKSAR? Why should it not be legitimate to deem seditious an intention to bring into hatred or contempt or to excite disaffection against the CPG or HKSARG or the administration of justice in the HKSAR, or an intention to stir up discontent, disaffection, ill-will or enmity among inhabitants or different classes of the population or to incite them to disobey the law, as provided by CO section 9(1)? Especially in the light of the widespread social unrest experienced in 2019, would it not be rational to treat speech and publications disseminated with such intentions as threats to national security in that they may incite serious public disorder?
+
+19.  We therefore do not think it reasonably arguable that the offences lack a rational connection with the legitimate aim of protecting national security realistically conceived.
+
+Proportionality – no more than reasonably necessary
+
+20.  The next steps in the Hysan proportionality assessment[13] are also affected. The applicant seeks to argue that the CO offences exceed what is reasonably necessary for preventing or punishing acts endangering national security on the basis of the unwarrantedly narrow definition.
+
+21.  The applicant argues that proportionate restrictions on freedom of expression require acceptance of criticism.[14]  We agree, but lines must be drawn between constructive criticism and seditious incitement. It must be kept in mind that while guaranteeing freedom of expression, Article 16 of the Bill of Rights stipulates that exercise of such rights “carries with it special duties and responsibilities” and “may therefore be subject to certain restrictions” as “are provided by law and are necessary” (among other things) “for the protection of national security or of public order (ordre public)”. It is, in other words, acknowledged that the scope of free expression may legitimately be restricted to protect national security and public order.
+
+22.  As we have seen, section 9(2) is indeed designed to leave scope for lawful, constructive criticism which excludes liability under section 9(1). There will no doubt be room in a particular case to debate the nature and width of acceptable criticism and whether a given intention falls within section 9(1) or section 9(2). But, as noted above, the offence leaves this for judicial determination, which is itself a safeguard which militates in favour of satisfying the “no more than reasonably necessary” criterion. Adopting a more realistic view of what the legitimate aim of protecting national security may require, we cannot accept that the CO sections 9 and 10 offences constitute measures that exceed what is reasonably necessary.
+
+23.  Coming to the fourth Hysan step, there is no sustainable suggestion that constraints on an individual uttering words deemed to be seditious under CO sections 9 and 10 outweighs the societal interest in protecting national security.
+
+24.  We therefore do not consider the proportionality issue reasonably arguable.
+
+Conclusion
+
+25.  We grant leave on Questions 1 and 2 but consider Question 3 not reasonably arguable and refuse leave in respect thereof.
+
+26.  The appeal will be listed for hearing on 10 January 2025.
+
+ 
+
+ 
+
+(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge	(M H Lam)
+Permanent Judge
+ 
+
+Mr Philip Dykes SC, Mr Jeffrey Tam and Mr Ernie Tung, instructed by Ho Tse Wai & Partners, for the Applicant
+
+Mr Anthony Chau, DDPP and Ms Crystal Chan, SPP, of the Department of Justice, for the Respondent
+
+ 
+
+ 
+
+APPENDIX
+
+Crimes Ordinance (Cap. 200) [repealed 23.3.24 by SNSO section 139]
+
+Section 9 - Seditious intention
+
+(1)  A seditious intention is an intention–
+
+(a)  to bring into hatred or contempt or to excite disaffection against [the Central People’s Government (“CPG”)], or against [the Government of the Hong Kong Special Administrative Region (“HKSARG”)]; or
+
+(b)  to excite [the inhabitants of the Hong Kong Special Administrative Region (“HKSAR”)] to attempt to procure the alteration, otherwise than by lawful means, of any other matter in [the HKSAR] as by law established; or
+
+(c)  to bring into hatred or contempt or to excite disaffection against the administration of justice in [the HKSAR]; or
+
+(d)  to raise discontent or disaffection amongst [the inhabitants of the HKSAR];
+
+(e)  to promote feelings of ill-will and enmity between different classes of [the population of the HKSAR]; or
+
+(f)  to incite persons to violence; or
+
+(g)  to counsel disobedience to law or to any lawful order.
+
+(2)  An act, speech or publication is not seditious by reason only that it intends—
+
+(a)  to show that [the CPG, or the HKSARG] has been misled or mistaken in any of [their measures]; or
+
+(b)  to point out errors or defects in the government or constitution of [the HKSAR] as by law established or in legislation or in the administration of justice with a view to the remedying of such errors or defects; or
+
+(c)  to persuade [the inhabitants of the HKSAR] to attempt to procure by lawful means the alteration of any matter in [the HKSAR] as by law established; or
+
+(d)  to point out, with a view to their removal, any matters which are producing or have a tendency to produce feelings of ill-will and enmity between different classes of [the population of the HKSAR].”
+
+Section 10 - Offences
+
+(1)  Any person who –
+
+(a)  does or attempts to do, or makes any preparation to do, or conspires with any person to do, any act with a seditious intention; or
+
+(b)  utters any seditious words; or
+
+(c)  prints, publishes, sells, offers for sale, distributes, displays or reproduces any seditious publication; or
+
+(d)  imports any seditious publication, unless he has no reason to believe that it is seditious,
+
+shall be guilty of an offence and shall be liable for a first offence to a fine at level 2 and to imprisonment for 2 years and for a subsequent offence to imprisonment for 3 years; and any seditious publication shall be forfeited to [the CPG, or the HKSARG].
+
+(5) In this section—
+
+seditious words means words having a seditious intention.
+
+
+[1]  Cap 200 (Parts I and II, including section 10(1)(b), have since been repealed).
+
+[2]  [2022] HKDC 208.
+
+[3]  [2024] HKCA 231, Poon CJHC, Pang and Anthea Pang JJA.
+
+[4]  [2024] HKCA 649.
+
+[5]  Other than section 9(1)(f) which concerns an intention to incite violence.
+
+[6]  (2007) 10 HKCFAR 386 at §§61-63.
+
+[7]  ASkel§36.
+
+[8]  Form B at §54.
+
+[9]  ASkel§39.
+
+[10]  ASkel§40.
+
+[11]  Instrument A305.
+
+[12]  Cap 1. Section 23(d) and (e): “Where an Ordinance repeals in whole or in part any other Ordinance, the repeal shall not ... (d) affect any penalty, forfeiture or punishment incurred in respect of any offence committed against any Ordinance so repealed; or (e) affect any ... legal proceeding ... in respect of any such ... obligation, liability, penalty, forfeiture or punishment as aforesaid; and any such ... legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed, as if the repealing Ordinance had not been passed”.
+
+[13]  See Hysan Development Co Ltd v Town Planning Board (2016) 19 HKCFAR 372.
+
+[14]  ASkel§42.
+
+ 
+

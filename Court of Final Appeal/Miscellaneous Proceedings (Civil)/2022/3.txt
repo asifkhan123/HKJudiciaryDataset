@@ -1,0 +1,182 @@
+FAMV No. 70 of 2022
+
+[2022] HKCFA 8
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 70 OF 2022 (CIVIL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL
+
+FROM CACV NO. 545 OF 2019)
+
+____________________
+
+BETWEEN	 	 
+LAU CHUN MING	Plaintiff
+ 	 	(Applicant)
+and	
+DELOITTE TOUCHE TOHMATSU (a firm)	Defendant
+ 	 	(Respondent)
+____________________
+
+Appeal Committee: Chief Justice Cheung, Mr Justice Ribeiro PJ and Mr Justice Lam PJ
+
+Date of Hearing and Determination: 12 April 2022
+
+Date of Reasons for Determination: 20 April 2022
+
+________________________________
+
+REASONS FOR DETERMINATION
+
+________________________________
+
+The Appeal Committee:
+
+1.  We dismissed this application for leave to appeal at the conclusion of the hearing for reasons which we now provide. 
+
+A.     The claim
+
+2.  The applicant, Mr Lau Chun Ming (“Mr Lau”), is the plaintiff in the action.  He sues the respondent accounting firm, Deloitte Touche Tohmatsu (“Deloittes”), two of whose partners, Mr Lai Kar Yan and Mr Darach Haughey (“Messrs Lai and Haughey”), had been appointed trustees in bankruptcy of a Mr Ma Koon Sik (“the bankrupt”), for breach of contract.  Mr Lau’s case is that there was an implied term in a contract entered into between himself and Deloittes whereby the firm covenanted to ensure that Messrs Lai and Haughey would act with reasonable care and skill as trustees of the bankrupt estate and conduct appropriate investigations regarding the bankrupt’s property.  His complaint is based on the fact that trustees who succeeded Messrs Lai and Haughey identified and brought claims concerning such property which met with limitation defences, leading to a settlement judged by him to be insufficient.  He alleges that those claims would not have been time-barred if Messrs Lai and Haughey, acting with reasonable skill and care, had timeously investigated and brought such claims while in office as trustees.
+
+B.     The judgments below
+
+3.  At the trial, Ng J[1] dismissed Mr Lau’s claim, holding that the contract between the parties did not contain the implied term alleged.  He also held that, even if there was such a term, its breach had not been demonstrated.  Additionally, he held that a release given to the trustees pursuant to section 94 of the Bankruptcy Ordinance (“BO”)[2] also released the respondent firm from any alleged contractual liability.  Mr Lau’s appeal to the Court of Appeal was dismissed,[3] the Court agreeing with the Judge’s conclusions.  Leave to appeal to this Court was refused.[4]
+
+C.     This leave application
+
+4.  In the present application for leave to appeal, Mr Lau proposes five questions said to be of great general or public importance which are set out in the Appendix to these Reasons. Questions 1 and 2 seek to challenge the rejection by the Courts below of the argument that the term in question ought to be implied by operation of law. Question 3 seeks to put in issue the reasoning behind the conclusion that even if such a term could be implied, there was no breach.  And Questions 4 and 5 endeavour to dispute the conclusion that BO section 94 in any event discharges Deloittes (and not just Messrs Lai and Haughey) from all liability, including any contractual liability, in connection with any default in the administration of the affairs of the bankrupt. 
+
+5.  It is evident that the fundamental issue is whether Mr Lau is able to establish a contractual obligation of the type he alleges, binding on Deloittes.  All the proposed Questions (and also the related “or otherwise” ground advanced) depend on this. In our judgment, his application fails to clear this initial hurdle since it is not reasonably arguable that such a contractual obligation exists.
+
+D.     The contractual obligation alleged  
+
+6.  It is centrally important to note that the claim being mounted by Mr Lau is brought solely for his own benefit against Deloittes, not subject to the supervision of the bankruptcy court.  Thus, he argues:
+
+(a)  “In this respect the Plaintiff’s payment liability to the firm in contract is not subject to the supervision of the Bankruptcy court on the charges of the 1st Trustees. Whatever remedy is obtained under the BO benefits the entirety of the estate and all its creditors while the creditor having a separate contract with the firm is entitled to seek compensation against the firm should the firm be in breach of the terms of the contract.”[5]
+
+(b)  “... whatever remedy is obtained under the BO, the benefits are for the entirety of the estate and its creditors. In contrast to the Contract, breach of the Implied Term entitles only the Plaintiff as the only contractual party entitled to enforce the contract to seek compensation against the Defendant. There is a clear rationale behind the Implied Term, especially for majority creditors who are the sole provider of funds to the trustees. They are the ones paying for their services and they should primarily be compensated if the trustees do a bad job. Hence, there is entirely no reason why contractual duties cannot be agreed between commercial parties and co-exist alongside both the BO and partnership law or otherwise.”[6]
+
+(c)  It is also evident from Questions 4 and 5 which emphasise that they concern duties under “a separate contract” between a creditor and Deloittes.
+
+7.  The starting-point should therefore be to examine the agreement entered into between Mr Lau and Deloittes.  It is, on Mr Lau’s case, contained in or evidenced by a letter dated 16 October 2002.  It is very different from the agreement entered into between the plaintiff and Grant Thornton (“GT”) in A & J Fabrications Ltd v Grant Thornton,[7] heavily (indeed almost exclusively) relied on by Mr Lau.  In that case, GT expressly undertook to the plaintiff that in consideration of an initial payment of £5,000, GT:
+
+“... would investigate, and would encourage and assist the Official Receiver to investigate, the trading history of the company and the financial affairs of the company and the conduct of the directors of the company in order to ascertain, evaluate and advise the Plaintiff concerning the claims available to be made and the proceedings available to be taken against the directors of the company and others, including in particular Messrs. Sully & Company, so that the assets of the company could be secured and realised and distributed to creditors of the company, including and in particular the Plaintiff.”[8]
+
+8.  Thus, GT expressly undertook an investigative, etc, obligation, and it is quite understandable that Jacob J thought it perfectly arguable (this being a striking out case) that in carrying out those functions, the trustees were impliedly subject to a duty to perform those tasks with reasonable skill and care.[9]  We might add that in A & J Fabrications, as is made clear from the passage cited, the claim was advanced, not just for the plaintiff’s sole benefit, but for the benefit of the creditors and estate as a whole.
+
+9.  But in the present case, under the pleaded contract, Deloittes undertook merely to provide:
+
+“... two of our firm’s partners/persons-in-charge (namely Lai Kar Yan and Darach E Haughey) as the joint and several trustees of the relevant bankruptcy case and in addition, to assist you to deal with the assets under Mr Ma’s name as charged by you.”[10]
+
+10.  The agreement therefore had two aspects with Deloittes agreeing (i) to provide two partners to act as trustees; and (ii) to help Mr Lau to deal with the charged assets.  Unlike in A & J Fabrications there was no mention of any investigation, advice or bringing of proceedings against anyone.  What then is the basis of the contractual obligation sued on?
+
+11.  Mr Lau seeks to argue that the term pleaded in paragraph 8 of the re-amended statement of claim is to be implied by operation of law (although the pleading also refers to business efficacy).  Paragraph 8 states as follows:
+
+“It was an implied term (‘the Implied Term’) of the Contract to give the same business efficacy and/or by operation of law that the Defendant covenanted that Lai Kar Yan and Darach Haughey, who only took their positions as the Trustees by virtue of the Contract, and each of them undertook to carry out or otherwise perform their duties with proper skill and competence and in a reasonable manner and/or reasonable care and skill as trustees in bankruptcy should be including but without limiting the following:-
+
+(a) Investigating, conducting searches and/or making inquiries as may be necessary and with due expedition and diligence to ascertain, locate, trace and/or recover the estate and/or property of the Bankrupt.
+
+(b) Reporting to and/or keeping the Plaintiff informed of, among other things, the possible claims, actions and/or proceedings for recovering, securing and/or realizing the estate and/or property of the Bankrupt and their respective limitation periods.
+
+(c) Bringing and/or instituting claims, actions and/or proceedings for recovering, securing and/or realizing the estate and/or property of the Bankrupt and with due expedition and diligence within the limitation periods or otherwise so as not to render the same time barred or barred due to laches, acquiescence and delay.”
+
+12.  The pleaded term is thus not about implying the standard of skill and care required in the performance of an expressly agreed investigative duty.  It suggests that one can contractually imply a substantive investigative duty as implicit within a duty to use reasonable professional skill and care.  Moreover, as stated above, it is sought to imply this as an obligation owed solely to Mr Lau and not to the creditors or the estate as a whole.[11]  It is sought to be argued that implication of such an investigative duty arises as an intrinsic incident of the relationship between the parties to the contract.
+
+13.  However, as appears from the face of the agreement, Deloittes agreed merely to assign two partners to assume the functions and responsibilities of trustees in bankruptcy, ie, to act in accordance with the statutory code in the BO governing the activities of such trustees.  It is a highly detailed code which proceeds on an entirely different basis from Mr Lau’s personal claim.  It governs the appointment by the creditors of trustees who are to perform defined tasks for the benefit of the creditors and the estate as a whole, under the control of the court and taking directions from the creditors’ committee or creditors in general meeting.  The trustees are remunerated by the creditors and seek to secure, administer and distribute the bankrupt’s property amongst them as a body, owing fiduciary duties to them and owing duties to the court.  The bankrupt is obliged to cooperate and to disclose his property, facing penalties for default.  In other words, the Ordinance lays down a scheme which collectively involves the court, the trustees, the creditors and the bankrupt to regulate the consequences of the insolvency.  It is obviously qualitatively different from Mr Lau’s personal contractual claim.
+
+14.  On the agreement’s true construction, what Deloittes agreed to do (apart from dealing with the assets charged by Mr Lau) was to make available two partners to act as trustees in bankruptcy in accordance with the abovementioned statutory scheme.  It is impossible to see any basis for contending that Deloittes contracted to be bound by the pleaded duties purportedly to be implied. 
+
+15.  Ng J[12] and the Court of Appeal[13] similarly held that the relevant contract was simply for Deloittes to provide partners to act as trustees in bankruptcy to administer the insolvent estate and that, given the extensive statutory code and remedies regulating their conduct, there was no necessity or other basis for implying the pleaded term.
+
+E.     Not about default under the BO
+
+16.  It should be observed that no claim is or was made under the BO against either Messrs Lai and Haughey or Deloittes in connection with their administration of the bankrupt estate.  The BO provides various investigative mechanisms and enables creditors to apply to the court for directions requiring such investigations if appropriate.  Trustees in default are potentially subject to sanctions and, where no allegations of default are made, the court orders retiring trustees to be released from all potential liability as it did in the present case.
+
+17.  Thus, the duty rests in the first place on the bankrupt to make disclosure of all assets.  And the trustees are armed with various powers of investigation considered appropriate, for example to apply to the court for orders requiring persons with relevant information about the bankrupt’s property to produce the same (section 29). However, all such powers are exercisable for the benefit of the creditors and estate as a whole and not for the sole benefit of individual creditors.
+
+18.  Then again, the trustees need the permission of the creditors’ committee to “bring, institute or defend any action or other legal proceeding relating to the property of the bankrupt”; and to “employ a solicitor or other agent to take any proceedings … which may be sanctioned by the creditors’ committee”, such permission not being in general terms but “only ... a permission to do the particular thing or things for which permission is sought in the specified case or cases” (BO section 61(b) and (c)).  In all these matters, the trustees act under the court’s control and are empowered to apply for directions regarding any proposed exercise of their powers (section 61A).  Mr Lau argues that a duty was owed to him personally by Deloittes to advise or cause such proceedings to be brought for his own benefit outside the BO scheme and without reference to the creditors or the court.  But Deloittes obviously had no standing to bring such proceedings independently and if any such proceedings were thought advisable, they could only be brought by the trustees on behalf of the estate with the approval of the creditors or the court for the benefit of the estate.
+
+19.  BO section 84 does lay down a requirement of good faith, skill and competence as follows:
+
+“(1) The court shall take cognizance of the conduct of trustees, who shall act in a fiduciary capacity and deal with property under their control honestly, in good faith, with proper skill and competence and in a reasonable manner, and in the event of any trustee not faithfully performing his duties and duly observing all the requirements imposed on him by Ordinance, rules or otherwise with respect to the performance of his duties, or in the event of any complaint being made to the court by any creditor, the Official Receiver, the bankrupt or any other person in regard thereto by notice duly served on the trustee at least 8 clear days before the date of hearing, the court shall inquire into the matter and take such action thereon as may be deemed expedient.
+
+(1A)     Without limiting the generality of the duties imposed on a trustee by subsection (1), in realizing the assets of a bankrupt’s estate it shall be the duty of a trustee to take all reasonable care to realize the best price reasonably obtainable in the circumstances.”
+
+20.  These provisions spell out substantive duties laid on trustees regarding their dealing with the properties under their control.  By section 84(4) a remedy against a defaulting trustee is made available for the benefit of the estate.  No allegations of such default have been made against Messrs Lai and Haughey or Deloittes.
+
+21.  BO section 94 materially provides:
+
+“(1) When the trustee has ... resigned or has been removed from his office, he shall apply to the court for his release, and if all the requirements of the court with respect to accounts and with respect to any order of the court against the trustee have been fulfilled, the court may make an order for release accordingly.
+
+(2) Where the release of a trustee is withheld the court may, on the application of any creditor or person interested, make such order as it thinks just, charging the trustee with the consequences of any act or default he may have done or made contrary to his duty.
+
+(3) An order of the court releasing the trustee shall discharge him from all liability in respect of any act done or default made by him in the administration of the affairs of the bankrupt, or otherwise in relation to his conduct as trustee, but any such order may be revoked on proof that it was obtained by fraud or by suppression or concealment of any material fact.”
+
+22.  When Messrs Lai and Haughey were replaced, they informed Mr Lau that they would seek a release.[14] Neither he nor any other creditor opposed such release (as is possible under section 94(2)), and the order was duly made.  There is no question of there being any ground for revocation.
+
+23.  An appreciation of the BO’s scheme highlights the untenable nature of Mr Lau’s purported personal claim. Deloittes did not contract with him, whether expressly or impliedly to do the things which he alleges that they wrongly failed to do.  They undertook, through Messrs Lai and Haughey, the functions and obligations of trustees in bankruptcy under the statutory scheme and they were released from any liabilities arising therefrom, there having been no allegations of default or opposition to such release. 
+
+24.  Accordingly, the other questions put forward by the applicant do not arise.  Question 3 as to whether there was a breach would not in any event have merited leave since this posits a fact-sensitive question covered by concurrent findings below.  Leave would also be refused regarding Questions 4 and 5.  No complaint was made against Messrs Lai and Haughey under the BO scheme and a release was ordered by the court without opposition.  On Mr Lau’s separate claim against Deloittes, the alleged contractual obligation did not exist so that the relevance of a release in respect of that obligation does not arise.
+
+25.  It follows that the application for leave to appeal in respect of the five Questions and the related “or otherwise” ground, is not reasonably arguable and had to be dismissed with costs.
+
+ 
+
+ 
+
+(Andrew Cheung)	(R A V Ribeiro)	(M H Lam)
+Chief Justice	Permanent Judge	Permanent Judge
+ 
+
+Mr Edward Chan SC and Ms Queenie W S Ng, instructed by K H Lam & Co., for the Plaintiff (Applicant)
+
+Mr Charles Manzoni SC, instructed by O’ Melveny & Myers, for the Defendant (Respondent)
+
+APPENDIX
+
+Proposed Questions
+
+1.  Whether the Implied Term (set out in §8 of the CA Judgment) should be implied in law into this class of relationship where a professional firm contracted with the creditor to put the firm’s partner(s) or person(s)-in-charge up as trustee(s) in bankruptcy (“Question 1”);
+
+2.  Whether the protection to creditor under the Bankruptcy Ordinance, Cap.6 (“BO”) and the law of partnership in respect of wrongful acts of the trustees prevents the necessity of contractual duty from running in parallel and/or precludes the necessity of implying the Implied Term (“Question 2”); 
+
+3.  Whether the duty to advise client of any potential claim when the information pertaining to such potential claim has already been available and/or obtained by the firm themselves ought to be constrained or otherwise left in abeyance by limited funds (not admitted by the Plaintiff in trial and in the Court of Appeal) or creditor’s refusal to provide necessary funding (not admitted by the Plaintiff in trial and in the Court of Appeal) with the trustees taking no action at all (“Question 3”);
+
+4.  Whether the effect of the Release Order under Section 94 of the BO extends to a sole owner of the firm or partner(s) of the firm or employee(s) of the firm even if the trustee is a person from the firm which entered into a separate contract with the creditor to put up a partner or person-in-charge of the firm as trustee (“Question 4”);
+
+5.  Whether the effect of the Release Order has the effect of expunging the contractual duty owed by the firm to the creditor arising from the said separate contract when the creditor was separately charged by the firm for the services rendered by the firm (“Question 5”). 
+
+[1] [2019] HKCFI 2722 (1 November 2019).
+
+[2] Cap 6.
+
+[3] Kwan VP, Cheung JA and G Lam J [2021] HKCA 546 (23 April 2021).
+
+[4] [2022] HKCA 10 (7 January 2022).
+
+[5] Form B §13.
+
+[6] Ibid §19.
+
+[7] [1998] 2 BCLC 227.
+
+[8] Ibid at 229.
+
+[9] In Kyrris v Oldham [2004] 1 BCLC 305 at §§150-163, the English Court of Appeal struck out a claim on the basis that in the absence of some special relationship, administrators of an insolvent partnership appointed under the Insolvency Act 1986 owed no general common law duty of care to unsecured creditors in relation to the conduct of the administration and emphasised the limited scope of Jacob J’s judgment.
+
+[10]   CFI§12.
+
+[11] In analogous company winding-up cases, such a claim has been held to be unsustainable.  In Grand Gain Investment Ltd v Borrelli [2006] HKCU 872, liquidators were sued by a creditor for an alleged failure to obtain a proper price for the sale of an asset of the company in liquidation. Barma J, following Kyrris v Oldham, ordered the individual creditor’s claim to be struck out as being “plainly and obviously unsustainable” (at §§46 and 62).  His Lordship’s decision was approved by the Privy Council in Hague v Nam Tai Electronics [2008] UKPC 13 at §§13-14, Lord Scott of Foscote holding that: “It is well arguable that the duties owed by a liquidator in an insolvent liquidation are owed also to the creditors as a class. Nam Tai may be the most substantial creditor of TAI by some distance but is nonetheless only one member of the class. A culpable failure by a liquidator to collect in or preserve or take control of the assets of a company in liquidation may diminish the value of the fund available for distribution pro rata among the creditors but is not, in their Lordships’ opinion, a breach of a duty owed to each creditor as an individual.”
+
+[12] CFI§§61-67.
+
+[13] CA§§38-41.
+
+[14] CA§5.
+
+ 
+

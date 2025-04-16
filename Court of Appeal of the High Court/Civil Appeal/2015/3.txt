@@ -1,0 +1,185 @@
+CACV 2/2015
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO 2 OF 2015
+
+(ON APPEAL FROM HCA 422 OF 2011)
+
+---------------------------
+
+BETWEEN
+
+ 	LAU TIN CHEUNG	Plaintiff
+ 	 	(Respondent)
+and
+
+ 	TIANJIN DEVELOPMENT HOLDINGS LIMITED	Defendant
+(Appellant)
+---------------------------
+
+Before: Hon Cheung JA, Kwan JA and Barma JA in Court
+Date of Hearing: 13 October 2015
+Date of Judgment: 13 October 2015
+Date of Handing Down Reasons for Judgment: 27 October 2017
+__________________________
+
+REASONS FOR JUDGMENT
+
+__________________________
+
+Hon Cheung JA:
+
+1.  I agree with the Reasons for Judgment of Barma JA.
+
+ 
+
+Hon Kwan JA:
+
+2.  I agree with the Reasons for Judgment of Barma JA.
+
+ 
+
+Hon Barma JA:
+
+3.  This was an appeal by the defendant, Tianjin Development Holdings Limited, against the judgment of Deputy High Court Judge Sakhrani dated 12 December 2014, by which he gave judgment in favour of the plaintiff, Mr Lau Tin Cheung, awarded him damages of HK$2,046,000 with interest, and ordered the defendant to pay the costs of the proceedings.  At the conclusion of the hearing, we dismissed the appeal, with costs to the plaintiff.  These are our reasons for doing so.
+
+The background
+
+4.  The action concerned the alleged breach by the defendant of the plaintiff’s employment contract, by failing to offer the plaintiff an option to subscribe for 600,000 shares in the defendant upon successful completion of the plaintiff’s probation period.  The factual background to the proceedings can be summarised as follows:
+
+(1) The plaintiff was employed as from 27 October 2008 by the defendant, a company listed on the Hong Kong Stock Exchange, as a project investment director, under an employment contract (in Chinese) dated 5 September 2008.
+
+(2) The contract provided for a probationary employment period of three months, which the plaintiff duly completed.
+
+(3) Clause 8 of the contract (translated into English) was in the following terms[1]:
+
+“Share option: Our company agrees, after expiration of the probation, to accept the Employee’s internal subscription for share options issued by the Company, the number of the shares is 600,000, The offering price is subject to Listing Rules of SEHK and approval of the board of directors, at the same time to be processed according to the unified regulations of the Company. Such share options are personal beneficial interests.”
+
+(4) At the material times, the defendant did have a Share Option Scheme (“the Scheme”), which had been adopted on 25 May 2007.  The Scheme document ran to some 16 pages, and contained detailed provisions regarding the operation of the Scheme.  The plaintiff said, and the judge accepted, that he was not shown this document prior to entering into his employment contract with the defendant.
+
+(5) During the plaintiff’s period of probationary appointment, initial steps were taken by the defendant towards offering an option to subscribe for 600,000 shares in the Company.  A board meeting was held on 28 November 2008 at which it was resolved to delegate the board’s power to grant such a share option to a committee of two directors, subject to satisfactory completion by the plaintiff of the period of probation, and the endorsement of the defendant’s Remuneration Committee.  It appears that such endorsement was forthcoming on 17 December 2008.  According to the evidence of the former assistant company secretary of the defendant, draft documentation relating to the grant of the share option was prepared in around February 2009.  However, notwithstanding this, no further steps were taken in respect of the grant of the share option, and no offer of such an option was ever actually made to the plaintiff.
+
+(6) The plaintiff continued to work for the defendant after completion of the probation period, until he was given notice of the termination of his employment on 25 November 2010.  It is common ground that the effective date on which his employment was terminated was 29 November 2010.
+
+(7) Following the termination of his employment, the plaintiff commenced these proceedings against the defendant, alleging that the defendant was in breach of the employment contract as it had failed or refused to grant him the share options to subscribe for 600,000 shares in the defendant promised under clause 8 of the employment contract, and claiming damages for such breach.  The plaintiff also alleged that the defendant was in breach of the Employment Ordinance (Cap 57) by failing to pay him all of his entitlements upon the termination of his employment, which he said came to some HK$325,030.73.
+
+(8) The plaintiff succeeded in obtaining summary judgment for part of the claim in respect of entitlements under the Employment Ordinance, and the remainder of that claim was subsequently disposed of, as the plaintiff did not pursue it at the trial.  Thus, the only claim which remained to be dealt with at the trial was the claim for damages for breach of contract by failing or refusing to grant the share options.
+
+5.  As to this, the parties agreed that the issues for determination were:
+
+(1) In relation to liability, whether the defendant was in breach of the contract of employment in failing to grant the share options to the plaintiff.  More particularly, whether on the proper interpretation of clause 8, the plaintiff was entitled to be granted the share options on completion of his probation, or whether the plaintiff was only entitled to apply for the grant of the share options, the issuance of which was subject to the defendant’s approval, at the discretion of its board of directors (and if so, whether such approval was given).
+
+(2) As to damages, whether the plaintiff had suffered any loss or damage as a result of the defendant’s alleged breach.  More particularly, whether the plaintiff’s loss was HK$2,508,000 (as claimed by the plaintiff) or any other amount.
+
+The proceedings below
+
+6.  In relation to liability, the question for the judge was essentially whether the defendant had bound itself by clause 8 to grant the share options to the plaintiff, or whether the grant of such share options remained in the discretion of the defendant’s board of directors.  In the court below, the defendant argued that the latter was the correct interpretation of clause 8, a conclusion it said followed from the reference in clause 8 to the “unified regulations of the company” which, the defendant contended, had the effect of importing the entirety of the Scheme, including provisions which stated that whether or not an offer of an option to subscribe for shares in the defendant was to be made was a matter for the discretion of the directors.
+
+7.  The judge rejected this contention.  He held that the reference to the “unified regulations of the company” did not have the effect contended for by the defendant (i.e. of importing all the provisions of the Scheme, including those relating to the directors’ discretion whether or not to offer an option to subscribe for shares).  He held that the effect of clause 8 was to require the defendant to make such offer, or to grant the share option promised, upon completion of the period of probation, and that the reference to the “unified regulations of the company” only meant that the procedure for the grant of the share option and for setting its price and any other terms should be in accordance with the Scheme, which provided a mechanism for setting the minimum exercise price of the option by reference to the market value of the defendant’s shares in the period immediately preceding the offer of the option, and stipulated how the offer should be made, how it was to be accepted, and how it was to be exercised.
+
+8.  The judge went on to hold that as the defendant had never offered or granted an option to acquire 600,000 shares to the plaintiff, notwithstanding the completion of the period of probation, the defendant was in breach of its obligations under clause 8 of the contract.
+
+9.  The judge then dealt with the question of what damages should be awarded in respect of the breach.  The plaintiff suggested that the damages should be calculated by deducting the subscription price of the shares (which the plaintiff said would have been HK$2.44 per share, based on clause 6 of the Scheme) from the closing price of the shares on 31 January 2011, (the date when the plaintiff commenced proceedings in the Labour Tribunal for breach of the contract), which was HK$6.62.  On the basis of an option to subscribe for 600,000 shares, this would have resulted in damages of HK$2,508,000.  However, at the trial, Mr Lam (who appeared for the plaintiff at trial and on this appeal) submitted that it would be more appropriate to have regard to the closing price of the shares on the date of termination of the plaintiff’s employment (29 November 2010), when the closing price was HK$5.85, resulting in the quantification of the plaintiff’s damages at HK$2,046,000 (HK$5.85 minus HK$2.44 multiplied by 600,000).
+
+10.  Mr Shum, who appeared for the defendant below, did not appear to take issue with the method of calculation, but submitted that no damages should be awarded, as the plaintiff had failed to prove when he would have exercised the share options, had they been granted to him, and had also failed to prove whether he had the means to pay for the allotment of the shares at that time. 
+
+11.  In relation to the first of these propositions, Mr Shum argued that it should be assumed that the defendant would have complied with its obligations in the way most beneficial to itself (and least beneficial to the plaintiff), so that it could have offered the share option at a price far higher than market value, making it unlikely that the plaintiff would have exercised the option, had it been granted.
+
+12.  In support of the latter proposition, Mr Shum relied on Zhang Jianhe v Citic 21CN Company Limited (unreported, HCA 1968/2006, 23 June 2009, DHCJ Au (as he then was)), where, on a plaintiff’s claim for damages for wrongful failure to issue shares on the exercise by him of a share option granted to him, it was held that although the defendant was in breach, the plaintiff had failed to prove that he had suffered any damages as he had not demonstrated that he had the means to pay for the shares which should have been allotted to him.
+
+13.  The judge rejected both of these arguments.  As to the first argument, the judge noted that in all other instances in which the defendant had offered share options, it had fixed the exercise price in accordance with clause 6 of the Scheme, by taking the closing price on the date of the offer where that was a trading day, or the average of the last five trading days’ closing price where the date of the offer was not a trading day, and held that there was no reason to think that the defendant would have done differently had it honoured its obligations under the contract with the plaintiff.  As to the second argument, the judge distinguished the Zhang case, pointing out that there, an option had been granted and exercised, and the breach consisted of a failure to allot the shares that should have been issued to the claimant.
+
+14.  The judge accepted Mr Lam’s submission that the object of the exercise was to ascertain the value of the option that the plaintiff should have been, but was not, granted.  He further accepted that this could be achieved by the application of the formula put forward by the plaintiff, and adopting the date of the plaintiff’s termination of employment as the appropriate date to be used for the purpose of that formula.  He accordingly awarded the plaintiff damages of HK$2,046,000, with interest.
+
+15.  Finally, the judge made a costs order nisi requiring that the defendant pay the plaintiff’s costs of the proceedings on a party and party basis.  The defendant did not seek to vary the costs order nisi.
+
+The grounds of appeal
+
+16.  On appeal, the defendant raised four grounds of appeal.  These were summarised in the defendant’s skeleton argument as follows:
+
+(1) The judge erred in holding that upon the proper construction of clause 8 of the contract, the defendant was obliged to grant the Share Options to the plaintiff upon completion of probation.
+
+(2) The judge erred in relying on contradictory reasoning when interpreting clause 8, in that while rejecting the evidence of the parties’ post-contractual conduct as irrelevant and inadmissible for the purposes of construing the contract, he nonetheless took subsequent events and conduct into account in coming to his conclusion on the interpretation of clause 8.
+
+(3) The judge erred in holding that the date of termination of the plaintiff’s employment was the date at which damages should be assessed (i.e. the time when the plaintiff would have sold the shares obtained by conversion of the Share Options), when (a) the plaintiff had not adduced any evidence on any of the elements relating to proof of loss and (b) when the plaintiff had never pleaded that date in support of his case and had relied on some other date in his particulars and opening.
+
+(4) The judge erred in ordering the defendant to pay the whole costs of the action to the plaintiff, when the plaintiff had not pursued part of its claims.
+
+17.  The first two grounds go to the question of liability, the third to the question of damages, and the fourth to the question of costs.  I shall deal with each of these in turn.
+
+Ground 1: The proper construction of clause 8
+
+18.  The first ground relates to the proper construction of clause 8 of the contract.  As advanced in the skeleton argument of the defendant, the argument was that the judge should have accepted that the entirety of the Scheme, including the discretion vested in the defendant’s board whether or not to make an offer of share options at all, was imported into the contract as a result of the reference to the “unified regulations” of the defendant.  As I have noted, the judge declined to accept this argument, holding that this reference only served to bring in the procedural elements of the Scheme relating to such matters as the fixing of the price, the format of the offer, the mode of acceptance and the means of exercise, but not the provisions of the Scheme which left it to the discretion of the board whether or not to make an offer in the first place.
+
+19.  In my view, the judge was clearly right to construe clause 8 as he did.  To accede to the argument of the defendant would have been to deprive the first part of the clause, by which the defendant had agreed to accept the plaintiff’s subscription for share options relating to 600,000 shares upon completion of his probationary period of employment, of any real content in the nature of an obligation.  On the basis of the interpretation proposed by the defendant, it would only have agreed that its board would, at the end of the plaintiff’s probation, consider whether or not to make an offer of share options to the plaintiff, without any obligation to actually make such an offer.  That is, to my mind, inconsistent with the plain meaning of the opening words of clause 8.
+
+20.  I do not think there is any inconsistency in accepting, as the judge did, that while certain parts of the Scheme (namely those relating to the fixing of the offer price for the share options, the mechanics of making and accepting the offer, and the exercise of the options) were to apply to the options to be granted, but that other parts of the Scheme, relating to whether or not options should be granted in the first place, were not.  There is nothing inherently improbable in the parties agreeing that certain provisions in the Scheme should apply in respect of the Share Options which the defendant had, by clause 8, agreed to grant to the plaintiff, while not importing every single provision in the Scheme, particularly where the provisions not imported were, as I have explained in the previous paragraph, inconsistent with the obligation assumed by the defendant under clause 8.
+
+21.  At the hearing, Mr Ho SC (who did not appear for the defendant below) suggested that the only obligation on the defendant was to enable the plaintiff to make an application for a subscription for share options, and that this was different from what the plaintiff had alleged, which was that there had been a failure to grant share options to him.  With respect, this takes the defendant nowhere, as the fact is that, even if the obligation were to be so characterised, at no time did the defendant comply with such an obligation and put the plaintiff in a position to make such an application, as it never offered him the opportunity to subscribe for the promised share options in the first place, as it never made an offer to issue share options which the plaintiff could have accepted.
+
+22.  For these reasons, I would reject the first ground of appeal relied upon by the defendant.
+
+Ground 2: Use of post-contractual events to construe clause 8
+
+23.  As to the second ground of appeal, the argument was that having disavowed the appropriateness of having regard to post-contractual material for the purpose of construing the contract, the judge in fact had regard to evidence of events which occurred after the making of the contract, namely evidence that the defendant’s board had resolved to grant the options to the plaintiff subject to the endorsement of the defendant’s Remuneration Committee, and evidence that steps had been taken towards the preparation of the necessary documentation in connection with the offer of a share option, which ultimately came to nothing.
+
+24.  It is true that the judge mentioned these matters in his judgment.  However, it seems tolerably clear that he did not in fact take them into account when construing clause 8 of the contract.  The judge expressly stated that it was inappropriate to take post-contractual material into account for the purpose of construing the contract.  This was said in the context of an argument by the defendant that the contract should be construed in the manner suggested by the defendant because the plaintiff had not asserted a claim for the value of the share options immediately upon the termination of his employment, but only did so some two weeks later.  Not surprisingly, the judge did not regard this slight delay as significant.  But more pertinently, he held that it was not admissible for the purpose of construing the contract, which had been entered into much earlier.  There is no reason to think that the judge, having correctly stated this proposition in paragraph 53 of his judgment, immediately forgot about it and had regard to other post-contractual material, mentioned in the following paragraphs, in order to construe the contract. Indeed, the judge had already concluded earlier in his judgment (at paragraph 48) that the contract, properly construed, obliged the defendant to make the share options available to the plaintiff upon completion of his probationary period of employment.  For the reasons explained above in relation to the first ground of appeal, I am satisfied that that conclusion is clearly correct. It follows that the second ground of appeal also fails.
+
+Ground 3: Valuation of the share options
+
+25.  Turning to the third ground of appeal, the complaint is that the judge was wrong to have adopted the value of shares in the defendant as at the date of termination as the reference point for assessing the value of what the plaintiff had lost by not being given (or provided with the opportunity to acquire) the share options that he had been promised.  In the defendant’s notice of appeal, the complaint is put on two bases – first, that the plaintiff had allegedly failed to prove any of the elements that were necessary to enable his loss to be quantified, and second that the date that the plaintiff ultimately contended for was not one which had ever been pleaded, and was put forward only at the stage of closing submissions.
+
+26.  With respect, I do not think that the judge erred in adopting the method of quantification that he did.  It is necessary to bear in mind that the defendant’s breach was its failure to offer the share options to the plaintiff upon completion of the probationary period of employment.  As a result, the plaintiff was never given the opportunity to obtain the share options, or to exercise them, or to eventually realise the shares that they would have entitled him to acquire.  The question was one of the value of the share options not provided to the plaintiff – this was a question that could only be answered by considering the likely course of events that would have followed upon the share options being offered to the plaintiff.  As the share options were not in fact offered to the plaintiff, these events were necessarily hypothetical, and as such, admitted at various stages of a range of possible answers.  Indeed, the value of the share options would fluctuate over time depending on the market price of the shares.  In my view, by assessing the plaintiff’s damages as he did, the judge was in effect answering this question.  Provided that the answer that he reached was justified on the material available to him, it is not one about which the defendant can complain.
+
+27.  In my view, the answer that the judge gave – that the value of the option was to be assessed at HK$2,046,000 – is one that he was entitled to reach.  As I have noted, the defendant wrongfully failed to make available the promised share options to the plaintiff at all.  Had it complied with its obligation, it would have offered the plaintiff, at or shortly after the completion of his probation, the opportunity to acquire an option to subscribe for 600,000 shares in the defendant.  Under the Scheme, this would have been done by issuing an offer of such an option which could be acquired for HK$1.  The offer would have specified the exercise price of the option, and it would thus be necessary to come to a view as to what the exercise price would be.  If the plaintiff acquired the option by paying the HK$1, it would be necessary to consider whether and when he might have exercised the option, and whether and when, and at what price, he might have disposed of the shares acquired by such exercise – this being the means by which the value to him of the option (namely the difference between the exercise price and the market price of the shares) could be realised.
+
+28.  Had the defendant offered the plaintiff an option to subscribe for 600,000 shares, as it was obliged to do, the first question for consideration would be what the exercise price would have been.  The available evidence showed that on previous occasions when the defendant had granted share options, it had set the exercise price in accordance with clauses 6(a) and (b) of the Scheme – by taking the closing price of the shares on the day of the offer, or where that was not a trading day, the average of the closing price on the last five trading days. That would yield an exercise price of HK$2.44, which was the figure the judge adopted.
+
+29.  The next question would be whether or not the plaintiff would have accepted the offer and acquired the option.  Given that the price for doing so, on the basis of the procedure prescribed under the Scheme, was a nominal one (HK$1), there is no reason to think that the plaintiff would not have done so.  While the market value of the shares would, at this point, be the same (or very nearly the same) as the exercise price, it is clearly reasonable to think that the defendant would acquire the option, as it would enable him at a future date to take advantage of a rise in the market value of the shares, for a purely nominal cost.
+
+30.  It would then be necessary to consider whether and when the plaintiff would actually have exercised the option, and whether and when he would have sold the shares acquired as a result of doing this.  This is necessarily more speculative, and is not a matter that admits of a single or definite answer. Nor is it reasonable to expect the plaintiff to be able to say with certainty at what date he would have done these acts.  Given the nature of the exercise, which is an assessment of the value of the options at the date on which they should have been (but were not) granted, it is open to the court to adopt reasonable dates for each of these steps.  So long as the dates adopted are reasonable, and can be justified, this court should be slow to interfere with the assessment of the court below.
+
+31.  Here, the judge valued the option on the basis that the plaintiff would have exercised the option, and would have sold the shares at the time that his employment came to an end.  It seems to be that this is an entirely reasonable basis to adopt, and is one which should be upheld.  As I have noted, it is unlikely that the plaintiff would have exercised the option and realised the shares obtained through its exercise at a time very close to the grant of the option, as the market value of the shares would not have had time to increase so as to provide a worthwhile profit in a very short period of time.  However, once the value of the shares had increased to a point where the option had significant value, it is likely that the plaintiff would have considered exercising it.  That said, provided that the defendant was continuing to do well, and its share price remained rising or buoyant, it is unlikely that the plaintiff would have felt inclined to realise the shares.  All things considered, it seems reasonable to conclude that the plaintiff would have exercised the option and realised the shares at around, or shortly before, the time that he left the employ of the defendant.  It is likely that he would have exercised the option not long before realising the shares, as this would minimise his carrying cost of the shares (whether in terms of other investment opportunities foregone, or interest paid if he had borrowed to fund the acquisition).
+
+32.  For the foregoing reasons, I am satisfied that the valuation by the judge was one which was within the range available to him, and should not be interfered with on appeal.
+
+33.  I do not agree with the approach advocated by the defendant, which proceeded on the basis that the plaintiff should be required to prove each step in the process by which he would have realised the value of the share options which he should have been granted.  This strikes me as highly artificial, and fails to appreciate that what is being valued is the share options themselves, at a time when their valuation is a matter that is not capable of precise calculation, and necessarily depends on the making of reasonable assumptions.
+
+34.  The defendant placed substantial reliance on Zhang v Citic 21CN (referred to in paragraph 12 above).  However, in that case, the claim was not for failure to grant share options, but for the failure to issue shares when an option already granted was exercised.  In that case, the defendant had challenged the ability of the plaintiff to pay the subscription price of the shares in question (an amount in the region of HK$8 million), both in its pleadings and in cross examination.  This case is very different.  Here, the option had never been granted, and the assessment of damages was by reference to a much earlier stage, where the ability of the plaintiff to pay for the shares at the time of the breach was not in issue.  In the present case, moreover, the point was, in any event, neither adverted to in the defendant’s pleadings, nor put to the plaintiff when he gave evidence.  It is therefore not one on which the defendant can rely.  Finally, given the amount it would have cost to subscribe for the shares (just over HK$1.4 million), there is no difficulty in thinking that the plaintiff would have been able to find the wherewithal to acquire the shares, whether from his own resources or from a loan in circumstances where the value of the shares was, or was likely to be, comfortably in excess of the price he would have had to pay for them.
+
+35.  I would therefore reject the third ground of appeal also.
+
+Ground 4: Costs
+
+36.  Dealing finally with the question of costs, I have already noted that no steps were taken by the defendant to apply to the judge below to vary the costs order nisi. While this may not be an absolute bar to seeking to challenge the costs order on appeal, this course is one which is to be strongly deprecated, as it fails to take the opportunity to have the issue dealt with without an appeal, and also deprives this court of the benefit of the judge’s views on the matter. But in any event, I do not think that there is any basis for us to depart from the costs order made by the judge, who heard the case and was familiar with its procedural history. 
+
+37.  The defendant submitted that as the plaintiff had persisted with various Employment Ordinance claims (of which there were seven heads of claim, on two of which the plaintiff obtained summary judgment) and only dropped those on which summary judgment was not obtained just before the trial began, the plaintiff should be ordered to pay the costs of those claims to the defendant, and that setting such costs off against the costs relating to the claims on which the plaintiff was successful, the appropriate order should have been no order as to costs.
+
+38.  With respect, this is a simply untenable position.  The defendant was quite unable to show that any substantial costs had been expended in dealing with or preparing for trial of the dropped claims.  All of them were claims under the Employment Ordinance, for which there would have been limited evidence required, and would likely have been dealt with largely by the making of legal submissions.  They formed, in value terms, a relatively minor part of the overall claim, the most significant element of which was the claim for the value of the share options, to which most of the evidence and the whole of the trial was directed.  No time was spent on these other claims at the trial. Even if it were thought that some discount should be made to the costs recoverable by the plaintiff to reflect the bringing and eventual dropping of these claims, it would, in my view, be a minimal one.  Viewing the question of costs as a whole, it seems to me clear that the order which the judge made was within the range of reasonable costs orders which could be made in the exercise of his discretion, and it is not one with which this court should interfere.
+
+Conclusion
+
+39.  For the foregoing reasons, none of the grounds of appeal advanced by the defendant had merit, and the appeal was accordingly dismissed with costs to the plaintiff with a certificate for two counsel.
+
+  
+
+  
+
+(Peter Cheung)	(Susan Kwan)	(Aarif Barma)
+Justice of Appeal	Justice of Appeal	Justice of Appeal
+  
+
+Mr Ambrose Ho SC and Mr Erik Shum, instructed by Gallant YT Ho & Co, for the defendant/appellant
+
+Mr Douglas Lam SC and Ms Sabrina Ho, instructed by TC Foo & Co, for the plaintiff/respondent
+
+
+[1] There was a dispute about the correct English translation of clause 8.  The version set out here is the version appearing in the judgment below.  This was however slightly different from the version in the hearing bundles in the court below, and also slightly different from the certified translation which Mr Ho SC, for the defendant, sought to place before us.  In the event, both parties were content to proceed on the basis of the version appearing in the judgment below, at paragraph 17.
+
+   
+

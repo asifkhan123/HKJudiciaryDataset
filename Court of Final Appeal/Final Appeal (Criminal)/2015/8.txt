@@ -1,0 +1,205 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No. 8 of 2015
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 8 OF 2015 (CRIMINAL)
+
+(ON APPEAL FROM CACC NO. 65 OF 2014)
+
+________________________
+
+BETWEEN
+
+ 	HKSAR	Respondent
+ 	and	
+ 	YANG SIGAI (楊思概)	Appellant
+________________________
+
+Before: Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Tang PJ, Mr Justice Fok PJ and Lord Neuberger of Abbotsbury NPJ
+
+Date of Hearing: 29 August 2016
+
+Date of Judgment: 23 September 2016
+
+________________________
+
+JUDGMENT
+
+________________________
+
+Chief Justice Ma:
+
+A.  INTRODUCTION
+
+1. On 11 July 2016, the Court handed down judgment in HKSAR v Yeung Ka Sing, Carson[1] and HKSAR v Salim, Majed,[2] both appeals having been heard together.  I will refer to the judgment in those appeals simply as “Yeung”.  The four Questions of great and general importance heard in those appeals related to the offence of money laundering, a shorthand description for the offence contained in s 25(1) of the Organized and Serious Crimes Ordinance, Cap 455 (“OSCO”).[3]  The present appeal, for which leave was given[4] before the appeals in Yeung were determined on the same four Questions, is the first appeal before this Court since the judgment in Yeung.
+
+2. The four Questions for which leave was given in the present appeal were as follows:-
+
+“1. In the context of the offence of money laundering under section 25 of the Organized and Serious Crimes Ordinance, Cap 455 (‘the Ordinance’), how does the rule against duplicity operate? In particular, whether the offence of money laundering, capable of being committed in any of the modes of ‘dealing’ as included in its definition under section 2 of the Ordinance, is or could be a continuing offence so that the rule against duplicity does not apply; and how do the exceptions to the rule against duplicity (namely, ‘one transaction’ as in DPP v Merriman [1973] AC 584, ‘general deficiency’ as in R v Tomlin [1954] 2 QB 274 and ‘continuous course of conduct’ as in Barton v DPP [2001] 165 JP 779) apply to a charge of money laundering which alleges multiple dealings some of which involve money from known and different sources?
+
+2. When considering whether a defendant had reasonable grounds to believe in the context of s 25(1) of the Ordinance, how does a trial judge reconcile the formulation set out in Seng Yuet Fong v HKSAR (1999) 2 HKC 833 and the formulation ‘knew or ought to have known’ set out in HKSAR v Pang Hung Fai (2014) 17 HKCFAR 778? Under what circumstances should the trial judge apply these two formulations?
+
+3. On a charge of dealing with proceeds of crime contrary to s 25 (1) of the Organized and Serious Crimes Ordinance (Cap 455) (“OSCO”), is it necessary for the prosecution to prove, as an element of the offence, that the proceeds being dealt with were in fact proceeds of an indictable offence?  Was Oei Hengky Wiryo v HKSAR (2007) 10 HKCFAR 98 wrongly decided on this issue?
+
+4. In considering the mens rea element of a charge contrary to s 25(1) of OSCO, to what extent does a trial judge need to make positive findings as to a defendant’s belief, thoughts, intentions at the material time even though the judge rejects the defendant’s testimony?  In particular, where the trial judge rejects the defendant’s testimony, to what extent can the judge remain oblivious to the defendant’s actual reason(s) for dealing with the specified proceeds in making the finding that the defendant had reasonable grounds to believe that the proceeds he dealt with were proceeds of crime?”
+
+3. The legal arguments raised by the parties to the present appeal[5] in their original Cases have been dealt with and determined in Yeung.  Notwithstanding this, the Appellant seeks to raise three arguments which I will presently identify.  To dispose of some of these arguments, it will be necessary to go into the facts.
+
+B.  THE FACTS RELIED ON BY THE PROSECUTION
+
+4. The Appellant was convicted after trial[6] of three counts of dealing with property contrary to s 25(1) of OSCO, and sentenced to seven years’ imprisonment on each count to be served concurrently.  His appeals against both conviction and sentence were dismissed by the Court of Appeal.[7]
+
+5. The Appellant is a PRC citizen. In July 2010, he set up a company in Hong Kong, Qi Long Da Company (“QLD”).[8] In August that year, QLD opened a Hong Kong dollar and a foreign currency account with the Bank of China (Hong Kong) Limited; these were known as Accounts A and B at trial.  In November 2010, he set up another company in Hong Kong, Ying Ge Sheng Company (“YGS”).[9]  In December, YGS opened a Hong Kong dollar account with the Chiyu Bank; this was Account C at trial.  The Appellant was the sole owner of these companies and was the sole signatory of the three accounts.
+
+6. Accounts A and B were closed after seven months, Account C after only two months.  However, during that time, the following activities took place in them:-
+
+(1)   Account A: there were altogether 333 transactions consisting of 134 deposits and 199 outgoing remittances.  The deposits totalled $54,653,131.03, the outward remittances $54,646,454.24.
+
+(2)  Account B: there were altogether 617 transactions consisting of 289 deposits and 328 outgoing remittances.  The deposits totalled US$51,674,795.89 and the equivalent of HK$402,029,912.02; the outward remittances amounted to US$51,672,487.79 and the equivalent of HK$402,011,955.01.
+
+(3)  Account C: for this account, there were 56 transactions consisting of 20 deposits and 36 outgoing remittances.  The deposits totalled $9,508,924.09, the outward remittances $9,508,476.82.
+
+Effectively the three accounts had deposits totalling about HK$450 million, with virtually the same amount being outwardly remitted all within a relatively short period of time.  Neither the Appellant nor the two companies were licensed remittance agents or money changers.
+
+7. The three counts with which the Appellant was charged were in relation to dealings in these accounts.  Though it was alleged in each count that the Appellant knew or had reasonable grounds to believe that the monies in these accounts represented the proceeds of an indictable offence, like many other money laundering cases, the prosecution relied only on the “reasonable grounds” part of s 25(1) of OSCO.
+
+C.  THE APPELLANT’S POSITION AT TRIAL AND THE JUDGE’S FINDINGS
+
+8. The Appellant did not dispute the facts outlined above.  His case was that he ran an underground banking operation whereby monies from clients would be deposited into the three accounts and from there, monies would then be remitted into accounts outside Hong Kong.  The reason for operating an “underground” (meaning unlicensed, unregulated and secretive) bank was said to be exchange control restrictions.  Monies were deposited into the Hong Kong accounts from various countries in Africa, Asia and the Mainland and then outwardly remitted mainly to the Mainland and occasionally to Taiwan.
+
+9. The Appellant accepted that in the operation of an underground bank in this way, there was a risk that money laundering would take place.  The Appellant’s case (and this really became the focus of the trial) was that he had all along performed “gatekeeping” precautions, meaning that by reason of the risk of money laundering, he was at pains to take precautionary measures in operating the three accounts. Accordingly, it was contended that he lacked the necessary mens rea in relation to the offences with which he was charged; he did not have reasonable grounds to believe that the monies in the three accounts “in whole or in part directly or indirectly” represented any person’s proceeds of an indictable offence.
+
+10. The trial Judge heard evidence that the monies which were deposited into the three accounts came from essentially four different sources.  In relation to each source, the Appellant gave evidence going to the precautions he took or which were taken to ascertain the source and veracity of the funds deposited into the accounts, to investigate the background of the clients making the deposits and to gather relevant documents in these respects.
+
+11. In reaching his verdict, the Judge analysed the evidence put forward by the Appellant, including his own testimony.  In relation to each of the four sources of funds which were deposited into the three accounts, the Judge was not satisfied that there was any credible or reliable testimony that the Appellant had performed any “gatekeeping” precautions.  The Judge found that the Appellant could not have been satisfied of the integrity of the people with whom he dealt and no meaningful attempts were made to be satisfied of the identities of the depositors nor of the origins of the monies and such documents as there were were either inconsistent or otherwise unconvincing.  In the course of his analysis, the Judge made references to the Appellant deliberately turning a blind eye, to his disbelieving the Appellant, fabrications, inconsistencies, documentary irregularities etc.  The Judge concluded that the Appellant had failed to discharge any “gatekeeping” responsibilities and found that there were sufficient grounds for any “commonsense, right thinking” person to believe that the depositors of the monies were laundering money[10] and there was no basis for the Appellant to think otherwise.  In paragraph 77 of the Reasons for Verdict, the Judge said this:-
+
+“The Defendant understood that the deposits might come from illegal dealings and he had to perform gatekeeping and supervision to prevent clients from laundering money through him. The Defendant did not know much about his clients. In respect of Shi Xubo personally, Shi Xubo’s clients, Yang Wendan personally, Yang Wendan’s clients, Ke Chengjie personally and other clients, I am of the view that there was no basis for him to believe that these people would not launder money through him.”
+
+12. In the Court of Appeal, one of the Appellant’s arguments was that the Judge had erred in his analysis of the evidence.  The Court concluded this point to be entirely without merit and ought not even to have been raised.
+
+D.  ISSUES IN THIS APPEAL
+
+13. I have earlier identified the four Questions of great and general importance for which leave was given in the present appeal[11] and mentioned the fact that these Questions have now been determined by this Court in Yeung.  In spite of this, the Appellant however now wishes in this appeal to raise the following points said to arise from Yeung:-
+
+   (1)  Where the subject property in the charge under s 25(1) of OSCO has emanated from some activity which has taken place overseas, by reason of the operation of s 25(4) of the Ordinance, it must be proven as part of the mens rea of the offence that an accused was aware that the relevant property emanated from conduct that would constitute an indictable offence in Hong Kong if it had occurred here.  (The s 25(4) point).
+
+   (2)  Where the relevant property in a charge under s 25(1) of OSCO consists of a chose in action (such as a deposit of money into a bank account which creates a debt as between the bank and the customer), each chose in action must be separately charged and it is not possible without offending the rule against duplicity to make a global charge aggregating a number of different items as in the present case with three charges faced by the Appellant.  (The duplicity issue).
+
+   (3)  The trial Judge was wrong to regard the mere operation of an underground bank as being sufficient to establish the actus reus of the s 25(1) offence.  Further, the Judge was wrong to regard the mens rea of the offence to be satisfied merely by the Appellant being aware of the risks of money laundering in the running of an underground banking operation.  The Judge’s findings on mens rea were also to be invalidated on the ground that he applied an objective test.  (Factual issues).
+
+E.  THE s 25(4) POINT
+
+14. The actus reus of the offence in s 25(1) consists of dealing with property.  The mens rea of the offence in s 25(1) consists either of actual knowledge that the relevant property in the charge “in whole or in part directly or indirectly represents any person’s proceeds of an indictable offence” or that the accused has reasonable grounds so to believe.  The mens rea requirements of the offence have been extensively considered by this Court, most recently in Yeung.  It is unnecessary to go through this exercise again.  Where a charge is made under the “knowing” limb of s 25(1), the requirements are clear.  So too are the requirements under the “reasonable grounds” limb: here, as reiterated by Yeung, one is concerned with the question whether the accused had reasonable grounds to believe that the property dealt with represented the proceeds of crime.  Under this second limb of s 25(1), there is no requirement that it must be proved that the accused was actually aware of the crime that produced the relevant property dealt with by the accused.  Mr Lee submits, however, that it must be shown at least the accused knew of the nature of the activity that has brought about the property dealt with.  With respect, that is not what the provision says.  Ms Yang referred the Court to the following passage in Yeung:-
+
+   “44.  The current offence therefore focuses on the property – “any property” – and on the circumstances surrounding the defendant’s acts of dealing with that property.  Obviously, if he can be proven to have known that the property represented someone’s proceeds of an indictable offence, the offence is established.  But, if the defendant does not know for a fact that the property represented such proceeds (as is likely to be the case with professional money launderers who would make it their business not to know), it is sufficient for the prosecution to establish that, given the circumstances of which he was aware, surrounding his dealing with the relevant property, the defendant had reasonable grounds to believe that it represented the proceeds of someone’s indictable offence, whether committed in Hong Kong or abroad.”
+
+15. S 25(4) takes the matter no further.  It is a provision that is of relevance to overseas conduct.  This provision qualifies the reference to “an indictable offence” in s 25(1) (and s 25A) by stating that this includes a reference to conduct which would constitute an indictable offence if it had occurred in Hong Kong.  So, for example, where it is shown that the relevant property came from some identifiable act or acts committed overseas, it will be caught by s 25(1) if such conduct constituted an indictable offence in Hong Kong, irrespective of the legal position in the jurisdiction where such conduct took place.  As the provision itself clearly implies, the focus is on the position under Hong Kong law, not on the legality of such conduct under any foreign law.[12]
+
+16. The Appellant, however, relies on s 25(4) to support the argument that where, as in the present case, property has originated from overseas, the prosecution is required to identify the underlying conduct and then prove that an accused knew of both the conduct and the criminal nature of that conduct, and it has also to be further shown by the prosecution that such conduct amounted to an indictable offence in Hong Kong if it had occurred here.  Accordingly, it was said this provision supported Mr Lee’s submission that it was necessary to show the accused knew of the nature of the activity that produced the relevant property dealt with by the accused.  This argument, however, misunderstands the nature of the offence contained in s 25(1) and must be rejected.  The mens rea of the s 25(1) offence is as stated above.  Under that provision, it is not a requirement that the underlying predicate offence be identified and this is the position confirmed by this Court in Yeung.[13] The provision simply does not require proof of knowledge of the actual conduct that has produced the relevant property.
+
+F.  THE DUPLICITY ISSUE
+
+17. This issue can be disposed of shortly.  In Yeung, as in the present case, there were involved substantial numbers of deposits of money into the five accounts forming the subject matter of the five counts which Mr Yeung faced.  This Court dealt with the same arguments raised in this appeal, namely that given the different provenance of the multiple deposits of money in bank accounts, the charges were said to be duplicitous.[14] The Court held on the facts of Yeung, however, that it was proper for the transactions in the charges to be aggregated and that this did not fall foul of the rule against duplicity, given that the multiplicity of dealings had the common purpose of concealment.[15]  In the present case, the three accounts which were the subject matter of the three charges faced by the Appellant were used as part of an underground banking operation and this was admitted by him.  Numerous deposits were made followed by withdrawals, all taking place within a relatively short period of time.  As we have seen, the total amount of deposits were more or less matched by a corresponding amount of withdrawals.  Each account had these common features.  The defence run by the Appellant was also the same in relation to each account; that he had performed “gatekeeping” precautions.  In these circumstances, and also given the fact that no issue on duplicity and particularly no issue on any unfairness arising from duplicitous charges having been raised at or before trial, the three charges were unobjectionable.
+
+G.  FACTUAL ISSUES
+
+18. A number of points were made by the Appellant on the facts.  Irrespective of whether, strictly speaking, the Appellant should have been allowed to raise these points since leave was only given in relation to the four points earlier set out and it was not clear that these points arose from the decision in Yeung, we nevertheless heard Mr Lee SC on them.  They, however, have no merit.
+
+19. First, it was simply wrong to contend that the Judge regarded the mere operation of an underground bank as being sufficient to establish the actus reus of the offence.  The Judge, in the course of his Reasons for Verdict, analysed the activities in the three bank accounts in the context of the underground banking operations run by the Appellant.  There can be no doubt the activities in the accounts constituted dealing for the purposes of s 25(1).  The Judge also carefully examined his assertion that he had performed “gatekeeping” precautions.
+
+20. Secondly, as seen earlier, the Judge was not satisfied by the Appellant’s evidence and concluded that there were sufficient grounds for any “commonsense, right thinking person” to believe that the persons who made deposits in the accounts were laundering money.[16] By reason of the reference to “commonsense, right thinking” persons, it was then submitted by Mr Lee that the Judge had applied the wrong test.  The correct test is that as established by the decision of this Court in HKSAR v Pang Hung Fai[17] as explained in Yeung.  The Court of Appeal was of the view, however, that despite the Judge having applied the wrong test[18], it made no difference to the result since the trial Judge did consider the offence from the point of view of the Appellant.  As the Reasons for Verdict show, the Judge analysed and made findings on what facts were known to the Appellant and also considered his perception of the operation he was engaged in.  The trial Judge having rejected the Appellant’s evidence that he had performed “gatekeeping” precautions, what was left were a number of highly suspicious activities in the three accounts, of which the Appellant was aware.  As stated before, the Appellant accepted that his operation of an underground bank did involve the risk of it being used for money laundering purposes.  I find no error with the Court of Appeal’s conclusions here.
+
+21. Thirdly, in relation to the mens rea of the offence, the Judge did not, as Mr Lee submitted, simply regard the Appellant’s awareness of the risk of money laundering in the operation of his underground banking activities as being by itself enough to satisfy the mens rea of the offence.  As shown earlier, the Judge analysed in some detail the underground banking operations in the present case as well as the Appellant’s evidence and contentions in relation to these operations.
+
+H.  CONCLUSION
+
+22. For the above reasons, this appeal is dismissed.
+
+ 
+
+Mr Justice Ribeiro PJ:
+
+23. I agree with the judgment of the Chief Justice.
+
+ 
+
+Mr Justice Tang PJ:
+
+24. I agree with the judgment of the Chief Justice.
+
+ 
+
+Mr Justice Fok PJ:
+
+25. I agree with the judgment of the Chief Justice.
+
+ 
+
+Lord Neuberger of Abbotsbury NPJ:
+
+26. I agree with the judgment of the Chief Justice.
+
+ 
+
+ 
+
+(Geoffrey Ma)	(R.A.V. Ribeiro)	(Robert Tang)
+Chief Justice	Permanent Judge	Permanent Judge
+ 
+
+   
+
+(Joseph Fok)	(Lord Neuberger of Abbotsbury)
+Permanent Judge	Non-Permanent Judge
+ 
+
+Mr Robert S K Lee SC, Mr David Iu and Ms Sharon Chan, instructed by Cheung & Liu, for the Appellant
+
+Ms Maggie Yang, SADPP of the Department of Justice, for the Respondent
+
+
+[1] FACC Nos. 5 and 6 of 2015.
+
+[2] FACC No. 1 of 2015.
+
+[3] Section 25(1) provides:-
+
+ “Subject to section 25A, a person commits an offence if, knowing or having reasonable grounds to believe that any property in whole or in part directly or indirectly represents any person’s proceeds of an indictable offence, he deals with that property.”
+
+[4] By the Appeal Committee (Ma CJ, Ribeiro and Tang PJJ) on 19 August 2015.
+
+[5] The Appellant is represented by Mr Robert Lee SC, Mr David Iu and Ms Sharon Chan.  The Respondent is represented by Ms Maggie Yang.
+
+[6] On 23 January 2014 before HH Judge E Yip.
+
+[7] On 24 March 2015 (Yeung VP, Poon and D Pang JJ).  D Pang J (now Pang JA) gave the Judgment of the Court.
+
+[8] 奇隆達公司.
+
+[9] 英格盛公司.
+
+[10] Paragraphs 82, 84, 86 and 88 of the Reasons for Verdict.
+
+[11] See paragraph 2 above.
+
+[12] See the decision of the Appeal Committee in Lok Kar Win Kevin v HKSAR, FAMC 27 of 1999, 25 November 1999 at paragraph 9.
+
+[13] See Section C of Yeung.
+
+[14] See paragraph 162 of Yeung.
+
+[15] See paragraph 166 of Yeung.
+
+[16] See paragraph 11 above.
+
+[17] (2014) 17 HKCFAR 778.
+
+[18] Namely the test in the pre-Pang Hung Fai decision of the Court of Appeal in HKSAR v Shing Siu Ming [1999] 2 HKC 818.
+
+ 

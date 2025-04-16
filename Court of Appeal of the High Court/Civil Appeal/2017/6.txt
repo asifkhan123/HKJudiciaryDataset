@@ -1,0 +1,117 @@
+CACV 5/2017
+
+[2019] HKCA 1302
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO 5 OF 2017
+
+(ON APPEAL FROM HCAL 172/2015)
+
+________________________
+
+BETWEEN
+
+ 	H	Applicant
+ 	and	 
+ 	DIRECTOR OF IMMIGRATION	Putative Respondent
+________________________
+
+Before:  Hon Poon Ag CJHC, Lam and Kwan VPP in Court
+
+Date of Hearing:  22 October 2019
+
+Date of Judgment:  22 November 2019
+
+________________________
+
+J U D G M E N T
+
+________________________
+
+
+Hon Lam VP (giving the Judgment of the Court):
+
+1.  We struck out this appeal on 29 October 2018 after refusing leave to appeal to challenge the decision of Chow J not extending time for judicial review to be brought.
+
+2.  By a notice of motion of 5 June 2019, the applicant seeks leave to appeal against our decision to the Court of Final Appeal.
+
+3.  Since our refusal of leave is made under Section 14AA of High Court Ordinance on the basis that the decision of Chow J is interlocutory in nature, the applicant is prima facie barred by Section 14AB from further appealing.  
+
+4.  However, Mr Dykes SC representing the applicant argued that section 14AB is unconstitutional insofar as it is applied to judicial review cases.  Whilst the Court of Final Appeal has upheld a similar finality provision for District Court appeals[1] in Incorporated Owners of Po Hang Building v Sam Woo Marine Works Ltd (2017) 20 HKCFAR 240, Mr Dykes argued that judicial review cases are special.  Counsel alluded to the discretionary nature of judicial review and cited the judgment of the Privy Council in Kemper Reinsurance Co v Minister of Finance [2000] 1 AC 1 at p.15H-16C and R (Burkett) v Hammersmith and Fulham Borough Council [2002] 1 WLR 1593 at [7].
+
+5.  With respect, these cases are not germane for present purposes as they were decided in relation to the refusal of leave to apply for judicial review when the applications were made within time.  It was held in such context that a decision of a court of appeal on a renewed application is in substance a decision in an appeal, as such it is not absurd to have a further appeal to the Privy Council and House of Lords. 
+
+6.  On the other hand, the subject decision in the present case is the refusal to extend time under Order 53 Rule 4(1), Rules of the High Court, Cap 4A, to apply for judicial review outside the three-month statutory limit.  It has been held in MI & IYW v Permanent Secretary for Security [2018] HKCA 419 that such a decision is interlocutory in nature and an appeal against such decision is subject to the leave requirement in Section 14AA.
+
+7.  It is noteworthy that Mr Dykes did not submit that Section 14AB is unconstitutional in the context of ordinary High Court proceedings.  He confined his challenge to the application of Section 14AB to judicial review proceedings.  
+
+8.  In the course of judicial review, like other civil proceedings, some interlocutory decisions may be made before a final determination of the merit after a substantive hearing.  Though it may not often occur, there can be applications for cross-examination of deponents, discovery of documents in an application for judicial review.  There can also be applications for intervention by a non-party and for interim stay too, we cannot discern any good reasons for drawing a distinction between similar interlocutory orders made in judicial review proceedings and in ordinary civil proceedings by virtue of the difference in the nature of the proceedings for the purpose of restriction of appeals to the Court of Final Appeal.  We do not accept a general proposition that the restriction in Section 14AB should not be applicable to interlocutory decisions in the context of judicial review. 
+
+9.  In his oral submissions, Mr Dykes confirmed that his real challenge is confined to the application of Section 14AB to interlocutory decision on refusal to extend time for judicial review to be brought.  As counsel submitted, such decision would lead to the court’s refusal to entertain the judicial review application. 
+
+10.  Mr Dykes is correct in submitting that in most cases, the court would have addressed the merit of the intended application for judicial review in the considering if extension of time should be given.  However, merit is not the sole factor.  As discussed in AW v Director of Immigration [2016] 2 HKC 393, the exercise involved a multi-faceted assessment in the particular circumstances of the case. Non-exhaustive factors included length of delay, explanation for delay, merits of the substantive application, prejudice and the involvement of questions of general public importance.  For example, as held in MI & IYW v Permanent Secretary for Security, supra, at [33] to [39], the inability of an applicant to proceed further with a judicial review was due to his failure to proceed without undue delay as required by the law.  In Re Thomas Lai [2014] 6 HKC 1, G Lam J also highlighted that merit is not the sole criterion by reference to the judgment of Litton NPJ in Po Fun Chan v Winnie Cheung (2007) 10 HKCFAR 676 at 693B and the decision of Hartmann J in Law Chun Loy v Secretary for Justice HCAL 13/2005, 26 October 2006.
+
+11.  Similar multi-faceted discretionary assessments also feature in the context of ordinary civil proceedings in the High Court.  We accordingly do not find this to be a valid distinction between judicial reviews and other civil proceedings for the purpose of deciding if Section 14AB should apply to the former. 
+
+12.  Mr Dykes however referred to the final adjudicative power of the Court of Final Appeal under art 82 of the Basic Law as discussed in Solicitor v Law Society of Hong Kong (2003) 6 HKCFAR 570 and submitted that the application of section 14AB in the present context failed to satisfy the proportionality test.  Counsel emphasized that judicial review proceedings are sui generis and a determination on extension of time on ground of undue delay is qualitatively different from other general interlocutory decisions.  He submitted that the Court of Final Appeal should retain the power of final adjudication in this respect because for important public law issues there should be maximum facility in terms of access to courts[2].  He also submitted that there is no rational connection between the legitimate aim of promoting efficient use of judicial resources and the application of section 14AB to a refusal to extend time to bring judicial review as it is anomalous that an applicant cannot appeal against a refusal of leave to the Court of Final Appeal if he brought the original application out of time when he can do so if he brought the application within time.  He emphasized in both scenarios the courts will be concerned with the merits of the applications and they are de facto decisions on the merits.
+
+13.  With respect, we do not agree with Mr Dykes. 
+
+14.  In our judgment, it is wrong to characterize the decision on refusal to extend time as a de facto decision on the merit.  In the judgment of Chow J of 3 November 2016, the learned judge discussed all the relevant factors highlighted in AW v Director of Immigration, supra.  Apart from addressing the merit of the arguments advanced by the applicant, the learned judge alluded to the substantial length of delay[3], lack of good explanation for the delay[4], the detriment to the good administration of effective immigration control in Hong Kong[5] and no question of general public importance[6] before he rejected the application for extension of time.  It was a multi-faceted assessment.  In other words, even if the applicant can show that the judge erred in the assessment of merit, as discussed earlier, it does not follow that he could succeed in getting an extension of time.  
+
+15.  In this respect, the exercise is similar to other interlocutory decisions in civil proceedings where merit is one of the relevant factors.  In processing applications for security for costs, applications for service out of jurisdiction, applications for interlocutory injunctions, or even procedural applications for late admission of evidence or adjournment of trial, very often the courts have to carry out some assessment of the merits in the overall exercise of discretion though other factors are taken into account.  Yet the appeals in these decisions are all subject to the requirement of Sections 14AA and 14AB even if an appellant’s main contention is that the court’s assessment of the merit is wrong.  Hence, insofar as Mr Dykes placed emphasis on the consideration of merit in the context of a refusal to extend time, it is not too different from other interlocutory decisions. 
+
+16.  This analysis highlighted the unworkability of a test formulated on the basis of a decision involving some assessment of merit.  This also answers Mr Dykes’ submission on anomaly.  
+
+17.  The rules graft out a specific exception in the context of judicial review to Sections 14AA and 14AB for refusal of leave brought within time but this is the limit of the exception.   As it has been discussed in MI & IYW v Permanent Secretary for Security, supra, Order 59 Rule 21, in particular Rule 21(2) has identified the types of situation where judgments are regarded as those determining in a summary way the substantive rights of a party and refusal of extension of time to bring a judicial review is not one of them.  We do not see any scope for expanding that concept by grafting a further exception in judicial review application whenever such determination involves a consideration of the merit.   As we have discussed above, the courts would have addressed the merit since it is a relevant factor.  If we were to accede to Mr Dykes’ submission, we would effectively rewrite Rule 21(1)(g).
+
+18.  In respect of the submission based on art 82 of the Basic Law, though Incorporated Owners of Po Hang Building v Sam Woo Marine Works Ltd (2017) 20 HKCFAR 240 was decided in the context of appeals from the District Court, the analysis by the Court of Final Appeal in that case is also pertinent for present purposes. 
+
+19.  In applying the proportionality approach in the context of restriction of the power of the Court of Final Appeal to hear an appeal, two broad aims were identified at [36] to [39].  The first broad aim is to promote the proper and efficient use of judicial resources and to avoid oppressive or unproductive appeals by screening out cases which have no reasonable prospects of success on appeal.  In our judgment, this is also a legitimate aim in the context of appeals against refusal of extension of time in judicial review cases.  There are many judicial review cases in Hong Kong brought by litigants-in-person and quite a number of them are brought out of time.  Further, in many of those cases no question of public importance is involved.  The screening process under Section 14AA and the bar imposed under Section 14AB do provide relief in alleviating the workload of the courts in processing unmeritorious applications for leave to appeal to the Court of Final Appeal. 
+
+20.  In relation to the filtering being carried out by the Court of Appeal as opposed to the Appeal Committee of the Court of Final Appeal, the observations of the Court of Final Appeal at [48] to [53] are also relevant in the present context.  In MI & IYW v Permanent Secretary for Security, supra, at [41] and [42], this Court expressed a similar sentiment as set out by Ribeiro PJ at [48] of Incorporated Owners of Po Hang Building v Sam Woo Marine Works Ltd, supra.  There is no total ban on appeal in respect of refusal of extension of time to bring judicial review.  For cases where an applicant has a reasonable prospect of success or in respect of which there is other reason in the interest of justice (like those in which an important public law point is engaged) for leave to be granted, this Court would have granted leave and the result of that appeal would be an appealable judgment for the purpose of Section 22 of the Hong Kong Court of Final Appeal Ordinance.  It is relevant to recall that in the present case Chow J had taken account of the lack of question of general public importance before he exercised his discretion.  This Court also found no reason in the interest of justice to support the grant of leave in our judgment of 29 October 2018.  
+
+21.  As held by Ribeiro PJ, a complaint that the filtering process is undertaken by the Court of Appeal as opposed to the Appeal Committee (which was the submission advanced in that case, similar to the one now advanced by Mr Dykes) is a departure from the proportionality analysis.  As observed at the end of [53] by his Lordship:
+
+“ The appellant’s objection to the appellate process being halted at the level of the Court of Appeal is thus not an argument about the proportionality of the statutory measures designed to achieve the aforesaid aim but an argument which disavows that legitimate aim itself. It misapprehends the issue at the core of the proportionality analysis.”
+
+22.  There is a further legitimate aim in the context of judicial review proceedings which is the policy as reflected in the setting of a 3-month statutory time limit for the bringing of judicial review: the need for promptitude in making an application of judicial review.  The underlying purpose of such policy is to avoid undue disruption and prolonged litigation on public law decision to the detriment of good administration.  The availability of a two-tier appeals for interlocutory decisions, including one for extension of time to bring judicial review, would inevitably lead to the prolongation in achieving finality.  It is thus legitimate to adopt the screening mechanism under Sections 14AA and 14AB to curtail unmeritorious proceedings of such nature. 
+
+23.  Similar to the analysis in Incorporated Owners of Po Hang Building v Sam Woo Marine Works Ltd, supra, it is plain that the mechanism of Sections 14AA and 14AB is rationally connected with the legitimate aims and no more than necessary to achieve the same.  There is no basis to suggest any individual constitutional rights are infringed and the fourth step in the proportionality analysis is not engaged.
+
+24.  For these reasons, we hold that the applicant is subject to the restriction under Section 14AB and such restriction as applied in the present context does not unduly restrict the power of final adjudication of the Court of Final Appeal under art 82.
+
+25.  We dismiss the notice of motion of 5 June 2019.  We also make an order nisi that the applicant shall pay the costs of the putative respondent in this application.  Having considered the statement of costs of 16 October 2019, such costs are fixed at $68,000. 
+
+ 
+
+ 
+
+(Jeremy Poon)	(M H Lam)	(Susan Kwan)
+Acting Chief Judge of the High Court	Vice President	Vice President
+ 
+
+Mr Philip Dykes SC, instructed by Daly & Associates, for the applicant
+
+Mr Jonathan Chang, instructed by the Department of Justice, for the putative respondent
+
+
+[1]  Section 63B of the District Court Ordinance
+
+[2]  Citing from Michael J Beloff QC and Helen Mountfield, 3 Judicial Review 119 at §28
+
+[3]  At [57] of the judgment
+
+[4]  At [58] to [60] of the judgment
+
+[5]  At [61] and [62] of the judgment
+
+[6]  At [63] of the judgment
+
+ 
+

@@ -1,0 +1,334 @@
+CAMP 11/2017 AND CACV 182/2017
+CAMP 11/2017
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+MISCELLANEOUS PROCEEDINGS NO 11 OF 2017
+
+(ON AN INTENDED APPEAL FROM DCCJ NO 130 OF 2016)
+
+________________________
+
+BETWEEN
+ 	CHAN LAP KIT trading as
+NGAN FUNG EXCHANGE COMPANY
+also trading as RELIABLE RMB REMITTANCE CO
+1st Plaintiff
+ 	CHAN KIU MEI CANDY trading as
+ NGAN FUNG EXCHANGE COMPANY
+2nd Plaintiff
+ 	and	
+ 	YUSHUN TECHNOLOGY LIMITED
+（裕順科技有限公司）	Defendant
+ 	and	
+ 	THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED
+Garnishee
+ 	and	
+ 	BR. C.A.T. INTERNATONAL CO. LTD.	Intervener
+________________________
+
+AND
+
+CACV 182/2017
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO 182 OF 2017
+
+(ON APPEAL FROM DCCJ NO 130 OF 2016)
+
+________________________
+
+ 	CHAN LAP KIT trading as
+NGAN FUNG EXCHANGE COMPANY
+also trading as
+RELIABLE RMB REMITTANCE CO	1st Plaintiff
+ 	CHAN KIU MEI CANDY trading as
+NGAN FUNG EXCHANGE COMPANY
+2nd Plaintiff
+ 	and	
+ 	YUSHUN TECHNOLOGY LIMITED
+（裕順科技有限公司）
+Defendant
+ 	and	
+ 	THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED
+Garnishee
+ 	and	
+ 	BR. C.A.T. INTERNATONAL CO. LTD.	Intervener
+________________________
+
+(Heard together)
+
+
+Before: Hon Lam VP, Kwan JA and Poon JA
+
+Dates of Written Submissions: 9, 24 August 2017 and 15 November 2017
+
+Date of Judgment: 1 December 2017
+
+________________________
+
+J U D G M E N T
+
+________________________
+
+
+Hon Kwan JA (giving the judgment of the Court):
+
+1.  CAMP 11/2017 is the plaintiffs’ application for leave to appeal from the decision of Deputy District Judge Simon Ho on 24 January 2017 (“the Decision”). The Decision was made in respect of a summons issued by BR CAT International Co Ltd (“the Intervener”) to join in and oppose the plaintiffs’ application to make absolute a garnishee order nisi against the garnishee bank HSBC, with which the defendant maintained an integrated bank account (“the Account”). The judge exercised his power under Order 49 rule 6(2) of the Rules of the District Court to determine summarily the Intervener’s proprietary claim over the credit balances in the Account. He dismissed the plaintiffs’ application to make absolute the garnishee order nisi.
+
+2.  On the plaintiffs’ application for leave to appeal against the Decision, the judge gave a decision on 26 July 2017 (“the Leave Decision”), in which he granted leave to appeal only in respect of §1(3) of the grounds in the draft notice of appeal, and refused leave in respect of the other grounds in §§1(1), (2), (4), (5) and (6), 2 and 3.
+
+3.  The plaintiffs duly issued a notice of appeal on 2 August 2017 to pursue the single ground for which leave to appeal was granted by the judge.  This is CACV 182/2017.
+
+4.  By a summons issued in CAMP 11/2017 on 9 August 2017, the plaintiffs renewed their application for leave to appeal before the Court of Appeal in respect of the grounds in §§1(1), (2), (4), (5) and (6) and 2 in the draft notice of appeal[1].
+
+5.  Having considered the papers, we decided to exercise the power under Order 59 rule 2A(5)(a) of the Rules of the High Court to determine this application without a hearing on the basis of the written materials before us.
+
+6.  On 1 November 2017, we invited the parties to make further submissions in writing that in the event we refuse leave to appeal in CAMP11/2017, whether the Court of Appeal can and should strike out the appeal in CACV 182/2017.
+
+7.  The principles for granting leave to appeal are well established.  Under section 63A(2) of the District Court Ordinance, Cap 336, leave shall not be granted unless the appeal has a reasonable prospect of success, or there is some other reason in the interests of justice that the appeal should be heard.  Reasonable prospect involves the notion that the prospects of succeeding must be “reasonable” and therefore more than “fanciful”, without having to be “probable” (SMSE v KL [2009] 4 HKLRD 125 at §17).
+
+8.  We will only set out those of the matters in the Decision by way of background that are necessary for a proper understanding of the ground of appeal for which leave was granted by the judge and our disposition of the leave application.
+
+The Decision
+
+9.  The Account maintained by the defendant with HSBC is a dual currency business integrated account.  It has a single bank account number and is internally divided into a USD sub-account, an HKD savings sub-account and an HKD current sub-account (the two HKD sub-accounts are collectively referred to as “the HKD sub-account”).  There is no evidence of any prior agreement between HSBC and the defendant allowing any overdraft to be made under the HKD current sub-account[2].  And, at all times, the Account was not overdrawn, whether the USD sub‑account was considered alone, or with the HKD sub-account[3].
+
+10.  On 23 February 2016, the plaintiffs obtained a default judgment against the defendant for money had and received in the sum of HK$440,810.26.  They then obtained a garnishee order nisi against HSBC in respect of the debts due by HSBC to the defendant, which covered the credit balances in the Account.
+
+11.  The Intervener is the victim of a cyber-fraud involving an unknown fraudster hacking into its email account to authorise payment out to accounts which the Intervener never intended to pay.  On 28 April 2014, US$880,131 of the proceeds of fraud was transferred through an intermediate account to the USD sub-account of the Account.  In a separate action brought by the Intervener proceedings against a number of entities and individuals, including the defendant, a Mareva injunction was granted in November 2014 to restrain disposal of the funds in the Account and on 10 May 2016, the Intervener obtained a default judgment against the defendant for US$880,131 and other reliefs, including an account and tracing enquiry and a declaration that in respect of the monies received by the defendant, the defendant held so much of the traceable monies with interest and/or profits as the court may assess and/or determine as belonging to the Intervener on constructive trust for the Intervener.
+
+12.  The question before the judge was whether he should exercise his discretion to make absolute the garnishee order nisi. If there was no reasonable ground why this should not be done, the order nisi should be made absolute.  He posed two further questions.  First, whether the Intervener[4] has any proprietary interest in respect of the US$880,131 paid into the Account.  Second, if yes, whether the credit balances in the Account can be traced into by the rules of tracing as originated from the US$880,131.  If both questions can be answered in the affirmative, this would amount to a reasonable ground to refuse to make absolute the order nisi.
+
+13.  The judge held that the first question should be answered in the affirmative.  This is based on the default judgment obtained by the Intervener against the defendant in the separate action.  It is implicit in the reliefs granted in that action that the Intervener has proprietary interest in the fund of US$880,131 as received by the defendant when it was deposited into the Account.  The plaintiffs do not seek to challenge this finding on appeal.
+
+14.  The judge also rejected the plaintiffs’ contention that based on mistake and unjust enrichment, they could assert a proprietary interest in the sum of HK$440,810.26 which they had paid into the Account.  There is no challenge about this as well.
+
+15.  A number of arguments were advanced by Mr Martin Ho for the plaintiffs why the Interveners cannot trace into the value of what was owed by HSBC to the defendant as the account holder of the Account, all of which were rejected by the judge.  For present purpose, we need be concerned with only one of the arguments.
+
+16.  When the garnishee order nisi was served on HSBC on 30 March 2016, there was a credit balance of US$6.87 in the USD sub‑account and another credit balance of HK$504,224.21 in the HKD sub‑account[5]. If the funds in the USD sub-account and the HKD sub‑account are regarded as a single unified debt for tracing purposes, the Intervener would be able to trace into and assert its proprietary claim not only over the credit balance in US dollars but also the credit balance in HK dollars.  Mr Ho contended that the funds in the USD sub-account and the HKD sub-account should be regarded as segregated, so the Intervener’s claim to the value of what was owed by HSBC to the defendant would be confined to the US$6.87 remaining in the USD sub-account.
+
+17.  The judge rejected his argument.  Crucially, the judge made these findings of fact in §39 of the Decision regarding the nature of the Account on the undisputed evidence:
+
+“By taking a fair and overall view of the nature and operation of the Account on the evidence before me, I agree with Mr Ng’s submission that the HKD sub-account and USD sub-account should be viewed together as one single bank account for the purpose of this tracing exercise. Among other things, it is observed that the Account is a dual currency business integrated account to facilitate the bank’s customer to carry out its banking transaction in different currencies conveniently within one single account. The relationship between the defendant and the garnishee bank is defined by a single contractual relationship, and there is an average total relationship balance within the Account for each month as shown in every monthly bank statement. Any payment in and out of the Account, whether in HKD or USD, would be transacted via its single bank account number. The net position of the Account for each month would premise its calculation on the aggregate sum of HKD and USD held in the Account.”
+
+18.  The finding of the relationship between the defendant and HSBC in respect of the Account was also explained in §16 of the Leave Decision:
+
+“First of all, it is this court’s holding that the relationship between the defendant and the garnishee bank is a single relationship of creditor and debtor in respect of all the funds in the Account on the undisputed evidence before this court. Although there are sub-accounts within the Account, these sub-accounts can in law be treated as one single account in the absence of any special contract between the banker and its customer that they should be kept separate. And, this court found no evidence of such special contract in this case. On the contrary, it is the undisputed evidence that any payment in and out of the Account, whether in HKD or USD, would be transacted via its single bank account number. And, the net position of the Account (being the aggregate of the HKD and USD balances held in the sub-accounts) would be shown in each monthly bank statement in HKD currency rather than in two separate currencies.”
+
+19.  The judge therefore concluded in §40 of the Decision:
+
+“Viewing thus, the fact that the Account is comprised of HKD and USD should not be seen as a segregation of debts, but instead, should be regarded as an internal division of a unified debt within the same Account as owed by the garnishee bank to the defendant for the purpose of the tracing exercise.”
+
+20.  And he further expressed his conclusion in this way in §20 of the Leave Decision:
+
+“Such view is also consistent with the general tracing principle that although one may conveniently speak of tracing into ‘the money in the account’, one in truth only traces into the value of what was ultimately owed by the bank to its customer. Therefore, despite the outward appearance of different funds being deposited into and withdrawn out of the sub-accounts at different times, it is in my view legitimate to treat all the money in these sub-accounts as one mixture of value, or to put in another way, a unified debt as owed by the bank to the defendant and represented by the final balance standing to the credit under the Account for tracing purpose.”
+
+21.  He answered the second question in the affirmative and exercised his discretion to refuse to grant a garnishee order absolute.
+
+A question of mixed fact and law
+
+22.  The primary contention in the plaintiffs’ intended appeal is that the judge erred in determining summarily that the USD sub-account and the HKD sub-account of the Account ought to be viewed as one single bank account for the purpose of the tracing exercise, and thereby wrongly held that the Intervener is able to trace into and assert its proprietary claim over the balance of the HKD sub-account.  This is §1 in the grounds of appeal of the draft notice of appeal, with the reasons for the contention set out in sub-paragraphs (1) to (6).
+
+23.  At the leave application hearing before the judge, Mr Ho cited additional authorities to re-argue why the funds in the HKD sub-account and the USD sub-account should be segregated and not be treated as one unified debt for the tracing exercise.
+
+24.  After considering the additional authorities, the judge decided to grant leave to appeal only in respect of §1(3), which was framed as a point of law or principle, and refused leave for the other sub-paragraphs which relate to evidential and factual challenges.  Despite rejecting the arguments on the evidential and factual challenges, the judge granted leave to appeal on a limited basis because he cannot fairly say it is fanciful for the plaintiffs to run their legal argument by resorting to the case of FHR European Ventures LLP v Mankarious [2016] EWHC 359 (Ch) on this point of law, namely, whether it is legally permissible to treat the funds in the HKD sub-account and the USD sub-account within the Account as one mixed fund for the tracing exercise[6].
+
+25.  §1(3), now the sole ground of appeal in CACV 182/2017, quoted from the FHR case at §§40 to 41.  To paraphrase §1(3) by relating it to the present fact situation, the plaintiffs’ contention is that it is wrong in principle to treat monies paid into the USD sub-account as mixed up with the monies in the HKD sub-account, even though the two sub‑accounts were maintained at the same bank, and this is because tracing is a matter of ‘hard-nosed property rights’, not whether it is fair, just and reasonable to give the Intervener an interest as a result of which the court in its discretion provides a remedy[7].
+
+26.  In the latter part of this judgment, we will come back to the point of law for which the judge granted leave, even though he had rejected the plaintiffs’ arguments based on the FHR case[8].
+
+27.  Mr Ho now complained that the remaining sub-paragraphs in §1 are part and parcel of his argument in §1(3).  So for the sake of completeness, it would be in the interest of justice for this court to grant leave to appeal in respect of the whole of §1.
+
+28.  As we see it, whether the judge was in error in holding that the USD sub-account and the HKD sub-account of the Account ought to be viewed as one single bank account for the purpose of the tracing exercise is a question of mixed fact and law.  If the factual basis is such that it could not provide support for a conclusion in law, there is little point to enter into a debate whether the conclusion is legally permissible.
+
+29.  The fact that counsel may find himself hampered in the arguments he would like to advance in the appeal on the point of law is not a reason for granting leave to appeal on factual and evidential challenges that do not appear to us to have any merit.  If anything, the plaintiffs should seriously consider whether they still wish to pursue an appeal that may well be pointless or could result in a pyrrhic victory.
+
+30.  We turn to consider the two proposed grounds of appeal for which leave is sought.
+
+The proposed ground 1
+
+31.  Mr Ho sought to rely on three authorities: Boscawen v Bajwa [1996] 1 WLR 328 at 336C to E; Re Global Finance Group Pty Ltd [2002] WASC 63 at §§186 to 194; and Grocers of Wyong v Retech Global [2004] NSWSC 488 at §35.  They were cited to support his contention that as a matter of fact, HSBC all along had separated treatment of the USD sub‑account and the HKD sub-account as evidenced by the separate ledgers in the bank statements.
+
+32.  He submitted this was analogous to the situation of a solicitor maintaining individual client ledgers in respect of a single bank account being the firm’s general client account in which funds were intended to be kept for a short time (in Boscawen v Bajwa), and it was held that the ledger cards provided reliable evidence of actual appropriation so it was not necessary to apply artificial tracing rules.  He contended that the separate ledgers maintained by HSBC provided similar evidence of HSBC’s appropriation or earmarking of the funds in the USD sub-account and the HKD sub-account respectively.
+
+33.  The judge had considered these submissions and rejected them for the comprehensive reasons given in the Leave Decision at §§29 to 40.  We agree with the judge that counsel’s reliance on the additional authorities is misplaced, and, evidentially, there was nothing to show that the funds in the HKD sub-account were segregated or earmarked by the defendant for the benefit of any other particular person or purpose other than for the defendant’s own use.  And, contrary to Mr Ho’s contention there is no evidence that the monies in the USD sub-account can be freely transferred and/or mingled, the judge had found that all the credit balances in the USD sub-account can be freely converted to HKD currency at all material times at the agreed exchange rates between HSBC and the defendant, and vice versa[9].
+
+34.  We see no valid basis to impugn the judge’s findings as quoted earlier.  Whether there was actual appropriation and segregation of money in an account is a matter of fact, depending on the arrangement in a particular case.  As the judge has noted, each case must be decided on its own merits[10].  It would not advance the plaintiffs’ arguments by citing cases which are distinguishable as they were based on different factual matrix or by relying on statements in the judgments without regard to the proper context of the findings in the cases.  The reliance on the facts of the FHR case is misconceived.  As stated by the judge[11], the mere fact that the funds in the sub-accounts are in two different currencies would not per se alter the legal nature of these sub-accounts being one account in law for the purpose of the tracing exercise.  It all depends on how the legal relationship of the account holder with the bank should be construed, for which guidance was provided in the cases cited in the Leave Decision at §§17, 18 and 21 (Re European Bank. Agra Bank Claim (1872) LR 8 Ch App 41 at 44; Holesowen Presswork v Westminster Bank [1971] 1 QB 1 at 46E to G; and Foskett v McKeown [2001] 1 AC 102 at 127H to 128C).
+
+35.  Mr Ho repeated his arguments founded on CY Foundation Group v Cheng Chee Tock [2012] 1 HKLRD 532 at §§33 to 35 and Shalson v Russo [2005] Ch 281 at §§138 to 139 that it is not possible to “consolidate” different bank accounts (though maintained at the same bank) for the purpose of applying the tracing rules.  They were rejected twice by the judge[12].  We see no need to add to his reasons, with which we agree, save to say that the cases cited have no application to the present fact situation.
+
+36.  There is no merit in the contention that the judge erred in relying on the “total relationship balance” of a particular customer with the bank in coming to the conclusion that there was a unified debt for tracing purpose.  As the judge had made clear[13], even if the “total relationship balance” is to be ignored, there is sufficient material on the undisputed evidence to support the findings of fact in §39 of the Decision quoted earlier.
+
+The proposed ground 2
+
+37.  The contention here is that the judge should not have determined the issue summarily and should have ordered the issue to be tried pursuant to Order 49 rule 6(2) of the Rules of the District Court.
+
+38.  There is no merit in this contention. As noted by the judge[14], both parties invited the court to treat the first instance hearing as the substantive hearing of the garnishee summons and the Intervener’s application and both were content to have the court summarily determine the two applications based on the affidavit evidence.
+
+39.  Having had the applications determined against them summarily on the merits, it lies ill in the plaintiffs’ mouth to contend that there are other matters for which no evidence was adduced or that the judge’s findings lacked sufficient evidential basis to have a second bite of the cherry in a full trial.
+
+40.  The judge dealt with Mr Ho’s arguments in full in respect of this ground[15].  We agree entirely with his reasons.
+
+CACV 182/2017
+
+41.  For the reasons given above, we decline to grant leave to appeal in respect of §§1(1), (2), (4), (5), (6) and 2 in the draft notice of appeal as sought in CAMP 11/2017.
+
+42.  That leaves the ground of appeal in §1(3), which is the sole ground of appeal in CACV 182/2017 for which leave to appeal was granted by the judge.  This goes to the question we have invited further submissions on, namely, whether the Court of Appeal can and should strike out the appeal in CACV 182/2017.
+
+43.  Mr Ho made submissions only on the lack of jurisdiction for this court to strike out the appeal and did not make any submissions whether this court should do so.  Mr Ernest Ng for the Interveners submitted that this court does have jurisdiction to strike out under its inherent jurisdiction as well as under the statutory scheme when a further application is made to it after leave to appeal was granted by the court below limited to a particular issue but refused for other issues.
+
+44.  Jurisdiction apart, we think this is a clear and obvious case for striking out.  We have earlier mentioned whether the judge was wrong in holding that the USD sub-account and the HKD sub-account should be viewed as one single bank account for the purpose of tracing is a question of mixed fact and law.  Further, as the judge had recognized[16], the decision of Master Clark in the FHR case refusing to treat the funds in the bank accounts in different currencies as mixed was based on his factual finding there was no mixing of funds and that the accounts were kept separate.  The decision does not provide support for a legal proposition that in all circumstances funds in different bank accounts maintained with the same bank cannot be regarded as one mixed fund for the purpose of tracing.  It would be pointless and unproductive to debate the question of law as framed in §1(3) when the factual basis is such that it could not have provided support for the contended conclusion in law.  For this reason, the appeal is bound to be dismissed.
+
+45.  As Mr Ng has submitted, it is a fact-sensitive question whether the sub-accounts within an integrated account can be regarded as one mixed fund for tracing purpose and the outcome of each case will depend on its own facts.  There is no question of general application to be resolved in this appeal, and no other reason in the interests of justice that the appeal should be heard.
+
+46.  We turn to consider whether we have jurisdiction to strike out this appeal which is pointless and bound to fail.  We propose to consider jurisdiction under the statutory provisions first before we look at inherent jurisdiction.
+
+47.  The relevant provisions are in the District Court Ordinance, Cap 336 and the Rules of the District Court:
+
+District Court Ordinance
+
+“63. Appeals in civil matters
+
+(1) Subject to subsection (3), an appeal can, with leave of a judge or the Court of Appeal, be made to the Court of Appeal from every judgment, order or decision of a judge in any civil cause or matter.
+
+…
+
+(2) An appeal is subject to rules of court.
+
+…
+
+63A. Leave to appeal
+
+(1) Leave to appeal granted under section 63 may be granted –
+
+(a) in respect of a particular issue arising out of the judgment, order or decision; and
+
+(b) subject to such conditions as the judge, the master or the Court of Appeal hearing the application for leave considers necessary in order to secure the just, expeditious and economical disposal of the appeal.
+
+(2) Leave to appeal shall not be granted unless the judge, the master or the Court of Appeal hearing the application for leave is satisfied that –
+
+(a) the appeal has a reasonable prospect of success; or
+
+(b) there is some other reason in the interests of justice why the appeal should be heard.
+
+…
+
+63B. Decision on leave to appeal final
+
+No appeal lies from a decision of the Court of Appeal as to whether or not leave to appeal to it should be granted.”
+
+Rules of the District Court
+
+Order 58
+
+“2. Appeals to Court of Appeal
+
+“(4) An application for leave to appeal must be made to a judge, or to a master in the case of an appeal under paragraph (2), …
+
+(4A) If the judge or master (as the case may be) refuses an application for leave made under paragraph (4), a further application for leave may be made to the Court of Appeal within 14 days from the date of refusal.” ”
+
+48.  In respect of an application for leave to appeal to the Court of Final Appeal, where an applicant is dissatisfied with the limited basis for leave granted by the Court of Appeal and renews his application before the Appeal Committee, such application is treated as an entirely fresh application and the Appeal Committee has full discretionary powers to deal with it, including rejecting the entire application (Hong Kong Island Development Ltd v World Food Fair Ltd & Anr (2006) 9 HKCFAR 162 at §§14 to 16; To Pui Kui, the Administratrix of the estate of Ng Po Sum, Deceased v Ng Oi Che & Ors, FAMV 41 & 42/2015, 1 April 2016, §§10 and 11).
+
+49.  Mr Ho emphasized the words “further application” in Order 58 rule 2(4A).  According to the ordinary and plain meaning of these words, the “further application” before the Court of Appeal is confined to considering the grounds which the court below refused leave, as the applicant is renewing the application only to the extent of the refusal.  There is no jurisdiction for the Court of Appeal to revisit the decision of the court below in respect of a ground for which the lower court has granted leave. In support of this construction, he relied in particular on the latter half of §12 of the judgment of Lloyd LJ in British Telecom Plc v Ofcom [2012] EWCA Civ 300, and the entire paragraph reads as follows:
+
+“However, it seems to me that if on an application to the appeal court under rule 52.3(3) [of the Civil Procedure Rules][17] the order made by the lower court granting permission were to be taken as open for argument afresh so as to allow the appeal court the possibility of refusing permission to appeal altogether, it would be inconsistent with the spirit of section 54(4)[18] [of the Access to Justice Act 1999] even though not with the letter of that section. In my judgment, where a lower court grants unconditional permission to appeal on one ground or on some grounds but refuses it on another or other grounds, then to the extent of the refusal, but no further, then it is a case on which the lower court has refused the application for permission to appeal so that a further application may be made to the appeal court for permission to appeal on the grounds on which it has been refused by virtue of rule 52.3(3).”
+
+50.  He sought to distinguish Hong Kong Island Development Ltd on the ground that unlike Order 58 rule 2(4A) (on his construction of “further application”), sections 23(1)(b) and 24[19] of the Hong Kong Court of Final Appeal Ordinance, Cap 484 do not limit the scope of the leave application heard by the Appeal Committee.  Further, unlike the Court of Appeal, proposed appeals to the Court of Final Appeal are only entertained if the question involved in the appeal is one which, by reason of its great general or public importance, or otherwise, ought to be submitted to it for decision, and the court’s status as the final arbiter calls for a purposive construction of sections 23(1)(b) and 24 of Cap 484.
+
+51.  We are not persuaded that “further application” in Order 58 rule 2(4A) should be construed so restrictively and literally as to differentiate this provision from the provisions dealing with leave to appeal in Cap 484.  As Mr Ho rightly acknowledged, that part of the extract in the judgment of Lloyd LJ he relied on was influenced by section 54(4) of the Access to Justice Act, which has no equivalent in Cap 336.  To the contrary, section 63B of Cap 336 provides that only the decision of the Court of Appeal on leave to appeal is final, the constitutionality of which was upheld in Incorporated Owners of Po Hang Building v Sam Woo Marine Works Ltd (2017) 20 HKCFAR 240. Unlike the position in the UK, there is no question of offending the letter or the spirit of section 63B if the Court of Appeal is to refuse leave to appeal altogether in a “further application” made to it for leave to appeal where the lower court has granted leave to appeal but limited to a particular issue.
+
+52.  The statutory scheme created by sections 63(1), 63A(2) and 63B of Cap 336 is “plainly intended, inter alia, to enable the Court of Appeal to filter out unnecessary, unmeritorious or frivolous would‑be appeals” (Incorporated Owners of Po Hang Building at §31).  The scheme “promotes the proper and efficient use of judicial resources and the avoidance of oppressive and unproductive appeals” and “avoids the squandering of resources by the Court of Appeal … on hearing appeals which cannot be expected materially to benefit either party” (Incorporated Owners of Po Hang Building at §36).
+
+53.  Order 58 rule 2(4A) should be construed in a manner that is consistent with the above purposes of the statutory scheme.  If the court below grants leave to appeal limited to a particular issue and the dissatisfied applicant renews his application to the Court of Appeal in respect of the issues for which leave is refused, it would be entirely appropriate for the Court of Appeal to have full discretionary powers to deal with the application as a whole, including the power to reject the whole application, to filter out unnecessary and unproductive appeals.  The filtering out of unfit cases is just as important at the level of the Court of Appeal, even though it is not the final arbiter in the court hierarchy as the Court of Final Appeal is.
+
+54.  Section 63B expressly provides for finality only in respect of a decision of the Court of Appeal as to whether or not leave to appeal to it should be granted.  Order 58 rule 2(4A) should not be construed as in effect providing for finality in respect of a decision of the court below in granting leave to appeal on a particular issue, where express provision is made in section 63B providing for finality only in respect of a leave decision of the Court of Appeal.
+
+55.  Once the narrow and literal interpretation is rejected, there is no discernible difference in substance between the statutory scheme governing leave to appeal to the Court of Appeal and the scheme for leave to appeal to the Court of Final Appeal.  Applying the rationale in §§15 and 16 in Hong Kong Island Development Ltd, where leave to appeal is granted subject to conditions unacceptable to the applicant, such conditional grant may be treated as a refusal of leave to appeal enabling the applicant to apply to the Court of Appeal which then hears the application entirely afresh, disposing of it by making such orders as it considers appropriate.  In this respect, we should follow the rationale in Hong Kong Island Development Ltd (which is binding on us) as opposed to that of Lloyd LJ in British Telecom (where his lordship declined to extend similar rationale in R (Medical Justice) v Secretary of State for the Home Department [2011] 1 WLR 2852 to refusal of leave on some grounds).
+
+56.  The only procedural difference is that by the time the renewed leave application comes before the Court of Appeal, a notice of appeal may well have been filed in respect of the issue for which leave was granted by the court below, as in this case.  This only means that the appeal would be struck out if the Court of Appeal should come to the view that the entire application for leave to appeal should be rejected.
+
+57.  As we are satisfied there is jurisdiction to strike out the appeal under the statutory provisions, it is not strictly necessary to resort to inherent jurisdiction.  For completeness, we would mention that the Court of Appeal has inherent power to control its own proceedings by striking out, on its own motion, a notice of appeal if there is no possibility that the grounds of appeal are capable of argument.  Of course, this power should be confined to clear and obvious cases (Hong Kong Civil Procedure 2018, vol 1, §59/3/6; Burgess v Stafford Hotel Ltd [1990] 1 WLR 1215 at 1219B to 1220G, 1221B to D and 1222C to D).
+
+58.  It would be appropriate to sound a word of caution.  The power to strike out a notice of appeal where leave was granted by the court below is exercised in very clear and obvious cases, and the hurdle is very high indeed.  In most instances, on a renewed leave application the Court of Appeal would need much persuasion before it finds it necessary to re-consider the issues for which leave to appeal was granted by the judge.  The mere fact that the appeal court has full discretionary powers to deal with the application as a whole does not mean it would readily entertain arguments from an unsuccessful respondent to strike out a notice of appeal.  It would entertain such arguments only in an exceptional situation, which by definition must be rare.  Hence, our decision in this appeal should not be read as a charter to renew an unsuccessful attempt in opposing leave at the court below. Unmeritorious attempts in that regard will be met by costs sanction.
+
+Conclusion and orders
+
+59.  For the above reasons, we dismiss the application for leave to appeal in CAMP 11/2017 and strike out the appeal in CACV 182/2017.
+
+60.  As the leave application is wholly without merit, we make a further order pursuant to Order 59 rule 2A(8) that no party may under rule 2A(7) request the determination to be considered at an oral hearing inter partes.
+
+61.  There is no reason why costs of the leave application should not follow the event and the plaintiffs should not pay the Intervener’s costs of the appeal which we order to be struck out.
+
+62.  Having regard to the work of counsel in assisting us on the issue of jurisdiction, for which we are grateful, we will order costs to be taxed on a party and party basis, despite the total lack of merits in CAMP 11/2017.
+
+63.  We will not make a summary assessment here.  The costs awarded to the Intervener in CAMP 11/2017 and CACV 182/2017 will be taxed in the usual way.
+
+64.  The costs orders in CAMP 11/2017 and CACV 182/2017 are orders nisi.  Any party seeking to vary the orders nisi shall lodge a written submission within seven days hereof, failing which the orders shall become absolute.
+
+ 
+
+ 
+
+(M H Lam)	(Susan Kwan)	(Jeremy Poon)
+Vice President
+Justice of Appeal
+Justice of Appeal
+ 
+
+Written submissions by Mr Martin Ho, instructed by Charles Yeung Clement Lam Liu & Yip, for the Plaintiffs (Applicants)
+
+Written submissions by Mr Ernest C Y Ng, instructed by Squire Patton Boggs, for the Intervener (Respondent)
+
+
+[1] §3 of the draft notice of appeal is not pursued.
+
+[2] Leave Decision, §25
+
+[3] Decision, §§34, 35
+
+[4] Decision, §25 mentioned “whether the defendant has any proprietary interest”. This must be a clerical error.
+
+[5] Decision, §1 and Leave Decision §13.
+
+[6] Leave Decision, §§48, 56, 73
+
+[7] The latter half of the sentence was taken from Foskett v McKeown [2001] 1 AC 102 at 109C to D.
+
+[8] Leave Decision, §§44, 45
+
+[9] Leave Decision, §23
+
+[10] Decision, §42
+
+[11] Leave Decision, §22
+
+[12] Decision, §§41 to 44; Leave Decision, §§46 to 47
+
+[13] Leave Decision, §54
+
+[14] Leave Decision, §8
+
+[15] Leave Decision, §§57 to 60
+
+[16] Leave Decision, §44
+
+[17] Rule 52.3(3) reads: “Where the lower court refuses an application for permission to appeal, a further application for permission to appeal may be made to the appeal court.”
+
+[18] Section 54(4) reads: “No appeal may be made against a decision of a court under this section to give or refuse permission (but this subsection does not affect any right under rules of court to make a further application for permission to the same or another court).”
+
+[19] Section 23(1) reads: “No appeal shall be admitted unless either: (a) leave to appeal has been granted by the Court of Appeal; or (b) in the absence of such leave, leave has been granted by the Court.”
+
+Section 24(3) reads: “If an application for leave is refused by the Court of Appeal …, an application may be made to the Court for leave and such application shall be made by motion.”
+
+ 
+

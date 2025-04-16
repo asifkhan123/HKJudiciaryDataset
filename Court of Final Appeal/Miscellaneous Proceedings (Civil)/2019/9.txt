@@ -1,0 +1,221 @@
+FAMV No. 239 of 2019
+
+[2020] HKCFA 28
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 239 OF 2019 (CIVIL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL
+
+FROM CACV NO. 320 OF 2018)
+
+___________________________
+
+BETWEEN	 	 
+CHINA MEDICAL TECHNOLOGIES, INC. (IN LIQUIDATION)	Plaintiff
+(Applicant)
+and	
+BANK OF CHINA (HONG KONG) LIMITED	Defendant
+(Respondent)
+___________________________
+
+Appeal Committee: Mr Justice Ribeiro PJ, Mr Justice Fok PJ and Mr Justice Cheung PJ
+Date of Hearing and Determination: 17 September 2020
+Date of Reasons for Determination: 22 September 2020
+________________________________
+
+REASONS FOR DETERMINATION
+
+________________________________
+
+Mr Justice Fok PJ:
+
+1.  We dismissed this application for leave to appeal at the conclusion of the hearing and indicated that we would hand down our reasons for doing so in due course, which we now do.
+
+Background
+
+2.  The present application arises out of an action commenced by writ issued on 2 December 2014 by the liquidators of the plaintiff company.  
+
+3.  The plaintiff was ordered to be wound up in the Cayman Islands in 2012 and an ancillary winding-up order was made in Hong Kong in 2014.  The plaintiff was insolvent and investigations suggested the company’s management had perpetrated a fraud on it by misappropriating about US$355.5m of the plaintiff’s funds by acquiring worthless medical technology.  It was suggested by the liquidators that between 3 November 2006 and 4 December 2009, funds in this amount were apparently transferred from the plaintiff’s account with the defendant to accounts held by a company called Supreme Well Investments Limited with the defendant and Bank of East Asia.
+
+4.  The liquidators not knowing if there was a viable claim against the defendant, the writ was issued as a purely protective measure to preserve the position claiming damages for breach of contract, and equitable compensation for dishonest assistance, knowing receipt and breach of tortious, equitable, fiduciary, statutory, regulatory and other duties, and repayment or restitution of the plaintiff’s funds.  After the causes of action pleaded in the generally endorsed writ, the liquidators expressly pleaded that:
+
+“THIS WRIT is issued solely for the purpose of preserving the claims identified above in light of the pending expiry of possible limitation periods. For the avoidance of doubt, the Plaintiff has made no decision as to whether or not it will pursue the claims. Any decision as to whether or not the Plaintiff will pursue these claims is subject to further and on-going investigations by the Joint Official Liquidators of the Plaintiff appointed by the Grand Court of the Cayman Islands and the Provisional Liquidators of the Plaintiff appointed by the High Court of Hong Kong and the outcome of those investigations.
+
+To the extent that any prima facie limitation periods relating to the claims set out herein have expired, and in circumstances where the Plaintiff only obtained knowledge of the claims in February 2014, the Plaintiff intends to rely on provisions of the Limitation Ordinance (Cap.347) either directly or by analogy to extend the relevant limitation period.”
+
+5.  For the reasons explained below, the writ was not served within its original period of validity (1 December 2015).  On 30 November 2015, the liquidators applied ex parte for an extension of the validity of the writ for a further 12 months.  On 7 December 2015, Master J. Wong extended the validity of the writ (to 1 December 2016).  On 29 November 2016, the liquidators took steps to serve the writ on the defendant.  Effective service is disputed.
+
+6.  On 20 June 2018, on the application of the defendant, Au Yeung J set aside the extension order, set aside service of the writ and dismissed the action against the defendant.[1] The liquidators’ appeal against the orders of Au Yeung J was dismissed by the Court of Appeal on 22 March 2019.[2]  The Court of Appeal refused to grant leave to the liquidators to appeal to the Court of Final Appeal.[3]
+
+7.  The ex parte application for an extension of the validity of the writ was made one day before its expiry, on 30 November 2015.  It was supported by an affidavit of one of the joint liquidators of the plaintiff, Mr Cosimo Borrelli.  He stated that the liquidators were still not in a position to decide whether to pursue any claims against the Defendant[4] and explained that they had been pursuing documents from the defendant and the Bank of East Asia and that they had also issued a summons seeking a court order against both banks pursuant to s.221 of the Companies Ordinance (Cap.32) to compel them to produce documents and for the examination of various members of their staff.  He further explained that this summons had been heard before Harris J on 12 August and 16 and 17 September 2015 and that judgment was reserved.
+
+8.  On 15 December 2015, after the validity of the writ had been extended by the master, Harris J handed down his judgment dismissing the plaintiff’s s.221 application but ordering interrogatories to be served on the defendant’s employees.[5] He accepted “that the Liquidators would prefer to obtain further information if possible before deciding how to proceed, but in my view it is not necessary.  They have such information as they reasonably need to make an informed decision.”[6]  He also held “[t]he Liquidators do not need any more information in order to decide whether or not they have a viable claim.”[7]
+
+9.  Harris J granted the liquidators leave to appeal on an issue of construction of s.221(3) of the Companies Ordinance (Cap.32) but refused leave in respect of further grounds. On 3 November 2016, the Court of Appeal refused the liquidators’ application for leave to appeal on those further grounds, holding that the judge had properly taken into account the nature of the plaintiff’s claims and the matters that would need to be proved but concluded that “the material that the liquidators had already obtained … was sufficient to enable the liquidators to make a sufficiently informed decision as to whether or not to commence proceedings (or, in this case, to press forward with the protective writs that had been issued).”[8]
+
+10.  It was only after this refusal of leave to appeal that the liquidators sought to proceed with the action by purporting to serve the writ on the defendant.  This they sought to do by personal service and by post.
+
+11.  It was in these circumstances that the matter came before Au Yeung J on the setting aside application taken out by the Defendant.  For present purposes, there are three aspects of her judgment that are relevant:
+
+(1) First, her Ladyship held that there was good reason for the liquidators to choose not to serve the writ during its first 12 months of validity and to apply for an extension thereafter.  But she went on to hold that the court could take into account evidence and facts that occurred after the order to extend the validity of the writ had been made by the master.  She referred to Harris J’s judgment and held that it “answered the purpose of the Liquidators’ investigations – to decide the viability of the claim against BOC. … There were thus no good reasons to extend the Writ on the date the Extension Order was made.”[9] She held that “there were matters capable of being good reasons at the time of the Extension Order.  However, those matters have turned out to be not good reasons because of Harris J’s judgment.” [10]  Elsewhere she described the good reason as having been “wiped out”.[11]
+
+(2) Secondly, her Ladyship held that the liquidators had been guilty of material non-disclosure in relation to the limitation periods for the claims.  There were 10 payments said to constitute the underlying claims against the defendant.  In his affidavit, Mr Borrelli gave the impression that the limitation period for all the claims had not expired when the writ was issued.[12] However, six of the payments were made more than six years before the date of the issue of the writ and were therefore prima facie already time-barred at that date.  Her Ladyship held that the liquidators “misled the Master into believing that the Plaintiff would be denied an unexpired claim as large as US$355.5 million if the Writ was not extended”[13]  and concluded there was material non-disclosure and misrepresentation of the limitation issues before the master which she described as “serious and egregious”.[14]  She declined to exercise her discretion to re-grant the extension order.[15]
+
+(3) Thirdly, in relation to service of the writ, her Ladyship held that the writ had not been left at the registered office of the defendant[16] and that the purported service by post was too late.[17]  She refused to exercise her discretion to cure the defect in service by reason of the liquidators’ deliberate decision to defer service of the writ until the end of the two-year period of its validity and her findings on material non-disclosure and misrepresentation.[18]
+
+12.  The Court of Appeal affirmed Au Yeung J’s decision in respect of the absence of good reason and material non-disclosure in relation to the limitation periods and did not find it necessary to deal with the dispute relating to service of the writ.[19]
+
+(1) As to the question of whether there was good reason to extend the validity of the writ, Kwan JA (with whom Lam VP and Cheung JA agreed) held that it was appropriate to have regard to Harris J’s decision in determining if there was good reason to extend the validity of the writ.  Her Ladyship concluded that there was no basis to interfere with Au Yeung J’s exercise of discretion and her “holding that in all the circumstances there were no good reasons for extending the Writ at the time of the Extension Order”.[20]
+
+(2) Kwan JA agreed with Au Yeung J that there was material non-disclosure and misrepresentation of the limitation issues, and was not persuaded that the judge was in error in applying the legal principles or that there was any valid ground for interfering with her exercise of discretion.[21]
+
+The application for leave
+
+13.  In order to succeed on the proposed appeal to the Court of Final Appeal, it would be necessary for the plaintiff to succeed on each of the three points identified above on which the judge held against it, namely on the issue of good reason for the extension of validity of the writ, on the issue of material non-disclosure and misrepresentation and on the issue of service of the writ. To justify the grant of leave to appeal, therefore, the plaintiff would need to demonstrate a reasonably arguable basis for overturning each of Au Yeung J’s conclusions on (1) good reason, (2) material non-disclosure and misrepresentation, and (3) service.
+
+The issue relating to good reason
+
+14.  The liquidators sought leave to appeal to raise a question of law as to the approach to identifying a good reason for extending the validity of a writ.  The question as framed poses the issue of whether a good reason is a “binary or ‘yes/no’ decision” to be determined objectively by reference to whether the plaintiff has sufficient information to serve the writ or whether, taking its subjective views into account, the plaintiff acted reasonably in seeking an extension of time for service.
+
+15.  Had the question of leave to appeal only related to the issue of good reason in the present case, we would have been of the view that the case warranted the grant of leave to appeal.  This would have been on the basis that it is, at the very least, reasonably arguable that the judge was in error to treat the question of good reason, which she had held existed as at the date of the application to extend the validity of the writ, as having been “wiped out” by the subsequent event of Harris J’s judgment dismissing the s.221 application.  The Court of Appeal did not expressly adopt the language of the good reason having been “wiped out” but agreed with the judge’s conclusion that good reason did not exist to extend the validity of the writ and so, implicitly, adopted her reasoning by reference to Harris J’s judgment.
+
+16.  In looking to evidence of events after the date of the application to extend the validity of the writ, both the judge and Court of Appeal purported to apply the decision of the English Court of Appeal in National Commercial Bank v Haque [1994] CLC 230.[22] In that case, at pp.241-242, Evans LJ (with whom Butler-Sloss LJ and Rose LJ agreed) held that, on an application to set aside an ex parte extension of a writ, it was permissible for the court to look not just at what evidence was placed before the court at the time of the application to extend the writ, but also the evidence (including subsequently filed evidence) to show what the situation was as at that time.  For this reason, the judge and Court of Appeal both looked to the evidence contained in Mr Borrelli’s 3rd affidavit which was filed in opposition to the setting aside application and also the judgment of Harris J on the s.221 application, both of which necessarily post-dated the date of the application to extend the writ’s validity.
+
+17.  There was no error of law in the judge or Court of Appeal looking to evidence filed subsequently to the extension application when considering the setting aside application.  However, that subsequently filed evidence could only be relevant, on the setting aside application, to showing the position as it obtained at the time of the extension application.  In the present case, that meant the position as at 30 November 2015 when the ex parte application was made to the master to extend the writ’s validity.
+
+18.  When the judge expressed her decision in terms of the “good reason” which she held existed on 30 November 2015 to have been “wiped out” by the evidence disclosed in Mr Borrelli’s 3rd affidavit and Harris J’s judgment on the s.221 application, this would be using evidence after the event to re-assess the adequacy of the reason prima facie already found to have been good. That would have been an apparent misapplication of the principle for which National Commercial Bank v Haque (supra) is authority.  It is at least reasonably arguable this was an error of law which would have vitiated the judge’s exercise of discretion to set aside the extension of the validity of the writ.  Had this been the only determinative point in the appeal, we would have been minded to grant leave to appeal to the Court of Final Appeal in relation to the approach to good reason and the use of subsequently filed evidence on an application to extend the validity of a writ.
+
+19.  However, that is not the end of the matter. If it were held that the Courts below had adopted the wrong approach to “good reason”, it would fall to the Court to exercise the discretion whether to uphold extension of the writ’s validity afresh, raising issues discussed below. Moreover, as explained above, it is necessary for the liquidators to show that there is a reasonably arguable appeal on all three of the issues that need to be decided in favour of the plaintiff.  This entails determining if reasonable grounds of appeal have been shown in relation to the issue of material non-disclosure and misrepresentation and the issue of service of the writ.
+
+Material non-disclosure/misrepresentation
+
+20.  The application to extend the writ being made ex parte, it was incumbent on the plaintiff to make full and frank disclosure of all material facts relevant to the exercise of the master’s discretion.  As explained above, Mr Borrelli’s affidavit suggested that the claims in the protective writ were all within the six-year limitation period when it was issued.  But this was not correct, since claims 1 to 6 (said to be worth US$203.25m) related to events which occurred more than six years before, and it was either a non-disclosure of the true position or a misrepresentation of that position.
+
+21.  Whilst now acknowledging the factual inaccuracy of the disclosure in question, in support of the application for leave to appeal, the liquidators sought to raise a question of law as to the materiality of the non-disclosure or misrepresentation in the context of an application for an extension of the validity of a writ.  In particular, it was sought to argue that, where the non-disclosure or misrepresentation sets a higher hurdle for the applicant or where it relates to some but not all claims, the non-disclosure or misrepresentation should not be treated as material or should not preclude renewal of the writ for those claims in respect of which there was no non-disclosure or misrepresentation (claims 7 to 9 and 10, said to be worth US$152.25m).
+
+22.  We were not persuaded that either alternative posed in the question of law for which leave to appeal was sought raise reasonably arguable points of law.  The law as to material non-disclosure and misrepresentation in the context of an ex parte application is well settled.  In the present case, there is no reasonable basis for contending that the way in which Mr Borrelli treated the limitation issue relating to the claims in the writ was not a material non-disclosure or misrepresentation.  His affidavit clearly implied that all the claims were not time-barred when the writ was issued but that at least some would become time-barred when the writ expired.  But this was misleading, since claims 1 to 6 were prima facie already time-barred at the date of the issue of the writ, and Mr Borrelli’s evidence was likely to have led the master to think that there was potentially serious prejudice to the plaintiff if the writ were not extended but relatively little prejudice to the defendant since the claims were not time-barred at the date of the writ.
+
+23.  There is thus no basis, as the plaintiff has contended, for characterising the non-disclosure or misrepresentation as having set a higher hurdle for the plaintiff on the extension application.  To the contrary, the effect of the misstatement, objectively assessed from the perspective of the master, would have been to lower the persuasive threshold that the plaintiff needed to surpass.  The judge rightly described this argument of the plaintiff’s as “sophistry”.[23]
+
+24.  Furthermore, as the judge pointed out very clearly, there were other misstatements in Mr Borrelli’s evidence about the underlying claims: claim 10 showed no involvement of the defendant at all; the identities of the payers of the cashier orders on which claims 7 to 9 were based were not shown and so the basis of the asserted claim for knowing or dishonest assistance on the part of the defendant was opaque.[24] None of this was pointed out to the master.
+
+25.  There being material non-disclosure and misrepresentation, the judge was entirely correct to hold that the master’s exercise of discretion to extend the writ was vitiated and that she had to conduct a fresh exercise of discretion to determine whether the extension of the writ should be affirmed or re-granted. She correctly identified the task before her and the relevant legal principles to be applied.[25]
+
+26.  We address below our reasons for concluding that it is not reasonably arguable that the judge’s exercise of discretion miscarried in relation to the issue of non-disclosure and misrepresentation together with our discussion of the judge’s exercise of discretion in relation to the alleged defective service of the writ.
+
+Attempted service of the writ
+
+27.  Section 827 of the Companies Ordinance (Cap.622) prescribes two methods of service of a document on a company, namely “by leaving it at, or sending it by post to, the company’s registered office”.  The defendant’s registered office was 14/F, Bank of China Tower, 1 Garden Road, Hong Kong.
+
+28.  Instead of serving the writ at the defendant’s registered office, the plaintiff did so by its process server leaving it at the reception desk on the ground floor of BOC Tower on 29 November 2016 (the validity of the writ having been extended until 1 December 2016).  The process server said the desk was surrounded by BOC signage and that a female receptionist there told him to leave the writ there (although she denied this).  The receptionist in question stamped the writ with a chop marked “Bank of China (HK) Ltd General Services Div (BOC Tower)”.  There was a video of the interchange between the process server and the receptionist, but without sound, so the judge did not feel able to resolve the conflicts of evidence as to what was said in this interaction.[26] The receptionist was not an employee of BOC but was employed by an entity called Sun Chung Property Management Co. Ltd.  There was no dispute it was possible for the process server to go to the 14/F by registering his details at the reception desk.
+
+29.  The judge concluded that service by leaving the writ at the reception desk was not valid.[27] She also rejected the plaintiff’s alternative argument, with which we need not now be concerned, that the writ had been validly served by post before its expiry.[28]  Although the plaintiff sought to challenge the judge’s conclusion that service in person was not effective as being plainly wrong, we were not satisfied there is any basis to interfere with the judge’s finding in this regard.  The mere fact that a copy of the writ was received via e-mail by a member of the defendant’s Legal Department, with offices on the 29/F of Bank of China Tower,[29] before its expiry does not comply with the requirements of service in s.827 of the Companies Ordinance.  The simple fact is that the process server did not leave the writ at the registered office of the defendant in compliance with s.827.
+
+Are there grounds for interfering with the exercise of discretion below?
+
+30.  In respect of the issue of non-disclosure and misrepresentation, the judge exercised her discretion against re-granting the extension of the writ.[30] Separately, she also exercised her discretion against curing the irregularity in service of the writ.[31]  The Court of Appeal affirmed her decision.
+
+31.  We were not satisfied that, if leave to appeal were granted, it is reasonably arguable that any grounds exist to justify the Court of Final Appeal interfering with such exercise of discretion.  Similarly, if the Court were required to exercise the discretion afresh in relation to the question of “good reason”, we do not consider it reasonably arguable that the discretion would be exercised differently than the judge.
+
+32.  The liquidators have been investigating possible claims against the defendant since their appointment in 2012.  The issue of the protective writ in this action was a proper step to preserve the position since the liquidators were “still not in a position to determine if the Plaintiff has claim(s) against the Defendant and if so, if it is in the best interests of the Plaintiff to pursue those claims”.[32] In Mr Borrelli’s 2nd affidavit, dated 20 December 2016, he sought an extension of time for service of pleadings until 60 days after the determination of the defendant’s summons to challenge service of the writ and its extension of validity, asserting that the liquidators’ ability to prepare the statement of claim was delayed due to the ongoing s.221 application and the defendant’s refusal to answer interrogatories.
+
+33.  This evidence is to be seen in the context of the defendant having not resisted a letter of request issued by the Grand Court of the Cayman Islands which led to an order of the Hong Kong Court in April 2014 requiring it to produce account opening documents, account operating mandates, “know your client” documentation, account statements and documentation relating to 8 accounts.  In response to this, the defendant produced over 2,000 pages of documents.[33]
+
+34.  Notwithstanding this, no steps were taken by the liquidators to serve the writ in this action until very shortly before 1 December 2016, when the 12-month extension of the writ was about to expire.  Yet, by the time of the dispute over service, a principal of the solicitors acting for the plaintiff described the claim against the defendant as a valuable asset and asserted that if the plaintiff was “unable to pursue the claim in these proceedings it will have suffered prejudice in the form of losing one of its only significant assets”.[34] She also asserted that, if service of the writ was set aside, the plaintiff would suffer prejudice in having “incurred costs in preparing the Statement of Claim”.[35]
+
+35.  Despite this, however, no steps have been taken to serve a statement of claim in this action and no draft of the pleading was produced to demonstrate that the liquidators are in fact ready, willing and able to proceed with this action, now said to constitute “one of the Plaintiff’s only significant assets, … valued by the Liquidators in the hundreds of millions of US dollars”.[36] There are stark inconsistencies in the evaluation of the strength of the plaintiff’s claim against the defendant despite the liquidators not being any better placed to assess its merits.
+
+36.  The apparent merits and viability of a proposed action are obviously important considerations in exercising discretions of the sort under discussion.  In the abovementioned circumstances, and in the light of the material non-disclosure and misrepresentation of the limitation issue, we were not satisfied it is reasonably arguable that the Court of Final Appeal would overturn the judge’s exercise of discretion in declining to cure the irregularity in the service of the writ.  The fact that, even at the hearing of this application for leave to appeal, almost six years after issue of the writ, a draft statement of claim has not been proffered is a telling indication of the difficulties that the liquidators have faced in formulating the plaintiff’s putative claim against the defendant.
+
+37.  For all these reasons, the application for leave to appeal was dismissed with costs.  The suggestion that that a potentially valuable claim against the defendant exists and will be lost has not been demonstrated.  The fact that a claim in this action will never proceed to be determined on its merits, whilst unfortunate, is a consequence of the circumstances leading to the judge’s exercise of discretion not to cure the irregularity in service of the writ or to re-grant the extension of its validity.
+
+ 
+
+ 
+
+  (R A V Ribeiro)	 (Joseph Fok)	 (Andrew Cheung)
+Permanent Judge	Permanent Judge	Permanent Judge
+  
+
+Mr Charles Hollander, instructed by Lipman Karas, and Mr Jason Karas (Solicitor Advocate) of that firm, for the Plaintiff (Applicant)
+
+Mr Paul Shieh SC and Mr Julian Lam, instructed by K.W. Ng & Co., for the Defendant (Respondent)
+
+[1] [2018] HKCFI 1395, HCA 2448/2014, Decision dated 20 June 2018 (“CFI Judgment”).
+
+[2] [2019] HKCA 402, CACV 320/2018, Reasons for Judgment dated 2 April 2019 (“CA Judgment”).
+
+[3] [2019] HKCA 735, CACV 320/2018, Judgment dated 28 June 2019.
+
+[4] 1st affidavit of Cosimo Borrelli, dated 25 November 2015 (“Borrelli 1st”) at [24].
+
+[5] HCCW 435/2012, Decision dated 15 December 2015.
+
+[6] Ibid. at [29].
+
+[7] Ibid. at [31].
+
+[8] HCMP 576/2016, Decision dated 3 November 2016 at [16].
+
+[9] CFI Judgment at [64].
+
+[10] Ibid. at [120].
+
+[11] Ibid. at [89], and see also [114] where she referred to the good reason having “ceased” to be so.
+
+[12] Borrelli 1st at [89]; this was also implied at [7], [18] and [62].
+
+[13] CFI Judgment at [107].
+
+[14] Ibid. at [110] and [113].
+
+[15] Ibid. at [111]-[119].
+
+[16] Ibid. at [124]-[127].
+
+[17] Ibid. at [129].
+
+[18] Ibid. at [142].
+
+[19] CA Judgment at [87].
+
+[20] Ibid. at [63].
+
+[21] Ibid. at [86].
+
+[22] CFI Judgment at [36] and [48]; CA Judgment at [41].
+
+[23] CFI Judgment at [106].
+
+[24] Ibid. at [103]-[104].
+
+[25] Ibid. at [111]-[112].
+
+[26] Ibid. at [125].
+
+[27] Ibid. at [127].
+
+[28] Ibid. at [128]-[133].  The plaintiff did not challenge this finding of the judge in its Notice of Motion.
+
+[29] Affirmation of Chang Wing Nin Eric, dated 26 January 2017 at [13].
+
+[30] CFI Judgment at [113]-[119].
+
+[31] Ibid. at [134]-[142].
+
+[32] Borrelli 1st at [77].
+
+[33] Affirmation of Chang Wing Nin Eric at [7].
+
+[34] Affidavit of Fiona June Steffensen, 23 February 2017, at [47].
+
+[35] Ibid. at [51].
+
+[36] Borrelli 3rd at [102].  Although we were told by Mr Charles Hollander, leading counsel for the plaintiff, at the hearing, that a second action in the same terms was commenced in 2018 in which a statement of claim has been served, no evidence about that action was before the Appeal Committee and it is therefore not a matter to be taken into account on this application.  In fairness to Mr Hollander, he did not suggest that it should be.
+
+ 
+

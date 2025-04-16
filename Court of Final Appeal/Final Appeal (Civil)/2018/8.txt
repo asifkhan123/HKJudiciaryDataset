@@ -1,0 +1,476 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 4 of 2018
+
+[2018] HKCFA 16
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 4 OF 2018 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 184 OF 2015)
+
+_____________________
+
+Between
+ 	DESIGNING HONG KONG LIMITED	Appellant
+ 	and	
+ 	THE TOWN PLANNING BOARD	Respondent
+ 	SECRETARY FOR JUSTICE	Intervener
+_____________________
+
+Before: Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Tang PJ, Mr Justice Bokhary NPJ and Lord Collins of Mapesbury NPJ
+Date of Hearing: 19 April 2018
+Date of Judgment: 15 May 2018
+_____________________
+
+J U D G M E N T
+
+_____________________
+
+Chief Justice Ma :
+
+A.   INTRODUCTION
+
+1.  In the normal course of civil litigation in the courts, any question regarding the costs of the main proceedings, as opposed to interlocutory matters, will generally be dealt with at the conclusion of those proceedings.  In an application for judicial review, where there is a substantive hearing of that application, the costs of the proceedings will usually be dealt with at the end.  Further, the usual rule as to the incidence of costs is that costs follow the event, meaning that in adversarial proceedings, the successful party will generally recover costs from the unsuccessful party.  However, this general rule is subject to exceptions where it would be fair and just.  The present appeal involves a consideration of an order in relation to costs whereby a party seeks at an early stage of public law proceedings to obtain an order to the effect that in the event that that party is unsuccessful, there will be no requirement to pay costs to the successful party.  This is known as a protective costs order (a PCO)[1] and this provides an exception to the usual approach as to costs just stated.  The principal point for determination in this appeal involves the examination of one aspect of the discretion to be exercised when considering whether or not to grant a PCO, namely, the aspect of the financial ability or resources of an applicant for a PCO, and in particular the position when that applicant is a company.  There are other points which I shall presently identify.
+
+A.1   Facts
+
+2.  The appellant, Designing Hong Kong Limited (DHKL) is a company limited by guarantee.[2] There were four founding members of the company, being Ms Christine Loh, Mr Markus Shaw, Mr Peter H Y Wong and Mr Paulus Johannes Zimmerman.  Mr Shaw and Mr Wong remain as directors of DHKL, Mr Zimmerman is the current Chief Executive Officer.  It is assumed that Ms Loh no longer has an active role within DHKL.
+
+3.  DHKL is a non‑profit organisation dedicated to Hong Kong’s environment.  One of its objects is to identify ways and means of enhancing the quality and sustainability of the environment for the benefit of residents and visitors. It was formed in 2007 when the Government announced plans for the Tamar Site and Central Waterfront Reclamation.  On 14 February 2014, the Town Planning Board (the TPB), the respondent in this appeal, decided not to amend what was known as the Amended Draft Outline Zoning Plan No. S/H24/8 (the ADOZP).[3]  The relevant area is a strip of waterfront land comprising a 150 metre stretch located at the north shore of Victoria Harbour near the People’s Liberation Army Garrison Headquarters. Prior to the ADOZP, the intention was that there was to be a continuous waterfront promenade along this area.  The ADOZP had the effect of changing this so that the 150 metre stretch would be rezoned to allow for a military dock to be built.[4] This affected the original planning intention of a continuous waterfront promenade through the Central area.
+
+4.  The TPB refused, despite representations to the contrary made by DHKL and others, to reconsider and amend the ADOZP.  This led to an application by DHKL for leave to apply for judicial review of the said decision not to amend.  The grounds for the application for leave are contained in the Form 86, raising issues of abuse of power, failure to carry out statutory duties and legitimate expectation.
+
+5.  Also included in the Form 86 was an application for a PCO protecting DHKL from liability to bear any of the TPB’s (the Respondent’s) costs of the proceedings, whether substantive or interlocutory; alternatively, that the TPB’s costs be capped at $10,000.00 and that any costs that should be borne by the TPB (if it was unsuccessful in resisting the proceedings) also be limited to the reasonable costs of a solicitor and junior counsel.  It is this application with which we are concerned in this appeal.
+
+A.2   The proceedings below
+
+6.  Leave to apply for judicial review was granted on 21 July 2014 after hearing submissions from both parties.  The court heard DHKL’s application for a PCO over two days.[5] By a judgment given on 30 April 2015, the application was dismissed with costs.  In the judgment, Au J remarked that this was the first time that the court had to deal with a PCO and examine the relevant principles applicable thereto.[6]  It was for this reason that the court had invited submissions from amici curiae,[7] as well as hearing submissions on behalf of the Director of Legal Aid.
+
+7.  DHKL appealed.  The appeal was heard over the course of four days[8] and was dismissed.  In the CA Judgment, it was said that as the questions regarding PCOs were raised for the first time for detailed consideration, the court would take the opportunity to lay down general guidance.  Owing to the importance of the matter, leave was given to the Secretary for Justice to intervene and make submissions.  There were no amici curiae before the Court of Appeal.  Notwithstanding that the appeal was dismissed, no costs were ordered.
+
+A.3   The questions for determination
+
+8.  The Court of Appeal refused leave to appeal to this Court,[9] and ordered DHKL to pay costs of $100,000.00 to the TPB.  On 30 October 2017, the Appeal Committee[10] granted leave to DHKL to appeal to the Court of Final Appeal.  The following questions were stated to be of great general and public importance :-
+
+“(1)   When considering whether to grant a Protective Costs Order (“PCO”) in a case which raises an issue of general public importance, the resolution of which by the Court is in the public interest, to an applicant that has no special personal or pecuniary interest in the outcome of the proceedings (and, in the case of a corporate applicant, the directors or members of which have no such interest):
+
+(a)   Should the Court consider, as relevant factors in the exercise of its discretion, whether:
+
+(i)   having regard to the financial resources available to the applicant and the respondent and the amount of costs likely to be involved, it is fair and just to make the order, and
+
+(ii)   that the applicant will probably discontinue the proceedings and that it would be acting reasonably in doing so? (cf. Corner House Research at para. 74(iv) and (v))
+
+Or is the applicant required to prove that it is “genuinely not in a position to fund the litigation or to bear the respondent’s costs in the proceedings” per Sections D5, F and para. 81(c) of the CA Judgment.
+
+If neither, what is the correct approach or principle to be applied to the financial resources available to the applicant?
+
+(b)   Where the applicant is a body corporate:
+
+(i)   Are the private financial resources of the directors and/or members of the applicant to be treated as relevant and, if so, should they be treated as available to the applicant or as if they are the financial resources of the applicant?
+
+(ii)   If the private financial resources of the directors and/or members are relevant, is an applicant for a PCO required to obtain and disclose the financial resources of its directors and/or members?  If so, how is such evidence (or its absence) to be taken into account in deciding upon a PCO?
+
+(c)   Further, what is the relevance of the availability of legal aid to persons who are not applicants to the principles upon which the jurisdiction should be exercised, both generally and in particular to applicants who are themselves ineligible for legal aid?
+
+(d)   Further, what is the relevance of the financial resources of the respondent and how should that be considered and taken into account when deciding on an application for a PCO?
+
+(2)   Is an application for a PCO to be considered at the leave stage on the principles set out in Corner House Research at paragraphs 78 to 81 inclusive, suitably adapted for the procedure under Order 53 of the Hong Kong Rules of the High Court, and applying the principles set out in Corner House Research as to the incidence of costs on such applications, or are such applications to be heard inter partes in some longer procedure as envisaged by the Court of Appeal at paragraphs 71 to 81 of its judgment and if so, on what basis as to costs?”
+
+The relevance and effect of these questions will be apparent later in this judgment.
+
+9.  We are grateful to counsel for the assistance they have given in this appeal and like the Court of Appeal, we would commend in particular those representing DHKL who have acted pro bono in this important matter.[11]
+
+10.  Before I deal with these specific questions, it is important first to set out some general principles regarding the granting of PCOs and the context in which the application for such orders is made.
+
+B.   PROTECTIVE COSTS ORDERS
+
+B.1   Statutory context
+
+11.  Section 52A(1) of the High Court Ordinance[12] provides that subject to rules of court,[13] the costs of civil proceedings are in the discretion of the court.  There is a similar discretion in the Court of Final Appeal.[14]  RHC Order 62 deals with costs and applies to all proceedings except non‑contentious or common form probate proceedings and proceedings in matters of prize.[15]  It applies to judicial review proceedings.
+
+12.  I mentioned earlier that in the normal course of civil proceedings, it is usual that the question of costs is dealt with at the conclusion of those proceedings.  This makes good sense as it is only at the conclusion of proceedings that the court is able to assess the overall justice of the proceedings when determining the question of costs.  Thus, for example, the court will be able to take into account the conduct of the parties over the course of the litigation, whether certain stances taken by the parties were justified, whether certain arguments ought to have been pursued and so on.  RHC O.62 r.5 sets out a number of relevant factors for the court to take into account and these include the underlying objectives set out in RHC O.1A r.1 and guidance is given to the types of conduct of the parties that may be relevant to be considered.[16]
+
+13.  I have also made reference earlier to the general rule that costs should follow the event.  RHC O.62 r.3(2) states that if a court sees fit to make an order as to costs, it shall order costs to follow the event.  This starting point is also recognized in cases involving the public interest : see the decision of this Court in Leung Kwok Hung v President of the Legislative Council (No. 2).[17]  The Court said[18] :-
+
+“An appeal against a judge’s refusal of leave, which in practice proceeds on an inter partes basis, should therefore be subject to the usual rules as to costs, namely that the starting point in civil litigation, even that involving the public interest, is that costs should follow the event.”
+
+This must, however, only be seen as a general rule and is subject to the discretion to take into consideration other relevant matters.  RHC O.62 r.5(1)(f) states, for example, that notwithstanding that a party has not been wholly successful, account should be taken of any success on a part of the case.[19]
+
+B.2   Public interest litigation (PIL)
+
+14.  It is clear from the statutory context that the court has a wide discretion as to costs.  In the context of public law cases,[20] the fact that matters of public importance are determined may have an important bearing on costs.  Sometimes, the public interest nature of the litigation is such that notwithstanding that a party may be unsuccessful, the court will not order costs against that party.
+
+15.  In Chu Hoi Dick and Another v Secretary for Home Affairs (No. 2),[21] Lam J (now Lam VP) gave useful guidance on the question of costs where PIL was involved.  Reference was made to the judgment of Li CJ in Town Planning Board v Society for the Protection of the Harbour Limited (No. 2)[22] where it was said[23] that the “fact that proceedings are commenced to vindicate the public interest, more particularly to protect a public asset which is a central element in Hong Kong’s heritage, rather than to assert or enforce some private right or interest, is plainly relevant to the exercise of the discretion.”  After going through a number of authorities from the United Kingdom (R (Corner House Research) v Secretary of State for Trade and Industry[24]) and the High Court of Australia (Oshlack v Richmond River Council[25]) as well as Hong Kong authorities (including Scott v Government of the Hong Kong Special Administrative Region[26]), Lam J formulated[27] a number of criteria relevant to the court’s consideration of whether it was appropriate to disturb the usual order of costs following the event :-
+
+“29. I shall therefore formulate the three criteria as follows,
+
+(a) A litigant has properly brought proceedings to seek guidance from the court on a point of general public importance so that the litigation is for the benefit of the community as a whole to warrant the costs of the litigation be borne by the public purse as costs incidental to good public administration;
+
+(b) The judicial decision has contributed to the proper understanding of the law in question;
+
+(c) The litigant has no private gain in the outcome.
+
+30. I should also mention that the public interest element is only one of the factors that is relevant for the exercise of the discretion as to costs. Even if all these criteria are satisfied, the court must also have regard to other relevant factors such as the conduct of the litigants in the proceedings in coming to a final decision on what is just in the circumstances. It is ultimately a matter of discretion, hence the use of the word ‘occasionally’ in the dicta of Kirby J.”[28]
+
+16.  Though reference was not made in these passages to the merits of the case, elsewhere in the judgment[29] Lam J referred to the necessity of demonstrating merits, the point being that however important the point in issue may be in a PIL case, a lack of merits will not often (if ever) save a party from an adverse order for costs.  The importance of merits was emphasized by the Court of Appeal in Chan Noi Heung v Chief Executive in Council.[30]  After referring to the statements of principle in Chu Hoi Dick and Oshlack, the court dealt with the facet of merits.  It was said :-[31]
+
+“9. In my judgment, it is clear from the cases (not to mention as a matter of plain commonsense) that, however important the subject matter of the relevant litigation or however important any particular legal point may be, it is highly relevant for a court (when considering the incidence of costs) to evaluate the merits of the failed challenge before it. In other words, the court has to ask itself: how meritorious were the issues raised before it? If the issues that were raised by the unsuccessful applicant were, upon analysis, really quite hopeless, then it is difficult to conceive of a court making any order other than costs following the event.”
+
+17.  Both Chu Hoi Dick and Chan Noi Heung were approved by this Court in Leung Kwok Hung (No. 2).[32]
+
+18.  In all these cases, the determination of costs was dealt with at the conclusion of proceedings.  A considered evaluation of merits and a resolution of the conduct of the parties are, as stated earlier, best undertaken at the conclusion of proceedings.  Even a consideration of whether the litigation really concerned a matter of sufficient public importance (or not) may sometimes only become clear at the conclusion of the proceedings : see R v Lord Chancellor Ex parte Child Poverty Action Group.[33]
+
+19.  Having referred to the relevant statutory context and the general position regarding the treatment of PIL cases, I now deal with the approach to PCOs.
+
+B.3   Court’s approach to Protective Costs Orders
+
+20.  It is in the above context that the approach in granting PCOs needs to be considered.  The lower courts found that much guidance was given by the decision of the English Court of Appeal in Corner House.  This case was referred to in Chu Hoi Dick, Chan Noi Heung and Leung Kwok Hung (No. 2) in the consideration of the question of costs in a PIL case.  All parties were agreed that the general approach to PCOs was to be found in Corner House.  I am also in agreement that Corner House does provide useful guidance in Hong Kong.
+
+21.  It is first important to note that there are three underlying aspects that ought to be firmly borne in mind in considering the grant of PCOs.
+
+22.  First, exceptionality.  A PCO is an exceptional order to make.  It is made at an early stage of the proceedings whereby the party applying for it seeks to be protected in any event from what otherwise may be a liability to pay all or any part of the other side’s costs in the relevant proceedings.  It is therefore pre‑emptive.  Not only is the question of the incidence of costs dealt with at the beginning of proceedings (rather than at the end of the case), in granting a PCO, the court makes a determination having the effect of denying costs to a potentially successful party even at this early stage.  This is irrespective of the future conduct of the case by the parties and irrespective of the merits of the case as the court may ultimately find them.  The discipline in the conduct of PIL cases can be expected to be the same as in any other type of case and often it is only at the conclusion of the case when this aspect can properly be assessed.  With the importance now of observing the underlying objectives of civil litigation in Hong Kong, the conduct of proceedings becomes even more relevant. As far as merits are concerned, even where an applicant for judicial review has obtained leave to apply for judicial review, thus satisfying the threshold test of demonstrating a reasonably arguable case which enjoys a realistic prospect of success,[34] this does not mean that ultimately a court will find that an applicant has sufficient merits in pursuing the case.[35]  In a sense, it is already exceptional to make an order along the lines discussed in Chu Hoi Dick whereby a successful party is deprived of an order for costs in his favour.  A PCO is all the more so given the stage at which it arises.
+
+23.  That a PCO is an exceptional order is shown in the cases.  In Corner House, the Court of Appeal agreed with Dyson J in the CPAG case that “the jurisdiction to make a PCO should be exercised only in the most exceptional circumstances.”[36] The Court of Appeal in the present case also described the jurisdiction to grant a PCO as “exceptional”.  In the course of its analysis, reference was made to the judgment of Hoffmann LJ in McDonald v Horn[37] in which the point was made that the rule as to costs following the event presented a “formidable obstacle” to a PCO being granted as it was difficult to have a case in which it was possible for a court to exercise its discretion properly in advance of the substantive decision.
+
+24.  Secondly, rationale.  It is necessary to identify a principled basis for the making of such an order.  The basis or rationale for making a PCO can really only be this, put simply : a court should consider granting a PCO in PIL cases involving an issue or issues of great public importance which should be determined and which would be stifled through lack of financial means to meet the potential costs liability to the other party or parties in such proceedings in case the applicant is unsuccessful.  In this respect, I have found particularly useful the analysis undertaken by the Court of Appeal in Corner House.[38]  I have also found useful the observation of Haddon‑Cave J in R (on the application of The Plantagenet Alliance Limited) v Secretary of State for Justice.[39]  Ms Kaufmann QC submits this is a fundamental access to justice issue and reference was made to Article 35 of the Basic Law and Article 10 of the Bill of Rights.[40]  I agree that in a broad sense access to justice is involved, although it is important to bear in mind that in the present context of PIL cases, it is access to the court for the determination not so much of private rights or to further private interests as of matters of general public importance.
+
+25.  Thirdly, fairness and justice.  As with all exercises of discretion in a procedural context, it is important for the court to bear in mind the overall fairness and justice of the application for a PCO.  Whenever flexibility is urged upon the courts in the exercise of discretion (and this was similarly urged on us in the application of the relevant principles), it is fairness and justice that lie at the heart of this.
+
+26.  With these essential aspects in mind, one can then proceed to examine the principles regarding the grant of PCOs.  Here, as the lower courts have accepted and as the parties have also accepted, the position is summarized in Corner House in the following passage[41] :-
+
+“74. We would therefore restate the governing principles in these terms.
+
+(1) A protective costs order may be made at any stage of the proceedings, on such conditions as the court thinks fit, provided that the court is satisfied that: (i) the issues raised are of general public importance; (ii) the public interest requires that those issues should be resolved; (iii) the applicant has no private interest in the outcome of the case; (iv) having regard to the financial resources of the applicant and the respondent(s) and to the amount of costs that are likely to be involved, it is fair and just to make the order; and (v) if the order is not made the applicant will probably discontinue the proceedings and will be acting reasonably in so doing.
+
+(2)   If those acting for the applicant are doing so pro bono this will be likely to enhance the merits of the application for a PCO.
+
+(3)   It is for the court, in its discretion, to decide whether it is fair and just to make the order in the light of the considerations set out above.”
+
+27.  It will presently be necessary to discuss the aspect of financial ability – the main focus of this appeal – but before doing so, I would just like to make the following observations regarding these principles :-
+
+(1)   The starting point is that PIL is involved.  This is reflected in paras. 74(1)(i) and (ii) of Corner House.
+
+(2)   It can be seen that paras. 74(1)(i) to (iii) largely resemble the factors that are relevant when considering to make an order for costs as discussed in Chu Hoi Dick.[42]  It must therefore follow that for a PCO to be granted, it is not enough simply to contend that PIL is involved. Something more needs to be shown.  That “something more” is reflected in paras. 74(1)(iv) to (v) of Corner House; in other words, it becomes essential to look at the financial ability of the applicant for a PCO in order to determine whether it would be fair and just to make an order.  This point was made by the Court of Appeal in the following passage[43] :-
+
+“81. To overcome the potential injustice to a respondent occasioned by a PCO being made in a case which after the substantive hearing turns out not to be a PIL case, there has to be some additional justification compelling such an exceptional measure to be adopted. Thus, at the interlocutory stage when the court is asked to assess whether a PCO should be made without knowing with some certainty that the PIL criteria would be satisfied at the end of the day, we are of the view that the court should bear in mind the following additional considerations (on top of those set out at [70] and [71] above) which are germane in assessing whether a PCO should be made in the public interest :
+
+(a) Because of the lack of full understanding of the issues and their merits at the interlocutory stage, a PCO represents a more exceptional departure from the general rule of costs following the event as compared with a Chu Hoi Dick order made after judgment on account of PIL;
+
+(b) The mere raising of a point of general public importance by an altruistic litigant (viz. one having no private gain or interest in the proceedings) is not a ground for the making of a PCO. The issue raised must be sufficiently special so that it would be contrary to the public interest and the interests of justice to deprive the court of the opportunity to adjudicate on the same in this particular case;
+
+(c)   As the applicant would have to fund his legal representation and as appropriate legal representation is necessary for the proper determination of an issue of such importance, and since a conditional fees agreement is not permitted in this jurisdiction, the court should be provided with information on how the applicant’s litigation is to be funded.”
+
+(3)   DHKL is critical of this passage.  It was contended that by the reference in para. 81(b) of the CA Judgment to the need to demonstrate “something special”, the jurisdiction to grant PCOs had somehow been narrowed down by the Court of Appeal.  This was attributed to a confusion that had arisen in the cases in England after Corner House.  The confusion was whether it was necessary to demonstrate some exceptionality beyond the Corner House principles referred to above.  It is neither desirable nor necessary to go into detail as to how the controversy developed in England.  It is sufficient merely to refer to the judgment of the English Court of Appeal in R (Compton) v Wiltshire Primary Care Trust.[44] In that case, the majority of the Court of Appeal held there was no additional element of exceptionality over and above the Corner House principles; exceptionality was only a “prediction as to the effect of applying the principles [of Corner House].”[45]  On the other hand, Buxton LJ held that there was an additional requirement to show exceptionality.[46]  The views of the majority have been accepted in subsequent cases : see for example R (Buglife – The Invertebrate Conservation Trust) v Thurrock Thames Gateway Development Corporation.[47]
+
+(4)   Whatever the position that may have transpired in England and whether or not it was at any stage intended to restrict the principles set out in Corner House, I do not read the judgment of the Court of Appeal in the present case as in any way imposing restrictions on the Corner House principles set out above.  On the contrary, the judgment of the Court of Appeal lays emphasis on the importance of the Corner House principles.
+
+(5)   I should also deal at this stage with another criticism of the Court of Appeal made by DHKL, this being one of the matters raised in the questions in this appeal.[48]  It was submitted that by its reference to the system of legal aid in Hong Kong, the Court of Appeal was somehow of the view that there ought to be a more restrictive approach to the granting of PCOs.[49] Where an applicant[50] for a PCO is ineligible for legal aid, the fact that a generous system of legal aid is available in Hong Kong is, it was contended, simply irrelevant.  Moreover, an applicant could not be expected to embark on a search for a person who would be eligible for legal aid and who could institute or continue proceedings in his place.  I do not think that the Court of Appeal was, by the reference to legal aid, in any way seeking to restrict the application of the Corner House principles.  The reference to legal aid in the judgment of the Court of Appeal was merely to explain why there have hitherto been hardly any applications for a PCO in Hong Kong.  As the evidence before the court showed, Hong Kong’s relatively generous system of legal aid (compared with many other jurisdictions) has ensured that most cases of public importance have over the years been determined by the courts.  This has also been the Judiciary’s experience.  In the vast majority of PIL cases, particularly since 1997, legal aid has played a significant part.  Put another way, as far as PIL cases are concerned, it is on the whole unlikely that a lack of means will prevent a PIL case from being heard.  I say “on the whole” because there are no ready figures on any cases which may have slipped through the legal aid net.  Lastly in this context, the reference to legal aid in the judgment of the Court of Appeal was also for the purpose of exercising caution when looking at some of the English authorities post Corner House.  It had been urged by DHKL that the Hong Kong courts should follow what was said to be a more liberal approach to PCOs in England.  The context of legal aid was therefore relevant in this respect.
+
+(6)   Ultimately, it is for the court to assess after looking at the various matters contained in paras. 74(1)(i) to (v) and (2) of Corner House whether it would be fair and just to exercise its discretion in favour of granting a PCO.  However, given that the rationale for granting a PCO is, as I have earlier stated, the stifling through lack of financial means to pursue a case in the public interest (the public interest not being by itself sufficient), the question of the applicant’s financial ability becomes an important matter to consider.  It is to this facet I now turn.
+
+C.   FINANCIAL ABILITY
+
+28.  This is essentially the point raised in question 1 of the questions on which leave was given by the Appeal Committee.[51]
+
+C.1   Assessment of the financial ability of the applicant : individual and corporate applicants
+
+29.  Paras. 74(1)(iv) and (v) of the Corner House principles underline the importance of considering not only the public interest when looking at the question of costs, but also at the respective positions of the parties to the relevant proceedings themselves to see how a PCO would or might affect them. The facet of financial resources or financial ability accordingly becomes essential to be considered.  I start with the position of the applicant. Before the court can come to a conclusion as to whether it would be fair and just to grant a PCO or, if an order is not made, whether the applicant will probably discontinue the proceedings and be reasonable in doing so (thus incorporating an objective element in the discretion), it must first be apprised of the financial ability of the applicant.
+
+30.  The burden is on an applicant to provide details going to financial ability to bear the likely costs of the other side should an adverse order be made against the applicant.  There should be no difficulty in understanding what needs to be shown. An applicant will need to disclose his financial resources.  There are no technical rules here; it is an exercise involving common sense.  Much argument was devoted in the case of corporate applicants (such as DHKL), and the position of shareholders and directors of the company, but the exercise remains the same with corporations as it does with individual applicants : the fundamental question remains, what financial resources does the applicant have at his disposal?  The inquiry here undertaken by the court is similar to that undertaken in other proceedings.  Proceedings for ancillary relief in matrimonial proceedings, determining whether security for costs should be ordered readily come to mind. Reference was made to Wing Hing Provision, Wines and Spirits Trading Company Ltd. v Hanjin Shipping Company Ltd.[52] where, in an application for security for costs, Godfrey JA asked whether a company could raise funds from directors, shareholders and other backers or interested parties.[53]  Reference was also made to the decision of Fok PJ in Tsit Wing (Hong Kong) Company Ltd. v TWG Tea Company Pte Ltd.[54] where, in an application for security for costs, it was said,[55] “The Court will need to know not only why the appellant cannot provide security from its own resources, but also why security cannot be raised by the appellants from some third party source”.
+
+31.  It is clear from these and other cases that in examining financial ability, it is legitimate, in the case of a corporation, to inquire not only as to assets belonging to the company, but also to other sources of funding to which the company would have access.  For example, a company may have lines of credit or other sources of funding available to it.  But what of the shareholders or directors or (in the present case) the guarantors of a company?  How far does the court associate the financial ability of a company with the financial resources of its shareholders, directors or guarantors or other persons who may provide financial support to that company?  This is central to DHKL’s submissions in this appeal.  It is contended that the court should not look at all to the financial resources or ability of shareholders, directors or other persons who may support the company or who may in the past have supported the company.  Such persons are not to be regarded as being synonymous with the company.  We were reminded that a company is to be seen as having a separate legal personality from its shareholders.  This contention overstates the position.  Some flexibility and realism need to be applied to the position of shareholders, directors, guarantors and other supporters of a company.  In some situations it may be entirely appropriate to look closely at the financial ability and resources of such persons, in other situations perhaps not.  There is no fixed approach one way or the other.  In the present case, for instance, the position of the directors and guarantors is simply stated : whatever their financial worth, they are unwilling to contribute any money to the litigation. In this situation, it would be pointless to expect details of financial ability or resources.  The assumption that the court would make is that these persons have the means but are simply unwilling to commit any resources to the litigation.
+
+32.  Ms Kaufmann QC referred to the decision of the United Kingdom Supreme Court in Goldtrail Travel Ltd. (in liquidation) v Onur Air Taşimacilik AŞ.[56] In that case, judgment had been given against a company but permission to appeal was given[57] to appeal to the Court of Appeal.  On the application of the respondent to the appeal, an order was made ordering the company to pay into court the judgment sum as a condition of appealing.  The company applied to set aside this order on the basis that it did not have the financial ability to comply with it and that its appeal would be stifled if the order was made.  The issue for the Supreme Court was whether the financial position of a third party such as a shareholder or director could be taken into account.  In that case, the owner of the company was a person of substantial means.
+
+33.  In the judgment of Lord Wilson JSC,[58] it was stated that as a general rule where an appellant had permission to appeal, it was wrong to impose a condition which had the effect of preventing him from bringing it or continuing it.[59]  Where a company is involved, it was always important to look at the financial ability or resources of that company as a starting point, and not assume that the financial ability or resources of a shareholder automatically reflected those of the company.  It was said in this context[60] :-
+
+“18. It seems that, in particular and as exemplified by the present case, difficult issues have surrounded the ability of a corporate appellant, without apparent assets of its own, to raise money from its controlling shareholder (or some other person closely associated with it); and this is the context of what follows. When, in response to the claim of a corporate appellant that a condition would stifle its appeal, the respondent suggests that the appellant can raise money from its controlling shareholder, the court needs to be cautious. The shareholder’s distinct legal personality (which has always to be respected save where he has sought to abuse the distinction: Prest v Prest [2013] 2 AC 415, 487, para 34) must remain in the forefront of its analysis. The question should never be: can the shareholder raise the money? The question should always be: can the company raise the money?”
+
+34.  Ms Kaufmann QC relies also on the following passage in the judgment of Lord Wilson :-
+
+“In this context the criterion is: “Has the appellant company established on the balance of probabilities that no such funds would be made available to it, whether by its owner or by some other closely associated person, as would enable it to satisfy the requested condition?”
+
+24.   The criterion is simple.  Its application is likely to be far from simple.  The considerable forensic disadvantage suffered by an appellant which is required, as a condition of the appeal, to pay the judgment sum (or even just part of it) into court is likely to lead the company to dispute its imposition tooth and nail.  The company may even have resolved that, were the condition to be imposed, it would, even if able to satisfy it, prefer to breach it and to suffer the dismissal of the appeal than to satisfy it and to continue the appeal.  In cases, therefore, in which the respondent to the appeal suggests that the necessary funds would be made available to the company by, say, its owner, the court can expect to receive an emphatic refutation of the suggestion both by the company and, perhaps in particular, by the owner.  The court should therefore not take the refutation at face value.  It should judge the probable availability of the funds by reference to the underlying realities of the company’s financial position; and by reference to all aspects of its relationship with its owner, including, obviously, the extent to which he is directing (and has directed) its affairs and is supporting (and has supported) it in financial terms.” (emphasis added)
+
+35.  This judgment provides useful guidance albeit in a different context.  It is not to be automatically assumed that the financial ability and resources of a shareholder, director or other persons are to be equated with and regarded as relevant when one is considering the financial ability or resources of a company.  Criticism was made of the judgment of the Court of Appeal in this respect, particularly of the following passage at the end of its judgment[61] :-
+
+“125. Where the applicant is a limited company said to be of no or scanty financial ability of its own, financial resources available to it would necessarily include financial assistance that its members or shareholders, directors or backers of the litigation can reasonably be expected to provide. It follows that the applicant must provide information on the financial resources of these individuals or bodies and if they are financially capable but are unwilling to fund the litigation, the reasons why. Requiring the corporate applicant to provide such information does not involve lifting its corporate veil as such. It only ensures that the court is provided with all the necessary financial information for it to make an informed decision on whether a PCO should be granted.”
+
+36.  I agree that the Court of Appeal can be said to have been too robust if it meant to say that shareholders, directors and other supporters “must” always provide information of their financial ability or resources.  The position is really this.  Whether or not it is appropriate to look at the financial ability or resources of the shareholders, directors or other supporters of a company depends on the circumstances of any given case.  This may, for example, involve looking at the history of support given to the company in question by the shareholders, directors or other people.  Usually, the court can expect evidence of why persons who would normally be expected to support the company or who have supported the company in the past (such as shareholders) no longer wish to do so or, if they are willing, why they cannot do so.  Thus, it will in some cases be necessary to provide details of the financial ability or resources of such persons; in other cases where the evidence demonstrates, this may not be appropriate or necessary at all.  It is also important to look at the “underlying realities of the company’s financial position”[62] and to adopt a common sense view of the matter.  Where I depart from Ms Kaufmann QC is her submission that in every case it will be impermissible to look at the financial ability or resources of the shareholders, directors or other people supporting the company, and the court is confined to looking only at the resources and assets in the company’s name or belonging to it.  There is no justification for this very narrow approach and with respect, it is not commensurate with common sense.
+
+37.  Finally, I would emphasize the need for an applicant to be full and frank when dealing with questions of financial ability.  It is important for an applicant properly and fully to explain his financial position to justify a claim for exceptional treatment in applying for a special costs order.
+
+C.2   Consequences of discontinuance of proceedings
+
+38.  The consideration of the financial ability of an applicant for a PCO is an important part of the court’s discretion.  If an applicant can be shown to have the necessary financial capacity of meeting an adverse order as to costs in the proceedings, I cannot readily conceive of any court granting a PCO in such circumstances.  This would be because if an applicant did have the financial ability or resources to meet an adverse costs order, it will hardly be reasonable for him to discontinue the proceedings in the absence of a PCO. Para. 74(1)(v) of Corner House will not be satisfied.
+
+C.3   Assessment of the financial ability of the respondent
+
+39.  Another of the criticisms levelled against the judgment of the Court of Appeal in the present case was that it was suggested that insufficient or no regard was paid to the resources of the respondent.  This criticism is not justified as the Court of Appeal did take this into account.  The financial resources of the respondent is clearly a relevant consideration in arriving at a fair and just outcome.
+
+C.4   Fairness and Justice
+
+40.  I have earlier alluded to the importance of looking at the overall fairness and justice of an application for a PCO.  These terms are referred to in para. 74(1)(iv) and repeated in para. 74(3) of Corner House.  RHC O.1A r.2(2) reminds us that in giving effect to the underlying objectives of rules of court, the court shall always recognize that the primary aim of exercising the procedural powers is to secure the just resolution of disputes in accordance with the substantive rights of the parties.
+
+41.  Some flexibility is therefore inherent in any exercise of discretion.  The Corner House principles are to be applied with the necessary flexibility in order to reach a fair and just outcome.  For example, the principle in para. 74(1)(iii) that the applicant should have no private interest in the outcome of the case may, in certain circumstances, be relaxed; after all, a matter may be of immense public importance notwithstanding that the applicant may have some personal benefit in the litigation.  This point was touched upon by the Court of Appeal[63] and has also been discussed in a number of English cases.[64]  As the point does not arise on the facts of the present case, it is not necessary to go into this further.
+
+42.  The assessment of financial ability is not a purely arithmetical exercise in which one compares the financial resources available to an applicant with the costs liability that the applicant might have to meet in case he is unsuccessful simply to see whether an applicant would in theory be able to meet such a liability.  Sometimes it will be fair and just to make an order even though an applicant’s resources might appear to be adequate to meet a potential adverse costs order. For example, an applicant’s resources may be committed to other identified liabilities or expenditures and it would be unreasonable to divert them to a costs liability instead.  Ms Kaufmann QC referred us to R (Howard League for Penal Reform) v Lord Chancellor whereby a PCO was ordered even though the applicant had the financial resources in theory to meet a substantial adverse award of costs.  The court accepted the applicant’s contention that it would not be financially prudent to run the risk of an adverse order as to costs, given the resources needed for its other activities.[65]  The critical question here is not whether, as a matter of dollars and cents, an applicant may be able to meet a potential costs order liability, but whether it would be fair and just to make a PCO.
+
+43.  In other situations, it may be fair and just not to make a PCO even though an applicant’s resources are limited and where it has been shown that his resources may be inadequate to meet an adverse costs order liability.  The example given during the course of submissions was of a limited liability company being used for the purpose of instituting proceedings.  Even though its resources would be limited and there was no possibility of the company meeting a costs liability, and even though the absence of a PCO may cause the company to discontinue the proceedings, it may be inappropriate to grant a PCO.  In such a situation, the court may regard it as neither fair nor just to make a PCO merely to enable persons behind the company (whether shareholders or otherwise), however wealthy they may be, to become insulated from costs by the device of utilizing a limited liability company.  Much depends on the circumstances.  Where the shareholders, directors and other supporters of a company are wealthy and who can in the circumstances be expected to support the company, but simply choose not to do so without any plausible or acceptable explanation, the court may take the view that it would not be fair or just to make a PCO.  It is one thing to say : “I caused the company to bring the proceedings and don’t have the money to meet an adverse costs order if it fails and so cannot see the litigation through without a PCO” and quite another to say : “I caused the company to bring the proceedings and I do have the money to meet an adverse costs order if it fails, but choose not to do so”.
+
+44.  Fairness and justice mean that the position of the other party to the proceedings is always taken into account.  Hence, it becomes relevant to look at whether those acting for the applicant are doing so on a pro bono basis (para. 74(2) of Corner House) as this will mean that the costs liability of the other party, in the event he is unsuccessful, is also limited.  This is also the justification for a PCO taking many forms, including the imposition of a condition capping the costs to which an applicant may be entitled if successful in the proceedings.  As was said in Corner House,[66] “A PCO can take a number of different forms and the choice of the form of the order is an important aspect of the discretion exercised by the judge.”
+
+D.   RESOLUTION OF THE APPEAL ON THE FACTS
+
+45.  With the above principles in mind, I now turn to the facts of the present case.
+
+46.  There has been no dispute over the principles contained in paras. 74(1)(i) to (iii) of Corner House : it is accepted that the present application for judicial review raises issues of general public importance, that these issues should be resolved by the court and that DHKL has no private interest in the outcome of the case.  The dispute between the parties has been over the financial resources of DHKL and whether it is fair and just to make a PCO in its favour.
+
+47.  DHKL’s case in this respect is straightforward.  It is contended that DHKL simply does not have the financial ability and resources to meet a potential liability as to the TPB’s costs in the event it is unsuccessful in the proceedings.  And so, it is further contended, if a PCO was not made, it would have no choice but to discontinue the present judicial review proceedings.  The following facts and matters are contained in the affirmation evidence placed by DHKL before the court[67] :-
+
+(1)   The guarantors of DHKL are those persons identified above.  The principal officers of the company are Mr Shaw and Mr Wong (who are the directors) and Mr Zimmerman (who is the Chief Executive Officer); they are also the guarantors of the Company.
+
+(2)   Throughout the course of the present proceedings, details of the company’s bank balance have been provided and also audited financial reports.  We are told that as at 7 February 2018, the bank balance of DHKL stood at $451,299.42.  This is well short of the likely costs exposure in the event DHKL is unsuccessful in the judicial review proceedings.
+
+(3)   The funding for the Company, apart from the directors, is somewhat unpredictable, relying on sponsorship and donations.
+
+(4)   As far as the directors are concerned, no details whatsoever are provided as to their financial worth.  Mr Zimmerman also provides no details of his own financial ability and resources.  Yet these three persons would usually be expected to support the Company.  They are the instigators of the present proceedings, who have chosen to use a corporate vehicle for this purpose.  However, no financial details have been provided because as Mr Zimmerman repeatedly states in his affirmations[68] (and this was the effect of Ms Kaufmann’s submissions as well), whatever their worth, they are simply unwilling to countenance contributing anything towards the costs of the present litigation.  As Mr Zimmerman deposes,[69] “Neither the Directors nor myself were eligible for legal aid or willing to expose ourselves to the risk of substantial legal costs for a case in which we had no personal interest (other than that shared by the public and [DHKL] itself), even though it was clearly a community interest championed by [DHKL].”  Again, in his latest affirmation,[70] Mr Zimmerman states that the directors “are unwilling to contribute their personal finances towards this litigation.”  This must also remain Mr Zimmerman’s position as well.
+
+(5)   It is said that without a PCO, DHKL was “at serious financial risk” and this would be so even if it were to discontinue or withdraw from the present proceedings.  Much of its resources have been used to pay existing costs orders and also to provide security for costs to appeal to this Court.[71] Funding for its projects has been cut and even amounts spent on salaries and overheads have been reduced.
+
+48.  In my view, as a matter of fairness and justice, a PCO should not be granted in the present case :-
+
+(1)   Both Au J and the Court of Appeal were critical of DHKL’s failure to provide information as to the financial ability and resources of the directors.[72] These criticisms require some qualification.  While it is true that both directors and Mr Zimmerman have consistently refused to provide such information, their position was that this information is irrelevant.  Their position, as stated above, was a simple one : whatever their worth and it can even be assumed that they are persons of substantial means, they are unwilling to finance the litigation and certainly unwilling to meet any adverse costs orders against them.  In addition, they assert that if a PCO was not granted, the Company would discontinue the proceedings and the proceedings, which do involve matters of public interest, will not be heard.
+
+(2)   DHKL’s stated position is an unattractive one that cannot be accepted to justify the grant of a PCO.  As observed earlier, shareholders, directors and (in the present case) guarantors can be expected in the normal course of things to be the main supporters, financially and otherwise, of a company.  When such persons refuse to do so, the court is entitled to inquire as to the reasons why this is so.  In the present case, the directors and the CEO, all guarantors and, as stated earlier the instigators of the present litigation, upon analysis wish to be insulated from an order for costs through the means of a limited liability and under resourced company.  By reason of their unwillingness to vouchsafe details of their financial ability, they can be assumed to have the means to finance the Company and meet its obligations regarding costs, but are unwilling to do so and choose effectively not to do so.  This is despite the fact that quite clearly, they are the main driving forces behind the present litigation.
+
+(3)   The obvious potential unfairness to the TPB is not addressed, only that it is asserted that the TPB, through being supported out of the public purse, would not be too seriously prejudiced. However, even where the respondent to an application for a PCO is funded by the public purse, this is not to say there is no prejudice in the event it is unable to recover costs.
+
+(4)   DHKL’s position is tantamount to saying that where paras. 74(1)(i) to (iii) of Corner House are satisfied, without more, a PCO ought to be granted.  Financial ability is relegated to a relatively unimportant factor, particularly in the case of a company which has insufficient funds in its own name to meet an adverse costs order.  Yet, as shown above, the whole rationale of a PCO is to ensure that proceedings in which points of great public importance arise, are not stifled through a lack of financial means.  Financial ability or inability is important.  This has to be approached meaningfully as a matter of substance and above all, approached consistently with fairness and justice.
+
+E.   PROCEDURE IN DETERMINING APPLICATIONS FOR PCOs
+
+49.  This is question 2 of the questions on which leave was given.  None of the parties however has really addressed the court on this question and in my view it is not necessary in this judgment to set out detailed guidance on matters of procedure regarding PCOs.  There is an evident advantage in hearing such applications at an early stage involving all relevant parties but as to what is suitable will depend on the view the court takes regarding what is the most convenient case management course to adopt.  The hearing should not take the time that it took in the lower courts in this case, but the length of the hearings in the present case was attributable mainly to having to deal with matters of principle.
+
+F.   CONCLUSION
+
+50.  For the above reasons, this appeal is dismissed.  On costs, given the importance of the matters involved in this appeal, I would make an order nisi that there be no order as to costs.  Should any party wish for a different order for costs, written submissions should be lodged with the Registrar and served on the other parties within fourteen days of the handing down of this judgment, with liberty to the other party or parties to lodge and serve written submissions in reply within fourteen days thereafter.  In the absence of any written submissions seeking to vary within the time limited for their service, this costs order nisi will become absolute.
+
+Mr Justice Ribeiro PJ :
+
+51.  I agree with the judgment of the Chief Justice.
+
+Mr Justice Tang PJ :
+
+52.  I agree with the judgment of the Chief Justice.
+
+Mr Justice Bokhary NPJ :
+
+53.  Despite the arguments so ably advanced by Ms Phillippa Kaufmann QC for the appellant Designing Hong Kong Ltd, I agree with Chief Justice Ma that this appeal should be dismissed with, as he proposes, an order nisi that there be no order as to costs.
+
+54.  Designing is a company limited by guarantee and without any shareholders. It obtained leave to apply for judicial review.  But the judge refused it a protective costs order (“PCO”).  That refusal was affirmed by the Court of Appeal.
+
+55.  In seeking a PCO, Designing filed evidence that it would not be able to meet any order for costs that might be made against it in the judicial review proceedings.  But it provided no information on its directors’ finances.  Its stance is that such information is irrelevant since (i) its directors have not pledged their support, (ii) they do not have any personal interest in the judicial review proceedings and (iii) it is not a corporation established to conceal or evade anyone’s financial liability to fund litigation.
+
+56.  The courts below felt that without information on the finances of Designing’s directors it was not possible to decide whether the judicial review proceedings would probably be discontinued unless a PCO is granted.  Designing’s chief executive officer Mr Paulus Johannes Zimmerman has said on affidavit that those proceedings would be discontinued unless a PCO is granted.  No application to cross-examine him having been made, it might well be appropriate to find that those proceedings would probably - not certainly but probably - be discontinued if no PCO is granted.  However that may be, such a finding would not end the matter.  The courts below also felt that without information on Designing’s directors’ finances it was not possible to decide whether any such discontinuance would be reasonable.
+
+57.  Information on the finances of the individuals in question was not sought merely because they are directors.  They are the directors who authorized the bringing of the judicial review proceedings. I underline that hopefully to avoid, but at least to reduce, the “chilling effect” which Ms Kaufmann warned against.
+
+58.  In a contested application for a PCO the court has of course to do justice between the parties. Suppose a corporate applicant says that being refused a PCO would cause it to discontinue its judicial review proceedings.  Then it is sometimes - not always but sometimes - justified to hold that deciding whether such discontinuance would be reasonable requires information on the applicant’s director’s and/or shareholders’ finances.
+
+59.  The fact that Mr Zimmerman went to the directors concerned for funds is some indication that they are in a position to provide the funds requested.  In any event, Ms Kaufmann is content to have it assumed that they can afford to provide those funds.  They are not willing to do so.  There is no clear (if any) indication why not.
+
+60.  As to that, the view taken by the courts below comes to this. Information on the finances of those directors would shed light on why they are unwilling to provide the funds requested.  So without such information it was not possible satisfactorily to decide whether discontinuance absent a PCO would be reasonable. That view, taken by the first instance judge and affirmed by the intermediate appellate court, involved a question of fact and degree in the context of an exercise of discretion. I am not persuaded that it ought to be overturned on final appeal.  That disposes of the present appeal. But there remains a number of things to be said.
+
+61.  Access to the courts is an arterial right, being the channel by which judicial enforcement of legal entitlements is sought. In public interest litigation, access to the courts has an added dimension.  Typically, such litigation involves elucidating public law points of wide implications.  Where a party’s access to the courts for such elucidation is inhibited by the risk of having to pay the other side’s costs, the resulting injustice would be not only to the party so inhibited but also to the public.  PCOs are designed to remove such inhibition by protecting against or at least limiting the potential liability to pay the other side’s costs.
+
+62.  That being so, the appropriate time to entertain an application for a PCO in judicial review proceedings is, at least in general, when leave to apply for judicial review is sought.  There is a range of procedural options open to the court when deciding whether to grant such leave.  So is there a range of such options open to the court when deciding whether to grant a PCO.
+
+63.  Circumstances naturally vary from one place to another.  But I see no reason why Hong Kong’s PCO regime should be more restrictive than those of comparable jurisdictions. (1) In Hong Kong the availability of legal aid is wider than it appears to be in Britain.  But that is no reason why PCOs should be more difficult to obtain here even in cases in which legal aid is not available.  The relatively wider availability of legal aid in Hong Kong makes it correspondingly rare for a PCO to be sought here.  That reduces the demand that PCOs make on public money.  Such reduction is hardly a reason why PCOs should be more difficult to obtain. (2) As for the discretion exercisable at the end of a case not to order costs against an unsuccessful judicial review applicant, it does not appear to be unique to Hong Kong. In any event, it serves a purpose different from the one served by the discretion to make a PCO. (3) In Hong Kong where democracy still has a long way to evolve, persons might well resort to public interest litigation in circumstances under which persons in evolved democracies would resort to the political process instead.  That difference is anything but a reason why PCOs should be more difficult to obtain here.
+
+64.  The law on the funding of public interest litigation may in time develop to become more conducive to access to the courts than it is at present.  Such development may come by way of legislation, judicial decision or both.  In the present case, we have not been invited to adopt an approach more favourable to PCO applicants than the approach laid down in R (Corner House Research) v Secretary of State for Trade and Industry [2005] 1 WLR 2600.  Having regard to the questions on which leave to bring the present appeal was granted, the constitutional argument of which there is a foretaste in Designing’s supplemental printed case was not pursued.  The resolution of any such argument would be for some future occasion.  Meanwhile, close attention is to be paid to the particular circumstances of the present case.  Even if this decision is not one which NGOs, for example, would particularly welcome, it is, properly understood, not a decision of which anyone resorting to public interest litigation need be fearful.
+
+65.  In thanking all the lawyers in the case, I am confident that no one would begrudge my making such thanks especially to Designing’s lawyers, they having acted pro bono.
+
+Lord Collins of Mapesbury NPJ :
+
+66.  I agree with the judgment of the Chief Justice.
+
+Chief Justice Ma :
+
+67.  For the above reasons, this appeal is unanimously dismissed.  A costs order nisi is also made that there be no order as to costs.
+
+  
+
+  
+
+(Geoffrey Ma)	(R A V Ribeiro)	(Robert Tang)
+Chief Justice
+Permanent Judge
+Permanent Judge
+  
+
+  
+
+(Kemal Bokhary)	(Lord Collins of Mapesbury)
+Non-Permanent Judge	Non-Permanent Judge
+  
+
+Ms Phillippa Kaufmann QC, Mr Nigel Kat SC, Mr Azan Marwah and Ms Katherine Olley, instructed by Boase Cohen & Collins, for the Appellant
+
+Mr Johnny Mok SC and Mr Jenkin Suen, instructed by the Department of Justice, for the Respondent
+
+Mr Wong Yan Lung SC and Mr Abraham Chan SC, instructed by the Department of Justice, for the Intervener
+
+
+[1] The order is also known as a pre‑emptive costs order.
+
+[2] This is a company where the liability of its members is limited by the company’s articles of association to such amount as the members undertake to contribute to the assets of the company in the event of its being wound up : see sections 9 and 84(2) of the Companies Ordinance, Cap. 622.  Such a company has no share capital and is an appropriate form of limited liability corporation when no profits are intended to be distributed.  Accordingly, companies limited by guarantee are usually charities or non‑profit organisations.
+
+[3] For a brief description of so‑called draft plans, see Town Planning Board v Town Planning Appeal Board (2017) 20 HKCFAR 196, at para. 2 fn 5.
+
+[4] The planned Central Military Dock.
+
+[5] On 16 and 17 December 2014 before Au J.
+
+[6] Para. 8 of the Judgment (the CFI Judgment).
+
+[7] Mr Stewart Wong SC and Ms Bonnie Cheng.
+
+[8] Before Cheung CJHC, Lam VP and Jeremy Poon JA.  The judgment of the Court of Appeal (the CA Judgment) was handed down on 16 February 2017.
+
+[9] On 7 June 2017.
+
+[10] Ma CJ, Ribeiro and Tang PJJ.
+
+[11] Ms Phillippa Kaufmann QC, Mr Nigel Kat SC, Mr Azan Marwah and Ms Katherine Olley represented DHKL, instructed by Messrs Boase Cohen & Collins.  The TPB was represented by Mr Johnny Mok SC and Mr Jenkin Suen.  Mr Wong Yan Lung SC and Mr Abraham Chan SC acted for the Intervener.
+
+[12] Cap. 4. Applications for judicial review are heard in the High Court.
+
+[13] The relevant rules are contained in the Rules of the High Court (Cap. 4A) (the RHC).
+
+[14] Section 43 of the Hong Kong Court of Final Appeal Ordinance Cap. 484.
+
+[15] RHC O.62 r.2(1).  The discretion in relation to costs contained in s. 52A of the principal ordinance is to be exercised in accordance with RHC O.62 : see O.62 r.2(4).
+
+[16] See also in this respect Hong Kong Civil Procedure 2018 Vol. 1 at para. 62/5/6.
+
+[17] (2014) 17 HKCFAR 841.
+
+[18] At para. 17(8).
+
+[19] See also the commentary in Hong Kong Civil Procedure 2018 Vol. 1 at para. 62/5/7.  This general rule of costs following the event is not applicable to interlocutory proceedings : RHC O.62 r.3(2).
+
+[20] Which includes applications for judicial review.
+
+[21] [2007] 4 HKC 428.
+
+[22] (2004) 7 HKCFAR 114.
+
+[23] At para. 19.
+
+[24] [2005] 1 WLR 2600.  It will be necessary to discuss this case in greater detail later.
+
+[25] (1998) 193 CLR 72.
+
+[26] [2004] 2 HKLRD 989.
+
+[27] At paras. 29 and 30.
+
+[28] This was a reference to the judgment of Kirby J in Oshlack (at para. 136).
+
+[29] At paras. 23 and 42.
+
+[30] [2009] 3 HKLRD 362.
+
+[31] At para. 9.
+
+[32] At paras. 17(10) and (11).
+
+[33] [1999] 1 WLR 347, at 357A-D.  I shall hereinafter refer to this case as the CPAG case.
+
+[34] This is the test in applications for leave to appeal for judicial review : see Po Fun Chan v Winnie Cheung (2007) 10 HKCFAR 676, at para. 15.
+
+[35] Chan Noi Heung at paras. 11 and 12.
+
+[36] At para. 72.
+
+[37] [1995] ICR 685, at 694.
+
+[38] In the section headed “Protective costs order : the historical setting” at 2613-2617 (paras. 28 to 43).
+
+[39] [2014] EWHC 3164 at para. 7.
+
+[40] Contained in the Hong Kong Bill of Rights Ordinance Cap. 383.
+
+[41] At para. 74.
+
+[42] See paras. 15-16 above.  The order whereby no adverse order for costs is made against the unsuccessful party at the conclusion of proceedings is popularly known as a “Chu Hoi Dick Order”.
+
+[43] At para. 81.
+
+[44] [2009] 1 WLR 1436.
+
+[45] At para. 24.  Smith LJ agreed with the judgment of Waller LJ : see paras. 80-82.
+
+[46] At paras. 64-66.
+
+[47] [2009] 1 Costs LR 80.
+
+[48] See Question (1)(c) set out in para. 8 above.
+
+[49] Para. 19b of the Appellant’s Case.
+
+[50] Or, in the case of a corporation as in the present case, its directors, members or guarantors.
+
+[51] See para. 8 above.
+
+[52] [1998] 4 HKC 461.
+
+[53] At 464E-F referring to Keary Developments Limited v Tarmac Construction Ltd. [1995] 3 ALL ER 534, at 539‑40.
+
+[54] (2015) 18 HKCFAR 283.
+
+[55] At para. 12.
+
+[56] [2017] 1 WLR 3014.
+
+[57] Under the Civil Procedural Rules applicable in England.  In Hong Kong, the term used in our Rules is still leave to appeal.
+
+[58] This was the judgment of the majority of the court (together with Lord Neuberger of Abbotsbury PSC and Lord Hodge JSC).  Lord Clarke of Stone-cum-Ebony and Lord Carnwath JJSC were in the minority.  The dissent was on the facts.
+
+[59] At paras. 12 and 16.
+
+[60] At para. 18.
+
+[61] A similar criticism was made of that part of Au J’s judgment in which it was said (at CFI Judgment para. 67) that for a company “it is legitimate and proper for the court to look at the financial means of not only the company itself but also of its directors and shareholders as well as the ability of the company to raise funds from other sources.”
+
+[62] Goldtrail at para. 24, set out in para. 34 above.
+
+[63] At CA Judgment para. 106.
+
+[64] Such as Compton (para. 27(3) above) at para. 23; Morgan and Baker v Hinton Organics (Wessex) Ltd. (2010) 1 Costs LR 1, at paras. 29, 35‑40; Plantagenet at paras. 21‑28.
+
+[65] The case is reported at [2017] 4 WLR 92, although the reasons for making a PCO are not contained in this report.  It was separately provided to us.
+
+[66] At para. 75.
+
+[67] This evidence was unchallenged by the TPB in that no cross examination was sought of the deponent to these affirmations, being Mr Zimmerman.
+
+[68] He has provided 11 affirmations.
+
+[69] In his 7th affirmation dated 22 October 2016.
+
+[70] The 11th affirmation.
+
+[71] DHKL, despite claiming it was unable to raise the money, was ordered to provide security for costs in the sum of $400,000 : see Decision dated 20 December 2017.
+
+[72] See CFI Judgment at para. 68, CA Judgment at paras. 124‑126.
+
+ 

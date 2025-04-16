@@ -1,0 +1,188 @@
+FAMV No. 95 of 2021
+
+[2021] HKCFA 23
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 95 OF 2021 (CIVIL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL FROM
+
+CACV NO. 5 OF 2018)
+
+________________________
+
+BETWEEN	 	 
+OSMAN MOHAMMED ARAB and	Plaintiff
+ 	WONG KWOK KEUNG, The Joint and Several Trustees-in-Bankruptcy of	(Applicant)
+ 	NG SHIU KWAN (伍兆鈞), a Bankrupt	 
+and	
+NG SHUI CHING, IRENE (吳瑞清)	1st Defendant
+ 	 	(1st Respondent)
+GAIN WHOLE DEVELOPMENT LIMITED	2nd Defendant
+ 	(增皓發展有限公司)	(2nd Respondent)
+________________________
+
+Appeal Committee: Mr Justice Ribeiro PJ, Mr Justice Fok PJ and Mr Justice Bokhary NPJ
+Date of Hearing and Determination: 9 July 2021
+Date of Reasons for Determination: 15 July 2021
+________________________________
+
+REASONS FOR DETERMINATION
+
+________________________________
+
+Mr Justice Ribeiro PJ:
+
+1.  We refused leave to appeal at the hearing for the reasons now provided.
+
+2.  On 9 May 2013, a bankruptcy petition was presented in respect of Mr Ng Shiu Kwan (“Mr Ng”) leading to a bankruptcy order against him on 10 July 2013.  This application for leave to appeal arises out of proceedings by Mr Ng’s trustees in bankruptcy (“TIB”) to set aside a transaction involving the transfer on 8 October 2012 of Mr Ng’s 54,999 shares in Gain Whole Development Ltd (“Gain Whole”, the second defendant/second respondent) to his wife Irene Ng Shui Ching (the first defendant/first respondent, “Mrs Ng”) who held the remaining 45,001 shares in Gain Whole.  Gain Whole’s sole asset was a flat in a property known as Begonia Mansion.
+
+3.  The TIB submitted that the transaction had to be set aside as falling foul of sections 49, 50 and 51 of the Bankruptcy Ordinance (“BO”)[1] and/or section 60 of the Conveyancing and Property Ordinance (“CPO”).[2]  In particular, they contended that:
+
+(a)     the transfer of shares on 8 October 2012, took place within the specified statutory period and was at an undervalue, effected when Mr Ng was insolvent, thereby triggering the setting aside provisions of BO section 49;
+
+(b)     the aforesaid transfer of shares was intended to give Mrs Ng an unfair preference over Mr Ng’s other creditors at a time when he was insolvent, thus activating BO section 50; and,
+
+(c)     the transfer to Mrs Ng was a disposition of property made with intent to defraud Mr Ng’s creditors, thus engaging CPO section 60.
+
+4.  The cornerstone of the defendants’ defence was that the TIB were focussing on the wrong transaction.  The defendants’ case was that Mr Ng had divested himself of his beneficial interest in the shares almost three years earlier when he had executed a Declaration of Trust over those shares in favour of Mrs Ng thereby transferring his interest to her absolutely as a means of repaying loans that his wife had made to him between June 2004 and October 2007 to help support his business ventures and other expenses. 
+
+5.  The crucial issue was thus whether the alleged Declaration of Trust had genuinely been executed on 1 November 2009 and had validly divested Mr Ng of his beneficial interest in the shares or whether, on the contrary, it was not until the share transfer documents were executed on 8 October 2012, that the beneficial interest had passed. 
+
+6.  This was crucial because, according to the evidence, on 1 November 2009 when the Declaration of Trust was executed, Mr Ng was solvent and had no creditors other than his wife.  Moreover, on the then state of the property market, the value of Mr Ng’s shareholding largely matched Mr Ng’s outstanding debt of $4,404,644.70.  Thus, in November 2009, Mrs Ng would not have received the beneficial interest in his shares at an undervalue, but would have given full consideration in the form of permitting Mr Ng’s debts to be set off and none of the BO or CPO sections would be engaged. 
+
+7.  On the other hand, if the Declaration of Trust did not take place in 2009 or was invalid, and if the relevant disposition only occurred by the share transfer on 8 October 2012, the increased market value of the flat three years later would have meant that the shares had been transferred at an undervalue by reference to the outstanding debt.  Moreover, Mr Ng had by then become insolvent with debts to banking and other creditors, so that the disposition of the Gain Whole shares to his wife would have involved an unfair preference and been subject to being set aside by the court.
+
+8.  Arguing that the latter, and not the former, view of the facts should be taken, the TIB mounted a wholesale attack on the defendants’ case based on the Declaration of Trust.  They argued that there had been no underlying loans by Mrs Ng and so no consideration for the transfer; that Mr and Mrs Ng did not keep separate finances but merely had a domestic arrangement regarding their funds and had never formed an intention to create mutual legal relations as debtor and creditor; that the Declaration of Trust was a sham and was not intended to effect an immediate transfer to Mrs Ng of Mr Ng’s beneficial interest in the shares, but rather, that they intended to trigger the transfer only if and when he became insolvent; that at most, if the loans had been made and were legally binding, the Declaration of Trust was intended merely to serve as security for repayment and did not transfer the beneficial interest as alleged.
+
+9.  After considering the documentary evidence and hearing witnesses over a five-day trial,[3] despite having doubts about Mr Ng’s credibility in some respects, Au-Yeung J held firmly in favour of Mr and Mrs Ng.  Her Ladyship found that they had maintained separate finances;[4] that the loans were not merely a “domestic arrangement” but were made and intended as genuine loans by Mrs Ng to Mr Ng, as evidenced by contemporaneous documents;[5] that they intended their rights in Begonia Mansion to be affected in case of non-repayment;[6] that on 30 October 2009, Mr Ng had acknowledged his debts in what was referred to as the “2nd Statement of Debts”, witnessed by Madame Yeung, Mrs Ng’s aunt (who was found to be a truthful witness)[7];  that Mr Ng was then solvent and had about $12 million but did not want to use his funds to repay the loans but instead, that they had agreed to set-off his shares against his debts;[8] that on the next day, 1 November 2009, Mr Ng had executed the Declaration of Trust (again witnessed by Madame Yeung) intending to set off the loans and there and then to transfer to Mrs Ng his beneficial interest in the shares.[9] 
+
+10.  Au-Yeung J held that Mrs Ng had provided full consideration for the transfer of shares in the light of the 2009 valuation of the Begonia Mansion flat so that there was no undervalue;[10] that there was accordingly no unfair preference, bearing in mind also that Mrs Ng was Mr Ng’s only creditor at that time;[11] that Mr Ng was then solvent and there was no intention to defraud any creditors;[12] and that it was only in 2012 that Mr Ng started to be unable to repay his debts.[13]  The transfer of registered ownership of the shares by Mr Ng to Mrs Ng on 8 October 2012 was implementation of the transfer of beneficial interest effected by the Declaration of Trust on 1 November 2009.  Mr Ng did not satisfactorily explain why there had been such delay, but Mrs Ng had been pressing for the transfer in 2010 and the delay did not cast doubt on the validity of the trust.[14]
+
+11.  The TIB endeavoured to attack the Judge’s findings and conclusions in the Court of Appeal.[15]  Ms Audrey Eu SC,[16] sought to argue that reading the Declaration of Trust together with the 2nd Statement of Debt and considering the evidence as a whole, the Judge ought to have found that there was no intention to effect an immediate transfer of Mr Ng’s beneficial interest in the shares at the date of the Declaration of Trust.  Instead, it was argued, the Judge should have found that the trust was a sham, Mr Ng’s intention being not to divest himself of the shares until he was unable to repay his debts.  It was also argued that the Judge should have held that Mr and Mrs Ng had no intention to create legal relations under the 2009 Agreement; that her Ladyship had erred in finding that they had maintained separate finances; and that the 2009 Agreement and Declaration of Trust had been made with an intention to defraud creditors and were against public policy.[17]
+
+12.  Lam VP (writing for the Court of Appeal), after analysing the Judge’s findings,[18] held that, on the principal ground of appeal, the Judge could not be said to be plainly wrong in her finding as to the intention that the transfer of beneficial interest was to be immediate.[19]  His Lordship observed that important aspects of the case advanced in the Court of Appeal, including allegations of “sham”, had not been pleaded, not put to the witnesses and not formed part of the case run by the TIB at trial.[20]  He held that certain unpleaded arguments, such as that only a security interest was intended to be created, could not be entertained without serious procedural injustice in that the case might have been conducted differently and further evidence adduced if such arguments had been raised at the trial.[21]
+
+13.  His Lordship held that the Judge had properly considered the fact that the arrangement was between husband and wife in connection with her finding of an intention to create legal relations and had ample evidence to support her conclusion.[22]
+
+14.  The Court of Appeal’s refusal of leave to appeal[23] resulted in the present application.  On behalf of the TIB, Ms Eu SC seeks leave proposing the following as questions of great general or public importance involved in the appeal which ought to be submitted to the Court for decision:
+
+Question 1:
+
+“What are the relevant factors governing the enforceability of a purported loan repayment agreement made between married couples living in harmony; alternatively, whether any or all of the following factors relating to such loan repayment agreement indicate an intention not to create legal relations; alternatively whether any or all of the following factors relating to such loan repayment agreement renders the same contrary to public policy or caught by sections 49 and 50 of the Bankruptcy Ordinance (Cap 6) (“BO”) or section 60 of the Conveyancing and Property Ordinance (Cap 219) (“CPO”).
+
+(1) An express intention of the married couple to repay by way of transfer or set off of property from the debtor spouse to the creditor spouse only to take effect when the debtor spouse is unable to pay his/her debts.
+
+(2) The purported loan or repayment agreement selectively ignores or fails to take account of or is inconsistent with other substantial contemporaneous fund flow from the debtor spouse to the creditor spouse by way of gift (or whether such artificial selection by ignoring other substantial contemporaneous fund flow for the purpose of repayment or set off is permissible as different subject matter on the authority of Granatino v Radmacher [2011] 1 AC 534).
+
+(3) The inconsistency and uncertainty in the express wording of the purported loan repayment agreement.
+
+(4) The delay in the completion of such transfer or set off until such time when the debtor spouse is unable to pay his/her debts.”
+
+Question 2:
+
+“Whether an owner who makes a pledge of property and retains to himself an equity of redemption can at the same time make a declaration of trust of the same property whereby the beneficial interest thereof immediately passes to the beneficiary”.
+
+Question 3:
+
+“Whether the said sections of the BO and the CPO are engaged when a bankrupt enters into an agreement, whilst solvent, to dispose of his beneficial interest by way of declaration of trust but at the same time retains an equity of redemption until such time when he becomes insolvent and unable to redeem his interest”.
+
+Question 4:
+
+“Whether an agreement as aforesaid between married couples living in harmony is a fraudulent scheme to prefer the spouse over general creditor and whether such agreement is caught by the said sections in the BO or the CPO or contrary to public policy”.
+
+15.  This application faces formidable obstacles. The first is the requirement that the issues raised by the questions proposed should be of great general or public importance and not merely specific to the case at hand.  Secondly, it has to confront the Court’s firmly established practice that it will not interfere with findings of fact concurrently made by the trial court and the Court of Appeal unless there has been some miscarriage of justice or some other violation of some principle of law or procedure to warrant such interference.[24] As Lam VP pointed out, in Suen Shu Tai v Tam Fung Tai (No 2),[25] Ma CJ reiterated:
+
+“... the Court does not, save in rare and exceptional cases, review concurrent findings of fact. It is no part of the Court of Final Appeal’s function to debate ‘yet again the factual findings made at first instance and previously reviewed by the Court of Appeal’ in the hope on the part of an appellant of finally obtaining favourable findings.”
+
+16.  The four proposed questions are all case-specific and cannot be said to involve issues of great general or public importance.  They address the particular facts of the present case: the nature of the loan repayment agreement; the intention of Mr and Mrs Ng; the “fund flows” between them; the delay in transfer; the suggested retention of an equity of redemption; the alleged agreement between them.  On that ground alone, leave to appeal is not warranted.
+
+17.  Secondly, the factual premises underlying various aspects of the proposed questions involve a challenge to concurrent findings which are inconsistent with those premises.  Thus, in Question 1, the premise that the transfer of beneficial interest was intended “only to take effect when the debtor spouse is unable to pay his/her debts” was specifically rejected on concurrent findings.  And the “fund flows” referred to were duly taken into account and found concurrently to have been consistent with the intention to make an immediate transfer.  Similarly, the delay between Declaration of Trust and the transfer documents was considered and concurrently found to be consistent with such intention.  No basis for departing from the Court’s practice on concurrent findings is made out.
+
+18.  Other points embedded in the Questions were excluded below as procedurally unfair.  Thus, as to Question 2, the Court of Appeal dealt with the point based on the word “pledge” in the 2nd Statement of Debt, finding that it was not inconsistent with an intended immediate transfer,[26] going on to note that the case now sought to be run had not previously been run or put to the witnesses at trial.[27] The suggested purpose for which Granatino v Radmacher,[28] had been cited is inaccurate.  It was referred to simply for the proposition that the law recognizes that “husband and wife could have different arrangements in respect of different aspects of their financial dealings with each other”[29] – a common sense proposition – in support of the finding that that had occurred in the present case.
+
+19.  Contrary to what is suggested in Question 3 and by Ms Eu at the hearing, no issue or finding regarding an intended retention of an equity of redemption was ever raised or made at trial.  As Lam VP points out in the Court of Appeal’s judgment refusing leave to appeal, “[it] is clear from [46] of the CA Judgment ... that this Court did not find that the Bankrupt retained to himself an equity of redemption”[30]. An equity of redemption had merely been mentioned arguendo in discussing the possible implications of TIB’s argument.  Moreover, the suggestion in Question 3 that the intention was for transfer of the beneficial interest not to take effect unless and until Mr Ng became insolvent was rejected on concurrent findings.
+
+20.  The fraudulent scheme postulated in Question 4 as the premise for asking whether it is caught by the BO and CPO provisions was likewise excluded on concurrent findings.
+
+21.  Leave is also sought on the “or otherwise” basis alleging that what occurred was “a blatant attempt for the Bankrupt to prefer the Wife over his other creditors” and arguing that refusal of leave would set a dangerous precedent, with married couples having “documents prepared and witnessed in the privacy of their own homes, reserving the flexibility for later use, even saving the stamp duty unless challenged in court”.  Such fears are far-fetched.  The circumstances of the present case were quite exceptional.  The defendants were able to adduce evidence comprising contemporaneous documents and witness testimony, carefully assessed and accepted by the trial judge who spelt out in detail the basis for her findings in a meticulous judgment.  Such circumstances do not provide a template for fraud.
+
+22.  For the aforesaid reasons, we refused leave to appeal.
+
+ 
+
+ 
+
+(R A V Ribeiro)	(Joseph Fok)	(Kemal Bokhary)
+Permanent Judge	Permanent Judge	Non-Permanent Judge
+  
+
+Ms Audrey Eu SC, Ms Prisca Cheung and Mr Jeff Chan, instructed by Munros, for the Plaintiff (Applicant)
+
+Mr C Y Li SC, Ms Angela Gwilt and Ms Melinda Chiang, instructed by Huen & Partners, for the 1st and 2nd Defendants (1st and 2nd Respondents)
+
+[1] Cap 6.
+
+[2] Cap 219.
+
+[3] HCA 311/2014 (5 December 2017).
+
+[4] Jmt §§64-67.
+
+[5] Jmt §§60, 65, 119.
+
+[6] Jmt §119.
+
+[7] Jmt §§24, 95.
+
+[8] Jmt §§73-78, 124-125.
+
+[9] Jmt §§81, 98.
+
+[10] Jmt §§120-121.
+
+[11] Jmt §123.
+
+[12] Jmt §127.
+
+[13] Jmt §128.
+
+[14] Jmt §§100-104.
+
+[15] Lam VP, Cheung and Chu JJA [2020] HKCA 818 (9 October 2020).
+
+[16] Appearing with Ms Prisca Cheung for the TIB.
+
+[17] CA §24.
+
+[18] CA §§33-37.
+
+[19] CA §32.
+
+[20] CA §§36, 38-42.
+
+[21] CA §45.
+
+[22] CA §§51-56.
+
+[23] [2021] HKCA 220 (2 March 2021).
+
+[24] Chinachem Charitable Foundation Ltd v Chan Chun Chuen (2011) 14 HKCFAR 798 at §37 and §57; see also Zhang Hong Li v DBS Bank (Hong Kong) Ltd  (2019) 22 HKCFAR 392 at §§91-94 and §97.
+
+[25] (2015) 18 HKCFAR 491 at §3, citing Sky Heart Ltd v Lee Hysan Co Ltd (1997-98) 1 HKCFAR 318 at 333-338 and Chinachem (supra).
+
+[26] CA §37.
+
+[27] CA §38.
+
+[28] [2011] 1 AC 534.
+
+[29] CA §53.
+
+[30] CA Leave §14.
+
+ 
+

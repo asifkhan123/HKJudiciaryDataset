@@ -1,0 +1,155 @@
+FAMC No. 18 of 2015
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 18 OF 2015 (CRIMINAL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL
+FROM HCMA NO. 684 OF 2013)
+
+____________________
+
+BETWEEN
+
+ 	HKSAR	Respondent
+ 	and	
+ 	NG YEE MAN YVONNE
+Applicant
+____________________
+
+Appeal Committee: Chief Justice Ma, Mr Justice Tang PJ and Mr Justice Fok PJ
+Date of Hearing and Determination: 9 July 2015
+Date of Reasons for Determination: 14 July 2015
+_________________________________
+
+REASONS FOR DETERMINATION
+
+_________________________________
+
+ 
+
+Mr Justice Fok PJ:
+
+1. We dismissed this application for leave to appeal after hearing counsel for the applicant, indicating that we would hand down our reasons for doing so in due course.  These are our reasons.
+
+The application
+
+2. On 1 August 2013, the applicant (D2 below) was convicted, together with a co-defendant (D1 below), before a magistrate[1] of one count of doing an act or acts tending and intended to pervert the course of public justice contrary to common law.  Although D1’s appeal was allowed by the judge[2], the applicant’s appeal was dismissed.  The judge refused the applicant’s application for a certificate that his judgment involved points of law of great and general importance[3].
+
+3. By notice of motion to this Court, the applicant renewed her application for a certificate of points of law and applied for leave to appeal.  Leave to appeal was sought on both limbs of section 32(2) of the Court’s Ordinance[4], namely on the basis that points of law of great and general importance are involved in the decision and on the basis that substantial and grave injustice has been done to the applicant.
+
+The facts
+
+4. The applicant’s conviction arose out of a road traffic accident between a car, driven by D1 and in which she was a passenger, and a truck in Causeway Bay at about 8.15am.  The matter was reported to the police and, prior to their arrival, D1 went to a nearby shop and bought a bottle of water, which he drank.  The police arrived and an officer (PW3) informed D1 that he would be subject to a breath test.  Whilst awaiting the arrival of the traffic police who would conduct the breath test, the applicant went into the same nearby shop and bought four cans of beer.  She opened one and “fed” it to D1, who held her hand holding the beer can and took one sip from it.  PW3 immediately stopped D1 and told him not to drink any more beer.
+
+5. Subsequent breath tests conducted on D1 showed the quantity of alcohol on his breath to be in excess of the statutory limit.  He was charged with driving a motor vehicle with an alcohol concentration in his breath exceeding the prescribed limit[5] and with careless driving[6].  Both he and the applicant were jointly charged with the common law offence of doing an act or acts tending and intended to pervert the course of public justice.  D1 pleaded guilty to the two charges preferred against him alone but both he and the applicant pleaded not guilty to the charge of perverting the course of justice.
+
+The conviction and intermediate appeal
+
+6. The issues before the magistrate were whether the acts had a tendency to pervert the course of justice and whether D1 and D2 had the requisite intention.  She held, referring to HKSAR v Egan[7], that any consumption of alcohol would affect or tend to affect the reading of a breath test and, since this was imminent when the acts were done, it was important to preserve D1’s condition until the test was administered.  She held that the additional intake of alcohol amounted to tampering with evidence and would affect the curial proceedings that would follow the breath test.
+
+7. The magistrate found that both the applicant and D1 had the requisite intention to commit the offence.  In respect of the applicant, the magistrate rejected the defence submission that she was so intoxicated that she was not aware of her intentions in buying the beer and pouring it into D1’s mouth.  She concluded that the applicant must have known or contemplated the possibility that the police intended to conduct a breath test on him and drew the irresistible inference that she intended to pervert the course of justice.
+
+8. On appeal, the judge agreed with the magistrate’s conclusion that the act of taking a single sip of beer was sufficient in law to amount to an act tending and intended to pervert the course of justice.  In respect of intention, the judge considered that it was not an irresistible inference that D1 knew that the applicant was giving him beer to drink or that he intended to pervert the course of justice by consuming it.  He therefore acquitted D1. However, the judge considered the magistrate had correctly drawn the inference that the applicant intended to pervert the course of justice by her actions. Her appeal was therefore dismissed.
+
+Whether points of law of great and general importance involved
+
+9. The applicant seeks the certification of the following points of law of great and general importance, namely:
+
+“(1) Issection 39C(12) of the Road Traffic Ordinance, Cap.374 a conclusive evidence presumption so that any consumption of alcohol between the time of a suspected offence and the time of a breath test cannot have a tendency to pervert the course of justice?
+
+(2) (a) Can an act which only tends to make investigation into a suspected offence more difficult be an act tending to pervert the course of justice?
+
+      (b)  Can an act which does not in any way lead to a Court being misled be an act tending to pervert the course of justice?”
+
+10. Question (1) is potentially an important point of law, raising as it does a question of statutory construction of a section regulating and enforcing safety in the conduct of a common everyday activity.  Section 39C(12) provides:
+
+“Evidence of the proportion of alcohol in a specimen of breath, blood or urine provided by the accused shall be evidence that the proportion of alcohol in the accused’s breath, blood or urine at the time of the alleged offence was not less than that in the specimen.”
+
+11. The applicant’s contention that this is a conclusive evidence provision, if correct, would mean (it was argued) that the applicant’s acts of giving beer to D1 whilst he was awaiting a breath test would not be an act capable of perverting the course of justice, since it could not in any way prejudice a prosecution for the offence under section 39A(1) of driving with a breath alcohol concentration exceeding the prescribed limit.  Even if the breath alcohol concentration derived from the breath test was the result of the alcohol consumed whilst awaiting the test, the provision would, on the applicant’s contention, operate to deem that to be the breath alcohol concentration as at the time of the alleged offence.
+
+12. This contention is, with respect, not reasonably arguable.  The construction of section 39C(12) contended for by the applicant would be one which had far-reaching consequences, encroaching on the presumption of innocence, and is therefore one which a court should resist in the absence of clear and unequivocal language.  The applicant’s construction would mean that if a person accidentally consumed alcohol after the time of an alleged offence but before a breath test was administered, it would not be open to him to prove such subsequent consumption.  Equally, if a defendant were forced to consume alcohol by a third party before taking the test, the breath test results would be conclusive as to the breath alcohol concentration at the time of the alleged offence.  These examples serve to demonstrate the extreme and unreasonable consequences of the applicant’s construction.
+
+13. In contrast, where the RTO makes provision for a fact to be presumed (either on a rebuttable or irrebuttable basis), clear and express language is used: see, for example, section 76(2)[8].
+
+14. No such language is used in section 39C(12).  On the contrary, that section serves to assist the enforcement of the prohibition against driving whilst under the influence of alcohol by providing a means, which would otherwise be practically impossible, of establishing after the event (i.e. after being suspected of the offence because he has been involved in an accident or randomly stopped for testing) the level of alcohol in a driver’s breath, blood or urine at the earlier time when he was actually driving.  Thus, section 39C(12) enables the prosecution, on whom the burden of proving all elements of the relevant offence under section 39A(1) rests, to obtain admissible evidence of the relevant alcohol level.  It remains open to an accused to establish the contrary by showing, for example, that the alcohol level shown in the particular test is the result of the consumption of alcohol after the alleged offence.
+
+15. The applicant sought to rely on the decision of the English Divisional Court in Beauchamp-Thompson v Director of Public Prosecutions[9], which construed section 10(2) of the Road Traffic Act 1972 (UK)[10] as creating an irrebuttable presumption.  That case does not, however, assist the applicant since the statutory language of the provision in question in that case is significantly different to that of section 39C(12) in that, critically, the UK provision contains a proviso expressly dealing with post-offence consumption of alcohol.
+
+16. Although not raised in Question (1) as framed, the applicant contended, alternatively, that section 39C(12) creates a rebuttable presumption, imposing a burden (either evidential or legal) on the accused, so that her acts were incapable of perverting the course of justice.  Even if this were the effect of section 39C(12), however, it does not follow that what the applicant did could not constitute an act capable of perverting the course of justice since the applicant’s argument assumes that the actus reus of the offence is only constituted by an act which renders a conviction impossible.  This is contrary to the position established in HKSAR v Egan at §123.
+
+17. The two sub-questions within question (2) concern the actus reus of the common law offence of attempting to pervert the course of justice.  Both the sub-questions for which certification is sought by the applicant are necessarily fact-sensitive and this necessarily lessens their generality and thus their importance.
+
+18. More importantly, however, this Court has already addressed the offence of attempting to pervert the course of justice in the cases of HKSAR v Egan[11] and HKSAR v Wong Chi Wai[12].  We agreed with the contention made in the Respondent’s Written Submissions that, in doing so, the Court has provided answers to the two sub-questions sought to be raised.  The answer to question 2(a) lies in what the Court held in Egan at §127 (and, we would add, also in §126) and Wong Chi Wai at §31(c).  And, in relation to question 2(b), the answer lies in what the Court held in Egan at §123 and Wong Chi Wai at §31(a).
+
+Whether reasonably arguable that substantial and grave injustice has been done
+
+19. There were two respects in which the applicant suggested that substantial and grave injustice had been done to her. 
+
+20. First, it was submitted that her act of providing beer to D1 did not in any way tamper with the accuracy of the breath alcohol test.  This submission arose from the way the charge was framed, namely that the applicant committed the offence “… by tampering with the accuracy of the breathalyzer test, attempted to fabricate false evidence to mislead a judicial tribunal”.  It was submitted that there was no evidence to show the accuracy of the breath test was in any way compromised and that the applicant’s act did not affect the accuracy of the test or amount to a tampering with the test itself.  The applicant was convicted, it was submitted, on a charge unsupported by evidence and not reflecting the prosecution case but instead on particulars amended on appeal.
+
+21. We considered this submission to be unrealistic and unarguable. Although the particulars of charge are undoubtedly important[13], the Court has recently affirmed that the overriding test in charging an offence in Hong Kong is one of fair notice[14]. In the present case, the particulars of the charge were readily understandable (and, as the judge found, in fact understood by all parties during the trial[15]) as being directed to D1’s consumption of alcohol after the alleged offence but before the breath test and the applicant’s conduct in supplying that alcohol to D1 before the breath test.  The effect of their acts was to render the subsequent reading of the breath test inaccurate or unreliable as a reflection of D1’s actual breath alcohol level at the time of the alleged offence.  The judge was satisfied, rightly in our view, that the applicant and D1 (who were both represented at trial and on appeal) suffered no prejudice or unfairness from the way the charge was framed.
+
+22. Secondly, it was submitted that the acts complained of were part of the investigative process and not the course of justice, so that the offence of attempting to pervert the course of justice was not made out.  Thus, it was submitted, substantial and grave injustice was done to the applicant.
+
+23. Again, with respect, this submission was also unrealistic and unarguable.  The course of prosecuting a drink driving offence is well-known and begins with an initial breath test to determine the level of alcohol in the driver’s breath.  If that test shows the prescribed limit is exceeded, further tests will be conducted and, if those also exceed the prescribed limit, a prosecution under the RTO will follow.  D1 was informed, in the presence of the applicant, that he was to be subjected to a breath test at the scene of the traffic accident.
+
+24. In these circumstances, we are satisfied that there is a clear link between the acts complained of and the relevant curial proceedings that would result from the police’s investigations.  In our view, this is a matter of commonsense but, if support for this proposition be required, it is to be found in the English Court of Appeal decision of R v Britton[16]. In that case, when the accused driver was told he was to be subject to a breath test by a police officer, he entered his mother’s house and consumed beer.  He was charged with attempting to defeat the course of justice.  In dismissing his appeal against conviction, Lord Widgery CJ said:
+
+“… once the statutory course of action has begun by the request for a sample of breath, any action thereafter deliberately and intentionally taken by the accused with a view to frustrating the statutory procedure may be charged as an offence, as charged in this case.”[17]
+
+Conclusion
+
+25. For these reasons, we dismissed the application.
+
+ 
+
+ 
+
+(Geoffrey Ma)
+Chief Justice	(Robert Tang)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+Mr Robert Pang SC, instructed by Tang & So, assigned by Director of Legal Aid, for the Applicant
+
+Mr Edmond Lee SADPP and Mr Andrew Li SPP, of the Department of Justice, for the Respondent
+
+
+[1] Ms Ho Wai Yang, Permanent Magistrate, ESCC 1483/2013.
+
+[2] HCMA 684/2013, DHCJ Woo, Judgment dated 29 January 2015 (“CFI Judgment”).
+
+[3] HCMA 684/2013, Decision dated 16 March 2015.
+
+[4] Hong Kong Court of Final Appeal Ordinance (Cap.484).
+
+[5] Contrary to section 39A(1) of the Road Traffic Ordinance (Cap.374) (“the RTO”).
+
+[6] Contrary to section 38(1) of the RTO.
+
+[7] (2010) 13 HKCFAR 314.
+
+[8] This provides: “A certificate of posting in the prescribed form purporting to be signed by or for the Commissioner or the Commissioner of Police, as the case may be, shall be admitted in evidence on its production without further proof and – (a) until the contrary is proved, it shall be presumed that the certificate is so signed; (b) it shall be conclusively presumed that the notice to which the certificate relates was duly served.” (Underlining added).
+
+[9] [1989] RTR 54
+
+[10] This provides: “Evidence of the proportion of alcohol … in a specimen of … blood … provided by the accused shall, in all cases, be taken into account, and it shall be assumed that the proportion of alcohol in the accused’s … blood … at the time of the alleged offence was not less than in the specimen; but … the assumption shall not be made if the accused proves – (a) that he consumed alcohol after he had ceased to drive … and before he provided the specimen; and (b) that had he not done so the proportion of alcohol in his … blood … would not have exceeded the prescribed limit …”.
+
+[11] (2010) 13 HKCFAR 314, esp. at §§122-127.
+
+[12] (2013) 16 HKCFAR 539, esp. at §31.
+
+[13] As reflected by the decision in Hau Tung Ying v HKSAR (2011) 14 HKCFAR 453, on which the applicant relied.
+
+[14] HKSAR v Gammon Construction Limited, FACC 10/2014, 19 March 2015 per Gleeson NPJ at §§42-43.
+
+[15] CFI Judgment §61.
+
+[16] [1973] RTR 502.
+
+[17] Ibid. at p.507G.
+

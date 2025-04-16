@@ -1,0 +1,171 @@
+FAMC No. 26 of 2018
+
+[2018] HKCFA 39
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 26 OF 2018 (CRIMINAL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL FROM
+
+CACC NO. 361 OF 2016)
+
+_____________________
+
+Between
+
+ 	HKSAR	Respondent
+ 	and	 
+ 	JUTTING RURIK GEORGE CATON	Applicant
+_____________________
+
+Appeal Committee : Mr Justice Ribeiro PJ, Mr Justice Tang PJ and Mr Justice Fok PJ
+
+Date of Hearing and Determination: 9 August 2018
+
+Date of Reasons for Determination: 15 August 2018
+
+ 
+
+________________________________
+
+REASONS FOR DETERMINATION
+
+________________________________
+
+Mr Justice Ribeiro PJ:
+
+1.  At the hearing, we refused leave to appeal for reasons which we now provide.
+
+2.  The applicant (“Jutting”) was charged with two counts of murder in a grisly case involving sadistic torture as well as cocaine and alcohol abuse.  It was not disputed that Jutting intentionally killed his two victims.  The issue was whether he ought to be convicted of manslaughter rather than murder on the basis that he could bring himself within the defence of diminished responsibility under the Homicide Ordinance,[1] section 3(1) of which relevantly provides:
+
+“Where a person kills or is a party to the killing of another, he shall not be convicted of murder if he was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury) as substantially impaired his mental responsibility for his acts and omissions in doing or being a party to the killing.”[2]
+
+3.  He was convicted of murder after trial before Deputy High Court Judge Stuart-Moore and a jury[3] and his appeal was dismissed by the Court of Appeal[4] which also refused to certify questions of law for the purposes of an application for leave to appeal to this Court.[5]  Jutting now seeks leave to appeal and certification of the following questions of law:
+
+Question 1
+
+“Is it a misdirection in law, for the purposes of the defence of diminished responsibility provided by s 3(1) Homicide Ord Cap 339, to direct the jury that only a disorder of the mind as a psychiatric diagnosis can constitute an ‘abnormality of mind’?”
+
+Question 2
+
+“Is it within the expertise of medical professionals to determine the question of whether an accused was ‘substantially impaired’ for the purposes of the defence of diminished responsibility provided by s 3(1) Homicide Ord Cap 339?”
+
+Question 1
+
+4.  Underlying Question 1 is the submission of Mr Gerard McCoy SC[6] that the trial Judge misdirected the jury by instructing them “that only a disorder of the mind as a psychiatric diagnosis can constitute an ‘abnormality of mind’”.  Relying particularly on written directions provided to the jury, counsel contends that this is because:
+
+“... the jury was effectively directed that a ‘disorder’ was synonymous with an ‘abnormality of mind’ and that unless the jury found the Applicant was suffering from the relevant disorders, there was no need to further consider the issue of diminished responsibility.”[7]
+
+5.  In consequence, he argues:
+
+“The pegging of ‘abnormality of mind’ to a ‘disorder’ therefore significantly narrowed the defence available to the Applicant (a defence where the Applicant carried the persuasive burden), for the jury was by it prevented from considering whether the Applicant still suffered from an abnormality of mind notwithstanding that his condition may not have or did not meet the medical definition of a ‘disorder’.”[8]
+
+6.  We consider Question 1 a misdirected question. Its premise is false and it ignores the substance of Jutting’s own case at trial.  The Judge did not, by his oral or written instructions, direct the jury “that only a disorder of the mind as a psychiatric diagnosis can constitute an ‘abnormality of mind’”, so the question does not in fact arise. 
+
+7.  His Lordship was necessarily tailoring his summing-up to the evidence.  He made it clear that it was the essential case advanced by the defence that Jutting was suffering from identified psychiatric disorders causing mental abnormality on his part:
+
+“The defence case here is that the defendant himself was suffering, at the time of these offences, from four mental disorders, and all of those mental disorders interacted one with the other and, as a result, he was suffering, in any event, from an abnormality of mind induced by disease, or possibly it was, as I think Mr Owen was saying, it was something which you could say had been ‘inherent’...”[9]
+
+8.  Jutting’s two medical experts gave evidence that he was suffering from an abnormality of mind arising from the psychiatric disorders they had diagnosed, namely, alcohol abuse disorder; substance abuse disorder (cocaine); sexual sadism disorder and narcissistic personality disorder.  Dr Chow, a prosecution expert, agreed that Jutting was suffering from three of those four disorders (other than narcissistic personality disorder), while the other prosecution expert, Dr Chan agreed as to two such disorders (other than the sadism and narcissistic disorders).  They agreed that such disorders caused a mental abnormality in Jutting.  The Judge therefore directed the jury, on that basis, that there was evidence of abnormality of mind:[10]
+
+“The evidence given by three of the psychiatrists, that is to say all three, Dr Latham, Dr Chow and Dr Chan, was that there is here an abnormality of mind which goes to the first section which is numbered ‘number (1)’. They have all said there was an abnormality of mind because of the disorders caused by alcohol and cocaine. Alcohol use disorder they called it, and substance use disorder (cocaine). They all agreed about that.
+
+There were other disorders found by Professor Perkins and by Dr Latham, and Dr Chan agreed with one of them; that is to say the sadism disorder, those three agree. The person who did not agree, of course, was Dr Chan, who found that there were traits of sadism, sexual sadism disorder but it did not quite meet the level required for the disorder itself. Whether that matters or not, I do not know, it is up to you.
+
+The other one was narcissistic personality disorder.  Both Dr Chow and Dr Chan felt that there were traits of that disorder but not that it was a disorder in itself.  Dr Latham and Professor Perkins both felt that it was.  So you have evidence then that there is an abnormality of mind, at least, based upon cocaine and alcohol.”
+
+9.  In the light of Mr McCoy’s submissions, it is important to note that the Judge, in referring to “the first section which is numbered ‘number (1)’”, was referring to the written directions which introduced both Parts A and B and telling the jury that abnormality of mind was established on the expert evidence.  As his Lordship put it: “So you have evidence then that there is an abnormality of mind, at least, based upon cocaine and alcohol.”  There was no question of narrowing the defence to exclude such abnormality.
+
+10.  Turning to the second statutory requirement, ie, that it had to be an abnormality of mind “arising from any inherent causes or induced by disease or injury”, the Judge said this to the jury:
+
+“... as you heard, there is no dispute at all that if the law wants to call these diseases, then we should call them diseases, and I can tell you that, therefore, you can regard the cocaine and the alcohol abnormalities, or disorders, as diseases. Whether they are inherent or disease probably does not matter. I thought Mr Owen made a perfectly good point that if there is a personality disorder as well, it was inherent - Dr Latham did not think so, you call that a disease, he said - whichever way, disease or inherent, you have evidence that it was there. So (1) and (2), the doctors basically are agreed about, (1) and (2) on your form there. Abnormality of mind, they say yes; (2) disease, yes.”[11]
+
+11.  Once again, the Judge was referring to the first two sections of the written directions and instructing the jury that the two initial requirements of the defence were established on the evidence.
+
+12.  The Court of Appeal summarised the position as follows:
+
+“As the judge made clear in his ‘Note’ to questions 1 and 2 of Part A, all the experts agreed that, having regard to the applicant’s disorders of cocaine abuse and alcohol abuse, he suffered from an abnormality of mind and all the experts agreed that the abnormality of mind arose from disease.”[12]
+
+13.  Linking abnormality of mind to the identified psychiatric disorders therefore represented the fundamental defence case, largely agreed to by the prosecution.  In directing the jury that the case on Jutting’s abnormality of mind rested on the diagnosed disorders, his Lordship was not saying that in every case an “abnormality of mind” must be based on a diagnosed psychiatric disorder.  He was instructing the jury that this was the case advanced by the defence on the evidence adduced (and largely agreed to by the prosecution) which he placed before them for their consideration.
+
+14.  The jury were told that there was evidence of Jutting’s condition sufficient to satisfy the section 3 requirements of “abnormality of mind” and an aetiology of disease or inherent cause.  There was therefore no question of the defence being “narrowed” to exclude Jutting from relying on it.  The argument purporting to contrast “mental disorder” with “abnormality of mind” is specious.
+
+15.  It is moreover extraordinary, as the Court of Appeal noted, that the directions now sought to be criticised were identical to the directions sought by the defence.[13] Mr McCoy endeavoured to argue that the written directions were somehow inconsistent with the directions conveyed orally by the Judge.  We do not accept that submission.  In our view, the written directions were entirely fair and favourable to the applicant on the defence of diminished responsibility and consistent with his Lordship’s clear and accurate oral directions as indicated in the passages cited above.
+
+16.  For the foregoing reasons, Question 1 is not reasonably arguable.
+
+Question 2
+
+17.  The crucial issue concerned impairment of mental responsibility: Whether Jutting’s abnormality of mind, arising from the inherent causes or disease comprising the specified psychiatric disorders, was such “as substantially impaired his mental responsibility for his acts in doing the killing”.[14]
+
+18.  Question 2 is not explicit as to the intended criticism of the Judge’s direction.  It implies that his Lordship went wrong by regarding it as “... within the expertise of medical professionals to determine the question of whether an accused was ‘substantially impaired’ for the purposes of the defence of diminished responsibility” rather than properly leaving the issue to the jury.
+
+19.  The Judge committed no such error.  He made it amply clear that it was for the jury to decide whether Jutting’s mental responsibility was substantially impaired, taking into account not just the medical and toxicological evidence, but also the evidence of, and circumstances surrounding, Jutting’s acts and words in the course of killing each of his victims and his conduct in between the killings and afterwards.  The jury were also able to assess what Jutting said and did as recorded by him on his phone and as described by him in video-recorded interviews.  The Judge’s directions in this context included the following:
+
+“... although the evidence of Dr Latham and Professor Perkins is important, you must consider not only the evidence of the psychiatrist and the psychologist who gave evidence for the defence but also the evidence relating to these killings and the circumstances in which they occurred. Consider the behaviour of the defendant both before and after the killings and take into account also what the two psychiatrists called by the prosecution had to say. It is your decision what evidence you accept and what evidence you do not accept.”[15]
+
+“If we had trial by experts, we would not need a jury. We have experts to help us with the knowledge that they have gained through their skills, but all they can do is tell you what they think. But we have trial by jury and so you use what you have heard from them along with all of the other material as well to decide whether, here, there was a substantial impairment. I hope that is fairly clear. Actually, it was Dr Chan, the last witness in the case who said, ‘I can give you my opinion but it’s a matter for the jury, not me,’ that is what he actually said to you.”[16]
+
+“You should remember that the evidence given by the psychiatrists, three of them, and by the psychologist, relates to the question of diminished responsibility, but that is not the only evidence. You take into account in this case all of the evidence that you have heard, like the passages that we were looking at recently in the interviews of the defendant and so on. You are allowed to take all of that into evidence, just as the psychiatrists did. They had all those documents themselves and they formed the view with all of that and the background history of the defendant which they gave you in their opinions. So you must make up your minds about what you accept and what you do not accept.”[17]
+
+20.  Question 2 therefore proceeds on the unsustainable premise that the Judge allowed the medical experts to determine the question of whether Jutting’s mental responsibility was substantially impaired for the purposes of the defence.  As the Court of Appeal pointed out when refusing certification:[18]
+
+“None of the doctors who testified at trial was permitted ‘to determine the question’ whether the applicant’s mental responsibility for his acts of killing was substantially impaired. As the judge made clear repeatedly in his directions, that was a matter for the jury. Dr Chan and Dr Chow testified expressing negative opinions in that respect. They did so, only after expressing the opinions that the applicant should have been able to exercise judgment not to act as he did. By contrast, although Dr Latham testified that ‘…at the moment of the killings, the mental disorders that I’ve diagnosed combined to impair, and I think substantially, his ability to control his behaviour’, he declined to give any opinion as to whether or not the applicant’s mental responsibility for his acts was substantially impaired.
+
+As we stated in our judgment, the inferences to be drawn as to the opinions of the different doctors in respect of the ultimate issue was obvious from their testimony as to the primary issue of the ability of the applicant to control himself.  In those circumstances, we were satisfied that evidence of their opinions was admissible, but that the judge was required to direct the jury, as he did, that it was a matter for the jury to determine whether or not the applicant’s mental responsibility for his acts of killing was substantially impaired.”
+
+21.  For the aforesaid reasons, we dismissed this application as disclosing no reasonably arguable ground of appeal.
+
+ 
+
+ 
+
+(R A V Ribeiro)	(Robert Tang)	(Joseph Fok)
+Permanent Judge	Permanent Judge	Permanent Judge
+ 
+
+Mr Gerard McCoy SC and Mr Albert N.B. Wong, instructed by Vidler & Co., assigned by the Director of Legal Aid, for the Applicant
+
+Mr John Reading SC, Counsel on fiat and Mr Lenny Cheng, SPP (Ag.) of the Department of Justice, for the Respondent
+
+[1] Cap 339.
+
+[2] Section 3(2) places the burden of proving this partial defence on the accused: “On a charge of murder, it shall be for the defence to prove that the person charged is by virtue of this section not liable to be convicted of murder.”  And Section 3(3) states : “A person who but for this section would be liable, whether as principal or as accessory, to be convicted of murder shall be liable instead to be convicted of manslaughter.”
+
+[3] HCCC 183/2015 (8 November 2016).
+
+[4] Lunn VP, Macrae JA and Zervos J [2018] HKCA 5 (9 February 2018).
+
+[5] [2018] HKCA 189 (11 April 2018).
+
+[6] Appearing with Mr Albert N B Wong for the applicant.
+
+[7] Motion for leave (Form B), §16.
+
+[8] Ibid, §19.
+
+[9] Summing-up p 3.
+
+[10] Summing-up p 16.
+
+[11] Summing-up p 17.
+
+[12] Court of Appeal §36.  Lunn VP noted that Mr Owen QC, “in his closing speech, ... invited the jury to note that there was unanimity as to the diagnosis of disorders in respect of alcohol abuse and drug abuse and ... invited them to accept the diagnoses of sexual sadism disorder and narcissistic personality disorder”, pointing out that this “was entirely consistent with the evidence and the questions posed in Part B of the written directions”: Court of Appeal §50.
+
+[13] Court of Appeal §31.
+
+[14] Summing-up pp 17, 40-41; Court of Appeal leave application §6.
+
+[15] Summing-up p 15.
+
+[16] Summing-up p 17-18.
+
+[17] Summing-up p 57.
+
+[18] Court of Appeal, leave application §§14-15.
+
+ 
+

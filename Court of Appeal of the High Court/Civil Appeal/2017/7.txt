@@ -1,0 +1,411 @@
+CACV 6/2017 and HCMP 3136/2016
+CACV 6/20 17
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO 6 OF 2017
+
+(ON APPEAL FROM HCMP NO 1074 OF 2015)
+
+________________________
+
+ 	IN THE MATTER OF Team Y&R Holdings Hong Kong Limited
+ 	and
+ 	IN THE MATTER OF Section 724 of the Companies Ordinance (Cap 622)
+________________________
+
+BETWEEN
+ 	JOSEPH GHOSSOUB	Petitioner
+ 	and	
+ 	TEAM Y&R HOLDINGS HONG KONG LIMITED
+1st Respondent
+ 	CAVENDISH SQUARE HOLDING BV	2nd Respondent
+ 	YOUNG & RUBICAM INTERNATIONAL GROUP BV
+3rd Respondent
+ 	WPP PLC	4th Respondent
+________________________
+
+HCMP 3136/2016
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+MISCELLANEOUS PROCEEDINGS NO 3136 OF 2016
+
+(ON AN INTENDED APPEAL FROM HCMP NO 1074 OF 2015)
+
+________________________
+
+ 	IN THE MATTER OF Team Y&R Holdings Hong Kong Limited
+ 	and
+ 	IN THE MATTER OF Section 724 of the Companies Ordinance (Cap 622)
+________________________
+
+BETWEEN
+ 	JOSEPH GHOSSOUB	Petitioner
+ 	and	
+ 	TEAM Y&R HOLDINGS HONG KONG LIMITED
+1st Respondent
+ 	CAVENDISH SQUARE HOLDING BV	2nd Respondent
+ 	YOUNG & RUBICAM INTERNATIONAL GROUP BV
+3rd Respondent
+ 	WPP PLC	4th Respondent
+________________________
+
+(Heard together)
+
+Before: Hon Lam VP and Kwan JA in Court
+Date of Hearing: 23 June 2017
+Date of Judgment: 21 July 2017
+________________________
+
+J U D G M E N T
+
+________________________
+
+Hon Kwan JA (giving the judgment of the court):
+
+1.  On 4 January 2017, the Court of Appeal (Lam VP and Kwan JA) gave leave to the 1st to 4th respondents to appeal against the decision of Deputy High Court Judge Le Pichon dated 16 June 2016 [2016] 3 HKLRD 778 (“the Decision”), limited to grounds 2, 3 and 4 of the draft notice of appeal. We refused leave to appeal on ground 1. But as we have not made an order in our judgment pursuant to Order 59 rule 2A(8) that no party may under rule 2A(7) request the determination to be reconsidered at an oral hearing inter partes, the respondents’ solicitors requested an oral hearing to reconsider the granting of leave to appeal for ground 1. We therefore directed that the oral hearing be held at the same time as the hearing of the appeal on the other three grounds.
+
+2.  By the Decision, the judge dismissed the respondents’ summons issued on 4 November 2015 to stay the petition presented on 30 April 2015 by the petitioner, Joseph Ghossoub, under section 724 of the Companies Ordinance, Cap 622 for relief based on unfair prejudice.  The respondents sought to stay the petition pending determination of the issues raised therein by the High Court of Justice of England and Wales on the ground that “the allegations in the Petition consist of or give rise to issues or disputes which the Petitioner has agreed should be referred to the exclusive jurisdiction of that court”.
+
+3.  The judge refused leave to appeal by a decision dated 28 October 2016 (“the Leave Decision”).
+
+Background
+
+4.  We adopt the background facts set out comprehensively in §§2 to 29 of the Decision, as well as the terms and abbreviations used in the Decision:
+
+“2. The petitioner holds 20% of the issued shares in the Company [Team Y&R Holdings Hong Kong Limited; the 1st respondent]. The other shareholders are (1) Cavendish [Cavendish Square Holdings BV; the 2nd respondent] (as to 47.4%), (2) Y&R [Young & Rubicam International Group BV; the 3rd respondent] (as to 12.6%) and (3) Talal Elias Makdessi (“M”) (as to the remaining 20%).
+
+3. Cavendish and Y&R are Dutch companies wholly owned by WPP [WPP Plc; the 4th respondent].  WPP itself was incorporated in Jersey with its main management and executive offices based in the United Kingdom.
+
+4. The Company was incorporated in Hong Kong on 27 November 2007 and is a holding company, holding various subsidiaries and other business entities (collectively “the Group”) that carry on business in advertising, media buying and public relations in the Middle East.
+
+5. In about 1994 M in collaboration with the petitioner founded the original business, operating in United Arab Emirates, Lebanon and Saudi Arabia.  In the late 1990s Y&R acquired a 25% stake in the business.  Sometime in 2000 WPP acquired Y&R.
+
+6. In about 2006 WPP wished to increase its stake in the business to a majority interest and began negotiations with the petitioner and M.  The parties reached agreement and pursuant thereto the business was restructured.
+
+7. In outline it was agreed that the Company would be incorporated for the purpose of holding the business following WPP’s acquisition.  The existing business including various entities and subsidiaries would be injected into the Company for new shares to be issued by the Company to the existing shareholders so that the shares would be held as to 419 to the petitioner, 455 to M and 126 to Y&R.  The petitioner and M would then sell 219 and 255 respectively of their shares in the Company to Y&R.
+
+8. On 28 February 2008, for the purpose of implementing the acquisition and restructuring the parties executed a series of agreements including the following:
+
+(1) The petitioner, M, Y&R and WPP 2005 Ltd (“WPP 2005”) entered into a sale and purchase agreement whereby the petitioner and M agreed to sell in the aggregate 47.4% of the shares in the Company held by them to Y&R (“the SPA”).  WPP 2005 acted as a guarantor of the purchaser’s obligations.
+
+(2) The petitioner and the Company entered into a Service Agreement under which the petitioner was employed as sole chief executive of the Company (“the SA”).
+
+9. On the following day, by a Deed of Novation, Cavendish replaced Y&R as the purchaser of the 47.4% of shares in the Company from the petitioner and M (collectively “the sellers”) “as if [Cavendish] were named in the SPA in place of [Y&R]”.
+
+10. The salient provisions of the SPA, for present purposes, include the following:
+
+(i) US$34 million to be paid on completion to the sellers, the remainder (subject to a total maximum of US$147.5 million) to be paid over several instalments.
+
+(ii) If a seller whose employment with the Company was summarily terminated for acts of gross misconduct or is found to have engaged in a competing business (a “defaulting shareholder”), the instalments then unpaid would not be payable: clause 5.1 and schedule 12, §1.
+
+(iii) If the seller becomes a defaulting shareholder, the purchaser has an option to acquire all the shares of that defaulting shareholder at the defaulting shareholder option price which is calculated by reference to the net asset value and hence significantly lower than the actual value of the shares: clause 5.6 and schedule 12, §1.
+
+(iv) The sellers and the purchaser agreed to procure the Company and its subsidiaries to promptly distribute as dividends the maximum amount of profits that may lawfully be distributed as dividends at the end of each financial year: clause 13.4.
+
+(v) The purchaser agreed to procure that the sellers would be kept informed as to the financial and business affairs of each of the companies in the group: clause 13.6.
+
+(vi) Each of the sellers is entitled to remain a director as long as he continues to hold shares in the Company: clause 14.2.
+
+(vii) Each seller has an option to require the purchaser to purchase from him all his shares in the Company at a price calculated by a formula by reference to the audited consolidated operating profit of the group (“OPAT”) and in the case of the petitioner he could only exercise the option between 1 January and 31 March 2017 and any subsequent year: clause 15.2.
+
+(viii) Clause 6 contains provisions for the calculation of OPAT and the resolution of differences.
+
+(ix) Clause 23.2 reads:
+
+“The English courts have exclusive jurisdiction to settle any dispute arising out of or in connection with this agreement and the parties submit to the exclusive jurisdiction of the English courts.” (emphasis added)
+
+11. It is to be noted that following the execution of the Deed of Novation, the only parties to SPA are the petitioner, M, WPP 2005 and Cavendish.  Thus the respondents other than Cavendish are not parties to the SPA.
+
+12. The SA is an employment contract between the Company and the petitioner governing the latter’s role in the Company.  For present purposes it is only necessary to mention the following provisions:
+
+(i) The petitioner to be the sole chief executive of the Company and entitled to serve on its board: clause 1.
+
+(ii) The Company shall not appoint anyone to act jointly with the petitioner unless the latter is unable through illness or incapacity to carry out his duties: clause 3.2(c).
+
+(iii) The petitioner will be accountable directly to the board and the Company shall not insert tiers of management between the petitioner and board: clause 3.3.
+
+(iv) Clause 29.2 reads:
+
+“This Agreement is governed by and interpreted in accordance with the laws of England and Wales and the parties submit to the exclusive jurisdiction of the English Courts.” (emphasis added)
+
+13. None of the respondents other than the Company is a party to the SA.
+
+14. Upon completion of the acquisition and restructuring, the petitioner became the sole chief executive of the Company.  M was the non‑executive chairman of the Company until his resignation as such in April 2009 and in July 2009 he resigned as non‑executive director of all companies in the Group save for the Company itself.  In April 2011 M was removed from the Company’s board.
+
+15. As appears from §§60 – 64 of the judgment of the Supreme Court dated 4 November 2015 in Cavendish Square Holding BV v Talal El Makdessi [2015] UKSC 67 (“the Makdessi case”), in December 2010 Cavendish and the Company commenced proceedings against M, with Cavendish suing for breach of the SPA and the Company for breach of fiduciary duty based on M’s breach of certain restrictive covenants by soliciting/poaching clients and customers away from the Group.
+
+16. M subsequently admitted that from 1 July 2008 he had been in breach of the SPA and his fiduciary duty to the Company which rendered him a defaulting shareholder for the purposes of the SPA.  The Company’s claim for breach of fiduciary duty was settled by its acceptance of a payment into court by M of US$500,000.
+
+17. Cavendish sought a declaration that M was a defaulting shareholder and obliged to sell all his shares in the Company to Cavendish at the defaulting shareholder option price.  The issue ultimately determined by the Supreme Court was whether clauses 5.1 and 5.6 of the SPA were valid and enforceable as Cavendish contended or whether those provisions constituted penalties and were void and unenforceable.  The Supreme Court upheld the validity of those provisions.
+
+THE PETITION
+
+18. Pending the hearing of the Makdessi case by the Supreme Court, the petitioner presented a petition pursuant to section 724 of the Companies Ordinance, Cap 622 (“the Ordinance”) based on the unfairly prejudicial conduct of the Company by WPP, Cavendish and Y&R and seeks an order for a buyout of his 20% shareholding in the Company without any discount for the fact that his shareholding represents a minority shareholding.
+
+19. The petitioner’s case is summarised in §26 of the petition, namely, that by reason of the provisions in the SPA and the SA and the circumstances in which the petitioner sold part of his interest in the Group to WPP, it was the mutual understanding between all shareholders of the Company and the legitimate expectation of the petitioner that:
+
+(1) The petitioner would be entitled to participate in and would not be excluded from the management of the Company and the Group.
+
+(2) The petitioner would be kept informed and be consulted on all major matters concerning the Company and the Group.
+
+(3) Any major decisions affecting the Company and the Group and in particular their financial position, would be reserved to the petitioner as sole chief executive and/or to the board as a whole.
+
+(4) So long as the petitioner remained a shareholder of the Company, each of the companies within the Group, including the Company, would promptly distribute by way of dividend the maximum amount of profits lawfully available for distribution at the end of each financial year.
+
+(5) As part of or in order to give effect to the above entitlements, the petitioner would be kept informed and be supplied with information as to the financial and business affairs of each of the companies within the Group.
+
+20. The petitioner’s unfair prejudice complaints are threefold, namely:
+
+(1) The Company’s failure to declare or distribute any dividends to the petitioner.
+
+(2) Wrongful exclusion of the petitioner from the management of the affairs of the Company.
+
+(3) Improper stewardship by WPP of a major corporate asset in that the Company settled its claim in the English court against M for his widespread breaches of contractual and fiduciary and financial obligations owed to the Company (“the Makdessi dispute”) for a token sum, in circumstances where WPP was acting in its own best interests but contrary to the best interests of the Company and petitioner.
+
+21. The Company has been in operation since the restructuring mentioned above but has not declared any dividends despite the fact that it has been generating substantial profits every year. The petitioner had communicated his demand for payment of dividends to WPP on a verbal basis since 2011 and in writing since 2013.
+
+22. Those demands culminated in the letter dated 11 February 2015 from the petitioner’s solicitors threatening proceedings to enforce his rights failing an unconditional acknowledgment by WPP of its obligation to procure the Company to declare and pay dividends.
+
+23. The letter led to a chain of correspondence between the parties’ respective solicitors trading allegations and counter allegations.
+
+24. The petition was presented on 30 April 2015.
+
+PROCEEDINGS IN ENGLAND
+
+25. Two sets of proceedings were commenced in England after the petition was presented.
+
+26. About two weeks after the presentation of the petition, on 15 May 2015 the respondents and WPP filed anti‑suit proceedings in England seeking declarations that the Hong Kong proceedings are in breach of clause 23 of the SPA and clause 29.2 of the SA respectively, and injunctions prohibiting the petitioner from (i) further pursuing the Hong Kong proceedings; (ii) commencing or pursuing any proceedings relating to the “Disputes” in any court or tribunal other than the High Court of Justice of England and Wales; and (iii) an injunction requiring the petitioner to discontinue the Hong Kong proceedings (“the anti‑suit proceedings”).
+
+27. The “Disputes” referred to in the claim form are described in §27 of the particulars of claim of the anti‑suit proceedings as concerning the questions whether (i) Cavendish was in breach of the SPA by failing to procure the distribution of profits of the Company by way of dividends; (ii) Cavendish and the Company have wrongfully excluded the petitioner from management in the Company; and (iii) the conduct of the Makdessi dispute by the Company and Cavendish was improper.  It is to be noted that no mention was made of either WPP or Y&R’s involvement or role (if any) in the “Disputes”.
+
+28. Second, on 21 December 2015, Cavendish and the Company commenced an action against the petitioner (“the substantive English proceedings”) in England.  Cavendish sought a declaration that the petitioner is a defaulting shareholder for the purposes of the SPA and is obliged under clause 5.6 to transfer all of his shares in the Company to Cavendish at the defaulting shareholder option price as well as specific performance.  The Company’s claim was for an account of profits and damages from the petitioner for alleged breaches of duty.
+
+29. The petitioner has not yet been served in either the anti‑suit proceedings or the substantive English proceedings (collectively “the English proceedings”).  Mr Smith SC, leading counsel for the respondents, blamed the petitioner for his alleged lack of cooperation in accepting service.  I pause here merely to observe that it would appear that both sides were not shy at resorting to similar procedural tactics.”
+
+The Decision and the issues
+
+5.  Ms Linda Chan, SC, who appeared for the petitioner[1], has helpfully summarised the salient holdings in the Decision as follows:
+
+(1) The jurisdiction clauses in the SPA (clause 23.2) and the SA (clause 29.2) do not cover (a) the complaints against non-parties to the contracts (Y&R and WPP)[2], nor (b) the petitioner’s complaints on exclusion from management and the Makdessi dispute[3] (“the Scope Issue”).
+
+(2) The shareholders’ decision to incorporate the Company in Hong Kong has the important consequence that the Company and its operations would be subject to all provisions of the Companies Ordinance.  The jurisdiction clauses, if applicable, amounted to a fetter of the petitioner’s statutory right to present an unfair prejudice petition and to that extent would not be enforced[4] (“the Fetter Issue”).
+
+(3) The petitioner would not be able to obtain substantial justice if he were required to have his complaints aired in the English court as (a) the English court does not have jurisdiction to deal with unfair prejudice of a foreign company and valuation of shares for a buyout, and (b) there is no effective remedy to the petitioner’s complaints[5] (“the Remedy Issue”).
+
+(4) The court’s discretion would be exercised against ordering a stay[6] (“the Discretion Issue”).
+
+6.  The Scope Issue is the subject of the respondents’ renewed application for leave to appeal.  The Fetter Issue, the Remedy Issue and the Discretion Issue are the issues in the appeal for which leave to appeal has been granted.  They will be dealt with in this judgment in the order mentioned.
+
+7.  Mr Clifford Smith, SC[7] contended for the respondents that the judge had erred in law regarding the Scope Issue, the Fetter Issue and the Remedy Issue, as a result of which the wrong legal principles were applied, and that the judge had also plainly erred when exercising her discretion as to whether the petition ought to be stayed.
+
+The Scope Issue
+
+8.  The respondents’ contention is that the judge erred when construing the exclusive jurisdiction clauses in finding that the exclusion from management complaint (“the exclusion complaint”) and the improper stewardship of the Makdessi dispute (“the Makdessi complaint”) do not fall within the scope of the exclusive jurisdiction clauses.  Mr Smith made two broad points.  First, the exclusion complaint and the Makdessi complaint could properly be regarded as contractual claims.  Second, even if they were not contractual claims, they would be claims within the wide ambit of the words “arising out of or in connection with” the SPA and/or SA, properly and generously construed.
+
+9.  We have no hesitation in rejecting Mr Smith’s submission that the complaints are based entirely on breaches of contract.  They plainly are not, as the judge has found[8].  He then sought to pray in aid the complaint relating to the non-declaration and non-distribution of dividends (“the dividends complaint”), which the judge has held to fall within the exclusive jurisdiction clause in the SPA insofar as Cavendish is concerned, and submitted that the other two complaints should be treated the same way, as the other two complaints could also be linked to some contractual obligation of Cavendish just like the dividends complaint.  We do not think this a viable argument, as there is clearly a distinction between the dividends complaint and the other complaints.
+
+10.  We turn to the other broad ground about generous interpretation of the exclusive jurisdiction clause.  Mr Smith submitted, as he did before the judge, that a broad and liberal construction should be adopted, in view of the words “any dispute arising out of or in connection with this agreement” in clause 23.2 of the SPA.  He referred us to Agreements on Jurisdiction and Choice of Law by Adrian Briggs at §§5.78 to 5.82 and 5.86, in which the author discussed various decided cases construing similar phrases and the courts have emphasised that the words “arising out of” or “in connection with” a contract are wide enough to encompass claims which were not contractual in nature but had a close association with the contract or were incidental to the contract, or which required the same investigation of the contract and its terms and the performance under it and were so closely linked with the contract.
+
+11.  He argued that thus construed, the substance of these complaints – regardless of their precise form and regardless of whether they were framed as contractual claims in the form of allegations of breaches of the SPA or the SA directly – would fall within the scope of the exclusive jurisdiction clauses.  As for the petitioner’s reliance on the alleged mutual understanding and/or legitimate expectation in framing the complaints, they arose essentially from and/or are connected with the provisions of the SPA and/or the SA, even if they are not contractual claims for breach of the SPA and/or the SA.  Given that the parties plainly intended “any dispute arising out of or in connection with [the SPA]” to fall within the exclusive jurisdiction of the English courts, the complaints should have been so treated. He contended that the judge’s reasoning unduly restricts the scope of the jurisdiction clauses to only contractual claims for breach of the SPA and/or the SA.
+
+12.  For the exclusion complaint, he repeated his submission that the petitioner’s claim relies essentially on the provisions of the SPA and the SA, notwithstanding the judge’s observation that while clauses 13 and 14 of the SPA concern certain aspects of the Group’s management, they are by no means exhaustive and there are other aspects including the Company’s internal management that fall to be governed by the general company law of Hong Kong[9].  As for the fact that the complaint was not directed at the Company but at WPP[10], who was not a party to the SPA or the SA, he contended that this was not relevant because it was stated in the petition[11] that the “decisions and policies were implemented by WPP but given effect to, as appropriate, by the other Respondents”.  And the buy-out order was sought not just against WPP, but also against Cavendish and Y&R, and Cavendish was a party to the SPA.
+
+13.  For the Makdessi complaint, he argued that even though the conduct complained of was alleged to be attributable to WPP, this should likewise be treated as irrelevant.
+
+14.  The complaints of unfair prejudice, as stated in the petition, are based on the mutual understanding between all the shareholders and the legitimate expectation of the petitioner, by reason of the provisions in the SPA and the SA and the circumstances in which the petitioner sold part of his interest in the Group to WPP.  Notwithstanding the width of the words “arising out of” or “in connection with” a contract, for a dispute to come within the jurisdiction clause, the court must at least be satisfied that the nature and substance of the claim are so closely linked with the contract even though it is not formulated as a contractual claim.
+
+15.  As the judge has noted[12], the case framed in this petition for unfair prejudice is that the complaints are not confined to strict legal rights under the contracts but a breach of the legitimate expectations of the petitioner arising out of circumstances concerning the share sale, and the petitioner has prayed in aid the principles applying equitable considerations as explained by Lord Hoffmann in O’Neill v Phillips [1999] 1 WLR 1092 at 1098D to 1099F.
+
+16.  Even though the exclusion complaint had alleged breach of contractual rights (not under the SPA, but under clauses 3.2 and 3.3 of the SA, to which only the Company was a party), the major allegations of the complaint[13] were based on the mutual understanding and legitimate expectation of the petitioner and were directed at WPP.  We agree with the judge these allegations could not be said to arise out of the SA, as no claim was made against the Company, which is joined as a nominal party, and it is the conduct of the other shareholders and WPP that is the subject of this complaint.  It could not be said that the substance of this complaint had the requisite close association with the SPA or the SA, or was incidental to these contracts, or which required the same investigation of the contractual terms and their performance such that it was closely linked with these contracts.
+
+17.  The same considerations apply to the Makdessi complaint, which was based on the respondents’ conflicts of interest in settling the Makdessi dispute for a token sum and the gravamen concerns WPP’s conduct through the directors it caused to be appointed to the Company[14]. Again, even though it was stated in the petition that WPP’s conduct was a breach of the requirements under the SPA and the SA to give the petitioner and/or the board of the Company control over fundamental issues of governance, it was also framed in terms of a breach of the mutual understanding and legitimate expectation[15].  As found by the judge, the substance of the complaint concerns WPP’s conduct in advancing the interest of Cavendish at the expense and to the detriment of the Company and the petitioner.  We do not think this complaint could properly be regarded to have the requisite close association with the SPA or the SA.
+
+18.  For the above reasons, we are not persuaded by the written and oral submissions of the respondents that the grounds of appeal in relation to the Scope Issue would have any reasonable prospect of success.  We have therefore refused leave to appeal for this issue at the hearing.
+
+The Fetter Issue
+
+19.  To recap, on the Scope Issue, the judge held that the exclusive jurisdiction clause in the SPA would apply to the dividends complaint only insofar as against Cavendish but not against the other respondents.  On that basis, the judge went on to hold that as the exclusive jurisdiction clause fetters the statutory right of the petitioner as a minority shareholder of the Company to present an unfair prejudice petition for a buyout of his shares, to that extent it would not be enforced.  The judge arrived at this conclusion by applying the principle established in In re Peveril Gold Mines Ltd [1898] 1 Ch 122 at 124 (Byrne J) and at 131 (Lindley MR), namely that the right of a contributory to petition for winding up is a statutory right which cannot be deprived of by the terms of the articles of association or some private agreement between shareholders.  That principle was applied by the Court of Appeal in Re  Greater Beijing Region Expressways Ltd [1999] 4 HKC 807 (“GBRE”).
+
+20.  As summarised by the judge[16], GBRE held at 816A to 817E that (1) the provisions protecting shareholders in respect of their interest in a company ultimately turn upon their right to present a petition under section 177(1)[17] and their right to relief under section 168A[18] of the former Companies Ordinance, Cap 32; (2) the right of contributories to present a winding-up petition and their right to relief under section 168A are statutory rights; (3) any article that sought to preclude such statutory rights was contrary to public policy; (4) if a matter is contrary to public policy, the court will not give effect to an agreement whether it is constituted by the articles or some outside agreement.
+
+21.  Whilst the question as to whether an individual shareholder could by contract fetter his personal rights was left open by Lindley MR and Chitty LJ in Peveril, the judge took the view that if the agreement (as in GBRE) purports to bind future shareholders, it operates beyond a personal contract between individual shareholders and would be struck down if its tenor were against the policy in the companies legislation, citing Muir v Lampl [2005] 1 HKLRD 338 at §§15(e) and 19[19].  In the present context, the judge did not think a valid distinction could be drawn between the right to present a winding-up petition and the right to present an unfair prejudice petition, as both are rights conferred by statute for the protection of shareholders[20]. She concluded in §85:
+
+“Further, on the respondents’ case, the effect of a jurisdiction clause would be seriously adverse to the petitioner: not only would he be deprived of his right as a minority shareholder to present an unfair prejudice petition under section 724 of the Ordinance, as considered more fully at §§90-101 below, the parallel English provision is not available to him in the English court as it does not apply to foreign companies like the Company and, as will become apparent, he would not be able to obtain an effective remedy from the English court should his complaints be upheld.”
+
+22.  The judge therefore held, on public policy considerations, to the extent that the exclusive jurisdiction clause fetters the petitioner’s statutory right to present an unfair prejudice petition, it must be held to be inoperative[21].
+
+23.  Mr Smith made three broad criticisms here. First, in applying Peveril and GBRE, the judge failed to recognise that both were involved with winding-up petitions.  Second, in distinguishing a personal contract between shareholders from an agreement that operates beyond a personal contract, the judge failed to properly consider whether the jurisdiction clause in the SPA and/or SA was a personal contract that should be given effect.  Third, the judge wrongly distinguished Fulham Football Club (1987) Ltd v Richards [2012] Ch 333 on the basis that “the issue of arbitrability was at the core of Fulham and necessarily coloured its approach” and did not consider it to be of particular relevance in this debate[22].
+
+24.  Mr Smith claimed there is no fetter at all on the petitioner’s statutory right to present an unfair prejudice petition for a buyout of his shares.  The petitioner is free to present his petition in the Hong Kong court.  It will then be stayed for the substantive complaints in the petition to be determined by the English court pursuant to the exclusive jurisdiction clauses.  If the complaints are found to be established, he can then seek a lifting of the stay and ask the Hong Kong court to grant the specific reliefs in the petition[23].  Mr Smith said this is analogous to the examples he cited in which unfair prejudice petitions or winding-up petitions by shareholders of solvent companies on the just and equitable ground were stayed by the courts, the underlying complaints in the petitions were directed to be determined by arbitral tribunals pursuant to the arbitration agreements and, where appropriate, the matter would be brought back to the courts for the granting of reliefs if the complaints were made out, see Fulham FC; Re Quiksilver Glorious Sun JV Ltd [2014] 4 HKLRD 759; Tomolugen Holdings Ltd v Silica Investors Ltd [2016] 1 LRC 147; WDR Delaware Corporation v Hydrox Holdings Pty Ltd [2016] FCA 1164.   He contended that the judge had “conflated the issue of jurisdiction to make specific remedial orders on the one hand, and jurisdiction to resolve the substantive disputes on the other.”
+
+25.  There is no dispute that an unfair prejudice petition is not an application for a class remedy, despite the availability of relief affecting third parties (Fulham FC, §§58 and 61).  Mr Smith argued from there that an unfair prejudice petition stands on a different footing from the winding up of an insolvent company because it generally does not engage the public policy considerations in bringing into effect a statutory regime which would impact on the rights of creditors or safeguards for the benefit of third parties.
+
+26.  He prayed in aid the cases in which unfair prejudice petitions were stayed for the underlying disputes to be determined in arbitration.  Just as it was held in those cases that there is no statutory provision or rule of public policy which has the effect of rendering the arbitration agreement void or unenforceable insofar as it purports to bind the parties to an arbitral determination of the unfair prejudice issues, he argued there is likewise no express or implied statutory restriction which prohibits the reference of the substance of an unfair prejudice petition to be determined by a foreign court, in this instance, the High Court of England and Wales.  This is because the principles for construing arbitration and exclusive jurisdiction clauses are the same and in both cases the courts seek to hold the parties to their contractual bargain unless there is good reason otherwise.  He submitted there is no principled distinction between arbitration and exclusive jurisdiction clauses in the context of an unfair prejudice petition.
+
+27.  The core premise of his submission is that there should be no difference between the determination of the underlying unfair prejudice dispute by an arbitral tribunal and the determination of the same by a foreign court.  But as we have pointed out to him in the course of argument, the analogy he sought to draw with arbitration cases breaks down because the English court does not appear to have jurisdiction to determine a claim for unfair prejudice in respect of a company incorporated in Hong Kong, quite apart from granting the buyout relief sought in the petition[24], contrary to his written submission that the jurisdiction of the English court to resolve the substantive complaints in the petition is not derived from section 994 of the Companies Act 2006 but “is based on the exclusive jurisdiction clauses found in the SPA and/or SA”.  Unlike an arbitration agreement in which parties are free to agree to refer whatever dispute for determination by a consensual dispute resolution process, subject to the overarching issue of arbitrability (that the subject matter can suitably be determined within the limitations of a private consensual process), parties are not at liberty to confer jurisdiction on the court by agreement where there is none.
+
+28.  The issue which divided the parties in Fulham FC was that of arbitrability (§37).  The question was whether there was “implied restriction in the statute or some equivalent rule of public policy” (§43), based on the considerations that “in relation to the matters in dispute in each case whether they engage third party rights or represent an attempt to delegate to the arbitrators what is a matter of public interest which cannot be determined within the limitations of a private contractual process” (§40).
+
+29.  The English Court of Appeal concluded that in respect of unfair prejudice petitions, which are “essentially internal disputes about alleged breaches of the terms or understandings upon which the parties were intended to co-exist as members of the company” (§58), “the determination of whether there has been unfair prejudice consisting of the breach of an agreement or some other unconscionable behaviour is plainly capable of being decided by an arbitrator” (§77) and the “only restriction placed upon the arbitrator is in respect of the kind of relief which can be granted” (§78).  The courts in Quiksilver (at §§21 to 23), Tomolugen (at §§84, 88, 94, 100, 103) and WDR Delaware (at §§161 to 163) had all proceeded on the same basis.
+
+30.  The judge is correct in stating that arbitrability was at the core of Fulham FC, and it was in that context that the English Court of Appeal considered and decided there was no statutory restriction or rule of public policy that had the effect of rendering the arbitration agreement void or unenforceable insofar as it purported to bind the parties to submit disputes of unfair prejudice to arbitration[25]. We agree with her that this line of cases is distinguishable.
+
+31.  Apart from the Hong Kong court, no other tribunal has jurisdiction to determine the petition for unfair prejudice in respect of the Company.  The exclusive jurisdiction clause, insofar as it purported to bind the petitioner and Cavendish to submit the dividends complaint in the petition to the English court for determination (a jurisdiction which the English court does not appear to have), is a fetter on the statutory right of the shareholder to present an unfair prejudice petition based on that complaint.  We think the situation is more akin to a line of Australian cases cited by Ms Chan, in which it was held that the non-availability of remedies under a protective Australian statute (the Trade Practices Act 1974, dealing with statutory claims for misleading and deceptive conduct) in the nominated foreign court constituted “strong cause” for not enforcing an exclusive jurisdiction clause, as it was undesirable that this clause should circumvent statutory protection for investors and against misleading or deceptive conduct (Commonwealth Bank of Australia v White (No 1) [1999] 2 VR 681 at §§87 to 91 (Supreme Court of Victoria)[26]; Quilan v Safe International Försäkrings AB [2005] FCA 1362 at §§49(f) and 50 (Federal Court of Australia)).
+
+32.  The other criticisms of Mr Smith may be dealt with succinctly.
+
+33.  We have no reason to think that the judge had failed to recognise Peveril and GBRE were involved with winding-up petitions. More importantly, this is not to the point. What matters is that it was held by the Court of Appeal in GBRE (at 815I to 816A) that the company legislation gives an important right to contributories to protect their interest in the company in that they have the right to present a petition for winding-up and the right to petition for relief where there is unfair prejudice.  As noted by the judge, no valid distinction can be drawn between the two types of petition, both rights are conferred by statute for the protection of shareholders[27].  If Mr Smith was drawing a distinction with insolvent winding up, that was not the reasoning in GBRE.
+
+34.  As for the point that the judge had failed to consider whether the jurisdiction clause was a personal contract that should be given effect, as distinguished from an agreement that operated beyond a personal contract, we agree with Ms Chan that the correct approach is not simply to consider whether there was a personal contract or something more, but whether the statutory right affected is a personal right of the shareholder or a right of the company exercisable by the shareholders in general meeting.  The right considered in Muir v Lampl (the right to remove a director by ordinary resolution) was of the latter kind; whereas in GBRE, the right was the personal right of the shareholder to present a petition.  The contractual provision in GBRE required the approval of two individuals who were shareholders of Miracle Chance Ltd (“Miracle”) before Miracle could present a contributory’s petition to wind up GBRE.  That agreement was binding on the future shareholders of Miracle and thus fettering Miracle’s personal right to present a petition against GBRE.  The decision did not turn on whether future shareholders of GBRE were bound by the agreement (at 817B to C, 820H to 821B).
+
+35.  As in GBRE, the statutory right of the petitioner to petition for relief on the ground of unfair prejudice is a personal right of the shareholder.  As we have explained, this right will be fettered if the exclusive jurisdiction clause in the SPA is to be enforced.  We agree with the judge this clause should not be given effect insofar as it fetters the statutory right of the petitioner.
+
+The Remedy Issue
+
+36.  The judge held that the petitioner would not be able to obtain substantial justice in the English court on the bases that (1) the English court does not have jurisdiction to adjudicate the petitioner’s claims and make appropriate declarations for relief if unfair prejudice is made out; and (2) major and serious disadvantage would be caused to the petitioner if he could only rely on the contractual exit mechanism in the SPA for a buyout (the English court has jurisdiction to grant this relief) as it involves delay and the SPA does not provide for a mechanism to resolve disputes as to the calculation of OPAT[28], which may be affected by the complaints of unfair prejudice.
+
+37.  On the first matter, Mr Smith repeated his earlier submission that the English court has jurisdiction to resolve the substantive complaints of unfair prejudice in the petition and the actual making of any orders or reliefs will be done by the Hong Kong court, by lifting the stay after the English court has determined the substantive disputes.  We have rejected this submission for the reasons given.  We reject his further submission that the English court can make declarations as to whether unfair prejudice is made out and if so whether it would be appropriate to grant remedy.  The English court has no jurisdiction to make a declaration on a subject as to which its jurisdiction to give relief is excluded by statute (Barraclough v Brown [1897] AC 615 at 624, per Lord Davey).
+
+38.  As to the contractual exit mechanism, the judge has considered this at some length from various angles[29].  There is no suggestion she has made any factual error.  The judge was entitled to come to the view she did on the facts she canvassed, placing such weight as she saw fit on various aspects of the exit mechanism.  We do not see any viable basis for attacking her conclusion that the petitioner would not be able to obtain substantial justice if his only remedy is the contractual exit mechanism.
+
+39.  Mr Smith asserted that on a “natural or proper interpretation” of clause 15.2 and the definition of OPAT in schedule 12 of the SPA, the audited accounts or audited consolidated operating profit used for calculating OPAT must be taken to refer to true, accurate accounts which are free from the impact of any alleged wrongdoing on the part of the directors or majority shareholder.  He cited two authorities in this regard, but they do not appear to advance his argument in any way. Multi-Link Leisure Developments Ltd v North Lanarkshire Council [2011] 1 All ER 175 was concerned with a purchase option clause granted to the tenant of the leased property and it was poorly drafted thereby posing a problem in its interpretation.  In Morgan Sindall plc v Sawston Farms (Cambs) Ltd [1999] 1 EGLR 90, the main argument was the limited circumstances in which the court would interfere with a non-speaking valuation of a valuer in determining the option price of a roadway.  It is not apparent these authorities were cited for any general proposition that would have relevance to the present situation.  This is hardly a legitimate use of authorities.
+
+40.  We do not agree with the construction put forward by Mr Smith.  The judge has considered the effect of the dispute mechanism in clause 6 of the SPA and the extensive list of what should and should not go into the calculations of OPAT in schedule 12.  We agree with her that “nothing in the list could assist the petitioner in obtaining redress, much less adequate redress, for unfair prejudice complaints that are substantiated”[30].  And as rightly submitted by Ms Chan, Mr Smith’s construction would require the court to imply terms into clause 15, and that would not be permissible in light of the entire agreement provision in clause 22.1.
+
+The Discretion Issue
+
+41.  Mr Smith submitted that the judge had applied the wrong legal principles and in any event had plainly erred in the exercise of her discretion in refusing to grant a stay of the unfair prejudice petition brought in Hong Kong.
+
+42.  As to the error in law, he submitted that where a claimant sues in Hong Kong in breach of an exclusive jurisdiction clause, the correct legal test is that the Hong Kong court should exercise its discretion in granting a stay unless strong cause for not doing so is shown, citing The Frinton [1990] 2 HKLR 700 at 711E; Noble Power Investments Ltd v Nissei Stomach Tokyo Co Ltd [2008] 5 HKLRD 631 at §§27, 29 and 36.  So the burden here is on the petitioner to show strong cause for not granting a stay.
+
+43.  The judge did not make any error in law about the legal test.  She accepted “where there is a jurisdiction clause in a contract, the starting point is that the parties should be held to their bargain but the rule is not absolute, as it is for the courts to ultimately determine where the interests of justice lie.  They may in exceptional cases ignore the contractual bargain but strong reasons must be demonstrated if the court is to free the parties from their contractual bargain.”[31] The judge concluded that strong reasons do exist in this instance: there is no effective remedy available to the petitioner were he to bring his complaints against the respondents in England, and there are public policy considerations that the exclusive jurisdiction clause fetters the petitioner’s statutory right to present an unfair prejudice petition and to that extent it must be held to be inoperative in respect of the dividends complaint against Cavendish[32].
+
+44.  The contention that the judge did not apply the correct legal principles must be rejected.
+
+45.  As for the exercise of discretion, it is well established that the judge’s exercise of discretion is entitled to be respected and the appeal court is not entitled to exercise its discretion afresh unless grounds of error or misdirection are made out or that the conclusion reached in the judge’s exercise of discretion was outside the generous ambit within which a reasonable disagreement is possible such that it was plainly wrong (Hong Kong Civil Procedure 2017, vol 1, §59/0/54).
+
+46.  Mr Smith asserted that the judge had “plainly erred” in the exercise of her discretion.  It is unhelpful to repeat essentially his submissions below with the citation of more authorities without making good in what respects the judge had “plainly erred” in refusing to grant his application.  What is more, many of the cases cited are fact-specific and the exercise of discretion in granting a stay in specific fact situations is not indicative that the judge had plainly erred in refusing a stay having taken rather different factors into consideration.
+
+47.  The judge was “seriously troubled” by the absence of ‘reciprocity’ in that the petitioner would not be able to obtain adequate redress or substantial justice from the English court if his complaints of unfair prejudice are made out, quite apart from the fact that WPP and Y&R are not parties to the substantive English proceedings[33]. She was conscious of the existence of the multiplicity of proceedings and the desirability of avoiding conflicting decisions on the same or similar issues.  Nevertheless, situations could arise where this cannot be avoided, and she cited as an example Morgan Stanley & Co International plc v China Haisheng Juice Holdings Co Ltd [2011] 2 BCLC 287[34].  The judge also noted that both sets of English proceedings (the anti-suit proceedings and the substantive English proceedings) are at the commencement stage and have not progressed beyond issuance of the writs[35]. And if circumstances so warrant, it would be open to the Hong Kong court hearing the petition to stay the execution of any order made on the petition pending the English court’s adjudication of the defaulting shareholder issue in the substantive English proceedings[36].
+
+48.  We are not persuaded there was error or misdirection in the judge’s approach or that her exercise of discretion was plainly wrong.  Quite clearly, the court cannot ensure that all issues are to be determined in one jurisdiction, the English court is not the natural forum for the whole dispute, and it is inevitable the unfair prejudice complaints would have to be tried in Hong Kong.  There is a jurisdictional tangle for which no wholly satisfactory solution could be found.
+
+49.  As noted by Lord Bingham in Donohue v Armco Inc [2002] 1 All ER 755 at §27, the authorities showed that the English court may well decline to grant an injunction or a stay, as the case may be, where the interests of parties other than the parties bound by the exclusive jurisdiction clause are involved or grounds of claim not the subject of the clause are part of the relevant dispute so that there is a risk of parallel proceedings and inconsistent decisions.
+
+50.  Mr Smith submitted that the judge should have exercised the case-management powers to stay parallel proceedings, citing among other authorities International Commercial Litigation by Richard Fentiman (2nd ed) at §§14.07 to 14.20, and placing heavy reliance on Reichhold Norway ASA v Goldman Sachs International [2000] 1 WLR 173.  Case-management stays are distinct from stays on grounds of forum conveniens in that the object is not to determine the most appropriate forum according to forum conveniens principles.  They operate where both courts are equally appropriate (as where a claimant seeks similar relief in different courts), or neither is an appropriate forum to hear the distinct claims advanced in each country (as where different disputes arise in different courts between the same parties) (International Commercial Litigation §14.11).
+
+51.  In the court below, it is not apparent that the application to stay the Hong Kong proceedings was argued on the basis of case-management grounds.  The judge made no mention of any relevant authority on case-management stays that Mr Smith cited to this court.  The summons stated that the application was made on the basis of the exclusive jurisdiction clauses.  And the supporting affidavit just mentioned forum non conveniens as an additional ground[37].
+
+52.  In any event, we do not think the principles of case-management stays would assist the respondents.  A stay on case-management grounds is regarded as exceptional, to be made only in “rare and compelling circumstances”, where the arguments for a stay clearly outweigh any resulting disadvantage to the claimant (International Commercial Litigation §14.08 and the cases cited, including Reichhold at 186C).  This is plainly not the case here.
+
+53.  Mr Smith sought to rely on this statement in International Commercial Litigation §14.13: “In practice, however, the decisive factor is always likely to be whether the claimant is a party to both the English and the foreign proceedings.”  Here, the petitioner brought the petition in Hong Kong and was sued in the English proceedings.  But this statement should be read with a subsequent statement in the same paragraph: “In practice, a stay is likely to be granted only where it is right to require a claimant to elect which action to pursue, which the courts perceive as a justifiable end.”  That indeed was the position in Reichhold. It has no application to this situation.
+
+54.  The judge has dealt with the arguments on the lack of locus if the petitioner should be found to be a defaulting shareholder in the substantive English proceedings[38].  We agree with the judge.
+
+Conclusion
+
+55.  We dismiss the respondents’ appeal for the above reasons.  We make an order nisi that they should pay the petitioner’s costs of the application for leave to appeal and of this appeal.
+
+  
+
+  
+
+(M H Lam)
+Vice President
+(Susan Kwan)
+Justice of Appeal
+  
+
+Mr Clifford Smith SC and Mr Kerby Lau, instructed by Deacons, for the 1st to 4th Respondents (1st to 4th Appellants) in CACV 6/2017 & 1st to 4th Applicants in HCMP 3136/2016
+
+Ms Linda Chan SC and Mr Keith Lam, instructed by Holman Fenwick Willan, for the Petitioner (Respondent) in CACV 6/2017 & Respondent in HCMP 3136/2016
+
+
+[1] With Mr Keith Lam
+
+[2] Decision, §38
+
+[3] Decision, §67
+
+[4] Decision, §§68 to 86 and 111
+
+[5] Decision, §§87 to 101 and 110
+
+[6] Decision, §§105 to 111
+
+[7] With Mr Kerby Lau
+
+[8] Decision, §§62 to 66
+
+[9] Decision, §60
+
+[10] Decision, §§62 and 63
+
+[11] §28
+
+[12] Decision, §87
+
+[13] Petition, §§44 to 53
+
+[14] Petition, §§59 to 74; Decision, §§64 to 67
+
+[15] Petition, §69
+
+[16] Decision, §74
+
+[17] The present provision is in section 177(1) of the Companies (Winding Up and Miscellaneous Provisions) Ordinance, Cap 32
+
+[18] The present provision is in section 724 of the Companies Ordinance, Cap 622
+
+[19] Decision, §75
+
+[20] Decision, §84
+
+[21] Decision, §111
+
+[22] Decision, §84
+
+[23] Before the judge, Mr Smith’s approach was that the petitioner could join Y&R and WPP as parties to the substantive English proceedings and seek appropriate declarations from the English court for relief that mirror §76 of the petition for a buyout with the desired adjustments to cure any unfair prejudicial conduct made out, see Decision, §§89 to 90. He did not appear to have made the distinction he sought to make on appeal between the jurisdiction to resolve substantive complaints in the petition and the jurisdiction to make specific remedial orders.
+
+[24] 4th affirmation of Joseph Ghossoub, §36, in which he deposed that he was so advised. This was not disputed by the respondents in the 2nd affidavit of Victoria Lucy Brown, the in-house counsel of the WPP Group.
+
+[25] Decision, §§77 to 84; Leave Decision, §§8 to 12
+
+[26] Leave to appeal was refused by the Victorian Court of Appeal and by a majority in the High Court of Australia, see the narrative in Commonwealth Bank of Australia v White (No 4) [2001] VSC 511 at §§29 to 34.
+
+[27] Decision, §84
+
+[28] Defined in schedule 12 of the SPA as “the audited consolidated operating profit or loss of the Group”.
+
+[29] Decision, §§92 to 100
+
+[30] Decision, §100
+
+[31] Decision, §105
+
+[32] Decision, §§110, 111
+
+[33] Decision, §107
+
+[34] Decision, §108
+
+[35] Decision, §106
+
+[36] Decision, §107
+
+[37] 1st affidavit of Victoria Lucy Brown, §47
+
+[38] Leave Decision, §§16 to 20
+
+ 
+

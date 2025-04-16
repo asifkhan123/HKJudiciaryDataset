@@ -1,0 +1,409 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 1 of 2016
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 1 OF 2016 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 243 OF 2014)
+
+____________________
+
+BETWEEN
+ 	COMPANIA SUD AMERICANA DE VAPORES S.A.	Plaintiff/
+Appellant
+ 	and	
+ 	HIN-PRO INTERNATIONAL LOGISTICS LIMITED	Defendant/
+Respondent
+____________________
+
+Before: Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Tang PJ, Mr Justice Fok PJ and Lord Phillips of Worth Matravers NPJ
+
+Date of Hearing: 12 October 2016
+
+Date of Judgment: 14 November 2016
+
+________________________
+
+J U D G M E N T
+
+________________________
+
+
+Chief Justice Ma:
+
+1.  I agree with the judgment of Lord Phillips of Worth Matravers NPJ.
+
+ 
+
+Mr Justice Ribeiro PJ:
+
+2.  I agree with the judgment of Lord Phillips of Worth Matravers NPJ.
+
+ 
+
+Mr Justice Tang PJ:
+
+3.  I agree with the judgment of Lord Phillips of Worth Matravers NPJ.
+
+ 
+
+Mr Justice Fok PJ:
+
+4.  I agree with the judgment of Lord Phillips of Worth Matravers NPJ.
+
+ 
+
+Lord Phillips of Worth Matravers NPJ:
+
+Introduction
+
+5.  The Appellant (“CSAV”) is a Chilean shipping corporation.  The Respondent (“Hin-Pro”) is a company incorporated in Hong Kong that carries on business as a freight forwarder.  Hin-Pro has brought proceedings against CSAV in various courts in the People’s Republic of China (“PRC”) under bills of lading issued by CSAV that contain exclusive English jurisdiction clauses.  Hin-Pro has done so in disregard of anti-suit injunctions issued by the Commercial Court in England restraining Hin-Pro from suing CSAV in any jurisdiction other than the High Court of England and Wales.
+
+6.  In the English actions CSAV has sought damages for Hin-Pro’s breaches of contract in disregarding the exclusive jurisdiction clauses.  In support of this claim for damages CSAV has sought, in the present proceedings, a Mareva injunction over Hin-Pro’s assets in Hong Kong and the appointment of a receiver, pursuant to the Court’s powers under section 21M of the High Court Ordinance (“section 21M”).  The Court of Appeal, upholding a decision of the judge below, has ruled that this relief should not be granted as to grant it would be to intervene in a conflict between the English Court and the Courts of the PRC.  CSAV appeals against this ruling.  This appeal requires consideration of the correct approach to an application for relief under section 21M, which provides:
+
+Interim relief in the absence of substantive proceedings
+
+(1) Without prejudice to section 21L(1)[1], the Court of First Instance may by order appoint a receiver or grant other interim relief  in relation to proceedings which-
+
+(a) have been or are to be commenced in a place outside Hong Kong; and
+
+(b) are capable of giving rise to a judgment which may be enforced in Hong Kong under any Ordinance or at common law.
+
+(2) An order under subsection (1) may be made either unconditionally or on such terms and conditions as the Court of First Instance thinks just.
+
+(3) Subsection (1) applies notwithstanding that-
+
+(a) the subject matter of these proceedings would not, apart from this section, give rise to a cause of action over which the Court of First Instance would have jurisdiction; or
+
+(b) the appointment of the receiver or the interim relief sought is not ancillary or incidental to any proceedings in Hong Kong;
+
+(4) The Court of First Instance may refuse an application for appointment of a receiver or interim relief under subsection (1) if, in the opinion of the Court, the fact that the court has no jurisdiction apart from this section in relation to the subject matter of the proceedings concerned makes it unjust or inconvenient for the court to grant the application.
+
+(5) The power to make rules of court under section 54 includes power to make rules of court for-
+
+(a) the making of an application for appointment of a receiver or interim relief under subsection (1); and
+
+(b) the service out of the jurisdiction of an application or order for  the appointment of a receiver or for interim relief.
+
+...
+
+(7) In this section “interim relief” includes an interlocutory injunction referred to in section 21L(3)
+
+The procedural history
+
+7.  In the first half of 2012 Hin-Pro shipped at various ports in the PRC under bills of lading issued by CSAV goods for carriage to Venezuela.  All the bills of lading had the following clause:
+
+“23 Law and jurisdiction
+
+This Bill of Lading and any claim arising hereunder shall be subject to English law and the jurisdiction of the English High Court of Justice in London. If, notwithstanding the foregoing, any proceedings are commenced in another jurisdiction, such proceedings shall be referred to ordinary courts of law. In the case of Chile, arbitrators shall not be competent to deal with any such disputes and proceedings shall be referred to the Chilean Ordinary Courts”.
+
+8.  In June 2012 Hin-Pro commenced proceedings against CSAV in the Wuhan Maritime Court claiming that cargoes shipped under 5 bills of lading for carriage from Nanjing to Puerto Caballo in Venezuela had been wrongly delivered without production of the bills of lading.
+
+9.  In response to these proceedings, in November 2012, CSAV commenced an action in the Commercial Court in London[2] (“the First English Action”) claiming that Clause 23 was an exclusive jurisdiction clause.  CSAV sought and obtained ex parte from Burton J an injunction restraining Hin-Pro from further pursuing the Wuhan proceedings.  Hin-Pro ignored this injunction and continued to pursue the Wuhan proceedings.  This led to Andrew Smith J making an order on 21 March 2013 holding Hin-Pro, and its director and sole shareholder, Su Wei, in contempt.  Ms Su, in her absence, was sentenced to 3 months’ imprisonment and an order was made for the sequestration of Hin-Pro’s property.
+
+10.  Meanwhile, Hin-Pro was busy commencing further similar proceedings in respect of other shipments in the Ningbo, Qingdao, Tianjin, Guangzhou and Shanghai Maritime Courts.  CSAV took part in all the PRC proceedings and invoked the exclusive jurisdiction clauses in the bills of lading.  The PRC courts held that these clauses were void.  We have been provided with a translation of the judgment in the first action that was brought in Ningbo, which dealt with the issue of jurisdiction as follows:
+
+“the place where the Defendant has its domicile, the place where the contract is performed or signed, the place where the subject matter is located, all do not fall within the UK, therefore, the place where the competent court is located agreed in the said jurisdiction clause has no actual connection with the subject dispute and the jurisdiction thus agreed shall be determined as null and void. Since the loading port of the cargo concerned was Ningbo Port, China, Ningbo was the place where the carriage commenced; and as it fell within the jurisdiction of this Court and, therefore, this Court shall have jurisdiction over the subject case”.
+
+Thus the Court did not address the question of whether or not the jurisdiction clause was exclusive.
+
+11.  CSAV did not merely challenge the jurisdiction of the PRC courts, it joined issue on the merits of the claims brought by Hin-Pro.  It is CSAV’s case that the claims made by Hin-Pro are fraudulent and that documents relied upon by Hin-Pro in support of its claims are forgeries.
+
+12.  In November 2013 CSAV commenced a second action against Hin-Pro in the English Commercial Court[3] (“the Second English Action”) in relation to the further breaches of the exclusive jurisdiction clause that had occurred.  A further anti-suit injunction was obtained in relation to these proceedings. Once again Hin-Pro ignored this and continued to prosecute the actions commenced in the PRC.
+
+13.  On 26 May 2014, after a contested trial, the Ningbo Maritime Court gave judgment against CSAV in the sum of US$360,000 together with costs in the sum of RMB¥100,000.
+
+14.  On 13 June 2014 CSAV obtained ex parte in the English Commercial Court a worldwide freezing order against Hin-Pro in support of the two English Actions in the sum of US$27,835,000.  This represented the total of the sums claimed by Hin-Pro in the various PRC proceedings.  That order also required Hin-Pro to disclose its assets.
+
+15.  Three days later, on 16 June 2014, an application was made ex parte in the present proceedings, pursuant to section 21M, for a Mareva injunction freezing Hin-Pro’s assets in Hong Kong.  This was in aid of the two English Actions and to give effect to the worldwide freezing order made by the English Court.  DHCJ Saunders granted the injunction and made an ancillary disclosure order, requiring the defendant to disclose its assets in Hong Kong in so far as these exceeded HK$78,000.
+
+16.  On 17 July 2014, on the application of CSAV, DHCJ Saunders made a Receivership Order in respect of Hin-Pro’s assets.  While the object of this was the preservation of those assets, the terms of the Order went wider inasmuch as it authorized the receivers to:
+
+“intervene and take any necessary steps on behalf of the Defendants in the PRC legal actions ... and if thought fit, withdraw and discontinue the said legal actions”.
+
+17.  It does not seem to me that this part of the Order was one that could properly be made under section 21M.  Mr Scott SC, who has appeared on behalf of CSAV, has not sought to justify it.  Indeed he has made it plain that he does not seek an order reinstating the Receivership Order.  This Court has not been told what steps the Receivers took, or sought to take, in respect of the PRC proceedings, but those proceedings appear to have run their course.
+
+18.  On 18 July 2014 DHCJ Saunders, on the application of CSAV, amended the Mareva injunction so that it extended to the assets of Soar International Logistics Limited (“Soar”), a company registered in Hong Kong, on the ground that Soar is an asset of Hin-Pro.  Soar has never taken any part in these proceedings and in these circumstances the order against Soar stands or falls with the order against Hin-Pro.
+
+19.  On 23 July 2014 CSAV paid about HK$2.9 million into Hin-Pro’s Hong Kong account in satisfaction of the Ningbo judgment.  This account was, of course, frozen under the Mareva.
+
+20.  On 30 July 2014, on the application of CSAV, DHCJ Saunders made a Receivership Order for the appointment of Interim Receivers over all Soar’s assets.
+
+21.  On 14 October 2014 Cooke J delivered judgment in the Second English Action[4]. Hin-Pro did not attend the trial.  It had been given permission to attend and make submissions if it satisfied various pre-conditions, but it had failed to satisfy most of these.  Cooke J held that the jurisdiction clause in the bills of lading was, on its true construction, an exclusive jurisdiction clause and made a permanent anti-suit injunction.  He held in para 18 that
+
+“there are good reasons for considering that the claims brought in China by Hin-Pro are dishonest claims, based on false documents ...”
+
+22.  He ruled that Hin-Pro was in breach of contract in bringing proceedings in the PRC and that the damages caused by this breach consisted of all the sums awarded to Hin-Pro in China.  He ordered Hin-Pro to pay by way of damages:
+
+(1) the US$360,000 and costs of RMB¥100,000 awarded by the Ningbo Maritime Court on 27 May 2014;
+
+(2) a further sum of US$652,936 and costs of RMB¥100,000 awarded by the same court on 10 September 2014 (this sum has not been paid by CSAV);
+
+(3) costs incurred by CSAV in proceedings in the PRC of US$489,692.71.  He ordered Hin-Pro to pay as damages any further sums that might be awarded by the PRC courts.
+
+23.  Meanwhile, in September 2014 Hin-Pro had applied for the discharge of the Mareva injunction and the Receivership Order made against Hin-Pro in this jurisdiction.  On 15 October 2014, the day after Cooke J gave judgment in London, DHCJ Wilson Chan gave judgment in Hong Kong, discharging these Orders.  In that judgment he recorded the submission of Mr Barlow SC for Hin-Pro that CSAV had been guilty of non-disclosure in failing to inform DHCJ Saunders that it had taken part in the PRC proceedings by defending those proceedings and by making an objection to the jurisdiction which had been rejected.  He recorded that Mr Barlow SC submitted that these non-disclosures were “incurable, because they compel the Court to dismiss the plaintiff’s application pursuant to section 21M(4)”.
+
+24.  Although DHCJ Wilson Chan said “I agree with Mr Barlow SC’s submissions” he went on to found his decision not on non-disclosure but on the merits of the case as advanced by Mr Barlow SC.  His submission, as summarised by the judge at para 35 of his judgment, was that
+
+“it would be ‘unjust’ and ‘inconvenient’ for this court to exercise its section 21M jurisdiction by [arrogating] to itself the role of referee or adjudicator over cases in which two courts are in Judicial Conflict with each other – since such conduct would be contrary to this court’s policy of judicial comity ...”
+
+The words in italics are taken from section 21M(4).
+
+25.  The judge held at paras 39-40:
+
+“By these proceedings, the plaintiff is seeking to have this court assist the English court in thwarting the defendant’s claims in the PRC courts. As the two courts are in clear conflict over the question of jurisdiction, I agree that the policy of section 21M(4) and this court’s policy of judicial comity require this court to refuse to make any order. This court has been and is being asked to choose between the two courts and to take a course which has always been contrary to the policy of our courts, namely: ‘to arrogate to itself the decision how a foreign court should determine the matter’ [see: Deutsche Bank AG v Highland Crusader Offshore Partners LP [2010] 1 WLR 1023 at 1036F-G]. Here, as in England, our court’s policy of judicial comity and respect for foreign courts requires that no choice between the two courts should be made. It follows that the Hin-Pro Mareva (upon which the Hin-Pro Receivership Order, the Soar Mareva and the Soar Receivership Order were based) should be discharged due to the requirement of section 21M(4).”
+
+26.  The discharge of these orders was made subject to an undertaking given by Hin-Pro to pay the HK$2.9 million odd received in respect of the first Ningbo judgment into court and not to take any step to enforce any PRC judgment against CSAV without first obtaining CSAV’s consent or leave of both the Hong Kong and the English courts.  This undertaking remains in force to this day.
+
+27.  I am about to turn to the judgment of the Court of Appeal, but before doing so I should refer to some more recent developments.  Despite being in contempt, Hin-Pro was permitted to appeal to the English Court of Appeal against the judgment of Cooke J.  On 23 April 2015 the Court of Appeal delivered its judgment, dismissing the appeal[5].
+
+28.  CSAV has achieved significant success in the litigation in the PRC.  Mr Scott SC for CSAV informed the Court that the current position is as follows.  Hin-Pro commenced five actions in respect of five bills of lading in Wuhan, which were consolidated into a single action, and seventy actions in respect of seventy bills of lading in Ningbo, Shanghai, Tianjin, Guangzhou and Qingdao. These were consolidated into twenty-three actions.
+
+29.  Nineteen consolidated actions were tried in Ningbo with first instance decisions in Hin-Pro’s favour.  In October/November 2015 CSAV succeeded in overturning eighteen of these decisions on appeal and one decision on retrial.  Applications for retrial of the appellate decisions were dismissed by the Supreme People’s Court and there is no further right of appeal in the nineteen actions.  If these include the action in respect of which US$360,000 and costs have been paid by CSAV into court it would seem that these sums should now be paid out to CSAV.  If so, CSAV will no doubt seek the appropriate order.
+
+30.  Judgments were given in CSAV’s favour in consolidated actions in Shanghai and Tianjin and these are under appeal by Hin-Pro.  Judgment has recently been given in CSAV’s favour in the consolidated action in Qingdao.  First instance judgments are pending in Guangzhou and Wuhan.
+
+The judgment of the Court of Appeal
+
+31.  In a lengthy and careful judgment, to which all members contributed, the Court of Appeal, consisting of Hon Lam VP, Barma JA and Poon J, dismissed CSAV’s appeal.  In doing so it proceeded on the basis that section 21M was the Hong Kong equivalent of section 25 of the English Civil Jurisdiction and Judgments Act 1982.[6]  That section is headed, as is section 21M, “Interim relief...in the absence of substantive proceedings”.  As extended by the Civil Jurisdiction and Judgments Act 1982 (Interim Relief) Order 1997, it grants, by subsection (1) to the High Court of England and Wales or Northern Ireland the power to grant interim relief where proceedings have been commenced in a foreign court.  Subsection (2) provides:
+
+“On an application for any interim relief under subsection (1) the court may refuse to grant that relief if, in the opinion of the court, the fact that the court has no jurisdiction apart from this section in relation to the subject-matter of the proceedings in question makes it inexpedient for the court to grant it.”
+
+32.  The Court referred to two decisions where the English Court of Appeal had laid down the test to be applied at the first stage before considering the question of inexpediency in accordance with subsection (2): Motorola Credit Corporation v Uzan No (2)[7] and Refco Inc v Eastern Trading Co (“Refco”)[8].  In the latter case at p.170-1 Morritt LJ summarised the position as follows:
+
+“... the approach of the Court in this country to an application for interim relief under s.25 is to consider first if the facts would warrant the relief sought if the substantive proceedings were brought in England. If the answer to that question is in the affirmative then the second question arises, whether, in the terms of s.25(2), the fact that the Court has no jurisdiction apart from the [section] makes it inexpedient to grant the interim relief sought.”
+
+33.  The Court of Appeal held that, applying this approach,
+
+“... even before one comes to the second stage in terms of consideration under section 21M(4), the court must ask itself whether the facts of the case warrant[] the grant of interim relief if substantive proceedings were brought in Hong Kong. This entails the judge hearing the application to examine the strength and arguability of an applicant’s claim in the context of Hong Kong law rather than simply accepting a decision of the foreign court.”[9]
+
+34.  Turning to the substantive proceedings in this case, the Court of Appeal applied the approach in Refco on the basis that this required the Court to consider what the position would have been had CSAV brought its actions in Hong Kong, rather than in England.  The primary relief sought in England was an anti-suit injunction.[10] This presented “a special problem” because “if the substantive anti-suit proceedings were brought in Hong Kong, we have to be cautious in light of the requirement of judicial comity and the lack of primary jurisdiction over the subject matter in our courts”.[11]
+
+35.  Having cited extensively from the speech of Lord Goff in Airbus Industrie GIE v Patel[12] the Court of Appeal concluded[13]:
+
+“Having regard to the principle of judicial comity, had the plaintiff commenced a claim for [an] anti-suit injunction in Hong Kong, it is doubtful whether our court would grant such [an] injunction to prohibit proceedings in another jurisdiction when it does not have a sufficient interest in, or connection with, the matter in question to justify the indirect interference with the foreign court. In the present context, the court in Hong Kong is not a natural forum for the disputes in relation to the bills of lading. Nor is it designated as a forum for the disputes in the bills of lading. Neither have the parties come to Hong Kong to litigate on such disputes.”
+
+36.  The Court of Appeal observed that CSAV was seeking a Mareva injunction to protect its claim for damages rather than an anti-suit injunction, but concluded that this did not make any difference, in view of the requirement to consider at the first stage whether this relief would be granted if the substantive claim were brought in Hong Kong.[14]  The anti-suit nature of the relief sought was manifested in the fact that damages were sought to reverse the effect of whatever judgments might be issued by the courts in the PRC.[15]  After considering The Angelic Grace[16] and Deutsche Bank AG v Highland Crusader Partners LP[17]the Court concluded that no breach of comity was involved in an English court enforcing an English exclusive jurisdiction clause, or in a Hong Kong court enforcing a Hong Kong exclusive jurisdiction clause.  Here, however, CSAV was asking the Hong Kong court to enforce an exclusive jurisdiction clause in favour of the English court.[18]
+
+37.  The Court of Appeal concluded:
+
+“Viewed in this light, these orders had been obtained by the plaintiff for the purpose of implementing the anti-suit injunctions granted in England though they had not (and could not have) applied for such injunctions in Hong Kong. We do not think one can side-step the requirement to have regard to judicial comity in this way”.[19]
+
+38.  This was the primary basis of the decision of the Court of Appeal. The Court went on to observe, however, that as a matter of discretion, the terms of the Mareva and the Hin-Pro Receivership Order could not be justified.  The undertaking given by Hin-Pro not to enforce judgments given by the PRC courts provided CSAV with adequate protection.[20]Accordingly the Court of Appeal dismissed CSAV’s appeal.
+
+The First Question
+
+39.  The first question raised by this appeal is what are the legal principles applicable on this section 21M application and, in particular, whether the Court of Appeal was right to apply the first stage test in Refco and, if so, whether it applied that test correctly. The starting point is to consider the origin and object of section 21M.
+
+40.  In Mareva Compania Naviera S.A. v International Bulk Carriers SA[21] Lord Denning MR identified a novel form of injunctive relief, which became known as a Mareva.  It prohibited a defendant from disposing of his assets. Its object was to ensure that if judgment was given against him the judgment could be enforced. In Mercedes Benz A.G. v Leiduck[22] Lord Mustill carried out a somewhat critical analysis of the pedigree of this remedy, with particular reference to the first case in which its legitimacy was challenged inter partes – Rasu Maritima S.A. v Perusahaan Pertambangan Minyak Dan Gas Bumi Negara[23].  Lord Mustill was well placed to carry out the analysis because it had been he, as counsel, who had sought unsuccessfully to persuade Lord Denning that he had no jurisdiction to grant an injunction in that case.  Regardless of its pedigree, the Mareva injunction was welcomed by the commercial world and was recognized by the English Parliament in section 37(3) of the Supreme Court Act 1981 and also adopted in Hong Kong.
+
+41.  Meanwhile, Lord Denning attempted to take his new found remedy a step further.  In the early cases Marevas were sought and granted as ancillary relief in cases where the plaintiff was able to found English jurisdiction in respect of the substantive claim.  In The Siskina[24], with the support of Lawton LJ, Lord Denning held that the court had jurisdiction to grant a Mareva injunction over property of a defendant in England, notwithstanding that it had no jurisdiction to entertain the substantive claim that was being pursued against the defendant in another jurisdiction.  This decision was unanimously reversed by the House of Lords.  Giving the leading speech Lord Diplock held:
+
+“A right to obtain an interlocutory injunction is not a cause of action. It cannot stand on its own. It is dependent upon there being a pre-existing cause of action against the defendant arising out of an invasion, actual or threatened by him, of a legal or equitable right of the plaintiff for the enforcement of which the defendant is amenable to the jurisdiction of the court.”[25]
+
+42.  In Mercedes Benz v Leiduck the Privy Council considered an application by a plaintiff to the High Court of Hong Kong for a worldwide Mareva in support of anticipated proceedings pursuant to Ord. 11 r. 1(1)(m) to serve a writ out of the jurisdiction on the defendant to enforce a judgment that was anticipated that the court of Monaco would give against the defendant. By a majority the Privy Council held that the Court had no jurisdiction to grant this relief.  Rule 1(1)(m) could not be relied on before judgment had actually been obtained in Monaco.
+
+43.  Lord Nicholls delivered a powerful dissent, distinguishing the Siskina. Part of this has relevance to the issues arising on the present appeal:
+
+“Although normally granted in the proceedings in which the judgment is being sought, Mareva relief is not granted in aid of the cause of action asserted in the proceedings, at any rate in the ordinary sense. It is not so much relief appurtenant to a money claim as relief appurtenant to a prospective money judgment. It is relief granted to facilitate the process of execution or enforcement which will arise when, but only when, the judgment for payment of an amount of money has been obtained...Since Mareva relief is part of the court’s armoury relating to the enforcement process what matters so far as the existence of the jurisdiction is concerned, is the anticipated money judgment and whether it will be enforceable by the Hong Kong court. In general, and with some well known exceptions, the cause of action is irrelevant when a judgment creditor is seeking to enforce a foreign judgment. It must surely be likewise with a Mareva injunction. When a court is asked to grant a Mareva injunction, and a question arises about its jurisdiction to make the order, the answer is not to be found by looking for the cause of action on which the plaintiff is relying to obtain judgment. So far as jurisdiction is concerned, that would be to look in the wrong direction. Since Mareva relief is designed to prevent a defendant from frustrating enforcement of a judgment when obtained, the plaintiff’s underlying cause of action entitling him to his judgment is not an apposite consideration, any more than it is when a judgment creditor applies to the court to enforce the judgment after it has been obtained.
+
+Of course the matter stands very differently when the court is considering the exercise of the jurisdiction and whether in its discretion to grant or refuse relief. Among the matters the court is then concerned to consider are the plaintiff’s prospects of obtaining judgment and the likely amount of the judgment. For that purpose the court will be concerned to identify the plaintiff’s underlying cause of action.”
+
+44.  In England the effect of the Siskina has been reversed by section 25(1) of the Civil Jurisdiction and Judgments Act, as amended.  In Hong Kong section 21M was introduced to bring about similar reform, pursuant to the recommendations of the Final Report of the Chief Justice’s Working Party on Civil Justice Reform.[26] That Report endorsed a proposal that:
+
+“Interim relief by way of Mareva injunctions and/or Anton Piller orders should be available in relation to proceedings which are taking place, or will take place, outside the jurisdiction (and where no such substantive proceedings are contemplated in Hong Kong).”[27]
+
+45.  In endorsing this proposal, the Working Party referred with approval to the comments of Lord Nicholls in Mercedes Benz v Leiduck and to the changes made in England by section 25 of the Civil Jurisdiction and Judgments Act 1982.  It observed that interim relief would only make sense where the foreign proceedings in question would lead to a judgment, which, in the ordinary course of events, could be enforced in Hong Kong.  Thus relief would not be available where a foreign court had made an exorbitant assumption of jurisdiction or made an order which would be contrary to public policy to enforce.  Such foreign judgments would be impeachable and would therefore not found either enforcement or the interim jurisdiction[28].
+
+46.  The Working Party considered that it was not necessary for the legislature and the rules to go much further in providing guidance in relation to the exercise of the court’s discretion in as much as the courts here would no doubt have regard to the relevant English case law on section 25 of the 1982 Act and decide on the extent to which it should be applied in Hong Kong.  That is the exercise that falls to this Court to undertake on this appeal.
+
+The correct approach to the first stage
+
+47.  The starting point is to consider whether, if the proceedings that have been or are to be commenced in the foreign court result in a judgment,  that judgment is one that the Hong Kong court may enforce.  This is a precondition to the exercise of the jurisdiction[29] and is underlined by section 21N of the High Court Ordinance, which provides:
+
+“(1) In exercising the power under section 21M(1), the Court of First Instance shall have regard to the fact that the power is-
+
+(a) ancillary to proceedings that have been or are to be commenced in a place outside Hong Kong; and
+
+(b) for the purpose of facilitating the process of a court outside Hong Kong that has primary jurisdiction over such proceedings.”
+
+48.  If the nature of the foreign proceedings is such that the Hong Kong court will not enforce any judgment to which they give rise – eg because the exercise of the foreign jurisdiction is exorbitant or for some other reason of public policy, then there can be no question of granting relief under section 21M.
+
+49.  Next the court should ask itself the same questions as it would if a Mareva were sought in support of an action proceeding in the Hong Kong court, namely (i) has the plaintiff a good arguable case and (ii) is there a real risk that the defendant will dissipate his assets if the Mareva is not granted?  It is this, no more and no less, that Morritt LJ had in mind in the passage of his judgment in Refco that I have cited at para 32 above.  This is apparent from the passage in his judgment that immediately followed:
+
+“Accordingly, the first issue is whether if the substantive proceedings were pending in this Court the conditions for the grant of the Mareva relief sought have been satisfied. There is no dispute that there is a properly arguable case...The crucial question is, therefore, whether there is sufficient evidence of a risk of dissipation of assets so that any judgment obtained by Refco will go unsatisfied.”
+
+50.  The Court of Appeal in para 32 of its judgment, cited at para 33 above, misinterpreted Morritt LJ’s judgment in Refco in postulating that it was necessary to consider the strength of the substantive claim under the law of Hong Kong.  As Lord Nicholls observed in Mercedes Benz v Leiduck the underlying cause of action has little significance.  Foreign judgments will be enforced in Hong Kong even though the claim is one that would not have succeeded under the law of Hong Kong.  There is no reason in principle why the prospect of such a judgment should not receive the protection of a Mareva injunction.
+
+51.  Before considering Refco, the Court of Appeal had observed that in exercising the power under section 21M the court was required to abide by the general principles governing interim relief, including, where a Mareva was sought, the need for the plaintiff to show a good arguable case[30].  In that context the Court of Appeal cited with approval the following passage from the judgment of the English Court of Appeal in Motorola Credit Corporation v Uzant (No 2)[31]:
+
+“Mr Leggatt argues that, in the context of proceedings under section 25 of the 1982 Act, where (as here) the foreign court in interlocutory proceedings has itself determined that a good arguable case exists against the defendants, that is, or falls to be treated as, a final decision upon that issue for the purposes of the section 25 jurisdiction of this court. We do not think that is correct. The requirement that the claimant must establish that Mareva-type relief would be granted if the substantive proceedings were brought in England requires a decision of the judge based on English procedures and the approach of the English court to the nature and sufficiency of the evidence in a situation where the claimant has come to England to obtain a remedy unavailable to him in the substantive foreign proceedings. It is frequently, indeed usually, the position that section 25 proceedings are brought following issue and service of the foreign proceedings but before there has been any decision of the foreign court which examines the strength or arguability of the claimant’s substantive case. However, whether or not that is the position, in our view the English court is required, once issue is joined in the section 25 proceedings, to make a separate exercise of judgment rather than a simple acceptance of the decision of the foreign court in interlocutory proceedings decided on the principles applicable, the evidence then available, and the levels of proof required in that jurisdiction.”
+
+52.  This passage must, in my view, be treated with caution if applied to proceedings under section 21M.  A Mareva injunction can have serious consequences for a defendant.  It is a remedy that is open to abuse.  A court must always exercise caution before granting this relief.  But as section 21N(1)(b) states, the object of the exercise is to facilitate the process of the foreign court that has primary jurisdiction.  The question that the Hong Court has to consider is whether the plaintiff has a good arguable case in the foreign court. Section 21M relief can be sought in a wide variety of circumstances – sometimes before proceedings have even been commenced in the primary jurisdiction, often when they have been commenced but where that court has not considered the strength of the plaintiff’s case.  Where the court of primary jurisdiction has carried out that exercise, however, its conclusions will normally carry weight with the Hong Kong court.  Indeed, this was recognized by the Court of Appeal in Motorola Credit v Uzan, for it stated:
+
+“Where there is available to the judge on an application under section 25 a reasoned judgment of a foreign court at an interlocutory stage upon the merits or arguability of the defendant’s [sic] claim, that judgment will inevitably form the judge’s starting point in relation to the question of “good arguable case” and, depending upon the apparent cogency of the reasoning and the force of any arguments raised by the defendant, is likely to prove conclusive.”[32]
+
+53.  In summary, in section 21M proceedings the court has first to consider whether, if the plaintiff succeeds in the primary jurisdiction the resultant judgment is one that the Hong Kong court will enforce.  If the answer to that is yes, the court has to form a view, on all the available material, including any findings of the foreign court itself, whether the plaintiff has a good arguable case before the foreign court and whether there is a real risk that the defendant will dissipate his assets if the Mareva is not granted.
+
+The second stage
+
+54.  The second stage of consideration of a section 21M application requires the court to consider whether “the fact that the court has no jurisdiction apart from this section in relation to the subject matter of the proceedings concerned” makes it “unjust” or “inconvenient” for the court to grant the application.”  Mareva relief is discretionary in any event, but this provision in section 21M(4) underlines the fact that the court has a wide discretion to refuse to make the order sought if the fact that the substantive claim is being litigated in a foreign court has consequences that make the grant of a Mareva “unjust” or “inconvenient”.  It does not seem to me to be very helpful to try to formulate a list of circumstances where it will be unjust or inconvenient to grant the Mareva sought.  In Credit Suisse Fides Trust S.A.[33]Lord Bingham of Cornhill CJ, when considering the similar question of whether it was “inexpedient” to make an Order under section 25 of the 1982 Act, stated: 
+
+“...it would obviously weigh heavily, probably conclusively, against the grant of interim relief if such grant would obstruct or hamper the management of the case by the court seized of the substantive proceedings (‘the primary court’) or give rise to a risk of conflicting, inconsistent or overlapping orders in other courts.”
+
+He observed, however, that:
+
+“It would be unwise to attempt to list all the considerations which might be held to make the grant of relief under section 25 inexpedient or expedient, whether on a municipal or a worldwide basis.”
+
+The English Court of Appeal formulated a list in Motorola Credit v Uzan, as quoted by the Court of Appeal in the present case[34].  However, the circumstances that led the Court of Appeal to conclude that it was inappropriate to make the Order in this case are in a category of their own, and fall to be considered in the context of the other two questions raised by this appeal.
+
+The second and third questions
+
+55.  The ‘second’ and ‘third’ questions relate to the relevance of the English cases dealing with anti-suit injunctions considered by the Court of Appeal in relation to judicial comity.  This is a matter that properly fell to be taken into account in the second stage of the Court of Appeal’s consideration of whether a Mareva should have been granted.
+
+56.  There was a time when it was considered to infringe judicial comity for the court of one country to enforce an exclusive jurisdiction clause in a contract by issuing an injunction restraining a defendant from proceeding in the court of another country.  This belief was largely founded on observations by Lord Goff of Chievely in Airbus Industrie G.I.E. v Patel and Others[35]. In that case, however, the issue was whether an anti-suit injunction should be granted on the grounds that it was vexatious and oppressive for the plaintiffs to pursue their suit in the foreign jurisdiction.  Lord Goff made it plain that his observations did not apply to cases where there was a contractual choice of forum[36].
+
+57.  More recently it has been recognized that an anti-suit injunction in support of an exclusive jurisdiction clause, while constituting an indirect interference with the process of a foreign court, does not thereby infringe judicial comity.  This is because the relief is directed not against the foreign court but against the individual defendant who is disregarding his contractual obligations.  The following observations of Millett LJ in The Angelic Grace[37] in relation to anti-suit injunctions are now generally recognized as stating the true position:
+
+“In my judgment, the time has come to lay aside the ritual incantation that this is a jurisdiction which should only be exercised sparingly and with great caution. There have been many statements of great authority warning of the danger of giving an appearance of undue interference with the proceedings of a foreign Court. Such sensitivity to the feelings of a foreign Court has much to commend it where the injunction is sought on the ground of forum non conveniens or on the general ground that the foreign proceedings are vexatious or oppressive but where no breach of contract is involved. In the former case, great care may be needed to avoid casting doubt on the fairness or adequacy of the procedures of the foreign Court. In the latter case, the question whether the proceedings are vexatious or oppressive is primarily a matter for the Court before which they are pending. But in my judgment there is no good reason for diffidence in granting an injunction to restrain foreign proceedings on the clear and simple ground that the defendant as promised not to bring them ...”
+
+I cannot accept the proposition that any Court would be offended by the grant of an injunction to restrain a party from invoking a jurisdiction which he had promised not to invoke and which it was [his] own duty to decline.”
+
+58.  In the present case it was this approach that led the Court of Appeal to hold that no breach of comity was involved in the English Court issuing an anti-suit injunction to restrain a defendant from breaching an English exclusive jurisdiction clause[38]. It followed from this that the Court accepted that there had been no breach of comity in the English Court issuing an anti-suit injunction in this case.  At this point, however, the reasoning of the Court went awry.  First it treated the application for a Mareva to provide protection in relation to an award of damages by the English Court as being equivalent to asking “the court in Hong Kong to enforce an exclusive jurisdiction clause in favour of an English Court.”[39] Secondly it treated proceedings aimed at assisting the enforcement of the English court’s judgment as being an intervention in a conflict as to jurisdiction between the English and the PRC Courts that involved a breach of comity.
+
+59.  The Hong Kong Court has not been asked to assist the English Court to enforce an exclusive jurisdiction clause.  It has been asked to assist in enforcing an award of damages by the English Court for breach of such a clause. If the action of the English Court in awarding such damages involved a breach of comity towards the PRC courts, then I accept that to assist in enforcing those damages might also involve a breach of comity.  In that case enforcement of any judgment would seem open to objection on grounds of public policy and the Mareva should have been refused for that reason.  But for reasons already explored, the action of the English Court involves no such breach of comity.  There is no bar on the ground of public policy to enforcing an award of damages made by the English Court nor to the grant of a Mareva injunction in support of the judgment of the English Court.
+
+60.  For these reasons the primary ground on which the Court of Appeal upheld the decision of DHCJ Wilson Chan to refuse the injunction was unsound.  CSAV had established that it had a good arguable case in the English proceedings.  Indeed it had obtained judgment, albeit that this was subject to appeal.  The nature of those proceedings did not make it “unjust” or “inconvenient” to grant the relief sought.
+
+Discretion and the risk of dissipation of assets
+
+61.  The Court of Appeal held that Hin Pro’s undertaking not to enforce any judgment obtained from the PRC Courts without the consent of CSAV or the Courts of Hong Kong and England provided CSAV with adequate security so that there was no justification for the grant of a Mareva injunction.  I consider that this was an undertaking that the Court of Appeal should have viewed with reservation.  It was CSAV’s case that not merely had Hin-Pro brought the initial PRC proceedings in breach of contract, not merely had Hin-Pro brought the subsequent PRC proceedings in contempt of the order of the English Court, but that the PRC proceedings were fraudulent and based on forged documents.  In the Second English Action Cooke J had found that there were good grounds for believing the claims to be fraudulent.  At no stage has Hin-Pro condescended to offer an explanation for the anomalies that led Cooke J to express this view.
+
+62.  Furthermore, CSAV has incurred no doubt substantial costs in defending proceedings brought in a number of different courts in the PRC.  The Court of Appeal declined to grant Mareva protection in respect of these “in view of our earlier conclusion on judicial conflicts”[40].  While the Court of Appeal might well have been justified in reviewing the amount secured by the Mareva injunction, I consider that it erred in principle in ruling out any relief at all as a matter of discretion.
+
+63.  I should add that before us, for the first time, Mr Barlow SC submitted that section 21M should not be construed so as to apply to Mareva relief as to do so would conflict with Article 105 of the Basic Law.  We had some difficulty with this argument as section 21M is said to be without prejudice to section 21L, which expressly recognises the power to grant Mareva relief.  When this was put to him, Mr Barlow SC did not press the point and I can see no merit in it.
+
+Disposal
+
+64.  For the reasons that I have given I would allow this appeal. Much water has, however, flown under the bridge since the Court of Appeal gave judgment.  Final judgment has been given in the English Commercial Court and confirmed on appeal.  Most of the decisions of the PRC Courts have been reversed on appeal and it seems unlikely that, at the end of the day, there will be any judgment adverse to CSAV outstanding in the PRC.  As I understand it damages remain to be assessed in the English Court but may well relate largely to costs incurred by CSAV.  Hin-Pro’s overall behaviour has, however, been so unsatisfactory that I would reinstate Mareva relief in the much more modest amount that is in play.  I would remit the case to the High Court to assess that amount.
+
+65.  As to costs, any written submissions should be exchanged and lodged with the Registrar within 14 days of the handing down of this judgment, with liberty to serve and lodge written submissions in reply within 14 days thereafter.
+
+ 
+
+ 
+
+ 
+(Geoffrey Ma)
+Chief Justice	(R.A.V. Ribeiro)
+Permanent Judge	(Robert Tang)
+Permanent Judge
+ 
+
+ 
+
+(Joseph Fok)
+Permanent Judge	(Lord Phillips of Worth Matravers)
+Non-Permanent Judge
+ 
+
+Mr John Scott SC and Ms Frances Lok, instructed by Stephenson Harwood, for the Appellant
+
+Mr Barrie Barlow SC and Mr George Chu, instructed by Damien Shea & Co., for the Respondent
+
+
+[1] Section 21L provides:
+
+(1) The Court of First Instance may by order (whether interlocutory or final) grant an injunction or appoint a receiver in all cases in which it appears to the Court of First Instance to be just or convenient to do so.
+
+ (2) Any such order may be made either unconditionally or on such terms and conditions as the Court thinks just.
+
+ (3) The power of the Court of First Instance under subsection (1) or section 21M to grant an interlocutory injunction restraining a party to any proceedings from removing from the jurisdiction of the Court of First Instance, or otherwise dealing with, assets located within that jurisdiction shall be exercisable in cases where that party is, as well as in cases where he is not, domiciled or resident or present within that jurisdiction.
+
+   ...
+
+[2] 2012 Folio No. 1519
+
+[3] 2013 Folio No. 1248
+
+[4] [2014] EWHC 3632 (Comm)
+
+[5] [2015] EWCA Civ 401
+
+[6] Court of Appeal para 30
+
+[7] [2004] 1 WLR 113
+
+[8] [1999] 1 Lloyd’s Rep 159
+
+[9] Court of Appeal, para 32
+
+[10] Court of Appeal para 34
+
+[11] Court of Appeal para 35
+
+[12] [1999] 1 AC 119
+
+[13] Court of Appeal para 45
+
+[14] Court of Appeal para 49
+
+[15] Court of Appeal para 51
+
+[16] [1995] 1 Lloyds Rep 87
+
+[17] [2010] 1 WLR 1023
+
+[18] Court of Appeal para 57
+
+[19] Court of Appeal para 53
+
+[20] Court of Appeal para 71
+
+[21] [1975] 2 Lloyd’s Rep 509
+
+[22] [1996] AC 284 at 299-300
+
+[23] [1978] QB 644
+
+[24] [1979] AC 210
+
+[25] at p. 256
+
+[26] Published 3 March 2004
+
+[27] Section 12.2, Proposal 17
+
+[28] Para 341
+
+[29] Section 21M(1)(b)
+
+[30] Court of Appeal para 29
+
+[31] [2004] 1 WLR 113, para 102
+
+[32] At para 105
+
+[33] [1998] QB 818 at p. 831
+
+[34] Court of Appeal para 62
+
+[35] [1999] 1 AC 119
+
+[36] p. 138
+
+[37] at p. 96
+
+[38] Court of Appeal para 57
+
+[39] ibid
+
+[40] Court of Appeal para 57
+
+ 

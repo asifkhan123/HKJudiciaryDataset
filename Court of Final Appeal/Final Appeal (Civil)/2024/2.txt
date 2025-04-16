@@ -1,0 +1,481 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 1 of 2024
+
+[2024] HKCFA 21
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 1 OF 2024 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 418 OF 2020)
+
+_________________________
+
+BETWEEN
+
+ 	LUI MING LOK (雷明樂)	Plaintiff
+ 	 	(Appellant)
+ 	and	 
+ 	NG IM FONG LORETTA (伍艷芳),
+the executrix of the estate of LUI KWAN CHEUNG (雷均祥),
+Deceased under the Grant of Probate No. HCAG016896/2015	Defendant
+(Respondent)
+______________________
+
+Before:	Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ and Lord Neuberger of Abbotsbury NPJ
+Date of Hearing:	19 June 2024
+Date of Judgment:	1 August 2024
+__________________
+
+JUDGMENT
+
+__________________
+
+Chief Justice Cheung:
+
+1.  I agree with the judgment of Lord Neuberger of Abbotsbury NPJ.
+
+Mr Justice Ribeiro PJ:
+
+2.  I agree with the judgment of Lord Neuberger of Abbotsbury NPJ.
+
+Mr Justice Fok PJ:
+
+3.  I agree with the judgment of Lord Neuberger of Abbotsbury NPJ.
+
+Mr Justice Lam PJ:
+
+4.  I agree with the judgment of Lord Neuberger of Abbotsbury NPJ.
+
+Lord Neuberger of Abbotsbury NPJ:
+
+A.  Introduction
+
+5.  The primary question on this appeal is whether a marriage to which one of the parties is unable to consent due to mental incapacity (an expression I use to cover any mental disorder, including unsoundness of mind, which vitiates consent) could, at least in some circumstances, be void rather than voidable. There is also a secondary issue if the answer to that question is no, namely whether the answer may be different if the person challenging the validity of the marriage was not a party to the marriage.
+
+B.  The facts
+
+6.  The facts of this case can be very shortly explained.
+
+7.  On 1 August 2010, Lui Kwan Cheung (“the deceased”) married the Respondent, Ng Im Fong Loretta, when he was 81 and she was 77. Shortly after the marriage (“the Marriage”), on 21 August 2010, the deceased made a will (“the 2010 Will”) naming the Respondent as his executrix and sole beneficiary. Four years later, on 31 July 2014, he died aged 85, and the Respondent was granted probate on 1 December 2015.
+
+8.  The Appellant, Lui Ming Lok, is a nephew of the deceased, who apparently only learned of his death and of the 2010 Will in 2018. The Appellant was a beneficiary under an earlier will made by the deceased on 25 June 1994 (“the 1994 Will”).
+
+9.  There was evidence in other proceedings involving the Respondent, in which it was said that, around the time of the Marriage the deceased was suffering from an advanced stage of Alzheimer’s disease and was “not capable of handling his daily business completely”.
+
+C.  These proceedings
+
+10.  By a writ issued on 2 July 2019, the Appellant (i) challenged the validity both of the Marriage and of the 2010 Will, on the ground of the deceased’s mental incapacity, and (ii) sought to propound the 1994 Will.
+
+11.  On 17 July 2019, the Respondent issued a summons seeking to strike out parts of the statement of claim. This appeal is only concerned with the application to strike out the challenge to the validity of the Marriage. The application failed before Master Hui[1], but succeeded before Coleman J[2] whose decision was upheld by the Court of Appeal[3].
+
+12.  To succeed in propounding the 1994 Will, the Appellant needs to succeed in both his challenge to the Marriage and his challenge to the 2010 Will. This is because, under section 14 of the Wills Ordinance[4], a will is automatically revoked by the testator’s subsequent marriage, and in order to avoid that consequence, a marriage has to be decreed void. It would not be enough if the marriage was voidable, as section 20B of the current Matrimonial Causes Ordinance[5] (“the current MCO”) provides:
+
+“A decree of nullity granted after 30 June 1972 on the ground that a marriage is voidable shall operate to annul the marriage only as respects any time after the decree has been made absolute, and the marriage shall, notwithstanding the decree, be treated as if it had existed up to that time.”
+
+13.  Thus, even if the Marriage was decreed a nullity on the basis that it was voidable, its existence prior to the decree being made absolute would have had the effect of revoking the 1994 Will, which the Appellant is seeking to propound.
+
+14.  Accordingly, the central question on the Respondent’s application and on this appeal is whether, as the Appellant contends, it is arguable that, because of the deceased’s mental incapacity at the time, the Marriage was or could be void, or whether, as the Respondent contends, the Marriage could only be voidable.
+
+15.  The Appellant failed before Coleman J and before the Court of Appeal, but leave to appeal to this Court was granted on the following questions of law:
+
+Question 1
+
+Whether, in light of the legal and legislative history and on proper construction, section 20(1)(b) of [the current MCO] preserves the common law rule (the ‘Common Law Rule’) that a marriage is void where one of the parties lacked the mental capacity to understand the nature of marriage at the time of its celebration.
+
+Question 2
+
+Whether the grounds in section 20 of [the current MCO] apply only on a petition for nullity by one spouse against another such that they are inapplicable in a case where the validity of a marriage was challenged under the Common Law Rule in the course of a civil dispute involving a third party.
+
+16.  The legislation which governs void and voidable marriages is in Part IV of the current MCO. Section 19 provides that “a husband or wife may present a petition” seeking a declaration that “his or her marriage [is] null and void on any of the grounds mentioned in section 20”.
+
+17.  Section 20 of the current MCO[6], so far as relevant provides:
+
+“20. Grounds for decree of nullity
+
+(1) A marriage which takes place after 30 June 1972 shall be void on any of the following grounds only—
+
+(a) [invalidity under section 27 of the Marriage Ordinance[7]];
+
+(b) that the marriage is otherwise invalid by the law of Hong Kong;
+
+(c) that at the time of the marriage either party was already lawfully married;
+
+(d) that the parties are not respectively male and female.
+
+(2) A marriage which takes place after 30 June 1972 shall, subject to subsection (3), be voidable on any of the following grounds only—
+
+(a) [lack of consummation due to inability];
+
+(b) [lack of consummation due to wilfulness];
+
+(c) that either party to the marriage did not validly consent to it, whether in consequence of duress, mistake, unsoundness of mind or otherwise;
+
+(d) that at the time of the marriage either party to the marriage, though capable of giving a valid consent, was suffering, whether continuously or intermittently, from mental disorder within the meaning of the Mental Health Ordinance (Cap. 136) of such a kind or to such extent as to be unfitted for marriage;
+
+(e) [either party suffering from venereal disease];
+
+(f) [either party pregnant by another].”
+
+Section 20(3) provides that a party cannot petition to nullify a voidable marriage when he or she had led the other party to believe that that he or she would not do so. Section 20(4) imposes a three-year time limit for the presentation of a petition based on cases falling within subsection (2)(c), (d), (e), and (f), and section 20(5) imposes a further restriction on cases falling within subsection (2)(e) and (f).
+
+D.  Question 1: Preliminary consideration of the parties’ respective cases
+
+18.  The Respondent’s case as to the effect of section 20 of the current MCO in the present circumstances is unsurprising:
+
+(a)   Section 20(1) specifies the “only” grounds on which a marriage can be declared void, and none of those grounds relate to mental incapacity;
+
+(b)  Section 20(2)(c) and (d) are clearly aimed at, and succeed in, covering any type of vitiating mental incapacity on the part of one of the parties at the time of the marriage;
+
+(c)  Accordingly, if it be the case that the deceased was, through mental incapacity (of whatever nature), incapable of, or unfitted for, marriage in 2010, the Marriage was voidable, not void.
+
+19.  The Appellant’s case in relation to section 20 of the current MCO so far as the present case concerned is that:
+
+(a)  Section 20(2)(c) and (d) do not extend to a case where the mental incapacity was so extreme as to involve an inability to understand the nature of the obligation the party concerned was entering into at the time of the marriage ceremony;
+
+(b)  Such a case (which I will call “severe incapacity”) remains subject to the common law rule that it renders a marriage void, and it therefore falls within section 20(1)(b);
+
+(c)  Accordingly, if, as the Appellant contends, the deceased was suffering from severe incapacity in 2010, the Marriage was void.
+
+20.  At any rate if one confines oneself to section 20 of the current MCO, the Respondent’s case seems simple and correct, whereas, by contrast, the Appellant’s case seems unattractive and unconvincing. As a matter of language, section 20(2)(c) and (d) appears to be aimed at covering all cases of mental incapacity. In other words, they appear to apply to any case where a party to a marriage is not able to consent to the marriage owing to his or her mental state, whether the incapacity is temporary or permanent, and whether it is severe or not.
+
+21.  This conclusion also accords with common sense. One would expect a provision such as section 20 of the current MCO to cover all types of mental incapacity. It would seem strange if one type, and in particular the most severe type, of mental incapacity was not covered, particularly given the relatively full way in which section 20(2)(c) and (d) are expressed. The fact that sections 20(1) and (2) are intended to be exclusive in their effect (as each subsection includes the word “only”) reinforces this point.
+
+22.  Further, at least in today’s world, it would be thought anomalous if different degrees of mental incapacity should lead to different consequences for a marriage. In the end, whatever the alleged state of mental incapacity, either a person had sufficient mental capacity to have validly consented to the marriage or he or she had not.
+
+23.  To put the point another way, it seems very unlikely that the drafter of section 20, who specifically covered incapacity in some detail in section 20(2)(c) and (d), intended severe incapacity to be merely inferentially covered through section 20(1)(b). Section 20(1)(b) appears pretty clearly to be intended to ensure that provisions in other ordinances or regulations and common law rules in areas not specifically concerned with marriage, are not unintentionally overruled.
+
+24.  In these circumstances, at least if one focusses on section 20 of the current MCO, it seems to me that the Appellant’s case is quite unrealistic.
+
+25.  However, Mr Shieh SC argues on behalf of the Appellant that, when one considers section 20 of the current MCO in its historic common law and statutory context, it can be seen that the Appellant’s case is not merely realistic, but correct.
+
+26.  It is well established that, when interpreting legislation, it is, at least in some cases, appropriate (and, occasionally, necessary) to consider its common law and/or statutory history. However, I am very sceptical whether it can be appropriate to do so in a case such as this, where the legislation concerned is clear as a matter of language and practical and sensible in its effect, and the purpose of examining the background is to produce a result which is not merely inconsistent with the natural meaning of the legislation, but eccentric.
+
+27.  Nonetheless, given that Mr Shieh has developed his submissions on this point in some detail, and the courts below addressed it with impressive care, it is right to consider the Appellant’s argument.
+
+28.  The argument, in very summary terms, is that:
+
+(a)  Under the common law, a marriage was held void in at least some cases of mental incapacity on the part of one of the parties, and
+
+(b)  When the legislature first intervened through an Ordinance in 1932, it provided that only some types of mental incapacity would serve to render a marriage void under statute, leaving other types of mental incapacity still subject to the common law rule, and
+
+(c)  When the 1932 Ordinance was repealed and successively re-enacted, most recently in 1972, that position continued, and it continues today.
+
+E.  Question 1: The common law and statutory history
+
+E.1  The common law
+
+29.  In England, the law on the effect of mental incapacity and marriage was developed in the Ecclesiastical courts, and it was described by Sir John Nicholl in Browning v Reane[8] in these terms:
+
+“[I]t may be sufficient to state what Mr. Justice Blackstone says on this subject: ‘A fourth incapacity is, want of reason; without a competent share of which, as no others, so neither can the matrimonial contract be valid. It was formerly adjudged that the issue of an ideot was legitimate, and, consequently, that his marriage was valid. A strange determination! since consent is absolutely requisite to matrimony; and neither ideots, nor lunatics, are capable of consenting to anything; and, therefore, the civil law judged much more sensibly, when it made such deprivations of reason a previous impediment, though not a cause of divorce if they happened after marriage. And modern resolutions have adhered to the reason of the civil law, by determining that the marriage of a lunatic, not being in a lucid interval, was absolutely void.’
+
+Here then the law, and the good sense of the law, are clearly laid down; want of reason must, of course, invalidate a contract, and the most important contract of life, the very essence of which is consent. It is not material whether the want of consent arises from ideotcy or lunacy, or from both combined: nor does it seem necessary, in this case, to enter into any disquisition of what is ideotcy, and what is lunacy; complete ideotcy, total fatuity from the birth, rarely occurs; a much more common case is mental weakness and imbecillity, increased as a person grows up and advances in age, from various supervening causes, so as to produce unsoundness of mind. Objects of this sort have occurred to the observation of most people. If the incapacity be such, arising from either or both causes, that the party is incapable of understanding the nature of the contract itself, and incapable, from mental imbecillity, to take care of his or her own person and property, such an individual cannot dispose of her person and property by the matrimonial contract, any more than by any other contract. The exact line of separation between reason and incapacity may be difficult to be found and marked out in the abstract; though it may not be difficult, in most cases, to decide upon the result of the circumstances; and this appears to be a case of that description, the circumstances being such as to leave no doubt upon my mind.”
+
+30.  The common law developed over the ensuing century, at least in terms of language. Thus, in Durham v Durham[9], Sir James Hannen P said that what was required of a party to a marriage was “a capacity to understand the nature of the contract, and the duties and responsibilities which it creates” and if there was “not a real appreciation of the engagement… entered into”, the marriage would be void. Some 40 years later, Sir Henry Duke P in Forster (orse. Street) v Forster[10]approved what has been said by Sir James Hannen P in Durham, namely that “[t]he mind of one of the parties may be capable of understanding the language used, but may yet be affected by such delusions, or other symptoms of insanity, as may satisfy the tribunal that there was not a real appreciation of the engagement apparently entered into”.
+
+E.2  Legislation in the 1930s in England and Hong Kong
+
+E.2.1  Introductory
+
+31.  In the 1930s, for the first time, both the Hong Kong legislature and the United Kingdom legislature enacted legislation specifically setting out grounds on which a marriage could be rendered null, although the two pieces of legislation differed in their grounds, their consequences, and their scope.
+
+32.  In 1932, the Hong Kong legislature enacted the Divorce Ordinance (“DO 1932”) which provided in section 12 that a husband or wife could present a petition seeking a declaration that a marriage was “null and void”. Section 13 stipulated that “such decree may be made on any of the following grounds”:
+
+“(a) [impotence at the marriage and subsequently]
+
+(b) [prohibited consanguinity];
+
+(c) that either party was a lunatic or idiot at the time of the marriage;
+
+(d) [co-habitation with previous spouse at the time of marriage];
+
+(e) [consent to marriage obtained by fraud etc];
+
+(d) that the marriage is invalid by the law of the Colony.”
+
+Section 14 stated that if any such ground was established, the court should “pronounce a decree nisi declaring [that] the marriage [is] null and void.”
+
+33.  The English legislation came five years later, in section 7 of the Matrimonial Causes Act (“MCA”) 1937, which was headed “New grounds for decree of nullity”. Section 7(1) provided that:
+
+“In addition to any other grounds on which a marriage is by law void or voidable, a marriage shall be voidable on the ground—
+
+a) [subsequent wilful non-consummation];
+
+b) that either party to the marriage was at the time of the marriage of unsound mind or a mental Defective within the meaning of the Mental Deficiency Acts, 1913 to 1927, or subject to recurrent fits of insanity or epilepsy; or
+
+c) [venereal disease at time of marriage];
+
+d) [pregnant by another at time of marriage].”
+
+These paragraphs were subject to a proviso in section 7(1), which set out three circumstances in which they could not be relied on. Section 7(3) provided that the section should not be “construed as validating any marriage which is by law void”.
+
+34.  As just mentioned, there are obvious differences between the two sections – e.g. different specified grounds and different effect (voidability in England, voidness in Hong Kong). Also, the provisions of section 7(1)(a) to (d) of MCA 1937 were expressly intended to be new grounds upon which a marriage could be held voidable, whereas there was nothing in DO 1932 to suggest that section 13(a) to (e) were necessarily new grounds in whole or in part. Contrary to Mr Shieh’s submission, although the inclusion of section 13(f) of DO 1932 was consistent with such an outcome, it did not carry such a necessary implication: all it did was to make it clear that, if under the common law prior to 1932, a marriage would have been void on a particular ground before DO 1932 came into force, that would remain the position even if that ground was not included in section 13.
+
+E.2.2  The English MCA 1937: discussion
+
+35.  Despite coming later in time, it is convenient to deal with section 7 of MCA 1937 first, because there is more quasi-contemporaneous material which relates to it.
+
+36.  The notes to section 7 of MCA 1937 in Halsbury’s Statutes[11], state that “(a), (c) and (d) are grounds which depend upon a clear issue of fact”, and they continue as follows:
+
+“(b) is more difficult. The old rule of mental capacity is not revoked (sub-s. (3)). There is no clear definition of a person of unsound mind, … but the provision must apparently relate to persons who are not incapable by reason of mental illness of understanding the nature of the obligation they undertake (whose marriages are still absolutely void), but who are proved to be of unsound mind by medical evidence.”
+
+37.  This somewhat tentative conclusion appears to be supported by the reasoning of the Court of Appeal in In the estate of Park (deceased)[12]which was decided by the time that section 7(1)(b) of MCA 1937 had been repealed and re-enacted as section 8(1)(b) of MCA 1950 (although the marriage in question occurred in 1949). Park was plainly argued and decided on the basis that the marriage in question would be void according to the common law, if the mental incapacity alleged by the unsuccessful appellant had been established. In the arguments and judgments, there are many references to, and citations from, pre-1937 cases concerned with allegedly void marriages due to one party’s mental incapacity, and no references to the MCA 1937 or 1950.
+
+38.  Accordingly, following the enactment of section 7(1)(b) of MCA 1937, it appears that it was generally accepted[13] that it extended the types of mental incapacity which could nullify a marriage, on the grounds of voidability, and that it only applied to those extensions, leaving the original types of mental incapacity to be subject to common law voidness.
+
+E.2.3  The Hong Kong DO 1932: discussion
+
+39.  Turning to section 13(c) of DO 1932, it referred to “a lunatic or idiot”, words which were used by Sir John Nicholl in Browning, and which are archaic, even offensive, today – and have been for some time. However, they were regularly used in the legal world in the 19th century to describe states of mental incapacity. The leading contemporary work on the subject was apparently Shelford on Lunatics, Idiots, and Persons of Unsound Mind[14]. Shelford described[15] “idiot” as “a legal term, signifying a person who has been without understanding from his nativity, and whom the law therefore presumes never likely to attain any”. “Lunatic” was described[16] as “in its legal acceptation, one who has had understanding, but, by disease, grief, or other accident, hath lost the use of his reason”.
+
+40.  The author went on[17] to discuss “unsound mind”, and referred to Re the Earl of Portsmouth[18] where Lord Eldon LC “said that [the words] imported that the party was in some such state as was contra-distinguished from idiocy and from lunacy, and yet such as made him a proper subject of a commission to inquire of idiocy and lunacy”. Shelford explained that it followed that “if a jury find a party to be of unsound mind, and incapable of managing his affairs, it is held a sufficient finding to support a commission of lunacy”. He then “lamented … that so much latitude and uncertainty should have been given” to the expression by Lord Eldon, as it gave rise to “a vague and uncertain ground for inquiry”.
+
+41.  These passages suggest that the expression “persons of unsound mind” extended to a group of people who were not “lunatics” and “idiots”, but who suffered from a lesser degree of mental incapacity. Indeed, the notion that the expression “persons of unsound mind” included people who are not “lunatics” or “idiots” is consistent with the title of Shelford’s book. It is also consistent with contemporary legislation: for instance, section 17(3) of the Supreme Court of Judicature Act 1873, which referred to the “jurisdiction … in relation to the custody of the persons and estates of idiots, lunatics, and persons of unsound mind.” Further, the notion that common law voidness extended to cases where, at the time of marriage, a party suffered from mental incapacity falling short of “lunacy” or “idiocy” is consistent with the observations in Durham and Forster cited in [30] above.
+
+42.  The contention that section 13(c) of DO 1932, with its reference to “lunatic[s]” and “idiots[s]” was limited in its ambit and did not cover less extreme cases of mental incapacity, could be said to derive support from the fact that section 15 of DO 1932 (which protected the rights of children of certain annulled marriages) referred to “a marriage [which] is annulled on the ground of insanity”. There is force in the point that “insanity” covers a wider class of marriages than those annulled because one party was a “lunatic” or an “idiot”.
+
+43.  For these reasons, I am inclined to accept Mr Shieh’s argument that there were people suffering from mental incapacity who were not included in section 13(c) of DO 1932, but the voidness of whose marriages according to the common law survived as a result of section 13(f).
+
+44.  This is an unattractive conclusion, and I readily understand why it was not adopted by the Court of Appeal. I have already referred to the inherent unlikelihood that the legislature intended to create a situation where some types of mental incapacity led to voidable or void marriages statutorily and other types of mental incapacity led to void marriages in common law.
+
+45.  However, the reason why section 13(c) of DO 1932 has such an effect, may well be that, outside the categories of “lunatics” and “idiots”, the extent of the common law was unclear as is reflected by the observations in Shelford[19], and it was considered appropriate to leave the judges to develop the law. Further, as the drafting of the section 7(1)(b) of MCA 1937 shows, it appears that, at least in the 1930s, leaving common law voidness in place in relation to some cases of mental incapacity was thought to be appropriate, even if other types were the subject of legislation. In addition, the outcome of statutory and common law mental incapacity was the same following the enactment of DO 1932, namely that the marriage was void, unlike the unsatisfactory dichotomy between statutory mental incapacity (voidable) and common law mental incapacity (void) following the passing of MCA 1937.
+
+46.  Both the Court of Appeal and Mr Shieh invoked the extract of the judgment of Sir John Nicholl set out in [29] above as an aid to construing section 13(c) of DO 1932. I do not think that that was appropriate. It is true that he referred to “idiots” and “lunatics” as does section 13(c), but there is no reason to think that the drafter in 1932 had that particular judgment in mind. As the extracts quoted from Shelford in [39] and [40] above show, the expressions were frequently used by 19th century lawyers. Anyway, it is not as if Sir John’s analysis is pellucidly clear: it is quite consistent with the notion that people suffering from what Sir John called “unsoundness of mind” or “imbecility of mind” included those who were suffering from less severe mental incapacity than “lunatics” or “idiots”.
+
+47.  In my view therefore, the common law rule as to mental incapacity invalidating a marriage was not wholly subsumed into statutory law in Hong Kong by DO 1932.
+
+48.  While, at least as at 1932, the law of Hong Kong might appear at first sight to have been consistent with the Appellant’s case, closer examination suggests otherwise. The Appellant’s case is that what has been left as being void in common law is a marriage where one of the parties suffers from the more severe type of mental incapacity (namely inability even to appreciate the concept of a marriage), and that the less severe type is covered by statute. However, that was not the effect of DO 1932: indeed, it was the other way round, as, in relation to void marriages, “lunatic[s]” and “idiot[s]” were subject to the statutory regime, whereas those suffering from less severe mental incapacity remained subject to the common law.
+
+E.3  Legislation in English and Hong Kong during the 1950s and 1960s
+
+E.3.1  English legislation
+
+49.  As mentioned in [37] above, in England section 7(1) of the 1937 Act was repealed and re-enacted as section 8 of MCA 1950, albeit that the heading of that section was “Additional [as opposed to ‘New’] grounds for decree of nullity”. Section 8 of MCA 1950 was in turn repealed and re-enacted as section 9 of MCA 1965 (with the reference in subsection (1)(b) to the Mental Deficiency Acts 1913 to 1938 being replaced by a reference to the Mental Health Act 1959).
+
+50.  Consistently with the approach in Re Park[20], it seems to me that the uncomfortable position described in Halsbury’s Statutes[21] continued to apply so long as these provisions were in force, as their very close similarity to section 7 of MCA 1937 indicate a clear intention not to depart from its effect.
+
+E.3.2  Hong Kong legislation: 1956
+
+51.  In Hong Kong, section 10 of the Divorce (Amendment) Ordinance 1956 (“DAO 1956”) repealed sections 12 and 13 of DO 1932 and re-enacted section 12 in effectively identical terms, but substituted a new section 13 (“new section 13”). New section 13(1) was virtually the same as the original section 13, save that paragraph (a) – impotence – was removed, so what had been section 13(c) and 13(f) became new section 13(1)(b) and (e) respectively. New section 13(2) for the first time introduced voidability into this area of law in Hong Kong, in that it provided:
+
+“A marriage shall be voidable on any of the following grounds-
+
+a) [impotence at the marriage and subsequently];
+
+b) [wilful refusal to consummate];
+
+c) that either party to the marriage was at the time of the marriage of unsound mind or subject to recurrent fits of insanity or epilepsy; or
+
+d) [venereal disease at time of marriage];
+
+e) [pregnant by another at time of marriage].”
+
+New section 13(2) contained a proviso (“the Proviso”) that no decree could be granted under paragraphs (c), (d) or (e), unless (i) “the petitioner was at the time of the marriage ignorant of the facts alleged”, (ii) the proceedings were issued within a year of the marriage, and (iii) there had been no “marital intercourse” since the discovery of those facts. New section 13(3) provided that new section 13 should not be “construed as validating any marriage which is by law void”.
+
+52.  In my view, the effect of new section 13(2)(c), as introduced by DAO 1956, was that, through subsections (1)(b) and (2)(c), new section 13 encompassed all types of mental incapacity, and therefore removed any common law grounds for annulling a marriage on grounds of mental incapacity.
+
+53.  It appears to me that the expression “of unsound mind or subject to recurrent fits of insanity” in new section 13(2)(c), as a matter of ordinary language covers a case where a party to a marriage suffers from any type of mental incapacity which could vitiate a marriage, albeit that lunatics and idiots would have been excluded on the expressio unius exclusio alterius principle, as they were expressly covered by new section 13(1)(b). Subject to that qualification, I see no reason not to give effect to the natural meaning of new section 13(2)(c).
+
+54.  Indeed, having expressly made provision in new section 13(1) and (2) for two types of mental incapacity, one of which gave rise to voidness and the other of which gave rise to voidability, it seems particularly unlikely that the drafter of DAO 1956 would have had in mind a third type of mental incapacity which would void a marriage and which was being excluded from the section. It is also unclear to me what type or types of incapacity is or are said to have been excluded. There appears to be no justification for reading new sections 13(1)(b) and 13(2)(c) as excluding from their ambit those whose mental capacity is so severe that they do not understand what a marriage is.
+
+55.  Accordingly, new section 13 effectively embodied in purely statutory form what Mr Shieh argues is the present hybrid statutory/common law position, namely that the more severe mental incapacity results in voidness, whereas the less severe version results in voidability.
+
+56.  For completeness, I should perhaps add that section 11 of DAO 1956 repealed section 15 of DO 1932 and re-enacted it more widely, removing any reference to “insanity”, and so removing any argument based on the breadth of that word when compared with words used in new section 13(2)(c).
+
+57.  It might seem at first sight that this interpretation of new section 13(2)(c) is inconsistent with new section 13(1)(e), in that new section 13(1)(e) preserved common law voidness which existed before the DAO 1956 amendments came into force. But reflection shows that that is not right. New section 13 must be read as a whole, and if, as I think, new section 13(2)(c) subsumed all types of mental incapacity (save those types covered by new section 13(1)(b)), then it replaced any surviving common law incapacity, so there was no type of incapacity which could have fallen within new section 13(1)(e).
+
+E.3.3  Hong Kong legislation: 1967
+
+58.  In 1967, DO 1932, including new sections 12 and 13 of the DO were replaced by sections 19 and 20 of MCO 1967. Section 19 of MCO 1967 was effectively the same as section 12 of DO 1932. Section 20(1) was similar to new section 13(1) of DO 1932, save that new section 13(1)(b), with its reference to “lunatic or idiot”, was abandoned, so that what had been new section 13(1)(e) of DO 1932 became section 20(1)(d) of MCO 1967. And, in section 20(2) what had been new section 13(2)(c) of DO 1932 became section 20(2)(b), which was in these terms:
+
+“(b) that at the time of the marriage either party to the marriage–
+
+(i) was of unsound mind, or
+
+(ii) was a mentally disordered person within the meaning of the Mental Health Ordinance 1960, of such a kind or to such an extent as to be unfitted for marriage and the procreation of children, or
+
+(iii) was subject to recurrent attacks of insanity or epilepsy.”
+
+In addition, section 20(3) to (4) of MCO 1967 was very similar to new section 13(2) to (3) of DO 1932, save that impotence was removed from paragraph (a) to paragraph (e), and the Proviso was contained in a new subsection 20(3) (so new section 13(3) became section 20(4)).
+
+59.  Save for the inclusion of paragraph (ii), section 20(2)(b) of MCO 1967 was almost identically worded to new section 13(2)(c) of DO 1932. For the reasons I have just given in relation to the new section 13 of DO 1932, I consider that section 20(2)(b) of MCO 1967 covered all types of mental incapacity. Indeed, because of the inclusion of paragraph (ii), the case for saying that section 20(2)(b) of MCO 1967 extends to all types of mental incapacity is, if anything, even stronger than the case in relation to new section 13(2)(c). Quite apart from this, it seems unlikely that the drafter of MCO 1967, having provided that all statutory cases of mental incapacity resulted in voidability, would have envisaged that there would be a residue of common law cases of mental incapacity which would result in voidness.
+
+60.  As I understand it, the Appellant argues that, if “lunatics” and “idiots” were excluded from new section 13(2)(c) of DO 1932, then they should similarly be excluded from the almost identically worded section 20(2)(b) of MCO 1967. I do not accept that. The only reason that “lunatics” and “idiots” were excluded from new section 13(2)(c) was that they were specifically dealt with in new section 13(1)(b) and therefore they were excluded from new section 13(2)(c) by virtue of the expressio unius principle[22]. As section 20 of MCO 1967 has no provision equivalent to new section 13(1)(b), there is no reason to exclude “lunatics” or “idiots” from the ambit of section 20(2)(b).
+
+61.  The Appellant also relies on the fact that the wording of section 20(2)(b) of MCO 1967 was plainly based on the wording of section 8(1)(b) of MCA 1950, which, as explained above[23], did not cover all types of mental incapacity, and therefore it is argued that the same conclusion should apply to section 20(2)(b). I do not agree. As is clear from the note in Halsbury’s Statutes[24], the wording of section 7(1)(b) of MCA 1937, the direct predecessor of section 8(1)(b) of the 1950 Act, gave rise to difficulties if it did not cover cases already covered by the common law, and that tends to support the view that the interpretation that I favour accords with the natural meaning of the paragraph. In any event, as mentioned above[25], section 7(1)(b) covers the more severe cases of mental incapacity, and excludes the less severe cases, which is the precise opposite of the way in which section 20(2)(b) operates according to the Appellant.
+
+62.  This analysis highlights the egregious nature of the Appellant’s case. In 1932, the legislature decided to bring the more severe cases of mental incapacity within statutory cover, while leaving the less severe cases to the common law. In 1956, the legislature confirmed the statutory cover of the more severe cases, and extended it to the less severe cases. The notion that in 1967 the legislature intended to remove the more severe cases from statutory coverage, leaving only the less severe cases within the statute, seems extraordinarily unlikely. It involves saying that the legislature performed a complete volte-face between 1932 and 1967.
+
+63.  The Appellant also relies on section 20(1)(d) of MCO 1967, contending that at least one of its purposes was to preserve the common law voidness of marriages where, at the time of the marriage ceremony, one party suffered from mental incapacity which fell outside section 20(2)(b). I do not think that it is legitimate to invoke a provision such as section 20(1)(d) in order to give another statutory provision an artificially narrow meaning. Section 20(1)(d) is plainly intended to act as a “safety net” to ensure that any stipulation in another ordinance, regulation or in common law nullifying a marriage is not accidentally overruled by section 20(1). It is not included in order to facilitate, let alone to provide the sole basis for, the creation or maintenance of such a stipulation.
+
+E.4  Legislation in the 1970s and 1980s
+
+E.4.1  The position in England
+
+64.  In 1968, the Law Commission for England and Wales (the “Law Commission”) published a working paper[26], in which it recommended that “absence of mental capacity to understand the nature of marriage… should continue to render a marriage void”[27]. However, as a result of a subsequent public consultation, the Law Commission changed its view, and, in its final Report on the topic in 1970 (“the 1970 Report”)[28], it stated that “this type of unsoundness of mind, like other types of mental disorder …, should render the marriage voidable and not void”[29]. (I note that the Law Commission thought it appropriate to describe this severe type of mental incapacity as a “type of unsoundness of mind” which is consistent with the conclusion that it fell within section 20(2)(b)(i) of MCO 1967).
+
+65.  The 1970 Report resulted in the UK legislature enacting the Nullity of Marriage Act 1971 (“NMA 1971”), which was very similar in form and terms to the draft Bill attached to the Report.
+
+66.  The long title of NMA 1971 stated that its purpose was, inter alia, “to restate, with certain alterations, the grounds on which a marriage is void or voidable …”. Sections 1, 2, and 3 of NMA 1971 were, in due course, transcribed virtually seriatim into sections 20(1), 20(2), 20(3) to (5) of MCO 1973 (which is set out in [17] above), save that in NMA 1971 (i) the references in section 20 to other Hong Kong Ordinances is to English statutes, and (ii) there is no equivalent to section 20(1)(b) of the current MCO. Accordingly, it is unnecessary to set out the provisions of NMA 1971.
+
+67.  Sections 1, 2, and 3 of NMA 1971 were repealed and re-enacted as sections 11, 12, and 13 of MCA 1973. Following a further Law Commission Report[30], which recommended the step[31], section 2(3) of the Matrimonial and Family Proceedings Act 1984 inserted a new subsection (4) into section 13 of MCA 1973. This new subsection enabled the court to give leave to bring nullity proceedings outside the three-year period imposed for cases based on voidability on various grounds (including unsoundness of mind and mental disorder).
+
+E.4.2  The position in Hong Kong
+
+68.  It is clear beyond doubt from the timing and the statutory language that the Hong Kong legislature decided to follow NMA 1971[32], and, to that end, section 12 of the Matrimonial Causes (Amendment) (No 2) Ordinance 1972 (“MCAO 1972”) replaced the original section 20 of MCO 1967 with a new (and current) section 20, which was in the terms described in [17] above.
+
+69.  As already indicated in Section D above, it seems to me clear that, as a matter of normal statutory construction, section 20(2)(c) and (d) of the current MCO cover all types of mental incapacity.
+
+70.  Further, given that section 20 of the current MCO was plainly based on sections 1 to 3 of NMA 1971, and those provisions of NMA 1971 were substantially in the draft Bill attached to the 1970 Report[33], it is permissible to consider that Report when assessing the effect of section 20. The Appellant’s case is, of course, that (a) there is a category of mental incapacity which is not caught by statute and remains subject to the common law, and (b) that category of mental incapacity results in the marriage being void, not voidable. However, both points (a) and (b) are inconsistent with the 1970 Report, which:
+
+(a)  After observing that the grounds for annulling a marriage were unsatisfactorily “based partly on provisions in [statutes] and partly on judge-made law”, said that “as a step towards the complete codification of Family Law … the opportunity should be taken to state comprehensively when a nullity decree can be obtained” [34]; and
+
+(b)  Recognised the undesirability of distinguishing between types of unsoundness of mind which render a marriage void and types which render it voidable[35], concluding that “absence of consent whether due to duress, mistake or unsoundness of mind at the time of marriage should render a marriage voidable and not void”[36].
+
+F.  Question 1: Analysis and conclusions
+
+71.  Having set out the common law and statutory history and explained my assessment of the effect of the relevant Ordinances, I can explain in relatively short order why the Appellant’s case on Question 1 should be rejected.
+
+72.  The common law recognised that a marriage was void if one of the parties to it suffered from mental incapacity, although it is not entirely clear how severe the incapacity had to be, but it certainly extended to what I have called severe incapacity, namely an inability to understand the nature of the obligation which the party concerned was entering into at the time of the marriage ceremony, and it very probably extended to less severe mental incapacity.
+
+73.  The effect of section 13 of DO 1932 was to render void by statute marriages of those who, at the time of marriage, were “lunatics” and “idiots”, leaving cases involving persons who suffered from mental incapacity of a less severe nature to have the validity of their marriages assessed by reference to the common law.
+
+74.  The effect of new section 13, as introduced by DAO 1956, was to retain the statutory rule that marriages of “lunatics” and “idiots” were void, but to render all cases of lesser mental incapacity, previously void in common law, voidable by statute. Accordingly, at this point the common law ceased to play a part in this area.
+
+75.  This situation was continued by the MCO 1967, save that the rule that marriages of “lunatics” and “idiots” were void was abandoned (together with the archaic language), and all marriages where one party suffered at the time of marriage from mental incapacity, of whatever nature, were rendered voidable.
+
+76.  This position was repeated in the current MCO, when it was amended by MCAO 1972, to include section 20 in its present form[37]. And, even if my view as to the effect of DAO 1956 and MCO 1967 is wrong, it is clear that the legislative intention when enacting MCAO 1972 was to follow the English approach adopted in NMA 1971, and that approach was to render all marriages where one of the parties suffered from mental incapacity at the time of the marriage, voidable rather than void.
+
+77.  Accordingly, I agree with Yuen JA in the Court of Appeal when she said[38] that:
+
+“In any event, by the time of the passing of the 1972 amendment to the MCO 1967, the Common Law Rule must have ceased to exist in Hong Kong, when the Hong Kong legislature adopted the provisions in NMA 1971 which act was intended to provide a comprehensive statutory code setting out the grounds on which a marriage shall be void.”
+
+78.  Accordingly, even if one adopts the historical, or archaeological, approach proposed by Mr Shieh, one arrives at precisely the same answer as one gets if one considers the meaning of the current MCO in the conventional way, as discussed in Section D above.
+
+G.  Question 2
+
+79.  It is (rightly) common ground that any person with a sufficient interest (which includes a potential or contingent interest in a right of succession) has locus to petition for a decree of nullity, and accordingly, that the Appellant has locus to bring this claim.
+
+80.  However, if (as is the case) the Appellant fails on Question 1, he has an alternative point which leads to Question 2. That point is that the provisions of section 20 of the current MCO do not apply where the petitioner is not a party to the marriage, and, as section 20 does not apply, the common law principles are still in effect. If that were correct, the consequence would be that, if the deceased was severely mentally incapacitated at the time when he married the defendant, the Marriage would be void, as the challenge to the Marriage is being brought by the Appellant, who was not, of course, party to the Marriage.
+
+81.  In support of his case, Mr Shieh argues that the provisions of section 20 only apply where a spouse to the marriage in question is the petitioner. That is because, he says, section 20 is applicable as a result of section 19, and section 19 only applies to a petition brought by “[a] husband or wife”. Accordingly, runs the argument, as section 20 does not apply where (as here) the petitioner is not a party to the marriage, and so the common law rules apply.
+
+82.  While I acknowledge the ingenuity of this argument, I cannot accept it. When one turns to the language of section 20 of the current MCO there is nothing in it which expressly restricts its application to a case where it is a party to the marriage seeking to argue that it is void. Both subsections (1) and (2) simply provide that if “[a] marriage which takes place after 30 June 1972” satisfies one or more of the grounds set out in the subsection, then the marriage “shall be” void or voidable as the case may be. And when one turns to section 19, it is purely permissive: a party to the marriage “may present a petition” relying on any of the grounds in section 20. I note that no equivalent provision exists in the English MCA 1973, and it can be said that section 19 is an unnecessary provision on this basis, but that does not justify reading it as being exclusive – i.e. as meaning “only a husband or wife…”. (Indeed, if it had that meaning, the consequence might well be held to be that third parties could not bring proceedings for a determination that a marriage was void or voidable.)
+
+83.  As the discussion relating to Question 1 shows, section 20 of the current MCO codifies the law of nullity, specifying the only grounds upon which a marriage may be declared void or voidable. Accordingly, the common law rule relating to marriages where one party suffers from mental incapacity at the time of the marriage, no longer applies: section 20(2)(c) and (d) of the current MCO applies to all such marriages, and therefore mental incapacity, however severe, can only render such a marriage voidable, and not void. It is simply unreal to contend that, while the common law rule has been excluded in proceedings between husband and wife, it remains in existence, at least in some cases of mental incapacity, as a ground for holding a marriage void (rather than voidable) in proceedings brought by third parties.
+
+84.  As Ms Eu SC points out on behalf of the Respondent:
+
+“[M]arriage is a status that affects not only the parties but other third parties, in particular the descendants. The same test must apply. It would lead to absurdity where different tests apply in determining whether a marriage is void or voidable solely due to the identity of the challenging party – that it would be void if the complainant was a third party and only voidable if it was the husband or wife. This would lead to confusion and conflicts when dealing with related issues such as succession.”
+
+H.  Conclusion
+
+85.  Accordingly, I would answer both Question 1 and Question 2 in the negative, and it follows from that that this appeal must be dismissed.
+
+Chief Justice Cheung:
+
+86.  The Court unanimously dismisses the appeal and makes an order nisi that the costs of the appeal be paid by the plaintiff to the defendant. If any party wishes to vary the order nisi, written submissions should be filed within 14 days of the handing down of this judgment and the Court will make a final order as to costs on the paper.
+
+ 
+
+ 
+
+(Andrew Cheung)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+ 
+
+(M H Lam)
+Permanent Judge	(Lord Neuberger of Abbotsbury)
+Non-Permanent Judge
+  
+
+Mr Paul Shieh SC, Mr Anson Wong SC and Mr Billy NP Ma, instructed by Chiu, Szeto & Cheng, for the Plaintiff (Appellant)
+
+Ms Audrey Eu SC, Mr Au Lut Chi and Mr Griffith Cheng, instructed by Francis Kong & Co, for the Defendant (Respondent)
+
+
+[1]  HCAP 28/2019, on 11 December 2019
+
+[2]  [2020] HKCFI 1243, 11 August 2020
+
+[3]  Cheung, Yuen and Chow JJA, [2023] HKCA 865, 14 July 2023
+
+[4]  Cap 30
+
+[5]  Cap 179. The original section 20B was enacted in 1972, which followed section 5 of MNA 1971
+
+[6]  As explained in [68] below, section 20 was first enacted in somewhat different terms in 1967, but it was repealed by MCAO 1972, which replaced it with the current section 20
+
+[7]  Cap 181
+
+[8]  (1812) 2 Phill Ecc 69 at p 1081
+
+[9]  (1885) 10 PD 80, at p 82
+
+[10]  (1923) 39 TLR 658, at p 661, citing (1885) 10 PD 80, at p 82
+
+[11]  1937, Vol 30, p 340
+
+[12]  [1954] P 112
+
+[13]  I express it that way, because, at least as at present advised, I am far from satisfied that I would take the same view if I had been deciding the point when MCA 1937 and 1950 were in force. The notion that section 7(1)(b) of MCA 1937 created a new, unspecified category of mental incapacity seems to me unlikely. And the mere fact that the section was described as introducing “new” grounds and starts with the words “in addition to” does not strike me as a powerful enough reason for not giving the words of section 7(1)(b) their natural meaning and instead giving them a dangerously unspecific meaning. After all, this would not involve giving the word “new” no meaning: it would still apply to the other grounds in the section. And section 7(3) could apply to common law cases not falling within section 7(1). As it is, however, in this case, which is concerned with the meaning of subsequent legislation, it seems right to proceed on the basis of how earlier legislation was contemporaneously understood.
+
+[14]  2nd edition, 1847
+
+[15]  Ibid, at p 2
+
+[16]  Ibid, at p 4
+
+[17]  Ibid, at p 5
+
+[18]  unrep 22 April 1815
+
+[19]  At p 5
+
+[20]  Footnote 12
+
+[21]  Footnote 11
+
+[22]  See [53] above
+
+[23]  See [36] to [38] and [50] above
+
+[24]  See [36] above
+
+[25]  See [48] above
+
+[26]  The Law Commission Published Working Paper No 20 (Family Law: Nullity of Marriage), 14 June 1968
+
+[27]  Ibid, [46]
+
+[28]  Law Com No 33 (Family Law: Report on Nullity of Marriage), 3 December 1970
+
+[29]  Ibid, [14]
+
+[30]  Law Com No 116 (Family Law: Report on Time Restrictions on Presentation of Divorce and Nullity Petitions), 20 October 1982
+
+[31]  Ibid, [3.6]
+
+[32]  This is supported by the Explanatory Note to section 12 of the Bill which became the MCAO; the Note states the provisions of what is now section 20 of the current MCO “correspond to those set out under the [NMA] 1971”. The Respondent also claimed support from what was said by the Attorney General when introducing the Bill in the legislature (Hong Kong Hansard, 12 April 1972) but I do not consider that that can be relied on as an aid to construing the MCAO.
+
+[33]  Law Com No 33
+
+[34]  Ibid, [95]
+
+[35]  Ibid, [14]
+
+[36]  Ibid, [15]
+
+[37]  See [17] above
+
+[38]  [2023] HKCA 865, [90(4)]
+
+   

@@ -1,0 +1,565 @@
+CACV 6/2023, [2023] HKCA 1365
+
+On Appeal From [2022] HKCFI 3674
+
+and [2023] HKCFI 1396
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO. 6 OF 2023
+
+(ON APPEAL FROM HCA NO. 1861 OF 2017)
+
+________________________
+
+BETWEEN
+
+ 	BONDS GROUP COMPANY LIMITED	Plaintiff
+ 	（寶聲(集團)有限公司）	 
+ 	and	 
+ 	KWAN DANIEL（關秩安）	1st Defendant
+ 	KWAN SAU KING（關秀琼）	2nd Defendant
+ 	KOON YAU KUEN（官有權）	3rd Defendant
+________________________
+
+Before :	Hon Kwan VP, Cheung and G Lam JJA in Court
+Date of Hearing :	6 December 2023
+Date of Judgment :	20 December 2023
+________________________
+
+J U D G M E N T
+
+________________________
+
+Hon Cheung JA (giving the Judgment of the Court) :
+
+1.  This is an appeal against the judgment of Deputy High Court Judge Douglas Lam SC who gave judgment for the plaintiff for nominal damages of $1. The plaintiff now appeals. The defendants lodged a Respondent’s Notice seeking, inter alia, dismissal of the plaintiff’s claim by way of cross appeal.
+
+I.  Background
+
+2.  The background of the case is simple. The 1st and 2nd defendants, who are husband and wife, were the only registered shareholders of Discreet Limited (‘the Company’), a Hong Kong incorporated company. The Company’s issued share capital comprised, inter alia, 5,900,000 ordinary shares of $10 each, of which the 1st defendant, Kwan Daniel (‘Mr. Kwan’) held 5,880,020 and the 2nd defendant, Kwan Sau King (‘Mrs Kwan’) held 19,980. The plaintiff originally also sued the 3rd defendant, Koon Yau Kuen (‘Mr. Koon’). He is a friend of Mr. Kwan, although he did not hold any registered shares of the Company. The action against the 3rd defendant had since been discontinued.
+
+3.  The Company was the registered owner of the property known as Lot 496 in Demarcation District 399 (368 Castle Peak Road, Ting Kau, Tsuen Wan, New Territories) where a residential development consisting of 13 houses and 26 car parking spaces and known as Grand Riviera 「星悅海灣」(the ‘Land’) was built. The houses required renovation and repair. The Land was valued at $800 million.
+
+4.  In April or May 2017, the three defendants as sellers and the plaintiff as buyer entered into a document in Chinese entitled「公司股權轉讓意向書」[Letter of Intent for Company Share Transfer] (‘LOI’). The plaintiff was to invest $245 million to acquire the defendants’ 70% shareholding of the Company (‘the shareholding’). There was initially a dispute whether the plaintiff was the buyer but this is no longer an issue. The terms of LOI and its English translation are set out in the Annex of this judgment.
+
+5.  On 31 May 2017, Mr. Kwan informed Mr. Anson Chan, the Chief Executive Officer and Director of the plaintiff, by telephone that he wished to terminate the LOI (‘the May 31 Conversation’). Mr. Kwan contended that an agreement was reached between him and Mr. Chan during that conversation as to the termination of the LOI and the measure of compensation for such termination. The agreement was then re‑confirmed in subsequent correspondence between the parties. The plaintiff, on the other hand, contended that no agreement was in fact reached in the May 31 Conversation or the subsequent correspondence and therefore the normal measure of damages should apply for the defendants’ repudiation of the LOI.
+
+6.  The plaintiff commenced proceedings against the defendants seeking damages for the defendants’ breach of the LOI. The pleaded defence of the defendants is that, first, the LOI was not a legally binding agreement between the parties because ‘the time and/or date with respect of the payment for the purchase price had not been agreed upon.’ Second, the true nature of the LOI was merely an offer to the plaintiff to perform due diligence on the Company and if the defendants refused to make any deal with the plaintiff eventually, the defendants agreed to pay for the wasted costs and expenditure arising from the due diligence work multiplied by a factor of five as full compensation.
+
+II.  The trial of issues below
+
+1)  The four issues
+
+7.  The Judge was asked to adjudicate on the following four issues :
+
+i)  Whether the LOI constituted a binding contract between the parties, which the defendants deny on the grounds that the parties did not intend the LOI to be binding, or it was insufficiently certain or complete to have contractual force.
+
+ii)  Assuming that the LOI did constitute a binding contract, whether, on its proper construction, the agreed formula for measuring damages in Clause 10b of the LOI is concerned solely with a breach of Clause 10a (a provision prohibiting Party A from negotiating with third parties during the due diligence period), as contended by the plaintiff; or whether it is concerned with breaches of LOI generally, including any anticipatory breach of the same, as contended by the defendants.
+
+iii)  Irrespective of the proper interpretation of Clause 10b, whether there was a mutual consensus reached during the May 31 Conversation for the compensation to be made by the defendants pursuant to the mechanism in Clause 10b.
+
+iv)  Whether the plaintiff is entitled to damages and the quantum of such damages, pursuant to the mechanism in Clause 10b or in general damages for breach of contract (as the case may be).
+
+2)  The Judge’s decision on the four issues
+
+i)  Issue 1
+
+8.  The Judge held that the parties intended themselves to be legally bound by the terms of the LOI and the LOI was not void for uncertainty due to lack of essential terms. He held that the LOI constituted a binding agreement between the parties.
+
+ii)  Issue 2
+
+9.  The Judge held that the mechanism for ascertaining damages in Clause 10b did not have general application to all breaches of the LOI but was confined to breaches of Clause 10a.
+
+iii)  Issue 3
+
+10.  The Judge held that a mutual consensus was reached that the compensation to be made by the defendants for the termination of the LOI would be pursuant to the mechanism in Clause 10b (‘the settlement agreement’).
+
+iv)  Issue 4
+
+11.  The Judge held that although the measure of compensation payable to the plaintiff was to be calculated in accordance with the formula in Clause 10b, since the plaintiff was only seeking general damages and did not rely on this formula, it was only entitled to nominal damages of $1.
+
+III.  The parties’ case in this appeal
+
+1)  The plaintiff’s grounds of appeal
+
+12.  Two grounds of appeal are advanced by the plaintiff.
+
+i)  Ground 1
+
+13.  The Judge erred in holding that a mutual consensus was reached between the plaintiff and the defendants that the compensation to be made by the defendants for the termination of the LOI would be pursuant to the mechanism in Clause 10b of the LOI.
+
+ii)  Ground 2
+
+14.  Alternatively, the Judge erred in holding that the plaintiff is not entitled to damages to be measured in accordance with Clause 10b of the LOI.
+
+2)  The Respondent’s Notice
+
+15.  The defendants, on the other hand, relied on three grounds in their Supplementary Respondent’s Notice. They sought, inter alia, by way of cross appeal for an order that the plaintiff’s claim be dismissed for the reasons outlined in Grounds 1 and 2. Alternatively, the defendants asked for the judgment to be affirmed for the reasons outlined in Grounds 2 and 3.
+
+i)  Ground 1
+
+16.  The Judge erred in holding there was a binding agreement for the sale and purchase of shares. The defendants had advanced two alternative cases as outlined in [7] above in answer to the plaintiff’s contention concerning the binding nature of the LOI.
+
+ii)  Ground 2
+
+17.  The Judge erred in holding that Clause 10b is applicable solely to a breach of Clause 10a. It should be applicable to all breaches of the LOI by the defendants. If he so held, he should have dismissed the plaintiff’s claims since the plaintiff has expressly disavowed making any claim under Clause 10b of the LOI and there is no basis (whether legal or evidential) for the plaintiff to claim damages on any other basis. Alternatively, this is an additional or alternative basis to support the Judge’s conclusion that the plaintiff is entitled to nominal damages of $1.
+
+iii)  Ground 3
+
+18.  In respect of the quantum of damages, the plaintiff has no entitlement to recover any wasted due diligence costs or expenses. The defendants relied on paragraph 8 of the 4th Affirmation of Chan Anson dated 8 May 2020 in which he said that the plaintiff does not claim for wasted costs or expenses (whether in respect of due diligence or otherwise) as damages arising from the defendants’ breach of contract.
+
+IV.  Issue 1 : Binding nature of the agreement
+
+19.  It is logical to deal with the nature of the LOI first. As the Judge had stated, this is a matter of construction.
+
+1)  The Judge’s reasons
+
+20.  The Judge held :
+
+‘ 51. I agree with Mr Wong [Counsel then representing the plaintiff] that the terms of the LOI provide a sufficient framework to proceed with the sale and purchase of the Subject Shareholding even if the parties were to fail (as in the present case) to enter into the formal agreements envisaged in clauses 3 and 11, namely, the Intended SPA and the shareholders agreement:
+
+(1) The parties had already agreed that payment was to be made in two tranches: (a) pursuant to clause 4, a first tranche (non-interest-bearing) of HKD 140,000,000 was to be made for the purchase; and (b) the balance of HKD 105,000,000 was to be paid within a longstop period of 24 months, according to the sale progress of the Development. Although not expressly spelt out, it is reasonable to infer that the 24-month period would commence from the payment of the first tranche.
+
+(2) As to payment of the first tranche, although no precise date has been agreed, in the absence of such agreement, it should be payable on or at least within a reasonable period after the execution of the Intended SPA and the SHA, which are to be signed ‘as soon as practicable’ after the due diligence process is complete (clause 11).
+
+(3) As to payment of the second tranche within the longstop date of 24 months, there is no reason why this cannot be determined on the basis of reasonableness depending upon the progress of the sale of the project. For instance, percentage of payment to be made can be linked to percentage of the units sold.
+
+(4) The completion date, meaning the date of transfer of the Subject Shareholding to the plaintiff, again adopting a reasonableness approach, can be either on or shortly after the payment of the first tranche, since it is provided that the plaintiff would assume management control of the Company through the appointment of a majority of directors on the board (clause 7 and 7a).
+
+52. Given the premature termination of the LOI, it is unnecessary for the Court to determine how the parties should proceed and what the precise obligations of the parties would be. Rather, the above exercise is merely to demonstrate that, whilst not ideal, the absence of completion and payment dates in the LOI are not an insurmountable bar to the performance of the LOI, such that their absence would render it “legally or practically impossible to give the agreement, or that part of it, any sensible content.”
+
+53. As to Mr Law’s argument that the standard of reasonableness is inapplicable due to clause 3 providing that the precise payment schedule is subject to confirmation in the Intended SPA to be formally signed between the parties, it is clear from authorities such as Donwin Productions and RTS Flexible Systems Ltd that an expectation between the parties to enter into a fuller or formal agreement with additional terms is no bar to the parties being bound to a partial agreement. Indeed, the parties are expected in such circumstances to negotiate in good faith so as to settle outstanding details which were to be incorporated (see e.g., Chan Wan Chuen Snaky at §30).’
+
+21.  The cases referred to by the Judge in [53] of his judgment were examined by him earlier :
+
+‘ 48. In this regard, Mr Wong referred me to the decision of the Court of Appeal in Chan Wan Chuen Snaky v Express Tourist Bus Company Limited [2020] HKCA 471 where the Court held at §§29.1-29.4:
+
+“ 29.1. It is true that the parties had not entered into a sophisticated shareholders’ agreement, but they had agreed in the Co-operation Agreement that they would be promoters of SSHSL, a vehicle in which they would have equal shares, by which they would enjoy the benefit of the Property.
+
+29.2. Taken to the highest, the most that the plaintiff could have contended is that the agreement could have contained more details of the type found in legally-drafted shareholders’ agreements. However, an agreement is valid as long as the essential matters are agreed, even if there may be further negotiations or agreements between the parties.
+
+29.3. In Donwin Productions Ltd v EMI Films Ltd…, Lord Loreburn’s judgment in Love and Stewart (Ltd) v S Instone & Co (Ltd)… was quoted as follows:
+
+‘It was quite lawful to make a bargain containing certain terms which one was content with, dealing with what one regarded as essentials, and at the same time to say that one would have a formal document drawn up with the full expectation that one would by consent insert in it a number of further terms. If that was the intention of the parties, then a bargain had been made, none the less that both parties felt quite sure that the formal document could comprise more than was contained in the preliminary bargain’.
+
+29.4. Thus, as was held in Donwin, “as a matter of law there is no reason why one cannot have a partial binding agreement pending the completion of the full agreement.
+
+.....”
+
+49. The following passage from the UK Supreme Court’s decision in RTS Flexible Systems Ltd v Molkerei Alois Müller GmbH & Co KG (UK Production) [2010] UKSC 14 at §49(6) is also illuminating:
+
+“ It is sometimes said that the parties must agree on the essential terms and it is only matters of detail which can be left over. This may be misleading, since the word ‘essential’ in that context is ambiguous. If by ‘essential’ one means a term without which the contract cannot be enforced then the statement is true: the law cannot enforce an incomplete contract. If by ‘essential’ one means a term which the parties have agreed to be essential for the formation of a binding contract, then the statement is tautologous. If by ‘essential’ one means only a term which the Court regards as important as opposed to a term which the Court regards as less important or a matter of detail, the statement is untrue. It is for the parties to decide whether they wish to be bound and if so, by what terms, whether important or unimportant. It is the parties who are, in the memorable phrase coined by the Judge [at page 611] ‘the masters of their contractual fate’. Of course the more important the term is the less likely it is that the parties will have left it for future decision. But there is no legal obstacle which stands in the way of the parties agreeing to be bound now while deferring important matters to be agreed later. It happens every day when parties enter into so-called ‘heads of agreement’…” (emphasis added)
+
+(recently cited by Godfrey Lam JA (sitting as an additional judge of the Court of First Instance) in Bespark Technologies Engineering Limited v A‑Tech M & E Engineering Limited [2022] HKCFI 3024 (30 September 2022) at §70)’
+
+22.  The Judge also addressed the following line of authorities :
+
+i)  The Hong Kong Court of Final Appeal’s judgment in Kwan Siu Man v Yaacov Ozer (1997‑98) 1 HKCFAR 343 where Litton PJ at page 355 A‑B referred to the judgment of Lord Greene MR in Clifton v. Palumbo [1944] 2 All ER 497 at 499 E :
+
+‘There is nothing in the world to prevent an owner of an estate of this kind contracting to sell it to a purchaser, who is prepared to spend so large a sum of money, on terms, written out on a half sheet of notepaper, of the most informal description, and even, if he likes, on unfavourable conditions; but I think it is legitimate, in approaching the construction of a document of this kind, containing phrases and expressions of doubtful significance, to bear in mind that the probability of parties entering into so large a transaction, and finally binding themselves to a contract of this description couched in such terms is remote.’
+
+23.  Litton PJ held at page 355C‑F :
+
+‘ ...as is common knowledge in Hong Kong, the property market is highly volatile. Whatever might have been the position in England in the last century – when the concept of an “open contract” was first developed in a climate of a stable pound sterling and no inflation – in the Hong Kong of today, the date of completion is an essential term of any contract for the sale and purchase of land. …
+
+The Judge’s finding that the parties were prepared to leave it to the lawyers to deal with the date of completion as a matter of formality – and the finding that the plaintiff was “prepared to leave it to [them] to do what was usual” – should have led her to conclude that, in all probability, there was no concluded agreement reached.’ (emphasis added)
+
+ii)  Ch’ng Poh v. China Everbright Ltd (unreported) CACV 3805/2001, 23 October 2002 was concerned with a claim for damages for breach of an oral agreement for the sale and purchase of the shareholding of a corporate vehicle or ‘shell company’, which had no assets other than a house in Jardine’s Lookout. The trial judge found that no oral agreement had been concluded. Dismissing the plaintiff’s appeal, Le Pichon JA (with whom Rogers VP and Yuen JA agreed) held :
+
+‘ 17. But the date for completion is an essential term of any contract for the sale and purchase of land in Hong Kong. It was so held by the Court of Final Appeal in Kwan Siu Man Joshua v Yaacov Ozer… Since it is common ground (and it was so pleaded by the plaintiff) that “in truth and/or in substance” the agreement related to the sale and purchase of the house, the absence of agreement as to the completion date was fatal to the plaintiff’s case in any event. A finding that the completion date had not been agreed would have led to the conclusion that there was no concluded agreement reached for the sale of the house.’ (emphasis added)
+
+24.  The Judge distinguished Kwan Siu Man and Ch’ng Poh from the facts of the case. He held :
+
+‘ 46. ... In the absence of any authority binding on me, I do not think it is right to expand the principle in Kwan Siu Man beyond contracts for the sale of landed property in Hong Kong, or contracts for the sale of a corporate vehicle which are “in truth and in substance” the sale and purchase of the underlying landed property.’
+
+2)  The defendants’ arguments
+
+25.  Mr. Yuen SC and Ms Fan for the defendants submitted that the LOI was in the nature of a lock‑out agreement and the only part that was binding on the parties concerned the conduct of due diligence. The part concerning the sale and purchase of the shareholding was not binding as the essential terms were lacking in that :
+
+i)   Under Clause 11, the parties were required to sign an agreement for sale and purchase of the shareholdings (‘the sale and purchase agreement’) and a shareholders’ agreement. The defendants were also required to supply the plaintiff with a letter of undertaking concerning the shareholding, creditor’s rights, debts and other matters of Grand Riviera and the Company. The shareholders’ agreement was an important document because there would be provisions dealing with issues such as deadlock, minority protection, termination, restriction of sale of shares, pre‑emptive rights, relationship with the articles of association etc. There was no evidence that any of these important provisions had been considered. The only matter that had been agreed upon was the composition of the new board which would compose of two directors appointed by the defendants and three appointed by the plaintiff. But this was not an answer to the other matters that would require consideration in a shareholders’ agreement. Likewise, the terms and contents of the defendants’ undertaking had not been considered and the LOI did not contain mechanism for the Court to work out the terms of these agreements and undertaking.
+
+ii)  The Judge erred in [51] of his judgment to hold that the LOI provided a ‘sufficient framework’ to proceed with the acquisition of the shareholding even if the parties were to fail to enter into the formal agreements envisaged in Clauses 3 and 11. In respect of the Judge’s reliance on the ‘reasonable time’ approach in his discussion of Clauses 4 and 5, Mr. Yuen submitted that given the express intention to enter into the sale and purchase agreement and the shareholders’ agreement, there is no room to resort to the test of reasonableness: Kensland Realty Ltd v Whale View Investment Ltd (2001) 4 HKCFAR 381, at [23] and [59] and the exact payment schedule was likewise needed to be worked out. Clause 4 does not help because it did not say when the first instalment was to be paid. Clause 5 similarly does not help because it was silent as to how the 24‑month payment period was to be linked to the progress of the sale of the ‘Grand Riviera’ project. Mr. Yuen further submitted under Clauses 7 and 7a, the plaintiff would have control of the board of directors and also the renovation and modification of the houses. In such circumstances, as a matter of business or common sense the defendants would not be willing to transfer the entire shareholding until full payment was made; and they would not have forgone control over the Company (and matters such as renovation etc) until full payment was made. These are matters that cannot be resolved by reasonableness; only the parties could discuss and agree on such matters.
+
+iii)  The importance of a specified completion date was overlooked by the Judge since the completion date would affect the issues of control and transfer of shares. Only the parties could address the inter-relationship between the completion date, the control over the Company (and thus the project, such as renovation, the staff and other matters) as well as the payment (especially the link with the 24‑month period).
+
+iv)  Under Clause 7a, the plaintiff undertook that ‘major subject matters’「重大議題」should be submitted to the board of directors for discussion and voting. Again, what constituted major subject matters had not been discussed by the parties. The Court could not decide this issue for the parties.
+
+v)  The Judge erred in holding that the Kwan Siu Man line of cases is inapplicable. Whilst the Company was a one-project company (instead of an asset holding company), the value of the shareholding was reflected by the value of the project. Hence, the volatility of the property market remained a fundamental consideration.
+
+26.  Mr. Yuen further submitted that the parties could not possibly have an intention to be legally bound when there were so many important issues remaining to be discussed and agreed upon as mentioned above. He submitted in addition the following :
+
+i)  The parties chose to call the document a letter of intent rather than an agreement for sale and purchase of the shareholding.
+
+ii)  The LOI is a two‑page document drafted by laymen with essential terms to be discussed and agreed.
+
+iii)  The Judge’s ruling that Clause 13 (concerning termination) shows that the parties intended the LOI to be binding begs the question rather than answers the question.
+
+iv)  In [37], the Judge held that the formality of the LOI and the fact it was only signed after a process of negotiation involving numerous drafts and a period of deliberation by the defendants also point to the parties’ intention to create legal obligations. Mr. Yuen submitted that the negotiation only took place for less than a month and only two drafts were exchanged. Viewed in the context of this huge investment involving $800 million, such factors can hardly support an intention to be legally bound. Besides, the parties had no prior dealing and were not acquainted with each other.
+
+3)  The plaintiff’s arguments
+
+27.  Mr. Dawes SC together with Mr. Ng supported the judgment below on Issue 1 and relied on the following principles in considering whether an agreement is legally binding ：
+
+i)  Business people, not sharing the lawyer’s desire for certainty and precision, may proceed on the basis of informal arrangements, or deliberately avoid using precise terms. Too strict an application of the requirement of certainty could result in the striking down of agreements intended by the parties to have binding force: Butterworths Common Law Series, The Law of Contract (7th ed.) at [2.157].
+
+ii)  It is for the parties to decide whether they wish to be bound, and if so, by what terms, whether important or unimportant. There is no legal obstacle which stands in the way of the parties agreeing to be bound now while deferring important matters to be agreed later: RTS Flexible Systems Ltd v Molkerei Alois Müller GmbH & Co KG (UK Production) [2010] 1 WLR 753 at [49].
+
+iii)  The Court is reluctant to find that an agreement is too vague or uncertain to be enforced where the parties had the intention of being contractually bound and had acted on their agreement. The object of the Court is to do justice between the parties, and the Court will do its best, if satisfied that there was an ascertainable and determinate intention to contract, to give effect to that intention, looking at substance and not mere form: Devani v Wells [2020] AC 129 at [18].
+
+iv)  If the Court concludes that the true intention of the parties was that the matter to be agreed in the future is capable of being determined, in the absence of future agreement, by some objective criteria of fairness or reasonableness, then the bargain does not fail because the parties have provided no machinery for such determination. In those circumstances, the Court will provide its own machinery for determining what needs to be determined: BJ Aviation Ltd v Pool Aviation Ltd [2002] 2 P & CR 25 at [24].
+
+28.  Mr. Dawes submitted that the Judge had correctly applied these principles and was correct to hold that the LOI was a binding agreement between the parties. He submitted that :
+
+i)  It is clear that all the terms which are essential for the formation of legally binding relations were present – a) the identity of the seller and the purchaser; b) subject matter of the sale; and c) consideration of the sale.
+
+ii)  The fact that certain terms of economic significance (such as the date of completion and payment of the consideration) had not been finalised does not render the LOI uncertain. As held in [51], the LOI provided a sufficient framework for any gaps as to the time frame to be filled by implications of reasonableness and commercial practice.
+
+iii)   It is also immaterial that there may be other formal agreements left to be agreed. The Court may then imply a term that the parties are to negotiate in good faith and settle outstanding details in the remaining formal documents.
+
+iv)  Further, what matters would constitute 「重大議題」plainly cannot be regarded as essential terms of the LOI. It is a matter for contractual interpretation. Any alleged difficulty in interpretation is not synonymous with ambiguity and does not warrant the conclusion that the LOI is uncertain.
+
+v)  This is fortified by the fact that the parties had acted upon the LOI. For instance, the parties had already commenced due diligence in respect of the Company: Devani at [18].
+
+vi)  The Kwan Siu Man line of cases is clearly distinguishable. They did not lay down any strict rule that an agreement for sale and purchase of property must be void for uncertainty if it does not state the completion date.
+
+vii)  The governing test remains one of intention, i.e. whether the parties have reached a binding contract for the sale and purchase of that property at that price, and hence the well‑established principles are applicable. The Court of Final Appeal in Kwan Siu Man merely cautioned that given the volatility of the Hong Kong property market, this intention should not be too readily inferred.
+
+viii)  The defendants’ attack on the Judge’s ruling on the issue of want of intention to be bound is unmeritorious. The defendants failed to demonstrate that the Judge had fallen into any palpable errors and it is unmeritorious for them to merely regurgitate their arguments below in the hope of persuading the appeal court to come to a different view from the primary judge: China Gold Finance Ltd v CIL Holdings Ltd, CACV 11/2015, 27 November 2015 at [14]. The defendants’ contention that the LOI is merely a lock‑out agreement is untenable. A lock‑out agreement refers to an agreement whereby one party undertakes to the other not to negotiate a contract with a third party in respect of a particular matter: Chitty on Contracts (34th ed) at [4‑270]. In this regard, it is clear that the LOI imposed obligations on the parties (in respect of the sale and purchase of the shareholding) in addition to the lock‑out obligation (in Clauses 10a and 10b). It must be impermissible to ignore other clauses in the LOI (which cannot possibly be the objective intention of the parties). It is trite that there is a heavy onus placed on the party who asserts that there is no intention to create legal relations in respect of a commercial agreement: Chitty at [4‑207]. For reasons rightly held in the judgment, the defendants had failed to discharge such burden. The label of ‘letter of intent’ is inconclusive. Likewise, the absence of some of the terms of economic significance and the contemplation of other formal agreements do not lead to want of intention to be legally bound. It is common and permissible for businessmen to defer important matters to be agreed later: RTS at [49]. What is crucial is that the LOI imposes an obligation on the plaintiff to purchase the shareholding from the defendants at the price of $245 million (Clauses 1-5 of the LOI) and such obligation cannot be terminated unilaterally under Clause 13. This evinces a clear intention to be legally bound by the commercial parties.
+
+4)  Our view on Issue 1
+
+29.  It is clear from the Amended Defence that the defendants had expressly pleaded that the LOI was not a binding agreement in respect of the sale and purchase of the shareholdings. We agree with Mr. Yuen’s submission on the nature of the LOI. It was binding only in respect of the part on due diligence. We tend to accept but it is not necessary for us to decide that Clauses 10, 10a and 10b are in the nature of a lock‑out agreement. On the other hand, the LOI was not binding on the sale and purchase of the shareholdings as the essential terms were lacking and the parties did not have the intention to be legally bound.
+
+30.  The principles which Mr. Dawes had identified are well‑established principles. But ultimately the question whether an agreement consists of the essential terms and is binding, or put it in another way, whether the parties intended to create legal relations, is fact specific. It is a matter of construction of the agreement in the light of the context or factual matrix of the case. Hence, in British Steel Corp v Cleveland Bridge & Engineering Co Ltd [1984] 1 All ER 504, Robert Goff J (as he then was) stated the inquiry is to be determined by reference to the circumstances of the particular case. He held at page 509 :
+
+‘ Now the question whether in a case such as the present any contract has come into existence must depend on a true construction of the relevant communications which have passed between the parties and the effect (if any) of their actions pursuant to those communications. There can be no hard and fast answer to the question whether a letter of intent will give rise to a binding agreement: everything must depend on the circumstances of the particular case. ....
+
+As a matter of analysis the contract (if any) which may come into existence following a letter of intent may take one of two forms: either there may be an ordinary executory contract, under which each party assumes reciprocal obligations to the other; or there may be what is sometimes called an ‘if’ contract, ie a contract under which A requests B to carry out a certain performance and promises B that, if he does so, he will receive a certain performance in return, usually remuneration for his performance. The latter transaction is really no more than a standing offer which, if acted on before it lapses or is lawfully withdrawn, will result in a binding contract.’ (emphasis added)
+
+31.  Robert Goff J further elaborated at page 510 the difficulties of construing the letter of intent in that case as an executory contract :
+
+‘ ….It is only necessary to look at the terms of CBE’s letter of intent in the present case to appreciate the difficulties. In that letter, the request to BSC to proceed immediately with the work was stated to be ‘pending the preparation and issuing to you of the official form of sub-contract’, being a sub-contract which was plainly in a state of negotiation, not least on the issues of price, delivery dates, and the applicable terms and conditions. In these circumstances, it is very difficult to see how BSC, by starting work, bound themselves to any contractual performance. No doubt it was envisaged by CBE at the time they sent the letter that negotiations had reached an advanced stage, and that a formal contract would soon be signed; but, since the parties were still in a state of negotiation, it is impossible to say with any degree of certainty what the material terms of that contract would be. I find myself quite unable to conclude that, by starting work in these circumstances, BSC bound themselves to complete the work. In the course of argument, I put to counsel for CBE the question whether BSC were free at any time, after starting work, to cease work. His submission was that they were not free to do so, even if negotiations on the terms of the formal contract broke down completely. I find this submission to be so repugnant to common sense and the commercial realities that I am unable to accept it. It is perhaps revealing that, on 4 April 1979, BSC did indeed state that they were not prepared to proceed with the contract until they had an agreed specification, a reaction which, in my judgment, reflected not only the commercial, but also the legal, realities of the situation.’
+
+32.  On the issue whether the parties intended to create legal relations, Aikens LJ in Barbudev v Eurocom Cable Management Bulgaria EOOD [2012] 2 All ER (Comm) 963 stated that one must look at the objective conduct of the parties as a whole and emphasized again that one must look at the whole circumstances of the case :
+
+‘[30] The legal principles to be applied to these issues are not in doubt. On the issue of whether the parties intended to create legal relations, the leading case is now RTS Flexible Systems Ltd v Molkerei Alois Müller GmbH & Co KG. The court has to consider the objective conduct of the parties as a whole. It does not consider their subjective states of mind. In a commercial context, the onus of demonstrating that there was a lack of intention to create legal relations lies on the party asserting it and it is a heavy one.
+
+[31] If, as I conclude below, the agreement is found to be wholly in writing (which must be a question of fact), then the exercise of construction is a ‘unitary exercise’ in which the court must consider the language used and ascertain what a reasonable person (ie one with all the background knowledge reasonably available to the parties in the situation that they were in) would have understood the parties to have meant. The court must have regard to all the relevant circumstances and, in a business context, it should prefer the construction that is more consistent with business common sense.
+
+[32] On the question of an enforceable contract or not, it is for the parties to decide at what stage they wish to be contractually bound. To use the vivid phrase of Lord Bingham of Cornhill (as Bingham J) the parties are ‘masters of their contractual fate’. They can agree to be bound contractually, even if there are further terms to be agreed between them. The question is whether the agreement is unworkable or fails for uncertainty. However, where commercial men intend to enter into a binding commitment the courts are reluctant to conclude that such an agreement fails for uncertainty.’
+
+33.  The difficulties faced by the plaintiff in this case is that quite apart from the lack of provisions for the time of payment of the $245 million and the completion date, there were also other important outstanding matters to be resolved by the parties in the form of the sale and purchase agreement, shareholders’ agreement and the defendants’ undertaking. The Judge adopted a reasonable time approach in construing the payment dates and completion date by reference to the sale and purchase agreement and the shareholders’ agreement which under Clause 11 were to be signed ‘as soon as practicable’ after the due process was complete. But this is to assume that the parties would indeed be able to agree on the material terms of these agreements first. To adopt the reasonable time approach is in effect to apply an implied term to the LOI. The problem is not so much as Mr. Yuen submitted that this implied term would contradict an express term of the LOI and therefore not applicable but rather the framework envisaged by the Judge will fall apart if the three important documents never come into fruition because their terms could not be agreed by the parties. As Mr. Yuen submitted, the likely provisions in a shareholders’ agreement such as deadlock, minority protection, termination, restriction of sale of shares, pre‑emptive rights, relationship with the articles of association could only be worked out by the parties and not the Court. Likewise, the extent of the defendants’ undertaking in regard to the shareholding, creditors’ rights, debts and other matters of Grand Riviera and the Company. There was also the outstanding ‘major subject matters’ which required to be discussed. As a result, the payment dates and completion date which were essential terms remained at large and unresolved. This would have a direct impact on the issue of control and transfer of shares. Further, by the time of the hearing of the interlocutory injunction below in September 2017, Grand Riviera had increased its value to $1,100 million from its initial valuation of $800 million under the LOI. The Kwan Siu Man line of cases which held that the date of completion is an essential term of contract in property related transactions is clearly applicable. All these point towards the view that the LOI was not a legally binding agreement on the sale and purchase of the shareholdings. The outstanding matters were not matters that the Court could decide for the parties.
+
+34.  Mr. Dawes relied on the decision of this Court in Chan Wan Chuen Snaky v Express Tourist Bus Company Limited [2020] HKCA 471 where it was held :
+
+‘ 29.1. It is true that the parties had not entered into a sophisticated shareholders’ agreement, but they had agreed in the Co-operation Agreement that they would be promoters of SSHSL, a vehicle in which they would have equal shares, by which they would enjoy the benefit of the Property.
+
+29.2. Taken to the highest, the most that the plaintiff could have contended is that the agreement could have contained more details of the type found in legally‑drafted shareholders’ agreements. However, an agreement is valid as long as the essential matters are agreed, even if there may be further negotiations or agreements between the parties.’
+
+35.  But unlike the present case, the transaction in Chan Wan Chuen Snaky was a relatively simple transaction where the parties had agreed on the essential terms. The important factor here is whether the parties have agreed on the essential terms. We are of the view that the parties here had not done so in respect of the lack of discussion of the contents of three important documents.
+
+36.  Mr. Dawes also relied on Devani v Wells [2019] UKSC 4 where Lord Kitchin JSC held :
+
+‘ 17 The question whether there was a binding contract between Mr Devani and Mr Wells required a consideration of what was communicated between them by their words and their conduct and whether, objectively assessed, that led to the conclusion that they intended to create a legally binding relationship and that they had agreed all the terms that the law requires as essential for that purpose. Lord Clarke of Stone-cum-Ebony JSC explained the relevant principles in this way in RTS Flexible Systems Ltd v Molkerei Alois Müller GmbH Co KG (UK Production) [2010] 1 WLR 753, [45] :
+
+“The general principles are not in doubt. Whether there is a binding contract between the parties and, if so, upon what terms depends upon what they have agreed. It depends not upon their subjective state of mind, but upon a consideration of what was communicated between them by words or conduct, and whether that leads objectively to a conclusion that they intended to create legal relations and had agreed upon all the terms which they regarded or the law requires as essential for the formation of legally binding relations. Even if certain terms of economic or other significance have not been finalised, an objective appraisal of their words and conduct may lead to the conclusion that they did not intend agreement of such terms to be a precondition to a concluded and legally binding agreement.”
+
+18 It may be the case that the words and conduct relied upon are so vague and lacking in specificity that the court is unable to identify the terms on which the parties have reached agreement or to attribute to the parties any contractual intention. But the courts are reluctant to find an agreement is too vague or uncertain to be enforced where it is found that the parties had the intention of being contractually bound and have acted on their agreement.’
+
+37.  As to the issue whether the Court would be reluctant to find an agreement is too vague and uncertain to be enforced, the situation here is that the parties had expressly agreed to provide for the three important documents which plainly would contain material terms of the transactions between them. As Mr. Yuen had submitted this aspect of the LOI dealing with the sale and purchase of the shareholdings was no more than an agreement to agree and thus of no binding effect : Walford and Another v Miles and Another [1992] 2 AC 128 where at page 137 Lord Ackner referred to the long established principle that an agreement to negotiate cannot constitute a legally enforceable contract.
+
+38.  As stated in British Steel Corp v Cleveland Bridge Co. there is no hard and fast answer to the question whether a letter of intent will give rise to a binding agreement: everything must depend on the circumstances of the particular case. In this case, the content of LOI itself showed that it was not a binding agreement for the sale and purchase of the shareholdings. The other factors relied on by Mr. Yuen in his submission further supported his argument that there was no intention to be legally bound. The mere fact that the plaintiff had commenced the due diligence work is not conclusive if the parties were still in a state of negotiation.
+
+39.  Mr. Dawes submitted that the defendants’ position had shifted concerning the nature of the LOI. We disagree. It is clear that the defendants had maintained the distinction in their pleadings and at trial. In fairness to the Judge the submission below seemed to have concentrated on the absence of provisions for the dates of payment and completion and not so much on the lack of agreement on the material terms of the three important documents. We do not see that to be fatal to the defendants. Ultimately, the issue is on the construction of the terms of the LOI in the specific context of the case. We could deal with the issue. But, in any event, the defendants had pressed the point before the Judge that the standard of reasonableness was inapplicable due to the fact that sale and purchase agreement was required to be formally signed. The Judge’s response to this was simply that under the terms of the LOI, the relevant documents were to be signed as soon as practicable after the due diligence process was completed and the parties were expected to negotiate in good faith. Again, the real question is what if the parties here in good faith could not agree on the terms of these documents and the ‘major subject matters’?
+
+V.  Issue 2 : Scope of Clause 10b
+
+1)  The Judge’s reasoning
+
+40.  The Judge’s reasoning that the mechanism in Clause 10b was confined to breaches of Clause 10a is as follows :
+
+‘ 60. The difficulty with the argument that clause 10b is intended to have general rather specific application to a breach of clause 10a is that the former interpretation does not sit well with the overall context of the LOI. It is well established that:
+
+“...all the terms of an agreement should be read or considered together and construed with the overall context in mind. Construction is a unitary exercise involving an iterative process. The court should have regard to the implications of any competing constructions, at least by way of a cross-check, where business common sense should be engaged in the iterative process.”
+
+at Yu Man Fung Alice (supra) at [21]
+
+61. First, clause 10b is concerned only with breaches by Party A, i.e., the sellers, and not Party B, the purchaser. If, for instance, the value of the Development suddenly depreciated in value after the LOI, and it was the purchaser that sought to terminate the LOI, then clause 10b would have no application – the normal measure of damages would apply, it being clear from clause 13b that a defaulting party is liable for breach of contract.
+
+62. As a matter of business common sense, it is difficult to see why the parties would have intended such a disparity in consequences between a similar breach by the purchaser or the seller.
+
+63. Further, whilst parties are of course free to decide when liquidated damages are to apply, clause 10b would be a remarkably blunt instrument as a pre-estimate of loss of the buyer if it were to apply to any breach by sellers. Although the sellers’ primary obligation in the LOI is to transfer the Subject Shareholding to the purchaser, there are a number of other ancillary obligations, a breach of which might not have entitled the innocent party, i.e., the purchaser, to terminate the LOI. For instance, in the plaintiff’s amended statement of claim, it is alleged that “…the total indebtedness of the Company was in excess of $450 million which was a breach of warranty by the defendants as provided by clause 6 of the [LOI].” In such circumstances, the formula in clause 10b would have no bearing at all to the anticipated resulting loss.
+
+64. On the other hand, one can see as a matter of business common sense why a clause prohibiting a party from negotiating with third parties pending the drawing up of formal documentation would be coupled with a liquidated damages clause. Such negotiations put the position of the counterparty (usually the buyer in a case such as the present) at risk, including the risk of the seller exploring better prices or terms with other potential buyers whilst having secured “a floor” with the existing buyer. Actual damages in such cases may be difficult to prove, especially if those negotiations with third parties do not come to fruition. Even if the seller does terminate the contract, if the contract price is close to the market price, unless the buyer is able to compel specific performance, the buyer’s provable loss would in most cases only be out of pocket the expenses incurred, which may not be significant. A liquidated damages clause based on a multiple of expenses incurred may thus be a practical way of discouraging such conduct by the seller.
+
+65. There can be no dispute that the wording of clause 10b is somewhat ambiguous. This is perhaps unsurprising since, as mentioned above, the LOI was based on a draft from someone in Beijing. It is interesting to note, however, that the original draft from Mr Hong already contained clause 10b and was retained in its original form in the signed version of the LOI.’
+
+2)  The defendants’ arguments
+
+41.  The defendants argued that the parties had control over the choice of language adopted in the LOI and the Court should be slow to reject the natural meaning of the words used. The wording in Clause 10b is clear that it applies to all breaches. If the Judge appreciated the true nature of LOI as a lock‑out agreement, then he would and should have held Clause 10b applied to all breaches by the defendants. As the LOI was drafted by the plaintiff, the contra proferentum rule applies.
+
+3)  The plaintiff’s arguments
+
+42.  The plaintiff supported the Judge’s interpretation on Clause 10b. Mr. Dawes emphasized that a surer guide to interpretation is context and not simply the literal meaning of the words. The interpretation now relied upon by the defendants must be rejected because the LOI is not a lock‑out agreement. There is no basis to resort to the contra proferentum rule.
+
+4)  Our view on Issue 2
+
+43.  Once it is found that the LOI did not constitute a binding agreement for the sale and purchase of the shareholdings then it is clear that the only binding nature of the LOI was in respect of the agreement on due diligence under Clause 10 :
+
+「10. 乙方需於此簽署此『意向書』之日起計60天內完成盡職調查。
+
+10a. 甲方承諾在簽署此『意向書』之後，至雙方另行簽訂『前進有限公司股權買賣合約』之日或本『意向書』議解除或終止之日，未經乙方同意，甲方不得與仼何第三方以任何方式就其所持有的『星悅海灣』及『前進有限公司』的股權出讓、或增資擴股事宜進行協商或談判。
+
+10b. 如果甲方違反此『意向書』項下的相關規定，則乙方在簽署此『意向書』後所支出的與此『意向書』 項下相關的所有費用的五[倍]，即港幣200萬元上限(含乙方聘請專業律師、會計師、投資顧問的費用及乙方職員投入本意向協議項下的所有費用等)由甲方承擔。」
+
+(English translation):
+
+‘ 10. Party B shall finish due diligence exercise within 60 days from the date of signing this [LOI].
+
+10a. Party A undertakes that upon signing this Letter of Intent, up to the date when both parties separately sign [the Intended SPA] or the date of discharge or termination of this [LOI], Party A shall not, without the consent of Party B, conduct negotiation or talks in any manner with any third party in relation to matters of the equity transfer or increase of capital and shares held by it regarding [the Development] and [the Company].
+
+10b. If Party A is in breach of the relevant provisions in this Letter of Intent, five times of all the costs and expenses incurred by Party B after signing this [LOI] and relevant to the items under this [LOI], which is capped at HK$2,000,000 (including costs and expenses for Party B to engage professional lawyers, accountants, investment consultants and all fees paid by the staff of Party B regarding the agreed terms under this [LOI] and etc.) shall be borne by Party A.’
+
+44.  Due to the Judge’s view on the nature of the LOI, he also erred on the construction of Clause 10b. This clause embraced all breaches by the defendants in respect of the agreement on due diligence and not merely a breach under Clause 10a. This would cover the unilateral termination of the LOI by the defendants. The terms of Clause 10b itself were clear enough to embrace all breaches relating to the due diligence agreement. According to the ‘Far East Chinese‑English Dictionary 遠東漢英大辭典’, ‘項 下’ is translated as ‘under a certain article or item’. Properly understood the sentence 「如果甲方違反此『意向書』項下的相關規定...」means ‘If Party A is in breach of the relevant provisions under certain article or item in this LOI....’. It is not confined to a breach under Clause 10a. On this basis, there can be no dispute that Clause 10b applies to all breaches by the defendants under the due diligence agreement. The modern trend in interpretation is to regard both the ordinary and natural meaning of the words and the context in which the words appeared.
+
+45.  Arguments have been raised on Clause 13 of the LOI which provides that :
+
+「 此『意向書』之終止
+
+13a 協商終止：此『意向書』簽署後，經甲、乙雙方協商一致，此『意向書』才可以終止，
+
+13b 違約終止，此『意向書』簽署後，一方發生違約情形，另一方可依本意向協議規定單方終止此『意向書』，及或追究相關違約之法律貴任。」
+
+(English translation):
+
+‘ The termination of this [Letter of Intent]
+
+13a. Termination of negotiation: this [Letter of Intent] can only be terminated upon the signing of this [Letter of Intent] and by agreement of Party A and Party B upon negotiation.
+
+13b. Termination in the event of default: upon the signing of this [Letter of Intent], in the event of default of one party, the other party can unilaterally terminate this [Letter of Intent] in accordance with the provisions of this Letter of Intent and/or pursue the legal liability of the relevant default.’
+
+46.  We are of the view that Clause 13 does not affect the construction we have placed on Clause 10b. The two provisions may overlap but they are not inconsistent with each other. Mr. Yuen had submitted that another way of construction is that if the defendants are in breach of the LOI, their liability is dealt with by Clause 10b. On the other hand, if the plaintiff is in breach of the LOI, then the defendants may rely on Clause 13 to seek recourse against it. It is not necessary for us to express our view on this alternative construction.
+
+VI.  Issue 3 : Mutual Consensus in May 31 Conversation
+
+1)  The Judge’s reasons
+
+47.  The Judge found in favour of the defendants for the following reasons :
+
+‘ 86. Having heard the oral evidence of Mr. Chan, Mr. Kwan and Mr. Ho, and having considered the versions of events in the affirmations and witness statements and the contemporaneous documents, my findings are as follows :
+
+(1) First of all, it seems to me that, at the time of the May 31 Conversation and in the subsequent correspondence up until the July 18 Letter, both Mr Chan and Mr Kwan regarded the LOI as a binding agreement between the parties and that (contrary to my view above) clause 10b was the operative provision covering any breaches of the LOI, including the defendants’ anticipatory breach on 31 May 2017.
+
+(2) It is more likely than not that clause 10b, or the substance of the clause, was expressly mentioned by the parties. Not only was this confirmed in the July 11 Letter, but the HKD 2 million figure on Mr Chan’s mind during the conversation was derived directly from the ceiling in clause 10b. Whilst I accept that Mr Chan was unlikely to have had a copy of the LOI in front of him, Mr Chan would have been sufficiently familiar with the terms of the LOI to be aware of the clause. He was closely involved with amending the LOI during negotiations as evidenced by his detailed manuscript notations and corrections on at least one of the drafts.
+
+(3) It is highly significant that there was no rebuttal or objection by the plaintiff in the June 7 Letter to Mr Kwan’s assertion in the June 5 Reply that an agreement had been reached in the May 31 Conversation.
+
+...
+
+(6) It follows that I also reject Mr Chan’s evidence that in the May 31 Conversation, he had merely offered Mr Kwan to settle the matter for a fixed sum of HKD2 million and which was not accepted by Mr Kwan.
+
+(7) I have also carefully considered Mr Wong’s submissions that there can be no agreement on Mr Kwan’s own evidence in cross-examination that Mr Chan “did not object” to his proposal based on the formula in clause 10b, and Mr Kwan merely assumed the existence of an agreement from Mr Chan’s silence. It is important in situations such as the present that what might have been said in the course of a conversation cannot be considered in isolation. Whilst it is correct of course that silence cannot normally be taken as an acceptance of an offer, much will depend on the context of the conversation in which this silence or non-objection occurred. The reality is that neither Mr Kwan nor Mr Chan can remember verbatim or precisely what was said in the May 31 Conversation. In short, viewed against the rest of the evidence, I do not consider what Mr Kwan said in cross-examination in this regard to be of great weight as to whether the parties had reached a consensus in that conversation.’
+
+2)  The plaintiff’s arguments
+
+48.  Mr. Dawes first took the point that the settlement agreement had not been pleaded by the plaintiff and hence the plaintiff was precluded from taking this point.
+
+49.  He further advanced the following arguments that the Judge had erred on this issue :
+
+i)  The Judge had wrongly misunderstood the significance of Mr. Kwan’s evidence as to the content of the May 31 Conversation. In Mr. Kwan’s witness statement [32(3)], his evidence was that during the May 31 Conversation, Mr. Chan said that Mr. Kwan ‘would have to pay $2 million as compensation as previously agreed’, whereas Mr. Kwan told Mr. Chan that he was ‘willing to provide monetary compensation according to the calculation method agreed under the Letter of Intent’. In other words, there was clearly no meeting of minds between the parties. Specifically, Mr. Chan was demanding for compensation in the stated amount of $2 million, which was never accepted by Mr. Kwan. This is fortified by Mr. Kwan’s oral evidence during cross‑examination, when he unequivocally confirmed that Mr. Chan had not agreed to his proposal that the compensation be calculated under the LOI. Mr. Kwan’s evidence was consistent with Mr. Chan’s evidence that Mr. Kwan ‘expressed a willingness to compensate the Plaintiff but did not commit to do so and no agreement to pay compensation was reached’.
+
+ii)  The undisputed case is that Mr. Chan (on behalf of the plaintiff) and Mr. Kwan (on behalf of the defendants) did not reach the settlement agreement during the May 31 Conversation. The Judge was not entitled to disregard the evidence given by the witness on the pretext that they did not remember precisely what was said in the May 31 Conversation. It must be wrong for the Judge to find that the parties had reached the settlement agreement during the May 31 Conversation when neither party said so in the evidence.
+
+iii)  Insofar as the Judge’s findings are based on the allegation that Mr. Chan ‘did not object’ to Mr. Kwan’s settlement proposal based on the formula in Clause 10b, this is incorrect as a matter of law. It is trite that silence is equivocal and an offeree who does nothing in response to an offer is not bound by its terms: Chitty on Contracts (34th ed.) at [4-087].
+
+iv)  The Judge had failed to appreciate the significance of the June 5 Letter, June 7 Letter and the July 11 Letter. These letters evinced an offer by the plaintiff to settle the dispute with the defendants on condition that the defendants paid a fixed sum of $2 million by a specific deadline, failing which the plaintiff would sue the defendants for breach of the LOI. The plaintiff’s position as stated in these letters was wholly inconsistent with the Judge’s findings that the parties had reached the settlement agreement, which would have precluded the plaintiff from claiming for damages under the LOI. This is reinforced by the June 5 Letter, in which the plaintiff expressly relied on Clause 13b of the LOI in claiming for compensation for breach of the LOI. This amounts to compelling evidence indicating that the parties had not reached the settlement agreement (which is not based upon Clause 13b of the LOI and restricts the plaintiff’s relief to the measure specified in Clause 10b of the LOI). The Judge erred in placing excessive weight on the fact that the plaintiff had not denied the defendants’ assertion in the June 5 Letter that ‘both of us agreed to the termination of the said Letter of Intent subject to our honouring Clause 10b thereof’. The general tenor of the letters contradicts the settlement agreement. It is irrelevant as to whether there is a specific traverse of the defendants’ assertion. Further, the Judge held that Mr. Chan was likely under the misapprehension that Clause 10b was the operative provision covering the defendants’ anticipatory breach of the LOI on 31 May 2017. Therefore, it is a non sequitur for the Judge to infer the existence of the settlement agreement from the mere fact that the plaintiff did not specifically deny the assertion in the June 5 Letter.
+
+v)  The Judge was plainly wrong in finding that the settlement agreement existed for the following additional reasons. If the parties were under the misapprehension that Clause 10b applied to govern the plaintiff’s remedy arising from the defendants’ anticipatory breach of the LOI on 31 May 2017 (as held in judgment [86(1)]), the parties would not have separately concluded the settlement agreement purportedly having the same effect as that of the LOI. Further, the Judge also failed to appreciate that the settlement agreement is further undermined by the July 18 Letter, whereby the defendants alleged that the LOI ‘is not a contract and cannot be enforced’. Ultimately, it does not make any commercial sense and is inherently improbable that the parties would have reached the settlement agreement in the May 31 Conversation, when the plaintiff only knew about the defendants’ intention to breach the contract for the first time in the May 31 Conversation and the telephone conversation was short and only lasted a few minutes.
+
+vi)  The Judge’s conclusion that the parties had reached the settlement agreement was one which there was no evidence to support and/or which no reasonable judge could have reached.
+
+3)  Our view on Issue 3
+
+50.  The point on pleadings can be disposed of quickly. Irrespective of the state of pleadings, the parties had expressly agreed for the Court to adjudicate this issue under Issue 3. As a matter of fact, the defendants had referred in their Amended Defence to the mutual termination of the LOI on 31 May 2017 and the ceiling of damages under Clause 10b which was re‑confirmed in a letter dated 5 June 2017. It is not surprising that the parties had agreed to have this issue expressly determined by the Judge. In the circumstances, it is not open to the plaintiff to challenge that this is not a pleaded issue and thus should not have been decided by the Judge, see: Keane AC KC, Estoppel by Conduct and Election (3rd edn.), [15‑044]; Coulton v Holcombe (1986) 162 CLR 1, at [7-8]; and Seaton v Burnard [1900] AC 135, at [145].
+
+51.  The findings by the Judge on this issue were findings of fact. In order to overturn these findings, it must be shown that they were plainly wrong in the sense that the findings were ones which there was no evidence to support, which were based on a misunderstanding of the evidence, or which no reasonable judge could have reached. The ‘plainly wrong’ test is applicable to both findings of primary fact and also findings of facts made by a process of inference.
+
+52.  The Judge began his task by first noting the different versions advanced by Mr. Anson Chan of the plaintiff in his witness statement of 26 July 2018 and the two versions in his 1st affirmation dated 10 August 2017 and his 3rd affirmation dated 5 September 2017 placed before Lisa Wong J in the Injunction Application. He also referred to Mr. Kwan’s account in his witness statement dated 17 May 2018 which mirrored the account in his affirmation. The Judge also stated :
+
+‘ 73. In cross-examination, Mr Kwan said he missed out mentioning specifically in his witness statement a reference to clause 10b in the May 31 Conversation. Also, when asked why he did not say in his witness statement that Mr Chan expressly agreed to the formula he proposed for compensation, Mr Kwan replied that Mr Chan “did not object”, which to his understanding meant that “he agreed”.’
+
+53.  The Judge recognized that ‘human memory is imperfect and can evolve over time, and even honest recollections between what was said in a conversation years ago can differ between participants to the conversation’. He then held the credibility of conflicting accounts can be tested by reference to contemporaneous documents. He then referred to these contemporaneous correspondences :
+
+‘ 76 In the plaintiff’s Chinese letter dated 5 June 2017 (the ‘June 5 Letter’), which was drafted by Mr. Ho and Mr. Chan and signed by Mr. Chan, it referred to Mr. Kwan’s proposal to terminate the LOI and his ‘willingness to compensate’ for the plaintiff’s loss. The letter then referred to Clauses 10b and 13b, quoted the mechanism in Clause 10b and followed with a demand for compensation of $2 million.
+
+78 About half an hour later, Mr. Kwan sent a reply letter in English to the plaintiff as follows (the ‘June 5 Reply’) :
+
+‘We refer to the discussion on 31 May 2017 between your [Mr Ho] and our [Mr Kwan] about the termination of the Letter of Intent entered into by us and you on 12 May 2017 and write to put on record that both of us agreed to the termination of the said Letter of Intent subject to honouring Clause 10b thereof. Please advise us the amount of the costs so far incurred by you for our verification. It is however understood that you have not yet engaged any professional adviser (including lawyer or accountant in relation to the transaction contemplated under the said Letter of Intent.’ (emphasis added)
+
+80 The plaintiff replied by letter to the defendants two days later (the ‘June 7 Letter’), with the letter being signed by Mr. Chan’s sister, Lily Chan (‘Ms Chan’), as director of the plaintiff. The plaintiff took no issue in that letter with what Mr. Kwan’s statement on record that an agreement had been reached as to the termination of the LOI subject to honouring Clause 10b.
+
+83 ...On 11 July 2017, the plaintiff wrote a further letter to the Company for the attention of Mr. Kwan (the ‘July 11 Letter’), which was signed by Mr. Chan and sent by registered mail and by hand to the Company. In the letter, it is said that :
+
+‘In a meeting held on 31 May 2017, your [Mr Kwan] informed our [Mr Ho] that you intended to unilaterally cease execution of [the Letter of Intent], and you were willing to compensate us in accordance with Clause 10B of the Letter of Intent. For the record and as a matter of clarification, our Mr Ho told your Mr Kwan at the time that we were already deep into our due diligence review, although we had not yet appointed a lawyer to draft our formal Sale & Purchase Agreement…” ’ (emphasis added)
+
+85 On 18 July 2017, the defendants replied by letter to the plaintiff stating that, inter alia, whilst the defendants were still seeking legal advice, they were of the view that LOI was in essence an agreement to agree, and therefore, ‘not a contract and cannot be enforced.’ (the ‘July 18 Letter’).
+
+54.  The plaintiff is now repeating the same arguments which the Judge had considered and rejected. Mr. Kwan had confirmed in his oral evidence that there was such an agreement. This was also stated in his witness statements. The Judge was entitled to accept his evidence. The Judge had also addressed the issue that silence does not constitute acceptance. In our view, the Judge was not ignoring the evidence of the witnesses but rather he was looking at the whole of the circumstances to see how the parties had conducted themselves by reference to the contemporaneous correspondence which he was entitled to do : Blue v Ashley [2017] EWHC 1928 (Comm) [65‑69]. The Judge was clearly entitled to hold that their conduct showed they had regarded a settlement was reached on 31 May 2017. We do not see the logical connection of the argument on the parties’ understanding of Clause 10b and the settlement agreement. Further, as Mr. Yuen submitted what Mr. Kwan said in the letter of 18 July 2017 about the LOI not being enforceable could not undo the settlement had been reached. Besides, in this letter Mr. Kwan was still pressing the plaintiff to submit proof of its due diligence work. This letter is not fatal to the Judge’s findings. In our view, the Judge was clearly entitled to the findings and the plaintiff has not shown that such findings are plainly wrong.
+
+VII.  Issue 4 : Damages
+
+1)  The Judge’s reasons
+
+55.  The Judge held that the plaintiff had not pleaded nor relied on any alternative case during the course of hearing to cater for damages assessed under Clause 10b and it was only at the closing submission of its counsel (not the plaintiff’s current team of lawyers) when it was submitted that, despite the fact that it has not been pleaded, the Judge should nonetheless take into consideration the materials that the plaintiff had disclosed on the due diligence exercise in assessing damages under Clause 10b. The Judge rejected this submission. He held it was unfair to the defendants. Had the plaintiff relied on Clause 10b, the defendants would have had a proper opportunity to challenge the plaintiff’s evidence as to whether any due diligence had in fact commenced and whether, and if so how much, costs have in fact been incurred.
+
+2)  The plaintiff’s arguments
+
+56.  Mr. Dawes argued that although the plaintiff had not pleaded the Clause 10b mechanism for damages, the defendants had in fact done so. Relying on Poon Hau Kei v Hsin Chong Construction Co Ltd (2004) 7 HKCFAR 148 [19], he contended that the Judge ought to award damages based on the defendants’ case on this point. In Poon Hau Kei, the plaintiff was seeking damages for personal injuries based on his version of how the accident had occurred. The defendant denied this and said the accident happened in a different way of which the plaintiff himself was contributorily negligent. The Court of Final Appeal held that the trial judge could make findings based on the defendants’ version of events.
+
+3)  Our view
+
+57.  We agree with Mr. Yuen that the plaintiff’s reliance on Poon Hau Kei was misplaced as the case cannot possibly have any application in the present case when the plaintiff clearly confirmed that it would not assert any claim under Clause 10b. We agree with the Judge’s reasons that it would be unfair to the defendants to allow the plaintiff to adopt a new stance on damages after the evidence had been concluded. Accordingly, the plaintiff failed on this ground.
+
+VIII.  Conclusion
+
+58.  The plaintiff’s appeal is dismissed. Although the plaintiff was unable to recover damages under the formula in Clause 10b, the fact remains that the defendants were in breach of the due diligence agreement by their unilateral termination of the agreement. The Judge was correct to award nominal damages. Accordingly, the defendants’ cross appeal is dismissed.
+
+IX.  Costs and Interest
+
+1)  Costs of the appeal
+
+59.  The defendants are to have the costs of the appeal including the Respondent’s Notice with certificate for two counsel.
+
+2)  Costs below
+
+60.  The Judge made the following orders for costs and interest :
+
+i)  the defendants do have 60% of their costs of the action to be taxed on a party and party basis up to and including 14 March 2019 if not agreed, with certificate for two counsel, save that the costs of the expert evidence (including the costs of engaging the defendants’ expert, the defendants’ expert reports, and the time spent at trial with the experts) be excluded from the defendants’ costs;
+
+ii)  the defendants do have 80% of their costs of the action to be taxed on an indemnity basis from 15 March 2019 up to and including 12 December 2022 if not agreed, with certificate for two counsel, save that the costs of the expert evidence (including the costs of engaging the defendants’ expert, the defendants’ expert reports, and the time spent at trial with the experts) be excluded from the defendants’ costs; and
+
+iii)  the defendants do have interest on the costs mentioned in paragraph ii) above at 6% per annum from 15 March 2019 up to and including 12 December 2022.
+
+61.  The defendants now asked for these orders to be varied as follows :
+
+i)  the defendants do have the costs of this action, including all costs reserved (excluding the costs of the expert evidence), up to and including 14 March 2019, to be taxed on a party and party basis if not agreed;
+
+ii)  the plaintiff shall pay the defendants’ costs relating to the action, including all costs reserved (excluding the costs of the expert evidence), from 15 March 2019 up to the date of the judgment, with certificate for two counsel, on an indemnity basis, to be taxed if not agreed; and
+
+iii)  the plaintiff shall pay interests on the defendants’ costs as set out in sub-paragraph (ii) above at 4 % per annum above judgment rate from the date when the costs were so incurred, up to the date of the judgment; or alternatively, at 6% from 16 March 2019 up to the date of the judgment.
+
+62.  The Judge in considering the issue of costs held :
+
+‘ 12. In my view, the defendants' case at the trial that the LOI was not binding on the parties was particularly opportunistic and unmeritorious, especially when both parties had all along believed and proceeded on the basis that they were bound. On the other hand, I accept that the proper construction of Clause l0b raised difficult questions albeit, in the end, I found against the defendants on the issue ([66] of the Judgment).’
+
+63.  As the defendants now managed to succeed on Clause 10b issue, we would make an order nisi to vary paragraph i) of the Judge’s costs order by allowing the defendants to have 80% of the costs instead of 60%. All other terms of the order on the costs and interest remain unchanged.
+
+ 
+
+ 
+
+(Susan Kwan)
+Vice-President	(Peter Cheung)
+Justice of Appeal	(Godfrey Lam)
+Justice of Appeal
+ 
+
+Mr. Victor Dawes SC and Mr. Jonathan Ng, instructed by MinterEllison LLP, for the Plaintiff
+
+Mr. Rimsky Yuen SC and Ms Jennifer Fan, instructed by Huen & Partners, for the 1st and 2nd Defendants
+
+ 
+
+ 
+
+Annex
+
+「甲乙雙方經友好協商合作投資上述物業項目『星悅海灣』，現決議如下:
+
+1)  『星悅海灣』物業定價為港幣八億元正。
+
+2)  乙方將投入資金和甲方合作，達到甲乙雙方各佔『前進有限公司』70%公司權益。甲方須承諾『前進有限公司』完全擁有『星悅海灣』100%產權；且『前進有限公司』並無除『星悅海灣』之外的其他投資；而『前進有限公司』之總負債不能超過港幣四億五千萬元正。
+
+2a)  甲方承諾於乙方入股『前進有限公司』之前，將解除『前進有限公司』之所有僱員、服務、供應、各種顧問、及銷售代理的合約；但以下之公司文職人員除外：i) 秘書; ii) 會計主仼。
+
+3)  乙方投入資金為港幣二億四千五百萬元正(『星悅海灣』物業定價八億元減除銀行貸款四億五千萬元後的餘額的70%)是用於購買甲方於『前進有限公司』之股權70%。乙方的具體付款時間表待雙方正式簽署的『前進有限公司股權買賣合約』確認。
+
+4)  乙方願意首支付港幣一億四千萬元正予甲方，作為購買70%股權之用。
+
+5)  乙方將餘下購買股權尾數一億零五百萬元正在24 個月內按照『星悅海灣』樓盤銷售進度，償還餘款給甲方。未償還之欠款計算利息 (以年利率2.5%計算)。
+
+6)  前進有限公司向銀行貸款總額度在股權轉讓完成時應為四億五千萬港元。出售『星悅海灣』收入的款項優先用於償還此銀行貸款。
+
+7)  甲乙雙方合組『前進有限公司』之新的董事會管理層。董事會由甲方委任兩席董事和乙方委任三席董事組成。
+
+7a)  甲方同意此地產發展項目『星悅海灣』之裝修、改造、重新設計、及銷售策略及執行，由乙方完全主導。乙方亦承諾在重大議題上，將提交公司董事會層面討論及表決。
+
+8)  『星悅海灣』以出售為主，但如對外銷售不如理想,甲乙雙方亦可在雙方同意下，考慮雙方按股權比例分配現樓。
+
+9)  『星悅海灣』售樓收益除淨後甲乙雙方各按股權比例分配利潤。
+
+10)  乙方需於此簽署此『意向書』之日起計60 天內完成盡職調查。
+
+10a)  甲方承諾在簽署此『意向書』之後，至雙方另行簽訂『前進有限公司股權買賣合約』之日或本『意向書』議解除或終止之日，未經乙方同意，甲方不得與仼何第三方以任何方式就其所持有的『星悅海灣』及『前進有限公司』的股權出讓、或增資擴股事宜進行協商或談判。
+
+10b)  如果甲方違反此『意向書』項下的相關規定，則乙方在簽署此『意向書』後所支出的與此『意向書』 項下相關的所有費用的五[倍]，即港幣200 萬元上限 (含乙方聘請專業律師、會計師、投資顧問的費用及乙方職員投入本意向協議項下的所有費用等) 由甲方承擔。
+
+11)  乙方或乙方委託的第三方，在盡職調查中如無重大負面的發現，即未發現存在對本次交易有實質性影響的重大事實 (或發現該等重大事實但經雙方友好協商得以解決)；且乙方的盡職調查 (含律師、會計師、銷售顧問)報告完成後的10 個工作內，甲乙雙方儘早完成簽署 『前進有限公司股權買賣合約』及『股東協議書』： 甲方同時向乙方提供有關『星悅海灣』及『前進有限公司』的股權、債權債務等方面的『承诺函』。
+
+12)  甲乙雙方需將此合作投資保密。
+
+13)  此『意向書』之終止
+
+13a)  協商終止：此『意向書』簽署後，經甲、乙雙方協商一致，此『意向書』才可以終止,
+
+13b)  違約終止，此『意向書』簽署後，一方發生違約情形，另一方可依本意向協議規定單方終止此『意向書』，及或追究相關違約之法律責任。」
+
+ 
+
+(English translation placed before the Judge) :
+
+‘It is now resolved as below upon amicable negotiation between Party A and Party B, regarding the joint investment in the above mentioned property project [Grand Riviera]:
+
+1)  The price for the property, [Grand Riviera], is fixed at $800,000,000.
+
+2)  Party B shall inject funds to cooperate with Party A, so that both Party A and Party B will each have 70% interest in [Discreet Company]. Party A shall undertake that [Discreet Company] wholly owns 100% property right of [Grand Riviera]; in addition, [Discreet Company] does not have other investment except [Grand Riviera]; and that the total indebtedness of [Discreet Company] cannot exceed $450,000,000.
+
+2a)  Party A undertakes that before Party B acquires shares of [Discreet Company], contracts of [Discreet Company] with all employees, service providers, suppliers, various consultancies, and sales agents will be discharged except for clerical personnel of the company, namely, 1) secretary; 2) accounts supervisor.
+
+3)  Party B shall inject funds of $245,000,000 (70% of the remaining sum upon the deduction of bank loans in the sum of $450,000,000 from the property price of [Grand Riviera] in the sum of $800,000,000) for the purchase of the 70% shareholding of Party A in [Discreet Company]. The specific timetable for payment of Party B will be confirmed upon the formal signing of the [Agreement for the sale and purchase of the equity of [Discreet Company]] by both parties.
+
+4)  Party B agrees to first pay to Party A $140,000,000 for the purchase of 70% shareholding.
+
+5)  Party B shall pay Party A the remaining sum $105,000,000 for the purchase of the equity within 24 months in accordance with the sale progress of [Grand Riviera]. Interest will be charged on the outstanding debts (at the rate of 2.5% per annum).
+
+6)  The total loan limit of Discreet Company from bank(s) should be $450,000,000 at the time of completion of the equity transfer. The sale proceeds from [Grand Riviera] shall be prioritized to repay this bank loan.
+
+7)  A new management of board of directors of [Discreet Company] will be jointly formed by Party A and Party B. The board of directors will be comprised of two directors to be appointed by Party A and three directors to be appointed by Party B.
+
+7a)  Party A agrees that all works of renovation, reform, re‑design, sales strategy and the enforcement of the [Grand Riviera] property development project will be wholly directed by Party B. Party B also undertakes that for important issues, they will be submitted to the board of directors for discussion and resolution.
+
+8)  [Grand Riviera] is mainly for sale. If external sale is not satisfactory, Party A and Party B, by mutual consent, can consider to allocate the existing flats in accordance with the ratio of shareholding of both parties.
+
+9)  The net profit from the sale proceeds of [Grand Riviera] shall be shared by Party A and Party B in accordance with the ratio of shareholding.
+
+10)  Party B shall finish due diligence exercise within 60 days from the date of signing this [Letter of Intent].
+
+10a)  Party A undertakes that upon signing this Letter of Intent, up to the date when both parties separately sign [Agreement of the sale and purchase of the equity of Discreet Company] or the date of discharge or termination of this Letter of Intent, Party A shall not, without the consent of Party B, conduct negotiation or talks in any manner with any third party in relation to matters of the equity transfer or increase of capital and shares held by it regarding [Grand Riviera] and [Discreet Company].
+
+10b)  If Party A is in breach of the relevant provisions in this Letter of Intent, five times of all the costs and expenses incurred by Party B after signing this Letter of Intent and relevant to the items under this Letter of Intent, which is capped at $2,000,000 (including costs and expenses for Party B to engage professional lawyers, accountants, investment consultants and all fees paid by the staff of Party B regarding the agreed terms under this Letter of Intent and etc.) shall be borne by Party A.
+
+11)  If Party B or a third party appointed by Party B, makes no material negative finding during the due diligence exercise, namely, no material facts which can substantively affects this transaction is found (or in the event that such material fact is found but resolved through amicable negotiation of both parties); in addition, within 10 working days upon the completion of the due diligence report (including lawyers, accountants, sales consultants) of Party B, Party A and Party B shall as soon as practicable complete the signing of [Agreement of the sale and purchase of the equity of Discreet Company] and [Agreement of shareholders]; Party A shall at the same time provide Party B with a [Letter of Undertaking] concerning the shareholding, creditor’s rights, debts and etc. of [Grand Riviera] and [Discreet Company].
+
+12)  Party A and Party B shall keep this joint investment confidential.
+
+13)  The termination of this [Letter of Intent]
+
+13a)  Termination of negotiation: this [Letter of Intent] can only be terminated upon the signing of this [Letter of Intent] and by agreement of Party A and Party B upon negotiation.
+
+13b)  Termination in the event of default: upon the signing of this [Letter of Intent], in the event of default of one party, the other party can unilaterally terminate this [Letter of Intent] in accordance with the provisions of this Letter of Intent and/or pursue the legal liability of the relevant default.’
+

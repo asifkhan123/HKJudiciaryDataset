@@ -1,0 +1,415 @@
+FCMC 596/2022
+
+[2022] HKFC 272
+
+IN THE DISTRICT COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MATRIMONIAL CAUSES NO.596 OF 2022
+
+__________________________________
+
+BETWEEN
+
+ 	YB	Petitioner
+ 	and	 
+ 	LX	Respondent
+__________________________________
+
+Coram:  Deputy District Judge W.Y. Ho in Chambers (Not Open to public)
+
+Date of Hearing:  31 October 2022
+
+Date of Decision:  9 December 2022
+
+---------------------
+
+DECISION
+
+(Injunction)
+
+---------------------
+
+
+1.  There are 2 applications before me:
+
+1)  The Petitioner’s application to continue the Ex-parte injunction order made on 11 April 2022 (“the Injunction”); and
+
+2)  The Respondent’s application to discharge and/or vary the Injunction.
+
+I.  BACKGROUND
+
+2.  The parties are from Mainland China. They were married in Hong Kong on 9 September 2008 and have 2 children, currently the ages of 14 and 11 years old. The Petitioner filed for divorce in January 2022.
+
+3.  In 2011, the parties purchased a property in Tai Po (“the Flat”). In 2015 they purchased a car park in the same estate as the Property (“the Car Park”). The Property and Car Park shall be collectively referred to as “the Properties”.
+
+4.  The Petitioner claims she discovered, in or around January 2022, the Respondent unilaterally entered into an agreement to sell the Properties to a Ms. W. The Petitioner tried to resolve the matter amicably with the Respondent but to no avail.
+
+5.  On 11 April 2022, the Petitioner filed, on an urgent basis, an Ex Parte on Notice Summons requesting for various relief including the following:
+
+1)  A joinder application to join Ms. W to the present proceedings;
+
+2)  In the event of the completion of sale of the Properties, a mandatory injunction to mandate the Respondent to pay the net sale proceeds of the Properties to the Petitioner’s solicitors as stakeholders;
+
+3)  A mandatory injunction to mandate the Respondent to pay the initial deposit received (in the sum of HK$3,250,000) to the Petitioner’s solicitors as stakeholders;
+
+4)  A mareva injunction to prohibit the Respondent from disposing of his assets in the sum of not less than HK$23,500,000 (being the balance of the purchase price after deducting the deposit money); and
+
+5)  A disclosure order against the Respondent, consequential to the mareva injunction.
+
+6.  The Ex Parte on Notice Summons was heard before me on 12 April 2022 and an order was made on the same day (“the Injunction Order”) as follows (names have been obliterated):
+
+1.  Payment of Deposit by the Respondent
+
+The Respondent do pay the initial deposit and further deposit he has received pursuant to the sale and purchase of [The Properties] (the “Property”) between the Respondent as Vendor and WXXX XXX XXXXX (XXX) as Purchaser (“The Purchaser”) pursuant to the formal sale and purchase agreement dated 13 December 2021 (“the Transaction”) in the sum total of HK$3,250,000 (“Deposits”) into Court forthwith;
+
+2.  Restriction on disposal of assets by the Respondent
+
+1)  The Respondent must not in any way dispose of or deal with or diminish the value of his assets, whether in Hong Kong or elsewhere, up to the value of HK$23,500,000.
+
+2)  The Respondent is restrained from in any way disposing of or dealing with or diminishing the value of the Property, including by sale or completion of the Transaction or otherwise.
+
+3.  Disclosure of information
+
+1)  The Respondent must inform the Petitioner in writing at once of the following:
+
+a.  All his assets of an individual value of HK$5,000 or more anywhere in the world including Hong Kong, whether in his own name or not and whether solely or jointly owned, giving the value, location and details of all such assets, and in particular the Deposits; and
+
+b.  The Respondent may be entitled to refuse to provide some or all of the above information on the grounds that it may incriminate him.
+
+2)  The above information must be confirmed in an affidavit supported by documentary evidence which must be served on the Petitioner’s solicitor within 7 days after this Order has been served on the Respondent.
+
+7.  The Petitioner abandoned the joinder application at the ex-parte hearing.
+
+8.  A return date was fixed for 10 May 2022. The Respondent was present at the hearing and contested the continuation of the Injunction Order. I therefore fixed the matter down for substantive argument and ordered that paragraphs 3(1) and 3(2) of the Injunction Order be stayed pending the argument hearing. Paragraphs 1, 2(1) and 2(2) of the Injunction Order were ordered to be continued until the date of the substantive argument, that is, 31 October 2022.
+
+9.  At the substantive hearing, counsel for the Petitioner confirmed the Petitioner no longer sought the continuation of paragraph 3 of the Injunction Order (“Paragraph 3”), but sought the continuation of paragraphs 1 (“Paragraph 1”), 2(1) (“Paragraph 2(1)”)) and 2(2) (“Paragraph 2(2)”) of the Injunction Order.
+
+10.  The Respondent’s ground for objecting to the continuation of the Injunction Order can be paraphrased as follows:
+
+1)  The Petitioner committed material non-disclosure.
+
+2)  There are “inherent inconsistencies” in the Injunction Order.
+
+3)  There are no merits to the Petitioner’s allegation there has been any unjustified dealing or risk of dissipation on the Respondent’s part.
+
+II.  THE LAW
+
+11.  The legal principles governing injunctions in the context of family proceedings are succinctly summarized by HHJ I Wong in the case of CCL aka L, CC v JRC aka C, JR [2021] HKFLR 202 at 213. I find it helpful to set out the relevant parts of his judgment as follows:
+
+“Legal Principles
+
+
+37.  In the context of matrimonial proceedings, an application for injunction in the Family Court, being a division of the District Court, may be made by two routes, namely,
+
+(1)  under section 52B of the District Court Ordinance (Cap 336) and/or;
+
+(2)  under section 17 of the Matrimonial Proceedings and Property Ordinance (Cap 192) (“MPPO”).
+
+38.  The tests applicable to the two routes were discussed by Mostyn J in ND v KP (exp Application) [2011] EWHC 457 (Fam); [2011] 2 FLR 662 ; [2011] Fam Law 677 ; (2011) 161 NLJ 702:
+
+“4. I want to begin this judgment, which is being given ex tempore and which I hope will be comparatively short, with some statements of principle. In ancillary relief proceedings there are two routes available to obtain a freezing order. An application can either be made under section 37 of the Matrimonial Causes Act 1973 or it can be made under the inherent jurisdiction. It was submitted by Mr Turner QC in a case called Khreino v Khreino [2000] FCR 80, CA that the effect of the decision of the House of Lords in Richards v Richards [1984] AC 174, HL was that the only permissible route was the statutory one, but that submission was rejected.
+
+5. That said, it would be a strange state of affairs if either the procedure or the test applicable under the statutory mechanism differed materially from that which applies under the inherent jurisdiction. Under the statutory test the court can restrain the transaction if it is satisfied that the other party to the proceedings is, with the intention of defeating the claim for financial relief, about to make any disposition, or to transfer out of the jurisdiction, or otherwise deal with, any property. So under the statutory test there has to be identified by evidence an impending transaction, or at least the risk of an impending transaction taking place.
+
+6. It is really not very different from the test that applies under the inherent jurisdiction. I quote from Civil Procedure otherwise known as the White Book at paragraph 25.1.25.5 which states, citing a decision of Sir Peter Pain of O'Regan & Ors v Iambic Productions Ltd (1989) 139 NLJ 1378, that the applicant should depose to objective facts from which it may be inferred that the respondent is likely to move assets or to dissipate them; unsupported statements or expressions of fear have little weight. The notes go on to say that great care should be taken in the presentation of evidence to the court so that the court can see not only whether the applicant has a good arguable case but also whether there is a real risk of dissipation of assets. A freezing order should not be granted unless the applicant has established an appropriately strong case showing, amongst other things, that the respondent owns the assets concerned or has some interest in them. It is for the applicant to make out his case, and orders should not be granted simply because the respondent cannot show an immediate and obvious prejudice. That formulation is really not very different from the formulation in section 37 which I have recited above.
+
+7. Indeed, it is mirrored by the comments in more vivid language of Thorpe LJ in the case of Khreino where he says this:
+
+“Family Division judges day in day out exercise the inherent jurisdiction to grant injunctions to ensure that one spouse does not selfishly or irresponsibly salt away, squirrel away or spirit away family assets which may be in his name but which must be carefully preserved pending the ultimate judicial determination as to what proportion of that asset must be either transferred to or made available for the benefit of the applicant spouse.”
+
+8. So whilst the words used are different the language all points in the same direction, namely that there must be a good case put before the court, supported by objective facts, that there is a likelihood of the movement, or the dissipation, or the spiriting away, or the salting away, or the squirreling away, or the making of a disposition, or the transfer, of assets, with the intention of defeating a claim. It all comes to the same thing.
+
+9. What is to be emphasised is that in this country, unlike some other countries on the continent, we do not have a system of general saisie conservatoire whereby assets are automatically frozen pending the determination of a divorce claim. Indeed, one must remind oneself that the basic rule in this country is of separate property, and that is bolstered by Article 1 of Protocol 1 of the European Convention on Human Rights which says that every natural person is entitled to the peaceful enjoyment of his possessions. So, in order to obtain a freezing order there must be before the court a demonstration of objective facts that evidence the likelihood of the movement or dissipation of assets with the intention of defeating the applicant's claim. That is the first principle. (emphasis added).
+
+39.  And at [32], the learned judge said the following regarding the applicant in that particular case,
+
+“32. Those submissions, in my view, expose the real motive behind the wife's application which was to obtain a freeze over the husband's assets for no reason other than it would be desirable to keep them preserved until trial. But that, as I have explained, is not the law in this country…”
+
+40.  In brief, there are two basic points.
+
+41.  The first is that the procedure or the test applicable under the statutory mechanism (ie Section 17 of MPPO) does not differ from that under Section 52B of the (hk) District Court Ordinance (Cap 336). The same point was made by Mr Justice Mostyn in L v K (Freezing Orders: Principles and Safeguards) [2013] EWHC 1735 (Fam) ; [2014] Fam 35.
+
+42.  The second is that there must be evidence showing the likelihood of the movement or dissipation of assets with the intention of defeating the applicant's claim.
+
+43.  Subsequent to ND v KP (exp. Application) (supra), Mostyn J further elaborated his views and summarized the principles and safeguards of injunction in L v K (Freezing Orders: Principles and Safeguards) (supra), at [51]:
+
+“(1) The court has a general power to preserve specific tangible assets in specie where they are the subject matter of the claim. Such an order does not necessarily require application of all the freezing order principles and safeguards, although it is open to the court to impose them.
+
+(2) For a freezing order in a sum of money which is capable of embracing all of the respondent's assets up to the specified figure it is essential that all the principles and safeguards are scrupulously applied.
+
+(3) Whether the application is made under the 1981 Act or the 1973 Act the applicant must show, by reference to clear evidence, an unjustified dealing with assets (which would include threats) by the respondent giving rise to the conclusion that there is a solid risk of dissipation of assets to the applicant's prejudice. Such an unjustified dealing will normally give rise to the inference that it is done with the intention to defeat the applicant's claim (and such an intention is presumed in the case of an application under the 1973 Act).
+
+(4) The evidence in support of the application must depose to clear facts. The sources of information and belief must be clearly set out. . . .””
+
+12.  I shall now proceed to deal with whether the individual paragraphs of the injunction should be continued or discharged.
+
+III.  PARAGRAPHS 3(1) AND (2) OF THE INJUNCTION ORDER: THE DISCLOSURE ORDER
+
+13.  Counsel for the Petitioner, Ms. Lai, no longer seeks the continuation of Paragraphs 3(1) and (2).
+
+14.  I therefore discharge Paragraphs 3(1) and 3(2) of the Injunction Order.
+
+IV.  PARAGRAPH 1 OF THE INJUNCTION ORDER: THE PAYMENT OF DEPOSIT
+
+15.  At the time the Injunction Order was made, the Petitioner deposed the Respondent had received a deposit for the sale of the Properties but the Respondent used up all the money.
+
+16.  At the return date hearing, the Respondent confirmed, in his affirmation, the deposit money had been paid to his brother and cousin as repayment of loans owed to them.
+
+17.  There is no dispute the Respondent no longer has the deposit money. Hence, the remedy available to the Petitioner would be by way of an application to join those who received the proceeds and apply to set aside the said transactions, instead of an injunction.
+
+18.  I further note the sale of the Properties had fallen through since the granting of the Injunction Order. Pursuant to the terms of the Agreement for Sale and Purchase executed on 13 December 2021, the Respondent is now liable to return the deposit money back to Ms. W.
+
+19.  I agree with the submissions of the Respondent’s counsel, Mr. Yeung, that to allow Paragraph 1 to continue would, in effect, be condoning the breach of the Respondent’s contractual obligations to Ms. W. This is because if Paragraph 1 is not discharged, the Respondent will be unable to fulfil his contractual obligations to Ms. W. Furthermore, Ms. W has a potential claim against the deposit money. The continuation of Paragraph 1 would have the effect of giving the Petitioner priority over Ms. W’s claim.
+
+20.  Due to the change in circumstances since the granting of the ex-parte order, and by reason of the matters set out above, I am of the view it is no longer appropriate to allow the continuation of Paragraph 1. I therefore discharge Paragraph 1 of the Injunction Order.
+
+V.  PARAGRAPH 2: RESTRAINING THE RESPONDENT FROM DEALING WITH HIS ASSETS AND FROM SELLING THE PROPERTIES.
+
+21.  The Respondent strongly objects to the continuation of the 2 orders set out in Paragraph 2 of the Injunction Order.
+
+22.  I have considered counsels’ submissions and the authorities cited. I do not propose to deal with each and every point raised by counsel. Suffice to say, I shall deal with the salient submissions raised by the parties.
+
+A.  Material non-disclosure
+
+23.  The Respondent alleges the following material non-disclosure committed by the Petitioner:
+
+1)  The Properties were intended as investment properties only and the Flat was never intended to be the matrimonial home.
+
+a)  Since May 2018, the parties were in agreement the Properties would eventually be sold.
+
+b)  The Petitioner knew all along the Properties were being placed on the market for sale.
+
+2)  The parties and the children have all along been living in Mainland China. They never lived in the Flat as claimed by the Petitioner.
+
+a)  The eldest son was unsuccessful in his interview with Malvern College Hong Kong (“Malvern College”). It is therefore unlikely the children will be moved back to Hong Kong to continue their education.
+
+24.  Mr. Yeung submitted the above non-disclosure is material as the non-disclosed facts would materially affect the court’s decision on the following:
+
+1)  Whether the court has jurisdiction to deal with the divorce petition and the Injunction Order;
+
+2)  Whether the court would have viewed the ex-parte application as an urgent application; and
+
+3)  Whether the court would have accepted the basis put forward by the Petitioner so as to have exercised its discretion to grant the Injunction Order.
+
+25.  I shall first deal with whether there was non-disclosure as claimed. I will then proceed to discuss whether the non-disclosure (if any) is material.
+
+(i)  Non-disclosure relating to the Property
+
+26.  The Respondent produced We-Chat messages between himself and the Petitioner. The date of the Respondent’s message is not apparent, but the Petitioner’s response is dated 27 January 2022. Their messages are set out below:
+
+Message from the Respondent (undated):
+
+楊老師…我在香港賣樓一事本人昨天已經是知會過中介…我三年前所有的中介都知道的…而且是你也代簽過名…也一起陪伴去放盤的…我會向律師反映…我上次政府差餉稅欠費28000元…我委託你轉錢給政府你沒交！已經是有證據的…每個月供樓50000- 60000 元…我沒有能力供樓…現在我賣了樓…你跟全世界說你不知道…你覺得好笑嗎…這個是證據…
+
+Messages from the Petitioner (dated 27 January – time illegible)
+
+李軒，你不要強詞奪理！我們的共識是四千萬以上才賣的。你偷偷地賣房沒有和我打一聲招呼，你拿到350 萬定金，可是到現在你連一分錢孩子的撫養費都沒給，更不要說轉賣樓定金給我。車位完全屬於我價值400 萬，你有尊重過我嗎？
+
+Message from the Petitioner (dated 27 January; time 11:33am)
+
+如果你供不起，房子由我來負責，轉給兩個孩子
+
+27.  According to the version of facts deposed in the Respondent’s affirmation, the Flat was never intended to be a matrimonial home. It was always the intention of the parties to treat the Properties as investment properties and the parties agreed the Properties would be sold when the price was right. The Respondent argued the We-Chat messages produced are proof of the prior agreement.
+
+28.  The Petitioner does not deny she sent the messages. However, she explained that since the Respondent had already entered into an agreement with Ms. W by the time she discovered the transaction, she had no choice but to reluctantly agree to the sale. During the hearing, I asked Ms. Lai to clarify whether the Petitioner conceded there was a prior agreement to sell the Properties. Ms. Lai tried to argue that even if there was an agreement to sell the Properties at the price of HK$40 million, the agreement would not long be valid due to the subsequent intervening events.
+
+29.  When I sought further clarification from Ms. Lai on whether in fact the Petitioner is conceding there was a prior agreement to sell the Properties, Ms. Lai confirmed there was a discussion between the parties in or around May 2018 on whether the Properties should be sold but there was no agreement. Ms. Lai submitted the Petitioner’s position is that she did not agree to sell the Properties, but if they were to be sold, they should be sold at a price of HK$40 million or above.
+
+30.  Having considered Ms. Lai’s submissions and the evidence before me, I find the Petitioner’s explanation of the relevant We-Chat message, to put it quite bluntly, a bit of a stretch. The clear meaning of the Petitioner’s message is that the parties had previously discussed the sale of the Properties and agreed to sell it at the price of HK$40 million. I find the interpretation now put forward by Ms. Lai difficult to accept. If there was no prior agreement to sell the Properties as submitted by Ms. Lai, there is no reasonable explanation as to why the Petitioner would use the phrase “我們的共識” (translated to: our prior consensus / agreement).
+
+31.  I find the Respondent’s assertion of a prior agreement to sell the Properties to be the more probable and reasonable explanation for the We-Chat messages. For the purposes of this application, I am prepared to accept there was a prior agreement between the parties to sell the Properties. I am also prepared to accept the same was not disclosed in the Petitioner’s affirmation at the ex-parte hearing and at the return date hearing.
+
+32.  Following from the above, I am further prepared to accept the Petitioner knew the Properties were placed on the market for sale prior to January 2022. However, I do not go so far as to find that the Properties were all along intended to be investment properties.
+
+33.  The agreement to sell in itself cannot be automatically equated with the original purpose of the purchase. There is clearly a factual dispute between the parties as to whether the family had ever lived in the Flat during the time when the children were in school in Hong Kong. This is not a factual dispute in which the court can resolved at this stage based on affirmations only. I therefore decline to draw the inference the Properties were all along intended as investment properties based on the acceptance there was a prior agreement to sell.
+
+(ii)  Non-disclosure regarding domicile and/or ties to Hong Kong
+
+34.  In his affirmation, the Respondent deposed the children and the Petitioner have never habitually resided in Hong Kong. He was adamant that it was never the intention of the family to stay in Hong Kong permanently. He argued the Petitioner sought to mislead the court into believing the family intended to stay in Hong Kong permanently and that the Flat was intended to be the matrimonial home.
+
+35.  The Respondent sought to persuade the court the Petitioner never regarded Hong Kong as her habitual place of residence or her domicile based on the following:
+
+1)  The eldest son was rejected by Malvern College in 2018 and never received another offer of a school placement in Hong Kong thereafter.
+
+2)  Though she subsequently withdrew the application, the Petitioner initially filed for divorce with the Shenzhen Law Courts.
+
+3)  The Respondent produced an email sent by the Petitioner to the eldest son’s school (dated 8 June 2021) in which the Petitioner told the school the eldest son had to move back to China due to the father’s work engagements.
+
+36.  The Respondent took out a summons challenging the jurisdiction of this court to deal with the Petitioner’s divorce petition on the basis that none of the parties are habitually resident or domiciled in Hong Kong. The substantive argument is fixed to be heard before myself in March 2023. I therefore do not find it appropriate to make any ruling on the proper domicile or habitual residence of the parties in this decision. These matters will be dealt with in the Respondent’s application relating to jurisdiction.
+
+37.  However, I am required to consider whether there has been non-disclosure of facts on the issue of domicile or habitual residence, and whether the non-disclosure is material.
+
+38.  I note there is no dispute those facts set out in paragraph 35 hereinabove were not disclosed by the Petitioner during the various hearings relating to the Injunction Order.
+
+39.  The pertinent question is whether the non-disclosure is material.
+
+B.  Whether the non-disclosure is material.
+
+40.  Coleman J succinctly sets out the relevant principles on material non-disclosure in the case of Hwang Joon Sang & anor v Golden Electronics Inc and others [2021] HKCFI 2425 (unrep) at paragraph 37 as follows:
+
+“37. The guiding principles on material disclosure are well-established. For present purposes they can be summarised as follows, without reference to previous authority:
+
+(1) An applicant making an ex parte application must act fairly in all material aspects when preparing and presenting the application.
+
+(2) This includes the duty to disclose to the Court all matters which are material, meaning those matters material to the court's assessment and decision whether or not to grant the relief without notice, and if so on what terms.
+
+(3) The test as to materiality is an objective one, and ultimately a question for the court. Hence, it is no excuse for an applicant subsequently to say that he was generally unaware, or did not believe, that the facts were relevant or important.
+
+(4) Non-disclosure may be material even if its effect is just to give a seriously different 'flavour' to the case.
+
+(5) The duty of full and frank disclosure is a stringent one, designed to protect the absent party.
+
+(6) Therefore, if material non-disclosure has occurred at the ex parte application, the order obtained at such an application would likely be set aside automatically without going into the merits.
+
+(7) Nevertheless, there is a discretion to re-grant the same order. That jurisdiction should be only sparingly exercised, taking into account the need to protect the administration of justice and uphold the public interest in requiring full and fair disclosure.
+
+(8) Hence, an assessment will be made as to the degree and extent of the culpability with regards to the non-disclosure. The more serious or culpable the non-disclosure, the more likely the court is to set its order aside and not renew it, however prejudicial the consequences.
+
+(9) It is therefore relevant that the breach was innocent, but there is no general rule that an innocent breach will not attract the sanction of discharge. Nor is there a general rule that a deliberate breach will attract that sanction.
+
+(10) The application of principles which seek to uphold the integrity of the judicial process should not be carried to such lengths as will allow them to become the instrument of injustice.
+
+(11) Because of the penal nature of the jurisdiction, the court should have regard to the proportionality between the punishment and offence.
+
+(12) When exercising the discretion whether to re-grant the order, the court should take into account all relevant circumstances.”
+
+41.  I shall first deal with the non-disclosure of matters purportedly relating to the Petitioner’s domicile and place of habitual residence.
+
+42.  Having considered the affirmation of the parties filed for the purposes of this application, I do not find the non-disclosure of the email, the withdrawn Shenzhen divorce petition, and the rejection of school placement to constitute material non-disclosure.
+
+43.  The said matters are all circumstantial evidence which give no conclusive indication as to the Petitioner’s intended domicile.
+
+44.  In any event, it is clear from the judgment of Hartmann J in B v A [2008] 1 HKLRD 43 that the parties need not show their substantial connection to Hong Kong is their only substantial connection to a jurisdiction.
+
+45.  Hence, even if the matters raised by the Respondent were before the court at the ex-parte hearing, I would have still granted the ex-parte injunction on the basis there was sufficient grounds for the court to exercise its jurisdiction based on the matters deposed in the Petitioner’s affirmation.
+
+46.  I therefore do not accept there was material non-disclosure of matters relating to domicile and/or place of habitual residence.
+
+47.  In so far as there has been non-disclosure of the prior agreement to sell the Properties, I accept the said prior agreement is relevant in considering whether the application was urgent enough to warrant an order be granted on an ex-parte basis. It is also relevant in the court’s assessment of whether in fact the Petitioner’s assertion that the sale of Properties was as sudden as claimed by the Petitioner. Another factor this non-disclosed fact would have bearing on is the appropriate relief that should have been granted at the ex-parte hearing.
+
+48.  By reason of the above, I am satisfied and accept the non-disclosure relating to the previous agreement is a material non-disclosure.
+
+49.  In so far as the Injunction Order mandates the Respondent’s assets be frozen, counsel are in dispute over whether the case of Shipman v Shipman [1991] 1 FLR 250 applies to the present case.
+
+50.  Mr. Yeung argued the present property transaction should be viewed as no more than a normal commercial transaction. He submitted this court is not burdened with considerations that are peculiar in the family context and that in considering whether the injunction should be discharged or continued, such consideration should be made in accordance with the usual principles that govern normal commercial injunctions.
+
+51.  Ms. Lai submitted the Flat is a matrimonial home and that the Properties are matrimonial assets. She argued that in such circumstances, the principles set out in Shipman v Shipman [1991] 1 FLR 250, as followed by Tan Li Hui Cheng v Tan Kian Chee [1997] 4 HKC 94, should apply.
+
+52.  In particular, Ms. Lai sought to rely on the following excerpts from the judgment of Le Pichon J (as she then was) in Tan Li Hui Cheng:
+
+1)  At page 104:
+
+“For the purposes of the present application, it is unnecessary to come to any conclusion as to whether the presumption in s 17(3) has in fact been rebutted. Apart from s 17, the court clearly has inherent jurisdiction to grant injunctions in several proceedings to preserve assets. See the English Court of Appeal decisions of Roche v Roche (1981) 11 Fam Law 243 and Shipman v Shipman [1991] 1 FLR 250. In deciding whether to exercise its inherent jurisdiction, the court is not required to have regard to the many restrictions and safeguards surrounding the use of worldwide Mareva injunction and to assimilate the use of and procedure for injunctions in the Family Division to those in commercial law. In Shipman the learned judge held that the matrimonial field called for a different approach. I respectfully agree.”
+
+2)  At page 106
+
+“In the nature of things, a s 17 application is normally brought on with great urgency and precedes the substantive determination. There is no requirement that an applicant put all facts material to the substantive application before the court in a s 17 application. Indeed such a requirement would pose practical difficulties and defeat the purpose of s 17.
+
+As to the principle of setting aside an injunction because of material non-disclosure, the following passage from the judgment of Slade LJ in Brink’s-Mat Ltd v Elcombe & Ors [1988] 1 WLR 1350 at 1359B-E summarises the position:
+
+Nevertheless, the nature of the principle, as I see it, is essentially penal and in its application the practical realities of any case before the court cannot be overlooked. By their very nature, ex parte applications usually necessitate the giving and taking of instructions and the preparation of the requisite drafts in some haste. Particularly, in heavy commercial cases, the borderline between material facts and non-material facts may be a somewhat uncertain one. While in no way discounting the heavy duty of candour and care which falls on persons making ex parte applications, I do not think the application of the principle should be carried to extreme lengths. In one or two other recent cases coming before this court, I have suspected signs of a growing tendency on the part of some litigants against whom ex parte injunctions have been granted, or of their legal advisers, to rush to the R v. Kensington Income Tax Commissioners principle as a tabula in naufragio, alleging material non-disclosure on sometimes rather slender grounds, as representing substantially the only hope of obtaining the discharge of injunctions in cases where there is little hope of doing so on the substantial merits of the case or on the balance of convenience.
+
+For the purposes of s 17, matters which go to the very heart of the application for financial provision, such as the existence of a legitimate claim or to the respondent’s intent to defeat the application for ancillary relief, would be material. Non-disclosure of a fact relevant to the substantive application but in no way determinative of or having a real bearing on the strength of the plaintiff’s claim is unlikely to be material. Whether it is so would depend on the actual facts.”
+
+53.  Having considered the authorities cited, I am of the view Shipman applies to the present case, but I disagree the application of Shipman means the Petitioner is somehow subject to a more relaxed disclosure rule than that generally required of ex-parte applications.
+
+54.  I have also considered the case of Tan Li Hui Cheng v Tan Kian Chee [1997] 4 HKC 94 and Ms. Lai’s reading of the case. I agree that I am bound by the decision in so far as it reads: “There is no requirement that an applicant put all facts material to the substantive application before the court in a s.17 application.” (own emphasis)
+
+55.  However, I disagree this means that the Petitioner is somehow relieved of providing full and frank disclosure. I agree with the judgments of Mostyn J in the cases of UL v BK [2013] EWHC 1735 and ND v KP [2011] EWHC 457 in that, even in the family context, the duty for full and frank disclosure (especially in ex-parte applications) is an important safeguard to ensure justice.
+
+56.  On a careful reading of Tan Li Hui Cheng, I understand Le Pichon J to mean that it is impracticable and impossible for an applicant to be able to supply the court with “all facts material” relating to a section 17 Matrimonial Proceedings and Property Ordinance (Cap 192) application, that is, the actual application to set aside a transaction. This must be correct given the nature of such applications involve third parties and, more often than not, the applicant knows very little detail of the transaction in the initial discovery of the same. To require the applicant to be able to relay all material facts is impracticable in the preliminary stages when there is probably minimal information. My reading of Le Pichon J’s dictum is that she was merely stating that the applicant is not required or even expected to make a full disclosure of all material facts of or surrounding the substantive application (my own emphasis). Her dictum does not exempt parties from the duty of full and frank disclosure that is generally required in ex-parte applications. In other words, in so far as material facts are known to the applicant at the time of the application, the applicant has a duty to make full and frank disclosure of those material facts known to him/her. The applicant is not entitled to pick and choose which facts he/she wishes to disclose under the disguise of Le Pichon J’s dictum in Tan Li Hui Cheng.
+
+57.  In so far as the Respondent seeks to persuade the court the case of Shipman is distinguishable, I do not accept the sale of the Properties is to be viewed as a normal commercial transaction. Whether or not the Flat was intended to be a matrimonial home or an investment property is irrelevant in the determination of whether it forms part of the matrimonial assets. Once an asset is acquired during the marriage, it is prima facie a part of the matrimonial assets. The sale of such assets is a disposition of matrimonial assets. The presence of an agreement to sell a matrimonial asset does not change the nature of its disposition.
+
+58.  I echo the reasoning of Deputy District Judge KW Wong (as he then was) as set out in the case of C v L [2009] HKFLR 188 at 201:
+
+“62. Shipman v Shipman [1991] 1 FLR 250 was a case concerning a wife suspecting the husband intending to dispose of his severance payment he was expecting to receive, thus defeating her ancillary relief claims. It was found as a fact that the husband had made considerable disclosure and kept the wife informed of his intention with regard to the use of the severance pay. However he refused to give an undertaking having the effect of freezing any part of the severance pay. The wife therefore entertained considerable suspicion that he intended to dispose of the severance pay and made an application for an injunction, which was duly granted by the registrar. The injunction was made pursuant to section 37 of the Matrimonial Causes Act 1973 ("MCA 1973"). The Hong Kong equivalent of this English provision is section 17 of the Matrimonial Causes Ordinance, (Cap 179) ("MCO"). The husband appealed against the registrar’s decision restraining him from disposing of or dealing with a sum amounting to about half of the severance payment. This appeal was dismissed by a single judge of the Family Division in the English High Court.
+
+63. It was held by Lincoln J in Shipman that:
+
+i) the court has an inherent jurisdiction to freeze assets which might be put beyond the reach of the applicant, notwithstanding the enactment of section 37 of MCA 1973 (i.e. section 17 of MCO of this jurisdiction);
+
+ii) the court, when deciding whether to exercise its inherent jurisdiction to restrain the husband, was not required to have regard to the many restrictions and safeguards surrounding the use of worldwide Mareva injunctions and to assimilate the use of and procedure for injunctions in the family court to those in commercial law. The matrimonial field called for a different approach; and
+
+iii) if the injunction is discharged it is possible for the husband to change his intention, however genuine and well-disposed to his wife his present state of mind might be; and if left without a job and new responsibilities, will be faced with a temptation to eat into the whole of the fund.
+
+64. When asked how this case can be reconciled with the principles in Shipman which was upheld in Hong Kong by the learned Madam Justice Le Pichon (as she then was) in Tan Li Hui v Tan Kian Chee [1997] 4 HKC 94. Miss Yip urges this Court to follow Shanks, as it is an English Court of Appeal decision while Shipman is not. However, it is fair to say that as a fall back she does invite this Court to exercise good sense having regard to all relevant circumstances including intention to dissipate before granting injunction otherwise the Court will be invited to grant injunction in each and every matrimonial financial dispute.
+
+65. I think Shanks can be readily distinguishable from Shipman. In Shanks, the Mareva injunction was obtained after (my emphasis) the divorce proceedings and is for the purpose of satisfying a costs order statutorily enforced by a third party. It is not an injunction granted in aid of preserving family assets pending the ultimate judicial determination by the Court as to what proportion of that asset is to be shared or made available to the applicant spouse, as in Shipman. Accordingly, although the Shanks injunction arises in a matrimonial context, it is no different from an ordinary Mareva injunction granted in a commercial context. It is to facilitate the enforcement of a costs order. Furthermore, it has been commented by the learned Master of the Rolls in Shanks that the injunction is breathtaking in its width because by the injunction Mr. Shanks would be prevented from buying his food or having his daily expenses. It has been said by the Master of the Rolls the order was "plainly wrong in this respect", and its dismissal plainly understandable.
+
+66. The Shipman type injunction is meant to ensure that one spouse does not selfishly or irresponsibly salt away family assets which may be in the name of that spouse but which must be carefully preserved, pending final determination of the spouses’ respective ancillary claims. A pragmatic approach is essentially taken in all family cases when exercising its inherent jurisdiction. I consider the approach of Shipman instead of Shanks should be applied to the present case.
+
+67.  Even though the many restrictions and safeguards surrounding the use of commercial Mareva injunctions is not applicable to an injunction in the matrimonial context, that does not mean I need not consider any intention to dissipate. Injunction is an equitable remedy and is an exercise of the court’s discretion. The issue before me is whether after considering all relevant circumstances of the case, I should exercise my discretion to grant the injunction, or to discharge it at this interlocutory stage.”
+
+59.  I am of the view that material non-disclosure does not lead to an automatic discharge of an ex-parte injunction order, especially in the context of family cases. The court must adopt a pragmatic approach and consider, having regard to all the circumstances and the need to preserve matrimonial assets, whether the injunction obtained should nevertheless be granted or continued.
+
+C.  Should the court exercise its discretion to re-grant or continue the injunction.
+
+60.  In considering whether the Injunction Order should be continued or re-granted, I have considered the authorities cited to me by counsel.
+
+61.  I agree that an injunctive relief should not be used as a tool to merely preserve the matrimonial assets. However, I am also wary of the fact the Petitioner makes a proprietary claim on the Properties, of which is being disputed by the Respondent. As I have explained, the court is not in a position at this stage of the proceedings to determine this factual dispute. This dispute can only be determined after the parties’ evidence is tested in a trial hearing.
+
+62.  Even if there was a prior agreement to sell, the Petitioner clearly did not agree to sell at a sum lower than HK$40 million. The Respondent, knowing there was an impending ancillary relief claim in the divorce proceedings, should not have unilaterally entered into the agreement for sale.
+
+63.  Furthermore, I also am of the view that such a restraining order is necessary to prevent any dissipation of matrimonial assets. The Respondent does not deny he distributed the deposit money to his family without the prior consent of the Petitioner. Despite the various submissions made at the return date hearing and the substantive argument hearing, the Respondent remained silent on the deposit money and made no proposals on how such sum could be secured for the purposes of the present proceedings.
+
+64.  I am of the view the actions of the Respondent and the clear dissipation of the deposit money warrants the continuation of the restraining order at Paragraph 2(2) of the Injunction Order.
+
+65.  By reason of the matters set out above, I am of the view it is proper and necessary to grant an injunction to restrain the Respondent from selling the Properties.
+
+66.  Since I am of the view Paragraph 2(2) of the Injunction Order should continue, Paragraph 2(1) is now redundant. I therefore order the discharge of Paragraph 2(1).
+
+COSTS
+
+67.  The Petitioner asks for an indemnity order against the Respondent indemnifying them against the costs of Ms. W.
+
+68.  Having considered the submissions of counsel I refuse the Petitioner’s application for an indemnity order. I agree with Mr. Yeung in that there was no need for the Petitioner to seek to join Ms. W to the proceedings for the purposes of the ex-parte injunction application. At the ex-parte hearing, the Petitioner was clear in that she merely wanted to preserve either the Properties themselves or the proceeds from the sale of the Properties. An injunction sought to restrain the sale of the Properties or to restrain the Respondent from dealing with the proceeds of sale is sufficient to protect the Petitioner’s interest. In either relief, there is no need to join Ms. W.
+
+69.  I therefore refuse the Petitioner’s application for an indemnity order.
+
+70.  In so far as the costs of the Petitioner’s application is concerned, I am of the view that costs should follow the event. I am of the view, whether or not there was a previous agreement, the Respondent should not have entered into the agreement for sale of the Properties without consulting the Petitioner. Moreover, it is clear the Respondent distributed the deposit money to his family members without obtaining the consent of the Petitioner. In such circumstances, the Petitioner cannot be faulted for bringing an application to restrain the Respondent from further dealing with the Properties.
+
+71.  I note that although the Petitioner now abandons Paragraph 3 of the Injunction Order and has unsuccessful in upholding the continuation of Paragraphs 1 and 2(1) of the Injunction Order, I nevertheless regard the Respondent as largely unsuccessful in his application for discharge. This is because the main area of contention and focus of the submissions were on the Petitioner’s material non-disclosure and whether Paragraph 2(2) should continue.
+
+72.  I therefore make a costs order nisi the Respondent to pay the Petitioner’s costs of the discharge application, with certificate for counsel.
+
+73.  Since the Respondent’s discharge application involved multiple hearings before this court and substantial volume of documents were filed for the purposes of the application, I am of the view it is more appropriate to order the costs be taxed if not agreed.
+
+74.  In respect of the costs of the interlocutory Injunction Order, I am of the view that such costs should be reserved to be determined by the trial judge. The factual dispute of whether the Petitioner has a proprietary claim over the Properties will be an issue at trial and the determination of the veracity of the Petitioner’s claim will be determinative of whether the interlocutory injunction was correctly sought. I therefore reserve the costs of the interlocutory injunction to be determined by the trial judge.
+
+75.  I apportion the costs of the argument hearing at 50% to the interlocutory injunction and 50% to the Respondent’s discharge application.
+
+76.  I therefore make the following orders:
+
+1)  Paragraphs 1, 2(1), 3(1) and 3(2) of the Injunction Order be discharged.
+
+2)  Paragraph 2(2) of the Injunction Order be continued until further order from the court.
+
+3)  There be a costs order nisi as follows:
+
+a)  The Respondent do pay the Petitioner’s costs of the Respondent’s summons dated 24 May 2022, with certificate for counsel, to be taxed if not agreed.
+
+b)  Costs of the Petitioner’s Ex Parte on Notice Summons dated 11 April 2022 and the Petitioner’s summons dated 29 April 2022 be reserved to be determined by the trial judge of the ancillary relief proceedings.
+
+c)  Costs of the argument hearing on 31 October 2022 be apportioned at 50% to the Petitioner’s summons dated 29 April 2022 and 50% to the Respondent’s summons dated 24 May 2022.
+
+4)  Unless any party applies to vary the costs order nisi within 14 days hereof, the costs order nisi shall become an order absolute.
+
+ 
+
+ 
+
+ 	( W. Y. HO )
+Deputy District Judge　
+ 
+
+Representation:
+
+Mr. A. Lai instructed by Messrs. Augustine C.Y. Tong & Co. for the Petitioner (YB)
+
+Mr. M. Yeung instructed by Cheung Fung & Hui for the Respondent (LX)
+
+ 
+

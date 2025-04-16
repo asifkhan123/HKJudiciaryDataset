@@ -1,0 +1,146 @@
+CACV 10 /2014
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO. 10 OF 2014
+
+(ON APPEAL FROM HCA NO. 3291 OF 2003)
+
+________________________
+
+BETWEEN
+
+ 	WADDINGTON LIMITED
+(Suing on behalf of itself and all other shareholders in
+PLAYMATES HOLDINGS LIMITED (except the 1st and 2nd Defendants), PLAYMATES INTERNATIONAL LIMITED and PROFIT POINT LIMITED)	Plaintiff
+ 	and	 
+ 	CHAN CHUN HOO THOMAS (陳俊豪)	1st Defendant
+ 	TGC INVESTMENTS LIMITED
+(formerly known as CHANSAM INVESTMENTS LIMITED)	2nd Defendant
+ 	PLAYMATES HOLDINGS LIMITED
+(彩星集團有限公司)
+(formerly known as PLAYMATES INTERACTIVE ENTERTAINMENT LIMITED)	3rd Defendant
+ 	PLAYMATES INTERNATIONAL LIMITED	4th Defendant
+ 	PROFIT POINT LIMITED	5th Defendant
+________________________
+
+Before: Hon Lam VP, Kwan JA and Barma JA in Court
+Dates of Written Submissions: 3 and 23 August and 6 September 2016
+Date of Judgment: 14 October 2016
+________________________
+
+J U D G M E N T
+
+________________________
+
+Hon Kwan JA (giving the judgment of the Court):
+
+1. On 20 May 2016, we handed down our judgment (“the CA judgment”) dismissing D1’s appeal against the judgment of Recorder P Fung on 18 December 2013 in a multiple derivative action brought by Waddington on behalf of Profit Point. We upheld the judgment in favour of Profit Point for $33 million odd.
+
+2. This is D1’s application for leave to appeal to the Court of Final Appeal.  Two questions said to be of great general public importance (“GPI”) are raised in the notice of motion.  D1 also seeks leave to appeal on the “or otherwise” ground in respect of his failed challenge to the judge’s factual findings, but is content to argue this ground when he takes his application to the Appeal Committee.
+
+3. The two questions of GPI concern the holdings in the CA judgment on the “no conflict” duty issue in section C and the causation issue in section D.  It is important to consider these questions in the context of the relevant findings in the CA judgment.  We do not propose to set out the findings, which have been helpfully and accurately summarised by Mr Benjamin Yu, SC for Waddington in §§3 and 4 of his submission.
+
+Question 1: the “no conflict” duty issue
+
+4. Question 1 reads:
+
+“Where F is the fiduciary of B, and there is a benefit or opportunity which comes to F not in his capacity as fiduciary of B (so that the no profit duty is not engaged), but the opportunity could not have been utilised by B because the relevant third party would not deal with B, does the no conflict duty require F to refrain from taking up the opportunity for himself or for a company in which he is interested? Or does the no conflict duty require F to persuade the third party to deal with B?”
+
+5. Mr Bernard Man, SC for D1 would answer “No” to both questions in Question 1.  He submitted the better view is that the “no conflict” duty and the “no profit” duty should be regarded as distinct duties.  In the situation where the beneficiary cannot take up an opportunity, there is simply “no real sensible possibility of conflict” between the interest of the beneficiary and the interest or duty of the fiduciary (applying the test for “no conflict” duty in the statement of Lord Upjohn in Boardman v Phipps [1967] 2 AC 46 at 124A to C), so the “no conflict” duty cannot be engaged.
+
+6. He submitted that Question 1 involves a question of law of GPI as to the nature and scope of the “no conflict” duty, in particular whether it is distinct from the “no profit” duty, and whether the rule established by Keech v Sandford (1726) Sel Cas Ch 61 applies to situations where the “no profit” duty is not engaged.  He said Question 1 also concerns the “precise rationale” for the well-known cases of Industrial Development Consultants Ltd v Cooley [1972] 2 All ER 162 and Bhullar v Bhullar [2003] 2 BCLC 241, and these matters have not been “directly considered” at the appellate level in Hong Kong.
+
+7. Question 1 is formulated on the factual premise that “the opportunity could not have been utilised by B because the relevant third party would not deal with B”.  That indeed was the contention advanced before us by Mr Jat Sew Tong, SC for D1[1].  However no such finding was made in the court below and on appeal we found that “there is no credible evidence that Yugang would not have purchased part of the Prestige shares from Profit Point.”[2]
+
+8. Mr Man relied on the judgment of Tipping J in Everist v McEvedy [1996] 3 NZLR 348 at 355.  The passages he relied on must be read with what followed immediately after and we do not think these passages would support D1’s contention that in any event Profit Point could not have taken part in Yugang’s offer.  We set out the relevant parts at lines 15 to 29 for ease of reference:
+
+“… the defendant may resist the plaintiff’s claim by showing that the plaintiff’s loss would have occurred in any event without any breach on the defendant’s part. … If that can be shown equity should not attribute the loss to the errant fiduciary; for it cannot fairly be said that without the breach the loss would not have occurred. The breach cannot be regarded as causing the loss.
+
+To establish the point the errant fiduciary cannot invite speculation. There must be a proper evidentiary foundation for the conclusion which the Court is asked to draw. Usually the point will be one of inference rather than direct evidence. If so the conclusion sought by the fiduciary must be a fair and reasonable inference from the evidence. The necessary conclusion should be cogent and should not be lightly reached.”
+
+9. We declined to draw the inference as contended by D1, and instead found in favour of Profit Point “there is no credible evidence that Yugang would not have purchased part of the Prestige shares from Profit Point”.
+
+10. In formulating a question of GPI, it is important to avoid raising questions unrelated to the actual circumstances of the case (Dr Leung Shu Piu v Medical Council of Hong Kong [2014] 3 HKLRD 328 at §13).  We agree with Mr Yu Question 1 is formulated on a misconceived factual basis.
+
+11. For the above and these other reasons, we are not minded to exercise our discretion to grant leave to appeal on Question 1.
+
+12. As noted in §62 of the CA judgment, the application of the “no conflict” duty is entirely fact sensitive.  Much would depend on the factual basis in applying the test whether a reasonable man would think there was a “real sensible possibility of conflict” in all the circumstances of the case.  D1 does not contend that any of the established principles applied by this court for determining the existence of a conflict of interest are incorrect.  The contention advanced by Mr Man, as Mr Jat before him, is that there was no conflict because D1 alleged that the opportunity to sell Prestige shares to Yugang was not available to Profit Point.  Even if this court did not apply the established principles correctly, that does not raise issues of GPI albeit it could raise issues of importance to the parties (Esquire (Electronics) Ltd v Hong Kong and Shanghai Banking Corp Ltd, CACV 312/2005, 9 March 2007, at §6).  The answer to Question 1 is fact specific and depends on variable factors in each individual case.  We are not satisfied it raises questions of GPI.
+
+13. As regards the point that the “no conflict” duty and the “no profit” duty are distinct duties, we fail to see how this could have any material bearing to the CA judgment.  It was not argued by Waddington that these duties are not distinct, nor did we decide to that effect.  Our decision quite simply is that in a conflict situation, it would be no answer for a fiduciary to say that the beneficiary could not have obtained the benefit or opportunity[3].  As further submitted by Mr Yu, the mere fact that the beneficiary might not have been able to obtain the benefit or opportunity on its own may sometimes dispel the possibility of conflict, but whether it may do so depends entirely on the specific facts and circumstances of the case.
+
+14. As for the submissions made to us on the well-known cases of Industrial Development Consultants Ltd v Cooley and Bhullar v Bhullar, as well as UDL Holdings Ltd & Anr v Leung Yuet Keung & Anr [2008] 6 HKC 127 and CACV 356/2009, 14 September 2009, we are not persuaded that our analysis of these authorities in the CA judgment[4] is incorrect.
+
+Question 2: the causation issue
+
+15. Question 2 reads:
+
+“Where a beneficiary claims compensation for breach of fiduciary duty in the form of lost profits that he says he would have made on a lost transaction, for the beneficiary to succeed, would it be sufficient simply for him to show that he has lost an opportunity (and then the burden would be on the fiduciary to show that the opportunity would not materialise in favour of the beneficiary)? Or would it be the burden on the beneficiary to show that the lost opportunity would have materialised to his benefit?”
+
+16. This question was mounted on Mr Man’s arguments which ran as follows.
+
+17. He argued that the loss claimed by Profit Point and awarded by the judge was calculated on the basis that D1 should have procured for Profit Point a pro rata share of the Prestige shares to be included in the Yugang sale, and that Profit Point had lost the profits which it would have made on such a sale.  He deduced that the award was for “lost profits” on the basis that “the pro rata sale would have materialised” if D1 had discharged his duty, not on the basis of “a lost opportunity”.  On this premise, this must require a finding that if D1 had discharged his duty, Yugang would have purchased a pro rata share of the Prestige shares from Profit Point, but no such finding was made by the judge.
+
+18. Mr Man submitted the first question in Question 2 should be answered “No” and the second question “Yes”.  So the beneficiary must show not only that he lost an opportunity, but that the opportunity “would have materialised” to his benefit, before the burden would be shifted to the fiduciary to show that the loss would have been suffered even if there was no breach of duty.  In his reply submission, he contended that in considering whether the beneficiary has shown a causal connection for any loss, there must be “a rigorous analysis of any relevant counter-factual” and it is for the beneficiary “to prove what the most likely counterfactual would be … to prove that, on that counterfactual, it would suffer a loss”, with a “precise formulation as to exactly what D1 should have done, and what Yugang, Chansam and Profit Point would have done”.
+
+19. He said Question 2 is a question of GPI as the rules governing causation for breach of fiduciary duties was only first considered in detail in Libertarian Investments Ltd v Hall (2013) 16 HKCFAR 681, and the “precise scope of those rules will benefit from further clarification”.
+
+20. We agree with Mr Yu Question 2 was framed on a misconceived basis.
+
+21. Causation was raised only cursorily in the written closing submission at trial.  In that context, we examined the test for causation applying Libertarian[5], and stressed the importance to focus on the relevant equitable duty, the relevant wrong, the need to identify the scope of the duty breached, and the purpose of the rule imposing the duty[6].  We found as a fact Profit Point had lost the opportunity to sell its Prestige shares to Yugang as a result of D1’s breach of fiduciary duty[7], and we noted that it was not D1’s contention before the judge or on appeal that the compensation awarded should be reduced to reflect the chances of Yugang purchasing from Profit Point but for D1’s breach but it was an all or nothing approach[8].
+
+22. In applying the “but for” test of causation, we took a common sense view with the full benefit of hindsight, that all that is required of the beneficiary is to show that loss or particular aspects of the loss would appear to flow from the breach, citing Libertarian at §§76, 93 and 96.  We found the facts sufficiently compelling to support the conclusion that plainly and apparently, Profit Point would have suffered a loss in being deprived of the opportunity to offer to sell to Yugang its Prestige shares.  We took into account there was no credible evidence that Yugang would not have purchased part of the Prestige shares from Profit Point, and the fact that, but for the disposal of the shares held by Profit Point in the market, it would not have been possible for the Yugang transaction to go ahead in the way it did because if Profit Point had retained its Prestige shares, it would be the recipient of a general offer by Yugang at $2.20 per share[9].
+
+23. In the first submission of Mr Man, it does not appear that D1 seeks to challenge any of the established principles on causation for equitable compensation claims, in particular the less strict approach for dishonest breaches of fiduciary duty.  Insofar as he may have departed from this in his reply submission in advancing the need for “a rigorous analysis of any relevant counter-factual” to prove causation, we do not think this proposition is supported by authority.  The statements he relied on in Kelly v Cooper [1993] AC 205 at 216C to E were made in the context of a factual situation which did not give rise to a breach of fiduciary duty, far removed from the present situation where D1 was held to be in breach of fiduciary duty.
+
+24. The decision we reached on causation was reached on the facts of the case.  No question of law arises, let alone a question of GPI.  Question 2 is in effect an argument that the court did not have evidence or sufficient evidence to conclude that Profit Point’s lost opportunity was apparently caused by D1’s breach.  In Dr Leung Shu Piu v Medical Council of Hong Kong at §13, Bokhary PJ had warned applicants to avoid treating questions of fact as questions of law.
+
+25. Further, the question as formulated pays no regard to the need to focus on the relevant wrong, which we have emphasised.  The relevant wrong of D1 as found by the judge and upheld by us was to cause Profit Point to sell its Prestige shares in the market for the sole or main purpose of preparing for the implementation of what eventually became the Yugang transaction.  But for the disposal of the shares held by Profit Point, it is likely that it would be the recipient of a general offer by Yugang at $2.20 per share.  The question as formulated is unrelated to the actual circumstances of the case.
+
+26. It would not be appropriate to grant leave to appeal on this question.
+
+Conclusion and costs
+
+27. We exercise our discretion to refuse leave to appeal.  We order D1 to pay Waddington’s costs in this application.
+
+28. Waddington has submitted a statement of costs for summary assessment, claiming a total sum of $166,385.  We note the considerable disparity in D1’s statement of costs in the total sum of $932,650.40.  We make a slight reduction of $16,800 and allow $149,585 as costs to be paid by D1 to Waddington.
+
+ 
+
+ 
+
+(M H Lam)
+Vice President	(Susan Kwan)
+Justice of Appeal	(Aarif Barma)
+Justice of Appeal
+ 
+
+Written submissions by Mr Benjamin Yu SC and Mr Justin Lam, instructed by Kao, Lee & Yip, for the Plaintiff (Respondent)
+
+Written submissions by Mr Bernard Man SC and Mr Keith Lam, instructed by K & L Gates, for the 1st Defendant (Appellant)
+
+
+[1] CA judgment, §§61 and 69
+
+[2] CA judgment, §89
+
+[3] CA judgment, §§69 to 71
+
+[4] §§66 to 70, 72
+
+[5] CA judgment, §§78 to 79
+
+[6] CA judgment, §87
+
+[7] CA judgment, §§87 to 88
+
+[8] CA judgment, §88
+
+[9] CA judgment, §§89 to 90
+
+ 
+

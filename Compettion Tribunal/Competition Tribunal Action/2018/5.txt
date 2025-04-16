@@ -1,0 +1,1250 @@
+CTA 1/2018 &
+CTA 2/2018
+
+[2020] HKCT 2
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ACTION NO 1 OF 2018
+
+________________________
+
+BETWEEN
+
+ 	TACHING PETROLEUM COMPANY LIMITED	Plaintiff
+ 	and	 
+ 	MEYER ALUMINIUM LIMITED	Defendant
+________________________
+
+AND
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ACTION NO 2 OF 2018
+
+________________________
+
+BETWEEN
+
+ 	SHELL HONG KONG LIMITED	Plaintiff
+ 	and	 
+ 	MEYER ALUMINIUM LIMITED	Defendant
+________________________
+(Heard Together)
+
+Before:	Hon Au-Yeung J, Deputy President in Chambers
+Dates of Hearing:	10 and 16 January 2020
+Date of Decision:	29 May 2020
+________________________
+
+D E C I S I O N
+
+________________________
+
+A. INTRODUCTION
+
+A1.  Background of the case
+
+1.  By 2 respective High Court Actions, Taching and Shell sue Meyer for outstanding payments for industrial diesel delivered to Meyer.  Meyer’s defence is that Taching and Shell have breached the First Conduct Rule under the Competition Ordinance, Cap 619 (“the Ordinance”) by colluding to (a) fix price; and/or (b) exchange price information (“the Defence”).
+
+2.  The Defence has been transferred to this Tribunal for determination.  It is Meyer’s case that the collusion was evidenced by and/or inferred from:
+
+(a)  6 years’ completely identical pricing behaviour between Taching and Shell, which took the form of 118 pairs of corresponding written notices to effect changes in their respective Current List Prices (“the 118 Pairs of Notices”) issued by them in close proximity in time; and
+
+(b)  The individual pricing behaviour of Taching and Shell was confidential rather than public information and therefore the identical pricing behaviour could not otherwise be explained.
+
+3.  Whilst the issue of the 118 Pairs of Notices is not denied, Taching and Shell deny the allegation of collusion.  They draw the classic distinction in competition law between collusion and conscious parallelism. Taching claims to have determined their Current List Prices by following those of its supplier, Sinopec; whereas Shell claims to have independently and separately determined its Current List Prices without reference to Taching.
+
+4.  Meyer admits that at the pleading stage, it had no basis to suspect that the scope of the collusion had extended beyond Taching and Shell.  However, after discovery, Meyer found what to it was an “alarming” Agreement for Sale and Purchase of Sinopec products dated 5 September 2007 between Taching and its supplier, Sinopec (“Sinopec Taching Agreement”).
+
+5.  Meyer claims that there were 2 provisions in the Sinopec Taching Agreement which gave rise to reasonable grounds to suspect that the collusion involved more participants than just Taching and Shell. 
+
+6.  Meyer therefore seeks to amend its Points of Defence (“Meyer’s PoD”) to include “other suppliers and/or other facilitating third parties” as alleged participants in the collusion (“the Disputed Amendment”).  In line with that, Meyer seeks further and better particulars (“FBP”) of the Points of Response (“PoR”) of Taching and Shell.
+
+7.  In addition, Meyer seeks leave to adduce expert evidence because in denying the collusion, Taching and Shell pleaded that similarity in pricing behaviour can readily be explained by the fact that:
+
+(1)  The industrial diesel market is transparent in that the pricing behaviour of an individual player is accessible by other players in the market; and
+
+(2)  Industrial diesel is a homogenous product and competitors in the market have similar costs structures.
+
+8.  Further, Meyer seeks discovery of unredacted documents from Shell.
+
+A2.  Summonses by Meyer against Taching
+
+9.  There are 4 Summonses taken out by Meyer against Taching on 6 December 2019, seeking:
+
+(1)  Leave to amend Meyer’s PoD dated 19 October 2018 in both CTAs (“Amendment Summons”);
+
+(2)  An order for Taching to provide answers to 2 sets of Requests for Further and Better Particulars (“Taching FBP Summons”);
+
+(3)  Leave to adduce economic expert evidence (“Expert Evidence Summons”); and
+
+(4)  An Order for Taching to file an affidavit stating whether it has, or has had at any time, in its possession, custody or power of certain document(s) (“Discovery Summons”).
+
+10.  In respect of the Discovery Summons, Taching denies having the documents sought.  Meyer and Taching have agreed that no order would be made on that Summons, both in terms of the application and costs.  I make an order accordingly.
+
+11.  Taching opposes the remaining 3 Summonses, broadly for the following reasons:
+
+(1)  The Amendment Summons should be rejected because (i) the proposed amendments introduce a completely new case which is wholly lacking in particulars and is embarrassing; (ii) Meyer has proffered no explanation for the delay in introducing this late change to its case; and (iii) the injustice to Taching is substantial and cannot be justified in the circumstances of this case.
+
+(2)  The Taching FBP Summons should be rejected because (i) the requests are not necessary either for disposing fairly of the cause or matter or for saving costs; and (ii) in any event, Taching has already provided satisfactory answers to the requests and Meyer is not entitled to any FBP.
+
+(3)  The Expert Evidence Summons should be rejected because Meyer has failed to show how the economic evidence proposed may be of real assistance to the determination of the issues in dispute on the parties’ pleaded case.
+
+12.  Taching points out that Meyer’s Summonses are premised on an erroneous understanding of the pleaded cases of both Taching and Shell. In particular, Meyer heavily but erroneously relies on the contention that both Taching and Shell rely on the structure and/or features of the industrial diesel market to explain their parallel pricing behaviour.  In fact, the explanations provided by Taching and Shell for the pricing parallelism are much simpler:
+
+(1)  Taching’s case is essentially that: (i) the initial Net Unit Price[1] for each agreement was negotiated between Taching and Meyer on arms-length basis; and (ii) thereafter, for the relevant contractual term, the Net Unit Price would be adjusted following the price adjustments as announced by Sinopec from time to time.
+
+(2)  Shell’s case is essentially that: (i) the Discount for each relevant period was negotiated between Shell and Meyer on arms-length basis, (ii) during the negotiations on the Discount, Meyer disclosed Taching’s Net Unit Price to Shell as leverage to persuade Shell to match Taching’s Net Price, and (iii) thereafter, for the relevant period, the Current List Price of Shell would be independently reviewed and adjusted from time to time by staff who did not have any direct dealings or negotiations with Meyer or any of Shell’s end-users.
+
+A3.  Summonses by Meyer against Shell
+
+13.  There are 4 Summonses taken out by Meyer against Shell:
+
+(1)  Leave to amend Meyer’s PoD (“Amendment Summons”), the disputed parts of which are the same as the Amendment Summons against Taching;
+
+(2)  An order for Shell to provide further answers to some of Meyer’s Request for FBP of Shell’s Re-Amended Points of Response (“Shell RAPoR”) (“Shell FBP Summons”);
+
+(3)  Leave to adduce economic expert evidence (“Expert Evidence Summons”), along the same lines as that against Taching; and
+
+(4)  Leave to seek unredacted copies of #10-236a and 433 of Shell’s List of Documents dated 11/1/19 (“Shell 1st LOD”) (“Redaction Summons”).
+
+14.  Shell’s position is that:
+
+(1)  With regard to the Amendment Summons, again, only the Disputed Amendments are objected to as: (i) those exceed the permissible scope of Meyer’s defence; (ii) Meyer has demonstrated no factual basis for such extensive pleas; (iii) the pleas are in any event objectionable for their vagueness; and (iv) their inclusion would be inconsistent with the efficient, inexpensive and expeditious disposal of the issues between the parties as is consistent with fairness.
+
+(2)  With regard to the Shell FBP Summons and the Expert Evidence Summons, Shell opposes them on the basis that they are blatant attempts by Meyer to fish for more materials with respect to claims that Meyer has not hitherto pleaded or put forward.
+
+(3)  With regard to the Redaction Summons, there is no basis given the confirmation as well as the explanation given by Shell on oath that the redactions only concern irrelevant materials.
+
+15.  Shell has issued a summons seeking leave to adduce an affirmation of Jessica She, Pricing Manager of Shell.  It was not opposed and I have given leave at the hearing.
+
+16.  I will set out each party’s case on the alleged collusion in more detail and outline the relevant competition law principles before I deal with the Summonses one by one.  
+
+B.  PARTIES’ RESPECTIVE CASE
+
+B1.  Meyer’s Pleaded Case
+
+17.  At all material times, Meyer only had 2 suppliers of industrial diesel, Taching and Shell.  Each of them had a more or less equal proportion of business from Meyer. Indisputably, both had similar pricing mechanisms, which can be summarized as follows:
+
+(1)  Taching’s Net Unit Price (ie the price at which the industrial diesel was delivered to Meyer) was Taching’s Current List Price minus Taching’s Fixed Discount.
+
+(2)  Shell’s Net Unit Price was Shell’s Current List Price minus Shell’s Fixed Discount, and minus Shells’ Fixed Minor Adjustments (such as delivery charge or rebate).
+
+18.  Although Shell had additional components (ie Shell’s Fixed Minor Adjustments), such difference from Taching had no real significance to Meyer because the Net Unit Prices payable by Meyer to Taching and Shell respectively at all material times were exactly identical.
+
+19.  Under the aforesaid pricing mechanisms:
+
+(1)  Both Taching and Shell could change their respective Current List Prices from time to time by giving “adjustment notices” to Meyer.
+
+(2)  As the other components, Fixed Discounts and Fixed Minor Adjustments (in the case of Shell only), would remain constant throughout the relevant contractual period, the amount of adjustments in Current List Prices will be the same as the resulting adjustments in Net Unit Prices.
+
+20.  Meyer did not know how the Current List Prices were actually determined by Taching or Shell.  Meyer was however given to understand that the adjustments of Shell’s Current List Prices were to cater for the fluctuation of the import costs of industrial diesel or international oil prices.
+
+21.  In about May 2017, upon obtaining quotes from another supplier in Hong Kong, Meyer discovered that the then prices charged by Taching and Shell were about double that of the other supplier. 
+
+22.  In its new quotations, Taching almost halved its Net Unit Price overnight from HK$6.15 per litre (6 June 2017) to HK$3.8 per litre (7 June 2017).  Taching’s price further dropped in its next two quotes which were both at HK$3.6 per litre (12 June 2017 and on 15 June 2017). 
+
+23.  Meyer carried out further investigations and discovered parallel pricing in (i) the Net Unit Prices charged by Taching and Shell; and (ii) the adjustments made to the Current List Prices of Taching and Shell between 2011 and June 2017. In those 6 years, out of the 118 Pairs of Notices, 111 were initiated by Shell and 1 by Taching and 6 were by both of them on the same day. Those Notices effected identical changes to their respective Current List Prices either on the same day or very shortly thereafter, after a corresponding change was made by either Taching or Shell.
+
+24.  According to Meyer, the changes specified in the respective written Notices by Taching and Shell were not public information and the striking uniformity in such changes could not be explained by mere coincidence.  The only reasonable inference has been set out in 2 paragraphs in Meyer’s PoD to Taching’s claim:
+
+“13. [Meyer] therefore found out that, at least since 2011, [Taching] and Shell have colluded by way of directly or indirectly fixing, maintaining or controlling their respective Net Unit Prices for the supply of industrial diesel to the Defendant through determining and manipulating their respective [Current List Prices] and/or directly or indirectly exchanging confidential pricing information in order to substitute practical cooperation for risks of competition. [Taching] and Shell had given a false impression that the respective Net Unit Prices charged by [Taching] and Shell at a particular time were independently arrived at when in fact the said figures have all along been agreed upon and/or concerted between [Taching] and Shell beforehand.
+
+…
+
+16. In the premises, [Taching] and Shell have contravened the First Conduct Rule under Part 6 of the Competition Ordinance (Cap 619) (“the Ordinance”) by way of making and/or giving effect to an agreement and/or engaging in a concerted practice of price fixing and/or exchange of pricing information with the object and/or effect of preventing, restricting or distorting competition in Hong Kong.”
+
+25.  I pause to note that although in the High Court Actions, the Defence is limited to the “object” defence, in the Tribunal, Meyer’s PoDs contain an “effect” defence in paragraph 16 without particulars. 
+
+26.  It is not open to a party to allege an effect defence in passing without setting out the relevant conduct alleged to have the effect of restricting competition.  To do so may result in striking out of that party’s claim: Humber Oil Terminals Trustee Ltd v Associated British Ports [2011] EWHC 352 (Ch) at §§45 and 48, Deutsche Bahn AG v Mastercard Incorporated [2018] EWHC 412 (Ch) at §46.[2]  This is not a mere technicality or formality.  Since competition claims are both notoriously burdensome and serious, a respondent is entitled to know what case he has to meet and the issues (if any) which experts can properly address only if the claim is clearly articulated: Sel-Imperial Ltd v The British Standards Institution [2010] EWHC 854 (Ch) at §§17-18.
+
+27.  This is particularly so since the Tribunal has, upon transfer of the Defence, directed that Meyer’s PoD should comply with CTPD1 §§88-89, which required it to “contain not only the material facts relied upon, but also a succinct presentation of the arguments of facts, economics (if applicable) or law supporting the findings and relief sought, so that from the outset the Tribunal and the respondent are apprised of the substance of the case advanced…”.  See Reasons for Decision in CTA 1/2018 dated 12 September 2018, §25.
+
+28.  For lack of particulars, the effect defence shall be disregarded. 
+
+B2.  Taching’s Pleaded Case
+
+29.  Taching was and is a non-exclusive authorized seller of Sinopec. Taching sources industrial diesel from Sinopec and sells it to end customers like Meyer. 
+
+30.  From time to time, Taching received unilateral notices from Sinopec adjusting list prices for Sinopec’s petroleum products.  Upon receipt of such notice, Taching would in turn issue a written notice to Meyer. 
+
+31.  Taching’s case is that it has never discussed, agreed or concerted with Shell on any matter relating to the prices at which each of them would supply industrial diesel to Meyer. At all material times, Taching did not have any information or knowledge about the pricing mechanism between Shell and Meyer or the prices charged by Shell to Meyer.
+
+32.  As to the manner in which its Net Unit Prices and the adjustments to its Current List Prices were determined, Taching’s explanations are that:
+
+(1)  The initial Net Unit Price as set out in paragraph 12(1) above was set after arm’s length negotiation between Taching and Meyer before the commencement of each agreement, which usually began with Meyer’s request for a price reduction.
+
+(2)  After the parties agreed on the initial Net Unit Price for an agreement, the Fixed Discount would remain unchanged during the relevant contractual period, but the Net Unit Price would be adjusted following adjustments to Taching’s List Price from time to time.
+
+(3)  Taching’s List Price was adjusted by reference to, and in the same corresponding amount as, the adjustments made to the list prices of Sinopec. Sinopec’s list prices are published on its website and are therefore public information.
+
+(4)  It was Taching’s independent commercial decision to follow Sinopec’s price adjustments, given that:
+
+(a)  When Sinopec reduces its list price, it is in Taching’s commercial interests to follow in order to maintain its competitiveness with other industrial diesel suppliers, particularly other sellers of Sinopec industrial diesel;
+
+(b)  When Sinopec increases its list price, it is likewise in Taching’s commercial interest to follow so as to cover its increased cost of sourcing industrial diesel from Sinopec.
+
+B3.  Shell’s Pleaded Case
+
+33.  Shell is one of the 4 “oil majors” who supplies industrial diesel in Hong Kong.[3] Like Taching, Shell denies collusion with Taching to fix prices or share pricing information.
+
+34.  Shell’s Current List Prices were determined by reference to its internal policies, set out in the Confidential Annex to Shell’s RAPoR.  Extracts from Shell’s price book evidencing its internal policies and all emails evidencing each adjustment to the List Price and the underlying rationale (“List Price Emails”) have been disclosed.
+
+35.  Shell’s Current List Price was primarily based on its costs of acquiring industrial diesel, and would be reviewed in accordance with established policies by reference to, amongst others, market factors, without reference to Taching.
+
+36.  It was commonplace for the oil majors (including Shell and Sinopec) to make similar or identical changes to their List Price in order to maintain the competitiveness of their product. This explained why the price adjustments to Taching’s List Price (which followed Sinopec’s price adjustments) almost always coincided with Shell on the same day or shortly thereafter.
+
+37.  As for the Discount,
+
+(1)  It was negotiated at arms-length between Shell and each end-user, including Meyer, on a case by case basis.
+
+(2)  In the negotiations over the Discount, Meyer would provide the Net Unit Prices of Taching and use it as leverage to procure Shell to adopt the same Net Unit Prices.  Shell has disclosed the contemporaneous call reports and internal emails evidencing the same.  During the relevant period, there were only three adjustments to Shell’s Discount to Meyer, in 2010, 2012 and 2013.
+
+(3)  Thus, any similarity in the Net Unit Prices charged by Shell and Taching was procured by Meyer’s disclosure of Taching’s price information to Shell.
+
+(4)  As confirmed by the statement of the only witness of Meyer, Meyer had deliberately maintained a more or less equal proportion of purchase from Taching and Shell over the years.  It was also confirmed that in its negotiations with Taching and Shell respectively, it was Meyer who kept Shell and Taching “closely informed of the progress of [its] negotiation with the other supplier” with the result that the respective Net Unit Prices of the two suppliers after such negotiations would invariably be the same.
+
+(5)  Insofar as Shell made an independent commercial decision to adapt to Taching’s price level, that did not constitute anti-competitive collusion.
+
+38.  The reviews of and adjustments to Shell’s List Price were undertaken by designated personnel within Shell who did not have any direct dealings or negotiations with the representatives of Shell’s end-users.
+
+39.  The negotiations on Discounts and changes thereto were undertaken by designated Account Managers (each assigned to and was responsible for specific end-users), who had no involvement in the fixing of the List Price.
+
+40.  Shell’s personnel were expressly prohibited from engaging in direct or indirect discussions with Shell’s competitors or their staff about pricing information.
+
+B4.  Grounds for Meyers’ Summonses
+
+41.  In reliance on the Sinopec Taching Agreement, Meyer suggests that there might be other parties to the collusion.
+
+42.  In reliance on Taching and Shell’s pleadings, Mr Lee, counsel for Meyer, identified 3 issues: the Market Transparency Issue, Similar Costs Issue and Adaption Issue.
+
+43.  Firstly, Shell pleaded that there was transparency in the market with respect to prices:
+
+(1)  In the case of the other oil majors (including Shell), their List Prices were accessible to “other players in the market” through “market sources” (Shell RAPoR, §18.3);
+
+(2)  The determination of the Discount and subsequent changes by Shell would take into account, amongst others, available information derived from “market intelligence” or “otherwise” (Shell RAPoR, §28.3(ii));
+
+(3)  The level of Discounts offered by other players in the market could be “obtained and/or estimated” from published information on, or informal inquiries relating to, public tender exercises for the supply of industrial diesel (which take place regularly) (Shell RAPoR, §29.1);
+
+(4)  Given the transparency in the market, “any information Shell might have had” with respect to the List Prices, Net Prices or Discounts offered by Taching to the Meyer would have been obtained through legitimate sources and channels (Shell RAPoR, §42.1); and
+
+(5)  Due to the transparency of the industrial diesel market in Hong Kong, Shell’s List Price and the Net Price offered to Meyer were accessible to Taching even without direct or indirect communication between Shell and Taching (Shell RAPoR, §3.3(a)).
+
+44.  Meyer does not agree that the market is “transparent”.  Meyer’s case is that any transparency between Shell and Taching over sensitive pricing information was artificially generated as a result of collusion in order to reduce uncertainties in the market. 
+
+45.  Meyer says that Taching and Shell are coy in disclosing:
+
+(1)  The identity of “players in the market” who had access to the relevant sensitive pricing information; and
+
+(2)  The means through which such information was communicated; vague terms such as “market sources”, “market intelligence” and “informal inquiries” are used.
+
+46.  Meyer calls this the “Market Transparency Issue”.  In respect of the Shell FBP Summons, a number of requests for FBP are directed at this issue.
+
+47.  Secondly, Shell has pleaded that industrial diesel is a homogeneous product and the costs structures of competitors are similar.  Thus:
+
+(1)  The industrial diesel products available for sale in Hong Kong are “largely homogenous” (Shell RAPoR, §15); and
+
+(2)  The “underlying cost factors” that affect the List Price pricing decisions of oil majors are similar (Shell RAPoR, §18.1).
+
+48.  While Meyer agrees that industrial diesel is a largely homogenous product, it does not agree that the costs structure of competitors are similar.  As explained in Pang-2nd [4] of Dr Pang, Meyer’s expert economist, Shell and Taching were at different levels of the distribution chain.  Shell was a vertically integrated supplier and Taching a distributor of Sinopec.  Their respective costs were naturally likely to be different.
+
+49.  Meyer calls this the “Similar Costs Issue”.  A number of requests for FBP are directed at this issue.
+
+50.  Thirdly, Shell pleads that:
+
+(1)  Given the similarity in the underlying costs factors and transparency, it was typical to find that after one of the oil majors adjusted its List Price, the other oil majors would make independent commercial decisions to adjust their own List Prices accordingly, often within a very short period of time.  Thus, there was a large degree of uniformity in the changes to the List Prices of the oil majors (Shell RAPoR, §19); and
+
+(2)  Insofar as Shell made a commercial decision to “adapt” to the pricing behaviour of Taching, that did not amount to anti-competitive collusion (Shell RAPoR, §§3.3(b) & 42.2).
+
+51.  As there were 118 Pairs of Notices, Meyer finds it important to know, in respect of those occasions, whether Shell had (and, if so, on which occasions) actually “adapted” to the pricing behaviour of Taching.
+
+52.  Meyer will call this the “Adaption Issue”.  A number of requests were directed at this issue.
+
+53.  Fourthly, Taching pleads that:
+
+(1)  There was transparency in the industrial diesel market in that Shell’s List Prices were accessible to “other players” through market sources and that the adjusted list prices of Sinopec’s petroleum products were public information (Taching’s APoR, §§5(3) & (4)); and
+
+(2)  Any similarities between the Net Unit Prices charged by Taching and Shell could be explained by the structure of the industrial diesel sales market in Hong Kong, which is a “competitive homogenous product market” (Taching’s APoR, §12(9)).
+
+54.  In respect of the Taching FBP Summons, a number of requests are directed at the Market Transparency Issue and Similar Costs Issue. 
+
+C.  RELEVANT PRINCIPLES OF COMPETITION LAW
+
+55.  These principles are taken from the helpful summaries of counsel and largely follow the structure of the written submission of Ms Lam and Ms Xu, counsel for Taching.
+
+C1.  Burden and standard of proof
+
+56.  To establish a contravention of the First Conduct Rule, the burden is on Meyer to prove that Taching and Shell made or gave effect to an agreement, or engaged in a concerted practice, the object of which was to prevent, restrict or distort competition in Hong Kong: s.6 of the Ordinance.
+
+57.  The First Conduct Rule is modelled on Article 101(1) of the Treaty on the Functioning of the European Union (“TFEU”).  EU case law is, in this regard, of “obvious value” to the interpretation and application of the First Conduct Rule: Competition Commission v Nutanix Hong Kong Ltd & ors (“Nutanix”) [2019] 3 HKC 307 at §24, G Lam J, President of the Competition Tribunal.
+
+58.  Mr Lee submits that there is a higher standard of proof under EU law in that infringement of the First Conduct Rule requires proof beyond reasonable doubt.  However, the present case is a civil case and the standard of proof is on balance of probabilities.
+
+59.  Ms Lam, however, draws to my attention that the EU does not distinguish between the civil and criminal standard known to Hong Kong.  EU law applies to UK and UK uses the civil standard.  The applicable standard was discussed in the case of Television Broadcasts Ltd v Communications Authority [2016] 2 HKLRD 41, §§283, 284 & 286, G Lam J:
+
+“283.  In the European Union, the Court of Justice and the General Court approach cases before them on the basis of an “unfettered evaluation of evidence”, unconstrained by the various rules applicable in the national legal systems of member states: see e.g. Case T-348/08 Aragonesas Industrias y Energia v Commission, judgment of 25 October 2011 at §98 and the case law cited. In cases concerning horizontal agreements, the Court of Justice has held that the Commission must produce “sufficiently precise and coherent proof” or “firm, precise and consistent evidence” to support the existence of a cartel: Case 29 & 30/83 CRAM & Rheinzink v Commission [1984] ECR 1679 at §§16-20; Case C-407/08P Knauf Gips KG v Commission [2010] ECR I-6375 at §47. It is however not necessary for every item of evidence to be probative in that way; it is sufficient if the body of evidence as a whole meets that requirement: see e.g. Knauf Gips KG, supra. Nevertheless there must be a sufficient basis for the decision and any reasonable doubt must be for the benefit of the undertaking in question according to the principle in dubio pro reo: see e.g. CRAM & Rheinzink v Commission, supra. The standard required is the same in the case of a vertical arrangement as in respect of a case involving a horizontal agreement: Case C-260/09P Activision Blizzard v Commission [2011] 4 CMLR 964, §71.
+
+284.  While the case law suggests giving the benefit of the doubt to the undertaking concerned, a precise standard of proof in probabilistic terms such as balance of probabilities or beyond reasonable doubt is not a concept espoused by the courts of the European Union, perhaps because such a notion is unfamiliar to continental civil law systems.  The pervasive requirement in those systems is generally that the level of proof must be one that is convincing to the court …
+
+…
+
+286.  In the United Kingdom while it is accepted that a finding of competition law infringement involves the determination of a criminal charge for the purposes of art. 6 of the ECHR, the settled view is that the applicable standard of proof is the civil standard of balance of probabilities. …”  (underline added)
+
+60.  In Hong Kong, for enforcement proceedings initiated by the Competition Commission, the standard of proof is beyond reasonable doubt: Nutanix, §72.  For a defence run in the present case, the standard of proof is on balance of probabilities.  The EU case law on breach of the First Conduct Rule will still be of obvious value to interpretation of Hong Kong competition law, as the standard of proof should not be conflated with what is necessary to establish a contravention of a conduct rule.
+
+C2.  The market in question
+
+61.  There is no dispute that the industrial diesel market is an oligopoly, an industry dominated by a few entities which usually sell homogeneous products.  As there are few sellers in the market, every seller influences the behaviour of the others and vice versa. 
+
+62.  As explained in Whish & Bailey, 9th ed, at p 572:
+
+“Thus the theory runs that in an oligopolistic market rivals are interdependent: they are acutely aware of each other’s presence and are bound to match one another’s marketing strategy; the result is a stable, non-competitive market and price competition is minimal or non-existent.”
+
+C3.  Agreement or concerted practice
+
+63.  An “agreement” is not required to be in any particular form and is not limited to a legally enforceable contract but is defined broadly in s.2(1) of the Ordinance to include “any agreement, arrangement, understanding, promise or undertaking, whether express or implied, written or oral, and whether or not enforceable or intended to be enforceable by legal proceedings”: Nutanix, at §25.
+
+64.  The central component in the concept of agreement is a meeting of minds or concurrence of wills between at least two parties, the form in which it is manifested being unimportant: Nutanix, at §26.
+
+65.  A “concerted practice” is not defined in the Ordinance.  A consistent line of decisions in the EU has held that concerted practice is a form of cooperation, falling short of an agreement, where undertakings knowingly substitute practical cooperation for the risks of competition: Nutanix, at §28.
+
+66.  Whilst each economic operator must determine independently the policy which he intends to adopt on the market, this does not deprive undertakings of the right to adapt themselves intelligently to the existing and anticipated conduct of their competitors.  However, it does preclude any direct or indirect contact between such operators, the object or effect whereof is either to influence the conduct on the market of an actual or potential competitor or to disclose to such a competitor the course of conduct which they themselves have decided to adopt or contemplate adopting on the market: Nutanix, at §29.
+
+67.  Reciprocal contact between the undertakings in question is implied in the concept of concerted practice in the sense that there is an element of acting in concert “where one competitor discloses its future intentions or conduct on the market to another when the latter requests it or, at the very least, accepts it …”: Nutanix, at §30.
+
+68.  The definition of agreement and concerted practice are intended “to catch forms of collusion having the same nature which are distinguishable from each other only by their intensity and the forms in which they manifest themselves”. The two concepts are not synonymous and have partially different elements but are not mutually incompatible: Nutanix, at §34.
+
+C4.  Information exchange
+
+69.  In order to establish a concerted practice in the context of information exchange, the applicable law in the EU requires:
+
+(1)  “Discussions” or “reciprocal contacts” involving disclosure of strategic information ie information that eliminates or substantially reduces strategic uncertainty as to a competitor’s conduct on the market;
+
+(2)  Between two or more actual or potential competitors;
+
+(3)  Subsequent conduct on the market; and
+
+(4)  A relationship of cause and effect between the discussions and that conduct.
+
+70.  Information exchange between competitors can constitute a concerted practice if it reduces strategic uncertainty in the market.  This is because it reduces the independence of competitors’ conduct on the market and diminishes their incentives to compete: Horizontal Cooperation Guidelines of the EU Commission, §61.
+
+71.  The Commission in Hong Kong adopts a similar position in its Guideline on the First Conduct Rule (27 July 2015) (“FCR Guideline”), §§6.39-6.40.
+
+72.  Exchange of competitively sensitive information such as an undertaking’s planned prices or planned pricing strategy between competitors is likely to be concerted practice in circumstances where: (a) the information is given with the expectation or intention that the recipient will act on the information when determining its conduct in the market; and (b) the recipient does act or intends to act on the information.  See FCR Guideline §2.28.
+
+73.  FCR Guideline §§2.29-2.30 explains to similar effect that:
+
+(1)  Without a legitimate business reason for an information exchange of this kind, the Commission will likely infer from the information exchange that the party providing the relevant information had the requisite expectation or intention to influence a competitor’s conduct in the market: §2.29.
+
+(2)  Similarly, absent a legitimate business reason for taking receipt of the information exchanged or other evidence showing that the recipient did not act or intend to act on the information when determining its conduct in the market, the Commission will likely infer that the recipient undertaking acted on or intended to act on the information exchanged: §2.30.
+
+74.  Exchange of publicly available information that is equally accessible in terms of the cost of access to all competitors and customers is unlikely to contravene the First Conduct Rule.  Information which is more costly to obtain for parties not affiliated with the information exchange because they would need to gather and collate the information is unlikely to be considered truly public. The fact that information could have been gathered from a customer does not mean that the information is publicly available: FCR Guideline §6.48; EU Horizontal Cooperation Guideline §§92-94.
+
+75.   Depending on the facts of the case, the possibility of finding a concerted practice cannot be excluded, for example in a situation where an announcement by an entity was followed by public announcements by other competitors. This is not least because strategic responses of competitors to each other’s public announcements could prove to be a strategy for reaching a common understanding about the terms of coordination. See EU Horizontal Cooperation Guidelines, §63.
+
+76.  As to subsequent conduct on the market, it was held in Nutanix, at §33 that:
+
+“In order to prove a concerted practice, it is not therefore necessary to show that the competitor in question has formally undertaken to adopt a particular course of conduct. It is sufficient that, by its statement of intention, the competitor should have eliminated or, at the very least, substantially reduced uncertainty as to the conduct to expect of the other on the market.”
+
+77.  As regards a relationship of cause and effect between the discussions and the subsequent conduct, the presumption must be that the undertakings taking part in the concerted action and remaining active on the market take account of the information exchanged with their competitors for the purposes of determining their conduct on that market, especially where the undertakings concert together on a regular basis over a long period: Case C-199/92P, Huls AG v Commission, EU:C:1999:358, §162.
+
+78.  It is for the undertaking to rebut the presumption and to prove that the concertation did not have any influence on its own conduct on the market: Huls AG, §§162 & 167.
+
+C5.  Object restriction
+
+79.  The Ordinance provides:
+
+(1)  S.7(1): If an agreement or concerted practice has more than one object, it has the object of restricting competition if one of its objects is to restrict competition.
+
+(2)  S.7(2): An undertaking may be taken to have made or given effect to an agreement or to have engaged in a concerted practice that has as its object the restriction of competition, even if that object can be ascertained only by inference.
+
+80.  Price fixing constitutes, by its very nature, a restriction on competition by object: Competition Commission v W. Hing Construction Co Ltd & Ors (“W. Hing”) [2019] 3 HKC 486 at §137, G Lam J.
+
+81.  So is exchange of information between competitors in private on their future individual intentions or plans with respect to price or other information of commercial or strategic significance FCR Guideline, §§2.28, 6.40; Joined Cases T-202/98, T-204/98, and T-207/98 Tate & Lyle [2001] ECR II-2035, §58; Case T-1/89 Rhone Poulenc v European Commission, EU:T:1991:56, §§122-124.
+
+82.  If an agreement is a restriction by object, it is not necessary to consider its effect on competition: Nutanix, §382; W. Hing, §§98-106; FCR Guideline, §3.3.  Whilst in an “object” assessment the agreement has to be seen in its context, the requisite assessment for an object case is to be distinguished from an “effect” investigation.  The latter is based on an extensive market analysis which is not required for an assessment of the existence of a restriction by object.  Nor is it necessarily required in an object case to define the market: Nutanix, §§384 & 388.
+
+83.  As explained by G Lam J in W. Hing at §108:
+
+“Paying regard to the legal and economic context of the agreement as referred to in Cartes Bancaires at §53 is, however, to be distinguished from an effects analysis. To conflate the two would undermine the benefits and defeat the purpose of proscribing restriction of competition by object in the first place. As AG Wathelet stated in §67 of his opinion in Case C-373/14P Toshiba Corporation v Commission, the economic and legal context ‘is there to assist the authority responsible for examining the alleged restriction by object to understand the economic function and the real significance of the agreement’. What is required is an examination of the agreement in its proper context in order to ascertain whether it amounts to a restriction by object. It does not involve a full examination of market effects or any balancing of pro- or anti-competitive effects: Agents’ Mutual Ltd v Gaxcoigne Halman Ltd [2017] CAT 15, §149.”
+
+C6.  Parallel conduct
+
+84.  Parallel conduct in itself is not illegal.  The prohibition of anti-competitive collusion does not deprive economic operators of the right to adapt themselves intelligently to the existing and anticipated conduct of their competitors.  It is well established that, in the absence of evidence on explicit concertation, parallel conduct could not be regarded as furnishing proof of concertation unless that collusion constituted the only plausible explanation for such conduct.  See Joined Cases C-89/85, etc, Ahlstrom Osakeyhtio v Commission of the EU [1993] ECR I-1307 (“Wood Pulp II”), §71; FCR Guideline, §2.31.
+
+85.  Where an applicant relies solely on undertakings’ parallel behaviour as proof of concertation, it must address any alternative explanations advanced by the firms of that behaviour and demonstrate why they are implausible: Case T-442/08, CISAC v European Commission, EU:T:2013:188, §§101-102 & 132-133.
+
+86.  Mr Lee disputes this as akin to the criminal standard of proof.  This being a civil case, the civil standard of balance of probabilities should apply.
+
+87.  I disagree.  The standard of proof on balance of probabilities applies to the Defence, but it should not be conflated with the necessary elements to establish concertation or disapply the principles set out in paragraphs 84 and 85.
+
+88.  Wood Pulp II and Cases 48/69 etc ICI v Commission [1972] ECR 619 (“Dyestuffs”) are cases where the EU Commission attempted to prove the existence of a cartel largely on the basis of economic data. Since then the EU Commission has not relied solely on economic data or market conduct in proof of a cartel as, in the absence of other evidence, the economic activity can usually be given a different explanation.  See: Faull & Nikpay, The EU Law of Competition (3rd ed), §§8.512-513, Bishop & Walker, The Economics of EC Competition Law (3rd ed), §§5-029 to 5-031.
+
+D.  CORE ISSUES
+
+89.  The pleaded case of Meyer is that the collusion took the form of fixing Net Unit Prices and exchange of information in private between Taching and Shell who were competitors.  Price fixing and exchange of information in private were, by their nature, a restriction on competition by object.  The only pleaded collusive conduct was the parallel conduct of Taching and Shell in making identical adjustments to their respective Current List Prices, which resulted in identical Net Unit Prices they charged Meyer in 118 instances. This is confirmed with the benefit of Meyer’s witness statements.
+
+90.  Accordingly, as pleaded,
+
+(1)  It was a two-party collusion.  No other market players were involved, be they oil majors or otherwise.
+
+(2)  There is no allegation of any communications or reciprocal contacts between Taching and Shell.
+
+(3)  The only pleaded basis for the alleged collusion remains unchanged in the Disputed Amendments, notwithstanding completion of extensive discovery and the exchange of detailed witness statements from all parties.
+
+(4)  The alleged significant differences between the Net Unit Prices charged by Taching and Shell, as compared to that of another supplier is not itself a matter relied upon by Meyer as collusive conduct.  It was only what led Meyer to investigate and discover the alleged collusion.
+
+91.  Taching and Shell have each denied collusion and given their respective explanations for the similarity in pricing. 
+
+92.  Accordingly, at the trial, the core issues are:
+
+(1)  Absent explicit concertation such as discussions and reciprocal contacts between Taching and Shell, whether the similarity in pricing gave rise to no other plausible explanation but collusion between two entities – Taching and Shell;
+
+(2)  In respect of Taching, whether (a) its Net Unit Price was the subject of arms-length negotiation with Meyer; and (b) Taching simply followed the adjustments in Sinopec’s List Prices; and
+
+(3)  In respect of Shell, (a) whether the similarity in Net Unit Prices with Taching was engineered by Meyer in using Taching’s List Prices as leverage against Shell; and (b) the adjustments in Shell’s List Prices were independently and internally determined by Shell without reference to Taching.
+
+These are matters of fact.
+
+93.  Meyer has framed 3 other issues for the Tribunal’s consideration - the Market Transparency Issue, Similar Costs Issue and Adaption Issue.  As will be further demonstrated in Section G on the Expert Evidence Summonses, those 3 Issues are mis-characterization of the core issues and are not the true focus of this litigation.
+
+E.  THE AMENDMENT SUMMONSES
+
+94.  Order 20, rule 5 of the Rules of the High Court (“RHC”) applies to the amendment of pleadings in competition proceedings: CTR, rule 57(3).
+
+95.  Amendments are allowed “for the purpose of determining the real question in controversy between the parties to any proceedings or of correcting any defect or error in any proceedings”: Hong Kong Civil Procedure 2020, Vol 1, §20/8/6.
+
+96.  Leave is readily granted to amend before the trial unless it can be demonstrated that the new claim based on the proposed amendment is bound to fail.  While the Court is entitled to have regard to the merits of the case, it should only do so when the merits are readily apparent, and are so apparent as not to require prolonged investigation: Natamon Protpakorn  v Citibank [2009] 1 HKLRD 455, at §§25 & 26, CA.  In that case, the original statement of claim had been struck out.  The CA held that it was a drastic measure to drive the plaintiff from the judgment seat even before it had the chance to put forward its case at the trial.  This could only be done in plain cases.  Whilst this principle was usually stated in the context of striking out applications, it was held to be equally appropriate where leave to amend was objected to in that case.
+
+97.  A party seeking to amend its pleading has the obligation to put forth particularized amendments.
+
+“As regards particulars, in my view, it is no answer to an objection that a proposed amendment lacks particulars, to say that particulars can later be given. Of course, if a pleading lacks particulars, particulars can be asked for in the usual way and ordered by the Court if necessary, but where an amendment is applied for it would be an unusual case where the Court would consider it appropriate to allow an amendment to be made which lacks particularity, and might cause embarrassment.” Perak Pioneer Limited v Carrian Holdings Limited (unreported, CACV 59/1985, 13 June 1985), Fuad JA, at p 5
+
+98.  This requirement for properly particularized amendments is all the more important for the applicant where amendments to plead a new case are introduced at a late stage.  That party has the obligation to put forward an amended text which itself satisfies to the full the requirements of proper pleading.  It should not be acceptable for the applicant to say that deficiencies in the pleading can be made good from the evidence to be adduced in due course, or by way of further information if requested, or as volunteered without any request.  The opponent must know from the moment that the amendment is made what the amended case that he has to meet is, and with as much clarity and detail as he is entitled to under the rules: Swain-Mason v Mills & Reeve LLP [2011] 1 WLR 2735, §73; followed in Highfit Development Co Ltd v Koo Siu Ying (unreported, HCA 494/2015, 9 August 2017), §30, A Chan J.
+
+99.  It is an abuse of process to bring a claim without a solid foundation in the hope that something will turn up in the course of the proceedings, eg at the stage of discovery or on cross-examination: New China Hong Kong Group Ltd v Ng Kwai Kai Kenneth, HCA 519/2010, 11 February 2011, at §70, Fok JA (sitting as additional judge of the CFI).
+
+100.  In the context of competition cases, the later an application for amendment is made since the 1st CMC, the less likely the Tribunal will grant it.  This is because the Tribunal encourages active case management and having the parties put all cards on the table as early as possible.
+
+101.  The 2 Amendment Summonses can be considered together.  Both Taching and Shell do not oppose the majority of the amendments, which are minor and/or clerical in nature.  The Disputed Amendment is this proposed plea:
+
+“at least since 2002, the Plaintiff, Shell and/or other suppliers and/or other facilitating third parties have colluded by way of directly, fixing, maintaining or controlling their respective Net Unit Prices for the supply of industrial diesel in Hong Kong …”
+
+102.  The Disputed Amendment is said to have arisen from the Sinopec Taching Agreement, which provided as follows:
+
+“6.  [Sinopec]鼓勵[Taching]積極開拓發展市場, 擴大銷量, 並在可能範圍內盡量予以支持配合, 但在開拓發展市場的過程中, [Taching]應與[Sinopec]保持密切聯繫， 並與[Sinopec]其它經銷商和銷售商協調。
+
+……
+
+“10.  [Sinopec and Taching] 應對市場動態，競爭等情況保持緊密聯繫，並共同研商有關銷售問題。乙方應聽取和接納[Sinopec]有關銷售之合理意見。(underline added) ”
+
+103.  Based on the 2 clauses, Meyer seeks to plead an alleged “wider collusion”.  Mr Lee submits that, on the face of the Sinopec Taching Agreement, contrary to Taching’s assertion that it had a free will in determining the prices, Taching was contractually obliged to: 
+
+(a)  Closely liaise not only with Sinopec but also with fellow retailers/resellers in respect of market development, and most alarmingly “competition situation”;
+
+(b)  Listen to and accept Sinopec’s reasonable opinion on sales; and
+
+(c)  Coordinate with Sinopec’s resellers and dealers in respect of sales development.
+
+104.  Taching, Sinopec and Sinopec’s resellers and dealers were clearly competitors in the relevant market.  Mr Lee submits that the law is very skeptical about any contact (direct or indirect) between competitors relating to sensitive information.
+
+105.  A copy of the Sinopec Taching Agreement was provided to Meyer by Taching on 14 February 2019.  Meyer has not explained why it has taken 10 months since discovery of that Agreement to file the Amendment Summonses.  Even if it was because Meyer had wanted to see the witness statements of Taching first, the Amendment Summons was still taken out 3 months after witness statements were exchanged on 4 September 2019 and after the third CMC on 15 November 2019.
+
+106.  No milestone date would be disturbed but the case would have been ready for setting down for trial but for the present Summonses. Given the discovery and witness statements exchanged, Meyer’s delay was not excessive.  If the Disputed Amendment is a meritorious plea arising from new facts known from discovery, I will give leave to amend.  The trouble is that it is not.
+
+107.  Firstly, the Sinopec Taching Agreement is not even pleaded in the Disputed Amendment. 
+
+108.  Secondly, the Disputed Amendment introduces a new case of a “wider collusion” not only between Taching and Shell but also among a number of unidentified “other suppliers” and “third parties”, and not only to fix prices but to develop the market.  This contradicted Meyer’s own evidence in the witness statement of Chan Pui Wan that the collusion was between Taching and Shell only (§§6, 90-93).
+
+109.  Thirdly, the Disputed Amendment does not provide even basic particulars as to the form of the alleged agreement and/or concerted practice, and when that agreement was entered into.
+
+110.  As shown in Mr Lee’s written submission, a cartel can take different forms – a direct agreement between 2 or more parties, concerted practice between undertakings involving exchange of commercially sensitive information between competitors, implementation of decisions of associations of undertakings, single overall cartel agreement and hub-and-spoke agreement whereby information is exchanged indirectly via a common supplier/retailer, and acting through a third party facilitator, to name a few.  Meyer should have given particulars as to whether the wider collusion took one of these forms.
+
+111.  Fourthly, it is unclear who the parties to the wider collusion were and their respective roles.
+
+(a)  Shell was not a party to the Sinopec Taching Agreement.  Nor was it a Sinopec retailer/reseller.
+
+(b)  Clause 6 arguably might involve coordination of retailers/resellers of Sinopec in the process of developing the market for Sinopec’s products.  Again, Shell was not a party.
+
+(c)  Clause 10 did not concern the retailers/resellers of Sinopec at all, only Sinopec and Taching.  There was no obligation on Taching to consult Sinopec on prices.
+
+112.  Fifthly, disclosures of actual or likely retail prices, profit margins and wholesale prices or terms of sale by a customer to its supplier is not necessarily unlawful.  Something more is required to found anti-competitive behaviour:
+
+“Disclosures of actual or likely retail prices by a customer to its supplier are often part of normal commercial dialogue. Suppliers may be better informed about the suitability of a particular retail price point, both in absolute terms and relative to the products of other suppliers, than a retailer. A supplier may be legitimately concerned that, without that information, the retailer will incorrectly position the supplier’s goods in the market and that the supplier will be unable to negotiate appropriate cost prices. Bilateral, vertical discussions between a supplier and its customer in relation to matters such as “actual or likely retail prices, profit margins and wholesale prices or terms of sale” may be necessary and, therefore, permissible. However, competition law concerns may arise where a retailer discloses such pricing information to its supplier, which uses it for anti-competitive purposes such as by disclosing it to other retailer-customers. This can amount to the knowing substitution of practical cooperation for the risks of competition by the retailers. See Tesco Stores Ltd & ors v Office of Fair Trading [2012] CAT 31, §59 (in the context of a hub-and spoke agreement).
+
+113.  In the present case, clauses 6 and 10 did not refer to price fixing or exchange of pricing information.  Meyer has not explained how clauses 6 and/or 10 went beyond normal commercial dialogue or suggested a wider collusion.
+
+114.  Sixthly, the Disputed Amendment still rely on the 118 Pairs of Notices for an inference to be drawn in support of the Disputed Amendment.  It is of course permissible for the Tribunal to draw inferences from a number of coincidences and indicia which, taken together, may, in the absence of another plausible explanation, constitute evidence of infringement of the competition rules:  Aalborg Portland v Commission, Joined Cases C-204/00P, etc [2004] ECR I-123 at §§55-57 and Case T-348/08 Aragonesas Industrias y Energia, SAU, v European Commission ECR II-7583 at §97.  However, one wonders how such inference could be drawn when it is not even pleaded (and the 118 Pairs of Notices do not show) that the other suppliers and/or third parties were parties to those Notices.
+
+115.  It can thus be seen that the Disputed Amendment fails to meet the requirements of pleading and does not, on its face, support a plea of wider collusion involving anti-competitive conduct.
+
+116.  Mr Lee accepts that Meyer only has a suspicion and is unable to say who were involved.  He seeks to justify the Disputed Amendment by the fact that Meyer, being the victim, was not privy to the detailed composition, structure and internal working of the cartel.  Such information would only be known among the cartelists.  As a result of such disparity of knowledge, it is unrealistic to expect the victim to plead its case with full particulars at the outset. Instead, it is usually the case that the applicant will only be able to amend and supplement his pleading after discovery of facts and evidence from the alleged cartelists.  Mr Lee even says that he could not give particulars.  If Taching and Shell gave him names of the cartelist, he could give particulars.
+
+117.  This line of submission simply shows Meyer’s abuse of process in trying to fish for evidence to plead a new case: New China Hong Kong Group Ltd, above. A private litigant like Meyer does not have the wide powers of the Competition Commission to compel disclosure under Part 3 of the Ordinance.  It must plead its case properly.  The Tribunal has directed pleadings to be filed in the present cases.  That a cartel is difficult to establish does not relax the pleading requirements as in any civil action.
+
+118.  Mr Lee submits that it is completely “normal” to plead alternative cases.  He relies on Nokia Corporation v AU Optronics Corporation [2012] EWHC 731 for the proposition that when determining whether a cause of action has been sufficiently pleaded, the Court would generally allow “a measure of generosity in favour of a claimant” (at §67).
+
+119.  It is of course permissible to plead alternative cases.  However, without disrespect, Mr Lee has misread Nokia.
+
+120.  In that case, both the US Attorney General and the EU Commission had investigated a cartel of manufacturers of LCDs who maintained the prices of mobile phone LCDs at an artificially high level.  Civil legal proceedings had been commenced in the US by various claimants against those cartelists, including the defendants.
+
+121.  Nokia issued its claim form in 2009 against a wide range of alleged cartelists for losses in connection with purchases of LCDs incurred as a result of the defendants’ infringement of the predecessor of Article 101 of TFEU.  The Particulars of Claim (P/C) referred to the EU Commission’s investigation, with the obvious intention of pleading any relevant finding of breach of Article 101 by the Commission, and making a follow-on action by Nokia.  The P/C also pleaded stand-alone claims so that if there was no relevant finding by the Commission, Nokia would establish the breach of the Article itself (§20). The claim was stayed by consent pending the outcome of the EU Commission’s investigation. (§21)
+
+122.  The EU Commission released a decision publicly in 2011 but did not deal with possible infringement of Article 101 in respect of small LCDs for mobile phones.  Accordingly, Nokia did not have a follow-on claim, but a stand-alone claim.  The defendants sought to strike out the latter. (§22)  Nokia sought leave to file an amended P/C (“APC”), which made reference to materials disclosed in the US proceedings.  The case was refined so as not to maintain a case of entry by the defendants into a price fixing agreement but exchanges of information on prices with a view to charging higher prices to customers.
+
+123.  At issue was whether the amendments were the same causes of action as in the P/C; or were they a new claim which needs to be launched and served afresh on defendants out of the jurisdiction, in which case there may be a limitation issue.
+
+124.  Sales J dismissed the striking-out application and allowed the amendments, holding that the amendments did not introduce a new claim.  Sales J noted an inevitable tension between ensuring that claims were fully pleaded to enable a defendant to know what case he had to meet, and ensuring that a claimant was not prevented by overly strict rules of pleading from introducing a viable claim but which would be shut out by the law of limitation if the claimant was forced to wait until he had full particulars before launching a claim.  (§62)
+
+125.  It was in the context of working out that tension that Sales J made the remarks now relied on by Mr Lee:
+
+“67. In my judgment, the availability of such procedural protections for a defendant to ensure that a claim is fully and properly explained in good time before trial (as against the possible loss to a claimant of an entire, potentially meritorious claim), indicates that in resolving the tension referred to above and determining whether a cause of action has been sufficiently pleaded in a statement of case (particularly in the claim form and/or the particulars of claim when an action is commenced), the balance is to be struck by allowing a measure of generosity in favour of a claimant. Such an approach is appropriate and is in the overall interests of justice and the overriding objective set out in CPR Part 1.1….” (underline added)
+
+126.  That “measure of generosity” was given by Sales J in salvaging the claim and an unspecific P/C made at an early stage.  The decision was made after considering the initial stay of proceedings by consent, the possible expiry of limitation period of the claim and the now fully pleaded APC. 
+
+127.  Hence Nokia is not authority for the proposition that a victim to a cartel can enjoy relaxed principles on pleadings or cannot plead alternative cases.
+
+128.  The applications for striking out in Nokia appeared to be at the pleading stage, but with the benefit of discovery in US proceedings.  The situation of Meyer is different in that there have been full discovery and exchange of witness statements.  The Disputed Amendment still lacks particulars.
+
+129.  Even if Mr Lee is correct in submitting that the Tribunal would allow a measure of generosity in favour of the claimant, Taching and Shell have challenged the lack of particulars.  In paragraph 21 of Meyer’s 2nd Reply Submissions, Mr Lee submits that if a request for particulars is indeed made (which Meyer submits is unnecessary), Meyer will give “voluntary particulars” about the Sinopec Taching Agreement as the basis of the possible wider collusion.
+
+130.  With respect, a litigant should not hold the particulars up his sleeve until pressed to provide them.  This only further demonstrates the abuse of process in Meyer. It also contradicts Mr Lee’s oral submission that he is unable to give particulars (paragraph 116 above).
+
+131.  For the reasons given in this Section, I have no hesitation in dismissing the Disputed Amendment as abuse of process.  The rest of the minor/clerical amendments are allowed as agreed.
+
+F.  TACHING FBP SUMMONS
+
+F1.  Legal principles on ordering further and better particulars
+
+132.  Principles in relation to the power to order particulars under O.18 r.12 of RHC are equally applicable to Tribunal proceedings in which the parties have been directed to file pleadings: CTPD1 §25(b).
+
+133.  The relevant principles are summarized in Million Decade Ltd v Tung Fai (unreported, HCA 1062 and 1660/2013, 20 April 2016), at §§24-27, DHCJ M Ng (as she then was). 
+
+(1)  Pleadings should clearly elicit the issues to enable the other side to know what case he is going to meet and to marshal the required evidence to meet such case, and FBPs are to facilitate this so as to eliminate surprise and achieve fair and open litigation between parties.
+
+(2)  Order 18 rule 12(3B) provides that FBP should not be ordered “unless the Court is of the opinion that the order is necessary either for disposing fairly of the cause or matter or for saving costs”.  This highlights the emphasis on procedural economy, proportionality and cost-effectiveness in the post-CJR culture that encourages parties not to engage in interlocutory skirmishes over FBP unless there is a genuine need to clarify the opposite party’s case to ensure fairness and to avoid cost-wasting.
+
+(3)  It is inappropriate to make requests for FBP with a view to cross-examine the other side or to expose some weaknesses of the pleaded case of the other side.
+
+134.  O 18, r 12(3B) was a new rule introduced by the CJR to implement Recommendation 34 of the Final Report of the Chief Justice’s Working Party on CJR.  The Working Party stated as follows, at §§268-269:
+
+“As between themselves, the parties ought to have leeway to request, by correspondence, such further and better particulars of each other’s pleadings as they consider desirable. However, where voluntary particulars are refused, applications to the court for particulars to be ordered should only be launched where there is a genuine need for clarification of the nature of the other side’s case in order to ensure fairness or to avoid wasting costs. Attempts should also be made to schedule any such applications to be heard at general directions hearings rather than as specific pieces of satellite litigation.
+
+As emphasized in McPhilemy v. Times Newspaper Ltd [1999] 3 All ER 775, given the modern practice of requiring witness statements, expert reports and so forth to be exchanged, satellite litigation merely to clarify pleadings is seldom necessary.  A pleading which conveys the nature of a party’s case, stating the material facts, should not attract an application for particulars even if certain details (which are peripheral or likely to emerge in the usual course) are not disclosed.  … unnecessary applications should attract appropriate costs sanctions.”
+
+135.  It is for the applicant for FBP to satisfy the court that the order is necessary either for disposing fairly of the cause or matter, or for saving costs. It is not enough for him to merely show that the particulars requested are relevant: Well Joint Trading Ltd v Chiu Chung Chiu & ors (unreported, HCA 1768/2011, 9 July 2012), §17, per DHCJ Au-Yeung (as she then was).
+
+F2.  Analyses of First Requests of Taching's APoR
+
+136.  Taching’s position is that the FBP Summons should be dismissed because:
+
+(1)  The requests are not necessary either for disposing fairly of the cause or matter or for saving costs; and
+
+(2)  In any event, Taching has already provided satisfactory answers to the Requests and Meyer is not entitled to any more.
+
+137.  All of these requests can be considered together, as they are premised on the same grounds.
+
+138.  Requests 9-10 concern paragraph 7(4)(a) of Taching’s PoR:
+
+“… The Current List Price specified in the relevant agreement was determined independently by the Plaintiff, having regard to commercial considerations including the cost of sourcing industrial diesel from Sinopec, as well as operating costs such as the costs of maintaining the two storage tanks installed at the Defendant’s factory, the costs of maintaining diesel tank trucks, hiring drivers experienced in transporting dangerous goods, office rental, insurance and staff etc.” (underline added)
+
+139.  Requests 11-12 concern paragraph 7(4)(b) of Taching’s PoR:
+
+“… The Fixed Discount was negotiated between the parties on an arm’s length basis, having regard to various factors including the estimated quantities to be ordered by the Defendant, the services required to be provided by the Plaintiff, the Defendant’s payment track record, as well as the business relationship between the parties. …” (underline added)
+
+140.  Requests 13-14 concern paragraph 11(4)(b) of Taching’s PoR:
+
+“The price of industrial diesel is determined by a wide range of factors and the import price of industrial diesel is only one of them. Other factors affecting the price of industrial diesel supplied to end customers include the cost of sourcing industrial diesel from Oil Majors, operating costs such as the costs of maintaining diesel storage tanks and diesel tank trucks, hiring drivers experienced in transporting dangerous goods, office rental, insurance and staff, the level of service provided by the seller, the payment track record of the end customer, as well as the relationship between the seller and end customer …” (underline added)
+
+141.  Meyer asks whether, apart from those pleaded, there are any other alleged “commercial considerations” or other “factors” affecting the price of industrial diesel supplied to end customers and particulars of such other considerations or factors.
+
+142.  Mr Lee gives 2 grounds for these requests: (i) they are relevant to the Similar Costs Issue, ie whether the cost structures of competitors in the industrial diesel market were similar; and (ii) in view of clauses 6 and 10 of the Sinopec Taching Agreement, Meyer is entitled to know whether such commercial considerations include “liaison” and/or “coordination” with Sinopec and its resellers or dealers as well as “Sinopec’s reasonable opinion on sales”.
+
+143.  I do not consider these to be good grounds.
+
+144.  Taching’s pleas are to illustrate how it determined the Current List Prices by independently adapting to Sinopec’s adjustments to list prices (issued to Taching and published on Sinopec’s website) and negotiated the Fixed Discount with Meyer on arms-length basis.  Whether Taching had taken into account one or a few other factors or commercial considerations is irrelevant to the core issues.  It is also taxing and unreasonable for Meyer to ask Taching to give an exhaustive list of each and every of those factors and commercial considerations, however minor or unusual they were.
+
+145.  The Similar Costs Issue in ground (i) is irrelevant as “other players” were not parties to the alleged collusion and it is not Taching’s case that it had followed the pricing mechanism of those players.
+
+146.  Further, Lawrence Ma, witness for Taching, has explained in full the factors and commercial considerations in §56 of his witness statement and factors for the Fixed Discount when negotiating different agreements in §§79-81.  Meyer has failed to explain why the pleas and Mr Ma’s evidence are not sufficient to explain Taching’s case.
+
+147.  If Meyer’s request is based on ground (ii), it could have simply made a direct request in those terms.  It is difficult to expect a reader to guess Meyer’s intention from the requests as presently framed.  Since the Amendment Summonses are dismissed, there is no basis to pursue such requests.
+
+148.  For the reasons given in Section F2, I decline to order FBP under the First Request.
+
+F3.  Analyses of Second Request
+
+149.  Paragraph 5(3) of Taching’s APoR pleads that:
+
+“… The list prices of Shell’s petroleum products are accessible to other players in the market (including Oil Majors, resellers (or dealers) and end users) through market sources.”
+
+150.  Meyer asks whether, apart from “Oil Majors, resellers (or dealers) and end users”, the list prices of Shell’s petroleum products are accessible to any other “other players in the market” and the full particulars of such alleged “other players in the market”.  Meyer contends that these requests are relevant to the Market Transparency Issue.
+
+151.  I am unable to agree with Meyer.  The issue as to whether or not Shell’s List Prices were transparent is irrelevant because Taching’s case is that it independently adapted to the changes in Sinopec’s list prices.
+
+152.  To the extent that the Market Transparency Issue is relevant, once it is shown that it was possible for Oil Majors, resellers (or dealers) and end users to have access to Shell’s list prices, it is not necessary to show that market players actually had access to such information.  It also does not matter how many more “other players in the market” had access.  The answers to these requests are simply not necessary for the fair disposal of the core issues or for saving costs.
+
+153.  In any event, Taching has given answers already.  Taching says, amongst others, that it was possible for market players to make direct enquiries with Shell for quotations; or customers of Shell may inform other market players of the List Prices of Shell.
+
+154.  In summary, I do not find any of the FBPs sought by Meyer to be necessary for the fair disposal of the matters in dispute and Taching has provided answers already.  I dismiss the Taching FBP Summons.
+
+G.  EXPERT EVIDENCE SUMMONSES AGAINST TACHING AND SHELL
+
+155.  Meyer seeks leave to adduce economic expert evidence both as to liability and quantum.  The issues identified for the expert are as follows:
+
+(1)  Defining the market (“Market Definition Issue”);
+
+(2)  Whether the uniformity in the pricing mechanisms and adjustments of Taching and Shell between January 2011 and June 2017 could better be explained on the hypothesis of collusion or on the hypothesis of independent conduct (“Parallelism Issue”);
+
+(3)  In the event that there has been collusion,
+
+(a)  the economic context of which the collusion forms a part (“Economic Context Issue”);
+
+(b)  whether such conduct has the effect of preventing, restricting or distorting competition in Hong Kong, and if so, to what extent (“Effect Issue”); and
+
+(c)  whether Meyer has suffered loss and damage as a result of such conduct, and if so, the quantum of damages (“Damages Issue”).
+
+G1.  Legal Principles on Leave to Adduce Expert Evidence
+
+156.  The Tribunal may give leave, as in any civil case, to adduce expert economic evidence: Order 38, rule 6; CTPD 1, §25(i).  The test for granting leave is whether the expert evidence is relevant to the issues in dispute as disclosed on the pleadings.  Where the proposed expert evidence is plainly inadmissible or irrelevant, the court ought to exercise its discretion to refuse the admission of such evidence.  But where the court cannot form a clear view on the relevance of the proposed expert evidence or where it considers that the proposed evidence is clearly relevant, then it should grant leave for the evidence to be adduced at the trial.  See Wong Hoi Fung v American International Assurance Co (Bermuda) Ltd & another [2002] 3 HKLRD 507, §12, Chu J (as she then was).
+
+157.  Taching and Shell pose 3 questions for guidance:
+
+(a)  How cogent the proposed expert evidence will be;
+
+(b)  How helpful it will be in resolving any of the issues; and
+
+(c)  How much it will cost and the relationship of that cost to the sums at stake.
+
+Fung Chun Man v Hospital Authority (unreported, HCPI 1113/2006, 24 June 2011), §13, Bharwaney J; following Mann v Messrs Chetty & Patel (a firm) [2000] EWCA Civ 267.
+
+158.  To the extent test (a) requires the court to weigh the cogency of expert evidence, I consider it pre-mature at this stage.
+
+159.  Test (b) is another expression of the test of relevance, which is most important here.
+
+160.  With regard to test (c), the estimated costs of an expert report to Meyer appears to be high, at $300,000, compared to a claim for $4.43 million and $2.49 million of Taching and Shell respectively.  However, such costs are of little weight in the present cases because:
+
+(i)   the effect of the Tribunal’s judgment on the Defence extends to Meyer’s potential claim for damages beyond the present 2 cases; and
+
+(ii)  using the almost immediate half price cut of Taching after Taching learnt of the much lower price offered by a potential supplier of Meyer, Meyer’s loss, at about 50% of the price it had paid over the relevant 6 years would have been about $23.5 million; the costs of expert evidence would not be disproportionate to the estimated damages.
+
+161.  Turning back to the test of relevance, for cartel cases, the focus is to prove that an agreement or concertation existed. There are 3 methods to prove it in the context of parallel conduct:
+
+(1)  Direct or indirect factual evidence (such as communications) pointing to explicit collusion other than parallel conduct.  The Tribunal will first examine whether such evidence met the requisite standard. If the Tribunal concludes that there is such evidence, alternative explanations for the parallel conduct, even if plausible, would not invalidate the finding of infringement.  See CISAC, §§101-102. (“1st Method”)
+
+(2)  Where there is some direct or indirect evidence of explicit collusion but it is not enough to establish infringement to the requisite standard, this may be supplemented by circumstantial evidence, including economic evidence.  However, the claimant must still provide sufficient evidence to render implausible the alternative explanations for the parallel conduct: CISAC, §§132-133. (“2nd Method”)
+
+(3)  Where there is no direct or indirect evidence of any explicit collusion, parallel conduct alone cannot be regarded as proof of collusion unless that collusion constituted the only plausible explanation for such conduct: Wood Pulp II, §71. (“3rd Method”)
+
+162.  An example of the 2nd Method is described in Competition Primers for ASEAN Judges 2018 - Primer II - Circumstantial evidence in the context of competition law:
+
+“2.  What is circumstantial evidence?
+
+2.1  A party may prove a fact in issue in a proceeding:
+
+a.  with direct evidence, by leading evidence of that fact; or
+
+b.  with circumstantial evidence, by leading evidence of one or more other facts from which a court may be invited to infer the particular fact in issue.”
+
+“4.  Different types of circumstantial evidence
+
+4.1  There are different types of circumstantial evidence that may be of assistance to a court. In a cartel case, for example, the circumstantial evidence may generally be divided into communication evidence and economic evidence.”
+
+“5.  Assessing evidence holistically
+
+5.1  A piece of circumstantial evidence may be capable of supporting a number of inferences, some of which may be conflicting …. For example, a price cut could reasonably give rise to an inference of predatory pricing or to an inference of competitive conduct. For that reason, circumstantial evidence should not be assessed in a vacuum.
+
+5.2  The inference or inferences to be drawn from circumstantial evidence should be assessed by a judge holistically, in light of all of the available evidence. Take a cartel case where the evidence shows:
+
+a.  phone calls between competitors on three separate dates;
+
+b.  parallel price rises by those competitors a few days after each phone call; and
+
+c.  an oligopoly market structure.
+
+5.3  In the example above and considered individually, no one piece of circumstantial evidence would provide a sufficient basis on its own to infer collusion. A cumulative assessment of all three, however, may give rise to a reasonable inference of cartel conduct. This consideration is applicable to many instances where circumstantial evidence is relied upon, as commonly a single piece of circumstantial evidence may not provide a conclusive inference of anti-competitive conduct.” (underline added)
+
+163.  There are two types of economic evidence:
+
+“One is evidence of conduct by firms in a market and of the industry as a whole.  It includes parallel pricing, abnormally high profits, stable market shares and a history of competition law violations.  Economic conduct evidence also includes “facilitating practices” – practices that can make it easier for competitors to reach or sustain an agreement.  Facilitating practices include information exchanges, price signalling, freight equalisation, price protection and most favoured nation policies, and unnecessarily restrictive product standards.  It is important to note that conduct described as facilitating practices is not necessarily unlawful.  But where a competition authority has found other circumstantial evidence pointing to the existence of a cartel agreement, the existence of facilitating practices can be an important complement.
+
+A second type of economic evidence can be called “structural” evidence.  It includes high concentration, low concentration on the opposite side of the market, high barriers to entry, a high degree of vertical integration and a standardised or homogeneous product. (emphasis added)”  (at pp2-3)
+
+See Prosecuting Cartels without Direct Evidence of Agreement, Organisation for Economic Co-Operation and Development, June 2007 Policy Brief, at p.1.
+
+164.  There is dispute between Meyer on the one part and Taching and Shell on the other as to whether, short of evidence of communication evidence between the colluders, there is probative value at all in economic evidence. 
+
+165.  Meyer relies on the US Court of Appeal case of In Re Brand Name Prescription Drugs Antitrust Litigation [1999] USCA7 434 for the proposition that:
+
+“… the plaintiffs had to prove that the manufacturers had colluded. There were two ways in which they might have been able to do this: by presenting direct evidence (admissions or eyewitness accounts) that the manufacturers had agreed to collude; or by presenting circumstantial evidence, economic in character, that their behaviour could better be explained on the hypothesis of collusion than on the hypothesis that each was embarked on an individual rather than a concerted course of action (emphasis added)”.
+
+Mr Lee seems to suggest that absence of evidence of explicit collusion is not fatal to this application in his initial submission, but later said in his 2nd Reply Submissions that EU law is no different from US law.
+
+166.  On the other hand, Taching and Shell submit that absent any direct or “smoking gun” evidence of explicit collusion (whether by discussions or reciprocal contacts), economic analysis as to whether parallel pricing behaviour was more consistent with collusion or independent conduct is not sufficient to establish the existence of concertation.
+
+167.  In my view, Taching and Shell’s submission is more in line with authorities, both under EU law and US law.
+
+168.  Under EU law, although the Tribunal should consider the circumstantial evidence holistically (where individually each piece of evidence is not sufficient to found liability) together with economic evidence, expert evidence alone is not sufficient to establish the existence of collusion, eg Wood Pulp II.
+
+169.  Even the OECD Policy Brief relied upon by Meyer confirms that economic evidence is of limited probative value because it “can be ambiguous, consistent with either concerted or independent action” (p.1). In fact, the OECD noted: “A review of cartel cases prosecuted in OECD countries in which circumstantial evidence was important showed that in almost all successful cases there was communication evidence” (p.5). 
+
+170.  This is further supported by Shell’s expert, Mr Dennis Beling, who has cited extensive authorities to support the view that “it is practically impossible to prove the presence of agreements between competitors in cases of alleged collusion using only economic data without any evidence of communication between them”: Beling §§11, 13-14, 16.  See also: Faull & Nikpay, §§8.51-55, 8.512-8.514; Bishop & Walker, §§5-029 to 5-031.  
+
+171.  Insofar as US authorities are concerned, Meyer’s reliance on Re Brand Name does not assist it.
+
+(1)  The case concerned a charge of conspiracy between manufacturers and wholesalers to deny discounts to retail pharmacies and/or to peg prices, in contravention of section 1 of the Sherman Act, 15 U.S.C. sec. 1, which provides that:
+
+“Every contract, combination in the form of trust or otherwise, or conspiracy, in restraint of trade or commerce among the several States, or with foreign nations, is declared to be illegal. Every person who shall make any contract or engage in any combination or conspiracy hereby declared to be illegal shall be deemed guilty of a felony …”
+
+(2)  The elements of a Sherman Act section 1 violation are: “(1) an agreement, conspiracy, or combination between two or more entities; (2) an unreasonable restraint of trade under either a per se or rule of reason analysis; and (3) the restraint affected interstate commerce.”  See Blanke & Nazzini, International Competition Litigation. A Multi-Jurisdictional Handbook (Jan 2012), p.804, §US-005.
+
+(3)  Unlike the EU provisions, the language of s.1 of the Sherman Act is broad enough to encompass a purely tacit agreement to fix prices, that is, an agreement made without any actual communication among the parties to the agreement. Nevertheless, it is generally accepted by US practitioners and courts that an express, manifested agreement, and thus an agreement “involving actual, verbalized communication”, must be proved in order for a price-fixing conspiracy to be actionable under the Sherman Act”: In re High Fructose Corn Syrup Antitrust Litigation 295 F.3d 651 (7th Circuit) (18 June 2002), at p.5.
+
+(4)  The US Court of Appeal have held that, conscious parallelism is not in itself unlawful. In other words, a plaintiff cannot prove a horizontal conspiracy by only demonstrating that sellers raised prices in parallel. Rather, in order to infer the existence of a conspiracy, a plaintiff relying on conscious parallelism must also demonstrate the existence of so-called “plus factors” such as (a)  interfirm communications between competitors; (b) the producers’ acts against self-interest; and (c) econometric models which purport to prove that the price of the product would have been substantially lower in the absence of collusion: Blomkest Fertillizer, Inc. v Potash Corp. of Sask., Inc, 203 F.3d 1028, (8th Circuit) (17 February 2000), p.6; Twombly v Bell Atl. Corp. 425 F.3d 99 (2nd Circuit) (3 October 2005), p.15.
+
+(5)  Accordingly, a plaintiff in a claim under the Sherman Act must present evidence that “tends to exclude the possibility of independent action by the defendants”. Conduct that is as consistent with permissible activity as with illegal conspiracy does not, standing alone, support an inference of antitrust conspiracy”: Blomkest Fertillizer, Inc, pp.5-6.
+
+172.  Therefore, even under US law, conscious parallelism in itself, without plus factors, is insufficient to give rise to an inference of anti-competitive conspiracy.  Expert evidence alone would not advance a claimant’s case.
+
+G2.  Application of the legal principles
+
+173.  In the present case, apart from the parallel pricing, Meyer has not pleaded any communications or “plus factors” to show collusion between Taching and Shell, not even in the Disputed Amendment.  Economic evidence alone would not be of help in establishing any of the core issues identified in Section D above.
+
+174.  Whilst Meyer accepts that parallel conduct alone is insufficient to prove collusion, it contends that Taching and Shell’s reliance on EU authorities is misplaced because they fail to notice the different standards of proof in play.  I have dealt with this point in paragraph 60 above and do not think that Taching and Shell have fallen into error.
+
+175.  Meyer next contends that there was something more than parallel conduct, having regard to the following factors:
+
+(1)  Unlike the gasoline market where prices are transparent in the sense of being displayed publicly at the gas stations, and market players could, without collusion, align their commercial behaviour, the pricing behaviour of Taching and Shell should be confidential.  Without collusion and/or information exchange, Taching and Shell should not have knowledge of each other’s pricing information.  Taching and Shell contends that there is an inherent high degree of transparency of prices in the market.
+
+(2)  The fact was that Taching and Shell are at different levels of the supply chain.  Their costs structure is unlikely to be the same.
+
+(3)  Taching immediately almost halved its price after Meyer informed it of a lower price quoted by another supplier.  Such conduct was, according to Meyer, inconsistent with innocuous parallel pricing.
+
+(4)  There are alarming terms showing anti-competitive behaviour in clauses 6 and 10 of the Sinopec Taching Agreement.
+
+176.  Factor (3) is not relied on in the pleadings.  In any case, it is not a matter which requires expert evidence to explain and Meyer has given an explanation.
+
+177.  Factor (4) is rendered irrelevant upon dismissal of the Amendment Summons.
+
+178.  It is not necessary at this interlocutory stage to examine whether factors (1) and (2) could be said to be circumstantial evidence other than parallel conduct or plus factors or to weigh its strength.  Meyer is effectively saying that it relies on the 2nd Method, and maybe the 3rd, to prove collusion.
+
+179.  Provided Meyer can show relevance to specific issues, in principle, leave should be granted for expert evidence to be adduced, even if, at this interlocutory stage, the Tribunal cannot form a clear view on the relevance of the proposed expert evidence: Wong Hoi Fung.  The expert evidence can be considered holistically with other evidence at the trial.
+
+G3.  Issue 1: Market Definition Issue
+
+180.  Market definition is usually to show the boundaries within which competitors compete and is relevant only for the purpose of determining whether an agreement/concerted practice has the appreciable effect of restricting competition: see Whish & Bailey, Competition Law (9th ed), p.28.  It is not necessarily required in object cases to define the market: Nutanix (a bid-rigging case), §388.  Nor was it rigorously analysed in W. Hing, at §134 (a market sharing and price-fixing case).
+
+181.  Meyer’s pleaded case is an object case and not effect case. It is not necessary to define the relevant market.  Collecting evidence of the communication between the alleged colluders is the focus in an object case.
+
+182.  Dr Pang’s explanation for the need to define the market pays no regard to the pleaded case.  Her explanation in Pang-2nd [5] is as follows:
+
+“29.  Defining a relevant antitrust market facilitates the analysis of the economic evidence on which any collusive or coordinated conduct on the part of Shell and Taching may be inferred. It allows the finder of fact to focus the attention on the products that is relevant to the conduct at issue, and identify the set of viable suppliers or the products to whom Meyer can realistically turn to. (underline added)
+
+30.  In this case, before Shell and Taching began to supply industrial diesel to Meyer, each of them had installed two oil storage tanks at Meyer’s manufacturing plant in Tai Po. Thus, Meyer’s special requirement may preclude smaller industrial diesel suppliers from competing for Meyer’s business. Conversely, Meyer’s purchase volume may be too small for certain vertically integrated large supplier for direct sale. Further, industrial diesel fuel is sold to customers from different sectors, and some suppliers may specialize in selling to particular sectors. Hence, rather than considering all industrial diesel suppliers that operate in Hong Kong as potential suppliers to Meyer, properly defining the relevant market to include only those suppliers that are viable for Meyer is an important step in this matter.” (underline added)
+
+183.  With respect, on the pleaded cases, there is no real dispute regarding the definition of the relevant market:
+
+(1)  Taching defines the relevant market as the “industrial diesel sales market in Hong Kong”, which is a homogenous product market: Taching APoR, Part B, §5(2).
+
+(2)  Shell defines the relevant market as the “market for bulk supply of industrial diesel in Hong Kong”: Shell's RAPoR, Part D.
+
+(3)  Meyer has not defined the relevant market. It, however, points out that Shell is a vertically integrated petroleum supplier whereas Taching is a distributor of Sinopec’s diesel product, which facts are not disputed.  Mr Lee’s oral submission that the market was one “open for players like Meyer” does not add anything.  Having referred to Taching’s pleading that there were 80-100 players, whereas an oligopoly usually has a small number of players, Mr Lee submits that Dr Pang should have a free hand to decide what factors she should take into account in formulating the market definition.
+
+184.  With respect, the alleged collusion involved only Taching and Shell and nobody else in the market.  Meyer does not claim to have difficulty in access to other suppliers.  The parts underlined in paragraphs 29 and 30 of Pang-2nd do not form part of Meyer’s case.
+
+185.  I am not satisfied that expert evidence is required to define the market.
+
+G4.  Issue 2: Parallelism Issue
+
+186.  Mr Lee relies heavily on Dyestuffs & Wood Pulp II, both being cases where there were advance announcements of price increases in the relevant market and economic evidence was adduced.  He also relies on Australian Competition & Consumer Commission v Colgate-Palmolive Pty Ltd, 353 ALR 460; and Jara Creek Central Packing Shed Pty Ltd v Amcor Ltd [2007].
+
+187.  In Dyestuffs, three general and uniform increases in the prices of dyestuffs had taken place within the EU over a period of years.  The Commission concluded that the increases had occurred as a result of a concerted practice operating between ten producers.  The Court of Justice upheld the Commission’s decision.  I pause to note that Dyestuffs was decided in the 1970s, before CISAC in 2013.  The parallel conduct in Dyestuffs was in different national markets and price changes could not have been brought into effect within a period of two to three days without prior concertation (§110).
+
+188.  Wood Pulp II (§§66-67)and Colgate-Palmolive [2017] FCA 1590 (§§23-24) were cases where the Commission used the 2nd Method.  There was evidence of communications and expert evidence was adduced as complementary circumstantial evidence.
+
+189.  Jara Creek was a case on discovery.  The expert explained that in order to establish the likelihood of collusive behaviour, it was appropriate to consider a “clean period” prior to the date of commencement of the alleged behaviour to carry out a benchmark analyses.  The purpose was to assess the measure of damages (§5).  As will be explained below, the present cases do not involve assessment of damages.
+
+190.  Mr Lee relies on the following paragraphs in Taching’s APoR in support of his application:
+
+“12(9).  Even if there were similarities between the net delivery prices charged by [Taching] and Shell and/or in the adjustments to the list prices of [Taching] and Shell provided to [Meyer], such similarities could be explained by the structure of the industrial diesel sales market in Hong Kong, which is a competitive homogenous product market.
+
+…
+
+32.  The degree of competition should also be determined by reference to the relevant market’s underlying structural and behavioural characteristics.  [Taching] reserves the right to plead further in this regard pending the filing and/or exchange of expert evidence, if any.”
+
+191.  He also relies on Shell RAPoR:
+
+“19. Given the similarity in the underlying cost factors and the high degree of transparency, it is typical to find that after one of the "oil majors" adjusts its List Price, the other "oil majors" would make independent commercial decisions to adjust their own List Prices accordingly, often within a very short period of time. Thus, there is a large degree of uniformity in the changes to the List Prices of the "oil majors.”
+
+192.  He cites various paragraphs from Taching’s witness Statement to support the Market Transparency Issue and Similar Costs Issue.
+
+193.  Pang-1st, §§26-27 sums up the issues in this way:
+
+“Taching’s response
+
+26.  The alleged patterns of identical pricing and parallel pricing (as described above) could be explained by the structure of the industrial diesel market, ‘which is a competitive homogenous product market”.
+
+Shell’s response
+
+27.  The alleged patterns of parallel pricing can be explained by the ‘high degree of transparency’ in the industrial diesel market in Hong Kong with respect to the List Prices of the ‘oil majors’, and their similarity in the underlying cost factors.
+
+The central issue
+
+28.  The central issue in these proceedings is therefore: Are the alleged patterns of parallel pricing, identical pricing and supra-competitive pricing by Taching and Shell with respect to the prices of industrial diesel offered to Meyer the result of collusion and/or coordinated behaviour, or are they the result of independent conduct?”.
+
+194.  With respect, Dr Pang has mis-characterized the core issue, which is whether there was an agreement/concertation.  Whilst there is joinder of issues, the “Taching’s response” and “Shell’s response” described by Dr Pang are not their main case but fallback arguments of Taching and Shell to explain the parallel pricing.  Moreover, the degree of competition is not a matter which the Tribunal has to consider before deciding if there was a breach of the First Conduct Rule. 
+
+195.  On the face of the pleas cited, economic evidence is required to show (i) the structure of the industrial diesel market; (ii) whether the underlying cost factors of the oil majors were similar; (iii) whether there was high degree of transparency in List Prices of the oil majors; and (iv) whether there was a high degree of uniformity in the changes to the List Prices of the oil majors; over the period of 2011 to June 2017.
+
+196.  But what does Dr Pang want to show by the economic evidence?  Pang-1st, §34 states as follows:
+
+“(b)  On the basis of observable industry characteristics (ie structural evidence), determining whether the market in question is potentially conducive to collusive or coordinated behaviour, drawing on economic theories on firms’ behaviour in an oligopolistic market;
+
+(c)  Conducting economic analysis of the observed firm and market conduct (ie behavioural evidence) in order to assess whether the behaviour of Taching and Shell is more consistent with collusion or independent behaviour: examples of behavioural evidence including but not limited to parallel pricing, identical pricing, supra-competitive pricing, abnormally high profits, lack of correlation between pricing and underlying cost factors;
+
+(d)  Identifying possible (if any) facilitating practices, ie practices that fall short of explicit direct communications, arrangements or agreements, but nevertheless which helped Taching and Shell sustain higher prices and profits.” (underline added)
+
+197.  Dr Pang gives examples of “facilitating practices” in Pang-2nd, §25 such as price signalling, price announcements.
+
+198.  Firstly, in my view, paragraph 34(b) of Pang 1st does not go towards establishing actual collusion.
+
+199.  Secondly, the words underlined in paragraphs 34(c) and (d) simply do not form part of any party’s case.  They neither address market structure nor transparency in the purported Taching’s response or Shell’s response.  It is not permissible use of expert evidence to fish for evidence in order to formulate a case.
+
+200.  Thirdly, Mr Lee says that Taching has exhibited two economic reports, namely “Study of the Auto-Fuel Retail Market” and “Report on Study into Hong Kong’s Auto-fuel Market”.  In the circumstances, he submits that expert economic evidence is naturally required by Meyer to address the above issues.
+
+201.  With respect, Taching has not obtained leave to adduce expert evidence and relevance of those 2 reports is yet to be seen.  Any attempt by a party to adduce expert evidence without leave does not justify another party’s application for leave to adduce expert evidence.
+
+202.  For the reasons given, I give leave to adduce expert evidence on the Parallelism Issue limited to matters stated in paragraph 195.
+
+G5.  Issues 3 and 4: Economic Context Issue and Effect Issue
+
+203.  Meyer relies on the following paragraphs of Taching’s APoR:
+
+“33.  In order to determine whether an agreement has the object of preventing, restricting or distorting competition, regard must be had to the content of the agreement, the way it is implemented and its context (including both the economic and legal context).
+
+34.  An agreement or concerted practice can only be regarded as having the object of preventing, restricting or distorting competition when the agreement or concerted practice, by its very nature, reveals a sufficient degree of harm to the proper functioning of competition.
+
+35.  For an agreement or concerted practice to have an anti-competitive effect, it must have, or be likely to have, an adverse impact on one or more of the parameters of competition in the market. The effect on competition must be assessed within the actual context in which it would occur in the absence of the agreement or concerted practice.
+
+36.  The alleged anti-competitive effects must be demonstrated by empirical facts, supported by an extensive analysis of the effects of the conduct in the market.
+
+37.  The Defendant has failed to show that the alleged agreement or concerted practice between the Plaintiff and Shell (the existence of which is denied):-
+
+(1)  has a sufficient degree of anti-competitive harm; and/or
+
+(2)  has an anti-competitive effect on the competition in the market.”
+
+204.  Meyer claims to need expert economic evidence to address the above criticisms.
+
+205.  §§33-34 of Taching’s APoR addresses legal principles on how to establish an object case.  The court does not require expert evidence on legal principles.
+
+206.  §§35-37 of Taching’s APoR criticizes the inadequacy of Meyer’s plea on an effect case.  Meyer cannot ride on its own inadequacy to seek to adduce expert evidence on a non-issue.
+
+207.  For the reasons given, no leave would be granted to adduce expert evidence on the Economic Context and Effect Issue.
+
+G6.  Issue 5: Damages Issue
+
+208.  I accept as a matter of principle that assessment of loss and damages may require expert economic evidence.  As explained in Competition Litigation UK Practice and Procedure, 2nd ed, at §16.17:
+
+“The evaluation of damages may be based on a mix of factual, expert, and documentary evidence which assists the court in the speculative exercise as to what would have happened absent the breach and how that counterfactual world compares to the actual world in which the infringement took place. For example, witnesses of fact testify as to how they would have run their business in the absence of the infringements. Experts (industry, accountancy, economists) may give evidence as to the actual and/or potential performance of the business or the state of the market …”
+
+209.  Meyer is seeking to set off its damages against the claims of Taching and Shell.  However, a defendant cannot rely on set-off if the sum sought to be set-off has not yet fallen due at the date of commencement of the action: Hong Kong Civil Procedure (2020), §§18/17/2, 18/17/3; Richards v James (1848) 2 Ex 471, Edmunds v Lloyds Italico I Ancora Compagnia di Assicurazione e Riassicurazione SpA [1986] 1 WLR 492 at 495E-F.
+
+210.  Here, Meyer’s claim is for loss and damage arising from Shell’s alleged contravention of the First Conduct Rule.  The competition regime in Hong Kong is that it does not allow stand-alone private action.  Meyer’s claim will not accrue until after the present proceedings (and any subsequent appeals) are finally resolved due to the effect of these sections:
+
+(1)  Under section 108 of the Ordinance, no person may bring proceedings independently of the Ordinance if the proceedings or causes of action therein are founded on the defendant’s contravention, or involvement in a contravention, of a conduct rule.
+
+(2)  Under section 110, Meyer only has a right of action against Shell for loss and damage suffered as a result of any act that has been determined to be a contravention of a conduct rule.
+
+(3)  Under section 111, Meyer’s intended action under section 110 cannot be commenced until any appeal against the Tribunal’s decision has been determined or the time for appeal has expired.
+
+See Reasons for Decision in CTA 1/2018 dated 12 September 2018, §§12-14.
+
+211.  In other words, before the Tribunal makes a determination of contravention of the First Conduct Rule in these proceedings, Meyer does not have an accrued right to damages to set off against Taching or Shell at the date of commencement of these actions. 
+
+212.  In fact, Meyer has acknowledged this, as was recorded in this Tribunal’s decision dated 22 February 2019 in HCA 1929/2017 and HCA 1069/2018 at §§7-8:
+
+“What then is left of the trial on quantum? Meyer's indication is that it has no right of action without a determination of a contravention of a Conduct Rule by virtue of section 110(1) CO. Meyer has pleaded nothing to set off against any sum to be awarded to Taching/Shell.
+
+As a matter of law, I fail to see how a future cause of action can support a defence to a present claim. As the pleadings now stand, there is simply nothing left for the court to investigate on quantum after determination of the issue of liability. I see no basis for ordering a split trial [on liability and quantum].”
+
+213.  Accordingly, assessment of damages could not be a justification to adduce expert evidence.
+
+214.  Meyer now resiles from its earlier position and contends that no provision in the Ordinance says that stand-alone action is barred; but that ss.94, 95 and 142 suggest that the Tribunal has full jurisdiction to hear all private actions brought in respect of infringement of the conduct rules.
+
+(1)  S.94 provides that if the Tribunal is satisfied that a person has contravened a competition rule, it may, either on its own motion or on application make any order it considers appropriate against that person, including orders under Schedule 3; those orders include one for damages. (item 1(k))
+
+(2)  S.95 provides that the Tribunal may make interim orders.
+
+(3)  S.142(1)(c) provides that the Tribunal has jurisdiction to hear and determine private actions in respect of contraventions of the conduct rules, and in the exercise of its jurisdiction, the Tribunal has the same jurisdiction to grant remedies and reliefs, equitable or legal, as the Court of First Instance under s.142(2).
+
+215.  Mr Lee relies on this annotation in Butterworth Hong Kong Competition Law Handbook (2015), §§108.03, 110(1) and 142.04:
+
+“[Having referred to the legislative intention that no right of action would arise outside of the procedures provided by the Competition Ordinance] It is only when [ss.94, 95, 108 and 142] are read in the light of the legislative history that they can be interpreted as barring stand-alone private rights of action under sections 94 and 95. It will be up to the courts to decide how to give effect to provisions whose text appears unambiguous in granting rights to private parties, despite the legislative intent explained during the legislative process.”
+
+216.  The legislative history was that provisions on stand-alone private action were removed from the original Competition Bill but the Tribunal has jurisdiction to hear and determine contraventions of the conduct rules raised as a defence (s.113 of the Ordinance). 
+
+217.  Mr Lee acknowledges that the legislature removed the right to bring stand-alone private actions.  However, he submits that ss.94 and 95 allow Meyer to apply to the Tribunal for remedies and reliefs in the course of its defence to an action brought by others.  Such remedies would include an order for damages under Schedule 3.  He says that is not inconsistent with s.108 because:
+
+(1)  S. 94 does not expressly state that an application has to be made by the Commission. 
+
+(2)  S.95(2) states that a person other than the Commission is not entitled to make an application under sub-s.(1) (for interim relief) to restrain conduct that would contravene the merger rule.  This suggests that save and except where contraventions of the merger rule are involved, any person may make an application under s.95.
+
+(3)  Also contrast other provisions in the Ordinance eg under s.92 (for pecuniary penalty), ss. 97-100 (concerning merger) and s.101 (for disqualification order), which expressly provide that the Commission may apply to the Tribunal, or that the Tribunal may, on application by the Commission, make various orders. 
+
+(4)  Whilst there is good policy reason as to why only the Commission may apply for a pecuniary penalty, such policy does not apply to other orders that can be made under s.94.
+
+218.  Statutory provisions are construed having regard to its context and purpose.  Words are given their natural and ordinary meaning unless the context or purpose points to a different meaning.  Context should be taken in its widest sense and that includes other provisions of the statute and existing state of the law: Cheung Kwun Yin (2009) 12 HKCFAR 568, §§12 and 13.
+
+219.  When read in context with other provisions of the Ordinance, Mr Lee’s submission is untenable:
+
+(1)  Ss.94 and 95 appear under Part 6 of the Ordinance, which is a part wholly devoted to enforcement actions by the Commission.  Apparently, the reliefs under ss.94-95 can only be applied for by the Commission.
+
+(2)  Part 7 of the Ordinance is the only part that deals with and sets out all the provisions concerning litigants other than the Commission.  Ss.110 and 111 deal with follow-on actions.  S.113 deals with proceedings within the jurisdiction of the Tribunal that are transferred from the Court of First Instance and that includes a defence in an action that alleges contravention of a conduct rule (“transferred defence”).
+
+(3)  The Tribunal will have jurisdiction under.142(1)(c) and (d) to “hear and determine” private actions and transferred defences.
+
+(4)  If the Tribunal finds, in a transferred defence, that there is contravention of a conduct rule, that finding shall be binding in subsequent proceedings before the Tribunal or the Court of First Instance: s.119(2). 
+
+(5)  A private litigant (including a defendant like Meyer) who has suffered loss may bring a follow-on action.  The requirement in s.110 to show “any act that has been determined to be a contravention of a conduct rule” is not confined to a determination in an enforcement action by the Commission but also determination in a transferred defence.
+
+(6)  It is thus pre-mature for Meyer to seek remedies because of the effect of these statutory provisions and, in fact, Meyer has not filed any counterclaim in the Court of First Instance or a claim in the Tribunal.
+
+(7)  Mr Lee also has no answer to the legal principle set out in Richards v Jame; and Edmunds v Lloyds.
+
+220.  For the reasons given in section G, I only give leave to Meyer to adduce expert evidence as per paragraphs 195 & 202.  The need for expert evidence arises due to joinder of issues in the PoR of Taching and Shell and Meyer has not stated its case. There should thus be sequential service of expert reports. Meyer should first serve its report, say, within [28] days.  Taching and Shell shall serve theirs, if so advised, within [28] days thereafter.  Within [28] days thereafter, the experts shall meet and prepare a joint report setting out matters that they agree and those that they do not agree and the reasons why.
+
+H.  REDACTION SUMMONS AGAINST SHELL
+
+221.  Meyer seeks unredacted copies of the following:
+
+(1)  The List Price Emails (Shell 1st LOD #10 to 236a); and
+
+(2)  Shell’s Price Book, which sets out the policies governing adjustments to Shell’s List Price and customer specific prices (Shell 1st LOD #433);
+
+(collectively, “Redacted Documents”).
+
+222.  Shell claims that the redacted information is irrelevant to the issues in dispute – such as Shell’s pricing strategy in relation to other types of fuel products, other industry sectors or other clients.
+
+H1.  Legal principles
+
+223.  Rule 24(3) of the Competition Tribunal Rules (Cap 619D) provides that:
+
+“The Tribunal may make or refuse to make an order for discovery and production of a document having regard to all the circumstances of the case, including—
+
+(a)  the need to secure the furtherance of the purposes of the Ordinance as a whole;
+
+(b)  whether the information contained in the document sought to be discovered or produced is confidential;
+
+(c)  the balance between the interests of the parties and other persons; and
+
+(d)  the extent to which the document sought to be discovered or produced is necessary for the fair disposal of the proceedings.”
+
+224.  Mr Lee relies on Hollander, Documentary Evidence, 13th ed:
+
+“Where documents are irrelevant and not confidential, then it is simpler to disclose them, with the protection of the collateral undertaking.” (at §10-15)
+
+…
+
+“In substantial litigation, it is common for documents to be blanked out. However, the trend is often to do so unthinkingly, without analyzing properly the basis or justification for so doing. When the blanking out is challenged, and the redaction revealed, this can at the least make the lawyers look foolish for having sought to blank out without justification, and worse, can make the client look as though he is trying to hide something. Where material in the document is simply irrelevant, it is unlikely that there will be any point in blanking it out unless it is confidential. Blanking out part of a document always seems to excite interest in the document and the hidden contents for the other side. But lawyers are increasingly going beyond what is permissible. Large numbers of documents are disclosed with black lines through them in a way which makes it impossible to see what the basis of the redaction is or whether it is appropriate. On examination, too often these documents turn out to have been redacted based on an unjustifiably narrow definition of relevance. Passages redacted turn out to be material after all. Or the purported redaction on the ground of privilege is made because an expert or lawyer is referred to in the document even though there is no reference to legal advice. Sloppy and unjustified redactions seem to have become increasingly popular. Steps need to be taken to stop this. It will often be sensible to ask for the lawyers to ask to see the original unredacted document on terms that the contents are not communicated to the client. There can surely be no objection to this in any case where the redaction is not based on privilege. Where the redaction is based on privilege, then it will be inappropriate to have sight of the other side's document referring to privileged legal advice. But there is no reason why the other side should not be asked to identify with precision the basis of the redaction not merely whether it is on grounds of privilege, but explaining whether it is referring to legal advice or some other basis.
+
+In GE Capital the Court of Appeal said that it was incumbent on the legal adviser to examine the communications in question critically to see whether there are any non-privileged parts which should be disclosed to the other side.  At present, however, the right to redact is being regularly abused, and the courts should be vigilant to stop this.”
+
+225.  The above statements were cited with approval in WH Holding Limited & other v E20 Stadium LLP [2018] EWHC 2578 (Ch), at §31, Snowden J. 
+
+226.  On the other hand, a party is entitled to cover up parts of a disclosed document on the ground of irrelevance unless the redactions destroy the sense of the document or make it misleading: Wong Kar Gee Mimi v Severn Villa Ltd [2012] 1 HKLRD 887 at §50, following GE Capital Corporate Finance Group Ltd v Bankers Trust Co [1995] 1 WLR 172 at 174B-D.
+
+227.  In determining whether the redacted parts of the document are irrelevant, the oath of the party giving discovery is conclusive unless the Tribunal can be satisfied – not on a conflict of affidavits, but either from the documents produced or from anything in the affidavit made by the party giving discovery or by any admission in its pleadings or necessarily from the circumstances of the case – that the affidavit does not truly state that which it ought to state: Wong Kar Gee at §51, GE Capital at 174D-E.
+
+228.  A “heavy burden” lies on a party who seeks to challenge the veracity of the other party’s oath regarding redaction: Wong Kar Gee, at §51.
+
+229.  It is not sufficient for the party seeking discovery to show that the redacted information is potentially relevant or might provide material for cross-examination as to credit. The test is whether it is not unreasonable to suppose that the parts redacted do contain information which may, either directly or indirectly, enable the party seeking discovery to advance his own case or to damage the opponent’s case: Wong Kar Gee, at §51.
+
+230.  Mr Lee submits that Rule 24(3) is a self-contained code about specific factors to be considered.  Shell’s reliance on Wong Kar Gee and GE Capital is misplaced.
+
+231.  I am unable to agree.  As pointed out by Ms Sit, SC, counsel for Shell, Rule 24(4) applies Order 24 of the Rules of the High Court except rules 1, 2, 3, 4, 6 on general discovery.  Wong Kar Gee and GE Capital concern inspection under Order 24, rule 11 and that rule is applicable to the Tribunal.
+
+H2.  Meyer’s case
+
+232.  Rule 24(3)(b) is not in issue because Meyer’s application only relates to production of unredacted copies to members within Meyer’s confidentiality ring.
+
+233.  Meyer submits that sub-rules 24(3)(a), (c) and (d) are clearly satisfied because:
+
+(1)  The documents in question are so heavily redacted that they are effectively unintelligible although Shell has made limited disclosure about the “nature” of some of the redactions after being served with the Redaction Summons.
+
+(2)  Dr Pang has explained in §§32-48 of Pang-2nd the relevance of the unredacted information as benchmarks or controls in assessing Meyer’s allegations with a view to preparing an expert report.
+
+(3)  In view of the potential relevance, Meyer will suffer real prejudice if any relevant information is wrongly withheld.  On the other hand, Shell will suffer no prejudice even if any irrelevant information is revealed.  The balance clearly comes down in favour of disclosure.
+
+H3.  Shells’ evidence
+
+234.  Shell’s Price Book and List Price emails plainly contain confidential and commercially sensitive information.  Leakage to competitors and customers would harm Shell’s business interest.
+
+235.  Shell provided as exhibits: (i) a redacted copy of the Price Book; and (ii) redacted copies of 12 sample List Price Emails from different points of time within the relevant period (“the Exhibits”).  They have annotations setting out the grounds for the redactions.
+
+236.  Ms Jessica She (Pricing Manager of Shell) has confirmed on oath that annotations to the Exhibits contain an accurate summary of the contents therein and the reasons for the redactions.  In the Exhibits, redactions are made solely on the basis of irrelevance.  The information which is confidential is indicated in text boxes outlined in blue.
+
+237.  Subsequent to discovery and exchange of witness statements, some of the previously redacted information on the ground of irrelevance has been uncovered.  Shell has also removed redactions of blank areas and other irrelevant information so as to illustrate, with greater clarity, why the redacted contents in the List Price Emails are irrelevant.
+
+238.  Ms She confirms that the samples of List Price Emails are representative of the List Price Emails as a whole, as the emails all contain similar contents.  She has gone on oath to explain what she meant by irrelevant in §22 of her affirmation.  Ms Sit SC has taken me through some of the redacted documents to illustrate Ms She’s evidence.
+
+H4.  Analyses
+
+239.  In relation to Shell’s Price Book:
+
+(1)   The redactions are limited and in no way destroy the sense of the document.  Indeed, Shell has gone the extra mile to provide annotations on the redactions.
+
+(2)  The annotations show that the redactions concern, amongst others, Shell’s business strategies, data on marine fuels (not in issue at all), Shell’s sales volume, margins and market share with respect to customers outside the manufacturing sector (which Meyer falls within), Shell’s margin analysis for pricing mechanisms other than “list less” (which applies to Meyer), and Shell’s exposure management for customers not using “list less” pricing model.
+
+(3)  At the trial, the Tribunal will have to determine, by reference to, amongst others, the Price Book and the List Price Emails, whether Shell’s adjustments to its List Price were independently arrived at through its internal process or through collusion with Taching.
+
+(4)  What pricing mechanism, profit margins or market share Shell adopted with respect to other fuel types and customers not within the manufacturing segment are wholly irrelevant to the issue in (3) above. 
+
+240.  In relation to the List Price Emails:
+
+(1)  Shell has prepared annotations showing the nature of the redacted parts to explain the irrelevance.  They concern information on Shell’s other fuel types, other industry sectors and other customers.  They clearly have nothing to do with the adjustments to the List Price concerning industrial diesel.
+
+(2)  Mr Lee submits that in some of the List Price Emails about “latest MI”, some information relating to other fuel types on other sectors are not redacted.  It shows Shell’s inconsistency on affirmation.  I do not agree.  The fact that a party discloses some irrelevant information as samples to show the sense of the document does not mean that he waives his position on irrelevance as regards other documents.
+
+(3)  Mr Lee also complains that only 12 samples were annotated whilst 218 Emails were not.  I can only repeat paragraph 238 above.
+
+(4)  In any event, the redactions did not result in any difficulty on Meyer’s part in understanding the List Price Emails or preparing its case.
+
+(5)  Pang-2nd, §42 states that there are redacted emails which have not been explained by Ms She, which appear to suggest that there had been interactions between Shell and Sinopec.  Shell has since exhibited the annotations for redactions to those emails.  The annotations rebut Dr Pang’s suspicion in that they are concerned with (1) other fuel types, (2) the extent in the increase in the prices of those products, (3) other sectors, and (4) Shell’s other clients (including potential clients). These are plainly irrelevant to the issues at stake.
+
+241.  Without disrespect, the assertion of Dr Pang on relevance of the redacted documents is made without regard to the pleaded issues.  There is simply no basis for Dr Pang to do a forensic analyses of Shell’s pricing policy on such a wide scale involving other fuel types, other customers or other industry sectors, not even for the purpose of “control” or “benchmarks”.
+
+242.  This not a case of Shell redacting documents unthinkingly as described in Hollander and WH Holding.  Paragraphs 237 and 238 above show that Shell has actively reviewed the necessity for redaction as the case progresses.  The redactions are with reasons and I accept that they are on the ground of irrelevance.  The statement of irrelevance on affirmation is conclusive and Meyer has not begun to challenge the veracity of that statement.
+
+243.  For the reasons given in this Section, I dismiss the Redaction Summons.
+
+J.  SHELL FBP SUMMONS
+
+244.  On 30 November 2018, 11 months after Shell filed its PoR, Meyer served 34 requests for FBP on Shell.  In the meantime, Meyer had no difficulty in making discovery and preparing witness statements.
+
+245.  Shell provided answers to some requests but declined to answer others on the ground that the information sought (a) has already been adequately particularized; or (b) was unnecessary for the fair disposal of the issues in dispute.
+
+246.  The same legal principles governing Taching’s FBP Summons are applicable here.
+
+Requests 1 and 2
+
+247.  Shell pleads that:
+
+“insofar as the Plaintiff made a commercial decision to adapt to the pricing behaviour of Taching, that does not amount to anti-competitive collusion”.
+
+248.  Meyer wants to know whether, by the use of the words “insofar as”, the Plaintiff has actually made any commercial decision to adapt to the pricing behaviour of Taching.  If so, provide full particulars of each and every such alleged commercial decision with regard to the 118 Pairs of Notices.
+
+249.  Conscious parallelism is an issue in the present case.  Mr Lee submits that Meyer’s preparation of the case may be fundamentally different depending on Shell’s answer.  For example, if Shell’s case is that it has actually never adapted to Taching’s pricing behaviour, then the defence of conscious parallelism will fall away (because irrespective of any transparency and similarity of costs, there was no adaption or matching).  If, however, Shell’s case is that it had indeed made adaptions, it will then only be fair for Shell to disclose the relevant instances so that Meyer knows precisely what case it has to meet.
+
+250.  With respect, Meyer has omitted a reference to paragraph 39 of Shell's RAPoR, under the hearing of “no collusion between [Shell] and Taching”.  It is expressly pleaded in §39.1 that Shell’s List Prices were fixed or revised in accordance with the system pleaded in §17.2 and the Confidential Annex “without reference to Taching”, except for 3 instances when Meyer disclosed Taching’s List Prices to Shell.  Shell has also disclosed the List Price Emails.  These requests are simply not necessary for the fair disposal of the core issues nor do they save costs.
+
+Requests 3 to 8
+
+251.  Shell pleads that:
+
+“17.1  The List Price is primarily based on its costs of acquiring the industrial diesel including but not limited to (i) fuel import costs …; (ii) transportation and storage costs and (iii) labour costs – plus its profit margin.”
+
+17.2  The Plaintiff has established policies to review the List Price periodically, by reference primarily to external market factors.  Particulars of the Plaintiff’s policies, which are highly confidential information to the Plaintiff’s business, are set out in the Confidential Annex hereto.
+
+18.1  The underlying cost factors that affect the List Price pricing decisions of ‘oil majors’ are similar.”
+
+252.  Meyer’s requests seek full particulars of “other factors” taken into account by Shell when determining its List Price or underlying costs factors. They are said to be relevant to the Similar Costs Issue and Adaption Issue.
+
+253.  The FBPs are not necessary for the fair disposal of any core issue for the following reasons:
+
+(1)  The pleas, the Confidential Annex in Shell’s RAPoR and the List Price Emails are to assist the Tribunal in determining whether Shell did independently determine its List Prices instead of colluding with Taching.
+
+(2)  This request is taxing and unreasonable.  I repeat my comments as regards the Taching FBP Summons in paragraphs 144 and 145 above.
+
+(3)  Shell does not suggest that its prices were similar to Taching because the cost structures of Shell and Taching were similar. The reference to underlying cost factors in Shell RAPoR §18 forms part of the background to explain why there was said to be a high degree of transparency with respect to the List Prices of the oil majors (which would in turn explain why others might be able to follow Shell’s List Prices).
+
+(4)  Accordingly, the Similar Costs Issue and Adaption Issue do not arise.
+
+Requests 13-18
+
+254.  §18.3 of Shell’s RAPoR pleads that:
+
+“In the case of the other ‘oil majors’ (including [Shell]), their List Prices are accessible to other players in the market (including ‘oil majors’, resellers (or dealers) and major end-users) through market sources, including the resellers and end-users dealing with one or more of them who would be provided with their most up-to-date List Prices.”
+
+255.  These requests seek an exhaustive list of the players in the market and the sources from which Shell could have learnt about the List Prices offered by the other “oil majors”.
+
+256.  Meyer says these are relevant to the Market Transparency Issue.  The details and circumstances of access to relevant sensitive pricing information are at the heart of the matter.  For example, it will certainly be collusive behaviour if information was deliberately dispersed through a third party (either through an association of undertaking, or as a hub or a third party facilitator).  In such circumstances, any transparency created will not be treated as genuine.
+
+257.  Specifically, requests 17 and 18 seek to ascertain whether Shell had actually accessed the List Prices of other oil majors before it issued its relevant adjustment notices.  Meyer says that they are relevant to the Adaption Issue.
+
+258.  The particulars are unnecessary for the fair disposal of the issues in dispute because:
+
+(a)  Insofar as Shell is concerned, it has pleaded and adduced evidence to substantiate it case that the adjustments to its List Price were done internally and independently without reference to Taching.  It had disclosed the List Price Emails in support.
+
+(b)  POR §18.3 is part of the background description of the market generally.  The averment made is sufficiently clear.  The market sources from which Shell could have obtained the List Prices of other “oil majors” such as Caltex or ExxonMobil or the exhaustive list of players in the market are simply not relevant to any core issue.
+
+(c)  The Market Transparency Issue does not arise.
+
+259.  I agree with Ms Sit SC that the purpose of such requests is to fish for information to support potential claims of collusion between Shell and other market players.  This is not permissible and the Amendment Summons has been dismissed.
+
+Requests 19, 20, 23 and 24
+
+260.  §28.3 of Shell’s RAPoR pleads that:
+
+“The determination of the Discount and subsequent changes thereof are commercial decisions based on arms-length negotiation between [Shell] and the end-user, taking into account the relevant circumstances prevailing at the time including (but not limited to) …”
+
+261.  Meyer asks whether, by the use of the words “including but not limited to”, Shell is alleging that there are other factors that have been taken into account by Shell; and if so, give full particulars of such other factors. Meyer says that these requests are relevant to the Similar Costs Issue and Adaption Issue.
+
+262.  §28.3(iii) of Shell’s RAPoR pleads that:
+
+“any leverage the end-user may have against [Shell] (eg the end-user may threaten to move its business elsewhere on the basis that [Shell’s] competitors have offered a bigger Discount).”
+
+263.  Meyer asks whether, by the use of the words “eg” Shell is alleging that there are other “leverage the end-user may have against Shell and, if so, particulars of such other leverage.  These requests are said to be relevant to the Similar Costs Issue and Adaption Issue.
+
+264.  These requests seek an exhaustive list of factors taken into account by Shell when negotiating the Discount offered to end-users.  The particulars are unnecessary for the fair disposal of the issue in dispute and fishing in nature:
+
+(a)  As explained above, on Meyer’s own case, it manipulated the Discounts / Net Prices offered by Shell and Taching such that “the respective Net Unit Prices of the two suppliers after such negotiations would invariably be the same”.  In other words, on Meyer’s own case the Discounts/Net Prices offered by Shell and Taching could not be arrived at by collusion.
+
+(b)  In any event, the matters which Shell took into account when negotiating the Discount offered to Meyer between 2011 and 2017 are already set out in Shell’s RAPoR §§36-37 and Tam’s witness statement §§19-52.  This request is taxing and unreasonable.
+
+(c)  The factors taken into account by Shell when negotiating the Discount offered to other end-users are irrelevant to the issue in dispute, as the collusion did not involve more than 2 parties.
+
+Requests 21-22
+
+265.  §28.3(ii) of Shell’s RAPoR pleads that:
+
+“available information (derived from market intelligence or otherwise) on Net Prices or Discounts offered by other suppliers of industrial diesel in the market (as further pleaded in paragraph 29 below); …”
+
+266.  These requests seek further particulars as to how Shell obtained information on the net unit prices and/or discounts offered by other MULSD suppliers.  They are said to be relevant to the Market Transparency Issue.
+
+267.  Such particulars are unnecessary for the fair disposal of any issue in dispute.  It is not Meyer’s pleaded case that Taching and Shell colluded with other suppliers.  In the circumstances, the means by which Shell obtained market intelligence about the discounts offered by other suppliers is of no relevance.
+
+268.  In any event, Shell’s case on this point is clearly set out and properly particularized in Shell’s RAPoR §29.
+
+269.  These requests are another attempt by Meyer to fish for information to support potential claims of collusion between Shell and other market players. They are not permissible as the Amendment Summons has been dismissed.
+
+Requests 27 and 28
+
+270.  §29.1 of Shell’s RAPoR pleads that:
+
+“The level of Discounts offered by other players in the market could be obtained and/or estimated from published information on, or informal inquiries relating to, public tender exercises for the supply of industrial diesel (which take place regularly).”
+
+271.  Meyer asks, with reference to the 118 Pairs of Notices, whether Shell had actually obtained and/or estimated the level of Discounts offered by other players in the market before Shell issued its relevant Notices.  If Shell had, provide particulars of such instances and state in respect of each instance, what public (sic) information or informal inquiries had been obtained and/or estimated by Shell.  Meyer says these requests are relevant to the Adaption Issue.
+
+272.  Such particulars are not necessary for the fair disposal of any core issue:
+
+(1)  Full details of the matters taken into account by Shell when considering adjustments to the list price can be found in, amongst others, (i) POR §§17 and 48; and (ii) the List Price Emails.  No useful purpose can be served by requiring Shell to plead an exhaustive list of the matters taken into account for each and every List Price adjustment.
+
+(2)  The “Adaption Issue” does not arise.
+
+Requests 29 and 30
+
+273.  §36.4 of Shell’s RAPoR pleads that:
+
+“In addition, in its negotiations with [Shell] [Meyer] would also provide [Shell] with offers on Net Price or Discount it received from other suppliers in the market with a view to persuading [Shell] to match that market offer. In the negotiations leading to the supply contract dated 31 December 2013 pleaded in paragraph 32.2(c) [Meyer] used the offer from TAT Petroleum (HK) Pte Ltd, another reseller, as leverage against [Shell], and [Shell] ultimately agreed to revise the Discount to effectively HK$7.68 (inclusive of the credit rebate of HK$0./2 per litre).”
+
+274.  These request seek an exhaustive list of instances where Meyer used offers from other suppliers in the market as leverage in contractual negotiations with Shell.
+
+275.  Such particulars are not necessary for the fair disposal of the issues in dispute or for saving costs, because there is no real issue between the parties in relation to the Discounts / Net Prices offered by Shell.
+
+276.  In any event, further details of the contractual negotiations between Shell and Meyer have been set out in Tam WS §§31-34.  There were only 3 adjustments to the Discounts (in 2010, 2012 and 2013) based on what Meyer told Shell about Taching’s List Prices.
+
+277.  No useful purpose would be served by requiring Shell to set out all of those details in its pleading, which would only overcomplicate the pleadings: Million Decade at §§18-20.
+
+Requests 31 to 34
+
+278.  §42.1 of Shell’s RAPoR pleads that:
+
+“Given the transparency with regard to List Prices and Discounts as pleaded in paragraphs 18 and 29 above, as well as the pricing information provided by [Meyer] to [Shell] as pleaded in paragraphs 36.3 and 36.4 above, any information [Shell] might have had with regard to the List Prices, Net Prices or Discounts offered by Taching to [Meyer] would have been obtained through legitimate sources and channels (including [Meyer]) …”
+
+279.  Meyer asks whether, by the use of the words “any information [Shell] might have had”, Shell has actually had information with regard to the List Prices, Net Prices or Discounts offered by Taching to [Meyer]; and if it had, identify in which of the 118 Pairs of Notices the Plaintiff had had such information; and state in respect of each instance the legitimate source and channels through which such information was obtained by Shell.
+
+280.  §42.2 of Shell’s RAPoR pleads that:
+
+“Insofar as [Shell] made an independent commercial decision to supply the Product at the same or similar price level to Taching …”
+
+281.  Meyer asks whether, by the use of the words “insofar as”, Shell has actually made any independent commercial decision to supply the Product at the same or similar price level to Taching; and if so, identify the relevant instance with regard to the 118 Pairs of Notices.
+
+282.  Meyer says that these requests are relevant to the Adaption Issue.
+
+283.  Such particulars are not necessary for the fair disposal of any core issue:
+
+(1)  Shell was explaining that there was transparency as to prices in the market.  The adjustments to its List Price were not based on collusion with Taching but that any information on prices would have been obtained through legitimate sources.
+
+(2)  The “Adaption Issue” does not arise.
+
+(3)  Full details of the matters taken into account by Shell when considering adjustments to the list price can be found in, amongst others, (i) Shell’s RAPoR, §§17 and 48; and (ii) the List Price Emails disclosed by Shell.
+
+(4)  No useful purpose can be served by requiring Shell to answer the request.
+
+284.  For the reasons given in Section J, I dismiss the Shell FBP Summons.
+
+K.  CONCLUSION
+
+285.  In respect of Taching,
+
+(1)  Save for the Disputed Amendment (ie in paragraphs 13-16 of Meyer’s PoD), the proposed amendments under the Amendment Summons are allowed, with costs to Taching;
+
+(2)  The Taching FBP Summons is dismissed, with costs to Taching;
+
+(3)  In respect of the Expert Evidence Summons, there be leave to adduce expert evidence on the Parallelism Issue only to the extent of showing (i) the structure of the industrial diesel market; (ii) whether the underlying cost factors of the oil majors were similar; (iii) whether there was high degree of transparency in List Prices of the oil majors; and (iv) whether there was a high degree of uniformity in the changes to the List Prices of the oil majors; over the period of 2011 to June 2017;
+
+(4)  In terms of timetable for preparing expert reports:
+
+(a)  There be leave to Meyer to serve an expert report within [28] days;
+
+(b)  Taching and Shell shall serve theirs, if so advised, within [28] days thereafter;
+
+(c)  Within [28] days thereafter, the experts shall meet and prepare a joint report setting out matters that they agree and those that they do not agree and the reasons why;
+
+(d)  Parties are at liberty to agree upon a different number of dates in square brackets above before this draft order is submitted for approval within 14 days;
+
+(e)  Parties shall name their experts in the draft order; and
+
+(f)  Meyer is largely not successful on the Expert Evidence Summons.  As the utility of the expert evidence is yet to be seen at the trial, I reserve the question of costs till then.
+
+(5)  The Discovery Summons is dismissed with no order as to costs.
+
+286.  In respect of Shell,
+
+(1)  There be leave to file the 2nd affirmation of She Kit Ying dated 6 January 2020 with costs to be in the cause of the Redaction Summons;
+
+(2)  Save for the Disputed Amendment, the proposed amendments under the Amendment Summons are allowed, with costs to Shell;
+
+(3)  In respect of the Expert Evidence Summons, the same orders as in paragraph 285(3) – (4) apply;
+
+(4)  The Redaction Summons is dismissed, with costs to Shell; and
+
+(5)  The Shell FBP Summons is dismissed, with costs to Shell.
+
+287.  All costs are made on a nisi basis, with certificates for 2 counsel.
+
+288.  I am most grateful to counsel for their thorough analyses and their enlightenment on the law of competition.
+
+ 
+
+ 
+
+ 	(Queeny Au-Yeung)
+ 	Judge of the Court of First Instance, High Court
+ 	Deputy President of the Competition Tribunal
+ 
+
+Ms Catrina Lam (on 10 January 2020 only) and Ms Cherry Xu, instructed by Herbert Tsoi & Partners, for Taching, the plaintiff in CTA 1/2018
+
+Ms Eva Sit, SC and Mr Joshua Chan (on 10 January 2020 only), instructed by Clifford Chance, for Shell, the plaintiff in CTA 2/2018
+
+Mr Kenneth K H Lee and Ms Nana Lui and Mr William Tse, instructed by Robertsons, for Meyer, the defendant in both cases
+
+
+[1]  Defined as the “Net Delivery Price” in Taching APOR §7(4)(d) ie the actual price at which Taching supplied industrial diesel to Meyer.
+
+[2]  Appeal against the decision was dismissed: see [2012] EWCA Civ 36.
+
+[3]  The other oil majors are Sinopec, Caltex and ExxonMobil.
+
+[4]  This denotes the name of the deponent and the rank of his/her affirmation.
+
+[5]  This is to denote an affirmant and the rank of his/her affirmation.
+
+ 

@@ -1,0 +1,760 @@
+CTEA 1/2017
+
+[2018] HKCT 1
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ENFORCEMENT ACTION NO 1 OF 2017
+
+____________
+
+BETWEEN	 	 
+ 	COMPETITION COMMISSION	Applicant
+and	
+ 	NUTANIX HONG KONG LIMITED	1st Respondent
+ 	BT HONG KONG LIMITED	2nd Respondent
+ 	SIS INTERNATIONAL LIMITED	3rd Respondent
+ 	INNOVIX DISTRIBUTION LIMITED	4th Respondent
+ 	(trading as “INNOVIX DISTRIBUTION”)	 
+ 	TECH‑21 SYSTEMS LIMITED	5th Respondent
+____________
+
+Before: Hon G. Lam J, President of the Competition Tribunal in Chambers
+Date of Hearing: 9 February 2018
+Date of Decision: 14 March 2018
+_______________
+
+D E C I S I O N
+
+_______________
+
+TABLE OF CONTENTS	
+Paragraph
+I.	Introduction	1	
+II.	Background	3	
+III.	Position on discovery of documents	9	
+IV.	The present application	15	
+V.	Legal framework	18	
+VI.	Class 1 — Any without prejudice correspondence and records of without prejudice communication between the Commission and respondents in relation to the Commission’s Leniency Policy	28	
+A.  Scope	28	
+B.  Leniency Policy	29	
+C.  The claim for public interest immunity	34	
+D.  Informer privilege	35	
+E.  International practice	41	
+F.  Balancing the relevant considerations	48	
+G.  Without prejudice privilege	55	
+VII.	Class 3 — The Complainant’s original electronic complaint form which was submitted to the Commission on 21 July 2016	66	
+VIII.	Class 5 — All without prejudice correspondence and records of without prejudice communications between the Commission and any Respondent where an agreement has not been reached	77	
+IX.	Class 6 — All confidential internal reports, minutes and correspondence relating to the Commission’s investigation and present proceedings.  This includes any records of communication between Commission staff during the execution of search warrants under s 48 of the Competition Ordinance	75	
+A.  Relevance	76	
+B.  Legal professional privilege	84	
+C.  Public interest immunity	86	
+X.	Mr D documents	104	
+XI.	Residual prayer of summons	121	
+XII.	Itemisation of documents	123	
+XIII.	Conclusion and orders	128	
+  
+
+I.  Introduction
+
+1.  This is the Tribunal’s decision on the 3rd respondent’s application for orders of discovery against the Competition Commission who is the applicant in the substantive proceedings.  The application raises questions of principles regarding the Commission’s obligations of discovery and claims of public interest immunity and without prejudice privilege as well as questions in the application of the principles to the particular facts.
+
+2.  The other respondents have neither opposed the 3rd respondent’s application nor appeared at the hearing.  I shall refer to the 1st, 2nd, 3rd, 4th and 5th respondents as Nutanix, BT, SiS, Innovix and Tech‑21 respectively.
+
+II.  Background
+
+3.  The underlying proceedings in this case are an application by the Commission against 5 undertakings for a declaration pursuant to s 94 of the Competition Ordinance (Cap 619) (“Ordinance”) that they have contravened the first conduct rule (s 6(1)) and for the imposition of a pecuniary penalty on each of them pursuant to s 93.
+
+4.  Broadly described, the allegation is that in July 2016, in response to the Hong Kong Young Women’s Christian Association’s (“YWCA”) invitation to tender for the supply and installation of an IT server system, BT planned to submit a bid based on a system supplied by Nutanix.  YWCA’s procurement policy required a minimum of 5 bids for this tender.  Where fewer than 5 bids were received, approval of a certain committee and board would be required before the contract could be awarded.  To assist BT’s bid, Mr A[1] of Nutanix agreed with Mr B of BT that Mr A would obtain 4 “dummy” bids (ie not genuine bids) from friends of his.  Mr A then agreed with each of 3 individuals who worked in SiS, Innovix and Tech‑21 respectively and an individual who worked in another firm, for them to do so.  It is said that pursuant to these agreements SiS, Innovix and Tech‑21 (but not the fourth firm) each submitted a dummy bid to YWCA.  The Commission contends that the conduct of the 5 respondents constituted “bid‑rigging” and therefore “serious anti‑competitive conduct” under the Ordinance and contravened the first conduct rule.
+
+5.  In particular, in the case of SiS, it is alleged that Mr A telephoned Mr D, a manager of SiS, told him there were insufficient tenders, and asked him to help submit a bid.  Mr A emailed Mr D the completed tender documents and asked Mr D to print out 2 copies, sign and stamp them, which Mr D did as requested.  He also deposited the tender at YWCA at Mr A’s request.
+
+6.  Some of these allegations made are based on a statement made by Mr D dated 13 February 2017, in which Mr D further said he only submitted a bid because Mr A asked for his help and that, from his point of view, the bid was submitted just to make up the required number, without any thought of winning the tender.  The Commission alleges that the arrangement between Mr A and Mr D was an anti‑competitive vertical bilateral arrangement between Nutanix and SiS which contravened the first conduct rule.
+
+7.  In these proceedings, the Commission has filed a witness statement of Mr D dated 19 October 2017 (which confirmed his statement of 13 February 2017 subject to some amendments) and a supplemental witness statement of Mr D dated 27 November 2017.
+
+8.  SiS has, in its Response, raised various grounds in opposition to the Commission’s case.  It is not necessary to set them all out here for present purposes.  Suffice it to say that SiS submits that Mr D’s statements were obtained in highly questionable circumstances, challenges the facts as narrated in Mr D’s statements, and contends in any event that Mr D lacked authority and acted on a frolic of his own and in fraud of SiS in doing what he is said to have done.
+
+III.  Position on discovery of documents
+
+9.  Although the provisions of O 24 r 2 of the Rules of the High Court (“RHC”) for automatic general discovery do not apply to enforcement actions before this Tribunal, an order for discovery by the Commission was made at the first case management conference on 26 May 2017, essentially with the agreement of the parties. The terms of the order directed that the Commission do file and serve:
+
+“a list of documents … separating (a) those sought to be relied upon and used by the Applicant in these proceedings and (b) unused materials, with the origination of each of the documents identified (eg ‘From R2’)”.
+
+10.  The basis of this direction was explained in the Tribunal’s Reasons for Decision dated 12 June 2017 (at §4) as follows:
+
+“As regards discovery, the Applicant takes the position that it will disclose both used and unused materials in its possession to the Respondents, following the approach the Court of First Instance has recently held to apply in disqualification proceedings under s 214 of the Securities and Futures Ordinance (Cap 571): Securities and Futures Commission v Wong Yuen Yee [2017] 1 HKLRD 788. There is no dispute in principle regarding the scope of disclosure by the Applicant.”
+
+11.  The Commission has since filed 4 lists of documents, whose format resembles those used in actions in the High Court.  The first list is substantial, containing 231 entries (some compendiously described) in part 1 of schedule 1.  The subsequent lists are supplemental in nature.  The documents disclosed include, amongst others, all the pre‑existing documents obtained by the Commission during the investigation and all the records of interview conducted under s 42 of the Ordinance.  In addition, on the application of Nutanix and Innovix, the Tribunal on 12 October 2017 made an order for discovery by a third party, namely, YWCA, for a range of documents that were not in the possession of the Commission.
+
+12.  Both the first and second lists filed by the Commission dated 23 June and 31 August 2017 respectively contain this statement:
+
+“The Applicant objects to produce the documents enumerated in Part 2 of [Schedule 1 hereto] on the ground that they are by their nature privileged from production or subject to public interest immunity.”
+
+13.  Part 2 of Schedule 1 in the first list contains 4 classes of documents (numbered 1 to 4) while that in the second list has 2 classes (numbered 5 to 6), described as follows:
+
+No.	Description
+1.	Any without prejudice correspondence and records of without prejudice communication between the Commission and respondents in relation to the Commission’s Leniency Policy.
+2.	Affirmations of Wong Kam Hung (together with exhibits), and drafts thereof, for the purpose of applying for search warrants in HCCM 261/2016.
+3.	[The Complainant’s] original electronic complaint form which was submitted to the Commission on 21 July 2016.
+4.	Correspondence, reports, and other documents passing between the Commission and its solicitors for the purpose of this action, instructions to Counsel, advice, opinions and drafts; correspondence, reports and other documents passing between the Commission and its solicitors and other parties written or prepared for the purpose of obtaining evidence or furnishing to the Commission’s solicitors information which might lead to the obtaining of evidence to be used in legal proceedings, statements, notes, memoranda, and other documents prepared by or for the use of the Commission’s solicitors for the purpose of legal proceedings.
+5.	All without prejudice correspondence and records of without prejudice communications between the Commission and any Respondent where an agreement has not been reached.
+6.	All confidential internal reports, minutes and correspondence relating to the Commission’s investigation and present proceedings.
+This includes any records of communication between Commission staff during the execution of search warrants under section 48 of the Competition Ordinance.
+14.  The specific grounds for objecting to production of these documents were set out in the affidavits filed with those 2 lists.
+
+IV.  The present application
+
+15.  SiS’s application is made by summons issued on 3 November 2017 (following a debate in correspondence) and amended on 24 January 2018, pursuant to rule 24 of the Competition Tribunal Rules (Cap 619D) (“CTR”) and RHC O 24 r 7. 
+
+(1) In form, the summons seeks an order that the Commission file and serve a list of documents, to include all documents in Class 1, 3, 5 and 6 and all documents passing between the Applicant and “other parties” under Class 4 above, with each of the documents identified individually and the originator thereof specified.
+
+(2) The summons seeks an order for a list of documents to include all documents (again, to be individually identified) described in the schedule to the summons (all being, broadly speaking, documents relating to Mr D, which I shall refer to as “Mr D documents”). There are 7 sub‑categories in the schedule which are set out in §104 below.
+
+(3) The summons also seeks an order essentially for a list of other documents which should be but have not yet been disclosed by the Commission.
+
+(4) The summons asks for an affidavit from the Commission verifying the fresh list of documents to be filed and stating, in particular, “to the extent that privilege from production in respect of any part(s) of any of the documents is asserted, the grounds for objection be specified for each part of each document”.
+
+(5) Finally, the summons seeks a direction that the grounds for and the extent of objection from production claimed by the Commission shall be in accordance with the determination of the Tribunal.
+
+16.  Regarding Class 4 as set out in the table above, since SiS does not dispute that the Commission is entitled to claim legal advice privilege for communications between itself and its lawyers, the application was directed at communications with “other parties”.  It was initially opposed on the ground of litigation privilege but, at the hearing, Mr Mok SC (who appeared with Ms Lam) confirmed on behalf of the Commission that it would no longer claim litigation privilege in this respect and would file a further list in consequence.  It is therefore unnecessary to deal with Class 4 or the question of litigation privilege in this decision.
+
+17.  The Commission opposes the rest of the summons on various grounds including (i) public interest immunity, (ii) without prejudice privilege, (iii) the factors referred to in CTR r 24(3), and (iv) lack of relevance.  As the context of argument varies as between different classes of documents, I shall address each category of documents separately before dealing with the question of enumeration and the form of any order to be made.
+
+V.  Legal framework
+
+18.  S 144(1) of the Ordinance provides that the Tribunal may decide its own procedure, and may follow the practice and procedure of the Court of First Instance in the exercise of its civil jurisdiction, and for this purpose, has the same jurisdiction, powers and duties of the Court.  Pursuant to s 158, the CTR have been made by the Chief Judge of the High Court.
+
+19.  CTR r 24(1) provides that a party may apply to the Tribunal for an order for discovery and production of a document relating to the proceedings from a person for inspection.   RHC O 24 (except rr 1, 2, 3, 4 and 6) is specifically incorporated and applies to proceedings before the Tribunal by virtue of r 24(4) of the CTR.  This includes O 24 r 5 which provides that the grounds on which documents are privileged from production are to be stated in the list of documents, and O 24 r 15 which makes clear the rules on discovery are without prejudice to public interest immunity.  CTR r 4(2)(a) specifies that if any provision of the RHC applies, it applies with any necessary modifications.
+
+20.  CTR r 24(1) provides:
+
+“A party may apply to the Tribunal for an order for discovery and production of a document relating to the proceedings from a person for inspection.”
+
+21.  CTR r 24(3) — a special provision found only in the CTR — specifically provides:
+
+“The Tribunal may make or refuse to make an order for discovery and production of a document having regard to all the circumstances of the case, including —
+
+(a) the need to secure the furtherance of the purposes of the Ordinance as a whole;
+
+(b) whether the information contained in the document sought to be discovered or produced is confidential;
+
+(c) the balance between the interests of the parties and other persons; and
+
+(d) the extent to which the document sought to be discovered or produced is necessary for the fair disposal of the proceedings.”
+
+This rule makes clear that discovery is in the discretion of the Tribunal, to be exercised in all the circumstances including the 4 matters specified.  The application of RHC O 24 and the jurisprudence on discovery in actions in the High Court should be approached accordingly.
+
+22.  Reference should also be made to Part 8 (ss 122‑128) of the Ordinance intituled “Disclosure of Information”.  By s 123, information obtained by the Commission in the course of, or in connection with, the performance of its functions that relates to the private affairs of a natural person, the commercial activities of any person that are of a confidential nature, or the identity of any person who has given information to the Commission, and information given to the Commission on terms that or in circumstances that require it to be held in confidence, is regarded as “confidential information”.  S 125 stipulates that a “specified person” (which includes the Commission and its employees[2]) must preserve and aid in preserving the confidentiality of confidential information, must not disclose it to any other person, and must not suffer or permit any other person to have access to it.  By virtue of s 126, however, this does not apply if disclosure is made with “lawful authority”, which is the case if, inter alia, the disclosure is made in accordance with an order of the Tribunal or any other court or in accordance with a law or a requirement made by or under a law, or in connection with judicial proceedings arising under the Ordinance.[3]
+
+23.  Subject to the CTR, the Commission accepts on this application, as it has from the outset in this case, that the scope of discovery it is to give — especially the test of relevance — is as set out in Securities and Futures Commission v Wong Yuen Yee [2017] 1 HKLRD 788; hence it consented to the order for discovery set out in §9 above.  It was held in that case that the Securities and Futures Commission’s discovery, in an application for disqualification orders under s 214 of the Securities and Futures Ordinance (Cap 571), should approach the standard applicable to the prosecution in criminal proceedings as explained in HKSAR v Lee Ming Tee (2003) 6 HKCFAR 336 and encompass relevant “unused materials”, which
+
+“should ordinarily include the information and documents it has obtained from the investigation of the transactions that are eventually relied upon and complained of in the disqualification proceedings, except those which are obviously irrelevant even on this generous test”.
+
+24.  It was stated that the duty of the prosecution is to disclose to the defence “relevant material which may undermine its case or advance the defence case”.[4] Reference was also made there to the test suggested by Jowitt J in R v Melvin (unrep, 20 December 1993):
+
+“I would judge to be material in the realm of disclosure that which can be seen on a sensible appraisal by the prosecution: (1) to be relevant or possibly relevant to an issue in the case; (2) to raise or possibly raise a new issue whose existence is not apparent from the evidence the prosecution proposes to use; (3) to hold out a real (as opposed to a fanciful) prospect of providing a lead on evidence which goes to (1) and (2)”
+
+At §83 of Wong Yuen Yee, the court observed that the language expressing the R v Melvin test is not radically different from the traditional test of relevance in civil cases as laid down in Compagnie Financière et Commerciale du Pacifique v The Peruvian Guano Co (1882) 11 QBD 55, 62–63.
+
+25.  “Unused materials” generally encompass materials gathered during the investigation but, as was pointed out in Wong Yuen Yee at §71, even in criminal cases the law does not require automatic disclosure of all unused materials, but only in accordance with the test for relevance.  Mr Mok also pointed out that neutral material or material damaging to the respondents need not be disclosed: R v H [2004] 2 AC 134, §35.
+
+26.  Mr McCoy SC, who appeared with Mr Parker on behalf of SiS, placed heavy reliance on Wong Yuen Yee. It should be noted, however, that the debate in Wong Yuen Yee centred round the test of relevance.  In particular, it did not decide whether public interest immunity or without prejudice privilege could be claimed; this kind of issues was simply not raised in that case (see Wong Yuen Yee, at §81).
+
+27.  Counsel also emphasised the penal nature of the penalty sought by the Commission in these proceedings.  Mr McCoy submitted that these are criminal proceedings but acknowledged that it is not necessary to decide this question here on which I heard no argument.  I recognise there are special features of enforcement actions for pecuniary penalty such as this, as distinct from ordinary civil actions between private parties.  Even if these proceedings involve the determination of a criminal charge within the meaning of Article 11 of the Hong Kong Bill of Rights (Cap 383), however, it does not necessarily mean that criminal jurisprudence and procedures apply or apply in the same way in all respects to these proceedings.  As Lord Bingham put it in Brown v Stott [2003] 1 AC 681, 704D‑G:
+
+“The jurisprudence of the European Court very clearly establishes that while the overall fairness of a criminal trial cannot be compromised, the constituent rights comprised, whether expressly or implicitly, within article 6 are not themselves absolute. Limited qualification of these rights is acceptable if reasonably directed by national authorities towards a clear and proper public objective and if representing no greater qualification than the situation calls for. The general language of the Convention could have led to the formulation of hard-edged and inflexible statements of principle from which no departure could be sanctioned whatever the background or the circumstances. But this approach has been consistently eschewed by the Court throughout its history. The case law shows that the Court has paid very close attention to the facts of particular cases coming before it, giving effect to factual differences and recognising differences of degree. Ex facto oritur jus. The Court has also recognised the need for a fair balance between the general interest of the community and the personal rights of the individual, the search for which balance has been described as inherent in the whole of the Convention: see Sporrong and Lönnroth v. Sweden (1982) 5 EHRR 35, at para 69; Sheffield and Horsham v. United Kingdom (1998) 27 EHRR, 163, at para 52.”
+
+VI.  Class 1 — Any without prejudice correspondence and records of without prejudice communication between the Commission and respondents in relation to the Commission’s Leniency Policy
+
+A.  Scope
+
+28.  Class 1 concerns what may be described as “leniency documents”.  They contain correspondence and records of communications with leniency applicants in relation to the Commission’s leniency policy, but two important qualifications should be noted.  The Commission raises no objection to production of (i) any pre‑existing documents which could serve as evidence in these proceedings provided during the course of the leniency process, or (ii) any “successful” communications, ie those where leniency is granted.[5] Subject to this, the Commission objects to production of Class 1 documents on the grounds of both without prejudice privilege and public interest immunity.  In particular, it is said that the Commission is concerned to protect the identity of the party who engaged in leniency communications with the Commission.  The class is drawn in general terms because, the Commission submits, it is not practicable to identify the origin of the documents without revealing the identity of the person concerned.
+
+B.  Leniency Policy
+
+29.  Leniency is an important investigative tool found in the competition law and practice of many jurisdictions to combat cartels.  Hard‑core cartels are virtually universally condemned by competition authorities as being economically harmful.  By their very nature they are also usually difficult to detect, investigate and prove.  This has led to the adoption of leniency programmes which are, in essence, schemes designed to reward co‑operation by a cartel member to aid in exposing cartels.  A leniency programme operated by an enforcement agency typically offers persons involved in a cartel immunity from fines (or sometimes a reduction) which might otherwise be imposed, in return for cooperation, often in the form of provision of information and evidence. The value of such a programme extends beyond dealing with the immediate case to creating “a general climate of uncertainty among potential cartel members which may inhibit the actual formation of cartels”.[6]
+
+30.  In Hong Kong, the Commission’s leniency programme has express statutory foundation.  S 80(1) of the Ordinance empowers the Commission to enter into leniency agreements in these terms:
+
+“The Commission may, in exchange for a person’s co‑operation in an investigation or in proceedings under this Ordinance, make an agreement (a “leniency agreement”) with the person, on any terms it considers appropriate, that it will not bring or continue proceedings under Part 6 for a pecuniary penalty in respect of an alleged contravention of a conduct rule against [that person or any employee, officer, agent, partner, as appropriate] in so far as the contravention consists of the conduct specified in the agreement.”
+
+S 80(2) provides that the Commission must not, while a leniency agreement is in force, bring or continue proceedings for a pecuniary penalty in breach of that leniency agreement.  Thus the Ordinance expressly contemplates the Commission using leniency as a means of facilitating the performance of one of its principal functions, namely, the investigation of conduct that may contravene the competition rules (s 130(a)).
+
+31.  The Commission has promulgated its “Leniency Policy for Undertakings Engaged in Cartel Conduct” (“Leniency Policy”) setting out its approach to leniency, albeit strictly applicable only in relation to leniency agreements with undertakings.  As to persons who are not undertakings, it is stated that the Commission “will consider case by case whether it is appropriate to exercise its enforcement discretion towards such persons”.[7]
+
+32.  The principal features of the Leniency Policy include the following:
+
+(1) Leniency is available only in respect of cartel conduct contravening the first conduct rule.
+
+(2) Leniency is provided only to the first successful applicant.  Potential applicants are ranked in sequence of time by a marker system whereby a potential applicant, upon providing sufficient information, is given a marker which identifies the time and date of the call.
+
+(3) The Commission makes a preliminary determination whether the reported conduct is cartel conduct and whether leniency is available.
+
+(4) If the Commission determines that there is cartel conduct and leniency is available, it will notify the undertaking with the highest ranking marker that it may make an application for leniency.
+
+(5) Before the applicant submits its application, it will be asked to agree to a non‑disclosure agreement with the Commission which provides that the applicant will keep confidential: (a) the fact that it is submitting an application for leniency; and (b) the information provided or to be provided.
+
+(6) The applicant is asked to provide a detailed description of the cartel, the entities involved, the role of the applicant, a timeline of the conduct and the evidence the applicant can provide.  This is commonly referred to as a “proffer”.  The proffer may be made in hypothetical terms and through a legal representative on a “without prejudice” basis.
+
+(7) After considering the proffer, the Commission may ask the applicant to provide access to some evidence in support of the proffer such as documentary evidence (including pre‑existing documents relating to the cartel) and/or by making available witnesses to be interviewed by the Commission.  Information of this kind provided to the Commission during the proffer stage will not be used as evidence in proceedings for a finding of a contravention of the First Conduct Rule against the applicant or any other person.
+
+(8) Based on the proffer and any additional information requested and provided by the applicant, the Commission will determine whether to make an offer to enter into a leniency agreement.
+
+(9) The leniency agreement, according to the template annexed to the Leniency Policy, specifies the parties and their current and former officers or employees against whom the Commission agrees not to bring proceedings and the specific obligations of the parties by way of cooperation.  The Commission may use any information or documents provided by the parties under the agreement.
+
+33.  Paragraph 5.7 of the Leniency Policy states:
+
+“Subject to paragraph 3.4 above[8] on the use of information by the Commission in Tribunal and other court proceedings and the requirements of Part 8 of the Ordinance to the extent applicable, it is the Commission’s policy not to release Leniency Material[9] (whether or not it is confidential information under section 123 of the Ordinance) and to firmly resist, on public interest or other applicable grounds, requests for Leniency Material, including the fact that leniency has been sought or is being sought, where such requests are made, for example, in connection with private civil proceedings in Hong Kong or in other jurisdictions unless:
+
+(a) it is compelled to make a disclosure by an order of the Tribunal or any other court, by law or any requirement made by or under a law;
+
+(b) it has the consent of the leniency applicant to disclose the material;
+
+(c) the relevant information or document is already in the public domain; or
+
+(d) the Commission, after entering a leniency agreement, has terminated the leniency agreement under section 81 of the Ordinance.”
+
+C.  The claim for public interest immunity
+
+34.  In support of the claim for public interest immunity, the Commission has filed a certificate made by its Chairperson, Ms Anna Wu (“Chairperson”), which states as follows:
+
+“12. It is … essential that the Leniency Policy gives cartel participants sufficient incentives for them to come forward to the Commission. As part of these incentives, it is key that undertakings which come forward to the Commission to report cartel conduct, ie leniency applicants, are not placed in a worse position than those who have not applied for leniency at all.
+
+13. That would be the case, for example, where the without prejudice records and communications relating to an unsuccessful leniency application are disclosed in proceedings related to the cartel conduct in question. In this respect:
+
+(a) The leniency application will usually involve the leniency applicant engaging in without prejudice discussions with the Commission in order to persuade the Commission that the applicant qualifies for leniency before the Commission will enter into a leniency agreement with the Commission.
+
+(b) In that context, the applicant has probably made an admission in relation to some or all of the conduct in question.
+
+(c) Where the Commission ultimately institutes proceedings in respect of the cartel conduct, the position of the unsuccessful leniency applicant in the proceedings would be unfairly prejudiced compared to other respondent cartel members, should the content of its earlier without prejudice communications with the Commission be revealed to the Tribunal and other respondents. For example, the interests of the other respondents may not be aligned with those of the unsuccessful leniency applicant and might even be diametrically opposed.
+
+(d) A requirement that the Commission disclose and produce without prejudice correspondence and records of without prejudice communications between the Commission and an unsuccessful leniency applicant would unduly dissuade potential leniency applicants in the future because of their knowledge that the contents of such communications may become disclosable if their leniency application is unsuccessful.
+
+……
+
+15. Thus, the effectiveness of this essential tool in the detection, investigation and prosecution of cartel activities would be severely undermined if the fact and content of these leniency discussions were to be held disclosable.  This would in turn inhibit and adversely affect the proper functioning of the Commission and the effect investigation and prosecution of the infringements of competition.”
+
+D.  Informer privilege
+
+35.  At common law, there is a rule of law (not a matter of discretion for the court) that an informer’s identity is privileged from disclosure in criminal or civil proceedings: Marks v Beyfus (1890) 25 QBD 494.  This covers not only the informer’s name but any information that singly or in combination might tend to reveal his or her identity.  The rule, which may be regarded as a species of public interest immunity, is subject to an exception in a criminal trial where the information is necessary in order to demonstrate the accused’s innocence.
+
+36.  SiS has not contended that the privilege does not apply to informers of the Commission; nor do I see in principle why it should not apply.  The public interest in protecting informers is as important to an enforcement agency such as the Commission as it is to the police: Australian Securities and Investments Commission v P Dawson Nominees Pty Ltd (2008) 169 FCR 227, §48.  S 123(1)(a)(iii) of the Ordinance specifically classifies as confidential information that relates to “the identity of any person who has given information to the Commission”.  The privilege was held in an Australian case to be engaged in respect of the identity of persons providing information under the immunity programme of the competition law enforcement authority there (equivalent to the Leniency Policy of the Commission in Hong Kong): Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia SRL [2011] FCA 938, §182.
+
+37.  In HKSAR v Agara [2014] 2 HKLRD 648, Stock VP said:
+
+“2. The first point is that the circumstances in which the disclosure of an informer’s identity in a criminal trial may be justified is an exception — indeed the sole exception — to informer privilege. One does not start from the other end, which is to say one does not start from a presumption that unless it be shown that the public interest considerations otherwise demand, a defendant is entitled to that information.
+
+3. This point is evident from a study of the judgment of McLachlin J in R v Leipert to which Yuen JA refers where it was said, at 293, that :
+
+‘Connected as it is to the essential effectiveness of the criminal law, informer privilege is broad in scope … Subject only to the ‘innocence at stake’ exception, the Crown and the court are bound not to reveal the undisclosed informant’s identity.
+
+Informer privilege prevents not only disclosure of the name of the informant, but of any information which might implicitly reveal his or her identity. Courts have acknowledged that the smallest details may be sufficient to reveal identity.
+
+…
+
+… In the case at bar [the judge] noted: ‘The privilege is a hallowed one and it should be respected scrupulously.’
+
+…
+
+In Bisaillon v Keable … this Court held (at p 93):
+
+‘The rule is subject to only one exception, imposed by the need to demonstrate the innocence of an accused person.’” (Emphasis added).”
+
+38.  The “innocence at stake” exception (as it has been called) was previously considered to be the only exception to the rule in the UK: D v National Society for the Prevention of Cruelty to Children [1978] AC 171, 218E‑F. This remains the case in Canada: see R v Leipert [1997] 1 SCR 281 and, more recently, R v Durham Regional Crime Stoppers Inc, 2017 SCC 45.  Authorities in the last two decades show that, in the UK, further exceptions to the rule are recognised, and that even in a case not falling within the established exceptions, a balancing exercise would still be required between the public interest in the protection of informers and the countervailing interests advanced by the person seeking disclosure.[10] 
+
+39.  In HKSAR v Agara, Yuen JA noted there might be a difference in approach between the UK and Canada, and adopted the Canadian approach at least for drug cases.  Whilst agreeing with Yuen JA, Stock VP emphasised several points as quoted above, evidently basing his decision on the Canadian case of R v Leipert.[11]  Derek Pang J agreed with both judgments.[12]
+
+40.  Since the Commission has invited this Tribunal to take the balancing approach, it is unnecessary for me to decide whether in the present kind of case, the informer privilege is as a matter of Hong Kong law subject only to the “innocence at stake” exception.  I shall deal with the competing interests after canvassing the practice of other jurisdictions.
+
+E.  International practice
+
+41.  On behalf of SiS, Mr McCoy submitted that the Commission’s stance is “wholly out of step” with the practice in the UK, Australia and the EU.  This submission does not seem to me to be wholly accurate.  The practice in the UK, where it is the administrative agency which imposes sanctions for anti‑competitive conduct in the first instance subject to appeals to the Competition Appeal Tribunal, may be gleaned from the guidance in Applications for Leniency and No‑Action in Cartel Cases published by the Office of Fair Trading in 2013 (and adopted by the Competition and Markets Authority in 2014).  At §7.7, it is stated:
+
+“Disclosure of application statements may be of particular concern to applicants because application statements sometimes disclose certain aspects of the application that the OFT has chosen not to pursue or the applicant’s own analysis of the emerging details of the cartel at the time of the application, and there is therefore a potential risk that any unnecessary disclosures may put leniency applicants at a disadvantage relative to non‑leniency parties. Accordingly, whilst application statements, including transcripts of oral statements, will be placed on the OFT’s file, when assessing the need for disclosure, the OFT will give weight to the strong public interest in encouraging full and frank applications, and notes that non‑disclosure of such material may be in the public interest in order to protect the efficacy of the leniency regime. In practice, this means that the OFT will not ordinarily grant access to the application statement to other recipients of a statement of objections.[13] However, in the event that the application statement contains relevant evidential material that has not been presented in other forms that can be made available as part of access to the file*, it may be necessary to grant access to the application statement, for rights of defence purposes. In such cases, we will keep confidential any parts of the statement that are not relevant to the case in question. …” (emphasis added)
+
+42.  The footnote to the text marked with an asterisk above states:
+
+“The OFT expects applicants to provide all primary source material that led to the generation of the application statement that the OFT considers is relevant to its case, so this situation is expected to be exceptional, rather than the norm.”
+
+43.  While it is stated in §7.8 of Applications for Leniency and No‑Action in Cartel Cases that:
+
+“Even in the case of an unsuccessful leniency applicant or in the case of a leniency applicant which is not proceeded against or where the leniency application was subsequently withdrawn, it cannot be excluded that disclosure of some or all of the material provided as part of the leniency application, including the identity of the applicant, may have to be disclosed to other parties in the course of access to the file”,
+
+it is fair to infer that this would be the case primarily where, as stated in §7.7 quoted above, the application statement contained relevant evidential material that had not been presented in other forms that could be made available.  In the present case, the Commission has not sought to withhold any pre‑existing documents which could serve as evidence in these proceedings, and has further confirmed that Class 1 documents do not contain any relevant evidential material or other material or information that may undermine the Commission’s case against SiS or advance SiS’s case that have not been presented in other forms already disclosed.
+
+44.  For the position in Australia, Mr McCoy referred to the decision of Cadbury Schweppes Pty Ltd v Amcor Ltd (2008) 246 ALR 137, [2008] FCA 88.  There, following earlier proceedings mounted by the Australian Competition and Consumer Commission (“ACCC”) against a company (Visy) and other entities for colluding with Amcor to fix prices in the cardboard box market, Cadbury brought an action against Amcor for damages under the Trade Practices Act 1974 (Cth).  Visy was joined by Amcor as a respondent to Amcor’s cross‑claim in the damages action.  The relevant issue was whether certain witness proofs of Amcor employees drafted by ACCC and served on Visy in the earlier proceedings were protected by public interest immunity from being disclosed and produced by Visy and Amcor to Cadbury in the damages action.  Gordon J held that they were not.  But, with respect, the case does not advance Mr McCoy’s submissions for the following reasons:[14]
+
+(1) Amcor was a successful applicant to the ACCC for leniency (see §29)[15] — disclosure of the communications with Amcor would be consistent with the Commission’s position in the present case that successful leniency communications would be disclosed.  Gordon J’s observation (in §30) that “it must be taken for granted that a cartel participant contemplating a confession to the authorities knows, or should know, that his statements will be used by the authorities to prosecute the other party or parties” was made in the context of such an applicant.[16] In contrast, an applicant for immunity or leniency can legitimately be said to have a reasonable expectation that, if his application is unsuccessful, the statements he has made would not be disclosed or used in the proceedings that may well include him as a respondent.
+
+(2) Secondly, Amcor did not seek any confidentiality guarantee in its immunity application, as a result of which the court considered that the force of any public interest immunity claim was vitiated (see §29).
+
+(3) Thirdly, the court observed that the proofs in question were statements by witnesses that Cadbury would be free to approach in order to obtain all relevant information, so that ACCC’s argument boiled down to that Cadbury should not enjoy a “free ride” on ACCC’s work (§§31‑33).
+
+(4) The practice in Australia has since been changed.  Shortly after the decision of Gordon J in Cadbury Schweppes Pty Ltd v Amcor Ltd (2008) 246 ALR 137, [2008] FCA 88 and of the Full Court in [2009] FCAFC 32, legislative amendments were introduced via the Trade Practices Amendment (Cartel Conduct and Other Measures) Act 2009. The Explanatory Memorandum to the Bill stated the context as follows:
+
+“7.2 The ACCC has expressed concerns that its ability to obtain confidential information regarding cartel conduct has been significantly hindered by concerns that it may be required to disclose that information to third parties in certain circumstances.
+
+7.3 The ability of the ACCC to obtain confidential information from informants is of particular importance to the detection of cartel conduct. Cartel conduct by its nature is often engaged in covertly. As a result, information from cartel participants or those closely connected to a cartel participant is often required to reveal the conduct.
+
+7.4 However, given the relationship of such informants to the cartel, they may be discouraged from providing the relevant information if concerns or uncertainty exist as to the circumstances in which the information may be disclosed to others.
+
+For example, if appropriate protection was not afforded informants may be reluctant to cooperate with the ACCC due to concerns such as reprisals or liability to third parties.
+
+7.5 For the TP Act to meet its objectives it is essential that the ACCC is able to obtain the information necessary to effectively enforce it.  If the protection provided to confidential cartel information is not clarified, the ACCC’s ability to obtain the information necessary to enforce the cartel provisions of the TP Act may be frustrated.”
+
+(5)     Consequently, a new provision, s 157B, was inserted into the statute, which provided that the ACCC is not to be required to disclose “protected cartel information”[17] to a court or tribunal except with leave of the court or tribunal.  In exercising this power, the court or tribunal must have regard to a number of specified matters, namely:
+
+“(a) the fact that the protected cartel information was given to the Commission in confidence;
+
+(b) Australia’s relations with other countries;
+
+(c) the need to avoid disruption to national and international efforts relating to law enforcement, criminal intelligence and criminal investigation;
+
+(d) in a case where the protected cartel information was given by an informant:
+
+(i) the protection or safety of the informant or of persons associated with the informant; and
+
+(ii) the fact that the production of a document containing protected cartel information, or the disclosure of protected cartel information, may discourage informants from giving protected cartel information in the future;
+
+(e) in the case of a court — the interests of the administration of justice;
+
+(f) in the case of a tribunal — the interests of securing the effective performance of the tribunal’s functions.”
+
+45.  Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia SRL [2011] FCA 938, on which Mr McCoy also placed reliance, was likewise a case where disclosure was ordered in relation to the identity of a person to whom immunity had been granted (see §34), and therefore takes the matter no further. 
+
+46.  The Commission of the EU also treats leniency material in a special way.  Parties to whom a statement of objections has been addressed may have one‑time access to corporate leniency statements in the files of the Commission (the primary decision‑maker as to liability and level of fine) provided they shall not make any copy by mechanical or electric means of any information,[18] while there is an absolute ban on the disclosure of leniency statements for the purposes of follow‑on damages claims.  At the level of the individual member states of the EU, however, different practices exist as regards access to the file.[19]
+
+47.  It can be seen from this brief review that while practices vary significantly across different jurisdictions, they all regard the adverse deterrent effects unimpeded disclosure may have on informants to be sufficiently harmful to the public interest to be singled out as potential justification for non‑disclosure or restricted disclosure.  In comparison, the approach adopted by the Commission is in my view by no means markedly less favourable to respondents to enforcement actions.  In fact, Mr Mok submitted that the approach of the UK Competition and Markets Authority described above is in substance the same as the Commission’s approach and should be adopted.
+
+F.  Balancing the relevant considerations
+
+48.  It is in my view plain that public interest considerations are engaged.  In deciding whether or not to order discovery, the Tribunal needs to take account of the need to secure the furtherance of the purposes of the Ordinance as a whole (r 24(3)(a) of CTR).  As the long title to the Ordinance states, one of its purposes is “to prohibit conduct that prevents, restricts or distorts competition in Hong Kong”.  The Commission’s Leniency Policy is ultimately devised and operated to further that purpose in the public interest, with express statutory support in s 80. 
+
+49.  There is in my opinion a strong public interest in encouraging eligible parties to apply for leniency and in facilitating free and frank communication during the process.  The process is rightly treated with strict confidence, although I recognise this is by no means a complete answer to disclosure because any assurance of confidentiality by the Commission has to be subject to its disclosure obligations in legal proceedings and to any order for disclosure that may be made by the Tribunal. 
+
+50.  While a person can perhaps reasonably be held to expect that if his leniency application is successful, the statements made by him will be disclosed and used vis-à-vis third parties, it seems to me that the distinction drawn in relation to unsuccessful leniency communications has a sound logical basis.  The position of a party who has unsuccessfully applied for leniency would be undermined if the without prejudice communications were disclosed to the other respondents.  By definition, the person has failed to obtain immunity, and is as such likely to be among the respondents proceeded against by the Commission.  It can be a real concern for an informant that if his leniency application is unsuccessful, information disclosed by him including admissions made by him can be used, whether or not directly or indirectly against him, by other respondents.  As the Chairperson stated in her certificate, he would be placed in a worse position than those who had not applied for leniency in the first place.  Informants would be deterred from coming forward or from being full and frank in the information furnished to the Commission during the application process, and this would plainly be harmful to the public interest.
+
+51.  The agreed confidentiality protocol in the present case, using a “confidentiality ring”, does not seem to me to afford adequate protection to the unsuccessful applicant.  For example, the ring encompasses in‑house representatives including SiS’s financial controller. More importantly, the prejudice to the unsuccessful applicant is in the information being disclosed to other respondents and used by them in the proceedings, and that would not be mitigated in any way by a confidentiality protocol.
+
+52.  Even in the UK where informer privilege may be overcome after a balancing exercise (and not only under the “innocence at stake” exception), it is recognised that informer privilege remains a “general rule” and “very considerable weight” should be accorded to the public interest in the protection of informers: Commissioner of Police for the Metropolis v Bangs [2014] EWHC 546 (Admin), §45, per Beatson LJ.
+
+53.  On the other hand, there is the public interest that proceedings before the Tribunal should be determined on the basis of all information available, or to put it slightly differently, the interest that SiS should have all relevant material to mount its defence.  This in my view applies with particular force to an enforcement action seeking pecuniary penalties.  Having said that, it is relevant to note that in the present case:
+
+(1) All pre‑existing documents gathered in the leniency process that could serve as evidence in these proceedings have been disclosed.
+
+(2) Further, the Commission has reviewed the documents and confirmed that none of the documents falling with Class 1 contain any relevant evidential material or other material or information that may undermine the Commission’s case against SiS or advance SiS’s case that have not been presented in other forms already disclosed.
+
+(3) Whatever the correct characterisation of this enforcement action may be (be it criminal, quasi‑criminal or civil), it is ultimately not proceedings in which the respondents’ or anyone’s liberty is at stake: see Chief Constable of the Greater Manchester Police v McNally [2002] Crim LR 832, §23; Bangs, supra, at §45.
+
+(4) While I appreciate that SiS has not seen the documents, it has not attempted to show that this class of documents is required for the purposes of demonstrating that it was innocent of any breach of the first conduct rule.  This is not a case in which the respondents are running a “cut‑throat” defence.  In fact, Mr McCoy has not sought to demonstrate how any material prejudicial to others would be likely to be of assistance to SiS’s defence.  All that is being said is that the Commission has to disclose them to SiS as part of the “unused materials”.
+
+(5) It seems to me that the right of SiS to defend itself would not be significantly impaired by non‑disclosure of this class of documents.
+
+54.  On balance, I am of the view that the public interest in non‑disclosure outweighs any contrary interest in disclosure.
+
+G.  Without prejudice privilege
+
+55.  The Commission also relies on without prejudice privilege in resisting production of Class 1 documents.  The justification usually cited for this privilege is the public policy explained in Rush & Tompkins Ltd v Greater London Council [1989] AC 1280, 1299, per Lord Griffiths:
+
+“The ‘without prejudice’ rule is a rule governing the admissibility of evidence and is founded upon the public policy of encouraging litigants to settle their differences rather than litigate them to a finish. It is nowhere more clearly expressed than in the judgment of Oliver L.J. in Cutts v. Head [1984] Ch. 290, 306:
+
+‘That the rule rests, at least in part, upon public policy is clear from many authorities, and the convenient starting point of the inquiry is the nature of the underlying policy. It is that parties should be encouraged so far as possible to settle their disputes without resort to litigation and should not be discouraged by the knowledge that anything that is said in the course of such negotiations (and that includes, of course, as much the failure to reply to an offer as an actual reply) may be used to their prejudice in the course of the proceedings. They should, as it was expressed by Clauson J. in Scott Paper Co. v. Drayton Paper Works Ltd. (1927) 44 R.P.C. 151, 156, be encouraged fully and frankly to put their cards on the table … The public policy justification, in truth, essentially rests on the desirability of preventing statements or offers made in the course of negotiations for settlement being brought before the court of trial as admissions on the question of liability.’
+
+The rule applies to exclude all negotiations genuinely aimed at settlement whether oral or in writing from being given in evidence.”
+
+56.  The rationale of the rule is not only to prevent the use of admissions, but that “parties and their representatives who are trying to settle a dispute should be able to negotiate openly, without having to worry that what they say may be used against them subsequently, whether in their current dispute or in some different situation”: per Lord Rodger in Ofulue v Bossert [2009] 1 AC 990 at §43.  The public policy protects negotiations from disclosure “whilst liability is still in issue”: Cutts v Head [1984] Ch 290, 310.  This protection continues so long as the dispute remains unresolved one way or another for there was a risk that things said in negotiations might be used against the parties; the precise way in which they might be used against them is beside the point: per Lord Hope in Ofulue at §9.[20]
+
+57.  The rule is “generous in its application.  It recognizes that unseen dangers may lurk behind things said or written during this period, and it removes the inhibiting effect that this may have in the interests of promoting attempts to achieve a settlement”: Ofulue at §12.  To dissect out identifiable admissions and withhold protection from the rest would not only create huge practical difficulties but would be contrary to the underlying objective of giving protection to the parties so that they could speak freely about all issues in the litigation when seeking compromise: Unilever plc v The Procter & Gamble Co [2000] 1 WLR 2436, 2448‑9.
+
+58.  These judicial statements were uttered in the context of private civil litigation.  While the actions that may be taken by the Commission for infringement of competition rules are not ordinary civil actions between private parties, there is in my view an at least equally strong public interest in facilitating the kind of cooperation and settlement envisaged in the Leniency Policy (as well as other forms of cooperation and settlement referred to below in relation to Class 5).  Such arrangements enable the Commission to carry out its investigations more efficiently, save the public time and costs, and (especially in the case of settlement) give early redress to any harmful conduct, thereby benefitting society as a whole. 
+
+59.  In Property Alliance Group Ltd v Royal Bank of Scotland plc [2016] 1 WLR 361, where the bank had previously negotiated with the (UK) Financial Services Authority in relation to alleged manipulation of Libor which resulted in a financial penalty being imposed, it was held that a privilege had arisen in respect of the communications between the bank and the authority by analogy with the without prejudice rule, which could in principle be asserted against a third party who sought disclosure of the documents in a subsequent civil suit against the bank (see §99).  Similarly, I see no reason in principle why without prejudice privilege cannot apply to the negotiations between the Commission and persons subject to investigation or proceedings even though the context lies outside litigation of private rights. 
+
+60.  Without prejudice privilege does not only mean the information cannot be used as evidence against a party but generally permits privileged documents to be withheld from third parties in litigation connected with the same subject matter: see Rush & Tompkins Ltd v Greater London Council [1989] AC 1280, 1301.
+
+61.  Mr McCoy submitted that such negotiations between the Commission and a third party on potential cooperation or settlement, even where they have not resulted in any agreement, should be disclosed to SiS, even though they remain “without prejudice” to the third party concerned and therefore, for instance, could not be used by the Commission in any enforcement proceedings against him.  I view this submission with some alarm because, if accepted, it would mean that no one could safely negotiate with the Commission on a without prejudice basis with any confidence that the communications would remain confidential between them at least unless and until an agreement is reached.  On that submission, as soon as an enforcement action has begun, the Commission would have to disclose to the respondents all these communications.  The line between using the information against the negotiating party and allowing other parties to make use of it for their own purposes is too fine to offer any comfort.
+
+62.  In this connection it is to be noted that in September 2017, when another respondent herein applied for an order to expunge from the affidavits and the Commission’s list of documents references to certain without prejudice communications, and for a consequential order that the other respondents deliver up copies of the documents, SiS did not object on the ground that without prejudice privilege did not justify withholding the documents from the other respondents or on any other ground.
+
+63.  Relying on R v K(A) [2010] QB 343, Mr McCoy made a sweeping submission that without prejudice privilege simply does not apply in proceedings such as these as against respondents that are not party to the negotiations.  In R v K(A), the relevant issue was whether statements made by a person in a without prejudice meeting with his wife’s lawyers relating to ancillary relief, which tended to show he had failed to account for tax, were admissible as evidence in his subsequent prosecution for cheating the public revenue.  The English Court of Appeal held that they were.  For the reasons below, however, I do not consider the decision to be authority for Mr McCoy’s wide proposition:
+
+(1) R v K(A) did not concern a contest for disclosure and production of the materials, but rather their admissibility in circumstances where they had already fallen into the hands of a third party, i.e. the Crown — this was emphasized in the judgment (see pp 365G, 367C, 368B, 368G, 369B‑C).  In referring to R v Derby Magistrates’ Court, ex parte B [1996] AC 487, the court specifically noted that legal professional privilege (the subject matter of Derby Magistrates’ Court) was concerned with disclosure and not with admissibility (see §69).  This could also be seen from the reliance placed on R v Tompkins (1977) 67 Cr App R 181 (and also R v Cottrill [1997] Crim LR 56) which held that although the defendant could have refused to disclose a privileged note, it was admissible in evidence once it had fallen into the hands of the prosecution (see §§70, 71).
+
+(2) The charge prosecuted in R v K(A) was wholly unconnected with the without prejudice negotiations.  On that basis, and noting that “the public interest in preserving confidentiality becomes weaker the more remote the subject matter of those proceedings becomes from the subject of the original negotiations” (see §72, p 369D), the Court held that the public interest in prosecuting crime outweighed the public interest in the settlement of disputes.  Here, in contrast, the without prejudice negotiations were conducted by the Commission in connection with the very proceedings as those involving SiS in which disclosure is being sought.
+
+(3) These proceedings do not concern the prosecution of a traditional hard‑core criminal offence.  Even if they involve the determination of a criminal charge within the meaning of Article 11 of the Hong Kong Bill of Rights, this does not mean that they are to be equated for all purposes with criminal proceedings.  See also §27 above.
+
+(4) In any event, R v K(A) only decided that without prejudice statements in negotiations connected with prior civil proceedings could (once they had found their way into the prosecution’s hands) be adduced in evidence by the prosecution against the maker of the statements.  It did not decide that the prosecution was obliged to disclose without prejudice negotiations with one defendant to a co‑defendant where no settlement had resulted.  Specifically, it did not decide that documents covered by the kind of privilege held in Property Alliance Group Ltd v Royal Bank of Scotland plc to subsist in the negotiations between a person and a regulatory authority, could be disclosed by the authority and used by other respondents in the very proceedings which those negotiations unsuccessfully sought to avoid.
+
+(5) Accordingly R v K(A) does not seem to me to provide the answer to the question at hand at all.  Of greater relevance in my view are three Canadian authorities not cited by counsel.  In R v Bernardo [1994] OJ No 1718 (10 May 1994), LeSage J of the Ontario Court (General Division) said (at §16):
+
+“I agree … that there should be a recognised privilege surrounding plea discussions vis‑à‑vis the accused and the Crown. There are many reasons in the nature of public policy that would suggest that such a privilege does exist or ought to exist in order to encourage Crown and defence to have full, frank and private negotiations in criminal cases. … I am of the view that the public interest is well served by encouraging such frank and full discussions between counsel for the accused and counsel for the Crown. The saving to the public and the resulting benefit to the administration of justice in resolving cases that ought to be resolved is substantial. …”
+
+These considerations mirror those canvassed in the context of the question of public interest immunity above.
+
+(6) Mr McCoy was not able to cite any case in which failed plea negotiations between the prosecution and one defendant were required to be disclosed to a co‑defendant.  The case of R v Sayers and Elanik 2003 NWTSC 58 is authority to the contrary.  There Sayers had entered into plea negotiations with the Crown which resulted in an agreed statement of facts being prepared, but eventually he did not plead guilty.  Elanik, who was jointly charged and to be jointly tried with Sayers for second degree murder, sought disclosure of the agreed statement of facts.  Schuler J of the Supreme Court of Northwest Territories rejected the application, holding that Sayers was still an accused and very much at risk of prejudice.  The line advocated on behalf of Elanik, between using the information for her own case and using the information against Sayers in their joint trial, was “so fine as to be non‑existent”.  Any agreed statement of facts and other information provided to the Crown in the course of the plea bargaining on Sayers’ behalf was privileged and the privilege was a reasonable limitation on Elanik’s Charter right to make full answer and defence.
+
+(7) R v Sayers and Elanik may be contrasted with R v Nestlé Canada Inc 2015 ONSC 810, where two companies, Cadbury and Hershey, sought to prevent information they had provided to the Competition Bureau of Canada under its immunity and leniency programmes (during the “proffer” stage) from being disclosed by the Crown to persons who were subsequently indicted and facing trial for price fixing contrary to the Competition Act.  Nordheimer J of the Ontario Supreme Court held that settlement privilege[21] (the Canadian equivalent of without prejudice privilege) did not apply to prohibit disclosure to the accused of the information in question to the extent it was factual information.  As I read the decision, a critical fact was that Cadbury had been granted immunity and Hershey had received leniency treatment and pleaded guilty, so that neither of them was facing any criminal proceedings (or, indeed, any civil proceedings), nor could they point to any prejudice that would be occasioned to them from the disclosure sought: see §§11, 15‑16, 64, 69. The judge relied on R v Bernardo, supra, in which Lesage J held that the privilege surrounding the plea negotiations between the Crown and Homolka (an accomplice of Bernardo) did not prevent disclosure of the materials to Bernardo because the negotiations had resulted in a plea and Homolka was no longer at risk of prejudice and was instead being called as a witness for the Crown in the trial of Bernardo (see §§16‑17).
+
+(8) These Canadian authorities fortify my view that privilege exists in relation to leniency and settlement negotiations between the Commission and a potential target of investigation or enforcement at least where they have not resulted in a successful settlement.
+
+64.  Mr McCoy further referred to Davies and Davies v Nyland and O’Neil (1975) 10 SASR 76, but the relevant passages seem to me, with respect, to support no more than the proposition that statements made during a discussion for compromise that constituted one or more of the ingredients of the tort of interference with contract may be admitted in evidence (see pp 88‑91, per Wells J at first instance).  As such the statements may well fall within a recognized exception to the without prejudice rule, namely, where the privilege is a cloak for wrongdoing.  The authority does not assist SiS in the present case.  The same may be said of the cases cited by Mr McCoy in the same vein including New Zealand Institute of Chartered Accountants v Clarke [2009] 3 NZLR 264, §46; Jung v Templeton (HC Auckland CIV‑2007‑404‑5383, 30 September 2009), §36; and Pisimi v Kari [2011] PGNC 52, §22.
+
+65.  For the above reasons, the Commission is in my view also entitled to withhold from SiS all Class 1 documents on the ground of without prejudice privilege or a privilege akin to it as applied to these proceedings.
+
+VII.  Class 3 — The Complainant’s original electronic complaint form which was submitted to the Commission on 21 July 2016
+
+66.  The Commission objects to production of this document on the ground of public interest immunity.  The Chairperson’s certificate filed for this purpose stated that the vast majority of the Commission’s current investigations were commenced by way of complaints lodged by members of the public or companies based in Hong Kong, and that it is important that complainants not be discouraged from reporting to the Commission potential anti‑competitive conduct which merits investigation.  It is said that some complainants would be reluctant to lodge a complaint if the contents of their originating complaint (including their identity and contact details) would be made known to the subject of the complaint, and that disclosure of such information might expose the complainant to the risk of retaliatory or punitive measures and unnecessary harm.  This concern is reflected in the Commission’s Guideline on Complaints issued under s 38 of the Ordinance, where it is stated that the Commission “will not normally disclose the Complainant’s identity, without the Complainant’s consent”.
+
+67.  Having regard to the discussion above in relation to Class 1 documents, I accept that normally the complaint form, which contains the complainant’s name and other details that might tend to reveal his identity, would not only be confidential but also covered by informer privilege. 
+
+68.  The Complainant’s identity in this case was, however, revealed by the Commission of its own motion in the Originating Notice of Application.[22]  The fact that it made a complaint was deployed as part of the Commission’s case (since the knowledge of the complainant is a relevant issue in this case).  Having regard to the statement in the Commission’s Guideline on Complaints set out above, it can be inferred that this was done with the consent of the Complainant.  While the Complainant’s identity has been redacted in the public version of the document, this does not alter the fact that it has from the start been known to the respondents and “pleaded” as part of the Commission’s case.
+
+69.  Mr Mok submitted that even though the identity of the complainant had been disclosed, the identity of the individual who signed the complaint form has not yet been disclosed.  But there is nothing to suggest that the Complainant consented to the disclosure of its identity on condition that the signer’s identity be concealed.  The Commission has also disclosed documents recording information provided by the Complainant shortly after the submission of the initial complaint.  It seems to me that in these circumstances there is little left in the rationale for the complaint form to be withheld.  Further, as I understand the position, the key individuals within the Complainant involved in the tender will be giving evidence at the substantive hearing of the proceedings.  The complaint form may well constitute a prior statement on which they can be cross‑examined.
+
+70.  For this reason, there is in my view no further interest to protect that requires the complaint form to be withheld from SiS. Relevance is not denied and the document should therefore be made available within the confidentiality ring. 
+
+VIII.  Class 5 — All without prejudice correspondence and records of without prejudice communications between the Commission and any Respondent where an agreement has not been reached
+
+71.  The following points should be highlighted as regards the scope of this class:
+
+(1) Class 5 differs from Class 1 in that:
+
+(a) Class 5 (referring to “Respondent”) is limited to communications with the 5 respondents in these proceedings (though SiS obviously only seeks the Commission’s communications with the other 4 respondents).
+
+(b) Class 5 applies to without prejudice communications that do not fall under the Leniency Policy, and thus covers communications with regard to other forms of cooperation or settlement agreement with the Commission where the respondent did not qualify under the Leniency Policy or it was otherwise inapplicable.
+
+(2) Further, as in the case of Class 1 (see §28 above), the Commission’s objection:
+
+(a) does not extend to any pre‑existing documents which could serve as evidence in these proceedings provided during the without prejudice communications; and
+
+(b) covers only unsuccessful without prejudice communications.  Thus the Commission has disclosed the communications with Mr D which led to the conclusion of a cooperation agreement.
+
+72.  These other forms of cooperation or settlement agreement with the Commission may take different forms, as can be seen from the Commission’s Enforcement Policy, §§4.1‑4.5:
+
+“4.1 Persons may wish, at any time, to cooperate with the Commission in its investigations. The Commission will take such cooperation into account in considering the proportionate enforcement response in relation to that person.
+
+4.2 Persons may also wish to approach the Commission to seek to settle a matter. Approaches to the Commission to discuss settlement may be made on a “without prejudice” basis.
+
+4.3 The Commission will rely on its general enforcement discretion to consider offers of settlement. Settlement may take various forms, such as:
+
+(a) the Commission agreeing not to take action against individuals who wish to provide assistance to the Commission in their personal capacity in return for their cooperation;
+
+(b) the person entering a commitment with the Commission not to engage in anti‑competitive conduct again, and/or to offer appropriate redress to parties affected by the conduct; or
+
+(c) the person agreeing to resolve Tribunal proceedings on a consent basis through a statement of agreed facts and by seeking specific orders.
+
+4.4 If the Commission decides to apply for a penalty or other order before the Tribunal, settlement may, to the extent permitted by law, involve the Commission agreeing to make submissions for a reduced penalty and/or other appropriate orders by the Tribunal having regard to the timing, nature, value and extent of cooperation provided.
+
+4.5  Where cooperation relates to cartel conduct, the Commission will exercise this discretion mindful of the Commission’s Leniency Policy for Undertakings Engaged in Cartel Conduct.”
+
+73.  I should mention that the mechanism of “commitment” mentioned in §4.3(b) has express statutory basis in s 60 of the Ordinance, and that the resolution of proceedings on a consensual basis through a statement of agreed facts, referred to in §4.3(c), appears to be within the scope of CTR r 39.
+
+74.  In the present case, since the commencement of investigation, the Commission has engaged in without prejudice correspondence and communications with certain respondents with a view to resolving the Commission’s concerns in respect of those parties or entering into an agreement for cooperation in exchange for favourable treatment.  The Commission objects to production of these communications on the grounds of public interest immunity and without prejudice privilege.  It may be that informer privilege does not apply to this class of documents.  It is, however, unnecessary to consider the wider question of public interest immunity for I find that, for the reasons set out in connection with Class 1 above, Class 5 documents may be withheld from SiS on the ground of without prejudice privilege or a privilege akin to it applicable in these proceedings.  In any event, as SiS accepted, it is very unlikely that without prejudice communications regarding matters other than ultimately liability, eg agreeing procedural matters or interlocutory steps, would be relevant.
+
+IX.  Class 6 — All confidential internal reports, minutes and correspondence relating to the Commission’s investigation and present proceedings.  This includes any records of communication between Commission staff during the execution of search warrants under s 48 of the Competition Ordinance
+
+75.  The Commission objects to production on the ground that this class of documents are irrelevant.  As a fall‑back position, the Commission submits that the documents are covered by public interest immunity as a class and also asserts legal professional privilege over documents brought into existence for the dominant purpose of obtaining or providing legal advice.
+
+A.  Relevance
+
+76.  On behalf of the Commission Mr Mok submitted that Class 6 documents fall outside even the generous ambit of disclosure as explained in HKSAR v Lee Ming Tee, supra, and SFC v Wong Yuen Yee, supra.  It is to be noted that in Lee Ming Tee, Sir Anthony Mason NPJ said (at §§148, 161), after referring to the judgment of Lord Hope in R v Brown (Winston) [1998] AC 367, 377D, that the duty of disclosure related to materials “gathered by the investigating agency”.  In the seminal case of R v Ward [1993] 2 All ER 577, 601j, the English Court of Appeal also referred in this context to “all the material evidence which the prosecution have gathered”.  In Wong Yuen Yee, the Court also stated (at §82) that the required disclosure “should ordinarily include the information and documents [the SFC] has obtained from the investigation of the transactions that are eventually relied upon and complained of”.
+
+77.  Mr Mok submitted that internal documents generated within the Commission do not constitute materials gathered or obtained by it in the investigation.  I think that would generally be the case.  This is perhaps why the Prosecution Code published by the Department of Justice of Hong Kong states (at §12.6): “Internal records and materials generated by the prosecution in the preparation of the case may not be disclosable” (italics added).  Likewise, the practice of the European Commission, as stated in Commission Notice on the rules for access to the Commission file in cases pursuant to Articles 81 and 82 of the EC Treaty, Articles 53, 54 and 57 of the EEA Agreement and Council Regulation (EC) No 139/2004, is that:
+
+“Internal documents can be neither incriminating nor exculpatory. They do not constitute part of the evidence on which the Commission can rely in its assessment of a case. Thus, the parties will not be granted access to internal documents in the Commission file. Given their lack of evidential value, this restriction on access to internal documents does not prejudice the proper exercise of the parties' right of defence.” (footnotes omitted)
+
+Examples of internal documents given in the footnote are
+
+“drafts, opinions, memos or notes from the Commission departments or other public authorities concerned”.
+
+78.  The same approach is adopted by the Competition and Markets Authority of the UK, allowing the authority to exclude “internal documents” from access by a relevant party: see rule 6(2) of the Competition Act 1998 (Competition and Markets Authority’s Rules) Order 2014 (SI 2014/458).[23]
+
+79.  Mr McCoy’s riposte to this is that the list of documents as ordered by the Tribunal should only contain relevant documents.  If documents are irrelevant, they should not have been included in the list in the first place.  It is difficult to fault this logic, but the history of the matter shows that Class 6 was added by way of a supplemental list in order, inter alia, to assert public interest immunity over internal documents, in response to challenges in correspondence raised on behalf of SiS and Innovix.  Mr Mok submitted that public interest immunity was the fall‑back position of the Commission in the event the documents were not held to be irrelevant.  Accordingly I do not think the Commission is precluded from contending that the documents are irrelevant, although this has led to difficulties in assessing the immunity claim as I shall explain below.
+
+80.  There is undoubtedly reason to believe that the vast majority of the documents within Class 6 are irrelevant and not necessary for the fair disposal of the proceedings.  The opinions and assessments of the Commission’s members and staff are neither evidence nor material that will assist any party in any relevant sense, as is accepted by SiS.  Nor will communications of an administrative nature generally be relevant.  One can readily see that internal reports, Commission’s minutes, internal comments, analyses, assessments and the like, so long as the primary materials on which they are based are disclosed, are unlikely to be relevant.  Their disclosure would be quite unnecessary for the fair disposal of the proceedings.
+
+81.  But it does not follow that a document is necessarily irrelevant simply because it is an internal communication within the Commission.  An internal document containing information gathered during the investigation which is not otherwise recorded and disclosed may for that reason be a relevant document.  A hypothetical example was raised during argument: supposing an officer of the Commission, after speaking on the telephone to a person approached for information or evidence, did not create a separate note of the conversation but instead recorded what he was told in an email to a colleague, that email, albeit internal, would contain a record (not found elsewhere) of information gathered in the investigation.  Mr Mok was driven to accept that the email would be disclosable.  Whether such documents in fact exist is not known, but there were in the present case external communications of which no note has been produced (see, for example, §108 below). 
+
+82.  The Commission said that there are at least 7,325 internal emails alone that were generated during the investigation, not all of which apparently had been inspected by the Commission for relevance or sensitivity.  If one seeks to focus on those that may possibly contain external information not otherwise disclosed, I do not think the task would be oppressive.  In future, the Commission can adopt practices to minimise the possibility that its internal documents become relevant and potentially disclosable.
+
+83.  It follows that I am unable to accept that a document must be irrelevant merely because it originated and was destined within the Commission and was not produced for the purposes of disclosure outside the Commission.  The Commission should in my opinion review its position to see whether on the basis explained above there are any Class 6 documents that are relevant and prima facie lie within its duty of disclosure.
+
+B.  Legal professional privilege
+
+84.  Within Class 6 the Commission invokes legal professional privilege for “internal confidential documents which were produced or brought into existence with the dominant purpose that they or their contents be used to obtain or provide legal advice from the Commission’s in‑house lawyers”.
+
+85.  There is no dispute of principle here.  SiS accepts that the Commission is entitled to claim legal advice privilege over the entire continuum of communications, provided that the documents in question are actually connected with the seeking of legal advice from a qualified lawyer, whether external or in‑house, acting in a legal professional capacity: see Super Worth International Ltd v Commissioner of the Independent Commission Against Corruption [2016] 1 HKLRD 281, §63; Balabel v Air India [1988] Ch 317, 330.
+
+C.  Public interest immunity
+
+86.  The law recognises that an immunity may arise where disclosure of a document is injurious to the public interest.  To assess a claim for immunity the court has to examine closely, inter alia, the potential damage to the public interest that, it is said, would result from disclosure.  The initial affidavit of the Commission verifying the supplemental list of documents claimed public interest immunity over Class 6 en bloc based on the need for the Commission’s staff to freely communicate with each other and because the effectiveness of the Commission’s operations may be prejudiced if its internal reports, correspondence and minutes are disclosed.  That approach seems to me far too general.  I am unable to accept the sweeping proposition that every internal communication is privileged on such general grounds.
+
+87.  The Chairperson’s certificate subsequently filed divided the internal documents generally generated by the Commission into 5 sub‑categories but several of these sub‑categories are still widely defined.  Moreover, since the question of public interest immunity only arises if a document is relevant and is necessary for the fair disposal of the proceedings, and a balancing exercise may be involved, it has been difficult to assess the claim for immunity in any final manner because it is at present not clear precisely which documents might be relevant and at least what kind of relevant information they might contain.  Doing the best I can in the circumstances, I shall deal with the 5 sub‑categories in turn stating my views to the extent appropriate. 
+
+(i)  Records of internal communications between Commission staff during the execution of search warrants issued under s 48 of the Ordinance
+
+88.  It appears that this class of documents relate solely to the execution of search warrants.  It is not easy to see how they would contain anything relevant or necessary for the fair disposal of the proceedings.  It is not in dispute that the affirmations made in support of the application for search warrants are covered by public interest immunity (Class 2 above).[24] It seems to me that if and to the extent these internal communications tend to reveal the Commission’s sources of information or its plans, methods, procedures and tactics in investigation, then they likewise should be privileged because their disclosure would be prejudicial to the discharge of the Commission’s functions in future.  There seems to me to be little basis, however, to hold that all internal communications during the execution of search warrants would, as a widely defined class that may comprise communications of all sorts, meet that condition.
+
+(ii)  Preliminary and preparatory working drafts of witness statements of informants, complainants and/or persons under investigation generated internally by staff of the Commission
+
+89.  The Chairperson has explained that, after Commission staff has conducted an interview with an informant, complainant or person under investigation and before the information gathered is reduced to a finalised witness statement, initial or working drafts of some form of a statement would normally be prepared by the staff responsible for the questioning.  These initial drafts represent an interpretation of the information provided in the interview only and will by nature be incomplete, not yet fit or approved for external review, and may not have been cross‑checked for accuracy.  Often such drafts will be prepared by junior staff, with the intention that they would be reviewed by a supervisor prior to being finalised.  It was said that disclosure of such drafts might lead to inaccurate representations of fact or evidence and misinformed challenges, unnecessarily require staff to perfect what are merely intended to be working drafts and thereby prejudice the Commission’s overall investigation process.
+
+90.  I doubt if these feared consequences are sufficient to constitute substantial harm or real damage to the public interest so as to attract public interest immunity.  It may be that the real objection to disclosure of purely internal drafts not communicated to the maker of the statement in question, is that such internal works‑in‑progress, varying in content from time to time as the relevant staff works on it, are irrelevant and not necessary for the fair disposal of the proceedings.  In the absence of anything more, however, I do not think a case for public interest immunity has been made out for such drafts.
+
+(iii)  Internal preparatory and briefing notes prepared by Commission staff for the purpose of conducting interviews or executing warrants under s 48 of the Ordinance
+
+91.  The Chairperson explained that, in practice, prior to questioning persons under investigation or executing a search warrant, Commission staff would generate (for their own use) preparatory notes for the relevant meeting, interview or operation.  Briefing notes may thereafter be prepared for use by other staff participating in the investigation of the case to expedite their grasp of the facts, suggest potential lines of questioning, or advise on operation tactics.  Such records are of an informal and incomplete nature, created for the use of staff in discharge of their duties.
+
+92.  It is said that if such records are disclosable, there is a very real risk that the staff responsible for the investigation would be inhibited from expressing themselves in a clear, frank and forthright manner when reporting their views, opinions, suspicions and recommendations. This would prejudice the proper conduct and management of the Commission’s investigatory work.  The disclosure of the manner and methods by which the Commission carries out its gathering of evidence, including for example interview or operation tactics, would enable persons to develop counter‑measures to thwart the Commission’s investigations.
+
+93.  To the extent this sub‑class concerns the execution of search warrants and the documents in it might reveal the investigation methods, procedures and tactics of the Commission, I consider that, for the reason referred to in §88 above in relation to sub‑class (i), such documents should also be covered by immunity.
+
+94.  Other internal preparatory and briefing notes, however, have not traditionally been treated as covered by public interest immunity as a class.  Nor do I think that the considerations put forward in the certificate are sufficient to justify conferring protection on all such documents irrespective of contents, many of which would not be of a sensitive character at all.  Nevertheless it seems to me these documents may well generally fall outside the duty of disclosure, though not because of public interest immunity, but because they are not materials gathered in the investigation nor are they otherwise relevant.  Preparatory and briefing notes record the planning, subjective understanding, appraisal of the materials and proposed strategies of the Commission’s staff, not what the interviewees say.  They are prepared before the relevant operation, not as a record of it afterwards.  They are for the staff’s own use, not shown to the interviewees for confirmation or otherwise.
+
+(iv)  Records of internal communications, recommendations, approvals, meetings and the relay of information generally, as between Commission staff and Commission Members, for the purpose of the performance of the Commission’s investigative and enforcement functions
+
+95.  The Commission consists of up to 16 members one of whom is the Chairperson.[25]  It is the Commission that decides, in meetings or by written resolutions, how to discharge its statutory functions and exercise its powers including the bringing of applications before the Tribunal.  The Commission has to rely on its staff to conduct investigations and produce reports, recommendations, updates and other communications for the Commission members to keep them apprised of the progress of particular cases and to seek their approval for particular steps. 
+
+96.  Although this category covers communications both ways, it seems unlikely that there would be anything relevant in the approvals, instructions or decisions relayed by the Commission to its staff. The focus is, I believe, on the communications from the staff to members of the Commission.  Even then I think the category is drafted too widely: “internal communications” and “the relay of information generally” may include administrative matters such as notices to Commission members of the date of a forthcoming meeting, which cannot possibly be relevant or attract public interest immunity in the present context. 
+
+97.  It seems to me that the category of documents answering this description which may possibly be privileged is much narrower, and may consist, for example, of some of the substantive reports made by the staff to the Commission members for their decision and the Commission’s minutes.  We are concerned only with these internal documents themselves, as opposed to their annexes which may include primary documents generated such as statements and notes or records of interview or materials gathered such as pre‑existing documents seized or otherwise obtained during the investigation.  As I understand the position, such primary or pre‑existing documents have already been disclosed by the Commission.
+
+98.  In the context of such reports and minutes, there is in my view much force in the Chairperson’s statement that disclosure could reveal highly sensitive and confidential information, for example in relation to the Commission staff’s appraisal of the case, the Commission members’ internal deliberations and the Commission’s approval mechanisms generally, and that it would prejudice the Commission’s effectiveness in its future operations by stifling proper and robust analysis and debate by Commission members and staff due to disclosure concerns.  Taylor v Anderton (Police Complaints Authority Intervening) [1995] 1 WLR 447 and O’Sullivan v Commissioner of Police of the Metropolis (The Times, 15 June 1995), both decided after the seminal decision of the House of Lords in R v Chief Constable of West Midlands Police, ex parte Wiley [1995] 1 AC 274, are authorities for the view that reports of such nature may properly be said to belong to a class to which public interest immunity attaches.
+
+99.  Taylor concerned reports prepared by investigating officers during investigations into police conduct pursuant to the (UK) Police and Criminal Evidence Act 1984 for use of the police authority which commissioned it and the Police Complaints Authority.  In Taylor, Sir Thomas Bingham MR stated (at p 465E‑H):
+
+“I am fully alive to the existence of a current of opinion strongly flowing in favour of openness and disclosure. I am also, however, mindful of the fundamental public interest in ensuring that those responsible for maintaining law and order are themselves uncorrupt, law‑abiding, honest and responsible. I do not myself find the points made by Mr. Cartwright in his affidavit to be unconvincing, unrealistic or suggestive of self‑interested special pleading. In very many cases where an investigating officer is appointed, there must be a real prospect of civil, criminal or disciplinary proceedings. I have no difficulty in accepting the need for investigating officers to feel free to report on professional colleagues or members of the public without the apprehension that their opinions may become known to such persons. I can readily accept that the prospect of disclosure in other than unusual circumstances would have an undesirably inhibiting effect on investigating officers’ reports. I would therefore hold that the reports of investigating officers made in circumstances such as these form a class which is entitled to public interest immunity. …”
+
+100.  O’Sullivan concerned the initial report form sent by the police to the (UK) Crown Prosecution Service following an investigation into a suspected criminal offence.  Butterfield J held that such report, as the genesis of a dialogue between the police and the Crown Prosecution Service commenting upon and expressing opinions about the primary material, belonged to a class of documents to which public interest immunity attached.
+
+101.  I agree it is equally vital that there should be freedom of communication in this context between the Commission and its staff, without apprehension that what was expressed might be disclosed to respondents in future.  An appropriately defined sub‑category of these documents could well, in my view, be covered by immunity.  Not knowing more precisely what these documents are, nor (assuming there are such documents that are relevant) what it is they contain that make them relevant, I am not in a position to assess whether they are necessary for the fair disposal of the proceedings or whether on balance their disclosure should still be required despite the immunity.
+
+(v)  Records of general internal communications between Commission staff responsible for investigations or litigation‑related tasks, including internal reports and electronic correspondence
+
+102.  The Chairperson explained that a large volume of general internal communications, reports and records may be generated by Commission staff in the performance of investigation and litigation‑related tasks.  This includes the preparation of reports or memoranda seeking internal approval from other Commission staff in relation to various investigative steps.  It was said that in these contexts, the Commission’s staff must be able to communicate with one another without fear that their views and discussions would be disclosed and scrutinised by parties to proceedings.  The prospect of disclosure would inhibit and prejudice the discharge of the Commission’s regulatory, investigatory and enforcement functions, and could give rise to misinformed challenges against tentative conclusions.
+
+103.  With respect, I am unable to accept that so large and general a class of internal documents all fall within the protection of public interest immunity.  The reality is probably that the vast majority of them are simply irrelevant because they concern administrative matters, or represent the opinions and analyses of Commission’s staff, or simply rehearse and therefore add nothing to other documents already disclosed.  To the extent they encompass reports to senior officers of a nature similar to the kinds of reports to Commission members considered in (iv) above, they may be protected by public interest immunity, but in the absence of more specific evidence about such reports I am not prepared to declare blanket immunity here.
+
+X.  Mr D documents
+
+104.  This class of documents sought by SiS, as stated in its supporting affirmation, relate to how the statement of Mr D dated 13 February 2017 came about.  The schedule to the summons sets out the following 7 sub‑classes of documents sought:
+
+1.   All drafts, notes, or earlier versions of Mr D’s Statement
+
+2.   Documents or records on how the communication between Mr D and the Commission was initiated
+
+3.   Documents recording the “offer of cooperation” from Mr D
+
+4.   Attendance notes of the telephone discussions on 9 December and 16 December 2016
+
+5.   The relay of information to the Commission on 15 December 2016 and the process for deciding whether to grant Mr D any guarantee/immunity
+
+6.   Notes on the questions posed to Mr D to generate the information given on 14 December 2016 and 31 December 2016
+
+7.   Internal communication of the Commission relating to Mr D
+
+105.  Mr McCoy’s overarching submission in respect of Mr D documents is that Mr D is no mere witness in this case.  He was a party to the alleged wrongdoing who has been given immunity in exchange for evidence relied upon by the Commission against SiS.  Counsel relied on the principle established by authorities that where a party to the wrongdoing alleged is given immunity and presented as a witness against other alleged parties, the court and the defence are to be given a “warts and all” account.  The phrase originated in this context from the judgment of the Court of Appeal in R v Tsui Lai‑ying & Others [1987] HKLR 857, given by Silke JA, where he said (at p 873B):
+
+“It is clear beyond peradventure that in cases like this the accomplice should be presented to the Court warts and all. The defence, is entitled to know everything about him, the terms of the immunity and any matters surrounding it which could affect the credibility of his evidence. …”
+
+106.  One example of the reasons for this need was given by Hartmann JA in HKSAR v Chong Chi Ho (unrep, CACC 259/2008, 29 May 2009), at §51:
+
+“For example, the manner in which he came to agree to give accomplice evidence may reveal that he was more interested in protecting himself than giving evidence as to the truth.”
+
+107.  The Court of Appeal recently reiterated the particular importance of the prosecution’s duty of disclosure in respect of prosecution witnesses who themselves are accomplices in the offence concerned: HKSAR v Wun Shu Fai [2017] 2 HKLRD 896, §§62‑63.  Mr Mok had no quarrel in principle with the application of this approach in these proceedings as far as Mr D is concerned.
+
+108.  To put the application in context it is necessary first to set out the relevant course of events:
+
+(1) On 9 December 2016, following a telephone call between a Manager in the Operations Division of the Commission (Mr Au) and Ms Wai, the principal of Wai & Co, the solicitors’ firm acting for Mr D, Wai & Co wrote to the Commission confirming a meeting on 14 December.  This letter has been disclosed by the Commission.  Mr Au had stated he did not take a note of the telephone conversation.
+
+(2) On 14 December, Mr D, accompanied by Ms Wai, attended a meeting with Mr Lear (then Executive Director (Operations) of the Commission) and Ms Tam (a Legal Counsel of the Commission) at which Mr D’s offer to cooperate in the Commission’s investigation was discussed.  The Commission’s file note and a 1‑page handwritten note of this meeting have been disclosed.
+
+(3) On 16 December, Mr Lear had a telephone call with Ms Wai informing her of the Commission’s position with regard to Mr D’s offer of cooperation.  Apparently no notes of this conversation exist.
+
+(4) On 22 December, the Commission wrote to Wai & Co setting out the Commission’s position as communicated orally on telephone on 16 December by Mr Lear to Ms Wai.  On 29 December, Wai & Co returned the acknowledgment signed by Mr D.  This correspondence thus constituted the cooperation agreement reached between the Commission and Mr D.  It has been disclosed by the Commission.
+
+(5) On 31 December, Mr Wong (a Manager in the Operations Division of the Commission) and Ms Li (an officer of the Commission under the supervision of Mr Wong), met with Mr D, Ms Wai and a barrister instructed on behalf of Mr D for the purpose of interviewing Mr D.  The notes of this meeting have been disclosed by the Commission, being a 10‑page handwritten note prepared by Ms Li and a 2‑page handwritten note made by Mr Wong.
+
+(6) Following this meeting, Ms Li drafted a statement based on her notes and recollection of the meeting, on which Mr Wong provided comments to Ms Li orally.  Ms Li then prepared a second draft reflecting Mr Wong’s input, which she sent to Mr Wong for review.  During this process, they contacted Mr D by way of “brief telephone calls” (the exact number of which cannot now be recalled) to verify the accuracy of certain factual information in these initial drafts, but no records of such conversations exist.[26]
+
+(7) On 8 February 2017, a draft statement of Mr D was circulated by the Commission to Ms Wai by email which stated that the draft was attached for her reference.  This draft statement was disclosed in the Commission’s list of documents.  The covering email was not disclosed in the list as it was thought to be obviously irrelevant, but has been exhibited to the Commission’s affidavit made in response to the present application.
+
+(8) The statement was signed by Mr D and dated 13 February 2017 and has been disclosed.
+
+(9) Mr D has made a witness statement after the commencement of proceedings dated 19 October 2017 (in which he confirmed the statement of 13 February 2017 subject to specified revisions).  He also made a supplemental statement dated 27 November 2017.  These were the statements exchanged under the Tribunal’s case management directions.
+
+109.  In relation to the matters leading to Mr D’s statement dated 13 February 2017, therefore, SiS has already been given: the co‑operation agreement with Mr D; the 2‑page file note and a 1‑page handwritten note of the meeting with Mr D on 14 December 2016; Mr Wong’s 2‑page note and Ms Li’s 10‑page note of the meeting with Mr D on 31 December 2016; the draft statement circulated to Mr D on 8 February 2017; and the statement itself signed and dated 13 February 2017.  I now deal with the 7 items listed in the schedule to SiS’s summons.
+
+Item 1 — All drafts, notes, or earlier versions of Mr D’s Statement
+
+110.  In the light of the evidence, the focus falls on the two draft statements prepared by Ms Li based on the meeting of 31 December 2016 and reviewed by Mr Wong referred to in §108(6) above.  Mr Mok argued that they are internal documents prepared for internal purposes only, not for “external consumption”.
+
+111.  I have already explained more generally in §90 above why the claim for public interest immunity in respect of draft statements fails.  Moreover, on the evidence, as pointed out by Mr McCoy, these statements are not purely internal works‑in‑progress. Whilst not circulated to Mr D, the drafts were at least in part the result of conversations with Mr D “during the process”, on unknown dates and in unknown number of telephone conversations, during which his response was sought.  Mr McCoy accepted that had a full record been kept of such communications, it might be convincingly argued that the intermediate draft versions were irrelevant as they “could add nothing to the picture”.  As it is, however, there being no other records of what the Commission gathered from Mr D on those occasions, and having regard to the special position of Mr D, it seems to me that the two drafts should be disclosed.
+
+Item 2 — Documents or records on how the communication between Mr D and the Commission was initiated
+
+Item 3 — Documents recording the “offer of cooperation” from Mr D
+
+Item 4 — Attendance notes of the telephone discussions on 9 December and 16 December 2016
+
+112.  As for items 2, 3 and 4, the Commission has stated that no document exists.  Mr McCoy submitted that it was difficult to believe no written record was made, but counsel’s incredulity alone is not a ground for disregarding the prima facie conclusive affidavit evidence filed by the Commission as to the non‑existence of the documents: Tai Fook Futures Ltd v Cheung Moon Hoi Jeff [2006] 4 HKC 81, §§33‑35.  In any event, to counter SiS’s submission that it is inherently improbable that no written note was created, the Commission prays in aid the practice of the European Commission which, as stated in §13 of Commission Notice on Access to File, involves “no obligation on the Commission departments to draft any minutes of meetings with any person or undertaking.”
+
+113.  It is, however, not clear whether in confirming that no written records exist, the Commission has included its “internal” documents or communications (see §§76‑83 above).  Mr McCoy gave the example of an internal email reporting a call from an insider in SiS who offered to tell all in exchange for immunity.  I have already explained above why such communications cannot automatically be excluded from the scope of disclosure on the ground of irrelevance or public interest immunity merely by reason of their being “internal”.  As things stand, the Commission’s affidavit evidence in response to these items need to be supplemented or clarified.
+
+Item 5 — The relay of information to the Commission on 15 December 2016 and the process for deciding whether to grant Mr D any guarantee/immunity
+
+114.  The Commission submitted that item 5 (as well as item 7) are obviously irrelevant as they do not contain contemporaneous records of any communications with Mr D.  I think that “the process for deciding whether to grant Mr D any guarantee/immunity”, so far as it refers to the internal assessment by the Commission, is irrelevant and unnecessary.  Such documents, to the extent they reveal the Commission’s deliberations and approval process for settlement or immunity, may also fall within sub‑class (iv) of Class 6 and be potentially covered by public interest immunity (see §§95‑101 above). 
+
+115.  But item 5 has arisen in part because the Commission’s file note of the meeting on 14 December 2016 recorded that Mr Lear told the meeting that:
+
+“the purpose of the meeting was to ascertain what evidence [Mr D] may be able to provide to assist in the investigation. This information will then be relayed to the Commission on Thursday (15 December 2016), who will decide whether or not to grant some form of guarantee/immunity to [Mr D]”.
+
+116.  The information as to what evidence Mr D could provide seems to me to be material gathered from the investigation.  Insofar as an internal document was then produced which “relayed” such information to the Commission on 15 December which was not already wholly reproduced in other documents disclosed (such as the file note of 14 December), the ground of objection of irrelevance would be invalid. Nor do I think that the claim for public interest immunity is a valid basis for objecting to production of this relaying of factual information, which seems to me within the scope of presenting Mr D “warts and all”. Indeed, at the hearing, Mr Mok accepted that if a document is found to exist that recorded the relay of information, it will be disclosed (presumably subject to any appropriate redaction).
+
+Item 6 — Notes on the questions posed to Mr D to generate the information given on 14 December 2016 and 31 December 2016
+
+117.  The evidence is that prior to the meeting of 14 December 2016, Mr Wong, the case manager, prepared a short briefing note setting out the factual information gathered to date and suggesting some potential lines of questioning that might be pursued should the opportunity arise, in order to give Mr Lear and Ms Tam the necessary background to Mr D’s involvement in the case.  Mr Wong also spoke with Ms Tam prior to the meeting and she made some handwritten notes in Chinese in preparation for the meeting.  No list of questions as such was prepared for either this meeting or the one on 31 December 2016.
+
+118.  On this evidence, I do not think these internal notes made by the officers prior to meeting Mr D and asking him questions are of relevance.  I refer to §§91‑94 above in relation to sub‑category (iii) of Class 6 more generally.
+
+Item 7 — Internal communications of the Commission relating to Mr D
+
+119.  While a high degree of disclosure is accepted in this context, “warts and all” does not mean everything under the sun.  Given that ex hypothesi we are not concerned with any document falling within items 1 to 6 above, it is difficult to see why all internal communications “relating to Mr D” fall within the ambit of the Commission’s accepted obligation of disclosure.
+
+120.  In Counsel’s submissions, item 7 was explained to be a broader catch‑all designed:
+
+“to require production of any internal communications that directly or indirectly reveal the contents of the communications between Mr D and the Commission about his being given immunity, and about what he will say when called as a witness”.[27]
+
+Provided it is so limited to the contents of the communications with Mr. D, it seems to me this residual sub‑category of documents (if in existence) may be disclosable.
+
+XI.  Residual prayer of summons
+
+121.  In addition to the various specific classes of documents discussed above, §1(d) of the summons asks for a list of “all other documents in relation to these proceedings which have not been disclosed by the Applicant to date”.  This seems to me to add nothing to the obligation accepted by the Commission from the outset.  SiS sought this order because (it alleged) there were shortcomings in the Commission’s discharge of its discovery obligations which led to doubts as to whether it had carried out a proper discovery exercise.
+
+122.  In my view, while the position taken by the Commission on discovery has not entirely been accepted by this Tribunal, the differences are disagreements in opinion which in no way cast doubt on the good faith of the Commission.  Having regard to the nature of what was disclosed in the supplemental lists, I do not think they in any way show that the Commission has taken a cavalier or obstructive approach to disclosure. Accordingly, I do not think this repetitive order is called for.
+
+XII.  Itemisation of documents
+
+123.  By CTR r 24, RHC O 24 r 5 expressly applies to the discovery of documents in proceedings in the Tribunal.  R 5(1) and (2) provide:
+
+“(1) A list of documents made in compliance with rule 2 or with an order under rule 3 must be in Form No. 26 in Appendix A, and must enumerate the documents in a convenient order and as shortly as possible but describing each of them or, in the case of bundles of documents of the same nature, each bundle, sufficiently to enable it to be identified.
+
+(2) If it is desired to claim that any documents are privileged from production, the claim must be made in the list of documents with a sufficient statement of the grounds of the privilege.”
+
+124.  In the case of Classes 1, 4, 5 and 6 (see §13 above), the production of which was opposed by the Commission, it can be seen that the documents have been described as a class.  SiS submitted that the proper approach was to list and identify each document individually, with the originator specified, and with parts redacted (as appropriate) stating the grounds of objection to disclosure of each part.
+
+125.  While O 24 r 5(1) requires that the list “must enumerate the documents … describing each of them”, it is the long established practice, based on authorities, that in the case of documents for which privilege is claimed, it is not required to list them individually; it is “permissible to give a compendious description by type or category, so long as it is possible to identify them, … provided that the ground of privilege and the facts giving rise to the claim for privilege are clearly stated”: Re Kong Wah Holdings Ltd (in compulsory liquidation) (No 4) [2007] 5 HKC 202, citing Ventouris v Mountain [1990] 3 All ER 157, 160g and Derby & Co Ltd v Weldon (No 7) [1990] 3 All ER 161, 178j.  As stated in the commentaries in Hong Kong Civil Procedure 2018, §24/5/4 (said in Re Kong Wah Holdings Ltd at p 201C to be an accurate summary), it is not required that the dates of the documents should be specified nor the names of the makers.  “ ‘Correspondence between the (defendant) and his solicitors for the purpose of obtaining legal advice’ is sufficient”.  There was nothing in the context to indicate that the direction given for discovery (see §9 above) was intended to depart fundamentally from this established practice.
+
+126.  In Kong Wah Holdings Ltd itself, Kwan J (as she then was) directed the respondent to provide “a list of the documents being withheld from production on the grounds of legal professional privilege, detailing the date of the particular document, the author, the addressee, a brief description of its nature (without disclosing its contents) and the ground of privilege relied upon” (see §§42, 72).  However, that case was concerned not with discovery of documents but with an order for production of documents made under s 221 of the then Companies Ordinance (Cap 32)[28]. No valid reason has been identified for the Tribunal to depart from the practice of the High Court so far as discovery is concerned.
+
+127.  Public interest immunity seems to me to stand on a different footing, at any rate where immunity is claimed by content not by class.  To make a proper claim for immunity, it would be incumbent on the Commission to specify the document and state the grounds on which it is said immunity exists in as much detail as possible (except perhaps where to do so would itself undermine or defeat the privilege).
+
+XIII.  Conclusion and orders
+
+128.  In broad summary, my conclusions are that:
+
+(1) Class 1 documents are covered by informer privilege and without prejudice privilege and Class 5 documents are covered by without prejudice privilege.  They do not have to be produced.
+
+(2) Class 3 — the original complaint form — is ordinarily protected by informer privilege but should be disclosed in this case within the confidentiality ring because the identity of the complainant has already been disclosed and deployed in the Commission’s case (with the inferred consent of the Complainant).
+
+(3) Class 6 documents cannot as a whole be said to be irrelevant simply because they were internal.  Instead, relevance has to be judged by content.  Nor are Class 6 documents protected by public interest immunity as a single class of internal documents.  Even based on their division into 5 sub‑classes in the Chairperson’s certificate, the class formulations seem too wide.  It is likely that two narrower types of documents, ie (without trying to define them) (i) reports to and minutes of the Commission concerning the results of the investigation and the enforcement steps to be taken, and (ii) certain internal communications and notes relating to the execution of the search warrants showing the methods, procedures and tactics of the Commission, would be covered by public interest immunity, but immunity for the rest of Class 6, if claimed, would have to be justified by content following the proper procedures.
+
+(4) As for Mr D documents, the two intermediate drafts of the statement made between 31 December 2016 and 8 February 2017 — which fall within item 1 — should be disclosed.  The Commission should review and clarify whether there are documents including internal documents that respond to items 2, 3, 4 and 7 (as explained in §120 above).  Documents within item 5 should be disclosed insofar they contain the relay of information to the Commission on 15 December 2016.  Item 6 would not be ordered.
+
+(5) No order need be made for a list of other documents not yet disclosed.
+
+(6) Where privilege is claimed by the Commission (except documents for which public interest immunity is claimed by content), it is permissible for it to describe the documents compendiously in the conventional way without listing each and every document individually.
+
+129.  The orders of the Tribunal are therefore:
+
+(1) The Applicant do within 14 days from the date hereof file and serve on the 3rd Respondent a list of documents (“List”), such List to include:
+
+(a) all documents under Class 3 and all documents passing between the Applicant and “other parties” under Class 4 in Part 2 of Schedule 1 to the List of Documents of the Applicant dated 23 June 2017;
+
+(b) all documents under Class 6 in Part 2 of Schedule 1 to the Supplemental List of Documents of the Applicant dated 31 August 2017, such list to include (without limitation) (i) the 2 drafts of the statement referred to in paragraph 12b of the 2nd Affidavit of Stephen Joseph Ryan filed on 7 December 2017; (ii) any documents falling within items 2, 3, 4 and 7 of the Schedule to the 3rd Respondent’s summons; and (iii) any documents relaying information to the Commission as envisaged in the file note of the meeting held on 14 December 2016 (item 114 of the List of Documents of the Applicant dated 23 June 2017).
+
+(2) The Applicant do at the same time as the List is filed, file and serve an affidavit verifying the List, setting out (if applicable) its claim for public interest immunity in respect of any documents.
+
+(3) The 3rd Respondent be at liberty to serve a written notice on the Applicant to request for inspection or copies of any of the documents in the List within 3 working days after service thereof.
+
+(4) Subject to any privilege or immunity claimed, the Applicant do allow inspection or provide the copies requested by the 3rd Respondent within 4 working days of the service of such notice.  In the case of Class 3 in Part 2 of Schedule 1 to the List of Documents of the Applicant dated 23 June 2017, the document shall be made available only to the Confidentiality Ring Members established pursuant to the Order of the Tribunal dated 26 May 2017.
+
+(5) There be liberty to apply.
+
+130.  On the question of costs, failing agreement, SiS should lodge brief written submissions within 21 days, followed by the Commission within 14 days thereafter.
+
+ 
+
+ 
+
+(Godfrey Lam)
+Judge of the Court of First Instance, High Court
+President of the Competition Tribunal
+ 
+
+Mr Johnny Mok SC and Ms Catrina Lam, instructed by Winston & Strawn, for the Applicant
+
+Mr Gerard McCoy SC and Mr Timothy Parker, instructed by Norton Rose Fulbright Hong Kong, for the 3rd Respondent
+
+[1] The identity of the individuals involved will be kept confidential, at any rate at this stage, pursuant to the confidentiality ruling dated 28 March 2017.
+
+[2] S 122.
+
+[3] S 126(1)(c) and (d).
+
+[4] Wong Yuen Yee at §71, citing HKSAR v Lee Ming Tee at §170.
+
+[5] This is consistent with the Commission’s stance that without prejudice privilege ceases to apply where an agreement is reached, but is of theoretical interest only in this case since no undertaking has been granted leniency.  It was said in the certificate of the Chairperson of the Commission that even in the case of successful leniency applicants, there is a need to withhold from disclosure without prejudice communications pursuant to which the application is made (such as the application statement or “proffer”, as referred to in §2.18 of the Leniency Policy).  As this aspect does not arise in the present case, it is unnecessary to deal with it.
+
+[6] per Advocate General Mazák in §31 of his opinion in Pfleiderer AG v Bundeskartellamt, Case C‑360/09, 14 June, 2011; [2011] 5 CMLR 7.
+
+[7] Leniency Policy, p 1.
+
+[8] Paragraph 3.4 concerns the situation where a leniency agreement has been terminated (as envisaged under s 81 of the Ordinance).  It states: “Information provided by an undertaking to the Commission pursuant to a leniency agreement which has been terminated may be retained by the Commission and used as evidence against that undertaking and other persons involved in the cartel.”
+
+[9] Defined as (a) any confidential information provided to the Commission by a leniency applicant for the purpose of making a leniency application and/or pursuant to a leniency agreement, and (b) the Commission’s records of the leniency application process, including the leniency agreement.
+
+[10] See the summary by Auld LJ in Chief Constable of the Greater Manchester Police v McNally [2002] Crim LR 832, at §§14‑21.
+
+[11] See §§2‑5, although his Lordship also emphasised the special role of informers in drug cases: §§6‑7.  See also HKSAR v Lam Timothy Yat Fung [2015] 4 HKLRD 666 (English translation at [2015] 4 HKLRD 679), at §§14‑15, applying HKSAR v Agara.
+
+[12] At §65.
+
+[13] A statement of objections notifies the relevant parties of a proposed infringement decision in respect of the competition law prohibitions.  It is provisional and affords the parties an opportunity of making representations on the matters set out, before a final decision is made.
+
+[14] Incidentally it may be noted that the court actually held that certain other statements of Amcor’s witnesses were subject to ACCC’s litigation privilege (§§39‑42).  See also ACCC v Yazaki Corporation [2014] FCA 1316 on the application of litigation privilege to information obtained pursuant to ACCC’s immunity policy.
+
+[15] See also see [2007] FCA 617 at §8.
+
+[16] See also §35.
+
+[17] Defined in s 157B(7) to mean information given to the ACCC in confidence relating to breaches of certain sections of the statute.
+
+[18] See Commission notice on immunity from fines and reduction of fines in cartel cases OJ [2006] C 298/17 (as amended by Communication 2015/C 256/01) §§33‑34.
+
+[19] As recognised in ECN Model Leniency Programme (revised in November 2012), Explanatory Notes §52.
+
+[20] In Ofulue v Bossert [2009] 1 AC 990, the issue arose, in a second action for possession, as to whether it was permissible for the registered owner to rely, as an acknowledgment of title, on a without prejudice offer made by the occupiers to buy the land in a previous action for possession between the same parties which was struck out for inactivity.  The House of Lords held it was impermissible.
+
+[21] It should be noted that public interest immunity was not relied upon by the Crown in that case: see §74.
+
+[22] At §34.
+
+[23] “Internal document” is defined in rule 1(1) as: “(a) a document produced by, or exchanged between, the CMA, a regulator or another public authority and which has not been produced for the purpose of public disclosure by the CMA, a regulator or another public authority, or (b) a document produced by, or exchanged between, any person from time to time retained under a contract for services by the CMA, a regulator or another public authority and the CMA, a regulator or another public authority and which has not been produced for the purpose of public disclosure”.
+
+[24] As has been held in the authorities, eg Apple Daily Ltd v Commissioner of the Independent Commission Against Corruption (No 2) [2000] 1 HKLRD 647.
+
+[25] s 2 of Schedule 5 to the Ordinance.
+
+[26] To explain the absence of telephone notes, the Commission prays in aid the practice of the European Commission referred to in §112 below.
+
+[27] SiS’s skeleton submissions §151.
+
+[28] Now s 286B of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap 32)
+
+ 
+

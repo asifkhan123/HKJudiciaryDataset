@@ -1,0 +1,199 @@
+CAAR 9/2022
+
+[2023] HKCA 496
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+APPLICATION FOR REVIEW NO 9 OF 2022
+
+(ON REVIEW FROM DCCC NO 342 OF 2022)
+
+_______________
+
+ 	Secretary for Justice	Applicant
+ 	v	 
+ 	Chung Pui-kit, Billy (鍾沛傑)	Respondent
+_______________
+
+Before:	Hon Macrae VP, Zervos and A Pang JJA in Court
+Date of Hearing:	23 March 2023
+Date of Judgment:	23 March 2023
+Date of Reasons for Judgment:	3 April 2023
+__________________________________
+
+REASONS FOR JUDGMENT
+
+__________________________________
+
+Hon Zervos JA (giving the Reasons for Judgment of the Court):
+
+1.  On 7 July 2022, the respondent pleaded guilty before Deputy Judge K Lo (“the Judge”) in the District Court to one charge of theft, contrary to section 9 of the Theft Ordinance, Cap 210 (Charge 1); and one charge of attempted theft, contrary to section 9 of the Theft Ordinance and section 159G of the Crimes Ordinance, Cap 200 (Charge 2). The Judge sentenced the respondent on the same day to an overall term of 2 years’ imprisonment.
+
+2.  With leave granted on 3 August 2022 by Poon CJHC, the applicant applied for a review of sentence, pursuant to section 81A of the Criminal Procedure Ordinance, Cap 221.
+
+3.  On 23 March 2023, we allowed the application for review and substituted for the original sentence, a term of 3 years’ imprisonment. We said that we would hand down the reasons for our decision in due course, which we now do.
+
+The facts[1]
+
+4.  The facts admitted by the respondent may be summarised as follows. Between 4 February and 10 June 2021, the respondent placed 53 online purchase orders for electronic goods with 7 victim companies on their websites. The respondent paid for the goods via a PayPal account which was underpinned by credit card information to effect the transactions. After the victim companies delivered the goods, they were informed by PayPal that the payments for those purchase orders were cancelled because they were not authorised by the relevant cardholders (Charge 1).
+
+5.  One of the victim companies received notification of payment cancellation from PayPal before it delivered all the ordered goods. The case was reported to the police, and a dummy parcel containing the outstanding goods was delivered to the respondent. The respondent was arrested when he received the goods in the controlled delivery (Charge 2).
+
+6.  Under caution, the respondent admitted to committing the offences and told the police that he had thrown away the mobile telephone used to contact the courier. With the assistance of the respondent, the mobile telephone was recovered. The contact information of six victim companies and the WhatsApp records for the relevant purchases were retrieved from the mobile telephone.
+
+7.  In a subsequent video-recorded interview, the respondent admitted the following. He found there was a sequence in the credit card numbers and the corresponding security codes for DBS American Express credit cards by coincidence. He used an online application to calculate the possible combination of credit card numbers, check digits, expiry dates and security codes. After many attempts by trial and error, he successfully placed online purchase orders with the 7 victim companies. He then hired drivers to collect the goods for him. He was solely responsible for the purchases from the 7 victim companies and received all of the goods ordered. He sold some of the goods, and the proceeds of $342,400 cash was seized from his residence.
+
+8.  The total value of the 204 items purchased by the applicant from the victim companies was $968,123. The respondent utilised the information of 44 credit cards to operate the PayPal account to place the orders. The police recovered 104 items with a total value of $360,987. The total loss suffered by the 7 victim companies was $951,125 without taking into account the recovered items and cash of the sold items.
+
+Reasons for sentence[2]
+
+9.  Having reviewed the facts, the respondent’s clear record and the mitigation submission[3], the Judge considered the appropriate sentences. In respect of Charge 1, the Judge considered that the 3-year starting point for simple cases of credit card fraud in HKSAR v Tu I Lang[4] and HKSAR v Lam See Chung Stephen[5]applied to the present case as the respondent’s modus operandi had put the operation of the credit card system and the reputation of Hong Kong as an international finance centre at risk. The Judge further noted that the respondent’s modus operandi was more sophisticated than making purchases with a genuine/counterfeit credit card at the shops. On that note, the Judge stated that, but for the respondent's clear record, a higher starting point would have been adopted, especially in view that the respondent had used the information of 44 credit cards to purchase goods of total value of nearly $1 million.
+
+10.  Regarding mitigation, the Judge did not accept that the respondent committed the offence out of impulse. She stated that the respondent's guilty plea was the only valid mitigating factor, and his clear record and remorse had been subsumed in the one-third sentencing discount. Accordingly, the Judge passed a sentence of 2 years’ imprisonment for Charge 1.
+
+11.  Regarding Charge 2, the Judge noted that the value of the goods in question was $11,673, the victim company did not suffer any actual loss, and the charge only concerned one purchase order and one credit card. On that basis, the Judge adopted a starting point of 2½ years and reduced it to 20 months by reason of his guilty plea.
+
+12.  Noting that the two offences took place at the same period of time and were of similar nature, and the subject matter of Charge 2 was undelivered goods arising from Charge 1, the Judge took the view that Charge 2 was bound up with Charge 1 and ordered the two sentences to run concurrently. Accordingly, she sentenced the respondent to a total of 2 years’ imprisonment.
+
+Grounds of review and applicant’s submission
+
+13.  Mr Derek Wong, who appeared for the applicant in this court and the court below, submitted that the starting point of 3 years’ imprisonment for Charge 1 was wrong in principle and/or manifestly inadequate. From this overall position, he developed four grounds.
+
+14.  Ground 1 averred that the Judge failed to give sufficient regard to the gravity of Charge 1 and its aggravating features. For three reasons, the seriousness of the present case should be classified as medium-scale. Therefore, the starting point for simple and small-scale credit card fraud[6] did not apply.
+
+(a)  The present case involved a high degree of planning and premeditation, and was well thought out in its execution, including the identification of a loophole in the credit card system, the use of online programmes to generate the correct combination of credit card credentials, the use of PayPal which did not require the input of the cardholder’s name, the hiring of drivers to collect goods to lower the risk of being detected and caught. The defence had also accepted that it was more sophisticated than a typical credit card fraud[7].
+
+(b)  The scale of the present case could hardly be regarded as small and simple. In Charge 1, through 53 transactions, 7 victims were deceived to part with their goods to a total value of nearly $1 million over four months. Even discounting the recovered property and cash, the actual loss was more than $250,000[8], higher than the amount involved in the medium size operation fraud envisaged by the Court of Appeal in R v Chan Sui To and Another[9].
+
+(c)  The information of 44 credit cards was used, and the potential loss was huge, which is the most important sentencing consideration: HKSAR v Ng Swee Thiam & Others[10].
+
+15.  Ground 2 complained that it was wrong in principle for the Judge, whilst acknowledging that the present case was more sophisticated than the usual credit card fraud involving the physical presentation of a genuine or counterfeit credit card[11], not to adjust the starting point of 3 years upwards without giving sufficient reasoning (other than the respondent’s clear record).
+
+16.  Ground 3 complained that it was wrong in principle for the Judge to give undue weight on the respondent's clear record. First, it was wrong in principle to consider the clear record to determine the appropriate starting point: R v Chan Ka Choi[12] and HKSAR v Law Num Chun[13]. Secondly, the Judge’s reliance on the clear record outweighed its significance. The 3-year starting point for simple credit card fraud applied to a first-time offender: HKSAR v Yang Xingyun[14]. And, the element of good character has been subsumed in the one-third discount for the guilty plea: Secretary for Justice v Tso Tsz Kin[15].
+
+17.  Ground 4 averred that the resultant sentence (of two years) was manifestly inadequate in all the circumstances of the case. First, by way of comparison[16], the applicant submitted that the same starting point had been applied in a similar but less serious District Court case HKSAR v Chung Kai Ming[17]. Second, in terms of the value of the stolen goods and the actual loss of the victim, the scale of the present case had exceeded the benchmark set by Chan Sui To for medium size operations involving sums falling between HK$50,000 and $150,000, which would attract a sentence of 5 to 6 years after trial[18]. The applicant submitted that a starting point of at least 6 years’ imprisonment should be adopted for the present case.
+
+18.  In conclusion, the applicant contended that the sentence imposed by the Judge was unduly lenient falling outside the range of sentences which a judge, applying his mind to all the relevant factors, could reasonably consider appropriate[19]. The applicant invited this court to substitute the present sentence with 4 years’ imprisonment having regard to the guilty plea of the respondent.
+
+Respondent’s submissions
+
+19.  Mr Karl Keung, who appeared for the respondent in this court but not in the court below, submitted that the Judge’s sentence was neither wrong in principle nor manifestly inadequate, and the applicant's proposed starting point of 6 years’ imprisonment was unduly harsh for the following reasons.
+
+20.  First, although the sum involved was large, the actual modus operandi was crude and unsophisticated, noting that (a) the respondent received the goods from the courier in person; (b) the respondent stored all of the stolen goods at his home; (c) the respondent assisted the police to retrieve incriminating evidence against himself, including the mobile telephone of his previous dealings; (d) the respondent only made use of information that was freely available on the internet and exploited the loophole existing at the PayPal payment system; and (e) the respondent acted alone and was more likely a “nerd” who had allowed himself to be taken over by greed.
+
+21.  Secondly, the Judge had given due consideration to the above rather than simply the respondent’s clear record.
+
+22.  Thirdly, if a defendant who assists authority can expect certain sentencing discounts, the respondent who assisted the police leading to his successful prosecution, can also expect similar treatment. The respondent highlighted that at trial the prosecution did not make any application to enhance the sentence under section 27 of the Organized and Serious Crimes Ordinance, Cap 455.
+
+23.  Mr Keung invited the court to refer to the sentencing guidelines for the offence of theft involving breach of trust in HKSAR v Cheung Mee Kiu[20] and HKSAR Ng Kwok Wing[21], which provide that for the amount between $250,000 and $1,000,000, the usual sentence should be 2 to 3 years’ imprisonment.
+
+Discussion
+
+24.  Whilst the decision of HKSAR v Herry Jane Yusuph[22] set out a six-step approach to sentencing for offences of trafficking in dangerous drugs, the approach and the principles that are addressed provide a useful guide to sentencing for offences in general.
+
+25.  In determining an appropriate and just sentence, the sentencer’s first task is to arrive at a starting point that properly reflects the seriousness of the criminality involved. This task is normally done by assessing the overall nature and scope of the criminal conduct, the harm it has or could cause, and the defendant’s role and culpability. The sentencer would usually refer to sentencing guidelines if they exist for the particular criminal offence in question. However, care needs to be taken when referring to sentencing guidelines of similar or related criminal offences, because in most cases they would not be appropriate and may be misleading.
+
+26.  There is a tendency when sentencing an offender to broadly label the criminality involved within the more established categories of criminal conduct and therefore incorrectly characterise the wrongdoing that has been committed. This broad labelling often occurs with new forms of criminal behaviour or where the crime involves a series of criminal acts. The present case is illustrative of this wrong approach.
+
+27.  This was a case of internet fraud in which a PayPal account, injected with credit card information, was used to swindle numerous retailers to provide valuable goods to the respondent without any payment being made. However, this case has in the main been put into the same category of a typical credit card fraud involving forged credit cards or using credit card information to acquire goods from shopkeepers. To properly sentence an offender, it is imperative to have a full and correct picture of the nature and scope of the crime involved. It would have been of considerable benefit to the Judge had she been provided with a detailed explanation of how the PayPal application operates, how the fraud was perpetrated, and who was at risk of suffering harm or loss as a result of what took place.
+
+28.  A wide range of offending conduct is covered by fraud, with dishonesty and deception as its hallmarks. The perpetrators of fraud are quick to adapt to changing circumstances and situations so as to take advantage of others, with devastating consequences for the victims beyond the loss and harm caused. Internet fraud is a relatively new phenomenon which has many forms and manifestations and has become a serious problem because of its magnitude and prevalence. To a certain extent, it is an effortless crime, mainly conducted by an offender from the comfort of his chair while using the instrument of his computer to swindle or harm others with relative ease and with dire consequences for his victims.
+
+29.  As stated by Macrae VP in Secretary for Justice v Kong Chi Kiu[23], internet fraud “by its very nature has unlimited reach, is relatively easy to perpetrate but difficult to detect and from which it is often impossible to recover losses.” In sentencing this new form of crime, he stressed, “there must be a significant element of deterrence for those contemplating committing such offences.”
+
+30.  As a result of the infinite variety of criminal activity that can take place on and through the internet, it would not be appropriate to fix sentencing guidelines. A key function of the courts is to deter the offender of internet fraud and other persons from committing similar offences and protect the community from this criminal conduct. As a matter of general principle, an offender of internet fraud can expect to receive a sentence that acts as both a specific and general deterrent. This will usually be in the form of an immediate custodial sentence.
+
+31.  Whilst the respondent acted alone, which is not unusual in this type of crime, there was a high degree of persistence and sophistication in the fraud he perpetrated online. He set up a PayPal account. He used an online application to obtain and devise viable credit card information, which he matched to a security code, having determined that the bank used the same security code for credit cards with the same specified expiry date. He then purchased goods from retailers online through his PayPal account. He used the details of 44 credit cards in the PayPal account to purchase 204 items with a value of $968,173 from seven victim retailers. As a result of the PayPal system, all but one credit card transaction was cancelled, with the loss incurred by the retailers who delivered the goods in question to the respondent. He perpetrated this fraud over a period of 4 months until the police apprehended him in a sting operation.
+
+32.  We considered that the sentencing cases dealing with credit card fraud and theft involving breach of trust were addressing different forms of criminality to the one in the present case, and therefore did not provide appropriate guidance in determining a sentence for the offending conduct that took place. The sentencing guidelines for credit card fraud are found in Chan Sui To[24]. This case was decided nearly 30 years ago and was concerned with the manufacture and use of counterfeit credit cards by criminal syndicates. The various factors said should be taken into account in ascertaining a sentence for credit card fraud included (a) the size of the operation, for example whether it involved large sums of money, whether it concerned a large number of persons or forged credit cards; (b) the planning that had gone into perpetrating the fraud, whether it was elaborate or simple, whether technical skills were used, and to what extent; (c) whether there was an international dimension; (d) whether the accused played a major role, for example running a syndicate, engaging in actual manufacture, organising the use of forged cards, or whether he was a mere “cog in the wheel” as a courier or a custodian or keeper; and (e) whether there was a plea of guilty. The Court explained that in considering whether large sums of money were involved, based on the then cost of living, amounts up to $50,000 would be considered relatively small, amounts from $50,000 to $150,000 medium, and amounts above that would be considered large. Whilst stressing that the sum of money involved was only one of the factors to be taken into account, the Court suggested that in an ordinary medium-size operation involving between $50,000 and $150,000, with no elaborate planning and equipment, and without an international dimension, an accused could expect to receive a sentence of 5 to 6 years’ imprisonment after trial. Clearly, these sentencing guidelines were addressing the particular type of credit card fraud that was then prevalent and were calculated on sums of money that were based on cost of living at the time. This needs to be borne in mind when referring to the sentencing guidelines in the context of current criminal conduct which may be not only different but more elaborate.
+
+33.  It has to be appreciated that when the Chan Sui To guidelines were formulated, the offence provisions commonly used against offenders of credit card fraud were making, using or possessing a false instrument or instruments and sometimes obtaining property by deception, theft or conspiracy to defraud. These various offence provisions have different maximum penalties upon conviction but are generally in the range of 10 to 14 years’ imprisonment. A typical credit card fraud was considered to involve making, using or possessing forged credit cards. When a division of this court in Tu I Lang suggested that a sentence of 3 years or less would be appropriate in a small unsophisticated operation, it was based on the guidelines in Chan Sui To and where the offender in that case had used a forged credit card and was in possession of two other forged credit cards.
+
+34.  In Lam See Chung Stephen the offender fraudulently used genuine credit cards and had been charged with theft and obtaining property by deception. McWalters JA suggested that many of the factors (which he referred to as “aggravating factors”) listed in Chan Sui To in sentencing credit card fraud were peculiar to syndicated counterfeit credit card fraud cases. Relying on Tu I Lang, he said that these factors would not be present in simple credit card fraud, whether involving counterfeit credit cards or stolen genuine credit cards, for which a sentence of 3 years or less would be appropriate[25]. The guidelines in Chan Sui To were directed to syndicated counterfeit credit card frauds and the reference to “aggravating factors” in Lam See Chung Stephen were in fact factors that could be an inherent part of the offence. In other words, they went to assess the seriousness of the offending conduct. We think it would have been more accurate to acknowledge that the criminality involved in Lam See Chung Stephen of fraudulently using credit card information differed from that in Chan Sui To, which laid out guidelines mainly addressing the manufacture and use of forged credit cards. However, as noted, sentencing an offender for credit card fraud requires a deterrent sentence because there is a need to protect the integrity of the credit card system and the potential for loss is great and often far greater than the actual loss involved.
+
+35.  The reliance on or reference to sentencing guidelines in this way does create problems, especially when they are dealing with a particular form of criminal activity and may now need updating because of the passage of time and changing circumstances. It is apparent that the criminality of credit card frauds has changed and there is less and less syndicated counterfeit credit card frauds but more online frauds where offenders are fraudulently using credit card information and other fraudulent methods to defraud others.
+
+36.  In the present case, we are primarily concerned with an internet fraud that involved, amongst other things, the utilisation of credit card information through the PayPal application. We would have adopted a starting point of 6 years’ imprisonment for Charge 1 given the online operation of the respondent’s fraudulent scheme; the scale and sophistication of the scheme and the means he employed to ensure anonymity; the significant planning and meticulous execution of the scheme; the number of actual and potential victims, namely the retailers, PayPal, the banks, the credit card company, and the credit card holders; the number of transactions involved; the number and value of the goods; the loss incurred by and harm caused to the victims; and that the offending took place over a period of 4 months and only came to an end because of police intervention. The respondent was solely responsible for devising and implementing this fraudulent scheme.
+
+37.  Certain features of this internet fraud, namely the number of transactions, the number of victims who incurred loss or were at risk of harm and the duration of the offending conduct could have been characterised as aggravating factors, but we considered that they were really a measure of the seriousness of the criminality involved. In Herry Jane Yusuph, Macrae VP, giving the judgment of the Court, adopted the definition of “aggravating factors” as those factors which indicate a high level of culpability on the part of the offender or greater degree of harm than that inherently present in the offence. It is important therefore that factors indicating culpability or harm which form an inherent part of the offence should not be counted twice as aggravating factors[26].
+
+38.  In addressing the mitigating factors, we would have given the respondent the full one third discount to his sentence for his timely guilty plea, which would have resulted in a sentence of 4 years’ imprisonment. We would have also given a further discount of 4 months to 3 years and 8 months’ imprisonment for the respondent’s assistance to the police in disclosing and identifying the fraudulent scheme and transactions, which would not have been readily detected without his co-operation. The loss to the victims was mitigated by the recovery of numerous items and the respondent’s acknowledgement that the cash seized from his premises was the proceeds of the sale of other items, which we were told has been distributed among the victim retailers. That would have been the sentence we would have passed, but we have decided to give the respondent an additional discount of 8 months to 3 years’ imprisonment because this is a review of sentence and he had already completed his original sentence following his discharge from prison on 10 October 2022. As for Charge 2, we would have adopted a starting point of 2 years and 6 months’ imprisonment, which we would have reduced by one third to 20 months’ imprisonment for the respondent’s guilty plea. No further discount was warranted for the sentence of this charge, which we would have made concurrent with the sentence on Charge 1. The result of this review of the respondent’s original sentence is that he will return to prison to serve the remainder of the sentence that we have imposed[27].
+
+Conclusion
+
+39.  It follows from what we have said that the respondent’s original sentence of 2 years’ imprisonment was substituted with a term of 3 years’ imprisonment.
+
+ 
+
+ 
+
+(Andrew Macrae)
+Vice President	(Kevin Zervos)
+Justice of Appeal	(Anthea Pang)
+Justice of Appeal
+ 
+
+Mr Derek Wong, SPP, of the Department of Justice, for the applicant
+
+Mr Karl Keung, instructed by Chan & Tsu, Solicitors, for the respondent
+
+
+[1]  Appeal Bundle (AB), pp 14-19.
+
+[2]  AB, pp 40-47.
+
+[3]  Including the respondent’s personal background that he was 28 at the time of sentence and a full-time student at the time of the offence, and other documents submitted on the respondent behalf, including the written mitigation, mitigation letters and judgments of HKSAR v Lam See Chung Stephen [2013] 5 HKLRD 242 and HKSAR v Cheung Mee Kiu [2006] 4 HKLRD 776.
+
+[4]  HKSAR v Tu I Lang (Unrep., CACC 464/2006, 18 May 2007).
+
+[5]  HKSAR v Lam See Chung Stephen [2013] 5 HKLRD 242.
+
+[6]  Tu I Lang, at [10] and Lam See Chung Stephen, at [38]-[40].
+
+[7]  AB, pp 22J-23B.
+
+[8]  $968,123 (total value of goods) - $342,400 (cash recovered) - $360,987 (total value of the goods recovered) = $264,736. The respondent admitted that the total loss suffered by the victim companies is $951,125 (AB, p 19, at [33]).
+
+[9]  R v Chan Sui To and Another [1996] 2 HKCLR 128, 134A.
+
+[10]  HKSAR v Ng Swee Thiam & Others [2000] 1 HKLRD 772, 778C.
+
+[11]  AB, pp 44R-45C.
+
+[12]  R v Chan Ka Choi [1988] 1 HKLR 530, 534G.
+
+[13]  HKSAR v Law Num Chun [2014] 5 HKLRD 500, at [30].
+
+[14]  HKSAR v Yang Xingyun (Unrep., CACC 155/2016, 25 January 2017, at [17] and [51]).
+
+[15]  Secretary for Justice v Tso Tsz Kin [2004] 2 HKC 139, at [18].
+
+[16]  While acknowledging direct comparison with other cases may not be appropriate.
+
+[17]  HKSAR v Chung Kai Ming (Unrep., DCCC 1050/2014, 5 February 2015).
+
+[18]  Chan Sui To, 134A.
+
+[19]  Attorney General’s Reference No 4 of 1989 (1989) 11 Cr App R (S) 517, 521.
+
+[20]  HKSAR v Cheung Mee Kiu [2006] 4 HKLRD 776.
+
+[21]  HKSAR v Ng Kwok Wing [2008] 4 HKLRD 1017.
+
+[22]  HKSAR v Herry Jane Yusuph [2021] 1 HKLRD 290.
+
+[23]  Secretary for Justice v Kong Chi Kiu [2023] 1 HKLRD 72, at [46].
+
+[24]  Chan Sui To, 131F-I and 134A-C.
+
+[25]  Lam See Chung Stephen, at [37] and [38].
+
+[26]  Herry Jane Yusuph, at [70].
+
+[27]  Secretary for Justice v Yu Chun Hing [2022] 1 HKLRD 97, at [78].
+
+  

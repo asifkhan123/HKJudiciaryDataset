@@ -1,0 +1,203 @@
+FAMC No. 32 of 2021
+
+[2021] HKCFA 42
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 32 OF 2021 (CRIMINAL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL FROM
+
+HCCP NO. 582 OF 2021)
+
+________________________
+
+BETWEEN	 	 
+HKSAR	Respondent
+and	
+NG HAU YI SIDNEY (伍巧怡)	Applicant
+________________________
+
+Appeal Committee: Chief Justice Cheung, Mr Justice Ribeiro PJ and Mr Justice Fok PJ
+Date of Hearing and Determination: 9 December 2021
+Date of Reasons for Determination: 14 December 2021
+________________________
+
+REASONS FOR DETERMINATION
+
+________________________
+
+The Appeal Committee:
+
+1.  This application for leave to appeal was dismissed at the hearing for reasons which we now provide.
+
+A.     The charges
+
+2.  The applicant is one of five persons who have been charged with an offence under section 10(1)(c) of the Crimes Ordinance[1] which materially provides as follows:
+
+“(1) Any person who ... (c) prints, publishes, sells, offers for sale, distributes, displays or reproduces any seditious publication; ... shall be guilty of an offence and shall be liable for a first offence to a fine at level 2 and to imprisonment for 2 years, ...”
+
+3.  This must be read together with section 9(1) which defines “seditious intention”:
+
+“(1) A seditious intention is an intention—
+
+(a) to bring into hatred or contempt or to excite disaffection against the person of Her Majesty, or Her Heirs or Successors, or against the Government of Hong Kong, or the government of any other part of Her Majesty’s dominions or of any territory under Her Majesty’s protection as by law established; or
+
+(b) to excite Her Majesty’s subjects or inhabitants of Hong Kong to attempt to procure the alteration, otherwise than by lawful means, of any other matter in Hong Kong as by law established; or
+
+(c) to bring into hatred or contempt or to excite disaffection against the administration of justice in Hong Kong; or
+
+(d) to raise discontent or disaffection amongst Her Majesty’s subjects or inhabitants of Hong Kong; or
+
+(e) to promote feelings of ill-will and enmity between different classes of the population of Hong Kong; or
+
+(f) to incite persons to violence; or
+
+(g) to counsel disobedience to law or to any lawful order.”
+
+4.  Section 2A(1) of the Interpretation and General Clauses Ordinance[2] provides that such a law must be construed with the modifications necessary to bring it into conformity with the status of Hong Kong as a Special Administrative Region of the PRC.  And as section 2A(3) stipulates, “In all laws previously in force words and expressions listed in Schedule 8 shall be construed according to that Schedule”.  This converts, inter alia, references to “Her Majesty” to references to the Central People’s Government or the HKSAR Government depending on the context.
+
+5.  The charge alleges a seditious intention on the applicant’s part, reflecting paragraphs (a), (c), (f) and (g) of section 9(1), in conspiring to print, publish (etc) certain allegedly seditious publications.
+
+B.     Refusal of bail
+
+6.  On 30 August 2021, the applicant was denied bail by Mr Peter Law, Acting Chief Magistrate.  On 12 November 2021, she unsuccessfully sought a review of bail before Andrew Chan J[3] who, applying HKSAR v Lai Chee Ying[4] (“the Lai case”), held that the more stringent threshold for the grant of bail under Article 42(2) of the National Security Law [5] (“NSL 42(2)” set out below) was applicable to the offence charged and that such threshold requirements were not met.[6] 
+
+C.     The leave application
+
+7.  The applicant sought leave to appeal on the (correct) footing that this is not a proposed appeal against a refusal of bail but on an anterior point of law, namely:
+
+“Whether the more stringent threshold requirement for the grant of bail under Article 42(2) of the [NSL] is applicable in relation to offences not created by the NSL, such as an offence under section 10 of the Crimes Ordinance ...”
+
+D.     The Judge’s refusal of a certificate
+
+8.  A Chan J refused to certify the abovementioned question, concluding that the point has already been decided against the applicant by the Court’s judgment in the Lai case.[7] There is considerable force in that view.  The relevant Articles of the NSL are as follows.
+
+9.  NSL 41 materially provides:
+
+“This Law and the laws of the Hong Kong Special Administrative Region shall apply to procedural matters, including those related to criminal investigation, prosecution, trial, and execution of penalty, in respect of cases concerning offence endangering national security over which the Region exercises jurisdiction.”
+
+10.  NSL 42(1) states:
+
+“When applying the laws in force in the Hong Kong Special Administrative Region concerning matters such as the detention and time limit for trial, the law enforcement and judicial authorities of the Region shall ensure that cases concerning offence endangering national security are handled in a fair and timely manner so as to effectively prevent, suppress and impose punishment for such offence.”
+
+11.  NSL 42(2) provides:
+
+“No bail shall be granted to a criminal suspect or defendant unless the judge has sufficient grounds for believing that the criminal suspect or defendant will not continue to commit acts endangering national security.”
+
+12.  In construing NSL 42(2), particularly its use of “acts” rather than “offences” endangering national security, the Court stated:
+
+“Secondly, the appellant contends that the word ‘acts’ includes acts which do not constitute of any offence. It is difficult to envisage the accused committing acts endangering national security which would not amount to offences either under the NSL or under HKSAR law. Indeed, it is hard to see why NSL 42(2) would, by its ‘sufficient grounds’ requirement, necessitate refusal of bail because the judge is not satisfied that the accused will not, if given bail, perform acts which would not constitute offences. The logic of the appellant’s construction is that the acts in question may be freely performed by anyone without breaking the law whereas such acts would necessitate refusal of bail. We would therefore construe ‘acts endangering national security’ in the context of the NSL 42(2) requirement as referring to acts of that nature capable of constituting an offence under the NSL or the laws of the HKSAR safeguarding national security.”[8] (Italics supplied)
+
+13.  The first italicised phrase bore a footnote[9] stating: “Such as the offences of treason, incitement to disaffection or sedition under Parts I and II of the Crimes Ordinance (Cap 200)”, thus directly indicating the answer to the proposed question of law. 
+
+14.  In summarising the position, the Court stated:
+
+“The judge should take the reference to ‘acts endangering national security’ to mean acts of that nature capable of constituting an offence under the NSL or the laws of the HKSAR safeguarding national security.”[10] (Italics supplied)
+
+15.  Mr Hectar Pun SC[11] sought to contend that the abovementioned statements in the Lai case were strictly obiter since the Court “did not decide the applicability of the more stringent threshold requirement for the grant of bail under Article 42(2) in relation to offences not created by the NSL”.[12]  Submissions were advanced inviting the Court to undertake a more extensive construction of NSL 42(2) in the context of other provisions of the NSL, the applicant’s proposition being that the more stringent threshold requirement under NSL 42(2) only applies to offences created by the NSL and not to offences like the offence charged.[13]
+
+E.     Is the applicant’s proposition reasonably arguable?
+
+16.  A more extensive analysis would involve two questions: (i) whether the construction adopted in the Lai case should be revised so that the phrase “acts endangering national security” (or the frequently used phrase “offence(s) endangering national security”) should be held to apply only to offences created by the NSL; and (ii) if not so limited, whether the offence charged in the present case is one of the non-NSL offences covered so as to attract the more stringent bail threshold referred to above.
+
+F.     Should the construction of NSL 42(2) be revised?
+
+17.  NSL 7 is relevant to both lines of argument.  It provides:
+
+“The [HKSAR] shall complete, as early as possible, legislation for safeguarding national security as stipulated in the Basic Law of the [HKSAR] and shall refine relevant laws.”
+
+18.  That Article shows that the NSL recognises that it provides an incomplete framework of laws designed to protect national security.  If one compares its coverage against what is “stipulated in the Basic Law”, one sees that while there is an overlap, the NSL omits to deal with some of the offences so stipulated, while at the same time making provision for matters going beyond those stipulated items. 
+
+19.  The relevant Article in the Basic Law is BL 23 which provides:
+
+“The Hong Kong Special Administrative Region shall enact laws on its own to prohibit any act of treason, secession, sedition, subversion against the Central People’s Government, or theft of state secrets, to prohibit foreign political organizations or bodies from conducting political activities in the Region, and to prohibit political organizations or bodies of the Region from establishing ties with foreign political organizations or bodies.”
+
+20.  The NSL creates offences of secession (NSL 1, 20-21), subversion (NSL 1, 22-23) and theft of state secrets as well as collusion with foreign countries or external elements to endanger national security (NSL 29), but does not directly address treason, sedition and the prohibition of the specified objectionable activities by or with foreign political entities.  However, significantly, the Crimes Ordinance does deal with treason (sections 2-4) and sedition (sections 9-14).[14] 
+
+21.  As the Court noted in the Lai case, “it is evident that the legislative intention is for the NSL to operate in tandem with the laws of the HKSAR, seeking ‘convergence, compatibility and complementarity’ with local laws” giving priority to NSL provisions in case of inconsistency.[15] 
+
+22.  NSL 3 expressly enjoins the executive, legislative and judicial authorities of the Region “effectively [to] prevent,suppressandimposepunishmentforanyactoractivity endangeringnationalsecurityinaccordance withthis Lawand other relevant laws” (Italics supplied).  NSL 8 is to like effect, regarding “acts and activities endangering national security”, providing: 
+
+“In order to safeguard national security effectively, the law enforcement and judicial authorities of the [HKSAR] shall fully enforce this Law and the laws in force in the Region concerning the prevention of, suppression of, and imposition of punishment for acts and activities endangering national security.” (Emphasis added)
+
+23.  Similarly, in relation to procedural matters including bail, as noted above, NSL 41 provides:
+
+“This Law and the laws of the [HKSAR] shall apply to procedural matters, including those related to criminal investigation, prosecution, trial, and execution of penalty, in respect of cases concerning offence endangering national security over which the Region exercises jurisdiction.”
+
+24.  Viewed purposively, the intent of the NSL is plainly for national security to be safeguarded by the complementary application of the laws which it creates together with the existing laws of the HKSAR, such as those contained in Part II of the Crimes Ordinance.
+
+25.  When the NSL intends particular provisions to apply or to relate only to those offences which it has created, it makes this clear, referring specifically to “this Law” (as opposed to the laws of the HKSAR) in such cases. 
+
+26.  For instance, NSL 36 and 37 apply “this Law” to offences committed on board a vessel or aircraft registered in the Region and also to a permanent resident of the HKSAR if such person commits an offence “under this Law” outside the Region.  It does not purport to extend extra-territorial liability under any other laws.  To take another example, NSL 40 establishes jurisdiction for the HKSAR “over cases concerning offences under this Law” except for cases falling within NSL 55 when the “exercise [of] jurisdiction over a case concerning offence endangering national security under this Law” is conferred on the Office for Safeguarding National Security of the Central People’s Government in the HKSAR subject to the conditions therein prescribed.  Such jurisdiction is not conferred on the aforesaid Office in respect of any other laws.
+
+27.  Where the NSL refers to “offence[s] endangering national security” without distinguishing between those offences which it creates and other offences of that nature, subject to any contextual or purposive arguments to the contrary which may arise in any particular case, it lends itself to the construction that it is referring to all such offences without distinction.  Examples include NSL 35 which disqualifies persons “convicted of an offence endangering national security by a court” from holding certain public offices; NSL 41 which requires the consent of the Secretary for Justice for prosecutions for offences endangering national security to be instituted;  NSL 43 which makes available investigative measures under HKSAR laws “when handling cases concerning offence[s] endangering national security”; NSL 44 which deals with the designation of judges to handle “cases concerning offence[s] endangering national security”; and NSL 45 which allocates jurisdiction to deal with such offences to HKSAR courts at each level.
+
+28.  The aforesaid approach applies a fortiori where the NSL provision refers to “acts endangering national security” (NSL 42(2)) or to “acts and activities endangering national security” (NSL 8).  As the Court held in the Lai case, that phrase, as used in NSL 42(2), should be construed as referring to acts endangering national security which are “capable of constituting an offence under the NSL or the laws of the HKSAR safeguarding national security.”[16]
+
+29.  It follows that construing NSL 42(2) in the context of the NSL as a whole clearly supports the conclusion that the construction adopted in the Lai case applies both to offences safeguarding national security created by the NSL and offences existing under HKSAR law. There is no reasonably arguable basis for the applicant’s proposition that the more stringent threshold for the grant of bail is confined to offences created by the NSL.
+
+G.     Is it reasonably arguable that the offence charged is not “an offence endangering national security”?
+
+30.  As noted above, in the Lai case, the Court identified the “offences of treason, incitement to disaffection or sedition under Parts I and II of the Crimes Ordinance” as instances of offences endangering national security under laws in force in the HKSAR, as Mr Pun SC accepted. 
+
+31.  That the NSL should be construed to include the section 10(1)(c) offence as an offence endangering national security appears inescapable.  As previously indicated, NSL 7 bears on this question.  It requires the HKSAR to “complete, as early as possible, legislation for safeguarding national security as stipulated in the Basic Law ... and [to] refine relevant laws”.  As we have seen, that stipulation is in BL 23 which requires the HKSAR to enact (among other laws) laws to prohibit any act of sedition.  The combined effect of BL 23 and NSL 7 is therefore to make it clear that a prohibited act of sedition – including an offence contrary to section 10(1)(c) of the Crimes Ordinance – qualifies as an offence endangering national security. 
+
+H.     Conclusion as to the leave application
+
+32.  For the aforesaid reasons, the proposed appeal is not reasonably arguable and leave to appeal was refused. It was properly held below that the more stringent threshold for the grant of bail under NSL 42(2) applies to the offence charged. 
+
+33.  It is now incumbent on the parties and the court to process the case with all possible expedition, as required by NSL 42(1) which, while laying down the more stringent threshold for the grant of bail, stipulates that “the law enforcement and judicial authorities of the Region shall ensure that cases concerning offence endangering national security are handled in a fair and timely manner”.  We note that Mr Anthony Chau,[17] indicated at the hearing that the prosecution was ready to proceed with the trial.
+
+34.  With the full cooperation of the parties, magistrates and judges should proactively seek ways to bring NSL-related matters to trial expeditiously, consistently of course with the interests of justice.  There should be proactive case management and a monitoring of progress by the court rather than leaving all initiatives to the parties while the person remanded remains in pre-trial custody for lengthy periods.  The court should set and enforce strict timetables and should critically consider whether any prescribed procedural steps, properly construed, can be eliminated, re-sequenced, modified, split up or made to run concurrently to avoid delay and wasted effort, consistent always with a fair trial.
+
+ 
+
+ 
+
+(Andrew Cheung)	(R A V Ribeiro)	(Joseph Fok)
+Chief Justice	Permanent Judge	Permanent Judge
+  
+
+Mr Hectar Pun, SC, instructed by Kenneth Lam, Solicitors, assigned by the Director of Legal Aid, Mr Anson Wong Yu Yat and Ms Ferrida Chan, instructed by Kenneth Lam, Solicitors, on a pro bono basis, for the Applicant
+
+Mr Anthony Chau, DDPP (Ag) and Ms Crystal Chan, SPP (Ag), of the Department of Justice, for the Respondent
+
+[1] Cap 200.
+
+[2] Cap 1.
+
+[3] Official Transcript of Decision, 12 November 2021.
+
+[4] (2021) 24 HKCFAR 33.
+
+[5] The Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region (30 June 2020).
+
+[6] The SJ provided her consent to the prosecution under section 11(2) of the Crimes Ordinance. 
+
+[7] Official Transcript of Decision, 12 November 2021.
+
+[8] Lai case §53(c)(ii).
+
+[9] Footnote 40.
+
+[10] Lai case §70(d)(ii).
+
+[11] Appearing for the applicant with Mr Anson Wong Yu Yat and Ms Ferrida Chan.
+
+[12] Form B, §15.
+
+[13] Ibid §21.
+
+[14] The NSL also creates offences involving terrorist activities (NSL 1, 9, 24-28) and collusion with foreign countries or external elements to endanger national security, not mentioned in BL23.
+
+[15] Lai case §29.Priority is given by virtue of NSL 62.
+
+[16] Lai case §§53(c)(ii) and 70(d)(ii).
+
+[17] DDPP (Ag), appearing for the respondent with Ms Crystal Chan, SPP (Ag).
+
+ 
+

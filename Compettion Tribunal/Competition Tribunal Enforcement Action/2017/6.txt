@@ -1,0 +1,87 @@
+CTEA 1/2017
+
+[2018] HKCT 3
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ENFORCEMENT ACTION NO 1 OF 2017
+
+____________
+
+BETWEEN
+
+ 	COMPETITION COMMISSION	Applicant
+and
+
+ 	NUTANIX HONG KONG LIMITED	1st Respondent
+ 	BT HONG KONG LIMITED	2nd Respondent
+ 	SIS INTERNATIONAL LIMITED	3rd Respondent
+ 	INNOVIX DISTRIBUTION LIMITED	4th Respondent
+ 	(trading as “INNOVIX DISTRIBUTION”)	 
+ 	TECH‑21 SYSTEMS LIMITED	5th Respondent
+____________
+
+Before: Hon G Lam J, President of the Competition Tribunal, in Chambers
+
+Date of Written Submissions: 4, 18 and 19 April 2018
+
+Date of Decision on Costs: 31 July 2018
+
+_____________________
+
+DECISION ON COSTS
+
+_____________________
+
+1.  This is the Tribunal’s decision on costs, having received submissions made by the parties in writing pursuant to the direction given at §130 of its decision dated 14 March 2018 on the 3rd respondent’s application for discovery.
+
+2.  SiS’s position is that it was the successful party, and that the Commission should have to pay 80% of SiS’s costs, with a certificate for two counsel, to be taxed if not agreed.  In contrast, the Commission contends that it was the overall successful party, and that SiS should pay 80% of the Commission’s costs; alternatively, if SiS is to be regarded as the winner, there should be no order as to costs.  Both parties have made submissions on the basis that the same principles apply here as in relation to the costs of ordinary actions in the High Court.  Although there was a passing reference in the Commission’s submissions that it is a “regulator” having “acted reasonably and appropriately in defending [SiS’s] application”[1], I do not understand it to be a submission that any different principles of costs should therefore be applied.
+
+3.  In a case like the present where discovery is sought in relation to a variety of disparate documents or classes of documents, based on different arguments and with different outcomes, it seems to me not necessarily practical or fair and just to try to identify a single “overall winner” and then say that costs should follow the event subject perhaps to appropriate deductions on recognised grounds.  It is not a case where different arguments or grounds were deployed to seek the same relief.  I propose instead to focus on the outcome on the various categories of documents separately (which, broadly, also represented separate issues).
+
+4.  Broadly speaking, SiS succeeded in obtaining an order in relation to Class 3 (the complaint form), Class 4 (correspondence with other parties), much of Class 6 (internal documents) and Mr D documents (except item 6) at least to the extent that the Commission is required to review those documents with a view to the proper discharge of its disclosure obligation.  In doing so, SiS succeeded on the arguments concerning the relevance and disclosability of internal documents as such and the question of litigation privilege and also succeeded in opposing the Commission’s blanket claim for public interest immunity over internal documents generally. 
+
+5.  The Commission argues that it was at most a draw in relation to Class 3, because this Tribunal held that the original complaint form is ordinarily privileged but has to be disclosed in this case because the identity of the complainant had already voluntarily been disclosed by the Commission.  But the argument on privilege is essentially the same as for Class 1.  The fact remains that this category was opposed by the Commission throughout but eventually unsuccessfully.
+
+6.  As to Class 4, which was conceded by the Commission at the start of the hearing, I fully accept the Commission’s submission that it should not be criticised for making a concession, but equally this cannot detract from the fact that SiS was the successful party on this category and that the concession was not made until most of the costs on this category had been incurred.
+
+7.  Class 6 and Mr D documents in my view occupied quite a substantial part of the dispute between the parties.  This Tribunal rejected the Commission’s argument that internal documents were as such irrelevant.[2] The Tribunal also did not uphold the Commission’s claim for public interest immunity in relation to these documents, which, even with the certificate of the Chairperson which was only filed after SiS’s skeleton argument, had been made in too general and sweeping a manner.[3]  There was insufficient basis for carrying out the balancing exercise that the Commission said the Tribunal was invited to undertake.
+
+8.  On the other hand, the Commission prevailed on Class 1 (leniency documents) and Class 5 (without prejudice communications), winning the arguments on informer’s privilege and without prejudice privilege as applied to these categories.  The Commission also successfully resisted a requirement to itemise the documents in respect of which it claims privilege, save as to public interest immunity.[4]
+
+9.  The Commission submitted that Classes 1 and 5 represented by far the predominant and substantive issues.  Reliance was placed on the fact that 30 pages of this Tribunal’s decision were devoted to them.  I accept that they were substantial issues, and from the point of view of the Commission they were no doubt of considerable general importance beyond this case.  A significant amount of evidence and argument was consequently directed to these categories.  The amount of discussion set out in the decision was, however, more a reflection of the novelty of the issues in the context of competition cases than necessarily of the amount of time spent by the parties. The Commission’s success on these Classes could not totally eclipse its failure on other issues.
+
+10.  The Commission submitted that SiS failed to engage with it in correspondence to clarify the precise orders sought and the issues raised by its application.  I have reviewed the relevant correspondence in the hearing bundles.  While it would have been better if SiS had proposed earlier the amendment which was ultimately made to its summons[5], SiS had by its affirmation and subsequent letters given notice that it sought a substantive determination of the validity of the grounds relied upon by the Commission for non-disclosure of particular categories of documents rather than merely a statement of the privilege claimed in relation to each document in an itemised list.  Anyway there was no substantial alteration in the Commission’s position as a result of the amendment of SiS’s summons.  Further, the skeleton arguments lodged by the parties’ counsel well in advance of the hearing as directed, had enabled the parties to engage with each other on the real issues and to avoid arguing at cross-purposes.  In all the circumstances I do not think that this is a significant factor.
+
+11.  The Commission also relies on the fact that only 12 items were disclosed following the Tribunal’s decision, but I do not think this is indicative of the extent of success on the part of any party.
+
+12.  Having regard to the relative success of the parties on the various issues summarised above, and the nature and content of the dispute in relation to these issues, and adopting a broad brush approach, I consider that the Commission should be required to pay one-third of SiS’s costs of the application including the costs of the written argument on costs.
+
+13.  There will therefore be an order that the Commission do pay one-third of SiS’s costs of the application, with a certificate for two counsel, to be taxed if not agreed.
+
+ 
+
+ 
+
+ 	(Godfrey Lam)
+President of the Competition Tribunal
+ 
+
+Mr Johnny Mok SC and Ms Catrina Lam, instructed by Winston & Strawn, for the Applicant
+
+Mr Gerard McCoy SC and Mr Timothy Parker, instructed by Norton Rose Fulbright Hong Kong, for the 3rd Respondent
+
+[1] Para 17
+
+[2] See paras 76-83
+
+[3] Paras 86-103
+
+[4] Paras 123-127
+
+[5] The first draft amended summons was enclosed to its solicitors’ letter of 29 December 2017.
+
+ 
+

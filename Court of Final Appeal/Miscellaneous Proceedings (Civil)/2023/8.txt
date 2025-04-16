@@ -1,0 +1,482 @@
+FAMV No. 299 of 2023
+
+[2023] HKCFA 39
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 299 OF 2023 (CIVIL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL FROM
+
+CACV NO. 97 OF 2020)
+
+________________________
+
+BETWEEN
+
+ 	FIRST LASER LIMITED	Plaintiff
+ 	(第一激光有限公司)	(Applicant)
+ 	and	 
+ 	FUJIAN ENTERPRISES (HOLDINGS) COMPANY LIMITED	1st Defendant
+ 	 	(1st Respondent)
+ 	(華閩(集團)有限公司)	 
+ 	JIAN AN INVESTMENT LIMITED	2nd Defendant
+ 	 	(2nd Respondent)
+________________________
+
+Appeal Committee:	Mr Justice Ribeiro PJ, Mr Justice Fok PJ and Mr Justice Chan NPJ
+Date of Hearing and Determination:	13 November 2023
+Date of Reasons for Determination:	21 November 2023
+__________________________________
+
+REASONS FOR DETERMINATION
+
+__________________________________
+
+Mr Justice Ribeiro PJ:
+
+1.  After hearing Leading Counsel for the applicant and without calling on the respondent, this Application was dismissed with costs awarded to the respondent for the reasons which we now provide. It is a Determination of unusual length necessitated by the complex background and voluminous judgments involved.
+
+2.  The applicant, First Laser Limited (“First Laser”), a Macau company, was controlled by Mr Ngan In Leng (“Ngan”) along with Hang Wo Properties Investment and Management Company Limited (“Hang Wo”) and Casix Optronic Manufacturing Ltd (“COM”).
+
+3.  The respondent, Fujian Enterprises (Holdings) Co Ltd (“FEHC”), is a Hong Kong company owned by the Fujian Provincial People’s Government involved in the production of crystals for use in the field of optronics. Its operating subsidiaries were Fujian Casix Laser Inc (“FCL”) and Fuzhou Casix Optronics Inc (“FCO”), both Mainland corporations.
+
+4.  In 2001, First Laser brought proceedings in Hong Kong against FEHC[1] for breach of contract. This led eventually to an appeal before this Court[2] which, in 2012, ordered an issue concerning restitution under that contract to be remitted to the trial judge, DHCJ Anthony To, to be determined in accordance with Mainland law. His Lordship’s judgment, issued after trial of the remitter,[3] was then successfully appealed by FEHC to the Court of Appeal.[4]  First Laser now applies to the Appeal Committee for leave to appeal against that Court of Appeal decision.
+
+A.  The factual background
+
+5.  Ngan and FEHC wished to form a joint venture for the production of optronics crystals in Macau. They entered into three agreements all dated 12 December 1996, involving the abovementioned companies. However, those agreements were superseded by the First Laser Agreement dated 28 December 1996 (“FLA”)[5] which is the subject-matter of the dispute.
+
+6.  As Lord Collins NPJ noted, the FLA was an agreement for FEHC to sell to First Laser 51% of its shares in FCL and FCO for US$3.1875 million (equivalent to HK$24.64 million), representing 51% of the net asset value of those companies, used to price the sale and purchase.[6]  First Laser paid the contractual price in full.[7]
+
+7.  However, while all the FCO shares were transferred to COM, the shares in FCL remained with FEHC since Mainland regulatory approval of the intended transfer of those shares was refused on the ground that FCL’s registered capital was not fully paid up.[8]  As Yuen JA later pointed out, this left the parties “in a state of limbo”.[9]  The position was recorded in a Memorandum signed by the parties dated 13 March 1998 (“1998 Memorandum”) which noted that the share transfers could not be completed and that FEHC temporarily held FCL, while COM temporarily held FCO. It stated that the position would be regularised and meanwhile, their relationship would be governed by the above-mentioned agreements. Ngan, through COM, had meanwhile invested US$410,000 and RMB 1 million in a project undertaken by a subsidiary of FCL named Casix Inc in the United States. It had been a commercial success, enhancing the value of FCL.[10]
+
+8.  After May 1998, following a change in personnel at FEHC, the parties’ relationship deteriorated. On 29 February 2000, FEHC sold all its FCL shares to JDS Uniphase China Holdings Company (“JDS”) for US$60 million. Regulatory approval was obtained for the JDS transfer after FEHC caused FCL’s registered capital to be reduced and paid up in full. This sparked the litigation between the parties.
+
+B.  Proceedings in the Mainland and in Hong Kong
+
+B.1  FEHC’s Mainland proceedings
+
+9.  FEHC successfully brought proceedings in the Fujian Higher People’s Court, obtaining a declaration against Hang Wo, COM and First Laser that the superseded agreements, the FLA and the 1998 Memorandum were all invalid.[11] On Ngan’s appeal, by its judgment dated 3 December 2004, the Supreme People’s Court (“SPC”) upheld the lower court’s finding that the FLA was invalid.[12]
+
+B.2  First Laser’s original Hong Kong proceedings
+
+10.  On the basis that Hong Kong law governed the FLA, First Laser started an action in the Court of First Instance asserting that FEHC had breached that contract by not obtaining the necessary approval for the transfer and by selling the FCL shares to JDS. It sought damages and a proprietary remedy based on constructive trust over the FCL shares and the proceeds of the sale to JDS. FEHC’s defence was that the agreement was void, being governed by Mainland law which prevented performance of the FLA because approval for transfer of the FCL shares had been refused.
+
+11.  FEHC made an open offer to return the HK$20 million[13] paid by First Laser under the FLA with interest and to forego the return of the FCO shares transferred to COM as well as its claim to a share of the dividends declared by FCO. First Laser rejected that offer.[14]
+
+B.3  The issues
+
+12.  Lord Collins NPJ identified the following issues:[15]
+
+(a)  Whether Hong Kong law or Mainland law governs the principal agreement between the parties (“Issue 1”);
+
+(b)  What is the effect of the judgment of the Supreme People’s Court on the validity of the agreement (“Issue 2”);
+
+(c)  What remedies are available to an innocent party in the event of invalidity of the agreement (“Issue 3”); and
+
+(d)  Whether the Fujian party is precluded from denying that it holds an interest in shares for the other party (and whether Hong Kong law or Mainland law is to be applied to determine that question) (“Issue 4”).
+
+Issue 1 – governing law 
+
+13.  The Judge held that the FLA was governed by and valid under Hong Kong law.[16]  He was reversed by the Court of Appeal, which held that the agreement was governed by Mainland law and that the decision of the SPC that it was invalid gave rise to an issue estoppel in the Hong Kong proceedings.[17]  The CFA agreed, pointing out that the FLA’s subject-matter was the sale of shares in Mainland companies with the Mainland being the only possible place of performance. So, quite apart from issue estoppel, the FLA was governed by Mainland law.[18]
+
+Issue 2 – effect of the SPC judgment 
+
+14.  Contrary to the Judge’s view,[19] the Court of Appeal held that the SPC’s decision created an issue estoppel that Mainland law applies and that the agreements were invalid.[20]  The CFA agreed.[21]
+
+Issue 3 – remedies
+
+15.  The Judge, applying Hong Kong law, held that FEHC had committed a repudiatory breach of the FLA entitling First Laser to damages quantified by reference to the sale price to JDS.[22] He held, moreover, that First Laser had acquired an equitable interest in 51% of the shares held by FEHC on a constructive trust for First Laser’s benefit.[23]  He therefore held that First Laser was entitled to compensation in the sum of US$30.6 million (equivalent to 51% of US$60 million).[24]
+
+16.  The Court of Appeal held that since Mainland law (and not Hong Kong law) applied, invalidity of a contract gave rise to two remedies: (a) restitution and (b) compensation from the party at fault.[25]  There was no proprietary remedy because Mainland law recognised neither the principle of constructive trusteeship nor any obligation to disgorge a benefit.[26]  The Court of Appeal held that if First Laser were to accept FEHC’s offer of restitution of HK$20 million (and interest, etc), judgment on such terms would be entered; but if not, the issue of restitution would be remitted to the trial judge for determination in accordance with Mainland law.[27]  It declined to remit the issue of compensation since the only compensation which First Laser had claimed was disgorgement of profits which was unavailable under Mainland law.[28]
+
+17.  Agreeing with the Court of Appeal, the CFA held that “the issue of restitution would have to be remitted to the Court of First Instance for determination under Mainland law.”[29]
+
+Issue 4 – estoppel by convention
+
+18.  The Judge, having found that the FLA was valid, did not consider whether FEHC was estopped from denying the validity of the FLA and First Laser’s 51% interest,[30] as might arise if there was an estoppel by convention.  The Court of Appeal held that such an estoppel, being a matter of substance and not procedure, would be governed by Mainland law under which such a doctrine did not exist.[31] 
+
+19.  In the CFA, Lord Collins NPJ agreed. An estoppel by convention did not arise.[32]  However, since the matter had been fully argued, Lord Collins NPJ reviewed the evidence and held that even if Hong Kong law had been applicable, the estoppel could not be made out. His Lordship observed that the conduct of the parties “bore little relationship to the [FLA]”[33] and “the evidence does not support First Laser’s thesis that the [FLA] was treated as binding and effective by the parties”. There had, for instance, been no reconstitution of the FCL board.[34]  The overall picture was “that the terms of the joint venture were never agreed and ... decisions were made on an ad hoc basis.”[35]  There was “no common assumption that notwithstanding the absence of approval for the transfer of FCL shares, the agreement was valid under Mainland law and that First Laser had a 51% shareholding notwithstanding the lack of approval.”[36] These aspects of the evidence are obviously of importance to issues arising on the remitter, as will be noted below.
+
+B.4  The basis of the order for a remitter
+
+20.  The CFA accordingly ordered that “the issue of restitution under Mainland law ... be remitted to the Court of First Instance.”[37]  In summary, that order was made on the basis that the FLA was an agreement for the sale and purchase of the FCL and FCO shares under which First Laser had made payment in full for a 51% interest; that FCL shares could not be transferred because Mainland regulatory approval had been refused; and that, after the parties had fallen out, FEHC had sold the FCL shares to JDS. The SPC had held that the FLA was invalid. DHCJ To had held that the FLA was governed by Hong Kong law and had awarded substantial damages, but he was reversed on appeal with both the Court of Appeal and the CFA holding that the FLA was governed by Mainland law which provided for the remedy of restitution consequent on such invalidity. Since the Judge had not considered that remedy, the issue of restitution was remitted to the Judge to be determined in accordance with Mainland law.
+
+C.  The Judge’s decision at the trial of the remitter
+
+21.  One might have expected the trial of the remitter to be brief and straightforward. However, the trial before DHCJ To lasted 10 days and his judgment ran to 189 pages.
+
+22.  This unexpected enlargement of the proceedings was due to the Judge allowing First Laser to introduce a claim for restitution based, not on the invalidity of the FLA as determined by the SPC and the CFA, but on a newly-minted agreement referred to as a “nominee investment contract” (“NIC”). That claim was based on a “judicial interpretation” by the SPC (referred to as “Provisions (I)”) which had been issued on 17 May 2010 and took effect on 16 August 2010, some 2½ years after DHCJ To’s original judgment. The Judge permitted First Laser to file fresh Mainland law evidence and to re-amend its pleadings pursuant to an application made to him in 2018, some six years after the CFA’s judgment.[38]
+
+23.  Article 18 of Provisions (I), on which First Laser relies, relevantly provides (in translation) as follows:
+
+“Where a contract between the actual investor and the nominal investor [shareholder] of a foreign-funded enterprise is determined as void, if the value of the equity held by the nominal shareholder is higher than the actual investment amount, and the actual investor requests the nominal shareholder to refund the investment money and [the word ‘pleads’ is deleted] for reasonable distribution of the equity proceeds between both parties on the basis of the actual investment it has made as well as the nominal shareholder’s participation in the business management of the foreign-funded enterprise, it shall be upheld by the people’s court.”[39] (footnote omitted)
+
+24.  Plainly, a contract coming within Article 18 of Provisions (I) – an NIC – is quite different from a contract like the FLA. Placing reliance on an NIC as its primary case, First Laser alleged that it was the “actual investor” and that FEHC was the “nominee shareholder” holding 51% of the FCL shares as its nominee so that, upon that NIC being declared invalid, First Laser became entitled to an award representing 51% of the enhanced value of the FCL shares reflected in the US$60 million JDS sale price.[40]  That was obviously a far cry from the simple sale and purchase contract constituted by the FLA.
+
+25.  The Judge held that First Laser succeeded on that primary case and was entitled to restitution in the net sum of HK$250,168,048[41] with interest. The Judge’s reasoning in this regard is highly controversial and is examined below.
+
+26.  First Laser also asserted an alternative claim for restitution based on the invalidity of the FLA, invoking various Mainland laws[42] in support of an award based on “improper profits”, applying a “principle of fairness” which, it contended, covered “other benefits generated from the original subject matter received by FEHC” yielding “more or less the same result as the primary claim under article 18 of 《Provisions (I) 》”.[43] The Judge accepted this submission and held that restitution under the alternative claim would entitle First Laser to an award in the same amount as for the primary claim.[44]
+
+D.  The Court of Appeal’s decision
+
+27.  The grounds of appeal argued by FEHC in the Court of Appeal were that:
+
+“(1) the Remitter Judgment went beyond the scope of the CFA’s Remitter Order;
+
+(2) the nominee investment contract found by the judge was not pleaded and was not supported by the factual evidence;
+
+(3) the judge’s findings were inconsistent with those made in previous decisions, in particular, the CFA Judgment;
+
+(4) even assuming there was a nominee investment contract, it has not been determined that this was void, and so Article 18 was not engaged;
+
+(5) the judge failed to address (or erred when he addressed) questions of Mainland law and the expert evidence;
+
+(6) the judge was wrong to find in favour of First Laser’s alternative claim.”[45]
+
+D.1  Whether the finding of an NIC was supportable
+
+28.  Yuen JA dealt primarily with whether the finding of an NIC was supported by the evidence and whether existence of such a contract was inconsistent with the Court’s previous decision.
+
+29.  As summarised in Section B.4 of this Determination, the Courts had uniformly treated the FLA, a contract for the sale and purchase of FCL and FCO shares, as the basis of First Laser’s claim. But as noted in Section C above, the finding of an NIC is premised on a very different relationship between the parties, involving First Laser as “actual investor” and FEHC as its “nominee shareholder”. On what basis did the Judge conclude that an NIC existed?
+
+30.  While explaining that he was not seeking to contradict the findings in the original proceedings, the Judge held that the NIC “coexisted” with the three agreements (meaning the superseded agreements as well as the FLA)[46] and came into existence on the basis of those agreements and the “conduct of the parties”.
+
+31.  It was conduct in accordance with what the Judge called “the spirit of” the FLA, even though that agreement had been held to be invalid:
+
+“Though the agreement was void and of no effect, the parties’ express intention and the parties’ conduct during the three years which followed do not vanish as if they never existed. They stand as evidence of the spirit of the First Laser Agreement on which a relationship of an actual investor and nominee shareholder under a nominee shareholding agreement may be inferred.”[47]
+
+32.  He held, somewhat puzzlingly, that:
+
+“... as Lord Collins NPJ observed in paragraph 112 of the CFA Judgment, what the parties did bore little relationship to the First Laser Agreement. But what the parties did was strictly in accordance with the spirit of the First Laser Agreement at least until late 1998 before FEHC had a change of mind.”[48]
+
+33.  If their actions bore little relationship with the FLA, it is hard to see how they could be said to be acting “strictly in accordance with” its “spirit”. Nevertheless, the “spirit” theme was repeatedly invoked as the basis for inferring an NIC.[49] Taking it further, his Lordship likened the parties’ relationship to that of a partnership:
+
+“The true nature of the agreement was a joint venture and the true relationship between the parties was one of partnership which co-exists with the relationship of vendor and purchaser shares.”[50]
+
+34.  DHCJ To summarised his NIC thesis as follows:
+
+“Legal facts need not be the result of the parties’ intentional or conscious conduct. They may arise from factual circumstances independent of the parties’ intention and may create legal consequences, including contractual consequence. I accept Professor Yin’s opinion. This nominee investment contract arose from the factual background including the Agreement, the three agreements, the 1998 Memorandum and the parties’ conduct. The parties conducted themselves in accordance with the spirit of the First Laser Agreement as if they were partners in the joint venture and shareholders of [FCL] and FCO. The fact that the FEHC permitted First Laser to participate as de facto partner in the joint venture and de facto shareholder in FCL and FCO is its recognition that its rights as shareholder of FCL and FCO is somehow and in some way subject to the rights of First Laser. These legal facts enable this court to draw as the only irresistible inference that FEHC and First Laser were engaged in a relationship of nominee shareholder and actual investor under a nominee investment contract. This contract is collateral to the Agreement, the three agreements, individually or collectively, which have been held to be void. Under this nominee investment contract, which I conveniently call ‘collateral contract’ using the common law term, FEHC was to hold 51% of the shares in FCL as nominee shareholder for First Laser and the balance of 49% in its own right as shareholder and actual investor until the shareholdings in FCO and FCL were regularized. Similarly, COM was holding 49% of the shares in FCO as nominee shareholder for FEHC and the balance of 51% in its own right as shareholder and actual investor.”[51]
+
+D.2  Yuen JA’s judgment
+
+35.  Yuen JA held that the finding of an NIC was both inconsistent with the facts accepted by the CFA and unsupported by the evidence.
+
+36.  As to inconsistency, her Ladyship pointed out[52] that the CFA had held that while the arrangement between the parties was for a joint venture, “the terms of the joint venture were never agreed”;[53] that “[w]hat the parties did bore little relationship to the First Laser Agreement”;[54] that the relations between them were “fluid” and “constantly shifting”; and that no board reorganization had occurred and no working group to address governmental approval had been formed.[55]  She noted that the CFA concluded that “[t]here was … no common assumption that notwithstanding the absence of approval for the transfer of FCL shares, … First Laser had a 51% shareholding notwithstanding the lack of approval”;[56] and had commented that consulting Ngan or COM about management decisions “says nothing about any assumption that ... First Laser owned shares in FCL despite the absence of approval”,[57] noting that the 1998 Memorandum “made it clear that ownership in the FCL shares had not been transferred and that FEHC was still holding them (and in context this does not mean holding them for First Laser)”.[58]
+
+37.  As we have seen, such observations were made by Lord Collins NPJ in the context of estoppel by convention. It is not difficult to see why Yuen JA decided that the Judge could not, consistently with the CFA’s review of the evidence, conclude that the parties had “... conducted themselves in accordance with the spirit of the First Laser Agreement as if they were partners in the joint venture and shareholders of [FCL] and FCO”[59] so as to justify inference of an NIC. It is hard to see how the contrary is reasonably arguable.
+
+38.  Turning to the adequacy of the evidence in support of the alleged NIC, Yuen JA held[60] first, that it was not open to the Judge to find that the parties had formed a partnership since there was no Mainland law evidence as to what constitutes a partnership. She considered that this alone vitiated the finding of an NIC. However, we think that his Lordship was probably not seeking to suggest that a formal partnership existed. He also described it as a “de facto partnership” and said that the parties were acting “as if they were partners in the joint venture”.[61]
+
+39.  More importantly, Yuen JA analysed the Mainland law evidence regarding Provisions (I) and noted that under an NIC “the parties have agreed that the shares belong to the actual investor, but his identity is concealed by the device of a nominee shareholder.”[62]  In the present case, “... there was no attempt by First Laser to conceal its intended purchase of the shares in FCL” and “the parties’ intention is clearly for the sale and purchase of shares, not to establish a nominee shareholding”.[63]  Her Ladyship pointed out:
+
+“As there was no approval for the sale and purchase of the shares as required, the shares could not be owned by First Laser, whereas on the judge’s finding of the nominee holding, the shares were already owned by First Laser as the actual investor. This is conceptually self-contradictory.”[64]
+
+40.  The Judge’s suggestion that an NIC is a legal fact that “may arise from factual circumstances independent of the parties’ intention and may create legal consequences, including contractual consequence”[65] unsurprisingly attracted trenchant criticism:
+
+“The suggestion that two commercial parties somehow by conduct created a nominee contract for the shares when their intentions were clearly to hotly contest for them is surprising. Even before the change in FEHC’s management team, when the relationship between the parties was friendly, the situation was in a state of limbo, as the sale and purchase agreement had been signed but approval had not been obtained and was not certain, and the terms of the joint venture were not agreed. As the CFA said, the relations were ‘fluid’, but as evidenced by the 1998 Memorandum, even then FEHC was still holding the FCL shares in their own right.
+
+After the change in FEHC’s management team, the parties held adversarial positions with regard to the FCL shares. FEHC was trying to ‘wriggle out’ of having to transfer the shares in FCL to First Laser.”[66]
+
+41.  Yuen JA therefore held that the existence of an NIC was not supported by the evidence and this ground of appeal was made good. Again, it is difficult to see how the contrary is reasonably arguable. She went on to hold that, even if an NIC had been established, there had been no determination that it was void so that Article 18 of Provisions (I) would not apply.[67]
+
+42.  The Judge had sought to meet this point by suggesting that since the NIC co-exists with the FLA, “as [that latter agreement] was held to be void, so too must the collateral [NIC].”[68]  That is untenable. As Yuen JA pointed out,[69] First Laser’s expert, Professor Yin, agreed “that under Article 18, there had to be a determination 認定 that the nominee investment contract was void.”  There has been no such determination under Mainland law. Indeed, the thesis that the alleged NIC “co-existed” with the FLA although the latter was void, postulates that the NIC had been created as a separate and valid contract notwithstanding the invalidity of the sale and purchase contract. The idea that the NIC stands or falls with the FLA runs contrary to that thesis. Yuen JA therefore held that the appeal succeeded on both the aforesaid grounds and that the Judge’s award had to be set aside.
+
+D.3  Introduction of the NIC claim to the remitter
+
+43.  A point which calls for comment involves the Court of Appeal’s treatment of the introduction of the new restitution claim as part of the remitter trial. As recorded in Section C above, First Laser applied to re-amend its pleadings and to adduce further Mainland law some six years after the CFA’s judgment. The Judge granted those applications introducing the entirely fresh claim based on a newly discovered NIC said to exist on the basis of Provisions (I), a judicial interpretation which took effect 2½ years after DHCJ To’s original judgment.
+
+44.  One would have expected a question immediately to have arisen as to whether that fresh issue went beyond the scope of the remitter ordered by the CFA since the issue remitted related solely to the invalidity of the FLA and not any other contract.
+
+45.  However, at the remitter stage, Yuen JA held that “[i]t was too late for the argument on the scope of the Remitter Order to be raised only at the trial, and consequently too late for the defendants to raise ground (1) on appeal”.[70]
+
+46.  Her Ladyship so concluded on the footing that Mr Paul Shieh SC, leading counsel then appearing for FEHC, did not raise any question regarding the scope of the remitter[71] and that the Court of Appeal had dismissed the appeal against the grant of such leave on the papers[72] because the directions sought were “recognized by Mr Shieh in his oral submissions [before the judge] to be ‘perfectly open’ to the judge” and that “it was said that ‘it has been acknowledged by all that these orders involved the exercise of discretion of the judge and most, if not all, are in the nature of case management decisions’”.[73]
+
+47.  It would appear from the Judge’s directions judgment dated 28 January 2016,[74] that those criticisms may have been somewhat harsh. It is true that Mr Shieh SC is not recorded as having expressly submitted that the proposed fresh evidence and later re-amendments went beyond the scope of the remitter, but he did object on the basis that the Court of Appeal and CFA had “only ordered that the issue of restitution be remitted and never ordered a ‘re-trial’” and that the Court of Appeal had “specifically indicated that it was not contemplating a hearing de novo” so that First Laser “should not be allowed a second bite of the cherry by adducing ‘new evidence’ and new cross-examination”.[75]  It was in fact the Judge who treated the application as merely a matter of case management, stating:
+
+“In my view, in hearing a remitted issue, a trial judge has discretion to admit further or new evidence, to permit amendment of pleadings and even to re-open a party’s case. In a case where the appellate court has not expressly directed that no new evidence may be adduced at the hearing of a remitted issue, it is entirely a matter of case management for the judge hearing the remitted issue to decide, particularly in view of the long lapse of time of almost eight years and the new Judicial Interpretation, how best to proceed.”[76]
+
+48.  When the Court of Appeal[77] dismissed FEHC’s directions appeal on the papers, it was concerned with a batch of directions including those involving an unless order, fortification and security for costs, as well as the directions concerning fresh evidence and re-amendment. It was in that context that Kwan JA (as she then was) commented that “most [of the directions], if not all, are in the nature of case management decisions”.[78]  However, the Court of Appeal plainly did not fully appreciate that the relevant directions raised issues as to the scope of the remitter. Her Ladyship stated:
+
+“This leaves the intended appeal on the directions application, which we will deal with briefly. This was fully argued before the Judge the first time round and we see no basis whatsoever to support a contention that there is reasonable prospect of success on any of the grounds of appeal. The Judge made no order on this application save as to costs, that was recognised by Mr Shieh in his oral submissions to be ‘perfectly open’ to the Judge.”[79]
+
+49.  With great respect, on the remitter appeal, the Court of Appeal should in any event have policed much more strictly the boundaries of the remitter order and considered whether introduction of the new issues ought to have been permitted. It should not have let that question pass even if counsel for FEHC may have failed to take the point at the directions hearing and even if the Court of Appeal, especially without the help of oral submissions, had dismissed the directions appeal. Indeed, it was on the basis that the ground of appeal (among others) that “the scope of the Remitter does not permit the Plaintiff to reconstitute its case on restitution to rely on [an NIC]” presented “a strong prospect of success” that in a different application, the Court of Appeal (including Yuen JA)[80] granted an unconditional stay of the Judge’s order.
+
+50.  Having given judgment in the original proceedings, the Judge was functus officio save in so far as the appellate court remitted a specific issue for his determination. He had no jurisdiction to reopen or expand his own decision or to try any other issue when dealing with the remitter. His remit was to determine First Laser’s entitlement to restitution under Mainland law consequential upon the FLA being held to be invalid. It was not permissible to allow introduction of a fresh contract never previously mentioned and to make an award on the basis of its alleged invalidity.
+
+51.  DHCJ To took an inordinately expansive view of his jurisdiction, stating:
+
+“The issue of restitution was remitted because this court, regrettably erred in its finding on the law applicable to the First Laser Agreement. As a result, this court totally failed to consider the entire issue of restitution, as if the issue had never come before the court. What this court has to consider is the entire issue of restitution and not just a specific or defined issue. The issue of restitution under Mainland law had not been argued or considered by the Court of Appeal or Court of Final Appeal. In the context of this case, restitution is like an alternative cause of action. It is almost like an entirely new cause of action or a cross‑claim. There are so many issues, particularly issues relating to 《Provisions (I) 》which was then unknown to the Court of Final Appeal ...”[81]
+
+52.  With respect, the remitter order plainly did not require the Judge “to consider ... the entire issue of restitution and not just a specific or defined issue”, nor was he required to approach “restitution ... like an alternative cause of action”.
+
+D.4  Kwan VP’s judgment
+
+53.  Kwan VP dealt with First Laser’s alternative claim for restitution consequential upon invalidity of the FLA. As noted above, relying upon the specified PRC provisions,[82] the Judge held that on this alternative claim, adopting the concept of “improper profits” and the “principle of fairness”, First Laser was entitled to a restitutionary award in the same amount as for the primary claim.[83]
+
+54.  Kwan VP disagreed. She pointed out that a fundamental difficulty with the Judge’s approach was his failure to identify the property to be returned by way of restitution.[84]  The aim of restitution under Mainland law was to restore the parties to their pre-contract position.[85]  Under the FLA, the only property acquired by FEHC was the share purchase price paid by First Laser, namely HK$24,640,000. The return of such property along with “the fruits arising” therefrom could only involve the return of the purchase price plus interest. It did not involve “returning” the FCL shares or their enhanced value realised by their sale to JDS. They were not the property relevant to the restitution claim and the proceeds of their sale were not “profits” attributable to the relevant transaction.[86]  Thus, Kwan VP held that “the award made on the alternative claim in the sum of HK$265,996,414, which is the same as the amount made on the primary claim” could not be upheld.[87]  The correct award was for the return of the price paid for the FCL shares plus interest. The contrary does not seem to us to be reasonably arguable.
+
+55.  Her Ladyship then turned to FEHC’s claim for counter-restitution, that is, its mirror claim for restitution flowing from the invalidity of the FLA. Her Ladyship held that on the evidence, the balance of the cross-claims should be calculated as follows:
+
+“To restore the parties to their respective pre-contract position, leaving aside the interest on the amount to be returned, the amount that should be returned to First Laser would be HK$24,640,000 and the amount that should be returned to FEHC would be HK$19,351,283.39. After netting off, First Laser should receive an amount of HK$5,288,716.61.”[88]
+
+56.  The Judge’s award of HK$265,996,414 was thus replaced by an award of HK$5,288,716.61. Taking into account substantial delays in First Laser’s prosecution of the proceedings, First Laser was denied interest in respect of certain periods of delay.
+
+E.  This leave application
+
+57.  First Laser applied to the Court of Appeal for leave to appeal,[89] raising questions which were the same as those considered in the paragraphs which follow.[90]  Its application was refused on the basis that the questions were fact-specific and that it would in any event be futile to grant leave, given the Court of Appeal’s other conclusions.
+
+58.  First Laser now sought leave to appeal putting forward the following questions said to be of great general or public importance:
+
+Question 1: What is the scope of a remitter when the Court of Final Appeal (or an appellate court) remits an issue for trial? In particular, where in the course of that decision the appellate court made obiter comments or findings on issues that did not arise for determination, whether the obiter comments or findings give rise to any issue estoppel or are otherwise binding on the trial judge in the trial of the remitter, such that the trial judge is not permitted to consider evidence overlooked or not considered by the appellate court or make any factual findings on the remitted issue which may be inconsistent with such obiter comments or findings?
+
+Question 2: Whether the answer to Question 1 depends on the identity of the issue remitted to the trial judge for determination and the issue for which the obiter comments or findings were made by the appellate court?
+
+E.1  Question 1
+
+59.  The answer to the general question: “What is the scope of a remitter when the Court of Final Appeal (or an appellate court) remits an issue for trial?” appears obvious. Its scope must depend on the terms of the order understood in the context of the judgment giving rise to the remitter.
+
+60.  Lord Sumption, writing for the Privy Council in Sans Souci Ltd v VRL Services Ltd,[91] put this as follows:
+
+“It is of course correct that the scope of a remission depends on the construction of the order to remit. ... the construction of a judicial order, like that of any other legal instrument, is a single coherent process. It depends on what the language of the order would convey, in the circumstances in which the Court made it, so far as these circumstances were before the Court and patent to the parties. The reasons for making the order which are given by the Court in its judgment are an overt and authoritative statement of the circumstances which it regarded as relevant. They are therefore always admissible to construe the order. In particular, the interpretation of an order may be critically affected by knowing what the Court considered to be the issue which its order was supposed to resolve.”
+
+61.  As discussed in Section B.4 of this Determination, it is plain that the remitter ordered was for the issue of restitution consequent upon the invalidity of the FLA to be determined under Mainland law. It did not involve determining whether a separate NIC came into existence and, if so, whether it was invalid or the consequences of any such invalidity.
+
+62.  The rest of Question 1 relates to the Court of Appeal’s decision that the finding of an NIC was inconsistent with the facts accepted by the CFA.
+
+63.  The first proposition advanced by First Laser was that such inconsistency only arises if what are “merely obiter comments or adjudications”[92] of the CFA are taken into account. That submission cannot be accepted. The findings are not “obiter”.
+
+64.  The inconsistencies are discussed in Section D.2 above. It was on the basis of Lord Collins NPJ’s review of the established evidence that the CFA concluded that when transfer of the FCL shares could not be completed, the parties never harboured any common belief or intention that FEHC held the shares as nominee shareholder for First Laser.  The facts detailed in Section D.2 are wholly inconsistent with the Judge’s finding that the parties had “... conducted themselves in accordance with the spirit of the First Laser Agreement as if they were partners in the joint venture and shareholders of [FCL] and FCO”[93] so as to infer the creation of an NIC.
+
+65.  Question 1 also contains the premise that the doctrine of issue estoppel is relevant. It asks whether “obiter” findings “give rise to any issue estoppel or are otherwise binding on” the Judge. The implicit suggestion was that the Judge was not estopped by such findings and was free to make his own findings even if inconsistent with those “obiter” matters. That premise was misconceived. Issue estoppel binds the parties and not the Judge. The objection to the Judge making inconsistent findings does not rest on issue estoppel but concerns the limits of a Judge’s adjudicative power on a remitter. As Yuen JA put it:
+
+“Whilst on a remitter, a judge may take into account conduct which took place after the original trial[94], it does not give free rein to contradict or undermine facts upon which the CFA had adjudicated.”[95]
+
+66.  As Mr Jat Sew-tong SC accepted, Question 2 does not raise any issues additional to the matters discussed under Question 1. It does not merit separate discussion.
+
+E.2  A futile application
+
+67.  A fundamental reason for refusing leave is stated by Kwan VP:[96]
+
+“... it would be futile to grant leave to appeal on those questions in light of the holdings against First Laser in the other grounds of appeal (the finding of a nominee investment contract is not supported by the evidence; Article 18 Provisions (I) is not engaged in any event as there has been no determination under PRC law of the invalidity of a nominee investment contract[97]).”
+
+68.  The proposed Questions are narrowly focused. They offer no grounds for challenging the essential basis for overturning the first instance judgment. The Court of Appeal’s reasons for so doing are discussed in detail in Section D above and are plainly well founded. The contrary is not reasonably arguable. We would have added as an additional reason that, in allowing the new NIC to be introduced, the Judge exceeded his powers under the remitter order.
+
+69.  We therefore refused leave to appeal in respect of the proposed Questions. We also refused leave on the “or otherwise” basis upon which First Laser sought to advocate afresh the correctness of the Judge’s decision to give effect to the alleged NIC or to the alternative case in preference to the decision of the Court of Appeal. We did not consider those submissions reasonably arguable.
+
+70.  For the foregoing reasons, we dismissed First Laser’s application for leave and made an order that the applicant pay the respondent’s costs of and occasioned by the appeal.
+
+ 
+
+ 
+
+(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge	(Patrick Chan)
+Non-Permanent Judge
+ 
+
+Mr Jat Sew-tong SC, Mr Chan Chi Hung SC and Mr Derek J Y Chan, instructed by Mayer Brown, for the Plaintiff (Applicant)
+
+Mr Benjamin Yu SC and Mr Law Man Chung SC, instructed by Kwok Yih & Chan, for the 1st and 2nd Defendants (Respondents)
+
+
+[1]  The 2nd defendant is FEHC’s nominee and had no active role in the relevant events.
+
+[2]  Bokhary, Chan and Ribeiro PJJ, Mortimer and Lord Collins of Mapesbury NPJJ (2012) 15 HKCFAR 569, Lord Collins NPJ writing for the Court. Paragraphs in that judgment are referenced as “CFA§”.
+
+[3]  [2020] HKCFI 495. Paragraphs in the Judge’s Remitter judgment are referenced as “JRm§”.
+
+[4]  Kwan VP, Yuen and Au JJA [2023] HKCA 465. Paragraphs in the Court of Appeal’s Remitter judgment are referenced as (“CARm§”). The Court of Appeal also refused leave to appeal to this Court: [2023] HKCA 961. References to the Court of Appeal’s Leave judgment are referenced as (“CAL§”).
+
+[5]  CFA§17.
+
+[6]  CFA§§18-19.
+
+[7]  CFA§22.
+
+[8]  CFA§24.
+
+[9]  CARm§58.5.
+
+[10]  CFA§25.
+
+[11]  CFA§29.
+
+[12]  CFA§31.
+
+[13]  The HK$4,640,000 balance had been credited as paid up without actual payment.
+
+[14]  CFA§33.
+
+[15]  CFA§5.
+
+[16]  CFA§34(1), §54.
+
+[17]  CFA§35(1).
+
+[18]  CFA§56.
+
+[19]  CFA§34(2) & (3).
+
+[20]  CFA§35(1).
+
+[21]  CFA§§43-47, §56.
+
+[22]  CFA§34(4) & (5).
+
+[23]  CFA§34(6).
+
+[24]  CFA§60.
+
+[25]  CFA§35(2).
+
+[26]  CFA§35(5).
+
+[27]  CFA§35(3).
+
+[28]  CFA§35(4).
+
+[29]  CFA§74.
+
+[30]  CFA§35(6).
+
+[31]  CFA§35(7), 76.
+
+[32]  CFA§106.
+
+[33]  CFA§112.
+
+[34]  CFA§113.
+
+[35]  CFA§116.
+
+[36]  CFA§110.
+
+[37]  CFA§117.
+
+[38]  JRm§23.
+
+[39]  CARm§23.1 setting out the provision as pleaded by First Laser.
+
+[40]  JRm§24.
+
+[41]  Having netted off the sum FEHC’s entitlement to HK$15,828,366 by way of counter-restitution.
+
+[42]  Article 58 (Contract Law), Articles 61, 92 and 131 of the SPC’s Opinion on Several Issues in Implementing the General Principles of the Civil Law of the PRC (Trial Implementation).
+
+[43]  JRm§25.
+
+[44]  JRm§320.
+
+[45]  CARm§35.3.
+
+[46]  JRm§101.
+
+[47]  JRm§133.
+
+[48]  JRm§134.
+
+[49]  JRm§§146, 156, 159.
+
+[50]  JRm§§179 and 182.
+
+[51]  JRm§186.
+
+[52]  CARm§§45.3-45.4 and 57.2.
+
+[53]  CFA§18.
+
+[54]  CFA§112.
+
+[55]  CFA§§112-113.
+
+[56]  CFA§110.
+
+[57]  CFA§113.
+
+[58]  CFA§115(2) (emphasis supplied by Yuen JA).
+
+[59]  JRm§186.
+
+[60]  CARm§§45.1-45.2 and 48.1.
+
+[61]  JRm§§182 and 186 (italics supplied).
+
+[62]  CARm§53.2.
+
+[63]  CARm§53.3.
+
+[64]  CARm§55 (emphasis in the original).
+
+[65]  JRm§186.
+
+[66]  CARm§§58.5-58.6.
+
+[67]  CARm§60.1.
+
+[68]  JRm§205.
+
+[69]  CARm§61.4.
+
+[70]  CARm§42.2.
+
+[71]  CARm§§21.1, 22.3, 23.3.
+
+[72]  CARm§22.1.
+
+[73]  CARm§22.2.
+
+[74]  DHCJ To, HCA 4414/2001.
+
+[75]  Ibid at §25.
+
+[76]  Ibid at §29.
+
+[77]  Lam VP and Kwan JA [2016] 4 HKLRD 360.
+
+[78]  Ibid at §5.
+
+[79]  Ibid at §18.
+
+[80]  Lam VP and Yuen JA [2021] HKCA 864 at §§14-15.
+
+[81]  JRm§93.
+
+[82]  Article 58 (Contract Law), Articles 61, 92 and 131 of the SPC’s Opinion on Several Issues in Implementing the General Principles of the Civil Law of the PRC (Trial Implementation).
+
+[83]  JRm§320.
+
+[84]  CARm§88.
+
+[85]  CARm§§15.2, 72.
+
+[86]  CARm§§78, 89.
+
+[87]  CARm§95.
+
+[88]  CARm§106.
+
+[89]  [2023] HKCA 961.
+
+[90]  FEHC also applied for leave to appeal in connection with the award of interest in the light of its longstanding open offer of restitution (CAL§15). That application is not pursued before us.
+
+[91]  [2012] UKPC 6 at §13.
+
+[92]  ASkel§27.
+
+[93]  JRm§186.
+
+[94]  Citing Stockman Interhold SA v Arricano Real Estate PLC [2018] 1 Lloyds Rep 135, §135.
+
+[95]  CARm§45.4 (emphasis in original).
+
+[96]  CAL§22.
+
+[97]  CARm§§46 to 62.
+
+ 
+

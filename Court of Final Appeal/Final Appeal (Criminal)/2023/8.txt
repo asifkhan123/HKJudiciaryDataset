@@ -1,0 +1,469 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No. 7 of 2023
+
+[2023] HKCFA 26
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 7 OF 2023 (CRIMINAL)
+
+(ON APPEAL FROM CACC NO. 61 OF 2022)
+
+________________________
+
+BETWEEN
+
+ 	HKSAR	Respondent
+ 	and	 
+ 	LUI SAI YU (呂世瑜)	Appellant
+________________________
+
+Before:	Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ and Mr Justice Chan NPJ
+Date of Hearing:	9 August 2023
+Date of Judgment:	22 August 2023
+_______________________________
+
+J U D G M E N T
+
+_______________________________
+
+The Court :
+
+1.  In this appeal, the Court has occasion to consider the meaning and effect of certain sentencing provisions of the National Security Law (“NSL”).[1]
+
+A.  The proceedings in the Courts below
+
+A.1  At first instance
+
+2.  The appellant was charged with incitement to secession, contrary to the NSL. Although the charge sheet stated that he was charged with an offence “contrary to Articles 20 and 21” of the NSL (“NSL20” and “NSL21” respectively, set out in Section C below), he was actually charged under NSL21 since incitement was alleged. This is important from the sentencing point of view, as we shall see.
+
+3.  The particulars of the charge stated that the appellant had, together with others, incited other persons to organize, plan, commit or participate in acts, whether or not by force or threat of force, with a view to committing secession or undermining national unification by separating the Hong Kong Special Administrative Region (“HKSAR”) from the People’s Republic of China or altering by unlawful means the legal status of the HKSAR.[2]
+
+4.  The appellant pleaded guilty before Her Honour Judge A J Woodcock[3] and agreed the facts set out in the Amended Summary of Facts. He thus admitted that he and another person had been the administrators of a channel on the Telegram instant messaging platform through which he had incited secession, calling for Hong Kong to become independent and posting messages which “were of a nature designed to incite violence and counsel disobedience to the law by, for example, providing equipment and discussing tactics with protesters to use against the Police”.[4]  As the Judge noted:
+
+“There were many posts offering for sale items such as extendable batons, respirators and body gear. There were photographs of gas masks, pepper ball guns, bullet-proof vests as well as shields specifically to protect against rubber bullets, beanbag rounds and tear gas rounds. There were photographs offering for sale riot helmets and bullet resistant helmets as well as bullet resistant goggles. There were prices for the items which were sometimes cheaper if the buyer held a student card.”[5]
+
+Her Honour also observed that:
+
+“... there were many posts relating to Hong Kong independence, a war against the People’s Republic of China, anti-Communism, a violent faction that is anti-Communism, Hong Kong being a country and an appeal to participants to train themselves up to fight for this country. The administrators appealed to others to equip themselves with weapons for close quarter combat.”[6]
+
+5.  It was noted that the channel had been in operation since 31 January 2020 in the context of the violent social unrest which had begun in June 2019.[7] The charge itself related to 357 posts made between 30 June 2020 (when the NSL came into force) and 23 September 2020, at which point the channel had 1,040 subscribers.[8] 
+
+6.  The sentences prescribed by NSL21 on a charge of incitement to secession fall into two bands or tiers. If the circumstances of the offence are “of a serious nature”, NSL21 provides that “the person shall be sentenced to fixed-term imprisonment of not less than five years but not more than ten years”. And if the circumstances of the offence are “of a minor nature”, the person “shall be sentenced to fixed-term imprisonment of not more than five years, short-term detention or restriction”.
+
+7.  It was therefore incumbent on the Judge to decide whether the circumstances of the offence were of a “serious” or “minor” nature. Having considered the submissions made on the appellant’s behalf and having reviewed the agreed facts,[9] her Honour concluded that the circumstances of the offence were “of a serious nature” and thus fell within the upper band.
+
+8.  While the Judge received submissions in mitigation, she held that a deterrent sentence was required and that “the nature of this offence and seriousness of the facts means personal circumstances, mitigation put forward and previous good character carries little weight”.[10]  Her Honour held that a starting-point of five years and six months’ imprisonment should be adopted.[11] She indicated, however, that the sentence would be discounted by one-third to reflect the appellant’s guilty plea made at the earliest opportunity. But the Judge then accepted the prosecution’s submission that since the sentence had to fall within the upper penalty band, it could not be reduced below a minimum of five years’ imprisonment. Her Honour therefore confined the discount for the guilty plea to a reduction of six months, imposing a sentence of five years’ imprisonment.
+
+A.2  In the Court of Appeal[12]
+
+9.  The appellant advanced four grounds of appeal in the Court of Appeal.[13] The first two grounds complained that the Judge had erred in classifying the offence as “serious” and that the starting-point selected had led to a manifestly excessive sentence. In dismissing those grounds, the Court of Appeal referred to its earlier decision in HKSAR v Ma Chun Man,[14] which had laid down the general approach to categorising NSL21 offences of incitement. The Court held that the Judge’s conclusion as to the seriousness of the offence was well justified.[15]  In adopting the starting-point of five years and six months, the Judge “must have found that the [appellant’s] culpability falls near the lower end of the category”, a conclusion with which the Court of Appeal agreed. There was no basis for holding the sentence to be manifestly excessive.[16]  We are not concerned with either of those grounds on the present appeal.
+
+10.  The third and fourth grounds involved the complaint that the Judge was wrong not to have given the full one-third discount for the appellant’s guilty plea. They raised questions concerning the true construction of NSL21 and NSL33, which are at the heart of this appeal.
+
+11.  It was argued (raising what the Court of Appeal called “the first core issue”) that the legislative intention regarding serious NSL21 offences was “to lay down a range of starting points between the maximum of ten years and the minimum of five years” rather than to set five years’ imprisonment as the hard and fast minimum sentence for offences falling within that band.[17] Having settled on the starting-point, so it was contended, mitigating factors (such as a guilty plea) could be given full effect, resulting in a sentence falling below the five-year minimum.
+
+12.  It was also submitted (raising “the second core issue”) that the three conditions laid down in NSL33 were not exhaustive and that other mitigating factors (such as a guilty plea) could also be taken into account to allow an offender to benefit from reductions in sentence provided for under NSL33, again taking the final sentence below the five-year minimum.[18]
+
+13.  The Court of Appeal rejected both arguments and upheld the Judge’s sentence.[19]
+
+A.3  Leave to appeal
+
+14.  Accepting that points of law of great and general importance were involved in its decision, the Court of Appeal certified the following two questions of law as meriting consideration by the Court of Final Appeal:[20]
+
+(1)  What is the proper construction of the sentencing provision in NSL 21 for offences of a serious nature, namely, “if the circumstances of the offence committed by a person are of a serious nature, the person shall be sentenced to fixed term imprisonment of not less than five years but not more than ten years” and, in particular, whether the stipulation of “not less than five years’ fixed term imprisonment” is mandatory? (Question 1)
+
+(2)  What is the proper construction of NSL 33(1) in sentencing offences to which the provision applies and, in particular, whether the three conditions specified therein are exhaustive in that if none of them is established, the penalty for an NSL 21 offence which is of a serious nature cannot be reduced to less than five years’ fixed term imprisonment; or whether it is permissible to so reduce the sentence for such an offence on account of other mitigating factors? (Question 2)
+
+15.  The Appeal Committee[21] granted leave to appeal in respect of those questions.
+
+B.  The appellant’s case
+
+16.  The appellant now advances essentially the same case as he had made in the Court of Appeal. The answers which he proposes to Questions 1 and 2 are as follows:
+
+“(1) The proper construction of NSL21 is not to lay down a mandatory minimum final sentence of 5 years’ imprisonment, but to delineate the range of starting points of custodial sentences in circumstances of a serious nature without limiting the normal discretion of the courts to reduce the same where circumstances warrant;
+
+(2) For offences endangering national security, the three conditions specified in NSL33 are not exhaustive for a sentencing court to 從輕處罰 (impose a lighter penalty) or to 減輕處罰 (reduce a penalty):-
+
+(a) NSL33 is not exclusive or exhaustive and the sentencing court may continue to rely on factors recognised under existing law as legal bases to impose a lighter penalty or to reduce a penalty.
+
+(b) Further or alternatively, the three conditions specified in NSL33 are not exhaustive, and NSL33, under its proper construction, would include other factors which are consistent with the purpose of NSL.”
+
+C.  The main NSL Articles
+
+17.  The main NSL provisions under discussion are set out below.[22] Since NSL21 refers to NSL20, they must be read together, providing as follows:
+
+NSL20
+
+(1)  A person who organises, plans, commits or participates in any of the following acts, whether or not by force or threat of force, with a view to committing secession or undermining national unification shall be guilty of an offence:
+
+(1)  separating the Hong Kong Special Administrative Region or any other part of the People’s Republic of China from the People’s Republic of China;
+
+(2)  altering by unlawful means the legal status of the Hong Kong Special Administrative Region or of any other part of the People’s Republic of China; or
+
+(3)  surrendering the Hong Kong Special Administrative Region or any other part of the People’s Republic of China to a foreign country.
+
+(2)  A person who is a principal offender or a person who commits an offence of a grave nature shall be sentenced to life imprisonment or fixed-term imprisonment of not less than ten years; a person who actively participates in the offence shall be sentenced to fixed-term imprisonment of not less than three years but not more than ten years; and other participants shall be sentenced to fixed-term imprisonment of not more than three years, short-term detention or restriction.
+
+NSL21
+
+(1)  A person who incites, assists in, abets or provides pecuniary or other financial assistance or property for the commission by other persons of the offence under Article 20 of this Law shall be guilty of an offence.
+
+(2)  If the circumstances of the offence committed by a person are of a serious nature, the person shall be sentenced to fixed-term imprisonment of not less than five years but not more than ten years; if the circumstances of the offence committed by a person are of a minor nature, the person shall be sentenced to fixed-term imprisonment of not more than five years, short-term detention or restriction.
+
+18.  It is obviously important (as pointed out at the beginning of this judgment) to be clear which offence is being charged. NSL20 covers organising, planning, committing or participating in the secessionist acts specified, while NSL21 involves inciting, assisting in, abetting or providing pecuniary or other assistance for the commission of an NSL20 offence by others. The sentencing regimes are significantly different. The appellant pleaded guilty to incitement under NSL21.
+
+19.  Also centrally relevant is NSL33 which provides:
+
+NSL33
+
+(1)  A lighter penalty may be imposed, or the penalty may be reduced or, in the case of a minor offence, exempted, if an offender, criminal suspect, or defendant:
+
+(1)  in the process of committing an offence, voluntarily discontinues the commission of the offence or voluntarily and effectively forestalls its consequences;
+
+(2)  voluntarily surrenders himself or herself and gives a truthful account of the offence; or
+
+(3)  reports on the offence committed by other person, which is verified to be true, or provides material information which assists in solving other criminal case.
+
+(2)  Sub-paragraph (2) of the preceding paragraph shall apply to a criminal suspect or defendant who is subjected to mandatory measures and provides a truthful account of other offences committed by him or her under this Law which are unknown to the law enforcement or judicial authorities.
+
+D.  The approach to construing provisions of the NSL
+
+D.1  As laid down in HKSAR v Lai Chee Ying
+
+20.  Before examining the aforesaid provisions in detail, it is pertinent to recapitulate the proper approach to construing provisions of the NSL established by this Court in HKSAR v Lai Chee Ying,[23]  an appeal concerning the grant of bail under NSL42(2).
+
+21.  The Court held that the meaning and effect of a particular provision is to be determined in the light of the context and purpose of the NSL as a whole.[24] In ascertaining that context and purpose, the Explanations given and Decisions made in proceedings of the National People’s Congress (“NPC”) and the NPC Standing Committee (“NPCSC”) in the course of promulgating the NSL for inclusion in Annex III of the Basic Law, are extrinsic materials admissible as aids to construction of the NSL.[25]  
+
+22.  Of particular relevance is an Explanation provided on 18 June 2020 to the NPCSC, which identified as one of the NSL’s main “working principles” that of:
+
+“... accommodating the differences between Mainland China and the HKSAR, and striving to address the convergence, compatibility and complementarity between this Law, and the relevant national laws and local laws of the HKSAR.”[26]
+
+23.  This important principle of convergence was explained and elaborated upon in an Address made on 30 June 2020 to the NPCSC upon completion of the NSL’s adoption as a law of the HKSAR, which was published on 6 July 2020.[27]  It stated:
+
+“… In upholding the policy of ‘One Country, Two Systems’, the Law has full regard to the differences between the Two Systems as well as the actual circumstances in Hong Kong. It converges with the national law on safeguarding national security and is compatible with Hong Kong’s existing legal system. …”[28]
+
+24.  With assistance from such extrinsic aids to construction, the Court in Lai Chee Ying held that:
+
+“... it is evident that the legislative intention is for the NSL to operate in tandem with the laws of the HKSAR, seeking ‘convergence, compatibility and complementarity’ with local laws [and that] NSL62 provides for possible inconsistencies, giving priority to NSL provisions in such cases ...”[29]
+
+25.  In other words, the NSL is intended to fit in and to function coherently with the HKSAR’s legal system, with local laws operating in normal fashion unless they are expressly or by necessary implication displaced by inconsistent provisions of the NSL. This is reflected in many aspects of the NSL. Thus, in the bail context, the Court noted that NSL4 and NSL5 expressly stipulate that the fundamental rights, freedoms and rule of law values guaranteed by the Basic Law are to be protected and adhered to in applying the NSL, so that:
+
+“Save insofar as NSL 42(2) constitutes a specific exception thereto, that corpus of law, comprising not only the human rights and rule of law principles but also the generally applicable HKSAR rules governing the grant or refusal of bail is intended to have continued effect in NSL cases.”[30]
+
+26.  This is reinforced by NSL45 which provides that HKSAR law applies unless otherwise provided by the NSL:
+
+“Unless otherwise provided by this Law, magistrates’ courts, the District Court, the High Court and the Court of Final Appeal shall handle proceedings in relation to the prosecution for offences endangering national security in accordance with the laws of the Hong Kong Special Administrative Region.”
+
+NSL45 functions as an internal aid to construction of other NSL provisions.
+
+D.2  General approach to the sentencing provisions of the NSL
+
+27.  It is clear that the convergence principle also applies to the interpretation of the NSL’s sentencing provisions. Within the framework laid down by the NSL, local sentencing laws and principles are intended to apply in tandem with the relevant NSL provisions.
+
+28.  It is plainly with a view to local and NSL sentencing laws operating in a complementary fashion that NSL64 has been enacted. It provides as follows:
+
+NSL64
+
+In the application of this Law in the Hong Kong Special Administrative Region, the terms “fixed-term imprisonment”, “life imprisonment”, “confiscation of property” and “criminal fine” in this Law respectively mean “imprisonment”, “imprisonment for life”, “confiscation of proceeds of crime” and “fine”; “short-term detention” shall be construed, with reference to the relevant laws of the Region, as “imprisonment”, “detention in a detention centre” or “detention in a training centre”; “restriction” shall be construed, with reference to the relevant laws of the Region, as “community service” or “detention in a reformatory school”; and “revoke licence or business permit” means “revoke registration or exemption from registration, or revoke licence” as provided for in the relevant laws of the Region.
+
+29.  Thus, acknowledging that the NSL is a national law which operates in the HKSAR, NSL64 prescribes how the terms used in the NSL sentencing provisions “shall be construed ... with reference to the relevant laws of the Region”, identifying the local law equivalents for those terms “as provided for in the relevant laws of the Region”. This makes it clear that the NSL provisions are intended to operate on the principle of convergence, compatibility and complementarity with local sentencing laws and principles which are accordingly to be given full effect, subject of course to NSL62 which gives NSL provisions priority in the event of inconsistency.
+
+30.  Accordingly, the NSL provisions lay down a sentencing scheme and local laws operate within that framework. The courts are therefore able to draw upon a wealth of experience developed in this field, aiming to strike a balance between different sentencing principles. As the learned authors of Cross & Cheung on Sentencing in Hong Kong,[31] point out:
+
+“The punishment of offenders, as the courts have frequently acknowledged, is not a mathematical exercise. The discretion of the court is wide, and a tension often exists between different sentencing principles. The interests of punishment, deterrence, retribution and rehabilitation may pull in different directions. The challenge for the court is to consider the circumstances of the offence and the situation of the offender, and then to arrive at the sentence which is most appropriate.”
+
+31.  In addressing that challenge, a sentencing decision is typically arrived at in the manner recently described by Zervos JA as follows:
+
+“In the case of a single offence, this usually involves in its basic form the sentencing court first adopting a starting point based on the blameworthiness of the offender and the harm caused by the offence. Secondly, the sentencing court should list the aggravating factors, explaining which factors have or have not been taken into account and specifying the amount of enhancement given for the factors that have been taken into account. Thirdly, the sentencing court should list the mitigating factors, explaining which factors have or have not been taken into account and specifying the amount of reduction given for the factors that have been taken into account. Having specified the enhancements given for the aggravating factors, it is important for the sentencing court to ensure that the aggregation of the enhancements does not result in an oppressive and overloaded sentence, and by the application of the totality principle this will require determining an appropriate effective total of the enhancements.”[32]
+
+32.  The process necessarily involves the exercise of judicial discretion and ultimately, a holistic view of the case. A wide range of aggravating and mitigating factors, as analysed in Cross & Cheung,[33] may be relevant. In tailoring the sentence to an individual case, the court may attribute greater or lesser or indeed, no weight to any particular sentencing principle or factor. Recognising the discretionary nature of the process, appellate intervention regarding the quantum of a sentence only occurs where that process has gone substantially wrong, leading to a sentence that is manifestly excessive or manifestly inadequate.[34]    
+
+D.3  The approach adopted by the Court of Appeal below
+
+33.  The approach of the Court of Appeal in Ma Chun Man,[35] is to be endorsed as consistent with this Court’s decision in Lai Chee Ying and the approach discussed above. However, the judgment of the Court of Appeal below, comprising the same panel of Judges, differs in some material aspects which, with respect, cannot be supported.
+
+34.  In its construction of NSL21 and NSL33, the Court below quite properly began by following the approach adopted in Lai Chee Ying, taking account of the promulgation process described in Section D.1 above.[36]  It proceeded to emphasise the NSL’s stated purpose of safeguarding national security and the great importance of preventing, suppressing and punishing activities endangering national security as a duty borne by all branches of government, including the judiciary,[37] none of which is controversial.
+
+35.  The Court also correctly noted that “[local] sentencing laws must therefore operate in tandem with the NSL to achieve the aim of safeguarding national security, giving priority to NSL provisions in case of inconsistency”.[38] However, it then proceeded more controversially to restrict the scope of the applicable sentencing principles and factors when dealing with NSL offences.
+
+36.  In the first place, the Court adopted as a definition the phrase “the Penological Considerations”, in which it included “deterrence, retribution, denunciation and incapacitation, that is, putting out of the power of the offender to commit further offences”, holding that “the construction of NSL 21 must give full effect” to the same.[39]  The source of that definition is unclear but it appears to be related to the well-known “classical principles of sentencing”, namely, deterrence, retribution, prevention and rehabilitation, all of which are aimed at the protection of society.[40]  A glaring omission from the Court of Appeal’s “Penological Considerations” is the principle of rehabilitation.
+
+37.  As previously indicated, the weight, if any, to be given to particular sentencing principles and aggravating or mitigating factors will vary with each case and it may be that in a given instance, there is little room for rehabilitation in the sentencing decision. However, as a matter of principle (as Mr Anthony Chau DDPP appearing for the respondent accepted), rehabilitation should not be omitted or excluded as a sentencing principle when giving effect to NSL21. Indeed, NSL21 expressly recognises that an offence may be “of a minor nature” and that the person concerned might be sentenced “to fixed-term imprisonment of not more than five years, short-term detention or restriction”. Given those sentencing options, in a particular case a court might well think it appropriate to give weight to the objective of rehabilitation by imposing a short, training-oriented sentence or a non-custodial sentence as the best means of protecting society. Thus, for instance, an offender who is young, inexperienced and ill-informed and who has been misled by others into participating in the incitement to secession might best be kept out of jail with a view to his or her rehabilitation and to avoid turning such person into a hardened anti-social offender.
+
+38.  Secondly, the Court of Appeal defined the NSL’s “Primary Purpose” as “safeguarding national security, preventing, suppressing and imposing punishment for the NSL offences”[41] and also defined as “the Imperative”, the provisions of “NSL 3(3),[42] NSL 8[43] and NSL 42(1)[44] on strict and full application of laws to further the Primary Purpose”.[45]  It went on to hold that:
+
+“In the context of the NSL, because of the Imperative, not all mitigating circumstances are applicable. Only those which do not compromise the Primary Purpose are permissible. This informs the construction of NSL 33(1).”[46]
+
+39.  With respect, it is hard to see how what has been defined as “the Imperative” should lead to the conclusion that “not all mitigating circumstances are applicable”. It is also difficult to see what mitigating factors should or should not be available. Which factors should be regarded as “those which do not compromise the Primary Purpose”? The defined “Primary Purpose” is essentially to take all measures necessary to safeguard national security and that purpose has obviously been pursued in prosecuting the individual concerned. On proof of the relevant offence, the defendant is subjected to punishment. As part of the sentencing exercise, the court must determine the appropriate nature and level of sentence and, in doing so, takes into account both aggravating and mitigating factors as well as the individual’s circumstances. The entire process represents implementation of the “Primary Purpose”. It is therefore not easy to see how any specific mitigating factor, balanced against other factors as part of the sentencing exercise, may be regarded as “compromising the ‘Primary Purpose’”.
+
+40.  In fulfilling their duty of enforcing the NSL and local laws with a view to preventing, suppressing and punishing acts and activities endangering national security, the courts faithfully give effect to the NSL’s offence-creating provisions, and if convictions result, they apply the existing corpus of local sentencing laws and principles in tandem with the NSL sentencing provisions. There is no basis for suggesting that in this process of convergence, selected elements of the local sentencing laws and principles should somehow be excluded from consideration.
+
+41.  With respect, very much the same objection arises in connection with the Court of Appeal’s statement that:
+
+“... the Imperative also governs the application of local sentencing laws to the sentencing of the NSL offences. To achieve convergence, compatibility and complementarity with NSL 21, local sentencing laws on mitigation can apply only if they do not prejudice the effect of the Penological Considerations. To achieve the same result with NSL 33(1), local sentencing laws on mitigation can only apply if they do not compromise the Primary Purpose.”[47]
+
+42.  In brief, the approach of giving effect to the principle of convergence, compatibility and complementarity without excising any potentially relevant sentencing principles should be adopted.
+
+43.  One other aspect of the Court of Appeal’s decision calls for comment. At §87 of its judgment, the Court noted that:
+
+“[Counsel for the prosecution had] ... sought to rely on the substantive Mainland sentencing law, making reference to a book entitled 刑法条文理解适用与司法实务全书,根据刑法修正案1~10编定,第一卷,第四章,第一節刑罚的具体运用.[48] He submitted that since there is a need for convergence between the NSL and local laws, the Mainland sentencing law on the meanings of terms used in the NSL will help the construction exercise.”
+
+44.  While the Court of Appeal did not act on this submission in the present case, it sought to state as a general principle, the following:
+
+“... Given the special status of the NSL as a national law applied to the HKSAR, regard may properly be had to the relevant Mainland law in aid of its construction. For as pointed out by the Court of Final Appeal in Lai Chee Ying, at [18], according to the Explanation on the ‘Draft Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region’ addressed to the 19th Session of the 13th Standing Committee of the National People’s Congress by the Responsible Official of the Legislative Affairs Commission under the Standing Committee of the National People’s Congress (18 June 2020), one of the working principles for drafting the NSL was:
+
+‘… accommodating the differences between Mainland China and the HKSAR, and striving to address the convergence, compatibility and complementarity between this Law, and the relevant national laws and local laws of the HKSAR.’ [Court of Appeal’s emphasis]
+
+Accordingly, the relevant Mainland law may in principle inform the construction of the NSL or a particular NSL provision. As to which particular Mainland law is relevant for the construction exercise, how and to what extent it is relevant, and how to make reference to it must depend on the actual circumstances of the case before the court.”[49]
+
+45.  With respect, we do not agree that the proposition so formulated represents a general principle. Extrinsic materials which are admissible in aid of construing the NSL have a much narrower ambit. The Court’s approach to construction of the Basic Law, and by extension of the NSL, is the common law approach as established in Director of Immigration v Chong Fung Yuen.[50] In Lai Chee Ying, it was held that the statements made as part of the promulgation process were admissible extrinsic materials because NSL1 referred to the key “5.28 Decision” and those materials bore directly on the context, purpose and constitutional status of the NSL. Such extrinsic materials do not encompass separate pieces of Mainland legislation which were enacted in a different context and for general purposes differing from and lacking any connection with the context and purposes for which the NSL was promulgated.
+
+46.  The Court of Appeal quoted the Explanation to the NPCSC of 18 June 2020 for the proposition that convergence between the NSL and other Mainland laws is intended, emphasising the reference to “the convergence, compatibility and complementarity between this Law, and the relevant national laws and local laws of the HKSAR”. However, as pointed out in Section D.1 above, the italicised words were explained and elaborated upon in the Address made on 30 June 2020 to the NPCSC upon completion of the NSL’s adoption as a law of the HKSAR, which was published on 6 July 2020. It stated:
+
+“… In upholding the policy of ‘One Country, Two Systems’, the Law has full regard to the differences between the Two Systems as well as the actual circumstances in Hong Kong. It converges with the national law on safeguarding national security and is compatible with Hong Kong’s existing legal system. ...”
+
+47.  That Address makes it clear that the national law convergence referred to is between the NSL and the national law on safeguarding national security, and not convergence with any unrelated Mainland law which employs concepts using similar language. It stresses that the NSL “has full regard to the differences between the Two Systems as well as the actual circumstances in Hong Kong” and acknowledges the need for the NSL to be “compatible with Hong Kong’s existing legal system”, all under the umbrella of the “policy of ‘One Country, Two Systems’”. The Address therefore highlights the separateness of the two legal systems while emphasising convergence specifically between the NSL and local laws. It does not suggest that the legal system in Hong Kong “converges” more generally with the Mainland system so as to require Hong Kong courts to search for and consider as possible aids to construction, similarly-worded Mainland laws. The uncertainty recognised by the Court of Appeal as to which Mainland laws might qualify and “how and to what extent it is relevant, and how to make reference to it” underscores the difficulties which its proposed approach would generate.
+
+48.  We should however make it clear that we are not excluding the judicious reference to general or law dictionaries as possible aids to considering the meaning of unfamiliar terms deriving from a different legal jurisdiction.[51] The appropriateness or otherwise of a reference to any specific entry may be subject to debate in particular cases. However, for present purposes, use of such reference material should be distinguished from references to unrelated pieces of Mainland legislation.
+
+E.  Construction of NSL20, NSL21 and NSL33
+
+E.1  NSL20 and NSL21
+
+49.  These Articles are set out in Section C above. NSL21 refers to NSL20 and both come within NSL Chapter III, Part 1 entitled “Secession”. They are obviously closely-related provisions and must be read together, but they constitute two separate offences involving different prohibited acts. Thus, the offence under NSL20(1) is committed by persons who organise, plan, commit or participate in secessionist acts, while NSL21(1) applies to those who incite, assist in, abet or provide pecuniary or other financial assistance or property for the commission by other persons of the NSL20 offence.[52]
+
+50.  For sentencing purposes, NSL20(1) is refined by NSL20(2) which distinguishes between different roles that may be played by an offender in the performance of the prohibited acts, namely, as “principal offender”, “active participant” or “other participant”. NSL20(2) lays down a framework of three bands or tiers of potential sentences of differing severity and assigns one such band to each such class of offender. For a “principal offender or a person who commits an offence of a grave nature” the band of available sentences spans ten years’ to life imprisonment; for an “active participant”, three to ten years’ imprisonment; and for an “other participant”, short-term detention or restriction to three years’ imprisonment.  It will be recalled that NSL64 (set out in Section D.2 above), specifies the local law equivalents for these sentencing terms. NSL20(2) specifies that the offender in each category “shall be sentenced” to a penalty within the assigned sentencing band.
+
+51.  NSL21, which is our central concern, differs structurally from NSL20. NSL21(1) defines the offence by reference to the specified prohibited acts but, unlike in NSL20(2), there is no further refinement by reference to the offender’s participatory role. NSL21(1) simply provides for liability which is either inchoate (incitement) or secondary (assisting, abetting or financing) by reference to commission of an NSL20 offence by others.
+
+52.  However, as with NSL20(2), NSL21(2) provides a sentencing framework, this time specifying two (rather than three) bands of potential sentences. It requires the court to assess the seriousness of the circumstances of the offence in deciding into which band the case falls. If the circumstances are of a “serious nature”, the person “shall be sentenced to fixed-term imprisonment of not less than five years but not more than ten years” and if the circumstances “are of a minor nature”, that person shall be “sentenced to fixed-term imprisonment of not more than five years, short-term detention or restriction”.
+
+53.  It is evident that NSL20 and NSL21 assume and allow for the exercise of a sentencing discretion by the court within the framework provided. Thus, in NSL21(2), the court is required to undertake an evaluative assessment of the seriousness of the circumstances of the offence to decide whether the sentence should fall within the upper or lower band. Furthermore, the fact that these Articles provide for bands of possible penalties means that the court has a discretion to determine at which level within the band the sentence should be imposed. In doing so, as explained in Section D.2 above, the court applies the Region’s sentencing laws and principles, involving consideration of starting-points, aggravating and mitigating factors, and so forth.
+
+E.2  NSL33
+
+54.  NSL 33 is set out in Section C above. NSL33(1) provides for three possible outcomes, namely, a lightening, reduction or (for minor offences) exemption from penalties if one of the three conditions set out in sub-paragraphs (1), (2) and (3) is applicable. Those conditions involve the relevant person’s (1) voluntary discontinuance of commission of the offence or forestalling its consequences; (2) voluntary surrender with a truthful account of the offence; or (3) a truthful report of another person’s offence or giving material information which helps to solve the other criminal case. NSL33(2) elaborates upon the requirements of NSL33(1)(2).
+
+55.  The following features of NSL33(1) may be noted:
+
+(a)  It is not tied to any particular offence but operates in relation to all NSL offences.
+
+(b)  While NSL33 applies to offenders who have been convicted and are sentenced in the usual way, it is not restricted to such offenders. Thus, NSL33(1) refers to penalties relating to “an offender, criminal suspect, or defendant”. It therefore caters not only for the convicted offender but also a defendant who is charged, but not yet convicted, and a criminal suspect who has not yet been charged. Any of such persons may benefit from an alleviating penalty adjustment under NSL33 if they bring themselves within one of the NSL33(1) conditions. In the case of a defendant or criminal suspect, the reference to “penalty” must evidently be understood to mean a potential or projected penalty at the end of an eventual or notional sentencing exercise.
+
+(c)  NSL33 is therefore intended to operate separately from and after determination of the penalty in the case in question. It presupposes an identifiable penalty which may then be lightened, reduced or exempted.
+
+56.  The purpose of NSL33 is plain. It encourages offenders and potential offenders not to go through with an offence and to assist the authorities in safeguarding national security and enforcing the law. It provides an incentive for such actions by permitting a downward adjustment of the penalty.
+
+57.  Quite apart from NSL33, it is the policy of the law of the Region that such conduct and in particular, useful assistance to the authorities, is to be encouraged and recognised as a mitigating factor.[53]  Thus, in Z v HKSAR,[54] this Court held that useful pre-arrest assistance to the authorities in relation to an unconnected case ought to be treated as a mitigating factor. Li CJ stated:
+
+“The policy of the courts to recognise useful assistance to the authorities in mitigation of sentence is based on the public interest. It is in the public interest that appropriate punishment should be imposed on defendants convicted of criminal offences. But at the same time, the prevention, detection and prosecution of crime is also in the public interest. The use of the informer is a powerful weapon in the hands of the law enforcement agencies in society’s fight against crime. Criminals should be encouraged to inform on other criminals. Honour among thieves should be discouraged. Indeed, dishonour and betrayal among thieves should be encouraged.”
+
+58.  While NSL33 may thus be regarded as addressing the particular set of mitigating factors reflected in the three conditions it specifies, it differs from an ordinary sentencing exercise in one significant respect. Our courts are not generally concerned with offences with prescribed bands or tiers of sentence related to the seriousness of the individual case. NSL33 however operates in precisely that context and provides for the effect of its conditions being satisfied upon the tiered sentencing bands.
+
+59.  In its English translation, NSL33(1) expresses the first two alleviating outcomes in terms stating that “[a] lighter penalty may be imposed, or the penalty may be reduced”. The third outcome is an exemption from any penalty. As a matter of language, in relation to the first two outcomes it is unclear what difference is intended between “imposing a lighter penalty” and “reducing a penalty”. As the Court of Appeal pointed out, it may be thought that they are synonymous. However, the Court held that in Chinese, the corresponding expressions being “從輕處罰” and “減輕處罰” respectively, have quite different connotations.
+
+60.  Analysing the Chinese text with the help of a dictionary[55] the Court of Appeal concluded[56] that in the NSL33 context:-
+
+(a)  從輕處罰 (translated as “a lighter penalty may be imposed”) must be understood to mean that a lighter penalty may be imposed “within the applicable tier as prescribed by the relevant NSL provisions”.
+
+(b)  減輕處罰 (translated as “the penalty may be reduced”) must be understood to mean that the penalty may be reduced “from the applicable tier to a lower tier”.
+
+(c)  免除處罰 (translated as “exempting the penalty”) represents the “most lenient” way of dealing with the person concerned.
+
+61.  We respectfully agree with that analysis. The first two outcomes referred to in NSL33 are plainly alternatives: they are separated by the enumeration comma (、) in the Chinese text and by the word “or” in the English translation. They are thus plainly not intended to be synonymous. We note that the distinction drawn by the Court of Appeal is accepted by both parties. Where the parties differ is as to whether the three conditions qualifying a person to be benefited by one of the three outcomes are exhaustive.
+
+F.  The appellant’s arguments
+
+F.1  Bands for starting-points only
+
+62.  As noted in Section B above, the first aspect of the appellant’s case involves the argument that on its proper construction, NSL21 does not lay down “a mandatory minimum final sentence of 5 years’ imprisonment”, but merely “delineate[s] the range of starting points of custodial sentences in circumstances of a serious nature without limiting the normal discretion of the courts to reduce the same where circumstances warrant”.
+
+63.  In the present case, the Judge decided that this NSL21 offence was serious and so came within the upper band defined by a sentencing range with a maximum of ten years’ and a minimum of five years’ imprisonment. However, so the appellant’s argument runs, the lower five-year limit does not set a hard and fast floor for the sentence. He contends that, having decided on a starting-point within the prescribed band, the court is entitled to arrive at a sentence which falls below the five-year minimum after giving effect to an applicable mitigating factor – in the present case, the timely plea of guilty. Mr Robert Pang SC appearing on his behalf, invited the Court to construe NSL21 as accommodating a “continuum” of possible sentences without being constrained by any lower limit of a prescribed sentencing band.
+
+64.  With respect, that is an untenable argument. The official Chinese text of NSL21(2) provides that if the circumstances of the offence are of a serious nature, the consequence is “處五年以上十年以下有期徒刑” and if the circumstances are of a minor nature, the consequence is “處五年以下有期徒刑、拘役或者管制”; these are respectively rendered in the English translation as “the person shall be sentenced to fixed-term imprisonment of not less than five years but not more than ten years” and “the person shall be sentenced to fixed-term imprisonment of not more than five years, short-term detention or restriction”.[57] It is entirely clear that, read contextually, these provisions prescribe in mandatory language the nature and length of the sentence imposed. To suggest, as Counsel for the appellant did, that they are concerned merely with establishing starting-points for the purposes of sentencing exercises is to attribute a meaning which the language cannot bear.
+
+65.  NSL21(2) sets a framework of penalty bands tied to the relative seriousness of an individual offence, prescribing a sentence within the specified range. It cannot consistently be suggested that the legislative intention is for an offence found to be “serious” for the purposes of that framework should then be dealt with by a sentence falling below the prescribed range. There is nothing in NSL21 to support such a view.
+
+66.  NSL33 militates strongly against the appellant’s argument. As we have seen, taking proper account of the Chinese text, NSL33 makes express provision as to when cases initially classified as falling within a higher penalty band may be relocated within a lower band. This may occur where one of the NSL 33 conditions is met and “減輕處罰” applies. The absence of any such mechanism within NSL21 itself or in a separate provision assigning such a consequence to other classes of mitigating factors compels the conclusion that, leaving NSL33 aside, the lower limits of the prescribed bands are mandatory.
+
+F.2  Whether the NSL33 conditions are exhaustive
+
+67.  The appellant seeks to argue that the three conditions capable of triggering the mitigating benefits of NSL33 are not exhaustive and that “the sentencing court may continue to rely on factors recognised under existing law as legal bases to impose a lighter penalty or to reduce a penalty” at least if such factors “are consistent with the purpose of NSL”. The objective is again to submit that the Judge ought to have given full effect to the one-third sentencing discount for the appellant’s guilty plea leading to a sentence below the lower limit of the upper band set by NSL21(2).
+
+68.  That argument cannot be accepted. As discussed in Section E.2 above, the legislative purpose of that provision is unambiguous. As is evident from the three conditions which enliven NSL33, its purpose is to provide offenders and potential offenders with an incentive to desist from committing offences, to assist the authorities in the suppression of activities endangering national security and to facilitate law enforcement. NSL33, construed contextually and purposively, cannot be understood as intending that such extenuating sentencing adjustments should be available in respect of mitigating factors unconnected with the clear rationale of that provision. Accordingly, the appellant’s arguments must be rejected.
+
+G.  The sentencing process
+
+69.  A judge making a sentencing decision will have convicted the defendant of the offence in question,[58] and will be mindful of any aspects of that conviction – such as the role played by the offender in the commission of the offence – which may have a bearing on the sentence, especially as to which sentencing band or tier is applicable.
+
+70.  If the conviction is under NSL20, the appropriate band is determined by whether the offender is found to have acted as “a principal offender or a person who commits an offence of a grave nature” or, if not, as an “active participant” or an “other participant”. If under NSL21, the applicable band depends on the court’s assessment of whether the “circumstances of the offence committed” are of a “serious” or “minor” nature.
+
+71.  Deciding on “seriousness” involves an evaluative and discretionary judgment by the court. In Ma Chun Man,[59] the Court of Appeal held that in this context “the prime focus is on the offender’s acts, as well as the actual consequences, potential risks and possible influence entailed”. It proceeded to list various potentially relevant factors, including the social context in which the offence was committed; how the incitement was conveyed, on what scale and with what frequency; whether violence or the threat of violence was incited; the persons or groups involved or targeted; what the impact of the incitement was and the scope of its potential influence. We agree that indications such as these are helpful in assessing the seriousness of the offence, recognising of course that the list is not intended to be exhaustive or mechanically applied.
+
+72.  Having determined, for instance, that a NSL21 offence is of a serious nature warranting a sentence within the upper band, the court proceeds to apply familiar sentencing laws and principles as discussed in Section D.2 above. Exercising its discretion, the court determines a starting-point within the appropriate band and takes account of aggravating and mitigating factors. At this stage, the court will be aware of whether any of the NSL33 conditions may be engaged. If they may be engaged, it should temporarily leave those mitigating factors – ie, involving assistance to the authorities, etc – to one side to be dealt with only after a provisional sentence has been determined. That provisional sentence, arrived at by applying familiar sentencing laws and principles, must be located within the applicable penalty band.
+
+73.  If the court finds that one of the NSL33 conditions applies, it then considers to what extent a lightening (從輕處罰) or reduction (減輕處罰) of the sentence provisionally determined may be merited, with the consequences for the tiered sentencing scheme discussed in Section E.2 above. This again involves the court’s discretion. Guidance may be sought from non-NSL examples of mitigation involving circumstances similar to those referred to in the three sub-paragraphs of NSL33(1).[60]  The court is likely, for instance, to consider how valuable the assistance rendered to the authorities was; how serious was the threat to national security revealed by the offender and how far the information provided enabled that threat to be countered; whether the informant was prepared to testify against others; to what extent the assistance given placed the informant or those close to him or her in danger, and so forth. Mitigation in cases of voluntary surrender is also discussed in the analogous case-law. The context and motivation for such conduct; whether the defendant had absconded in the first place; and the extent to which such conduct shows true remorse, are examples of possible considerations.[61]  Having weighed up the relevant circumstances, the court arrives at its final sentence.
+
+74.  As previously noted, appellate interference with the court’s discretion affecting the quantum of a sentence will only occur where that discretion has substantially miscarried, leading to a sentence that is manifestly excessive or manifestly inadequate.[62]  
+
+H.  Conclusion and disposal of this appeal
+
+75.  For the foregoing reasons, this appeal must be dismissed.
+
+76.  The answer to Question 1 is that, subject to NSL33 being applicable, the stipulation of “fixed-term imprisonment of not less than five years” in NSL21 for offences of a serious nature is mandatory.
+
+77.  As to Question 2, the three conditions specified in NSL33(1) are exhaustive.
+
+ 
+
+ 
+
+(Andrew Cheung)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+ 
+
+(M H Lam)
+Permanent Judge	(Patrick Chan)
+Non-Permanent Judge
+ 
+
+Mr Robert Pang SC, Mr Joe Chan, Ms Yvonne Leung and Mr Jay Koon, instructed by O Tse & Co., for the Appellant
+
+Mr Anthony Chau DDPP, Mr Ivan Cheung ADPP (Ag) and Ms Karen Ng SPP, of the Department of Justice, for the Respondent
+
+
+[1]  The Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region (30 June 2020) which is promulgated in Chinese. The English translation used in this judgment is taken from G.N.(E.) 72 of 2020.
+
+[2]  He had also been charged with possession of arms without a licence and with possession of offensive weapons, but it was agreed that those charges should be left to lie on the court file, not to be dealt with unless with the Court’s leave.
+
+[3]  Reasons for Sentence (“RfS”) [2022] HKDC 384.
+
+[4]  RfS §8.
+
+[5]  RfS §15.
+
+[6]  RfS §16.
+
+[7]  RfS §10. In Kwok Wing Hang v Chief Executive in Council (2020) 23 HKCFAR 518 at §§87-97, this Court described aspects of the violent breakdown in public order during the aforesaid period.
+
+[8]  CA §8.
+
+[9]  RfS §§33-41.
+
+[10]  RfS §§44-46.
+
+[11]  RfS §47.
+
+[12]  Poon CJHC, D Pang and A Pang JJA [2023] 1 HKLRD 751.
+
+[13]  The fifth ground was disregarded as adding nothing to the other grounds: CA §25.
+
+[14]  [2022] 5 HKLRD 246.
+
+[15]  CA §§27-41.
+
+[16]  CA §42.
+
+[17]  CA §44.
+
+[18]  CA §46.
+
+[19]  CA §96.
+
+[20]  Poon CJHC, Pang JA and Anthea Pang JA [2023] HKCA 611.
+
+[21]  Ribeiro, Fok and Lam PJJ [2023] HKCFA 10.
+
+[22]  With paragraph numbers inserted, and sub-paragraph numbers retained, in aid of exposition.
+
+[23]  (2021) 24 HKCFAR 33.
+
+[24]  Ibid at §8.
+
+[25]  Ibid at §11.
+
+[26]  Ibid at §18.
+
+[27]  Address at the Twentieth Session of the Standing Committee of the Thirteenth National People’s Congress made by Mr Li Zhanshu on 30 June 2020 and published on the website of the National People’s Congress on 6 July 2020.
+
+[28]  Ibid at §21.
+
+[29]  Ibid at §29. NSL62: “This Law shall prevail where provisions of the local laws of the Hong Kong Special Administrative Region are inconsistent with this Law.”
+
+[30]  Ibid at §42.
+
+[31]  I Grenville Cross GBS, SC and Patrick WS Cheung, Sentencing in Hong Kong (LexisNexis 10th Ed) (“Cross & Cheung”) at §25-4.
+
+[32]  HKSAR v Islam Azharul [2020] 1 HKLRD 644 at §20.
+
+[33]  Chapters 1 and 30.
+
+[34]  Secretary for Justice v Wong Chi Fung (2018) 21 HKCFAR 35 at §§62 and 63; Criminal Procedure Ordinance (Cap 221), sections 81A-81C, 83G-83I; and see Cross & Cheung, Chapter 3.
+
+[35]  Poon CJHC, D Pang and A Pang JJA [2022] 5 HKLRD 246 at §§64-67.
+
+[36]  CA §§49-50.
+
+[37]  CA §§51-52.
+
+[38]  CA §56, citing Ma Chun Man at §66.
+
+[39]  CA §57.
+
+[40]  See Cross & Cheung, Chapter 6.
+
+[41]  CA §51.    
+
+[42]  NSL3(3): “The executive authorities, legislature and judiciary of the Region shall effectively prevent, suppress and impose punishment for any act or activity endangering national security in accordance with this Law and other relevant laws.”
+
+[43]  NSL8: “In order to safeguard national security effectively, the law enforcement and judicial authorities of the Hong Kong Special Administrative Region shall fully enforce this Law and the laws in force in the Region concerning the prevention of, suppression of, and imposition of punishment for acts and activities endangering national security.”
+
+[44]  NSL42(1): “When applying the laws in force in the Hong Kong Special Administrative Region concerning matters such as the detention and time limit for trial, the law enforcement and judicial authorities of the Region shall ensure that cases concerning offence endangering national security are handled in a fair and timely manner so as to effectively prevent, suppress and impose punishment for such offence.”
+
+[45]  CA §53.
+
+[46]  CA §58.
+
+[47]  CA §59.
+
+[48]  Unofficially translated as “The Complete Book on the Understanding, Application and Judicial Practice of the Criminal Law Provisions, prepared according to Amendments 1~10 of the Criminal Law, Volume 1, Chapter IV: The Special Application of Penalties, Section 1: Sentencing.”
+
+[49]  CA §88.
+
+[50]  (2001) 4 HKCFAR 211.
+
+[51]  See Fothergill v Monarch Airlines Ltd [1981] AC 251 at 273-274, per Lord Wilberforce as to use of a dictionary in examining different expressions in the English and French texts of the Warsaw Convention of 1955, given force of law by the Carriage by Air Act 1961 in the UK with the French text to prevail in case of inconsistency.
+
+[52]  Questions may well arise as to the meaning and relationship between concepts employed in the respective Articles, as well as regarding the meaning of some of the concepts employed within each Article, but they do not require discussion on this appeal.
+
+[53]  See Cross & Cheung, Chapter 4. Voluntary surrender to the authorities may also be a mitigating factor: ibid at [30-379] to [30-386].
+
+[54]  (2007) 10 HKCFAR 183 at §10.
+
+[55]  CA §67.
+
+[56]  CA §68.
+
+[57]  Underlines supplied.
+
+[58]  Leaving aside for now “defendants” and “criminal suspects” referred to in NSL33.
+
+[59]  [2022] 5 HKLRD 246 at §75.
+
+[60]  See Cross & Cheung, Chapter 4.
+
+[61]  Ibid at [30-379] to [30-387].
+
+[62]  Secretary for Justice v Wong Chi Fung (2018) 21 HKCFAR 35 at §§62 and 63; Criminal Procedure Ordinance (Cap 221), sections 81A-81C, 83G-83I; and see Cross & Cheung, Chapter 3.
+
+  

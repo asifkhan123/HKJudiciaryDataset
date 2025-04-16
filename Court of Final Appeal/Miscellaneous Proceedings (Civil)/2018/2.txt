@@ -1,0 +1,112 @@
+FAMV No.13 of 2018
+
+[2018] HKCFA 21
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 13 OF 2018 (CIVIL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL FROM
+
+CACV NO. 32 OF 2016)
+
+_______________________
+
+BETWEEN	 	 
+ 		
+ 	ACRON INTERNATIONAL TECHNOLOGY LIMITED	Plaintiff
+ 	 	(Respondent)
+ 	and	 
+ 	CHAN YIU WAI	1 st Defendant
+ 	 	(1 st Applicant)
+ 	LAW SUI CHUN	2 nd Defendant
+ 	 	(2 nd Applicant)
+_______________________
+
+Appeal Committee: Mr Justice Ribeiro PJ, Mr Justice Tang PJ and Mr Justice Fok PJ
+Date of Hearing and Determination: 9 May 2018
+Date of Reasons for Determination: 16 May 2018
+_______________________________
+
+REASONS FOR DETERMINATION
+
+_______________________________
+
+Mr Justice Tang PJ:
+
+1.  The Court of Appeal granted leave to the defendants to appeal to this court on a single ground:
+
+“In the context of identifying what the invention is for the purpose of section 57 of the Patents Ordinance (Cap.514) (“PO”), and where the invention in issue is embodied in a patent already granted, whether, and if so, to what extent section 76(1) of the PO is relevant and applicable?”
+
+2.  The Court of Appeal refused leave to appeal on three other grounds.  The defendants made a fresh application to the appeal committee for leave to appeal in the knowledge that the appeal committee has full discretionary powers to consider the application afresh.  Mr Paul Lam SC for the defendants frankly accepted that the resolution of the first question would give little practical benefit.
+
+3.  At the conclusion of the hearing, we dismissed the defendants’ application for leave to appeal on any of the grounds including those for which the Court of Appeal had given leave.  These are our reasons.
+
+4.  The 1st defendant and 2nd defendant were employees of the plaintiff between 2001 and 2004.  On 18 October 2004, they tendered their resignations and their employment ended on 18 November 2004.
+
+5.  On 29 April 2002, the plaintiff applied for a patent under the Patent Cooperation Treaty in respect of an air cleaner that uses molecular sieves, such as zeolites, as a filter to remove contaminant gas titled “air cleaner filter system capable of Nano/Confined Catalytic Oxidation” (“the PCT Application”).  The 2nd defendant was named as one of four inventors in the PCT Application. A Standard Patent in Hong Kong was granted on 29 May 2009 [No 1076446 (the Standard Patent)] with the term commencing on 29 April 2002.  The Hong Kong Standard Patent was duly registered on the same day.
+
+6.  On 31 August 2004, that is to say during the defendants’ employment with the plaintiff, the 1st defendant and 2nd defendant applied to the PRC State Intellectual Property Office for a Utility Model Patent for an “apparatus for fluid purification, comprising a housing having an outlet and an inlet for the fluid, and molecular sieve wherein the said housing also comprises an oxidizing reagent generating device. …”.  The application stated that they were the Inventors or Designers.  
+
+7.  This application was withdrawn on 26 November 2004 when the defendants applied for the PRC Invention Patent for “A Method and Device for Fluid Purification”.  They claimed priority from 31 August 2004, the same date of the application for the Utility Model Patent which was withdrawn on the day they applied for the PRC Invention Patent.  The claimed priority date is important because the earlier priority date could only be claimed if the earlier application was in respect of the same invention. 
+
+8.  This application, after amendments, culminated in patent no. ZL 200410091762.3 (“The PRC Invention Patent”) which was granted on 7 January 2009[1] with priority as from 31 August 2004.
+
+9.  In this action, the plaintiff claimed inter alia that, the invention in the PRC invention patent belonged to the plaintiff pursuant to section 57 (1)(a) of the Patents Ordinance (Cap 514).  After an eleven day trial, Deputy Judge Robert Whitehead SC ordered the 2nd defendant[2] to “unconditionally and irrevocably assign and/or transfer to the plaintiff …” the PRC Invention Patent.  The learned Deputy Judge was of the view that “the similarities between the PCT Application and the PRC Invention Patent are compelling evidence that the invention was derived from the PCT Application.”  And that the invention was made during the 1st defendant’s employment with the plaintiff.
+
+10.  Section 57 of the Patent Ordinance provides:
+
+“(1) Notwithstanding anything in any rule of law, an invention made by an employee shall, as between him and his employer, be taken to belong to his employer for the purposes of this Ordinance and all other purposes if –
+
+(a) it was made in the course of the normal duties of the employee or in the course of duties falling outside his normal duties, but specifically assigned to him, and the circumstances in either case were such that an invention might reasonably be expected to result from the carrying out of his duties; or
+
+(b) the invention was made in the course of the duties of the employee and, at the time of making the invention, because of the nature of his duties and the particular responsibilities arising from the nature of his duties he had a special obligation to further the interests of the employer’s undertaking.”
+
+11.  On the evidence, the learned Deputy Judge found, rejecting the defendants’ submissions to the contrary, that the invention, the basis of the PCT Application, was made in the course of the 2nd defendant’s normal duties with the plaintiff, or that the invention might reasonably be expected to result from the carrying out of the 2nd defendant’s normal duties.   
+
+12.  The defendants’ appeal against such findings was dismissed by the Court of Appeal who also refused leave to appeal against such findings. These findings are the subject of the third and fourth questions before us.  It is unnecessary to set them out.  They concern factual issues which are the subject of concurrent findings.  We would also refuse leave. 
+
+13.  The 1st and 2nd questions raised the question of the construction of section 57, basically, the same issue as the question in respect of which the Court of Appeal has given leave.[3]  The Court of Appeal gave leave because their judgment was “the first judgment in Hong Kong discussing s.57 ...”  That is so, but with respect, the judgment is plainly right and the contrary is not reasonably arguable.
+
+14.  Mr Lam’s argument is that section 57 should be construed with reference to section 76, which provides:
+
+“(1) For the purposes of this Ordinance –
+
+(a) an invention in respect of which an application for a patent has been filed shall, unless the context otherwise requires, be taken to be that specified in a claim of the specification of the application, as interpreted by the description and any drawings contained in that specification;
+
+(b)   an invention for which a patent has been granted shall, unless the context otherwise requires, be taken to be that specified in a claim of the specification of the patent, as interpreted by the description and any drawings contained in that specification, …”
+
+15.  Mr Lam submits that because under section 76, the invention should be taken as that specified in PRC Invention Patent granted on 7 January 2009 and invented on or about 30 June 2008 (the defendants’ case), it was not invented during the 2nd defendant’s employment with the plaintiff, which terminated in October or November 2004.  But the priority claimed dated from 31 August 2004, when the 2nd defendant was in the employ of the plaintiff and as expert witnesses on both sides “accepted that a patent application, once filed, cannot be substantially amended such that it extends beyond the original scope.”  The learned Deputy Judge also held as I have quoted above that there was compelling evidence that the PRC Invention Patent was derived from the PCT application.[4]  Yuen JA, whose judgement was agreed by Cheung JA and Kwan JA, rightly said “the emphasis in s.76(1) is on the claims to identify what is protected”,[5] whereas “s.57 is concerned with the title to an invention as between employer and employee”[6] (emphasis supplied).  Her ladyship explained that any invention made by an employee within the situations covered by section 57(1) would, as between the employee and employer, be taken to belong to the employer immediately as a matter of law and “there is no correlation between the making of an invention (for the purposes of s.57) and an application for a patent based on the invention.”[7]
+
+16.  With respect we agree and Mr Lam’s argument to the contrary is not reasonably arguable.  For that reason, we refused leave to appeal on the first and second grounds, with costs to the plaintiff.   
+
+ 
+
+ 
+
+(R A V Ribeiro)	(Robert Tang)	(Joseph Fok)
+Permanent Judge	 Permanent Judge	Permanent Judge
+ 
+
+Mr Paul Lam SC and Ms Kay Seto, instructed by Woo, Kwan, Lee & Lo, for the 1st and 2nd defendants (1st and 2nd applicants)
+
+Ms Winnie Tam SC, Ms Rachel Lam and Ms Eva Leung, instructed by Kwok, Ng & Chan, for the plaintiff (respondent)
+
+[1] Court of First Instance, para 14. 
+
+[2] The 1st defendant was not included in the order because it transpired that he ceased to be an owner of the PRC Invention on 12 February 2014.  However, an adverse costs order was made against him.  He appealed against the cost order only.  It is unnecessary to deal with his appeal separately because it depends on the 2nd defendant’s appeal.
+
+[3] Para 1 above.
+
+[4] Para 8 above. 
+
+[5] Court of Appeal, para 31.2. 
+
+[6] Court of Appeal, para 32.1. 
+
+[7] Court of Appeal, paras 32.2 and 32.3.  
+
+ 
+

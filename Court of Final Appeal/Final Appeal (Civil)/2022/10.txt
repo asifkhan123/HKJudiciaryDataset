@@ -1,0 +1,146 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 10 of 2022
+
+[2022] HKCFA 28
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 10 OF 2022 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 72 OF 2020)
+
+_________________________
+
+BETWEEN	 	 
+TOTALCORP (NOMINEES) LIMITED	Plaintiff
+(Respondent)
+ 	and	 
+HONG KONG SAI KUNG NGONG WO RESORT DEVELOPMENT LIMITED
+（香港西貢昂窩渡假村發展有限公司）	Defendant
+(Appellant)
+_________________________
+
+Before: Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ and Lord Hoffmann NPJ
+
+Date of Hearing: 1 December 2022
+
+Date of Judgment: 19 December 2022
+
+_________________________
+
+J U D G M E N T
+
+_________________________
+
+Chief Justice Cheung:
+
+1.  I agree with the judgment of Lord Hoffmann NPJ.
+
+Mr Justice Ribeiro PJ:
+
+2.  I agree with the judgment of Lord Hoffmann NPJ.
+
+Mr Justice Fok PJ:
+
+3.  I agree with the judgment of Lord Hoffmann NPJ.
+
+Mr Justice Lam PJ:
+
+4.  I agree with the judgment of Lord Hoffmann NPJ.
+
+Lord Hoffmann NPJ:
+
+5.  This is an appeal against a decision of the Court of Appeal (Kwan VP, Au and G Lam JJA) in a mortgage action, ordering enforcement of a legal charge and payment of the loan and other monies thereby secured. The court reversed the decision of the judge (Patrick Fung SC, sitting as a Deputy High Court Judge), who had dismissed the action on the ground that both the charge and the recovery of the loan were unenforceable because the parties had agreed an excessive rate of interest: section 24(1) and (2) of the Money Lenders Ordinance (Cap 163).
+
+6.  The borrower was Hong Kong Sai Kung Ngong Wo Resort Development Limited, a wholly-owned subsidiary of a PRC company.  The lender was Totalcorp (Nominees) Limited, a BVI company.  The parties were put in touch with each other by one Lau Hoi Tuen (“Mr Lau”) who combined employment as a solicitor’s clerk with acting as a loan broker.  After introducing the parties Mr Lau acted on behalf of the lender, employing other solicitors for the conveyancing and subsequent litigation.
+
+7.  There is some confusion about how much was lent. The borrower’s letter of application for the loan says HK$45 million.  The Legal Charge dated 5 February 2015 says HK$44 million.  The judge found it was HK$41,004,220, apparently because he deducted some HK$4 million which the borrower had agreed to pay to the lender and others (interest payable in advance to the lender, commissions payable to Mr Lau and another intermediary, conveyancing costs) and which it had directed the lender’s solicitors to pay out of the HK$45 million.  I find it difficult to see how the borrower can be said to have paid these debts without borrowing the money.  But there is no appeal against the finding that the loan was HK$41,004,220 and I say no more about it.
+
+8.  Mr Lau’s practice appears to have been to document the terms of the loan by setting them out in a “Loan Application” for the borrower to sign and return to him.  In this case, the letter of 2 February 2015 said that the loan was for three months and that the rate of interest was to be 2.5% per month.
+
+9.  The borrower could not repay the loan on the due date (4th May 2015) but the lender agreed to an extension until 4 June 2015 which was documented in an “Application for Extension of Loan Term” signed on behalf of the borrower on 5 May 2015.  It said that during the extension period the rate of interest was to be 3.5% per month.  Two further extensions were agreed on 4 June 2015 (for another month at 3.5% per month) and on 6 July 2015 (for up to 10 days at 4% per month).  On 17 July 2015 there was a fourth extension, apparently sine die (the period of extension was left blank) at 4% per month.  The interest was to be payable on the capital loan (said to have been HK$45 million) together with arrears of interest up to 5 July 2015.  This amounted in all to HK$47,879,550 and was said to produce an interest liability of HK$63,839.40 a day.  If one calculates this as an annual rate on a loan of HK$45 million, it is 51.8%. On a loan of HK$41 million it is 56.8%.
+
+10.  Section 24 of the Money Lenders Ordinance (Cap 163) provides as follows:
+
+(1)  Any person (whether a money lender or not) who lends or offers to lend money at an effective rate of interest which exceeds 60 per cent per annum commits an offence.
+
+(2)  No agreement for the repayment of any loan or for the payment of interest on any loan and no security given in respect of any such agreement or loan shall be enforceable in any case in which the effective rate of interest exceeds the rate specified in subsection (1).
+
+11.  It follows that up to and including the fourth extension, the rates of interest charged by the lender fell within the maximum prescribed by the Ordinance.  But the judge found that after the fourth extension, there was a further agreement which provided for the borrower to pay an annual rate of 74%.  This made the loan irrecoverable.
+
+12.  The evidence upon which the judge found that such an agreement must have been made was a demand letter dated 14 June 2016 and sent by the lender’s solicitors to the borrower, of which a copy was produced by Mr Lau during the course of his evidence.  It set out the borrower’s indebtedness in accordance with the terms of the four extensions:
+
+(1)	Principal	
+HK$45,000,000
+(2)	Interests from 5th May 2015 to 4th July 2015	
+HK$3,150,000
+(3)	Interests from 5th July 2015 to 31st May 2016	
+HK$20,721,456
+(4)	Late payment fee on accrued interests (as agreed)	
+HK$179,550
+(5)	Administration fee (as agreed)	
+HK$30,000
+HK$69,081,006
+Less: Part payment of interest made by you	
+HK$5,840,000
+TOTAL OUTSTANDING AMOUNT:  
+HK$63,241,006
+13.  The letter then said:
+
+“Further interest continued to accrue on the sum of HK$63,241,006.00 at the rate of 4% per month from 1st June 2016 until the date of payment.”
+
+14.  The judge said that he inferred from the letter and this last sentence in particular that there must have been an agreement that from 1 June 2016 the borrower would pay interest at the monthly rate of 4% on HK$63,241,006 instead of the fourth extension rate of 4% on HK$47,879,550.  Applied to a loan which the judge held to have been HK$41,004,220, that produced an annual rate of 74%.
+
+15.  In my opinion there was no basis for a finding that there had been such an agreement.  Nothing in the demand letter supports it.  First, the statement in the letter about further interest does not allege that there has been any such agreement.  It is simply an assertion as to what the author thinks the position is after the fourth extension.  Secondly, the letter says that further interest “continued” to accrue.  There is, I think, some ambiguity about the words “on the sum of HK$63,241,006.00”.  It can mean, and perhaps in most contexts would mean, that HK$63,241,006.00 is to be treated as the sum on which the monthly rate of 4% is to be calculated.  But it can also mean, and I think in this context was intended to mean, simply that accruing interest at 4% upon an unspecified capital will be added to the HK$63,241,006.00 liability.  That such a meaning was intended is, I think, shown by the use of the word “continued”.  That must mean that interest has been and will be added in the same way as before.  The imposition of an interest liability calculated by reference to a new and higher capital sum cannot be described as a continuation.
+
+16.  There was no other evidence of what the judge called an agreement “contained in or reflected by” the demand letter and the Court of Appeal called an “inferred agreement”.  The invariable practice by which the parties entered into agreements was for Mr Lau to draft a letter setting out the new terms and for it to be signed on behalf of the borrower.  But the borrower never asserted that there was such an agreement and Mr Lau himself denied it.  The judge took a poor view of Mr Lau’s conduct in failing to disclose his retained copy of the demand letter at an earlier stage and said that Mr Lau had hoped to conceal it in order not to reveal that there had been an agreement to pay an unlawful rate of interest.  In my opinion there was nothing to support such a finding.  The demand letter was of no particular significance.  It had been followed by the commencement of a mortgage action which was afterwards discontinued.  When Mr Lau was asked in cross-examination to produce a copy, he did so.  The original of the letter would have been in the possession of the borrower, which would make an attempt to conceal its existence by suppressing the copy a rather futile exercise.
+
+17.  The action started after the 14 June 2016 demand letter was, as I have said, discontinued.  On 14 October 2016 the parties entered into a new agreement (“the Final Agreement”) by which the terms of the loan after the first three months (i.e. the rates stipulated by the four extension agreements) were retrospectively revised.  The rate of interest over the whole period of extension was to be 3.8% per month.  The Final Agreement listed “all documents previously signed concerning the payment of interest on the Loan” and declared them to have ceased to be effective.  The last document on the list is the fourth extension.  There is no mention of a subsequent agreement increasing the annual rate of interest to 74% or any other rate.  In my opinion this document, signed by the borrower, is inconsistent with there having been an “inferred agreement”.
+
+18.  An appellate court is traditionally reluctant to question a judge’s findings of primary fact.  But the existence of the inferred agreement was not such a finding.  It was an inference from the language of the demand letter and the conduct of the proceedings by the lender which in my opinion could not properly be drawn.
+
+19.  If, as I consider, there was no inferred agreement, that is sufficient to dispose of the appeal.  The lender’s claim was based upon the Final Agreement, which provided for interest at an annual rate of 45.6% (3.8% × 12) and therefore neither it nor any predecessor agreement infringed section 24 of the Money Lenders Ordinance.  The Court of Appeal, however, was content to accept that there had been an inferred agreement and dealt with the appeal in an altogether different way.  They said that according to authorities such as BS Lyle Ltd v. Chappell [1932] 1KB 691, any change in the terms of a loan was deemed to take the form of a fresh loan on the new terms.  The capital which the inferred agreement deemed to have been lent was therefore a new loan equal to the borrower’s entire indebtedness at the time, capital and arrears of interest included.  The interest of 4% per month would be payable on this amount. That made it 48% per year.
+
+20.  This ground for allowing the appeal gave rise to the first certified question:
+
+“Whether BS Lyle Ltd v. Chappell [1932] 1KB 691 (followed in New Japan Securities International (HK) Ltd v. Lim Yiong Lin [1987] 3 HKC 153 and Honip Credit Ltd v. Leung Tak Sing Paul [2020] HKCA 879) lay down a rule of law or a rule of construction that whenever there is an extension of a loan a new loan capitalising the accrued interest comes into existence?”
+
+21.  The judge thought there was such a rule.  He answered in the affirmative the question which he had put to himself “whether every time when there was an application for extension which was agreed to by the plaintiff the same should be treated as a new loan.”  The Court of Appeal agreed.  They both described it as a rule of construction but since it was indifferent to the actual language of the extension, it looks more like a rule of law.  The Court of Appeal remarked that the judge appeared to have forgotten to apply this rule to the deemed new loan created by his inferred agreement.
+
+22.  In my opinion, however, there is no such rule.  All that BS Lyle Ltd v. Chappell and the cases following it decide is that if the parties agree that money advanced on a fresh loan on new terms will be used to pay off an old loan, they can give effect to the transaction by set-off without having to pay over the money and then take it back.  The agreement can be taken at face value.  But there is nothing in any of these cases to suggest that if the parties agree to vary the terms of a loan, by extending the term or changing the rate of interest, that must count as entering into a new loan.  In either case, the law gives effect to what, as a matter of construction, appears to have been the intention of the parties evinced by the language they have used.  If it is expressed to be a new loan, it is treated as a new loan, notwithstanding that the money was used to pay off an old loan.  If it varies the terms of an old loan, the agreement will vary the terms without creating a new loan.  If there had been, as the judge found, an “inferred agreement” to pay 4% per month on the total indebtedness at the time, it would in my opinion have taken effect as a variation of the previous rate of interest and produced an annual rate in excess of 60%.  However, as the inferred agreement was imaginary, the point does not arise.
+
+23.  As there was in my opinion no agreement which contravened section 24 of the Money Lenders Ordinance and the Final Agreement was not deemed to create a loan used to pay off a previously unenforceable loan, I do not think it is necessary to answer the second certified question, which is based on the contrary hypotheses.
+
+24.  I would therefore dismiss the appeal.
+
+25.  Further, I would make an order nisi that the appellant pay the costs of this appeal to the respondent and direct that, if any party wishes to vary this order, written submissions should be filed within 14 days of the handing down of this judgment and the Court will make a final order as to costs on the papers.
+
+Chief Justice Cheung:
+
+26.  Accordingly, the appeal is unanimously dismissed and the Court makes the order and direction indicated in [25] above.
+
+ 
+
+ 
+
+(Andrew Cheung)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+(M H Lam)
+Permanent Judge	(Lord Hoffmann)
+Non-Permanent Judge
+ 
+
+Mr Kenneth C L Chan, Mr Roland Lau and Mr Dixon Co, instructed by Kong & Tang, for the defendant (appellant)
+
+Mr Victor Dawes SC, Mr Joshua Chan and Mr Cedric Yeung, instructed by MinterEllison LLP, for the plaintiff (respondent)
+
+ 

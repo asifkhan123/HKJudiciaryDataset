@@ -1,0 +1,114 @@
+CACV 6/20 17
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO 6 OF 2017
+
+(ON APPEAL FROM HCMP NO 1074 OF 2015)
+
+________________________
+
+ 	IN THE MATTER OF Team Y&R Holdings Hong Kong Limited
+ 	and
+ 	IN THE MATTER OF Section 724 of the Companies Ordinance (Cap 622)
+________________________
+
+BETWEEN
+ 	JOSEPH GHOSSOUB	Petitioner
+ 	and	
+ 	TEAM Y&R HOLDINGS HONG KONG LIMITED
+1st Respondent
+ 	CAVENDISH SQUARE HOLDING BV	2nd Respondent
+ 	YOUNG & RUBICAM INTERNATIONAL GROUP BV
+3rd Respondent
+ 	WPP PLC	4th Respondent
+________________________
+
+Before: Hon Lam VP, Kwan JA and Barma JA
+Dates of Written Submissions: 3, 17 and 25 October 2017
+Date of Judgment: 24 November 2017
+________________________
+
+J U D G M E N T
+
+________________________
+
+Hon Kwan JA (giving the judgment of the court):
+
+1.  On 21 July 2017, the Court of Appeal (Lam VP and Kwan JA) handed down its judgment (“the CA Judgment”) confirming its refusal of leave to appeal on ground 1 and dismissing the respondents’ appeal against the decision of Deputy High Court Judge Le Pichon reported in [2016] 3 HKLRD 778 (“the Decision”) on grounds 2, 3 and 4. By the Decision, the judge dismissed the respondents’ summons to stay the petition presented by the petitioner for relief based on unfair prejudice under section 724 of the Companies Ordinance, Cap 622.
+
+2.  This is the respondents’ application for leave to appeal to the Court of Final Appeal.  The question involved in the intended appeal said to be of great general or public importance was framed in this way in the Notice of Motion:
+
+“To what extent can a party to a private agreement exercise his contractual freedom so as to contract out or alternatively delay the exercise of a statutory personal right – such as (in this case) a shareholder’s right otherwise to issue unfair prejudice proceedings under sections 722 to 725 of the Companies Ordinance (Cap 622) – where such disputes which might otherwise arise under the agreement may give rise to a claim under the statute but which disputes have been agreed to be determinable only by a Court other than a Court of the place of incorporation of the company?”
+
+3.  The respondents seek an oral hearing for their application for leave to appeal and an application for stay of the petition pending determination of the leave application and the appeal proper (which is not a relief sought in the Notice of Motion, and mentioned only in the submissions filed for the leave application).  Having considered the written submissions filed by the parties, which seem to us to have set out the arguments comprehensively, we do not think it appropriate to hold an oral hearing.
+
+4.  The question arises from the “Fetter Issue” considered in §§68 to 86 of the Decision and §§19 to 35 of the CA Judgment.  It is, as acknowledged by the respondents’ counsel Mr Coleman SC, a loaded question.  It is pertinent to note these things about the question and the context in which it arises.
+
+5.  First, the “private agreement” referred to is an exclusive jurisdiction clause.  It appeared in a sale and purchase agreement (“the SPA”) and a service agreement (“the SA”).  The exclusive jurisdiction clause required the parties to the respective agreement to submit to the exclusive jurisdiction of the English courts.  The petitioner is a party to the SPA and the SA.  But of the four respondents to the unfair prejudice petition, only Cavendish (the 2nd respondent) is a party to the SPA, the other three respondents are not, and only the Company (the 1st respondent) is a party to the SA.  That some of the respondents are non-parties to the exclusive jurisdiction clause is a matter of some significance in the exercise of discretion by the Hong Kong court in refusing to stay the petition[1] and by the English court in refusing to grant an interim injunction in the anti-suit proceedings[2].
+
+6.  Second, the disputes postulated in the question are said to be “disputes [which] have been agreed to be determinable only by a Court other than a Court of the place of incorporation of the company”.  It is however pertinent to note that of the three complaints raised in the petition[3] – exclusion from management, failure to declare or distribute dividends and improper stewardship of the Makdessi dispute, it was held by the Hong Kong court that the exclusive jurisdiction clauses do not cover the complaints on exclusion from management and improper stewardship of the Makdessi dispute.  As for the failure to declare or distribute dividends, the exclusive jurisdiction clause in the SPA would cover this complaint, but only as against Cavendish[4].  The English court came to a similar view on the scope of the exclusive jurisdiction clause and held that an unfair prejudice claim which the English court would not have jurisdiction to hear does not come within the exclusive jurisdiction clause[5].  That there is a jurisdictional tangle for which no wholly satisfactory solution can be found for all the issues to be determined in one jurisdiction is a pertinent consideration in the exercise of discretion by the Hong Kong court in refusing to stay the petition[6] and the English court in refusing to grant an anti-suit injunction[7].
+
+7.  Third, the “Fetter Issue” is but one of factors the judge took into account in the exercise of her discretion in refusing to stay the petition[8]. Other than the two factors mentioned above, as well as the “Fetter Issue”, the judge also took into consideration that the petitioner would not be able to obtain substantial justice if he were required to have his complaints aired in the English court as the English court does not have jurisdiction to deal with unfair prejudice of a foreign company and valuation of shares for a buyout, and there is no effective remedy to the petitioner’s complaints[9].  We do not think it necessary to deal with Mr Coleman’s arguments on the “Remedy Issue”, which are just a repetition of the unsuccessful arguments his predecessor made to the judge who rejected them comprehensively[10].
+
+8.  In exercising its discretion to refuse an anti-suit injunction, the English court said this:
+
+“In particular, it seems to me to be preferable that the court that is ultimately to determine the HK Petition and consider whether relief is appropriate, viz. the Hong Kong court, should be able to do so after having itself adjudicated in relation to the underlying disputes with regard to all parties without having to wait until some of the matters likely to be relevant to its determination have been adjudicated upon by a (for it) foreign court.”[11]
+
+9.  It does not appear to us that the respondents would be able to overcome the high hurdle for an appeal court to interfere with the exercise of discretion of the judge.
+
+10.  We do not propose to go into the arguments of Mr Coleman on the “Fetter Issue”, which he made the centrepiece of the intended appeal, or Ms Chan SC’s arguments to the contrary.  He placed heavy reliance on the English Decision, in which the court expressed a view contrary to the Hong Kong courts in the Decision and CA Judgment on the “Fetter Issue”, “had it been necessary to deal with the point”, having explained why argument on the “Fetter Issue” does not arise.[12]
+
+11.  Even if Mr Coleman’s submissions on the “Fetter Issue” are to be regarded as reasonably arguable, we do not think it appropriate to exercise our discretion to grant leave in this interlocutory appeal.  On account of the matters mentioned above, we do not think the proposed appeal genuinely raises a question of law of great general or public importance, or that the result of the appeal turns on how that question is answered, or that such result is likely to make a significant contribution to the just disposal of the litigation (CSAV Group (Hong Kong) Ltd v Jamhed Safdar (2007) 10 HKCFAR 629, §1).
+
+12.  No submission has been made regarding the “or otherwise” ground mentioned in the Notice of Motion, so it is unnecessary to deal with it.
+
+13.  We dismiss the application for leave to appeal.  There is no reason why costs should not follow the event.  We order the respondents to pay the petitioner’s costs of this application.
+
+14.  Having considered the petitioner’s statement of costs for summary assessment, we allow the costs claimed in full in the sum of $143,000.
+
+  
+
+  
+
+(M H Lam)	(Susan Kwan)	(Aarif Barma)
+Vice President
+Justice of Appeal
+Justice of Appeal
+  
+
+Written submissions by Ms Linda Chan SC and Mr Keith Lam, instructed by Holman Fenwick Willan, for the Petitioner (Respondent)
+
+Written submissions by Mr Russell Coleman SC and Ms Theresa Chow, instructed by Allen & Overy, for the 1st to 4th Respondents (Appellants)
+
+
+[1] Decision, §§38 to 51
+
+[2] Decision of Rabinowitz QC on 6 October 2017 (“the English Decision”), §§83 to 88, 113
+
+[3] Decision, §20
+
+[4] Decision, §§52 to 67
+
+[5] English Decision, §§67, 87, 88, 94, 96, 113
+
+[6] Decision, §§108 to 110; CA Judgment, §§48, 49
+
+[7] English Decision, §§96, 113
+
+[8] Decision, §111
+
+[9] Decision, §§87 to 101; CA Judgment, §§36 to 40
+
+[10] Decision, §§93 to 100
+
+[11] English Decision, §113(5)
+
+[12] English Decision, §97
+
+ 
+

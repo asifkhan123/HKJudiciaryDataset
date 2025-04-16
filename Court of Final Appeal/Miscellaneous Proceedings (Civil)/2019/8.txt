@@ -1,0 +1,168 @@
+FAMV No. 195 of 2019
+
+[2020] HKCFA 23
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 195 OF 2019 (CIVIL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL
+
+FROM CACV NO. 228 OF 2016)
+
+___________________________
+
+BETWEEN	 	 
+ANDREW EDWARD LEFT	Applicant
+and	
+SECURITIES AND FUTURES COMMISSION	1st Respondent
+ 	MARKET MISCONDUCT TRIBUNAL	2nd Respondent
+___________________________
+
+Appeal Committee: Mr Justice Ribeiro PJ, Mr Justice Fok PJ and Mr Justice Cheung PJ
+Date of Hearing and Determination: 8 July 2020
+Date of Reasons for Determination: 14 July 2020
+___________________________________
+
+REASONS FOR DETERMINATION
+
+___________________________________
+
+Mr Justice Ribeiro PJ:
+
+1.  At the hearing, this application for leave to appeal was dismissed with costs for reasons which are now provided.
+
+The facts and the Market Misconduct proceedings
+
+2.  The Market Misconduct Tribunal (“MMT”)[1] found the applicant, Mr Left, culpable of market misconduct by disseminating false or misleading information contrary to section 277(1) of the Securities and Futures Ordinance (“SFO”).[2]  It imposed penalties on him, including a “cold shoulder” order prohibiting him from engaging in any dealings in the Hong Kong financial market for five years; a “cease and desist” order against his perpetrating any conduct constituting the market misconduct identified in the proceedings; an order for disgorgement of profits in the sum of HK$1,596,240 with interest; and costs in favour of the Government and the Securities and Futures Commission (‘the SFC’).[3]  His appeal to the Court of Appeal[4] was dismissed.
+
+3.  Section 277(1) provides as follows:
+
+(1) Disclosure of false or misleading information inducing transactions takes place when, in Hong Kong or elsewhere, a person discloses, circulates or disseminates, or authorizes or is concerned in the disclosure, circulation or dissemination of, information that is likely—
+
+(a) to induce another person to subscribe for securities, or deal in futures contracts, in Hong Kong;
+
+(b) to induce the sale or purchase in Hong Kong of securities by another person; or
+
+(c) to maintain, increase, reduce or stabilize the price of securities, or the price for dealings in futures contracts, in Hong Kong,
+
+if—
+
+(i) the information is false or misleading as to a material fact, or is false or misleading through the omission of a material fact; and
+
+(ii) the person knows that, or is reckless or negligent as to whether, the information is false or misleading as to a material fact, or is false or misleading through the omission of a material fact.”
+
+4.  Mr Left, who resides in the United States, was the publisher of an internet website specialising in stock market commentary called “Citron Research”.  On 21 June 2012, he posted a “Citron Report” which purported to be an in-depth study of a major Mainland Chinese property development company called Evergrande Real Estate Group Limited (‘Evergrande’) which is listed on the Hong Kong Stock Exchange. 
+
+5.  The Court of Appeal[5] summarised some of the main allegations made in the Citron Report as follows:
+
+“... it stated that Evergrande was essentially ‘an insolvent company’ that had consistently ‘presented fraudulent information to the investing public’. In terms of the allegation of insolvency, the Citron Report stated that Evergrande had ‘generated cumulative operating cash flow before Capex of negative RMB 28 billion since 2006’. In terms of presenting fraudulent information, the Citron Report stated that Evergrande, in reporting RMB 35 billion of equity as at 31 December 2011, was either overstating assets or understating liabilities and that, adjusting for these misstatements, Evergrande was ‘negative RMB 36 billion’. The Citron Report alleged that Evergrande used ‘off balance sheet’ vehicles in order to underreport debt and it overstated the value of its property investment portfolio, creating ‘phantom’ profits and underreporting development costs. The Citron Report stated:
+
+‘...we believe that Evergrande has misled investors and represents the worst of Chinese neo capitalism, and therefore represents a good short opportunity in relation to other exposure in the Chinese capital markets.
+
+Whether it be the capital markets, government enforcement, hard or soft landing, the endgame for Evergrande is a certainty; the only uncertainty is the timing.’”
+
+6.  About two weeks before publication, Mr Left started to short sell Evergrande shares, accumulating a short position of 4.1 million shares as at 19 June 2012.  When the Citron Report was published on 21 June 2012, the Hong Kong market reacted with Evergrande shares closing down 11.4% from the previous day’s close (while the Hang Seng Index declined only 1.3%) and the volume of Evergrande shares traded soared to 940 million shares, daily turnover having ranged between 26.7 million and 187.3 million shares in the preceding three-month period.   Starting on 21 June 2012, Mr Left bought shares to cover his short position and realised a net profit of HK$1,596,240.[6]
+
+7.  The MMT held that culpability under section 277(1) was established, finding that (i) in publishing the Citron Report, Mr Left had disseminated the information it contained; (ii) this included information that Evergrande had been guilty of fraudulent accounting and was in reality insolvent, which was likely to impact on the Hong Kong market in one or more of the ways set out in section 277(1); (iii) such information was false and/or misleading as to material facts or through the omission of material facts in that Evergrande had not engaged in fraudulent accounting and was not insolvent;[7] that (iv) Mr Left was reckless as to whether such information was false and/or misleading as to material facts or through the omission of material facts;[8] and (v) if not reckless, Mr Left was negligent as to whether such information was false and/or misleading as to material facts or through the omission of material facts.[9]
+
+The application for leave to appeal to the Court of Final Appeal
+
+8.  Mr Left was refused leave to appeal against the MMT’s findings of fact.[10] And the Court of Appeal, after dismissing his appeal, refused leave to appeal to this Court.[11] The present application sought leave to appeal from the Appeal Committee in respect of the following questions of law, namely:
+
+“(1) What is the test for recklessness in section 277 of the [SFO] and how does it apply to the making of market commentary and stock analysis which inherently involves a risk of being incorrect?
+
+(2) What is the true meaning of the test for recklessness in Sin Kam Wah v HKSAR (2005) 8 HKCFAR 192 and whether and how does it apply to situations which inherently involve risks? If the test applies, does the issue of unreasonableness there-within concern the circumstances, knowledge, or taking of risk?
+
+(3) What is the test for negligence in section 277 of the SFO? In particular:
+
+(1) How does it apply to the sharing of market commentary and stock analysis by a public investor and unlicensed individual who has based, and has disclosed that he has based, his commentary and analysis entirely on public information?
+
+(2) How is the test to be interpreted in the light of the restrictions by section 277 of the SFO on the constitutionally protected freedom of speech under Article 27 of the Basic Law and Article 16 of the Hong Kong Bill of Rights Ordinance (Cap 383)?”
+
+9.  The applicant also sought leave on the “or otherwise” basis, contending:
+
+“(1) The Court of Appeal has erred in construing and upholding the Report of the [MMT] dated 26 August 2016 as finding that the Applicant was aware of the unreasonableness of taking the risk that his market commentary and stock analysis may be incorrect.
+
+(2) The Court of Appeal has erred in failing to differentiate between and in applying the same standard to market commentary and stock analysis by persons who have been or should be licensed and regulated for making such commentary and analysis vis-à-vis commentary and analysis by public investors and unlicensed individuals.”
+
+10.  Questions (1) and (2) and the first “or otherwise” point sought to raise issues concerning the meaning of “reckless” and its application in section 277(1)(c)(ii) set out above.  The argument which Mr Laurence Li SC[12] sought to mount on Mr Left’s behalf begins with citation of the judgment of Sir Anthony Mason NPJ in Sin Kam Wah v HKSAR,[13] which is the leading authority on recklessness in criminal cases.  At §44 his Lordship states:
+
+“Henceforth juries should be directed in terms of the subjective interpretation of recklessness upheld in R v G & Another [2004] 1 AC 1034. So juries should be instructed that, in order to convict for an offence under s.118(3)(a) of the Crimes Ordinance, it has to be shown that the defendant’s state of mind was culpable in that he acted recklessly in respect of a circumstance if he was aware of a risk which did or would exist, or in respect of a result if he was aware of a risk that it would occur, and it was, in the circumstances known to him, unreasonable to take the risk. Conversely, a defendant could not be regarded as culpable so as to be convicted of the offence if, due to his age or personal characteristics, he genuinely did not appreciate or foresee the risks involved in his actions.” (Italics supplied)
+
+11.  Properly understood, so the applicant’s argument ran, the test of recklessness[14] which Sin Kam Wah lays down is a mixed subjective-objective test – the subjective part involving the subject’s awareness of the risk and the objective part involving unreasonableness in taking that risk.  It was submitted that the Court of Appeal had misunderstood Sin Kam Wah (and in particular the words I have italicised above) by treating it as a purely subjective test, going on to make the further error of treating the MMT as having found that Mr Left was subjectively aware both of the risk and its unreasonableness.
+
+12.  Before continuing with the flow of the applicant’s argument, I would observe that it may be a worthwhile question to ask whether, in the light of the passage from Sin Kam Wah cited above, it is sufficient to prove that a defendant knew the relevant circumstances and that, judging the situation objectively, it was unreasonable to take the risk, or whether, on the other hand, it must be shown that the defendant was not only aware of the risk but himself realised that taking the risk would be unreasonable. 
+
+13.  However, that question is entirely academic in the present case.  Even assuming (of course without deciding) that the Court of Appeal’s approach was legally erroneous, it was an error in Mr Left’s favour. Requiring proof of his subjective appreciation of both the risk and its unreasonableness raised the threshold of culpability.  The MMT found that, even applying this more demanding subjective test, Mr Left was in fact aware that his risk‑taking as to the falsity of the information being disseminated was unreasonable.  His application for leave to challenge that finding of fact was dismissed.  Moreover, the aforesaid argument does not confront negligence as the alternative basis for liability, as discussed below.
+
+14.  To proceed with counsel’s argument, the propositions which followed were that leave should be granted to enable the Court to hold that the properly understood (mixed subjective-objective) Sin Kam Wah test should not be applied to section 277(1) because (i) that section involves civil and not criminal liability; (ii) the properly understood Sin Kam Wah test would elide recklessness with negligence, which would be wrong, especially since section 277 allows for negligence and section 298 does not (for the criminal offence); (iii) the Court should pronounce in favour of a different test, asking whether the person who disseminated the information was “indifferent to the truth” of what was being circulated.
+
+15.  Those propositions provide no reasonably arguable basis for an appeal.  There is no reason to give “recklessness”, which is a constitutive element for both civil and criminal liability, a different meaning in sections 277 and 298.  There is no risk of eliding recklessness and negligence since culpability on the basis of negligence remains distinct, not requiring proof of subjective awareness of risk.  There is no reason to adopt some test developed in another branch of the law for application in lieu of the Sin Kam Wah test.  In any case, the so-called “indifference test” may well be regarded as a description of one type of case falling within the Sin Kam Wah test. 
+
+16.  In mounting these arguments, Mr Li SC submitted that it was wrong to regard the core allegations in the case against Mr Left as relating to his assertions that the company was guilty of fraudulent accounting and was insolvent.  That submission was wholly unsustainable and unwarranted in the face of unequivocal statements to the contrary in the SFC’s particulars of market misconduct, the findings of the MMT and the judgment of the Court of Appeal.
+
+17.  Question 3 and the second “or otherwise” point concerned the meaning and application of the word “negligent” in section 277(1)(c)(ii).  Mr Li SC stressed that Mr Left was not a licensed individual nor an “insider” and proposed that “… as long as a commentator makes clear that his commentary is based on public information and cites those sources ... he will have exercised reasonable care and is not negligent”.[15]
+
+18.  That proposition is not reasonably arguable. “Negligent” is not defined in the SFO and is a well-understood legal concept of general application.  As the MMT recognised, given its ordinary meaning, it imposes a positive duty to take reasonable care before disseminating information to the market to ensure that such information is true and not misleading.[16] There is no justification for presumptively excluding certain types of situations from qualifying as “negligent”.  The commentator’s conclusions and opinions may very well constitute the damaging false or misleading information conveyed, whether or not they are allegedly based on public sources.  As the Court of Appeal pointed out, on the applicant’s argument:
+
+“... an unlicensed commentator can draw any market sensitive conclusions however negligently even though they are false or misleading, by merely declaring that they are based solely on information in the public domain and setting out that information. That will fundamentally defeat or undermine the protective purpose of section 277(1) in the context of the speed and fluidity of financial market.”[17]
+
+19.  The applicant is not assisted by invocation of the constitutionally protected freedom of expression.  That freedom does not extend to disseminating recklessly or negligently false or misleading market sensitive information.  It is a freedom restricted by a duty to respect the rights of others and protection of ordre public.  As the Court of Appeal held, affirming the MMT’s view:
+
+“The legitimate aim of such a provision in limiting the freedom of expression is to protect the public at large from potentially very damaging effect of false or misleading information. It is a legitimate aim which serves to protect economic order, ‘a subset of the broader principle of ordre public’.”[18]
+
+ 
+
+ 
+
+  (R A V Ribeiro)	 (Joseph Fok)	 (Andrew Cheung)
+Permanent Judge	Permanent Judge	Permanent Judge
+   
+
+Mr Laurence Li SC and Mr John Leung, instructed by Timothy Loh LLP, for the Applicant
+
+Mr Peter Duncan SC and Mr Yuan Shan Cao, instructed by the Securities and Futures Commission, for the 1st Respondent
+
+Market Misconduct Tribunal, the 2nd Respondent, unrepresented, absent
+
+[1] Report dated 26 August 2016 (Part I) and 10 November 2016 (Part II), Chairman: Mr Justice Hartmann NPJ, Members: Mr Kwok Kam Hoi and Dr Wong Chak Sham, Michael.
+
+[2] Cap 571.
+
+[3] Under SFO section 257(1)(b) to (f).
+
+[4] Kwan VP, Cheung and Au JJA [2019] 2 HKLRD 288.
+
+[5] Ibid §4.
+
+[6] MMT Report §39.
+
+[7] Ibid §243.
+
+[8] Ibid §252-253.
+
+[9] Ibid §254.
+
+[10] Kwan and Poon JJA, HCMP 3195/2016 (13 January 2017). While under SFO section 266(1)(a), an appeal to the Court of Appeal on a point of law is as of right, under section 266(1)(b), an appeal on a question of fact requires the leave of the Court of Appeal.
+
+[11] Kwan VP, Cheung and Au JJA [2019] HKCA 569 (24 May 2019).
+
+[12] Appearing with Mr John Leung.
+
+[13] (2005) 8 HKCFAR 192.
+
+[14] Taken from R v G [2004] 1 AC 1034.
+
+[15] Notice of Motion §29.
+
+[16] MMT Report §98.
+
+[17] [2019] 2 HKLRD 288 §70(4).
+
+[18] Ibid §68(3); MMT §114.
+
+ 
+

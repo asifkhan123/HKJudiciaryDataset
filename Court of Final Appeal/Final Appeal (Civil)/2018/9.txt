@@ -1,0 +1,1027 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 5 of 2018
+
+[2018] HKCFA 44
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO.5 OF 2018 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 154 OF 2016)
+
+________________________
+
+BETWEEN	 	 
+ 		
+ 	SECURITIES AND FUTURES COMMISSION	Appellant
+and	
+YIU HOI YING CHARLES	1st Respondent
+WONG NAM MARIAN	2nd Respondent
+MARKET MISCONDUCT TRIBUNAL	3rd Respondent
+________________________
+
+Before: Chief Justice Ma, Mr Justice Ribeiro PJ,Mr Justice Tang PJ, Mr Justice Fok PJ and Lord Neuberger of Abbotsbury NPJ
+
+Date of Hearing: 5 September 2018
+
+Date of Judgment: 12 October 2018
+
+________________________
+
+J U D G M E N T
+
+________________________
+
+Chief Justice Ma :
+
+1.  For the reasons contained in the joint judgment of Ribeiro and Fok PJJ, I would also allow the present appeal.  Given that Tang PJ is of a different view, I should make some brief observations to explain my concurrence.  This judgment should be read after reading the joint judgment.  I gratefully adopt the facts as stated in that judgment and also use the same abbreviations.
+
+2.  Insider dealing is an insidious activity that is detrimental to the reputation of any major financial centre.  Hong Kong is no exception.  Under Article 110 of the Basic Law, there is a requirement to safeguard, regulate and supervise Hong Kong’s business and financial markets.
+
+3.  The Securities and Futures Ordinance[1] (the SFO) is the principal statute fulfilling the functions stated in the Basic Law.  Part XIII of the Ordinance deals with the Market Misconduct Tribunal (the MMT).  It is within this part of the SFO where insider dealing is addressed.  Division 4 of Part XIII deals specifically with insider dealing in the context of proceedings before the MMT.  The present appeal is concerned with proceedings that took place before the MMT.  Insider dealing is also a criminal offence; Part XIV of the SFO deals with insider dealing in the context of criminal proceedings.
+
+4.  As the joint judgment demonstrates by reference to s 270 of the Ordinance,[2] insider dealing essentially takes place when a person connected with a listed company, such as a shareholder or officer of the company, having what is now known as inside information[3] (this being price sensitive information about the company not known to the investing public – or the market – and which the connected person knows is price sensitive information), deals with the securities of that company.  Insider dealing is a form of market misconduct.[4] The MMT has jurisdiction under the Ordinance, in proceedings instituted by the Securities and Futures Commission (the SFC), to determine whether any market misconduct has taken place and if so, to identify the person who has engaged in such market misconduct.[5] In the present case, the Respondents in the appeal (Charles and Marian), together with others, were the implicated persons in MMT proceedings involving a publicly listed company, Asia Telemedia Limited (ATML).  Where any person has been identified as having engaged in market misconduct, the MMT has power to make consequential orders, such as an order of payment to the Government of an amount reflecting any profit gained or loss avoided as a result of the market misconduct.
+
+5.  As set out in the joint judgment, the composite elements in s 270 of the Ordinance were satisfied in the present case before the MMT.  This was, subject to the provisions of s 271 of the Ordinance, enough to constitute a finding of market misconduct; nothing more needed to be shown. However, s 271 sets out a number of defences, among them the defence which was relevant in the present proceedings, s 271(3), the so‑called innocent purpose defence.  That defence involves an implicated person (the burden is on that person) having to prove that the purpose(s) in his or her dealing with the relevant securities did not include the purpose of securing or increasing a profit or, correspondingly, avoiding or reducing a loss by using inside information.
+
+6.  It is of crucial importance to bear in mind that the relevant time at which to examine both the question of whether the composite elements of s 270 are satisfied and also whether the defence in s 271(3) is applicable, is the time of the dealing in the securities.  In the present case, the relevant time were the times when Charles and Marian sold the ATML shares.
+
+7.  At those points in time, the MMT was satisfied that Charles and Marian were in possession of price sensitive information and which they knew was price sensitive information.[6] Both knew that if the relevant inside information had been out in the open (as it should have been), the price of ATML shares would be substantially reduced.  In other words, they knew that the prices at which they sold the shares were artificially high.
+
+8.  The MMT however concluded that a defence under s 271(3) of the Ordinance was made out.  The Tribunal was of the view that Charles and Marian’s sole motivating factor was to secure profits from the unexpected speculative boom in the price of ATML shares.  Not only that, as far as the inside information was concerned, the Tribunal was of the view that both Charles and Marian thought that the indebtedness owed by ATML to Goodpine would be eventually sorted out behind the scenes and would never enter the public domain – the “behind closed doors” justification.  The inside information was therefore treated by Charles and Marian as being irrelevant to their decision to sell the shares at the times they did.
+
+9.  Like Ribeiro and Fok PJJ, I am of the view that the Tribunal’s conclusion on the applicability of the s 271(3) defence was an erroneous conclusion.  At the material time when the matter had to be examined (that is, when the shares were sold), Charles and Marian knew only too well that the prices at which they managed to sell the shares were artificially high as a result of the inside information not being publicly known.  It was with this knowledge that they managed to earn the massive profits they did.[7] In other words, at these points in time, they were seeking to make massive gains (or in the language of s 271(3), securing a profit) knowing that they would be unable to do this if the inside information was made public.  In these circumstances, it is impossible not to conclude that at least one of the purposes of their dealing in the shares included making gains by the use or utilization of the inside information they had.  Charles and Marian could point to no purpose other than selling the shares at high prices.  The fact also they thought that the Goodpine indebtedness would eventually be solved “behind closed doors” in the future was not to the point.  In real time terms (that is, at the material points in time they sold the shares), the inside information was far from irrelevant : this information was decisive in terms of allowing them to make the profits they did and they fully appreciated this.  In my view, it was this failure to take sufficiently into account the position of Charles and Marian in real time terms that constitutes the error in the conclusion reached by the MMT.
+
+Mr Justice Ribeiro PJ and Mr Justice Fok PJ:
+
+10.  Insider dealing is an “insidious mischief” which threatens the integrity of financial markets.[8] It is dealt with in Parts XIII and XIV of the Securities and Futures Ordinance,[9] the object of which is “to eliminate insider dealing and to reinforce the transparency of the markets, thereby enhancing and preserving Hong Kong’s position as an international financial centre”.[10] There are a number of defences available to an allegation of insider dealing.  This appeal concerns the ambit of the defence provided in section 271(3) of the SFO (set out below).
+
+A.  The proceedings below
+
+11.  By a notice issued by the Securities and Futures Commission (“SFC”),[11] a Market Misconduct Tribunal (“MMT”) was constituted[12] to determine whether any market misconduct had taken place in connection with dealings in the shares of a listed company called Asia TeleMedia Limited (“ATML”)[13] between 5 February and 6 June 2007, and if so, to determine the identities of any person who had engaged in such market misconduct and the amount of any profit gained or loss avoided in consequence.  The MMT’s Report was published on 26 November 2015.
+
+12.  The notice named the 1st and 2nd respondents as persons suspected of having engaged in the market misconduct in question, the 1st respondent, Yiu Hoi Ying Charles (“Charles”), being ATML’s Director of Finance and an executive director; and the 2nd respondent, Wong Nam Marian (“Marian”) being its Company Secretary.  Two other persons were also named as suspects but the MMT made no findings of market misconduct against them.  They are Lu Ruifeng (“Lu”),[14] ATML’s Chairman, CEO, executive director and controlling shareholder; and Ho King Lin, Cecilia (“Cecilia”),[15] the Assistant Company Secretary.  The SFC did not appeal their exoneration.
+
+13.  The MMT found that the elements of insider dealing[16] were established against Charles[17] and Marian,[18] holding that when selling their shares, they had information which they knew constituted inside information, that is, price sensitive information.[19] They were, however, acquitted of market misconduct on the basis that they had discharged the burden of bringing themselves within the defence provided by SFO, section 271(3).
+
+14.  The SFC’s appeal to the Court of Appeal[20] was dismissed.  It rejected a proposed construction of section 271(3) and also rejected the submission that the MMT had made wrong findings of fact regarding the respondents’ beliefs and motivations in selling the shares.
+
+15.  The Appeal Committee[21] granted the SFC leave to appeal to this Court in respect of the following questions of law:
+
+(a)  Whether, in the context of the statutory defence to insider dealing provided for in section 271(3) of the SFO, the meaning of “using” relevant information for the purpose of securing or increasing a profit or avoiding or reducing a loss is broad enough to encompass the “withholding” or “non-disclosure” of relevant information and the taking advantage of such withholding or non-disclosure for the purpose of securing or increasing a profit or avoiding or reducing a loss? (Question 1)
+
+(b)  Whether the effect of the interpretation contended [for] by the Applicant (as identified in paragraph 40 of the Judgment, referred to as the “Applicant’s Interpretation”) would be to equate the “use” of such information with the mere “possession” of it so as to render the statutory defence in section 271(3) wholly or largely inoperative, otiose or illusory? (Question 2)
+
+(c)  Whether the statutory defence provided in section 271(3) is intended by the legislature to be exceptional or of limited application? (Question 3)
+
+(d)  Whether the adoption of the Appellant’s Interpretation means that the provisions of the SFO concerning insider dealing are being employed to “further the same objective” as that which governs disclosure of price sensitive/relevant information prescribed in Rule 13.09 and the related provisions of the Listing Rules (as now codified into Part XIVA of the SFO)? (Question 4)
+
+16.  Leave to appeal on the “or otherwise” ground was refused.
+
+17.  Shortly before the hearing, the Court invited submissions from the parties on the following question, namely:
+
+“Whether, on the findings of the Tribunal, upheld by the Court of Appeal, namely, the findings that the respondents’ sales of ATML shares while they possessed price sensitive information, although prima facie constituting [market misconduct], were solely motivated by the unexpectedly high prices achievable taken together with their belief that the relevant information would remain behind closed doors, it was correct as a matter of law to hold that the respondents were entitled to rely on the defence provided by section 271(3) of the SFO.”[22]
+
+In their oral submissions to the Court on this appeal, the parties concentrated on this core question since it was dispositive of the appeal.
+
+B.   The course of events
+
+B.1  ATML’s condition
+
+18.  In 2002, when Lu acquired control of ATML,[23] the company was already in a parlous financial state.  As acknowledged in an agreement between ATML and Madam Liu Lien Lien (“Madam Liu”) dated 29 July 2002, the company then owed Madam Liu sums totalling $83,388,308.00 which it promised to repay in instalments.[24] It was insolvent and no more than a listing shell.  Lu planned to inject new businesses into ATML but, as it turned out, that did not occur. Defaults in repayment under the agreement led Madam Liu to serve five statutory demands on ATML between October 2002 and April 2006.  However, on each occasion, she had been willing to negotiate and did not follow up the statutory demands by serving any winding-up petitions.
+
+19.  Meanwhile in 2005, ATML granted stock options to employees including the respondents, exercisable at $0.20 per share.  This was described by the MMT as “at best aspirational” since the price at which ATML shares traded rarely reached $0.20, and fell to as low as $0.05 in November 2005.[25]
+
+20.  ATML’s auditors qualified its financial statements for the years ended 31 December 2004, 2005 and 2006 on the going concern basis so that the market was aware of its insolvent position.  The evidence was that it was kept on “life support” as a possible vehicle for a back door listing in the hope of realising between $100 million and $300 million if someone acquired it for that purpose.[26]
+
+B.2  The assignment
+
+21.  The events giving rise to the present proceedings occurred in the first half of 2007.  On 5 February 2007, Madam Liu’s solicitors, Messrs Woo, Kwan, Lee & Lo (“WKLL”) served on ATML notice of an assignment dated 1 February 2007 by Madam Liu of the balance of ATML’s debt in the sum of $58,083,992.00, plus accrued interest at the rate of 7% per annum, to a BVI company named Goodpine Limited (“Goodpine”) for a consideration of $25 million stated to have been paid (“the assignment”).[27] Acting also for Goodpine, WKLL demanded payment in full of the amount of the debt by 9 March 2007, threatening legal proceedings thereafter.[28] This development was not publicly announced.
+
+22.  The respondents testified that they believed that Goodpine was simply Madam Liu under a new guise.[29] However, the MMT described this as “no more than a surmise and not a compelling one”, pointing out that they expressed such belief “simply because the same lawyers represented Madam Liu and the corporation” and observing that where no conflict of interest is involved “it is common for one set of solicitors to represent all parties involved”.[30]
+
+23.  The MMT found that:
+
+“... at the relevant time ... nobody in Asia Telemedia knew who was the beneficial owner of Goodpine. At that time, therefore, if news of Goodpine had become known to the market, Goodpine would have been seen as a new actor on the stage. Its beneficial ownership would have been unknown and – critically – its intentions would have been unknown too.”[31]
+
+24.  Marian consulted ATML’s solicitors, Messrs Chiu & Partners (“C&P”) on the assignment.  They advised that “it does not seem to us that you have a real defence to the demand from Goodpine” and sought instructions for putting forward a settlement proposal.[32] Two without prejudice offers made during May 2007 proposing payment of $8 million in final settlement received no response from Goodpine.[33] As the MMT found, “Marian Wong clearly appreciated the potential seriousness to the viability of the Company of this change of circumstance”.[34]
+
+B.3  A speculative surge and the statutory demand
+
+25.  At the date of the assignment to Goodpine, ATML shares closed at $0.20 on a trading volume of 1,540,000 shares.[35] About a fortnight later, there commenced a surge of speculative interest in ATML shares which sharply drove up their price and trading volumes.  Thus, on 16 February 2007, they closed at $0.32.  On the next trading day, they increased by a further 43%, closing at $0.46 on a turnover of 133,975,815 shares.[36] In March and April, the share price hovered at around $0.40.[37]
+
+26.  Goodpine re-entered the picture on 26 April 2007, when WKLL served a statutory demand on ATML seeking payment of a total sum of $70,270,491.00 and stating that ifwithin21days it failedtopaythefullamount,apetition forwinding-upwouldbe presented.  Noting that ATML had been “formally warned” by C&P of “the dangers of a winding-up petition”, the MMT stated:
+
+“Despite the change of circumstances brought about by knowledge of the deed of assignment and the following statutory demand, no consideration was given to any suspension of trading in the shares of the Company pending the public being informed of the changed circumstances.”[38]
+
+27.  In fact the public were never informed of the assignment and statutory demand.  The MMT made the following findings as to the respondents’ knowledge at that stage:
+
+“At that moment in time, therefore, what was known to the specified persons, but not to the market, was the following:
+
+(i) that, having failed to secure any reduction of the debt due to her in several years and having received no positive response for a $10 million good faith payment as a prerequisite to further negotiations, there still being in excess of $70 million due, Madam Liu had now assigned the debt to a corporate third party;
+
+(ii) that, on its face – the assignment being a formal deed – the third party had already paid a sum of $25 million to acquire all rights in the debt;
+
+(iii) that, while it may have been surmised that the new creditor, Goodpine, was controlled by Madam Liu, the true identity of those behind the company was not known; nor was the purpose of the assignment known. However, after some five years of default and delay, the probabilities suggested something more than an exercise in passive internal administration. On any informed reckoning the assignment had to hold out the inevitability of some new, more aggressive set of moves to recover the debt; and
+
+(iv) that this corporate third party, Goodpine, had now served a statutory demand seeking full payment within 21 days, failing which proceedings for the winding up of Asia Telemedia would be instituted.”[39]
+
+28.  On 7 May 2007, ATML granted further options for 37.5 million shares to its employees (including 5 million to Marian) exercisable at $0.40 per share.  The speculative surge continued and gathered pace with the share price closing at $0.61 on 17 May and $0.69 on 22 May.  It peaked at $0.97 on 29 May on a turnover exceeding 156 million shares.[40]
+
+B.4  The winding-up petition
+
+29.  On 6 June 2007, about six weeks after serving the statutory demand, Goodpine presented a winding-up petition.  Trading in ATML shares was suspended.  They had been trading at $0.83.  When trading resumed on 18 October 2007, the share price fell by 62% to close at $0.315.
+
+30.  Although the winding-up proceedings progressed, no final winding-up order was made.  As the MMT explained:
+
+“... before a final winding up order was made, a scheme of arrangement was agreed with a third party. In the result, the Company continues to operate today as a listed corporation, doing so under the name of Reorient Group Limited. Even if it was at the ‘eleventh hour’, it appears that the Company’s value as a ‘listed shell’ prevailed.”[41]
+
+B.5  The respondents’ trading in ATML shares
+
+31.  Marian exercised her share options to purchase 8 million shares at the price of $0.20 and 2 million shares at the price of $0.40.  Between 28 February and 26 April (the date of the statutory demand), she sold 6.2 million shares at prices ranging from $0.37 to $0.494 per share. Between 27 April and 5 June (the day before the winding-up petition was presented), she sold an additional 3.8 million shares at prices ranging from $0.395 to $0.98.  She made a net profit of $5.1 million from those sales.[42]
+
+32.  Charles exercised his share options to acquire 6 million shares at $0.20 per share and sold them between 28 and 31 May at prices ranging from $0.85 to $0.91, netting a profit of $5.303 million.[43]
+
+33.  It was on the basis of those share sales in the light of the information possessed by the respondents regarding the threatened winding-up proceedings that the insider dealing proceedings were brought.
+
+C.   The insider dealing provisions in the SFO
+
+C.1  Section 245: Definition of market misconduct
+
+34.  Market misconduct is and was at all material times defined by SFO section 245 as meaning, among other things, “insider dealing”.
+
+C.2  Section 270: Definition of insider dealing
+
+35.  Insider dealing was at the material time,[44] relevantly defined by SFO section 270(1) as follows:
+
+“Insider dealing in relation to a listed corporation takes place –
+
+(a) when a person connected with the corporation and having information which he knows is relevant information in relation to the corporation –
+
+(i) deals in the listed securities of the corporation ...”
+
+36.  It involves five elements:
+
+(a) the corporation concerned must be publicly listed;
+
+(b) the person concerned must be “connected with the corporation”, usually called a “connected person”;
+
+(c) he or she must have information which constitutes “relevant information”, now referred to as “inside information”;
+
+(d) he or she must know that such information is inside information; and
+
+(e) he or she deals with the corporation’s listed securities with such knowledge.
+
+37.  If the five elements are established, it follows that the relevant activity is insider dealing.  Furthermore, as the definition of “market misconduct” (see above) shows, such insider dealing will amount to culpable market misconduct giving rise to sanctions under the legislation, unless excused by any available statutory defence such as that provided under section 271(3) (discussed below).
+
+38.  The first two elements were not disputed.[45] Nor was it disputed that they had dealt with ATML’s securities.  Issue was joined in the MMT as to whether elements of items (c) to (e) were established.
+
+39.  Before considering those disputed elements, it is important to note from the definition of insider dealing in section 270 that the activity of insider dealing takes place at the point in time when the connected person having the relevant information and knowledge deals in the relevant publicly listed securities.  This temporal aspect applies to each of the five elements so that, to constitute insider dealing, all the elements must be shown to exist at that point in time.
+
+C.3    Section 245: Definition of relevant/inside information
+
+40.  “Relevant information” (now called “inside information”) was at the material time relevantly defined by section 245 as follows:
+
+“‘relevant information’, in relation to a corporation, means specific information about –
+
+(a) the corporation; …
+
+which is not generally known to the persons who are accustomed or would be likely to deal in the listed securities of the corporation but which if it were generally known to them be likely to materially affect the price of the listed securities; ...”.
+
+41.  There are accordingly four elements to this definition:
+
+(a) the information must be specific;
+
+(b) it must be about the corporation or its listed securities;
+
+(c) it must be information which is not generally known to those who deal or are likely to deal in those securities, who might for brevity be called “the market”; and
+
+(d) if the information were generally known to the market would be likely materially to affect the price of those securities, in other words, the information must be price sensitive.
+
+C.4    Section 271(3): The innocent purpose defence
+
+42.  The defence relied on by the respondents is provided by section 271(3) which materially states:
+
+“A person shall not be regarded as having engaged in market misconduct by reason of an insider dealing taking place through his dealing in ... listed securities ... if he establishes that the purpose for which he dealt in ... the listed securities ... was not, or, where there was more than one purpose, the purposes for which he dealt in ... the listed securities … did not include, the purpose of securing or increasing a profit ..., by using relevant information.”
+
+43.  The following aspects of the defence may be noted:
+
+(a) It is a defence which only comes into play where a prima facie case of market misconduct has been established.
+
+(b) The burden of establishing the defence is on the person seeking to rely on it, discharged on a balance of probabilities.
+
+(c) That person must establish that the purpose for which he or she dealt with the securities was not and (if there was more than one purpose) did not include, the proscribed purpose of securing or increasing a profit by using relevant information.
+
+(d) To discharge that burden, the specified person might often be expected to give direct evidence of his or her subjective purpose to show that he or she was acting for what might be called an “innocent purpose”.  If such direct evidence is not given, that person must nevertheless be able to point to evidence which demonstrates that he or she acted for a purpose or purposes which entirely excluded the abovementioned proscribed purpose when dealing with the securities.
+
+44.  It is also to be noted that the purpose which the specified person relies upon in support of the defence is that which pertains at the time of his dealing in the relevant listed securities (“… if he establishes that the purpose for which he dealt in … the listed securities…”). This coincidence of purpose and dealing in relation to the innocent purpose defence under section 271(3) ties back to the temporal aspect applying to each of the elements constituting the definition of insider dealing in section 270(1) (see paragraph [39] above).
+
+C.5    Section 271(3): Using relevant information
+
+45.  It will be seen that the innocent purpose defence looks to the purpose for which the specified person dealt in the listed securities, with the focus of the inquiry being on whether or not it was for, or included, the proscribed purpose.  That proscribed purpose, to set it out in full by reference to the statutory language, is “the purpose of securing or increasing a profit or avoiding or reducing a loss, whether for himself or another, by using relevant information” (italics added). 
+
+46.  The central question in this case being whether, on the MMT’s findings, the respondents were able, as a matter of law, to rely on section 271(3), the meaning of those italicised words became the critical issue in this appeal.  Their equivalent in the predecessor provisions to section 271(3) were “by the use of relevant information”,[46] but nothing turns on that legislative history (although it may be noted that, at no stage, was it considered desirable to adopt the very different language of the statutory defence to a charge of insider dealing in the UK laid down in the Criminal Justice Act 1993[47]).
+
+47.  It was the case of the SFC that “using relevant information” simply meant dealing in the listed securities when in possession of undisclosed price sensitive information which he knew, if disclosed, would be likely to affect the share price.  For their part, the respondents contended that “using relevant information” must mean something other than mere possession or knowledge of the relevant information.
+
+48.  It is to be observed that the phrase “using relevant information” is not to be found in section 270(1) itself.  However, in sub-paragraphs (c) and (d) of section 270(1), which deal with a person (commonly referred to as a “tippee”) to whom price sensitive information has been disclosed by a connected person, the phrase to “make use of the information” or its equivalent is used.  So, in section 270(1), insider dealing takes place:
+
+“(c) when a person connected with the corporation and knowing that any information is relevant information in relation to the corporation, discloses the information, directly or indirectly, to another person, knowing or having reasonable cause to believe that the other person will make use of the information for the purpose of dealing, or of counselling or procuring another person to deal, in the listed securities of the corporation …”. (Emphasis added.)
+
+Insider dealing as described in section 270(1)(c) or (d) is also subject to section 271(3), so the making use of inside information may reasonably be understood to relate to the same activity in both the section constituting the market misconduct and in the section providing the defence to such misconduct.
+
+49.  Construing the provision purposively and in context, as one must, “using relevant information” in section 271(3) simply means making one’s decision to buy or sell the listed securities because of the quoted market price, knowing that price to be either artificially high or artificially low because the relevant information is not generally known to those accustomed or likely to deal in the securities.  By doing so, one is employing the price sensitive information to one’s own advantage in order to steal a march on the rest of the market since, were that information generally known, it “would … be likely to materially affect the price of the listed securities” and therefore would have negated the insider dealer’s advantage. Since the statutory purpose of the prohibition on insider dealing is to prevent that particular mischief of taking advantage of price sensitive information to steal a march on the rest of the market, section 271(3) places a burden on an insider dealer to prove some other purpose in the dealing.
+
+50.  The above conclusion as to the meaning of the phrase “by using relevant information” does not make those words redundant, as contended by the respondents.  Nor are those words merely conveying the fact of possession and knowledge of the price sensitive information.  As we have sought to explain, it is the turning of the possession of that knowledge into action which constitutes the use of the relevant information. This construction is consistent with the concept of “consciously making use of relevant information”, which is how the Insider Dealing Tribunal construed the equivalent words in section 10(3) of the Securities (Insider Dealing) Ordinance in the International City case.[48] It is also consistent with the view of the Ontario Court of Appeal that the words “make use of” in section 113 of the Securities Act 1966 (Ontario) meant that the information “must be a ‘factor’ in the insider’s participation in the transaction”.[49]
+
+51.  This construction also addresses a question that at one stage had greater significance in the parties’ arguments on this appeal and in the Court of Appeal (see Section E of this judgment, below), namely whether “using relevant information” could be constituted merely by withholding or failing to disclose information to the wider market.  That is not the meaning of those words since it is not the mere withholding or failure to disclose price sensitive information that brings about the legislative mischief, namely preventing the gaining of an unfair advantage over the rest of the market by the employment of price sensitive information to one’s financial advantage.  Something other than mere withholding or non-disclosure is required and that is the exploitation of the price sensitive information for financial advantage in the way we have described.
+
+52.  After the conclusion of the oral arguments in this appeal, our attention was directed[50] to a decision of the European Court of Justice, namely Spector Photo Group NV and another v Commissie voor het Bank-, Financie- en Assurantiewezen.[51] There, the ECJ considered article 2(1) of European Council Directive 2003/6 which prohibits insider dealing.  Although therefore not dealing with a defence to an allegation of insider dealing such as that contained in section 271(3) of the SFO, the ECJ’s judgment addresses the meaning of “using” inside information.  The ECJ’s conclusion that, for a person to have used inside information within the meaning of article 2(1), the information must “have played a role in his decision-making”[52] is consistent with our conclusion (in paragraph [49] above) as to the meaning of “using relevant information” in section 271(3).
+
+D.     The MMT’s findings
+
+53.  The MMT framed three questions to be answered:
+
+“(i) Whether the assignment by Madam Liu to Goodpine and Goodpine’s statutory demand, taken separately or together, constituted relevant information?
+
+(ii) Whether the three specified persons knew that the assignment and statutory demand, taken separately or together, was relevant information?
+
+(iii) Whether, if the information is found to be relevant information, that fact was in any way a motivating factor when each of the three specified persons dealt in the shares of Asia Telemedia?”[53]
+
+54.  Questions (i) and (ii) relate to the SFC establishing culpability for insider dealing on the part of the respondents. Question (iii) concerns the question whether the respondents have brought themselves within section 271(3).
+
+D.1    MMT’s findings as to prima facie culpability
+
+(a)  Was it inside information?
+
+55.  As indicated above,[54] the information that was known to the respondents but not to the market when they were selling their shares included the fact (i) that Madam Liu (who, as experience had shown, was a relatively complacent creditor) had assigned the debt for a stated consideration of $25 million to Goodpine, an unknown quantity, which was demanding payment of the debt;[55] (ii) that their solicitors had advised that ATML had no defence to the claim;[56] (iii) that without prejudice offers by ATML had gone unanswered;[57] and (iv) that Goodpine had followed up its initial demand for repayment by serving a statutory demand stating that a winding-up petition would follow if full payment was not made.[58]
+
+56.  56. The MMT had no difficulty in concluding that such information was “specific”.[59] It also held that the assignment and statutory demand, taken together, clearly constituted inside information, being price sensitive. This was particularly so in the context of the speculative surge. Such information would have been regarded as posing “an existential threat to Asia Telemedia, a small cap share enjoying a speculation bubble, one that was not supported by any realistic fundamentals”.[60] The Tribunal observed that:
+
+“[with] a share of greater resilience, a ‘wait and see’ attitude may have prevailed. But Asia Telemedia shares, being traded largely, as a short-term speculative stock, had no such resilience. The obvious answer to avoid the general risk would surely have been to sell. Certainly sell if you are only holding the shares looking for a short term gain before selling anyway.”[61]
+
+57.  The MMT concluded:
+
+“The Tribunal is satisfied that Asia Telemedia, having received notice of the deed of assignment and the statutory demand – more especially in circumstances in which the new creditor was giving no indication of a desire to negotiate terms of repayment – was under an obligation to make an announcement to the public. That it did not do so was a palpable failing. The Tribunal is further satisfied that if such a notice had been published it would certainly have acted to put pressure on any further upward pressure and in all likelihood would have resulted in a material decrease in the share price. In summary, the Tribunal is satisfied that, taken together, the deed of assignment and the consequent statutory demand constituted price sensitive information.”[62]
+
+(b)  Did the respondents know that the assignment and statutory demand constituted inside information?
+
+58.  The Tribunal found that the answer was clearly “Yes” in relation to Charles.  He had sought to downplay his knowledge and role in ATML, suggesting that he was “a director in name only”.[63] But this was roundly rejected by the MMT which noted that it was never disputed that he knew of the assignment and its terms and that a statutory demand had been received.[64] It found that he “was at the very centre of this new debt issue” and “would have played a guiding role in what amounted to a supine attempt to deal with it”, adding:
+
+“... it follows that Charles Yiu would have had a firm grasp of the potential seriousness of the new environment brought about by the assignment and the consequent statutory demand and would also have understood only too well the vulnerability of the Company to the threat that was now posed.”[65]
+
+59.  The MMT pronounced itself:
+
+“... satisfied that Charles Yiu knew that, if, as it should have been, a public announcement was made by Asia Telemedia concerning the deed of assignment (involving a ‘purchase price’ of $25 million by a corporate third party) and the consequent statutory demand, such an announcement would in all likelihood not only have cancel[led] out the continuing rise in the value of the Company’s shares but, having regard to the company’s known frailty, would have brought about a material reduction in their price.”[66]
+
+It commented as follows:
+
+“The fact that Charles Yiu chose to turn a blind eye to the threat that was now posed does not detract from the fact that, in truth, he understood full well the nature of the threat and, in the course of the hearing before the Tribunal, contrived to put on a façade of ignorance.”[67]
+
+60.  Similarly, the MMT had “no hesitation in rejecting Marian Wong’s assertion that she never believed the information was price sensitive”, finding that she “did quickly come to understand the true nature of the threat that presented itself ...”.[68]
+
+61.  The Tribunal was “satisfied that, as with Charles Yiu, ... she knew that, if news of the deed of assignment and subsequent statutory demand fell into the public domain, it would be likely to have a material effect on the price of the Company’s shares ...”.[69]
+
+(c)  Prima facie culpability established
+
+62.  It follows that the MMT found that, subject to their possible reliance on the section 271(3) defence, the respondents were culpable for market misconduct by reason of insider dealing.[70] The requirements of section 270 were satisfied: they were connected persons who had, and knew they had, price sensitive information concerning ATML which had not been disclosed to the investing public when they exercised their share options and sold their shares at the high prices generated by the speculative surge.  They knew that if the inside information had been published, they would not have been able to achieve such profits since the share price would have fallen significantly.  They knew, as the MMT put it, that ATML shares were “enjoying a speculation bubble”[71] and news of the assignment and statutory demand would have “puncture[d] the exuberance”.[72]
+
+D.2    The MMT’s findings regarding the section 271(3) defence
+
+63.  To be able to rely on section 271(3), the respondents had to prove that the purpose for which each of them had sold the ATML shares was not, and did not include, the proscribed purpose of securing or increasing a profit by using relevant information.  They chose to give direct evidence of their subjective motivations.
+
+(a)  Why they exercised their options and sold
+
+64.  It was clearly the opportunity to profit from the speculative surge in ATML’s share price that motivated the sales.  The MMT recorded Marian as having stated:
+
+“Given that for years the Company’s employees had been forced to sit on the options, the materialization of the opportunity to exercise our share options and sell the shares [at a profit] got everyone excited and eager”.[73]
+
+65.  It found that her purpose in selling:
+
+“[put] simply ... was to seize upon an unexpected opportunity to make a profit when independent of any matter they knew of or could control, a profit presented itself; as the Tribunal has described it earlier – to pick up the gift of manna from the desert floor.”[74]
+
+66.  Charles was similarly motivated to take advantage of the surge in the share price.  As the MMT found:
+
+“As to why he sold when he did, ... Charles Yiu said that when the share price rose close to four times from 20 cents to close to one dollar the temptation to sell was simply too great. As he put it: ‘I couldn’t even dream of that, you know. And that’s why it was at that point in time I started selling off my shares.’”[75]
+
+67.  67. The MMT summarised their evidence stating: “... the exercise of the share options was for all three[76] of them quite literally the chance of a lifetime and all three chose to exercise their options and sell their shares to seize that chance of a lifetime.”[77]
+
+68.  One may note at this point, that far from helping to establish a section 271(3) defence, their evidence merely served to confirm that theirs was “the purpose of securing or increasing a profit” – an unexpectedly large profit – taking advantage of the high prices produced by the speculative surge.  It was in other words (subject to what is said below) evidence tending to confirm a proscribed purpose which would exclude the operation of section 271(3).
+
+69.  On a number of occasions, the MMT appears to have held that the section 271(3) was nevertheless available because the aforesaid purpose of seizing the opportunity to sell at the surge prices could be said to be their “sole motivation”:
+
+“... all three chose to exercise their options and sell their shares to seize that chance of a lifetime. That was, therefore, their sole motivation: to seize a sudden and unexpected speculative surge in the price of Asia Telemedia shares and, like others employed by Asia Telemedia in Hong Kong and the Mainland, to profit from the windfall.”[78]
+
+70.  And in relation to Charles, the Tribunal found:
+
+“That, it must be accepted on balance, was his sole motivating factor – to take his share of manna found on the desert floor, that is, to profit from an unexpected speculative boom in the share price - and, at the time he dealt, was unconnected with any desire to avoid a loss by reason of the price sensitive information in his possession.”[79]
+
+71.  As we shall presently see, the Tribunal did stop there.  It may however be worth pointing out that there is no virtue in the respondents asserting simply that their sole purpose was to secure an unexpectedly high profit, given that such a purpose is part of the purpose prohibited by section 271(3).  The question is whether it was also part of their purpose to use inside information to secure such profits.
+
+(b)  The “behind closed doors” justification
+
+72.  The Tribunal had to find that while the respondents’ purpose was indeed to secure or increase profit, they had intended to achieve and in fact did achieve that objective without in any way “using inside information”.  Given that the MMT had found that both Charles and Marian well understood the true nature of the existential threat ATML faced; that they knew this was price sensitive information; and that they were selling their shares at high prices which they knew would have been depressed if that information should become public, it is difficult to see how they could escape a finding that they were using that price sensitive information in deciding to sell at a time when that information was still unknown to the market and the high prices were achievable.
+
+73.  The sole basis upon which the MMT concluded that they had not “used” the price sensitive information was by accepting what might be called the “behind closed doors” justification.
+
+74.  Thus, in relation to Marian, the MMT found as follows:
+
+“In the context of all the evidence, the Tribunal is satisfied that, as with Charles Yiu, while she knew that, if news of the deed of assignment and subsequent statutory demand fell into the public domain, it would be likely to have a material effect on the price of the Company’s shares, she believed that – as it had been in the past with Madam Liu – the matter would somehow, however slow and muddled the process, be dealt with behind closed doors. She therefore turned a blind eye to the issue of whether the market should be informed although in truth she knew the answer.”[80]
+
+75.  In relation to Charles, the MMT recorded a submission made by the Presenting Officer which is echoed by the comment we have just made:
+
+“The Presenting Officer further submitted that, unless the Tribunal accepted that Charles Yiu did not appreciate he was in possession of price sensitive information, it would be wholly unrealistic to find that, when he sold his shares, he had no intention somehow to use that price sensitive information to his advantage.”[81]
+
+This was, however, rejected by the Tribunal on the basis of the “behind closed doors” justification:
+
+“... an insider may know that information in his possession is price sensitive (in the sense that, if passed into the public domain, it will likely have a materially adverse impact on the share price) but, for his own reasons, whether sound or suspect, believe that the information will not pass into the public domain; put another way, that whatever threatens the share price will be resolved behind closed doors.”[82]
+
+76.  At the heart of the MMT’s acceptance of the section 271(3) defence is the following passage in the Report:
+
+“... Yes, he [Charles] knew he was in possession of information which, if it became known to the market, would in all likelihood materially depress the share price. However, on balance, the Tribunal is satisfied that Charles Yiu believed that what was known to him would, by one means or another, be sorted out behind closed doors (as it had been in the past with Madam Liu) and would not therefore become a matter to influence the market. In the judgment of the Tribunal, on balance, that must explain why Charles Yiu paid no heed to the 21 day deadline imposed by the statutory demand. It was not because he lacked any appreciation of the events unfolding (although he tried his best to suggest such was the case) or because he was reckless. As he said, he sold because the share price, which clearly he was watching carefully, had gone so high that it was time to take his profit. In that sense, it was an undeniably sensible decision and, in the judgment of the Tribunal, not a decision that in any way indicates a conscious intent to misuse the price sensitive information in his possession. That, it must be accepted on balance, was his sole motivating factor – to take his share of manna found on the desert floor, that is, to profit from an unexpected speculative boom in the share price - and, at the time he dealt, was unconnected with any desire to avoid a loss by reason of the price sensitive information in his possession.”[83]
+
+77.  With great respect, it is our view that the Tribunal erred in law in holding that the “behind closed doors” justification was capable of assisting the respondents to establish the section 271(3) defence.
+
+78.  On its face, the respondents’ share dealings would appear plainly to have involved “using” the inside information.  They sold taking advantage of their knowledge that the prices and profits they were securing were significantly greater than they ought to have been and which would no longer be achievable if the information were to find its way into the market.  By doing so, they were “using relevant information” as that phrase is to be construed (see Section C.5 of this judgment, above).
+
+79.  Such culpable use cannot possibly be affected by their assertion that they subjectively believed that such information would not pass into the public domain but that the threat would somehow be sorted out behind closed doors.  Note that this involves a belief in two separate facts, namely that (i) the negative news about the company would remain “behind closed doors” and, (ii) the negativity would disappear in the future because “whatever problems face the company will be successfully resolved”.[84]
+
+80.  “Relevant information” (or “inside information”) was defined by section 245 as information “which is not generally known to [potential investors] but which would if it were generally known to them be likely to materially affect the price of the listed securities”.  Thus, the fact that the information does not in fact become known to the public in any particular case does not stop it from being inside information so long as it can be shown that if it were disclosed,it would affect the share price.  Insider dealers may well hope that problems facing the company will be solved and that the inside information will never become publicly known so that the fact that they had dealt in the company’s securities taking advantage of such information will never be discovered.  Or they may hope that their trades will be completed without knowledge being attributed to themselves before the information is made public.  But whether or not the information actually enters the public domain does not affect its status as inside information.  An insider may obviously still use that information while hoping or believing (rightly or wrongly) that it would not leak outside.  It is a non sequitur to say that because a person believed it would not become public, that person did not use the price sensitive information.  Relevant information is, by definition, always “behind closed doors”.
+
+81.  As regards the prospective successful resolution of a corporate problem, this ignores the fact that, when a person with price sensitive information deals in the securities for financial advantage, he is “using relevant information” at that very time and so his belief as to whatever might prospectively happen in the future to resolve the company’s dilemma is nothing to the point.  Let us assume the dilemma is caused by the fact of a statutory demand having been served on an insolvent company.  Because that statutory demand is not known to the market generally, the share price remains at $1.  However, the negative news of service of the statutory demand would have depressed the price to 50 cents.  The correct question to ask is, “If the market as a whole knew of the negative news at that time when the relevant dealing took place, what would the share price have been?”  It cannot be right to answer that question, “Well, since I believed the statutory demand would not lead to a petition being presented, the price of $1 was justified and therefore such information was to me completely irrelevant.” At the time when the dealing took place (which is the critical time to judge whether an act constitutes insider dealing: see paragraph [39] above), the problem remained to be resolved and so a belief in a prospective resolution is simply irrelevant as a matter of law.
+
+82.  It would indeed be surprising if the law were to permit an insider to escape culpability by reliance on his or her own subjective belief, saying: “Yes, I traded in shares knowing that their price would be affected by undisclosed price sensitive information which I had, but that is okay because I believed that the market would never find out”.  It seems that the MMT itself had some doubts about its acceptance of such an argument:
+
+“There is a moral dimension to this which some may find unappealing. How can it be that an Executive Director of a listed company can know of damaging matters that, if known to the market, would materially depress the share price and still be able to deal in the shares of the company without being found culpable of insider dealing simply because he believes that the damaging information will remain confidential and further believes, whether his belief is soundly based or not, that whatever problems face the company will be successfully resolved?”[85]
+
+83.  With respect, its answer to that question is less than convincing:
+
+“The answer perhaps, in so far as one may be required, is twofold. First, the mischief to be avoided is the use of confidential information to ‘steal a march’ on ordinary investors. If, however, the confidential information has not been used in any way in that manner then there has been no mischief. Second, there is no risk of the floodgates being opened because the circumstances will be rare when a person who deals in the shares of a listed company while in possession of price sensitive information will be able to demonstrate that his dealing was totally unconnected with any desire to avoid a loss or make a profit by reason of the price sensitive information.”[86]
+
+84.  The first answer, asserting that no use of the information is involved, begs the very question at issue, which is: Did the “behind closed doors” justification allow one to conclude that the respondents did not steal a march on ordinary investors?  In our view, the answer is clearly “No”.  Their belief that the information would not get out from behind those closed doors does not mean that they did not use it.  Deciding to sell – to “seize that chance of a lifetime”[87] – with the benefit of price sensitive information, did involve stealing a march by using the relevant information at the material time, that is, at the point in time they dealt in the shares.
+
+85.  The second answer, namely, that it will rarely be the case that someone who deals in relevant shares while in possession of price sensitive information “will be able to demonstrate that his dealing was totally unconnected with any desire to avoid a loss or make a profit by reason of the price sensitive information”[88] is essentially the same as the first answer.   Its premise is the non sequitur that a person who believes that the inside information will not leak out is not using it.  Supposed rarity does not in any event justify the argument as a matter of principle.
+
+86.  We would emphasise that this analysis does not involve any challenge to the findings of the Tribunal. The respondents were found, no doubt correctly, to have genuinely believed “for ... reasons, whether sound or suspect”[89] that the threat would be resolved and the information would not get out from behind closed doors.  The point is that such a belief is legally irrelevant and does not help them establish the section 271(3) defence: it does not demonstrate that they did not use the price sensitive information they possessed.
+
+(c)  Conclusion as to the MMT’s approach to section 271(3)
+
+87.  It is accordingly our view that the Tribunal fell into error in holding that the respondents had succeeded in establishing the section 271(3) defence.  A passage from the Written Case lodged on Marian’s behalf is revealing:
+
+“The prosecution must prove that the person has dealt in shares of a listed company while possessing information which he knew, if disclosed to the public, would likely to materially affect the share price. In most circumstances, the inference from these facts would already be that the person’s purpose was or included a purpose to make a profit or avoid a loss by using inside information.”[90]
+
+It goes on to submit that this usual inference is avoided in “truly exceptional circumstances”[91] in the present case.  Those circumstances are essentially that the 2nd respondent’s purpose was to take advantage of the surge prices, supported by the “behind closed doors” justification.[92]
+
+88.  The Written Case correctly states that a finding that the respondents dealt in ATML shares while in possession of information which they knew was price sensitive, normally supports an inference that their purpose was or included the purpose of making a profit or avoiding a loss by using inside information.  As Lord Nicholls of Birkenhead NPJ recognised in Insider Dealing Tribunal v Shek Mei Ling,[93] there would be insider dealing by an insider who “sold her shares before the price sensitive information had become fully available to the market” and by an insider “who buys shares improperly by misusing confidential information [and] seeks thereby to steal a march on the market”.  Such insiders are required to abstain from dealing with the company’s securities until the market has had an opportunity to receive that information.[94] As Sir Anthony Mason NPJ noted in Koon Wing Yee v Insider Dealing Tribunal,[95] the statutory policy is to “eliminate insider dealing and to reinforce the transparency of the markets, thereby enhancing and preserving Hong Kong’s position as an international financial centre”.
+
+89.  A section 271(3) defence is not easy to establish.  It only arises after prima facie culpability is established.  It requires the specified person to prove on a balance of probabilities that dealings which prima facie constitute insider dealing were done without in any way involving the prohibited purpose.  Generally, one would expect the insider positively to establish an innocent purpose.  Thus, the defence might arise, for instance, where he or she dealt in the securities pursuant to a prior contractual obligation and had to sell whether it entailed realising a profit or a loss. Or the defence might arise where a person sells shares in compliance with an order of the Court made, for example, in matrimonial financial relief proceedings.[96]
+
+90.  But in the present case, there was nothing to stand in the way of drawing the obvious inference. The respondents could not point to any innocent purpose.  Their testimony only served to emphasise that they were pursuing the purpose of securing profit, necessarily taking into account the price sensitive information in deciding to sell at such favourable prices.  This constituted insider dealing and the “behind closed doors” justification did not enable them to rely on section 271(3).  To permit such a justification to succeed would be to furnish insiders with a playing field that is not level and transparent.
+
+91.  This conclusion follows from our construction of section 271(3) (see Section C.5 above).  So construed, a connected person in possession of price sensitive information cannot deal in listed securities unless he brings himself within the statutory defence by proving an innocent purpose in his dealing which does not include the purpose of making a profit or avoiding a loss.  This may well put him at a disadvantage compared to others who may deal in the same securities (such as happened in the present case in respect of the other employees of ATML who exercised their options and sold shares when the price was surging) but that is the consequence of being a connected person who comes into possession of price sensitive information.  A restriction on that connected person from dealing in listed securities may disadvantage him but that, it seems to us, is the reasonable price of achieving a fair and level playing field in the market.  It is akin to restrictions placed on trustees and other fiduciaries from self-dealing or profiting from their positions.
+
+E.  The Court of Appeal’s decision
+
+92.  The Court of Appeal upheld the MMT’s decision. Kwan JA, writing for the Court, focussed on the SFC’s two main grounds of appeal.
+
+93.  The first ground involved the allegation that the respondents had “used” the inside information by withholding its disclosure from the public in breach of their respective obligations to disclose, thus contributing to the maintenance of a falsely inflated share price which they knew was the consequence of their non-disclosure.[97] Her Ladyship summarised the argument thus:
+
+“The Tribunal has found that under the Listing Rules, ATML was under an obligation to disclose the Assignment and the statutory demand to the public, which in all likelihood would have resulted in a material decrease in the share price. The non-disclosure of the relevant information to the public falsely sustained an inflated share price of ATML and avoided puncturing the exuberance of the speculation bubble. By withholding or causing ATML to withhold disclosure, Charles and Marian had knowingly and directly contributed to the maintenance of the falsely inflated share price. In selling their shares, they knowingly and directly profited from the falsely inflated share price which they had contributed to maintaining through non-disclosure. Mr Wong submitted this plainly was ‘use’ of the relevant information for the purpose of making profit.”[98]
+
+94.  It may be noted that while in common with the analysis we have adopted, this argument highlights the advantage taken by the respondents of the inflated share price while possessing price sensitive information, it differs from that analysis by introducing the allegation that the respondents had themselves wrongfully withheld or caused ATML to withhold publication of the inside information, constituting “use” of the price sensitive information proscribed by section 271(3).
+
+95.  Thus, the SFC’s case (with italics supplied) was that:
+
+“Regardless of their prime motivation in selling their shares, or their belief that the news of the Assignment and the statutory demand would not get out to the market, Mr Wong [counsel for the SFC] submitted that the fact that they sold their shares for profit in a false market which they knew well was maintained by the non-disclosure of the relevant information procured or knowingly contributed to by them necessarily means that they were using the PSI [price sensitive information] for the purpose they aimed to achieve, namely to make profits for themselves.”[99]
+
+And that:
+
+“... ‘use’ of the PSI would include withholding it only where that person plays a part in withholding the information. ... this would cover the situation where a company is under an obligation to disclose the PSI under rule 13.09 of the Listing Rules, but has failed to do so and the senior executive would be regarded as having withheld or caused the company to withhold information by virtue of his corporate position and duties.”[100]
+
+96.  Kwan JA rejected that argument as involving a strained interpretation of the word “using” in section 271(3) by equating “withholding” with “use”; and because importing such a broad basis for excluding operation of the defence would result in its being rendered otiose.[101] Her Ladyship also rejected the argument on procedural fairness grounds: it had not been put to the respondents that they had knowingly and directly contributed to the maintenance of a falsely inflated share price by suppressing the information, and there was no finding to that effect.[102] With respect, we agree with those conclusions.
+
+97.  By its second ground of appeal:
+
+“The SFC sought to challenge two findings of fact made by the Tribunal, that Charles and Marian believed the settlement of the debt would be settled behind closed doors and that their sole motivating factor in exercising their share options was to profit from the unexpected speculative boom. It was contended that these two findings were plainly wrong.”[103]
+
+98.  It should be observed that the complaint concerning the finding of a belief that the information would remain behind closed doors differs from our criticism of the “behind closed doors” justification discussed above.  We have accepted the correctness of the MMT’s findings as to the respondents’ subjective beliefs but have sought to demonstrate that such beliefs are legally irrelevant and do not assist in establishing the section 271(3) defence.  In the Court of Appeal, the SFC’s argument was that, for various reasons, “they could not possibly have believed that the information would never come to light and that ATML’s vulnerability would never be realised.”[104]
+
+99.  Kwan JA held that, on well-established principles, there was no basis for the Court of Appeal to interfere with those findings since it was impossible to say that they were unsupported by evidence or plainly wrong.[105] Again, we respectfully agree.
+
+100.  The question of whether, on the evidence, the section 271(3) defence was in law made out by the respondents, and in particular whether the “behind closed doors” justification enabled them to rely on that defence notwithstanding the inculpatory findings made against them, does not appear to have been raised or addressed.  However, the Court of Appeal appears implicitly to have agreed with the MMT’s approach to that defence.  Thus the Court upheld the finding that the respondents believed that information about the assignment and statutory demand would stay behind closed doors, evidently accepting that such belief permitted the respondents’ exculpation pursuant to section 271(3).  To the extent that the Court of Appeal so decided, in our respectful view, they upheld an erroneous conclusion reached by the MMT.
+
+F.  Disposition of this appeal
+
+101.  As noted at paragraph [17] above, the question of whether, on the MMT’s findings, the respondents were able, as a matter of law, to rely on section 271(3) was the core question on this appeal.
+
+102.  On the basis of the foregoing analysis, it is our conclusion that the respondents were erroneously acquitted of market misconduct.  Correctly applying section 271(3) to the facts found by it, the MMT ought to have held that the respondents had, as a matter of law, failed to make good that defence.  The MMT found that their purpose in selling their shares was undoubtedly to secure profit when they possessed information which was price sensitive.  It found that prima facie the respondents were involved in insider dealing.  The MMT should not have accepted that the “behind closed doors” justification supplied a basis for exoneration. Allowing the appeal on this ground does not involve interfering with the MMT’s findings or raising questions on which the respondents might have wished to call additional evidence and so, although it was not the focus of the arguments in the MMT or the Court of Appeal, there is no procedural obstacle to this course, nor was any procedural objection raised.
+
+103.  Accordingly, it therefore follows that the appeal should, in our view, be allowed and the matter remitted to the MMT to deal with the question of sanctions.  Such remitter will be on the basis that the respondents’ dealings in ATML shares subsequent to 26 April 2007 (the date of the statutory demand) constituted insider dealing which was not excused by the innocent purpose defence provided for in section 271(3).
+
+ 
+
+Mr Justice Tang PJ :
+
+104.  I regret I am unable to agree with Ribeiro and Fok PJJ.  The essential facts have been stated in their joint judgment, which I gratefully adopt.  I will state my reasons as briefly as I can.
+
+105.  Stripped to bare essentials for the purpose of this appeal, under s 270 of the Securities and Futures Ordinance, Cap 571, insider dealing takes place when a person connected with the corporation, in this case, Asia TeleMedia Limited (“ATML”), a listed company, who has relevant information which he knows is relevant information, deals in the securities of the corporation.  The four elements required under s 270 are: (i) connection with the listed corporation, (ii) possession of relevant information; (iii) knowledge that the information is relevant information, and (iv) dealing in the securities of the corporation.  Connection is straight-forward; Charles was an Executive Director as well as the Director of Finance of ATML.  Marian, the Company Secretary.  Relevant information was then defined in s 245(2)[106] as information which “is not generally known to those persons who are accustomed or would be likely to deal in the listed securities of the corporation but which would if it were generally known to them be likely to materially affect the price of the listed securities,” in other words, price sensitive information.  The Tribunal regarded the assignment of the debt (notice of which was given on 5 February 2007) together with the statutory demand of 26 April 2007 as relevant information and held that Charles and Marian were aware that they were so.  Importantly, the Tribunal was of the view “that the deed of assignment on its own would not have constituted price sensitive information.”[107] Hence, dealings prior to 26 April 2007 would not be caught by s 270.  A winding-up petition was presented on 6 June 2007 pursuant to the statutory demand and, when it became publicly known, trading in ATML shares was suspended.  The Tribunal held that had the relevant information been known, it would have substantially and adversely affected the share price.  Dealing was widely defined in s 249 and included selling, purchasing, agreeing to sell or purchase.  The Tribunal found that both Charles and Marian sold ATML shares whilst in knowing possession of relevant information after 26 April and before 6 June 2007.
+
+106.  On such findings, subject to the defence under s 271(3), Charles and Marian were insider dealers under s 270 and as such guilty of market misconduct.[108] The Tribunal, however, concluded that the defence under
+
+s 271(3) had been made out.  We are concerned with the correctness or otherwise of that conclusion as a matter of law.
+107.  The answer depends on the correct interpretation of s 271(3) which provided:
+
+“A person shall not be regarded as having engaged in market misconduct by reason of an insider dealing taking place through his dealing … if he establishes that the purpose for which he dealt … did not include, the purpose of securing or increasing a profit or avoiding or reducing a loss, … by using relevant information.”[109]
+
+108.  The s 271(3) defence only becomes relevant when it has been established, the burden being on the SFC in proceedings before the Tribunal, that insider dealing had taken place.[110] The words “by reason of an insider dealing taking place through his dealing” leave no doubt.
+
+109.  I turn to consider how insider dealing might take place.  As I said, four elements are involved.  For present purposes, I note, in particular, that trading whilst in possession of relevant information, which by definition, is not information in the public domain, the insider dealer would have had the benefit of the relevant information, namely, an artificially high price.  That being so, I turn to the s 271(3) defence and ask, how might the insider dealer, who has benefited from the relevant information, satisfy the tribunal or the Court, that:
+
+“the purpose for which he dealt in … the listed securities … in question … did not include, the purpose of securing or increasing a profit or avoiding or reducing a loss, … by using relevant information.”[111]
+
+110.  In my opinion, the defence is not confined to the insider dealer establishing that the purpose(s) of his dealing did not include the purpose of securing a profit or avoiding a loss, for that would render the words “by using relevant information” otiose.
+
+111.  Nor is it limited to situations where the dealer was under compulsion to deal.  This was the subject for decision in Henry Tai Hon Leung v Insider Dealing Tribunal.[112] There the Court of Appeal[113] was concerned with the Securities (Insider Dealing) Ordinance, Cap 395, in particular, s 10(3) of that Ordinance, a provision which is closely comparable to s 271(3), which provided:
+
+“A person who enters into a transaction which is an insider dealing shall not be held to be an insider dealer if he establishes that he entered into the transaction otherwise than with a view to the making of a profit or the avoiding of a loss (whether for himself or another) by the use of relevant information.”
+
+112.  There the tribunal had held that the insider dealer must show that he was compelled to sell and that, “without alternative resources, he had no choice but to sell at that time, regardless of whether or not he had come into possession of the relevant information.”[114] Rogers VP, with the concurrence of the other members of the Court, said:
+
+“28. Of course, if a person can establish that he had no choice but to sell securities he will, no doubt, be in a strong position to establish a defence under section 10(3) on the basis that there was not an intention to make a profit or avoid a loss. However, the subsection is clear. What has to be determined is whether there was any desire or intention to make a profit or avoid a loss by use of the relevant information. The section does not incorporate any test as to whether the person was compelled to or had no choice but to sell securities. In those circumstances it seems to me it would be wrong to interpret the Ordinance as if it incorporated this as part of the statutory defence.”
+
+113.  Later in the judgment, Rogers VP said it was for the insider dealers:
+
+“to establish that the sales … were not in any way influenced by their knowledge of the [relevant information].”[115] (my emphasis).
+
+114.  A similar approach was adopted in a criminal appeal,[116] where Henry Tai Hon Leung was cited.[117] Section 292(3) required the defendant to prove:
+
+“the purpose for which he dealt in … the listed securities … was not, or, … did not include, the purpose of securing … a profit … by using relevant information.”
+
+115.  The Magistrate had held that:
+
+“Once you are in possession, have the relevant information, know the relevant information, and know that the information would affect the share price, you may not deal in the shares.”[118]
+
+116.  Derek Pang J said that was wrong because that ignored the defence under s 292(3).  He said:
+
+“43. … in order to invoke the defence under s.292(3) successfully, what the person having relevant information did must not be affected by the relevant information, even if it was in the least affected.”
+
+117.  In Canada, Green v Charterhouse Group Canada Ltd (1976) 68 DLR (3d) 592, a decision of the Ontario Court of Appeal, was concerned with s 113(1) of the Securities Act 1966 (Ontario), which provided a private right of action against insider dealer:
+
+“who, in connection with a transaction … , makes use of any specific confidential information for his own benefit or advantage that, if generally known, might reasonably be expected to affect materially the value of such securities, is liable to compensate …”
+
+118.  The argument on behalf of the alleged insider dealer which was accepted by the trial judge was that:
+
+“… it is not enough to have the information. To ‘make use of’ it, they submit, the information must be a ‘factor’ in the insider’s participation in the transaction which the insider carries out with the person alleged to be aggrieved, ‘either by inducing him to enter into it or by assisting him or otherwise influencing him in the manner in which he performs it.’”[119]
+
+119.  The judgment of the Ontario Court of Appeal[120] was delivered by Arnup JA who said the burden of proof was upon the insider “to show that in fact he did not make use of the information in the transaction, that is, that the information was not a factor in what he did.” And that:
+
+“In my view it is a question of fact in each case, and with respect to each individual in a case, whether the individual made use of specific confidential information.” (at 619)
+
+120.  Green was cited and adopted by the Insider Dealing Tribunal[121] in the International City Holdings Limited Enquiry.[122] At that time insider dealing was covered by Part XIIA of the Securities Ordinance, Cap 333
+
+s 141B,  which, where relevant, provided as follows:
+
+“(1) Insider dealing in relation to the securities of a corporation takes place and, pursuant to section 141C, may be culpable for the purposes of this Part –
+
+(a) when a dealing in securities is made, procured or occasioned by a person connected with that corporation who is in possession of relevant information concerning the securities;”
+
+121.  The defence under s 141C(3) provided:
+
+ 
+
+“A person who enters into a transaction which is an insider dealing within
+
+section 141B(1)(a) may be held not culpable for the purposes of this Part  if his purpose is not, or is not primarily,[123] the making of a profit or the avoiding of a loss (whether for himself or another) by the use of relevant information.”
+
+122.  At para 2.9 of the report, the tribunal said:
+
+“… Another way of approaching the all-important question of the use of relevant information is to enquire and determine whether the evidence satisfies the Tribunal that the relevant information was a factor in the insider’s participation in the dealing transaction either by inducing him to enter into it or by assisting him or otherwise influencing him in the manner in which he performs the transaction. This was the approach of the trial judge and expressly approved by Arnup JA delivering the judgment of the Ontario Court of Appeal in Green v Charterhouse Group Canada Ltd …”
+
+123.  I would also note that the tribunal at para 2.10 agreed with the submission of the counsel, Mr Leslie Wright that:
+
+“… making use of relevant information in dealing in securities (as distinct from merely dealing in securities when in possession of relevant information) was the touchstone of culpability. We agree.”[124]
+
+124.  In England, in R v Cross [1990] BCC 237, the Court of Appeal[125] considered s 3(1) of the Company Securities (Insider Dealing) Act 1985, and held that the trial judge had seriously misdirected the jury because he had removed the option of the jury finding:
+
+“… that the defendant had price-sensitive information (in other words, the prosecution had proved their side of the case) but that the defendant had in turn proved that he had not used that information in order to make his profit or avoid his loss.” (at 248F)
+
+125.  Here, in the Court of Appeal, Kwan JA said with the concurrence of Lam VP and Cheung JA:
+
+“31. Pursuant to [section 271(3)], it is open to a person to establish on a balance of probabilities that, although at the time of dealing he was knowingly in possession of PSI, that was not a factor inducing him to deal. If he is able to establish that fact, then he is not to be identified as being an insider dealer. It is not sufficient to establish that the PSI was only a subsidiary motivating factor, it must be established it was not in any way a causative factor. As stated by Rogers VP in Henry Tai Hong Leung at para 28: ‘What has to be determined is whether there was any desire or intention to make a profit or avoid a loss by use of the relevant information.’”
+
+126.  These authorities support my view which is based on the language of s 271(3) read with s 270, that notwithstanding a finding that insider dealing has been established under s 270, if the insider can prove on a balance of probabilities that the inside information had not in any way, influenced, motivated or been a factor, in his dealing, he should “not be regarded as having engaged in market misconduct by reason of an insider dealing”.  As Arnup JA said in Green:
+
+“… it is a question of fact in each case, and with respect to each individual in a case, whether the individual made use of specific confidential information.” (At 619)
+
+127.  Indeed, as R v Cross shows, it is a question for the jury in a criminal prosecution to decide.  Crucially, the Tribunal regarded this as “a subjective issue, namely, whether, when he exercised his options and sold Asia Telemedia shares, Charles Yiu was motivated in any way by the fact that he knew he was at the time in possession of price sensitive information.”[126]
+
+128.  I agree it is a subjective issue and the fact that s 271(3) placed the burden of proof on the insider supports this view. 
+
+129.  Nonethless, the burden of proof will not be easily discharged, as the Tribunal explained:
+
+“279 … there is no risk of the floodgates being opened because the circumstances will be rare when a person who deals in the shares of a listed company while in possession of price sensitive information will be able to demonstrate that his dealing was totally unconnected with any desire to avoid a loss or make a profit by reason of the price sensitive information”
+
+130.  A Market Misconduct Tribunal is typically chaired by an eminent judge or retired judge and “2 market practitioners”,[127] and can be expected to approach such defence with healthy scepticism.  Here, the Tribunal held that it was Charles and Marian’s “sole motivation: to seize a sudden and unexpected speculative surge in the price of [ATML] shares and, like others employed by [ATML] in Hong Kong and the Mainland, to profit from the windfall.”[128] I now turn to consider whether the Tribunal was entitled so to find and whether, in so finding, it committed any error of law. 
+
+131.  The evidence has been set out in some detail in the joint judgment.  I will highlight those which I regard important to my judgment. 
+
+132.  Between February and June 2007, shares in ATML were caught in what was described as a “frenzy” of “short-term speculation.”  ATML was a speculators’ stock.[129] It is clear that the “value” of ATML resided in the fact that it was a listing shell and a possible vehicle for a backdoor listing.  The Report highlighted the frenzy: 
+
+“104. On 16 February 2007, after modest rises over the previous few days, the share price of Asia Telemedia rose by over 42%, closing the day at $0.320.
+
+105. The next trading day, on a turnover of 133,975,815 shares, it rose by over 43%, closing at $0.460.
+
+106. Thereafter the shares fell back slightly but for April 2007 they stayed above 40 cents, hitting a closing day high of $0.510 on 17 April 2007.
+
+107. In May 2007, there was a further surge in the share price, rising during the course of the month to over 90 cents.  On 29 May 2007, on a turnover in excess of 156 million shares, Asia Telemedia peaked at $0.970.”
+
+133.  Before the Tribunal, there were two other specified persons.  I am not concerned with Lu Ruifeng.  He was not identified as a person who had engaged in market misconduct because the Tribunal took the view that he was not given a reasonable opportunity of being heard.[130] Cecilia Ho was exonerated of insider dealing because the Tribunal was not satisfied that she was in knowing possession of price sensitive information.[131] Her  circumstances may throw light on Marian’s case.
+
+134.  The shares which Charles and Marian sold came from share options exercised by them.  There were two tranches of options, granted in 2005 and 2007 respectively.
+
+135.  The 2005 options were granted on 23 March 2005.  Lu, Charles, Marian and Cecilia were each granted options exercisable until 2010 at $0.20 per share, in the following amounts: 1 million, 8 million, 8 million, and 3 million respectively.[132] It is clear that other employees were also granted options at the time.  Paragraphs 284 to 287 of the Report summarized Marian’s evidence that the first person to exercise the option was a Ms Chan, followed by eight other employees on 21 February 2007 and then on the following day four more employees.  She said, by the end of February 2007, all the employees in the Hong Kong office had exercised their options.  As Mr Laurence Li, counsel for Marian submitted:
+
+“The surge [in ATML’s share price] caused considerable excitement among the employees. Between 16 and 22 February 2007, 13 employees exercised their stock options and sold the resultant shares.”[133]
+
+136.  On 7 May 2007, 37.5 million share options were granted with an exercise price of $0.40 per share.  Marian was granted 5 million share options and Cecilia 1 million, exercisable immediately.[134] The evidence is not clear but it is likely that some or all of the 13 employees referred to above were also beneficiaries under the 2007 option. Both Marian and Cecilia sold shares under the 2007 option.  In the case of Marian, 2  million shares out of 5 million, and Cecilia, 600,000 out of 1 million.[135]
+
+137.  So, the evidence was that 13 employees, who did not possess any price sensitive information, exercised their options and sold the shares.  Of course, insofar as they did so before 26 April 2007, they would have sold prior to the existence of price sensitive information and no question of insider dealing could arise.  It is not clear[136] whether any of the 13 employees sold after 26 April.  But even if they had, since they were not in possession of any price sensitive information, they would not have come within s 270.  We know that Cecilia sold both before (commencing on 26 February 2007) and after 26 April and she did so without being knowingly aware of any price sensitive information.  She sold 300,000 shares on 11 May at $0.5017, 500,000 shares on 28th May at $0.8400 and 100,000 shares on 29th May at $0.9600.  Presumably, she continued to sell because of the rising market price.
+
+138.  Marian had also started to sell before 26 April (from 28 February 2007), and had sold 6.2 million shares by 26 April 2007.  Those sales fell outside s 270.  But she also sold 3.8 million shares after 26 April.[137] I believe some may think that, like Cecilia, it was possible that Marian’s continued sale was not influenced in any way by the price sensitive information.  Of course, the burden was on her to prove that this was the case.[138]
+
+139.  The Tribunal said:
+
+“292. It was the central assertion of Marian Wong’s evidence that all the Asia Telemedia employees, both in Hong Kong and the Mainland, exercised their options – including herself – for one very obvious reason, a reason that had nothing to do with their faith in the longer term viability of the Company or indeed their fear that it had no viable future. That reason was the desire – at last – to exercise their options at a time when, unexpectedly, the share price was surging. Put simply, it was to seize upon an unexpected opportunity to make a profit when independent of any matter they knew of or could control, a profit presented itself; as the Tribunal has described it earlier – to pick up the gift of manna from the desert floor.”
+
+140.  The Tribunal then concluded:
+
+“293. Even taking into account Marian Wong’s less than impressive evidence, her evasiveness in answering questions being very evident, nothing of substance arose during the course of the hearing to give the Tribunal reason to question her assertion that she had exercised her options for the single reason given above, a reason that was not in any way coloured by the price sensitive information in her possession.
+
+294. As to how it could be that her possession of price sensitive information played no role, the Tribunal reiterates what has been said in respect of Charles Yiu. The Tribunal is satisfied that, while Marian Wong was in possession of information which she knew should properly form the basis for a public announcement by the Company, she nevertheless believed that somehow, in some way, any threat presented by Goodpine would be dealt with behind closed doors.  On balance, therefore, the Tribunal is satisfied that Marian Wong demonstrated that her sales were motivated by the single reason amplified above.”
+
+141.  With respect, I see no legal or factual error. The motivation of the sale was a question of fact for the Tribunal, who had the benefit of the oral evidence of the witnesses.  As Arnup JA in Green v Charterhouse Group at 620:
+
+“The Trial Judge, approaching this evidence with a healthy scepticism, might well have disbelieved it. In fact he chose to accept it.”
+
+142.  The Tribunal’s finding was not disturbed by the Court of Appeal.  I do not believe I am entitled to interfere.  Lest it be thought that this is a grudging acceptance of a finding which I am not comfortable with, for what it is worth, I am of the view that Marian was rightly exonerated by the Tribunal.
+
+143.  I will look closely at the Tribunal’s reasons exonerating Charles.  But first, I wish to pause and consider whether there was any telltale sign of insider dealing in Charles’ case.  It is common sense that price sensitive information has a limited lifespan, normally, between the inception of the information and its public disclosure, during which insider dealers would normally deal to make a profit or avoid a loss.  Here, the statutory demand was issued on 26 April and the 21-day period expired on 17 May 2007.  Thereafter, a winding-up petition based on the statutory notice could be presented,  although, it was not presented until 6 June 2007.[139] A typical insider dealer could be expected to deal in the securities between 26 April and 17 May to profit from his private knowledge of the price sensitive information.
+
+144.  Charles sold a total of 6 million shares between 28 May and 31 May 2007 as follows:
+
+Trading
+Date  	Number of
+Shares Sold  	Price 	Gross Proceed 	Net Proceed 
+2007-05-28	750,000	$0.8500	$637,500.00	$636,154.37
+2007-05-29	2,500,000	$0.8960	$2,240,000.00	$2,235,273.60
+2007-05-30	1,750,000	$0.8726	$1,527,050.00	$1,523,758.03
+2007-05-31	1,000,000	$0.9100	$910,000.00	$908,079.90
+Total	6,000,000	 	$5,314,550.00	$5,303,265.90
+145.  Charles was not a beneficiary under the 2007 option, in other words, his shares came from the 2005 option and the exercise price was 20 cents.  If Charles was prompted by the inside information to sell, one might expect him to start selling within the window of opportunity between 26 April and 17 May.  He did not do so.  Of course, this does not prove that he was not influenced.  But his conduct is consistent with his case.
+
+146.  According to the Tribunal:
+
+“267. Central to Charles Yiu’s defence was that, if he had been in any way motivated by a desire to exercise his options and sell his shares before Goodpine instituted winding up proceedings, he would surely have done so before the 21 day deadline set out in Goodpine’s statutory demand had expired. Within that 21 day period, knowing that no public announcement was being made by Asia Telemedia as to Goodpine and the statutory demand, he would have been comparatively safe and would have had the ability to pick the best dates to sell. But after that 21 day deadline he would have appreciated that he was increasingly at risk of the winding up petition being issued and trading in Asia Telemedia shares being suspended. The statutory demand was received by Asia Telemedia on 26 April 2007, its 21 day deadline expiring on or about 17 May 2007. The only reasonable inference to be drawn therefore was that, if motivated in any way by the price sensitive information of the statutory demand following the deed of assignment, he would surely have exercised his options and sold his shares before 17 May 2007.”
+
+147.  The Tribunal went on to point out, not only did he only commence to sell on the 28 May, 10 days after the deadline, he chose not to sell them at once, but over four days between 28 and 31 May, when the heavy trading on 28 May alone could have easily accommodated his sales.[140]
+
+148.  The Tribunal then said:
+
+“271. As to why he sold when he did, as cited earlier in the report [at para 133], Charles Yiu said that when the share price rose close to four times from 20 cents to close to one dollar the temptation to sell was simply too great. As he put it: ‘I couldn’t even dream of that, you know. And that’s why it was at that point in time I started selling off my shares.’”
+
+149.  That the Tribunal had approached Charles Yiu’s evidence with healthy scepticism is clear from the following paragraph in the Report.
+
+“276. Objectively, there are a number of grounds for criticising the validity of such beliefs. But the Tribunal is given the task here of considering a subjective issue, namely, whether, when he exercised his options and sold Asia Telemedia shares, Charles Yiu was motivated in any way by the fact that he knew he was at the time in possession of price sensitive information. Yes, he knew he was in possession of information which, if it became known to the market, would in all likelihood materially depress the share price. However, on balance, the Tribunal is satisfied that Charles Yiu believed that what was known to him would, by one means or another, be sorted out behind closed doors (as it had been in the past with Madam Liu) and would not therefore become a matter to influence the market. In the judgment of the Tribunal, on balance, that must explain why Charles Yiu paid no heed to the 21 day deadline imposed by the statutory demand. It was not because he lacked any appreciation of the events unfolding (although he tried his best to suggest such was the case) or because he was reckless. As he said, he sold because the share price, which clearly he was watching carefully, had gone so high that it was time to take his profit. In that sense, it was an undeniably sensible decision and, in the judgment of the Tribunal, not a decision that in any way indicates a conscious intent to misuse the price sensitive information in his possession. That, it must be accepted on balance, was his sole motivating factor – to take his share of manna found on the desert floor, that is, to profit from an unexpected speculative boom in the share price - and, at the time he dealt, was unconnected with any desire to avoid a loss by reason of the price sensitive information in his possession.”
+
+150.  It is in this context that I will examine the paragraph which has troubled this Court:[141]
+
+“274. As the Tribunal has attempted to make clear, an insider may know that information in his possession is price sensitive (in the sense that, if passed into the public domain, it will likely have a materially adverse impact on the share price) but, for his own reasons, whether sound or suspect, believe that the information will not pass into the public domain; put another way, that whatever threatens the share price will be resolved behind closed doors.”
+
+151.  I accept relevant information is, by definition, always “behind closed doors”.[142] The “behind the closed doors” argument was never relied on as a defence under s 271(3), rather it was used to explain why Charles and Marian’s dealings were not in any way influenced by or motivated by the price sensitive information.  I would not read too much into it.  It is clear from the judgments of the Tribunal and the Court of Appeal that they understood the question before them was whether the respondents’ dealings had in any way been motivated or influenced by the price sensitive information.
+
+152.  The question remains whether the information in any way influenced the decision to deal, and not whether the insider dealer had had the benefit of the information.  That, in my view, is an anterior question which is covered by s 270.  Personally, I believe para 274 of the Report says no more than that, subjectively, the price sensitive information played no part whatsoever in Charles’ dealings.  The Tribunal was saying no more than that, like the other employees of ATML, Charles sold because of the speculative bubble in the shares and the relevant information was not a factor.  He was not influenced or bothered by it.  In other words, like the 13 other employees, Cecilia, and indeed Marian, he sold regardless of any price sensitive information.  The Tribunal compared this with picking up manna from the desert floor, a polite way of saying that they were taking part in a feeding frenzy.
+
+153.  I return to the construction of s 271(3).  Mr Laurance Li has very helpfully in his written case traced the history of this provision.  It was consolidated into the SFO from s 10(3) of the Securities (Insider Dealing) Ordinance (“SIDO”) Chapter 395 which provided:
+
+“A person who enters into a transaction which is an insider dealing shall not be held to be an insider dealer if he establishes that he entered into the transaction otherwise than with a view to the making of a profit or the avoiding of a loss (whether for himself or another) by the use of relevant information.”[143]
+
+154.  Section 10(3) of SIDO could in turn be traced to s 141C(3) of the Securities Ordinance, Cap 333 which provided:
+
+“A person who enters into a transaction which is an insider dealing … may be held not culpable for the purposes of this Part if his purpose is not, or is not primarily, the making of a profit or the avoiding of a loss (whether for himself or another) by the use of relevant information.”[144]
+
+155.  Section 141C(3) had a chequered history, and was derived[145] from s 14(1) of the UK Companies Bill 1973 and s 57(6) of the UK Companies Bill 1978, which eventually became s 68(8) of the UK Companies Act 1980 which provided:
+
+“The provisions of this section shall not prohibit an individual by reason of his having any information from –
+
+(a) doing any particular thing otherwise than with a view to the making of a profit or the avoidance of a loss (whether for himself or another person) by the use of that information.”
+
+156.  That later became s 3(1) of the Company Securities (Insider Dealing) Act 1985, which stated:
+
+“Sections 1 and 2 do not prohibit any individual by reason of his having any information from –
+
+(a) doing any particular thing otherwise than with a view to the making of a profit or the avoidance of a loss (whether for himself or another person) by the use of that information.”[146]
+
+157.  I agree with Mr Li it is clear that the object of s 271(3) is that innocent dealing should not be prohibited.  That was the objective in England.[147] As Mr Li also submitted:
+
+“That was also the view of the Hong Kong Companies Law Revision Committee, which said in its second report dated 12 April 1973:
+
+‘7.131  … In Hong Kong there are many companies with interlocking interests and directorships, and directors of such companies could find it very awkward if the provisions do not indicate with sufficient clarity the types of dealing, by them.  We would therefore emphasize that the provisions should be restricted so as to apply to people acting with a guilty intention.  The difficulties are also fully realized in Britain …’”
+
+158.  Sir Anthony Mason NPJ said:
+
+“46. That insider dealing amounts to very serious misconduct admits of no doubt. It is a species of dishonest misconduct.”[148]
+
+159.  I agree it is a species of dishonest misconduct.  That being the case, it is only right that innocent dealing should not be covered.  I would not regard any person who has satisfied the Market Misconduct Tribunal that he dealt without being in any way influenced by the inside information as dishonest.
+
+160.  In the course of the submission, I asked Mr Horace Wong SC, counsel for the Commission, whether the s 271(3) defence should avail a connected person who has entered into a voluntary but revocable scheme to purchase a fixed number of shares in the corporation monthly on every payday at the prevailing market price and who allowed the purchase to continue after he had become possessed of inside information, but not because he was in any way influenced by the information. Mr Wong answered in the affirmative.  On my understanding of the defence, provided the person could satisfy the Tribunal that it was in fact the case, he should be exonerated.  Just as, if he should be prosecuted, he should be acquitted.  We are not concerned with criminal proceedings, but it may be helpful to note that Criminal Justice Act 1993, s 52(1) which concerned the criminal offence of insider dealing, it was a defence under s 53(1)(c) for a defendant if he shows “that he would have done what he did even if he had not had the information.”  This is jury-friendly language which admits of no doubt and captures, in a few words, the essence of the innocent dealing defence.[149] I believe the defence under s 271(3) should be interpreted to provide a similar defence.[150]     
+
+161.  As was pointed out in the joint judgment by Ribeiro and Fok PJJ, the phrase “using relevant information” is not found in s 270(1) itself.  However, in subparagraphs (c) and (d) of s 270(1), which deal with disclosure of price sensitive information by a connected person to a tippee, the phrase to “make use of the information” or its equivalent is used.  For example, in s 270(1)(c), insider dealing takes place:
+
+“(c) when a person connected with the corporation and knowing that any information is relevant information in relation to the corporation, discloses the information, directly or indirectly, to another person, knowing or having reasonable cause to believe that the other person will make use of the information for the purpose of dealing, or of counselling or procuring another person to deal, in the listed securities of the corporation…”
+
+162.  I believe these provisions support my view that more than simply dealing whilst in possession of the relevant information is required.  Were it otherwise, they could simply have provided that insider dealing takes place if the tipper discloses the relevant information … knowing or having reasonable cause to believe that the tippee will deal in the listed securities of the corporation for the purpose of making a profit or avoiding a loss.
+
+163.  Nor am I concerned with questions of temporal aspects of dealings or profits or loss.  Section 271(3) is concerned with exactly the same dealing(s) found to have taken place under s 270(1).  They are not different dealings.  Nor am I concerned with profit or avoidance of loss at different times.  Section 270(1) does not require actual or prospective profit nor actual or prospective avoidance of loss.  Nor does it matter whether any profit was actually made or loss avoided.  It can be misleading to talk about actual or prospective profits or avoidance of loss under s 271(3).  The trading had occurred and s 270(1) triggered.  Actual profit made or loss avoided may be important for penalties if the s 271(3) defence is not made out but the fact that there was or might be such loss avoided or profits made is not decisive of the s 271(3) defence.  The defence under s 271(3) is made out if it is proved that the purpose of the trade did not include the purpose of making a profit or avoiding a loss by using the relevant information. 
+
+164.  Read together with s 271(3), I believe s 270(1) targets dealings where relevant information was used for the purpose of making a profit or avoiding a loss.  But just as it would not matter under s 270(1) whether any profit was or would be made or loss avoided or would be avoided, it also would not matter under s 271(3).  In other words, dishonest dealing involves the use of relevant information for the purpose of gain or avoidance of loss and not whether any gain had or would be made, or loss avoided or would be avoided.
+
+Spector Photo Group
+
+165.  Spector Photo is a decision of the Court of Justice of the European Union and concerns the interpretation of Eurpoean Parliament and Council Directive 2003/6/EC on insider dealing and market manipulation, Article 21 of which required Member States to prohibit specified categories of persons (primary insiders) who process inside information from “using” that information by dealing or trading or trying to deal in the instruments.
+
+166.  There, the court said:
+
+“… on a proper interpretation of Article 2(1) of Directive 2003/6, the fact that a person as referred to in the second sub-paragraph of that provision, in possession of inside information, acquires or disposes of, or tries to acquire or dispose of, for his own account or for the account of a third party, either directly or indirectly, the financial instruments to which that information relates implies that that person has ‘used that information’ within the meaning of that provision, but without prejudice to the rights of the defence and, in particular, to the right to be able to rebut that presumption. The question whether that person has infringed the prohibition on insider dealing must be analysed in the light of the purpose of that directive, which is to protect the integrity of the financial markets and to enhance investor confidence, which is based, in particular, on the assurance that investors will be placed on an equal footing and protected from the misuse of inside information.”
+
+167.  I do not believe Specter Photo assists in the interpretation of s 271(3).  The language of the European Directive is not truly comparable.   The decision arose out of a reference for a preliminary ruling on the proper interpretation of the article. It seems to me that the decision says no more than that an insider, possessed of inside information, who had traded in the relevant security is to be “taken” to have “used that information” “but without prejudice to the rights of the defence and, in particular, to the right to be able to rebut the presumption.”  It is not entirely clear what those defences might be though some perhaps could be gathered from the Preamble to the Directives.  Here, as noted, s 270 imposes a blanket prohibition against insider dealing, whereas s 271 provides defences against such blanket prohibition.
+
+168.  Also, unlike the UK,[151] the European Directive has no effect here.  I would also note that, in legislative proceedings leading to the amendment in 2002 which brought the Hong Kong law to its current form, the legislative ad hoc group said that: “the existing United Kingdom definition[152] will shortly be replaced by the definition in the European Community Council directive co-ordinating regulations.  We do not know the reasons motivating such a proposed change in the United Kingdom and we must not assume that what is good for the United Kingdom must necessarily be suitable for Hong Kong.  If we are to adopt the European Community definition, we must be sure that it is more appropriate to the local circumstances of Hong Kong than the wording now proposed.  For the time being, the ad hoc group is not yet so convinced.”[153]
+
+169.  For the above reasons, I respectfully agree with the Tribunal and the Court of Appeal and would dismiss the appeal.
+
+Lord Neuberger of Abbotsbury NPJ:
+
+170.  I agree with the reasoning and conclusion of Ribeiro and Fok PJJ. I also agree with the judgment of Ma CJ. Like him, I add a few words of my own simply to summarise why I respectfully differ from Tang PJ – and indeed from the Court of Appeal and the Market Misconduct Tribunal.
+
+171.  The respondents argue that the Tribunal was right to hold that they could rely on section 271(3), so that they should “not be regarded as having engaged in market misconduct by reason of an insider dealing taking place through [their respective] dealing[s] in” ATML shares (“the Shares”). This involves the respondents establishing (and the burden is on them) that “the purposes for which [they] dealt … in [the Shares] did not include … the purpose of securing or increasing a profit or avoiding or reducing a loss … by using relevant information”.
+
+172.  In effect, two arguments have been advanced on behalf of the respondents to support their case in this connection. First, that they assumed that the problem in connection with the Goodpine indebtedness, which constituted the inside information (“the information”) in this case, would be sorted out “behind closed doors” and would never be known to the market. Secondly, that their decision to sell the Shares was motivated solely by the desire to take advantage of what the Tribunal called “an unexpected speculative boom” in the market price of ATML shares. Section 271(3) is, I accept, so worded that it could be interpreted so as to accommodate each of those arguments, but in my opinion both arguments should be rejected.
+
+173.  So far as the respondents’ first argument is concerned, I consider that it proceeds on a misapprehension as to the nature of the “profit” or “loss” referred to at the end of section 271(3). It is not, as that first argument implicitly assumes, a possible profit or loss at some unspecified future time: it is a notional profit or loss as at the time of the insider dealing. Thus, in this case, the effect of the respondents’ sales of the Shares was to increase the profit they realised, because, as at the dates they sold the Shares, the respondents knew that the ATML share price was higher than it would have been if the inside information had been available to the market. Such an interpretation is consistent with the principal objection to insider dealing, namely that it distorts the market at the time it takes place. An orderly and fair market involves the buyer and the seller of shares enjoying equality of arms, and, more specifically, equality of access to information.
+
+174.  This interpretation also seems to me to be more consistent with the statutory scheme. Section 271(3) is only invoked by a person who has been held to fall within section 270, and, at least where section 270(1) applies (as in this case), that means that the person has dealt in shares knowing that he has information which “is not generally known … but would if generally known … be likely to materially affect the price” of the shares. That suggests that one is looking at the share price at the date of dealing. Furthermore, it would be rather odd to hold that a person has satisfied a requirement that he dealt at a time when he had information which he knew “would … be likely to materially affect the price” of those shares, and then to be able to hold that he believed that the information would never affect the price of those shares.
+
+175.  The respondents’ first argument also has the disadvantage of looking to the future, which is far more likely to involve the Tribunal having to consider the subjective expectations of the insider dealer, which is a difficult and potentially unsatisfactory exercise, and is unlikely to have been intended by the legislature. I discuss this point a little more fully in [177] and [178] below.
+
+176.  Turning to the respondents’ second argument, it appears to me to be unlikely that section 271(3) was intended to be available to any insider dealer who was able to persuade the Tribunal that he did not in fact rely on the information when purchasing or selling the shares concerned. Such an interpretation would involve the section 271(3) defence being based on the subjective intentions of the insider dealer which would inevitably have to be assessed on the basis of the evidence from the person concerned, and normally without the benefit of any objective and directly relevant independent evidence.
+
+177.  Inquiries as to what an insider dealer believed are inherently difficult, because he will be the only source of direct information, and he will have a vested interest in the outcome, and there will rarely be any independent evidence which is of much assistance on the issue. Further, if subjective intention is the basis of the section 271(3) defence, while no doubt the Tribunal would be sceptical in such a case, it is not hard to imagine an unscrupulous prospective insider dealer setting up a paper trail ahead of his trading with a view to supporting his contention that, for instance, he did not believe that the inside information would ever come out. Accordingly, an interpretation of section 271(3) which minimises the likelihood of such inquiries is to be preferred.
+
+178.  In this connection, I derive support from the decision of the Court of Justice of the European Union said in C-45/08 Spector Photo Group & Van Raemdonck [2010] Bus LR 1416, a case concerned with “the interpretation of Articles 2 and 14 of Directive 2003/6/EC of the European Parliament and of the Council of 28 January 2003 on insider dealing and market manipulation (market abuse)”, to quote from [1] of the judgment. At [36], the Court of Justice said that “entering into a market transaction is necessarily the result of a series of decisions forming part of a complex context which, in principle, makes it possible to exclude the possibility that the author of that transaction could have acted without being aware of his actions” and “where such a market transaction is entered into while the author of that transaction is in possession of inside information, that information must, in principle, be deemed to have played a role in his decision-making”. Accordingly, as the Court of Justice went on to say in [37], “the effectiveness of [the sanctions against insider dealing] would be weakened if made subject to a systematic analysis of the existence of a mental element”.
+
+179.  I also consider that section 271(3) would be remarkably lugubriously worded if it was simply intended to provide that an insider dealer should escape liability if he could establish that he would have dealt as he did even if he had not possessed the information, especially as an established statutory formula which provided for this was available to the draftsman – see section 53(1)(c) of the Criminal Justice Act 1993 (UK), quoted by Tang PJ in [160] above.
+
+180.  In other words, given that the purpose of provisions such as those with which this appeal is concerned is to ensure that the market is, and is seen to be, orderly, fair and undistorted, those with inside information relating to a company should not be able to deal in the company’s quoted shares, save in the exceptional circumstances, and, indeed, in circumstances which can, at least normally, be objectively verified.
+
+181.  The considerations discussed in the preceding paragraphs, and those discussed in the first two judgments above, satisfy me that section 271(3) is intended only to apply where the purpose of the insider dealer’s purchase or sale of the shares concerned can be shown to be unconnected with the market price of the shares. In other words, in the case of a normal transaction – i.e. one motivated (at least in part) by the quoted price of the shares – the insider dealer will not be able to invoke section 271(3) where he has been objectively advantaged as against the market by having the information. It would be inappropriate and unnecessary (and indeed impossible) to provide an exhaustive list of circumstances in which section 271(3) could avail an insider dealer, but they would include a sale or purchase pursuant to a specific contractual obligation or a court order, and a sale or purchase when, if the information had been publicly available, it would, respectively, have increased or decreased the quoted price.
+
+182.  I accept that this conclusion places people in the position of the respondents in this case at a disadvantage to other people, in that they may be unable to sell or buy shares in the company concerned when they would do so even if they had not got the information. From the insider’s perspective that is the price of being an insider; from the public perception, that is the price of ensuring a perceptibly fair and undistorted market.
+
+ 
+
+Chief Justice Ma :
+
+183.  By a majority of four to one, the appeal is allowed.  It is also ordered that the matter should now be remitted to the MMT to deal with the question of the appropriate sanctions. The remitter will be on the basis that the 1st and 2nd Respondents (Charles and Marian) are found to be culpable of market misconduct by insider dealing and as stated in para. 103 above.  The orders made by the Court of Appeal and the MMT are set aside.  As to costs, we would make an order nisi that the 1st and 2nd Respondents pay the costs of the Appellant in this appeal, in the Court of Appeal and before the MMT, such costs to be taxed if not agreed.  Should any party seek a different order as to costs, written submissions should be lodged with the Registrar (and served on the other parties) within 14 days of the handing down of this judgment, with liberty on the other parties to lodge and serve written submissions in reply within 14 days thereafter.  If no written submissions are received seeking a different order as to costs before the expiry of the relevant period, the order nisi will become absolute.
+
+ 
+
+ 
+
+(Geoffrey Ma)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Robert Tang)
+Permanent Judge
+ 
+
+(Joseph Fok)	(Lord Neuberger of Abbotsbury)
+Permanent Judge	Non-Permanent Judge
+Mr Horace Wong SC and Mr Norman Nip, instructed by Securities and Futures Commission, for the Appellant
+
+Mr Russell Coleman SC and Mr Samuel Wong, instructed by Sit, Fung, Kwong & Shum, for the 1st Respondent
+
+Mr Laurence Li, instructed by Raymond Chan Solicitors, for the 2nd Respondent
+
+Market Misconduct Tribunal, the 3rd Respondent, in person (absent)
+
+[1] Cap. 571.
+
+[2] This provision is contained in Part XIII of the SFO.
+
+[3] In the version of the Ordinance applicable at the material time of this case, the term was known as “relevant information”; in the current form of the Ordinance, this is now known as “inside information”.
+
+[4] See s 245(1) of the SFO.
+
+[5] See s 252 of the SFO.
+
+[6] This information consisted of the assignment of the substantial debt owed by ATML to Goodpine and the service of the statutory demand by that company on ATML.
+
+[7] In Charles’ case, profits ranging between 425% and 450%; in Marian’s case between 100% and 500%.
+
+[8] Insider Dealing Tribunal v Shek Mei Ling (1999) 2 HKCFAR 205 per Lord Nicholls of Birkenhead NPJ at 207I.
+
+[9] (Cap.571) (“the SFO”), repealing and replacing the Securities (Insider Dealing) Ordinance (Cap.395).
+
+[10] Koon Wing Yee v Insider Dealing Tribunal (2008) 11 HKCFAR 170 per Sir Anthony Mason NPJ at [45].
+
+[11] Pursuant to section 252(2) of the SFO, dated 16 January 2014.
+
+[12] Consisting of Mr Justice Hartmann NPJ (as he then was), Dr Chu Keung Wah and Mr Chan Sai Hung.
+
+[13] Subsequently renamed Reorient Group Limited.
+
+[14] The MMT found that because of acute illness, Lu was not given a reasonable opportunity of being heard and held that it was accordingly not permitted to identify him as a person who engaged in market misconduct (MMT at [53]). 
+
+[15] The MMT accepted that Cecilia did not know that the relevant matters constituted price sensitive information and found that she had not engaged in market misconduct: MMT at [263].
+
+[16] As laid down by SFO, section 270: MMT at [158]-[159].
+
+[17] MMT at [224]-[225], [235], [240]-[243].
+
+[18] MMT at [253]-[255].
+
+[19] “Relevant information” is now referred to in the Ordinance as “inside information” and it is convenient to use the present designation.
+
+[20] Lam VP, Cheung JA and Kwan JA, [2017] 3 HKLRD 157 (26 April 2017), Kwan JA writing for the Court.
+
+[21] Ribeiro, Tang and Fok PJJ, [2018] HKCFA 7 (6 February 2018).
+
+[22] Letter from the Registrar to the parties dated 27 August 2018; the words in square brackets were originally “insider dealing” but it was common ground that they should, more appropriately, read “market misconduct”.
+
+[23] Then called Mansion House Group Ltd.
+
+[24] MMT at [58].
+
+[25] MMT at [283].
+
+[26] MMT at [74]-[76].
+
+[27] MMT at [94].
+
+[28] MMT at [100].
+
+[29] MMT at [103].  This eventually proved to be the fact.
+
+[30] MMT at [203], footnote 23.  Noted by the CA at [10].
+
+[31] MMT at [203]. 
+
+[32] MMT at [97].
+
+[33] MMT at [128]-[129].
+
+[34] MMT at [98].
+
+[35] MMT at [95].
+
+[36] MMT at [104]-[105].
+
+[37] CA at [22].
+
+[38] MMT at [127].
+
+[39] MMT at [122].
+
+[40] MMT at [107].
+
+[41] MMT at [154].
+
+[42] SFC Notice at [14]; MMT at [289].
+
+[43] SFC Notice at [14]; MMT at [269].
+
+[44] In the current version, section 270 substitutes “inside information” for “relevant information” but is otherwise identical. 
+
+[45] It was not disputed that ATML was listed on the Hong Kong Stock Exchange and that the respondents were connected persons being a director and/or an employee of ATML: SFO section 247(1)(a).  See: MMT at [162]-[163].
+
+[46] Securities Ordinance (Cap.333) section 141C(3) and Securities (Insider Dealing) Ordinance (Cap.395) section 10(3).
+
+[47] Section 53(1)(c) of which provided a defence if the person charged could show “that he would have done what he did even if he had not had the information”.
+
+[48] Report of the Insider Dealing Tribunal in International City Holdings Limited, 27 March 1986, Vol.1 at [2.9].
+
+[49] Green v Charterhouse Group Canada Ltd. (1976) 68 DLR (3d) 592 at p.619.
+
+[50] Due to the commendable research of the Court’s Judicial Assistants.
+
+[51] (Case C-45/08), 23 December 2009; [2010] Bus. L.R. 1416.
+
+[52] [2010] Bus. L. R. 1416, Judgment at [36].
+
+[53] MMT at [196].
+
+[54] Section B.3 of this judgment.
+
+[55] MMT at [146], [203] and [208].
+
+[56] MMT at [97].
+
+[57] MMT at [128]-[129].
+
+[58] MMT at [121].
+
+[59] MMT at [171]-[174].
+
+[60] MMT at [218(ii)].
+
+[61] MMT at [218(iii)].
+
+[62] MMT at [219].
+
+[63] MMT at [232]-[234].
+
+[64] MMT at [224].
+
+[65] MMT at [225].
+
+[66] MMT at [241].
+
+[67] MMT at [242].
+
+[68] MMT at [254].
+
+[69] MMT at [255].
+
+[70] See paragraph [37] above.
+
+[71] MMT at [218(ii)].
+
+[72] MMT at [219].
+
+[73] MMT at [286].
+
+[74] MMT at [292].
+
+[75] MMT at [271].
+
+[76] The Tribunal was referring also to Cecilia.
+
+[77] MMT at [266].
+
+[78] MMT at [266].
+
+[79] MMT at [276].
+
+[80] MMT at [255].
+
+[81] MMT at [273].
+
+[82] MMT at [274].
+
+[83] MMT at [276].
+
+[84] MMT at [278].
+
+[85] MMT at [278].
+
+[86] MMT at [279].
+
+[87] MMT at [266].
+
+[88] MMT at [279].
+
+[89] MMT at [274].
+
+[90] R2’s Written Case at [8].
+
+[91] Ibid at [9].
+
+[92] Ibid at [43]-[52].
+
+[93] (1999) 2 HKCFAR 205 at 209H.
+
+[94] Ibid.
+
+[95] (2008) 11 HKCFAR 170 at [45].
+
+[96] It is not, however, necessary in the present appeal to determine whether it is only in cases of compulsion that the defence can be established: cf Henry Tai Hon Leung v Insider Dealing Tribunal, unrep, CACV 333-334/2004, 3 November 2005, at [27]-[28].
+
+[97] CA at [36]-[39].
+
+[98] CA at [40].
+
+[99] CA at [42].
+
+[100] CA at [50].
+
+[101] CA at [46]-[51].
+
+[102] CA at [52]-[60].
+
+[103] CA at [61].
+
+[104] CA at [62].
+
+[105] CA at [64]-[68].
+
+[106] The implicated dealings took place in 2007.  All references (unless otherwise stated) are to provisions of the Securities and Futures Ordinance current at the time.
+
+[107] Para 198 of the MMT report.  Before the Tribunal, the Commission’s case was that insider dealing had taken place on various dates between 1 February 2007 and 6 June 2007.  However the expert witness provided by the Commission in his evidence said that in his opinion the deed of assignment plus the accompanying demand letter was not price sensitive, but the statutory demand combined with the deed of assignment was price sensitive.  At closing, the Presenting Officer for the commission submitted that if the Tribunal accepted this view then only trading that took place after the receipt of the statutory demand could amount to insider dealing.
+
+[108] Section 245(1).  It is also a criminal offence under s 291.
+
+[109] Now, it is called inside information but there is no material difference between the two expression.
+
+[110] For the time being, I concentrate on dealing by way of purchase or sale of shares.  I will later briefly consider some of the other provisions in s 270.
+
+[111] There is a similar defence in the event of a criminal prosecution: Section 292(3).
+
+[112] Unrep, CACV 333/2004 and CACV 334/2004, 3 November 2005.
+
+[113] Rogers VP, Le Pichon and Tang JJA.
+
+[114] Court of Appeal, para 27.
+
+[115] Para 33.
+
+[116] Securities and Futures Commission v Lam King Hung [2010] 2 HKLRD 623, where the official translation of the judgment is reported.
+
+[117] Para 26.
+
+[118] Judgment of Derek Pang J, para 28.
+
+[119] Page 619.
+
+[120] Arnup, MacKinnon and Howland, JJ.A.
+
+[121] Clough J (as he then was) together with Mr Gordon M Macwhinnie, and Mrs Barbara M Wong.
+
+[122] IDT Report of Re International City, 27 March 1986.
+
+[123] One should note, though it is irrelevant to the present discussion, in the current appeal, the purpose must not include any such purpose.
+
+[124] Leading counsel for the Tribunal was Mr Henry Litton QC (as he then was), and one of his juniors was the future Mr Justice McMahon. It does not appear that counsel for the Tribunal took issue with Mr Wright’s submission.
+
+[125] McCowan LJ, Jupp and Potter JJ.
+
+[126] Report, para 276.
+
+[127] Para 11.24 Consultation Document on the Securities and Futures Bill, April 2000.
+
+[128] Report, para 266.
+
+[129] Report, paras 110 to 112.
+
+[130] Report, para 53.
+
+[131] Report, paras 262 & 263.
+
+[132] Report, para 82.
+
+[133] Para 27, 2nd respondents submissions.  In the presenting officer’s closing submissions, when dealing with the defence under section 271 (3) he said at 43, “[S]o far as the other Specified Persons are concerned, it appears to be their case that they would have sold the shares in any event, regardless of the knowledge of the relevant information. They also point out that others, who did not possess the relevant information, were also selling ATML shares during the material period.”  The material period according to the Commission was between Feb and June 2007.
+
+[134] Report, para 123.
+
+[135] Report, para 14.
+
+[136] They had no reason not to, since the price went hyperbolic in May.
+
+[137] 2.8 million shares out of the 2005 option and 1.2 million out of the 2007 option.
+
+[138] The Presenting Officer put it succinctly and submitted that it was her case that she would have sold the shares in any event regardless of the knowledge of the price sensitive information.  Para 43, the Presenting Officer's closing submissions.
+
+[139] That was not in ATML’s control.
+
+[140] The shares were heavily traded. At para 105 of the Report, the Tribunal said the turnover on 21 February (the next trading day after 16 February 07), was 133, 975, 815 shares. The turnover fluctuated. But the turnover on 11 May, was about 150 million, 14 May about 200 million, 22 May about 100 million, 28 May over 150 million, 29 May, about 150 million, 30 May about 50 million. See volume-high-low-close chart of stock between 1 February 07 and 14 December 07.
+
+[141] Joint judgment, para 75.
+
+[142] Joint judgment, para 80.
+
+[143] Considered in Henry Tai Hon Leung, para 111 above.
+
+[144] Considered in International City, para 120 above.
+
+[145] Hong Kong Hansard, 5 Oct 1977 at para 14.
+
+[146] Considered in R v Cross.  Para 124 above.
+
+[147] The Conduct of Company Directors. Cmnd 7037, November 1977.
+
+[148] Koon Wing Yee v Insider Dealing Tribunal (2008) 11 HKCFAR 170, with the concurrence of the other members of the court, in proceedings under SIDO.
+
+[149] Imagine the difficulty of directing a jury on the nicety of the meaning of “using”.
+
+[150] Naturally, I believe this should be a defence under s 292(3) in a criminal prosecution.
+
+[151] And I will not pause to consider how subsequent UK legislation was or might have been influenced by the European Directive.
+
+[152] I think this referred to the Financial Services and Markets Act 2000. I will not go into it.  My point is simply that the legislature never intended to model our law on the European Directives.
+
+[153] Hong Kong Hansard, 25 July 1990, at pages 165-166.
+
+ 

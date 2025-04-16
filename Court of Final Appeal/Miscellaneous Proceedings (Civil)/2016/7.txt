@@ -1,0 +1,100 @@
+FAMV No. 22 of 2016
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 22 OF 2016 (CIVIL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL
+
+FROM CACV NO. 201 OF 2013)
+
+____________________
+
+BETWEEN
+
+ 	PUI KWAN KAY （貝鈞奇）	Plaintiff
+(Applicant)
+ 	and	 
+ 	MING PAO HOLDINGS LIMITED
+（明報集團有限公司）	1st Defendant
+(1st Respondent)
+ 	MING PAO NEWSPAPERS LIMITED
+（明報報業有限公司）	2nd Defendant
+(2nd Respondent)
+ 	CHEUNG KIN BOR
+（張健波）	3rd Defendant
+(3rd Respondent)
+____________________
+
+Appeal Committee : Mr Justice Ribeiro PJ, Mr Justice Tang PJ and Mr Justice Fok PJ
+Date of Hearing and Determination : 18 August 2016
+Date of Reasons for Determination : 23 August 2016
+_________________________________
+
+REASONS FOR DETERMINATION
+
+_________________________________
+
+Mr Justice Fok PJ:
+
+1. We dismissed this application for leave to appeal at the hearing and indicated that we would hand down our reasons on a later date, which we now do.
+
+2. The proposed appeal arises from a claim for defamation that was said to be contained in a newspaper editorial.  The action was tried before a jury which returned verdicts that the editorial was defamatory of the plaintiff in two of his nine pleaded defamatory meanings and that the defences of justification and fair comment were not made out and assessed damages at HK$500,000.
+
+3. The judge[1] proceeded to consider the defendants’ pleaded defence of qualified privilege, also referred to as the Reynolds privilege[2] or the defence of responsible journalism, and determined that this defence was not established.  The Court of Appeal[3] reversed the judge and, concluding that the defence was made out, set aside the judge’s order and dismissed the plaintiff’s claim.
+
+4. The plaintiff (as applicant) sought leave to appeal to the Court of Final Appeal on the basis that the proposed appeal involves questions of law of great general or public importance.  Those questions are:
+
+“1. The proper approach that an appellate court should take in considering a trial judge’s determination on whether the defence of Reynolds privilege is established in a defamation matter. In particular, whether an appellate court should only disturb the interpretations, assessments, evaluations and/or conclusions of a trial judge when he erred in principle or was plainly wrong.
+
+2. Whether there is public interest in the communication of an author’s personal opinions or comments such that they are susceptible to the defence of Reynolds privilege.
+
+3. Whether the trial judge is entitled to interpret or summarise the ‘essence’ of the defamatory meanings as found by the jury when applying the considerations for the defence of Reynolds privilege.
+
+4. In what way is the trial judge bound by a jury’s finding on the ordinary and natural meaning of the defamatory words when applying the considerations for the defence of Reynolds privilege.”
+
+5. It was submitted that Question 1 above is of great general or public importance since there is apparent inconsistency in the English authorities[4] as to the circumstances justifying appellate intervention in this context.  Although this might well be a question of sufficient importance for the grant of leave to appeal in another case, we were satisfied that it is wholly academic in this case because we agree with the Court of Appeal’s conclusion that, whichever test is applied, the judge did err in principle by basing his balancing exercise in relation to the Reynolds privilege on a defamatory meaning going beyond the meanings found by the jury and thus not open to him.  On that basis, the judge was properly reversed and Question 1 therefore does not arise for decision.
+
+6. Question 4 seeks to meet the Court of Appeal’s conclusion that the judge had strayed beyond the meaning found by the jury and therefore erred in principle.  It was submitted that Lord Nicholls’ speech in Bonnick v Morris[5] supports the proposition that it was open to the judge to consider a different defamatory meaning not accepted by the jury when applying the Reynolds privilege.  Therefore the judge was entitled to consider the plaintiff’s third pleaded meaning, or a meaning going beyond the two pleaded meanings accepted by the jury, in the context of the defence.
+
+7. We note that Bonnick v Morris was not concerned with a jury trial and there may be some doubt as to whether its approach would extend to cases where the jury is left to determine the defamatory meaning.  But, in any event, this point was not taken before the judge or in the Court of Appeal and we were not satisfied that, in the circumstances of this case, we should, exceptionally, grant leave for this new argument now to be advanced on final appeal.[6]
+
+8. Question 2 raises a completely new point, seeking to question whether the Reynolds privilege applies to statements of opinion as opposed to imputations of fact.  Like Question 4, it was not raised before the judge or Court of Appeal and, involving as it does possible controversy as to whether the words complained of concerned matters of opinion or merely imputations of fact, we did not think it appropriate to permit this to be raised for the first time in the Court of Final Appeal.
+
+9. We were not satisfied that Question 3 is involved in the proposed appeal.  The question properly asked by the Court of Appeal was whether, in applying the Reynolds privilege, the judge went beyond a meaning found by the jury and adopted an inadmissible meaning.  If the Court of Appeal had concluded that all that the judge was doing was summarising the legitimate meanings as found by the jury, this would not be problematic.  However, in this case, the Court of Appeal did not do so and concluded instead that the judge fell into error as a matter of principle by adopting a meaning contrary to the jury’s finding.
+
+10. The applicant also sought leave to appeal on the “or otherwise” limb of section 22(1)(b)[7] but we were not satisfied that any basis for the grant of leave on this exceptional ground was shown in the present case.
+
+11. For these reasons, we refused leave to appeal and dismissed the application with costs.
+
+ 
+
+ 
+
+(R A V Ribeiro)
+Permanent Judge	(Robert Tang)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+Mr Jason Pow SC, Mr Victor Dawes SC and Mr Thomas Wong, instructed by Lau & Ngan, for the Plaintiff (Applicant)
+
+Mr Wong Yan Lung SC instructed by ONC Lawyers, for the 1st to 3rd Defendants (Respondents)
+
+
+[1] Au J, HCA 854/2010, Judgment dated 6 September 2013.
+
+[2] After Reynolds v Times Newspapers Ltd. [2001] 2 AC 127.
+
+[3] Lam VP, Kwan and Poon JJA, CACV 201/2013, Judgment dated 17 November 2015.
+
+[4] It is argued that, on the one hand, Galloway v Telegraph Group Ltd [2006] EMLR 11 (CA), Prince Radu of Hohenzollern v Houston [2009] EMLR 13 (CA) and Pinard-Byrne v Linton [2016] EMLR 4 (PC) support the view that appellate interference is only permitted where the judge has erred in principle or reached a conclusion which is plainly wrong; whereas, on the other hand, the judgments in Flood v Times Newspapers Ltd [2011] 1 WLR 153 (CA) and [2012] 2 AC 273 (SC) leave open the question of the correct approach by an appellate court.
+
+[5] [2003] 1 AC 300 at [24].
+
+[6] Flywin Co Ltd v Strong & Associates Ltd (2002) 5 HKCFAR 356 at [37]-[39].
+
+[7] Of the Hong Kong Court of Final Appeal Ordinance (Cap.484).
+
+ 
+

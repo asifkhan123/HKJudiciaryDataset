@@ -1,0 +1,643 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV Nos. 6 and 7 of 2022
+
+[2022] HKCFA 24
+
+FACV No 6 of 2022
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 6 OF 2022 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 173 OF 2017)
+
+____________________
+
+BETWEEN	 	 
+ 	CHU KONG	Applicant
+(Respondent)
+ 	and	 
+ 	SUN MIN	1st Defendant (Putative)
+(1 st Appellant)
+ 	YAN DONGHAI	2nd Defendant (Putative)
+ 	CHANG DAFA	3rd Defendant (Putative)
+(2nd Appellant)
+ 	PACIFIC BULK SHIPPING
+(CAYMAN) LIMITED	4th Defendant (Putative)
+(3rd Appellant)
+ 	and	
+ 	SECRETARY FOR JUSTICE	Intervening Party
+____________________
+
+FACV No 7 of 2022
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 7 OF 2022 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 174 OF 2017)
+
+ 
+
+BETWEEN
+
+ 	MR CHU KONG	Plaintiff
+ 	 	(Respondent)
+ 	and	
+ 	SUN MIN	1st Defendant
+ 		(1st Appellant)
+ 	YAN DONGHAI	2nd Defendant
+ 	CHANG DAFA	3rd Defendant
+ 		(2nd Appellant)
+ 	PACIFIC BULK SHIPPING	4th Defendant
+ 	(CAYMAN) LIMITED	(3rd Appellant)
+ 	and	 
+ 	SECRETARY FOR JUSTICE	Intervening Party
+____________________
+
+(HEARD TOGETHER)
+
+Before:	Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ and Lord Neuberger of Abbotsbury NPJ
+Date of Hearing:	31 October 2022
+Date of Judgment:	6 December 2022
+__________________________
+
+JUDGMENT
+
+__________________________
+
+Chief Justice Cheung:
+
+1.  I agree with the judgment of Lord Neuberger of Abbotsbury NPJ.
+
+Mr Justice Ribeiro PJ:
+
+2.  I agree with the judgment of Lord Neuberger of Abbotsbury NPJ.
+
+Mr Justice Fok PJ:
+
+3.  I agree with the judgment of Lord Neuberger of Abbotsbury NPJ.
+
+Mr Justice Lam PJ:
+
+4.  I agree with the judgment of Lord Neuberger of Abbotsbury NPJ.
+
+Lord Neuberger of Abbotsbury NPJ:
+
+A.     Introduction
+
+5.  The basic issue of principle raised on these appeals is whether a person other than the Secretary for Justice (“the SJ”) who wishes to bring proceedings for criminal contempt of court (an “applicant”) must obtain the consent of the SJ before commencing such proceedings. The Court of Appeal (Cheung JA, Yuen JA and Barma JA) reversing the decision of DHCJ Saunders, although agreeing with him on this point, held that such consent is not required[1].
+
+6.  The appellants, Sun Min (“Sun”), Chang Dafa (“Chang”), and Pacific Bulk Shipping (Cayman) Ltd (“PBSC”) (together “the appellants”), contend that the courts below were wrong, and that such consent is required. More particularly, as Mr Yu SC refined his argument orally, the appellants’ contention was this, that an applicant must inform the SJ of the alleged criminal contempt, whereupon the SJ has the following options, namely (i) to decide to bring contempt proceedings himself, or (ii) to decline to do so and either (a) refuse or (b) grant consent to the applicant to start such proceedings; and it is only if option (ii)(b) applies that the applicant can bring contempt proceedings without joining the SJ.
+
+7.  The respondent, Chu Kong (“the respondent”), with the support of the SJ (who was given leave to intervene by Lam PJ on 12th October 2022), argues that the courts below were right, and that, although (as is common ground) an applicant requires the leave of the court to bring criminal contempt proceedings, such proceedings require the consent of no other person.
+
+8.  After setting out the factual background, I will consider the nature of contempt proceedings, and will then address the basic issue on these appeals as a matter of principle. I will then turn to consider whether there are any domestic statutory or regulatory provisions, or any decided cases or other material which bear on the issue, following which I will address the case law and other relevant material in other common law jurisdictions. I will then express my conclusions and answer the four questions which are said to be raised on these appeals.
+
+B.     The factual background
+
+9.  For the purpose of this judgment, it is unnecessary to set out the detailed history leading up to these appeals: it is described in paragraphs 8 to 31 of Barma JA’s judgment. The following is therefore a brief, simplified summary.
+
+10.  The action underlying the instant contempt application[2] (“the underlying action”) arose from a dispute concerned with the control of the motor vessel “Grain Pearl” (“the Vessel”), which was owned by Joint Silver Limited (“JSL”), a company (i) 50% owned by the respondent and two associates, and (ii) 50% ultimately owned by Lau Wing Yan and his associates, Sun and Chang (“Lau and associates”).
+
+11.  The respondent fell out with Lau and associates, and the disagreements between them included a dispute as to what, if anything, had been orally agreed as to how decisions relating to JSL would be made, as to the role of PBSC in managing the Vessel, and as to PBSC’s fee entitlement.  Lau and associates contended that the respondent had wrongly (i) appointed himself sole director of JSL, and (ii) caused JSL (a) to terminate PBSC’s Vessel management role, and (b) to issue a lien notice over certain cargo on board the Vessel.
+
+12.  These disagreements led to the commencement of the underlying action by Lau and associates and PBSC (“the plaintiffs”) against the respondent, and in the course of those proceedings, the plaintiffs applied ex parte for, and obtained, an injunction against the respondent.
+
+13.  In support of their application, the plaintiffs relied, inter alia, on three emails (“the emails”) which were exhibited to Sun’s first affirmation. The emails had been altered by one Yan Donghai (“Yan”) so as to bolster the case of Lau and associates as to PBSC’s role and fee entitlement. The respondent contends that Sun and PBSC were aware of these alterations, whereas Sun, while accepting that the emails were altered by Yan, says that she was unaware of this until January 2016.
+
+14.  After making an unsuccessful application to cross-examine Sun and Yan, the respondent applied on 17th August 2016 for leave to commence contempt proceedings (“the Contempt Proceedings”) against the appellants and Yan, based on the alteration of the emails, and also on allegedly false statements in affirmations by Sun and Yan, and an invoice allegedly fabricated by Chang on behalf of PBSC.
+
+15.  DHCJ Kent Yee granted the respondent leave to bring the Contempt Proceedings on 20th December 2016, and the appellants then applied to set aside the grant of leave. On 5th July 2017, DHCJ Saunders set aside the grant of leave on the ground of material non-disclosure, based on his view that there had been a failure to explain to DHCJ Kent Yee “the context in which the emails were used”. However, DHCJ Saunders also held that it would have been unnecessary for the respondent to obtain the SJ’s consent to the Contempt Proceedings.
+
+16.  On 25th July 2018, the Court of Appeal allowed the respondent’s appeal against DHCJ Saunders’s setting aside of leave, for reasons contained in a judgment given by Barma JA, with which Cheung JA and Yuen JA agreed. The Court of Appeal overruled DHCJ Saunders’s finding of material non-disclosure, but agreed with him that the SJ’s consent to the bringing of the Contempt Proceedings was not needed, although they considered that those proceedings would not be for civil contempt, but for criminal contempt.
+
+17.  After the Court of Appeal had refused them leave to appeal on 31st January 2022, the appellants issued notices of motion applying for leave from this Court on 28th February 2022, contending that the projected appeals would raise four “Questions of great general or public importance”. Those Questions were as follows:
+
+1)    Does the [SJ] have the exclusive right to bring proceedings against an alleged contemnor in respect of criminal contempt?
+
+2)    If the answer to the first question is in the negative, then, if a private litigant seeks to commit another for criminal contempt under Order 52 of the Rules of the High Court (Cap 4A), is he or should he be required (in the absence of exceptional circumstances such as urgency) to consult the [SJ] before he can bring an application for leave to commit under Order 52 rule 2?
+
+3)    If the answer to the second question is in the affirmative, and, assuming the [SJ], having been so consulted, declines to bring proceedings in respect of the said criminal contempt, is the private litigant required to join the [SJ] as party, and/or lay the relevant facts before the Court including any expressed views of the [SJ], when bringing proceedings for criminal contempt under Order 52?
+
+4)    In the event that the answer(s) to any of the above questions is/are in the affirmative, should the leave granted to Mr Chu to commence committal proceedings against the Defendants herein (by Deputy High Court Judge Kent Yee on 20th December 2016) be set aside and these contempt proceedings be dismissed on the basis that they are procedurally defective, and/or that there has been material non-disclosure in respect of Mr Chu’s failure to consult the [SJ] before commencing these proceedings and/or his failure to join the [SJ] to these proceedings.
+
+18.  On 18th July 2022, this Court (Fok PJ, Lam PJ and Tang NPJ) granted the appellants’ applications for leave to appeal on Questions 1 to 4.
+
+19.  Meanwhile, to complete the story, the underlying action came on for trial in April 2021, and, on the seventh day of the hearing, the plaintiffs applied for and obtained leave to discontinue the action.
+
+C.     Civil and criminal contempt of court
+
+Contempt of court
+
+20.  There is no more important aspect of a civilized society than an effective, independent judiciary whose orders are respected and obeyed. The public interest in the law being properly administered by the courts is plain and well-established. In the 1974 House of Lords case of Attorney-General v Times Newspapers Ltd[3],Lord Cross of Chelsea said that “the due administration of justice is something which all citizens, whether on the left or the right or in the centre, should be anxious to safeguard”. And to much the same effect, some two years earlier, Salmon LJ had said in the English Court of Appeal that “[t]he public at large no less than the individual litigant have an interest and a very real interest in justice being effectively administered”[4].
+
+21.  An essential ingredient of “justice being effectively administered” is the ability of a court to entertain applications for contempt of court (“contempt”) and the power to punish those who commit contempts. This power exists to enable judges to maintain the authority of, and public confidence in, the courts, by preventing and punishing abuse or obstruction of the process of the courts. This power represents a very well-established aspect of the court’s inherent jurisdiction, and it was described by Sir Jack Jacob in an article on “The Inherent Jurisdiction of the Court”[5], as part of “the authority of the judiciary to uphold, to protect and to fulfil the judicial function of administering justice according to law in a regular, orderly and effective manner”. However, it is always salutary for judges to bear in mind that, rather than existing “to protect the dignity of the judges”, the function of the contempt jurisdiction is “to prevent or punish conduct which tends to obstruct, prejudice or abuse the administration of justice” – per Lord Ackner in the 1992 case, Attorney-General v Times Newspapers Ltd[6].
+
+22.  The importance of the contempt jurisdiction was described in ringing terms by Wilmot J in R v Almon[7], where he wrote that it was “a necessary incident to every Court of Justice … to fine and imprison for a contempt to the Court”, and such a power was “intrinsic in a superior court; it is its very life-blood, its very essence, its immanent attribute”.[8] As Lord Simon of Glaisdale explained in the 1974 Times Newspapers case[9], there is “public interest in due administration of justice – that is, in the resolution of disputes … by independent adjudication in courts of law according to an objective code”, as the “alternative is anarchy”. Unless court orders are, and are seen to be, enforced, and those who disobey court orders are, and are seen to be, punished, the independent adjudication in courts to which Lord Simon referred will cease to be, or to be regarded as, effective. For this reason, Lord Steyn, speaking for the Privy Council in Ahnee v DPP[10], an appeal from Mauritius, described the court’s “power and [duty] to enforce its orders and to protect the administration of justice against contempts which are calculated to undermine it” as “an integral part of [the court’s] constitutional function”.
+
+23.  In the light of these observations, it is clear that the law on contempt is founded entirely on public policy as was rightly stated by Poon JA giving the judgment of the Court of Appeal in Secretary for Justice v Wong Ho Ming[11], citing Lord Reid in the 1974 Times Newspapers case[12] to the same effect.
+
+The two types of contempt
+
+24.  The authorities also establish that there are two categories of contempt, civil contempt and criminal contempt.
+
+25.  A civil contempt involves the breach of a court order (or of an undertaking to the court), and the sanction for such a contempt is primarily directed towards ensuring that court orders are obeyed (and undertakings to the court are observed). The civil contempt procedure therefore exists ultimately for the benefit of the party in whose favour the order was made or undertaking given. Thus, a civil contempt can therefore, at least normally, be effectively waived by the person for whose benefit the order was made (or undertaking was given) [13]. Further, as Sir Gerard Brennan NPJ explained in Kao, Lee & Yip v Koo Hoi Yan[14],a civil contempt can be committed without the contemnor having the intention of breaching a court order or otherwise interfering with the due administration of justice.
+
+26.  A criminal contempt, by contrast, is one which “so threatens the administration of justice that it requires punishment from the public point of view” - per Arlidge, Eady & Smith on Contempt (“Arlidge”)[15].Accordingly, a criminal contempt engages a much wider public interest, and it cannot be waived by anyone. As the Court of Appeal (Cheung CJHC, Lam V-P, and Macrae JA) said in Secretary for Justice v Cheung Kai Yin (No 2)[16],  a criminal contempt has been accurately described as being “conduct which goes beyond mere non-compliance with a court order or undertaking and involves a serious interference with the administration of justice”[17].And, before a person can be liable for criminal contempt, it must be established that he intended to interfere with or impede the due administration of justice.
+
+27.  The difference between the two types of contempt was described in the recent UK Supreme Court judgment in Attorney General v Crosland[18], which distinguished between “a case involving a breach of an order by a party to litigation where the order has been made at the instance of an opposing party and its purpose is simply to protect the private rights of that other party”, and a case involving breach of an order made “to protect the administration of justice and its breach involves a general interference from which the administration of justice must be safeguarded”.
+
+28.  In practice, the distinction between criminal and civil contempts is rather less clear than may appear from the above discussion. Thus, as Poon JA said in Secretary for Justice v Wong Ho Ming[19], it would be “inappropriate to regard an order for committal in civil contempt as no more than a form of execution. For the court still has a very substantial interest in seeing that its orders are upheld”. And it appears that, even where a civil contempt is “waived” by the party with the benefit of the order or undertaking, the court still has jurisdiction to take action of its own motion in respect of the contempt in exceptional circumstances[20].
+
+29.  As Arlidge rightly records[21], “the two types of contempt … overlap to a considerable degree”, a view supported by the Court of Appeal in Cheung Kai Yin (No 2)[22]. Indeed, the distinction between the civil contempt and criminal contempt has been seen by a number of judges as being unsatisfactory. Thus, in the 1988 case of Attorney-General v Newspaper Publishing Plc, Lloyd LJ said that the distinction led to differences which represented “the sort of nonsense which does no credit to the law”[23], and Sir John Donaldson MR suggested that the distinction “now tends to mislead”[24]. And in the 1992 Times Newspapers case[25], Lord Oliver of Aylmerton mentioned that the distinction had been “variously described as ‘unhelpful’ or ‘largely meaningless’”. Further, as pointed out by Hayne J in Re Colina ex p Torney[26]¸ “four members of the [Australian High] court [in Witham v Holloway[27]] concluded that the distinction between civil and criminal contempt was based upon differences that are ‘in significant respects, illusory’”.It is also worth mentioning that the Phillimore Committee[28] doubted the value of the distinctions between the two types of contempt and recommended the abolition of those distinctions. However, the distinction is well-established, and it has (understandably) not been challenged on these appeals.
+
+Criminal contempt proceedings
+
+30.  Although criminal contempt constitutes a common law misdemeanour, it does not fall within the scope of the ordinary criminal law. The point was fully considered by the Court of Appeal in Secretary for Justice v Cheung Kai Yin (“Cheung Kai Yin (No 1)”)[29].Relying on a number of Hong Kong, UK, and Australian cases, Lam V-P (as he then was) concluded that:
+
+“Notwithstanding that the proceedings are ‘prosecutions’ for criminal contempt, we have come to the conclusion that these appeals are properly characterised as civil appeals. In other words it is correct to have the appeals intituled as CACVs and they are civil causes or matters”[30]
+
+As he went on to say:
+
+“[T]he jurisdiction of the court to punish contempt is sui generis and in many respects principles applicable to criminal cases are applicable to contempt proceedings (both proceedings for civil as well as criminal contempt)”[31]
+
+31.  The fact that criminal contempt proceedings are civil in nature is also illustrated by the following observation of the Court of Appeal in Cheung Kai Yin (No 2)[32]:
+
+“Criminal contempt proceedings brought under Order 52 are the means for the court to ensure that conduct or activities calculated to undermine the administration of justice are properly addressed. In terms of the time limit for commencement of proceedings, these considerations are not present in a criminal prosecution of an offence under s.23 of the SOO or other offences in the Magistrates’ Courts”
+
+The Court of Appeal went on to say[33] that they did not accept, “for the same reasons, that the sentencing court on a committal for contempt is confined or constrained by the sentence which would be appropriate to the statutory offence”.
+
+32.  Among a number of authorities which Lam V-P cited in Cheung Kai Yin (No 1) in support of his conclusion was a decision of the High Court of Australia in a 2015 case[34], in which French CJ, Kiefel, Bell, Gageler and Keane JJ said this:
+
+“In Witham v Holloway[35], the plurality expressly noted that the process whereby a contempt proceeding is resolved is a civil ‘hearing’ not a criminal ‘trial’. McHugh J also expressed the view that proceedings for contempt of court to punish a respondent are ‘civil and not criminal proceedings’.”
+
+Equally clearly, in a concurring judgment, Nettle J expressed himself as follows[36]:
+
+“A proceeding for punishment for contempt constituted by disobedience of an injunction granted in a civil proceeding is not part of the criminal justice system in the [normal sense]. Although ‘all proceedings for contempt “must [now] realistically be seen as criminal in nature”’, not all contempts are criminal. Failure to obey an injunction is not a criminal offence unless the failure to comply is defiant or contumacious. A proceeding for contempt is not a proceeding for criminal contempt if the proceeding appears clearly to be remedial or coercive in nature as opposed to punitive. A criminal contempt is a common law offence, albeit not part of the ordinary common law. But even a proceeding for criminal contempt is not a criminal proceeding”
+
+33.  The fact that criminal contempt proceedings are not criminal proceedings is underlined by the very well-established fact that a criminal contemnor is liable to be dealt with both in criminal proceedings for the crime involved in the criminal contempt, as well as in civil proceedings for the contempt involved in the criminal contempt. This leads to potential tensions in a case where there are two sets of proceedings, and two English Court of Appeal judgments on the topic are usefully discussed in Cheung Kai Yin (No 2)[37]. However, the essential point for present purposes is that criminal contempt proceedings cannot be criminal proceedings, as otherwise it would be impossible to justify both criminal proceedings in the criminal courts and criminal contempt proceedings in the civil courts being conducted against the same party in respect of the same action or conduct.
+
+34.  Thus, the only appropriate way to bring an alleged contempt before the court is through civil proceedings. Prosecuting contempts by way of indictment has become obsolete, as Hartmann and Suffiad JJ explained in Secretary for Justice v Choy Bing Wing[38]. The same is true in England: as Lord Judge LCJ explained in Attorney General v Dallas[39]:
+
+“It should now be clearly understood that trials for contempt of court on indictment are obsolete, and of historical interest only. Neither the Attorney General, nor the alleged contemnor, has any right to seek trial by jury on indictment”
+
+35.  It therefore seems clear that criminal contempt proceedings, while sui generis, are ultimately civil in nature, and therefore, as Arlidge points out[40], the initiation of contempt proceedings should not be described as a “prosecution”. However, a party bringing an alleged contempt before the court is often referred to as a “prosecutor” (and it is right to bear in mind that civil proceedings can be correctly described as being “prosecuted”). Whatever descriptive noun or adjective one adopts to describe criminal contempt proceedings, the basic function of a party bringing such proceedings is to draw the attention of the court to the facts and matters which are said to give rise to the contempt, leaving it to the court to decide whether there was a criminal contempt, and, if so, what is the appropriate sanction.
+
+36.  Thus, in the 1974 Times Newspapers case, Lord Cross said that the role of the Attorney General (“the AG”) in English contempt applications was similar to that of an “amicus curiae” who brings “to the notice of the court some matter of which he considers that the court shall be informed in the interests of the administration of justice”[41]. It is right to mention that Lord Diplock (with whom Lord Morris agreed) put it slightly differently when he described the AG’s role[42] as “[acting] on behalf of the Crown as ‘the fountain of justice’ and not in the exercise of its executive functions”, adding that this involved “the exercise of his personal judgment” as to whether “the conduct … falls into the category of contempts which the court would regard as deserving of some punishment”.
+
+37.  While it is open (and indeed normal) for criminal contempt proceedings to be initiated by a prosecutor, commonly an individual interested in the proceedings or the responsible member of the executive (in Hong Kong the SJ, in England the AG), it is very well established that the court can punish a person for criminal contempt of its own motion – see for instance per Rigby LJ in Seaward v Paterson[43],  per Lord Denning MR in Balogh v St Albans Crown Court[44] (a most unusual case), and per Mustill LJ in R v Griffin[45]. The most obvious examples of such cases would be contempts in the face of the court or actions such as impeding or attacking officers of the court.
+
+38.  Having considered the background, it is now appropriate to address the central issue in this case, namely whether criminal contempt proceedings can only be brought by, or with the consent of, the SJ, or whether they can be brought simply with the leave from the court. It seems appropriate to consider this question as a matter of principle, and then to turn to the case law and other relevant material in this and other common law jurisdictions.
+
+D.     The central issue as a matter of principle
+
+39.  Given that the contempt jurisdiction (i) goes to the heart of the court’s function and role, (ii) is an aspect of the court’s inherent jurisdiction, and (iii) has been authoritatively described as “constitutional” in nature, it would be surprising if any entity other than the court itself was able to fetter the ability of any person to bring an alleged contempt, whether civil or criminal, to the attention of the court.
+
+40.  The SJ obviously has a vital and fundamental role in supporting the rule of law, and therefore in supporting the role and authority of the courts. However, it seems highly questionable whether he, as a member of the executive, should have a power which enables him to prevent the court from hearing a criminal contempt application, and therefore from upholding its own authority. The notion that the SJ could stop a criminal contempt being brought before the court thus seems wrong in principle.
+
+41.  Even more surprising is the notion, which was advanced as part of the appellants’ case, that the SJ can prevent a court from initiating and prosecuting criminal contempt proceedings of its own motion, even when the court considers it right to do so. That is, to put it politely, a very ambitious submission, which runs wholly counter to the important constitutional principle of separation of functions. Even if this extreme aspect of the appellants’ case is ignored, however, it still seems inappropriate that the SJ should be able to prevent an applicant from drawing the court’s attention to an alleged criminal contempt, as I have just explained.
+
+42.  This view is in no way undermined by the fact that the SJ can initiate or take over the conduct of criminal contempt proceedings, and that he may play an important part in connection with some contempt applications – e.g. by intervening in any criminal contempt proceedings, or as a result of the court referring to him matters arising in connection with criminal contempt proceedings. In bringing criminal contempt proceedings the SJ is acting like any other citizen – although, obviously, with greater authority, and taking over criminal proceedings is an ancillary aspect of that function. And in playing a part in contempt proceedings brought by another, the SJ is assisting the court (as on these appeals), but that in no way supports the notion that he should be able to prevent an alleged contempt being put before the court.
+
+43.  It is fair to say that there is some initial attraction in the notion of the SJ being able to weed out misconceived or vengeful contempt applications before the court is troubled by them. However, the court, which will often have had the conduct of the underlying action, and which would be determining the alleged contempt if the application succeeds, would normally be in at least as good a position as the SJ to decide whether to let an application proceed, and the court indeed has that role as its leave is needed to bring contempt proceedings. And, as already mentioned, if the court considers that it would benefit from the assistance of the SJ (including at the leave stage), it can request it.
+
+44.  The notion that criminal contempt applications require the consent of the SJ also appears to sit a little oddly with the fact that the Court can initiate criminal contempt proceedings of its own motion. Judges generally have no power to initiate civil, or indeed criminal, proceedings themselves, and the reason why they have this unusual power when it comes to criminal contempt is because of the nature and purpose of the contempt jurisdiction as discussed above. This point reinforces the notion that the only gatekeeper controlling access to the court to a party seeking to bring criminal contempt proceedings should be the court itself.
+
+45.  Further, the fact that (unless of course there are constitutional or legislative rules which provide otherwise) civil contempt proceedings can freely be brought to court without the consent of the SJ or any other third party also supports the proposition that the same should be true for criminal contempt proceedings. Given that the contempt jurisdiction is based on the court’s duty to protect its own efficacy and authority, it would be strange if the court was free of any third party’s constraint to entertain civil contempt proceedings, but was more restricted when it came to entertaining the more serious criminal contempt proceedings. It would perhaps be more understandable if criminal contempt proceedings were truly criminal in nature, as the SJ has a central role when it comes to bringing criminal proceedings, but as explained, criminal contempt proceedings are ultimately civil in nature. 
+
+46.  The appellants justify a restriction on criminal, as opposed to civil, contempt proceedings on the ground that civil contempt proceedings are (at least normally) intended to be for the benefit the prosecutor, who should therefore be free to issue civil contempt proceedings, whereas the criminal contempt jurisdiction exists for the public benefit, and so it is appropriate that a prosecutor needs the consent of the SJ. However, that argument suffers from the problem that the bringing of criminal contempt proceedings does need consent in the form of leave from the court. (The fact that civil contempt proceedings may also need such leave does not undermine the force of the point). Quite apart from this, the somewhat unsatisfactory nature of the distinction between civil and criminal contempts discussed above[46] would render it difficult in some cases to decide whether the SJ’s consent was needed, and could lead to arid arguments.
+
+47.  In addition to these points, the fact that it is very well established that all members of the public have an interest in the proper administration of justice tends to support the contention that there should be no fetter imposable by any entity other than the court itself on a member of the public seeking to bring criminal contempt proceedings. Seeking the leave of the court can involve no or little loss of time or extra effort, as an application for leave can no doubt be made “ex parte on notice”, so that, if the court gives permission, it can give directions immediately thereafter. If consent has to be sought from the SJ by contrast, it would involve extra delay and expense.
+
+48.  Further, given that contempt proceedings require the leave of the court, it would seem somewhat surprising if the consent of a third party was also required. It is not easy to see why there should be two gatekeepers as a matter of course in relation to every potential criminal contempt proceedings. In an appropriate case, the SJ could make representations at the leave stage, and, if he did not do so, then, as already mentioned, the court, if it thought fit to do so, could no doubt consult the SJ, or ask if he had any submission to make.
+
+49.  Quite apart from these points, as well as being inappropriate from the perspective of the court and an applicant, it would represent an unnecessary burden on the SJ if he had to vet every proposed contempt application. In that connection, it is relevant to invoke what, when considering the role of the SJ in charity proceedings, Lam V-P (as he then was) referred to as “[t]he stark reality” that “under our present system, those in the Department of Justice have no resource or power to carry out an investigation” [47]. Indeed, what was effectively that very point was made in relation to the issue on these appeals by Mr Dawes SC on behalf of the SJ.
+
+50.  As the arguments developed, the appellants put forward as their “core proposition”, the point that “there is an inherent conflict between the conduct of criminal contempt proceedings which are public law proceedings concerned solely with the administration of justice and public interest, and the notion that a private party with his own agenda and motive can bring such proceedings”.  The answer is that there is no such conflict as a private party can only bring criminal contempt proceedings with the leave of the court, and all judges are well aware of the need to scrutinise applications to bring such proceedings by a litigant who may want to put pressure on an alleged contemnor for his own commercial benefit or to get revenge on the alleged contemnor[48]. The appellants contend that this is a weaker protection than would be accorded to the accused in a criminal court. Even if that is right, it is well established that many of the protections accorded in criminal cases are not available in contempt proceedings[49]. However, an alleged contemnor is not without substantial protection: as Mr Mok SC submitted, on behalf of the respondent, quite apart from being able to contest criminal contempt proceedings, and to rely on the criminal burden of proof[50], an alleged contemnor can apply to have an ex parte grant of leave set aside if there was abuse[51], and at any stage, the court may of its own motion, or at the instigation of a party, seek assistance from the SJ. 
+
+51.  Analogies are always dangerous, and that must be particularly true in relation to criminal contempt proceedings which have been consistently described as sui generis[52]. However, it is not uninstructive to consider privately brought criminal proceedings. The appellants’ submission that the consent of the SJ is required before a private person can bring criminal contempt proceedings is hard to reconcile with the fact that a private person is free to bring a private prosecution, a proposition recently confirmed in clear terms by Poon CJHC giving the judgment of the Court of Appeal in Kwok Tak Ying v HKSAR[53]. Whether a criminal prosecution may be proceeded with is a matter ultimately for the SJ (pursuant to Article 63 of the Basic Law, as referred to below), whereas whether criminal contempt applications can be brought is ultimately a matter for the court.
+
+52.  An analogy which seems to me to be misleading for present purposes is that of a relator action, which was pressed by Mr Yu SC. He relied on the reasoning of the House of Lords in Gouriet v Union of Post Office Workers[54], where it was held that in England and Wales only the AG could bring proceedings to restrain the commission of an offence (unless the action or inaction complained of also represented a breach of a private party’s rights). A relator action is an action on behalf of the public, and the law clothes the AG with the authority to decide whether to bring, and actually to bring, proceedings on behalf of the public, whereas a private citizen, however well intentioned, can have no such authority. By contrast, all that a private citizen is doing by initiating criminal contempt proceedings is drawing an alleged contempt to the attention of the court, whereupon it is for the court to decide whether to allow him to proceed, and, if it does allow him to do so, to decide how matters should proceed. In any event, if the logic of Gouriet applies in relation to criminal contempts, it would mean that a party to the underlying action could not bring contempt proceedings, and that is plainly not the law.
+
+53.  The appellants also contended that, if criminal contempt proceedings could be brought without the consent of the SJ, then the system would be open to abuse. To the extent that that is right, it is equally true of civil contempt proceedings, and indeed any other proceedings. More importantly, if a filter is required to consider whether contempt applications should be allowed to proceed, it is more appropriate that it is the court itself rather than the SJ, which applies the filter. As already explained, (i) contempt is very much a matter for the court and not for the executive, (ii) in many cases, the court will have a much better idea of the background, as there will almost always be an underlying action, and (iii) all citizens have an interest in courts and court orders being respected, and there should be as few as possible barriers in the way of bringing alleged contempts to the attention of the court.
+
+54.  Accordingly, it appears to me that, if these appeals are to succeed, the appellants would have either (i) to identify a legislative provision which imposes a requirement that an individual seeking to bring criminal contempt proceedings must first obtain the consent of the SJ, or else (ii) to establish that the case law has developed in such a way as to demonstrate that the courts themselves have recognised that such a requirement should be recognised or imposed.
+
+55.  It is right to say that the point made in paragraph 54 above would be appropriate even in the absence of the discussion in the preceding fifteen paragraphs, on the basis that, once it is accepted that any person can bring criminal contempt proceedings with the leave of the court, it is for the party asserting that there is a further fetter on the bringing of such proceedings to show that such a fetter exists. However, the preceding discussion underscores the force of that point in this particular case, and suggests that any alleged statutory or judicial fetter should be considered with particular scrutiny.
+
+56.  Accordingly, I turn first to consider whether there is any domestic legislative provision or case law which mandates or indicates that the SJ’s consent is required before a private person can initiate criminal contempt proceedings.
+
+E.     Domestic constitutional, legislative, and other material
+
+Rules of the High Court
+
+57.  As one would expect, the procedure to be adopted on contempt applications is dealt with in The Rules of the High Court (Cap 4A) (“The Rules”). Many of The Rules which apply to applications generally apply to contempt applications, but it has not been suggested that there is anything in those generally applicable rules which assist for present purposes.
+
+58.  However, and again as one would expect, The Rules include an Order, namely Order 52 (“O.52”), which deals specifically with applications for committal for contempt. It is headed “Committal”, and is based very closely on the English Order 52 of the Rules of the Supreme Court (“RSC Order 52”).
+
+59.  O.52 rule 1 provides that “a single Judge or … a single justice of appeal” has the power “to punish for contempt of court … by an order of committal”.  O.52 rule 2(1) states that “[n]o application for an order of committal” can be made “unless leave to make such an application has been granted in accordance with this rule”. Rule 2 goes on to provide that such an application should initially be “made ex parte to a judge”, and should comply with certain other formalities, and that the judge may dispose of the application without a hearing. O.52 rule 3 deals with the procedure to be adopted by the applicant after an application is granted under rule 2, and O.52 rule 6 is concerned with the hearing of the contempt application. There is no rule 4, but O.52 rule 5 makes it clear that nothing in O.52 affects the court’s power “to make an order of committal of its own motion”.
+
+60.  It is to be noted that, in the light of its title and the provisions of rules 1 and 2, O.52 appears to be limited to contempt applications seeking committal. However, O.52 rule 9 provides:
+
+“Nothing in the foregoing provisions of this Order shall be taken as affecting the power of the Court to make an order requiring a person guilty of contempt of court … to pay a fine or to give security for his good behaviour, and those provisions, so far as applicable, and with the necessary modifications, shall apply in relation to an application for such an order as they apply in relation to an application for an order of committal.”
+
+Accordingly, it seems clear that, if a fine or some form of security, rather than committal, is the sanction sought in a contempt application, the court’s leave would still be required under O.52 rule 2. And if sequestration is the sanction sought, then the court’s leave would be required under Order 45 rule 5(i)(b)(i) and (ii) of The Rules.
+
+61.  It is also to be noted that O.52 applies to civil as well as criminal contempt applications, as Hartmann and Suffiad JJ observed in Choy Bing Wing[55]. Committal is almost always sought in criminal contempt applications, and, where it is not sought, the application would presumably seek a fine, security or sequestration, and therefore would require the court’s leave. Accordingly, it seems clear that the respondent’s contention (not challenged by the appellants) that criminal contempt applications would always need leave from the court before being commenced, is well founded.
+
+62.  Committal is often, and in my experience usually, sought in civil contempt applications, although, as recorded in Arlidge[56], while “[i]mprisonment has always been a sanction in cases of contempt”, it is regarded by the courts today “as a matter of last resort, especially in cases of civil contempt”.  In civil contempt applications where committal is not sought, one would expect some other sanction, such as a fine, security or sequestration to be sought, in which case, as just explained, the court’s leave would be required. However, given the purpose of civil contempt proceedings, it is possible to envisage the making of an application which sought a different remedy, at least initially – e.g. simply requiring the alleged contemnor to appear before the court. Thus, while the leave requirement under O.52 will apply to the great majority of civil contempt applications, it may be that it would not necessarily apply to them all.
+
+63.  The way in which O.52 is drafted has avoided parties or the court having to delve into the sometimes difficult question whether the alleged contempt is civil or criminal. Rather, the sole question is whether the application seeks the imprisonment, the imposition of a fine, the provision of security or sequestration: if it does, then whether the alleged contempt is criminal or civil, the court’s leave must be obtained. If it does not, then it would seem that leave would not be needed, unless it was required under another rule of court, or another legislative provision.
+
+64.  Clearly, there is not even a hint or suggestion in O.52 that an applicant seeking to commit someone for contempt needs to apply to the SJ, or indeed that the SJ has any gatekeeping function in respect of contempt applications. And, particularly given that O.52 expressly provides for the obtaining of leave from the court, it is a reasonable inference that, unless there is any other legally enforceable rule which clearly so provides, there is no requirement for the consent of the SJ before any contempt proceedings, whether criminal or civil, are commenced.
+
+65.  The appellants also drew attention to Order 41A rule 9 of The Rules (“O.41A rule 9”), paragraph (1) of which permits proceedings for contempt against a person who makes or causes to be made “a false statement in a document verified by a statement of truth without an honest belief in its truth”. Paragraph (2) of O.41A rule 9 provides that:
+
+“(2) Proceedings under this rule may be brought only –
+
+(a) by the Secretary for Justice or a person aggrieved by the false statement; and
+
+(b) with the leave of the Court.”
+
+66.  It is common ground that O.41A rule 9 does not apply in this case, and I do not see how it helps the appellants. Indeed, I consider that, if anything, it is actually unhelpful to their case. O.41A rule 9 is a provision which deals with contempt applications, and which not only specifically requires in sub-paragraph (b) an applicant to obtain leave of the court while saying nothing about the SJ’s consent, but it also has the SJ well in mind as shown by sub-paragraph (a).
+
+Constitutional provisions
+
+67.  Casting their sights more widely, the appellants relied on Article 63 in Section 2 of Chapter IV of the Basic Law (“Article 63”) which states that “[t]he Department of Justice … shall control criminal prosecutions, free from any interference”. Although the appellants are right in arguing that the cases show[57] that this important provision should be given a purposive, rather than a narrow, effect, it seems to me clear that the Court of Appeal was right to reject their contention that Article 63 extends to applications for criminal contempt. The constitutional basis of the criminal contempt jurisdiction as explained above (protecting the efficacy and authority of the court) is different from that of the criminal jurisdiction, as is perhaps most graphically illustrated by the court’s undoubted power to initiate and prosecute contempt proceedings of its own motion, but is also clear from the differences in procedure between criminal contempt proceedings and criminal proceedings in the criminal courts.
+
+68.  It was the appellants’ reliance on Article 63 which led Mr Yu SC to argue, as he logically had to, that the SJ could prevent the court from considering an alleged contempt, whether of its own motion or otherwise, even if the court was of the view that it should do so. I mentioned earlier that any legislative or other provision which was said to cut down the court’s freedom to consider any alleged contempt should be considered with “particular scrutiny”[58]. I would go further in relation to this particular argument: very clear and unambiguous words would be required before it would be appropriate to conclude that a legislative provision, or even a provision in the Basic Law, had the effect of enabling the SJ to prevent the court from considering an alleged contempt which the court wished to consider. The wording of Article 63 falls a very long way short of satisfying that requirement. To put the point the other way round, as observed by Lam V-P in Cheung Kai Yin (No 1)[59], the reason that the requirement for leave of the court in O.52 is not incompatible with the Basic Law is that Article 63 does not apply to the proceedings covered by O.52.
+
+69.  As was pointed out on behalf of the SJ, this conclusion is supported by the fact that the Basic Law, as explained by Ribeiro PJ[60], “aims to provide for continuity between the pre-existing and the present courts and judicial systems”. And the role of the AG, the SJ’s effective predecessor before the Basic Law, was discussed in paras 3 and 4 of Appendix 1 to an authoritative 1987 Final Report[61] which led to the drafting of some provisions of the Basic Law, including Article 63. In paragraph 3, the Report referred to the “overall authority for the initiation of criminal proceedings” being vested in the AG, and the fact that “[h]is specific consent is required under a number of statutes”.  After summarising his role in relator actions, paragraph 4 stated (reflecting the views expressed in the House of Lords in the 1974 Times Newspapers case[62]):
+
+“The [AG] also has a more general public interest role as amicus curiae, the most important example of which is the bringing of alleged contempts to the notice of the courts”
+
+The reference to “criminal proceedings” in paragraph 3 of the 1987 Final Report was thus clearly not envisaged as extending to criminal contempt proceedings, and it is significant “criminal proceedings” is the relevant expression in Article 63.
+
+70.  Of course, some changes would have had to be made as a result of the introduction of the Basic Law, but there appears to be no conceivable reason why it would have been thought to be appropriate to transfer control over criminal contempt proceedings to the Department of Justice, and there is no trace of any suggestion that such a transfer was contemplated, let alone intended.
+
+71.  It is right to mention that, in relation to this argument, the appellants placed some reliance on the drafting history of the Basic Law. I mean no disrespect to them by not addressing the argument other than to say that there is nothing in that history which casts doubt on the views expressed in the preceding four paragraphs. Accordingly, I conclude that Article 63 does not apply to criminal contempt proceedings.
+
+Legislative provisions
+
+72.  The appellants also sought to draw some support for their argument from section 3(3) of the Judicial Proceedings (Regulation of Reports) Ordinance (Cap 287) (“JPRRO”). Subject to certain specified exceptions, section 3(1)(b) of JPRRO forbids the publication of information “in relation to any judicial proceedings for dissolution of marriage, for nullity of marriage or for judicial separation”, and section 3(2) states that anyone who “contravenes the provisions of [section 3(1)] shall be guilty of an offence”. Section 3(3) provides:
+
+“A prosecution under this section shall not be instituted except by or with the consent of the Secretary for Justice”
+
+73.  The appellants argue that a breach of section 3(1) of the JPRRO is a species of contempt, and that section 3(3) shows that contempt applications need the consent of the SJ. I disagree. A breach of section 3(1) of the JPRRO is a breach of an Ordinance, which is rendered a crime by section 3(2), and it is not a contempt of court – unless, of course, the publication concerned also breaches a court order. However, in agreement with the respondent’s argument, I would go further and say that section 3(3) is actually unhelpful to the appellants’ case, as it shows that, where the SJ’s consent is required, it is actually spelled out in the relevant legislation; in other words, the contrast between section 3(3) of JPRRO and O.52, so far as the need for the consent of SJ is concerned, reinforces the notion that such consent is not needed for an application to which O.52 applies.
+
+Case law and other domestic material
+
+74.  So far as other relevant domestic material is concerned, it is noteworthy that in this case the Court of Appeal considered that there was no domestic case which assisted the appellants’ argument, and that, treating the issues as one of principle, they held that[63]:
+
+“[T]here [is] no good or compelling reason why it should not be open to a litigant in civil proceedings in which the opposing party has committed a criminal contempt … to pursue the matter by way of criminal contempt proceedings. … The existing procedure under [O.52], with a requirement that leave be obtained, provides a suitable and time-tested process for the vetting of intended claims for contempt, such that obviously unsustainable or abusive proceedings will be weeded out at an early stage.”
+
+75.  The appellants point out that in Choy Bing Wing,Hartmann and Suffiad JJ said[64] that a “criminal contempt is a matter for the [SJ] to raise, acting as the guardian of the public interest”. But this statement is not expressed in exclusive terms; and it cannot have been so meant, as it would exclude applications for criminal contempt being made by any party other than the SJ, and, as the appellants rightly accept, private parties can bring contempt proceedings: the question at issue is whether they need the SJ’s consent. Indeed, a little later in the same judgment[65] the court said that “an applicant (be it an aggrieved litigant or the [SJ]) may seek committal for contempt … whether the contempt is … civil or criminal”.  Although that statement could just about be said to be neutral on the question at issue, it seems to me that it implies that no consent from the SJ is needed, as “an aggrieved litigant” and the SJ are referred to as if they are in the same position, and anyway if the SJ’s consent was required, one would have expected the judgment to have said so.
+
+76.  So far as other domestic material is concerned, in its 1986 Report on Contempt of Court, the Hong Kong Law Reform Commission stated[66] that “in general, contempt proceedings … may be instituted by a private individual”. When one reads those words together with the recommendation[67] that “it should be a requirement before proceedings alleging a contempt other than one arising out of a breach of an order of the court are begun, that notice of the intention to proceed be given to the [AG]”, it is  clear that the members of the Commission (who included the then-Chief Justice and the then-AG) considered, indeed took it for granted, that the consent of the AG to the bringing of criminal contempt proceedings was not required. And, as explained above[68], the Basic Law was intended generally to continue the previous law.
+
+F.     Case Law and other material from other jurisdictions
+
+77.  All three parties cited a number of judicial observations in cases decided in England, Scotland, Australia, Ireland, Uganda, and Singapore to support their respective positions on the central issue on these appeals, and they have also cited other material. In a case such as this where a specific point of practice is raised, care must be taken before one gives weight to a statement in a judgment which appears to deal with the point, but which was given in a case where the point was not in fact in issue, and may well not have been the subject of much, if any, argument or citation of authority. In some cases, the statement may be intended to be no more than a very short summary of the relevant law, with irrelevant over-simplification, and in other cases the statement may simply be wrong. Of course, it is very different in a case where the point was fully argued, or it was in issue, or where the statement is consistent with statements in other judgments.
+
+78.  Turning to the English cases, the question whether criminal contempt proceedings could only be brought by the AG was considered by the Law Lords in the 1974 Times Newspapers case[69]. Although the appellants suggested that some of the speeches indicated the criminal contempt proceedings could not be brought freely by a private party, it seems to me that all five members of the panel accepted that this was the case.
+
+79.  After saying that the AG “has a right to bring before the court any matter which he thinks may amount to a contempt”, Lord Reid said that the “party aggrieved has the right to bring before the court any matter which he alleges amounts to a contempt but he has no duty to do so”[70]. While he thought that “[i]n the situation which presented itself … it was in accordance with desirable practice for the [AG] to be concerned and to consider what course in the public interest he should follow”, and whether to bring contempt proceedings, Lord Morris of Borth-y-Gest added “though it would have been open to [a party in the underlying action on whom pressure was being put by the alleged contemnor] to initiate proceedings had they so decided”[71]. Lord Diplock considered that the AG was “the appropriate public officer to represent the public interest in the administration of justice”[72], he said in terms that if the AG “declines to move, the party complaining can bring the motion on his own behalf”, and, in the immediately preceding paragraph he referred to the court being “vigilant to see that the procedure for committal is not lightly invoked” partly because “it is a procedure which if instituted by one of the parties to litigation is open to abuse”[73]. Lord Simon did not expressly address the point, but he began his speech by saying that he “admiringly agree[d]” with Lord Diplock[74]. Lord Cross said[75] that, save in exceptional cases (such as those involving urgency) it was “most desirable” that a private party should first give the AG the opportunity of applying, thereby strongly implying that a private party could proceed without first doing so.
+
+80.  It is fair to say that all these observations were obiter, but they are five consistent views from the United Kingdom’s highest court, and they all support the contention that, in England, the consent of the AG need not be sought by a private person before issuing criminal contempt proceedings.
+
+81.  The appellants point out that in an unreported Court of Appeal case in 2000, Pelling v Hammond[76] Laws LJ (sitting on his own) said that it was “certainly desirable and perhaps necessary for the [AG] to be approached to see whether he should bring contempt proceedings”. Given the word “perhaps”, the observation can be of no assistance to the appellants. But, quite apart from this, the observation was made in the context of an application for permission to appeal which Laws LJ dismissed as being “totally without merit”. Accordingly, this is a classic case of an obiter observation which, despite the eminence of the judicial source, cannot be given any weight, because the point was not in issue and apparently not argued, and the judge was not referred to any relevant authority.
+
+82.  Of much more relevance is the 2009 case of KJM Superbikes Ltd v Hinton[77], in which the Court of Appeal reversed the refusal of the trial judge to grant leave to the claimant to issue criminal contempt proceedings[78] against the defendant under CPR 32.14 (the English equivalent of O.41A rule 9), on the ground that the defendant had provided a dishonest witness statement.  Having held that the claimant had locus to bring the proceedings, Moore-Bick LJ (with whom Mummery and Arden LJJ agreed) went on to address a submission very close indeed to that raised by the appellants in this case, namely[79]:
+
+“[the] submission that the court should generally decline to give permission to a private litigant to pursue proceedings for contempt in cases of this kind and should instead direct that the matter be referred to the [AG] for her to consider whether proceedings should be instituted. Such a course was said to be more likely to promote consistency of approach and thus greater confidence in the administration of justice.”
+
+While accepting that consistency of approach was “highly desirable” Moore-Bick LJ said[80]:
+
+“I do not think that to refer all cases of this kind to the [AG] is the only way in which it can be achieved. Cases are bound to differ widely, … and whether the matter is determined by the [AG] or the court, each will have to be considered on its own facts. In practice complete consistency is unlikely to be unattainable, but it is possible for the courts through individual decisions to establish and develop a body of principles which will provide guidance to judges who have to deal with applications of this kind and which will by their nature promote the necessary degree of consistency. …The court is free to take whichever course appears most appropriate in the circumstances and I can see no good reason for saying that the most appropriate course is normally to direct that the matter be referred to the [AG].”
+
+83.  The appellants point out that CPR 32.14 is a separate code from the normal English contempt rules (originally RSC Order 52 and now CPR rule 81). I do not accept that as a relevant distinction for present purposes; CPR 32.14, like O.43A rule 9, refers to “[p]roceedings for contempt of court”, and therefore the usual principles applicable to contempt applications apply, and in any event Moore-Bick LJ’s judgment plainly proceeded on that basis.
+
+84.  As to the English rules of court, since October 2020, RSC Order 52 – on which O.52 is based, as mentioned above – has been replaced by CPR Part 81, which permits civil contempt proceedings to be brought as of right, while criminal contempt proceedings require the permission of the court.[81] Like RSC Order 52, CPR Part 81 contains no suggestion that criminal contempt proceedings brought by a private person require the consent of the AG.
+
+85.  The Phillimore Report[82] stated that “[i]n general, contempt proceedings, like most other proceedings, civil or criminal, may be instituted by a private individual”. When read together the recommendation that “the normal practice should be … that the attention of the [AG] should be drawn to the matter before any private proceedings are begun”[83], it seems clear that the Committee believed that the AG’s consent need not be sought before criminal contempt proceedings are instituted.
+
+86.  Turning to English textbooks on the issue, Borrie & Lowe: The Law of Contempt[84] states that “the consent of the [AG] is not required for the institution of contempt proceedings at common law (although the usual practice is for the complaining party to refer the matter and for the [AG] to initiate contempt proceedings)”. As the authors go on to point out, section 7 of the Contempt of Court Act 1981 specifically requires a party to obtain the AG’s consent to “[p]roceedings for a contempt of court under the strict liability rule”. It is hard to make much of that provision in this case with any confidence as its ambit is unclear, as the discussion in Borrie & Lowe explains. However, the fact that the section specifically requires the consent of the AG in the types of contempt applications to which it applies, strongly implies that such consent is not needed for other types of contempt applications (unless they are subject to some other similar legislative provision).
+
+87.  Arlidge is somewhat more elliptical on the point. It describes “institution of proceedings in relation to criminal contempts” as being “primarily a matter for the [AG], or for the court of its own motion”[85]: this suggests that others have the right too, which presumably would include an aggrieved party in the underlying litigation. That the authors consider that such a person could bring proceedings without first informing the AG is I think confirmed by a later passage which states that “it is therefore desirable that the aggrieved party should place the facts before the [AG] prior to instituting proceedings himself”[86].
+
+Other common law jurisprudence
+
+88.  As to Scots law, the point at issue was considered in Robb v Caledonian Newspapers Ltd, where Lord Justice-General Hope, sitting with Lord Cowie and Lord Wylie considered an argument that as an application for criminal contempt by a private party was made “without the concurrence of the Lord Advocate the application was incompetent”[87]. The court rejected the submission, saying that, in addition to being able to deal with such a contempt “at its own hand”, a court “may also deal with a contempt which is brought to its notice by means of a petition and complaint by the Lord Advocate or by any other interested party”[88].
+
+89.  In Australia, it was said by Street CJ in DPP v Australian Broadcasting Corporation[89], that
+
+“[T]he only way in which[a person] can ensure that [an interference with the administration of justice] is brought to the notice of the court and the integrity of the administration of justice in respect of the litigation maintained is by having the power himself to institute proceedings for contempt”
+
+And in Witham v Holloway[90], McHugh J sitting in the High Court stated that “proceedings for criminal contempt could be initiated by the [AG], by the court of its own motion or any person with an interest in the subject matter of the proceedings”. And in the later High Court case, Re Colina ex p Torney[91], Hayne J said that “[t]he function that is exercised when a court proceeds against an alleged contemnor is not one to be exercised or controlled by the executive”.
+
+90.  In Canada, Allen CJ said in R v Ellis[92], “I do not find it laid down anywhere that the [criminal contempt] application must be made by the [AG]”, and accordingly a party in the underlying litigation could make the application.
+
+91.  The same conclusion was reached by McKechnie J sitting in the High Court of Ireland in Murphy v British Broadcasting Corporation[93].
+
+92.  I also note that in the Ugandan High Court case AG v Kiwanuka[94]Ssekaana Musa J said that:
+
+“[w]hereas contempt proceedings are between the Court and alleged contemnor, the contemptuous acts can be brought to the attention of the Court by any person, including a person who is not a party to the court proceedings from which the contempt arose.”
+
+93.  Finally (not least because the position there is more nuanced), I turn to Singapore. In 2013, the Singapore Court of Appeal decided Aurol Anthony Sabastian v Sembcorp Marine Ltd[95]. In his judgment, Menon CJ concluded[96] that “given the sui generis nature of criminal contempt, there is a compelling interest in the AG being consulted before proceedings are commenced by a private party”, noting Lord Diplock’s observation in the 1972 Times Newspapers case[97] that it was “a procedure which if instituted by one of the parties to litigation is open to abuse”. Menon CJ then went on to reject the applicant’s reliance on “the absence of specific statutory provisions in Singapore that confine the power to initiate certain types of contempt proceedings to the AG”, on the ground that:
+
+“In Singapore, as reflected in Art 35(8) of the Constitution, the AG plays a unique and integral role as guardian of the public interest vis-a-vis the institution and conduct of all criminal proceedings. This includes proceedings for criminal contempt.”
+
+94.  Accordingly, the Singapore Court of Appeal concluded that the proper course for any applicant was first to consult the AG. As Menon CJ put it, if “the AG then decided to take up the matter”, he would be doing so pursuant to his constitutional power, but if the AG decided not to proceed, the applicant “could then have commenced proceedings of its own accord but in doing so it would have been obliged to join the AG as a party and lay all the facts before the court including any expressed views of the AG”.[98]  He then held that the failure to consult the AG in that case was fatal to the criminal contempt proceedings, but nonetheless went on to consider in some detail the conduct of the alleged contemnor, and concluded that it justified his being deprived of any costs, despite succeeding in his appeal.[99]
+
+95.  In the course of the judgment in Aurol, reference was made to the US Supreme Court’s decision in Young v United States ex rel Vuitton et Fils SA[100], where it was held to be inappropriate for the legal representatives of the party in the underlying action (who was the party pressing for the contempt application against the other party in the underlying action) to have been charged by the first instance court to prosecute the contempt application. It would, said Brennan J, have “the potential for private interest to influence the discharge of public duty” and “[create] opportunities for conflicts to arise, and [create] at least the appearance of impropriety”[101].
+
+96.  As Menon CJ recognised[102], “the appointment of [one party’s] legal representatives [in Young] as private prosecutors [of the other party] entailed also conferring certain investigatory powers upon them, over and above the power to bring proceedings”.  However, he was not impressed by this distinction, although, as Brennan J said in Young[103], as private prosecutors, the legal representatives had “a terrible array of coercive methods”, including “police investigation and interrogation, warrants, … [and] authorized wire-tapping …”.
+
+G.     Conclusion
+
+97.  For the reasons given in Section D of this judgment, it appears to me that, in the absence of any relevant legislative provision or case law to the opposite effect, the answer to the basic issue on these appeals should be that an applicant need not apply to, or otherwise involve, the SJ before issuing an application for leave to proceed with criminal contempt proceedings under O.52 rule 2.
+
+98.  Consideration of domestic and other common law jurisprudence on the topic (in Sections E and F of this judgment) seems to me clearly to confirm this preliminary view, in that there is no Hong Kong legislation or case law which has the effect of cutting down an applicant’s right of access to the court in such a case, other than the need to obtain the court’s leave. With one exception, in all the other common law jurisdictions on which we have been addressed, the law seems to be well established that, subject to obtaining the leave of the court, a private party is free to initiate criminal contempt proceedings.
+
+99.  The only exception appears to be in Singapore, where the effect of the Aurol case[104] is that a private party cannot initiate criminal contempt proceedings without first giving the AG the opportunity to initiate the proceedings, on the basis that, if the AG elects not to do so, the private party would be free to initiate such proceedings, subject to the leave of the court. But that is not of assistance to the appellants. First, even in Singapore, the AG does not have the power to prevent a private party from bringing criminal contempt proceedings[105]. Secondly, there was no suggestion in Aurol that the AG would not want all projected criminal contempt proceedings brought to his attention, whereas here the SJ has made it clear that that is his position. Thirdly, the court’s reasoning in Aurol was at least partly based on Article 35 of the Constitution of the Republic of Singapore, which of course has no part to play in Hong Kong. And I should add that the powers of lawyers conducting a contempt investigation in the United States means that the decision in the Young case[106] is of no assistance to the appellants.
+
+100.  In these circumstances, I have no hesitation in rejecting the appellants’ case. Not only does it conflict with principle, but there is nothing in our legislation or case law to support it. On the contrary, all the indications in The Rules and cases are against it.  And when one turns to the position in other common law jurisdictions, the position appears exactly the same – with the exception of Singapore, which is only marginally different.
+
+101.  It is worth briefly addressing the question whether, reflecting the recommendations of the Phillimore Report[107] and the Hong Kong Law Reform Commission Report[108], and in accordance with the approach in Singapore and approved in Arlidge[109], it would be appropriate to adopt a practice whereby a private party wishing to bring criminal contempt proceedings should first be required to notify the SJ. If this course were adopted, the SJ would automatically be aware of every criminal contempt application that is to be made, so that he could decide whether to begin the proceedings himself, and, if he decided against, he could make sure that, to the extent that he so wished, he was represented in any proceedings from the start, i.e. from the leave application.
+
+102.  While I see the force of that argument (which is a much more limited version of the appellants’ case), I would not favour it. First, I would deprecate imposing any burden on an applicant who wishes to bring criminal contempt proceedings, especially if it could add to cost and delay. Secondly, it is always open to the SJ to apply to take over, or to be a party to, criminal contempt proceedings, and it accords better with the fact that contempt proceedings exist to protect the authority of the courts and are based on the inherent jurisdiction of the court, that it should be for the court to invite the assistance of the SJ when it appears to the court to be appropriate. As Mr Dawes SC said in his submissions, the SJ would be more likely to have a role in some criminal contempt proceedings (e.g. those involving allegedly contemptuous publications giving rise to constitutional rights issues) than in others. Thirdly, the SJ would not be particularly well equipped to deal with every prospective contempt application.
+
+103.  As well as being more consistent with principle, it would, I think, also involve a better allocation of resources for the court to act as the initial filter, while seeking the SJ’s assistance if wanted, then for every criminal contempt application to be initially referred to the SJ. And, of course, if the SJ wished to be heard on the leave application, he could always apply. Indeed, if his attitude were to change and he wished to be informed of every application for leave to bring criminal contempt proceedings, he could so inform the court, which would then no doubt comply with his request.
+
+H.     Disposal of the appeals
+
+104.  In these circumstances, I would answer the four Questions[110] as follows:
+
+1)    No;
+
+2)    No;
+
+3)    Not applicable, but no;
+
+4)    Not applicable, but no.
+
+105.  Accordingly, I would dismiss these appeals.
+
+106.  The appellants should pay the respondent’s costs, and there should be no order in respect of the SJ’s costs.
+
+Chief Justice Cheung:
+
+107.  Accordingly, these appeals are unanimously dismissed and the Court makes an order nisi in terms of paragraph 106 above. Absent an application to vary, the order nisi shall become absolute after the lapse of 14 days from the date hereof.
+
+ 
+
+ 
+
+(Andrew Cheung)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+ 
+
+(M H Lam)
+Permanent Judge	(Lord Neuberger of Abbotsbury)
+Non-Permanent Judge
+ 
+
+Mr Benjamin Yu SC, Ms Bonnie Y K Cheng and Mr Keith Chan, instructed by DLA Piper Hong Kong, for the 1st to 3rd Appellants in both appeals
+
+Mr Johnny Mok SC, Mr Michael Lok and Mr Charlie Liu, instructed by Howse Williams, for the Respondent in both appeals
+
+Mr Victor Dawes SC and Mr Cedric Yeung, instructed by Department of Justice, and Mr William Liu, Acting Deputy Law Officer (Civil Law), of the Department of Justice, for the Intervening Party in both appeals
+
+[1] [2021] HKCA 1580
+
+[2] HCA 2562/2014
+
+[3] [1974] AC 273, at p. 322
+
+[4] Jennison v Baker [1972] 2 QB 52, at p. 61
+
+[5] (1970) 23 Current Legal Problems 23, at p. 28
+
+[6] [1992] 1 AC 191, at pp. 207-208, quoting from the 1974 Report of the Committee on Contempt of Court (the Phillimore Committee), Cmnd 5794
+
+[7] (1765) Wilm 243, at p. 254
+
+[8] See footnote 5, at p. 27
+
+[9] See footnote 3, at pp. 315-316
+
+[10] [1999] 2 AC 294, at p. 303
+
+[11] [2018] HKCA 173, at para 74
+
+[12] See footnote 3, at p. 294
+
+[13] Roberts v Albert Bridge Co (1873) LR 8 Ch App 753
+
+[14] (2009) 12 HKCFAR 830, at para 45
+
+[15] 5th edition, 2017, at para 3-1
+
+[16] [2016] 5 HKLRD 370, at para 42
+
+[17] Ibid, quoting from Director of the Serious Fraud Office v O’Brien [2014] AC 1246, at para 39, per Lord Toulson
+
+[18] [2021] 4 WLR 103, at para 23. Decision affirmed [2022] 1 WLR 367
+
+[19] See footnote 11, at para 82
+
+[20] See Accent Foundation Ltd v Lee [2008] HLR 3, at paras 17 and 18
+
+[21] See footnote 15, at para 3-26
+
+[22] See footnote 16, at para 45
+
+[23] [1988] Ch 333, at p. 377
+
+[24] Ibid, at p. 362
+
+[25] See footnote 6, at pp. 217
+
+[26] (1999) 200 CLR 386, at para 110
+
+[27] (1995) 183 CLR 525
+
+[28] See footnote 6, at para 169
+
+[29] [2016] 4 HKLRD 367, at paras 5 to 24
+
+[30] Ibid, at para 5
+
+[31] Ibid, at para 7
+
+[32] See footnote 16, at para 46
+
+[33] Ibid, at para 47
+
+[34] Construction, Forestry, Mining and Energy Union v Boral Resources (Vic) Pty Ltd (2015) 256 CLR 375, at para 45
+
+[35] See footnote 27
+
+[36] Ibid, at para 65
+
+[37] See footnote 16, at paras 47 to 51
+
+[38] [2005] 4 HKC 416, at pp. 441-442
+
+[39] [2012] 1 WLR 991, at para 7
+
+[40] See footnote 15, at para 2-216
+
+[41] See footnote 3, at p. 326
+
+[42] Ibid, at pp. 311-312. Arlidge (see footnote 15) at paras 2-213 to 2-216 does not suggest that there is any conflict between these descriptions, apparently regarding them as complementary. The Court of Appeal in Re Mahesh J Roy (Intervener: Secretary for Justice) [2017] 2 HKLRD 935 at para 17 favoured the view of Lord Diplock and Lord Morris over that of Lord Cross. In so far as there is a difference, it seems to be more one of emphasis than principle, and at any rate, it does not detract from the characterization of criminal contempt proceedings as civil in nature. Indeed, such characterization was acknowledged by the court in Re Mahesh J Roy (No 2) (Intervener: Secretary for Justice) [2017] 5 HKLRD 830 at para 55
+
+[43] [1897] 1 Ch 545, at pp. 559-560
+
+[44] [1975] QB 73, at p. 84
+
+[45] (1989) 88 Cr App R 63, at p. 67
+
+[46] See paras 28 and 29 above
+
+[47] Sik Chiu Yuet v Secretary for Justice [2018] 4 HKLRD 194, at para 35
+
+[48] See e.g. the English case Navigator Equities Ltd v Deripaska [2022] 1 WLR 3656 and the cases cited therein
+
+[49] See e.g. per Mustill LJ in R v Griffin see footnote 45, at p. 67
+
+[50] See e.g. Re Bramblevale Ltd [1970] Ch 128, at p. 137 and Dean v Dean [1987] 1 FLR 517, at pp. 521 and 522
+
+[51] See e.g. Tiong King Sing v Sam Boon Peng Yee [2015] 1 HKLRD 981; Pan Chung Pat Wo Tong (Hong Kong) Ltd v Law Yan Wai (unreported, HCA 1719/2010, 5th May 2017); China Metal Recycling (Holdings) Ltd v Chun Hei Man [2018] 1 HKLRD 455
+
+[52] See e.g. in Cheung Kai Yin (No 1), footnote 29, at para 7
+
+[53] [2021] 4 HKLRD 841
+
+[54] [1978] AC 435
+
+[55] See footnote 38, at p. 441
+
+[56] See footnote 15, at para 14-5
+
+[57] See e.g. per Li CJ in Ng Ka Ling v Director of Immigration (1999) 2 HKCFAR 4, at p. 28
+
+[58] See para 55 above. In this connection, there is some congruity with the approach of the House of Lords’decision in Anisminic Ltd v Foreign Compensation Commission [1969] 2 AC 147, affirmed by a majority of the UK Supreme Court in R (on the application of Privacy International) v Investigatory Powers Tribunal [2020] AC 491. Anisminic was analyzed in Privacy International by Lord Carnwath (writing for the majority) as establishing a “strong” and “fundamental” presumption against statutory exclusion of the supervisory role of the High Court over other adjudicative bodies (paras 43 and 99), which can only be displaced by “the most clear and explicit words” (paras 37, 77 and 111). The supervisory jurisdiction of the High Court is an inherent one (paras 38 and 60), so there is hence much to be said of the view that such a presumption should also be applicable to any alleged statutory exclusion or restriction of the court’s contempt jurisdiction, given that it is also an inherent jurisdiction of the court
+
+[59] See footnote 29, at para 37
+
+[60] Stock Exchange of Hong Kong Ltd v New World Development Co Ltd (2006) 9 HKCFAR 234, at para 43
+
+[61] Final Report on Some Aspects of Final Adjudication and the Judicial System of the SAR, and the Role of an Independent Prosecuting Authority of 12th June 1987
+
+[62] See paras 35 and 36 above
+
+[63] See footnote 1, at para 42
+
+[64] See footnote 38, at p. 441
+
+[65] Ibid, at para 13
+
+[66] At para 9.1
+
+[67] Ibid, at para 9.3
+
+[68] See para 69 above
+
+[69] See footnote 3
+
+[70] Ibid, atp. 293
+
+[71] Ibid, at p. 306
+
+[72] Ibid, at p. 311
+
+[73] Ibid, atp. 312
+
+[74] Ibid, at p. 314
+
+[75] Ibid, at p. 326
+
+[76] unreported, (C/2000/2363),
+
+[77] [2009] 1 WLR 2406
+
+[78] It is not entirely clear whether they were criminal contempt proceedings, but they were described as such in the subsequent Court of Appeal Navigator case (footnote 48) at para 109
+
+[79] See footnote 77, at para 14
+
+[80] Ibid, at para 15
+
+[81] See Navigator footnote 48, at para 81
+
+[82] See footnote 6, at para 184
+
+[83] Ibid, at para 187
+
+[84] 4th edition (2010), at para 13.13
+
+[85] See footnote 15, at para 3-183
+
+[86] Ibid, at para 3-188
+
+[87] 1994 SCCR 659, at p. 664
+
+[88] Ibid, at p. 665
+
+[89] (1987) 7 NSWLR 588, at p. 595
+
+[90] See footnote 27, at p. 540
+
+[91] See footnote 26, at para 112
+
+[92] (1889) 28 NBR 497, at p. 519
+
+[93] [2005] 3 IR 336, at pp. 354 to 356
+
+[94][2022] UGHCCD 46, at p. 14
+
+[95] [2013] 2 SLR 246
+
+[96] Ibid, at para 51
+
+[97] See footnote 3, at p. 312
+
+[98] See footnote 95, at para 54
+
+[99] Ibid, at para 115
+
+[100] 481 US 787 (1987)
+
+[101] Ibid, at p. 806
+
+[102] See footnote 95, at para 50
+
+[103] See footnote 100, at p. 811
+
+[104] See footnote 95
+
+[105] Ibid, at para 66
+
+[106] See footnote 100
+
+[107] See footnote 6
+
+[108] See footnote 67
+
+[109] See footnote 86
+
+[110] See para 17 above
+
+ 

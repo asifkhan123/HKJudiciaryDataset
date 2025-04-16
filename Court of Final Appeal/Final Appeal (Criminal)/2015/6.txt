@@ -1,0 +1,1409 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC Nos. 5 & 6 of 2015
+And
+FACC No. 1 of 2015
+(Heard Together)
+
+FACC No. 5 of 2015
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 5 OF 2015 (CRIMINAL)
+
+(ON APPEAL FROM CACC NO. 101 OF 2014)
+
+_______________________
+
+BETWEEN
+
+ 	HKSAR	Respondent
+ 	and	
+ 	YEUNG KA SING, CARSON (楊家誠)	Appellant
+_______________________
+
+FACC No. 6 of 2015
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 6 OF 2015 (CRIMINAL)
+
+(ON APPEAL FROM CACC NO. 101 OF 2014)
+
+_______________________
+
+BETWEEN
+
+ 	HKSAR	Appellant
+ 	and	
+ 	YEUNG KA SING, CARSON (楊家誠)	Respondent
+_______________________
+
+FACC No. 1 of 2015
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 1 OF 2015 (CRIMINAL)
+
+(ON APPEAL FROM CACC NO. 184 OF 2013)
+
+_______________________
+
+BETWEEN
+
+ 	HKSAR	Appellant
+ 	and	
+ 	SALIM, MAJED	Respondent
+_______________________
+Before :  Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Tang PJ, Mr Justice Fok PJ and Mr Justice Gleeson NPJ
+Dates of Hearing:  31 May – 2 June 2016
+Date of Judgment:  11 July 2016
+_________________________
+
+J U D G M E N T
+
+_________________________
+
+THE COURT:
+
+A.  The issues dealt with in this judgment
+
+1. This judgment deals with two money laundering cases that were heard together.
+
+A.1  The case involving Mr Yeung
+
+2. The first concerns Mr Yeung Ka Sing, Carson (“Yeung”) who was convicted in the District Court[1] on five charges of contravening section 25(1) of the Organized and Serious Crimes Ordinance (“OSCO”)[2] which provides as follows:
+
+“Subject to section 25A, a person commits an offence if, knowing or having reasonable grounds to believe that any property in whole or in part directly or indirectly represents any person's proceeds of an indictable offence, he deals with that property.”
+
+The OSCO provisions relevant to this judgment are set out in Annex A. 
+
+3. The dismissal of Yeung’s appeal by the Court of Appeal[3] led to two appeals before this Court, leave being granted[4] in respect of four questions of law certified to be of great and general importance.  In the first appeal,[5] Yeung was granted leave in respect of the following questions:
+
+Question 1
+
+On a charge of dealing with proceeds of crime contrary to s 25 (1) of the Organized and Serious Crimes Ordinance (Cap 455) (“OSCO”), is it necessary for the prosecution to prove, as an element of the offence, that the proceeds being dealt with were in fact proceeds of an indictable offence?  Was Oei Hengky Wiryo (2007) 10 HKCFAR 98 wrongly decided on this issue?  (“The proceeds issue”)
+
+Question 2
+
+In considering the mens rea element of a charge contrary to s 25(1) of OSCO, to what extent does a trial judge need to make positive findings as to a defendant's belief, thoughts, intentions at the material time even though the judge rejects the defendant's testimony? In particular, where the trial judge rejects the defendant's testimony, to what extent can the judge remain oblivious to the defendant's actual reason(s) for dealing with the specified proceeds in making the finding that the defendant had reasonable grounds to believe that the proceeds he dealt with were proceeds of crime? (“The mens rea issue”)
+
+4. In dismissing Yeung’s appeal, the Court of Appeal held that the charges (set out in Annex Bto this judgment) were duplicitous but upheld his conviction on the basis that he had not been prejudiced by such duplicity.  The prosecution consequently obtained leave to appeal[6] in relation to the following question:
+
+Question 3
+
+In the context of the offence of money laundering under section 25 of [OSCO] how does the rule against duplicity operate?  In particular, whether the offence of money laundering, capable of being committed in any of the modes of ‘dealing’ as included in its definition under section 2 of [OSCO], is or could be a continuing offence so that the rule against duplicity does not apply; and how do the exceptions to the rule against duplicity (namely, ‘one transaction’ as in DPP v Merriman [1973] AC 584, ‘general deficiency’ as in R v Tomlin [1954] 2 QB 274 and ‘continuous course of conduct’ as in Barton v DPP [2001] 165 JP 779) apply to a charge of money laundering which alleges multiple dealings some of which involve money from known and different sources? (“The duplicity issue”)
+
+5. The prosecution was also granted leave[7] regarding another aspect of the mens rea element of the section 25(1) offence arising out of the Court’s decision in Pang Hung Fai, the question being formulated as follows:
+
+Question 4
+
+When considering whether a defendant had reasonable grounds to believe in the context of s.25(1) of the Ordinance, how does a trial judge reconcile the formulation set out in Seng Yuet Fong v HKSAR (1999) 2 HKC 833 and the formulation ‘knew or ought to have known’ set out in HKSAR v Pang Hung Fai (2014) 17 HKCFAR 778?  Under what circumstances should the trial judge apply these two formulations? (“The Pang Hung Fai issue”)
+
+6. In this judgment, we will first consider the issues raised by Questions 1, 2 and 4 bearing on the elements of the substantive offence, before turning to deal with the duplicity issue raised by Question 3.
+
+A.2  The case involving Mr Salim
+
+7. The second case concerns Mr Salim, Majed (“Salim”) who was convicted in the District Court[8] on four charges of contravening OSCO s 25(1).   His conviction was quashed in the Court of Appeal[9] on a ground which is not presently material.[10]  However, the Court of Appeal declined to order a re-trial, holding that the charges (set out in Annex C below) were incurably duplicitous.[11]
+
+8. The prosecution obtained leave to appeal on the issue of duplicity in terms identical to Question 3 above.[12]
+
+B.  The principal findings and verdicts in the two cases
+
+B.1  The Yeung case
+
+9. Each of the five charges (see Annex B) alleged that Yeung dealt in sums of money in five bank accounts during periods between different dates commencing in 2001 and ending in 2007.  The accounts identified in charges 1, 2 and 3 were in Yeung’s name and he was the sole signatory on those accounts; the accounts identified in charges 4 and 5 were in Yeung’s father’s name and both Yeung and his father were joint signatories on them.  The aggregate amount of monies alleged in the charges to have been dealt with by Yeung was the sum of HK$721,287,607 which had been deposited into the five accounts by way of 963 individual deposits during the periods covered by the charges.  The deposits were from different sources and included cash and cheque deposits and bank transfers.
+
+10. The prosecution did not seek to identify the predicate offences from which the monies were said to have derived and it was not alleged that Yeung’s mens rea for the section 25 offences was the “knowing” limb.  Instead, the prosecution case was based on matters from which it was said that Yeung must have had reasonable grounds to believe that the monies in question were the proceeds of an indictable offence.  That case was supported by evidence given by a forensic accountant (Mr Rod Sutton) as to the existence of various “hallmarks of money laundering”.[13]
+
+11. Yeung gave evidence at trial that the monies in the accounts in his name were his but that they had legitimate sources, including his casino winnings and share dealings.  He denied that he had dealt with the monies in the accounts in his father’s name.
+
+12. The Judge, save to a very limited extent, disbelieved Yeung and rejected his evidence to explain the supposedly legitimate provenance of the monies deposited into the bank accounts. He also rejected his denial of dealing with the monies in the two accounts in his father’s name.  Instead, he found that Yeung simply used his father’s name to open those accounts and that, in order to conceal the source of the funds or his involvement in dealing with them, he used the accounts as if they were his own and therefore dealt with the monies in those accounts.[14]
+
+13. The Judge concluded, in respect of each of the five charges, that Yeung had reasonable grounds to believe that the monies in those five accounts were the proceeds of an indictable offence.[15]  This conclusion was based on the following principal findings of fact made by the Judge:
+
+(a) That there were significant deposits and withdrawals of cash into and from the accounts, and bank transfers between the various accounts;[16] and that Yeung knew that payments in cash could be used to conceal the source of the funds.[17]
+
+(b) That the monies deposited into the accounts far exceeded the apparently modest means of Yeung and his father as disclosed by their respective declarations of taxable income from the operation of hair salons (in the case of Yeung) and from employment as a caretaker and the operation of a vegetable stall (in the case of Yeung’s father)[18] and in the context of the absence of any correlating cash generating business in which either Yeung or his father were involved.[19]
+
+(c) That the opening and closing balances of the five accounts were all relatively similar and that this indicated the accounts had been used as the repository of funds.[20]  (The Court of Appeal held that, although the similar opening and closing balances showed that the accounts were used to receive money which was then remitted elsewhere, the Judge erred in relying, compendiously and retrospectively, on his finding that each of the accounts was used as a repository of funds in concluding that Yeung had reasonable grounds to believe the monies were the proceeds of an indictable offence.[21] However, the Court of Appeal held that the error was immaterial in the context of the Judge’s overall findings.[22])
+
+(d) That Yeung lied in testifying that the only reason he used cash in dealing with security companies was to settle margin calls urgently and that, instead, one of the reasons Yeung had done so was because he knew that cash transactions were more difficult to trace.[23]
+
+(e) That deposits totalling HK$62,450,000 came from 10 cash cheques issued by a Macau casino, including four cheques issued on the same day and that Yeung was lying when he testified that these were his gambling winnings.[24]
+
+(f) That Yeung’s explanations that deposits by certain third parties were the return of capital and interest for his and his father’s investments in Neptune Club and Massive Resources International Corporation Limited (Stock Code 070) (“Massive Resources”) were untrue and that the payments were in fact connected to two individuals, Lin Cheuk Fung and Cheung Chi Tai, who were the “bosses” of a VIP room in a casino in Macau.[25]
+
+(g) That Yeung’s evidence about certain transactions (namely agreements relating to shares in Gold Wo and Massive Resources) was not truthful and that the manner in which those transactions were conducted on a verbal basis without documentation was for the purpose of concealing the true nature of the transactions and the individuals concerned in them.[26]
+
+(h) That Yeung was aware of all the transactions in relation to the bank accounts the subject of charges 1, 3 and 5;[27] that, in relation to the bank account the subject of charge 2, Yeung was aware of the amount of cash transactions and the unexplained deposits which made up 82.9% of the cheque deposits into the account; and that, in relation to the bank account the subject of charge 4, Yeung knew that, overall, an almost identical amount was deposited into the account as was withdrawn from it.[28]
+
+14. Accordingly, the Judge convicted Yeung of the five charges and sentenced him to a total of six years’ imprisonment.[29]  The Judge sentenced Yeung on the basis of a combined approach “given the manner that the accounts were used by [him] in his money laundering activities”.[30]  The Judge found that, although it would not appear Yeung was the director of a money laundering scheme, the laundering could not have continued for as long as it did and on such a large scale without Yeung’s “considerable skills in share dealings and connections to the Macau casinos”.[31]  The Judge reached his sentence on the basis that, even taking the reduced defence figure of HK$449,012,331, the amount of money involved in the offences was still “a staggering figure”.[32]
+
+15. On Yeung’s appeal, the Court of Appeal granted Yeung leave to appeal against conviction on the grounds of appeal which have given rise to Questions 1 and 2 above, as well as the ground relating to the Judge’s reliance on his finding that each of the bank accounts was used as a repository of funds, but refused leave in respect of the other grounds of appeal advanced and dismissed the appeal.
+
+B.2  The Salim case
+
+16. The charges in Salim’s case stemmed from fraudulent schemes whereby victims of the schemes were induced on false pretences to deposit monies into bank accounts in Hong Kong.  Salim, a Dutch national originally from Iraq but living in the United Kingdom, was not a party to the predicate offences but was alleged to have been involved in dealing with the proceeds of those offences.
+
+17. Salim’s involvement arose out of his presence in Hong Kong between 28 November and 3 December 2011. During that visit, assisted by a Pakistani man named Yaser (“Yaser”), Salim acquired a company incorporated here called Day Leader Limited (“Day Leader”) and became its sole director and shareholder.  With Yaser’s assistance, Salim also opened and became the sole signatory of bank accounts opened in Day Leader’s name: two with the Bank of China (“BOC”), one with Hang Seng Bank (“Hang Seng”) and one with HSBC (“HSBC”).  An address in Sheung Wan, which was Yaser’s address, was given as Day Leader’s registered address and this was the address to which correspondence from the banks was to be sent, but Salim’s address in London was given as its business address.  Having opened the bank accounts, Salim passed all the account opening materials and controlling devices to Yaser although, as later became apparent, he retained the ability to operate the accounts himself.  The proceeds of the frauds referred to above, in the aggregate amount of approximately HK$8,010,000, were paid into these four bank accounts of Day Leader.  Salim returned to Hong Kong on 21 February 2012 and went to the three banks and withdrew sums amounting to HK$408,000 from three of Day Leader’s accounts.[33]  He was arrested the next day.
+
+18. The four charges against Salim (see Annex C) alleged that he dealt with property in each of the four bank accounts of Day Leader, and specified the total sum of money which had been paid into each account since the date of opening until 21/22 February 2012.
+
+19. At trial, Salim accepted that his withdrawals of monies from Day Leader’s accounts constituted dealing with those sums[34] but denied that he dealt with the monies deposited into the accounts since he had no knowledge of those transactions and the accounts of Day Leader were controlled by others.  Salim denied that, save in respect of the sums withdrawn by him, there were reasonable grounds for him to believe that the monies in the accounts represented the proceeds of an indictable offence.  It was his case that he was deceived by Yaser into opening the bank accounts, thinking that materials relating to them would be sent to his address in the UK.
+
+20. The Judge found Salim to be a dishonest and unreliable witness and rejected his explanation as to how he came to open the bank accounts of Day Leader.  He found instead that Salim passed the account opening materials and controlling devices to Yaser to enable the accounts to be operated by others.[35]  The Judge drew the irresistible inference that Salim was aware that the accounts would be used to deal with substantial sums of money and held that the conduct of Salim amounted to aiding and abetting another person to deal with the monies in the accounts.[36]  He found that Salim dealt with the monies he withdrew from each of the accounts the subject of Charges 4, 6 and 7 and that he aided and abetted another person to deal with the monies particularised in each of the four charges and accordingly convicted him of those charges.[37]  The Judge sentenced Salim to a total of five years’ imprisonment for his convictions on those charges.[38]
+
+21. The Court of Appeal allowed Salim’s appeal against conviction on two grounds.  The first was that Salim had not been charged with any withdrawal of monies from the accounts as a dealing with property and this was confirmed by the prosecution who indicated that evidence of the withdrawals had been adduced to support adverse inferences in respect of the purpose of the opening of the accounts, their use and Salim’s knowledge.[39]  The second was that the Judge’s finding that the actus reus of the offence established on the basis of aiding and abetting others to deal with the monies in the accounts was not the basis on which the prosecution had put its case, which was on the basis that the mere lending of the accounts to others to use meant that Salim was dealing with the property every time there was a deposit to the account.[40]
+
+22. Having concluded that Salim’s conviction must be quashed, the Court of Appeal went on to consider whether it should order a re-trial and concluded that it should not because it concluded that the charges were duplicitous and could not be brought within any of the common law exceptions to the rule against duplicity.[41]
+
+C.  Question 1: The proceeds issue
+
+C.1  A question previously answered
+
+23. As Question 1 indicates, the Court has previously ruled that it is not necessary for the prosecution to prove, as an element of the offence, that the property dealt with by the defendant in fact represents the proceeds of an indictable offence. 
+
+24. That issue was first encountered by the Appeal Committee in HKSAR Wong Ping Shui,[42] which rejected the applicant’s submission that, as in cases of handling stolen goods,[43] section 25(1) requires the prosecution to show that the defendant was dealing with property which actually represented the proceeds of an indictable offence.  Ribeiro PJ held that section 25(1):
+
+“...does not define the actus reus as dealing with the proceeds of an indictable offence. It defines it as dealing with ‘property’ which the defendant knows or has reasonable grounds to believe represents the proceeds of an indictable offence. The quality of the goods being such proceeds is therefore an element in the mens rea but not the actus reus.”[44]
+
+25. He added:
+
+“... it is wholly implausible that the Legislature could have intended proof of money laundering offences to require proof of the underlying criminal offences that generated the money being sanitised. There is the obvious likelihood that such activities would be cloaked in secrecy and that they may well have taken place in one or more foreign jurisdictions.”[45]
+
+26. In Oei Hengky Wiryo v HKSAR (No 2),[46] after considering the effect of the House of Lords’ decision in R v Montila[47](discussed further below) and certain other arguments,  McHugh NPJ, writing for the Court, upheld the Appeal Committee’s view.  This was reiterated by the Court in HKSAR v Li Kwok Cheung George,[48] as follows:
+
+“The s.25(1) offence is committed by the act of dealing with certain property which has specified characteristics. It must be property which a person knows or has reasonable grounds to believe ‘in whole or in part directly or indirectly represents any person's proceeds of an indictable offence’. As the Court held in Oei Hengky Wiryo v HKSAR (No 2), s.25(1) does not define the actus reus as dealing with the proceeds of an indictable offence. It defines it as dealing with ‘property’ which the defendant knows or has reasonable grounds to believe represents the proceeds of an indictable offence. The quality of the property being such proceeds is therefore an element in the mens rea but not the actus reus. It is nevertheless a necessary ingredient of the offence that the characteristics of the property known to the defendant or giving reasonable grounds for belief must be such as to qualify the property in law as the ‘proceeds of an indictable offence’ as an element of the mens rea.”
+
+27. Ms Clare Montgomery QC,[49] seeks to persuade the Court to overturn its decision in Oei Hengky Wiryo as a case that was wrongly decided.  It is established that the Court has power to depart from its own previous decisions but that it will approach the exercise of that power with great circumspection to avoid undermining the certainty, predictability and consistency which adherence to precedent provides, especially if there is a risk that existing rights may be disturbed.[50]  It is accordingly on that basis that we turn to examine the arguments bearing on whether Oei was wrongly decided and whether the Court should deviate from the approach previously adopted to the proceeds issue.
+
+C.2  The language of section 25(1)
+
+28. It is not in dispute that on the true construction of section 25(1), a person cannot properly be convicted on the “knowing” limb unless the property dealt with actually represents the proceeds of an indictable offence.  As Lord Hope of Craighead put it in R v Montila:[51]
+
+“A person may have reasonable grounds to suspect that property is one thing (A) when in fact it is something different (B). But that is not so when the question is what a person knows. A person cannot know that something is A when in fact it is B. The proposition that a person knows that something is A is based on the premise that it is true that it is A.”
+
+29. In the present case, the prosecution did not seek to establish actual knowledge on Yeung’s part.  Its case was that Yeung had reasonable grounds to believe that the property being dealt with was tainted.
+
+30. Ms Montgomery QC submitted that the final two words in section 25(1), “that property”, ought to be regarded, purely as a matter of language, to be referring to the noun phrase closest to it, namely, the immediately preceding phrase “any person’s proceeds of an indictable offence”.  So read, it was submitted that the actus reus of dealing with “that property” ought properly to be understood as requiring it to be shown that the property dealt with by the accused in fact represented some person’s proceeds of an indictable offence.
+
+31. We do not accept that argument. Section 25(1) relevantly provides that “a person commits an offence if ... having reasonable grounds to believe that any property ... represents any person's proceeds of an indictable offence, he deals with that property”.  The last two words “that property” are naturally to be read as referring back to the identical word “property” used earlier in the sentence – hence “that property”. They refer, in other words, to property which the defendant has reasonable grounds to believe represents someone’s proceeds of an indictable offence – part of the mens rea requirement.  If it was intended that the act of dealing should relate only to property which was actually part of the proceeds of an indictable offence, one would have expected the closing words of section 25(1) to state: “he deals with those proceeds” rather than “he deals with that property”.
+
+C.3  The 1995 amendments to section 25
+
+C.3a Yeung’s argument
+
+32. The current version of OSCO s 25 is the result of amendments made in 1995.[52]  In Yeung’s printed case[53] it is submitted that by those amendments:
+
+“The only change was to make it clear that a drug trafficker can be charged with money laundering if he launders his own proceeds.”
+
+33. It goes on to argue that:
+
+“... the Legislature had clearly intended s 25(1) of both the DTROP and OSCO to have the effect of requiring the prosecution to prove the tainted origin of the proceeds being dealt with before a conviction can be secured. The 1995 amendments to both pieces of legislation were clearly not intended to take away this primary fault element.”[54]
+
+34. It is therefore argued on Yeung’s behalf that the established position under the 1994 version of section 25, namely, that proof was required that the property involved in the arrangement was in fact the proceeds of an indictable offence, remained unchanged after the 1995 amendments.
+
+35. We do not accept that submission.  On the contrary, for the reasons which follow, the 1995 amendments radically changed and expanded the basis of liability, abandoning the original requirement of proving the defendant’s involvement in an arrangement concerning a person’s actual proceeds of criminal conduct.
+
+C.3b OSCO prior to 1995  
+
+36. The immediate predecessor of the current section 25 was enacted on 20 October 1994[55] to mirror section 25 of the then existing Drug Trafficking (Recovery of Proceeds) Ordinance Cap 405 (“DTROP”) which had been enacted on 13 July 1989.
+
+37. In OSCO 1994, the then section 25 offence (“the old section 25”) was created in the following terms:
+
+Assisting a person to retain proceeds of an indictable offence
+
+(1) Subject to subsection (3), a person who enters into or is otherwise concerned in an arrangement whereby-
+
+(a) the retention or control by or on behalf of another (‘the relevant person’) of the relevant person’s proceeds of an indictable offence is facilitated (whether by concealment, removal from the jurisdiction, transfer to nominees or otherwise); or
+
+(b) the relevant person's proceeds of an indictable offence –
+
+(i) are used to secure funds that are placed at the relevant person's disposal; or
+
+(ii) are used for the relevant person's benefit to acquire property by way of investment,
+
+knowing or having reasonable grounds to believe that the relevant person is a person who has committed or has benefited from an indictable offence, commits an offence.
+
+(2) In this section, references to any person’s proceeds of an indictable offence include a reference to any property which in whole or in part directly or indirectly represented in his hands his proceeds of an indictable offence.
+
+38. The offence created by the old section 25 was therefore centred on the defendant’s entering into or being involved in an arrangement benefiting a particular person referred to as “the relevant person” (“X”).[56]  The subject-matter of the arrangement involved dealing with the “the relevant person’s proceeds of an indictable offence”.  Such proceeds were defined as “any property which in whole or in part directly or indirectly represented in his hands his proceeds of an indictable offence”.  So, while it was not necessary to show that X had himself actually committed the indictable offence, the property in X’s hands had to be shown to have derived from some predicate indictable offence.  They were “his proceeds” of an indictable offence. 
+
+39. The existence, identity and property of the “relevant person” were therefore fundamental to the old section 25 offence: both as to its mens rea and its actus reus. Thus:
+
+(a) The mens rea required was for the accused to get involved in the arrangement knowing or having reasonable grounds to believe that a specific person – X – had committed or benefited from an indictable offence.
+
+(b) The actus reus required was for D to enter into or be concerned in “an arrangement” whereby either:
+
+(i) the retention or control by X or by someone on his behalf of X’s proceeds of an indictable offence was facilitated (by being concealed, removed from Hong Kong, transferred to nominees or otherwise); or
+
+(ii) X’s proceeds of an indictable offence were used as security for obtaining funds or used for buying property or investments for X’s benefit.
+
+C.3c The present section 25 offence
+
+40. The present section 25 has done away entirely with “the relevant person” concept.  It no longer ties the property dealt with to a particular person (X) as the proceeds of an indictable offence in X’s hands.  Nor does it any longer tie the mens rea to what the accused knew or had reasonable grounds to believe about X’s criminal activity or about X having benefited from such activity.  It also does away with any need to show the defendant entering into or being concerned with any “arrangement” involving X’s property for X’s benefit.
+
+41. Section 25(1) now simply states that (subject to the section 25A disclosure provisions):
+
+“... a person commits an offence if, knowing or having reasonable grounds to believe that any property in whole or in part directly or indirectly represents any person's proceeds of an indictable offence, he deals with that property.”
+
+42. The defendant’s mens rea is now established if he is shown to know or to have reasonable grounds to believe that “any property” in whole or in part represents “any person’s proceeds of an indictable offence”. 
+
+43. The defendant now commits the actus reus if he “deals with that property”, such “dealing” being defined to include receiving or acquiring, concealing or disguising, disposing of or converting, bringing into or removing from Hong Kong that property; or using it as security to raise funds. 
+
+44. The current offence therefore focusses on the property – “any property” – and on the circumstances surrounding the defendant’s acts of dealing with that property.  Obviously, if he can be proven to have known that the property represented someone’s proceeds of an indictable offence, the offence is established.  But, if the defendant does not know for a fact that the property represented such proceeds (as is likely to be the case with professional money launderers who would make it their business not to know), it is sufficient for the prosecution to establish that, given the circumstances of which he was aware, surrounding his dealing with the relevant property, the defendant had reasonable grounds to believe that it represented the proceeds of someone’s indictable offence, whether committed in Hong Kong or abroad.
+
+45. It is, in our view, highly significant for the true construction of section 25(1) that the 1995 amendments completely re-engineered the offence so as to abandon the elements of the old section 25 offence which had called for proof that the property represented the proceeds of an indictable offence in the hands of a specified relevant person. Against that background, the fact that the present offence is defined as dealing with “any property” rather than dealing with “the proceeds of an indictable offence”, strongly indicates that the statutory intention is to avoid imposing any requirement of proof that the property dealt with actually represents the proceeds of indictable crime.
+
+C.4  Actual proceeds and OSCO’s confiscation provisions
+
+46. The abandonment in 1995 of the section 25 elements relating to the proceeds of an indictable offence in the hands of the “relevant person” acquires additional significance when viewed in the context of OSCO’s confiscation provisions.
+
+47. As we have seen,[57] as OSCO stood in 1994, the actus reus of the section 25 offence involved the defendant assisting a “relevant person” to keep, hide or use his proceeds of an indictable offence with the mens rea of knowing or having reasonable grounds to believe that such person had committed or benefited from the offence. 
+
+48. The power to order confiscation was likewise premised on the property subject to confiscation being shown to be the actual proceeds of an indictable offence in the defendant’s hands.  Such property had to represent a payment or other reward received by him in connection with the commission of the offence. 
+
+49. Accordingly, in OSCO 1994:
+
+(a) Section 2(6) relevantly provided:
+
+“For the purposes of this Ordinance –
+
+(a) any payments or other rewards received by a person at any time ... in connection with the commission of an offence are his proceeds of that offence; and
+
+(b) the value of his proceeds of that offence is the aggregate of the values of those payments or rewards.”
+
+(b) And section 2(8) provided:
+
+“For the purposes of this Ordinance, a person who has at any time .... received any payment or other reward in connection with the commission of an offence ... has benefited from that offence ...”
+
+50. As we have seen,[58] the concepts of “his proceeds” and “benefit” fed into the old section 25, making it clear that the property had to consist of the actual proceeds of crime.
+
+51. Those concepts also fed into the confiscation provisions.  Where a defendant had been convicted and was to be sentenced in respect of a specified offence,[59] the court was required to determine whether he had benefited from the specified offence and if so, whether his proceeds totalled at least $100,000.[60]  If so, the court went on to determine the amount to be recovered and made an confiscation order (with any needed adjustments in the light of other court orders) that he pay that amount.[61]
+
+52. But once the “relevant person” and its associated concepts were taken out of the section 25 offence by the 1995 amendments, the liability regime diverged in this crucial respect from the confiscation regime.  The concepts involving a person’s proceeds and benefit flowing from the receipt of payments or other rewards in connection with the commission of a specified offence continue to be employed for the purposes of the confiscation regime, as this Court recognized in HKSAR v Li Kwok Cheung George.[62]  But those concepts no longer mesh with the actus reus elements of the present section 25. 
+
+53. The fact that the legislature chose to restructure the section 25 offence to disengage it from the concepts of the “relevant person”, “his proceeds”, “payments or other rewards received in connection with an offence” and “benefiting from” an offence – the concepts that previously had made it clear that the proceeds actually had to derive from an indictable offence – is a strong indication that the statutory intent has changed.  It no longer requires proof that the property dealt under section 25(1) consists of the actual proceeds of an indictable offence.  This is underlined by the contrasting retention of those concepts in relation to the confiscation provisions.[63]
+
+C.5  The principle of legality
+
+54. In A v Commissioner of ICAC,[64] the Court acknowledged the applicability of the principle of legality in cases where it is sought to construe legislation as seeking to override or constrain fundamental rights.  If, on its true construction, such is the effect of a statute then a constitutional challenge to its validity and issues as to proportionality may of course arise.  However, the principle of legality raises a presumption against such an interpretation and holds that, for such a conclusion to be reached, abrogation of the fundamental rights has to be effected unmistakeably, expressly or by necessary implication.[65]  The Court, in other words, has to be satisfied that the legislature had its attention properly drawn to the abrogating provision and consciously enacted legislation to such effect.
+
+55. Yeung relies upon this principle,[66] suggesting that a construction of section 25(1) which does not require proof that the property dealt with in fact consists of the proceeds of an indictable offence violates the rights to private ownership of property guaranteed by Articles 6[67] and 105[68] of the Basic Law.
+
+56. Yeung asserts in his printed case that:
+
+“In the context of the present case, the risk that the principle of legality was specifically designed to prevent manifested itself in full force. The legislative history of s.25(1) clearly shows that the legislature did not direct any attention to the possibility that the new s.25(1) of OSCO would (if the conclusion in Oei was correct) have the effect of abrogating or curtailing the freedom to deal with ‘clean’ property, effectively transforming the s.25(1) offence into a thought crime; nor could the legislature have determined upon the abrogation of that right when it was never told that the 1995 amendments to both the DTROP and OSCO were intended to have such an effect.”[69]
+
+57. We are not persuaded that the constitutionally protected property rights are engaged.  Nor do we accept that on the construction adopted in Oei Hengkyo Wiryo,[70] section 25(1) creates “a thought crime”: A person who is convicted of dealing with property in one or more of the ways listed in OSCO s 2 in circumstances where he had reasonable grounds to believe that it represented the proceeds of an indictable offence can hardly be said to have been convicted merely on the basis of his thoughts.  This is especially so given the existence of the disclosure immunity or defence provided by section 25A.[71]
+
+58. The gravamen of Yeung’s complaint appears to be that the expanded liability resulting from the section’s amendment in 1995 was not properly brought to the attention of members of the Legislative Council.  It is suggested that they were told that the amendment sought merely to cover cases of money laundering by the predicate offender himself.
+
+59. That complaint is not made out.  It is true that legislators were told that an important object of the 1995 amendments was to extend the offence to cover self-laundering cases. However, they were also expressly informed of the creation of a new offence and apprised of its purpose and effect. 
+
+60. In a Legislative Council Brief dated 10 April 1995,[72] which pointed out that the DTROP and OSCO Bills made the same changes in relation to, inter alia, confiscation and money laundering,[73] legislators were told that the old section 25 was repealed and that there was being created a new offence of “dealing with property knowing or believing it to represent the proceeds of drug trafficking” subject to a disclosure defence in the new section 25A.[74]  In the annexed OSCO Bill 1995 Explanatory Memorandum, the stated objects of the Bill were (a) to reflect similar amendments made to DTROP; and (b) “to meet operational needs by removing possible ambiguities and overcoming practical difficulties”.
+
+61. At the Bills Committee stage, members were told by the Acting Commissioner for Narcotics that the purpose of the DTROP Bill was, among other things, “to improve the principal Ordinance in the light of the operational experience since its enactment in 1989”.[75] Regarding section 25, she explained:
+
+“... that there were practical difficulties in prosecution against a money laundering offence under the existing section 25. In particular, it was not possible to prosecute a drug trafficker for laundering his own proceeds.”[76]
+
+The Senior Assistant Crown Prosecutor added:
+
+“... that the existing section 25(1) was complex and cumbersome, which had caused difficulties in prosecuting money launderers in general.”
+
+62. The expansion of liability brought about by the new section 25 did not go unremarked.  A member noted that the Law Society had pointed to how the “new section 25 widens the previous prohibition on assisting another to retain the benefits of drug trafficking” and commented that:
+
+“It is arguably objectionable because of its breadth and uncertainty of application, and because it does not actually require a person to ‘know’ that the property in question is the proceeds of drug trafficking. Instead, liability arises simply because there were ‘reasonable grounds to believe’ (contrast to ‘suspects’ under the UK legislation).”[77]
+
+63. The difficulties of prosecution and the re-casting of the offence to change its focus from the drug trafficker to the property being laundered were explained in a letter from the Commissioner for Narcotics to the Bills Committee dated 13 June 1995, as follows:
+
+“There are difficulties in prosecution against a money laundering offence under existing section 25 of the Ordinance; and to date there has been no successful prosecution under that section. In particular the practical difficulties are –
+
+(a) that it is not possible to prosecute a drug trafficker for laundering his own proceeds; and
+
+(b) with the current requirement as regards the mental element of the crime – the defendant must have knowledge relating to the drug trafficker, rather than knowledge relating to the property which he is trying to launder and which he knows or has reasonable grounds to believe is the proceed of drug trafficking.
+
+The new section 25 is expected to overcome the above difficulties.”
+
+64. Anyone who took the trouble to compare the old section 25 with the proposed new section would have seen that the two offences have very different ingredients.  The legislators, particularly the members of the Bills Committee, took note of those changes, expressed concern as to the broadening of liability and asked for information about difficulties of prosecution and about how the new section 25 proposed to overcome them.  They were expressly told of the shift of focus from the drug trafficker to the laundered property.  There is no question of the new section having been passed into law without due consideration by the legislature.
+
+C.6  R v Montila and Oei Hengkyo Wiryo
+
+65. As noted in Section C.1 above, the Court has ruled in Oei Hengkyo Wiryo[78] and subsequent decisions that it is not necessary for the prosecution to prove, as an element of the section 25(1) offence, that the property dealt with by the defendant in fact represents the proceeds of an indictable offence.  Yeung invites the Court to hold that Oei was wrongly decided.  The Court is urged to adopt the contrary view arrived at by the House of Lords in R v Montila[79] in relation to the money laundering offences created by section 93C(2) of the Criminal Justice Act 1988 (“CJA 1988”) and section 49(2) of the Drug Trafficking Act 1994 (“DTA 1994”) in the United Kingdom.
+
+C.6a The legislative framework of R v Montila
+
+66. The United Kingdom is a Party to the Vienna Convention 1988[80] which requires each party domestically to establish a range of criminal offences against the drug trade.  These include the offence of laundering property derived from drug offences, knowing its provenance.[81]
+
+67. The UK sought to implement the Vienna Convention by enacting the Criminal Justice (International Co-operation) Act 1990.  The relevant provision concerning the laundering of the proceeds of drug trafficking was subsequently re-enacted as DTA 1994 s 49(2) as follows:
+
+“49(2) A person is guilty of an offence if, knowing or having reasonable grounds to suspect that any property is, or in whole or in part directly or indirectly represents, another person's proceeds of drug trafficking, he—
+
+(a) conceals or disguises that property; or
+
+(b) converts or transfers that property or removes it from the jurisdiction,
+
+for the purpose of assisting any person to avoid prosecution for a drug trafficking offence or the making or enforcement of a confiscation order.”
+
+68. In 1993, the UK enacted the Criminal Justice Act 1993 which inserted provisions into CJA 1988 to embrace laundering more generally of the proceeds of criminal conduct.  CJA 1988 s 93C(2) provided:
+
+“(2) A person is guilty of an offence if, knowing or having reasonable grounds to suspect that any property is, or in whole or in part directly or indirectly represents, another person's proceeds of criminal conduct, he —
+
+(a) conceals or disguises that property; or
+
+(b) converts or transfers that property or removes it from the jurisdiction,
+
+for the purpose of assisting any person to avoid prosecution for an offence to which this Part of the Act applies or the making or enforcement in his case of a confiscation order.”
+
+69. The charges in Montila were laid under the abovementioned sections 49(2) and 93C(2).  However, by the time the case reached the House of Lords, they had been replaced by section 327(1) of the Proceeds of Crime Act 2002 which provides that a person commits an offence if he conceals, disguises, converts or transfers criminal property or removes criminal property from England and Wales or from Scotland or from Northern Ireland.  Section 340(3) of that Act defines “criminal property” as follows:
+
+“Property is criminal property if-
+
+(a) it constitutes a person's benefit from criminal conduct or it represents such a benefit (in whole or part and whether directly or indirectly), and
+
+(b) the alleged offender knows or suspects that it constitutes or represents such a benefit.”
+
+C.6b Differences in the Hong Kong legislative scheme
+
+70. There are significant differences between the Hong Kong and UK legislative schemes. 
+
+71. First, as we have seen,[82] when OSCO was originally enacted in 1994, it created an offence which did require proof of the tainted provenance of the laundered property.  However, the legislature radically re-cast the offence in 1995, strongly indicating that its intention was to make it no longer necessary to prove that actual criminal provenance of the property dealt with.[83]  The House of Lords in Montila was not construing sections 49(2) and 93C(2) against any such legislative background.
+
+72. Secondly, there is a major structural difference in the offences created by DTA 1994 s 49(2) and CJA 1988 s 93C(2) as compared with OSCO s 25(1).  In the UK provisions, the offence is committed where the defendant conceals or disguises the property; or converts or transfers or removes it from the jurisdiction “for the purpose of assisting any person to avoid prosecution for a [drug trafficking or CJA 1988] offence or the making or enforcement of a confiscation order”. 
+
+73. The italicised words lend themselves to a construction which requires the property concerned to be the actual proceeds of crime.  They require proof of a purpose on the defendant’s part which comes very close to proof that he knows that the property is actually tainted.  He must be shown to have acted with the purpose of assisting the relevant person to avoid prosecution for the offences specified, or for the purpose of avoiding the making or enforcement of a confiscation order.  Moreover, the defendant must be shown to have performed one of a limited range of acts which are suggestive of knowing complicity, namely: concealing or disguising the property; converting or transferring or removing it from the jurisdiction.[84]
+
+74. As Hooper LJ, referring to DTA 1994 s 49(2), pointed out in R v Liaquat Ali:[85]
+
+“The section requires the defendant to conceal or disguise etc ‘for the purpose of assisting any person to avoid prosecution for a drug trafficking offence’. It is difficult to see how a person who only ought to have known or suspected can have as the purpose of the concealment etc ‘assisting any person to avoid prosecution for a drug trafficking offence’.”
+
+75. And as Lord Nicholls of Birkenhead stated in R v Saik:[86]
+
+“I readily accept that, evidentially and inferentially, it is a short step from proof that the defendant's purpose was to assist someone to avoid prosecution to a conclusion that the defendant was aware the property had an illicit provenance.”
+
+76. Such considerations do not enter into the construction of OSCO s 25(1) which lacks any equivalent to the words italicised above.  All reference to assisting in the retention, etc, of the proceeds of an indictable offence in a particular person’s hands and to knowledge or reasonable grounds to believe that such person has committed or benefited from an indictable offence have been jettisoned.
+
+C.6c The Vienna Convention
+
+77. One argument that was made in Oei and repeated in the present appeal is that the Montila approach should be adopted since it gives effect to the Vienna Convention which applies to Hong Kong and which mandates the creation of money laundering offences knowingly committed.
+
+78. We do not accept that argument.  As McHugh NPJ pointed out in Oei Hengkyo Wiryo,[87] and as Lord Hope acknowledged in Montila,[88] the Convention was only laying down legislative baselines, leaving it open to individual Parties to decide on the form and stringency of their domestic offences.  The Vienna Convention’s minimum standards therefore do not throw light on the true construction of OSCO s 25(1).
+
+C.6d Section 25A and the construction of section 25(1)
+
+79. One of the key reasons given by Lord Hope in Montila[89] for adopting a construction requiring proof of actually tainted proceeds was “the absence of any defence if the property which the defendant is alleged to have known or had reasonable grounds to suspect was another person's proceeds turns out to be something different.”  His Lordship elaborated as follows:
+
+“Subsequent events may show that the property that he was dealing with had nothing whatever to do with any criminal activity at all, but was the product of a windfall such as a win on the National Lottery. On the Crown's argument it is enough for it to be proved that he had the mens rea at the time when he was dealing with the property and that he was doing what he did for the purpose that the subsection identifies.”[90]
+
+80. The problem may perhaps be less acute than might first appear since, as we have seen,[91] to prove that the defendant “was doing what he did for the purpose that the subsection identifies” requires the prosecution in the UK to prove that the defendant was acting for the purpose of assisting someone to avoid prosecution for a drug trafficking or CJA 1988 offence or to avoid the making or enforcement of a confiscation order.  It seems unlikely that an innocent lottery winner would come under suspicion in respect of this element of the offence.
+
+81. Nevertheless, it is noteworthy that DTA 1994 s 49(2) and CJA 1988 s 93C(2) under which Montila was charged were not subject to any disclosure immunity or defence.[92]  In contrast, a person who may be at risk of possible prosecution under OSCO s 25(1) is able to immunise himself by resorting to the disclosure procedure under section 25A which provides as follows:
+
+“(1) Where a person knows or suspects that any property-
+
+(a) in whole or in part directly or indirectly represents any person's proceeds of;
+
+(b) was used in connection with; or
+
+(c) is intended to be used in connection with,
+
+an indictable offence, he shall as soon as it is reasonable for him to do so disclose that knowledge or suspicion, together with any matter on which that knowledge or suspicion is based, to an authorized officer.
+
+(2) If a person who has made a disclosure referred to in subsection (1) does any act in contravention of section 25(1) (whether before or after such disclosure), and the disclosure relates to that act, he does not commit an offence under that section if-
+
+(a) that disclosure is made before he does that act and he does that act with the consent of an authorized officer; or
+
+(b) that disclosure is made-
+
+(i) after he does that act;
+
+(ii) on his initiative; and
+
+(iii) as soon as it is reasonable for him to make it.”
+
+82. Section 25A goes a long way towards meeting concerns of the type illustrated by Lord Hope’s example of the lottery winner.  No issue of possible liability arises unless such a person has reasonable grounds to believe that the funds which turn out to have an innocent source are the proceeds of an indictable offence.  Lacking such grounds, that person commits no offence.  If, on the other hand, he knows that they are tainted, he cannot complain about being found guilty.  If he does not know but does have reasonable grounds to believe that the funds are tainted, the law gives him the means to immunise himself from liability under section 25(1) by disclosing his suspicion to an authorized officer – a police officer or a member of the Customs and Excise Service.[93]  Such officers have legal powers to investigate the provenance of the funds – and if, after inquiry, they turn out to be lottery winnings or have some other innocent provenance, no injustice to the person dealing with the funds arises. 
+
+83. Disclosure to the authorities has always been a central feature of our legislative scheme.  Thus, in relation to the old DTROP, in AG of Hong Kong v Lee Kwong Kut,[94] Lord Woolf of Barnes stated:
+
+“The language of section 25 makes the purpose of the section clear. It is designed to make it more difficult for those engaged in the drug trade to dispose of the proceeds of their illicit traffic without the transactions coming to the knowledge of the authorities. Once a person has knowledge or has reasonable grounds to believe that a relevant person carries on or has carried on drug trafficking or has benefited from drug trafficking, then it will be an offence to become involved with 'the relevant person' in any of the wide-ranging activities referred to in the section, unless the activity is reported in accordance with subsection (3) or the person who engages in the activity is in a position to establish the defence[95] provided for in section 25(4).” (Emphasis added)
+
+84. Similarly, in HKSAR v Pang Hung Fai,[96] Spigelman NPJ explained:
+
+“Two purposes stand out. First, by the identification of what has come to be called money laundering, the legislative scheme deprives perpetrators of crime of the proceeds of their conduct. Secondly, the scheme ensures that, under pain of penalty, those who know, or even suspect that, relevantly, monies constitute such proceeds, will report that knowledge or suspicion to the authorities, to facilitate further investigation.”
+
+85. The section 25(1) offence is therefore aimed at making accountable persons who deal with property in circumstances which give them reasonable grounds to believe that such property represents the proceeds of an indictable offence.  Its impact is felt primarily in the financial sector where section 25A is much relied on for its immunising effects.  Thus, the Joint  Financial Intelligence Unit[97] set up to administer section 25A reported that in 2015, they received 42,555 suspicious transaction reports, of which 34,959 (82.15%) were made by banks.  Four other sectors which together accounted for a further 14.21% of such reports in 2015 were listed as the insurance, securities, money service operator and legal sectors.
+
+86. When Lord Hope was construing sections 49(2) and 93C(2) – offences whose impact was not attenuated by any protective disclosure procedure – he was dealing with offences which were functionally different from and potentially harsher than the offence created by section 25(1) taken in combination with section 25A.  It is perhaps unsurprising that in the absence of any defence or immunising procedure, Lord Hope favoured a construction requiring a higher threshold for establishing liability.
+
+C.6e The Proceeds of Crime Act 2002
+
+87. Finally, attention may be drawn to a further point of difference affecting the statutory construction adopted in Montila.  As noted above,[98] the operative offences in Montila were replaced by provisions in the Proceeds of Crime Act 2002 which, by their definition of “criminal property”, expressly require the property dealt with to be the actual proceeds of crime.[99]
+
+88. Lord Hope appears to have given that subsequently enacted provision some weight in construing the earlier sections 49(2) and 93C(2).  Having described[100] the approach taken to the actus reus of the offences in the 2002 Act as “instructive”, his Lordship commented:
+
+“The language that [Parliament] has chosen to use in the 2002 Act is different from that in the enactments which are in issue in this case. There is no room for any ambiguity. The property that is being dealt with in each case must be shown to have been criminal property. But it would be surprising if the intention was to reduce the scope of these offences.”[101]
+
+89. There may be difficulties in referring to a subsequent, amending enactment as an aid to construction of an earlier statute,[102] but such reasoning is in any event inapplicable in Hong Kong since no equivalent to the 2002 Act exists in this jurisdiction.
+
+C.7  Conclusion as to Question 1 and the proceeds issue
+
+90. For the foregoing reasons, our answers to Question 1 are (i) that on a charge under OSCO s 25(1) it is not necessary for the prosecution to prove, as an element of the offence, that the proceeds being dealt with were in fact the proceeds of an indictable offence; and (ii) that Oei Hengky Wiryo was correctly decided on this issue.
+
+91. We would add that we consider there to be strong policy reasons favouring this conclusion.  As was indicated in Wong Ping Shui, [103]the predicate offence is likely to have taken place in one or more foreign jurisdictions, not susceptible to proof in Hong Kong, and the proceeds of such crimes are likely to have passed through various layers and transformations aimed at concealing their provenance. 
+
+D.  Questions 2 and 4: the mens rea and Pang Hung Fai issues
+
+92. Questions 2 and 4 can be dealt with together.  They both concern the mens rea requirements of section 25(1) in which the relevant words are italicised as follows:
+
+“Subject to section 25A, a person commits an offence if, knowing or having reasonable grounds to believe that any property in whole or in part directly or indirectly represents any person's proceeds of an indictable offence, he deals with that property.”
+
+93. These Questions seek clarification of those mens rea elements in the light of the Court’s decision in HKSAR v Pang Hung Fai.[104]  
+
+D.1  Pre-Pang Hung Fai
+
+94. Prior to that decision, the lower courts had consistently adopted the approach laid down by Mayo JA giving the judgment of the Court of Appeal in HKSAR v Shing Siu Ming,[105] as follows:
+
+“Knowledge if proved would simply resolve the matter. Difficulty, however, arises from the use of the words ‘having reasonable grounds to believe’. This phrase, we are satisfied, contains subjective and objective elements. In our view it requires proof that there were grounds that a common sense, right-thinking member of the community would consider were sufficient to lead a person to believe that the person being assisted was a drug trafficker or had benefited therefrom. That is the objective element. It must also be proved that those grounds were known to the defendant. That is the subjective element.”
+
+His Lordship added:
+
+“The prosecution is not called upon to prove actual belief. It would be sufficient to prove reasonable grounds for such a belief and that the defendant knew of those grounds. ... He (the judge) has similarly placed too high a burden on the prosecution as regards the objective element, i.e. the belief of the reasonable man. The jury did not have to be satisfied that a reasonable person would have held such a belief but only that such a person would be satisfied that there were grounds sufficient to sustain such a belief. Clearly if the jury was satisfied that a reasonable person would have held such a belief, in accordance with the direction given by the judge, then they must have been satisfied that the grounds were sufficient to sustain such a belief.”[106]
+
+95. The Shing Siu Ming approach to mens rea therefore had the following features:
+
+(a) It began with what was referred to as “the objective element”, asking whether there were reasonable grounds for “a common sense, right-thinking member of the community” to believe that the person being assisted was a drug trafficker or had benefited therefrom.
+
+(b) If the answer was “Yes”, it went on to ask whether the defendant knew of those grounds, referred to as “the subjective element”.[107]
+
+(c) The standard to be applied in assessing whether the so-called objective element was established, was whether a “common sense, right-thinking member of the community” would consider the grounds “sufficient to lead a person to believe that the person being assisted was a drug trafficker or had benefited therefrom”.
+
+D.2  The facts of Pang Hung Fai
+
+96. Pang Hung Fai was an unusual money laundering case.  The defendant was not in the business of handling funds and the prosecution was concerned with a one-off transaction.  The defendant Pang’s case was that he had allowed two strangers’ cheques to be paid into his account and the proceeds remitted abroad at the request of one Kwok Wing, an old friend whom he had trusted implicitly, without having any reason to suspect that those cheques had anything to do with a criminal offence. 
+
+97. The circumstances surrounding the transaction included the following.  Pang and Kwok had been close friends for over 30 years.  Kwok was the chairman and a major shareholder of a Hong Kong listed company and was in the garments business on a very large scale, with a factory in Cambodia employing 20,000 workers as well as two factories on the Mainland having a combined area of 100,000 sq ft which he leased from Pang.  They lived close by each other and their families frequently socialised together over the years.  They had given each other unsecured, interest-free loans of some $2 million and $5 million to meet cash-flow difficulties, such loans having been repaid after a short time. 
+
+98. The transaction in question was initiated by Kwok asking Pang to enable some money to be remitted into Pang’s bank account, saying that two of Kwok’s friends on the Mainland were going to return some money to him.  Pang agreed without asking any questions and remittances of HK$7,582,150 and HK$6,467,230, by persons unknown to Pang were received in the bank account he had made available.  Some three weeks later, at Kwok’s request, Pang caused the entirety of those amounts totalling HK$14,049,380 to be remitted to Kwok’s company in Cambodia.  The prosecution proved that those funds were in fact the proceeds of a fraud committed by Kwok on his listed company.
+
+D.3  Pang Hung Fai in the Court of Appeal
+
+99. In the Court of Appeal in Pang Hung Fai,[108] McWalters J (as McWalters JA then was) recognized that approaching the so-called objective and subjective questions in the order mentioned by Mayo JA entailed a risk that the “first question, the objective question, might be answered by reference to what the prosecution has proven rather than by what the prosecution has proven was known by the defendant” and suggested that the order should be reversed.[109]  He held, however, that the defendant had not been prejudiced by the Shing Siu Ming order in which the questions had in fact been addressed.[110]
+
+100. McWalters J held that a two-step approach ought to be adopted:
+
+“The first step in determining whether a defendant had reasonable grounds to believe is to identify all the facts known to the defendant that relate to the dealing with property that is the subject of the charge. These facts may, depending on the circumstances of each case, extend beyond those relating to just the dealing with the property and include facts known to the defendant about other persons or circumstances linked in some way to the dealing.”[111]
+
+“The second step is to process these facts through the mind of the common sense, right-thinking member of the community and determine whether this person, possessed of these facts, objectively would consider them sufficient to lead a person to believe that the property in question constitutes the proceeds of an indictable offence. When this reasonable person considers these facts objectively it means he does so uninfluenced by the personal beliefs, perceptions or prejudices of the defendant.”[112]
+
+101. His Lordship regarded the test as essentially “objective” and, as the last sentence of the second passage cited indicates, he was anxious that while the Court should take into account all the facts and circumstances known to the defendant, it should exclude certain “subjective elements” so that they would not “adulterate what has to be an objective assessment.”[113] His Lordship explained:
+
+“A desire not to think ill of a friend or a wish to view his conduct through rose-coloured glasses may operate as blinkers on the applicant's assessment of the conduct or facts known to him. But these blinkers are not worn by the reasonable man who, unconstrained by emotion, stands back from the facts and considers them dispassionately. This does not involve him in removing the facts from their context and analysing them in a meaningless isolation which inevitably and unfairly skews his assessment of them. It simply means that the personal beliefs, perceptions or prejudices of the applicant are removed from the assessment process.”[114]
+
+102. As indicated in his “second step”, McWalters J considered that in determining whether the requisite “reasonable grounds to believe” existed one should ask whether “the common sense, right-thinking member of the community ... possessed of [the facts known to the defendant], objectively would consider them sufficient to lead a person to believe that the property in question constitutes the proceeds of an indictable offence.”  By this he meant that the standard was what the reasonable man “could” believe:
+
+“... the mens rea is not concerned with what the reasonable man might or would believe but rather with what he could believe.”[115]
+
+D.4  This Court’s decision in Pang Hung Fai
+
+103. The central principle on which this Court’s decision in Pang Hung Fai[116] is based rests on the wording of section 25(1).  As Spigelman NPJ[117] pointed out, the directly relevant words that fall to be interpreted are: “having reasonable grounds to believe”.[118] Those words in section 25(1) refer to the grounds which the accused has: “... by the use of the word ‘having’, the decision-maker's attention is directed expressly, by the terms of the section, to the grounds available to the accused”.[119]  This was the focus in HKSAR v Yan Suiling,[120]and it was on this basis that his Lordship commended[121] the simple test propounded in the Appeal Committee in Seng Yuet Fong v HKSAR[122] in the following terms:
+
+“To convict, the jury had to find that the accused had grounds for believing; and there was the additional requirement that the grounds must be reasonable: That is, that anyone looking at those grounds objectively would so believe.”
+
+As Spigelman NPJ emphasised: “... it is the accused who must be shown to ‘have had reasonable grounds to believe’.”[123]
+
+104. Spigelman NPJ noted that the Court of Appeal in Shing Siu Ming and in Pang Hung Fai referred to above[124] had been diverted from the central principle by certain “distractions”, namely: (i) replacing the word “grounds” with the narrower word “facts”; (ii) introducing the concepts of “objective” and “subjective” which are not in the section; (iii) personifying the “objective” element in terms of a “reasonable person” or “right-thinking member of the community” instead of focussing on the grounds available to the accused; and (iv) postulating a two-step test which could (as it did in Pang Hung Fai) inappropriately restrict the range of matters taken into account in considering what grounds were available to the accused.[125]
+
+105. The Court[126] disapproved of the Court of Appeal’s exclusion from the assessment of reasonable grounds “the personal beliefs, perceptions or prejudices of the defendant” while taking account of the facts and circumstances known to him.[127]
+
+106. The Court of Appeal’s view that “the mens rea is not concerned with what the reasonable man would believe but rather with what he could believe”[128] was also held to be erroneous.  The applicable standard was whether on the grounds available to him, the accused would have been led to have the requisite belief.[129] Spigelman NPJ pointed out that this reflects a significant mens rea element in the second limb of the offence under s 25(1) and imports a strong element of moral blame:
+
+“By the imposition of the same penalty, the mental element of the ‘reasonable grounds’ alternative is regarded as being at the same level of moral obloquy as actual knowledge. A test that propounds a relationship between the existence of ‘grounds’ and a state of ‘belief’ in terms of possibility does not do that. Only a test which states that those ‘grounds’ would lead to the ‘belief’ does so.”[130]
+
+D.5  As to Question 2
+
+107. Question 2[131] asks to what extent a Judge needs to make positive findings as to a defendant's belief, thoughts and intentions at the material time even though the judge rejects the defendant’s testimony and whether, in a case where the defendant’s testimony is rejected the Judge can “remain oblivious to the defendant’s actual reason(s) for dealing with the specified proceeds in making the finding that the defendant had reasonable grounds to believe that the proceeds he dealt with were proceeds of crime”.
+
+108. In addressing this Question, the starting-point is the abovementioned principle[132] that section 25(1) requires proof that the defendant had the requisite reasonable grounds to believe.  In this context, it is important to appreciate that an examination of the defendant’s state of mind may be relevant for two purposes.
+
+109. The first is inculpatory. Thus, the test propounded in Seng Yuet Fong is an inculpatory test for establishing mens rea:
+
+“To convict, the jury had to find that the accused had grounds for believing; and there was the additional requirement that the grounds must be reasonable: That is, that anyone looking at those grounds objectively would so believe.” (Emphasis added)
+
+110. The defendant’s state of mind is assessed for the inculpatory purpose of asking whether, on the reasonable grounds proven to have been available to him, he wouldhave been led to have the requisite belief.[133] His knowledge or appreciation of the circumstances which supply such grounds provide the element of moral blameworthiness discussed above. 
+
+111. The second is an exculpatory purpose.  Thus, it was held in Pang Hung Fai that McWalters J was wrong to exclude from consideration what he called “the personal beliefs, perceptions and prejudices” of the accused.  As Spigelman NPJ noted, such matters fit readily within the concept of a “ground”, which a particular person can be said to have “had” and which may be such as to exclude a culpable state of mind.
+
+112. For example, in Yan Suiling,[134]the defendant explained that cheques issued by various persons whom she did not know, paid into her bank account in Hong Kong were received as part of underground banking transactions reflecting back-to-back deposits made on her behalf on the Mainland, undertaken as a means of circumventing the Mainland’s exchange control limits on converting RMB into Hong Kong Dollars.  If believed, such evidence would have been exculpatory.  It would have constituted a basis for holding that, knowing what she did about the reason for the cheques paid into her account, she did not have reasonable grounds to believe that such funds represented the proceeds of an indictable offence.  Chan PJ, giving the judgment of the Court, put this as follows:
+
+“In her evidence, the appellant sought to explain how she came to receive the cheque in question and more importantly, why she had made no enquiry when she received the cheque. If this explanation was true or might be true, this would support or tend to support her claim that there was no reason for her to make enquiry and she had no reasonable grounds to believe that the payment she received was the proceeds of crime. The Judge accepted that in that case, she should be acquitted.”[135]
+
+113. Another example is the case of HKSAR v Li Kwok Cheung George,[136] where the property dealt with was known by the defendants concerned to be “clean” funds provided by a financial services company intended to be used as an instrument of fraud rather than funds representing the proceeds of an indictable offence.  The Court declined to treat the transaction as falling within section 25(1) since to do so would have involved treating payments as constituting the offence without having to be payments which the defendant knows or has reasonable grounds to believe are tainted proceeds.[137]
+
+114. In Pang Hung Fai itself, the trial judge was found to have erred in failing to take into account evidence of the accused’s beliefs and perceptions which were capable of being exculpatory. As Spigelman NPJ noted:
+
+“... Although earlier in his judgement, the trial judge sets out the close personal and business relationship between the two men, extending as it did over decades, none of these factors are contained in the list of facts available for consideration by the ‘commonsense, right-thinking member of the community’ at [101]-[107]. Accordingly, even the matters referred to in [102], [103] and [104] are out of context. More importantly, none of these other aspects of the relationship are listed as facts which the ‘reasonable person’ took into account. This error is probably a result of asking the HKSAR v Shing Siu Ming questions in the wrong order.
+
+In my opinion the appellant's contention that the list of grounds considered by the trial judge was too narrow should be upheld.”[138]
+
+115. The conclusion which a court reaches on the issue of whether a defendant had the relevant reasonable grounds to believe depends on the state of the evidence. 
+
+116. If he provides no evidence at all of his beliefs and perceptions, etc, the Court is left to draw whatever inferences may be proper based on the prosecution’s evidence.  Such evidence will no doubt be intended by the prosecution to be inculpatory as establishing the indicia of money laundering.  But such evidence may also of course be exculpatory, casting doubt on whether the defendant had the necessary reasonable grounds to believe.
+
+117. If the defendant does testify or call evidence as to his state of mind but is entirely disbelieved, the court finds itself essentially in the position described in the preceding paragraph.  Rejecting the defendant’s evidence does not automatically mean that he must be convicted.  It remains necessary for the court to be satisfied that the case against him has been proved beyond reasonable doubt.  In HKSAR v Yan Suiling,[139] for instance, the appeal was allowed on the basis that after rejecting the defendant’s evidence regarding her underground banking involvement, there was an insufficient basis for the Court to be satisfied that she must have had reasonable grounds to believe that the money in question represented the proceeds of crime.
+
+118. If, on the other hand, the evidence provided by the defendant as to what he perceived and believed is accepted as true or as evidence which may be true; and if true would be inconsistent with him having reasonable grounds to believe that the property in question represents the proceeds of crime, an acquittal is called for since an essential mens rea element cannot be established against the defendant. 
+
+119. No difficulty arises if the defendant’s evidence provides a plausible explanation for his dealing with the property.  But what of the situation where the defendant’s asserted perceptions or beliefs, even though believed, would strike others as excessively naïve or gullible or foolish in the light of objective facts known to the defendant which would have led others readily to believe that reasonable grounds existed to believe that the property was tainted?  The facts of Pang Hung Fai furnish a possible example.[140] Many people might well have considered it suspicious for Kwok to ask Pang to receive payments into Pang’s bank account and then to remit the funds to Cambodia shortly afterwards for no apparent reason.  Kwok, as Pang must have known, undoubtedly had his own bank accounts and, given his substantial business interests in Cambodia, undoubtedly had ample means of transferring funds between Hong Kong and that country.  However, given the evidence of his long and particularly close friendship with Kwok described above, if there had been a re-trial, Pang might have been able plausibly to claim that he had asked no questions because he trusted Kwok implicitly, believing him to be an honourable and substantial businessman and that he had no reason to suspect that the funds were the proceeds of crime.  The principle which requires the focus to remain on whether the defendant had the requisite reasonable grounds to believe dictates that even in such cases, the offence is not made out.[141] 
+
+120. There may of course be instances where the defendant’s avowed beliefs are so far-fetched and bizarre that no one could be expected to regard the matters relied on as displacing the reasonable grounds which he obviously has for believing that the property stems from indictable offences.  In such cases, the Court is likely to disbelieve the defendant rather than to find itself having to resolve a tension between his asserted beliefs and the proposition that, on the grounds available to him, he would reasonably have been led to believe that the property dealt with was tainted.
+
+121. Question 2 postulates the rejection of evidence of the defendant’s state of mind which, one assumes, is intended to be exculpatory.  It asks what consequences should flow from the judge’s rejection of the defendant’s testimony.  As the foregoing discussion indicates, the answer is that the Court must act according to the state of the evidence which remains, asking whether all the elements of the offence have been established beyond reasonable doubt.  There is no requirement (as Question 2 appears to suggest) that even after rejecting the defendant’s testimony, the Court must make findings as to his “belief, thoughts [and] intentions at the material time”, whatever the state of the evidence. 
+
+122. Yeung testified and called evidence with a view to providing innocent explanations for the funds flowing through his bank accounts and to negating the existence of reasonable grounds on his part to believe that such funds were the proceeds of crime.  He was, however, almost entirely disbelieved.  That left the Court with the task of deciding whether, on the evidence which it did accept, the section 25(1) offences were made out beyond reasonable doubt.  It held that they were so established.  No error of law was involved in reaching that conclusion.
+
+D.6  As to Question 4
+
+123. Question 4[142] addresses a narrow issue raised by the prosecution.  As we have seen,[143] when dealing with the second limb of the mens rea requirements imposed by the words “having reasonable grounds to believe” in section 25(1), the Court in Pang Hung Fai commended the test articulated in Seng Yuet Fong v HKSAR[144] in the following terms:
+
+“To convict, the jury had to find that the accused had grounds for believing; and there was the additional requirement that the grounds must be reasonable: That is, that anyone looking at those grounds objectively would so believe.”
+
+124. The Question suggests that there is a need to reconcile that test with “the formulation ‘knew or ought to have known’ set out in Pang Hung Fai”.  Difficulty is seen to arise out of the following paragraphs in that judgment:[145]
+
+“55. Although it is usually undesirable to substitute the words of a statute with an equivalent formulation, it is sometimes appropriate to do so, for purposes of clarification. For example, when an alternative formulation may assist a jury in its deliberations. On most such occasions, the Seng Yuet Fong formulation will be all that is required.
+
+56. However, another formulation may sometimes assist. In s.25(1), the word ‘believe’ is used in the sense of ‘know’. The two mental elements in the subsection should be understood as if they read: ‘knew or ought to have known’.”
+
+125. The suggestion in paragraph 56 that a test could be formulated using the words “knew or ought to have known” appears not to sit comfortably with the rest of the Pang Hung Fai judgment.  In particular, as pointed out in the prosecution’s printed case,[146] the phrase “ought to have known” is generally taken to connote negligence.
+
+126. Paragraph 56 must however be understood in the context of the Pang Hung Fai decision as a whole.  As has been explained,[147] its central tenet is that one must look to the grounds as perceived by the defendant in deciding whether the mens rea requirements are proved.  It is on that basis that (i) the Shing Siu Ming approach was disapproved and various aspects of the earlier decisions put aside as “distractions”; (ii) the Court held that it was erroneous to exclude the defendant’s personal beliefs, perceptions or prejudices from the assessment of his mens rea; (iii) it was erroneous to adopt as the applicable standard the question whether, on the available grounds, the defendant “could”, as opposed to “would” reasonably have been led to the belief that the property consisted of the proceeds of crime; and (iv) a significant mens rea element reflecting a strong element of moral blame is attributed to the second limb of the offence under s 25(1), justifying the setting of the same maximum penalty under both the “knowing” and the “having reasonable grounds to believe” limbs.  
+
+127. The Pang Hung Fai judgment therefore seamlessly focusses on the grounds which the defendant himself had. There is no basis for thinking that the Court intended, by a single sentence in paragraph 56, to introduce a wholly different basis for liability based on some purely external standard of negligence.
+
+128. The sentence identified in Question 4 as causing the difficulty reads: “The two mental elements in the subsection should be understood as if they read: ‘knew or ought to have known’”.  Those words are a reference to section 25(1) which lays down two alternative forms of mens rea.[148] The first is the “knowledge” limb and the second the “having reasonable grounds to believe” limb.  In paragraph 56 of the judgment, “knew or ought to have known” is evidently intended to refer to those two limbs.  “Knew” refers to the first limb and “ought to have known” is offered as a rendering of “having reasonable grounds to believe”.  They are words which are capable of being misunderstood because of the unintended connotation of negligence, but paragraph 56 is merely attempting to encapsulate the detailed mens rea analysis undertaken at length in the judgment.   The phrase “knew or ought to have known” should not be invested with any greater significance.  The Seng Yuet Fong formulation presents a truer reflection of the mens rea analysis and, as paragraph 55 states, will usually be all that is required. 
+
+Question 3
+
+E.   Duplicity
+
+E.1  General considerations
+
+129. Pursuant to the power to make rules and orders as to practice and procedure conferred by the Criminal Procedure Ordinance, Cap 221, the Criminal Procedure Rules Committee, in 1976, made the Indictment Rules, which provide:
+
+“2. Basic form of indictment
+
+…
+
+(2) Where more than one offence is charged in an indictment, the statement and particulars of each offence shall be set out in a separate paragraph called a count, and rules 3 and 4 shall apply to each count in the indictment as they apply to an indictment where one offence is charged.
+
+…
+
+3. Statement of offence in indictment
+
+(1) Subject to rule 4, every indictment shall contain, and shall be sufficient if it contains, a statement of the specific offence with which the accused is charged describing the offence shortly, together with such particulars as may be necessary for giving reasonable information as to the nature of the charge.”
+
+130. The requirement that a count in an indictment shall set out one offence, and not more than one, is commonly referred to as the rule against duplicity.  The precursor to the current rule, rule (1)(1) of the Indictment Rules 1919, was based on rule 4 of Schedule 1 to the Indictments Act 1915 (UK) which, in turn, reflected long-standing practice. Three years before the current Hong Kong rule was made, the House of Lords decided DPP v Merriman[149].
+
+131. In that case, Lord Morris of Borth-y-Gest said[150]:
+
+“[Q]uestions of joinder, whether of offences or of offenders, are very considerably matters of practice on which the court unless restrained by statute has inherent power both to formulate its own rules and to vary them in the light of current experience and the needs of justice. Here is essentially a field in which rules of fairness and of convenience should be evolved and where there should be no fetter to the fashioning of such rules. The current rules in regard to indictments are really a reflection of what has been thought to be fair: fair in the interests of the community in the preservation of law and order: fair in the interests of those who are charged and are tried.”
+
+132. After reciting the rule requiring that each offence charged shall be set out in a separate count, Lord Morris said[151]:
+
+“The question arises - what is an offence? If A attacks B and, in doing so, stabs B five times with a knife, has A committed one offence or five? If A in the dwelling house of B steals ten different chattels, some perhaps from one room and some from others, has he committed one offence or several? In many different situations comparable questions could be asked. In my view, such questions when they arise are best answered by applying common sense and by deciding what is fair in the circumstances. No precise formula can usefully be laid down but … it will often be legitimate to bring a single charge in respect of what might be called one activity even though that activity may involve more than one act.”
+
+133. The question of what constitutes, or may be treated as, an offence for the purpose of framing a count in an indictment, which in turn is related to the requirement of fairness in criminal procedure, often arises in cases where the characteristics of a crime, or of a course of criminal conduct, are such that it would be possible, in theory, to reduce each allegation to the narrowest unit of offending, but no useful purpose would be served by doing so.  On the other hand, if an offence charged is a single continuing offence then no such question will arise.  As Lord Roskill pointed out in Hodgetts v Chiltern District Council[152], it is not an essential characteristic of a criminal offence that it should take place once and for all on a single day.  Some offences may take place over a period of time.  An example is that considered by this Court in HKSAR v Li Li Mua[153] (overstaying contrary to a condition of a visa).  In that case there were not a series of separate offences repeated daily; there was one continuing offence.  A charge of such an offence occurring over the period of the overstay would not give rise to any problem of duplicity.  The question of duplicity in a charge arises where the conduct alleged in a charge involves a number of acts each of which is capable of being treated as a separate breach of the law.
+
+134. To return to the first of the two examples given by Lord Morris in Merriman, a physical attack by one person upon another will often consist of a number of acts each of which, considered in isolation, would involve an offence.  In many cases it would be absurd to make each such act the subject of a separate charge.  What, however, of a prolonged course of violent conduct, against a single victim, over hours, or days, or perhaps a longer period?  As to the second example, a burglar is unlikely to be charged separately in respect of each item of property stolen from a house, but what of an employee who regularly misappropriates money from an employer over an extended period?  No one suggests that criminal behaviour can never be treated as one offence for the purpose of the Indictment Rules if it is capable of being broken down into a number of offences.  Conversely, no one suggests that the prosecution has an unconstrained discretion such that an offence is constituted by whatever conduct the prosecution decides to make the subject of one charge.
+
+135. In Merriman, Lord Diplock, with whom Lord Reid and Lord Salmon agreed, said[154]:
+
+“The rule against duplicity, viz. that only one offence should be charged in any count of an indictment, which is now incorporated in rule 4 (1) of Schedule 1 to the Indictments Act 1915 , has always been applied in a practical, rather than in a strictly analytical, way for the purpose of determining what constituted one offence. Where a number of acts of a similar nature committed by one or more defendants were connected with one another, in the time and place of their commission or by their common purpose, in such a way that they could fairly be regarded as forming part of the same transaction or criminal enterprise, it was the practice, as early as the eighteenth century, to charge them in a single count of an indictment.”
+
+136. The subject for consideration is the charging of substantive offences.  His Lordship’s reference to a criminal enterprise was not made in the context of a case of conspiracy.  Charging a conspiracy may, or may not, be an appropriate way to approach a course of criminal behaviour, but it raises issues of procedure and substance that are outside the scope of the present problem.
+
+137. In making a judgment as to whether acts are so connected that they can fairly be regarded as forming part of the same transaction or criminal enterprise it is necessary to keep in mind the purpose for which the question is asked.  The rule against duplicity originated in a time of high technicality[155], but at the present time it exists to serve the needs identified by Lord Morris in Merriman; fairness to the community, and fairness to the accused.  Courts in the United States, like courts in Hong Kong, the United Kingdom, Canada, and Australia, have summarized the reasons underlying the rule against duplicity in indictments as:
+
+“avoiding the uncertainty of whether a general verdict of guilty conceals a finding of guilty as to one crime and a finding of not guilty as to another, avoiding the risk that the jurors may not have been unanimous as to any one of the crimes charged, assuring the defendant adequate notice, providing the basis for appropriate sentencing, and protecting against double jeopardy in a subsequent prosecution”[156].
+
+138. An example of the application in the United Kingdom of Merriman is Barton v Director of Public Prosecutions[157]. The defendant stole small amounts of cash from a till on 94 occasions over the course of a year.  She was convicted of a single count of theft.  Her criminal acts could fairly be regarded as forming part of the same transaction or criminal enterprise.  A judgment as to what can fairly be regarded as the scope of a criminal enterprise for the purpose of framing an indictment is likely to be affected by the nature of the crime, the circumstances of its commission, potential grounds of defence or exculpation, and the considerations of practice and procedure that will follow from adoption of one course or another.  Where there is a question of framing a single count, the nature of the possible alternative courses open may be influential.  In the case of Barton the most obvious alternative was 94 counts.  A few specimen counts could have been charged, but they would not have reflected the overall criminality of the defendant’s conduct.
+
+139. Australian examples of the application of Merriman (putting aside for the moment cases of money laundering) include R v Moussad[158] (defrauding the Commonwealth over a period of more than two years involving 46 acts of dishonesty) and R v Hamzy[159] (a single count charging supply of a prohibited drug based on a number of individual acts of supply by the accused to different people at different times).  As was pointed out in those cases[160], where the prosecution charges a number of acts in a single count it does not have to establish every such act in order to succeed.
+
+140. The Indictment Rules that applied in England and Wales at the time of Merriman were revoked by the Criminal Procedure (Amendment) Rules 2007.  Rule 14.2(2) provides:
+
+“More than one incident of the commission of the offence may be included in a count if those incidents taken together amount to a course of conduct having regard to the time, place or purpose of commission.”
+
+141. The related Criminal Practice Direction states[161]:
+
+“Rule 14.2(2) of the Criminal Procedure Rules 2005 allows a single count to allege more than one incident of the commission of an offence in certain circumstances. Each incident must be of the same offence. The circumstances in which such a count may be appropriate include, but are not limited to, the following:
+
+(a) the victim on each occasion was the same, or there was no identifiable individual victim as, for example, in a case of the unlawful importation of controlled drugs or of money laundering;
+
+(b) the alleged incidents involved a marked degree of repetition in the method employed or in their location, or both;
+
+(c) the alleged incidents took place over a clearly defined period, typically (but not necessarily) no more than about a year;
+
+(d) in any event, the defence is such as to apply to every alleged incident without differentiation.  Where what is in issue differs between different incidents, a single ‘multiple incidents’ count will not be appropriate, though it may be appropriate to use two or more such counts according to the circumstances and to the issues raised by the defence.”
+
+142. In R v Middleton[162] the Court of Appeal in its Criminal Division, referring to the Explanatory Memorandum to the Practice Direction, said that the Rules Committee considered that they were doing no more than codifying the existing law.  In this Court, counsel challenged the accuracy of that statement, and pointed out that no reference was made to R v R[163], which demonstrated the difficulty of treating money laundering offences in England as “activity” offences.  As noted in an earlier part of these reasons, the money laundering legislation in England is different from the Hong Kong legislation.  It has a purposive element that could be of significance for rolled-up charges.  The relevant Hong Kong rule was made soon after Merriman, and Merriman itself reflected earlier practice.
+
+143. An issue that is sometimes described as cognate with that of duplicity in an indictment, but that needs to be distinguished, concerns what has been called the latent ambiguity or uncertainty that arises where a count in an indictment alleges that a defendant has committed a single offence but the prosecution leads evidence of multiple, but separate, offending of the same nature without specifying which instance of offending is the subject of the charge.  Examples of that problem can be seen in the decision of this Court in Chim Hon Man v HKSAR[164] and that of the High Court of Australia in S v The Queen[165].  Those cases concerned the use of specimen counts in prosecutions for sexual abuse. In each case the alleged abuse occurred over a long period and the complainant was unable to be precise as to the time, date and place of any of the particular abusive acts.  In S there were three counts, each of which charged one act of carnal knowledge on a date unknown within a specified period of twelve months.  The complainant’s evidence was of numerous acts over each of the three periods, but there was no evidence to link any particular act with any one of the charges.  In Chim Hon Man there were two counts of rape.  The complainant’s evidence was that she was raped many times over the period specified in the counts.  In each case, there were convictions, but, by reason of the manner in which the trial was conducted there was held to be serious unfairness. It was impossible to know of which particular acts the defendant had been convicted.  In Chim Hon Man[166], Sir Anthony Mason NPJ described that case, and S, and the earlier Australian case of Johnson v Miller[167], as turning on a “companion principle” which serves the same general purpose as the rule against duplicity, the principle being that where a prosecution charges a single offence in an indictment the basis for a conviction cannot be laid by evidence of the commission of multiple offences none of which is identified as the particular act which is the foundation of the charge.  The present appeals are concerned with the rule against duplicity itself, not the companion principle, although in the practical application of both there may arise similar questions of fairness.
+
+144. Another issue that may be related to, but is separate from, the issue of duplicity is whether the indictment charges an offence known to the law.  For example, Hong Kong legislation does not create an offence of carrying on a business of money laundering. There may be people who carry on such a business, and they would obviously engage in illegal conduct, but the nature of the illegality would be determined by the meaning of the offence-creating legislation.  It is one thing to group offences in one charge on the basis that they form part of a common enterprise; it would be another thing to charge the enterprise itself as a substantive offence, unless the legislation makes the enterprise an offence.
+
+145. The need to attend to the nature of the offence as determined by the terms of the relevant legislation is exemplified by the Australian case of Johnson v Miller[168].  As Dixon J pointed out[169] the difficulty in that case arose in part from the particular characteristics of the substantive offence forming the subject of the proceedings, and the matters of exculpation that could be invoked by a defendant.  That aspect of the case was later remarked upon by Barwick CJ in Montgomery v Stewart[170], and by Dawson and Toohey JJ in Walsh v Tattersall[171].
+
+146. Where an objection to an indictment on the ground of duplicity is taken at trial, and upheld, the consequence is not that the indictment, or the relevant count, is a nullity.  The most obvious form of possible amendment is to frame a separate count for each separate offence.  Alternatively, if for example, there is to be one kind of defence to one group of allegations and another defence to others, two counts grouping charges according to the likely issues may suffice.  As the English Court of Appeal observed in R v Marchese[172], citing R v Thompson[173], a count which does not comply with the rules can be amended at trial.  Where a defendant’s complaint of non-compliance with Indictment Rule 2 involves one of the forms of unfairness that the rule against duplicity aims to prevent, then a trial judge may need to consider whether that problem can be addressed by the available powers of trial management.  In a particular case, that may be affected by whether the trial is by jury or by judge alone, and whether, in the way the prosecution case is to be presented, there may be a need for special or partial verdicts, or appropriate directions to deal with the postulated unfairness.  There may be reasons why a defendant, facing a charge based on a large number of individual criminal acts, would not wish to invite a separate charge in relation to each act.  Such a course could be oppressive to a defendant, and potentially prejudicial.
+
+147. In the present appeals, no objection to the indictments, on the ground of duplicity, was taken at trial. In each case, the point was first raised on appeal[174].  As the authorities on the subject show, that is not uncommon.  When the point is raised for the first time on appeal, the appellate court will consider whether the objection based on duplicity is well-founded and whether the form of the indictment resulted in the risk of injustice[175].  The appellate court will have the benefit of hindsight.  It will know the nature of the defence case at trial, whereas a trial judge may have had to consider potential unfairness on the basis of the charges and particulars, and the prosecution opening.  It will have the trial judge’s reasons for verdict.  If no complaint about duplicity was made at trial that may have a bearing on a claim of unfairness.
+
+148. Before turning to the application of the above general considerations to money laundering cases, it is convenient to mention a matter of terminology.  In each of the present appeals the point of law said to be raised by Question 3 was framed by the applicant for leave to appeal.  The language used reflects in part the reasons in Salim[176].  The reference to Merriman as establishing an “exception” to the rule against duplicity is, however, inapposite.  It is more accurate to say that decision was an explanation of the way in which the rule now operates in practice.  As noted above, there is no general requirement that if a separate criminal act can be identified it must be the subject of a separate count unless one can bring the case within some recognised exception.  That would be a misreading of Merriman.  Furthermore, the references to “general deficiency” and “continuous course of conduct” are taken from the context of two lines of authority dealing with fraud and misappropriation, as explained by Kennedy LJ in Barton v DPP[177].  The relevant principle is that recognised in Merriman, and those lines of authority are particular applications of that principle to a certain kind of crime.
+
+E.2  Duplicity and Money Laundering
+
+149. Money laundering has been described as “the process of disguising the origins of property which has been acquired through criminal conduct.”[178] Concealment and disguise are of its essence.  Reference has already been made to money laundering activities being “cloaked in secrecy”[179].  Lord Hope of Craighead, in R v Montila[180], set out the provisions of the Vienna Convention, the Strasbourg Convention signed by the United Kingdom on 8 November 1990, and the EEC Council Directive of 10 June 1991 on prevention of the use of the financial system for the purpose of money laundering.  The Directive’s definition of money laundering gave prominence to a purpose of concealing or disguising the illicit origin of property.  The Criminal Justice Act 1988 (UK), which was the statute applied in Montila, identified concealing or disguising property, followed alternatively by converting or transferring property, as the actus reus of the offence created by s 93C which implemented the Directive.
+
+150. Legislation aimed at money laundering may extend to forms of dealing with property going beyond the terms of the Vienna Convention.  An example is Division 400 of the Schedule to the Criminal Code Act 1995 of Australia.  That legislation specifically addresses the matter of duplicity as follows:
+
+“400.12 Combining several contraventions in a single charge
+
+(1) A single charge of an offence against a provision of this Division may be about 2 or more instances of the defendant engaging in conduct (at the same time or different times) that constitutes an offence against a provision of this Division.
+
+(2) If:
+
+(a) a single charge is about 2 or more such instances; and
+
+(b) the value of the money and other property dealt with is an element of the offence in question;
+
+that value is taken to be the sum of the values of the money and other property dealt with in respect of each of those instances.”
+
+151. In State jurisdictions in Australia, in cases where the Commonwealth Criminal Code had no application, State Supreme Courts, applying Merriman, have accepted the propriety and fairness of charging a number of acts of money laundering in a single count (see R v Trad and Younan[181], R v Ferguson[182]).  As the facts of those two cases illustrate, money laundering often pursues the objectives of concealment and disguise by conduct that not only involves a multiplicity of dealings but also answers the description of a number of the specific acts covered by the relevant legislation.
+
+152. The case of Yeung provides an example of the practical problem.  The prosecution in that case alleged 963 bank deposits each of which was said to constitute a receipt, and therefore, a dealing within the meaning of s 25 of OSCO.  However, on the facts alleged by the prosecution, the movements in and out of the bank accounts in question may well have satisfied other aspects of the definition of dealing.  If there should have been separate charges in respect of each receipt that would have meant 963 charges.  A case based on every form of dealing covered by s 25 could have involved several times that number of charges.  The nature of money laundering, considered in the light of the technology available to those who wish to conceal or disguise the proceeds of crime, is such that it is by no means fanciful to envisage a course of conduct that involves hundreds, or even thousands, of dealings.  A selection of specimen charges may not enable the prosecution fully to expose the criminality involved, and may give rise to problems of the kind that arose in Chim Hon Man.
+
+153. In the United States, this problem has given rise to differences of judicial opinion.  In 1993, in United States v Conley[183] (which was approved in 2000 in United States v Gray[184] and adopted in 1996, in United States v Kramer[185]), a money laundering count charging the conducting of financial transactions (in the plural) by depositing moneys in two accounts was held duplicitous.  However, in 2002, in United States v Moloney[186], the United States Court of Appeals, Second Circuit held that the defendant’s Ponzi scheme was a unified scheme and could be covered in one money laundering count.  The relevant statutory language, which applied to those who conduct a “financial transaction” either to promote unlawful activity or conceal the proceeds of unlawful activity, was held to be capable of extending to a case where many smaller transactions make up one larger transaction.  The earlier cases mentioned above were noted, but it was said that the courts deciding them lacked the Second Circuit’s general presumption in favour of allowing a common scheme to be treated as part of a single scheme.  The reasoning examined the rationale of the rule against duplicity.  The Court said[187]:
+
+“Because no convincing reason exists to deviate from this court’s general rule, we hold that a single money laundering count can encompass multiple acts provided that each act is part of a unified scheme. This conclusion is particularly sound because money laundering frequently involves extended sequences of acts designed to obscure the provenance of dirty money.   In this case, allowing Moloney’s unified scheme to be covered by a single count eliminates the cumbersome and largely pointless need to charge him with a count of money laundering for every ‘interest’ payment he mailed to any of his clients.”
+
+What was described as the Second Circuit’s general rule was explained in United States v Margiotta[188], United States v Aracri[189] and United States v Tutino[190].  Having noted the policy considerations underlying the doctrine of duplicity, the reasoning continued[191]:
+
+“The identification of these considerations suggests that a single count of an indictment should not be found impermissibly duplicitous whenever it contains several allegations that could have been stated as separate offenses … but only when the failure to do so risks unfairness to the defendant.”
+
+To return to the case of Moloney, it may be remarked that proof of a Ponzi scheme would normally require an overview of a series of receipts and payments, just as, in both of the present appeals, the prosecution case relied upon a pattern of movements in particular bank accounts as displaying the hallmarks of money laundering.
+
+154. While the law of Hong Kong does not recognise what would be described as a “general presumption”, it follows the approach in Merriman, and accepts the potential importance of a unified scheme.  Furthermore, the emphasis placed by the United States Court of Appeals, Second Circuit, upon deciding whether a count is impermissibly duplicitous in the light of the rationale of the pleading rule accords with the approach that should be taken in Hong Kong.
+
+155. The starting point for the application of the pleading rule in a particular case is the statutory provision creating the offence or offences charged.  It has already been noted that s 25 of OSCO does not create an offence of carrying on a business of money laundering, which of its nature would be a continuing offence and would give rise to no question of duplicity.  Most of the forms of “dealing” set out in the definition in s 2 of the Ordinance involve conduct that would normally consist of an individual act.  That is so in the case of paras (a), (c) and (d) of the definition.  Whether it is so in the case of para (e) is less clear. However, para (b) uses language that is capable of covering a continuing process.  A person may conceal property over a period of time; perhaps a long period.  The individual acts identified in paras (a), (c) and (d) could be undertaken as part of a process of concealing the relevant property.
+
+156. It was argued that section 25A and subsection 25(2) are inconsistent with the possibility that an offence against subsection 25(1) might be an offence of a continuing nature and, therefore, concealing property should be understood as an act that is complete at the beginning of a period of concealment and is not capable of giving rise to a continuing offence.  This argument should not be accepted.  The definition of “dealing” is expressed to be inclusive, not exhaustive.  Furthermore, at least in its reference to concealing it refers to conduct which of its nature may be continuing.  It is true that the disclosure regime involves a temporal relationship between disclosure and conduct which is more easily related to individual acts, but the kind of circumstance that may in practice give rise to a suspicion that money laundering is going on could well include an observation of an apparently continuing process.
+
+157. The conduct which in any particular case is alleged to fall within the definition of dealing, so as to satisfy the terms of subsection 25(1) (“deals with … property”), must be related to “property [that] … represents the proceeds of an indictable offence”.  The property referred to is specific property which is known to have a certain attribute or about which the defendant has reasonable grounds to believe that it has that attribute.  If a continuing offence of concealing property over a month, or a year, were committed then that would be a single crime in relation to the property the subject of the concealment.  The subject property, however, would be property which remains the same over the period of the single offence.  The prosecution did not argue the cases of Yeung or Salim, either at trial or in the Court of Appeal, on the basis that each charge covered only one continuing offence of concealing property.  One difficulty with such an approach (which was urged in this Court) is that the subject property changed constantly over the period.  The kind of property may have remained the same but the actual property did not.  Both at trial and in the Court of Appeal the prosecution case was that each deposit was an act of receiving within para (a) of the statutory definition of dealing, and each act of receiving constituted a criminal act, although the acts were properly aggregated, by reference to particular bank accounts, and made the subject of a single charge in respect of each account.
+
+158. That is not to say, however, that the aspect of concealment is irrelevant to the duplicity argument.  It provided part of the connection which made the individual deposits acts of a similar nature which could fairly be regarded as forming part of the same transaction or criminal enterprise.
+
+159. A bank account itself may be an aspect of connection between amounts deposited to the credited account.  How such deposits may fairly be regarded for the purpose of the application of rule 2 of the Indictment Rules is to be decided in the light of the rationale of the rule.  In cases of money laundering it will often be cumbersome and impractical to frame a separate count for each possible unit of criminal conduct arising from the facts alleged against the defendant.  Where a number of acts of money laundering are connected in such a way that they can be regarded as forming part of the same transaction or criminal enterprise then it will be legitimate to charge them in a single count unless there is a risk of injustice to the defendant.  Such injustice might lie in uncertainty or inadequate notice as to the case the defendant has to meet, confusion or prejudice resulting from different defences to different aspects of the prosecution case, problems of admissibility of evidence, or uncertainty as to the scope of an ultimate verdict.  If these or other considerations that may be raised in a particular case are capable of being met, without unfairness, by appropriate measures of trial management then a court may well conclude that the rule does not prevent aggregation for the purpose of framing a charge or charges.  In some cases, insistence upon compliance with section 65DA of the Criminal Procedure Ordinance Cap 221 (notice of expert evidence) will be useful in identifying possible sources of difficulty and potential solutions.
+
+E.3  The Case of Yeung
+
+160. As noted earlier[192], there was at trial no objection to the indictment on the ground of duplicity, and duplicity was not mentioned in the original grounds of appeal to the Court of Appeal.  Before the appeal in Yeung came on for hearing, the Court of Appeal decided the case of Salim v HKSAR[193].  As will appear, although the issue of duplicity in that case arose in a somewhat indirect manner, what was said and decided had potential application to the appeal of Yeung.  The grounds of appeal in Yeung were amended and, in argument before the Court of Appeal, duplicity was argued.
+
+161. The counts in the indictment had been separated, not by reference to individual contraventions of s 25 of OSCO (on the prosecution case, which focussed on the act of receiving, there were 963 such contraventions), but by reference to particular bank accounts used for the purpose of such contraventions.
+
+162. The reasoning of the Court of Appeal involved two steps[194]. First, the Court concluded that, given the obviously different provenance of the multiple deposits of money in the bank accounts the subject of the five charges over a period of years, each charge was patently duplicitous.  “We are not satisfied that those multiple acts, occurring over that considerable lengths of time, fall to be regarded as connected with one another by a common purpose, so that they are to be regarded as a common transaction or criminal enterprise.”[195]  Noting a large number of transactions involving different depositors the Court of Appeal said: “The issues likely to arise were likely to be different”[196].  For example, it was said, a payment of about $37.5 million from an account in the name of Hooray Securities in September 2001 was on its face a transaction of an entirely different nature from deposits three years later of 10 cheques to a total value of about $62.5 million.
+
+163. Having concluded that the charges were patently duplicitous, the Court of Appeal said it was then necessary to consider whether, in consequence, there was prejudice to the appellant such that his trial was unfair[197].  This question was answered in the negative, substantially on the grounds that the prosecution case as advanced at trial made sufficiently clear its case as to how the various deposits, some concerned with identifiable transactions and some not, revealed an overall pattern justifying an inference of money laundering and that the defence case was able to advance not only an overall explanation for the dealings but also different specific explanations for different transactions.  (The fact that these explanations were found by the trial judge, for adequate reasons, to be false was another matter).  The Court of Appeal concluded[198]:
+
+“It follows that we are satisfied that there is force in Mr Caplan’s submission that, although the charges included within each of them multiple incidents relied on by the prosecution in proof of the respective charge, the differentiation between the various incidents was not only readily apparent to the defence and the judge but also addressed separately by each of them in turn. So, even if the prosecution had been required to condescend to stipulate multiple individual counts, the defence case would have remained the same. Similarly, we are satisfied that the defence advanced to meet that case would have remained the same. Accordingly, we are satisfied that although the charges were duplicitous, no prejudice was caused thereby to the applicant.”
+
+164. The corollary of this reasoning appears to be either that there should have been 963 charges or, alternatively, in those cases where a number of deposits appeared to be related to one transaction, they could be aggregated and all the other deposits (the majority) charged separately, but in either event it would have made no practical difference to the fairness of the trial.  Whereas, in the course of finding that the counts were duplicitous, the Court of Appeal said the issues likely to arise were likely to be different as between the various deposits, its reasoning on the question of possible prejudice shows that it meant no more than that the defendant was likely to advance different explanations in respect of different deposits.  However, the Court of Appeal went on to conclude that he was not materially inhibited in doing that by the way the charges were framed.
+
+165. In this Court it was argued that the Court of Appeal was wrong to conclude that there was no unfairness to Yeung at trial arising from the aggregation of dealings in the form of the indictment.  However, the reasoning of the Court of Appeal on the various challenges that were made to the assessment of the evidence by the trial judge supports that Court’s conclusion, in the light of the conduct of the trial, that even if 963 separate charges had been laid the defence case would have been the same and the outcome would have been the same.  From the beginning the case for the prosecution was based upon inferences to be drawn from the overall pattern of dealing in each of the bank accounts.  If the prosecution had laid separate charges in respect of each deposit, or if it had aggregated some of the charges differently, it would have invited the judge to take account of what the forensic accountant referred to as hallmarks of money laundering.  For its part, the defence set out to give an innocent explanation of a number of the transactions underlying certain deposits.  It is difficult to understand why its case in that respect would have been different if there had been separate counts for each deposit, or why the ultimate factual conclusions of the trial judge would have been different.
+
+166. There is, however, error in the reasoning of the Court of Appeal on the anterior question as to whether the charges were duplicitous.  The Court of Appeal did not address the specific question as to how many counts would be required, in order to avoid the duplicity of which it spoke, and whether that would have served any purpose related to fairness.  In considering whether it was illegitimate to aggregate particular acts of dealing it did not test the case against the rationale of the rule against duplicity.  Furthermore, in finding that the deposits were not connected with one another by a common purpose, so as to be regarded as a criminal enterprise, the Court of Appeal made no reference to the common purpose of concealment, which the prosecution alleged was the function of each bank account.  The multiplicity of the acts of dealing alleged by the prosecution, and the common purpose of concealment, made this a proper case for aggregation of charges.  Questions of fairness are part of the initial judgment as to whether aggregation was in conflict with rule 2 of the Indictment Rules. Unless the rule mandated 963 charges, some form of aggregation was necessary, and considerations of fairness would decide what was permissible.  If the point had been taken at trial, it would be a matter for trial management, undertaken in the light of the risks of unfairness and uncertainty, to decide the appropriate pattern of charges.
+
+E.4   The case of Salim
+
+167. The question of duplicity came up in Salim v HKSAR[199] in an indirect manner.  It had not been raised at trial, but on appeal it was advanced as an argument against ordering a new trial.  Salim had been charged with four counts of money laundering, each charge relating to a bank account in the name of Day Leader.  The total number of deposits, each of which was alleged to constitute a dealing, in the form of a receipt, was 46.  Yaser, said to be an accountant, had a shelf company, Day Leader.  He brought Salim from London to Hong Kong, made Salim the sole director and shareholder of Day Leader, and arranged for Salim to set up bank accounts in the name of Day Leader.  Salim handed over what was necessary for Yaser to operate those accounts, and then Salim returned to London.  The victims of email fraud were directed to pay money into those accounts.  By inference, Yaser and his associates withdrew most of those moneys and ultimately Salim withdrew what remained.  As a technique of concealing the proceeds of email fraud this seems potentially effective.  Salim’s ongoing connection with the scheme was evidenced by his capacity to return to Hong Kong and withdraw moneys from the account himself.  The trial judge dealt with the case (without argument on the point) as one of aiding and abetting money laundering by Yaser.  The Court of Appeal, having allowed Salim’s appeal on the ground that he had been convicted on a basis (accessorial liability) with which he had never been charged, said there would be no point in ordering a new trial on amended charges of aiding and abetting as they would necessarily have been defective for duplicity[200].  The assumption was that any such charges would have been based on the same aggregation of dealings as the original charges.
+
+168. In this Court, the prosecution makes the point that an obvious way to overcome any potential problem of duplicity at a new trial would have been to have 46 separate counts.  The Court of Appeal did not appear to advert to that possibility.  As noted above, duplicity does not render an indictment void, and can be overcome by an appropriate amendment, such as bringing separate charges for each alleged act of dealing.  However, at this stage no new trial is sought and this Court is asked only to deal with duplicity in principle.
+
+169. The Court of Appeal recorded[201] the argument for Salim as being that
+
+“[w]here more than one dealing with property is covered by the charge with each dealing taking place on a separate occasion then… the charge must be bad for duplicity.”
+
+For the reasons given earlier, that is not so.  The Court of Appeal then asked itself whether the Merriman “exception” applied in this case.  Again, for the reasons given earlier, Merriman did not establish an exception; it explained the meaning and practical application of the concept of “one offence” in a rule such as rule 2(2) of the Indictment Rules.  The Court of Appeal concluded[202]:
+
+“We do not see how this activity, spanning as it does a period of some two and a half months and involving different receipts on different occasions from different victims, can be said to be one offence.”
+
+170. It is unfortunate that the concealment aspect of money laundering in general, and of the scheme set up by Yaser and facilitated by Salim in particular, was not more to the forefront of the prosecution case.  Putting distance between the perpetrators of email fraud and the proceeds, by directing the proceeds to a bank account in Hong Kong ostensibly controlled by a non-resident who visited briefly and might never be seen again, is a readily recognisable scheme.  It is the purpose and technique of concealment that links the individual payments into the bank account and makes it proper to identify one criminal enterprise.
+
+171. The Court of Appeal did not ask itself what unfairness would result from the aggregation of charges, or how such aggregation would relate to the rationale of the rule against duplicity. At the trial, Salim’s defence, comprehensively rejected by the trial judge, was that each account was established for the purpose of a legitimate business which he was intending to conduct with Mainland China.  His evidence about that was found to be completely implausible.  There was no reason to think that his defence would have been any different, or more convincing, had he been charged with 46 offences, or with some different combination of offences, or that in any other respect the aggregation of charges caused any unfairness.  The defence case at trial was unaffected by the number of individual acts of dealing which the prosecution alleged.
+
+172. Rule 2(2) of the Indictment Rules did not require a separate count for each of the alleged acts of dealing contrary to s 25 of OSCO.
+
+F.  Disposition of the appeals
+
+173. In his Notice of Appeal, Yeung asks that the judgment of the Court of Appeal in CACC 101/2014 dated 13 May 2015 be reversed, varied or altered or that he might have such other relief as this Court should determine.  No basis has been made out for such relief and his appeal is dismissed.
+
+174. In Salim’s case, the HKSAR’s Notice of Appeal asks this Court to reverse vary or alter the judgment of the Court of Appeal in CACC 184/2013 dated 14 November 2014 in respect of paragraphs 115 to 150 thereof concerning the Court of Appeal’s decision refusing to make an order for retrial on the grounds that the counts in the Charge Sheet were incurably duplicitous.  We were informed by Mr Gerard McCoy SC,[203] counsel for the HKSAR, that no retrial is now being sought since Salim had left Hong Kong after his appeal was allowed.  However, the HKSAR seeks a declaration that the Court of Appeal erred in holding that the offences charged against the defendant were duplicitous or incurably bad for duplicity.  For the reasons given in this judgment, we allow the HKSAR’s appeal against the Court of Appeal’s refusal to order a retrial and we make a declaration that the Court of Appeal erred in holding that the offences charged were duplicitous.
+
+ 
+
+ 
+
+(Geoffrey Ma)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Robert Tang)
+Permanent Judge
+ 
+
+(Joseph Fok)	(Murray Gleeson)
+Permanent Judge	Non-Permanent Judge
+ 
+
+Ms Clare Montgomery QC, Mr Gary Plowman SC and Mr Derek C.L. Chan, instructed by Bough & Co., for the Appellant in FACC 5/2015 and the Respondent in FACC 6/2015
+
+Mr Jonathan Caplan QC, on fiat for, and Mr Anthony Chau SPP, of the Department of Justice, for the Appellant in FACC 6/2015 and the Respondent in FACC 5/2015
+
+Mr Gerard McCoy SC, on fiat for, and Mr William Tam SC, DDPP, of the Department of Justice, for the Appellant in FACC 1/2015
+
+Mr Phillip Ross and Mr Patrick Wan, instructed by John M. Pickavant & Co., assigned by the Director of Legal Aid, for the Respondent in FACC 1/2015
+
+
+ANNEX A – The relevant OSCO provisions
+
+Section 2 - Interpretation
+
+(1) In this Ordinance, unless the context otherwise requires-
+
+"dealing", in relation to property referred to in section 15(1) or 25, includes-
+
+(a) receiving or acquiring the property;
+
+(b) concealing or disguising the property (whether by concealing or disguising its nature, source, location, disposition, movement or ownership or any rights with respect to it or otherwise);
+
+(c) disposing of or converting the property;
+
+(d) bringing into or removing from Hong Kong the property;
+
+(e) using the property to borrow money, or as security (whether by way of charge, mortgage or pledge or otherwise); (Added 90 of 1995 s. 2)
+
+"property" includes both movable and immovable property within the meaning of section 3 of the Interpretation and General Clauses Ordinance (Cap 1); ...
+
+"authorized officer  means-
+
+(a) any police officer;
+
+(b) any member of the Customs and Excise Service established by section 3 of the Customs and Excise Service Ordinance (Cap 342); and
+
+(c) any other person authorized in writing by the Secretary for Justice for the purposes of this Ordinance; ...
+
+(6) For the purposes of this Ordinance-
+
+(a) a person's proceeds of an offence are-
+
+(i) any payments or other rewards received by him at any time (whether before or after 2 December 1994) in connection with the commission of that offence;
+
+(ii) any property derived or realised, directly or indirectly, by him from any of the payments or other rewards; and
+
+(iii) any pecuniary advantage obtained in connection with the commission of that offence;
+
+(b) the value of the person's proceeds of that offence is the aggregate of the values of-
+
+(i) the payments or other rewards;
+
+(ii) that property; and
+
+(iii) that pecuniary advantage.
+
+Section 8 - Confiscation orders
+
+(1) Where-
+
+(a) ...
+
+(i) in proceedings before the Court of First Instance or the District Court a person is to be sentenced in respect of one or more specified offences and has not previously been sentenced in respect of his conviction for the offence or, as the case may be, any of the offences concerned; ...
+
+(3) The court shall-
+
+(a) where subsection (1)(a)(i) is applicable-
+
+(i) first determine, if the prosecution so requests, whether the specified offence or any of the specified offences of which the person stands convicted is an organized crime;
+
+(ii) then, or where no request has been made under subparagraph (i), first-
+
+(A) impose on the person such period of imprisonment or detention (if any) as is appropriate in respect of the offence or, as the case may be, the offences concerned;
+
+(B) make such order or orders (other than a confiscation order) in relation to sentence as is appropriate in respect of the offence or, as the case may be, the offences concerned, and such order or orders may be or include any order-
+
+(I) imposing any fine on the person;
+
+(II) involving any payment by the person; or
+
+(III) under section 38F or 56 of the Dangerous Drugs Ordinance (Cap 134), or under section 72, 84A, 102 or 103 of the Criminal Procedure Ordinance (Cap 221); ...
+
+(4) The court shall then determine-
+
+(a) where subsection (1)(a)(i) is applicable, whether the person has benefited from the specified offence or from that offence taken together with any specified offence of which he is convicted in the same proceedings, or which the court proposes to take or has taken into consideration in determining his sentence; ...
+
+and, if he has, whether his proceeds of that specified offence or offences are in total at least $100000. ...
+
+(6) If the court determines that his proceeds of the specified offence or offences are in total at least the amount specified in subsection (4), the court shall determine in accordance with section 11 the amount to be recovered in his case by virtue of this section.
+
+
+Section 25 - Dealing with property known or believed to represent proceeds of indictable offence
+
+(1) Subject to section 25A, a person commits an offence if, knowing or having reasonable grounds to believe that any property in whole or in part directly or indirectly represents any person's proceeds of an indictable offence, he deals with that property.
+
+(2) In proceedings against a person for an offence under subsection (1), it is a defence to prove that-
+
+(a) he intended to disclose to an authorized officer such knowledge, suspicion or matter as is mentioned in section 25A(1) in relation to the act in contravention of subsection (1) concerned; and
+
+(b) there is reasonable excuse for his failure to make disclosure in accordance with section 25A(2).
+
+(3) A person who commits an offence under subsection (1) is liable-
+
+(a) on conviction upon indictment to a fine of $5000000 and to imprisonment for 14 years; or
+
+(b) on summary conviction to a fine of $500000 and to imprisonment for 3 years.
+
+(4) In this section and section 25A, references to an indictable offence include a reference to conduct which would constitute an indictable offence if it had occurred in Hong Kong.
+
+Section 25A - Disclosure of knowledge or suspicion that property represents proceeds, etc. of indictable offence
+
+(1) Where a person knows or suspects that any property-
+
+(a) in whole or in part directly or indirectly represents any person's proceeds of;
+
+(b) was used in connection with; or
+
+(c) is intended to be used in connection with,
+
+an indictable offence, he shall as soon as it is reasonable for him to do so disclose that knowledge or suspicion, together with any matter on which that knowledge or suspicion is based, to an authorized officer.
+
+(2) If a person who has made a disclosure referred to in subsection (1) does any act in contravention of section 25(1) (whether before or after such disclosure), and the disclosure relates to that act, he does not commit an offence under that section if-
+
+(a) that disclosure is made before he does that act and he does that act with the consent of an authorized officer; or
+
+(b) that disclosure is made-
+
+(i) after he does that act;
+
+(ii) on his initiative; and
+
+(iii) as soon as it is reasonable for him to make it.
+
+ 
+
+ANNEX B - Charges in the Yeung case
+
+1st Charge
+
+Statement of Offence
+
+Dealing with property known or believed to represent proceeds of an indictable offence, contrary to section 25(1) and (3) of the Organized and Serious Crimes Ordinance, Cap.455.
+
+Particulars of Offence
+
+YEUNG Ka-sing, Carson, between the 3rd day of January 2001 and the 29th day of December 2007, both dates inclusive, in Hong Kong, knowing or having reasonable grounds to believe that property namely a total sum of $347,310,098.00 Hong Kong currency in the bank account with the Wing Lung Bank Limited, account number 020-606-202-2754-2, in whole or in part directly or indirectly represented the proceeds of an indictable offence, dealt with the said property.
+
+2nd Charge
+
+Statement of Offence
+
+Dealing with property known or believed to represent proceeds of an indictable offence, contrary to section 25(1) and (3) of the Organized and Serious Crimes Ordinance, Cap.455.
+
+Particulars of Offence
+
+YEUNG Ka-sing, Carson, between the 2nd day of January 2001 and the 31st day of December 2007, both dates inclusive, in Hong Kong, knowing or having reasonable grounds to believe that property namely a total sum of $254,303,959.00 Hong Kong currency in the bank account with the Wing Lung Bank Limited, account number 020-606-000-7770-9, in whole or in part directly or indirectly represented the proceeds of an indictable offence, dealt with the said property.
+
+3rd Charge
+
+Statement of Offence
+
+Dealing with property known or believed to represent proceeds of an indictable offence, contrary to section 25(1) and (3) of the Organized and Serious Crimes Ordinance, Cap.455.
+
+Particulars of Offence
+
+YEUNG Ka-sing, Carson, between the 2nd day of February 2001 and the 6th day of July 2007, both dates inclusive, in Hong Kong, knowing or having reasonable grounds to believe that property namely a total sum of $31,188,121.00 Hong Kong currency in the bank account with The Hongkong and Shanghai Banking Corporation Limited, account number 062-0-082719, in whole or in part directly or indirectly represented the proceeds of an indictable offence, dealt with the said property.
+
+4th Charge
+
+Statement of Offence
+
+Dealing with property known or believed to represent proceeds of an indictable offence, contrary to section 25(1) and (3) of the Organized and Serious Crimes Ordinance, Cap.455.
+
+Particulars of Offence
+
+YEUNG Ka-sing, Carson, between the 7th day of September 2001 and the 17th day of December 2007, both dates inclusive, in Hong Kong, knowing or having reasonable grounds to believe that property namely a total sum of $6,659,000.00 Hong Kong currency in the bank account with the Wing Lung Bank Limited, account number 020-606-000-8325-0, in whole or in part directly or indirectly represented the proceeds of an indictable offence, dealt with the said property.
+
+5th Charge
+
+Statement of Offence
+
+Dealing with property known or believed to represent proceeds of an indictable offence, contrary to section 25(1) and (3) of the Organized and Serious Crimes Ordinance, Cap.455.
+
+Particulars of Offence
+
+YEUNG Ka-sing, Carson, between the 7th day of September 2001 and the 29th day of December 2007, both dates inclusive, in Hong Kong, knowing or having reasonable grounds to believe that property namely a total sum of $81,826,428.00 Hong Kong currency in the bank account with the Wing Lung Bank Limited, account number 020-606-202-4941-0, in whole or in part directly or indirectly represented the proceeds of an indictable offence, dealt with the said property.
+
+
+ANNEX C – Charges in the Salim case
+
+4th Charge
+
+Statement of Offence
+
+Dealing with property known or reasonably believed to represent proceeds of an indictable offence, contrary to section 25(1) and (3) of the Organized and Serious Crimes Ordinance, Cap.455.
+
+Particulars of Offence
+
+SALIM Majed, between the 2nd day of December 2011 and the 21st day of February 2012, both dates inclusive, knowing or having reasonable grounds to believe that property, namely $8,609.72 Hong Kong currency in the account number 012-676-017725-8, held with the Bank of China (Hong Kong) Limited in the name of Day Leader Limited, in whole or in part directly or indirectly represented the proceeds of an indictable offence, dealt with the said property.
+
+5th Charge
+
+Statement of Offence
+
+Dealing with property known or reasonably believed to represent proceeds of an indictable offence, contrary to section 25(1) and (3) of the Organized and Serious Crimes Ordinance, Cap.455.
+
+Particulars of Offence
+
+SALIM Majed, between the 2nd day of December 2011 and the 21st day of February 2012, both dates inclusive, knowing or having reasonable grounds to believe that property, namely $1,988.52 United States currency in the account number 012-676-9-212860-1, held with the Bank of China (Hong Kong) Limited in the name of Day Leader Limited, in whole or in part directly or indirectly represented the proceeds of an indictable offence, dealt with the said property.
+
+6th Charge
+
+Statement of Offence
+
+Dealing with property known or reasonably believed to represent proceeds of an indictable offence, contrary to section 25(1) and (3) of the Organized and Serious Crimes Ordinance, Cap.455.
+
+Particulars of Offence
+
+SALIM Majed, between the 1st day of December 2011 and the 22nd day of February 2012, both dates inclusive, knowing or having reasonable grounds to believe that property, namely $266,495.22 Hong Kong currency, €30,566.10 European Union currency, £25,750 Great Britain Sterling and $677,578.30 United States currency in the account number 228-423539-883, held with Hang Seng Bank Limited in the name of Day Leader Limited, in whole or in part directly or indirectly represented the proceeds of an indictable offence, dealt with the said property.
+
+7th Charge
+
+Statement of Offence
+
+Dealing with property known or reasonably believed to represent proceeds of an indictable offence, contrary to section 25(1) and (3) of the Organized and Serious Crimes Ordinance, Cap.455.
+
+Particulars of Offence
+
+SALIM Majed, between the 1st day of December 2011 and the 22nd day of February 2012, both dates inclusive, knowing or having reasonable grounds to believe that property, namely $141,153.98 Hong Kong currency and $219,278.36 United States currency in the account number 817-524218-838, held with The Hongkong and Shanghai Banking Corporation Limited in the name of Day Leader Limited, in whole or in part directly or indirectly represented the proceeds of an indictable offence, dealt with the said property.
+
+
+[1] Before H H Judge Douglas Yau, DCCC 860/2011 (28 February 2014).
+
+[2] Cap 455.
+
+[3] Lunn VP, Macrae and McWalters JJA, CACC 101/2014 (13 May 2015), Lunn VP giving the judgment of the Court.
+
+[4] Ma CJ, Ribeiro and Tang PJJ, FAMC 28 and 29/2015 (14 August 2015).
+
+[5] FACC 5/2015.
+
+[6] FACC 6/2015.
+
+[7] Ibid.
+
+[8] Before H H Judge Johnny Chan, DCCC 646/2012 (8  May 2013).
+
+[9] Lunn VP, McWalters JA and Pang J [2014] 6 HKC 678, McWalters JA giving the judgment of the Court.
+
+[10] See Section E.4 below.
+
+[11] At §§147-149.
+
+[12] Ma CJ, Tang and Fok PJJ, FAMC 71/2014 (10 February 2015).  As Salim had served most of his sentence, the prosecution wished to raise the issue of duplicity as a matter of principle, without seeking any re-trial in the event that it should succeed.
+
+[13] Reasons for Verdict (“Yeung RV”) at §3.
+
+[14] Yeung RV at §§648-651.
+
+[15] Yeung RV at §§636, 642, 647, 657 and 669.
+
+[16] Yeung RV at §§631-633, 637-639, 643-644, 652-655 and 658-659.
+
+[17] Yeung RV at §518.
+
+[18] Yeung RV at §§566-570; 656 and 660.
+
+[19] Yeung RV at §620.
+
+[20] Yeung RV at §630.
+
+[21] Yeung CA Judgment at §§72 and 83. 
+
+[22] Ibid. at §84.
+
+[23] Yeung RV at §607.
+
+[24] Yeung RV at §§413 and 576-582.
+
+[25] Yeung RV at §§583-593, 600; Reasons for Sentence, 7 March 2014 (“Yeung RS”), at §15.
+
+[26] Yeung RV at §§571-575 and 594-595.
+
+[27] Yeung RV at §§635, 647 and 669.
+
+[28] Yeung RV at §§642 and 657.
+
+[29] Yeung RS at §25.
+
+[30] Yeung RS at §13.
+
+[31] Yeung RS at §16.
+
+[32] Yeung RS at §21.
+
+[33] Those being Day Leader’s accounts with BOC (in respect of Charge 4), Hang Seng and HSBC.
+
+[34] Salim’s offer to plead guilty to the charges in respect of the three cash withdrawals was declined by the prosecution: Reasons for Sentence (“Salim RS”) at §26.
+
+[35] Reasons for Verdict (“Salim RV”) at §187.
+
+[36] Salim RV at §195.
+
+[37] Ibid at §197.
+
+[38] Salim RS at §§48-56 and 64-65.
+
+[39] Salim CA Judgment at §§86-88.
+
+[40] Ibid at §§109-110, 113.
+
+[41] Ibid at §§115-149.
+
+[42] Bokhary, Chan and Ribeiro PJJ (2001) 4 HKCFAR 29.
+
+[43] Contrary to section 24(1) of the Theft Ordinance (Cap 210).
+
+[44] (2001) 4 HKCFAR 29 at 31.
+
+[45] Ibid at 32.
+
+[46] (2007) 10 HKCFAR 98.
+
+[47] [2004] 1 WLR 3141 at §§96-109.
+
+[48] (2014) 17 HKCFAR 319 at §17 (footnotes omitted).
+
+[49] Appearing for Yeung with Mr Gary Plowman SC and Mr Derek C L Chan.
+
+[50] A Solicitor (24/07) v Law Society of Hong Kong (2008) 11 HKCFAR 117 at §§18-20.
+
+[51] [2004] 1 WLR 3141 at §27.
+
+[52] Ord 90 of 1995, section 22.
+
+[53] At §5.12.
+
+[54] At §6.2.
+
+[55] Ord No 82 of 1994.
+
+[56] By way of example, an indictment laid under the DTROP equivalent of the old section 25 in R v Lo Chak Man CACC 744/1995, unreported 7 November 1996 read as follows: “[The defendant] between the 6th day of December, 1989 and the 19th day of December, 1989 in Hong Kong, was concerned in an arrangement whereby the retention or control of another namely LAW Kin-man’s proceeds of drug trafficking was facilitated, knowing or having reasonable grounds to believe that the said LAW Kin-man was a person who carried on or had carried on drug trafficking or had benefited from drug trafficking.”
+
+[57] Section C.3b abve.
+
+[58] Section C.3b above.
+
+[59] Section 8(1)(a).  A “specified offence” was defined in section 2 as an offence within the long list of offences set out in Schedule 1 as well as the inchoate and accessorial forms of those offences.
+
+[60] Section 8(4).
+
+[61] Sections 8(6) and 8(7).
+
+[62] (2014) 17 HKCFAR 319, see §§17, 19, 40 and especially §69.
+
+[63] See Annex A, OSCO ss 2(6), 8(1), 8(3), 8(4) and 8(6).
+
+[64] (2012) 15 HKCFAR 362 at §§67-71.
+
+[65] Ibid at §§70-71.
+
+[66] Yeung’s printed case §6.4.
+
+[67] Basic Law Art 6: “The Hong Kong Special Administrative Region shall protect the right of private ownership of property in accordance with law.”
+
+[68] Basic Law Art 105: “The Hong Kong Special Administrative Region shall, in accordance with law, protect the right of individuals and legal persons to the acquisition, use, disposal and inheritance of property and their right to compensation for lawful deprivation of their property. ...”
+
+[69] Ibid at §6.5.
+
+[70] Discussed in Section C of this judgment.
+
+[71] Discussed further in Section C.6d below.
+
+[72] Legislative Council Brief on the DTROP Bill 1995 and the OSCO Bill 1995 (NCR 3/1/8 (G) VII) (“Legco Brief”) at §4(e).
+
+[73] Legco Brief §19.
+
+[74] Legco Brief §16.
+
+[75] Legco Paper No HB 1289/94-95 dated 23 August 1995, §3.
+
+[76] Ibid, at §14.
+
+[77] Ibid, at §19.
+
+[78] (2007) 10 HKCFAR 98.
+
+[79] [2004] 1 WLR 3141.
+
+[80] United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances 1988.
+
+[81] Article 3.1(b) and (c).
+
+[82] Section C.3b above.
+
+[83] Sections C.3c and C.4 above.
+
+[84] The UK legislation distinguishes between offences involving the class of acts caught by sections 49(2) and 93C(2) and other, less obviously complicit, acts: CJA 1988 sections 93A (retaining benefits) and 93B (acquiring, possessing or using proceeds of criminal conduct) and similar offence in DTA 1994 sections 50 and 51.  One consequence is that the disclosure defence or immunity does not apply to sections 49(2) and 93C(2) but applies to the lesser forms of the offence.  See Section C.6d below.
+
+[85] [2006] QB 322 at §89.
+
+[86] [2007] 1 AC 18 at §35, although his Lordship held that that step could not be taken in that case.
+
+[87] (2007) 10 HKCFAR 98 at §105.
+
+[88] [2004] 1 WLR 3141 at §§ 39 and 41.
+
+[89] Ibid at §28.
+
+[90] Ibid.
+
+[91] In Section C.6b above.
+
+[92] CJA 1988 s 93C(2) involving offences of concealing or disguising the property; or converting or transferring or removing it from the jurisdiction; while, in contrast, a disclosure immunity is available in respect of offences under sections 93A (retaining benefits) and 93B (acquiring, possessing or using proceeds of criminal conduct).  Similarly, there is no such defence in relation to DTA 1994 s 49(2) offences, but such a defence exists in respect of offences under sections 50 and 51.
+
+[93] OSCO section 2.
+
+[94] [1993] AC 951 at 964.
+
+[95] Imposing a reverse onus on the defendant to prove that he did not know or suspect that the arrangement related to any person's proceeds of drug trafficking, etc.
+
+[96] (2014) 17 HKCFAR 778 at §36.
+
+[97] Comprising officers from the Police and Customs and Exercise Service.  See http://www.jfiu.gov.hk.
+
+[98] In Section C.6a.
+
+[99] Defining as “criminal property”, property which “constitutes a person's benefit from criminal conduct or ... represents such a benefit (in whole or part and whether directly or indirectly)”: section 340(3).
+
+[100] R v Montila & Ors [2004] 1 WLR 3141 at §21.
+
+[101] Ibid at §41.
+
+[102] See John Bell & George Engle, Cross, Statutory Interpretation (3rd Ed, Butterworths) pp 150-152; and D C Pearce & R S Geddes, Statutory Interpretation in Australia, (7th Ed, Lexis Nexis) §§3.33-3.34.
+
+[103] (2001) 4 HKCFAR 29.
+
+[104] (2014) 17 HKCFAR 778.
+
+[105] Power VP, Mayo and Stuart-Moore JJA [1999] 2 HKC 818 at 825, applying the old DTROP.
+
+[106] Ibid at 829.
+
+[107] As was pointed out in the Court of Appeal in Pang Hung Fai, CACC 34/2012 (31 May 2013) at §68; although Mayo JA did not in terms prescribe this as the order in which the questions were to be asked, this is how in practice his Lordship’s judgment was applied.
+
+[108] Stock VP, Lunn JA and McWalters J, CACC 34/2012 (31 May 2013).
+
+[109] Ibid at §107.
+
+[110] Ibid at §105.
+
+[111] Ibid at §110.
+
+[112] Ibid at §112.
+
+[113] Ibid at §104.
+
+[114] Ibid at §103.
+
+[115] Ibid at §130.
+
+[116] HKSAR v Pang Hung Fai (2014) 17 HKCFAR 778.
+
+[117] With whom all the other members of the Court agreed.
+
+[118] At §30.
+
+[119] At §50.
+
+[120] (2012) 15 HKCFAR 146 at §29, where Chan PJ stated that the real question for the trial judge was “whether it was true or might be true that the appellant was prepared to and did take these risks in engaging such services.” (Emphasis supplied)
+
+[121] Pang Hung Fai at §§52-53 and 55.
+
+[122] Litton, Ching and Bokhary PJJ [1999] 2 HKC 833 at 836.
+
+[123] Pang Hung Fai at §82.
+
+[124] In Sections D.1 and D.3.
+
+[125] Pang Hung Fai at §§44-47 and §101.
+
+[126] Pang Hung Fai at §§83-85.
+
+[127] Pang Hung Fai, Court of Appeal at §§102-104.
+
+[128] Pang Hung Fai, Court of Appeal at §130.
+
+[129] Pang Hung Fai at §§59-77.
+
+[130] Pang Hung Fai at §77.
+
+[131] Set out in Section A.1 above.
+
+[132] See Section D.4.
+
+[133] Pang Hung Fai at §§59-77.
+
+[134] (2012) 15 HKCFAR 146.
+
+[135] Ibid at §24. 
+
+[136] (2014) 17 HKCFAR 319.
+
+[137] Ibid at §83.
+
+[138] Pang Hung Fai at §§106-107.
+
+[139] (2012) 15 HKCFAR 146 at §§45 and 48.
+
+[140] See Section D.2 above.
+
+[141] The appellant was, however, deprived of his costs on the ground that he had brought suspicion on himself: HKSAR v Pang Hung Fai (No 2) (2015) 18 HKCFAR 1 at §§4 and 5.
+
+[142] Set out in Section A.1 above.
+
+[143] In Section D.4 above.
+
+[144] [1999] 2 HKC 833 at 836.
+
+[145] Pang Hung Fai §§55 and 56.
+
+[146] Citing Lord Scott of Foscote in White v White and Another [2001] 1 WLR 481 at 495C.
+
+[147] In Section D.4.
+
+[148] Pang Hung Fai at §§33, 46 and 77.
+
+[149] [1973] AC 584.
+
+[150] [1973] AC 584 at 592.
+
+[151] [1973] AC 584 at 593.
+
+[152] [1983] 2 AC 120 at 128.
+
+[153] (2001) 4 HKCFAR 123.
+
+[154] [1973] AC 584 at 607.
+
+[155] R v Sault Ste Marie [1978] 2 RCS 1299 at 1307.
+
+[156]  United States v Margiotta, 646 F 2d 729, 733 (2d Cir 1981), cited in United States v Moloney 287 F 3d 236, 239 (2d Cir. 2002).  See also Chim Hon Man v HKSAR (1999) 2 HKCFAR 145; Walsh v Tattersall (1996) 188 CLR 77; S v The Queen (1989) 168 CLR 266.
+
+[157] (2001) 165 JP 779.
+
+[158] (1999) 152 FLR 373.
+
+[159] (1994) 74 A Crim R 341.
+
+[160] See (1999) 152 FLR 373 at 380.
+
+[161] Practice Direction (Criminal Proceedings: Consolidation) as amended by Practice Direction (Criminal Proceedings: Further Directions) [2007] 1 WLR 1790 at 1799.
+
+[162] [2008] EWCA Crim 233.
+
+[163][2007] 1 Cr App R 10, 21 July 2006.
+
+[164] (1999) 2 HKCFAR 145.
+
+[165] (1989) 168 CLR 266.
+
+[166] (1999) 2 HKCFAR 145 at 161.
+
+[167] (1937) 59 CLR 467.
+
+[168] (1937) 59 CLR 467.
+
+[169] (1937) 59 CLR 467 at 482-483.
+
+[170] (1967) 116 CLR 220 at 224.
+
+[171] (1996) 188 CLR 77 at 86.
+
+[172][2009] 1 WLR 992 at 1001.
+
+[173][1914] 2 KB 99.
+
+[174]In Salim v HKSAR CACC 184/2013 at §§119-120 of the reasons explain how the point arose.  In Yeung Ka Sing, Carson v HKSAR CACC 101/2014 the matter is referred to at §§30-33 of the reasons, and the point is made in §36 that the issue was raised by amendment in the Court of Appeal after the decision in Salim.
+
+[175] R v Marchese [2009] 1 WLR 992 at 1001.
+
+[176] CACC 184/2013  at §§147 and 149.
+
+[177] (2001) 165 JP 779 at 781.
+
+[178] J Ulph, Commercial Fraud: Civil Liability, Human Rights, and Money Laundering (2006) OUP at p 124.
+
+[179] See §25 above.
+
+[180] [2004] 1 WLR 3141 at 3144 to 3147.
+
+[181] Unreported, NWSCCA 60734, 60742 and 60743 of 1994 (19 February 1996), referred to and applied in R v Moussad [1999] NSWCCA 337.
+
+[182] (2005) 165 A Crim R 337.
+
+[183] 826 F Supp 1536 (W D Pa 1993).
+
+[184] 101 F Supp 2d 580 (E D Tenn 2000).
+
+[185] 73 F 3d 1067 (11th Cir 1996).
+
+[186] 287 F 3d 236 (2d Cir 2002).
+
+[187] 287 F 3d 236 (2d Cir 2002) at 241.
+
+[188] 646 F 2d 729 (2d Cir 1981).
+
+[189] 968 F 2d 1512 (2d Cir 1992).
+
+[190] 883 F 2d 1125 (2d Cir 1989).
+
+[191] 646 F 2d 729, 733 (2d Cir 1981).
+
+[192] §147 and fn 174.
+
+[193] CACC 184/2013.
+
+[194] CACC 101/2014 at §§58-65.
+
+[195] CACC 101/2014 at §58.
+
+[196] CACC 101/2014 at §58.
+
+[197] CACC 101/2014 at §60.
+
+[198] CACC 101/2014 at §65.
+
+[199] CACC 184/2013.
+
+[200] CACC 184/2013 at §116.
+
+[201] At §139.
+
+[202] At §147.
+
+[203] Appearing with Mr William Tam SC, DDPP.
+
+ 

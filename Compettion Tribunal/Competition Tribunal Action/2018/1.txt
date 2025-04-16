@@ -1,0 +1,160 @@
+CTA 1/2018
+
+[2018] HKCT 4
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ACTION NO 1 OF 2018
+
+____________
+
+BETWEEN
+ 	TACHING PETROLEUM COMPANY LIMITED	Plaintiff
+ 	and	
+ 	MEYER ALUMINIUM LIMITED	Defendant
+ 	and	
+ 	SHELL HONG KONG LIMITED	Intended
+Intervener
+____________
+
+Before: Hon Au-Yeung J in Chambers
+Date of Hearing: 7 September 2018
+Date of Decision: 7 September 2018
+Date of Reasons for Decision: 12 September 2018
+_________________________________
+
+REASONS FOR DECISION
+
+_________________________________
+
+Introduction
+
+1.  Taching and Shell were dealers in fuel oil.  They commenced separate actions in HCA 1929/2017 (“the Taching Action”) and HCA 1069/2018 (“the Shell Action”) respectively, to sue Meyer for diesel oil sold and delivered. 
+
+2.  Meyer raised a common defence in both Actions, alleging that Taching and Shell colluded in price fixing over the years in breach of the First Conduct Rule (“the Allegation”) under the Competition Ordinance, Cap 619 (“CO”).
+
+3.  G Lam J has transferred the Allegation in the Taching Action to this Tribunal.  This hearing was the case management conference, which was listed for hearing with the Taching Action. 
+
+4.  Shell has previously applied to intervene but agreed to withdraw the application after having sight of Meyer’s defence in the Shell Action.  Shell and Meyer agreed to have the Shell Action transferred to the Tribunal (“the Transferred Action”).  The Tribunal also gave directions regarding the Shell Action immediately upon transfer.
+
+5.  Most of the directions had been agreed except the following:
+
+(1)   whether Meyer should file an originating notice of application (“ONA”);
+
+(2)   whether Meyer should file pleadings in the Competition Tribunal;
+
+(3)   whether Meyer should be given general leave to file a rejoinder;
+
+(4)   whether the remainder of the High Court Actions should be consolidated or tried together with the proceedings at the Tribunal;
+
+(5)   who should bear costs for Shell’s application for intervention in the Taching Action; and
+
+(6)   whether there should be separate orders for the Tribunal and the High Court Actions.
+
+6.  After the hearing, I directed that Meyer need not file an ONA but it had to file Points of Defence that set out its case on all competition issues.  I declined to give general leave to file a rejoinder.  I also directed that all four sets of proceedings (ie the Taching Action, CTA 1/2018, the Shell Action and the Transferred Action) be listed and heard together for directions until further order.  I ordered that costs of Shell’s application for intervention should be costs in the cause of the Shell Action.  Here are my reasons.
+
+Whether Meyer should file an ONA
+
+7.  Taching and Shell suggested that Meyer should file an ONA that fulfilled the requirements of rule 74(1) of the Competition Tribunal Rules (“CTR”), §§88-89 of the Competition Tribunal Practice Directions CTPD1 and §11(1) of CTPD2.
+
+8.  Rule 74(1) requires an applicant to set out the grounds and material facts in support of the application together with the relief sought. 
+
+9.  §§88-89 of CTPD1 requires the ONA to contain also a succinct presentation of the arguments of fact, economics (if applicable) or law supporting the findings and relief sought, so that from the outset the Tribunal and the respondent are apprised of the substance of the case advanced by the applicant.  Prolixity in an ONA should be avoided. 
+
+10.  §11(1) of CTPD2 deals with confidentiality treatment of an ONA.
+
+11.  For two reasons, I do not consider it necessary for an ONA to be filed.
+
+12.  Firstly, as Mr Lee and Ms Lui (counsel for Meyer) indicated, Meyer had no relief to seek, not even for a declaration. The defence filed in response to the Shell Action did not even contain a counterclaim.  There would thus be no relief for Meyer to seek in the ONA.
+
+13.  The Allegation was the only matter transferred.  The Tribunal is only required to find whether such allegation is substantiated or not.  Upon the making of the relevant “decision” or “finding” on the Allegation, the CFI will take over and decide the rights of the parties through further proceedings. See s 119 and 149 CO.
+
+14.  In fact, s 108 of CO appears to prohibit the bringing of any private actions in reliance of contravention of competition rules.  If so, Meyer would not have a right to seek any relief under s 94 and s 1(a) Schedule 3 to CO, but instead may seek “follow-on” relief under s 110 after the Tribunal has found contravention of a conduct rule.
+
+15.  Secondly, proceedings have already been commenced in the High Court and the writ was the originating document.  In this respect, I agree with the analyses of Mr Lee as follows.
+
+16.  “Originating document” has a prescribed meaning in r 2 of CTR, which means:
+
+“ (a) an originating notice of application in Form 1 in the Schedule, a notice of application for leave in Form 7 in the Schedule, an originating notice of claim in Form 8 in the Schedule, or any other form that is prescribed in these Rules, by filing of which proceedings are commenced in the Tribunal; or
+
+(b) for proceedings transferred from the CFI to the Tribunal under section 113 of the Ordinance, a writ of summons, an originating summons, an originating motion or a petition, by filing of which the proceedings were commenced in the CFI”.
+
+17.  The CTR therefore draws a clear distinction between proceedings that are commenced at the Tribunal (which therefore have their respective prescribed originating forms) and proceedings “transferred” to the Tribunal from the CFI (where the originating documents remain to be the writ, etc, in the originating CFI proceedings).
+
+18.  Further, CTA 1/2018 was immediately before the Tribunal upon the making of the transfer order Hon G Lam J on 17 May 2018: r 100(1) CTR.  CTA 1/2018 has never been “commenced” by using any originating document prescribed by CTR.
+
+19.  In any case, none of the originating documents in CTR were applicable to Meyer:
+
+(a)   Form 1 was for an application by the Commission for enforcement of a commitment, pecuniary penalty, disqualification order or financial penalty;
+
+(b)   Form 7 was for an application for leave to apply for a review of a reviewable determination is made.
+
+(c)   Form 8 was for the commencement of follow-on actions by private parties.
+
+20.  The true nature of transferred proceedings is for trial of competition issues as preliminary issues.  The Competition Appeal Tribunal (“CAT”) in the United Kingdom in Agents’ Mutual Ltd v Gascoigne Halman Ltd [2017] CAT 22 at [12], stated that:
+
+“ [12] We consider the appropriate analogy in this case to be the determination of a preliminary issue. The effect of the Transfer Order was to transfer the Competition Issues from the High Court to the Tribunal, which the Tribunal determined as if they were preliminary issues. The unusual feature of the present case is that the preliminary issues (i.e. the Competition Issues) have been determined in the Tribunal, whilst all other issues (i.e. the non-Competition Issues) remain for determination in the Chancery Division.”
+
+21.  Competition issues are special issues that require the determination by a specialist tribunal.  Upon resolution of the special issues, the original action can continue with its normal course in the CFI.
+
+Whether Meyer should file pleadings in this Tribunal
+
+22.  Meyer has filed a defence in the Shell Action but not the Taching Action.  Meyer suggested using the same defence as filed in the Tribunal proceedings. In fact, on the face of the defence, the Tribunal had no problem segregating the Allegation from other issues in the defence.  As Mr Lee submitted, the only material matters raised in the defence related to the Allegation.  The delivery and non-payment of goods were not disputed.  Mr Lee submitted that the court would not require parties to file new pleadings just for the sake of determining a preliminary issue.
+
+23.  Shell criticized Meyer’s defence as deficient in material facts, only pleaded evidence and bald assertions.  I have reservations as to the correctness of this comment but it was not necessary to decide it at the hearing. There was, however, room for its defence to comply with CTPD1.
+
+24.  As Meyer bore the burden of proof and as a matter of good practice, it should file Points of Defence that clearly delineated all the competition issues, given that the Tribunal only has jurisdiction to deal with “allegations of contraventions, or involvements in contraventions, of the conduct rules raised as a defence”: s 142, CO. 
+
+25.  Accordingly, I directed Meyer to file Points of Defence (instead of an ONA) that should comply with §§88-89 CTPD1.  The Points in Response should likewise comply with §90 (save for the time frame for filing). The pleadings in the High Court Actions can, insofar as competition issues are concerned, be kept succinct (similar to the general endorsement for a writ), only incorporating the pleadings in the Tribunal by reference.
+
+Whether Meyer should be given general leave to file a rejoinder
+
+26.  Meyer has not yet filed a defence in CTA1/2018.  Shell has not filed a reply in the Shell Action.  Yet Meyer sought leave to file a rejoinder now.
+
+27.  In my view, it was pre-mature to give leave.  Although it was Meyer who should first file pleadings in the Tribunal, it remained the defendant.  The last word insofar as pleadings were concerned rested with Taching/Shell. 
+
+28.  Mr Lee, however, cited the Agents’ Mutual in support of his application.  With respect to Mr Lee, that case only contained a set of the directions given by CAT.  The rationale behind the directions was not stated.  That case was not authority to disturb the default position concerning filing of pleadings.
+
+29.  This Tribunal may reconsider the need for a rejoinder upon a proper application in due course.
+
+Whether the remainder of the High Court Actions should be consolidated, heard together or tried together with the proceedings at the Tribunal
+
+30.  The Allegation appeared to be the only defence.  Taching and Shell asked for all the proceedings to be tried together.  However, Meyer wanted the High Court Actions to be stayed.  It suggested that if, eg the Tribunal found against Meyer on the competition issues, Taching and Shell may enter judgment.  On the other hand, if there was finding of breach of the First Conduct Rule, Meyer may start a follow-on action after the Tribunal has given its decision: s 110 and 111 CO.  That follow-on action may be tried with the High Court Actions.
+
+31.  It was in my view too early to talk about trying cases together before pleadings were closed.  Equally, it was not appropriate for case management to take into account a follow-on action, the cause for which had not even arisen.
+
+32.  The more appropriate order was for the four sets of proceedings to be listed and heard together in the case management stage and stay the High Court Actions, if appropriate, at the next CMC when the issues are defined.
+
+Costs for Shell’s intervention in the Taching Action
+
+33.  Shell initially applied to intervene in CTA1/2018 but withdrew the application at this hearing.  Shell sought the costs of the hearing on 28 August 2018 when its application was adjourned pending the filing of Meyer’s defence in the Shell Action on 3 September 2018.  Shell claimed that if Meyer had given its indication by correspondence that it would run a similar competition defence as in the Taching Action, costs of the hearing could have been saved.
+
+34.  However, with respect to Ms Sit, the Tribunal had made an order on 28 August 2018 for costs to be in the cause.  There was no reservation in the order itself as regards costs of that hearing.  Accordingly, the Tribunal declined to make another costs order for that hearing. 
+
+35.  The intervention was properly taken out.  As Mr Lee agreed, costs of the intervention application should be in the cause of the Shell Action.
+
+Whether there should be separate orders by the Tribunal and the Court of First Instance
+
+36.  Mr Lee reminded the Tribunal that although I had dual capacity in making directions for the Tribunal and the Court of First Instance, I should be wary of making a composite set of directions. 
+
+37.  I agreed. There should be drafting up of the proper orders for the two different courts although the terms would overlap much.
+
+  
+
+  
+
+ 	(Queeny Au-Yeung)
+ 	Judge of the Court of First Instance
+High Court
+  
+
+Ms Catrina Lam and Ms Cherry Xu, instructed by Herbert Tsoi & Partners, for Taching, the Plaintiff in CTA 1/2018 and HCA 1929/2017
+
+Mr Kenneth K H Lee and Ms Nana Lui, instructed by Robertsons,
+for Meyer, the Defendant in all cases
+
+Ms Eva Sit, instructed by Clifford Chance, for Shell, the Intended Intervener in CTA 1/2018 and the Plaintiff in HCA 1069/2018
+
+ 

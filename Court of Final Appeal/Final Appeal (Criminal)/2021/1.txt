@@ -1,0 +1,602 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No. 1 of 2021
+
+[2021] HKCFA 3
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 1 OF 2021 (CRIMINAL)
+
+(ON APPEAL FROM HCCP NOS. 727 AND 738 OF 2020)
+
+________________________
+
+BETWEEN	 	 
+HKSAR	Appellant
+and	
+LAI CHEE YING (黎智英)	Respondent
+________________________
+
+Before: Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Chan NPJ and Mr Justice Stock NPJ
+Dates of Hearing: 1 February 2021
+
+Date of Judgment: 9 February 2021
+
+________________________
+
+J U D G M E N T
+
+________________________
+
+The Court:
+
+1.  In this appeal, it falls to the Court to consider the provisions governing the grant of bail to a person charged with an offence under the National Security Law[1] (“NSL”).
+
+A.     The proceedings below
+
+2.  On 12 December 2020, the respondent, Mr Lai Chee Ying (“Mr Lai”), was charged with one count of “collusion with a foreign country or with external elements to endanger national security” under Article 29(4) of the NSL (“NSL 29(4)”).[2] The particulars of the charge allege that between 1 July 2020 and 1 December 2020, Mr Lai requested a foreign country or an institution, organisation or individual outside the Mainland, Hong Kong, and Macao of the People’s Republic of China (“PRC”), to impose sanctions or blockade, or engage in other hostile activities against the Hong Kong Special Administrative Region (“HKSAR”) or the PRC.  Earlier, on 2 December 2020, Mr Lai had been charged with one count of fraud, but that charge is not presently relevant.
+
+3.  The Chief Magistrate, Mr Victor So, refused bail and remanded the respondent in custody.[3] The Record of Bail Proceedings indicates that the Chief Magistrate considered that there were substantial grounds for believing that the accused would fail to surrender to custody or commit an offence while on bail.  His reasons for forming that opinion included the nature and seriousness of the alleged offence.  He also indicated that he had considered NSL 42, which is central to this appeal and set out below.[4]
+
+4.  On 23 December 2020, on the respondent’s application, Alex Lee J granted him bail pursuant to section 9J of the Criminal Procedure Ordinance (“CPO”)[5] subject to the respondent providing the undertaking offered by him in the following terms:
+
+1.   The respondent is to undertake not to engage directly or indirectly in conduct which may reasonably be regarded as requesting a foreign country or an institution, organization or individual outside the mainland, Hong Kong, and Macao of the People’s Republic of China (“PRC”), to impose sanction or blockade, or to engage in other hostile activities against the PRC and the HKSAR.
+
+2.   In particular, the respondent shall not:-
+
+(1)  Meet with any officials of a foreign government;
+
+(2)  Attend or host any interviews, television, radio or online programmes;
+
+(3)  Publish any articles in paper or in digital form;
+
+(4)  Make any posts/comments/messages on social media platforms including but not limited to Twitter.
+
+5.  Bail was also granted subject to the following conditions, namely:-
+
+(a)  Reside at address given;
+
+(b)  The respondent shall be confined to the said address except for reporting to police station and attending court;
+
+(c)  Not to leave Hong Kong;
+
+(d)  Surrender all travel documents prior to release;
+
+(e)  Report to Kowloon City Police Station every Monday, Wednesday and Friday between 3 and 6 pm;
+
+(f)  HKD 5 million cash for the Fraud case and HKD 5 million cash for the NSL case;
+
+(g)  Three cash sureties in the sum of HKD 50,000 each for the Fraud case and the NSL case respectively.
+
+Reasons for the Judge’s grant of bail were handed down on 29 December 2020.[6]
+
+6.  The prosecution sought leave to appeal to this Court putting forward two questions as being of the requisite importance.  The first was as to whether the Court has jurisdiction to entertain an appeal against the grant or refusal of bail below.  Leave was refused on that ground, the Appeal Committee[7] holding that since a bail decision is not final, it was not reasonably arguable that such jurisdiction exists.[8]
+
+7.  Leave to appeal was, however, granted on the second question which seeks the Court’s ruling on the correct interpretation of Article 42(2) of the NSL (“NSL 42(2)”) which provides:
+
+“No bail shall be granted to a criminal suspect or defendant unless the judge has sufficient grounds for believing that the criminal suspect or defendant will not continue to commit acts endangering national security.”
+
+8.  Determination of the meaning and effect of NSL 42(2) requires that provision to be examined in the light of the context and purpose of the NSL as a whole, taking into account the constitutional basis upon which the NSL is applied in the HKSAR.
+
+B.     The formulation and application of the NSL to the HKSAR
+
+9.  Since the PRC’s resumption of the exercise of sovereignty over Hong Kong on 1 July 1997, the HKSAR has been constitutionally obliged to enact a National Security Law.  Article 23 of the Basic Law (“BL 23”) provides:
+
+“The Hong Kong Special Administrative Region shall enact laws on its own to prohibit any act of treason, secession, sedition, subversion against the Central People’s Government, or theft of state secrets, to prohibit foreign political organizations or bodies from conducting political activities in the Region, and to prohibit political organizations or bodies of the Region from establishing ties with foreign political organizations or bodies.”
+
+10.  Although a draft law was prepared after widespread consultation by the HKSAR Government in 2003, it was withdrawn in the face of political opposition and no such law has been locally enacted despite the passage of some 23 years.  In the wake of serious and prolonged disturbances to public order and challenges to the authority of the HKSAR and PRC governments in recent months,[9] the Central Authorities considered the absence of national security legislation unacceptable and decided to take such legislation into their own hands.  As NSL 1 states, the NSL:
+
+“... is enacted, in accordance with the Constitution of the People’s Republic of China, the Basic Law of the Hong Kong Special Administrative Region of the People’s Republic of China, and the Decision of the National People’s Congress on Establishing and Improving the Legal System and Enforcement Mechanisms for Safeguarding National Security in the Hong Kong Special Administrative Region ...”
+
+11.  The reference to the abovementioned Decision of the National People’s Congress (“NPC”) is to its Decision dated 28 May 2020 (which has been referred to as “the 5.28 Decision”) forming part of the process of formulating and applying the NSL to the HKSAR.  Given the special status of the NSL as a national law applied under Article 18 of the Basic Law (as will be discussed) and given the express reference in NSL 1 to that process, regard may properly be had to the Explanations and Decisions made in proceedings of the NPC and the NPC Standing Committee (“NPCSC”) regarding promulgation of the NSL as a law of the HKSAR as extrinsic materials relevant to consideration of the context and purpose of the NSL.[10]
+
+12.  The process started with the Explanation of a Draft Decision (which was subsequently to become the “5.28 Decision”) presented to the NPC on 22 May 2020.[11]  The Explanation began by identifying the concerns of the Central Authorities in the light of recent events in Hong Kong:
+
+“At present, the increasingly notable national security risks in the HKSAR have become a prominent problem. In particular, since the onset of Hong Kong’s ‘legislative amendment turmoil’ in 2019, anti-China forces seeking to disrupt Hong Kong have blatantly advocated such notions as ‘Hong Kong independence’, ‘self-determination’ and ‘referendum’, and engaged in activities to undermine national unity and split the country. They have brazenly desecrated and defiled the national flag and emblem, incited Hong Kong people to oppose China and the Communist Party of China (‘CPC’), besiege Central People's Government (‘CPG’) offices in Hong Kong, and discriminate and ostracize Mainland personnel in Hong Kong. These forces have also wilfully disrupted social order in Hong Kong, violently resisted police enforcement of the law, damaged public facilities and property, and paralyzed governance by the government and operation of the legislature. Moreover in recent years, certain foreign or external forces have flagrantly interfered in Hong Kong's affairs. They have made intervention and created disturbances in various ways, such as by legislative and administrative means and through non-governmental organizations. In collusion with those anti-China Hong Kong disrupters, these forces of the same ilk backed and cheered on the disrupters and provided a protective umbrella, and utilized Hong Kong to carry out activities endangering national security. These acts and activities have seriously challenged the bottom line of the ‘One Country, Two Systems’ principle, seriously undermined the rule of law, and seriously jeopardized national sovereignty, security and development interests.”
+
+13.  The Explanation went on to note that the HKSAR’s failure to enact BL 23 legislation gave rise to the proposal that steps be taken at the national level to “establish and improve the legal system and enforcement mechanisms for the HKSAR to safeguard national security, and to change its long-term ‘defenceless’ condition in the field of national security”.  It identified five basic principles underlying the proposals which may be summarised as follows:
+
+(a)  First, “resolutely safeguarding national security”;
+
+(b)  Secondly, “upholding and enhancing the ‘One Country, Two Systems regime’”;
+
+(c)  Thirdly, adhering to “administering Hong Kong in accordance with the law” and resolutely upholding “the constitutional order in the HKSAR as established by the Constitution and the Hong Kong Basic Law”;
+
+(d)  Fourthly, resolutely opposing external interference; and
+
+(e)  Fifthly, “fully safeguarding the legitimate rights and interests of Hong Kong residents”.
+
+14.  Elaborating upon the fifth basic principle, the Explanation states:
+
+“Safeguarding national security is fundamentally consistent with respecting and protecting human rights. The tiny number of criminal offences which jeopardize national security should be effectively prevented, suppressed and punished in accordance with the law. This aims to better protect the lives, property, fundamental rights and freedoms of the vast majority of Hong Kong residents. Any work and law enforcement to safeguard national security must be conducted in strict compliance with the legal requirements, statutory powers and functions, and statutory procedures. It shall not infringe upon the legitimate rights and interests of any Hong Kong resident, legal person or other organization.”
+
+15.  The aforesaid Explanation was adopted by the NPC in making its 5.28 Decision.[12] Having noted the national security risks, unlawful activities and foreign interference referred to, the NPC made its Decision entrusting the NPCSC:
+
+“... to formulate relevant laws on establishing and improving the legal system and enforcement mechanisms for the HKSAR to safeguard national security, in order to effectively prevent, stop and punish acts and activities to split the country, subvert state power, organise and carry out terrorist activities and other behaviours that seriously endanger national security, as well as activities of foreign or external forces interfering in the affairs of the HKSAR. …”[13]
+
+16.  It was left to the NPCSC to decide to include the relevant laws in Annex III of the Basic Law of the HKSAR of the PRC “to be promulgated and implemented by the HKSAR locally”.[14]
+
+17.  The Basic Law provisions in question are BL 18(2) and (3) which provide:
+
+“(2) National laws shall not be applied in the Hong Kong Special Administrative Region except for those listed in Annex III to this Law. The laws listed therein shall be applied locally by way of promulgation or legislation by the Region.
+
+(3)  The Standing Committee of the National People’s Congress may add to or delete from the list of laws in Annex III after consulting its Committee for the Basic Law of the Hong Kong Special Administrative Region and the government of the Region. Laws listed in Annex III to this Law shall be confined to those relating to defence and foreign affairs as well as other matters outside the limits of the autonomy of the Region as specified by this Law.”
+
+18.  The next step in the process was preparation of the Draft NSL and an Explanation of that Draft which was presented to the NPCSC on 18 June 2020.[15] The five basic principles mentioned above were reiterated and the main contents of the Draft Law were elucidated. Certain “working principles” adopted in the Draft were identified.  These focus on improving the HKSAR’s system, addressing institutional deficiencies and “shortcomings”, assigning responsibilities and coordinating institutional arrangements in relation to safeguarding national security. Notably, the fifth working principle was stated to be:
+
+“... accommodating the differences between Mainland China and the HKSAR, and striving to address the convergence, compatibility and complementarity between this Law, and the relevant national laws and local laws of the HKSAR.”
+
+19.  The NPCSC having decided to adopt the Draft NSL, there followed an Explanation of a Draft Decision of the NPCSC to add it to the list of laws in Annex III of the Basic Law.[16] Having referred to BL 18 regarding the categories of national laws that may be locally applied by that constitutional route, the Explanation noted that:
+
+“… Safeguarding national security is a matter within the purview of the Central Authorities. The Central People's Government has an overarching responsibility for national security affairs relating to the HKSAR. …”
+
+It accordingly declared that:
+
+“… The National Security Law formulated by the NPC Standing Committee in accordance with the Decision falls within the scope of laws which should be listed in Annex III to the Hong Kong Basic Law. …”
+
+20.  On 30 June 2020, the NPCSC duly decided to add the NSL to the list of laws in Annex III of the Basic Law to be applied locally by way of promulgation by the HKSAR.[17]  It was accordingly promulgated by the Chief Executive of the HKSAR who gave notice that the NSL as scheduled to the Promulgation applies as from 11 p.m. on 30 June 2020.[18]
+
+21.  On 6 July 2020, the NPCSC was addressed regarding completion of the NSL’s adoption.[19] The Address stated:
+
+“… In upholding the policy of ‘One Country, Two Systems’, the Law has full regard to the differences between the Two Systems as well as the actual circumstances in Hong Kong. It converges with the national law on safeguarding national security and is compatible with Hong Kong’s existing legal system. …”
+
+22.  It expressed confidence that upon its implementation, the NSL would “play a significant role” in achieving the five basic principles mentioned above and notably added:
+
+“… The Law expressly stipulates that human rights shall be respected and protected in safeguarding national security in the HKSAR. The rights and freedoms, including the freedoms of speech, of the press, of publication, of association, of assembly, of procession and of demonstration, which the residents of the HKSAR enjoy shall be protected in accordance with the law. The Law also fully reflects the internationally-practised rule-of-law principles such as conviction and punishment of crimes as prescribed by law, presumption of innocence, protection against double jeopardy, protection of parties’ rights in litigation and to fair trial.”
+
+C.     The NSL
+
+23.  The following provisions of the NSL are of immediate relevance.
+
+24.  NSL 1 expressly sets out the purpose the Law, reflecting the basic principles referred to in the abovementioned Explanations and Decisions:
+
+“This Law is enacted, in accordance with the Constitution of the People’s Republic of China, the Basic Law of the Hong Kong Special Administrative Region of the People’s Republic of China, and the Decision of the National People’s Congress on Establishing and Improving the Legal System and Enforcement Mechanisms for Safeguarding National Security in the Hong Kong Special Administrative Region, for the purpose of:
+
+•  ensuring the resolute, full and faithful implementation of the policy of One Country, Two Systems under which the people of Hong Kong administer Hong Kong with a high degree of autonomy;
+
+•  safeguarding national security;
+
+•  preventing, suppressing and imposing punishment for the offences of secession, subversion, organisation and perpetration of terrorist activities, and collusion with a foreign country or with external elements to endanger national security in relation to the Hong Kong Special Administrative Region;
+
+•  maintaining prosperity and stability of the Hong Kong Special Administrative Region; and
+
+•  protecting the lawful rights and interests of the residents of the Hong Kong Special Administrative Region.”  
+
+25.  NSL 3 declares that the CPG has an overarching responsibility for the HKSAR’s national security affairs and that the HKSAR, its executive, legislative and judicial authorities are duty-bound to safeguard national security.[20]
+
+26.  NSL 4 makes it plain that human rights and fundamental freedoms under the laws of the HKSAR are to be respected and protected while safeguarding national security in the Region:
+
+“Human rights shall be respected and protected in safeguarding national security in the Hong Kong Special Administrative Region. The rights and freedoms, including the freedoms of speech, of the press, of publication, of association, of assembly, of procession and of demonstration, which the residents of the Region enjoy under the Basic Law of the Hong Kong Special Administrative Region and the provisions of the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social and Cultural Rights as applied to Hong Kong, shall be protected in accordance with the law.”
+
+27.  NSL 5 affirms adherence to the principle of the rule of law while enforcing the law against offences endangering national security:
+
+“The principle of the rule of law shall be adhered to in preventing, suppressing, and imposing punishment for offences endangering national security. A person who commits an act which constitutes an offence under the law shall be convicted and punished in accordance with the law. No one shall be convicted and punished for an act which does not constitute an offence under the law.
+
+A person is presumed innocent until convicted by a judicial body. The right to defend himself or herself and other rights in judicial proceedings that a criminal suspect, defendant, and other parties in judicial proceedings are entitled to under the law shall be protected. No one shall be liable to be tried or punished again for an offence for which he or she has already been finally convicted or acquitted in judicial proceedings.”
+
+28.  Specific provision is made in NSL 41 and NSL 42 regarding procedural matters, especially in NSL 42(2) with regard to bail, which is central to this appeal.  Those provisions are set out below[21] and will require detailed examination.
+
+29.  While it is evident that the legislative intention is for the NSL to operate in tandem with the laws of the HKSAR, seeking “convergence, compatibility and complementarity” with local laws,[22] NSL 62 provides for possible inconsistencies, giving priority to NSL provisions in such cases:
+
+“This Law shall prevail where provisions of the local laws of the Hong Kong Special Administrative Region are inconsistent with this Law.”
+
+D.     Jurisdiction
+
+30.  The first issue that divides the parties concerns the extent of the Court’s powers of constitutional review in connection with provisions of the NSL in general and NSL 42(2) in particular.
+
+31.  Mr Anthony Chau[23] submits that there is no jurisdiction to exercise such constitutional review powers.  He relies in support on the decision of this Court in Ng Ka Ling v Director of Immigration (No 2)[24] holding that:
+
+“... the Court accepts that it cannot question[,] the authority of the National People's Congress or the Standing Committee to do any act which is in accordance with the provisions of the Basic Law and the procedure therein.”
+
+32.  As we have seen, promulgation of the NSL as a law of the HKSAR was the product of the NPC’s 5.28 Decision and the NPCSC’s formulation and listing of the NSL in Annex III of the Basic Law.  This was done in accordance with BL 18(2) and (3) on the footing that safeguarding national security is a matter outside the limits of the HKSAR’s autonomy and within the purview of the Central Authorities, the CPG having an overarching responsibility for national security affairs relating to the HKSAR.  Mr Stewart Wong SC[25] does not suggest the contrary.  It follows, Mr Chau submits, that there is no room for holding that the NSL or any of its provisions are unconstitutional or incompatible with the Basic Law or with the ICCPR as applied to Hong Kong[26] as that would amount to a challenge to legislative acts of the NPC and NPCSC done in accordance with the provisions of the Basic Law and the procedure therein.
+
+33.  Mr Wong SC submits that he is not seeking to suggest that the NSL as a whole or that any provision thereof is unconstitutional so that the jurisdiction argument is irrelevant.  He invokes the principle of legality[27] for the proposition that a remedial interpretation involving a reading down of NSL 42(2) is required. His argument is that:
+
+“What needs to be justified ... is not NSL itself or steps taken by the Central or Hong Kong Governments on matters of national security ..., but any measures intruding on the presumption of innocence and right to liberty.”[28]
+
+34.  However, with respect, in arguing for the necessity of such justification, he is in fact endeavouring to mount a constitutional challenge.  Thus, he submits:
+
+“NSL is subject to and cannot override BL or ICCPR: it is untenable that the Hong Kong Courts, entrusted with the upholding of BL, cannot deal with its compatibility with those documents, and therefore its constitutionality.”[29]
+
+35.  The proposition, as developed in the respondent’s Written Case, is that NSL 42(2) derogates from constitutionally protected rights, including the right to bail and the right to personal liberty, and must be justified as being intrusions which are no more than reasonably necessary[30] and must be held invalid unless justified or remedially interpreted:
+
+“... it has consistently been held that where the relevant legislation places the burden on an accused in a bail application to show why bail should be granted, the legislation is in derogation of the constitutional rights of the accused and is invalid unless justified or remedially interpreted. …”[31]
+
+36.  The respondent’s argument is that NSL 42(2) places a burden on the accused to establish that bail should be granted, thereby constituting a derogation from the presumption of innocence and the right to bail and requiring that provision to be read down so as to place a burden on the prosecution instead.[32]  The question of whether NSL 42(2) involves any burden of proof is discussed below.  However, for the purposes of the present discussion, we are unable to accept Mr Wong SC’s argument. 
+
+37.  In our view, in the light of Ng Ka Ling v Director of Immigration (No 2),[33] the legislative acts of the NPC and NPCSC leading to the promulgation of the NSL as a law of the HKSAR, done in accordance with the provisions of the Basic Law and the procedure therein, are not subject to review on the basis of any alleged incompatibility as between the NSL and the Basic Law or the ICCPR as applied to Hong Kong.
+
+E.     Construction of NSL 42(2)
+
+E.1   The approach to construing NSL 42(2)
+
+38.  NSL 41 materially provides:
+
+“(1) This Law and the laws of the Hong Kong Special Administrative Region shall apply to procedural matters, including those related to criminal investigation, prosecution, trial, and execution of penalty, in respect of cases concerning offence endangering national security over which the Region exercises jurisdiction.
+
+(2) No prosecution shall be instituted in respect of an offence endangering national security without the written consent of the Secretary for Justice. This provision shall not prejudice the arrest and detention of a person who is suspected of having committed the offence or the application for bail by the person in accordance with the law. ...” [34]
+
+39.  And NSL 42 states:
+
+(1) When applying the laws in force in the Hong Kong Special Administrative Region concerning matters such as the detention and time limit for trial, the law enforcement and judicial authorities of the Region shall ensure that cases concerning offence endangering national security are handled in a fair and timely manner so as to effectively prevent, suppress and impose punishment for such offence.
+
+(2) No bail shall be granted to a criminal suspect or defendant unless the judge has sufficient grounds for believing that the criminal suspect or defendant will not continue to commit acts endangering national security.
+
+40.  Two features of these Articles are prominent and highly relevant:
+
+(a)  Both Articles expressly envisage the granting of bail in cases involving offences of endangering national security.  Thus, NSL 41(2) provides that while the consent of the Secretary for Justice is required to institute a prosecution, the fact that such consent has not been obtained does not prejudice proceeding with a person’s arrest, detention and application for bail in accordance with law. And NSL 42(2), as further discussed below,[35] spells out a threshold requirement for the grant of bail in cases involving offences of endangering national security. 
+
+(b)  Both Articles also make it clear that in respect of offences of endangering national security, the laws of the HKSAR “shall apply to procedural matters”, including matters related to criminal investigation, prosecution, trial, and execution of penalty, as well as matters such as detention and time limit for trial.  The rules governing bail in general therefore operate in national security cases subject to any specific changes effected by NSL 42(2) which are made to prevail by NSL 62.
+
+41.  NSL 4 and NSL 5, reflecting presentations to the NPC and NPCSC set out above,[36] which emphasise protection and respect for human rights and adherence to rule of law values while safeguarding national security, are also centrally important to the interpretation of the NSL generally and NSL 42(2) in particular. 
+
+42.  We have decided that there is no power to hold any provision of the NSL to be unconstitutional or invalid as incompatible with the Basic Law and Bill of Rights.  However, that is not at all to say that human rights and freedoms and rule of law values are inapplicable.  On the contrary, NSL 4 and NSL 5 expressly stipulate that those rights, freedoms and values are to be protected and adhered to in applying the NSL.  They provide the context in which NSL 42(2) must be construed and applied.  As far as possible, NSL 42(2) is to be given a meaning and effect compatible with those rights, freedoms and values.   Save insofar as NSL 42(2) constitutes a specific exception thereto, that corpus of law, comprising not only the human rights and rule of law principles but also the generally applicable HKSAR rules governing the grant or refusal of bail is intended to have continued effect in NSL cases.  As it was put by this Court in a comparable situation,[37] the specific exception is intended to operate in tandem with constitutional rights and freedoms and other applicable statutory norms as part of a coherent whole.
+
+43.  On this aspect of NSL 42(2)’s construction, there appears to be a measure of common ground between the parties.  Thus, subject to the asserted absence of jurisdiction to hold any Article of the NSL unconstitutional, the appellant submits that:
+
+“... the Hong Kong courts should construe NSL and BL as a coherent whole, with the caveat that NSL is a national law that deals specifically with national security and that it is a well-established principle of construction that the general does not derogate from the special.”[38]
+
+44.  On behalf of the respondent, it is stated that he:
+
+“... agrees that NSL and BL (as well as ICCPR as applied to Hong Kong) should be construed as a coherent whole, and NSL42(2) can and should (as NSL4 mandates) be construed in a manner which is compatible with, and continues to respect and protect, the fundamental rights accorded by BL and ICCPR, ...”[39]
+
+E.2   The context of NSL 42(2)
+
+45.  The aforesaid approach makes it appropriate to examine the matrix in which NSL 42(2) exists, consisting of the applicable human rights and rule of law principles, the rules regarding bail under HKSAR law and the provisions of the NSL read as a coherent whole, with a view to ascertaining how NSL 42(2) is intended to operate in that context.
+
+46.  As NSL 4 expressly mandates respect for and protection of the rights and freedoms which HKSAR residents enjoy under the Basic Law and the ICCPR as applied to Hong Kong, Article 5(3) of the Bill of Rights (“BOR 5(3)”) is plainly relevant.  It states:
+
+“Anyone arrested or detained on a criminal charge shall be brought promptly before a judge or other officer authorized by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release. It shall not be the general rule that persons awaiting trial shall be detained in custody, but release may be subject to guarantees to appear for trial, at any other stage of the judicial proceedings, and, should occasion arise, for execution of the judgment.”
+
+47.  And since, as we have seen, both NSL 41 and NSL 42 provide for HKSAR laws to apply to procedural matters, including “matters such as detention and time limit for trial” which obviously cover pre-trial detention and bail, it was evidently within the contemplation of the NSL that section 9D(1) of the CPO (“CPO 9D(1)”), implementing BOR 5(3), generally creates a presumption in favour of bail:
+
+“Subject to this section and section 9G, a court shall order an accused person to be admitted to bail, whether he has been committed for trial or not, when—
+
+(a) he appears or is brought before a court in the course of or in connection with proceedings for the offence of which he is accused; or
+
+(b) he applies to the court before which he is accused to be admitted to bail; or
+
+(c) he applies to a judge under section 9J to be admitted to bail.”
+
+48.  The general scheme applicable in the HKSAR does not give an unqualified right to bail.  Thus, the presumption in favour of bail in 9D(1) is “[subject] to this section and section 9G”.  CPO 9D(2) states that the grant of bail may be subject to conditions:
+
+“An order under subsection (1) [admitting a person to bail] may be subject to such conditions as appear to the court to be necessary to secure that the person admitted to bail will not—
+
+(a) fail to surrender to custody as the court may appoint; or
+
+(b) commit an offence while on bail; or
+
+(c) interfere with a witness or pervert or obstruct the course of justice.
+
+49.  Under CPO 9G(1), those three considerations may also provide the basis for refusing bail:
+
+“(1) The court need not admit an accused person to bail if it appears to the court that there are substantial grounds for believing, whether or not an admission were to be subject to conditions under section 9D(2), that the accused person would—
+
+(a) fail to surrender to custody as the court may appoint; or
+
+(b) commit an offence while on bail; or
+
+(c) interfere with a witness or pervert or obstruct the course of justice.”
+
+50.  CPO 9G(2) lists factors (including the residual factor “any other thing that appears to the court to be relevant”) that may lead the court to conclude that bail should not be granted on one or more of the aforesaid three grounds:
+
+“(2) The court in forming an opinion under subsection (1) may have regard to—
+
+(a) the nature and seriousness of the alleged offence and, in the event of conviction, the manner in which the accused person is likely to be dealt with;
+
+(b) the behaviour, demeanour and conduct of the accused person;
+
+(c) the background, associations, employment, occupation, home environment, community ties and financial position of the accused person;
+
+(d) the health, physical and mental condition and age of the accused person;
+
+(e) the history of any previous admissions to bail of the accused person;
+
+(f) the character, antecedents and previous convictions, if any, of the accused person;
+
+(g) the nature and weight of the evidence of the commission of the alleged offence by the accused person;
+
+(h) any other thing that appears to the court to be relevant.”
+
+51.  By virtue of NSL 4, 5, 41 and 42, the aforesaid rules (and other procedural rules relating to applications for bail) are applicable to questions regarding bail in cases involving offences endangering national security, but subject to the specific exception created by NSL 42(2). 
+
+E.3   The specific exception created by NSL 42(2)
+
+52.  It will be recalled that NSL 42(2) provides as follows:
+
+“No bail shall be granted to a criminal suspect or defendant unless the judge has sufficient grounds for believing that the criminal suspect or defendant will not continue to commit acts endangering national security.”
+
+53.  The following features are noteworthy:
+
+(a)  The subject-matter of NSL 42(2) overlaps with the subject-matter of CPO 9G(1)(b) which makes the risk of committing an offence while on bail a basis for refusing bail.  NSL 42(2) focusses on the risk of the accused committing “acts endangering national security” if bail is granted.
+
+(b)  However, the starting-point of the inquiry is significantly different.  Under CPO 9G(1), bail may be refused if it appears to the court that there are substantial grounds for believing that the accused person would fail to surrender to custody, commit an offence while on bail or interfere with witnesses or pervert or obstruct the course of justice.  If such grounds are not positively made out, bail is granted.  The rule embodies the presumption in favour of bail. Under NSL 42(2), that presumption is excluded in the first instance.  The starting-point is that no bail shall be granted unless the judge has sufficient grounds for believing that the accused “will not continue to commit acts endangering national security”.  Plainly, NSL 42(2) introduces a considerably more stringent threshold requirement.  Under the CPO, the rule is “grant bail unless there are substantial grounds to believe violation will occur”, while under NSL 42(2) it is “no bail unless there are sufficient grounds to believe violation will not occur”.  This is a distinction to which we will return in examining the decision of the learned Judge.
+
+(c)  The final point of distinction is that NSL 42(2) does not refer to the risk of committing an offence but to a risk that the accused will “continue” to “commit acts endangering national security” if granted bail.  Two aspects call for comment.
+
+(i)  First, the word “continue” must obviously not be read as implying that the accused is somehow to be treated as guilty of having committed such acts before trial.  To give it such a meaning would fly in the face of NSL 5’s adherence to the presumption of innocence.  “Continuing” may best be understood to involve recognising that the defendant is alleged to have committed an offence or offences involving acts endangering national security and NSL 42(2) requires assurance that he will not commit acts of such a nature if bail is granted. 
+
+(ii)  Secondly, the appellant contends that the word “acts” includes acts which do not constitute of any offence.  It is difficult to envisage the accused committing acts endangering national security which would not amount to offences either under the NSL or under HKSAR law.[40] Indeed, it is hard to see why NSL 42(2) would, by its “sufficient grounds” requirement, necessitate refusal of bail because the judge is not satisfied that the accused will not, if given bail, perform acts which would not constitute offences.  The logic of the appellant’s construction is that the acts in question may be freely performed by anyone without breaking the law whereas such acts would necessitate refusal of bail.  We would therefore construe “acts endangering national security” in the context of the NSL 42(2) requirement as referring to acts of that nature capable of constituting an offence under the NSL or the laws of the HKSAR safeguarding national security.
+
+54.  The aforesaid characteristics of NSL 42(2) define its limits as the specific exception carved out from the bail regime which is made otherwise applicable in relation to national security offences by NSL 4, 5, 41 and 42.  NSL 42(2) operates in the context or matrix of the existing bail regime and draws on its rules and principles insofar as they may be relevant, while introducing a new and more stringent threshold requirement for the grant of bail. 
+
+E.4   Two-stage approach and the relevance of bail conditions
+
+55.  An issue which arises between the parties involves the appellant’s contention that NSL 42(2) requires adoption of a two-stage approach in which the court should “only consider NSL 42(2)” at the first stage; and in particular, that “bail conditions should not be taken into account when considering whether there are sufficient grounds for believing that the accused will not continue to commit acts endangering national security.”[41] 
+
+56.  By way of elaboration, the appellant submits that the judge should “consider evidence and all the relevant materials and circumstances which have occurred at the time when considering bail” and decide on that basis alone whether he or she has sufficient grounds to proceed with considering the grant of bail.  If not, the judge proceeds no further.  Bail conditions are only relevant if the NSL 42(2) requirement is met and the court embarks on the second stage inquiry.[42]  The reasons given for taking this approach are that the language of NSL 42(2) imports a higher threshold, qualifying the presumption in favour of bail,[43] and that such an approach is necessary given the primary purpose of the NSL to suppress, etc., acts or activities endangering national security.[44]
+
+57.  We do not accept that argument.  In the first place, it fails adequately to take account of the nature of bail itself.  A person who is admitted to bail, as CPO 9C states, is released by the court from detention “on his undertaking that he shall surrender to custody on the day that the court may appoint”.  All bail decisions therefore involve a risk assessment looking to the future: Can the accused’s undertaking to surrender to custody be accepted?  Will he offend while on bail?  Will he interfere with witnesses or the course of justice?  It makes no sense to confine the court to looking only at the evidence available at the time of the bail hearing and to exclude consideration of matters which may have a bearing on the accused’s likely conduct pending the trial.  Such matters include the potentially preventive effect of appropriate bail conditions which might be put in place.  Of course in any given case, the judge, in answering the NSL 42(2) question, may decide that in all the circumstances, and having duly considered possible bail conditions, he or she does not have sufficient grounds for believing that the defendant will not continue to commit acts endangering national security and thus refuse bail. But it makes no sense presumptively to exclude bail conditions from consideration.
+
+58.  Secondly, the applicability of the general bail regime mandated by NSL 4, 5, 41 and 42, subject to the specific exception introduced by NSL 42(2), supports taking account of bail conditions.  Thus, CPO 9D(2) provides for the imposition of bail conditions “to secure” that the person admitted to bail will duly surrender to custody and will not commit violations during the period of bail.  There is in principle, no reason why the judge, in asking whether he or she has “sufficient grounds”, should not have regard to CPO 9D(2) and factor in any possible bail conditions aimed at securing that the accused will not commit acts endangering national security if granted bail.  The defendant will be aware that bail will immediately be revoked if any bail condition is breached.  The imposition of appropriate conditions therefore possesses a deterrent value that may plainly be relevant to the risk assessment. 
+
+59.  As we have seen, CPO 9G(2) lists factors which bear on the risk assessment including the nature and seriousness of the alleged offence and potential punishment on conviction; the defendant’s behaviour, demeanour and conduct; his background, associations, employment, occupation, home environment, community ties and financial position; his health, physical and mental condition and age; his history of any previous admissions to bail; his character, antecedents and previous convictions, if any; the nature and weight of the evidence of the commission of the alleged offence by the accused person; and the residual reference to “any other thing that appears to the court to be relevant”. 
+
+60.  Those factors are undoubtedly primarily aimed at assessing the accused as a possible flight risk.  But they are also relevant to other potential violations and quite capable in particular cases of being relevant to the “sufficient grounds” question under NSL 42(2).  Thus, for example, the nature and seriousness of the national security offence charged is likely to be an important factor.  So are the past conduct of the accused, his associations and financial position, and the weight of the evidence against him.  CPO 9G(2)(h) enjoins the court to take into account “any other thing that appears to the court to be relevant”.  That plainly includes any bail conditions fashioned with a view to securing that the accused will not commit acts endangering national security.
+
+61.  The reasons advanced by the appellant for excluding bail conditions when answering the “sufficient grounds” question are unconvincing.  We are unable to see how the fact that the language of NSL 42(2) imports a different and more stringent threshold for bail somehow leads to the conclusion that bail conditions should be excluded in a sealed-off first stage inquiry.  Such a conclusion is at odds with the language of the relevant NSL provisions discussed above.
+
+62.  The cardinal importance of the primary purpose of the NSL, namely to safeguard national security and to prevent and suppress acts endangering national security, is clear.  That is why changes, including the NSL 42(2) exception applying more stringent conditions to the grant of bail in relation to offences endangering national security have been introduced.  But it does not follow, especially in the light of NSL 4, 5, 41 and 42, that consideration of possible bail conditions should be excluded when deciding the “sufficient grounds” question.
+
+63.  Whether any possible bail conditions would give the magistrate or judge dealing with the bail application sufficient grounds for believing that the criminal suspect or defendant will not continue to commit acts endangering national security in any given case is of course a separate matter for assessment by the magistrate or judge.
+
+E.5   Burden of proof
+
+64.  The respondent contends that as a general rule, the prosecution bears the burden of proof in establishing that bail should not be granted and that nothing in NSL 42(2) changes that.[45] The proposition is therefore that the burden is on the prosecution to prove that bail should be refused under NSL 42(2).[46]  On the other hand, the appellant argues that the burden of proof is not engaged when the “sufficient grounds” assessment is being conducted by the court.[47]  It argues that the burden of proof is only relevant to trial where the presumption of innocence is adhered to in that, whether or not bail is granted, the burden remains on the prosecution to prove offences endangering national security beyond reasonable doubt.[48]
+
+65.  Thus the question which arises is whether, on the respondent’s reasoning, a burden of proof relating to refusal of bail rests on the prosecution.
+
+66.  Where a presumption in favour of bail operates (as under BOR 5(3) and CPO 9D(1)) one may broadly, if perhaps loosely, speak of the prosecution having the overall onus of displacing that presumption and showing that grounds exist for detaining the accused pending trial (even if a burden of proof does not strictly arise).  The respondent cites various authorities (generally in cases which do not involve national security offences) in which such sentiments have been expressed. Moreover, the respondent points to cases, particularly in the Strasbourg jurisprudence, disapproving of legislation of Member States which expressly placed a burden on a suspect to prove that he should be granted bail.
+
+67.  We do not, however, accept the respondent’s line of argument.  In the first place, the grant or refusal of bail under our laws does not involve the application of a burden of proof, so that there is no burden resting on either party, and no burden to be imposed on the prosecution.  Secondly, the cases which proceed from a presumption in favour of bail are inapplicable in the present appeal since, for the reasons developed in this judgment, NSL 42(2) constitutes a specific exception which, by virtue of NSL 62, displaces CPO 9D(1) and the presumption in favour of bail at the initial stage of the assessment.
+
+68.  As previously pointed out, the rules as to the grant or refusal of bail by their nature involve a risk assessment as to the conduct of the accused in the future, an assessment that does not lend itself to strict proof at the bail hearing.  Instead, as the provisions of the CPO indicate, the decision whether or not to grant bail or other decisions involving a predictive and evaluative exercise, are a “juridical exercise carried out by the court [as] an exercise in judgment or evaluation, not the application of a burden of proof”.[49]  This is apparent from the provisions of the CPO.  Thus:
+
+(a)  The language of the relevant CPO provisions consistently refers to what may “appear to the court” to be required, not what has to be established by one or other of the parties.[50]
+
+(b)  Similarly, in deciding whether to grant bail, the court is to take into account various factors including “any other thing that appears to the court to be relevant.”[51] These include, for instance, “the character, antecedents and previous convictions, if any, of the accused person” which would be excluded as inadmissibly prejudicial at a trial where the prosecution has a strict burden of proof.[52]
+
+(c)  In dealing with applications by the Secretary for Justice to review decisions granting bail, CPO 9H(4) provides that the Secretary “shall be entitled to put before the judge such relevant argument and such relevant matter as he thinks proper” and also that “the person admitted to bail shall also be entitled to be heard”, which is not language suggesting that either has a burden of proof to discharge in relation to bail.
+
+(d)  CPO 9N is explicit as to the court’s inquisitorial powers in a bail setting: “... the court may, subject to paragraph (b),[53] make such inquiries of and concerning the person being the subject of those proceedings as the court considers desirable”.  It enables the prosecution to submit evidence “by affidavit or otherwise” which would be inadmissibly prejudicial at a trial where the prosecution has a strict burden of proof, including evidence that the accused had previously been charged with or convicted of another criminal offence.
+
+(e)  The statutory regime recognises these potentially prejudicial aspects of what the court may refer to in imposing restrictions on the reporting of bail proceedings.[54]
+
+69.  Although we have concluded that there is no formal burden of proof on the prosecution in relation to the “sufficient grounds” requirement in NSL 42(2), it is noteworthy that there are other common law jurisdictions where, in respect of certain classes of offences, not only is there no burden of proof on the prosecution to establish grounds for refusing bail, but a burden is placed on the accused to establish why continued detention, rather than release on bail, is not justified.  Thus, the majority of the Supreme Court of Canada has held that the requirement in section 515(6)(d) of the Criminal Code, to the extent that it requires the accused to show cause why pre-trial detention is not justified, does not contravene the Canadian Charter of Rights: R v Pearson.[55] In South Africa, the Constitutional Court has held that the provision in section 60(11) of the Criminal Procedure Act 1977, placing a burden on the accused to show exceptional circumstances exist which in the interests of justice permit his release, if charged with certain scheduled offences, is not unconstitutional: State v Dlamini.[56]  In Australia, it has been held that section 15AA of the Crimes Act 1914 (Commonwealth) prevents the court from granting bail in certain cases unless it is satisfied that exceptional circumstances exist to justify bail and this provision requires the applicant to satisfy the court that such circumstances exist: R v NK.[57]
+
+F.     Conclusions summarised
+
+70.  The conclusions we have so far reached may be summarised as follows.
+
+(a)  The legislative acts of the NPC and NPCSC leading to the promulgation of the NSL as a law of the HKSAR in accordance with the provisions of the Basic Law and the procedure therein, are not subject to constitutional review by the Court on the basis of any alleged incompatibility as between the NSL and the Basic Law or the ICCPR as applied to Hong Kong.[58]
+
+(b)  NSL 42(2) creates a specific exception to the HKSAR rules and principles governing the grant and refusal of bail, and imports a stringent threshold requirement for bail applications.[59]
+
+(c)  NSL 42(2) is to be construed and applied with the guarantees of human rights and the rule of law values affirmed by NSL 4 and NSL 5, as well as with the general procedural rules made applicable by NSL 41 and NSL 42, read as a coherent whole.
+
+(d)  In applying NSL 42(2) when dealing with bail applications in cases involving offences endangering national security, the judge must first decide whether he or she “has sufficient grounds for believing that the criminal suspect or defendant will not continue to commit acts endangering national security”.  In doing so:
+
+(i)  The judge should consider everything that appears to the court to be relevant to making that decision, including the possible imposition of appropriate bail conditions and materials which would not be admissible as evidence at the trial.  It may in particular cases be helpful to have regard to factors such as those set out in CPO 9G(2) in connection with the “sufficient grounds” question.
+
+(ii)  The judge should take the reference to “acts endangering national security” to mean acts of that nature capable of constituting an offence under the NSL or the laws of the HKSAR safeguarding national security.
+
+(iii)  The judge should regard the NSL 42(2) “sufficient grounds” question as a matter for the court’s evaluation and judgment and not as involving the application of a burden of proof.
+
+(e)  If, having taken into account all relevant material, the judge concludes that he or she does not have sufficient grounds for believing that the accused will not continue to commit acts endangering national security, bail must be refused. 
+
+(f)  If, on the other hand, the judge concludes that taking all relevant material into account, he or she does have such sufficient grounds, the court should proceed to consider all other matters relevant to the grant or refusal of bail, applying the presumption in favour of bail.  This includes consideration of whether there are substantial grounds for believing that the accused would fail to surrender to custody, or commit an offence (not limited to national security offences) while on bail, or interfere with a witness or pervert or obstruct the course of justice.  Consideration should also be given to whether conditions aimed at securing that such violations will not occur ought to be imposed.[60]
+
+G.     The Judge’s decision
+
+71.  In granting the respondent bail,[61] the learned Judge Alex Lee J applied legal principles derived from earlier decisions, in particular Tong Ying Kit v HKSAR[62](“Tong (No 1)”) and HKSAR v Tong Ying Kit[63] (“Tong (No 2)”), in which he had taken part.
+
+72.  While much of what is said in Tong (No 1) is consistent with the foregoing analysis, that judgment unfortunately falls into error and is flawed in a crucial respect in that it misapprehends the nature and effect of the threshold requirement laid down by NSL 42(2).  The Court held that:
+
+“The restriction against bail being granted under art.42 is a narrow one. Although the provision is couched in a double negative form, the substantive question which a judge has to ask, when considering the question of bail of a person charged with an offence endangering national security, is whether there are grounds, or reasons, to believe that the accused person will continue to commit ‘acts endangering national security’, ie offences under the National Security Law and not just any act which may in some way be said to endanger national security.”[64]
+
+73.  This wrongly translates NSL 42(2)’s “double negative” (“no bail unless the judge has sufficient grounds to believe accused will not commit acts endangering national security before considering the grant of bail”) into a positive requirement that the court has to be satisfied that there do exist grounds to believe that the accused will continue to commit acts endangering national security as a basis for refusing bail. 
+
+74.  This is not a case where one may arithmetically regard two negatives as producing a positive result. The Court’s approach erroneously re-writes NSL 42(2) and eliminates the more stringent threshold requirement it intentionally imposes as a specific exception to the general principles regarding bail.  Consequently, the Court in Tong (No 1) (applied in Tong (No 2) and by the Judge below) erroneously treated NSL 42(2) as having hardly any impact on the generally applicable bail regime under CPO 9D and 9G:
+
+“... we consider that, in the vast majority of cases, an accused person who would otherwise be granted bail under s.9D of the CPO will continue to be granted bail notwithstanding art.42, and vice versa. This is because, under s.9G(1)(b) of the CPO, one of the grounds for withholding bail is that there are substantial grounds for believing that the accused person ‘would commit an offence while on bail’. If the judge is minded to grant bail to an accused person, with or without conditions attached, it ordinarily means that he does not consider that there are substantial grounds for believing that the accused person would commit a serious offence while on bail. This consideration must now include an offence endangering national security which, by definition, is a serious one. In a situation where the judge does not consider that there are substantial grounds for believing that the accused person would commit an offence endangering national security if granted bail, there would be no reason for bail to be denied under art.42.”[65]
+
+Their Lordships added:
+
+“In short, while there may [be] a difference of emphasis between s.9G(1) of the CPO and art.42 of the National Security Law, the impact of art.42 is more apparent than real. The practical application of art.42 is unlikely to result in any different outcome of a bail application in the vast majority of cases.”[66]
+
+75.  The words we have italicised above embody the error of treating the NSL 42(2) threshold question as little different from the discretionary ground for refusing bail set out in CPO 9G(1)(b) and thus failing to recognise the differing starting-points or, as Mr Wong SC put it, their different “default positions”, namely, “no bail unless ...” versus “grant bail unless ...”.
+
+76.  The abovementioned approach was spelt out in Tong (No 2),[67] where the learned Judge stated:
+
+“Therefore, in my judgment, as held in the Habeas Corpus Judgment [ie, Tong (No 1)], while there may a difference of emphasis between s.9G(1) of the CPO and art.42 of the NSL, the latter does not introduce any drastic or significant changes to the existing law and practice regarding bail applications.”[68]
+
+77.  It is clear from his Lordship’s Reasons for Ruling below, that he persisted in his erroneous line of reasoning.  Thus, he applied the approach adopted in Tong (No 1) and Tong (No 2):
+
+“As regards bail applications for accused charged for offences under the NSL, the relevant legal principles have been considered in Tong Ying Kit v HKSAR and HKSAR v Tong Ying Kit. All of which, I am not going to repeat now.”[69]
+
+78.  In dealing with the “Merits of the application” regarding the prosecution’s objections to bail, the Judge proceeded to elide the NSL 42(2) question with the CPO 9G discretionary factors, going directly to consideration of the “nature and seriousness of the offence and the weight of the evidence”,[70] reflecting CPO 9G(2)(a) and (g). This was followed by consideration of “risk of absconding,”[71] reflecting CPO 9G(1)(a). 
+
+79.  His Lordship then considered “Risk of committing offence whilst on bail”[72] which is the language of CPO 9G(1)(b) rather than that of NSL 42(2), even though he went on to quote NSL 42(2) and to hold that he was duly satisfied that he had “sufficient grounds to believe that the accused will not commit acts endangering national security for the future if bail is granted”.[73]
+
+80.  The aforesaid approach is clearly inconsistent with the analysis which has been developed in this judgment and cannot be supported.  The learned Judge misconstrued NSL 42(2) and misapprehended the nature and effect of the threshold requirement created. Although he purported to apply the correct legal test, his Lordship in fact adopted an erroneous approach by eliding the NSL 42(2) question with the discretionary considerations set out in CPO 9G and never made a proper assessment under NSL 42(2).[74]  The appellant’s appeal must accordingly be allowed and the Judge’s decision to grant the respondent bail must be set aside.
+
+81.  As was pointed out in the Determination granting leave to appeal,[75] the question before the Court is of a limited nature.  If so advised, the respondent may make a fresh application for a review of the Chief Magistrate’s refusal of bail, but it falls outside the jurisdiction of the Court to conduct such a review.  In the meantime, the respondent is remanded in custody.
+
+ 
+
+ 
+
+(Andrew Cheung)	(R A V Ribeiro)	(Joseph Fok)
+Chief Justice	Permanent Judge	Permanent Judge
+ 
+
+ 
+
+(Patrick Chan)	(Frank Stock)
+Non-Permanent Judge	Non-Permanent Judge
+ 
+
+Mr Anthony Chau, DDPP (Ag), Mr Ivan Cheung, SPP and Ms Crystal Chan, PP, of the Department of Justice, for the Appellant
+
+Mr Stewart Wong, SC, Ms Maggie Wong, SC and Mr Lee Siu Him, instructed by Robertsons, for the Respondent
+
+[1] The Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region, applied to the HKSAR on 30 June 2020.
+
+[2] NSL 29 materially provides: “A person ... who requests a foreign country or an institution, organisation or individual outside the mainland, Hong Kong, and Macao of the People’s Republic of China, ... to commit any of the following acts shall be guilty of an offence: ... (4) imposing sanctions or blockade, or engaging in other hostile activities against the Hong Kong Special Administrative Region or the People’s Republic of China. …”  It is punishable by a sentence of imprisonment of a fixed term of not less than three years but not more than ten years; and in respect of “an offence of a grave nature” by imprisonment for life or for a fixed-term of not less than ten years.
+
+[3] WKCC 4341/2020 (12 December 2020).
+
+[4] At §39.
+
+[5] Cap 221.
+
+[6] [2020] HKCFI 3161.
+
+[7] Ma CJ, Ribeiro and Cheung PJJ [2020] HKCFA 45 (31 December 2020).
+
+[8] By virtue of section 31 of the Hong Kong Court of Final Appeal Ordinance (Cap 484).
+
+[9] Events in recent months are described in this Court’s judgment in Kwok Wing Hang v Chief Executive in Council [2020] HKCFA 42, at Section C.1.
+
+[10] Cf, Director of Immigration v Chong Fung Yuen (2001) 4 HKCFAR 211 at 224-225.
+
+[11] Presented by Mr Wang Chen, Vice Chairman of the NPCSC: Explanation on “The Draft Decision of the National People’s Congress on Establishing and Improving the Legal System and Enforcement Mechanisms for the Hong Kong Special Administrative Region to Safeguard National Security” Addressing the Third Session of the Thirteenth National People’s Congress on 22 May 2020.
+
+[12] Decision of the National People’s Congress on Establishing and Improving the Legal System and Enforcement Mechanisms for the Hong Kong Special Administrative Region to Safeguard National Security (Adopted at the Third Session of the Thirteenth National People’s Congress on 28 May 2020) (L.N. 135 of 2020).
+
+[13] 5.28 Decision, §6.
+
+[14] Ibid.
+
+[15] Explanation on the “Draft Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region” addressed to the 19th Session of the 13th Standing Committee of the National People’s Congress by the Responsible Official of the Legislative Affairs Commission under the Standing Committee of the National People’s Congress (18 June 2020).
+
+[16] Explanation on “The Draft Decision of the Standing Committee of the National People’s Congress on Adding a Law to the List of the National Laws in Annex III to the Basic Law of the Hong Kong Special Administrative Region of the People’s Republic of China” Addressing the Twentieth Session of the Standing Committee of the Thirteenth National People’s Congress on 30 June 2020 by Mr Shen Chunyao, Director of the Legislative Affairs Commission under the NPCSC.
+
+[17] Decision of the Standing Committee of the National People’s Congress on Adding a Law to the List of the National Laws in Annex III to the Basic Law of the Hong Kong Special Administrative Region of the People’s Republic of China (Adopted at the Twentieth Session of the Standing Committee of the Thirteenth National People’s Congress on June 30, 2020), Instrument A117.
+
+[18] Promulgation of National Law 2020, Instrument A406.
+
+[19] Address at the Twentieth Session of the Standing Committee of the Thirteenth National People’s Congress (30 June 2020) by Mr Li Zhanshu (6 July 2020).
+
+[20] NSL 3: “The Central People’s Government has an overarching responsibility for national security affairs relating to the Hong Kong Special Administrative Region.
+
+It is the duty of the Hong Kong Special Administrative Region under the Constitution to safeguard national security and the Region shall perform the duty accordingly.
+
+The executive authorities, legislature and judiciary of the Region shall effectively prevent, suppress and impose punishment for any act or activity endangering national security in accordance with this Law and other relevant laws.”
+
+[21] Section E.1.
+
+[22] As pointed out in the Explanation of Draft NSL presented to the NPCSC on 18 June 2020, referred to above, and reiterated in the abovementioned Address to the NPCSC on 6 July 2020 regarding adoption of the NSL.
+
+[23] DDPP (Ag), appearing for the appellant with Mr Ivan Cheung and Ms Crystal Chan.
+
+[24] (1999) 2 HKCFAR 141 at 142.
+
+[25] Appearing for the respondent with Ms Maggie Wong SC and Mr Lee Siu Him.
+
+[26] Implemented by the Hong Kong Bill of Rights Ordinance (Cap 383) (“HKBORO”).
+
+[27] Respondent’s Written Case §11 (“RC §11”).
+
+[28] RC §35.
+
+[29] RC §6(1). 
+
+[30] RC §§24-32.
+
+[31] RC §34.
+
+[32] RC §38.
+
+[33] (1999) 2 HKCFAR 141 at 142.
+
+[34] The paragraph numbers have been added for convenience.
+
+[35] Section E.3 of this judgment.
+
+[36] 22 May 2020 Explanation to the NPC of the Draft 5.28 Decision (§14 above); 6 July 2020 Address to the NPCSC on completion of the NSL’s adoption (§22 above).
+
+[37] Comilang Milagros Tecson v Director of Immigration (2019) 22 HKCFAR 59 at §30. There, the exception involved the immigration reservation implemented by section 11 of HKBORO excluding operation of the Bill of Rights regarding certain immigration cases.  While the situation is not identical, it is comparable to the situation where NSL 42(2) may be intended to carve out a specific exception from a scheme of rights protection in the bail context.
+
+[38] Appellant’s Written Case §4(a) (“AC §4(a)”).  The proposition in the latter part of the citation is evidently that the special exception constituted by NSL 42(2) should be held to supersede general provisions governing bail.  The point is repeated at AC §33(b) where Comilang (supra) is cited.
+
+[39] RC §6(1) pp 6-7.  See also his Supplemental Case, RSC §15(2).
+
+[40] Such as the offences of treason, incitement to disaffection or sedition under Parts I and II of the Crimes Ordinance (Cap 200).
+
+[41] AC §4(d) and (e).
+
+[42] AC §§41-43.
+
+[43] AC §§45-48.
+
+[44] AC §52.
+
+[45] RC §§13, 54.
+
+[46] RC §5(1).  As we have seen at §36 above, the respondent also submits that if NSL 42(2) places the burden on the accused, it should be “read down” to impose the burden on the prosecution.  Quite apart from the question of burden, we have held in Section D above that the Court lacks jurisdiction to adopt a remedial interpretation.
+
+[47] AC §40.
+
+[48] AC §86(e).
+
+[49] Per Lord Carswell in R (O) v Crown Court at Harrow [2007] 1 AC 249 at §11, citing Lord Bingham of Cornhill in R v Lichniak [2003] 1 AC 903, at §16; and Lord Steyn in R (McCann) v Crown Court at Manchester [2003] 1 AC 787, at §37 in an analogous case.  See also Re McClean [2005] NI 490 (per Lord Bingham at §§25-26 and 31).
+
+[50] CPO 9D(2): “An order under [CPO 9D(1)] may be subject to such conditions as appear to the court to be necessary ...”; CPO 9G(1): “The court need not admit an accused person to bail if it appears to the court that there are substantial grounds ...”
+
+[51] CPO 9G(2)(h).
+
+[52] CPO 9G(2)(f).
+
+[53] Which restricts examining or cross-examining the accused regarding the offence with which he is charged.
+
+[54] CPO 9P.
+
+[55] [1992] 3 RCS 665.
+
+[56] [2000] 2 LRC 239 at §§58-80.
+
+[57] [2016] NSWSC 498 at §26.
+
+[58] §37 above.
+
+[59] §§52-54 above.
+
+[60] In accordance with CPO 9D(2) and CPO 9G.
+
+[61] [2020] HKCFI 3161.
+
+[62] Anderson Chow and Alex Lee JJ [2020] 4 HKLRD 382.
+
+[63] Alex Lee J [2020] 4 HKLRD 416.
+
+[64] [2020] 4 HKLRD 382 at §37.
+
+[65] Tong (No 1) at §43.
+
+[66] Ibid at §45. 
+
+[67] At §12.
+
+[68] At §18.
+
+[69] Reasons for Ruling [2020] HKCFI 3161, at §8.
+
+[70] Ibid at §§9, 16-20.
+
+[71] Ibid at §§21-28.
+
+[72] Ibid at §§29-34.
+
+[73] Ibid at§33.
+
+[74] Additionally, it may be noted that Tong (No 1) at §37erroneously limits “acts endangering national security” to offences under the NSL.  See §53(c)(ii) above.
+
+[75] [2020] HKCFA 45, at §23.
+
+ 

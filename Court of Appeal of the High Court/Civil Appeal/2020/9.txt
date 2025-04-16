@@ -1,0 +1,269 @@
+CACV 7/2020
+
+[2021] HKCA 791
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO 7 OF 2020
+
+(ON APPEAL FROM HCMP NO 1439 OF 2017)
+
+_______________
+
+ 	
+IN THE MATTER of section 5(1) of the Mainland Judgments (Reciprocal Enforcement) Ordinance (Cap 597)
+
+ 	and
+ 	
+IN THE MATTER of the Judgment of the Intermediate People’s Court of Quanzhou City, Fujian Province 福建省泉州市中級人民法院 in (2016) 閩05民初1896號and (2016) 閩05民初1897號 dated 17 February 2017 obtained by China Citic Bank Corporation Limited (Quanzhou Branch) against Li Kwai Chun, Li Yin Chung Hughes and Siu Ka Yan (the “Mainland Judgments”)
+
+_______________
+
+BETWEEN	 	 
+ 	CHINA CITIC BANK CORPORATION LIMITED
+(QUANZHOU BRANCH)
+(中信銀行股份有限公司 (泉州分行))	Plaintiff
+and
+
+ 	LI KWAI CHUN (李桂珍)	1st Defendant
+ 	LI YIN CHUNG HUGHES (李延松)	2nd Defendant
+ 	SIU KA YAN (蕭嘉欣)	3rd Defendant
+_______________
+
+Before:  Hon Lam VP and Au JA in Court
+
+Date of Decision:  2 June 2021
+
+_______________
+
+D E C I S I O N
+
+_______________
+
+Hon Au JA (giving the Decision of the Court):
+
+A.  INTRODUCTION
+
+1.  This is the plaintiff’s application for security for costs against the 3rd defendant in the sum of $1,425,870.00 in this appeal[1].
+
+2.  The appeal is brought by the 3rd defendant against the judgment of Keith Yeung J (“the Judge”) dated 22 October 2019 (“the Judgment”)[2]. By way of the Judgment, the Judge dismissed the defendants’ application to set aside the order of Master Hui made on 28 August 2017 (“Master Hui’s Order”) registering two judgments from the Intermediate People’s Court of Quanzhou City, Fujian Province (“the Quanzhou IPC”) against the defendants.
+
+3.  Pursuant to the Registrar of Civil Appeal’s directions dated 16 July 2020, the parties filed their respective written submissions in compliance with paragraph 36 of Practice Directions 4.1 for the purpose of disposing the application on paper. We agree that it is appropriate for this application to be dealt with on paper and proceed to do so.  This is our decision.
+
+B.  BACKGROUND
+
+4.  The relevant background facts have been summarized by the Judge at [8] ‑ [33] of the Judgment.  We only need to highlight the following for present purpose.
+
+5.  The plaintiff is a licensed bank.  In 2007, the plaintiff entered into a business relationship with the 1st defendant (who is the mother of the 2nd defendant), who was the founder of Jiayi (Fujian) Import and Export Trading Company Limited (“Jiayi”) and Jinjiang Zhenxing Shoes and Plastics Company Limited (“Zhenxing”).
+
+6.  On 26 June 2015, the plaintiff extended a credit line facility to each of Jiayi and Zhenxing by two lines of credit agreements.  On the same date, the 1st defendant provided personal guarantees to secure Jiayi and Zhenxing’s indebtedness to the plaintiff.  The 2nd defendant and the 3rd defendant (who is the 2nd defendant’s wife) also entered into two guarantee agreements (最高額保證合同) for both Jiayi and Zhenxing.  These guarantees were collectively called “Maximum Guarantee Agreements” (“MGA”).
+
+7.  Articles 18.2.3 and 18.2.4 of the MGA effectively provided that service of relevant court process and legal documents can be effected on the defendants by sending them to the defendants’ addresses as stated in the MGA (“MGA Address”).  They further provided that if the documents were returned, the return date would be deemed to be the date of service of these documents.  Further, the MGA further stated that if the defendants were to change the address for service, they should notify the plaintiff within three days of change or notify the judicial branches in writing if the litigation or arbitration of any dispute under the MGA had already commenced.  If the defendants failed to do so, the legal documents sent to them in accordance with the MGA articles would be deemed to have been validly served.
+
+8.  Subsequently, on 16 November 2015, the plaintiff granted loans at the respective sums of RMB 28,952,742 and RMB 30,817,595 to Jiayi and Zhenxing which were repayable with interest by 15 November 2016. The MGA covered the full amount of these loans.  Jiayi and Zhenxing later failed to repay these loans.
+
+9.  On about 9 December 2016, the plaintiff commenced two actions against Jiayi and Zhenxing and the defendants as guarantors in the Quanzhou IPC respectively under action numbers (2016) 閩05民初1896號 (“Quanzhou IPC 1896”) and (2016) 閩05民初1897號 (“Quanzhou IPC 1897”).  These two actions will be referred to collectively as “Quanzhou IPC Actions”.
+
+10.  The defendants did not attend any hearings of the Quanzhou Actions before the Quanzhou IPC.  On 17 February 2017, the Quanzhou IPC handed down two judgments in the Quanzhou IPC Actions (“Quanzhou IPC Judgments”) in favor of the plaintiff.
+
+11.  While it was not disputed that the court documents of the Quanzhou IPC Actions were sent to the MGA Address but returned to the Quanzhou IPC undelivered, the Quanzhou IPC in entering judgments in favour of the plaintiff also held that the service was valid and the defendants failed to attend the hearings.  See: [20] - [21] of the Judgment.
+
+12.  Subsequently, the plaintiff applied and registered the Quanzhou IPC Judgments in Hong Kong under section 5(1) of the Mainland Judgements (Reciprocal Enforcement) Ordinance (Cap 597) (“the Ordinance”) pursuant to Master Hui’s Order.
+
+13.  The defendants later took out a summons on 28 September 2017 applying to set aside the registration of the Quanzhou IPC Judgments. Meanwhile, the defendants had also sought to challenge the Quanzhou IPC Judgments in the Mainland by (a) making retrial applications to the Higher People’s Court of Fujian Province (“Fujian HPC”)[3], and (b) making civil protest applications for review to the People’s Procuratorate of Fujian Province (“PPFP”)[4]. In these applications, the defendants again challenged the validity of the service of the court documents and respective hearing notices.  The applications were all dismissed respectively by Fujian HPC and PPFP.  The Judge has set out the relevant respective reasoning of the dismissal at [28] ‑ [32] of the Judgment as follows:
+
+(1)  The Fujian HPC’s views:
+
+(a)  For the Quanzhou IPC 1897 action:
+
+「本院經審查認為...關於程序問題，原審法院根據再審申請人確認的送達地址進行送達，符合法律規定，並未剝奪當事人權利。」
+
+(b)  For the Quanzhou IPC 1896 action:
+
+「本院經審查認為...三申請人簽訂的《最高額保證合同》中第18.2.3條款約定，『司法機關或仲裁機構亦可按本款約定的地址、聯繫方式向甲方發送相關（法律）文書，無人簽收或甲方拒收的，則（法律）文書退回之日視為送達之日』，且三申請人向被申請人出具了《確認函》確認了送達地址，一審法院據此向當事人約定的送達地址郵寄相關法律文書，送達程序並無不當。」
+
+(2)  The PPFP’s view:
+
+「在上述《最高額保證合同》、《確認函》中，莊瓊珍代蕭嘉欣簽名同意，司法機關或仲裁機構可按約定地址、聯繫方式發送相關法律文書，原審法院按蕭嘉欣代理人事先確認的地址送達相關法律文書，沒有剝奪蕭嘉欣的辯論權利。申請人關於原審法院送達程序違法，剝奪蕭嘉欣辯論權利的主張不能成立，依法不應予以支持。」
+
+C.  THE JUDGMENT
+
+14.  As mentioned above, the Judge by way of the Judgment dismissed the defendants’ application to set aside Master Hui’s Order in registering the Quanzhou IPC Judgments.
+
+15.  The issues before the Judge were (a) whether the registration of the Quanzhou IPC Judgments should be set aside under section 18(1)(f) of the Ordinance as the defendants were not summoned according to the law of the Mainland to appear before the Quanzhou IPC to defend the Quanzhou IPC Actions, and (b) whether the registration was liable to be set aside on the ground of the plaintiff’s material non-disclosure.  See [1] and [34] of the Judgment.
+
+16.  In this respect, it was common ground that the hearing notices of the Quanzhou IPC Actions were sent to the defendants’ MGA Address and that the defendants did not appear before the Quanzhou IPC to defend these actions.
+
+17.  The Judge first concluded that the onus of proof was on the defendants to show on balance of probabilities that they were not summoned to appear according to the law of the Mainland.  He also reminded himself that the proof of the Mainland law was a fact-finding process and evidence had to be examined and weighed accordingly.  In particular, after referring to various authorities[5], the Judge agreed that a domestic court ought not to lightly reach the conclusion that the opinion of a foreign court on the same issue was wrong unless there existed evidence that the determination was clearly perverse.  See [37] - [46] of the Judgment.
+
+18.  At the hearing, the plaintiff relied on the expert report of its Chinese law expert Professor Zhao Wei dated 31 July 2019 while the defendants relied on two reports of their expert Professor Zhang Xianchu, dated 29 May 2018 and 27 September 2018 respectively.  In gist, both experts agreed that the service of the court process in the Mainland is to be effected by the People’s Court.  However, they differed in their views as to whether by posting the hearing notices to the defendants at the MGA Address, the defendants had been validly and properly summoned to appear before the court according to the law of the Mainland: see [50] - [51] of the Judgment.
+
+19.  The Judge first considered whether the MGA Address was bad on its face as contended by the defendants’ counsel.  Based on the evidence as advanced before him, the Judge rejected the defendants’ argument that the MGA Address, which says 晉江梅嶺街道竹樹下工業區, was defective because it did not refer to any specific address for the defendants but refer to an entire industrial district.  Further and in any event, the Judge noted that even the defendants’ expert also did not rely on the argument that the MGA Address was bad on its fact to support his opinion that the defendants had not been properly summoned under the Mainland law to appear before the court.  See [52] - [54] of the Judgment.
+
+20.  The Judge then further proceeded to consider the decisions of the Fujian HPC and the PPFP.  The Judge adopted the principle that the determination of the Mainland law is a matter for the Mainland court. As such, he accorded considerable weight to the decision of Fujian HPC as the Fujian HPC reached the conclusion that the service was lawful after hearing full arguments from the parties.  He also rejected the defendants’ submission that the PPFP decision was merely an administrative decision and attached substantial weight to it: see [55] ‑ [62] of the Judgment.
+
+21.  In resolving the competing opinions of the experts:
+
+(1)  The Judge rejected the defendants expert’s opinion and found that, on the plain and literal interpretation of Article 551 of the Supreme People’s Court Judicial Interpretation on Civil Procedure Law[6], the application of the Supreme People’s Court’s Provisions on Certain Issues Concerning Service of Judicial Documents and Hong Kong/Macao Related Civil and Commercial Cases[7] (“SPC Service Provisions”) was only permissive but not mandatory: [63] ‑ [69] of the Judgment;
+
+(2)  Alternatively, the Judge concluded that, even if the application of the SPC Service Provisions was mandatory, its Article 12 had in any event been complied with.  He found that, on reading the SPC Service Provisions as a whole, actual notice was not a prerequisite for good service and that there was no evidence to show that the service of the hearing notices on a contractually agreed service address (ie, the MGA Address) and made pursuant to a contractually agreed mode of service was unlawful or otherwise invalid: [70] ‑ [77] of the Judgment;
+
+(3)  The Judge also rejected the defendants’ attack on the decisions of Fujian HPC and PPFP as he was of the view that those decisions were not perverse.  He also rejected the defendants’ argument that Article 12 of the SPC Service Provisions required confirmation that the documents were served:  [78] ‑ [81] of the Judgment.
+
+22.  As a result, the Judge found that the defendants had failed to discharge the burden to prove that they were not summoned to appear according to the law of Mainland: [82] of the Judgment.
+
+23.  Finally, the Judge found that there was no evidence from the defendants to show that they were not given sufficient time to defend the Quanzhou IPC Actions and that there was no material non-disclosure from the plaintiff: see [83] ‑ [86] of the Judgment.
+
+D.     THIS APPLICATION
+
+D1.   The appeal
+
+24.  By way of the Notice of Appeal dated 18 November 2019 prepared by the 3rd defendant’s solicitors and the Supplemental Notice of Appeal dated 3 January 2020 settled by leading and junior counsel, the 3rd defendant advanced the following grounds of appeal:
+
+(1)  The address at Zhushuxia Industrial District and/or Zhenxing was defective;
+
+(2)  The SPC Service Provisions should have been followed;
+
+(3)  No evidence of proper summoning in reliance of clause 18.2.3 of the MGA or the “確認書” signed by an individual on behalf of the 3rd defendant; and
+
+(4)  Erroneous approach to the Fujian HPC Decisions and the PPFP Decisions.
+
+D2.   This security for costs application
+
+25.  The relevant principles governing applications for security for costs of an appeal in relation to an impecunious appellant are well established.  They have been summarized by Ma CJHC (as he then was) in Chung Kau v Hong Kong Housing Authority[8]at [14] - [15].  Relevant for the present purpose, they are these:
+
+(1)  It is a matter of discretion for the court of appeal to decide whether there are special circumstances to make it just to order security of costs of an appeal.  In the consideration, the court can take into account various relevant factors.
+
+(2)  Although the fact that an appellant is impecunious (such as where the appellant has been adjudged bankrupt) does not lead automatically to an order for security for costs, as a matter of practice, it would then be generally up to the party resisting the application for security to demonstrate countervailing factors which would militate against such an order being made. A common such countervailing factor is the merits of an appeal.
+
+(3)  On a consideration of the merits of an appeal, while a detailed examination is not required, the court should form some sort of preliminary view.  An appeal which is very strong would often be a very good reason not to order security, while a hopeless one may by itself justify an order for security.  However, if the appeal could go either way, then generally the court will look to the existence of any other factors to tilt the balance, in the absence of which security will be ordered.
+
+26.  Further, where an appellant contends that security should not be awarded because it would prevent him pursuing his appeal, he has to satisfy the court not only that he is unable to furnish security of the costs from his own resources but also that he is unable to raise the money elsewhere.  The onus of proof is on him on this issue.  In assessing whether he could raise money elsewhere, the court adopts the same rigourous approach as in the application for summary judgment case of York Motors v Edwards [1982] 1 WLR 444 at 449 and 450: see Laerdal Medical Limited v Hong Kong Haocheng International Trade Limited [2017] HKCA 605, per Kwan VP at [26].
+
+27.  Bearing these principles in mind, we now turn to consider this application.
+
+28.  As mentioned above, the plaintiff applied for security for costs against the 3rd defendant on the basis that she is impecunious, which is demonstrated by her failure to pay the plaintiff’s costs below notwithstanding repeated demands[9].  This is effectively accepted by the 3rd defendant herself as she has not raised anything to deny this in her affirmation filed herein.  Quite to the contrary, as will be elaborated further below at [31], it is the main plank of her own evidence that she is unable to raise any funds.  In the premises, there is no dispute that the 3rd defendant is impecunious for the present purpose.
+
+29.  As to the merits of the appeal, it should be noted that the 3rd defendant’s counsel is only submitting that the appeal “cannot be described as hopeless” as her grounds of appeal are reasonably arguable and that “it is entirely possible” that the court of appeal may “side” with her in taking a different view of the PRC laws and evidence[10].
+
+30.  Although the plaintiff’s counsel contends that the appeal is hopeless, for the present purpose, we are prepared to accept that the appeal cannot be regarded as hopeless.  On other hand, given the Judge’s detailed analysis set out in the Judgment and that the 3rd defendant in the appeal is predominantly seeking to challenge the Judge’s finding on facts regarding the Mainland law, we are of the preliminary view that the appeal is only arguable (and we put no higher than that).  In the premises, in light of the admitted impecuniosity, this does not countervail against the award of security for costs.
+
+31.  This leaves the 3rd defendant’s contention that the order of security for costs will unjustly stifle her appeal (which is not a hopeless one) as she is unable to raise funds whether on her own or from anywhere else despite her efforts.  She has explained this inability at paragraphs 8 - 10 of her affirmation as follows:
+
+“8. First, any order for security for costs would prevent me from pursuing my appeal. I am unable to furnish security of the costs from my own resources and I am unable to raise any money elsewhere other than at unreasonable costs (such as from loan sharks at unreasonably high interest rates). These are supported by the following evidence.
+
+9. I am unable to furnish security of the costs from my own resources:
+
+(a) I do not have any significant assets left. What I have are barely enough for living expenses and funding the interlocutory proceedings at substantially discounted fees offered by my legal representatives, for which I am grateful. Often, I was unable to pay my legal fees on time due to the instability and uncertainty in the amount of savings left per month.
+
+(b) My lack of assets is supported by objective evidence. China CITIC had confirmed in the hearing on 29 May 2020 that it had no evidence showing that I had any other assets apart from my bank accounts in Hong Kong. That is still the position now. My bank accounts in Hong Kong altogether have only very limited funds, i.e. the sum of HK$118,706.08. These funds would soon be used up as the living costs of my family and my children. No sufficient funds would be left to fund the security for costs. There is now produced and shown to me marked "SKY-3", a copy of the bank statements of my bank accounts.
+
+(c) As such, I myself do not have any sufficient funds to provide security for costs.
+
+10. I am unable to raise any money elsewhere to furnish security of the costs other than at unreasonable costs (such as from loan sharks at unreasonably high interest rates):
+
+(a) As for my family unit, since I do not have a job due to the needs to take care of my children, the source of monthly income is the sum of around HK$50,000.00 funded by my husband's monthly allowances/wages paid by his younger brother on account of the assistance/services rendered by my husband at his said brother's company. Such amount would obviously be insufficient to provide security for costs. More importantly, such amount has to be used for supporting our livelihood, including that of my children.
+
+(b) Since my appeal was filed, I have discussed with my relatives and friends on whether they would be able and willing to fund my legal costs, but I was met with rejections and was advised to file a self‑bankruptcy instead. For instance:
+
+(i) On several occasions, I discussed my case with my cousin after I filed my appeal, and asked her if she could lend me money to finance the legal costs to be incurred for my appeal. On or about 16 February 2020, she said that she also had her own financial difficulties caused by the coronavirus and would not be able to assist.
+
+(ii) Subsequently, on or about 19 February 2020, I asked my maternal uncle for similar assistance. He said the required fund was beyond his means.
+
+(iii) After having received the Plaintiffs application for security for costs, on or about 10 June 2020, I also tried to ask for help from a friend who is an old workmate of mine. He said that due to the present social and economic situation and the effects of the pandemic, he also had his own financial problems to worry about and suggested me to consider self-bankruptcy to save myself from all troubles once and for all.
+
+(iv) Finally, on 14 June 2020, I also, through my husband, asked my brother-in-law (i.e. my husband's younger brother mentioned above) whether he could lend me money to fund my legal costs. I was told that my brother-in-law had already provided assistance to my family by offering my husband some works to do, and he would not be in a position to assist me further.
+
+Apart from these individuals, I do not think that I have other relatives and friends who may be able to assist me. The names of these individuals are not stated by me above since they do not want to get involved or even be mentioned in any Court litigation. I hereby once again confirm that all these events are true and accurate.
+
+(c)  As such, I am unable to raise any money elsewhere to furnish security of the costs other than at unreasonable costs (such as from loan sharks at unreasonably high interest rates).”
+
+32.  Applying a rigorous scrutiny, we are not satisfied that the above evidence sufficiently shows that the 3rd defendant is unable to raise funds from anywhere else to meet the security for costs if ordered.
+
+33.  The simple fact is that the defendants (being the 3rd defendant, her husband and mother-in-law) have all along been legally represented and, in particular, they were represented by leading and junior counsel in the court below before the Judge.  Further, as noted above, the 3rd defendant’s present Supplementary Notice of Appeal is also prepared by a very senior leading counsel and junior counsel[11].  The legal costs involved so far could not be insignificant even if, as deposed to by the 3rd defendant, the legal representatives had been giving her a “discount”.  However, in this respect, in her evidence, the 3rd defendant has singularly failed to provide any evidence, including any documentary evidence, to show how much these legal costs has amounted to (even if discounted as suggested), and how they have so far been met with by the 3rd defendant and her husband and mother‑in‑law.  This shows that, despite the dire financial circumstances as the 3rd defendant has sought to demonstrate in her affirmation, she (and her family members) must have been able to raise fund from sources not mentioned in her affirmation to enable them to pay these presumably not insubstantial fees.
+
+34.  In the premises, we are not persuaded that the 3rd defendant has shown that an order of security for costs will stifle her appeal as alleged.  In this respect, it must be remembered that, as observed by Kwan JA (as she then was) in Laerdal Medical Ltd at [25], the principles governing the award of security for costs at the stage before the Court of Appeal are wider and stricter than those applicable to the award of security in the court below.  This is so as the court takes into account the appellant has already had the issue concerned determined against her in the court below, and it is prima facie an injustice to a respondent to allow an appeal to the Court of Appeal to proceed without security for costs being furnished in circumstances where the respondent will encounter difficulty in enforcing costs order against the appellant.
+
+35.  We therefore conclude that security for costs should be ordered against the 3rd defendant in this appeal.
+
+36.  We would now turn to consider the quantum of such security.
+
+37.  The principles concerning the assessment of the quantum of security for costs that are relevant to this application are not controversial.  They can be summarized as follows:
+
+(1)  First, the court normally takes a broad brush approach and does not conduct a taxation of the respondent’ costs in fixing the quantum of security.  Instead, the exercise on which it is engaged is to arrive at an appropriate estimation of the likely amount of costs which would be ordered to be paid by the appellant to the respondent on a party and party taxation: see Great Bill Ltd v JFK Holding Company Ltd and Another (unreported, CACV 53/2012, 13 September 2012), per Fok JA (as he then was) at paragraph 20.
+
+(2)  Second, one of the factors to bear in mind when fixing the amount is the underlying objectives in Order 1A, rule 1 of the Rules of the High Court (Cap 4A), in particular rule 1(c) and (d) which highlight proportionality in conduct of proceedings and fairness between the parties: see Rich Fine (HK) Investment Ltd and Another v Leung Yiu Chuen [2018] HKCA 965, per Lam VP at [8] ‑ [12].
+
+(3)  Third, to facilitate the court’s decision on the appropriate amount of security, the applicant’s legal representatives must provide a realistic estimate of the time and costs likely to be incurred in each stage of the proceedings which must bear some logical correlation to the complexity of the case and the issues involved.  Otherwise, the court is deprived of the assistance that it rightly expects: see Re Days International Ltd (unreported, HCCW 299/2011, 26 January 2015) per Anthony Chan J at [26].
+
+38.  In its skeleton bill, the plaintiff sought the sum of about $1.42m as security for costs.  This is prepared on the basis of a two-day hearing for the appeal proper.  The estimated costs included estimated counsel fees (senior and junior counsel) of $1.2m and professional fees for solicitors of some $220,000.00 odd.  These costs also included the costs incurred and estimated to be incurred in this security for costs application.
+
+39.  The 3rd defendant submits that this sum is clearly excessive.  Counsel for the 3rd defendant says, given the plaintiff’s own position that most of the points raised by the 3rd defendant in the appeal have already been dealt with sufficiently by the Judge in the Judgment, there would invariably be duplicated works by the plaintiff’s counsel and solicitors in preparing for the appeal (now set out in the skeleton bills).  In the premises, the plaintiff’s estimated costs is inflated and should be substantially reduced.
+
+40.  In our view, the reasonableness of these estimates for costs for the appeal should be considered in the following context:
+
+(1)  The hearing before the Judge took only one day. In the premises, the hearing of the appeal is likely to be at most for one day only (instead of the estimated two days).
+
+(2)  The legal team (including the solicitors, senior counsel and junior counsel[12]) is the same one handling the matter before the Judge.  They are therefore familiar with the papers and arguments
+
+41.  Once viewed against these contexts and taking a broad brush approach:
+
+(1)  The plaintiff’s estimated counsel fees of $1.2m based on two‑day appeal hearing is clearly excessive.  We would reduce it to $800,000.
+
+(2)  Given the likely duplication of works, we would also globally reduce the solicitors’ costs (both incurred and estimated) from $220,000.00 to $100,000.00
+
+42.  In the premises, we think a more appropriate quantum for security for costs should be in the sum of $900,000.00 ($800,000.00 + $100,000.00).
+
+D.  DEPOSITION
+
+43.  For the above reasons, we would allow the plaintiff’s security for costs application and make the following orders:
+
+(1)  Unless the appellant pays into court the sum of $900,000 within 28 days from the date of this decision as security for costs of this appeal, the appeal shall be dismissed without further order.  Upon such dismissal, the appellant shall pay the respondent the costs of this appeal, such costs are to be taxed if not agreed.
+
+(2)  The appeal shall be stayed until the payment of the security as ordered under (1) above.
+
+44.  As to the costs of this application, there is no reason why costs should not follow the event.  We further make an order nisi that costs of this application be to the plaintiff, to be taxed if not agreed.
+
+ 
+
+ 
+
+(Johnson Lam)
+Vice President	(Thomas Au)
+Justice of Appeal
+ 
+
+Mr Oscar Sin, instructed by Huen & Partners, for the plaintiff (respondent)
+
+Mr Tommy Cheung, instructed by Philip Tam & Co, for the 3rd defendant (appellant)
+
+[1]  By way of summons dated 5 June 2020.
+
+[2]  By way of the Notice of Appeal and Supplemental Notice of Appeal filed on 18 November 2019 and 3 January 2020 respectively.
+
+[3]  On 12 July 2017.
+
+[4]  On 30 October 2017.
+
+[5]  Citing Bankers & Shippers Insurance Co v Liverpool Marine & General Insurance Co [1926] 24 LI L Rep 85 and Malicorp Limited v Government of the Arab Republic of Egypt [2015] EWHC 361 (Comm).
+
+[6]  Which states: “人民法院審理涉及香港、澳門特別行政區和臺灣地區的民事訴訟案件，可以參照適用涉外民事訴訟程序的特別規定”.
+
+[7]  最高人民法院關於涉港澳民商事案件司法文書送達問題若干規定.
+
+[8]  [2004] 2 HKLRD 650.
+
+[9]  See paragraphs 17 and 18 of the affirmation of Huen Ho Yin.
+
+[10]  See: paragraphs 8 and 9 of the 3rd defendant’s skeleton submissions.
+
+[11]  Respectively Mr Denis Chang SC and Ms Tara Liao (they were not the defendants’ counsel before the Judge).
+
+[12]  As it is not stated in the skeleton bill the names of the senior and junior counsel, one is taken to assume that they are the same ones representing the plaintiff before the Judge.
+
+ 
+

@@ -1,0 +1,502 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 6 of 2019
+
+[2019] HKCFA 48
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 6 OF 2019 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 271 OF 2017)
+
+_____________________
+
+BETWEEN
+
+WO CHUN WAH	Plaintiff
+(Respondent)
+and	
+CHAU KWEI YIN	1st Defendant
+(Discontinued)
+CHOW YAT KUEN	2nd Defendant
+EMPLOYEES COMPENSATION ASSISTANCE FUND BOARD	3rd Defendant
+(Appellant)
+_____________________
+
+Before:	Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Stock NPJ and Madam Justice McLachlin NPJ
+Date of Hearing:	26 November 2019
+Date of Judgment:	20 December 2019
+_________________________
+
+J U D G M E N T
+
+_________________________
+
+Chief Justice Ma:
+
+1.  I agree with the judgment of Mr Justice Ribeiro PJ.
+
+Mr Justice Ribeiro PJ:
+
+2.  This appeal is brought by the Employees Compensation Assistance Fund Board (“the Board”) raising two questions which are of great practical importance to its operations.  The first is whether the courts have jurisdiction to make costs orders against the Board in certain proceedings to which it is a party.  The second is whether the Board is empowered to enter into binding settlements regarding claims or potential claims for payments out of the Fund which it administers.
+
+A.  The Board and the Fund
+
+3.  The Board was established in 1991 by the Employees Compensation Assistance Ordinance (“ECAO”)[1] to provide relief for employees and other eligible persons who are entitled to compensation under the Employees’ Compensation Ordinance[2] (“ECO”) or to common law damages in respect of employment-related injuries, but who are unable to make recovery against the employer or any insurer.
+
+4.  Payments to those eligible for relief are made out of a Fund established under the ECAO[3] which the Board holds upon trust to administer in accordance with the objects of the Ordinance.[4] The ECO[5] makes it compulsory for employers to take out insurance policies for indemnity against liability to their employees for injury or death by accident arising out of and in the course of their employment.  Upon payment of each premium, a statutory levy is imposed[6] and more than half of the levies collected are distributed to the Board[7] for application pursuant to the ECAO.[8] The resources of the Fund derive largely from such insurance levies. 
+
+5.  An employee who is injured at work may bring proceedings against the employer for compensation under the ECO or for damages at common law, or commonly, for both.  The Board has a statutory contingent liability which is likely to become actual in cases where the employer has no substantial means and no insurance cover, whether or not the claim is contested.  Upon becoming aware of such a case, the Board may wish to take steps to protect the interests of the Fund.  This appeal examines what the Board can properly do to that end and what consequences may follow from the steps which it takes.  In particular, where the Board decides to intervene in the proceedings between employee and employer, for instance, to ensure that the claim is not collusive or extravagant and is properly defended, the issue arises as to what the costs consequences of such intervention may be.  Or if the Board thinks that seeking an early settlement of a potential claim against the Fund is in its best interests, the question arises as to whether the law permits it to contract a binding settlement.  Answers to these questions are matters of statutory construction, as we shall see.
+
+B.  The present claim and the decisions below
+
+6.  The plaintiff was an interior decoration worker who sustained injuries at work.  The 2nd defendant had been engaged by the 1st defendant to do the construction work.  The plaintiff alleged that the 2nd defendant was his employer but brought proceedings against the defendants for compensation under the ECO and for common law damages.   The case was discontinued against the 1st defendant in 2015 when he settled the plaintiff’s claims by payment of $80,000. 
+
+7.  That left the plaintiff’s claims, which included one for over $4.7 million damages, against the 2nd defendant who had no insurance cover and who acted in person throughout.  In these circumstances, the Board obtained leave to be joined as 3rd defendant in the proceedings, stating that it wished to participate in the assessment of damages. It proceeded in 2016 to commission a medical report jointly with the plaintiff and to file an answer to the plaintiff’s statement of damages, putting forward a lower assessment. 
+
+8.  The plaintiff obtained judgment against the 2nd defendant for $602,380 before Deputy District Judge Chow[9] in the ECO proceedings in September 2016.  The common law action then came on for trial in May 2017 and at its commencement, the plaintiff and the Board agreed to settle his potential claim under the ECAO for $1.42 million.[10] The 2nd defendant was not party to this settlement and the trial proceeded against him before Deputy High Court Judge To, resulting in an award of damages in the sum of $2,110,927.  Deducting the sums of $80,000 received from the 1st defendant and the ECO award of $602,380, the net amount of damages due to the plaintiff from the 2nd defendant was $1,428,547, which was marginally more than the settlement amount agreed with the Board.  The Judge ordered the 2nd defendant to pay the plaintiff’s costs but refused the plaintiff’s application for costs against the Board as from the date of its joinder in the action, directing that there should be no order as to costs as between the plaintiff and the Board.[11]
+
+9.  The plaintiff sought and obtained leave from the Court of Appeal to appeal against the direction of no order as to costs.  He sought to contend that the Judge should have adopted the approach in Kwan Kam Pui v Fung Man,[12] where Bharwaney J suggested certain “usual orders” that ought to be made against the Board in cases where it had intervened in proceedings which resulted in awards in favour of the plaintiff.[13] By a respondent’s notice, the Board sought to uphold the Judge’s order on the additional ground that the court lacked jurisdiction to make any costs orders against it.  The plaintiff’s appeal was dismissed on the ground that there was a wide discretion as to costs and that there was no basis for interfering with the order made.
+
+10.  Regarding the challenge to jurisdiction, in Jiang Zhong v Yeung Chun Leung,[14] the Court of Appeal had held that the court does have jurisdiction to make costs orders against the Board where it is joined as a party.  Although the Court of Appeal in the present case[15] said that it was unnecessary to determine the issue of jurisdiction, having dismissed the plaintiff’s appeal on the merits, it nevertheless endorsed the decision in Jiang Zhong, rejecting the Board’s submission that that decision was either obiter or plainly wrong.
+
+11.  Relying on section 29 of the ECAO,[16] the Court of Appeal also held that it was open to the Board to enter into a settlement agreement in relation to any issue in the proceedings, rejecting the Board’s submission to the contrary.[17]
+
+12.  The Board was unsuccessful before the Court of Appeal in its application for leave to appeal to this Court.[18] Leave was, however, granted by the Appeal Committee,[19] confined to the following questions of law:
+
+Question 1
+
+Whether, upon proper construction of the provisions of the [ECAO], and in particular s.20B(3) thereof, the court has jurisdiction to order costs against the Board in common law damages claims to which the Board joins in pursuant to s.25A of the ECAO (“Joinder Cases”), and if so, whether there is a “usual order” or “starting point” on costs to be made or ordered in Joinder Cases where the Board (i) disputes liability and quantum, and (ii) disputes quantum only (See [Court of Appeal] Judgment §§14, 20, 32 and 34).
+
+Question 2
+
+Whether, in view of the fact that a plaintiff is entitled under s.20B(l) of the ECAO to an amount of relief payment which “shall be the amount of damages for which the employer is liable to pay to the eligible person”, the Board, as a statutory body constituted under ECAO, has power to settle with a plaintiff on the quantum of relief payment payable by the Board before such amount of damages for which the employer is liable is known, i.e. before trial or assessment of damages, and if so:
+
+(a) Whether the trial judge was correct that should the quantum of damages assessed against the employer be higher than the agreed amount, the plaintiff cannot apply to the Board for relief payment in respect of the difference, and should the quantum of damages assessed against the employer be lower than the amount agreed between the plaintiff and the Board, the Board may have no authority to pay the plaintiff the higher amount that has been agreed (See §§40-41 of the [Court of Appeal] Judgment and §25 of the judgment of trial judge dated 23 June 2017).
+
+(b) Whether the Board has power under the ECAO to pay the agreed relief payment to the plaintiff in the absence of an application under s.20A of the ECAO (Cf. ss.28(1) and 30 of the ECAO in relation to compensation claims).
+
+(c) If not, what is the legal effect of such settlement between the plaintiff and the Board?
+
+C.  Question 1
+
+C.1   Jurisdiction and ECAO section 20B(3)
+
+13.  ECAO section 20B(3) states:
+
+“Notwithstanding the definitions of ‘compensation’ and ‘damages’, [20] for the purposes of determining the amount of a relief payment—
+
+(a) any interest payable on any amount; and
+
+(b) any costs,
+
+arising from proceedings in respect of any damages or compensation claim shall not be included.”
+
+14.  Ms Audrey Eu SC,[21] relies on this provision for the submission that, by excluding any costs from being part of the relief payment, it deprives the court of jurisdiction to award costs against the Board in all damages claims.
+
+15.  That submission cannot be accepted.  Section 20B(3) must be construed in the context of sections 20A and 20B read together. Section 20A materially provides:
+
+(1) An eligible person who is unable to recover from an employer payment of an amount of damages for which the employer is liable may apply for a relief payment of that amount from the Fund.
+
+(2) For the purposes of this section, an employer is not to be regarded as liable for the payment of an amount of damages unless the amount is payable pursuant to a judgment or order of a court of competent jurisdiction in Hong Kong.
+
+(3) For the purpose of this section, an eligible person is not to be regarded as being unable to recover from an employer payment of an amount of damages for which the employer is liable unless the eligible person has taken such proceedings to recover payment of the amount—
+
+(a) from, wherever applicable—
+
+(i) the employer; and
+
+(ii) an insurer who has issued a policy of insurance—
+
+(A) which is in force in relation to the injured employee at the time of the accident concerned; and
+
+(B) indemnifying the employer in respect of such liability; and
+
+(b) as are reasonable in the circumstances, having regard to the likely cost of such proceedings, the resources available to the eligible person and the amount likely to be recovered from, wherever applicable, the employer and the insurer.” ...
+
+16.  Section 20A therefore lays down the conditions for claiming a relief payment arising out of an unsatisfied judgment for common law damages. Those conditions principally involve obtaining a judgment and having unsuccessfully taken reasonable proceedings to secure payment.  Section 20B then goes on to prescribe the amount of the relief payment claimable, stating that it shall be the amount of damages which the employer is liable to pay, reduced by any ECO compensation paid or payable and by any amount of the damages already paid.[22]
+
+17.  It is in that context that section 20B(3) operates. Like sections 20B(1) and (2), that subsection is concerned with circumscribing the quantum of the relief payment.  It specifies that the relief payment is not to include any sum of interest or costs awarded to the employee against the employer.  It does not address or seek to limit the court’s power to order costs against the Board. 
+
+18.  That this is the effect of section 20B(3) appears clearly in cases where the employee applies to the Board for a relief payment arising out of a damages award obtained in proceedings to which the Board was never a party.  As we shall see, the ECAO caters both for such cases and for cases in which the Board was joined as a party to the action between employee and employer. Leaving the joinder cases aside for now, when section 20B(3) is applied where the Board played no part at all in the underlying proceedings, there is obviously no question of any costs order being made for or against the Board since it was not a party to any relevant proceedings.  It merely receives an application for relief from an employee who has independently taken the case against the employer to judgment and failed to make recovery.  In such cases, section 20B(3) clearly functions merely to limit the amount of the relief payment claimable by the employee.  It has nothing to do with the court’s jurisdiction to make costs orders against the Board.
+
+C.2   Jurisdiction and cases where the Board is joined as a party
+
+19.  By section 25A,[23] the ECAO authorises the Board to apply in certain circumstances to be joined as a party to existing proceedings brought against the employer for compensation or damages:
+
+“If proceedings have been initiated to claim compensation or damages ..., the Board may apply to the court to be joined as a party to the proceedings as follows—
+
+(a) where no policy of insurance is known to be in force at the time of the accident to which the proceedings relate, the Board may apply to the court to join in the proceedings as a party in accordance with Order 15, rule 6 of the Rules of the High Court ... or Order 15, rule 6 of the Rules of the District Court ..., as the case may require, to take over the defence as if it were the employer in the proceedings if—
+
+(i) the employer cannot be identified or, if identified, cannot be found;
+
+(ii) the employer is insolvent;
+
+(iii) the employer is dead or has been dissolved, wound up or struck off the register;
+
+(iv) the employer, for any reason, cannot be served with the notice of proceedings; or
+
+(v) at any time when the employer fails to attend the hearing, leaving the claim uncontested;
+
+(b) where no policy of insurance is known to be in force at the time of the accident to which the proceedings relate and the employer is present at the proceedings, the Board may apply to the court to join in the proceedings as a party in accordance with Order 15, rule 6 of the Rules of the High Court ... or Order 15, rule 6 of the Rules of the District Court ..., as the case may require;
+
+(c) where the insurer concerned is insolvent, the Board may apply to the court to join in the proceedings as a party in accordance with Order 15, rule 6 of the Rules of the High Court ... or Order 15, rule 6 of the Rules of the District Court ..., as the case may require.”
+
+20.  Where the Board does become a party to the proceedings, the occasion may obviously arise for considering whether costs incurred in the conduct of those proceedings should be awarded whether in favour of or against the Board. 
+
+21.  The ECAO distinguishes between the Board’s participation in claims for ECO compensation as against participation in actions for damages; and, as appears from section 25A, between situations where the defendant employer is or is not a participant in those proceedings.
+
+22.  Thus, ECAO section 25(2) authorises the employee to issue an ECO claim against the Board “as if it were the employer” where the employer is, for one of the specified reasons, unavailable for suit[24] and where there is no applicable insurance policy in force.  The Board is thus evidently to be named as the defendant in such cases and section 25(4) provides that the rights and liabilities of the employer in respect of the compensation are vested in and transferred to the Board.  
+
+23.  But there is no similar provision for an action for damages to be instituted against the Board.  Only where proceedings have already been issued by an employee claiming damages (or ECO compensation) against the employer does section 25A enable the Board to apply to the Court in accordance with Order 15 rule 6 of the Rules of the High Court (“RHC”) to be joined as a party to those proceedings.  As set out above, section 25A specifies three sets of circumstances in which there might be such joinder which are evidently aimed at permitting the Board’s intervention in two main situations.  First, under section 25A(a), the purpose of the Board’s joinder is “to take over the defence as if it were the employer in the proceedings” in circumstances where the employer is effectively not present in, or not defending, the proceedings.  Secondly, under paragraphs (b) and (c), while the employer is present, there is no insurance cover so that it is likely that recourse will be had to the Fund.
+
+24.  Unlike section 25 (dealing with ECO claims), section 25A(a) is not explicit about the consequences of joinder.  It does not, for instance, expressly provide for the rights and liabilities of the employer to be vested in the Board in respect of the action for damages.[25] Nevertheless, in authorising the Board to take over the defence “as if it were the employer”, the legislature must have envisaged the Board being able actively to test, limit or resist the employee’s claim regarding liability and/or quantum to ensure that the Fund’s resources are properly applied. 
+
+25.  The consequences of the Board joining the proceedings under section 25A(b) and (c) are even less explicitly spelt out. However, it is a compelling inference that the legislative intent was to enable the Board to be joined as a party to keep an eye on the proceedings in which the employer is still participating, given the Fund’s contingent liability to make relief payments tied to the level of judgments obtained by the employee. Whether, in such circumstances, the Board takes an active role defending against the employee’s claim will obviously depend on the circumstances.  If the claim is being properly defended by the employer, the Board might be content essentially to maintain a watching brief and no costs consequences are likely to follow.  On the other hand, if the claim is extravagant or collusive or if the employer is not mounting a proper defence, the Board may wish actively to participate in the proceedings to mount an effective defence,[26] in which case there may be consequences as to costs arising out of the conduct of the proceedings.
+
+26.  In Section C.1 above, I have concluded that ECAO section 20B(3) does not exclude the court’s jurisdiction to order costs for or against the Board.  And in the foregoing discussion, the possible relevance of costs orders where the Board takes an active role in proceedings has been pointed out.  But does the Court have power to make such orders as to costs?
+
+27.  The answer is plainly in the affirmative. Section 52A(1) of the High Court Ordinance[27] confers a general power on the court to make costs orders in all civil proceedings:
+
+“Subject to the provisions of rules of court, the costs of and incidental to all proceedings in the Court of Appeal in its civil jurisdiction and in the Court of First Instance, including the administration of estates and trusts, shall be in the discretion of the Court, and the Court shall have full power to determine by whom and to what extent the costs are to be paid.”
+
+28.  Since, pursuant to ECAO section 25A, the Board is made a party to the proceedings in accordance with RHC Order 15 rule 6, the power to order costs conferred by section 52A clearly extends to possible orders against the Board.  Indeed, section 52A(2) enables costs to be ordered even against a non-party[28] so that, a fortiori, costs can be ordered against a person joined as a party under RHC Order 15 rule 6, whether or not judgment in the action is entered against such person.  If the general power conferred by section 52A is to be excluded, one would expect this to be done by some clear provision.  There is nothing in the ECAO to such effect. 
+
+C.3   Jurisdiction and ECAO section 29
+
+29.  Moreover, ECAO section 29 offers a clear positive indication that costs may be ordered against the Board.  It provides as follows:
+
+“(1) Notwithstanding any other law where, in proceedings to which the Board is a party under this Part, the Board makes a written offer to any other party in the proceedings which is expressed to be ‘without prejudice save as to costs’ and which relates to an issue in the proceedings, then in deciding the question of costs the court shall take into account any such offer which has been brought to its attention.
+
+(2) An offer made under subsection (1) shall not be communicated to the court until the question of costs falls to be decided.”
+
+30.  Thus, where the Board has intervened in an action, section 29 empowers it to make an offer to another party – who will, in the nature of things, generally be the plaintiff employee – placing that party at risk as to costs if the offer is not accepted.  It is implicit that acceptance of the offer would save costs on both sides, being an offer to settle the claim or some time-consuming issue in the claim, so that a refusal of the offer, if followed by an outcome in which the plaintiff fails to improve upon what is on offer, may be seen as unreasonable and lead to adverse costs consequences.
+
+31.  The underlying premise of section 29 is therefore that costs are in play in the proceedings.  In practice, the risk which the plaintiff faces is that the court, when it comes to take the offer into account, may deprive him or her of costs against the Board as from the time of the making of the offer.  This necessarily implies potential liability of the Board for costs in connection with the continued conduct of the proceedings which section 29 empowers it to guard against. 
+
+32.  Whilst it is conceivable that refusal of the offer might lead to costs being ordered against the plaintiff, this may in practice be unlikely, not only because of the injured employee’s probable impecuniosity, but also because the Board’s role in joining as a party is to monitor the proceedings to ensure that relief is appropriately granted, rather than to adopt an excessively adversarial stance against the injured employee. In the normal course, the costs of the Board’s participation in proceedings are treated as part of its operating expenses[29] and it will generally not seek to fund such participation by depriving injured employees of a significant portion of an appropriately quantified relief payment. 
+
+33.  The court of course retains a wide discretion and, in exceptional cases, if the employee’s conduct viewed overall has been egregious, such as where the claim is fraudulent or seriously extravagant, it may result in an order for costs in the Board’s favour.  Section 29 is nevertheless principally about depriving the plaintiff of litigation costs which he or she would otherwise have recovered as against the Board, clearly indicating the existence of jurisdiction to make such costs orders.
+
+34.  Ms Eu’s only response to section 29 was to argue that it somehow does not apply to cases in which the Board has applied to join as a party pursuant to ECAO section 25A.  I have to say that I find that argument incomprehensible.  Section 29 applies “where, in proceedings to which the Board is a party under this Part, the Board makes a written offer (etc)”. Where the Board is joined under section 25A, it is “a party under this Part”, that is, Part IV of the ECAO.  It is unarguable that section 29 does not apply to such joinder cases and was rightly “firmly rejected” in the Court of Appeal.[30]
+
+35.  That jurisdiction to order such costs exists has been recognised by the Court of Appeal in Jiang Zhong v Yeung Chun Leung,[31] applying an analysis similar to that developed above.
+
+C.4   Discretion in ordering costs against the Board
+
+36.  In Kwan Kam Pui v Fung Man,[32] Bharwaney J considered how the discretion to order costs against the Board should be approached and decided that a “costs to follow the event” order should be usual, equating the Board with the employer vis-à-vis the employee.  His Lordship put it thus:
+
+“In my judgment, the usual order should be made against the ECA Fund Board, as is made against an employer defending the proceedings against whom a judgment for damages has been obtained. Such usual order is to pay the entire costs of the action, not just costs from the date of the intervention by the ECA Fund Board, in cases in which the ECA Fund Board has intervened and disputed liability and quantum or has obtained an order to set aside interlocutory judgment for damages to be assessed in order to dispute liability and quantum. The taxation of such costs would ensure that any costs and expenses which were unreasonably incurred would not be allowed on the taxation. The costs of necessary steps taken to prosecute a claim to judgment ought to be recoverable in a case in which the ECA Fund Board intervenes to dispute liability, even though those steps were taken before its intervention. ...
+
+Where the ECA Fund Board intervenes in order to dispute the injured employee’s claim on quantum only, then the usual order ought to be the one made by Master Lung, as he then was, in Lau Tuen Ping v Law Wai Kwong & Anor,[33] namely, that the ECA Fund Board ought to pay the costs of the proceedings from the date of its joinder.”[34]
+
+37.  At first instance below, Deputy High Court Judge To expressed broad agreement with Bharwaney J although noting that his “usual orders” were merely a starting-point and not invariable.[35] Although he acknowledged that the Board was not like an ordinary litigant and played a “filtering role” to screen out unmeritorious or inappropriate claims,[36] he agreed that where the Board disputes liability it would generally be appropriate that costs should follow the event so that the Board should pay all the costs, including those incurred before the date of joinder, if the employee succeeds in his claim.[37]
+
+38.  However, where the Board intervened only on the issue of quantum, his Lordship held that the starting-point should be that the Board pays the employee’s costs from the date of joinder unless the claim was “outside the range of reasonable dispute”.  This would prima facie arise “if the amount of damages claimed by the employee exceeds that awarded by the court by one-third” in which case the Board should not have to pay the employee’s costs.[38] He also held that that starting position might be modified in the light of untoward behaviour by either party in the conduct of the proceedings:
+
+“Where the Board only plays a filtering role, the proper starting point remains that the Board shall pay the employee’s costs, but the court may, in light of the attitudes of both parties to the proceedings and the difference between the amount of damages awarded by the court and the amount claimed by the employee, make such costs orders as it thinks fit. The factors to be considered by the court include: whether the Board has only assumed a filtering role or has assumed an antagonistic role, whether it has adopted an unnecessarily antagonistic attitude, wasted time, raised unnecessary, frivolous or technical issues, etc; whether the employee has inflated the claim, adduced false evidence, misled the court, misled the Board, made an act or omission which caused the Board to raise unnecessary issues. Where the amount claimed by the employee is outside the range of reasonable dispute, the proper starting point in considering costs is that both parties shall bear their own costs. In appropriate cases, the court may even order the employee to pay part or all of the Board’s costs.”[39]
+
+39.  In the present case, the plaintiff claimed $4,871,113.20 but was awarded only $2,110,927 so that the claim went “way beyond the range of reasonable difference”.[40] This resulted in Deputy High Court Judge To making no order as to costs so that each party was to bear its own costs.[41]
+
+40.  In the Court of Appeal, the plaintiff sought to argue that Deputy High Court Judge To was wrong not to apply Bharwaney J’s approach and thus not to direct, as a “usual order”, that the Board pay the employee’s costs as from the date of joinder, challenging the Judge’s use instead of the one-third measure.[42]
+
+41.  This was rejected by Kwan JA writing for the Court of Appeal.  Her Ladyship regarded Bharwaney J’s “usual orders” as merely the starting-point in the exercise of discretion.[43] She held that Deputy High Court Judge To’s one-third measure was avowedly “at random” and not decisive,[44] his Lordship having in fact duly taken into account the conduct of the parties in accordance with RHC Order 62 rule 5(2), including:
+
+“(a) whether it was reasonable for a party to raise, pursue or contest a particular allegation or issue;
+
+(b) the manner in which a party has pursued or defended his case or a particular allegation or issue;
+
+(c) whether a claimant who has succeeded in his claim, in whole or in part, exaggerated his claim; and
+
+(d) conduct before, as well as during, the proceedings.”[45]
+
+42.  Kwan JA concluded that the Judge’s exercise of discretion had not miscarried and that there was no ground for interfering with it.[46]
+
+43.  In my view, the court should not adopt as its starting-point the “costs following the event” criterion and should not equate the Board with an employer conducting adversarial proceedings against the employee.  The Board is a statutory authority holding the Fund as a trustee and required to consider applications for payment or relief.[47] The Ordinance plainly requires the Board to be proactive in ensuring that the Fund’s resources are properly applied and not subject to abusive or unjustified claims.  Thus section 25B requires potential claimants on the Fund to give the Board notice of proceedings instituted for compensation or damages.  Section 25B(7) provides that on receiving notice, the Board “shall carry out such inquiries as it considers necessary to facilitate the proper carrying out of the functions of the Board in relation to the claim to which the notice relates”.  As we have seen, section 25A enables the Board to apply for joinder as a defendant in the circumstances discussed in Section C.2 above.  Where the employer is not present or not interested in defending, etc, joinder is to allow the Board “to take over the defence as if it were the employer in the proceedings”.[48] And where the employer is present but there is no insurance cover so that the Fund is likely to be drawn on, the Board is by necessary implication, authorised, if necessary, to do likewise.[49]
+
+44.  Thus, the Board is authorised and required to scrutinise and, if thought necessary, to intervene in order to test the validity of the plaintiff’s case whether on liability, quantum or both, in carrying out its statutory duties.  Where an employee obtains an award of damages after such scrutiny or intervention it does not mean that the Board has “lost” the case so as to constitute “the event” justifying an award of costs against it.  The “event” properly viewed, is the outcome of the plaintiff’s action against the employer (whether or not actually present) and not the process involving the Board’s intervention. 
+
+45.  The Board’s role was properly recognised by the trial judge:
+
+“In participating in the proceedings, the Board’s function is neither to contest the employee’s claim in place of the employer nor to help save public funds, but is to ensure that employees in need can obtain such damages as they are entitled to. The Board has a duty to screen out unmeritorious or inappropriate claims to ensure (inter alia) that this assistance mechanism will not be abused, its recipients will not exaggerate their claims, and public funds will not be used for improper purposes. Therefore, unless it is necessary to contest false claims or suspected fraudulent claims, the Board should not adopt an antagonistic attitude in the proceedings. It should act as a filter and adopt an impartial attitude in the proceedings so as to assist the court in coming to a correct ruling.”[50]
+
+46.  In my view, such recognition dictates that where the Board has been joined as a party and properly carries out its “filtering” or monitoring functions, the appropriate starting-point should generally be no order as to costs, irrespective of whether the Board sought to test the case as to liability, quantum or both. 
+
+47.  That is the starting-point and a different costs order might be warranted on particular facts.  One naturally expects that, having intervened, the Board will behave in a responsible manner but if, in what will hopefully be a rare case, its conduct is unreasonable or misconceived or unjustifiably antagonistic, unnecessarily prolonging its intervention, or otherwise untoward, the court may, in the exercise of its discretion, consider ordering the Board to pay the plaintiff’s costs.  Factors such as those referred to in RHC Order 62 rule 5(2) set out above would be relevant.  Where such considerations may arise, ECAO section 29 offers are especially relevant and will be taken into account.[51] It must, however, always be kept in mind that the discretion to order costs is broad and to be flexibly exercised in the light of the specific circumstances.
+
+D.  Question 2
+
+48.  The ECAO does not explicitly deal with the Board settling potential relief payment claims based on actions for damages.  In contrast, section 28(1) expressly authorises settlement of potential ECO-based claims under section 16:
+
+“Where it appears to the Board that a person is or might be entitled to apply under section 16 for a payment from the Fund, the Board may, in the interests of the protection of the Fund, and on such terms as it sees fit, offer to pay from the Fund to or on behalf of that person an amount in satisfaction of such entitlement.”
+
+49.  Section 28 then goes on to prescribe the consequences where a person accepts[52] or rejects[53] the offer and, in a joinder case, authorises the Board to agree the costs without going to taxation.  No equivalent section deals with settling cases based on damages claims.
+
+50.  Ms Eu relies on the inapplicability of section 28 to damages claims, making the point that prior to the 2002 amendments to the ECAO, the previous section 28 did apply to damages claims, but that power had been expressly removed by the amendment exercise.
+
+D.1   The desirability of the Board having power to settle potential claims
+
+51.  As a matter of policy, it is obviously desirable that the Board should have power to settle potential relief payment claims just as it has power to settle ECO-based compensation claims.  If no such power exists, the misgivings expressed by Bharwaney J in Lau Yuk Hung v Tsang Kwong Ming,[54] and repeated in Kwan Kam Pui v Fung Man,[55] would have even greater force.  His Lordship was concerned about:
+
+“... the current state of affairs ... under which injured persons, who are unable to recover payment from their employer are required, nevertheless, to prove their claim for common law damages in court, and incur the costs of proving their case in court, before they can claim payment from the [Board] but who, when they claim payment, after obtaining such judgment, are told that the [Board] is not liable to pay interest on the damages that had been awarded and, more surprisingly, that the [Board] is not liable to pay the costs incurred in proving their case in court and obtaining that judgment against the employer. It is a catch 22 situation: the injured employee cannot get payment from the [Board] unless he obtains a judgment from court but he would not be reimbursed for the costs incurred in obtaining that judgment. The net result is that any damages that are awarded are reduced by the amount of the costs incurred to obtain that judgment, which can run into a few hundred thousand dollars.”
+
+52.  He pointed out that in the Kwan case, the plaintiff’s taxed costs estimated at $500,000 would have to come out of the net recovery amount of HK$800,000, leaving the plaintiff with only $300,000, which was less than the amount of costs incurred in bringing the proceeding to a conclusion.[56]
+
+53.  An important object of the ECAO is obviously to grant financial relief to injured employees without the relief payments being eaten up by legal costs.  The problem adverted to by Bharwaney J would be exacerbated if there was no power to settle.  It would also mean that where the Board became a party, it would in effect have to remain for the entire proceedings, thereby increasing costs.  The need to encourage early settlements to save legal costs was acknowledged at the meeting of the LegCo on 17 May 2001 both by a LegCo member and the government official proposing the legislation.[57]
+
+D.2   The issues bearing on the existence of a power to settle
+
+54.  Two related issues which principally bear on whether the Board has power to settle potential damages-based relief payment claims appear to me to be as follows:
+
+(a) The Board is in the position of a trustee and is not free to apply the Fund save in accordance with the terms of the ECAO.  So, given the contrast between the way settlements of ECO-based compensation claims are dealt with by section 28 and the absence of express provision regarding claims based on common law actions, are there any provisions in the ECAO giving the Board power to settle and to disburse amounts from the Fund by way of settlement? (“the first issue”)
+
+(b) If there is a power to settle, can the Board contract a settlement without the amount to be paid out being determined by a judgment and assessment of damages against the employer as provided for by ECAO sections 20A and 20B? If so, how is the settlement amount to be determined?  (“the second issue”)
+
+D.3   Settlement and section 29
+
+55.  The resolution of each of those issues depends on ECAO section 29 which has been set out in Section C.3 above.  It provides that where the Board has intervened in an action, section 29 empowers it to make an offer to another party, generally the plaintiff employee, to settle any issue in the proceedings (which must include the ability to settle the entire claim), so that a refusal to settle, if proven to have been unreasonable (as by the plaintiff achieving only a lower award and relief payment), may lead to adverse costs consequences.
+
+56.  Section 29 is therefore a measure expressly aimed at cutting down legal costs.  It is wholly aligned with the policy objective of encouraging settlements so that costs are reduced and erosion of relief payments minimised.  In conferring on the Board a broad power to make such offers, section 29 expressly, or at least by necessary implication, empowers it to enter into settlement agreements with other parties to proceedings in which it has intervened.  Such settlements are therefore intra vires the Board.  So is any payment out to the eligible person of an agreed settlement amount[58] since ECAO section 8(d) materially provides that “[the] Board may pay from the Fund ... any ... sums ... permitted to be paid by the Board under this Ordinance.”  The answer to the first issue raised above is therefore in the affirmative.
+
+57.  The deletion of a power previously in section 28 to settle is neither here nor there.  It is section 29 that provides a legal basis for settlement.  It is applicable in the context of section 25A, enacted in the 2002 amendments, expressly permitting the Board to be joined as a party to the proceedings.
+
+D.4   The quantum of a settlement offer
+
+58.  Given that the Board has power to settle claims, the second issue mentioned above poses the question whether there are any constraints as to the manner in which, and the amount for which, it may settle.  This is reflected in Question 2 which asks whether any power to settle may be constrained (i) by the reference in section 20B(1) to the amount of relief payable being “the amount of damages for which the employer is liable to pay to the eligible person [subject to deductions]”; (ii) by such amount having to be determined at trial and on an assessment of damages; (iii) by the need for an application for relief under section 20A which requires the applicant to have secured judgment and to have taken reasonable proceedings to recover payment.[59]
+
+59.  It should at once be pointed out that if, although having power to settle, the Board is constrained not to make a settlement agreement unless and until quantum is determined at trial and after an assessment of damages, the important object of facilitating early settlements to avoid running up legal costs would be entirely defeated.  The injured employee would be forced to navigate through the statutory machinery, toiling on until the bitter end to secure a judgment and an assessment of damages, incurring costs which would eat significantly into the settlement amount.
+
+60.  Section 29 provides the means to avoid such a counter-productive position.  Its central premise is that the offer is made, and hence that the claim may be settled, before the proceedings reach the stage of trial and judgment.  The possible “prejudice as to costs” only arises if the offer is rejected and the employee presses on with the case after the date of the offer.  Section 29 makes no sense otherwise.  Accordingly, if an offer to settle is accepted, it is necessarily implicit that a contractually binding agreement comes into being between the Board and the eligible person which disposes of that claim, making it no longer necessary to operate the statutory machinery set out in sections 20A, 20B and so forth.  Settlement is, in other words, an alternative route to obtaining the relief provided by the ECAO and disposing of the employee’s claim or potential claim against the Fund. 
+
+61.  How does the Board decide the amount at which it should settle?  As with all settlements arrived at before the court’s award is made, this must depend on the parties’ assessment of the likely range of the award.  If the settlement mechanism provided by section 29 is to work, the Board must have power to make an offer based on its assessment of what is a reasonable sum, arrived at in good faith on available information it considers sufficient. It is equipped by the ECAO to secure relevant information.  As already noted, section 25B(7) requires the Board to “carry out such inquiries as it considers necessary to facilitate the proper carrying out of the functions of the Board in relation to the claim to which the notice relates”.  Section 25B(8) gives it compulsory powers[60] to obtain any required information:
+
+“For the purpose of carrying out inquiries under this section, the Board may—
+
+(a) require the employer ... the employer’s insurer or any other employee of the employer to furnish such information or particulars relating to the claim; and
+
+(b) make such inquiries from any other person connected or associated with the claim, as the Board considers necessary.
+
+62.  How much information the Board acquires will differ from case to case and its adequacy may depend on the particular facts and the nature of the defendant’s allegations.  If the Board has decided to intervene pursuant to section 25A, it will have ascertained that the defendant employer is uninsured and unlikely to be good for any judgment obtained.  The Board may be in a good position, for the purposes of quantum, to assess the employee’s injuries by obtaining medical reports (often jointly with the employee, as happened in the present case).  Documentary evidence might be available to throw light on certain liability issues, for instance, where the defendant denies being the employer or where the employee’s earnings are disputed.  Evidence of how the accident happened might be available from witnesses bearing on issues of negligence, causation, contributory negligence and the like.  In many cases, having made inquiries, one would expect the Board to feel equipped to propose a reasonable sum for settlement.
+
+63.  Of course, not every case will be a candidate for settlement.  The Board may not feel that it has enough facts and may decide that the case should be left to go to trial and assessment.  Or the employee may hold out for a sum which is regarded as extravagant, notwithstanding that a section 29 offer has been made by the Board. 
+
+64.  The point, however, is that settlement, which is obviously valuable as a possible means of cutting legal costs and making the best use of the Fund’s resources is, on the true construction of the ECAO, an option open to the Board.  Its functions, laid down by section 4, include administering the Fund in accordance with the objects of the Ordinance[61] and it has power to “do all such things as are expedient for or conducive to the attainment of the functions referred to in section 4 or which, in the opinion of the Board, are necessary to facilitate the proper carrying out of the functions of the Board”.[62] Once it is accepted that it is empowered by section 29 to settle claims in properly carrying out its functions, it is plainly intra vires the Board to enter into agreements to settle for sums based on its assessment of what is reasonable, arrived at in good faith on available evidence considered sufficient, having made due inquiries.
+
+D.5   The legal effect of a settlement agreement
+
+65.  Questions 2(a) and (c) address the legal effect of a settlement.  In particular, they ask what the position is where the Board and the eligible person settle for a stated amount, where the case proceeds to judgment and where the award made against the employer is either higher or lower than the settlement amount. 
+
+66.  Deputy High Court Judge To took the following view:
+
+“Should the quantum of damages assessed by me be higher than the agreed amount, the Plaintiff cannot apply to the Board for relief in respect of the difference. Should the quantum of damages assessed by me be lower than the agreed amount, the Board may also have no authority to pay the Plaintiff an amount higher than what has been agreed.”[63] [It seems likely that the last word should be “awarded” rather than “agreed”]
+
+67.  The Court of Appeal left open the question whether the Board has power to pay a settlement sum in excess of the eventual damages award.[64] But it accepted that there is nothing to prevent an eligible person from agreeing to accept a settlement amount that turns out to be less than the award against the employer.[65]
+
+68.  I pause to observe that it seems odd that an action against the employer should be pressed on to judgment, incurring legal costs, after the eligible person has settled the potential relief payment with the Board.  Ex hypothesi, the Board has only applied to join in the proceedings under section 25A because there is no insurance cover and the employer is either effectively absent or presumptively not good for the award, exposing the Board to likely liability under the ECAO.  So why would the plaintiff choose to pursue the employer after settling with the Board? 
+
+69.  We were informed by Mr Raymond Leung SC[66] that in the present case, the settlement was apparently as to quantum, without agreeing liability.  Why this course was taken was not explained but, as appears from the submissions of Ms Eu, it may have been due to a belief that it is necessary for the plaintiff to secure a judgment and to make a section 20A application to bring himself within section 20B(1) in order to qualify for payment of the settlement sum.  That view appears to have been shared by the Court of Appeal who commented that “[the] plaintiff had to continue with the trial to obtain a judgment on liability against the 2nd defendant ...”[67]
+
+70.  In my view, such an approach is erroneous and is based on a failure to appreciate that a settlement is an alternative route to disposing of the claim which obviates the necessity to traverse the ECAO’s relief payment claim requirements.  A settlement agreement between the Board and the plaintiff is a binding contract.  Its terms are not subject to change and its binding quality not vitiated by any subsequent judgment obtained as between two different parties, the employee and the employer.  Indeed, one would hope that a wasteful pursuit of the presumptively impecunious employer after settlement with the Board would be avoided.  If the parties were not bound by the settlement and if the employee was subject to an asymmetrical rule whereby, depending on the level of the damages award against the employer, he might get less, but could not get more, than the settlement sum bargained for, there would be little incentive for the injured employee to settle. 
+
+71.  I would accordingly give a negative answer to Question 2(a) and answer Question 2(c) as follows:  The settlement amount agreed to by the plaintiff and the Board is contractually binding and not affected by the level of any subsequent judgment obtained against the employer.
+
+E.  Conclusions
+
+72.  In relation to Question 1, my conclusions may be summarised as follows:
+
+(a) Section 20B(3) does not deprive the court of jurisdiction to order costs against the Board in relation to proceedings in which it has been joined as a party.
+
+(b) Power to make such costs orders is conferred by section 52A of the High Court Ordinance.[68] ECAO section 29 also recognises the existence of this power.
+
+(c) In exercising its discretion regarding a possible costs order against the Board, the principle that costs normally follow the event does not apply, given the Board’s statutory role.  The starting-point should be that there is no order as to costs.  However, the court has a wide discretion and may depart from this if the circumstances warrant a different order.
+
+73.  My conclusions regarding Question 2 are summarised as follows:
+
+(a) Section 29 authorises the Board to settle potential claims for relief payments in amounts it assesses to be reasonable, arriving at such assessments in good faith on available information considered sufficient after having made due inquiry.
+
+(b) Settlement is an alternative means for disposing of a claim and obtaining relief.  The settlement agreement constitutes a binding contract and is not affected by any judgment which the employee may subsequently obtain against the employer.  It should not generally be necessary to pursue that action after settling with the Board.
+
+F.  Disposition
+
+74.  For the foregoing reasons, I would dismiss this appeal.  Although such an outcome would normally entail making an order for costs against the Board, taking into account its special statutory role and accepting that there was a need for clarification of the legal position affecting the Board’s operations, I would, by way of order nisi, direct that there be no order as to costs so that the parties each bear their own costs.  I understand that the respondent is on legal aid and I would direct that his costs be taxed in accordance with the Legal Aid Regulations.
+
+75.  I would direct that any submissions that the parties may wish to make as to costs be submitted in writing within 14 days of the date of this judgment and that, in default of such submissions, the order nisi stand as an order absolute.
+
+Mr Justice Fok PJ:
+
+76.  I agree with the judgment of Mr Justice Ribeiro PJ.
+
+Mr Justice Stock NPJ:
+
+77.  I agree with the judgment of Mr Justice Ribeiro PJ.
+
+Madam Justice McLachlin NPJ:
+
+78.  I agree with the judgment of Mr Justice Ribeiro PJ.
+
+Chief Justice Ma:
+
+79.  The Court unanimously dismisses this appeal and makes the orders as to costs referred to in paragraphs 74 and 75 above.
+
+  
+
+  
+
+(Geoffrey Ma)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+  
+
+  
+
+(Frank Stock)	(Beverley McLachlin)
+Non-Permanent Judge	Non-Permanent Judge
+  
+
+Ms Audrey Eu SC and Mr Roger Phang, instructed by P.C. Woo & Co., for the 3rd Defendant (Appellant)
+
+Mr Raymond Leung SC and Mr Patrick Szeto, instructed by Kenneth Lam Solicitors, assigned by the Director of Legal Aid, for the Plaintiff (Respondent)
+
+[1] Cap 365.
+
+[2] Cap 282.
+
+[3] Section 7.
+
+[4] Section 4(a).
+
+[5] Part IV.
+
+[6] By the Employees’ Compensation Insurance Levies Ordinance (Cap 411), section 14.
+
+[7] Cap 411, Schedule 2.
+
+[8] ECAO section 4(a).
+
+[9] DCEC 2408/2014 (26 September 2016).
+
+[10] As the terms of the parties’ settlement were not placed before the Court, it is unclear what the terms agreed were.
+
+[11] Deputy High Court Judge To [2018] 3 HKLRD 897 (23 June 2017).
+
+[12] [2014] 6 HKC 361.
+
+[13] This decision is considered further in Section C.4 below.
+
+[14] [2018] 1 HKLRD 886.
+
+[15] Cheung and Kwan JJA, Au J [2019] 1 HKLRD 48 (23 November 2018).
+
+[16] Considered in Section C.3 below.
+
+[17] Court of Appeal §§41-43.
+
+[18] Cheung, Kwan and Au JJA [2019] HKCA 166 (15 February 2019).
+
+[19] Ma CJ, Fok PJ and Chan NPJ [2019] HKCFA 27 (25 July 2019).
+
+[20] Which are defined by reference to section 3 of the ECO and, unless excluded, would cover the payment of interest.
+
+[21] Appearing for the Board with Mr Roger Phang.
+
+[22] Section 20B(1): “Subject to section 20A(2) and subsection (3), the amount of a relief payment to an eligible person shall be the amount of damages for which the employer is liable to pay the eligible person after that amount is reduced by— (a) the amount, if any, of compensation which has been paid or is payable under the Employees’ Compensation Ordinance (Cap 282) in respect of the injured employee in relation to the accident concerned; and (b) the amount, if any, of those damages already paid by the employer.”
+
+[23] Introduced by the amendments to the ECAO in 2002.
+
+[24] Section 25(1)(a) : “…where the employer cannot be identified or, if identified, cannot be found; is insolvent; is dead or in the case of a company, has been dissolved, wound up or struck off the register; or for any reason, cannot be served with proceedings.”
+
+[25] Compare section 25(4).  It has been held that an award of damages in such cases is made against the employer and not the Board: Tu Zhiqiang and Hap Sang Co (a firm) [2012] 1 HKLRD 1075 at §51; Kwan Kam Pui v Fung Man [2014] 6 HKC 361 at §34; Jiang Zhong v Yeung Chun Leung [2018] 1 HKLRD 886 at §3.11.
+
+[26] The aim, as explained in the Legislative Council (“LegCo”) Brief on the Employees Compensation Assistance (Amendment) Bill 2002 (5 February 2002) in support of the amendments introducing the joinder procedure, was mainly to give the Board some control regarding default judgments: “At present, the Ordinance does not explicitly empower the Board to defend claims in legal proceedings. This places the Board in a disadvantaged position because defaulting employers are usually absent in the legal proceedings leaving the claims undefended.  It is proposed that where a proceeding has been initiated to make a claim in connection with a work-related accident, the Board may apply to the Court to be joined in the proceedings as a party and defend the claims.” (§17)
+
+[27] Cap 4.  The equivalent in the District Court being section 53 of the District Court Ordinance (Cap 336).
+
+[28] Section 52A(2): “Without prejudice to the generality of subsection (1), the Court of Appeal or the Court of First Instance may, in accordance with rules of court, make an order awarding costs against a person who is not a party to the relevant proceedings, if the Court of Appeal or the Court of First Instance, as the case may be, is satisfied that it is in the interests of justice to do so.
+
+[29] As pointed out in the Minutes of the LegCo Meeting on 17 May 2001, §44.
+
+[30] Court of Appeal §43.
+
+[31] [2018] 1 HKLRD 886.
+
+[32] [2014] 6 HKC 361.
+
+[33] [2003] HKCU 412; HCPI 1221/2000 (15 April 2003).
+
+[34] [2014] 6 HKC 361 at §§66-67.
+
+[35] Judgment §§43 and 45.
+
+[36] Judgment §47.
+
+[37] Judgment §48.
+
+[38] Judgment §§51-52.
+
+[39] Judgment §52.
+
+[40] Judgment §55.
+
+[41] Judgment §§55-56.
+
+[42] Court of Appeal §§25-28.
+
+[43] Court of Appeal §32.
+
+[44] Court of Appeal §35.
+
+[45] Court of Appeal §33.
+
+[46] Court of Appeal §§34, 45 and 46.
+
+[47] ECAO section 4.
+
+[48] Section 25A(a).
+
+[49] Section 25A(b) and (c).
+
+[50] Judgment §47.
+
+[51] As further discussed in Section D.3 below.
+
+[52] Loss of the right to apply under section 16 in respect of that claim.
+
+[53] Relieving the Board of paying more than the eventual ECO award and of paying the costs of the person refusing, as from the date of the offer.
+
+[54] [2013] 2 HKLRD 614.
+
+[55] [2014] 6 HKC 361 at §1.
+
+[56] Ibid at §15.
+
+[57] The Minutes of the LegCo Meeting, §§45 and 47.
+
+[58] Properly quantified, as discussed in Section D.4 below.
+
+[59] Question 2 also addresses issues concerning the legal effect of any settlement made, discussed separately below.
+
+[60] Section 40(2) makes it an offence for any person, without reasonable excuse, to fail to comply with or respond to an inquiry made under section 25B(8).
+
+[61] ECAO section 4(a).  The objects include “the protection of the entitlement of employees and others to compensation for employment-related injury [and] for the making of relief payment to eligible persons in relation to damages for employment-related injury” (Long Title).
+
+[62] ECAO section 5(1).
+
+[63] Judgment §25.
+
+[64] Court of Appeal footnote 24.
+
+[65] Court of Appeal §41.
+
+[66] Appearing for the respondent with Mr Patrick Szeto.
+
+[67] Court of Appeal §44.
+
+[68] Cap 4.
+
+ 

@@ -1,0 +1,207 @@
+CACV 3/2021
+
+[2021] HKCA 1672
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO 3 OF 2021
+
+(ON APPEAL FROM HCA NO 643 OF 2019)
+
+____________
+
+ 
+
+BETWEEN	 	 
+ 	SAND AIRE LIMITED	1st Plaintiff
+ 	ROY NOMINEES LIMITED	2nd Plaintiff
+ 	PICTET & CIE (EUROPE) SA	3rd Plaintiff
+and
+
+ 	JIN ZHANJIE (金占杰)	1st Defendant
+ 	CRE8IVE INVESTMENT LIMITED	2nd Defendant
+____________
+
+Before:  Hon Kwan VP, Cheung and G Lam JJA in Court
+
+Dates of Hearing:  22 October 2021
+
+Date of Reasons for Judgment: 11 November 2021
+
+________________________________________
+
+R E A S O N S  F O R  J U D G M E N T
+
+________________________________________
+
+Hon G Lam JA (giving the Reasons for Judgment of the Court):
+
+Background
+
+1.  This is an appeal arising from the summary judgment entered against the 1st defendant and the strike-out of his counterclaim.  The plaintiffs’ claim is for payment of the sum of RMB 270 million under a written settlement agreement.  The central issue is whether the alleged oral agreement between the parties raised by the 1st defendant as a defence is incredible, as the Master and the Deputy Judge held below.  At the hearing we dismissed the appeal with reasons to be handed down.  These are the reasons for our decision.
+
+2.  The broad factual background is not in dispute. The 1st plaintiff is an English company based in London which offers investment services to its clients.  It is authorised by the Financial Conduct Authority (previously the Financial Services Authority) of the United Kingdom to carry out investment activities including dealing in investments as agent.  Investments can only be made by the 1st plaintiff on behalf of its clients and not on its own account, and are required to follow an internal review and approval process.
+
+3.  China Resources Investment Vehicle Ltd (“CRI”) was at all material times a Hong Kong company which held various investment projects in Mainland China directly or through corporate vehicles incorporated in Mainland China, Hong Kong or the British Virgin Islands (“BVI”).  In 2009, the investors in CRI included the 1st defendant and Mr Daniel Levine (“Mr Levine”), who were also two of its directors. 
+
+4.  In December 2009, the 1st plaintiff on behalf of its clients acquired as an investment a number of redeemable preference shares in CRI (“CRI Shares”).
+
+5.  In March 2013, CRI set up a wholly-owned subsidiary in Hong Kong called CRE8IVE Capital China Ltd (“CCC”) for the purpose of issuing bonds on the Luxembourg Stock Exchange.  On 5 August 2013, CCC issued bonds in the denomination of RMB 1,000,000 each with maturity date on 5 August 2018 for a total amount of RMB 353,000,000 on the Euro MTF Market of the Luxembourg Stock Exchange, bearing interest from 5 August 2013 at the rate of 12% per annum payable quarterly in arrears (the “12% Bonds”).  As specified in the prospectus, CCC had the option of issuing further 12% Bonds in the amount of RMB 147,000,000 in aggregate.
+
+6.  On about 5 August 2013, the 1st plaintiff on behalf of its clients subscribed for the 12% Bonds in the amount of RMB 353,000,000.
+
+7.  By agreements dated 19 August 2013 entered into at around that time,[1] the 1st plaintiff’s clients through the custodians sold the CRI Shares to a company of the 1st defendant, Rich Concept Assets Management Ltd, for a total consideration of GBP 22,484,488.  The instruments of transfer and bought and sold notes were dated 22 August 2013.
+
+8.  In March 2015, CCC was unable to pay the March 2015 coupon on the 12% Bonds, which were therefore suspended by the Luxembourg Stock Exchange.  On 16 April 2015, CRE8IVE Investment Ltd, the 2nd defendant herein, which had been a wholly-owned subsidiary of CRI since 26 March 2015, issued a conditional exchange offer (“Exchange Offer”), which was revised on 15 June 2015, for all outstanding RMB 353,000,000 12% Bonds for new RMB 401,429,000 7% guaranteed bonds due 5 August 2018 issued by the 2nd defendant (the “7% Bonds”).  The increase in the nominal value of the 7% Bonds reflected the coupons that were not paid on the 12% Bonds.  Clause 2.2 of the Exchange Offer stated: “The Bonds [ie the 7% Bonds] shall be issued in full and final settlement by way of the Exchange Offer for all the Listed Bonds [ie the 12% Bonds]”.
+
+9.  On 16 June 2015, the Exchange Offer was accepted and the 2nd defendant issued the 7% Bonds to the custodians or nominee companies (namely, the 2nd and 3rd plaintiffs herein) to hold on behalf of the 1st plaintiff’s clients.  The 7% Bonds were guaranteed by two Mainland Chinese companies and a Hong Kong company which held real estate assets in Mainland China and Hong Kong respectively (“Properties”).
+
+10.  As it happened, the 2nd defendant could not pay even the first coupon of the 7% Bonds on the due date of 30 September 2015, but only paid it on 12 January 2016.  The 2nd defendant did not pay the second coupon due on 31 March 2016 or any other subsequent coupon.  Following various rounds of negotiations, on 4 April 2017, the 1st plaintiff (on behalf of the 7% Bondholders) and the defendants entered into a memorandum of understanding (“MOU”) in which the parties agreed that RMB 270 million would be paid in settlement of the 7% Bonds, that the 1st defendant would pay RMB 50 million out of his own funds within 7 or 14 days of the settlement agreement being signed, that the balance in the sum of RMB 220 million would be paid at the latest by 30 November 2018, and that the Properties would be sold to pay that balance.
+
+11.  On 7 November 2017, the parties entered into a settlement agreement (the “Settlement Agreement”), which provides that the defendants shall pay to a bank account specified by the 1st plaintiff, for the benefit of the 7% Bondholders, the sum of RMB 270 million “in full and final settlement of all and any Claims arising out of or in connection with or in respect of the 7% Bonds, the Exchange Offer and Deeds of Guarantee”.  It is further stipulated that the 1st defendant shall pay RMB 50 million out of his own funds on or before 28 February 2018, that the defendants will sell or procure the sale of the Properties by 30 September 2018 and pay the lesser of the net sale proceeds or the remaining balance of the settlement sum within 14 days of any individual sale, and that the balance of the settlement sum in the sum of RMB 220 million shall in any event be paid latest by 30 November 2018.
+
+12.  In the event, the defendants have failed to pay the settlement sum or any part thereof in accordance with the terms of the Settlement Agreement or at all.
+
+13.  On 12 April 2019, the 1st plaintiff instituted the action below, and applied for summary judgment by summons dated 6 May 2019.  On 22 May 2019, the 1st defendant filed his Defence and Counterclaim.  On 27 May 2019, with no opposition from the 2nd defendant, judgment was entered against it for the sum of RMB 270 million.
+
+The defence of the Oral Agreement
+
+14.  In his Defence and Counterclaim and his subsequent affirmations, the 1st defendant alleges that there was an oral agreement between the parties in 2013 which the 1st plaintiff has breached.  It is said that in “about late July 2013”, Mr Levine, acting on behalf of the 1st defendant and CRI, and “Mr Hendriks and/or Mr Offergelt” acting on behalf of the 1st plaintiff, entered into an oral agreement (“Oral Agreement”) that: (1) the 1st defendant shall, whether by himself or a corporate vehicle, purchase the 1st plaintiff’s CRI Shares; (2) upon such sale, the 1st plaintiff shall re-invest the entire proceeds of sale into the “PRC Projects”, defined to mean the various investment projects in the People’s Republic of China held by CRI directly or through corporate vehicles incorporated in Mainland China, Hong Kong and the BVI; and (3) the 1st plaintiff shall invest an additional RMB 500 million into the PRC Projects, whether by subscribing for the bonds to be listed on the Luxembourg Stock Exchange or by other means.
+
+15.  It is further pleaded that it is an implied term of the Oral Agreement that (1) the 1st plaintiff shall perform its obligations to re-invest the proceeds of sale of the CRI Shares within a reasonable time and in any event no later than one week after it received those proceeds; and (2) the 1st plaintiff shall invest the additional RMB 500 million within a reasonable time and in any event no later than 5 September 2013, being one month after the issue date of the 12% Bonds.
+
+16.  It is alleged that in breach of the Oral Agreement, the 1st plaintiff failed to invest RMB 147 million (being RMB 500 million less RMB 353 million) into the PRC Projects by 5 September 2013 whether by subscribing for the 12% Bonds or at all, and also failed to re-invest any part of the proceeds of sale of the CRI Shares (GBP 22,484,488) into the PRC Projects whether within one week after receipt of the proceeds or at all.
+
+17.  It is said that as a result of the 1st plaintiff’s breaches, the 1st defendant, CRI and some of the corporate vehicles holding the PRC Projects had to obtain loans to meet their financial needs and that the 1st defendant personally paid the interest on all of the loans.  As at the date of the Defence and Counterclaim, the 1st defendant had paid interest in the sum of at least RMB 185,674,307.  The 1st defendant has therefore suffered loss in at least that sum, which he seeks to set off against the 1st plaintiff’s claim.
+
+18.  These matters raised in the 1st defendant’s Defence are repeated by reference for his counterclaim for damages to be assessed.
+
+The judgments below
+
+19.  On 4 September 2019, Master Dick Ho granted the 1st plaintiff’s application for summary judgment against the 1st defendant, finding that the Oral Agreement was unbelievable.  At a subsequent hearing on 20 January 2020, he struck out the 1st defendant’s counterclaim.
+
+20.  On appeal, Deputy High Court Judge William Wong SC (“the judge”) disposed of the 1st defendant’s objection to the 1st plaintiff’s standing to sue by allowing the joinder of the 2nd and 3rd plaintiffs who were the custodians or nominee companies holding the 7% Bonds on behalf of the investors.[2]  In respect of the Oral Agreement, the judge held that it was both unsustainable as a matter of pleading and not capable of being believed.
+
+21.  The judge first referred to the fact that CCC had never issued any further amount of the 12% Bonds and that the 1st defendant had not suggested how and on what terms the 1st plaintiff should invest another RMB 147 million into the PRC Projects.[3]  Secondly, he took the view that the alleged agreement to re-invest the proceeds of sale of the CRI Shares and an additional RMB 500 million would be unenforceable even if such agreement existed, for want of the essential terms of such investment.[4]  Thirdly, the judge considered that the investment that the 1st plaintiff should on the 1st defendant’s case have made could be expected to have made some return, and that without an agreed rate of return he could not see how the 1st defendant could claim the entire sum of the alleged interest payments as his loss.[5]
+
+22.  Fourthly, the judge found that the Oral Agreement was not capable of being believed.  Among other things, the judge pointed to the absence of any documentary evidence of complaint by the 1st defendant about the alleged breaches and the absence of any credible explanation as to why the 1st defendant had not taken any action against the 1st plaintiff. The judge noted that there was no reference to the Oral Agreement or the breaches thereof in the parties’ correspondence, the MOU or the Settlement Agreement.  The judge said that the 1st defendant’s case was based on hearsay from Mr Levine and that the suggestion that he was not contactable made the 1st defendant’s case even more unbelievable. The judge took into account that the 1st defendant was unable to be specific as to where, how and by whom on behalf of the 1st plaintiff the Oral Agreement was made.  The judge also found that the alleged existence of the Oral Agreement did not sit well with the contemporaneous documents.[6]
+
+23.  Further, the judge accepted the plaintiffs’ arguments that any claim the 1st defendant might have had under the Oral Agreement had been settled by the Settlement Agreement, and that the 1st defendant had failed to show any causal connection between the alleged breaches of the Oral Agreement and the interest payments made under the various alleged loans, some of which were even dated before the Oral Agreement.[7]
+
+24.  As to the striking out of the 1st defendant’s counterclaim, the judge considered that as he had held the Oral Agreement to be unsustainable, the counterclaim should be struck out without the need to consider whether the 1st defendant was barred by issue estoppel from raising the Oral Agreement for his counterclaim.[8]  Accordingly the judge dismissed the 1st defendant’s appeal.
+
+The appeal to this Court
+
+25.  The 1st defendant now appeals to this court against the judge’s decision.  Broadly speaking, in relation to summary judgment, the 1st defendant contends that: (1) the Oral Agreement was sufficiently certain and enforceable, and the judge was wrong in law to hold otherwise; (2) the judge erred in fact finding that the Oral Agreement was incapable of being believed; (3) the judge erred in finding that any claim the 1st defendant might have had under the Oral Agreement had been settled by the Settlement Agreement; and (4) the judge erred in finding that the 1st defendant had failed to show the causal connection between the alleged breaches of the Oral Agreement and the interest payments under the various alleged loans.
+
+26.  As for the Counterclaim, the 1st defendant states that the only ground relied upon by the plaintiffs was the lack of a reasonable cause of action in terms of RHC Order 18 rule 19(1)(a) in that the summary judgment created an issue estoppel precluding the 1st defendant from contending that the Oral Agreement existed for the purpose of his Counterclaim.  The 1st defendant contends that the judge was wrong to hold that the counterclaim was unsustainable.
+
+27.  For its part, the 1st plaintiff has filed a respondent’s notice signifying its intention to seek to uphold the strike-out of the counterclaim on the ground that if summary judgment is entered on the basis that the 1st defendant’s case is unarguable, then an issue estoppel arises such that he is also precluded from maintaining his counterclaim.
+
+Discussion
+
+Summary judgment
+
+28.  We shall take first the question of whether the 1st defendant’s case based on the Oral Agreement raises any triable issue on the facts.  In assessing this the court does not of course conduct a mini-trial on affidavits, but if the defence, viewed against the undisputed or indisputable evidence and circumstances, is such as to be unbelievable, then the court is entitled to conclude that there is no triable issue and to enter judgment summarily: see Ng Shou Chun v Hung Chun San [1994] 1 HKC 155. In the present case, despite the submissions of Mr Lam SC on behalf of the 1st defendant, we are not persuaded that the judge erred in any way in holding that the Oral Agreement was incredible.
+
+29.  Mr Lam submits that the fact that the Oral Agreement was not mentioned in the Settlement Agreement is explicable because the Settlement Agreement solely concerned the “12% Bonds / 7% Bonds transaction”, whereas the Oral Agreement represented another set of agreements between the parties relating to the 1st defendant’s purchase of the CRI Shares from the 1st plaintiff’s clients in exchange for the 1st plaintiff’s reinvestment and further investment into the PRC Projects.  We are unable to agree with this submission.  The Settlement Agreement arose out of the default on the 7% Bonds, which came into existence through the Exchange Offer for the 12% Bonds.  The Settlement Agreement itself recited the dealings between the parties including the initial investment by the 1st plaintiff in the CRI Shares in 2009 and their subsequent sale in 2013, the issue of and the default on the 12% Bonds, the Exchange Offer, and the issue of and the default on the 7% Bonds.  They formed a continuous series of dealings and there was no reason for the Oral Agreement to be omitted from any mention if it existed.  On the 1st defendant’s own case, since he relies on an equitable set-off, the Oral Agreement must be inseparably connected with the dealings and transactions which gave rise to the plaintiffs’ claim.[9]  If the 1st defendant was not to be liable under the Settlement Agreement at all because he had a long-standing pre-existing cross-claim arising from the 1st plaintiff’s breach of the Oral Agreement, which could be set off against the payments the 1st defendant had to make under the Settlement Agreement, it is in our view inconceivable that this was not brought up or documented in the correspondence, the negotiations and the eventual written agreement.
+
+30.  Mr Lam submits that there is evidence from the 1st defendant and Mr Zhang Xiaolong (a co-director of CRI) (“Mr Zhang”) that the 1st defendant and CRI did request the 1st plaintiff to honour the Oral Agreement during various meetings in London, and that the fact that these demands were not reduced into writing must be viewed in the context of the parties’ ongoing business relationship at the time.  Whilst it is not incredible that communications could have taken place orally between businessmen, in the circumstances of the present case we agree with the courts below that it is beyond belief that an experienced businessman such as the 1st defendant would have failed to take any documented steps against a substantial and unremedied breach of contract by the other side causing him continuing losses of the magnitude alleged.  The complete absence of any record of the Oral Agreement or any steps taken by the 1st defendant or CRI to enforce it is in our view wholly inexplicable except on the basis that it did not exist.
+
+31.  In the Notice of Appeal the 1st defendant complains that the judge failed to give any or any sufficient weight to the fact that Mr Offergelt admits that he and Mr Hendriks had a meeting with the 1st defendant and Mr Levine in February 2013.  Mr Offergelt and Mr Hendriks both accept that the 1st defendant, Mr Zhang and Mr Levine had presented their new projects to the 1st plaintiff and invited it to make further investments from time to time.  All this, it is submitted, is “consistent with” the 1st defendant’s case regarding the negotiations leading to the Oral Agreement.  But these facts or events are equally consistent with the plaintiffs’ case, and they do not begin to address the overwhelming improbabilities of the 1st defendant’s case having regard to the other points.  In the context of the negotiations in 2013, it is inexplicable that there was no documentary evidence at all supporting the existence of the Oral Agreement when the other transaction documents at the time including the agreements for the transfer of the CRI Shares and the prospectus of the 12% Bonds were professionally prepared.
+
+32.  Reliance is also placed on the Indicative Term Sheet dated 13 March 2013 which recited that CRI “seeks RMB 300 million – RMB 500 million in medium-term financing for its various natural resource and property-related businesses and projects”.  This, it is said, supports the case that CRI needed additional funds at the time for its projects.  But as the judge said,[10] the document actually shows that had there been a binding agreement on the investment of funds of the 1st plaintiff’s clients in CRI’s PRC Projects other than the two specific real estate projects referred to in the prospectus of the 12% Bonds, there would have been documentation to that effect.  Nothing has been said on this appeal that detracts from this reasoning.
+
+33.  It is submitted that the 1st defendant’s agreement (through his company Rich Concept Assets Management Ltd) to purchase the CRI Shares at a significant premium is consistent with his case that it was merely a restructuring to satisfy the 1st plaintiff’s desire not to hold shares in private companies for its clients and that the 1st plaintiff’s agreement to make further investment was a reasonable incentive for the 1st defendant to proceed with the share purchase.  The premium was referred to in an internal email of 7 August 2013 from the 1st plaintiff’s portfolio manager to other teams, which read in part as follows:
+
+“ As a stand alone transaction, Cre8ive are currently negotiating to repurchase clients exposure to the China Resources & Investment Vehicle Series C, which was originally purchased in late 2009 at a substantial uplift versus cost (eg MHB – book cost £1,000,000, exit price £1,617,589, uplift of c62%. The holding period was just over 3 years. Proceeds from this transaction are due to be received on Friday. The offer was made by the company as part of its capital raising requirement. Minority shareholders did not wish to be diluted so an equity buyback offer was made to shareholders and the Company has started raising capital through the issuance of asset backed bonds to fund the on‑going expansion of the business.”
+
+34.  Several observations may be made in connection with this.  First, the 62% uplift was based on the book cost, not necessarily a premium over the actual value of the shares in 2013.  Secondly, as the judge pointed out,[11] the email described the sale of the CRI Shares as a “standalone transaction” which arose apparently because certain investors did not wish to be diluted, contrary to the 1st defendant’s case that it was bound up with the subscription of the 12% Bonds under the umbrella of the Oral Agreement.  Thirdly, if the 1st defendant agreed to pay a significant premium for the CRI Shares as a quid pro quo, it made it all the more difficult to believe that he did not ensure that the 1st plaintiff’s promises under the Oral Agreement were properly recorded.  Fourthly, the 1st plaintiff invested on behalf of its clients, and some of those who had invested in and sold the CRI Shares did not invest in the 12% Bonds, while some of those who invested in the 12% Bonds had not invested in the CRI Shares before.  Seen against this background, it would make little sense for the 1st plaintiff to enter into the Oral Agreement in order to secure the sale of the CRI Shares at a premium.
+
+35.  It is submitted that the fact that the 1st defendant has not been able to identify the exact circumstances in which the Oral Agreement was entered into should not be taken against him as Mr Levine was the person who negotiated it on his behalf.  Given the import of the Oral Agreement for the 1st defendant, however, one is entitled to expect that he would have obtained from Mr Levine more concrete particulars than those put forward.  In our view the judge cannot be faulted for taking this into account in coming to his conclusion.
+
+36.  Finally, it is submitted that the 1st defendant’s case is corroborated by Mr Zhang’s affirmation evidence and that whilst the 1st defendant has been unable to contact Mr Levine he may be able to secure his attendance at trial, by subpoena if necessary.  In our view the objective and uncontroverted facts speak far louder than the assertions of the 1st defendant even with partial support from Mr Zhang, and demonstrate that the alleged Oral Agreement is incredible.  As the judge noted, the suggestion that Mr Levine may be subpoenaed to give evidence at trial is entirely speculative,[12] and provides no valid reason for the action to go to trial.
+
+37.  For these reasons the 1st defendant’s challenge against the holding that the Oral Agreement was incredible fails. This is sufficient for disposing of the appeal in relation to summary judgment.
+
+38.  As mentioned above, the judge also rejected the pleaded defence based on the Oral Agreement for a number of additional reasons.  It is unnecessary to deal with each and every other ground relied upon by the judge, save that we consider that the judge was correct in accepting the 1st plaintiff’s submission that the 1st defendant’s claim under the Oral Agreement, if it existed, would have been settled under the Settlement Agreement.
+
+39.  Clause 2.1 of that agreement provides:
+
+“ [The 1st defendant] and [the 2nd defendant] shall pay to a bank account specified by [the 1st plaintiff] for the benefit of the 7% Bondholders, the sum of RMB 270 million … in full and final settlement of all and any Claims arising out of or in connection with or in respect of the 7% Bonds, the Exchange Offer and the Deeds of Guarantee. …”
+
+40.  Clause 3.1 provides:
+
+“ … the Parties agree that, on condition that the Settlement Sum in its entirety is paid to and is received by [the 1st plaintiff] acting on behalf of the 7% Bondholders in accordance with the payment schedule as set forth in Clause 2.1 above, each of the Parties shall unconditionally release and forever discharge without recourse the other Parties … from any and all Claims arising out of or in connection with or in respect of the 7% Bonds, the Exchange Offer and the Deeds of Guarantee …”
+
+41.  “Claims” is defined in clause 1.1 to mean:
+
+“ all claims relating to all or any known rights (howsoever arising), obligations, causes of action, claims (whether by way of contribution, indemnity, set-off or otherwise), suits, counterclaims, costs (including legal costs), damages, interests and liabilities of whatever nature in respect of the 7% Bonds, the Exchange Offer and the Deeds of Guarantee”
+
+42.  The words “arising out of”, “in connection with” and “in respect of”, especially the last phrase, are of very wide import signifying a relationship or connection.[13]  The settlement was triggered by the default on the 7% Bonds, which were a substitute for the 12% Bonds through the Exchange Offer.  They were part of a continuous series of dealings expressly recited in the Settlement Agreement as referred to in paragraph 29 above.  In the light of the 1st defendant’s own reliance on the Oral Agreement for equitable set-off, which necessarily means that he accepts that his claim was inseparably connected with the dealings and transactions that also gave rise to the plaintiffs’ claim, we see no error in the judge’s conclusion that the 1st defendant’s claim was covered by the Settlement Agreement.
+
+Strike-out of the Counterclaim
+
+43.  The 1st defendant’s Notice of Appeal complains that the judge decided the strike-out appeal on the ground that the plea of the Oral Agreement was plainly and obviously bad and unsustainable, even though the only ground relied upon by the 1st plaintiff as indicated in a letter of its solicitors prior to the hearing before the Master was that an issue estoppel had arisen from the summary judgment precluding the 1st defendant from raising the Oral Agreement as a counterclaim. The 1st defendant’s skeleton argument on this appeal mentioned again that that was the only ground relied upon by the 1st plaintiff, but it is not clear whether it is asserted that the judge erred in this regard. There does not seem to us to be any valid ground for complaint, given that under RHC Order 18 rule 19(1) the court may, not only on application but also of its own motion, strike out a pleading on any ground there set out.  Further, the judge had raised the matter with the parties and, as recorded in the judgment,[14] the 1st defendant’s counsel agreed that if the court came to the view that the Oral Agreement was plainly and obviously bad and unsustainable, the court should strike out the counterclaim.
+
+44.  The judge appears to have relied upon all of the points he accepted against the Oral Agreement in coming to the conclusion that the counterclaim should be struck out.  Based on our view that the 1st defendant’s claim arising from the Oral Agreement was covered by the Settlement Agreement, it follows that we too consider the counterclaim is unsustainable and should be struck out.
+
+45.  Although it is not strictly necessary to deal with the point raised by the respondent’s notice, we are inclined to think that it is well-founded.  Whether an issue estoppel has arisen depends on the nature and substance of the judicial determination.  Where the usual conditions for an issue estoppel are satisfied, a decision granting summary judgment is in principle capable of giving rise to an issue estoppel: see Mullen v Conoco Ltd [1998] QB 382; Re Chime Corporation Ltd (No 2) [2003] 2 HKLRD 945, §23; Power Securities Co Ltd v Sin Kwok Lam & others [2019] HKCFI 2920, §59.  As Hobhouse LJ said in Mullen v Conoco Ltd at p 396E:
+
+“ A successful application for summary judgment under Order 14 has to establish and confirm the plaintiff’s cause of action and the absence of any defence to that claim. Therefore, Order 14 does require, before judgment can be entered, a determination of the merits of the case and the existence of causes of action if the application for summary judgment is to be successful.”
+
+46.  Mr Lam submits that no estoppel arises here because the evidentiary threshold for resisting an application to strike out under Order 18 rule 19 is significantly lower than that for resisting summary judgment under Order 14.  He draws support from the decision of the Malaysian High Court in Universal Trustee (Malaysia) Berhad v Lambang Pertama Sdn Bhd & another [2014] 5 AMR 57, §23, but in our view the argument is flawed.  The question is not whether the threshold of proof is the same, but whether a necessary constituent of the counterclaim has been the subject of a distinct determination on the merits which is fundamental to the decision in the summary judgment application.  If it has been, then the 1st defendant may be precluded by issue estoppel from advancing a contrary position.  If the court is satisfied at this stage that it is plain and obvious that the 1st defendant is so precluded, then it may strike out the counterclaim before it goes to trial.
+
+47.  It seems to us that the question of the existence of the Oral Agreement has been the subject of determination on the merits and is fundamental to the court’s decision in the summary judgment application.  On that basis, the 1st defendant plainly cannot succeed in his counterclaim at trial.  It is right that it should be struck out now.
+
+48.  For the above reasons, we dismissed the 1st defendant’s appeal.
+
+ 
+
+ 
+
+ (Susan Kwan)
+Vice-President	(Peter Cheung)
+Justice of Appeal	(Godfrey Lam)
+Justice of Appeal
+ 
+
+Mr Victor Dawes SC and Mr James Man, instructed by Messrs. DLA Piper Hong Kong for the Plaintiffs (Respondents)
+
+Mr Douglas Lam SC, Ms Sabrina Ho and Mr Tommy Cheung, instructed by Messrs. Yiu & Associates, Solicitors for the 1st Defendant (Appellant)
+
+
+[1]  The Settlement Agreement recited that the 1st plaintiff sold the CRI Shares on behalf of its clients on 1 rather than 19 August 2013, but nothing turns on the precise date of the agreement to sell.
+
+[2]   §6 of the judgment.
+
+[3]  §§35-36 of the judgment.
+
+[4]  §§37-40 of the judgment.
+
+[5]  §41 of the judgment.
+
+[6]   §§42-55.
+
+[7]  §57 of the judgment.
+
+[8]  §§60-61 of the judgment.
+
+[9]   See Bank of Boston Connecticut v European Grain & Shipping Ltd [1989] 1 AC 1056, 1101E -1103D; The Incorporated Owners of King Yip Factory Building v Kwun Wah Flower and Plant Manufacturing Ltd (CACV 128/2003, 13 November 2003), §26.
+
+[10]  §50 of the judgment.
+
+[11]   §54(3) of his judgment.
+
+[12]  §51 of the judgment.
+
+[13]   See eg Koon Wing Yee v Insider Dealing Tribunal (2008) 11 HKCFAR 170, §115.
+
+[14]  §61 of the judgment.
+
+ 
+

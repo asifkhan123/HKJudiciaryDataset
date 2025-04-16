@@ -1,0 +1,202 @@
+CACV 9/2014
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO 9 OF 2014
+
+(ON APPEAL FROM HCA NO 2354 OF 2012)
+
+_______________
+
+BETWEEN
+
+ 	POSSEHL ELECTRONICS HONG KONG LTD	Plaintiff
+and
+
+ 	CHINA TAIPING INSURANCE (HK) CO LTD	Defendant
+_______________
+
+Before : Hon Lam VP, Hon Barma JA and Hon Poon J in Court
+Date of Hearing : 31 October 2014
+Date of Judgment : 1 December 2014
+_______________
+
+J U D G M E N T
+
+_______________
+
+ 
+
+Hon Poon J (giving the Judgment of the Court) :
+
+1. This is the plaintiff’s appeal against the judgment of Deputy High Court Judge Whitehead SC dated 19 December 2013, striking out its claims on the ground that the claims were frivolous or vexatious and otherwise an abuse of process and dismissing the action.
+
+2. The background facts are not in dispute, which are summarized as follows.
+
+A.   BACKGROUND
+
+A1.  The parties
+
+3. The plaintiff carries on the business of manufacturing and trading in a wide range of diversified and technology-distinct products including integrated circuits, discrete and power leadframes and smartcard products and related accessories and equipment.
+
+4. The defendant is an insurance company.
+
+A2.  The Policies
+
+5. The parties entered into two insurance policy both dated 13 April 2011 covering the plaintiff’s premises at 7/F, Possehl Building, 14-18 Ma Kok Street, Tsuen Wan, New Territories (“the Premises”) for the period between 11 April 2011 and 10 April 2012 :
+
+(1)  An Accidental Damage (Property) Insurance Policy (“the Property Policy”); and
+
+(2)  A Business Interruption Insurance Policy (“the Interruption Policy”).
+
+6. The Property Policy provided :
+
+“4. FORFEITURE
+
+All benefit under this Policy shall be forfeited
+
+…
+
+(b) if any claim be made and rejected and an action or suit be not commenced within three months after such rejection, or (in the case of an arbitration taking place in pursuance of Condition No 7 of this Policy) within three months after the arbitrator or arbitrators or umpire shall have made their award.
+
+…
+
+7. ARBITRATION
+
+If any difference shall arise as to the amount to be paid under this Policy such difference shall independently of all other questions be referred to the decision of an arbitrator... And it is hereby expressly stipulated and declared that it shall be a condition precedent to any right of action or suit upon this Policy that the award by such arbitrator or umpire of the amount of the loss or damage if disputed shall be first obtained.
+
+…
+
+12. TIME LIMIT
+
+  In no case whatever shall the Company be liable for any loss or damage after the expiration of twelve months from the happening of the loss or damage unless the claim is the subject of pending action or arbitration.”
+
+These conditions are referred to as “Condition 4(b)”, “Condition 7” and “Condition 12” below.
+
+7. The Interruption Policy relevantly provided :
+
+“PROVIDED THAT
+
+1. at the time of the happening of the Damage there shall be in force an insurance covering the interest of the Insured in the property at the Premises against such Damage and that
+
+(a) payment shall have been made or liability admitted therefor, or
+
+  (b)  payment would have been made or liability admitted therefor but for the operation of a provision in such insurance excluding liability for losses below a specified amount…”
+
+8. It went on to deal with arbitration thus :
+
+“9. Arbitration
+
+If any difference shall arise as to the amount to be paid under this Policy such difference shall be determined by arbitration in accordance with the prevailing Arbitration Ordinance...  It is hereby expressly stipulated that it shall be a condition precedent to any right of action or suit upon this Policy that an arbitration award shall be first obtained.”
+
+These terms are referred to as “Proviso 1” and “Condition 9” below.
+
+A3.  Rejecting the plaintiff’s claims
+
+9. On 4 June 2011 a fire broke out at the Premises, causing substantial loss and damage to the plaintiff.
+
+10. Shortly after the fire, the plaintiff notified the defendant of the occurrence of the fire and made claims under the Policies.  The defendant’s loss adjuster then carried out investigations.  On 1 June 2012, the defendant, through its solicitors, rejected the plaintiff’s claims under the Policies on the ground that the plaintiff was in breach of the A33 Legal Requirements Warranty in the Property Policy.[1]  Correspondence between the parties’ solicitors then ensued.
+
+11. By a letter dated 26 July 2012, the plaintiff’s solicitors, after referring to Condition 7 and Condition 9, gave arbitration notice in respect of disputes and differences on 8 matters.  On 23 August 2012, the defendant’s solicitors wrote back, disputing the validity of the arbitration notice but without prejudice to the dispute, proposing the appointment of an arbitrator and indicating that it would ask the arbitrator to determine his jurisdiction.  On 11 September 2012, the plaintiff’s solicitors replied that as the defendant disputed the plaintiff’s entitlement to refer the dispute to arbitration it would take the matter to court.
+
+B.   PROCEEDINGS BELOW
+
+12. On 19 December 2012, the plaintiff commenced the proceedings below.
+
+13. In response, the defendant applied to strike out the plaintiff’s claims by two summonses both dated 27 February 2013, contending that the action is time-barred by reason of Condition 4(b), Condition 12 and Proviso 1.
+
+14. After hearing arguments, the Deputy Judge found that the plaintiff’s claims are time-barred under the limitation provisions. He then struck out the plaintiff’s claims and dismissed the action.
+
+C.   THE ONLY ISSUE ON APPEAL
+
+15. The only issue before us is whether under a proper construction, the plaintiff’s claims were plainly unarguable in that they were clearly time barred under Condition 4(b) and/or Condition 12.  If yes, the plaintiff’s claims are liable to be struck out as being frivolous, vexatious and an abuse of process : see Kanson Crane Services Co Ltd v Bank of China Group Insurance Co Ltd [2003] 3 HKC 602, per Deputy High Court Judge Lam (as Lam VP then was) at §§13-15.
+
+D.   DISCUSSION
+
+D1.  Condition 4(b) and Condition 12
+
+16. To recap, Condition 4(b) provided :
+
+“4. FORFEITURE
+
+All benefit under this Policy shall be forfeited
+
+…
+
+  (b)  if any claim be made and rejected and an action or suit be not commenced within three months after such rejection, or (in the case of an arbitration taking place in pursuance of Condition No 7 of this Policy) within three months after the arbitrator or arbitrators or umpire shall have made their award.”
+
+17. Under Condition 4(b), two time limits are imposed after the making and rejection of a claim, depending on whether arbitration proceedings under Condition 7 have taken place :
+
+(1)  If there are no extant arbitration proceedings under Condition 7, a legal action must be commenced within 3 months after the rejection of the claim.
+
+(2)  If arbitration proceedings have been commenced under Condition 7, a legal action must be commenced within 3 months after the arbitrator makes the award.
+
+If no legal action is commenced within the 3 months period from rejection of the claim by the defendant or making of the award by the arbitrator in the arbitration under Condition 7, then all benefit under the Property Policy shall be forfeited.
+
+18. Condition 12 is self-evident :
+
+“In no case whatever shall [the defendant] be liable for any loss or damage after the expiration of twelve months from the happening of the loss or damage unless the claim is the subject of pending action or arbitration.”
+
+19. Here, the fire occurred on 4 June 2011.  The time started to run there and then.  The time limit to commence legal proceedings or arbitration proceedings under Condition 12 expired on 4 June 2012.  But the plaintiff did not commence the proceedings below until 19 December 2012, well after the expiry of the 12 months’ period.
+
+20. Even if one were to argue, which Mr Barlow SC for the plaintiff did not, that despite the time limit imposed by Condition 12, Condition 4(b) would have given the plaintiff a period of 3 months from the defendant’s rejection of its claims on 1 June 2012 to bring an action, that would not have assisted the plaintiff.  For factually, the plaintiff did not commence the proceedings below within 3 months from 1 June 2012.
+
+21. As will be seen shortly, the only point taken by Mr Barlow concerned the application of Condition 7.
+
+D2.  Condition 7
+
+22. At the outset of the hearing before us, we drew the attention of Mr Barlow to Super Chem Products Ltd v American Life and General Insurance Co Ltd & Others [2004] 2 All ER 358, per Lord Steyn at §§11 to 20.  We then raised with counsel the possibility of the plaintiff issuing a protective writ within 12 months from the fire on 4 June 2011 so as to protect its position under Condition 12.  Nothing, in our view, could have prevented the plaintiff from doing so.  Mr Barlow readily accepted that the plaintiff could have done so on or before 1 June 2012, that is, when the defendant rejected the plaintiff’s claims.  However, once the rejection was made, counsel reasoned, a quantum dispute caught by Condition 7 arose.  Pending an award by the arbitrator on the dispute, the plaintiff would be prevented by Condition 7 from commencing any legal proceedings.
+
+23. This brings us to a close examination of Condition 7.  To recap, Condition 7 provided :
+
+“If any difference shall arise as to the amount to be paid under this Policy such difference shall independently of all other questions be reference to the decision of an arbitrator … And it is hereby expressly stipulated and declared that it shall be a condition precedent to any right of action or suit upon this Policy that the award by such arbitrator … of the amount of the loss or damage if disputed shall be first obtained.” (Emphasis supplied)
+
+24. On a proper construction, Condition 7 deals with a dispute relating to the amount to be paid under the Property Policy only. Any such dispute is to be resolved by arbitration.  “[All] other questions” independent of the difference on quantum, including liability, are not covered.
+
+25. Here, when the defendant rejected the plaintiff’s claims, it denied liability altogether.  Thus the dispute arising from the rejection was not a dispute on quantum only.  Mr Barlow argued that a total denial of liability was still a quantum dispute because what the defendant agreed to pay is nil whereas the plaintiff asked for full compensation.  We reject his argument for two reasons.
+
+26. First, it has the effect of twisting the clear language and unequivocal effect of Condition 7.  It is no more than a game with words and must be firmly rejected : Jumbo King Ltd v Faithful Properties Ltd (1999) 2 HKCFAR 279, per Lord Hoffmann NPJ at 296D.
+
+27. Second, Mr Barlow’s construction is not supported by any authority.  Indeed, the weight of the authorities on a similar worded condition in insurance policy is against such construction : see Super Chem Products Ltd, ibid.
+
+E.   DISPOSITIONS.
+
+28. For the above reasons, the plaintiff’s claims were clearly time barred under Condition 12.  The Deputy Judge was entirely correct to strike out the plaintiff’s claims and dismiss the action.  We therefore dismiss the appeal.
+
+29. The parties agreed that costs should follow the event.  We accordingly order the plaintiff to pay the defendant costs of the appeal, to be taxed if not agreed, with a certificate for two counsel.
+
+ 
+
+ 
+
+(Johnson Lam)
+Vice-President	(Aarif Barma)
+Justice of Appeal	(Jeremy Poon)
+Judge of the Court of First Instance
+ 
+
+Mr Barrie Barlow SC and Mr Anthony Lo, instructed by Y T Szeto & Co, for the plaintiff
+
+Mr Charles Manzoni SC and Mr Douglas Lam, instructed by Mayer Brown JSM, for the defendant
+
+
+[1] That warranty read :
+
+“Warranted that the Insured shall duly comply with and observe all provisions, requirements and regulations of requirements and regulations of
+
+(i) Fire Services Department and/or
+
+(ii) Labour Department and/or
+
+(iii) Dangerous goods Ordinance and/or
+
+(iv) Factories and Industrial Undertakings Ordinance and/or
+
+(v) Any other Statutory Obligation
+
+including any notice given and requirements made pursuant to same the breach and disregard of which may affect or increase the risk hereby insured except only that this warranty shall not apply in respect of any Ordinance, Regulation Notice or Requirement expressly waived by the Company by endorsement on this Policy.
+

@@ -1,0 +1,824 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 2 of 2019
+
+[2019] HKCFA 45
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 2 OF 2019 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 138 OF 2017)
+
+_________________________
+
+BETWEEN	 	 
+ 	ZHANG HONG LI	1st Plaintiff
+ 	JI ZHENGRONG	2nd Plaintiff
+ 	BRUNO ARBOIT and RODERICK JOHN SUTTON
+(suing in their capacity as the current Trustees of the Amsun Trust)	3rd Plaintiffs
+(1st Respondent)
+ 	WISE LORDS LIMITED	4th Plaintiff
+(2nd Respondent)
+ 	and	
+ 	DBS BANK (HONG KONG) LIMITED
+1st Defendant
+ 	IQ EQ (NTC) TRUSTEES ASIA (JERSEY) LIMITED
+(formerly known as DBS TRUSTEE HK (JERSEY) LIMITED, NAUTILUS TRUSTEES ASIA LIMITED and
+FIRST NAMES (NTC) TRUSTEES ASIA LIMITED)
+(in their capacity as the former Trustee of the Amsun Trust)
+2nd Defendant
+(1st Appellant)
+ 	NAUTILUS CORPORATE SERVICES LIMITED
+(formerly DBS CORPORATE SERVICES (HONG KONG) LIMITED,
+NAUTILUS CORPORATE SERVICES LIMITED and
+NAUTILUS CORPORATE SERVICES (HONG KONG) LIMITED)	3rd Defendant
+ 	DHJ MANAGEMENT LIMITED
+4th Defendant
+(2nd Appellant)
+ 	LEE KWOK TAI, PETER
+5th Defendant
+ 	LIM LEUNG YAU, EDWIN	6th Defendant
+ 	LIU HIU HONG, LINDA	7th Defendant
+_________________________
+
+Before: Mr Justice Ribeiro PJ, Mr Justice Fok PJ,Mr Justice Cheung PJ, Mr Justice Tang NPJ and Lord Neuberger of Abbotsbury NPJ
+
+Dates of Hearing: 21-22 October 2019
+
+Date of Judgment: 22 November 2019
+
+_________________
+
+JUDGMENT
+
+_________________
+
+Mr Justice Ribeiro PJ, Mr Justice Fok PJ and Lord Neuberger of Abbotsbury NPJ:
+
+1.  At the conclusion of the hearing of this appeal on 22 October 2019, the Court reserved its judgment and indicated that it would hand down its judgment on a date to be advised to the parties.  On 5 November 2019, the parties wrote to the Registrar to inform him that they had reached an in principle agreement to settle the appeal.  By that time, a draft judgment had already been completed and was in the final stages of preparation in readiness for handing down.  The Registrar replied, telling them that the judgment had been prepared and would soon be ready for delivery, and indicating that if informed by the parties that they had concluded a settlement agreement, the Court would decide whether to proceed to hand down its judgment.
+
+2.  The parties subsequently confirmed that they had settled the appeal and submitted a consent summons for the appeal to be stayed on terms agreed by the parties.  The Court duly made the order sought.  For the reasons which follow, the Court has decided that notwithstanding the settlement, judgment should be handed down.
+
+3.  The question of the scope of a court’s discretion to deliver judgment in a case notwithstanding the settlement of a case after argument but before judgment is delivered has not previously arisen in any reported decision in Hong Kong.  However, in England and Wales, the applicable principles were established by the Court of Appeal’s decision in Barclays Bank plc v Nylon Capital LLP,[1]  stated by Lord Neuberger of Abbotsbury MR (as his Lordship then was) as follows:
+
+“73. I turn now to deal with a very different issue. After Thomas LJ had prepared his judgment in draft, and circulated it to Etherton LJ and me, the parties notified the court that they had reached agreement and effectively requested the court not to give judgment.
+
+74. Where a case has been fully argued, whether at first instance or on appeal, and it then settles or is withdrawn or is in some other way disposed of, the court retains the right to decide whether or not to proceed to give judgment. Where the case raises a point which it is in the public interest to ventilate in a judgment, that would be a powerful reason for proceeding to give judgment despite the matter having been disposed of between the parties. Obvious examples of such cases are where the case raises a point of law of some potential general interest, where an appellate court is differing from the court below, where some wrongdoing or other activity should be exposed, or where the case has attracted some other legitimate public interest.
+
+75. It will also be relevant in most cases to consider how far the preparation of any judgment had got by the time of the request. In the absence of good reason to the contrary, it would be a highly questionable use of judicial time to prepare a judgment on an issue which was no longer live between the parties to the case. On the other hand, where the judgment is complete, it could be said (perhaps with rather less force) that it would be a retrospective waste of judicial time and effort if the judgment was not given.
+
+76. The concerns of the parties to the litigation are obviously also relevant and sometimes very important. If, for their own legitimate interests, they do not wish (or one of them does not wish) a judgment to be given, that request should certainly be given weight by the court. (Of course, in some cases, the parties may request a judgment notwithstanding the fact that there is no longer an issue between them).
+
+77. Where there are competing arguments each way, the court will have to weigh up those arguments: in that connection, the reasons for any desire to avoid a judgment will be highly relevant when deciding what weight to give to that desire.”
+
+4.  Barclays Bank was adopted by the Supreme Court of Victoria in Clarke v Great Southern Finance Pty Ltd[2] and similar principles were applied by the Queensland Court of Appeal in Voss v Suncorp-Metway Limited (No.1).[3] Principles similar to those laid down in Barclays Bank, were also applied by the Supreme Court of New Zealand in Osborne v Auckland Council.[4]
+
+5.  We are satisfied that the principles set out in the citation from Barclays Bank at [3] above should be adopted in this jurisdiction in exercising the Court’s discretion whether or not to deliver judgment in an appeal notwithstanding the parties’ settlement.
+
+6.  The present case involves issues of law of general importance and, as was pointed out in argument, has attracted considerable public interest in Hong Kong and internationally.  The draft judgment was completed and in the final stages of preparation for handing down when the parties informed the Registrar of the impending settlement.  As will be seen in the reasons which follow, we are differing from the judgments appealed from and consider it necessary to correct certain erroneous propositions accepted below.  Publication of this judgment will not impinge on any issues regarding confidentiality or privacy as it does not go beyond the detailed account of the parties’ dealings set out in the judgments below.  The parties have not made any submissions indicating any opposition to the judgment being handed down.  For all these reasons, we consider that in the proper exercise of our discretion, we should hand down our judgment notwithstanding the settlement.
+
+A.     Introduction
+
+7.  This appeal arises out of claims made in respect of the administration of a trust established to hold the sole share of a private investment company which was used by the clients of a private bank to invest in various financial products.  The issues on appeal relate to the two heads of claim which succeeded below.  Those issues, raised by the appellants, who were the former trustees of the trust in question and the corporate services company which was the sole director of the private investment company through which the financial investments were made, relate to the bases on which the trial judge found liability established against them and on which he directed the assessment of equitable compensation, which were affirmed by the Court of Appeal.
+
+8.  The underlying facts are complicated and gave rise to litigation which the Judge described towards the end of his 378-page judgment as “complex, costly and prolonged” and we will in this judgment first provide a broad summary of the background before setting out some of the facts that may need to be examined in greater detail when addressing the issues raised.
+
+A.1   The parties and trust structure involved
+
+9.  The genesis of the trust arose from the introduction, in 2004, of Madam Ji Zhengrong (the 2nd plaintiff) (“Ji”) and her husband Zhang Hong Li (the 1st plaintiff) (“Zhang”) to DBS Bank (Hong Kong) Limited (the 1st defendant) (“DBS Bank”), the Hong Kong subsidiary of DBS Bank Limited of Singapore.  Ji and Zhang had concerns about the protection of family assets from inheritance tax and were interested in setting up a trust for that purpose.  The trust structure used by Zhang and Ji was DBS Bank’s most common trust structure and contemplated the use of a BVI company as the trust’s private investment company, with Ji acting as the company’s investment advisor.  The Judge, before whom Ji testified at trial, was impressed by her high level of sophistication and intelligence.
+
+10.  Prior to the establishment of the trust in January 2005, through the assistance of DBS Corporate Services (Hong Kong) Limited (the 3rd defendant) (“DBS Corporate”), Ji and Zhang procured the incorporation of Wise Lords Limited (the 4th plaintiff) (“Wise Lords”), a BVI company of which Ji was sole director and shareholder.  In the period from April 2004 until January 2005, with Ji as its sole signatory, Wise Lords made investments through a private banking account with DBS Bank.  Ji and Zhang injected funds into Wise Lords’ account with the private banking division of DBS Bank (“DBS:PB”) and Wise Lords invested in various mutual funds and other investment products, including currency linked notes called Yield Enhanced Deposits (“YEDs”).
+
+11.  Ji and Zhang established the trust at the heart of this case, called the Amsun Trust (“the Trust”), by a Trust Deed dated 4 January 2005, the terms of which will be addressed in greater detail in Section B below.  Ji and Zhang were the settlors of the Trust and the original trustee was DBS Trustee HK (Jersey) Limited (the 2nd defendant) (“DBS Trustee” or “the trustees”) and the beneficiaries were Ji, Zhang and their two minor sons, Anthony and Max.  It was intended that Ji would be the investment advisor of the Trust.
+
+12.  Upon the establishment of the Trust, the sole share in Wise Lords was transferred to DBS Trustee and, apart from the sum of USD10 settled on the Trust as its initial property, became the Trust’s sole asset.  In addition, Ji was replaced as the sole director of Wise Lords by DHJ Management Limited (the 4th defendant) (“DHJ Management”). By an Investment Advisor Agreement dated 4 January 2005, Wise Lords appointed Ji to be its investment advisor.  Also on that date, Ji and Zhang executed a Letter of Wishes in respect of the Trust and directed to DBS Trustee which included the request that, whilst Ji was alive, DBS Trustee “should always consult her in the first place with regards to all matters and her recommendation should be final.”  Further, by an Authorisation Letter dated 5 January 2005, DHJ Management granted authority to Ji to give investment instructions on behalf of Wise Lords.  These arrangements were consistent with Ji and Zhang’s contemplated trust structure.
+
+13.  The services provided by DBS Corporate were governed by a Services Agreement dated 13 September 2005, entered into between DBS Corporate, Wise Lords and DBS Trustee, under which DBS Corporate provided services including the provision of a Nominee Director for Wise Lords, company secretary services, a correspondence address and bank authorised signatories. It was pursuant to this agreement that DBS Trustee nominated DHJ Management to act as director of Wise Lords.
+
+14.  After the relationship between Ji and DBS Bank deteriorated leading to this litigation, Bruno Arboit (“Arboit”) and Roderick John Sutton (“Sutton”) (the 3rd plaintiffs) became the trustees of the Trust.
+
+15.  Liu Hiu Hong, Linda (the 7th defendant) (“Linda Liu”) was employed as a vice president and relationship manager in DBS:PB and was the principal contact person between DBS Bank and Ji.  Lim Leung Yau, Edwin (the 6th defendant) (“Edwin Lim”) was the executive head of DBS:PB.  Lee Kwok Tai, Peter (the 5th defendant) (“Peter Lee”) was the head of DBS Bank’s Trust and Corporate Services division, executive head of DBS Corporate Services and supervisor of DHJ Management.
+
+A.2   Wise Lords’ investments
+
+16.  From January 2005 to April 2008, under Ji’s direction, Wise Lords invested principally, and successfully, in mutual funds of shares in the PRC, achieving profits in each of the financial years to 31 March 2006, 2007 and 2008 respectively and generating overall profits in that period in excess of HKD132.6m (USD17m).
+
+17.  In December 2006, on the recommendation of Ji and Zhang, Wise Lords applied for and was granted a credit facility of HKD78m (USD10m).  Subsequently, Ji applied for increasing amounts of credit to be extended to Wise Lords to fund her investments through Wise Lords.  Through 15 progressive increases between January 2007 and July 2008, Wise Lords’ credit facility was raised from HKD78m (USD10m) to HKD780m (USD100m).  These credit facilities were used to fund the investments made by Wise Lords.  Its investment in mutual funds grew from USD25.87m as at 31 December 2006 to USD106.37m as at 31 October 2007.
+
+18.  From about October 2007, the investments in mutual funds began to show diminished returns and so, in 2008, the investment strategy switched by Ji from mutual funds into foreign exchange transactions focusing on the Australian dollar (“AUD”), Euros (“EUR”) and YEDs.  From the middle of 2008, Ji preferred a strategy of direct foreign exchange transactions rather than YEDs.  By utilising Wise Lords’ USD credit facility, Ji borrowed in USD to buy AUD or EUR in order to earn higher interest. The strategy was successful when AUD and EUR appreciated against the USD but involved the risk of loss if those currencies depreciated against the USD.  As at 18 August 2008, Wise Lords’ portfolio was concentrated to the extent of approximately 85% in foreign currency exposure (81% in AUD) and was leveraged to the extent of 272%, representing net assets of USD35.4m against borrowings of USD96.4m.  From time to time, Linda Liu and other employees of DBS:PB recommended to Ji diversification away from such heavy concentration in AUD, but these recommendations were not accepted and Ji persisted in accumulating AUD.
+
+19.  From late July 2008 through to August 2008, the AUD began to fall against the USD.  Ji was unwilling to sell Wise Lords’ AUD at a loss and Linda Liu introduced decumulators to Ji as an exit strategy, and she purchased three.  The decumulators involved making (in this case) a fixed deposit for one year in one currency (say AUD or EUR) maturing in equal weekly instalments with possible conversion into another currency (say USD) dependent upon the movement of exchange rates on the market and the level of “strike” and “knockout” rates agreed by the parties over the course of that year.  As a result of the continuing decline in the exchange rate of the AUD against the USD, the exchange rate fell below the rate at which USD would be received under the decumulators.  Instead, Wise Lords was left with AUD at a declining exchange rate and faced possible margin calls because of the leveraging of its investments.  To avoid these, in September 2008, at the height of the global financial crisis that year, Ji had to sell over AUD60m of Wise Lords’ AUD cash holdings for a significant loss.
+
+20.  The AUD exchange rate continued to fall in September and October 2008, resulting in DBS:PB issuing further margin calls to Wise Lords.  Eventually, by 14 November 2008, two of Wise Lords’ three decumulators, denominated in AUD, were unwound involving aggregated termination costs of AUD1.5m and a loss of approximately USD15m.  Wise Lords’ losses on its other decumulator, denominated in EUR, was approximately USD1.2m at this date.
+
+A.3   The proceedings
+
+21.  In December 2008, Ji and Zhang raised complaints through their solicitors claiming USD50m as losses caused by alleged breaches of duty by DBS Trustee and DBS:PB.  On 31 January 2011, Zhang, Ji, DBS Trustee and Arboit and Sutton entered into a Deed of Appointment Retirement and Indemnity by which Arboit and Sutton replaced DBS Trustee as the trustees of the Trust in February 2011.
+
+22.  The plaintiffs commenced the proceedings leading to this appeal[5] on 28 February 2011 asserting claims: against DBS Trustee for both dishonest and negligent breach of trust; against DBS Corporate and DHJ Management for both dishonest and negligent breach of fiduciary duty; against DBS Bank, Peter Lee, Edwin Lim and Linda Liu for dishonest assistance of the asserted breaches of trust and fiduciary duty.
+
+23.  Following a 24-day trial, Bharwaney J dismissed the plaintiffs’ claims against DBS Bank, DBS Corporate, Peter Lee, Edwin Lim and Linda Liu.  A cross-appeal by the plaintiffs to the Court of Appeal against the dismissal of those claims[6] was dismissed and a further application by the plaintiffs for leave to appeal to this Court was refused by the Appeal Committee.[7]
+
+24.  The Judge gave judgment for the plaintiffs against DBS Trustee and DHJ Management.  He held that DBS Trustee were liable to the plaintiffs for negligent breach of trust and that DHJ Management were liable to the plaintiffs for negligent breach of fiduciary duty on the same reasoning.  The basis on which the Judge found liability established will be further examined in Section B.1 below.  He ordered DBS Trustee to pay Arboit and Sutton equitable compensation for breach of trust and DHJ Management to pay Wise Lords equitable compensation for breach of fiduciary duty.  The basis and scope of the order to pay equitable compensation will be further considered in Section E below.
+
+25.  DBS Trustee and DHJ Management’s appeal against the judgment entered against them was dismissed by the Court of Appeal[8] as was their application to the Court of Appeal for leave to appeal to this Court.[9]  The basis on which the Court of Appeal found liability established will be further examined in Section B.2 below.  Leave to appeal to this Court was granted by the Appeal Committee by a Determination dated 26 April 2019.[10] The six questions for which leave to appeal was granted are set out in Section A.7 below.
+
+26.  The Judge also entered judgment for Arboit and Sutton against DBS Trustee in respect of various other claims.  He ordered DBS Trustee to repay to the Trust USD68,825 and GBP13,325 (being amounts wrongfully paid out from the Trust for charges which were unrelated to the administration of the Trust) and interest thereon.  He also ordered DBS Trustee to repay to the Trust USD1m (which the Judge held DBS Trustee had wrongfully retained as an indemnity pursuant to the Deed of Appointment Retirement and Indemnity) and interest thereon.  There was no appeal from the first instance judgment against those orders.
+
+A.4   The terms of the Trust Deed
+
+27.  The Trust Deed provided that the Trust was to be governed by Jersey law.  Relevant provisions of the 1984 Trust (Jersey) Law (“the 1984 Law”) are set out in Section A.5 below.
+
+28.  Relevant clauses of the Trust Deed provided as follows:
+
+(a)  Clauses 1 and 2 provided definitions of key terms and the declaration of the proper law of the Trust.
+
+(b)  Clauses 3 to 5 contained the declaration of trust over the Trust Fund which the Trustee was required to hold upon trusts over both the capital and income “for the benefit of ... the Beneficiaries” and which the Trustee was obliged to administer.
+
+(c)  Clauses 6 and 9 to 11 conferred the Trustee’s powers of appointment, advancement, addition and exclusion.
+
+(d)  Clauses 12, 13, 15 to 17, 22 and the First Schedule conferred various other specific trustee powers.
+
+(e)  Clause 14 required the Trustee to exercise the trust powers “for the benefit of all or any one or more of the Beneficiaries”.
+
+(f)  Clauses 19 and 20 provided for the release of an outgoing trustee from liability, except for liability in respect of: (a) any breach of trust arising from fraud, wilful misconduct or gross negligence; (b) any action to recover trust property in the possession of an outgoing trustee; or (c) any exercise of trust powers not made in good faith.
+
+A.5   Relevant provisions of Jersey Law
+
+29.  Evidence of Jersey law was adduced by the parties at trial.  The plaintiffs’ expert was Jonathan Speck (“Speck”) and the defendants’ expert was Professor Paul Matthews (“Matthews”). The experts agreed that the duties owed by DBS Trustee as original trustee of the Trust from 2005 to 2011 were the statutory duties set out in the 1984 Law, the key duties thereunder being:
+
+(a)  Subject to the 1984 Law, to “carry out and administer the trust in accordance with its terms” (Article 21(2));
+
+(b)  “Subject to the terms of the trust” and “so far as is reasonable”, to preserve and enhance the value of the trust property (Article 21(3));
+
+(c)  In the execution of its duties, and in the exercise of its powers, to act with due diligence, as would a prudent person, to the best of the trustee’s ability and skill, and to observe the utmost good faith (Article 21(1));[11]
+
+(d)  “Subject to the terms of the trust and subject to the trustee’s duties under this Law, a trustee shall in relation to the trust property have all the same powers as a natural person acting as the beneficial owner of such property” (Article 24(1));
+
+(e)  To exercise the trustee’s powers only in the interests of the beneficiaries and in accordance with the terms of the trust (Article 24(2)).
+
+30.  Article 30(10) of the 1984 Law provided:
+
+“Nothing in the terms of a trust shall relieve, release or exonerate a trustee from liability for breach of trust arising from the trustee’s own fraud, wilful misconduct or gross negligence.”
+
+A.6   The First Schedule to the Trust Deed
+
+31.  The First Schedule to the Trust Deed contained a number of provisions which qualified the provisions of the 1984 Law.
+
+32.  Paragraph 1 of the First Schedule provided:
+
+“Subject always to any provisions or restrictions expressly contained in this Settlement the Trustees shall in relation to the Trust Fund and in particular but without prejudice to the generality of the foregoing the investment of the Trust Fund have all the same powers as a natural person acting as the beneficial owner of such property and such powers shall not be restricted by any principle of construction or rule or requirement of the Proper Law of this Settlement save to the extent that such is obligatory but shall operate according to the widest generality of which the foregoing words are capable notwithstanding that certain powers are hereinafter more particularly set forth.”
+
+33.  Paragraph 2 of the First Schedule relevantly stated:
+
+“(a) The Trust Fund may be invested or laid out in the purchase of (or at interest upon the security of) such property whether involving liability or not and whether producing income or not or upon such personal credit with or without security as the Trustees shall in their absolute discretion think fit including the purchase erection and improvement of any property as a residence for any person and the purchase of chattels for the use of any person to the intent that the Trustees shall have the same full and unrestricted powers of investing and transposing investments and laying out moneys in all respects as if they were absolutely entitled thereto beneficially and without regard to the requirements of the Proper Law of this Settlement save to the extent that these are obligatory.
+
+(b) The acquisition of any investment of a speculative nature shall be deemed to be an authorised investment of the whole or any part of the Trust Fund.
+
+...
+
+(g) The Trustees shall be under no duty to diversify investments.
+
+...
+
+(j) In the exercise of the powers herein contained the Trustees shall not be under any duty to see that the value of the Trust Fund or any part thereof is preserved or enhanced in any way nor shall they be liable for any failure in those respects whatsoever.”
+
+34.  The First Schedule of the Trust Deed also contained provisions commonly referred to as anti-Bartlett provisions, so named since they are provisions intended to disapply duties elaborated in Bartlett and others v Barclays Bank Trust Co Ltd (Nos.1 and 2).[12]  These provisions were contained in paragraphs 4 and 5 of the First Schedule.
+
+(a)  Paragraph 4 (headed “Trustees Not Bound to Interfere in Business of Company in which Settlement is Interested”) stated:
+
+“(a) The Trustees shall not be under any duty nor shall they be bound to interfere in the business of any company in which this Settlement is interested and in particular:-
+
+(i) the Trustees shall not be under any duty to exercise any control the Trustees may have over or to interfere in or become involved in the administration management or conduct of the business or affairs of any company in which this Settlement is or may be interested whether or not this Settlement holds the whole or a substantial proportion of the shares carrying the control of the company and without prejudice to the generality of the foregoing the Trustees shall not be under any duty to exercise any voting powers or rights of representation or intervention conferred on the Trustees by any of the shares in respect of such company;
+
+(ii) the Trustees shall leave the administration management and conduct of the business and affairs of such company to the directors officers and other persons authorised to take part in the administration management or conduct thereof and the Trustees shall not be under any duty to supervise such directors officers or other persons so long as the Trustees do not have actual knowledge of any dishonesty relating to such business and affairs on the part of any of them; and
+
+(iii) the Trustees shall assume at all times that the administration management and conduct of the business and affairs of such company are being carried on competently honestly diligently and in the best interests of the Trustees in their capacity as shareholders or howsoever they are interested therein until such time as they shall have actual knowledge to the contrary and so that the Trustees shall not be under any duty at any time to take any steps at all to ascertain whether or not the assumptions contained in this sub-clause are correct.
+
+(b) Without prejudice to the generality of the foregoing, the Trustees shall be under no duty:-
+
+(i) to exercise any rights or powers (whether available to them as shareholders debenture holders or otherwise) enabling them to appoint or elect or to remove a director officer or other person authorised to take part in the administration management or conduct of the business or affairs of such company and in particular the Trustees shall not be under any duty to take any steps to see that any Trustee or any officer or nominee of the Trustees becomes a director or other officer of such company; or
+
+(ii) to exercise any power to require the payment of a dividend or other distribution of profit and whether of an income or capital nature.
+
+(c) No Beneficiary shall be entitled in any way whatsoever to compel control or forbid the exercise in any particular manner of any powers discretions or privileges (including any voting rights) conferred on the Trustees by reason of any shares or other rights of whatsoever nature in or over such company.
+
+(d) The Trustees shall not be liable in any way whatsoever for any loss to such company or the Trust Fund or the income thereof arising from any act or omission of the directors officers or other persons taking part (whether or not authorised) in the administration management and conduct of the business or affairs of such company (whether or not any such act or omission by any such foregoing persons shall be dishonest fraudulent negligent or otherwise).
+
+(e) Without prejudice to the generality of the foregoing the Trustees shall not be rendered responsible in any way whatsoever for any default or other act or omission by the directors officers or other persons referred to in paragraph (d) above by any express notice or intimation of such default or other act or omission and the Trustees shall not be obliged or required to make and enforce any claim in respect of such a default or other act or omission and no person who is or may become entitled hereunder shall be entitled to compel the making of such a claim but the Trustees may be required to lend their names for the purpose of proceedings brought by a Beneficiary in respect of any such default act or omission upon being given a full and sufficient indemnity against all costs and expenses of such proceedings.”
+
+35.  Paragraph 5 (headed “Trustees Not Bound to Obtain Information Regarding Company in which Settlement is Interested”) materially stated:
+
+“(a) The Trustees shall not be under any duty to obtain or to seek to obtain in any way whatsoever any information regarding the administration management or conduct of the business or affairs of any company in which this Settlement is or may be interested (although this Settlement holds the whole or a majority of the shares carrying the control of the company) from the persons involved in the administration management or conduct or from the shareholders or other persons interested therein or any other matter relating to such company.
+
+(b) The Trustees shall assume that such information as is supplied to them by any person relating to such company is accurate and truthful unless the Trustees have actual knowledge to the contrary and the Trustees shall not be under any duty at any time to take any steps at all to ascertain whether or not the information is accurate and truthful.
+
+...
+
+(d) The Trustees shall not be liable in any way whatsoever for any loss sustained by the Trust Fund or the income thereof arising from the Trustees not taking all or any possible steps to obtain any information referred to in paragraph (a) above or to verify the accuracy and truthfulness of such information as is supplied to the Trustees.
+
+...”
+
+A.7   The questions for which leave to appeal was granted
+
+36.  The first four questions (of the six) for which leave to appeal was granted by the Appeal Committee concern the effect of the anti-Bartlett provisions and the correctness of the Judge’s holding (affirmed by the Court of Appeal) that DBS Trustee were liable for breach of trust. Those questions are:
+
+(1) Question 1:
+
+“Does a trustee owe any duty to supervise the investment decision making of an investment adviser appointed by an underlying company and/or to review investment decisions made by such investment adviser where the terms of the trust contain extensive and mandatory ‘anti-Bartlett’ provisions which expressly forbid the trustee’s interference with the management of the Company save where it has actual knowledge of dishonesty?”
+
+(2) Question 2:
+
+“If so, what is the nature and extent of such a duty?”
+
+(3) Question 3:
+
+“Does the de facto assumption by a trustee of an undefined role of supervision in respect of investment decisions made by the investment adviser to the company, and/or the de facto assumption by a trustee of a role involving the after-the-event review and/or the giving of after-the-event approvals of investments make any difference to the analysis?”
+
+(4) Question 4:
+
+“Whether the Court is entitled to interpret and/or add a gloss to the evidence of an expert on foreign law in a manner which is inconsistent with the express terms of the document under consideration by the expert when an interpretation or meaning which is fully consistent with such terms is available to it. Alternatively, is the Court itself permitted, entitled or required to construe the document and come to its own conclusions as to the meaning of such express terms in order to enable it to properly interpret, give effective meaning and make findings based on such evidence.”
+
+37.  The fifth question for which leave to appeal was granted concerns the Judge’s holding (affirmed by the Court of Appeal) that DHJ Management were liable for breach of fiduciary duty:
+
+Question 5:
+
+“What is the appropriate standard which should be adopted to assess the conduct of a corporate director of a company which has properly delegated investment management and investment decision making to an investment adviser as its agent or delegate? Specifically in this case what was the position of the 4th Defendant (‘DHJ Management’) as such director with regard to the decision-making of the 2nd Plaintiff (‘Ji’) as investment adviser and DHJ Management’s delegate in relation to investment strategy and decision making, in light of such standard and, in particular, the exonerations and indemnities available to DHJ Management.”
+
+38.  The sixth question for which leave to appeal was granted concerns the relief ordered by the Judge (and affirmed by the Court of Appeal).
+
+Question 6:
+
+“What is the correct and/or appropriate formula for assessing equitable compensation in the light of the proper approach to assessing causation?”
+
+A.8   The issues in this appeal
+
+39.  The first five questions raise the issue of whether, notwithstanding the terms of the Trust, there was a “high level supervisory duty” on the part of DBS Trustee and a like fiduciary duty on the part of DHJ Management, as held by the Judge and affirmed by the Court of Appeal.  If so, the question arises as to whether the Judge and Court of Appeal were correct to hold that DBS Trustee and DHJ Management were each in breach of their respective duties.
+
+40.  The sixth question raises the issue of the proper approach to equitable compensation in the event that the judgments below in respect of duty and breach are upheld.  Leave to appeal was also granted on the “or otherwise” ground in respect of the question whether it was right for the Judge to have determined which of the transactions were to be included or excluded in the computation of equitable compensation before according DBS Trustee and DHJ Management the opportunity to address the court on the causal connection (or lack thereof) between the breach of trust or fiduciary duty and the loss arising from the transactions.
+
+B.     Did DBS Trustee and DHJ Management owe the supervisory duties found by the courts below?
+
+B.1   The Judge’s approach to the duties
+
+41.  The Judge found that the trustees had committed breaches of trust in that (i) they ought to have queried and not given approval for the further purchases by Wise Lords of USD83m worth of AUD from 25 July 2008 to 5 August 2008;[13] (ii) they wrongly approved the increase of Wise Lords’ credit facility to USD100m at the end of August 2008;[14] and (iii) they wrongly approved its purchase of the three decumulators on 18, 27 and 29 August 2008 respectively.[15]  These were said to be breaches of the trustees’ “high level supervisory duty” over Wise Lords’ investments and also breaches of “their duty to act with due diligence, to act as would a prudent person, to act to the best of his ability and skill, and to act only in the interests of the beneficiaries”.  In acting or omitting to act as they did, the trustees were found to have behaved in a “flagrantly negligent” manner. 
+
+42.  Before exploring the legal basis for the Judge’s conclusions, it should be noted that the judgment does not clearly state what his Lordship considered to be the objectionable features of the three transactions so as to make their approvals grossly negligent breaches of trust. 
+
+(a)  The fact that DBS Bank was willing to increase Wise Lords’ credit facility to USD100m is not, on its face, a bad thing.  It certainly does not constitute a loss to the trust fund.  Previously, towards the end of May 2008, the facility had been increased to USD58m (HKD450m), approved by the trustees on 4 June 2008, but no complaint is made about the grant of that facility.  While one might wish to ask how the increased facility is intended to be used, it is hard to see how approval of such an increase in itself merits description as a breach of trust, let alone a flagrantly negligent breach of trust. 
+
+(b) Similarly, the Judge does not make it clear why he considered approval of Wise Lords’ purchase of an additional USD83m worth of AUD from 25 July 2008 to 5 August 2008 to be a grossly negligent breach of trust.  One can of course see that such a purchase might be said to involve the risk of heavy concentration in a single currency against the background of a developing global financial crisis and a downward trend in the value of the AUD.  But the Judge is not explicit in his criticism.  Buying a foreign currency in a downward trend in anticipation of a rebound may be speculative, but it is hard to see how it constitutes flagrantly negligent conduct even leaving aside for now the anti-Bartlett provisions which authorise speculative and non-diversified investments.  Ji had deliberately ignored many warnings about lack of diversification and her previous experience had led her to bet on the strength of the AUD against the USD.   For instance, on 24 June 2008, a month before the start of the period of purchases complained of, Kenneth Cheung, vice-president of the investment advisory team of DBS:PB:
+
+“... told Ji that AUD was at a record high level and noted that Ji had purchased a lot of AUD. He asked Ji if she wanted to sell. Kenneth Cheung also suggested that Ji could sell half of her 43 million AUD holding and take profit, and alerted Ji to the risk of a possible USD rebound and a fall of the AUD. However, Ji said she would not do anything with the AUD.”[16]
+
+Thus, AUD purchases were evidently investments which could have been profitably realised at that stage.  On 18 July 2008, Ji was pressing the Bank to increase her credit limit because she was anxious to purchase more AUD and EUR as they fell in the exchange rates.[17]
+
+(c)  Similarly, it is hard to conclude that approving purchase of the three decumulators was a grossly negligent breach of trust. They were acquired in response to Ji’s unwillingness, in the face of repeated warnings by the Bank against over-concentration, to sell off any part of Wise Lords’ AUD holdings at anything less than breakeven point.[18]  The decumulators were purchased as a possible means of liquidating part of Wise Lords’ AUD holdings at a more favourable rate of exchange against the USD.  Whether that could be achieved depended on how the market would move in relation to the “knockout” rate agreed upon.  The investment undoubtedly involved a risk since the AUD deposited for the purposes of the decumulators would be locked up for a year to be released only in weekly instalments with the possibility of losses due to further deterioration in the value of AUD.  But at the same time, there was a possible gain if released instalments could be converted to USD at a higher than market rate. 
+
+43.  Hints or indications of the grounds of the Judge’s disapproval can be found along the following lines. 
+
+(a)  In relation to the AUD83m purchases, his Lordship states that the trustees “ought to have queried and not given approval” and that approval “is not something which a trustee, complying with the duty to act prudently, could reasonably have done”.[19] In the earlier paragraphs referred to in support,[20] he describes the purchases of AUD as occurring “against a backdrop of substantial market nervousness created by the sub-prime crisis”.[21]  The implication is therefore that the trustees ought to have disapproved of the purchases as “imprudent”, presumably because they should have been considered too speculative and entailed the risk of over-concentration in AUD in a “nervous” market.
+
+(b) The criticisms of the credit facility increase and the decumulator purchases are to similar effect.  The charge that approvals of those transactions are “not something which a trustee, complying with the duty to act prudently, could reasonably have done” is repeated.  While it is less easy to see why approving Wise Lords’ acceptance of an increased credit facility was imprudent, one may assume that the decumulators were disapproved of as presenting a risk of being “locked up” in AUD for a lengthy period and thus unable to react to a sharp depreciation in the currency’s value (at least, without paying the financial penalties eventually paid to unwind the transactions)[22].
+
+44.  One may therefore proceed on the basis that the Judge held the approvals to be breaches of trust because they involved approving speculative and risky investments by Wise Lords constituting a breach of a duty to supervise (at a “high level”, whatever that might mean) Wise Lords’ investments, such breach being characterised as “flagrantly negligent”. It is, incidentally, noteworthy that the criticised approvals were in each case sought from and given by DBS Trustee after the transactions in question had already been effected on Wise Lords’ behalf at Ji’s instigation – a feature which somewhat colours the suggestion that such “approvals” were imprudent.
+
+45.  In any event, to conclude, as a matter of law, that the “high level supervisory duty” existed is in our view plainly inconsistent with the anti-Bartlett provisions. 
+
+(a)  The basic duty of the trustees was (subject to statutory requirements) to carry out and administer the trust in accordance with its terms.[23] It is difficult to see how a “high level supervisory duty” over Wise Lords’ investments, allegedly manifested as a duty to disapprove the three transactions in question, can have been imposed on the trustees given that in the Trust Deed: (i) paragraph 4(a)(i) of the First Schedule[24] expressly relieves them of any duty to exercise control or interfere or become involved with the management or conduct of the investment company’s business (whether qua shareholder or otherwise); and (ii) paragraph 4(a)(ii) thereof stipulates that the trustees “shall leave the administration management and conduct of the business and affairs of [Wise Lords] to the directors officers and other persons authorised to take part in the administration management or conduct thereof [i.e. Ji]”, going on expressly to relieve them of any duty to supervise such directors officers or other persons “so long as the Trustees do not have actual knowledge of any dishonesty relating to such business and affairs” on the part of those having conduct of the same.  No such actual knowledge arises in this case.
+
+(b) The displacement of any supervisory duty is reinforced by paragraph 4(iii) of the First Schedule which requires the trustees to “assume at all times” that the business is being “carried on competently honestly diligently and in the best interests of the Trustees in their capacity as shareholders or howsoever they are interested therein until such time as they shall have actual knowledge to the contrary”, relieving them of any duty to take steps to see whether those assumptions are correct.  Again, no such knowledge arises in the present case.
+
+(c)  Furthermore, paragraph 5 of the First Schedule expressly relieves the trustees of any duty to seek or obtain information regarding management or conduct of the business and authorises them to assume that any information received is accurate unless they have actual knowledge to the contrary.
+
+(d) The Judge records without dissent that Matthews opined:
+
+“... that the duty of a trustee to obtain information about the affairs of a company in which the trust was interested as shareholder so as to enable it to make an informed decision whether to take any action for the protection of trust property in this case was modified or excluded by clauses 4 and 5 of the First Schedule. Clause 4 released the trustee from any obligation to interfere in the business of such a company, and clause 5 relieved it from any obligation to obtain information regarding such a company.”[25]
+
+(e)  In the light of the express terms of the trust, endorsed as effective by both Jersey law experts, it is hard to see how there was any room for the existence of any “high level supervisory duty” which would require the trustees to query and disapprove of the transactions entered into by Wise Lords, thereby obviously interfering with Ji’s management of the company’s investment business which she had been duly authorised to conduct pursuant to the Investment Advisor Agreement dated 4 January 2005.[26]
+
+(f)  Even if, upon examination of the relevant investments, one were to consider them speculative and over-concentrated in AUD, paragraph 2(b) of the First Schedule deems speculative investments to be authorised and relieves the trustees of any duty to diversify the trust fund’s investments.  It also relieves them of any duty “to see that the value of the Trust Fund or any part thereof is preserved or enhanced in any way”, going on to exempt them from liability “for any failure in those respects whatsoever”.
+
+46.  In various parts of his judgment, the Judge points out that in practice, approval of certain transactions was routinely sought from and given by the trustees, generally after the event.  This is a matter to which we return below.[27] But in the context of the Judge’s approach, it suffices to note that his Lordship does not provide any legal basis for contending that after-the-event approvals given routinely and formulaically as a matter of practice were transformed into a duty on the part of the trustees to exercise “high level supervision” over Wise Lords’ investments, contrary to the terms of the anti-Bartlett provisions.  Nor does he provide a basis for finding that DHJ Management were subject to such a supervisory duty owed as a fiduciary duty to Wise Lords qua director. 
+
+47.  It may be that the Judge thought that the high level supervisory duty represents a non-derogable duty under the 1984 Law, and in particular under Art 21 since he states[28] that the trustees were under a duty “to act honestly and in good faith, with due diligence, as would a prudent person, to the best of their ability and skill, only in the interests of the beneficiaries, and in accordance with the terms of the trust, and not in a grossly negligent manner” using language which rolls up and tracks in part Art 21(1) and (2). He uses similar language in finding a breach, holding that failure to discharge the high level supervisory duty “constituted a breach of their duty to act with due diligence, to act as would a prudent person, to act to the best of his ability and skill, and to act only in the interests of the beneficiaries”.[29]
+
+48.  We are unable to accept that Art 21 provides a viable basis for the “high level supervisory duty” purportedly imposed on the trustees.  With respect, the Judge erroneously fails to note that Art 21(1) begins with the words: “A trustee shall in the execution of his or her duties and in the exercise of his or her powers and discretions [act with due diligence, etc]”.  The point is that the requirement that trustees “act with due diligence, as would a prudent person, to the best of the trustee’s ability and skill; and observe the utmost good faith” operates to lay down the standards which trustees must adhere to in executing their duties or in exercising their powers.  It does not create free standing duties to act prudently, etc.  One must first identify the duty or power executed or exercised and then assess whether the trustees have executed or exercised the same in accordance with the specified standards or whether, on the other hand, their conduct was improper or so deficient as to constitute a breach of trust.  Accordingly, if taking into account the effect of the anti-Bartlett provisions, any potentially relevant duty has been disapplied (so that, for instance, there is no duty to interfere or supervise management or to avoid speculative or non-diversified investments, or to preserve or enhance the value of the trust fund) the standards laid down by Art 21(1) do not come into play. 
+
+49.  The Judge appears to have lost sight of this and based his finding of breach of trust on a postulated general duty to act prudently.  Thus, he held that approving the three transactions was “not something which a trustee, complying with the duty to act prudently, could reasonably have done” and that “in approving the increased credit facility at the end of August 2008, DBS Trustee acted in a negligent manner and that their degree of negligence was a serious or flagrant degree of negligence”.[30]  Unless DBS Trustee were under a duty as trustee to refuse approval in the execution of their duty or the exercise of their powers and discretions, the question of whether and to what extent granting approval (after the event) was negligent did not arise.
+
+50.  It is perhaps appropriate to add that the Judge may have been misled by the fact that, from the outset of the trial it was specifically conceded on behalf of the appellants that they had “a high-level, supervisory role in monitoring the overall performance of Wise Lords”[31], a rather imprecise and potentially misleading formulation of the functions of the trustees. The notion of a high-level supervisory role was adopted by the Judge in his judgment[32], but unfortunately he then went on to convert this “role” into a “high-level supervisory duty”[33]. He then held that this duty was breached by the appellants failing to challenge the purchase of the AUD and the decumulators[34], without apparently addressing the point that such a duty had been expressly excluded by the anti-Bartlett provisions, and would actually involve the trustees breaching the first part of paragraph 4(a)(ii) of the First Schedule to the Trust Deed[35].
+
+51.  There is accordingly in our view no sustainable basis for the high level supervisory duties found by the Judge to have been imposed on DBS Trustee.
+
+52.  His Lordship also found DHJ Management to be in breach of its fiduciary duties as director of Wise Lords by approving the same three transactions, holding that such approvals constituted a failure to discharge their duties “to act in the best interests of the company and to exercise reasonable care, skill and diligence in the performance of their functions and their management of the company’s affairs”, and holding likewise “that DHJ Management acted in a negligent manner and that their degree of negligence was a serious or flagrant degree of negligence.”[36]  It was on that basis that he held that Clauses 3(a) and 7 of the Services Agreement dated 13 September 2005 which provide for exemptions and indemnities except “in the case of gross negligence of the Nominees [including DHJ Management]” were of no avail.[37]  We return to this issue in our discussion of breach in Section C below.
+
+B.2   The Court of Appeal’s approach to the duties
+
+53.  Cheung JA (who gave the main judgment) accepted that the trustees were not under any free-standing duty “not to act grossly negligently”.  However, he upheld the Judge’s ruling that they were subject to a high level supervisory duty which had been breached when approvals were given to the three transactions.[38]
+
+54.  While Cheung JA also accepted that the anti-Bartlett provisions in paragraphs 4 and 5 of the First Schedule “are effective to exclude the obligations to which they refer”, he held that they do not exclude the “residual obligation” referred to by Matthews at paragraphs 87 and 88 of his expert report[39] and based the liability of the trustees on that “residual obligation” which his Lordship equated with the high level supervisory duty found by the Judge to exist.[40]
+
+55.  The relevant paragraphs in Matthews’ report state as follows:
+
+87.  The caselaw obligations of a sole trustee (such as the second Defendant was) of a Jersey law trust with more than one beneficiary (such as the Amsun trust is) include the duty to obtain sufficient information about the affairs of a company in which it is interested as shareholder so as to enable it to make an informed decision whether to take any action for the protection of the trust property.  But in Jersey this duty is an aspect of the statutory duty contained in article 21(3) of the 1984 Law, considered above.  And in practice such duty is commonly modified or excluded by express provision in the trust instrument, as indeed it was in this case, by clauses 4 and 5 of the First Schedule.  Clause 4 released the trustee from any obligation to interfere in the business of such a company, and clause 5 relieved it from any obligation to obtain information regarding such a company.
+
+88.  In my opinion, given that the source of this caselaw duty is ultimately the statutory duty in article 21(3), and that duty is expressly made subject to the terms of the trust, these clauses are effective in Jersey law to exclude the obligations to which they refer.  But there is a residual obligation cast on the trustee which these clauses do not exclude.  The trustee as such trustee has in relation to the trust property all the powers of a natural person acting as the beneficial owner of such property.  Although the trustee has no obligation to interfere in the business of the company, and no obligation to obtain information regarding the company, it still has a power to do so, because it is a member of the company.  If circumstances were to arise where no reasonable trustee could lawfully refrain from exercising those powers, a failure to do so in such a case would amount to a breach of trust.  It is true that clauses 4(d) and 5(d) purport to exclude liability for losses sustained in certain circumstances, but these clauses are of course subject to the statutory limits on trustee exemption clauses, set out in article 30(10) of the 1984 Law.  This provision in effect renders an exemption clause ineffective to the extent that it purports to relieve a trustee for liability for gross negligence breach of trust, or for anything more serious.”
+
+56.  As Cheung JA noted,[41] there is a footnote to the phrase “If circumstances were to arise where no reasonable trustee could lawfully refrain from exercising those powers......” which states:
+
+“Such as where the trustee was informed by a credible source that the directors of the company were stealing its assets”.
+
+57.  Much depends on how one understands paragraphs 87 and 88 of the report and in particular, what Matthews meant by the “residual obligation” which he says is not excluded by the anti-Bartlett provisions in question.
+
+58.  Those provisions, contained in paragraph 4 of the First Schedule (“Trustees Not Bound to Interfere in Business of Company in which Settlement is Interested”) and in paragraph 5 thereof (“Trustees Not Bound to Obtain Information Regarding Company in which Settlement is Interested”), are set out in Section A.6 above.
+
+59.  In the aforesaid paragraphs of his report, Matthews endorses the effectiveness of those anti-Bartlett provisions, stating:
+
+“Clause 4 released the trustee from any obligation to interfere in the business of such a company, and clause 5 relieved it from any obligation to obtain information regarding such a company.” (paragraph 87)
+
+“In my opinion, given that the source of this caselaw duty is ultimately the statutory duty in article 21(3), and that duty is expressly made subject to the terms of the trust, these clauses are effective in Jersey law to exclude the obligations to which they refer.” (paragraph 88)
+
+60.  Accordingly, given that they are effective to relieve the trustees from any obligation to interfere with the business and any obligation to obtain information about the company, it would seem somewhat self-contradictory if Matthews were to be understood as saying simultaneously that the provisions are nonetheless ineffective should circumstances arise “where no reasonable trustee could lawfully refrain from exercising those powers [otherwise excluded]”.  A legal basis has to be found to explain why any such “residual obligation” is not subject to the disapplication by the anti-Bartlett provisions.
+
+61.  One possible reading which avoids self-contradiction involves focussing on Matthews’ statement that “these clauses are effective in Jersey law to exclude the obligations to which they refer”, immediately followed by him adding: “But there is a residual obligation cast on the trustee which these clauses do not exclude”.  Matthews could be understood simply to be recognising that paragraphs 4 and 5 do not entirely exclude the trustees’ obligation to interfere or to seek information.  They are required to interfere in the conduct of the company’s business if they “have actual knowledge of any dishonesty relating to such business and affairs on the part of any of them”.[42]  In other words, while paragraphs 4 and 5 are effective in excluding the obligations to which they refer, they preserve an obligation to interfere and seek information in cases where the trustees acquire actual knowledge of dishonesty.  It is in that sense that such obligation is “residual”.  This reading is supported by the content of the footnote which instances as a situation in which such a residual obligation arises (described as involving circumstances “where no reasonable trustee could lawfully refrain from exercising those powers”) a situation where the trustees are informed by a credible source that the directors are stealing the company’s assets.  This is an instance involving dishonesty on the part of the directors relating to the company’s business and affairs. 
+
+62.  Matthews goes on to explain that trustees do not lack power to interfere since they have all the powers of a natural person who beneficially owns the trust asset,[43] which would include power to interfere with the company’s management as a member of the company.  On this reading, the power is translated into a residual obligation to act in cases involving actual knowledge of dishonesty not covered by the anti-Bartlett provisions.  So understood, Matthews is not straying outside the four corners of the Trust Deed in asserting the existence of a “residual obligation”.  And on this understanding, Matthews’s residual obligation does not provide any basis for the “high level supervisory duty” relied on by the respondents.
+
+63.  While the foregoing understanding of Matthews’ report is desirable, having the advantage of avoiding possible self-contradiction, it might well be said to be somewhat laboured.  The comment may fairly be made that Matthews could simply have said that the anti-Bartlett provisions preserve an obligation to interfere where there is actual knowledge of dishonesty rather than referring to a power which has to be exercised in circumstances where “no reasonable trustee could lawfully refrain from exercising those powers”, which words do not appear to be confined to situations where the trustees gain actual knowledge of dishonesty.
+
+64.  But adopting the reading proposed by the Court of Appeal is even more difficult as it entails accepting that Matthews was intending to advocate the existence of a broad implied residual obligation arising outside of, and contradicting or overriding, the express anti-Bartlett provisions held by both experts to be valid under Jersey law.  No authority is cited for such an obligation and it is difficult to see any principle which justifies its existence and, as mentioned, it would be inconsistent with Matthews’ earlier statement.[44] Anti-Bartlett provisions are generally incorporated in the Trust Deed in cases like the present because the parties wish to enable the settlor or the settlor’s nominee freely to exercise control and management of the underlying company, especially regarding matters such as its investment decisions, and to relieve the trustees of any management or supervisory duties in that regard (save where extreme situations such as those involving actual knowledge of dishonesty might arise).  To postulate that the parties’ chosen scheme may be overridden by some implied, non-derogable external duty arising in circumstances “where no reasonable trustee could refrain from exercising otherwise excluded powers” would be to introduce an amorphous and ill-defined basis for undermining a legitimate arrangement consciously adopted by the parties, exposing the trustees to unanticipated risks of liability and sowing confusion as to the extent of their duties.
+
+65.  It is important to note that the residual obligation referred to by Matthews is not to be equated with the “irreducible core of obligations” which are “fundamental to the concept of a trust” recognised by Millett LJ in Armitage v Nurse.[45]  As a matter of English law, those irreducible core obligations consist of “[t]he duty of the trustees to perform the trusts honestly and in good faith for the benefit of the beneficiaries” and do not include “the duties of skill and care, prudence and diligence”.  They do not posit some broad duty to exercise available powers in circumstances “where no reasonable trustee could lawfully refrain from exercising those powers”.  They do not operate to override express terms of a trust.  They provide a touchstone for deciding whether the minimum requirements for constituting a trust have been met.
+
+66.  Despite the contrary arguments accepted by Cheung JA, we prefer a non-contradictory reading of the relevant paragraphs of Matthews’ report which accords with orthodox principles of trust law.  In asserting the existence of a residual obligation, he was not seeking to go outside the terms of the Trust Deed but merely referring to the areas not covered by the anti-Bartlett provisions which are accepted by both experts to be effective.   He was, in particular, not saying that there was some implied, peremptory, free-standing “high level supervisory duty” that came into being as an obligation that could not be excluded by the express terms of the Trust Deed.
+
+67.  Accordingly, with respect, we do not agree with Cheung JA’s analysis and hold that there is no basis for equating the “high level supervisory duty” found by the Judge with any purported residual obligation. 
+
+68.  For completeness, we note that the latter part of Matthews’ paragraph 88 deals with a subsequent question, namely, whether given the apparently absolute exemptions from liability provided by Clauses 4(d) and 5(d) of the First Schedule, the trustees might in any event be relieved of the “residual obligation” under discussion.  Matthews points out in this context that Art 30(10) of the 1984 Law “renders an exemption clause ineffective to the extent that it purports to relieve a trustee for liability for gross negligence breach of trust, or for anything more serious”, limiting the scope of the exemption clauses.  No issue arises in the present appeal concerning the application of any exculpatory clause, whether in the First Schedule or the 1984 Law.
+
+69.  Madam Justice Yuen JA concurred with Cheung JA[46] and evidently equated the “high level supervisory role” accepted by the trustees with a failure to discharge the “residual obligation” referred to by Matthews.[47]  Her Ladyship considered the aforesaid investments unsuitable for a discretionary trust with beneficiaries including minor children so that the trustees “could (and should) have called a halt”.[48] She did not, however, discuss the effect of the anti-Bartlett provisions in this context.
+
+70.  The Court of Appeal dealt with DHJ Management on the basis that they were in the same position as the trustees.[49]  For the reasons already given in relation to DBS Trustees, there is no basis for treating DHJ Management as being subject to the same “high level supervisory duty” arising from the purported residual obligation.  The only basis upon which DHJ Management could have been held liable was if it could be shown to have failed in its duties as a director of Wise Lords, and that that breach of duty amounted to gross negligence. 
+
+B.3   The argument as to the duties advanced on this appeal
+
+71.  The argument advanced by Mr Barlow SC[50] to justify the Judge’s conclusion that the trustees had acted in breach of trust by approving the three transactions was quite distinct from the arguments accepted by the Judge and the Court of Appeal.
+
+72.  Counsel argued (i) that the trustees had all the powers of a natural person acting as the beneficial owner of the trust assets;[51] (ii) even though the anti-Bartlett provisions may effectively have disapplied any relevant duties, that if the trustees chose to exercise any of their powers, they came under a non-derogable “obligation” under Art 21(1), to act with due diligence, as would a prudent person, to the best of the trustee’s ability and skill; and to observe the utmost good faith; (iii) that the trustees had in fact chosen to exercise their power to supervise by approving individual investments and had assumed the role of “ultimate decision-makers” regarding Wise Lords’ investments; and (iv) that in so doing they were bound to act in accordance with Art 21(1) but had in fact acted with gross negligence in approving the three impugned transactions and so were liable for breach of trust.
+
+73.  At the centre of this argument is the proposition that by choosing to exercise the supervisory power of approving Wise Lords’ investments, the trustees subjected themselves to the non-derogable obligations laid down by Art 21(1) of the 1984 Law, providing the basis for their liability for breach of trust.  As we have seen, Bharwaney J’s approach was different, his Lordship having treated the “high level supervisory duty” as arising pursuant to a free-standing obligation to act prudently and without gross negligence.  The Court of Appeal also adopted a different approach premised on the existence of an external “residual obligation” identified by Matthews, requiring trustees to exercise available powers in circumstances where no reasonable trustee could refrain from acting.  Mr Barlow’s argument was simply that if trustees in fact assumed a power to supervise Wise Lords’ investments, they had to exercise it in accordance with the standards laid down by Art 21(1) and were liable for breach of trust if they fell short.  It was on this basis that he sought to uphold the existence of the “high level supervisory duty” found to exist by the courts below.  Like the other versions of the duty, it was an unpleaded case and was never put to the Jersey law experts (who did not give oral evidence).  For the reasons which follow, we do not accept the argument advanced.
+
+74.  The first objection to that argument is factual.  As found by the Judge, DBS Trustee did not provide investment or portfolio management services.[52] Since the evidence makes it clear that in every case, the so-called “approvals” took place after the relevant transactions had been fully executed, it is untenable to allege, as Mr Barlow did, that the trustees had exercised a power to supervise and had in fact assumed the role of controllers and ultimate decision-makers regarding Wise Lords’ investments.  That role and those decisions were taken by Ji as Wise Lords’ investment adviser and not by the trustees.  Such “approvals” as the trustees gave did not amount to a meaningful form of supervision.  The transactions were reported to them after the event and DBS Trustee’s so-called “approvals” represented merely a franking or acknowledgement of the information received.  In no real sense can they be said to have assumed “control” of the conduct of Wise Lords’ investment business by exercising a power of supervision in respect thereof.  Control over the possible undoing of any transaction after the event was also exercised by Ji and not the trustees.  As we have seen, it was her decision to invest heavily in AUD and she consistently resisted all suggestions that Wise Lords’ AUD holdings be reduced given the risks identified.  And it was Ji and not the trustees who eventually adopted the strategy of acquiring the decumulators as the means chosen for divesting Wise Lords of that currency, involving one of the very transactions complained of. 
+
+75.  The second objection to Mr Barlow’s argument concerns the effect of the anti-Bartlett provisions.  Counsel’s argument is premised on the trustees enjoying the very wide powers conferred by the beneficial owner clause in paragraph 1 of the First Schedule[53] which he then seeks to translate into a non-derogable duty.  It is true that in general, such powers are potentially very wide.  However, the powers conferred by paragraph 1 are expressly “[s]ubject always to any provisions or restrictions expressly contained in this Settlement” and it is clear that the parties to the Trust Deed intended that the trustees’ powers should be narrowly confined in one particular area, namely, in connection with the conduct of the investment business of the company in which the settlement is interested (i.e. Wise Lords). 
+
+76.  Thus, paragraph 4(a) of the First Schedule (which we have examined above) not only relieves the trustees of a duty to interfere in the company’s business in the absence of actual knowledge of dishonesty, it stipulates in imperative terms that “... the Trustees shall leave the administration management and conduct of the business and affairs of such company to the directors officers and other persons authorised to take part in the administration management or conduct thereof ...”.[54]  To emphasise the point, the trustees are then told[55] that they “shall assume at all times that the administration management and conduct of the business and affairs of such company are being carried on competently honestly diligently and in the best interests of the Trustees in their capacity as shareholders or howsoever they are interested therein until such time as they shall have actual knowledge to the contrary ...”.  They are relieved of any duty “at any time to take any steps at all to ascertain whether or not the assumptions contained in this sub-clause are correct”.
+
+77.  As pointed out by Ms Warnock-Smith QC,[56] the trustees are thus consistently being told to keep their noses out of the company’s business and to leave those having conduct of the same free to manage it without interference.  They are accordingly relieved of “any duty to obtain or to seek to obtain in any way whatsoever any information regarding the administration management or conduct of the business or affairs of any company in which this Settlement is or may be interested”[57] and are enjoined to “assume that such information as is supplied to them by any person relating to such company is accurate and truthful unless the Trustees have actual knowledge to the contrary”[58].  They are told that they “shall not be under any duty at any time to take any steps at all to ascertain whether or not the information is accurate and truthful”[59]. 
+
+78.  Wise Lords’ business is of course that of investment.  And, as we have seen, paragraph 2(b) and (g) of the First Schedule authorise the making of speculative and non-diversified investments.  Of direct present relevance is paragraph (j) which states that:
+
+“In the exercise of the powers herein contained the Trustees shall not be under any duty to see that the value of the Trust Fund or any part thereof is preserved or enhanced in any way nor shall they be liable for any failure in those respects whatsoever.”
+
+79.  The effect of these provisions of the Trust Deed and its First Schedule is thus to restrict the power of the trustees to interfere in the conduct or management of Wise Lords’ investment business.  The second objection to Mr Barlow’s argument is therefore that it fails to recognise that the powers which he contends have been exercised to interfere in the conduct of Wise Lords’ business were, on their true construction, unavailable to the trustees.  Their conduct in receiving and “approving” the investments after they had been made did not constitute the exercise of a power of supervision whether factually or as a matter of law.
+
+80.  The consequence of the two abovementioned objections is that the respondents’ reliance on the non-derogable provisions of Art 21(1) is wholly undermined.  Art 21(1) states as follows:
+
+“21 Duties of trustee
+
+(1) A trustee shall in the execution of his or her duties and in the exercise of his or her powers and discretions –
+
+(a) act –
+
+(i) with due diligence,
+
+(ii) as would a prudent person,
+
+(iii) to the best of the trustee’s ability and skill; and
+
+(b) observe the utmost good faith.”
+
+81.  As we have pointed out,[60] Art 21(1) lays down standards which trustees must adhere to in executing their duties or exercising their powers and does not create free-standing duties to act prudently, etc.  Its operation therefore requires there first to be an applicable duty or power which is in fact executed or exercised by the trustees.  Only then does one proceed to assess whether the trustees duly met those standards or whether, instead, they acted in bad faith or in a grossly negligently manner so as to constitute a breach of trust.  The respondents are unable to establish a threshold case based on Art 21(1). 
+
+82.  Mr Barlow’s argument relies on a power as opposed to a duty as the basis for a claim of breach of trust.  The argument is aimed at circumventing the anti-Bartlett provisions in paragraphs 4 and 5 of the First Schedule which relieve the trustees, inter alia, of any duty to interfere in or supervise Wise Lords’ business.  It aims to advance a claim for breach of trust without reference to any breach of “duty”.  
+
+83.  However, as Art 1 of the 1984 Law stipulates, to constitute a “breach of trust” there must be “a breach of [a] duty imposed on a trustee by this Law or by the terms of the trust”.  Thus, for the exercise of a power to constitute a breach of trust, such exercise must occur in such an improper or deficient manner as to amount to violation of a duty on the part of the trustee.  What starts off as a deficient exercise of a power must attain the status of a breach of duty if it is to found the equitable claim.  Thus, on a proper analysis, the anti-Bartlett provisions cannot be avoided simply by asserting that the complaint relates to a grossly negligent exercise of a power.  It must necessarily be a claim for breach of a duty which in substance is one which is disapplied by the anti-Bartlett provisions.  Art 21(1) is thus deprived of any impact since there is no applicable duty on which the Article’s non-derogable provisions can bite.
+
+84.  As for DHJ Management, Mr Barlow’s argument that they had a “high level supervisory duty” is untenable for the reason given in [74] above, namely that they did not exercise any powers of supervision over Wise Lords’ investments or the portfolio generally, and no other basis has been advanced to justify such a high level duty on the part of DHJ Management. Accordingly, it is unnecessary to address Question 5 any further.
+
+B.4   Conclusion as to the duties
+
+85.  For the foregoing reasons we conclude that there is no basis for the existence of the “high level supervisory duty” accepted in the courts below and advocated on this appeal.  That is decisive of this appeal.  However, since issues have been debated as to whether the alleged duties were breached and if so, what is the proper approach to equitable compensation, we shall touch briefly on those matters.
+
+C.     Were there breaches of applicable duties?
+
+86.  It has throughout been correctly accepted by the respondents that to succeed, their claim based on breach by the trustees of the alleged high level supervisory duty by approving the three transactions had to involve proof of gross negligence on the trustees’ part.  This is because exculpatory clauses such as Clauses 19 and 20 of the Trust Deed would protect the trustees from liability for any acts or omission falling short of fraud, wilful misconduct or gross negligence.  Art 30(10) of the 1984 Law is to like effect.  And in the case of DHJ Management, similar clauses in the Services Agreement dated 13 September 2005 provided for exemptions from liability and indemnities except “in the case of gross negligence” and, hence, the only basis on which it could have been held liable would have been if it had been grossly negligent in carrying out its duties as a director of Wise Lords.
+
+87.  As we pointed out in Section B.1 above, while the three transactions (involving an increase in Wise Lords’ credit facility to USD100m; the purchase of AUD83m and the purchase of the decumulators) can fairly be described as speculative and as carrying risks associated with heavy concentration in one currency and illiquidity, those are risks which the Trust Deed expressly authorises to be taken.  And for the reasons there considered, we find it hard to see how approval of those transactions can be said to involve gross negligence on the trustees’ or nominee director’s part. 
+
+88.  Bharwaney J did not explain in any detail why he considered gross negligence established.  He defined “gross negligence” to mean “a serious or flagrant degree of negligence” and was largely content simply to assert that the negligence of the trustees was of a serious or flagrant degree.[61]
+
+89.  Cheung JA gave no reasons for finding gross negligence but appears to have held that breach of the high level supervisory duty ipso facto entailed gross negligence, stating:
+
+“Once DBS Trustee had been found in breach, it follows, like night following day, that the degree of breach was a serious and flagrant one. The nature of the breach speaks for itself. It had failed to perform the very task that it had assumed namely, high level supervision in order to assure that the trust asset is subject to appropriate control. The breach was not accidental but carried with it a serious and flagrant degree of negligence because the tasks to be performed by DBS Trustee clearly involved more than rubberstamping the transactions. It is a matter of common sense that, to properly discharge the task, DBS Trustee must have at least kept itself informed of the prevailing financial conditions. Although the intensity of the global financial crisis was unprecedented, it did not occur overnight and as the Judge had pointed out, the storm had been brewing since March 2007. In the circumstances, DBS Trustee plainly must exercise more caution before giving approval for the impugned transactions.”[62]
+
+90.  With respect, if contrary to our holding, the trustees were under a duty to supervise Wise Lords’ investments instigated by Ji as the company’s properly appointed investment adviser, no basis has been shown for concluding that approval of the three transactions constituted negligence to a “serious and flagrant degree”.[63] The claims against DBS Trustee would accordingly have failed since they would have been protected by the exculpatory clause covering acts or omissions short of fraud, misconduct or gross negligence.  For the same reason, even assuming that they could otherwise have been liable for failing to exercise their duty as a director competently, DHJ Management cannot be liable as alleged by the Respondents because any failure on their part did not amount to gross negligence, and any liability is therefore excluded by a similar exculpatory clause in the Services Agreement.
+
+D.     Concurrent findings of fact
+
+91.  A recurring theme running through the Respondents’ Case[64] is the assertion that the courts below made concurrent findings of fact and that, in keeping with this Court’s practice, those concurrent findings should not be overturned in the absence of exceptional and rare circumstances where an appellant can show some miscarriage of justice or violation of some principle of law or procedure to warrant such a review.
+
+92.  Relying on this practice, the respondents contend that there is no basis for overturning those concurrent findings of fact.  In particular, it is contended that, “the Trust Deed was subject to independent requirements of Jersey law (both statutory and equitable) which the Appellants’ expert had explained and whose formulation ... both courts below concurrently found as fact.”[65]
+
+93.  The Court’s practice in respect of concurrent findings of fact is now both long-standing and firmly established.  It was laid down in the judgment of Bokhary PJ in Sky Heart Ltd v Lee Hysan Co Ltd,[66] a case heard soon after the establishment of the Court.  Save that the factor of unfamiliarity with local conditions is not relevant in this Court, the practice follows that of the Privy Council as explained by Lord Thankerton in Srimati Bibhabati Devi v Kumar Ramendra Narayan Roy.[67] It applies as much to primary findings of fact and findings of fact reached by drawing inferences from primary facts proved or admitted: Re Moulin Global Eyecare Holdings Ltd.[68]  In Chinachem Charitable Foundation Ltd v Chan Chun Chuen,[69] it was unsuccessfully sought to challenge the practice and the invitation to abandon it was rejected by the Appeal Committee as not being reasonably arguable.
+
+94.  Nevertheless, the Court’s practice expressly admits of the possibility of exceptions to the general rule.  The Court will not be inhibited by concurrent findings of fact where it can be shown that the findings are self-contradictory or there are facts pointing to the opposite conclusion: see, e.g., Kwan Siu Man v Yaacov Ozer[70] and Aktieselskabet Dansk Skibsfinansiering v Brothers.[71] In such a case, there will have been a “miscarriage of justice or violation of some principle of law or procedure” as described by Lord Thankerton in articulating the practice.
+
+95.  Foreign law is treated as a fact by the courts of Hong Kong and therefore ascertained by a process of pleading and proof involving expert witnesses, usually examined and cross-examined at trial.[72]  However, although a question of fact, “foreign law ... is a question of fact of a peculiar kind” so that the considerations as to an appellate court’s power to interfere with ordinary findings of fact do not apply to the same extent.[73]  As the UK Supreme Court held in Eli Lilly v Actavis UK Ltd:
+
+“[T]he notion that the resolution of a dispute as to foreign law involves a factual finding rather than a legal conclusion is somewhat artificial, and in any event, the Judge did not hear any oral evidence from the expert foreign law witnesses. We are therefore in as good a position as he was to analyse the effect of the evidence as to foreign law.” [74]
+
+96.  In particular, the court will examine the legal reasoning of a foreign law expert to determine the validity and reliability of the expert’s evidence as to the content of the foreign law in question, even where that evidence is uncontradicted.[75] A good summary of the court’s approach, which is well established, to assessing such evidence is provided in Dicey & Morris on the Conflict of Laws (15th Ed., 2012) at [9-016].[76]  That paragraph (omitting footnotes) states:
+
+“If the evidence of the expert witness as to the effect of the sources quoted by him is uncontradicted, ‘it has been repeatedly said that the court should be reluctant to reject it,’ and it has been held that where each party's expert witness agrees on the meaning and effect of the foreign law, the court is not entitled to reject such agreed evidence, at least on the basis of its own research into foreign law. But while the court will normally accept such evidence it will not do so if it is ‘obviously false,’ ‘obscure,’ ‘extravagant,’ lacking in obvious ‘objectivity and impartiality’, or ‘patently absurd,’ or if ‘he never applied his mind to the real point of law’, or if ‘the matters stated by [the expert] did not support his conclusion according to any stated or implied process of reasoning’; or if the relevant foreign court would not employ the reasoning of the expert even if it agreed with the conclusion. In such cases the court may reject the evidence and examine the foreign sources to form its own conclusion as to their effect. Or, in other words, a court is not inhibited from ‘using its own intelligence as on any other question of evidence’. Similarly, the court may reject an expert’s opinion as to the meaning of a foreign statute if it is inconsistent with the text or the English translation and is not justified by reference to any special rule of construction of the foreign law. It should, however, be noted in this connection that quite simple words may well be terms of art in a foreign statute.”
+
+97.  As the above summary of the applicable principles shows:
+
+(a)  Self-evidently, the Court’s practice of not entertaining challenges to concurrent findings of fact applies to findings which are findings of fact.  Where it is sought to challenge conclusions of law based on the facts found concurrently by the courts below are involved, the Court will not be similarly constrained.
+
+(b) The Court’s practice is, in any event, not rigid and there are circumstances in which the Court will set aside findings of fact notwithstanding that they have been made by both a trial court and an intermediate appellate court.
+
+(c)  Expert evidence of foreign law, although a matter of fact, will be treated differently to other, ordinary, findings of fact.
+
+(d) Even if uncontradicted, the court will examine the content of any expert opinion evidence as to foreign law and will reject it as unsatisfactory if the circumstances so warrant.
+
+98.  With these observations in mind, the respondents’ contentions as to the existence and effect of relevant concurrent findings of fact in the judgments below lose much of their force.
+
+99.  As the discussion in Sections B.1 and B.2 above demonstrates, the focus of the debate in this appeal is on the legal basis of the Judge’s and the Court of Appeal’s respective conclusions that DBS Trustee and DHJ Management owed high level supervisory duties to the respondents and, further, that in breaching those duties they had behaved in a “flagrantly negligent” manner.  As we have observed above,[77] the conclusion that the high level supervisory duties existed is inconsistent, as a matter of law, with the anti-Bartlett provisions and is one without a sustainable basis in law.  Likewise, the absence of a legal basis for transforming the giving of after-the-event approvals into a supervisory duty is similarly an error of law justifying appellate interference.[78]  It follows that the findings regarding breach and flagrant negligence (the latter being, as we have seen in Section C above, unsupported by reasons) rest upon errors of law whether those findings are concurrent or otherwise.
+
+100.  The Court of Appeal’s approach to the duties owed was based on a reading of Matthews’ report at paragraphs 87 and 88 which we have concluded to be erroneous.[79] In circumstances in which neither Jersey law expert gave oral evidence before the Judge, and in which the more difficult and self-contradictory reading of Matthews’ report was never put to him in cross-examination,[80] this Court is in as good a position as the Judge to reach a conclusion as to the true import of Matthews’ evidence.
+
+101.  For these reasons, we conclude that the invocation of the Court’s practice on concurrent findings of fact does not preclude us from reaching contrary conclusions to the courts below on the issues of whether DBS Trustee and DHJ Management owed the duties found by the courts below and whether they had breached those duties in a “flagrantly negligent” manner.
+
+E.     Equitable compensation
+
+102.  The conclusions reached above make it strictly unnecessary, in order to make an order dispositive of this appeal, to address the issue of relief and the “or otherwise” basis on which leave to appeal was granted.  However, as with the issue of breach, we shall similarly touch on these matters briefly in view of their importance as a matter of law.
+
+E.1   The Judge’s conclusions as to the consequences of breach of duty
+
+103.  Having held DBS Trustee to have been in breach of trust[81] and DHJ Management to have been in breach of fiduciary duty,[82] the Judge went on to hold that Arboit and Sutton were entitled to “equitable restitution to the Trust for breach of trust in order to reconstitute the assets of the Trust so as to place the Trust in the position it would have occupied but for the said breaches”.[83]
+
+104.  The Judge then cited the principles discussed in this Court’s judgment in Libertarian Investments Limited v Thomas Alexej Hall (“Libertarian”)[84] in respect of the claim against DBS Trustee.  At [424] of his judgment, the Judge concluded that the claim against DBS Trustee fell into the first category of cases identified in Libertarian, holding:
+
+“It is not in dispute that DBS Trustee was under a fiduciary duty to the Trust. I am satisfied that the breaches of duty by DBS Trustee, that I have found to have been established, have directly caused loss of the assets of the Trust in that they have directly led to diminution of the value of the assets held in Wise Lords’ portfolio. Our case also falls into the first category identified by Ribeiro PJ above, being a case where the breaches of duty by DBS Trustee have led directly to losses being suffered by Wise Lords’ portfolio, i.e. a case where ‘there are breaches leading directly to damage to or loss of the trust property’.”
+
+105.  This conclusion therefore formed the basis of his award of equitable compensation which he explained in his judgment at [425] as follows:
+
+“This is a case where it is appropriate to award equitable compensation against DBS Trustee in favour of Arboit and Sutton, that is to say, not compensation for loss but compensation that is restitutionary or restorative. I do not find any assistance from the plaintiffs’ submissions on the basis upon which I should award equitable compensation. It is not necessary to order an account as the assets in Wise Lords’ portfolio are well documented. I intend to adopt a robust approach to assess the equitable compensation by, firstly, attempting to determine the value of the assets in Wise Lords’ portfolio on the date of the issue of the Writ in these proceedings on 28 February 2011; and, secondly, by attempting to assess what that value might have been on 28 February 2011 if Wise Lords had not acquired US$83m worth of AUD from 24 July to 5 August 2008 and had not purchased the 3 Decumulators but had carried out the other transactions listed in Arboit’s 2nd Schedule that were unrelated to the purchases of US$83m worth of AUD from 24 July to 5 August 2008 and unrelated to the purchases of the 3 Decumulators; and, thirdly, by awarding the difference between the 2 values to Arboit and Sutton, being the trustees of the Trust, as equitable compensation. I need further assistance from the financial experts, Das and Malik, to enable me to do so and I give further directions below for a further joint report to be obtained from them.”
+
+106.  As regards DHJ Management, the Judge similarly held that it was appropriate to award equitable compensation against them.  He concluded that DHJ Management’s duty to act bona fide in the best interests of Wise Lords was a fiducial obligation, the breach of which entitled Wise Lords to equitable compensation against DHJ Management.[85]  He cited the principles in Libertarian and held (at [454]):
+
+“I am satisfied that the breaches of duty by DHJ Management, that I have found to have been established, have directly caused loss of the assets of Wise Lords in that they have directly led to diminution of the value of the assets held in Wise Lords’ portfolio. The present claim also falls into the first category identified by Ribeiro PJ above, being a case where the breaches of duty by DHJ Management have led directly to losses being suffered by Wise Lords’ portfolio, i.e. a case where ‘there are breaches leading directly to damage to or loss of the trust property’.”[86]
+
+107.  This conclusion similarly formed the basis of his award of equitable compensation against DHJ Management in favour of Wise Lords “that is to say, not compensation for loss but compensation that is restitutionary or restorative.”[87] Thus, he granted relief in favour of Wise Lords “for equitable restitution ... for breach of fiducial obligations in order to reconstitute the assets of Wise Lords so as to place Wise Lords in the position it would have occupied but for the said breaches.”[88]
+
+108.  The Judge recognised that his orders against both DBS Trustee and DHJ Management might result in a duplication of the relief awarded and so, in order to avoid double recovery, he ordered that if Arboit and Sutton obtained complete satisfaction from DBS Trustee, then Wise Lords could not seek equitable compensation from DHJ Management and vice versa.  For the same reason, he ordered that partial satisfaction against one defendant would entitle Wise Lords to seek equitable compensation from the other defendant for the balance and vice versa.[89]
+
+109.  The Judge gave directions for the further conduct of the proceedings based on his judgment.[90]  Those directions included the preparation of a joint expert report by the parties’ financial experts the purpose of which was to set out “the value of the assets in Wise Lords’ portfolio as at the date of the issue of the Writ in these proceedings” and to set out “their opinion on what that value might have been on 28 February 2011 if Wise Lords had not acquired US$83m worth of AUD from 24 July to 5 August 2008 and had not purchased the 3 decumulators but had carried out the other transactions listed in Arboit’s 2nd Schedule that were unrelated to the purchases of US$83m worth of AUD from 24 July to 5 August 2008 and unrelated to the purchases of the 3 decumulators.”[91]
+
+E.2   The Court of Appeal’s approach
+
+110.  The Court of Appeal upheld the Judge’s order for the assessment of equitable compensation.
+
+111.  Cheung JA rejected the appellants’ arguments that the Judge was wrong to have omitted to consider the question of causation in determining the availability of equitable compensation for the breaches held to have been established.  He agreed with the Judge that the nature of the breach of trust in the present case was in the first category of breach discussed in Libertarian:
+
+“The present breach is the first category of breach discussed by the Court of Final Appeal in Libertarian Investments Ltd v Hall (2013) 16 HKCFAR 681 which approved the view of Tipping J in BNZ v NZ Guardian Trust Co Ltd [1999] 1 NZLR 664, namely, breach leading to damage or loss of the trust property.”[92]
+
+112.  Cheung JA applied the principles of causation applicable to that category of case as described in the judgment of Ribeiro PJ in Libertarian at [78] to [80], namely that “in cases within ... [the] first category, involving loss caused by the fiduciary to trust property, strict rules on causation apply.”  Applying Libertarian at [93], Cheung JA held that the onus lay on the defaulting trustee or fiduciary and that the appellants “had not been able to disprove the apparent causal connection between the breach of duty and the loss apparently flowing therefrom.”[93]
+
+113.  Yuen JA addressed the appellant’s argument on causation more specifically.  It had been argued that the Judge’s approach was flawed in that it “did not require an assumption to be made that the credit facilities were not increased” since (i) if there were no increase, it was likely that Ji would have terminated the banking relationship with DBS:PB and the trust relationship with DBS Trustee, after which she would have conducted the same investments elsewhere, and (ii) if there were an increase, it was likely that Ji would have utilised it for other investments which, in the market situation at the time, would have led to losses in any event.[94]
+
+114.  Her Ladyship rejected these arguments principally on the basis that, applying Libertarian at [93], the burden is on a defaulting trustee to disprove the apparent causal connection between the breach of duty and the loss apparently flowing therefrom.  She noted that Ji had not apparently been cross-examined on the scenarios advanced by the appellants and “in light of the burden on the trustees, ... it cannot be assumed that if DBS Trustee had disapproved the AUD purchase and the 3 Decumulators ... that Ji would not have paused to consider their rationale for disapproval.”[95]
+
+E.3   Equitable compensation for breach of fiduciary duty
+
+115.  This Court examined the principles applicable to claims for compensation for breach of fiduciary duty in Libertarian. There, at [75], it was emphasised that the duties owed by fiduciaries are variable in nature and it may be important to ascertain the nature of the breach in question and the impact of that breach on any trust property. Referring to the judgment of Tipping J in Bank of New Zealand v New Zealand Guardian Trust Co Ltd,[96] three categories of breach were distinguished.  These were:
+
+(a)  the first category, being “breaches leading directly to damage to or loss of the trust property”;
+
+(b)  the second category, being “breaches involving an element of infidelity or disloyalty which engage the conscience of the fiduciary”; and
+
+(c)  the third category, being “breaches involving a lack of appropriate skill or care”.
+
+116.  The importance of distinguishing these categories of cases is that the rules of causation apply with varying degrees of strictness depending on which type of duty and breach is involved: Libertarian at [76].
+
+117.  For first category cases, relating to misapplication or loss of trust property, the rules as to causation are strictest and are akin to those applicable to traditional trusts requiring the trustee to restore to the trust fund whatever loss he has caused as a result of his breach of trust.  A strict “but for” causation test is applied and, if satisfied, the trustee is liable to make good the loss and the common law rules of remoteness and foreseeability do not apply.  The claim is in the nature of a substitutive claim for restoration of the trust property either in specie or by value.[97]
+
+118.  Similarly, for second category cases, involving an element of infidelity or disloyalty which engage the conscience of the fiduciary, the rules on foreseeability and remoteness do not apply.  Once the plaintiff has shown a loss arising out of a transaction to which the breach was material, the plaintiff is entitled to recover unless the defendant fiduciary, on whom the onus lies, shows that the loss or damage would have occurred in any event without any breach on his part.[98]
+
+119.  Thus, in both first and second category cases, it is irrelevant that the plaintiff’s loss was not foreseeable.  Compensation will be assessed with the benefit of hindsight taking into account any post-breach events which affect the extent of the loss, e.g. market changes or currency fluctuations.  Libertarian provides an example of a case in the first category.  There, the defendant fiduciary, instead of using funds transferred to him for the specific purpose of acquiring shares in a listed company for his principal, used the funds for his own purposes.  By the date of trial, the shares he should have bought had risen in value sharply because of an exceptionally high public offer price in a successful takeover bid.  It was not relevant that the takeover bid and offer price were not foreseeable when the breach occurred.  The defendant was ordered to pay equitable compensation on a wilful default basis reflecting the increased value in the shares.
+
+120.  Cases in Tipping J’s third category involving a lack of appropriate skill or care stand on a different footing to those in the first two categories.  Liability in the third category of cases is imposed for the negligent execution of a fiduciary’s duties falling within the general duty to act with care imposed by law on those who take it upon themselves to act for or advise others.  In such cases, the relationship of trustee or fiduciary is incidental and provides the context in which the breach of duty occurs. Equitable compensation for breach of the duty of skill and care is reparative and resembles common law damages awarded to a plaintiff for his loss and the common law rules of causation, remoteness of damage and measure of damages apply by analogy.[99]
+
+E.4   The categorisation of the present case
+
+121.  As we have seen, the courts below regarded this case as being in the first category of cases so that the award of equitable compensation was in the nature of a substitutive claim for restoration of the trust property.  In consequence, in answer to the appellants’ causation arguments, the Court of Appeal held that the appellants had not discharged their onus of proving that the losses claimed were not caused by the breaches found.  If the claim was properly to be regarded as in the first category of cases, their decisions would (subject to the observations in Section E.5 below) be correct.  But was that categorisation correct?
+
+122.  With respect to the courts below, we do not think it was.  On the contrary, the present case was, in our view, clearly not in the first category which applies to cases of misapplication or loss of the assets held on trust by the trustee or fiduciary, reflecting his obligation as custodian to account for his stewardship of the trust property and to restore to the trust estate the misapplied asset.  However, at [424] and [454] of his judgment, cited at [104] and [106] above, the Judge (with whom the Court of Appeal agreed) treated this as a first category case on the basis that the breaches he found had “directly caused loss of the assets of the Trust in that they have directly led to diminution of the value of the assets held in Wise Lords’ portfolio” (emphasis added).
+
+123.  That was a mis-categorisation for two reasons. First, the only asset of the Trust, apart from the initial property of USD10 settled on it, was the sole share in Wise Lords. That share remained at all material times within the custody of the trustees.    Even though the value of the share in Wise Lords had no doubt diminished, there was, properly analysed, no misapplication or loss of the trust asset that required substitution or restoration of trust property.
+
+124.  Secondly, even if the trust assets were regarded as consisting of the assets held by Wise Lords and even if there were a breach of duty in the three respects found by the Judge, that breach would have come within the third category of case, involving a lack of appropriate skill or care causing diminution in the value of the trust assets.  This is clearly reflected in the language used by the courts below in describing the breaches in question.  Negligence in the oversight of investments, even gross or flagrant, is by its nature a failure to exercise due skill or care.
+
+125.  Had we upheld the breaches of duty regarding the purchase of AUD, the increased credit facility and the approval of the purchase of the three decumulators we would have placed them in the third category. Consequently, equitable compensation would have been reparative as opposed to being substitutive or restorative (although these terms should be understood broadly since they can overlap to some extent) and, more importantly, the common law rules of causation, foreseeability and remoteness would therefore have applied to the assessment of any such compensation.  It would accordingly have been inappropriate to place the onus of disproving the causal connection between the alleged breaches and the loss apparently flowing from them on the appellants and to order an assessment of compensation, as the courts below did, without giving the appellants the opportunity to raise the issue of causation.
+
+126.  In the course of argument, we were referred by Mr Barlow to the judgment of Brightman LJ (as he then was) in Bartlett v Barclays Trust Co. (No.2)[100] addressing the appropriate form of order for assessment of the compensation payable consequent upon his judgment on liability for breach of trust.[101]  The claim had involved a trust which consisted of the shares in a company incorporated to take over and manage certain family properties.  The directors of the company later pursued a policy of property investment through the incorporation of an investment company used as a vehicle to purchase and develop properties.  The investment company pursued a speculative property venture during a property boom and, when the property boom ended, found itself insolvent.  The plaintiffs claimed against the trustee to make good to the trust fund all loss accruing by reason of it having permitted the property company to engage in property development.  The trustee was held liable for not exercising proper skill and care and for not intervening to prevent the investment company from having entered into the speculative property venture.
+
+127.  In relation to the form of order for compensation, Brightman LJ acceded to the plaintiffs’ invitation to direct an assessment of the compensation payable by the defaulting trustees by, first, determining the extent to which the assets of the company were wrongly depleted in consequence of the defendant’s breaches of trust and then, secondly, determining the additional proceeds of sale which would have accrued on the disposal of the shareholdings if the assets of the company had not been depleted.[102]
+
+128.  It was suggested by Mr Barlow that, in AIB Group (UK) plc v Mark Redler & Co Solicitors,[103] Lord Toulson JSC treated Bartlett as a first category type of case.  However, it is not at all clear that he was intending to do so.  He described it as “a case of breach of a trustee’s management stewardship duty” and went on to say:
+
+“In this type of case the order for payment by the trustee of the amount of loss is referred to by some as ‘reparative compensation’, to differentiate it from ‘substitutive compensation’, although in a practical sense both are reparative compensation.”
+
+That seems to us to be more consistent with Lord Toulson treating the case as being within the third category.
+
+129.  In any event, we do not consider that either Bartlett or Lord Toulson’s reference to that case in AIB provide a sound basis for categorising a trustee’s negligent breach of management of a company owned by a trust as a first category type of case, rather than a third category type of case.  Neither Brightman LJ nor Lord Toulson addressed the character of the Bartlett claim in terms of the category of cases distinguished by Tipping J.  As we have said above, the character of the claim is one involving an allegation of the failure to exercise appropriate skill or care.
+
+E.5   Other points not necessary to address
+
+130.  We were referred, by Ms Warnock-Smith, to a decision of the Jersey Court of Appeal in BNP Paribas Jersey Trust Corporation Limited and others v Cristiana Crociani and others,[104] a case concerning a claim against the trustees of a family trust, amongst others, in respect of the unauthorised payment out of the trust fund of substantially the whole of the artwork, investments and cash that had been accumulated by the trust over time.  It was therefore a case which would fall into the first of Tipping J’s category of cases.  However, it is to be noted that one of two sisters who were beneficiaries of the trust had dishonestly assisted in the breaches of trust. One of the issues on appeal was whether the liability of the trustees extended to reconstituting the whole of the trust or only that part held in trust for the other sister and her family.
+
+131.  The Jersey Court of Appeal, citing the UK Supreme Court’s decision in AIB, observed that “whilst the law in respect of equitable compensation for breach of trust is in a state of development – especially as regards issues of causation – the basic rule is that, where property has been misapplied and cannot be restored in its original form, the trustee must restore the trust fund to the position in which it would have been but for the breach.”[105] However, it noted that “[m]ore complex issues arise where the recipient of the misapplication is a member of one of the classes of beneficiaries”[106] and cited Lord Reed JSC’s statement in AIB that “the nature of the appropriate remedy for a breach of trust may well vary to reflect the terms of the trust in question and the breach in respect of which the complaint is made.”[107]
+
+132.  Significantly, the Jersey Court of Appeal held:
+
+“Separately, neither of the decisions in Target Holdings or AIB, or their underlying circumstances, assist where a beneficiary has been involved to some extent in the breach of trust which has taken place, whether as instigator, associate or recipient. For example, as Lord Browne-Wilkinson expressed matters in Target Holdings (at 436 C-D):
+
+“But the basic equitable principle applicable to breach of trust is that the beneficiary is entitled to be compensated for any loss he would not have suffered but for the breach.” 
+
+Without hesitation we agree; but how that principle is applied where one or more beneficiaries are found to be instigator, associate or recipient in the breach is a question which requires to be resolved, on equitable principles, having regard to the individual facts of the particular case.”[108]
+
+133.  It is unnecessary for us to resolve the interesting, and difficult, question of whether, even if the case before us were in the first category of cases, it would nevertheless have been necessary to consider issues of causation, remoteness and foreseeability because Ji actively participated in making the decisions which led to the alleged losses suffered by the Trust.
+
+134.  Another point which it is not necessary to address in this judgment is the question of whether the Judge’s order for the assessment of equitable compensation would have permitted the recovery by the respondents of reflective loss since the basis on which it was argued the Trust had suffered loss was by reason of the diminution in the value of the sole share of Wise Lords.  This point was sought to be raised by the appellants in the Court of Appeal but, as Yuen JA pointed out, there were a number of reasons why the Court of Appeal refused to permit this point to be argued for the first time on appeal.[109] Difficult questions arise in relation to the question of reflective loss, as manifested in the Judge’s attempt to manufacture an order to avoid double recovery,[110] due to the different identities of the plaintiffs and defendants in whose favour and against whom respectively equitable compensation was awarded.  Since those questions were not before us, we do not propose to address them.  However, we should not be understood as approving the Judge’s approach, which the Court of Appeal’s judgment left undisturbed.
+
+F.     Conclusion
+
+135.  For the reasons set out above, if this case had not been settled, we would have allowed the appellants’ appeal and set aside the Judge’s order for the assessment of equitable compensation.
+
+ 
+
+Mr Justice Cheung PJ:
+
+136.  I agree with the joint judgment of Mr Justice Ribeiro PJ, Mr Justice Fok PJ and Lord Neuberger of Abbotsbury NPJ.
+
+ 
+
+Mr Justice Tang NPJ:
+
+137.  I agree with the joint judgment of Mr Justice Ribeiro PJ, Mr Justice Fok PJ and Lord Neuberger of Abbotsbury NPJ.
+
+ 
+
+ 
+
+(R A V Ribeiro)	(Joseph Fok)	(Andrew Cheung)
+Permanent Judge	Permanent Judge	Permanent Judge
+ 
+
+(Robert Tang)	(Lord Neuberger of Abbotsbury)
+Non-Permanent Judge	Non-Permanent Judge
+ 
+
+Ms Shân Warnock-Smith QC, Mr Ashley Burns SC and Ms Bonnie Y.K. Cheng, instructed by Mayer Brown, for the 2nd & 4th Defendants (1st & 2nd Appellants)
+
+Mr Barrie Barlow SC and Mr Chan Pat Lun, instructed by MinterEllison LLP, for the 3rd & 4th Plaintiffs (1st & 2nd Respondents)
+
+
+[1] [2011] EWCA Civ 826; [2012] Bus LR 542.  It has been applied in Greenwich Inc Ltd v Dowling [2014] EWHC 2451 (Ch) at [131] and [134] and in Re Dalnyaya Step LLC (In Liquidation) (No.2) [2017] EWHC 3153 (Ch); [2019] BCC 23; and has overtaken the earlier decision in Prudential Assurance Co Ltd v McBains Cooper (A Firm) & Ors [2000] 1 WLR 2000.
+
+[2] [2014] VSC 516 per Croft J at [23].
+
+[3] [2004] 1 Qd R 212; [2003] QCA 252.
+
+[4] [2014] 1 NZLR 766 at [39]-[44].
+
+[5] HCCL 2/2011, Judgment dated 13 April 2017 (“CFI Jmt”).
+
+[6] CACV 139/2017, [2018] HKCA 435 (Cheung, Yuen and Kwan JJA).
+
+[7] FAMV 117/2018, [2019] HKCFA 18 (Ribeiro Ag CJ, Fok PJ and Chan NPJ).
+
+[8] CACV 138/2017, [2018] HKCA 435 (Cheung, Yuen and Kwan JJA) (“CA Jmt”).
+
+[9] CACV 138/2017, [2018] HKCA 917 (Cheung, Yuen and Kwan JJA).
+
+[10] FAMV 126/2018, [2019] HKCFA 18 (Ribeiro Ag CJ, Fok PJ and Chan NPJ).
+
+[11] The full text of which is set out below at [80].
+
+[12] [1980] 1 Ch 515.
+
+[13] CFI Jmt [407], referring back to CFI Jmt [303]-[305] and [309]-[319].  The date was corrected by Cheung JA; CA Jmt [4.3].
+
+[14] CFI Jmt [408], referring back to CFI Jmt [303]-[315] and [317]-[319].
+
+[15] CFI Jmt [409], referring back to CFI Jmt [324] and [362]-[381].
+
+[16] CFI Jmt [297].
+
+[17] CFI Jmt [305].
+
+[18] CFI Jmt [324]-[326].
+
+[19] CFI Jmt [407].
+
+[20] CFI Jmt [303]-[305] and [314]-[315].
+
+[21] CFI Jmt [304].
+
+[22] See Section A.2 above.
+
+[23] Art 21(2) of the 1984 Law.
+
+[24] Set out in Section A.6 above.
+
+[25] CFI Jmt [104].
+
+[26] CFI Jmt [83].
+
+[27] Section B.3 below.
+
+[28] CFI Jmt [406].
+
+[29] CFI Jmt [407]-[409].
+
+[30] CFI Jmt [407]-[409].
+
+[31] [152] of the Defendants’ opening submissions, quoted in CA Jmt [6.11].
+
+[32] For instance, CFI Jmt [74], [83] and [129].
+
+[33] For instance, CFI Jmt [407]-[409].
+
+[34] Ibid.
+
+[35] See [45] above.
+
+[36] CFI Jmt [448]-[450].
+
+[37] CFI Jmt [452].
+
+[38] CA Jmt [6.18]-[6.20].
+
+[39] CA Jmt [6.8] and [6.13].
+
+[40] CA Jmt [6.10].
+
+[41] CA Jmt [6.9].
+
+[42] Paragraph 4(a)(ii) of the First Schedule, with words to similar effect in paragraphs 4(a)(iii) and 5(b).
+
+[43] Provided for by Art 24(1) of the 1984 Law and paragraph 1 of the First Schedule.
+
+[44] See [59] above.
+
+[45] [1998] Ch 241.
+
+[46] Kwan JA also concurred but dealt with other issues which do not presently arise.
+
+[47] CA Jmt [10] (emphasis added).
+
+[48] CA Jmt [11.5].
+
+[49] CA Jmt [6.17].
+
+[50] Appearing with Mr Chan Pat Lun for the respondents.
+
+[51] By virtue of paragraph 1 of the First Schedule.
+
+[52] CFI Jmt [34] and [161].
+
+[53] Echoing Art 24(1) of the 1984 Law.
+
+[54] Paragraph 4(a)(ii) of the First Schedule.
+
+[55] Paragraph 4(a)(iii) of the First Schedule.
+
+[56] Appearing for the appellants with Mr Ashley Burns SC and Ms Bonnie Y K Cheng.
+
+[57] Paragraph 5(a) of the First Schedule.
+
+[58] Paragraph 5(b) of the First Schedule.
+
+[59] Ibid.
+
+[60] Section B.1 above.
+
+[61] CFI Jmt [406]-[409].
+
+[62] CA Jmt [6.71].
+
+[63] See, also, [42]-[44] above.
+
+[64] Respondents’ Case, passim; see, e.g., [5], [43]-[45] (Section E), [50] and [84].
+
+[65] Ibid. at [5]; see, also, FN8 on p.6 which reads, referring to the 1984 Law, “Upon which, in all respects relevant to this appeal, both sides’ Jersey trust law experts (who were not cross-examined) were agreed.”
+
+[66] (1997-98) 1 HKCFAR 318.
+
+[67] [1946] AC 508 at pp.521-522.
+
+[68] (2009) 12 HKCFAR 621 at [37].
+
+[69] (2011) 14 HKCFAR 798 at [40]-[44]; [45]-[47] and [59].
+
+[70] (1997-98) 1 HKCFAR 343 at p.355F-H and p.364F.
+
+[71] (2000) 3 HKCFAR 70 at pp.90G-93C.
+
+[72] The Conflict of Laws in Hong Kong (3rd Ed.), Graeme Johnston and Paul Harris SC, at [2.060].
+
+[73] Parkasho v Singh [1968] P 233 per Cairns J at p.250B-C.
+
+[74] [2017] UKSC 48, [2017] Bus LR 1731 per Lord Neuberger PSC at [93].
+
+[75] Full Wisdom Holdings Ltd & Others v Traffic Stream Infrastructure Co Ltd & Others [2004] 2 HKLRD 1016 per Le Pichon JA at [23].
+
+[76] As Ribeiro PJ, writing for the Appeal Committee, observed in Traffic Stream Infrastructure Co Ltd & Others v Full Wisdom Holdings Ltd & Others (2004) 7 HKCFAR 442 at [21] (citing the 13th edition of Dicey & Morris, virtually identical in this respect to the current 15th edition).
+
+[77] At [45] and [50].
+
+[78] See [46] and [49] above.
+
+[79] See [63]-[67] above.
+
+[80] Neither expert gave oral testimony at trial.
+
+[81] CFI Jmt [407], [408] and [409].
+
+[82] CFI Jmt [448], [449] and [450].
+
+[83] CFI Jmt [413].
+
+[84] (2013) 16 HKCFAR 681.
+
+[85] CFI Jmt [453].
+
+[86] The different categories of claim and the legal consequences that flow from categorisation of a case as being within one rather than another category will be addressed further below.
+
+[87] CFI Jmt [455].
+
+[88] CFI Jmt [456].
+
+[89] CFI Jmt [457].
+
+[90] CFI Jmt [479]-[480].
+
+[91] CFI Jmt [479].
+
+[92] CA Jmt [6.75].
+
+[93] CA Jmt [6.78].
+
+[94] CA Jmt [34].
+
+[95] CA Jmt [35.2].
+
+[96] [1999] 1 NZLR 664 at p.687.
+
+[97] See: Libertarian at [78]-[81]; Target Holdings Ltd v Redferns [1996] AC 421 at p.434; Bank of New Zealand v New Zealand Guardian Trust Co Ltd [1999] 1 NZLR 664 at p.687; and Equitable Compensation for Breach of Fiduciary Duty, Ribeiro PJ, Asia-Pacific Judicial Colloquium (Singapore, May 2019) at [63]-[64] and [66]-[67].
+
+[98] See: Libertarian at [82] and [93]; Bank of New Zealand v New Zealand Guardian Trust Co Ltd [1999] 1 NZLR 664 at p.687; and Equitable Compensation for Breach of Fiduciary Duty, Ribeiro PJ, Asia-Pacific Judicial Colloquium (Singapore, May 2019) at [65]-[67].
+
+[99] See: Bristol and West Building Society v Mothew [1998] Ch 1 at p.17; Bank of New Zealand v New Zealand Guardian Trust Co Ltd [1999] 1 NZLR 664 at p.687; and Equitable Compensation for Breach of Fiduciary Duty, Ribeiro PJ, Asia-Pacific Judicial Colloquium (Singapore, May 2019) at [68]-[70].
+
+[100] [1980] 1 Ch 539.
+
+[101] That being his decision in Bartlett v Barclays Trust Co. (No.1) reported at [1980] 1 Ch 515.
+
+[102] [1980] 1 Ch 515 at p.542E-G.
+
+[103] [2015] AC 1503 at [52]-[54].
+
+[104] Jersey Court of Appeal, unrep., 25 July 2018.
+
+[105] Ibid. at [28].
+
+[106] Ibid. at [30].
+
+[107] Ibid. at [32].
+
+[108] Ibid. at [33].
+
+[109] CA Jmt [27]-[28].
+
+[110] See [108] above.
+
+ 

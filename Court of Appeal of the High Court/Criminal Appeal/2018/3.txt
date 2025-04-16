@@ -1,0 +1,134 @@
+CACC 5/2018
+
+[2018] HKCA 261
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CRIMINAL APPEAL NO 5 OF 2018
+
+(ON APPEAL FROM HCCC 437 OF 2015)
+
+------------------------
+
+BETWEEN	 	 
+ 	HKSAR	Respondent
+and
+
+ 	CHAN KWUN CHUNG (陳冠忠)	Applicant
+------------------------
+
+Before: Hon McWalters JA in Court
+Date of Hearing: 27 April 2018
+Date of Decision: 27 April 2018
+Date of Reasons for Decision: 9 May 2018
+____________________________
+
+REASONS FOR DECISION
+
+____________________________
+
+1.  The applicant was charged with manslaughter contrary to common law and punishable under section 7 of the Offences against the Person Ordinance, Cap 212.
+
+2.  He pleaded not guilty to this offence and was tried by Barnes J (“the judge”)and a jury.  He was convicted by the verdict of the jury on 12 December 2017 and on 18 December 2017 he was sentenced by the judge to 10 years’ imprisonment.
+
+3.  The applicant subsequently applied for leave to appeal his conviction and sentence but as yet has only filed initial grounds of appeal.
+
+4.  By summons dated 23 February 2018 the applicant applied for bail pending appeal.  At the hearing of his application I refused it and said I would hand down my reasons for doing so at a later date.  These are my reasons.
+
+The indictment
+
+5.  The applicant was jointly tried in an indictment with two other persons.  Each of the accused was separately charged with one count of manslaughter in respect of the same victim and each count averred that they committed the offence jointly with their co-accuseds.
+
+6.  All three counts contained the same basis of criminal liability, that is, manslaughter by gross negligence.  The particulars of the offence then set out how the offence was to be proven.  In each offence particular (i) pleaded the basis for alleging the existence of a duty of care owed by the accused to the deceased and particular (ii) pleaded how each accused breached that duty.
+
+7.  In order to understand the count, a brief explanation of the factual background is necessary.  The group of companies, with whom all three accused were associated, offered a service to their clients whereby a quantity of the client’s blood would be extracted and then taken to a laboratory where, over the course of a number of days, it would undergo a particular form of processing, after which it would be transfused back into the body of the client.  The prosecution alleged that D1, a doctor, was in charge of the companies responsible for offering this service, the applicant was the person in charge of the laboratory that processed the client’s blood and D3 was the doctor who transfused the processed blood back into the body of the deceased.
+
+8.  In the course of the processing of the deceased’s blood in the applicant’s laboratory, it became contaminated. When it was transfused back into the deceased’s body, it exposed her to massive bacterial infection from which she subsequently died.
+
+9.  The particulars of the duty of care which it was pleaded was owed by the applicant to the deceased, and the particulars of the breaches of that duty of care, as set out in the count of manslaughter relating to the applicant are as follows:
+
+“(i) Being the person responsible for the preparation of a product known as CIK/AI therapy on behalf of Asia Pacific Stem Cell Science Limited, which the said CIK/AI therapy was administered to the said Chan Yuen-lam, owed her a duty of care;
+
+(ii) In breach of that duty of care, in the knowledge that the said CIK/AI therapy was based on experimental process for the treatment of cancer and which involved the extraction, manipulation in a laboratory and reintroduction of blood taken from the said Chan Yuen-lam (‘the said blood product’), failed to take reasonable care for the safety of the said Chan Yuen-lam by –
+
+(a) Failing to ensure that he was fully qualified to undertake the preparation and production of the said blood product.
+
+(b) Failing to devise, institute, enforce and maintain a properly documented protocol for the preparation in the laboratory of the said blood product which included viral and bacterial testing.
+
+(c) Failing to ensure that the said blood product had, prior to leaving the laboratory where it had been prepared and produced, undergone viral and bacteria testing and that such had been documented so as to ensure the said blood product was free of contamination.
+
+(d) Failing to devise, institute, enforce and maintain a safe system documenting the carrying out of all necessary viral and bacteria tests to accompany the said blood product when it left the laboratory;
+
+(iii) His aforesaid breach of duty amounted to gross negligence on his part; and
+
+(iv) His aforesaid negligence was a substantial cause of the death of the said Chan Yuen-lam.”
+
+From particulars (ii)(b)(c) and (d) it is apparent that the thrust of the prosecution case was that the applicant should have put in place measures that tested the processed blood to ensure that it was sterile before it was transfused back into the body of the client. 
+
+The trial
+
+10.  The trial lasted 101 days with the prosecution adducing evidence from 85 witnesses.  D1 and D3 gave evidence but the applicant did not.  D1 also called two witnesses and the applicant called his former wife to testify as part of his case.
+
+11.  At the close of the prosecution case, the applicant made a submission of no case to answer, arguing that there was no evidence or, alternatively, insufficient evidence, in respect of the element of the offence that the applicant was aware that his actions exposed the deceased to the risk of death.  The judge rejected the submission and ruled a case to answer.
+
+The bail application
+
+12.  For the purpose of this application, Mr Cheung, of counsel, who appeared also for the applicant at trial, relied on only two grounds of his initial grounds of appeal.  They were, firstly, that the judge should have ruled that the applicant had no case to answer and, secondly, that the judge’s summing up was unbalanced.
+
+13.  In respect of the first ground of appeal, which was a repeat of submissions made at trial, Mr Cheung submitted that the prosecution had failed to prove a key element of the offence, namely that the applicant was subjectively aware of the obvious and serious risk of death to the deceased that was inherent in the processing of the blood and its transfusion back into the body of the person from whom it had been taken.  The risk of death arose from the possibility that from the time the blood was extracted from a person to the time it was transfused back into him it might become contaminated and, if so, the transfusion of the contaminated blood back into the body of the person from whom it was taken could expose this person to bacterial infection from which he could die.  This was, of course, precisely what happened to the deceased.
+
+14.  In respect of this first ground of appeal, Mr Cheung relied very heavily on the fact that the applicant was not medically trained and was not a medical laboratory technician (“MLT”).  He argued that the prosecution did not call any expert to provide an opinion in respect of persons with the applicant’s training and experience, with the consequence that there was no evidence from which the jury could draw the inference that the prosecution required them to draw in order to prove this element of the offence.  The only evidence on this issue, so Mr Cheung submitted, came from the prosecution expert, Professor Yuen Kwok Yung (“Prof Yuen”), and his evidence was favourable to the applicant.  Prof Yuen said that a person who was not medically trained but may have some book knowledge, would not “appreciate the gravity of the matter, sepsis”.
+
+15.  The second ground of appeal argues that in three particular areas of her summing up the judge’s comments, or refusal to make a comment, resulted in an unbalanced summing up.  The three areas were:
+
+(1) comment on the existence of a duty of care;
+
+(2) refusal to remind the jury of a particular aspect of the evidence on which Mr Cheung relied in his closing speech to the jury; and 
+
+(3) comment on false reports which were prepared after the infections became known and on which the prosecution relied to show the applicant was seeking to conceal the fact that before the blood left his laboratory the applicant did not test it to confirm it was sterile.
+
+16.  On the duty of care the judge said:
+
+“If you are not sure that he was responsible for the preparation of the blood product which was administered to the deceased, then the prosecution would have failed in proving that he owed a duty of care. Then that’s the end of the matter.
+
+But on his evidence, his own admission to the police, to the various experts, he was the person preparing the CIK cells. So you should have no difficulty in finding that D2 owed a duty of care to the deceased, Chan Yuen Lam.” (Emphasis added.)
+
+17.  The italicised words in this quotation are those on which Mr Cheung relies to argue that the judge has, in effect, instructed the jury to find proven what was a live, contested element of the prosecution case.
+
+18.  The second matter on which Mr Cheung relied to establish his ground of appeal of an unbalanced summing-up was the failure of the judge to remind the jury that the applicant had volunteered to be the first person to undergo this special therapy and that this offer was relevant to whether the applicant was subjectively aware of the obvious and serious risk of death inherent in this therapy.
+
+19.  In respect of the evidence of fake reports Mr Cheung submitted that the judge gave unnecessary emphasis to this piece evidence given that the applicant, if the jury found that a duty of care existed, did not contest that he had breached that duty as averred in sub‑paragraphs (b)-(d) of particular (ii) of the count.     
+
+The respondent’s submissions
+
+20.  The respondent, represented by Ms Alice Chan, Deputy Director of Public Prosecutions (Ag), and Ms Margaret Lau, Senior Public Prosecutor, relied on their written submission and in addition helpfully referred me to areas of the evidence relevant to the applicant’s arguments.
+
+Discussion
+
+21.  Bail pending appeal is only granted exceptionally when the court is persuaded that the ground or grounds of appeal relied upon are likely to be successful or that the applicant is likely to complete the whole or a substantial part of his sentence before the hearing of his appeal, thereby rendering his right of appeal nugatory.  This latter basis of bail pending appeal is not relevant to this application, given the length of the applicant’s sentence. The former basis for bail pending appeal is a high hurdle for any applicant to overcome.
+
+22.  In respect of the first ground of appeal I am not persuaded that the applicant is likely to succeed in his argument that there was no evidence from which the jury could draw the inference of subjective awareness of a serious and obvious risk of death.  That evidence is set out in some detail in the respondent’s written submission.  Whether the evidence available to the jury was sufficient to allow of only one reasonable inference may be an argument still open to the applicant but it is not one which in my view is so strong that it can be said of it that it is likely to succeed.
+
+23.  In respect of the unbalanced summing-up ground, it is composed of three elements.  In my view, none of them, individually, have much substance to them and even when taken together I do not think their cumulative effect is such that it can be said it is likely that the Court of Appeal will be persuaded that the summing-up was unbalanced.
+
+Conclusion
+
+24.  For these reasons I refused the application.
+
+ 
+
+ 
+
+ 	(Ian McWalters)
+ 	 Justice of Appeal
+          
+
+Ms Alice Chan DDPP (Ag) and Ms Margaret Lau SPP of the Department of Justice, for the respondent
+
+Mr Albert Cheung, instructed by Lam, Lee & Lai, for the applicant
+
+ 

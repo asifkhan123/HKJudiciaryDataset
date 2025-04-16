@@ -1,0 +1,394 @@
+CASJ 1/2020
+
+[2021] HKCA 404
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+SECRETARY FOR JUSTICE’S REFERENCE NO. 1 OF 2020
+
+ 	IN THE MATTER of DCCC 872/2019
+ 	and
+ 	IN THE MATTER of section 81D of the Criminal Procedure Ordinance, Cap 221 of the Laws of Hong Kong
+ 
+
+BETWEEN	 	 
+SECRETARY FOR JUSTICE	Applicant
+and	
+TONG WAI HUNG (湯偉雄)	1st Respondent
+TO ELAINE (杜依蘭)	2nd Respondent
+LEE YUEN YUI, NATALIE (李宛叡)	3rd Respondent
+________________________
+
+Before:	Hon Poon CJHC, Macrae VP and A Pang J in Court
+Date of Hearing:	25 January 2021
+Date of Judgment:	25 March 2021
+________________________
+
+JUDGMENT
+
+________________________
+
+Hon Poon CJHC (giving the Judgment of the Court):
+
+A. Introduction
+
+1.  When an offence is committed, more than one person may be criminally liable for it.  Depending on their involvement and manner of participation, the perpetrators may be categorized as either principals or secondary parties.[1]  Principals are those who carry out the conduct constituting the offence.  In the eyes of the criminal law, secondary parties are equally liable as principal offenders.[2]  Secondary parties refer to accessories, and may also include parties to a joint enterprise.  An accessory aids, abets, counsels or procures the principal to commit an offence. Accessorial liability first originated from common law and is now entrenched in section 89 of the Criminal Procedure Ordinance, Cap 221 (“CPO”).[3]  A party to a joint enterprise participates in a joint criminal enterprise during which an offence is committed by the principal acting in concert and with a common design.  His liability is founded at common law: see HKSAR v Chan Kam Shing (2016) 19 HKCFAR 640, per Ribeiro PJ at [32].  
+
+2.  Usually a perpetrator of a crime is present at the scene.  But the law does not always require his physical presence to establish liability.  Thus:
+
+(1)     A principal may be liable even though he is not actually present when the crime is committed: R v Harley (1830) 4 C&P 369.
+
+(2)     Under the accessorial rules, an accessory who counsels or procures an offence provides assistance or encouragement prior to the commission of the offence:[4] Chan Kam Shing, per Ribeiro PJ at [12].[5] His presence at the scene is therefore not necessary. 
+
+(3)     The presence of a party to a joint enterprise at the scene of the crime is not a pre-requisite for his criminal liability: Sze Kwan Lung & Others v HKSAR (2004) 7 HKCFAR 475, per Bokhary PJ at [36].
+
+3.  As a common law notion, the doctrine of joint enterprise applies to all offences, common law or statutory, unless it is expressly or impliedly excluded by statute: R v Mok Wei-tak & another [1986] HKLR 1054, at p.1077F; and R v Jefferson (1994) 99 Cr App R 13.[6]  It follows that unless expressly or impliedly excluded by statute, the doctrine of joint enterprise, including its coverage of perpetrators not present at the scene, applies to unlawful assembly and riot under sections 18 and 19 of the Public Order Ordinance, Cap 245 (“POO”).
+
+4.  The three respondents in the proceedings below were jointly charged with riot which took place on 28 July 2019 at Des Voeux Road West.  There was no direct evidence showing the respondents’ physical presence.  Relying on circumstantial evidence, the prosecution asked the trial judge[7] to find that they were present, either participating in person or encouraging or supporting other rioters there taking part in the riot; or alternatively that they were parties to the riot under the doctrine of joint enterprise where their presence at the scene was not essential.
+
+5.  On 24 July 2020, the judge handed down his reasons for verdict, acquitting the three respondents of riot and the alternative charge of unlawful assembly (contrary to section 18 of the POO).[8] In doing so, the judge refused to make the finding inferentially that they were physically present at Des Voeux Road West at the time of the riot.  Relevantly for present purposes, he ruled that as a matter of statutory construction, sections 18 and 19 of the POO had excluded the common law doctrine of joint enterprise covering offenders not present at the scene from the offences of riot and unlawful assembly.[9]
+
+6.  The judge’s ruling prompted the Secretary for Justice to refer the following questions of law under section 81D of the CPO for this Court’s determination:
+
+(1)     For the offences of unlawful assembly and riot respectively under sections 18 and 19 of the POO whether the common law doctrine of joint enterprise as elucidated in Chan Kam Shing, supra, is applicable (Question 1); and
+
+(2)     If Question (1) is answered in the affirmative, for the offences of unlawful assembly and riot, whether the principle that a defendant’s presence at the scene is not always necessary for criminal liability under the common law doctrine of joint enterprise as enunciated in Sze Kwan Lung, supra, is applicable (Question 2).
+
+7.  The Secretary, however, does not seek to disturb the acquittals of the respondents.  She only seeks to clarify these important questions of law, which obviously have far reaching implications for the prosecution of the offences of riot and unlawful assembly in the future.
+
+8.  To put the Questions in their proper factual context and to answer a preliminary point raised by Mr Hectar Pun, SC for the 1st and 2nd respondents,[10] it is necessary to first set out the facts in fuller detail.[11]
+
+B.      The facts
+
+9.  On 28 July 2019, a public meeting was held at Chater Garden in Central pursuant to a letter of no objection issued by the police.  At 3 pm, a large group of people left the meeting and marched westwards along the carriageway of Connaught Road Central, in breach of the conditions specified in the letter of no objection from the police.  At about 4:30 pm, a large crowd of people were marching along Connaught Road Central towards the Liaison Office of the Central People’s Government in the HKSAR.  About 20 minutes later, the police began to be deployed outside Western Police Station on Des Voeux Road West to prevent unauthorized assemblies.  At about 5:20 pm, the police set up an eastward cordon line outside Western Police Station on Des Voeux Road West.  A large crowd of people were then assembling on Des Voeux Road West between Western Street and Centre Street before the police cordon.  Some were wearing black outfits, helmets, goggles and surgical masks, and holding hiking sticks or umbrellas in their hands.  Some were speaking through loudspeakers while others were shouting slogans and raising hue and cry.
+
+10.  The prosecution case is that between about 5:20 pm and 7:00 pm, such disorderly conduct degenerated into acts of breach of peace.  Some protestors removed the metal railings from the roadway and used them together with umbrellas and other objects to form barricades in staging a confrontation with the police.  Some generated noise by hitting on hard objects.  The police issued warnings repeatedly and displayed warning banners in different colours to warn the protestors to leave.  When they refused, the police at about 7:00 pm took action to disperse them.  When moving eastward along Des Voeux Road West outside Western Police Station, the police fired tear gas towards the protestors.  Some protestors threw bricks towards the police.  The situation became chaotic and emotions were high.  At the same time, the protestors retreated eastward along Des Voeux Road West. About 20 officers of the Special Tactical Contingent were advancing in the front row.  They chased and followed a group of about 30 to 50 protestors who were retreating into Ki Ling Lane, which runs perpendicular to Des Voeux Road West.
+
+11.  A short distance into Ki Ling Lane leads to the entrance of an unnamed lane behind Tung Che Commercial Centre running parallel to Des Voeux Road West, which the judge referred to as “Tung Che rear lane”.  A few steps from the entrance to Tung Che rear lane further down Ki Ling Lane is Exit B3 of the MTR Sai Ying Pun Station (“Exit B3”).  The east end of Tung Che rear lane joins Sai Yuen Lane, which runs parallel to Ki Ling Lane.  Sai Yuen Lane opens to Des Voeux Road West on the north but its southern end was blocked by a mesh fence.
+
+12.  The CCTV footage of Tung Che Commercial Centre at Tung Che rear lane showed that before 7 pm, a large crowd of people was already staying in the vicinity of Exit B3 and Tung Che rear lane.  Some of them were wearing black outfits, helmets, goggles and surgical masks.  The CCTV footage also captured the events referred to at [10] above when they showed, at about 7 pm, a group of people suddenly dashing from Des Voeux Road West into Ki Ling Lane, followed by the Special Tactical Contingent officers.  Relevantly, from the CCTV footage the arresting officers identified the 1st respondent who stood near a gate at Tung Che rear lane before the Special Tactical Contingent officers emerged and later left the rear lane with the 2nd respondent into Sai Yuen Lane.
+
+13.  The CCTV footage of the Agency for Volunteer Service at Sai Yuen Lane showed that the 1st and 2nd respondents first turned left towards Des Voeux Road West after entering into Sai Yuen Lane.  Shortly afterwards, the people at Sai Yuen Lane suddenly covered their noses and then a group of people dashed into Sai Yuen Lane from Des Voeux Road West.  At that juncture, the 3rd respondent was seen entering Sai Yuen Lane with her head down.  She was supported by a man wearing a helmet.  The 1st and 2nd respondents reappeared in the CCTV footage.  Unlike others, they were not running southward towards the end of Sai Yuen Lane.  Instead, they stood in front of each other, facing the group of people running into Sai Yuen Lane.  They then lent support to the 3rd respondent by holding her arms from each side.  The three of them walked in the same direction until they were out of range of the CCTV.
+
+14.  According to the evidence of the Special Tactical Contingent officers, when they reached the end of Sai Yuen Lane to disperse and arrest the protestors, they saw the 1st respondent standing in front of a mesh fence.  He put up his palms in front of his chest whilst shifting to the left and right in a bid to block the police with his body so as to obstruct the interception of the 2nd and 3rd respondents.  The 2nd respondent was trying to climb over the mesh fence while the 3rd respondent had already landed on the other side of the mesh fence.  In the end, the police subdued and arrested the 1st and 2nd respondents.  The 3rd respondent then climbed back over the fence upon instruction and was arrested.  They were then brought back to the Western Police Station.
+
+15.  At the time of the arrest, the 1st respondent was wearing a black vest, a pair of black trousers, with a black-green patterned scarf on his neck, a pair of black arm sleeves on both arms and a pair of black shoes.  He was also carrying a black rucksack containing items which included one respirator, one black helmet, one pair of black arm guards, one pair of black gloves, 5 bottles of saline and one radio transceiver.  The 2nd respondent was wearing a black vest, a pair of trunks in green-black stripes and a pair of black shoes, with a black helmet and grey-pink respirator.  She was also carrying a rucksack, containing items which included one hiking stick, one pair of black arm guards, one pair of green transparent goggles, one pair of black gloves, 3 bottles of saline, 12 pieces of “3M N95” masks and one radio transceiver.  The 3rd respondent was wearing a black short-sleeved blouse, a pair of black pants and a pair of light-coloured shoes, a yellow helmet and surgical mask, and with both hands wrapped in cling wrap.  She was also carrying a rucksack containing items including one green surgical mask and one foldable umbrella.
+
+16.  As we have said, there was no direct evidence against the respondents to show that they had actually participated in the riot.  The prosecution relied on circumstantial evidence to prove its case against them, including their outfits and gear at the time of arrest and their attempted flights.
+
+17.  The 1st and 2nd respondents did not give evidence.  The judge observed:[12]
+
+“…the prosecution in fact did not have any direct evidence to prove whether [the 1st and 2nd respondents] assembled together with other protestors on Des Voeux Road West that day or (if yes) when. In the analysis of the first two defendants’ participation in the riot, the prosecution can only invite the court to draw an inference that [they] were among the group who dashed into Ki Ling Lane at an earlier time by relying on the facts that a large batch of people dashed from Des Voeux Road West into Ki Ling Lane shortly after the police advanced around 7:00 pm that day; that [the 1st and 2nd respondents] were soon found at Tung Che rear lane; and that they eventually took flight at Sai Yuen Lane.”
+
+18.  The 3rd respondent gave evidence.[13]  Although she admitted that she was present on Des Voeux Road West between 6:30 pm and 7 pm, she denied that she had participated in the riot.  She said that throughout she was only standing on the pavement watching the confrontation between the protestors and the police until they advanced the cordon and fired tear gas.  Amidst the confusion, she was shoved by the retreating crowd into Sai Yuen Lane.
+
+C.      Reasons for verdict
+
+19.  The judge first set out the elements of the offence of riot:
+
+“26. The prosecution are required to prove the matters including: first, 3 or more than 3 persons assembled at the material times and location of the present case, and the said assembly falls within the definition of an “unlawful assembly” by virtue of section 18(1) of the [POO], namely the persons so assembled conducted themselves in a disorderly, intimidating, insulting or provocative manner intended or likely to cause any person reasonably to fear that the persons so assembled would commit a breach of the peace, or would by such conduct provoke other persons to commit a breach of the peace. When considering this issue, it is necessary for the court to determine whether the defendants in the present case conducted themselves in the prescribed manner under section 18(1) with the required corporate nature/common purpose, resulting in the prescribed consequences under section 18(1). The test for “a breach of the peace” is: “…there is a breach of the peace whenever harm is actually done or is likely to be done to a person or in his presence to his property or a person is in fear of being so harmed through an assault, an affray, a riot, unlawful assembly or other disturbance.”
+
+27. After the unlawful assembly is found to exist at the material times and location, the prosecution have to further prove in accordance with section 19(1) that anyone who took part in the unlawful assembly (they could be but not necessarily the defendants) had breached the peace, thereby turning the unlawful assembly into a riot. Likewise, the test for breach of peace remains the same as the above.
+
+28. Last, the prosecution have to prove that the three defendants in the present case “participated” in the riot.  Participation in a riot takes various forms and involves different degrees.  However, the prosecution still have to prove all three defendants had the necessary corporate nature/common purpose during the riot, and their conduct in itself has to be considered sufficient or not to constitute “participation” in the riot at the material times.”
+
+20.  The judge then observed that the doctrine of joint enterprise was inapplicable to the offences in question because they had the distinctive feature of “corporate nature” requiring the offenders to have a common purpose, and also to assemble together; and that riot also derives its gravity from the sheer number of participants acting in concert to achieve their purpose with violence[14].  The Judge cited HKSAR v Leung Tin Kei [2020] 4 HKLRD 462 (CA) and Secretary for Justice v Leung Kwok Wah [2012] 5 HKLRD 556 in support of his views.
+
+21.  The judge rejected the prosecution’s contention that the scope of a joint enterprise could be extended to cover any person who did not physically take part in the assembly.  In that regard, he noted that the Court of Final Appeal in Sze Kwan Lung, supra, had made it clear that the evidence of joint enterprise is stronger if all participants are present at the scene; and that the defendants in Jefferson, supra,were convicted on the basis of their presence among the crowd as aiders and abettors, thereby providing encouragement to others to use violence.[15]
+
+22.  Evidentially, the judge found that the prosecution had failed to prove that the acts of the protestors constituted a riot at the material times; and ruled that “the actual riot in the case began at 7:02 pm at the very moment when the police cordon advanced and the protestors threw objects at the police”.[16]
+
+23.  Furthermore, having pointed out that there were multiple access points to Ki Ling Lane leading to Sai Yuen Lane,[17] the judge found that, absent any evidence showing whether (and why[18]) the 1st and 2nd respondents were physically present at the location of the offence during the alleged period, there was nothing to exclude the possibility that they were actually not part of the protestors who fled when the police advanced.[19]  As regards the 3rd respondent, the judge found there was a lack of circumstantial evidence upon which it could be inferred that she assembled with other protestors and shared a common purpose with them; and that her presence might be consistent with an innocent purpose.[20]
+
+24.  For those reasons, the judge acquitted the respondents of the charge of riot and the alternative charge of unlawful assembly.
+
+D.      Whether the Questions are properly raised
+
+25.  It is well established that a reference of a point of law under section 81D of the CPO is not a reference in the abstract but is in relation to the case in which the point has arisen: Attorney-General’s Reference (No 2 of 1975) [1976] 1 WLR 710, at p.714E.  Accordingly, the point of law referred must actually arise in the case and there is no power of the Secretary for Justice to refer theoretical questions of law, however interesting or difficult: Attorney-General’s Reference (No 4 of 1979) [1981] 1 WLR 667, at p.672G-H.
+
+26.  Mr Pun took the preliminary point that the Questions did not arise in the present case.  He pointed out that the ruling by the judge was made in response to the prosecution’s submission that even if the court could not draw an inference that the 1st and 2nd respondents were present at the riot scene on Des Voeux Road West, it could still rely on the doctrine to find that they had participated in the riot.[21] However, the judge found that even if the doctrine were applicable, “the prosecution would still have failed to infer beyond reasonable doubt the existence of a joint plan between the two [respondents] and others assembled on Des Voeux Road West or the respective roles they played in the enterprise.”[22]  Mr Pun argued that in light of the judge’s finding, there was no appropriate factual matrix to enable this Court to examine how the doctrine of joint enterprise should be properly applied if at all in the context of unlawful assembly or riot.
+
+27.  Mr Pun’s reliance on the findings by the judge is misplaced.  For the Questions do not stem from the judge’s findings but from the undisputed circumstantial evidence relied on by the prosecution, such as the fact that the respondents were found in close vicinity soon after the police took action to disperse the protestors; that they wore black outfits with gear similar to other protestors taking part in the riot; that, in the case of the 1st and 2nd respondents, they were each in possession of a radio transceiver without licence; and that they attempted to flee when found by the police.   Those undisputed facts are capable of proving inferentially their participation in the riot or unlawful assembly on Des Voeux Road West based on the doctrine of joint enterprise, if applicable as a matter of law.  Arising from such factual matrix, the Questions are real and important and merit this Court’s determination.
+
+E.      The doctrine of joint enterprise
+
+28.  Before proceeding further, it is useful to briefly recapitulate the main features of the doctrine of joint enterprise as a prelude to the analysis of its applicability to sections 18 and 19 of the POO.
+
+29.  First, it is a fundamental principle of the criminal law that a secondary party is guilty of the same offence as the principal: R v Jogee, [2017] AC 387, at [1].  While the UK Supreme Court’s remark is directed at accessories, the same must be true for parties liable under the doctrine of joint enterprise.  That is because for such parties, each of them is criminally liable for all the acts done in furtherance of the joint enterprise: Sze Kwan Lung, supra, at [34].
+
+30.  Second, while an accessory’s liability is derivative, a party to a joint enterprise attracts independent liability.  Under the accessorial rules, only if it is proved that the principal offence has been committed (even if the identity of the principal is not known) can an alleged accessory’s liability be established.  Otherwise the defendant may be guilty of an inchoate offence of conspiracy, incitement or attempt but not as an accessory.  See Chan Kam Shing, supra, at [14]. On the other hand, the doctrine of joint enterprise is a common law tool developed by the courts to overcome evidential and situational uncertainties encountered in the application of the traditional accessorial rules (see Chan Kam Shing, at [15]-[31]).  It is a distinct doctrine from the traditional accessory rules, although there are situations where those rules may overlap. And liability is not derivative.  It is not dependent on proving that the principal committed the main offence and that the secondary party assisted or encouraged its commission.  Liability is independently based on each defendant’s participation in a joint criminal enterprise with the requisite mental state to constitute the offence relevant to the defendant in question.  See Chan Kam Shing, supra, at [33].
+
+31.  Third, while the law refers to the perpetrators of a crime as principals and secondary parties in order to distinguish their role or involvement in the crime, it by no means attributes lesser culpability to the latter.
+
+32.  For an accessory, he shares in the physical acts because if it was not he who carried out the prohibited acts, he had encouraged or assisted those acts.  He also shares the culpability precisely because he encouraged or assisted the offence.  See R v Jogee, ibid.  In Chan Kam Shing, Ribeiro PJ at [61] observed that the person who procures the commission of a murder by a contract killer is at least as culpable as the killer himself.  He went on to note the example given by Stephen J in Johns v The Queen (1980) 143 CLR 108 at p.117, that Lady Macbeth was surely more blameworthy than her husband. 
+
+33.  For a party to a joint criminal enterprise, his liability arises independently by virtue of his participation in the joint criminal enterprise.  As Ribeiro PJ explained in Chan Kam Shing, supra:
+
+“63. In basic … cases where the co-adventurers agree to carry out and then implement a planned crime, there can hardly be any doubt as to the culpability of all the participants, whichever one of them actually carried out the actus reus …
+
+64. In an extended joint criminal enterprise case, the wrongdoing of the participants “lies in the mutual embarkation on a crime with the awareness that the incidental crime may be committed in executing their agreement.” Such a person agrees to carry out a criminal venture with others, foreseeing that one or more of them might, in certain contingencies, commit some further, more serious offence … and proceeds with the venture nonetheless. The foresight required under this rule is not open-ended. It is foresight of the commission of the actual further offence as a possible incident of the execution of their planned enterprise. And it is foresight of a real possibility of the offence being committed and excludes a risk fleetingly foreseen and dismissed as negligible. …
+
+65. A party who is proved to have satisfied the aforesaid conditions deserves to be regarded as gravely culpable. …”
+
+34.  Fourth, as already alluded to, as in the case of a principal or an accessory, it is not necessary for a party to a joint enterprise to be present at the scene of a crime to be acting in pursuance of a common purpose with others who were present: see [2] above.
+
+F.      Construing sections 18 and 19
+
+35.  Section 18 of the POO provides:
+
+“(1) When 3 or more persons, assembled together, conduct themselves in a disorderly, intimidating, insulting or provocative manner intended or likely to cause any person reasonably to fear that the persons so assembled will commit a breach of the peace, or will by such conduct provoke other persons to commit a breach of the peace, they are an unlawful assembly.
+
+(2) It is immaterial that the original assembly was lawful if being assembled, they conduct themselves in such a manner as aforesaid.
+
+… ”
+
+36.  Section 19 stipulates:
+
+“(1) When any person taking part in an assembly which is an unlawful assembly by virtue of section 18(1) commits a breach of the peace, the assembly is a riot and the persons assembled are riotously assembled.
+
+…”
+
+37.  As already alluded to, whether the doctrine of joint enterprise applies to sections 18 and 19 of the POO is essentially a matter of construction of the two provisions.[23]  And it is now well settled that the courts adopt a purposive approach to statutory construction: HKSAR v Cheung Kwun Yin (2009) 12 HKCFAR 568, per Li CJ at [11]-[14].  This was recently encapsulated in French NPJ’s remarks in Secretary for Justice v Cheng Ka Yee (2019) 22 HKCFAR 97 at [34]:
+
+“This Court has stated in numerous judgments the principles which it applies to the task of statutory construction. It looks to the text of the provision to be construed, its context, including the statute of which it is part and its legislative history, and its purpose.”
+
+38.  We will look very briefly at the legislative history of sections 18 and 19 of the POO as a starting point.
+
+F1.     A brief legislative history
+
+39.  Before the enactment of sections 18 and 19, unlawful assembly and riot were common law offences.  In October 1967, the Public Order Bill was published for general information. Clauses 18 and 19, contained in Part IV, created the statutory offence of unlawful assembly and riot respectively.  Clause 18 soon drew criticism that its scope might be too wide.  It was then amended.  In moving the Bill for the first reading on 1 November 1967, the then Attorney General said:
+
+“[The] law in Hong Kong on the maintenance of public order, the control of meetings and allied matters is contained partly in English Common Law and partly in a number of Ordinances dealing with different aspects of the subject, for example, the Summary Offences Ordinance, the Public Order Ordinance and the Peace Preservation Ordinance.
+
+It has for some years been the intention to codify the various provisions into a single Ordinance, so that the law on these matters would be more readily available and more easily understood by the general public and by those responsible for enforcing the law. The Bill … is thus intended to be a comprehensive piece of legislation dealing with all aspects of public order. It is more than a mere consolidation of existing law and the opportunity has been taken to expand certain provisions and to fill in some gaps which experience has revealed in it. The Comparative Table annexed to the printed Bill shows that, with few exceptions, all the clauses are based either upon legislation which is already in force in Hong Kong or on provisions taken from the law of some other Commonwealth country.
+
+…
+
+Part IV of the Bill is largely new to the law of Hong Kong in statutory form, though much of it is based on the common law. The common law on the subject of unlawful assembly and riot has developed little in the past 100 years, during which time this kind of civil disorder has almost disappeared in the United Kingdom. Some of the requirements of the common law in relation to these offences were rather technical and ill-adapted to modern conditions. Although the basic principles of unlawful assembly and riot have been retained therefore certain modifications have been made.
+
+Clause 18 has been re-drafted since the Bill was published for general information in such a way as to greatly reduce the risk that innocent persons caught up in an unlawful assembly might find themselves guilty of the offence. The clause now provides that if three or more persons assembled together conduct themselves in a manner intended or likely to cause anybody reasonably to fear a breach of the peace then they are an unlawful assembly.
+
+By clause 19 an unlawful assembly becomes a riot as soon as any person taking part in it commits a breach of the peace.”
+
+40.  At the second reading on 15 November 1967, the Attorney General in dealing with various concerns raised by the public and the press on the Bill, reiterated that:
+
+“The majority of those clauses, however, are based upon similar provisions taken from English Acts or from the common law.”
+
+41.  The Bill was then read for the second time and, after consideration by the Council in the Committee stage, read for the third time on the same day.  Clauses 18 and 19 now became sections 18 and 19 respectively.
+
+42.  In February 1970, the Public Order (Amendment) Bill 1970 was introduced to amend, among others, sections 18 and 19.  In moving the second reading, the Attorney General explained the main reason for the amendments:
+
+“… the Public Order Ordinance, when it was introduced in 1967, attracted a considerable amount of criticism in the press and by various associations and bodies, which argued that the Ordinance went further than was justified, that unnecessary powers were conferred on the police and that some of the provisions were so drafted that it might be possible for morally innocent persons to be found guilty of offences under it.
+
+…
+
+Many of the amendments which are proposed in this bill are based on a recognition that some of the provisions of the Ordinance confer unnecessarily wide powers in ordinary times and that, in a few instances, there may be a risk that innocent persons may become involved in offences.  In an emergency situation, of course, the Government might be obliged to resort to emergency regulations, and would not hesitate to do so if it considered that the maintenance of order so required.  However, it is felt that the lessening of certain powers achieved by this bill is desirable in ordinary circumstances.”
+
+43.  The definition of an unlawful assembly in section 18 was altered to show that there must be a disorderly element in the conduct of an assembly before it became unlawful.  It was also made clear that section 19 applied only to assemblies which were unlawful by virtue of section 18.
+
+44.  Two interpretative factors arise from the legislative history that help inform the construction of sections 18 and 19:
+
+(1)     Unlawful assembly and riot were previously common law offences.  The basic common law principles pertaining to them were meant to be retained when sections 18 and 19 were introduced.  Those common law principles should continue to apply unless on a proper construction they do not.
+
+(2)     The amendments to sections 18 and 19 in 1970 were introduced to address the risk of overcharging otherwise innocent persons caught up in an unlawful assembly or riot.  Thus overcharging should be avoided in construing the two sections.
+
+F2.    Public interest considerations
+
+45.  The construction exercise is further informed by the public interests underpinning the offences of unlawful assembly and riot.
+
+46.  As its name suggests, the main purpose of the POO is for the maintenance of public order.  That is also apparent from its long title, namely:
+
+“To consolidate and amend the law relating to the maintenance of public order, the control of organizations, meetings, processions, places, vessels and aircraft, unlawful assemblies and riots and matters incidental thereto or connected therewith.” (Emphasis supplied)
+
+47.  The immense public interests involved in maintaining public order are crucial to the stability and development of Hong Kong as a civilized society with the rule of law as its solid foundation.  Relevantly in the context of unlawful assembly, I explained the public interests in Secretary for Justice v Wong Chi Fung [2018] 2 HKLRD 699, at [118] thus:[24]
+
+“Society is prone to descend into anarchy if public order is not preserved; once such a situation arises, the harm done to both society and its citizens cannot be understated. For society as a whole, preserving public order is indispensable to societal safety and public peace. Lawlessness in anarchic situations undermines social stability and hampers continuous development of a society. For the general public, preserving public order helps create a safe and stable social environment to enable individuals to exercise their rights (including human rights of which the freedom of assembly and expression is one), express their views and pursue their goals. In fact, the above-mentioned rights themselves will be lost in a situation of anarchy if public order is not preserved. That is exactly the rationale underlying art.17 of the Hong Kong Bill of Rights in only safeguarding peaceful assembly: the legal protection of the right of assembly is effective only in a society where public order is preserved. Because preserving public order is so important to the society and the general public, the law must always remain vigilant to ensure that public order in Hong Kong is not under threat. That does not mean that the law is only concerned about public order, or that it will ignore the rights and freedoms enjoyed by citizens in accordance with law, lest society is likely to descend into a suppressed state, which would impede Hong Kong’s development and progress and deprive its citizens of their various freedoms and rights. The law must give consideration to both, and to strike a balance between the right of assembly and the need to preserve public order. That balance is embodied in the basic premise that assemblies must be held peacefully without disrupting or threatening to disrupt public order, or without involving any violence or threat to use violence.”
+
+Self-evidently, the offence of riot involves the same public interest considerations.
+
+48.  In our view, when considering whether the doctrine of joint enterprise has been excluded by sections 18 and 19, the court must adopt a construction which gives full recognition to these public interest considerations.  On the one hand, the construction must ensure that all the perpetrators of the offences are caught by the sections so that public order is effectively maintained.  We will elaborate on this consideration in Part F3 below.  On the other hand, the construction should avoid the risk of over-charging where innocent persons caught up in an unlawful assembly or even riot might find themselves exposed to criminal liability, which would unduly restrict the right of lawful and peaceful assembly.  This consideration accords with the second interpretative factor we distilled from the legislative history at [44] above.  We will discuss it in Part F4 below.
+
+F3.    Maintaining public order
+
+49.  As we have said, sections 18 and 19 must be given a construction which furthers the statutory objective of maintaining public order.
+
+50.  The gravamen of unlawful assembly and riot, whether as common law or statutory offences, lies in the participants of the unlawful assembly or riot acting in large numbers and using those numbers to achieve their common purpose: Wong Chi Fung, supra, at [123]-[127] referring to R v Caird (1970) 54 Cr App R 499; R v Gilmour [2011] EWCA Crim 2458; R v Blackshaw [2012] 1 Cr App R (S) 114; HKSAR v Tang Ho Yin [2019] 3 HKLRD 502, at [24]; Leung Tin Kei, supra, at [78].
+
+51.  In terms of who might be criminally liable under the common law offences of unlawful assembly and riot, Sachs LJ in Caird, supra, said at p.505:
+
+“It is the law – and, indeed, in common sense it should be the case – that any person who actively encourages or promotes an unlawful assembly or riot, whether by words, by signs or by actions, or who participates in it, is guilty of an offence which derives its great gravity from the simple fact that the persons concerned were acting in numbers and using those numbers to achieve their purpose.” (Emphasis supplied)
+
+52.  By using the conjunction “or” in categorizing the perpetrators, Sachs LJ clearly had both the principal offenders (those who participate in the unlawful assembly or riot) and the accessories (those who actively encourage or promote it) in mind.[25]  This is a classical application of the cardinal principle of criminal law that an accessory is guilty of the same offence as the principal in unlawful assembly and riot.  The accessory shares the physical acts of unlawful assembly or riot carried out by the principal by assisting or encouraging those physical acts.  He shares this culpability precisely because he has assisted or encouraged the offence.  He has caused the same harm and damage to the maintenance of public order as the principal has.  He must accordingly be held liable as the principal.
+
+53.  Although Sachs LJ only spoke of a traditional accessory, there is nothing in his judgment to indicate that a party to a joint enterprise should not be held equally liable as the principal.  In fact, he must be.  Put in its briefest terms, a party to a joint enterprise participated in the criminal act of another: R v Stewart [1995] 1 Cr App R 441, per Hobhouse LJ at p.447; quoted in Chan Kam Shing, supra, at [37].  By participating in the offence of unlawful assembly or riot in a joint enterprise, the party must be liable for it as the principal.  All the reasons stated above explaining why an accessory should be held liable apply to him with equal force.
+
+54.  In short, for the common law offences of unlawful assembly and riot, an accessory or a party to a joint enterprise is liable as the principal.  This serves the public interest of maintaining the public order.  According to the first interpretative factor distilled from the legislative history at [44] above, the legislature must have intended to retain this common law rule for the statutory offences of unlawful assembly and riot because it plainly furthers the statutory objective of maintaining public order.
+
+55.  A contrary construction which excludes the doctrine of joint enterprise from sections 18 and 19 will have dire consequences for the maintenance of public order.
+
+56.  As submitted by Mr Eric Kwok SC for the Secretary,[26] unlawful assemblies and riots nowadays are highly fluid in nature.  They involve a myriad of participants playing various roles and sometimes with a rather sophisticated division of labour among them.  Some physically participate in the unlawful assembly or riot at the scene.  Some aid or abet the participants at the scene.  Some may not even be present but are clearly participants under the doctrine of joint enterprise.  Take the following examples:
+
+(1)     A mastermind of the unlawful assembly or riot who remotely oversees the situation and gives commands or directions to the participants on the ground.
+
+(2)     A person who funds or provides materials for the unlawful assembly or riot.
+
+(3)     A person who encourages or promotes the unlawful assembly or riot by making telephone calls or spreading messages on social media.
+
+(4)     A person who provides back-up support to the participants in the vicinity of the scene, such as collecting gear, bricks, petrol bombs, other weapons, and other materials to be used by the participants.
+
+(5)     A lookout stationed in the vicinity who alerts the participants to the advance or deployment of the police.
+
+(6)     A person who drives a getaway car to allow the participants to leave the scene.
+
+The list is not exhaustive.
+
+57.  Whatever role the above participants might have played, they have all acted in concert with the principal offenders thereby sharing both their physical acts and culpability. If the doctrine of joint enterprise were excluded from sections 18 and 19, they would not be held liable as such, leaving a significant lacuna in the law of unlawful assembly and riot.  The public interest in the maintenance of public order would be seriously undermined, if not irreparably damaged.  This could not have been the legislative intent when enacting sections 18 and 19.
+
+58.  Admittedly, some perpetrators liable under the doctrine of joint enterprise might also be liable under the traditional accessorial rules or some inchoate offences such as conspiracy. But that is not a reason to exclude the doctrine from sections 18 and 19.  That is because the factual intersection and overlapping of the criminal principles does not deny their separate utility: see Chan Kam Shing, supra, at [44].  The legislature could not have intended to deprive the prosecution of the doctrine of joint enterprise, a useful and practical tool, in dealing with all sorts of perpetrators of unlawful assembly or riot when the dynamic contingencies self-evidently call for its full application.
+
+59.  Nevertheless, both Mr Pun for the 1st and 2nd respondents and Ms Olivia Tsang for the 3rd respondent[27] submitted that as a matter of construction, the doctrine of joint enterprise does not apply to sections 18 and 19.  We will deal with their main points in turn below.
+
+60.  First, Mr Pun argued that the court should apply the rule against doubtful penalization in its construction of sections 18 and 19.  The rule is of course well settled.  But it supports the remainder of Mr Pun’s arguments only if there is doubt or ambiguity in the legislative intent of the two sections.  For reasons already given and to be articulated below, we do not see any such doubt or ambiguity.
+
+61.  Second, Mr Pun argued that the policy reasons behind Chan Kam Shing do not apply to the statutory offences of unlawful assembly and riot.  He made four sub-points:
+
+(1)     The doctrine provides utility for dealing with evidential and situational uncertainties which could not fit within the framework of traditional accessorial liability.  Mr Pun argued that no such uncertainties are present in the two offences.  In our view, given the dynamic contingencies arising from the manner in which the offence of unlawful assembly and riot are committed, the blanket statement made by Mr Pun is an oversimplification and cannot be right.
+
+(2)     Mr Pun submitted that the doctrine in general seeks to hold such secondary party as equally and gravely guilty as the principal.  It is particularly so in the case of an extended joint enterprise because participation with the necessary foresight amounts to an intention to assist or authorization of the commission of the collateral crime.  In our view, this is another reason for applying the doctrine to sections 18 and 19 rather than for excluding it.
+
+(3)     Mr Pun relied on the common purpose of the offences.  We will deal with this when we come to his third main argument.
+
+(4)     Mr Pun contended that the independent liability rule under the doctrine is of particular value in murder cases “where there is evidential uncertainty as to who struck the fatal blow” but the same problem rarely, if at all, arises in the two offences.  Again it is a blanket statement which does not accord with our actual experience in dealing with the offences of unlawful assembly and riot.
+
+62.  Third, Mr Pun argued that sections 18 and 19 have either expressly or impliedly excluded the doctrine because of their corporate nature.
+
+63.  The term “corporate nature” was coined by Lam JA (as he then was) in Leung Kwok Wah, supra, at [18]-[22], denoting the dual requirements in the offences that the offenders must have a common purpose and that the offenders assemble together and while assembling together conduct themselves in the prescribed manner.  The dual requirements were subsequently approved by the Court of Appeal in Leung Tin Kei, supra.
+
+64.  In developing his submissions, Mr Pun relied on the remark by the Attorney General at the first reading on 1 November 1967 that the bill “was intended to be a comprehensive piece of legislation dealing with all aspects of public order”.[28]  He then argued that given the corporate nature of the offences, the legislative intent was clearly to penalize the limited classes of persons who committed acts that satisfy their corporate nature.  Sections 18 and 19 have therefore clearly excluded the application of the traditional accessorial rules and the doctrine of joint enterprise.
+
+65.  Mr Pun’s reliance on the Attorney General’s remark is misconceived.  Whatever the Attorney General had said, the fact remains that the POO is the principal piece of statute on public order offences but not an exhaustive code.  Other public order offences are to be found in the Crimes Ordinance, Cap 200, the Summary Offences Ordinance, Cap 228, and the common law.[29]
+
+66.  A more fundamental fallacy in Mr Pun’s argument is this.  Sections 18 and 19 are the primary offence-creating provisions.  They define the offences and set out their ingredients plainly with principal offenders in mind.  The dual requirements that this Court approved in Leung Tin Kei, supra, deal with the liability of principal offenders at the scene.  They do not concern the liability of accessories or parties to a joint enterprise including those who are not present at the scene.  As rightly submitted by Mr Kwok, the principles that this Court propounded in Leung Tin Kei, supra, do not displace the ordinary common law principle relating to accessories or parties to a joint enterprise, including those who are not at the scene.  Put differently, the liability of the principal offenders of unlawful assembly or riot is determined under sections 18 and 19 as defined and interpreted by the courts in the case law; whereas the liability of accessories or parties to a joint enterprise is determined by reference to the accessorial rules or the doctrine of joint enterprise, as the case may be.  Conflating the two, as Mr Pun seemed to have done, cannot be right.
+
+67.  Sections 18 and 19 do not limit the criminal liability of unlawful assembly and riot to principal offenders only as counsel contended.
+
+68.  Finally, Mr Pun relied on the corporate nature of the offences and submitted that even if the doctrine of joint enterprise applies, the principle that it covers offenders not present at the scene as enunciated in Sze Kwan Lung does not apply.  This argument must fail as it suffers from the same deficiency at [66] above.
+
+69.  Ms Tsang’s arguments can be disposed of relatively easily.
+
+70.  We begin by highlighting a glaring internal inconsistency in Ms Tsang’s submissions.  She accepted that the traditional accessorial rules continue to apply to sections 18 and 19.  However, she argued that the doctrine of joint enterprise does not. We fail to see the logic of her position and are in any event unable to find any justification in terms of policy for such an inherently inconsistent treatment.  Both accessories and parties to a joint enterprise are parties to the offences and should be held liable as such irrespective of their categorization.
+
+71.  As to the remainder of Ms Tsang’s arguments, they mostly concern why, as a matter of construction, the doctrine of joint enterprise, or at least the rule in Sze Kwan Lung, has been excluded by sections 18 and 19 as a matter of construction.  Essentially, she submitted that the court should adopt a restrictive construction of the two sections.  Under such a restrictive construction, the corporate nature of the offences is designed to target persons acting in number with a common purpose but not persons who merely support, assist or aid the participants of unlawful assembly or riot.  To apply another doctrine of joint responsibility would lead to an unnecessary duplication and also confusion to the existing doctrine subsumed in the element of the offences.  Her arguments are in substance the same as Mr Pun’s with some differences in emphasis and nuance.  For reasons already given, we reject them as well.
+
+72.  There are two additional main points in Ms Tsang’s submissions regarding construction which appear not to have been raised by Mr Pun.
+
+73.  First, she argued that the application of the principle of extended joint enterprise would effectively blur the distinction between unlawful assembly and riot, rendering the former nugatory.  This is because under that principle, anyone participating in an unlawful assembly will automatically be liable for riot in the event that there is a breach of peace, since the scope of common purpose included what the participants regarded as possibly involved in the venture.  The standard is as low as a “possibility” or “contemplation”: Chan Kam Shing, supra, at [46]-[48].  This could not have been an intended consequence of the legislature in enacting sections 18 and 19.
+
+74.  We disagree.  Whether or not a participant in an unlawful assembly will be liable for riot when there is an actual breach of peace must depend on the actual circumstances of the case.  Such a fact-sensitive question will not, as a matter of law or reality, blur the distinction between the two offences or render unlawful assembly otiose.
+
+75.  Second, Ms Tsang submitted that in connection with a party to the joint enterprise who is not present at the scene, there are alternative means available to deal with the secondary party without invoking the rule in Sze Kwan Lung, supra.  We reject this argument for the reasons stated at [58] above.
+
+76.  This disposes of the discussion arising from the first public interest consideration, namely, maintenance of public order.
+
+F4.    No over-charging
+
+77.  We now come to the second public interest consideration, namely, whether applying the accessorial rules or the doctrine of joint enterprise to sections 18 and 19 would give rise to any risk of over-charging, thereby exposing innocent persons caught in an unlawful assembly or riot to criminal liability.  (We do not limit our discussion to the doctrine of joint enterprise because of Mr Pun’s submission that the accessorial rules had been excluded by the two sections.)  In approaching this issue, it is instructive to bear in mind the fundamental principle that the law only protects lawful, peaceful demonstrations but not conduct which disrupts or threatens to disrupt public order: HKSAR v Chow Nok Hang (2013) 16 HKCFAR 837, per Ribeiro PJ at [38]-[40].
+
+78.  We first look at the position of a demonstrator or a by-looker or onlooker at the scene.
+
+79.  A peaceful demonstration does not lose its character as such because of an isolated outbreak of violence.  See Kwok Wing Hang & Others v Chief Executive in Council and Another [2020] HKCFA 42, at [118]-[120].  In such a scenario, neither a peaceful demonstrator nor a by-looker or onlooker who does not become involved in the violence will be caught by section 18 or 19.
+
+80.  When a peaceful demonstration degenerates into unlawful assembly or even riot, common sense dictates that a peaceful demonstrator or a by-stander or onlooker should leave the scene as soon as reasonably practicable.  If he does not do so for some good reason, or cannot because of the actual circumstances at the scene, his mere presence without more will not render him liable under section 18 or 19.  However, if he becomes involved in the violence or the threat of violence or, using the language of sections 18 and 19 of the POO, a breach of peace, he crosses the line separating legally protected peaceful assembly and demonstration from unlawful activity, which is subject to legal sanctions and constraints:  Chow Nok Hang, ibid.  He ceases to be a peaceful demonstrator or by-stander or onlooker and should be held liable for his crime.  Depending on the actual circumstances and evidence, he may be involved in the violence or threat of violence as (a) a principal or (b) an accessory or a party to a joint enterprise.  In case (a), prosecuting him is of course not overcharging. Likewise, in case (b), prosecuting him under section 18 or 19 is not overcharging, but rather a legitimate step to hold him liable for his crime.
+
+81.  As to those who are not present at the scene, as is well established, presence is not a pre-requisite to establish their liability as accessories or parties to a joint enterprise. There can be no overcharging for prosecuting them for unlawful assembly or riot even if they are not present, which is clearly borne out by the examples that we have given at [56] above.
+
+82.  Ms Tsang submitted that technology has advanced since sections 18 and 19 were enacted.  Given the prevalent use of social networking applications such as WhatsApp, Instagram, Telegram and Facebook, people nowadays can easily find themselves placed in situations where they can be accused of encouraging people to participate in unlawful assemblies or riots by posting comments or sending messages, or even by simply giving a “like”.  Freedom of speech may be compromised consequential on an overexpansion of the interpretation of the two sections.
+
+83.  However, freedom of expression is not absolute.  It does not provide immunity to those who have actually, in the eyes of the criminal law, participated in an unlawful assembly or riot, such as by encouraging or promoting it, in the disguise of exercising their freedom of expression.  If there is sufficient evidence to establish their liability under the accessorial rules or the doctrine of joint enterprise, they are no longer innocent people exercising their freedom of expression.  They have crossed the permissible line and become a perpetrator to an unlawful assembly or riot and should be held liable as such.  The same principles enunciated in Chow Nok Hang, ibid, summarised at [77] and [80] above, apply to them equally. There is no overcharging in prosecuting them under section 18 or 19.
+
+84.  For these reasons, there is no overcharging by adopting a construction of sections 18 and 19 which retains the application of the traditional accessorial rules or the doctrine of joint enterprise.
+
+G.      Conclusion
+
+85.  In consequence, we respectfully disagree with the judge.  We would answer both Questions in the affirmative.[30]
+
+ 
+
+ 
+
+(Jeremy Poon)	(Andrew Macrae)	(Anthea Pang)
+Chief Judge of the	Vice President	Judge of the
+High Court	 	Court of First Instance
+  
+
+Mr Eric Kwok SC, Counsel on fiat, Mr Kelvin Tang SPP and Mr Wilson Lam SPP (Ag), of the Department of Justice, for the applicant
+
+Mr Hectar Pun SC, Mr Anson Wong Yu Yat and Ms Ferrida Chan, instructed by S. T. Cheng & Co., for the 1st and 2nd respondents
+
+Ms Olivia Tsang and Mr Ernie Tung, instructed by Tang & So, for the 3rd respondent
+
+[1] See Archbold Hong Kong on Criminal Law Pleadings Evidence & Practice 2021, at §17-1.
+
+[2] See further Part E.
+
+[3] Which provides: “Any person who aids, abets, counsels or procures the commission by another person of any offence shall be guilty of the like offence.”
+
+[4] Hence the reference “accessory before the fact”.
+
+[5] In R v Jogee [2017] AC 387, at [1], the UK Supreme Court gave the example that an accessory who funded the bank robbery or provided the gun for the purpose is as guilty as those who are at the scene.
+
+[6] Both Mok Wei-tak and Jefferson concern the traditional accessorial rules but the same principle is equally apt for the doctrine of joint enterprise.  See also Archbold Hong Kong 2021, at §17-7.
+
+[7] HH Judge Anthony Kwok.
+
+[8] [2020] HKDC 588.  The 1st and 2nd respondents were each further charged with and convicted of one count of possession of apparatus for radio-communications without licence under sections 8 and 20 of the Telecommunications Ordinance, Cap 106.
+
+[9] Reasons for Verdict, [94] and [196].
+
+[10] Leading Mr Anson Wong and Ms Ferrida Chan.
+
+[11] The summary below is taken from [6] to [17] of the Reasons for Verdict.
+
+[12] Reasons for Verdict, [35].
+
+[13] Reasons for Verdict, [36].
+
+[14] Reasons for Verdict, [79]-[81], [83], [88]-[89].
+
+[15] Reasons for Verdict, [90]-[94].
+
+[16] Reasons for Verdict, [62].
+
+[17] Reasons for Verdict, [106]-[107].  As the judge pointed out, “[t]o enter [Tung Che] rear lane from Des Voeux Road West, one has to pass through Ki Ling Lane and turn left, and the turning point is opposite to Exit B3.  Proceeding straight along the rear alley will come to Sai Yuen Lane, and a left turn at the end of the rear lane will return to Des Voeux Road West”.
+
+[18] Reasons for Verdict, [114].  One innocent possibility that the Judge found supported by the evidence was that they were there to serve as voluntary first-aiders.
+
+[19] Reasons for Verdict, [109].
+
+[20] Reasons for Verdict, [182] and [189].
+
+[21] Reasons for Verdict, [79].
+
+[22] Reasons for Verdict, [143]-[145].
+
+[23] The parties have not suggested that any other statutory provisions are relevant for this exercise.
+
+[24] The original judgment was written in Chinese: see [2018] 2 HKLRD 657.
+
+[25] At the hearing, we were told by counsel that they were unable to find any authority to show that a secondary party is liable for the common law offences of unlawful assembly and riot.  It would appear that Caird might have skipped their attention.
+
+[26] Leading Mr Kelvin Tang, Senior Public Prosecutor and Mr Wilson Lam, Senior Public Prosecutor (Ag).
+
+[27] Together with Mr Ernie Tung.
+
+[28] See [39] above.
+
+[29] See Archbold Hong Kong 2021, at §31-1.
+
+[30] Counsel have cited a number of overseas cases and materials on unlawful assembly and riot and similar offence, which were decided or produced under their respective legal framework.  As what we have discussed is already sufficient to enable us to dispose of the matter before us, we do not find it necessary to dwell on them.
+
+  

@@ -1,0 +1,1553 @@
+CASJ 1, 2 & 3/2021
+(Heard together)
+
+[2022] HKCA 1635
+
+CASJ 1/2021
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+SECRETARY FOR JUSTICE’S REFERENCE NO 1 OF 2021
+
+________________________
+
+ 	IN THE MATTER of section 81D of the Criminal Procedure Ordinance, Cap 221 of the Laws of Hong Kong
+________________________
+
+ 	SECRETARY FOR JUSTICE	Applicant
+________________________
+
+AND
+
+CASJ 2/2021
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+SECRETARY FOR JUSTICE’S REFERENCE NO 2 OF 2021
+
+________________________
+
+ 	IN THE MATTER of section 81D of the Criminal Procedure Ordinance, Cap 221 of the Laws of Hong Kong
+________________________
+
+ 	SECRETARY FOR JUSTICE	Applicant
+________________________
+
+AND
+
+CASJ 3/2021
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+SECRETARY FOR JUSTICE’S REFERENCE NO 3 OF 2021
+
+________________________
+
+ 	IN THE MATTER of section 81D of the Criminal Procedure Ordinance, Cap 221 of the Laws of Hong Kong
+________________________
+
+ 	SECRETARY FOR JUSTICE	Applicant
+________________________
+
+(Heard together)
+
+Before:  Hon Macrae VP, Zervos and A Pang JJA in Court
+
+Dates of Hearing:  14 June 2022 and 26, 27 and 29 July 2022
+
+Date of Judgment:  28 October 2022
+
+________________________
+
+J U D G M E N T
+
+________________________
+
+Hon Macrae VP (giving the Judgment of the Court):
+
+Table of Contents
+
+A.	Introduction	
+B.	Brief background; and the questions of law	
+C.	The trial concerning CASJ 1/2021	
+  C.1.	  The prosecution evidence	
+  C.2.	  The defence evidence	
+  C.3.	  Submission of no case to answer; the Judge’s ruling	
+D.	The trial concerning CASJ 2/2021	
+  D.1.	  The prosecution evidence	
+  D.2.	  Submission of no case to answer; the Judge’s ruling	
+  D.3.	  Direct exchanges between the Judge and the jury	
+E.	The trial concerning CASJ 3/2021	
+  E.1.	  The prosecution evidence	
+  E.2.	  Submission of no case to answer; the Deputy Judge’s ruling	
+F.	The submissions	
+G.	Answering Question 1	
+  G.1.	  The 1st fundamental legal principle	
+  G.2.	  The 2nd fundamental legal principle	
+  G.3.	  The 3rd fundamental legal principle	
+  G.4.	  The 4th fundamental legal principle	
+  G.5.	  The 5th fundamental legal principle	
+  G.6.	  The 6th fundamental legal principle; the application of R v Galbraith in common law jurisdictions	
+    G.6.1.	    A ‘wrong turn’ in R v Moore	
+    G.6.2.	    The problem in R v Hedgcock & Others; and a second ‘wrong turn’ in R v G & F?	
+    G.6.3.	    Is R v G & F compatible with R v Galbraith?	
+    G.6.4.	    The position in Australia: Doney v The Queen	
+    G.6.5.	    The position in New Zealand	
+    G.6.6.	    The decision of the Privy Council in DPP v Varlack	
+    G.6.7.	    The ‘King rider’	
+  G.7.	  The correct approach in Hong Kong	
+H.	Answering Question 2	
+  H.1.	  The Judge’s errors in CASJ 1/2021	
+  H.2.	  The Judge’s errors in CASJ 2/2021	
+  H.3.	  The Deputy Judge’s errors in CASJ 3/2021	
+I.	Conclusion	
+  I.1.	  Overruling the Judge and Deputy Judge’s rulings	
+  I.2.	  Proposed reform on the appeal mechanism	
+ 
+
+A.  Introduction
+
+1.  By three separate applications arising out of three different cases[1], the Secretary for Justice (“the Applicant”) has referred a common question of law to this Court, pursuant to section 81D of the Criminal Procedure Ordinance, Cap 221 (“the Criminal Procedure Ordinance”). On the basis of the identical questions involved[2], the Applicant has also sought to have the three applications heard together, which the Court so ordered on 22 October 2021. The Court was further satisfied that, despite the Applicant’s attempts to find the respondents, none of them could be located, since they had left Hong Kong immediately following their directed acquittals[3]. Accordingly, this Court directed that these applications should proceed in the absence of all respondents, who are required nevertheless to remain anonymous by virtue of the statutory requirement in section 6 of the Criminal Procedure (Reference of Questions of Law) Rules, Cap 221E.
+
+2.  At the hearing on 14 June 2022, the Court extended the appointment of Ms Maggie Wong SC as amicus curiae to encompass all three applications, as distinct from CASJ 1/2021 alone. Meanwhile, the Court took the opportunity to raise certain issues, on which it invited further specific argument from the parties to be incorporated in a set of consolidated submissions by each party. Accordingly, Mr William Tam SC (with him Mr Ira Lui and Ms Audrey Parwani) for the Applicant, as well as Ms Wong, each filed extremely comprehensive written submissions for the resumed hearing on 26 July 2022.
+
+B.  Brief background; and the questions of law
+
+3.  Each of the four respondents in these applications had been indicted on at least one count of trafficking in a dangerous drug, contrary to section 4(1)(a) and (3) of the Dangerous Drugs Ordinance, Cap 134; the first two trials taking place in the High Court before Campbell-Moffat J and a jury; the third before Deputy Judge McWalters and a jury. In each case, the prosecution relied on an inference to be drawn from various pieces of circumstantial evidence in order to establish the respondent’s knowledge of his/her possession of dangerous drugs. Each of the judges ruled, albeit at different stages of the trial, namely, at the close of the prosecution case (CASJ 3/2021), the close of the defence case (CASJ 1/2021) and the conclusion of both counsel’s addresses to the jury and, therefore, immediately prior to the summing-up (CASJ 2/2021), that there was no case to answer and, accordingly, directed the jury to acquit the relevant respondent.
+
+4.  The identical questions of law posed in each of the three applications are as follows:
+
+(1)  Where there is no direct evidence of a key element of the offence and the prosecution rely on circumstantial evidence in establishing that element, what is the correct approach that a trial judge should take in dealing with a submission of no case to answer made at the close of the prosecution case or during the course of the defence case? In particular, should the trial judge take into account competing inferences consistent with innocence which are only premised on the defence evidence? (hereinafter collectively referred to as “Question 1”)
+
+(2)  In the context of the present case of trafficking in a dangerous drug, where there is no direct evidence of the accused’s knowledge of the presence of the drug, whether the trial judge erred in respect of a question of law in ruling that there was no case to answer and directing the jury to acquit, namely (by) (i) wrongly finding that there was no admissible evidence from which the jury could draw the required inference; and (ii) wrongly making findings of fact and/or drawing inferences which were matters that ought to have been left to the jury to determine? (hereinafter referred to “Question 2”)
+
+5.  Before answering these questions, it is relevant to highlight in some detail the prosecution evidence led during the trials concerned; the defence evidence called (where any); the matters which occasioned the particular ruling of no case to answer; and the reasons for the ruling.
+
+C.  The trial concerning CASJ 1/2021
+
+6.  The respondent in the 1st application, namely, CASJ 1/2021 (hereinafter referred to as the 1st respondent), stood trial before Campbell-Moffat J (“the Judge”) and a jury.
+
+C.1.  The prosecution evidence
+
+7.  The 1st respondent was a citizen of Honduras, who had entered Hong Kong on 6 October 2018. As he was leaving the Customs Arrival Hall of Hong Kong International Airport, he was intercepted by Customs officers for a clearance check; during which there were discovered in his backpack, amongst other things such as some new clothing[4] and a notebook computer[5], two packets of substance in two different concealed compartments[6], with one of the packets covered by yellowish carton paper (with a corner protruding out from the inside of the backpack[7]). The substance was subsequently confirmed to be 1,909 grammes of a solid containing 1,420 grammes of cocaine narcotic, with a street value of some HK$2.14 million at the time.
+
+8.  Under caution, the 1st respondent said that he had obtained the backpack in São Paulo, Brazil, from an unknown male some two weeks earlier; he was then instructed to deliver the same backpack to someone in Hong Kong as a gift in order to speed up the process of a proposed project[8]. A controlled delivery operation was commenced that same evening and concluded at 1:15 pm the next day[9], but without success. In a subsequent video recorded interview, the 1st respondent stated, inter alia, that he was in debt to the tune of some US$10,000 to 20,000[10].
+
+C.2.  The defence evidence
+
+9.  At trial, the 1st respondent elected to give evidence and said that he was the director[11] of a non-governmental organisation called PROSAMH, which was concerned with “environmental alternative for health (projects)”[12]. In order to raise funds for a five-year plan between 2013 and 2018[13], the 1st respondent had approached some 20 organisations to which he had paid some US$2,500 to US$3,000[14] as so-called “administrative expenses” or bank insurance fees[15], but which turned out to be scams. Whilst it was not entirely clear whether he had applied directly for funds to the United Nations (“UN”) or the Nigerian government[16], on 30 May 2018, he received an email from a person named Allan Bridge, who claimed to be a barrister and said that he was contacting the 1st respondent “in respect of your unclaimed contract/inheritance fund which (was) long overdue for payment”, and which had “been approved for payment under CBN/UN payment center abroad”[17]. The 1st respondent believed that this person, Allan Bridge, was authorised to inform him about the decision of the UN and the Central Bank of Nigeria[18].
+
+10.  Following a chain of email correspondence (which was adduced as defence evidence), the 1st respondent travelled to São Paulo to sign some documents and was given a backpack by a man called Michael, whom he understood to be a UN official. The 1st respondent said that, upon checking the backpack, he saw wrapped gifts of new clothes[19], which he understood were to be given to UN officials in the hope of speeding up his application for funds.
+
+C.3.  Submission of no case to answer; the Judge’s ruling
+
+11.  At the conclusion of the defence evidence and case (on the ninth day of trial), the Judge expressed her view to prosecuting counsel that the prosecution would have difficulty in establishing the 1st respondent’s guilty knowledge[20], given her view of the state and quality of the evidence. This prompted defence counsel to make a submission of no case to answer, to which submission the Judge ultimately acceded. Consequently, the jury were ordered to return a verdict of not guilty, and the 1st respondent was duly acquitted.
+
+12.  Setting aside her views on the evidence, which she expressed during her exchanges with counsel[21], the Judge stated in her ruling of no case to answer that:
+
+(a)  There was no digital evidence indicative of the 1st respondent’s knowledge that he was carrying dangerous drugs. Nor did the 1st respondent admit knowledge himself[22];
+
+(b)  Furthermore, the drugs were concealed in a professional manner and might not have been easily noticed[23]; notwithstanding the protruding part of one package, and the fact that the 1st respondent claimed to have checked the backpack[24];
+
+(c)  Over all, there was no direct evidence nor admissible circumstantial evidence of the 1st respondent’s knowledge[25].
+
+D.  The trial concerning CASJ 2/2021
+
+13.  The two respondents in CASJ 2/2021 (hereinafter referred to as the 2nd and 3rd respondents, who were the 1st and 2nd defendants at trial) stood trial also before Campbell-Moffat J (whom we shall continue to refer to as “the Judge”) and a jury.
+
+D.1.  The prosecution evidence
+
+14.  The 2nd and 3rd respondents were Indonesian nationals: the 2nd respondent was the niece of the 3rd respondent. On 8 June 2019, they arrived in Hong Kong on a flight from Laos via Bangkok and were intercepted by Customs officers at the Customs Arrival Hall of Hong Kong International Airport for a clearance check. In the lining of the 2nd respondent’s suitcase was found 2,490 grammes of powder containing 2,080 grammes of ketamine narcotic; while in the lining of the 3rd respondent’s suitcase was found 2,420 grammes of powder containing 2,100 grammes of ketamine narcotic. The total quantity of narcotic was 4,180 grammes of ketamine, worth some HK$3 million at street value.
+
+15.  The 2nd and 3rd respondents were therefore indicted on a joint count of trafficking in a dangerous drug, contrary to section 4(1)(a) and (3) of the Dangerous Drugs Ordinance, in respect of the combined total of ketamine concerned (Count 1); and an individual count, each of trafficking in the amounts found in their respective suitcases (Counts 2 and 3).
+
+16.  In their respective video recorded interviews, the 2nd and 3rd respondents each claimed that they had come to know a man called “Surya Limbu” (“Limbu”), who they believed was running a clothing business and who had just returned to Indonesia from Hong Kong. Limbu asked them both to bring some clothing items for him to Hong Kong, for which they were paid for their air tickets and accommodation in Hong Kong. Whilst in transit in Laos, they met a white-haired man called “Jack”, a friend of Limbu, who asked them to switch their original suitcases with new ones. Jack also gave each respondent US$1,000 in cash[26]. Both respondents denied knowing they were carrying dangerous drugs. The 2nd respondent said that Limbu had shown her some pictures of his clothing stores[27]; while the 3rd respondent said that she had been told that the suitcase contained clothes, which she had in fact seen when she checked her suitcase[28].
+
+17.  It was an admitted fact that, at the time of their arrests, the 2nd and 3rd respondents were each in possession of US$1,000 in cash, as well as other currencies[29].
+
+D.2.  Submission of no case to answer; the Judge’s ruling
+
+18.  On the day after the conclusion of the prosecution case (the sixth day of trial, which was a Friday), the Judge accepted the respective submissions of no case to answer from the 2nd and 3rd respondents in respect of Count 1 only, which alleged that they had jointly trafficked in the ketamine in both suitcases, and ruled there was no case to answer on that particular count[30]. It should be noted that neither counsel for the 2nd respondent or the 3rd respondent made any submission of no case to answer in respect of Counts 2 or 3. Nor did the Judge invite submissions on those counts.
+
+19.  When the court resumed (on the following Monday), the jury formally acquitted the 2nd and 3rd respondents of Count 1 upon the direction of the Judge[31]. Having both elected to call no evidence in their defence, counsel then proceeded with their closing addresses[32]. At the conclusion of all three closing addresses, the Judge released the jury and asked them to return on the following day for her summing-up[33]. When the jury had left court, the Judge then expressed her views on the evidence as to the issue of knowledge, and addressed prosecuting counsel in these terms[34]:
+
+“I’m very surprised somebody didn’t stand up right after your speech, because I’m struggling to find enough proven facts for the inferences you want to draw that it passes the test of Galbraith on inferences.”
+
+She then indicated that she would like to hear submissions from the parties as to whether there was a case to answer in respect of the remaining individual counts (Counts 2 and 3). The afternoon was duly taken up with submissions, culminating in her expressing the provisional view that “in the light of Hedgcock, I’m going to withdraw the case from the jury”.
+
+20.  When the court resumed the next morning (the eighth day of trial), the Judge ruled, as she had forecast, that there was no case to answer in respect of Counts 2 and 3, as a result of which it was not necessary to commence her summing-up. Accordingly, the Judge then directed the jury to acquit the 2nd and 3rd respondents of their respective counts.
+
+21.  Setting aside her views on the evidence, which she had expressed to the jury before directing them to acquit[35], the Judge stated in her ruling that:
+
+(a)  There was no direct evidence of knowledge[36];
+
+(b)  The proven facts (which might constitute circumstantial evidence of knowledge) were limited: namely, that (i) the 2nd and 3rd respondents came to Hong Kong from Laos through Bangkok; (ii) they had been paid in respect of their travel and accommodation; (iii) they had swapped suitcases in Laos; (iv) the suitcases were unusually heavy when empty; (v) they were each in possession of their new suitcases when they were in Laos; (vi) the ketamine was professionally secreted in the suitcases; (vii) they each had in their possession US$1,000 upon arrival; and (viii) the suitcases were to be given to someone they did not know in Hong Kong[37];
+
+(c)  A jury properly directed on the available circumstantial evidence of knowledge could not properly convict either respondent[38].
+
+22.  As for the legal test in approaching a submission of no case to answer, the Judge said:
+
+“5. Hong Kong Archbold 2020, Chapter 4-152, deals with the test to be applied where there is insufficient evidence to go before the jury. That is trite law and will not be replicated here. The learned author of the chapter summarises the position as to inferences at the bottom of p 351, when she says:
+
+‘(2) Where a key issue in the submission of no case is whether there is sufficient evidence on which a reasonable jury could be entitled to draw an adverse inference against an accused from a combination of factual circumstances based upon the prosecution evidence, the exercise of deciding that there is a case to answer does involve the rejection of all realistic possibilities consistent with innocence.’
+
+With respect to the author that is not readily understood. It actually derives from the judgment of Laws LJ in R v Hedgcock & Others [2007] EWCA Crim 3486. At §21, he states
+
+‘If at the close of the Crown’s case the trial judge concludes that a reasonable jury could not reject all reasonable explanations that would be consistent with innocence, then it would be his duty to stop the case.’
+
+6. Where there is more than one version of events based upon proven facts which a jury has to consider and if there was no inherent probability that one version of events was correct and the other not, then it is wholly within the province of the jury [at §22] to decide which they accept or reject. But to do so, the jury would clearly need other objective proof. The Court in Hedgcock found that it was not possible, without more, for a reasonable jury to exclude the defence proposition as fanciful or unrealistic. It was not therefore inherently probable on all of the evidence, that the inference sought to be drawn by the prosecution was the only and irresistible one. If that was the case, and such an inference could not be drawn, the prosecution would need to look elsewhere to make its case or as Laws LJ said ‘...a reasonable jury could only conclude that the participants actually intended to carry out the agreement to rape if there was some extraneous evidence favouring that interpretation’.”
+
+D.3.  Direct exchanges between the Judge and the jury
+
+23.  Following the Judge’s direction to acquit the two respondents, the jury engaged in direct exchanges with the Judge. These exchanges[39] were both unprecedented and extraordinary and, in view of what we shall later say about them, are here set out in full[40]:
+
+“COURT: So ladies and gentlemen, please don’t feel aggrieved in any way that you haven’t been able to retire to reach a verdict of your own accord because I do know you have been extremely invested in this trial, but it just so happens that the checks and balances have been triggered and, therefore, I could not allow it to go to you. But I thank you for your -- yes...
+
+FOREMAN: Can I ask a question?
+
+COURT: Yes.
+
+FOREMAN: Because in Hong Kong because we possess -- possess -- possess ketamine is illegal, right?
+
+COURT: Yes.
+
+FOREMAN: So is the charge being decided by, I mean, Mr Chui or the...
+
+COURT: You mean who decides whether to proceed against somebody?
+
+FOREMAN: Yes.
+
+COURT: Yes. That’s why I explained at the beginning it’s always the case, no matter what the type of criminal act, that you get the people on the ground floor who think there’s a criminal act and will arrest, yes? And then there’s a bit of a break because somebody decides that there’s sufficient to charge, but then it goes to the Department of Justice because it’s an independent body and the Department of Justice will decide whether to prosecute or not, not Mr Chui. Mr Chui is counsel who is instructed. He’s an independent counsel at the bar in Hong Kong. He’s instructed to prosecute it.
+
+FOREMAN: Because like the example you were quoting before -- and I don’t mean to offend, sorry.
+
+COURT: No, no.
+
+FOREMAN: Because for the children they are finding the -- I mean, the chocolate inside the pocket, right?
+
+COURT: Yes.
+
+FOREMAN: It’s not on the mouth, but inside the pocket.
+
+COURT: Yes.
+
+FOREMAN: So sometimes we eat. It’s really hard for the juror to know whether he has intention or not. Even a child he will deny, ‘No, no, I didn’t take it.’ But it’s on the mouth, right?
+
+COURT: Yes, and that’s why we have the checks and balances, and I didn’t do -- I could sit here all day and discuss legal procedure, but that’s why we have the checks and balances so that the judge makes sure that by the time it comes to you when you retire the right evidence and the proper evidence is before you and you are not being asked to guess something, that you are limited to the facts, and they are proven facts in the right way. So throughout a trial, whether it’s a trial in a court before a jury or a trial before a single judge, the judge will be continually asking themselves has this been properly admitted in accordance with all the rules of procedure so that you would not be left in the situation where you are guessing. There would usually be, if a child was found -- my three-year old, we wouldn’t prosecute a three-year old -- my 15 year old had the bar of chocolate or a packet of ketamine in their pocket, there would usually be all sorts of other evidence that you would fall back on, and you would look at not only the direct situation there but other circumstantial evidence.
+
+In this case there wasn’t anything else for Mr Chui to be able to fall back on along with what he had originally in terms of the plain possession. But in a case where somebody might -- this might have gone to you, if Mr Chui had had some other proven facts that he could rely upon, then, for example, you know, perhaps a WhatsApp message, you know, saying, I don’t know, what sort of thing might I have seen before? Make sure you stay in your room when you get to the hotel and don’t speak to anybody until my colleagues comes and collects the suitcase. You know, don’t touch it, for example, which starts -- which that plus other evidence might start to raise the level of awareness of somebody to the point that because of the conversation you might think that they both knew, but there would need to be significantly more evidence than there is in this case.
+
+FOREMAN: Thank you for your explanation. And actually because we are -- we want to do our job in...
+
+COURT: Yes.
+
+FOREMAN: … I mean as what we are told to.
+
+COURT: Yes.
+
+FOREMAN: And we really don’t want to charge innocent people with guilt.
+
+COURT: No.
+
+FOREMAN: But on the other hand we really don’t want to see, for example, that next time someone brings 5 kg of ketamine into Hong Kong, and they are found not guilty, right?
+
+COURT: Absolutely, and that is why the jury trial is so important because one has to say you become a little cynical when you’re in this world for decades. And the jury trial is so important because you will sit there and you are caught between the two elements, aren’t you? The fact that you need to be sure that somebody isn’t found guilty who you have a doubt about, and the fact that you want to protect your society that you may feel that, you know, for example, dangerous drugs are a bad thing. But on the other hand, the reality of the situation is, because we’re having this discussion now and you’ve already returned your verdict, the reality of the situation is that people are fooled into carrying drugs often, yes, especially from abroad.
+
+And we have to -- and it’s very hard, really hard, to know definitively one way or the other the extent to which they knew what they were doing. But better -- and this is my view -- better that somebody who may be guilty is acquitted than somebody who is innocent is convicted. That is one of the main principles of the common law system of criminal justice, and that’s why we have the checks and balances. But I was very conscious of the fact, as were counsel, that you were being extremely conscientious about looking at the whole of the facts, and I know if you had retired you would have done so. Regardless of speeches and everything else you would have independently carried out your duty very thoroughly and conscientiously. But in this instance in law there was not evidence from which you could have found these ladies guilty, and as a consequence it’s only right.
+
+FOREMAN: You mean -- you mean for -- mean for this charge, right?
+
+COURT: Yes.
+
+FOREMAN: Okay, thank you.
+
+COURT: Yes, all right. But as I said, this happens very rarely. Usually there are inferences to be drawn, they’re very balanced and it’s very much for you to decide if you accept or reject inferences, very much, usually. But in this case there was no more and, therefore, it wouldn’t have been proper. And I’ll explain to you. I’ll go one step further and explain this. Because even although I might have in my head, quite independent of this trial, even though I might have in my head there is no way these people -- because of my experience over many, many, many years, are guilty of this, they’ve been duped. I’m not saying one way or the other whether I think that in this, but in another case. And then I don’t do my job and I think I’m just going to leave it to the jury, I don’t want to interfere here, and you convict them because of a misunderstanding of the application of the law.
+
+That would be really wrong, and it has happened in the past. It’s happened in many cases where a higher court has said, ‘Why on earth was this given to the jury at all? There isn’t evidence of X or Y or Z,’ in other cases and other types of crimes, and yet it’s gone to the jury and the jury, for whatever reason, and doing their job, felt that the defendant was guilty and must have been sure of it, one hopes, because you’re told to be sure all the time. So the checks and balances are there to ensure that there isn’t that situation. Yes? That only that evidence upon which you can properly convict is before you.
+
+All right. Thank you very -- yes, Mr (juror’s name)?
+
+JUROR: Will these two defendants now be released and sent back to Indonesia?
+
+COURT: Mr (juror’s name), it’s very interesting what happens in this jurisdiction sometimes, but we’ll be dealing with the administration now. It may be -- I can’t tell you, but it may be that they will remain here pending being sent back to Indonesia. It may be they’ll be given temporary visas. It may be that they will be sent to immigration to the immigration detention centre waiting sending back. The system doesn’t -- it seems to be in a little bit of flux as to what will happen, but...
+
+JUROR: They will not be recharged?
+
+COURT: No, no. That’s why. They were in your charge, and I directed the not guilty verdict so they cannot be -- they cannot be recharged, no. They have to be -- it will depend upon what’s happening between us and Indonesia, and it depends upon them being able to go back. But presumably, because they have been acquitted, there will be no repercussions in Indonesia. For example, in this jurisdiction if somebody is found guilty of trafficking from Nigeria and does even a short sentence here, they are recharged in Nigeria because of the Nigerian law. So we are very conscious of what’s happening elsewhere. But these ladies are innocent now. They have -- they have been found not guilty, but we’ll just have to jump through a few hurdles now and work out what’s going to happen to them, and they’ve got counsel and solicitors looking after them. But I’m now just going to deal with that when you leave on how they will be dealt with. So they might not actually be released immediately, but they know they are going home at some stage.
+
+JUROR: Can we keep our records -- our notes, or are they court records?
+
+COURT: You can keep them, but I’m going -- I think, yes, but I’m going to tell you now that you would not be able to disclose them to anybody. That would actually be -- yes, I know -- that could be a criminal offence. So...
+
+JUROR: What can we say and what can we not say about this unusual trial?
+
+FOREMAN: Anything about it?
+
+COURT: Goodness. Taking a PhD in criminal law now.
+
+JUROR: These are unusual circumstances we are put in.
+
+COURT: Yes, they are very unusual circumstances. I think talking about things generally -- somebody jump if I get this wrong, gentlemen -- talking about things generally are inevitable and I would hope you go away from here feeling that the criminal justice system in Hong Kong is a good one, and that anybody who is -- I hope you will go away thinking that. You don’t because you don’t like the fact they’ve been charged. Anyway, and that there are sufficient checks and balances all the way along to ensure the safety of people, whether they are a Hong Kong citizen or whether they are people foreign to our jurisdiction that we apply the law fairly by the time it gets to trial, and sensibly. I hope you will think that.
+
+And I think the thing that is sacrosanct would be the discussions that you have when you retired, but you haven’t retired and, therefore, this is a public courtroom and, therefore, I -- I’m looking at you, Mr Sadhwani, so shake your head if I get it wrong -- and, therefore, I actually think, now I revisit it, I think can see no reason why you shouldn’t say whatever you wanted to say. It’s deliberations once you’ve retired that are absolutely sacrosanct and you could not speak. But you haven’t retired. I would prefer if it you did not speak to the press.
+
+JUROR: Is there anything illegal if we were to speak to the press? This is an open court.
+
+COURT: Mr Chui, what do you say to that? I don’t think -- I don’t think there is, is there? It’s an open court.
+
+MR CHUI: I hope your ruling is right.
+
+COURT: You don’t want to say anything, do you? You’ve already had your hands tied. Mr Sadhwani?
+
+MR SADHWANI: I am probably with you.
+
+COURT: I’m going to get the blame anyway, Mr Sadhwani, so don’t worry.
+
+MR SADHWANI: Yes. No, it’s...
+
+COURT: It’s always me that gets the blame when something goes wrong.
+
+MR SADHWANI: I think they haven’t deliberated, so I think whatever has come out of open court surely they can say that.
+
+COURT: Yes.
+
+MR SADHWANI: Whatever is discussed confidentially, I think, it’s best to keep that -- keep that to yourselves.
+
+COURT: Yes, if you -- yes.
+
+JUROR: So any evidence we have heard we are free to speak to the press or any other party without restrictions or limitations?
+
+COURT: No, I’m not going to give you carte blanche because, again, I’d like to keep my job for a while longer at least, but...
+
+JUROR: So please direct us. This is an unusual case.
+
+COURT: It is unusual.
+
+MR SADHWANI: You’re not obliged to. You’re not obliged to. You’re not. Your Ladyship, with respect, you’re not obliged to direct the jury.
+
+COURT: No, I’m not, no.
+
+MR SADHWANI: You’re not, and I would like both defendants to be released immediately, more importantly.
+
+COURT: Yes, yes.
+
+MR SADHWANI: They’ve been in prison for more than two years.
+
+COURT: Yes, I know, Mr Sadhwani.
+
+MR SADHWANI: Yes, thank you.
+
+COURT: And they will be, but I think you’re going to find that they’re not going to be released immediately. I think you’re going to find that they’re going to be processed.
+
+JUROR: And, therefore, it may end up in the media.
+
+COURT: No, it’s very unlikely to. We have this all the time. I mean, we do have, sadly, an awful lot of international trafficking or allegations of international trafficking of dangerous drugs. Yes, Mr Bullett.
+
+MR BULLETT: My Lady, what may reassure the gentleman is that presumably your ruling will be published on the judiciary website.
+
+COURT: Yes, my ruling goes up online.
+
+MR BULLETT: So it’s not a secret...
+
+COURT: Correct.
+
+MR BULLETT: ...a secret happening which is unrecorded.
+
+COURT: No. All right. There have been a number of rulings in this case that you weren’t privy to that we have made during the case, and I did another ruling this morning first thing which was as to directing you to return verdicts of not guilty. All of those are on the -- will be on the judicial website. So they are public documents, you are correct.
+
+JUROR: And we can keep these? Our own private notes?
+
+COURT: Your own private notes, yes.
+
+JUROR: Thank you.
+
+COURT: All right. I just ask you to be circumspect, yes, so we can uphold the integrity of our legal system. But, look, I do say thank you very much for attending the trial and for being so conscientious and I ask you to leave. Please ensure also that you do take all of your own things. Thank you, members of the jury. Thank you. I can assure you, in any event, nobody looks at your notes if you leave them -- no one. They are all stored in security. They are not looked at.”
+
+E.  The trial concerning CASJ 3/2021
+
+24.  The respondent in CASJ 3/2021 (hereinafter referred to as the 4th respondent) stood trial before Deputy Judge McWalters (“the Deputy Judge”).
+
+E.1.  The prosecution evidence
+
+25.  On 11 May 2019, the 4th respondent, an American passport holder, arrived at Hong Kong International Airport from Orlando in the United States, via Dubai in the United Arab Emirates and Johannesburg in South Africa. He was intercepted by Customs officers at the Customs Arrival Hall, whereupon an X-ray examination of his suitcase showed that there was a briefcase inside. A further X-ray examination revealed two false compartments in both the front and the back of the briefcase. Two packets of substances weighing a total of 1,996 grammes of powder, containing 1,609 grammes of cocaine narcotic, were found inside the linings of the briefcase. Under caution, the 4th respondent stated that he was given the briefcase from a woman called “Margaret” in Johannesburg and a man, by the name of William Greene, had earlier told him that it was a customary gift to be given to a bank officer in Hong Kong[41]. A controlled delivery operation was conducted by Customs officers but to no avail[42].
+
+26.  One of the Customs officers subsequently inspected the mobile telephone seized from the 4th respondent, from which were extracted, in particular, a series of email messages between the 4th respondent[43], William Greene and one Alex William, sent during the preceding six months. A summary of the email messages (Exhibit P61[44]) was produced by way of admitted facts under section 65C of the Criminal Procedure Ordinance[45] and was relied upon by the prosecution to show that, initially[46]:
+
+“[T]here had been some ongoing dealings between [the 4th respondent] and these two men, Mr William Greene and Mr Alex William, since at least December 2018, and that [the 4th respondent], according to these emails, had apparently been travelling round the world, on their instructions, and funded by them…”
+
+Yet, subsequently[47]:
+
+“[The 4th respondent] was aware that he would be taking some gift and … the briefcase was meant to be a gift, when he travelled to Hong Kong … it’s the prosecution case that whatever [the 4th respondent] may have originally thought this job or venture related to with Mr Greene … it must have been clear, even by late March, that it wasn’t what was originally anticipated…”.
+
+In other words, so it was submitted by prosecuting counsel[48]:
+
+“[The 4th respondent] must have soon become aware, even if he didn’t know initially, that whatever venture he had set out on with Mr Greene, it was clearly not – a different one, not what he thought he might be doing in relation to any fund, that didn’t exist. And that the only reasonable inference based on the evidence is that he must have known when he brought the briefcase into Hong Kong that it contained dangerous drugs.”
+
+E.2.  Submission of no case to answer; the Deputy Judge’s ruling
+
+27.  At the conclusion of the prosecution case, defence counsel made an application of no case to answer, which was opposed by the prosecution on the basis, inter alia, that the emails were “a cover, in effect, for drug trafficking”[49]. The Deputy Judge reserved his ruling. On the following day, he allowed the application, as a result of which the 4th respondent was duly acquitted by the jury upon direction.
+
+28.  In his ruling of no case to answer, the Deputy Judge pointed out that:
+
+(a)  There was no direct evidence of knowledge[50];
+
+(b)  The circumstantial evidence consisted of the fact that: (i) the briefcase was located in the 4th respondent’s suitcase and he knew it was there; (ii) the briefcase was obviously heavy when empty and the edges of its panels appeared to have been re-stitched; and (iii) the cocaine had a value of almost HK$2 million[51]. The circumstantial evidence, other than the email messages, did allow of an inference that the 4th respondent had knowledge of the presence of dangerous drugs in the briefcase[52];
+
+(c)  However, the email messages (which the Deputy Judge analysed at considerable length[53]) also allowed of an inference that the 4th respondent was a victim, who had been deceived by drug traffickers into acting as a courier of dangerous drugs[54]. There was no suggestion that the email messages were not genuine, or that they had been fabricated by the 4th respondent to provide an exculpatory account for himself if necessary[55].
+
+Accordingly, the Deputy Judge took the view that the evidence was not sufficiently strong to warrant a case for the 4th respondent to answer[56].
+
+29.  In addressing the law, the Deputy Judge stated[57] that he was concerned with the “third question” in Attorney General v Li Fook Shiu Ronald[58], which was an elaboration of the English case of R v Galbraith[59]. After referring to Director of Public Prosecutions v Varlack[60] and HKSAR v Hui Rafael Junior & Others[61], the Deputy Judge said he was[62]:
+
+“… satisfied that there is nothing in the Hong Kong authorities which would prevent me, when answering the third of the Li Fook Shiu questions, from applying the guidance set out in the Privy Council’s judgment in Varlack.”
+
+30.  He concluded[63]:
+
+“I do not find that the evidence is sufficiently strong to enable it to be said, in the words of King CJ in his Questions of Law[64] judgment that if accepted, it:
+
+‘… is capable of producing in a reasonable mind a conclusion of guilt beyond reasonable doubt and thus is capable of causing a reasonable mind to exclude any competing hypotheses as unreasonable … even if all the evidence for the prosecution were accepted and all the inferences most favourable to the prosecution which are reasonably open were drawn, a reasonable mind could not reach a conclusion of guilt beyond reasonable doubt, or to put it another way, could not exclude all hypotheses consistent with innocence, as not reasonably open on the evidence’.”
+
+F.  The submissions
+
+31.  The Court is indebted to Mr Tam and Ms Wong for the depth and breadth of each of their respective researches in this area of the law, and for the resulting quality of their submissions. Although there were differences in emphasis between them, perhaps, both were ad idem on the approach to, and test for, submissions of no case to answer in this jurisdiction.
+
+32.  They both agreed that where the evidence is circumstantial, a judge who is faced with a submission of no case to answer should ask himself, in accordance with Galbraith and Li Fook Shiu Ronald, what inferences a reasonable jury (not the judge himself) at the end of the case could, may or might draw. If there existed an inference of guilt which was reasonably open to the jury to draw, notwithstanding that there may be another inference consistent with innocence, the case should go to the jury. The misconception of the law by the Judge and the Deputy Judge in the present cases, which had led to these applications, was that once they themselves considered there was another inference to draw in favour of the defence, that was the end of the matter and the case should be stopped. Yet, it was a matter for the jury, not the judge, what inferences the jury might ultimately draw on the evidence they accepted.
+
+33.  Moreover, what mattered upon a submission of no case to answer were those inferences which could, may or might be drawn from the prosecution evidence. Accordingly, it was not appropriate for the Judge to take into account in deciding whether there was a case to answer her view of the veracity of the 1st respondent’s evidence in CASJ 1/2021, or to accept the unsworn and untested assertions of the 2nd and 3rd respondents in CASJ 2/2021; particularly when both bodies of evidence were open to serious questions, which it would have been for the jury to resolve. Similarly, it was not appropriate for a judge to adopt a particular interpretation of evidence, which was in any event hearsay as to such interpretation until spoken to by a participating witness, as the Deputy Judge had done in CASJ 3/2021; particularly when his interpretation was clearly open to question and when he had accepted that it was possible to draw an inference of guilt from other evidence. In all three cases, the judges had fallen into the trap of substituting their own views of the evidence, and thereby usurping the function of the jury.
+
+34.  Both leading counsel placed particular reliance on the way the matter had been put by the English Court of Appeal in R v Morgan[65]:
+
+“If there is an inference of guilt which it is reasonably open to the jury to draw then the case can be properly left to the jury, notwithstanding that there may be another inference, or other inferences, consistent with innocence. It is the jury’s task to see whether the inference of guilt is one which they are sure can properly be drawn. For the judge to withdraw the case from the jury simply because at the close of the prosecution case all other inferences have not been excluded, would be to usurp the jury’s task and to ignore the very stern warning given to judges in the case of Galbraith.”
+
+35.  Morgan had distinguished the earlier decision of R v Moore[66], which has since been doubted in other authorities and textbooks, most recently by the authors of Blackstone’s Criminal Practice 2022[67]. We shall examine this development later.
+
+36.  Not only did both Mr Tam and Ms Wong agree for the most part on the application of the relevant law, it was the common position of the parties that Question 2 in all three applications should be answered affirmatively. We shall deal in more detail with some of their specific arguments when we deal with the relevant law and facts pertaining to each application.
+
+G.  Answering Question 1
+
+G.1.  The 1st fundamental legal principle
+
+37.  In order to understand how a judge should approach a submission of no case to answer, it is necessary to remind ourselves of certain fundamental principles of a criminal trial, which are essential building blocks to that approach. The first such principle is that a submission of no case to answer is a question of law: as such, it must be decided by the judge of law. In Haw Tua Tau v Public Prosecutor[68], Lord Diplock, giving judgment on behalf of the Privy Council in an appeal from Singapore, where three appellants in two separate capital cases had been tried by two judges of the High Court sitting alone, said[69]:
+
+“The proper attitude of mind that the decider of fact ought to adopt towards the prosecution’s evidence at the conclusion of the prosecution’s case is most easily identified by considering a criminal trial before a judge and jury, such as occurs in England and occurred in Singapore until its final abolition in capital cases in 1969. Here the decision-making function is divided; questions of law are for the judge, questions of fact are for the jury…
+
+…
+
+… At the conclusion of the prosecution’s case what has to be decided remains a question of law only. As decider of law, the judge must consider whether there is some evidence (not inherently incredible) which, if he were to accept it as accurate, would establish each essential element in the alleged offence.”
+
+38.  This statement accords with the earlier decision of the High Court of Australia in May v O’Sullivan[70], which was cited in argument by the respondent in Haw Tua Tau, although the case is not mentioned in Lord Diplock’s judgment[71]:
+
+“When, at the close of the case for the prosecution, a submission is made that there is ‘no case to answer’, the question to be decided is not whether on the evidence as it stands the defendant ought to be convicted, but whether on the evidence as it stands he could lawfully be convicted. This is really a question of law. Unless there is some special statutory provision on the subject, a ruling that there is a ‘case to answer’ has no effect whatever on the onus of proof, which rests on the prosecution from beginning to end. After the prosecution has adduced evidence sufficient to support proof of the issue, the defendant may or may not call evidence. Whether he does or not, the question to be decided in the end by the tribunal is whether, on the whole of the evidence before it, it is satisfied beyond reasonable doubt that the defendant is guilty. This is a question of fact.” (Original emphasis)
+
+G.2.  The 2nd fundamental legal principle
+
+39.  This first principle should not be controversial. Its significance is that it leads to the second fundamental principle, which is that since a judge and jury have separate functions at trial, the judge of law should not encroach on the function of the jury as judges of fact. This division was thus described by Hughes LJ (as Lord Hughes then was) in R v N Ltd[72]:
+
+“There can be no doubt about the power of the trial judge to review the evidence at the conclusion of the Crown case, and to rule as a matter of law, if such be the case, that no jury properly directed could convict on that evidence. This jurisdiction is recognised and discussed in R v Galbraith [1981] 1 WLR 1039 but of course is far older than that decision. Nor can there be any doubt that if the judge concludes that there is no case on which the jury could properly convict, he should direct the jury to find the defendant ‘not guilty’. That is an example of the proper division of function between the judge and the jury. It is trite law that this jurisdiction does not entitle the judge to form his own view about which evidence should be accepted, or about what inferences should be drawn from the evidence; he is confined to ruling whether the necessary minimum of evidence to establish the crime charged has been called.”
+
+40.  Lord Widgery CJ had put the matter succinctly more than 30 years earlier in R v Barker (Note)[73], in terms which were specifically approved and applied by the Court in Galbraith, as follows[74]:
+
+“… even if the judge has taken the view that the evidence could not support a conviction because of the inconsistencies, he should nevertheless have left the matter to the jury. It cannot be too clearly stated that the judge’s obligation to stop the case is an obligation which is concerned primarily with those cases where the necessary minimum evidence to establish the facts of the crime has not been called. It is not the judge’s job to weigh the evidence, decide who is telling the truth, and to stop the case merely because he thinks the witness is lying. To do that is to usurp the function of the jury and would have been quite wrong in the present case.”
+
+Lord Steyn, on behalf of the Privy Council in Crosdale v The Queen[75], has described the judge and jury having “separate but complementary functions in a jury trial”, and characterised the judge’s role as “supervisory” of the proceedings.
+
+G.3.  The 3rd fundamental legal principle
+
+41.  It follows from these two principles, thirdly, that it is not for the judge to determine what he thinks the jury should ultimately accept or reject of the prosecution case; nor whether, if they did accept the prosecution evidence, the resulting verdict would be unsafe or unsatisfactory. In R v R[76], the Supreme Court of New South Wales was required to determine the following question of law, which had been submitted by the Director of Public Prosecutions in the wake of a difference of opinion and approach among judges in that jurisdiction[77]:
+
+“Does a trial judge have the power to direct a verdict of acquittal when the trial judge assesses the evidence is such that a verdict of guilty based upon it would be unsafe and unsatisfactory?”
+
+42.  In answering this question in the negative[78], Gleeson CJ (as Gleeson NPJ then was) identified two schools of thought: the ‘narrower view’, which was that “a judge should only direct an acquittal if he concludes that there is no evidence upon which a jury properly directed could properly convict”; and the ‘broader view’, that “the judge should stop the case if, in his opinion, a verdict of guilty would be unsafe and unsatisfactory”[79]. Noting that there was judicial support in England and Wales for the broader view prior to Galbraith (for example, in R v Falconer-Atlee[80] and R v Mansfield[81])[82], he considered that, while there might be an attraction in a judge having a power to prevent what he regarded as a miscarriage of justice, there were also other aspects of the trial procedure designed to circumscribe the extent to which a trial judge should intervene. One such aspect was the role of the jury as the tribunal of fact, which underlay the decision in Galbraith and other Australian decisions[83]. Of the jury’s fact-finding function, he concluded[84]:
+
+“The legal principles which underpin the narrower view in turn flow from, or are particular manifestations of, that basic aspect of criminal justice. It is one thing to recognise in Courts of Criminal Appeal a power to review a jury’s determination of fact. It is another thing altogether to permit a trial judge to pre-empt such a determination.”
+
+43.  As the Court in Galbraith observed, in respect of what Gleeson CJ would term the broader view[85]:
+
+“There is however a more solid reason for doubting the wisdom of this test. If a judge is obliged to consider whether a conviction would be ‘unsafe’ or ‘unsatisfactory’, he can scarcely be blamed if he applies his views as to the weight to be given to the prosecution evidence and as to the truthfulness of their witnesses and so on.”
+
+44.  Pausing here, if a judge is concerned only with matters of law while the facts are for the jury, the question arises as to when it would ever be appropriate for a judge to intervene and stop a case. Correspondingly, if a judge has no power to stop a case because he himself thinks that a verdict would be unsafe and unsatisfactory, in what circumstances can he then find no case to answer. As Lord Lane CJ accepted in Galbraith[86]:
+
+“A balance has to be struck between, on the one hand, a usurpation by the judge of the jury’s functions and on the other, the danger of an unjust conviction.”
+
+45.  In addressing this balance, which he described in R v R as “an underlying issue of importance”[87], Gleeson CJ noted that[88]:
+
+“…the narrower view itself gives rise to a problem concerning the extent to which it is for the trial judge to consider the quality of the evidence that has been led against an accused person. The reference to ‘matters which are generally speaking within the province of the jury’ is expressed in terms which point up the lack of clarity of the distinction being drawn”.
+
+He went on to make the point, by reference to the decision of the Supreme Court of Canada in R v Mezzo[89] and the two joint majority judgments of, on the one hand, Beetz, Estey, McIntyre, Chouinard and Le Dain JJ, and, on the other, Dickson CJ and Wilson J, that[90]:
+
+“…even amongst those who subscribe to what has been described as the narrower view, there is a difference of opinion as to the extent to which it is proper for a trial judge to evaluate Crown evidence when dealing with a submission of no case. What characterises the approach of all adherents to this view, however, is an insistence on judicial respect for the role of the jury as the tribunal of fact”.
+
+We have, with respect, found the decision in R v R, which was approved by the High Court of Australia in the leading case of Doney v The Queen[91], illuminating, and its analysis and reasoning highly compelling.
+
+G.4.  The 4th fundamental legal principle
+
+46.  The fourth fundamental principle holds that whether a submission of no case to answer is made at the close of the prosecution case or later, the test to be applied is the same. In R v Boakye[92], Steyn LJ (as he then was), in response to a prosecution argument that it was not appropriate to make such a submission at the end of the defence case, said[93]:
+
+“In our judgment a judge is entitled, even at that late stage, if no evidence is available on a count or if there is no evidence on that count upon which a reasonable jury could convict, to rule that there is no case to go before the jury.”
+
+Likewise, in R v Brown (Jamie)[94], Rose LJ held:
+
+“…if, at the conclusion of all the evidence, a trial judge is of the view that no reasonable jury, properly directed, could safely convict, he should, generally speaking, whether a submission of no case has been made at the conclusion of the prosecution case or not, raise that view for discussion with counsel, in the absence of the jury. If, having heard submissions, he remains of that view, then he should, in our judgment, withdraw the case from the jury. If this happens, it is unlikely that there will arise the sort of difficulty which is capable of arising, from a trial judge writing to this Court expressing doubt about the safety of a jury’s verdict.”
+
+Both authorities on the judge’s duty in such circumstances were cited with approval by Longmore LJ in R v Brown (Davina)[95]; but with the following caveat, to which we shall later return[96]:
+
+“No doubt this is a power which should be very sparingly exercised and only if the judge really is satisfied that no reasonable jury, properly directed, could on the evidence safely convict.”
+
+G.5.  The 5th fundamental legal principle
+
+47.  Connected with this principle is the question of the extent to which the defence case can or should be taken into account in determining whether a jury, properly directed, could convict. This fifth issue, has particular relevance to the three applications before us; for not only did the Judge in both cases before her have regard to the 1st respondent’s evidence in CASJ 1/2021, and the 2nd and 3rd respondents’ assertions in interview in CASJ 2/2021, but the Deputy Judge seems to have relied on (and, indeed, accepted) the truth of the assertions contained in emails to which the 4th respondent had not yet spoken in CASJ 3/2021.
+
+48.  There are two seemingly different positions adopted by the courts in respect of this issue. At one end of the spectrum of debate is the view that only those inferences capable of supporting the prosecution case should be considered upon a submission of no case to answer being made. This was the effect of the judgment, for example, of Glass JA in the Court of Criminal Appeal of New South Wales, in R v Towers[97]:
+
+“The trial judge at the close of the Crown case rejected an application for a ruling that there was no case to answer. For the appellant the first submission was that in dismissing the motion, the judge fell into error of law. The judge in considering such an application does not consider the probative effect of the evidence considered as a whole. He is to have regard only to the evidence which, if believed and left uncontradicted, could be accepted by the jury as proof, Jayasena [1970] AC 618 at 624. The jury can disbelieve uncontradicted evidence favouring the accused by Crown witnesses, Rothery (1925) 25 SR (NSW) 451 at 461, including evidence supporting the defence alibi, Brent [1973] Crim LR 295. Accordingly the question whether the evidence is sufficient to raise a case to answer is to be judged upon a consideration only of that evidence which militated for the Crown. Evidence favouring the accused which was to be disregarded on such an application included his statement to the police, the opinions expressed concerning the extent of his intoxication as well as the opinions of Captain McDonald as to his incapacity. Omitting that evidence and those opinions, the testimony of eye witnesses uncontradicted was such as to be capable of persuading a reasonable jury that the identity of the appellant with the pilot was established beyond reasonable doubt.
+
+At the close of all the evidence, the material relevant to the application that a verdict of acquittal be directed also excluded any evidence militating in favour of the accused.”
+
+49.  In R v R, which endorsed Towers[98], Gleeson CJ noted that[99]:
+
+“The principal differences between the narrower and broader views upon the subject under discussion are examined in an article written in 1981 by the late Mr Justice Glass entitled: ‘The Insufficiency of Evidence to Raise a Case to Answer’ (1981) 55 ALJ 842. An important point made in that article is that a question of the sufficiency of evidence to warrant a conviction, which is usually described as a question of law, is to be resolved by reference to evidence which supports a conviction without regard to evidence which favours the accused as, for example, by contradicting, qualifying or explaining the first-mentioned evidence. This is the corollary of the proposition that it is for the jury to determine what parts of the evidence are to be accepted and what parts are to be rejected: Haw Tua Tau v Public Prosecutor [1982] AC 136 at 151.”
+
+50.  Gleeson CJ went on to say in R v R[100]:
+
+“As Hunt J pointed out in Haas (1986) 22 A Crim R 299, one major difference between the task of the Court of Criminal Appeal in considering whether a jury’s verdict is unsafe or unsatisfactory and that of the same court, or a trial judge, in considering in point of law whether there is sufficient evidence to sustain a conviction, is that in the former case regard is to be had to the totality of the evidence.”
+
+Thus, we see that the answer to the present question derives, as Gleeson CJ saw it, from the second and third principles described above.
+
+51.  In R v Lika & Others[101], in which the Court was concerned with a sole ground of appeal that the trial judge had wrongly rejected a submission of no case to answer, it was contended that certain telephone evidence (which included a message from the applicant’s girlfriend supporting the contention that he was going to meet her on the day in question for an innocent purpose), as well as the applicant’s prepared statement in defence, presented realistic possibilities consistent with innocence, which should therefore have led to the case being withdrawn from the jury. The argument drew the tart response from the English Court of Appeal, that “this point is and always was hopeless”[102].
+
+52.  In respect of a defendant’s assertion made under caution in interview, it is well to remember the principle stated by Lord Justice Widgery (as he then was) in R v Storey[103]:
+
+“We think it right to recognise that a statement made by the accused to the police, although it always forms evidence in the case against him, is not in itself evidence of the truth of the facts stated. A statement made voluntarily by an accused person to the police is evidence in the trial because of its vital relevance as showing the reaction of the accused when first taxed with the incriminating facts. If, of course, the accused admits the offence, then as a matter of shorthand one says that the admission is proof of guilt, and, indeed, in the end it is. But if the accused makes a statement which does not amount to an admission, the statement is not strictly evidence of the truth of what was said, but is evidence of the reaction of the accused which forms part of the general picture to be considered by the jury at the trial.
+
+Accordingly, in our judgment, in this case the fact that the cannabis was on the applicant’s bed in her flat was in itself some evidence of possession to go to the jury. Her unsworn explanation, although, if true, it would have been a complete answer to the charge, did not cancel out or nullify the evidence which was provided by the presence of the cannabis. It was ultimately for the jury to decide whether that explanation was or might be true, and it was not for the judge necessarily to accept it at the stage when he was considering the submission. In the event therefore, we have come to the conclusion that the learned judge was entitled to and right to leave this matter to the jury and not to withdraw it from them merely because the accused’s unsworn explanation would, if true, have been a complete answer to the charge.”
+
+53.  We should acknowledge that Storey concerned a wholly exculpatory statement, while the law has, of course, evolved since 1968 in respect of “mixed” statements so that juries may now have regard to both the inculpatory and exculpatory parts of a statement in deciding where the truth lies, although the weight to be attached to each will differ[104]. Nevertheless, since the jury may well reject a defendant’s excuses or explanations in a “mixed” statement, particularly if he chooses not to give evidence on the matter, such assertions hardly form a cogent basis for a submission of no case to answer. As the Court pointed out in Secretary for Justice v Ng Siu Lun[105], albeit in the context of an application under section 16 of the Criminal Procedure Ordinance[106]:
+
+“Further, the judge adopted a wholly impermissible approach to the out-of-court assertions of the respondent. It is to be remembered that not a word of evidence had been led, because the trial had not even begun. The statements made by the respondent were ‘mixed’ statements. The weight to be attached to the out-of-court statements of the respondent, including his exculpatory statements, was entirely a matter for the jury in the context of the evidence led at the trial. Evidence might be led in the defence case. The jury would receive the standard direction as to their approach to the weight to be given to the inculpatory statements, in contrast to the exculpatory statements of the respondent. It was not a matter for the judge to determine at all.”
+
+54.  At the other end of the spectrum of debate is the notion that all of the evidence should be looked at in determining a submission of no case at whatever stage it is mounted, subject to the test on such submission being the same. In R v Goring[107], Leveson LJ referred with apparent approval to the case of R v Van Bokkum[108]:
+
+“…where Tuckey LJ rejected, as contrary to Galbraith, the proposition that in a case dependent on circumstantial evidence, the judge would be required to withdraw the case if some inference other than guilt could reasonably be drawn from the facts proved: he should only withdraw it if he considered it unsafe for the jury to conclude that the defendant was guilty on the totality of the evidence.”
+
+Leveson LJ continued[109]:
+
+“Further, although taking the prosecution at its highest does not mean ‘picking out all the plums and leaving the duff behind’ (see per Turner J in R v Shippey [1988] Crim LR 767), it is necessary to make an assessment of the evidence as a whole and not simply consider the credibility of individual witnesses or evidential inconsistencies between witnesses. It is for the jury to decide what evidence to accept and what evidence to reject and the fact that a witness called by the Crown gives evidence in some respects inconsistent with the inferential case being advanced by the Crown cannot, by itself, be determinative of a submission of no case to answer: it is obviously, however, a factor to be taken into account.”
+
+55.  However, we note that the decision has been criticised in the commentary to this report in the Criminal Law Review[110]:
+
+“This decision in the present case appears to resort to an approach to the question of whether the accused has a case to answer that was disapproved in Galbraith. There it was held that the judge is under a duty to stop the case only where he or she comes to the conclusion that the prosecution evidence, taken at its highest, is such that a jury properly directed could not properly convict upon it. In the judgment in the present case, the court seems to suggest that in a case dependent on circumstantial evidence the trial judge should only withdraw it from the jury if he or she concludes, on the totality of the evidence, that it would be unsafe for the jury to conclude that the defendant was guilty.”
+
+The author of this criticism concluded:
+
+“The suggestion in the present case that the trial judge ought to consider the safety of a conviction is unfortunate insofar as it might give rise to any uncertainty about the proper approach. In its references to Galbraith and Jabber, there is nothing to suggest that the court is taking issue with the approach set out in those cases. On the contrary, it appears to endorse those decisions in view of which the judgment in the present case cannot reasonably be taken to have departed from that approach.”
+
+56.  However, Goring was approved and followed most recently in R v Lowther[111], where the Court held:
+
+“Thus, the correct approach is for the court to ask itself whether a reasonable and properly directed jury, assessing the evidence as a whole, would be entitled to conclude that the defendant is guilty. A case should only be withdrawn from the jury if the judge considers that it would be unsafe for the jury, on the totality of the evidence, to conclude that the defendant is guilty (see Jabber [2006] EWCA Crim 2694 at [21] approved and followed in Hedgcock [2007] EWCA Crim 3486 at [21]; Goddard at [31]; Darnley at [16] and Goring at [36].”
+
+We shall have something to say about the particular cases relied upon in Lowther in due course. For present purposes, however, the Court, as in Goring, was endorsing an approach in which “the totality of the evidence” should be looked at when considering whether there is a case to answer.
+
+57.  In Boakye, Steyn LJ, in considering a prosecution argument that the judge could not consider a submission of no case to answer at the end of the defence case, disagreed in terms we have already seen at [46] supra. He continued[112]:
+
+“The contrary proposition would be a startling one. It would contemplate that the judge might be powerless to prevent a real miscarriage of justice in a case where there was a sudden change in the strength of the prosecution case as a result of cogent evidence emerging in the defence case. We rule without any doubt that it was within the power of the judge to make the ruling that was requested of him.”
+
+However, it should be noted that Boakye was a very unusual case, in which the whole basis of the prosecution case became untenable as a matter of law, since the co-accused could not steal from himself and, accordingly, the appellant could not conspire with the co-accused to do something which was not a crime. Steyn LJ’s remarks in respect of the submission of no case to answer, which seem to us to have been obiter in any event, may be explained on the basis that the circumstances came within category (1) of Galbraith. Thus, there was simply no valid case for the jury to consider.
+
+58.  Be that as it may, we do not necessarily see this as a rigid dichotomy. Obviously, if part of the defence is accepted by a prosecution witness so that the original case promoted by the prosecution is altered or diminished in some material way, a judge would not approach a submission of no case to answer on the basis that the evidence had not been accepted and that the original prosecution case remained unaltered or undiminished. In that sense, a judge must look at “the totality of the evidence” in asking himself, whenever the submission is made, whether a jury properly directed could not properly convict upon it. That, as we have pointed out, was still the test applied by Steyn LJ in Boakye. However, what a judge should not do is come to a conclusion based upon what he or she thinks the jury may, still less should, accept of the defence case; because defence evidence has not been given and tested and (even if it has), findings of fact and credibility are for the jury. Regrettably, it is this precise trap into which both the Judge and the Deputy Judge fell in all three applications before us.
+
+59.  It is in this area of possible controversy that we find Gleeson CJ’s comments in R v R as to what he termed “the practical operation of the narrower view”[113], and the corresponding interpretation of what Galbraith described as “borderline cases”, instructive[114]:
+
+“…whilst there are important differences between the two competing views as to the standard by which a trial judge deals with the submission of no case, there is also an area in relation to which minds may differ as to the practical operation of the narrower view. This is what led to the difference within the majority in the Supreme Court of Canada in Mezzo. The distinction between the existence of evidence and the sufficiency or reliability of that evidence provides convenient categories for most purposes of analysis, but in truth that distinction is not absolutely rigorous. This does not invalidate the distinction. It simply means that it is to be applied with due regard to its limitations; what is involved is a matter of judgment rather than calculation. That, I consider, is what the Court of Appeal in England had in mind in Galbraith when reference was made to ‘borderline cases’ which can ‘safely be left to the discretion of the judge’. The word ‘discretion’ was not being used in its widest sense.”
+
+G.6.  The 6th fundamental legal principle; the application of R v Galbraith in common law jurisdictions
+
+60.  Finally, and sixthly, we come to the test itself and how the courts should apply the balance between the judge’s ‘supervisory’ role and the jury’s function in determining whether there is a case to answer. That had been expressed in Galbraith more than 40 years ago and has been applied ever since in all jurisdictions of the United Kingdom, as well as in Hong Kong[115]:
+
+“How then should the judge approach a submission of ‘no case’? (1) If there is no evidence that the crime alleged has been committed by the defendant, there is no difficulty. The judge will of course stop the case. (2) The difficulty arises where there is some evidence but it is of a tenuous character, for example because of inherent weakness or vagueness or because it is inconsistent with other evidence. (a) Where the judge comes to the conclusion that the prosecution evidence, taken at its highest, is such that the jury properly directed could not properly convict upon it, it is his duty, upon a submission being made, to stop the case. (b) Where however the prosecution evidence is such that its strength or weakness depends on the view to be taken of a witness’s reliability, or other matters which are generally speaking within the province of the jury and where on one possible view of the facts there is evidence upon which a jury could properly come to the conclusion that the defendant is guilty, then the judge should allow the matter to be tried by the jury. …
+
+There will of course, as always in this branch of the law, be borderline cases. They can safely be left to the discretion of the judge.”
+
+61.  Not only has Galbraith represented the law in this area in the United Kingdom for more than four decades, category (2)(b) of the above passage from Lord Lane CJ has been described by the Privy Council in Varlack[116] as “a canonical statement of the law”; while Hallett LJ in R v Christou has declared, in more forthright terms[117]:
+
+“Galbraith does not need interpreting. The words are clear…”
+
+62.  In Hong Kong, Galbraith has been applied since at least 1990 in Li Fook Shiu Ronald[118], where this Court held:
+
+“The classic statement of the law in England and, we think, Hong Kong relevant to a submission of ‘no case’ is to be found in the judgment of the Court of Appeal, given by Lord Lane CJ, in R v Galbraith …”
+
+The Court in Li Fook Shiu Ronald went on to deal with a submission advanced by the appellant that an inferential case should be permitted to continue beyond the end of the prosecution, “only if the judge is himself then satisfied that any inference critical to the prosecution case is the only one which could be drawn from the primary facts”[119]. Of this argument, the Court said[120]:
+
+“In relation equally to primary facts and to inferences to be drawn from such facts, (a judge’s) concern is not with present proof to his satisfaction but with potential future proof to that of a jury. Both primary facts and the inferences therefrom are ‘matters generally speaking within the province of the jury’ in the language of Galbraith. Both can critically be affected by later evidence or lack of evidence from the defence. Assuming all proper directions, the test is not what the judge thinks the jury, and still less he, ‘must’ conclude at that moment, but what a jury ‘could, may or might’ properly conclude in the future.
+
+If elaboration of the approach explained in Galbraith is called for, we are of the opinion that a judge faced with a submission of ‘no case’ or an application for discharge in circumstances where the Crown’s case depends, as it usually does, upon an inference or inferences from primary facts, may ask himself:
+
+(1)  is there some evidence that the crime has been committed? If not, the judge will rule no case or discharge the count in question. If there is;
+
+(2)  is the evidence of primary facts of a quality permitting a jury to accept it? If not, the judge will stop the case or discharge the count. But, if such evidence is of appropriate quality;
+
+(3)  could, may or might a jury properly directed be satisfied beyond reasonable doubt of such inferences as have to be drawn if all the elements of the prosecution case are to be established? If he concludes that the jury could, may or might be so satisfied, he will rule against the submission or application.”
+
+For more recent applications of the Galbraith formula as considered by this Court in Li Fook Shiu Ronald, see Ng Siu Lun; HKSAR v Wu Wing Kit (No 2)[121]; HKSAR v Mushtaq Zeeshan[122]; and HKSAR v Gurung Shibakumar[123].
+
+63.  Galbraith has also been considered by the High Court of Australia in Doney[124] to be correct, with one qualification, which we shall return to and discuss in due course.
+
+64.  It is here that we must confront the line of authority which suggests that the exercise of deciding that there is a case to answer involves the rejection of all realistic possibilities consistent with innocence. We shall examine how this proposition came about, how it was grafted onto the Galbraith test for submissions of no case to answer and, ultimately, whether it can be sustained as a matter of law and logic.
+
+65.  It appears that the source of the formula for rejecting all realistic possibilities consistent with innocence emerged in the decision of the High Court of Australia in Peacock v The King[125] over a century ago. There, Griffith CJ had held[126]:
+
+“The rules of evidence are the same in criminal as in civil law, and the rules of logic and common sense as to what inference may be drawn from facts are the same whether the case is civil or criminal. In civil cases where the evidence is nicely balanced, the recognized practice is to leave it to the jury to say which hypothesis they accept, where there are two equally, or nearly equally, probable hypotheses. But that is certainly not the practice in criminal cases. It is the practice of Judges, whether they are bound to give such a direction or not, to tell the jury that, if there is any reasonable hypothesis consistent with the innocence of the prisoner, it is their duty to acquit.”
+
+It may be noted that the context of this passage was the Court’s approach to circumstantial evidence; indeed, the evidence in the case had earlier been described as “purely circumstantial”[127]. Of the other two judges in Peacock, Barton J said[128]:
+
+“Whether the fact, or that body of facts which is called the ‘case’ is capable of bearing a particular inference, is for the Court, and unless it is so capable, the Court’s duty is to withhold it from the jury, as a single fact or as a case. But when the case is undoubtedly capable of the inference of guilt, albeit some other inference or theory be possible, it is for the jury, properly directed, and for them alone, to say not merely whether it carries a strong probability of guilt, but whether the inference exists actually and clearly, and so completely overcomes all other inferences or hypotheses, as to leave no reasonable doubt of guilt in their minds.”
+
+While O’Connor J held[129]:
+
+“…can it be said reasonably that the jury were not entitled to draw the inference of guilt against a doctor, charged as the prisoner has been, who will not explain the death of a patient in his hospital, whom he alone was attending, his secret disposal of her body, his burning of her clothes, and his attempt to remove all evidence of her ever having been in his hospital and under his care? They were not bound to draw that inference; another jury might arrive at the opposite conclusion. But I have no hesitation in affirming as a matter of law that the verdict which the jury did find was open to them on the evidence.”
+
+66.  These latter two passages were cited with approval by Menzies J more than 50 years later in another decision of the High Court of Australia, namely, Plomp v The Queen[130], which applied Peacock. Menzies J held[131]:
+
+“It follows that the question now is not whether this Court thinks that the only rational hypothesis open upon the evidence was that the applicant drowned his wife. It is rather whether this Court thinks that upon the evidence it was open to the jury to be satisfied beyond reasonable doubt that the death of the deceased was not accidental but was the work of the applicant.”
+
+The case of Plomp, like Peacock, concerned circumstantial evidence and the question whether an appellate court should set aside the verdict if it regarded the evidence as admitting of an inference other than guilt. Neither authority was concerned with the approach to, or the test for, a submission of no case to answer.
+
+67.  We have dealt with these early cases in some detail because they were both considered by the House of Lords in the judgment of Lord Morris of Borth-y-Gest in McGreevy v DPP[132], which was likewise not concerned with the approach to submissions of no case to answer. The ratio of the decision in McGreevy was that there was no duty on a judge in a circumstantial case to give a “special direction” that before the jury could find the accused guilty they had to be satisfied, not only that the circumstances were consistent with his having committed the crime, but also that the facts proved were such as to be inconsistent with any other reasonable conclusion: it was sufficient for the judge to direct the jury that they had to be satisfied of the guilt of the accused beyond reasonable doubt.
+
+G.6.1.  A ‘wrong turn’ in R v Moore
+
+68.  Pausing here, it may be wondered why we are particularly concerned with two decisions of the High Court of Australia in 1911 and 1963 respectively, and a decision of the House of Lords in 1973, none of which are concerned with submissions of no case to answer but, rather, with the Court’s approach to circumstantial evidence. The answer is to be found in the unreported decision of the English Court of Appeal in Moore, decided some 30 years ago. Moore was similarly a circumstantial case, in which the evidence might also be said to have been rather tenuous, at least so far as the particular appellant was concerned.
+
+69.  The offence of which the appellant in Moore was convicted was burglary. The evidence against him was the presence of his documents inside a Vauxhall motor car owned by his parents but regularly used by the appellant’s brother, who lived at home with his parents, unlike the appellant who had already moved away. The appellant’s brother had been arrested in the vicinity of the car, which also contained property stolen from a burglary. Apart from the appellant’s documents, the prosecution further relied upon an answer the appellant had given to the police when arrested, that the keys to his flat were “in Southampton in the car”, which was a reference to the Vauxhall motor car that had earlier been seized. By contrast, the case against the appellant’s brother was much stronger.
+
+70.  A submission of no case to answer was made on behalf of the appellant, which was rejected by the trial judge and the appellant was in due course convicted by the jury. The appeal was concerned with the correctness of the judge’s ruling that there was a case to answer. In the course of his judgment on behalf of the Court, Steyn LJ held[133]:
+
+“It seems to us important to refer to the correct approach to be adopted in a matter of this kind. It was held by the House of Lords in McGreevy v DPP [1973] 1 WLR 276 that in a criminal trial dependent wholly on circumstantial evidence there is no duty on the trial judge to give the jury a special direction telling them in express terms that before they could convict the accused they have to be satisfied not only that the circumstances were consistent with the defendant having committed the crime but also that the facts proved were such as to be inconsistent with any other reasonable conclusion. The House of Lords held that all that is required is the basic direction in relation to burden and standard of proof. So be it. But Lord Morris went on to make clear that in his judgment a jury would inevitably so approach the matter. He said (at page 285B):
+
+‘In my view, the basic necessity before guilt of a criminal charge can be pronounced is that the jury are satisfied of guilt beyond all reasonable doubt. This is a conception that a jury can readily understand and by clear exposition can readily be made to understand. So also can a jury readily understand that from one piece of evidence which they accept various inferences might be drawn. It requires no more than ordinary commonsense for a jury to understand if one suggested inference from an accepted piece of evidence leads to a conclusion of guilt and another suggested inference to a conclusion of innocence a jury could not on that piece of evidence alone be satisfied of guilt beyond all reasonable doubt unless they wholly rejected and excluded the latter suggestion.’
+
+It is clear that a judge need not give any special direction to a jury. On the other hand the approach enunciated by Lord Morris is one which may be helpful for a judge to adopt when he considers, in a case dependent on circumstantial evidence only, whether a submission of no case to answer ought to be allowed. It may be helpful for the judge to address specifically the question whether the proved facts are such that they exclude every reasonable inference from them save the one sought to be drawn by the prosecution. If the proved facts do not exclude all other reasonable inferences then there must be a doubt whether the inference sought to be drawn is correct. If the judge had approached the matter in this way, we believe that the judge would have ruled that there was no evidence on which a jury properly directed could convict.” (Emphasis supplied)
+
+71.  We say, with great deference to a distinguished judge, that it is this judgment where the jump from the approach of juries in considering circumstantial evidence at the conclusion of the case to the approach of judges in considering submissions of no case to answer at the close of the prosecution case was made, and where the criminal law took a proverbial ‘wrong turn’. In so determining, we are fortified by the view of the learned authors of Blackstone’s Criminal Practice 2022[134]:
+
+“There has been a degree of debate as to the proper approach to a submission of no case where the prosecution contends that guilt is proved, in whole or in part, by the drawing of certain inferences from circumstantial evidence. In the past, it was argued on the basis of Moore … and R (Inland Revenue Commissioners) v Crown Court at Kingston [2001] EWHC Admin 581, [2001] 4 All ER 721, that a case to answer would only be made out where the prosecution could exclude any alternative inference being drawn from that circumstantial evidence. It is now clear that that is not the case.
+
+On the proper application of the test in Galbraith …, the prosecution are not required to show that the jury could not reasonably reach any alternative inference contended for. The question is whether it is properly open to the jury to reach the inference contended for by the prosecution.”
+
+72.  Shortly after the decision in Moore, Steyn LJ’s judgment and his reliance upon what Lord Morris had said in McGreevy was considered by the English Court of Appeal in Morgan, which held[135]:
+
+“It is quite clear that that passage was not directed to the function of the trial judge when a submission of no case is made to him at the close of the prosecution case. What Lord Morris there was speaking of was the role of the jury when they come to discharge their duty of returning a true verdict. … If one took the words from the judgment in Moore literally they would seem to suggest that the judge, in a case where the evidence is purely circumstantial, ought only to leave the case to the jury if the evidence is such as to convince him of guilt and if, following the case being left to the jury, one could say that a verdict of acquittal would then be perverse.
+
+We cannot think that that is what the Court of Appeal (in Moore) meant by the words used in the judgment to which it was referred. As we have said, the passage was obiter and with the greatest respect one from which we think we do not, in our consideration of this case, really derive assistance. If there is an inference of guilt which it is reasonably open to the jury to draw then the case can be properly left to the jury, notwithstanding that there may be another inference, or other inferences, consistent with innocence. It is the jury’s task to see whether the inference of guilt is one which they are sure can properly be drawn. For the judge to withdraw the case from the jury simply because at the close of the prosecution case all other inferences have not been excluded, would be to usurp the jury’s task and to ignore the very stern warning given to judges in the case of Galbraith.”
+
+73.  In R v Jamieson[136], the Court, in responding to a submission by the appellant, which sought to rely upon Steyn LJ’s judgment in Moore, endorsed the Court’s reasoning in Morgan[137]:
+
+“The difficulty with that submission, as it seems to us, is identified by reference to the judgment of Jowitt J giving the judgment of this Court in the case of Morgan and others …. In that case Jowitt J pointed out that what Steyn LJ was considering in Moore was the approach which the judge might have found helpful in the circumstances of that case. Steyn LJ in his obiter comments could not have been seeking to lay down any general proposition because whether only one inference is capable of being drawn is a matter for a jury, not a judge. The test for leaving a case to the jury is not whether the judge is convinced of guilt because that is the only conclusion from the evidence. It was not here incumbent on the trial judge to consider, in relation to the submission of no case, whether there was only one inference capable of being drawn from the evidence of that case.”
+
+The above passage in Morgan was further cited with approval by the Court in R v Aziz Saleh[138], where the Court held that it was not necessary upon a submission of no case to answer to decide if the jury must go on to convict:
+
+“It is sufficient if there is a proper foundation for a properly directed jury to be capable of going on to convict”.
+
+74.  In Van Bokkum, Tuckey LJ, noting that the prosecution had in fact conceded that the burglary conviction in Moore could not stand, attempted to explain the part we have earlier italicised in Steyn LJ’s judgment[139] in the following way[140]:
+
+“Read literally the passage in Moore would mean that in any case dependent on circumstantial evidence the judge would be required to withdraw the case from the jury if some inference other than guilt could reasonably be drawn from the facts proved. We do not think that the Court intended to say this and if it did it is contrary to what was said in Galbraith. The approach suggested may be appropriate in a case such as Moore where the inference of guilt is sought to be drawn from a single fact, but this is much more difficult in a case such as the instant case where the Crown rely on a combination of facts. The judge will, of course, withdraw the case if he considers that it would be unsafe for the jury to conclude that the defendant is guilty on the totality of the circumstantial evidence adduced, but if he concludes that it is open to them to convict then Galbraith requires the judge to leave the decision to them.”
+
+75.  This particular passage from Van Bokkum has been cited and endorsed by the Court in R v Edwards[141]. We would agree with Tuckey LJ in general terms; however, as we have earlier discussed when addressing the third fundamental principle in approaching submissions of no case to answer, it was perhaps an infelicitous form of expression to suggest that it should be any part of a judge’s function to withdraw a case from the jury “if he considers that it would be unsafe for the jury to conclude that the defendant is guilty…”
+
+76.  Finally, on this topic, in R v Jabber[142], an argument was advanced before the Court of Appeal that the evidence taken separately and together was not sufficient evidence upon which a jury properly directed could convict the applicant of manslaughter. It was argued by the appellant that “the circumstances… were not such that no reasonable man could fail to draw the inference that the only explanation for the appellant’s conduct was that he had participated in the attack”[143]. In respect of this submission, Moses LJ held[144]:
+
+“It is, faced with that submission, necessary to remind ourselves of what we thought was by now well settled law as to the approach the judge must take when a submission is made, at the close of the prosecution case, that there is insufficient evidence upon which a jury properly directed could convict.
+
+The question for the judge at that stage of the case was whether there was sufficient evidence on which a jury, properly directed, could draw the inference that this appellant had participated in the attack, on Tariq Rashid, which caused his death. Since there was no direct evidence of this appellant’s participation, the prosecution relied on inferences to be drawn from what had been seen by Jennifer Arundell and from the actions of the appellant at the time and immediately after. It is perfectly true that no jury could properly convict unless, on looking at the evidence as a whole, it rejected any other realistic possibility from which it might reasonably be inferred that there was an innocent explanation for his actions. Thus, before the jury could convict, it would have had to reject the possibility, suggested by the defence, that the appellant had come upon the scene, a scene initiated by his brother, and had only left with him in the family BMW to assist that brother. In other words, that all his actions could reasonably be explained as being attempts to assist another family member.
+
+However, the difficulty we have with the dicta on which Mr Bishop QC relies is that it suggests that at the close of the prosecution case the judge, if he is to allow the case to continue, must be satisfied not that the jury would be entitled to reject innocent explanations for the appellant’s conduct, but would be bound to ….
+
+We reject that as an approach to be taken by the judge at the close of the prosecution case, even where the evidence is only circumstantial. The correct approach is to ask whether a reasonable jury, properly directed, would be entitled to draw an adverse inference. To draw an adverse inference from a combination of factual circumstances necessarily does involve the rejection of all realistic possibilities consistent with innocence. But that is not the same as saying that anyone considering those circumstances would be bound to reach the same conclusion. That is not an appropriate test for a judge to apply on the submission of no case. The correct test is the conventional test of what a reasonable jury would be entitled to conclude.”
+
+77.  One might be forgiven for thinking that the matter had been settled by the Court in Jabber and that the Galbraith test had been restored to its traditional primacy and understanding, that all proper inferences from the evidence were for the jury to decide at the end of the case and were not to be usurped by the trial judge on a submission of no case on the basis of what he thought the jury should or should not do. The Court emphasised that inferences were to be left to the jury as long as the state of the evidence was such that a jury could reasonably reject an innocent explanation, and could arrive at the conclusion that the only proper inference to draw was one of guilt.
+
+G.6.2.  The problem in R v Hedgcock & Others; and a second ‘wrong turn’ in R v G & F?
+
+78.  Unfortunately, the legal terrain became unsettled again in the following year, when another division of the English Court of Appeal in R v Hedgcock & Others[145] appeared to steer the matter in a different, but perhaps not unfamiliar, direction. In doing so, the Court allowed the controversy to resurface.
+
+79.  The case against the three appellants in Hedgcock, in respect of two counts of conspiracy to rape a girl below the age of 16, consisted essentially of conversations between the appellants over the Internet; as well as the exchange of pornographic images between them. Because of what we conceive to be an important omission from the Court’s quotation from Jabber, it is necessary to set out in some detail what Laws LJ, on behalf of the Court in Hedgcock, said:[146]
+
+“19. There has been some little controversy (at least in the written arguments with which we have been supplied) as to the correct approach to be taken by the jury in a criminal case to an invitation by the Crown to draw an inference adverse to a defendant from primary facts. Here the inference would be the actual intention of the appellants to carry out the agreement to rape. Lord Diplock’s observations in Kwan Ping Bong v R [1979] AC 609, 615G were cited to the judge as follows:
+
+‘The requirement of proof beyond all reasonable doubt does not prevent a jury from inferring, from the facts that have been the subject of direct evidence before them, the existence of some further fact, such as the knowledge or intent of the accused, which constitutes an essential element of the offence; but the inference must be compelling – one (and the only one) that no reasonable man could fail to draw from the direct facts proved.’
+
+That is the test which the trial judge appeared to apply in ruling that there was a case to answer.
+
+20. Sir Alan Green QC for the Crown draws attention, however, in his skeleton argument to the decision in R v Jabber [2006] EWCA Crim 2694 in which the court said:
+
+‘20. Read literally, Lord Diplock’s dicta might be understood to be saying that an inference was only to be regarded as compelling if all juries, assumed to be composed of those who are reasonable, would be bound to draw such an inference. In short, an inference could only be drawn if no one would dissent from it.
+
+21. We reject that as an approach to be taken by the judge at the close of the prosecution case, even where the evidence is only circumstantial. The correct approach is to ask whether a reasonable jury, properly directed, would be entitled to draw an adverse inference. To draw an adverse inference from a combination of factual circumstances necessarily does involve the rejection of all realistic possibilities consistent with innocence.’
+
+We do not consider, with great respect, that there was any real distance between the authorities here. Elementarily the jury must apply the criminal stand of proof to the exercise of drawing inferences as to every other facet of the fact-finding process.
+
+21. The question was whether a reasonable jury properly directed, not least as to the standard of proof, could draw the inference proposed and thus (as it was put in Jabber) reject all realistic possibilities consistent with innocence. That approach it seems to us is entirely consistent with Lord Diplock’s remarks. If at the close of the Crown’s case the trial judge concludes that a reasonable jury could not reject all realistic explanations that would be consistent with innocence, then it would be his duty to stop the case. What then is the position here?”
+
+80.  It will immediately be seen that the recited passage from Jabber is not merely incomplete: it has omitted Moses LJ’s rather important qualification, which followed immediately after the quoted passage, namely[147]:
+
+“But that is not the same as saying that anyone considering those circumstances would be bound to reach the same conclusion. That is not an appropriate test for the judge to apply on the submission of no case. The correct test is the conventional test of what a reasonable jury would be entitled to conclude.”
+
+Without this qualification, the quotation from Jabber, if one relied only on the truncated excerpt from the judgment as quoted by Laws LJ in Hedgcock, could be misleading. Indeed, it was this very passage in Hedgcock, citing Jabber but without Moses LJ’s qualification, that was relied upon by the Judge in CASJ 2/2021[148].
+
+81.  The problem of the incomplete quotation from Jabber was identified by Elias LJ in R v Darnley[149]. Having referred to the abbreviated judgment of Moses LJ in Jabber, and the observation of Laws LJ in Hedgcock that a trial judge should stop the case “if at the close of the Crown case the trial judge concludes that a reasonable jury could not reject all realistic explanations that would be consistent with innocence”, Elias LJ held[150]:
+
+“If and insofar as counsel sought to persuade us to substitute these tests for the classic test in Galbraith, namely whether a reasonable jury would be entitled to infer that the appellant was guilty after considering the evidence adduced by the prosecution, we resist the enticement.”
+
+Having pointed out that Moses LJ in Jabber was “plainly not intending to depart from the traditional test”, he concluded[151]:
+
+“As we have said, we think that the focus should be on the traditional question, namely whether there was evidence on which a jury, properly directed, could infer guilt. It is an easier test, not least because it focuses on what a reasonable jury could do rather than what it could not do. Reasonable juries may differ because the assessment of the facts is not simply a logical exercise and different views may reasonably be taken about the weight to be given to potentially relevant evidence. The judge must be alive to that when considering a half-time application. Of course, if the judge is satisfied that even on the view of the facts most favourable to the prosecution no reasonable jury could convict, then the case should be stopped. As Moses LJ points out, that conclusion will necessarily involve accepting that not all realistic possibilities consistent with innocence can be excluded. It does not, however, follow that the tests are equally appropriate or that either can be adopted by a trial judge.”
+
+82.  Again, one might have thought the principles governing submissions of no case to answer had been firmly reset on their correct course by Elias LJ in Darnley. However, two months after the judgment in Darnley was handed down, the matter emerged once again before a different constitution of the Court of Appeal, in the case of R v G & F[152] (also referred to in other authorities sometimes by its full name as R v Goddard & Fallick). And it was here that the English Court, with respect, took another ‘wrong turn’, which has had an unfortunate influence not only on our own judges but also on local text book authority, in particular Archbold Hong Kong.
+
+83.  G & F also concerned a complaint on appeal that the trial judge had not acceded to a submission of no case to answer in circumstances where text messages passing between the two appellants were relied upon by the prosecution as evidence of an agreement to rape a young boy. Aikens LJ, on behalf of the Court, appropriately acknowledged at the outset that “the long-standing test to be applied upon a submission of no case to answer”[153] was the one in Galbraith. He then referred to Hedgcock, citing the passage from Laws LJ’s judgment (at [79] supra), as well as to the judgments of Moses LJ in Jabber and Elias LJ in Darnley. Unfortunately, Aikens LJ again made reference to the truncated citation by Laws LJ in Hedgcock of Moses LJ’s statement in Jabber, yet acknowledged Elias LJ’s caution that when a judge is considering a submission of no case to answer, such ‘tests’ should not be substituted for the classic test in Galbraith; and that Moses LJ in Jabber “plainly did not intend to depart from the traditional test”[154].
+
+84.  In a passage that has given rise to a number of difficulties of interpretation as well as application, Aikens LJ then said[155]:
+
+“We think that the legal position can be summarised as follows: (1) in all cases where a judge is asked to consider a submission of no case to answer, the judge should apply the ‘classic’ or ‘traditional’ test set out by Lord Lane CJ in Galbraith. (2) Where a key issue in the submission of no case is whether there is sufficient evidence on which a reasonable jury could be entitled to draw an adverse inference against the defendant from a combination of factual circumstances based upon evidence adduced by the prosecution, the exercise of deciding that there is a case to answer does involve the rejection of all realistic possibilities consistent with innocence. (3) However, most importantly, the question is whether a reasonable jury, not all reasonable juries, could, on one possible view of the evidence, be entitled to reach that adverse inference. If a judge concludes that a reasonable jury could be entitled to do so (properly directed) on the evidence, putting the prosecution case at its highest, then the case must continue; if not it must be withdrawn from the jury.” (Original emphasis)
+
+It is the second proposition which has engendered confusion, not only in England and Wales but in this jurisdiction as well. Indeed, the current edition of Archbold Hong Kong 2022, instead of setting out the decision of Li Fook Shiu Ronald, as it should have done, lists seriatim the above three propositions from Aikens LJ in G & F as authority for the appropriate test in this jurisdiction[156]; the second of which, cited from Archbold Hong Kong 2020 (and divorced from the other two propositions) as being derived from Hedgcock, was expressly relied upon by the Judge in CASJ 2/2021[157].
+
+G.6.3.  Is R v G & F compatible with R v Galbraith?
+
+85.  The reaction of the courts in England and Wales (and Northern Ireland) to G & F has to some extent been mirrored by the contrasting positions of leading counsel for the Applicant and the amicus curiae in the present applications. Mr Tam regarded the G & F propositions as not necessarily incompatible with Galbraith, provided the second proposition was not read in isolation; and he pointed to a number of English authorities to support his position that G & F was reconcilable on that basis; for example, Lika; R v Moscicki[158]; and R v Bech[159].
+
+86.  For her part, Ms Wong characterised the G & F propositions as a “diversionary gloss” on the classic test in Galbraith, which should not be followed in Hong Kong. She noted that, consistent with the view the Court had expressed in Christou that Galbraith did not need interpreting, Hallett LJ had further made clear in Wassab Khan[160]:
+
+“We too prefer the approach suggested by Elias LJ in Darnley. In our judgment, there is a danger of over analysing the test to be applied. It is essential to focus on the traditional question whether or not there is evidence (taking the prosecution case at its highest) upon which a reasonable jury, properly directed, could infer guilt. If any elaboration is required, about which we have our doubts, the question on the facts here would be: taking the prosecution case at its highest, was there evidence upon which a reasonable jury, properly directed, could properly infer a conspiracy to kill and reject a conspiracy to cause grievous bodily harm as a realistic possibility.”
+
+87.  Hallett LJ’s comments in Wassab Khan were endorsed by Fulford LJ in R v Curtis Esprit[161], who applied Darnley and cited with approval the judgment of Thomas LJ (as he then was) in R v P[162], to the effect that when considering the approach to be applied to a case involving circumstantial evidence[163]:
+
+“…the correct approach is to look at the circumstantial evidence in the round and […] ask the simple question, looking at all this evidence and treating it with the appropriate care and scrutinising it properly: is there a case on which a jury properly directed could convict? We do not think that anyone is assisted by a more refined test than that?”
+
+In Northern Ireland, the response of the Court of Appeal in R v McCarney[164] has been more direct:
+
+“If and in so far as the decision in Goddard & Fallick is at variance with Galbraith we should follow the latter.”
+
+88.  Like Northern Ireland, for which decisions of the Court of Appeal of England and Wales are certainly persuasive, we are similarly not bound by them and, consequently, have less diffidence about departing from them when we disagree. In Hui Rafael Junior, a decision at first instance, the court expressed its own misgivings about G & F, when it was first argued in this jurisdiction in 2014[165]:
+
+“7. There has been some discussion as to how one should determine a prima facie case for the purposes of an application to amend an indictment, an application for discharge or a submission of no case to answer, arising from a line of recent authorities from the English Court of Appeal, culminating in R v G, R v F [2012] EWCA Crim 1756; [2013] Crim LR 678. Whilst I have expressed my own reservations during that discussion as to certain aspects of the reasoning in R v G, R v F, which so far as I am aware has not been considered in the appellate courts of Hong Kong, my concerns are more with the way the Court has expressed itself than with its ultimate conclusion. I am certainly prepared to accept that if one has decided that there is no case to answer under the time-hallowed test in R v Galbraith [1981] 1 WLR 1039 at 1042, one will necessarily have also concluded that a reasonable jury properly directed could not exclude all reasonable possibilities consistent with innocence. If one finds that there is a case to answer, one will necessarily have found that a reasonable jury properly directed could exclude all reasonable possibilities consistent with innocence.
+
+8.  Thus put, the Court’s statement in R v G, R v F, at para 36, that ‘[w]here a key issue in the submission of no case is whether there is sufficient evidence on which a reasonable jury could be entitled to draw an adverse inference against the defendant from a combination of factual circumstances based upon evidence adduced by the prosecution, the exercise of deciding that there is a case to answer does involve the rejection of all realistic possibilities consistent with innocence’, is somewhat difficult to understand. With respect, ‘the exercise of deciding that there is a case to answer’ by a judge at the close of the prosecution case involves at that stage not a ‘rejection of all realistic possibilities consistent with innocence’ but an acknowledgement that a jury may ultimately reject all realistic possibilities consistent with innocence. The Court’s attempt to refine the approach where the prosecution case rests upon circumstantial evidence and the inferences a jury would (or would not) be entitled to draw therefrom within the ‘classic’ or ‘traditional’ test in Galbraith, coupled with the fine distinction it draws between a reasonable jury and all reasonable juries, runs the risk, with respect, of sowing semantic confusion by introducing nice distinctions into a well-understood and time-honoured test. To use a Cantonese expression, it is rather like drilling into the tip of a bull’s horn[166].”
+
+89.  The court’s remarks, which chime with Hallett LJ’s view in Wassab Khan about the danger of over-analysing the test for a submission of no case to answer, were subsequently endorsed by Lunn VP in Wu Wing Kit (No 2), on behalf of a Court which at the time included as one of its members the Deputy Judge in CASJ 3/2021:[167]
+
+“With respect, we do not see that statement (namely, the three propositions of Aikens LJ in G & F) as leading to a different result from the test applied in Hong Kong in R v Galbraith or Attorney General v Li Fook Shiu Ronald. Whilst we are puzzled as to why it should be thought necessary to explain or refine what was said in R v Galbraith, when the courts of England and Wales, as well as of Hong Kong, have been applying its well understood reasoning for over 30 years, our reservations about (G v F) are more with the way the Court has sought to explain the test than with the resulting application of it.”
+
+90.  We respectfully adopt Ms Wong’s characterisation of G & F as a “diversionary gloss”: “diversion”, because it risks leading judges away from the correct and more direct approach in circumstantial cases and, in the process, compromising the second, third and fifth fundamental principles governing submissions of no case to answer; “gloss”, because it is simply unnecessary and unhelpful. Accordingly, it should not be applied in Hong Kong and we would respectfully suggest that steps should immediately be taken to revise section 4-152 of Archbold Hong Kong 2022, which unfortunately appears to give the case of G & F such authority and prominence. We might indicate that we are also concerned with the impression given in section 4-152A of Archbold Hong Kong 2022 that judges may rule no case to answer, not just at the close of the prosecution case but even “after all the evidence had been heard”, without any reference being made to Longmore LJ’s caution in Brown (Davina) that such a power should be “very sparingly exercised”[168]. Indeed, we wish to state that such a course would be very rare indeed.
+
+91.  It must be acknowledged that the two English cases of Hedgcock and G & F concerned very unusual facts; Laws LJ describing “the highly unusual circumstances” present in Hedgcock[169], a comment noted by Aikens LJ in G & F[170]. The evidence, which concerned in each case discussions between co-defendants about the violent rape of children (in one case, a co-defendant’s “nieces”; in the other, a 6-year-old boy) would inevitably have aroused strong emotions and reaction among jurors, which any judge would have been alive to, and concerned to, prevent. Nevertheless, a judge would certainly have been able to cater for that particular problem by careful and emphatic direction. More importantly, perhaps, each prosecution depended essentially upon an objective interpretation of a single body of undisputed evidence, namely conversations exchanged during Internet communications, or by way of text messages, between the two defendants. Given that such evidence could not really be said to be “tenuous” by virtue of its “inherent weakness or vagueness” or because it was “inconsistent” with other evidence, in the Galbraith sense, we wonder, in such circumstances, whether the resolution of both cases might not have more comfortably fallen within Lord Lane CJ’s “borderline” category, to be left to the discretion of judges, as explained by Gleeson CJ in R v R.
+
+G.6.4.  The position in Australia: Doney v The Queen
+
+92.  It is here that we should return to the High Court of Australia’s decision in Doney, which has considered and applied Galbraith, but subject to one qualification. In Doney, the High Court held[171]:
+
+“The acceptance or rejection of evidence involves an inference as to its truth, which inference is, at least in part, based on ‘a principle of faith in human veracity sanctioned by experience’: Wigmore, Evidence, vol 1A (1983), p 954, referring to an unverified citation from Starkie’s Evidence (1824). It is usual not to so categorize the inferences involved in the acceptance of direct or testimonial evidence and to treat the process of inference as confined to circumstantial evidence. But it is appropriate here to draw attention to the fact that the drawing of inferences extends beyond circumstantial evidence because the purpose and the genius of the jury system is that it allows for the ordinary experiences of ordinary people to be brought to bear in the determination of factual matters. It is fundamental to that purpose that the jury be allowed to determine, by reference from its collective experience of ordinary affairs, whether and, in the case of conflict, what evidence is truthful. That means that not only is proposition 2(b) in Galbraith correct but, so far as it refers to ‘inconsistent’ evidence, proposition 2(a) cannot be accepted.”
+
+The High Court then formulated this test[172]:
+
+“It follows that, if there is evidence (even if tenuous or inherently weak or vague) which can be taken into account by the jury in its deliberations and that evidence is capable of supporting a verdict of guilty, the matter must be left to the jury for its decision. Or, to put the matter in more usual terms, a verdict of not guilty may be directed only if there is a defect in the evidence such that, taken at its highest, it will not sustain a verdict of guilty.”
+
+93.  Whilst we agree that any resolution of inconsistency of evidence in a prosecution case must normally fall within the province of the jury, there could be cases where evidence emerges in the course of the trial, which is both incontrovertible and wholly irreconcilable with the prosecution case as advanced. For example, objectively verifiable and uncontested CCTV evidence, which is wholly inconsistent with a defendant’s presence, or the actions allegedly attributed to him, at the scene of a crime; objectively verifiable documents conclusively proving that a defendant’s actions were authorised or approved, which is thereby inconsistent with any crime having in fact (or in law) been committed; or expert testimony, which proves to be wholly inconsistent with the prosecution case theory. There may well have been other evidence inculpatory of the defendant in the case, yet because of this “inconsistent” evidence, the prosecution case cannot succeed. As the writer of the commentary to R v Vaid (Shoaib)[173] in the Criminal Law Review put the matter:
+
+“The rationale for the submission of no case to answer is based on the desirability of removing the need for the defence to present their case where the prosecution appears doomed to failure. This spares the accused the stress of testifying (and the risk of incriminating himself during the course of the defence case), and reduces the time spent on the case (and therefore the cost). However, it is submitted that it is only appropriate to stop a case at ‘half time’ if the prosecution case is clearly doomed. If the judge is uncertain whether or not there is a case to answer, the presumption should be that the case will continue and the jury be given the opportunity to decide on guilt or innocence.”
+
+94.  It is in this regard that we consider it wise to retain the ability of the trial judge to rule no case to answer in those circumstances where evidence is incontrovertible and wholly irreconcilable with the prosecution case; in other words, the evidence is “inconsistent” with the guilt of the defendant so that the prosecution case is thereby “doomed to failure”. Acknowledging the valid reservation of the Australian High Court in Doney as to one aspect of the test in Galbraith, we consider that the notion of inconsistency in Lord Lane CJ’s judgment should be read, not in the sense of evaluative inconsistency as between witnesses, but in the sense of fundamental and unanswerable – Ms Wong’s word was “irrefutable” – inconsistency with the guilt of the accused.
+
+95.  In coming to this conclusion, we should point out that the offence for which Galbraith was convicted was affray, arising out of a fight in a bar where knives were used and three men were stabbed. The prosecution had relied upon three prosecution witnesses, who turned out to be internally inconsistent either with their own evidence, or with their police statements. The first witness had described the applicant in his statement but could not identify him at an identification parade as someone even present in the bar; the second was a reluctant witness, who was eventually turned hostile by the prosecution; the third retracted his evidence and claimed, under cross-examination, that the person he had described as “a little guy”, which description would have fitted the applicant, was not in fact the applicant. There was further evidence indicating that the witnesses had agreed among themselves that they would deviate, so far as they could, from their police statements.
+
+96.  Yet, notwithstanding these obvious matters of factual inconsistency in the prosecution evidence, Lord Lane CJ was still able to conclude[174]:
+
+“In these circumstances it seems to us that this was eminently a case where the jury should be left to decide the weight of the evidence upon which the prosecution based their case. It was not a case where the judge would have been justified in saying that the prosecution evidence taken at its highest was such that the jury properly directed could not properly convict upon it.”
+
+Clearly, therefore, such plainly inconsistent evidence, in its evaluative sense, was not considered sufficient to warrant the matter being withdrawn from the jury. No doubt the High Court of Australia in Doney would have agreed with that determination. Accordingly, limiting consideration of such inconsistency in the way we have described should not mark any great divergence in practical terms between the two jurisdictions.
+
+97.  As we have noted above when considering R v R[175], which was approved in Doney, Gleeson CJ referred in his judgment to the case of Mezzo in order to point to the differences of opinion, even among the majority of the Canadian Supreme Court, “as to the extent to which it is proper for a trial judge to evaluate Crown evidence when dealing with a submission of no case”[176]. However, he went on to say that what characterised the approach of all adherents to what he described as the narrower view was “an insistence on judicial respect for the role of the jury as the tribunal of fact”[177]. We respectfully agree. With this firmly in mind, together with our application of what we believe Lord Lane CJ meant in Galbraith as to inconsistency of evidence, we do not think there should be any realistic difference between the approaches to submissions of no case to answer in Australia or the United Kingdom.
+
+98.  Before we leave the Australian jurisdiction, there is one further authority to which we should make reference, since it has been expressly followed by Gleeson CJ in R v R, and approved by the High Court of Australia in Doney. In Attorney-General’s Reference (No 1 of 1983)[178], the Supreme Court of Victoria put the matter in such concise but complete terms that it provides much of the answer to the issues posed in the applications before us. The Court held[179]:
+
+“The question whether the Crown has ultimately excluded every reasonable hypothesis consistent with innocence is a question of fact for the jury and therefore, if the Crown has led evidence upon which the accused could be convicted, a trial judge should not rule that there is no case to answer or direct the jury to acquit simply because he thinks that there could be formulated a reasonable hypothesis consistent with the innocence of the accused which the Crown has failed to exclude. Similarly a trial judge should not rule that there is no case for the accused to answer because he has formed the view that, if the decision on the facts were his and not the jury’s, he would entertain a reasonable doubt as to the guilt of the accused.” (Original emphasis)
+
+G.6.5.  The position in New Zealand
+
+99.  For the sake of completeness, although New Zealand has a statutory test governing submissions of no case to answer, by virtue of section 147(4)(b) and (c) of the Criminal Procedure Act 2011, which, according to Winkleman CJ in the Supreme Court of New Zealand decision in S (SC 58/2019) v Vector Ltd[180] codified the principles established in, among other authorities, the New Zealand Court of Appeal decision in R v Flyger[181], Galbraith has been applied in that jurisdiction. In Flyger, Anderson J, on behalf of the Court, held[182]:
+
+“16. We consider that the correct judicial approach to an application pursuant to s 347 based on alleged insufficiency of evidence is the same as dealing with an application of no case. The principle of no prima facie case, or no case to answer, is founded in the common law. It is not displaced by s 347 of the Crimes Act but is incorporated in it where the submission is based on alleged inadequacy of evidence. The test preferred by Greig J and Doogue J in the cases previously mentioned in this judgment would displace the concept of no case to answer if a Judge is trying a case without a jury, indictably, but it is not displaced when a judge is trying a case, summarily, without a jury. There is no appropriate basis for this difference. Judges can and ought to distinguish between adequacy of evidence on the hypothesis of its acceptance, at one stage of a trial, and proof of a charge on the basis of actual acceptance, at a later stage. District Court Judges who, in their summary jurisdiction, may have to apply the tests consecutively if a defendant elects to call no evidence following a ruling that there is a case to answer, are astute to recognise that distinction.
+
+17.  A helpful discussion of the ‘no case’ principles is found in R v Galbraith …, which has been applied in New Zealand in, for example, Re Fiso (1985) 1 CRNZ 689.”
+
+100.  Referring to this passage from Flyger, Winkleman CJ said in S (SC 58/2019) v Vector Ltd[183]:
+
+“A review of the development of the case law in connection with the ‘no case to answer’ and ‘properly directed jury’ tests, then, suggests that the same principles infuse and have shaped both. This point was also made evident by Lord Diplock in Haw Tua Tau v Public Prosecutor, who said the attitude of mind a judge should adopt in deciding whether there is ‘no case to answer’ in a judge-alone trial is most easily identified by considering the question for a judge in a jury trial as to whether the evidence, if accepted by the jury, would establish each essential element of the offence.”
+
+101.  It seems to us that when the New Zealand courts refer, in the context of submissions of no case to answer, to ‘sufficiency’ and ‘adequacy’ of evidence to establish each essential element of the offence, they are applying a test which looks not to whether the evidence is believable or should be believed but whether, if it is believed, a reasonable jury, properly directed, could convict upon it.
+
+G.6.6.  The decision of the Privy Council in DPP v Varlack
+
+102.  Finally, in this regard, we come to the judgment of the Privy Council in Varlack, which although it precedes G & F and certain other decisions we have discussed, neatly states what we conceive to be the applicable law. We also note in passing that Varlack was not referred to in G & F. Referring to the “canonical statement” of the law in Galbraith, Lord Carswell, giving the judgment of the Board[184], said[185]:
+
+“21. … That decision concerned the weight which could properly be attached to testimony relied upon by the Crown as implicating the defendant, but the underlying principle, that the assessment of the strength of the evidence should be left to the jury rather than being undertaken by the judge, is equally applicable in cases such as the present, concerned with the drawing of inferences.
+
+22. The principle was summarised in such a case in the judgment of King CJ in the Supreme Court of South Australia in Questions of Law Reserved on Acquittal (No 2 of 1993) (1993) 61 SASR 1 at 5 in a passage which their Lordships regard as an accurate statement of the law:
+
+‘It follows from the principles as formulated in Bilick (supra) in connection with circumstantial cases, that it is not the function of the judge in considering a submission of no case to choose between inferences which are reasonably open to the jury. He must decide upon the basis that the jury will draw such of the inferences which are reasonably open, as are most favourable to the prosecution. It is not his concern that any verdict of guilty might be set aside by the Court of Criminal Appeal as unsafe. Neither is it any part of his function to decide whether any possible hypotheses consistent with innocence are reasonably open on the evidence … He is concerned only with whether a reasonable mind could reach a conclusion of guilty beyond reasonable doubt and therefore exclude any competing hypothesis as not reasonably open on the evidence … I would re-state the principles, in summary form, as follows. If there is direct evidence which is capable of proving the charge, there is a case to answer no matter how weak or tenuous the judge might consider such evidence to be. If the case depends upon circumstantial evidence, and that evidence, if accepted, is capable of producing in a reasonable mind a conclusion of guilt beyond reasonable doubt and thus is capable of causing a reasonable mind to exclude any competing hypotheses as unreasonable, there is a case to answer. There is no case to answer only if the evidence is not capable in law of supporting a conviction. In a circumstantial case that implies that even if all the evidence for the prosecution were accepted and all inferences most favourable to the prosecution which are reasonably open were drawn, a reasonable mind could not reach a conclusion of guilt beyond reasonable doubt, or to put it another way, could not exclude all hypotheses consistent with innocence, as not reasonably open on the evidence.’
+
+A similar statement appears in a recent judgment of the English Court of Appeal, Criminal Division in R v Jabber [2006] EWCA Crim 2694 at [21] where Moses LJ said:
+
+‘The correct approach is to ask whether a reasonable jury, properly directed, would be entitled to draw an adverse inference. To draw an adverse inference from a combination of factual circumstances necessarily does involve the rejection of all realistic possibilities consistent with innocence. But that is not the same as saying that anyone considering those circumstances would be bound to reach the same conclusion. That is not an appropriate test for a judge to apply on the submission of no case. The correct test is the conventional test of what a reasonable jury would be entitled to conclude.’ (Emphasis supplied)
+
+Cf R v Van Bokkum (7 March 2000, 199900333/Z, unreported), UK CA at [32], R v Edwards [2004] EWCA Crim 2102 at [83]-[85] and Blackstone’s Criminal Practice (2008 edn), para D15.62.”
+
+103.  It may be noted that, unlike the judgments in Hedgcock and G & F, Lord Carswell has recited the complete passage from Jabber, including Moses LJ’s important qualification (as italicised above). Moreover, both Van Bokkum and Edwards, which cast doubt on the correctness of Moore, were further referred to with approval. We have obtained the 2008 edition of Blackstone’s Criminal Practice, also referenced by Lord Carswell, and found that the commentary refers, as with the 2022 edition, to “a degree of debate” as to the proper approach to submissions of no case, before endorsing Tuckey LJ’s statement of principle in Van Bokkum (cited supra[186]) approved in Edwards and Jabber.
+
+G.6.7.  The ‘King rider’
+
+104.  It is here that we can conveniently deal with a matter that provoked a certain amount of discussion before us in respect of King CJ’s judgment in Questions of Law Reserved on Acquittal (No 2 of 1993)[187], which was regarded as an accurate statement of the law in Varlack. The passage in contention is what has come to be known as the “King rider”, which appears (as italicised below) at the very end of the passage recited by their Lordships in Varlack, namely[188]:
+
+“I would re-state the principles, in summary form, as follows. If there is direct evidence which is capable of proving the charge, there is a case to answer no matter how weak or tenuous the judge might consider such evidence to be. If the case depends upon circumstantial evidence, and that evidence, if accepted, is capable of producing in a reasonable mind a conclusion of guilt beyond reasonable doubt and thus is capable of causing a reasonable mind to exclude any competing hypotheses as unreasonable, there is a case to answer. There is no case to answer only if the evidence is not capable in law of supporting a conviction. In a circumstantial case that implies that even if all the evidence for the prosecution were accepted and all inferences most favourable to the prosecution which are reasonably open were drawn, a reasonable mind could not reach a conclusion of guilt beyond reasonable doubt, or to put it another way, could not exclude all hypotheses consistent with innocence, as not reasonably open on the evidence”. (Emphasis supplied)
+
+105.  Of the italicised part of this passage from King CJ in Questions of Law Reserved on Acquittal (No 2 of 1993), it was said by Henry J at first instance in the Supreme Court of Queensland in R v Hill[189]:
+
+“Regrettably, his Honour’s attempt to ‘put it another way’ at the end of that passage, which I will refer to as the ‘King rider’, has the potential to cause confusion. It suggests if the judge deciding a no case submission believes there is a hypothesis consistent with innocence reasonably open on the evidence, he or she must find that there is no case to answer. The King rider is at odds with well-established principle. I pause to explain why because the above passage seems to have become increasingly cited…”
+
+If we may pause here, we think that the King rider may in fact have led to the same confusion in CASJ 3/2021, since the passage was specifically cited by the Deputy Judge in his ruling of no case to answer[190]. The fact that this passage was quoted in Varlack was also noted by the Deputy Judge[191]. However, the King rider needs to be seen in its full context and, more importantly, in its correct perspective. King CJ, having previously referred to R v R with approval[192], reasoned that once evidence which was capable, if accepted, of leading to a conclusion of guilt, it was thus “capable of causing a reasonable mind to exclude any competing hypotheses as unreasonable”.
+
+106.  It is not necessary to go into the elaborate reasons given by Henry J for the provenance of the King rider. Essentially, he pointed out that the rider appeared to derive from an article by Glass J in 1981, entitled “The Insufficiency of Evidence to Raise a Case to Answer”[193]. However, Glass J subsequently shifted his position in another article in 1986, entitled “Acquittals by Direction”[194]. It was, therefore, suggested by Henry J that perhaps King CJ, who was well aware of, and agreed with, the reasoning in the first article, and said as much in R v Bilick[195], was unaware of the shift in Glass J’s position in his second article. In any event, Henry J pointed out that the approach espoused in the King rider had been “expressly disapproved” by the Queensland Court of Appeal in R v Stewart; ex parte Attorney-General[196].
+
+107.  We would obviously be somewhat reluctant to disagree with something adopted as an accurate statement of the law by such an authoritative body as the Privy Council. Henry J, it may be noted, does not refer to Varlack in his judgment in Hill at all. However, whilst there may be scope for confusion, for which it might have been better if the King rider had not been added, we do not think that it changes the law when properly read and understood in context. What we understand the passage including the King rider in Questions of Law Reserved on Acquittal (No 2 of 1993) to mean is that when a judge concludes that, even if all the evidence for the prosecution were accepted and all reasonable inferences most favourable to the prosecution were drawn, a reasonable jury properly directed could not ultimately convict, he should rule no case to answer. In those circumstances, the corollary of the judge’s determination would be, in effect, that no jury could ever ultimately exclude a reasonable doubt.
+
+108.  We think that this must too be the Privy Council’s understanding of the passage it approved from Questions of Law Reserved on Acquittal (No 2 of 1993) because, in allowing the prosecution’s appeal in Varlack against the Eastern Caribbean Court of Appeal’s decision that the trial judge should have ruled no case to answer, it held[197]:
+
+“Their Lordships consider that the Court of Appeal were in error in this respect. The trial judge correctly approached the submission of no case by reference to the test whether a reasonable jury properly directed might on one view of the evidence convict. When one applies this principle, it follows that the fact that another view, consistent with innocence, could possibly be held does not mean that the case should be withdrawn from the jury. The judge was, in their Lordships’ opinion, justified in concluding that a reasonable jury might on one view of the evidence find the case proved beyond reasonable doubt and convict the respondent.”
+
+G.7. The correct approach in Hong Kong
+
+109.  With great respect to the many exceptional contributions of distinguished judges from all corners of the common law world to this debate, we do not think that the Court’s understanding and approach in Li Fook Shiu Ronald can be improved upon as a practical approach to the Galbraith test in this jurisdiction. The Court in Li Fook Shiu Ronald was clearly alive to the danger of being seen as promoting a rival test to that of Lord Lane CJ. That was not its purpose: rather, what it was concerned to do was assist judges in the practical application of the principles in Galbraith. That application and those principles have been followed in Hong Kong for 30 years, but in the light of developments in other jurisdictions and the recent attempt to recast these principles in the cases giving rise to the present applications, we take the opportunity to reaffirm them[198]:
+
+“Both primary facts and the inferences therefrom are ‘matters generally speaking within the province of the jury’ in the language of Galbraith. Both can critically be affected by later evidence or lack of evidence from the defence. Assuming all proper directions, the test is not what the judge thinks the jury, and still less he, ‘must’ conclude at that moment, but what a jury ‘could, may or might’ properly conclude in the future.
+
+If elaboration of the approach explained in Galbraith is called for we are of the opinion that a judge faced with a submission of ‘no case’ or an application for discharge in circumstances where the Crown’s case depends, as it usually does, upon an inference or inferences from primary facts, may ask himself:
+
+(1)  is there some evidence that the crime has been committed? If not, the judge will rule no case or discharge the count in question. If there is;
+
+(2)  is the evidence of primary facts of a quality permitting a jury to accept it? If not, the judge will stop the case or discharge the count. But, if such evidence is of appropriate quality;
+
+(3)  could, may or might a jury properly directed be satisfied beyond reasonable doubt of such inferences as have to be drawn if all the elements of the prosecution case are to be established? If he concludes that a jury could, may or might so be satisfied, he will rule against the submission or application.”
+
+110.  Thus, we may sum up the principles governing submissions of no case to answer as follows:
+
+(i)  A submission of no case to answer is a question of law[199];
+
+(ii)  A judge should not usurp the function of the jury[200];
+
+(iii)  A judge is not concerned with whether the verdict would be unsafe or unsatisfactory[201];
+
+(iv)  Whether a submission of no case to answer is made at the end of the prosecution case or, in exceptional circumstances, later, the same test is to be applied[202];
+
+(v)  The defence case should not be taken into consideration by the judge except insofar as it has been accepted by the prosecution or is otherwise objectively shown to be incontrovertible or irrefutable[203];
+
+(vi)  The test to be applied is that stated in Galbraith as applied in Li Fook Shiu Ronald[204].
+
+H. Answering Question 2
+
+H.1. The Judge’s errors in CASJ 1/2021
+
+111.  It is certainly possible for a judge to entertain a submission of no case to answer, or to invite one, after the close of the defence evidence, as the judge did in this case. However, we must emphasise Longmore LJ’s caution in Brown (Davina), that such a power should be “very sparingly exercised”. The reason why a submission should be so exceptional if made at the conclusion of all the evidence is that by the time the defence are called upon to make their election as to whether or not to give evidence, a determination will already have been made on the basis of the prosecution case as to whether there is a case to answer. If no application has been made by counsel, a judge will naturally and routinely have considered, certainly in this jurisdiction, whether one should be made before calling upon the defence to state its case. Furthermore, by the end of the defence case, the prudent judge will already have begun preparing the summing-up and the issues between the parties should by then have become clearly crystallised in the judge’s mind. Certainly, any deficiencies in the case to go to the jury ought to have been long apparent.
+
+112.  It is clear from a reading of the transcript at the time the Judge invited submissions, that she had plainly formed a firm view about the evidence (or lack of it, as she saw it), as a result of the 1st respondent’s testimony. She was forthright in her remarks to prosecuting counsel[205]:
+
+“I don’t think you’ve even got a solid case, let alone a very solid case”,
+
+because[206]:
+
+“…now we have a whole host of other evidence and it’s a substantial amount of evidence… where because of it, (prosecuting counsel), is in more difficulty, yes? So it’s not silence that she’s trying to meet… it’s a wall of emails over five months.”
+
+113.  When the parties made their submissions the following day, it became clear that the Judge had already formed a decided opinion about the veracity of the defence evidence and, in particular, the emails. Indicating that she had wondered to herself overnight that if she was prosecuting, “how could I sell this to the jury with a straight face”[207], she described the evidence as “pretty overwhelming that for some reason or other these third parties were really, sort of, deceiving the defendant over a huge period of time”[208] by means of “an awfully complicated scam in order to… cover a [2.1] million amount of cocaine”[209]. She then indicated that if the jury were properly directed on the evidence, “they would have to acquit and any conviction would be unsafe and unsatisfactory…”[210]. Accordingly, she would be asking the foreman to return a verdict of not guilty.
+
+114.  The Judge gave her formal ruling later that morning. With respect to that ruling, it was plainly erroneous on a number of fronts, both legally and factually, the most obvious of which was her conclusion that “[t]here was no admissible evidence from which the jury could draw the inference required”[211]. With respect, such a conclusion was untenable for a variety of reasons, which, it may be noted, are the sort of reasons routinely relied upon in our courts by the prosecution in such cases of international drug trafficking. The weight of the cocaine solid concealed in the 1st respondent’s backpack was 1,909 grammes, hardly a weight that could go unnoticed by an “unwitting” courier over such a long period. The 1st prosecution witness had in fact given evidence that he could feel the two blocks of cocaine when he held up the backpack to inspect it[212]. Moreover, the 1st respondent testified that when he received the backpack in São Paulo in Brazil on 28 September 2018, some nine days before his arrest, there were only gifts inside it, which he had then removed before inspecting the backpack thoroughly[213]. Yet, he still did not detect almost 2 kilogrammes, which were unaccounted for and supposedly concealed within a hidden compartment of the backpack, either then or at any time over the next 9 days. Moreover, the cocaine was not as expertly concealed as the Judge seemed to think, for a corner of the yellowish carton paper covering one of the packets was seen by the 1st prosecution witness to be obviously protruding out from its hidden compartment[214].
+
+115.  Then there was the value of the cocaine, which was HK$2.14 million. That a third party would put such a valuable consignment into the hands of an innocent dupe for such a long period, with its attendant risks of loss, damage or detection during that time, is the sort of point invariably made by prosecuting counsel in this jurisdiction, and is a classic consideration for a jury, which this Court has expressly endorsed. In HKSAR v Ogana Jeiazel Ogana[215], for example, this Court held[216]:
+
+“The jury after all was correctly reminded that they were entitled and indeed expected to employ common sense and their own experience of life. One of the relevant circumstances, in the particular factual context mapped out by the applicant, was the likelihood of CJ entrusting the applicant – a complete stranger to him – with a rucksack containing items of women’s clothing festooned with over 500 outsized buttons which themselves contained heroin worth over $1 million without informing him of the true nature of what he was carrying and getting his agreement to do so. In terms of the direction of which the applicant complains, the jury were told no more than that, if they chose to do so, this was one of the matters to which they could give consideration.”
+
+116.  Finally, in his video recorded interview, the 1st respondent explained that he was in personal debt of between US$10,000 and US$20,000[217]. Again, this is the very sort of matter which a jury could bear in mind where the case before them involves international drug smuggling by an apparently unwitting and impoverished courier.
+
+117.  As for the 1st respondent’s evidence in court, there were aspects of it which were, frankly, incredible. Yet, astonishingly, the Judge considered that the prosecution had “made no headway”[218] in cross-examination, when the matter rather spoke for itself. However, we leave those aspects out of account, as the Judge should have done, for the purpose of considering a submission of no case to answer. The Judge also found that there were “other positive elements of the defence case such as the credibility and propensity of the defendant”[219]. Again, we must leave these matters out of consideration, as the Judge also should have done, for they are irrelevant when considering a submission of no case to answer.
+
+118.  There was abundant evidence on the prosecution case to go before the jury, from which they could plainly draw the inference that the 1st respondent was knowingly carrying dangerous drugs. There would have been no warrant whatsoever for the Judge to withdraw the case from the jury at the close of the prosecution case, as the 1st respondent’s experienced counsel evidently realised, for he made no such submission. And there was even less justification for ruling no case to answer at the conclusion of the defence case. The Judge not only usurped the function of the jury and took into account the defence case but did so in a way that revealed both a seriously deficient grasp, and a wholly unwarranted acceptance, of the 1st respondent’s evidence.
+
+119.  We have answered Question 1 in our review of the relevant law. In respect of CASJ 1/2021, we answer Question 2 in the affirmative.
+
+H.2. The Judge’s errors in CASJ 2/2021
+
+120.  The circumstances of this application are, we are told by both Mr Tam and Ms Wong, unique inasmuch as there is no other case in a common law jurisdiction where a judge has ruled no case to answer after closing speeches to the jury and, therefore, before he or she was due to deliver the summing-up. In strict theory, it is not impossible to consider such a submission at such a late stage, although it has apparently never been done before. What is perhaps so remarkable is that not only was no submission made at the conclusion of the prosecution case in respect of Counts 2 and 3, but neither of the two respondents had elected to give evidence. Consequently, there was no material change at all to the evidence after the close of the prosecution case. Yet, having heard closing addresses to the jury, and therefore before she was supposed to commence her summing-up, the Judge again invited the defence to make submissions of no case to answer, and ultimately stopped the case.
+
+121.  However, that was not the only unique feature to this trial. When the Judge had delivered her ruling and asked the jury to formally acquit the 2nd and 3rd respondents, the jury responded by questioning the Judge’s reasons. That exchange we have set out earlier in full (at [23] supra). Regrettably, it is as revealing of the jury’s concerns as it is unedifying of the exercise of judicial power. We are further informed, and are not surprised to learn, that this kind of challenge has also never been documented in any court in any common law jurisdiction before. Unique though it may be, it was effected by the jury in an entirely respectful way, notwithstanding the obvious discomfort they plainly felt at the position in which they had been placed.
+
+122.  Once again, the Judge determined in her ruling that “[t]here was no direct evidence of knowledge”[220] and she described the facts from which the jury could draw such an inference as “very limited”[221]. Yet, with respect, the circumstances from which the prosecution were inviting the jury to infer knowledge were numerous, cogent and unexplained. The 2nd and 3rd respondents had come to Hong Kong from Laos via Bangkok, having travelled to Laos from Bali via Singapore. A person called Limbu had generously paid for all of their air travel and accommodation expenses[222]. The purpose of making the trip to Laos was supposedly to pick up two black suitcases, which were swapped with their own, and were to be given to someone they did not know in Hong Kong. Those suitcases, which were empty when given to them by a white-haired man called Jack in Laos, whom they had never met before, were made of light material, yet when Customs Officer 1559 emptied the 2nd respondent’s suitcase, he found it was “unusually heavy”[223]; while Customs Officer 17811 described the 3rd respondent’s suitcase when empty as “thicker and heavier than normal”[224]. These observations were hardly surprising since the 2nd respondent’s suitcase had 2.49 kilogrammes of ketamine powder hidden in a secret compartment, while the 3rd respondent’s suitcase had 2.42 kilogrammes of ketamine powder secreted within it. Yet, the 3rd respondent expressly admitted in her video recorded interview that she had checked her suitcase when she received it[225].
+
+123.  The value of the total amount of dangerous drugs was about HK$3 million. The same and rather obvious point about putting such a valuable commodity into the hands of the two respondents without them knowing what they were carrying, was made by prosecuting counsel to the jury in respect of each respondent in his closing address[226]. Furthermore, it was a matter for the jury whether the respondents could really have believed that this whole operation was mounted in order that they could each earn US$1,000 for delivering some clothes to Hong Kong.
+
+124.  The Judge invited submissions in respect of what she regarded as “a very limited set of proven facts and where there was credible evidence to support other irresistible inferences in favour of the defence”[227]. In a short judgment, she relied upon the section of Archbold Hong Kong 2020, which we have already seen fit to criticise, namely:
+
+“(2) Where a key issue in the submission of no case is whether there is sufficient evidence on which a reasonable jury could be entitled to draw an adverse inference against an accused from a combination of factual circumstances based upon the prosecution evidence, the exercise of deciding that there is a case to answer does involve the rejection of all realistic possibilities consistent with innocence.”
+
+This principle, as the Judge noted[228], derived from the judgment of Laws LJ in Hedgcock. She then found[229]:
+
+“7. Having considered how the prosecution puts its case and the inference it seeks to draw from a limited set of proven facts and having taken into consideration the explanations given by both defendants independently of each other and which are wholly consistent with other facts before the court, I find that a jury properly directed on the evidence in support of the inference to be drawn as to knowledge could not properly convict either defendant of the charge which they face and accordingly I will stop the case from proceeding further and direct the jury accordingly.”
+
+125.  The Judge was, with respect, profoundly in error in thinking that the facts outlined above were not capable of yielding an inference that each of the respondents must have known she was trafficking dangerous drugs into Hong Kong: the facts and circumstances were redolent of such an inference. She was further wrong to take into account on a submission of no case to answer not only the respondents’ unsworn assertions in their respective video recorded interviews, which they did not go into the witness box to support in evidence, but also her own view as to the veracity of such assertions. Both were matters for the jury, not for the judge. Yet, when the Judge explained to the jury that she was proposing to stop the case, she declared[230]:
+
+“…the evidence within the prosecution’s own case provides within the video-recorded interviews explanations from the defendants, other evidence which suggests what their knowledge was. And that, of course, hasn’t been undermined.”
+
+This was an astonishing statement for any judge to make, given that neither defendant had elected to give evidence in support of exculpatory assertions, which were plainly open to serious question. In any event, it was not for the judge to make such a finding: it was a matter for the jury.
+
+126.  The discussion which followed when the foreman of the jury (who was in fact a woman) and another juror appeared to challenge the Judge has been set out in full earlier in this judgment. We have listened to the recording of what transpired in open court and it is clear that the jury were not happy with the direction and explanation they were being given by the Judge. In one sense, we should perhaps be encouraged that jurors are conscientious enough to question directions from a judge, which they instinctively feel are baffling or incorrect. But, in another sense, it is regrettable in the extreme that a conscientious jury, who were about to receive the Judge’s instructions in a summing-up in a very serious case of international drug trafficking, should have felt so concerned about the direction the Judge was taking the trial that they found it necessary to challenge her. With respect, what transpired at this trial risks being seen by the public (including other defendants facing similar charges) as arbitrary and capricious conduct, which undermines not only the standing and dignity of judges but also, ultimately, confidence in the rule of law.
+
+127.  The jury’s challenge only came to an end when a juror asked the Judge if they could speak to the press about what had happened, given the unusual circumstances in which they had been put[231]. The Judge appealed to prosecuting counsel, who rather sardonically remarked, “I hope your ruling is right”[232]. When the juror persisted and asked the Judge whether “we are free to speak to the press or any other party without restrictions or limitations”[233], the Judge responded[234]:
+
+“No, I’m not going to give you carte blanche because, again, I’d like to keep my job for a while longer at least, but…”
+
+The juror persisted[235]:
+
+“So please direct us. This is an unusual case”.
+
+At that point one of the defence counsel stood up and told the Judge she was not obliged to give directions to the jury, “and I would like both defendants to be released immediately, more importantly”, since they had “been in prison for more than two years”[236]. The juror nevertheless continued and told the Judge that the case “may end up in the media”[237], and asked her if the jury could keep their own notes; with this request, the Judge agreed[238].
+
+128.  This whole unfortunate exchange involving the jurors was not merely unprecedented, it was extraordinary. It is not difficult to believe that the jury left court baffled and bewildered at the turn of events with which they were unexpectedly presented. Interestingly, once the jury had departed, which they did immediately after this last exchange, the same defence counsel apologised to the Judge for intervening earlier, but revealed his real purpose in doing so[239]:
+
+“I’m sorry, your Ladyship. Sorry I stood up when [I or they] asked for that. I just wanted to try and stop them.”
+
+It is regrettable that the jury should have been placed in this position in the first place, or that counsel should have seen the need to intervene as a deus ex machina, in order to prevent the jury explaining and registering their obvious and understandable misgivings and concerns about the way the case had been handled.
+
+129.  In respect of CASJ 2/2021, we again answer Question 2 in the affirmative.
+
+H.3. The Deputy Judge’s errors in CASJ 3/2021
+
+130.  In this instance, the application of no case to answer was made by defence counsel, as is the normal procedure, at the close of the prosecution case. The circumstantial evidence upon which the prosecution relied was that the 4th respondent had journeyed from the United States through Dubai to Johannesburg in South Africa on 6 May 2019. He subsequently left Johannesburg on 10 May and arrived in Hong Kong on 11 May 2019. He was booked on a return flight to Orlando from Hong Kong on 14 May 2019. When his luggage was searched at Hong Kong International Airport and the cocaine, the subject matter of the indictment, found concealed in the lining of an apparently empty briefcase inside his suitcase, resulting in his arrest, the 4th respondent said he did not know there was cocaine hidden in the briefcase, which had been given to him by a friend in Johannesburg.
+
+131.  Customs Officer 14167 noted upon first inspection that there was “obvious re-stitching” and “similar re-stitching” to the edges of both the front and back of the briefcase[240], and that it was “exceptionally heavy” for an apparently empty briefcase[241]. Indeed, the weight of the cocaine powder in the briefcase was 1.996 kilogrammes and its street value at the time was HK$1,974,044.
+
+132.  It is not surprising, therefore, that on this evidence the Deputy Judge should have said in his ruling[242]:
+
+“I accept that the circumstantial evidence, other than the emails, does allow of an inference that the defendant had knowledge of the presence of the dangerous drugs inside the briefcase”.
+
+That finding ought to have been the end of the submission of no case to answer, had the Deputy Judge applied the law as we have explained it.
+
+133.  Unfortunately, the Deputy Judge went on to find that certain emails passing between William Greene, Alex William and the 4th respondent[243]:
+
+“…are capable of being regarded by a reasonable jury as allowing of only one possible inference, and that is that the defendant was deceived by the two drug traffickers to transport drugs for them”.
+
+He nevertheless said that he would[244]:
+
+“…accept that there are emails in which the defendant shows a degree of suspicion, anxiety and desperation but I do not see that those emails, or the emotions reflected in them, are capable of being regarded by a reasonable jury as indicia of the defendant becoming aware that he was being used to courier dangerous drugs”.
+
+134.  It should be understood that the prosecution did not introduce the emails as part of their case for the truth of what they purported to assert. They were before the jury as evidence of a “cover” or a “cover story” for drug trafficking. That is how prosecuting counsel had opened her case to the jury when referring to the email material she would be adducing[245]; and that is what she reiterated during her response to the Deputy Judge on the submission of no case to answer[246]. Her position was that the 4th respondent must have known, or at least come to realise, that the emails were a cover story for drug trafficking. There was, however, another purpose in producing the emails, as she explained to the jury when opening her case[247]:
+
+“…the prosecution say, from these emails … that from the start the defendant himself, who was travelling all over the world on behalf of Mr Greene had little or no money and was relying on payments from Mr Greene to be able to travel, pay for flights and accommodation in order to carry out Mr Greene’s instructions.”
+
+135.  Notwithstanding this position, the Deputy Judge nevertheless purported to find[248]:
+
+“There is nothing on the face of the emails to suggest that they are not genuine or that they have been fabricated to provide an exculpatory history on which the defendant could rely should he be intercepted by law enforcement agencies in the course of his travels. The prosecution do not say that they are not genuine and confine their submissions to an assertion that by a particular time the defendant can be inferred to have been aware that he was being used for the purpose of drug trafficking”.
+
+136.  He rightly acknowledged that “[a]t this stage of the trial this email history must be read without the benefit of any evidence explaining it from the defendant”[249]. However, as Mr Tam pointed out, the Deputy Judge immediately went on to make findings and draw inferences as to the truth of what he believed the email history purported to show[250]:
+
+“It shows that there was a relationship between the defendant and these two persons in which the defendant embarked on international travel on their behalf, and which they funded. The person with whom the defendant was primarily engaged and who seems to make all his travel and accommodation arrangements, was Mr William Greene.
+
+The purpose of the international travel is not clear from the emails but it could be inferred that it had something to do with the fund of monies in a bank account and the release of the monies from that account. It could also be inferred from a photo that was found on the defendant’s phone that this was a fraudulent scheme and that the defendant was the victim of a Nigerian scam. The photo is of a document that purported to be issued by the Central Bank of Nigeria authorising the release of US$10.5 million to the defendant. If this inference of the defendant being the victim of a fraudulent scheme was drawn, then it could be further inferred that the promise of these monies was being used as bait to entice the defendant into traveling around the world and unwittingly transporting drugs on their behalf.”
+
+137.  Notwithstanding, as we have seen, that the Deputy Judge accepted that there was circumstantial evidence, apart from the emails, which would have allowed the jury to draw an inference that the 4th respondent had knowledge of the presence of the dangerous drugs in the briefcase, he nevertheless found[251]:
+
+“However, the emails allow of an inference that the defendant was the victim of drug traffickers who were deceiving him into believing that if he carried out their instructions, which involved him traveling internationally on their behalf, he would be able to obtain access to a sum of US$10.5 million. By this means they were able to use him as a courier of the dangerous drugs in which they were trafficking.
+
+The task for me is to assess the impact of the emails on the other evidence and to determine whether the inference of knowledge still remained as an inference which a reasonable jury properly directed could, may or might draw. The reasonable jury could only do so if the evidence was capable of making the inference of knowledge the only reasonable inference, thereby excluding inferences consistent with innocence from being a reasonable inference capable of being drawn.”
+
+138.  In reasoning as he did, the Deputy Judge recited the judgment of Lord Carswell in Varlack, which quoted King CJ’s judgment in Questions of Law Reserved on Acquittal, including the so-called King rider[252]. It was King CJ’s judgment, including the King rider, which he then repeated as the concluding basis for finding no case to answer[253].
+
+139.  Mr Tam, with whose submissions Ms Wong agreed, submitted that the Deputy Judge fell into a number of errors, the most obvious being that he sought to draw inferences, which were not for him to draw, from evidence which was hearsay for the purpose he purported to use it, and which at that stage had never been explained by any of its authors. In doing so, he impermissibly formed his own view that the emails were capable of allowing of only one possible inference, when there was clearly another way of looking at their contents; this was, in any event, a matter for the jury. Furthermore, having accepted that, emails apart, there was sufficient circumstantial evidence which would have allowed the jury to draw an inference of knowledge, the Deputy Judge usurped the jury’s function by removing the case from their consideration on the basis of his own interpretation of hearsay evidence, to which the 4th respondent had not spoken.
+
+140.  Ultimately, both leading counsel contended that the Deputy Judge had misunderstood the law applicable at the stage of no case to answer, and ultimately fallen into the trap of misconstruing and misapplying the King rider. We agree with these submissions. It is revealing that the Deputy Judge should have directed himself[254]:
+
+“The task for me is to assess the impact of the emails on the other evidence and to determine whether the inference of knowledge still remained as an inference which a reasonable jury properly directed could, may or might draw. The reasonable jury could only do so if the evidence was capable of making the inference of knowledge the only reasonable inference, thereby excluding inferences consistent with innocence from being a reasonable inference capable of being drawn.”
+
+By this direction, he in effect put it upon himself to perform the function of a jury and determine the veracity and reliability of evidence that was at that stage before the court. This became readily apparent when, after evaluating that evidence and expressing his view of it, he concluded[255]:
+
+“I am of the view that the emails are capable of being regarded by a reasonable jury as allowing of only one possible inference, and that is that the defendant was deceived by the two drug traffickers to transport drugs for them.”
+
+With respect, this was a matter for the jury in conjunction with all the other evidence.
+
+141.  As we have said, the short answer to the submission of no case to answer was in fact supplied by the Deputy Judge himself, who accepted that there was sufficient circumstantial evidence which would have allowed the jury to draw the inference of knowledge. That should have been the end of the matter.
+
+142.  In respect of CASJ 3/2021, we also answer Question 2 in the affirmative.
+
+I. Conclusion
+
+I.1. Overruling the Judge and Deputy Judge’s rulings
+
+143.  However, it is necessary that we should make this clear. We had been made aware from other appeals which we have heard, as were both leading counsel anecdotally, that the judgment of the Deputy Judge has been referred to at trials before various lower courts since its delivery in June 2021. Indeed, in one particular case in the High Court, namely HKSAR v Moala Alipate[256], it was extensively referred to and, indeed, formed the basis of the ruling of no case to answer in that case; also one of drug trafficking. We are told that it has also been referred to in various magistracy trials; with success, for example, in HKSAR v Chan Tin Cheung[257], where a deputy magistrate specifically relied upon it when ruling no case to answer.
+
+144.  We wish to make clear that neither the rulings of the Judge (in CASJ 1/2021 or CASJ 2/2021) nor the ruling of the Deputy Judge (in CASJ 3/2021) are to be relied upon again in any court in this jurisdiction as authority for the correct test when considering a submission of no case to answer. They were wrongly decided and, inasmuch as it is necessary to overrule them as rulings made at first instance, we do so.
+
+I.2. Proposed reform on the appeal mechanism
+
+145.  In the course of his submissions, Mr Tam made a plea on behalf of the Secretary for Justice that this Court should give some guidance for the future where judges rule no case to answer, in order that rulings can, in appropriate circumstances, be immediately challenged and, if necessary, overturned. In this way, it is hoped that the jury, who may have sat for many weeks, can be preserved and the consequent waste of time and public resources averted, if an incorrect ruling is subsequently overturned on appeal. There is at present no statutory procedure for the prosecution to appeal against a High Court judge’s ruling of no case to answer and/or direction to acquit.
+
+146.  Mr Tam pointed out that in the United Kingdom, the Crown may appeal against a judge’s ruling of no case to answer under section 58 of Part 9 of the Criminal Justice Act 2003. The appeal then lies to the Court of Appeal. R v X Ltd[258] and R v SA[259] are examples of such appeals being made by the Crown.
+
+147.  Regrettably, each of the cases under consideration in these applications has resulted in a serious miscarriage of justice: not in the sense that the defendants were wrongly acquitted, for they may have been found not guilty had their cases reached the jury for consideration as they should have done, but in the sense that the judges concerned impermissibly usurped the function of each jury and incorrectly withdrew the cases before their respective juries could consider them. In the result, all of the defendants have been released and left the jurisdiction in the wake of acquittals being wrongly entered at the direction of the court concerned.
+
+148.  Unfortunately, there does not seem to be any lawful mechanism whereby the prosecution can appeal a question of law in the present context, unless the defendant is acquitted (under section 81D of the Criminal Procedure Ordinance), or unless he has been discharged (under section 16 or 79G of the Criminal Procedure Ordinance or under section 22 of the Complex Commercial Crimes Ordinance, Cap 394). There is obviously considerable merit, therefore, in Hong Kong adopting a similar measure to that which operates in the United Kingdom. We would hope that these three cases demonstrate the urgent need for the statutory provisions to be reformed in this respect.
+
+ 
+
+ 
+
+(Andrew Macrae)
+Vice President	(Kevin Zervos)
+Justice of Appeal	(Anthea Pang)
+Justice of Appeal
+ 
+
+Mr William Tam SC, DDPP, Mr Ira Lui ADPP and Ms Audrey Parwani SPP, of the Department of Justice, for the Applicant
+
+Ms Maggie Wong SC, amicus curiae
+
+
+[1]  The first application (CASJ 1/2021) was filed on 8 July 2021, the second (CASJ 2/2021) on 17 September 2021, and the third (CASJ 3/2021) on 7 October 2021.
+
+[2]  At [4] infra.
+
+[3]  Written Submissions of the Applicant dated 12 July 2022, at [147].
+
+[4]  Photograph (5): Appeal Bundle (“AB”), B p 412.
+
+[5]  Photograph (21): AB, B p 428.
+
+[6]  Photographs (7) and (19) respectively: AB, B pp 414 and 426.
+
+[7]  AB, A p 34S-U.
+
+[8]  AB, B p 436.
+
+[9]  AB, A p 61B-H.
+
+[10]  The 1st respondent’s video recorded interview, counters 398 and 402: AB, B p 564.
+
+[11]  AB, A p 82F.
+
+[12]  AB, A p 81J-P.
+
+[13]  AB, A p 85F-H.
+
+[14]  AB, A p 87R-S.
+
+[15]  AB, A p 86D-F.
+
+[16]  AB, B p 287F-N; p 288Q-S.
+
+[17]  Exhibit D1: AB, B p 578.
+
+[18]  AB, A p 96S-T.
+
+[19]  AB, A p 239S-T.
+
+[20]  AB, B pp 376-382.
+
+[21]  For example: AB, B p 378D-O “But now we have a whole host of other evidence and it’s a substantial amount of evidence where because of it, [the prosecution] is in more difficulty, yes? So it’s not silence that she’s trying to meet it’s a wall of emails over five months. What is the positon of the court? Should I be looking once more, and am I entitled to look once more as to whether a jury properly directed couldn’t but fail to acquit or do I (let) it go to the jury, let poor [prosecuting counsel] struggle to try and build this into a case of some sort that gets her past – well, I don’t think she can, but she can wrap it up in something that sounds like she might have a case even though we know she hasn’t.”;
+
+  AB, B pp 397S-398B “As I said yesterday, I have huge sympathy because, as [defence counsel] has said, the evidence is pretty overwhelming that for some reason or other these third parties were really, sort of, deceiving the defendant over a huge period of time. I think if it had been a shorter period and he’d suddenly left and he’d suddenly gone somewhere you might have more to, sort of, say, ‘Why on earth would somebody do that?’ But it’s an awfully complicated scam in order to – in order to cover a 1.2 million (sic) amount of cocaine.”; and
+
+  AB, B p 399J-O “And, therefore, if they were properly directed on the evidence they would have to acquit and any conviction would be unsafe and unsatisfactory, any perverse conviction, any conviction arising after a direction such as that or, indeed, after a properly produced speech where you wouldn’t be able to say, would you? Yes. All right. Then as with a half-time submission, the proper approach would then be to have the jury brought back in and for – because the defendant is in charge of the jury to ask the foreman to return a verdict of not guilty. All right? That’s going to be my ruling. I’m going to go out and just add a little bit to my ruling. But I think I owe it to the jury. The ruling will be done prior to the jury coming in. I think I owe it to the jury to explain why we’ve had them here the whole time and why we’ve taken away their job.”
+
+[22]  AB, A p 21, at [3].
+
+[23]  Ibid.
+
+[24]  AB, A p 22, at [5].
+
+[25]  AB, A p 23, at [6].
+
+[26]  The 2nd respondent’s video recorded interview, counters 1163-1164, 1191-1192: AB, D p 1230; the 3rd respondent’s video recorded interview, counters 596-599: AB, D pp 1410-1411.
+
+[27]  The 2nd respondent’s video recorded interview, counters 1104 and 1106: AB, D p 1223.
+
+[28]  The 3rd respondent’s video recorded interview, counters 659, 666-667: AB, D p 1415.
+
+[29]  Admitted Facts, at [19]-[20]: AB, C p 697.
+
+[30]  AB, C pp 889G-890F.
+
+[31]  AB, C p 891A-F.
+
+[32]  AB, C pp 891L-918K.
+
+[33]  AB, C p 918R-T.
+
+[34]  AB, C p 925M-N.
+
+[35]  For example: AB, C p 959N-P “But the evidence is such, and you know it, you didn’t need to have the speeches of defence counsel in a way, the evidence within the prosecution’s own case provides within the video recorded interviews explanations from the defendants, other evidence which suggests what their knowledge was.”; and AB, C p 960I-L “…you have this other set of explanations within a timeline given by these ladies wholly independently of each other 24 hours after arrest, yes? They haven’t been able to talk to each other and yet you’ve got this story. Not just one story, but two stories which appear on the basis of being restricted to questions and answer, but that appear to be consistent with each other. So there is another version of events here, isn’t there, that is available to you?”.
+
+[36]  AB, C p 700, at [2].
+
+[37]  AB, C p 700, at [3].
+
+[38]  AB, C pp 702-703, at [7].
+
+[39]  Which lasted for 14 minutes from 10:06 am to 10:20 am.
+
+[40]  AB, C pp 962A-968P.
+
+[41]  AB, E p 1712.
+
+[42]  AB, E p 1550K-L.
+
+[43]  Although some email messages were sent out by Customs officers impersonating the 4th respondent for the purpose of the controlled delivery operation: AB, E p 1620F-G.
+
+[44]  AB, E pp 1714-1743.
+
+[45]  Admitted Facts, at [1]: AB, E pp 1493-1494.
+
+[46]  Transcript of prosecution opening speech: AB, E p 1516E-G.
+
+[47]  Transcript of prosecution opening speech: AB, E p 1523H-K.
+
+[48]  Transcript of prosecution opening speech: AB, E p 1525C-E.
+
+[49]  AB, E p 1677K-L.
+
+[50]  AB, E p 1501, at [2].
+
+[51]  AB, E p 1501, at [2]-[3].
+
+[52]  AB, E p 1507, at [17].
+
+[53]  AB, E pp 1508-1511, at [19]-[30].
+
+[54]  AB, E p 1507, at [17].
+
+[55]  AB, E p 1502, at [6].
+
+[56]  AB, E pp 1512-1513, at [34]-[35].
+
+[57]  AB, E p 1503, at [9].
+
+[58]  AG v Li Fook Shiu Ronald [1990] 1 HKC 1. The “third question” reads: “Could, may or might a jury properly directed be satisfied beyond reasonable doubt of such inferences as have to be drawn if all the elements of the prosecution case are to be established? If [the judge] concludes that a jury could, may or might so be satisfied, he will rule against the submission or application.”
+
+[59]  R v Galbraith [1981] 1 WLR 1039.
+
+[60]  Director of Public Prosecutions v Varlack [2009] 4 LRC 392, quoting only [21] and [22] therein.
+
+[61]  HKSAR v Hui Rafael Junior & Others (Unrep., HCCC 98/2013, 13 February 2014, per Macrae JA), quoting only a passage from [7] thereat.
+
+[62]  AB, E pp 1507, at [15].
+
+[63]  AB, E pp 1512-1513, at [34].
+
+[64]  Question of Law Reserved in Acquittal (No 2 of 1993) (1993) 61 SASR 1.
+
+[65]  R v Morgan (Unrep., Court of Appeal, 29 March 1993); [1993] Crim LR 870.
+
+[66]  R v Moore (Unrep., Court of Appeal, 20 August 1992).
+
+[67]  Blackstone’s Criminal Practice 2022, at D16.64.
+
+[68]  Haw Tua Tau v Public Prosecutor [1982] AC 136.
+
+[69]  Ibid., at 151B-H.
+
+[70]  May v O’Sullivan (1955) 92 CLR 654.
+
+[71]  Ibid., at 658.
+
+[72]  R v N Ltd [2008] 1 WLR 2684, at 2689, [15].
+
+[73]  R v Barker (Note) (1977) 65 Cr App R 287.
+
+[74]  Ibid., at 288; quoted in Galbraith, at 126.
+
+[75]  Crosdale v The Queen [1995] 1 WLR 864, at 872B-C.
+
+[76]  R v R (1989) 44 A Crim R 404.
+
+[77]  Ibid., at 404.
+
+[78]  Ibid., at 415.
+
+[79]  R v R, at 407.
+
+[80]  R v Falconer-Atlee (1974) 58 Cr App R 348.
+
+[81]  R v Mansfield [1977] 1 WLR 1102.
+
+[82]  R v R, at 407.
+
+[83]  Ibid., at 414.
+
+[84]  Ibid., at 414-415.
+
+[85]  Galbraith, at 126.
+
+[86]  Ibid., at 125.
+
+[87]  R v R, at 410.
+
+[88]  Ibid., at 407-408.
+
+[89]  R v Mezzo (1986) 27 CCC (3d) 97.
+
+[90]  R v R, at 410.
+
+[91]  Doney v The Queen (1990) 171 CLR 207.
+
+[92]  R v Boakye (Unrep., [1992] Lexis Citation 3724, 12 March 1992).
+
+[93]  Ibid., at p 7.
+
+[94]  R v Brown (Jamie) (Unrep.,17 November 1997, at p5); The Times, 13 December 1997.
+
+[95]  R v Brown (Davina) [2002] 1 Cr App R 5.
+
+[96]  Ibid., at [12].
+
+[97]  R v Towers (1984) 14 A Crim R 12, at 15.
+
+[98]  R v R, at 414.
+
+[99]  Ibid., at 410-411.
+
+[100]  Ibid., at 411.
+
+[101]  R v Lika & Others [2015] EWCA Crim 516.
+
+[102]  Ibid., at [20].
+
+[103]  R v Storey (1968) 52 Cr App R 334, at 337-338.
+
+[104]  See R v Duncan (1981) 73 Cr App R 359; R v Sharp [1988] 1 WLR 7; R v Aziz [1996] AC 41; HKSAR v Kong Siu Ming & Others [2000] 2 HKLRD 449.
+
+[105]  Secretary for Justice v Ng Siu Lun (Unrep., CACC 304/2013, 17 September 2014).
+
+[106]  Ibid., at [35].
+
+[107]  R v Goring [2011] EWCA Crim 2, at [36].
+
+[108]  R v Van Bokkum (Unrep., 7 March 2000).
+
+[109]  Goring, at [37].
+
+[110]  R v Goring [2011] Crim LR 790, at 792; commentary by Andrew Roberts.
+
+[111]  R v Lowther [2019] EWCA Crim 1499.
+
+[112]  Boakye, at p 7.
+
+[113]  R v R, at 413.
+
+[114]  Ibid.
+
+[115]  Galbraith, at 127.
+
+[116]  Varlack, at 399a.
+
+[117]  R v Christou [2012] EWCA Crim 450.
+
+[118]  Li Fook Shiu Ronald, at 9E-F.
+
+[119]  Ibid., at 10E-F.
+
+[120]  Ibid., at 12H-13D.
+
+[121]  HKSAR v Wu Wing Kit (No 2) [2016] 3 HKLRD 533.
+
+[122]  HKSAR v Mushtaq Zeeshan (Unrep., CACC 394/2015, 15 November 2016).
+
+[123]  HKSAR v Gurung Shibakumar (Unrep., CACC 98/2020, 31 March 2022).
+
+[124]  Doney v The Queen (1990) 171 CLR 207, at 214.
+
+[125]  Peacock v The King (1911) 13 CLR 619.
+
+[126]  Ibid., at 630.
+
+[127]  Ibid., at 628.
+
+[128]  Ibid., at 651-652.
+
+[129]  Ibid., at 670-671.
+
+[130]  Plomp v The Queen (1963) 110 CLR 234.
+
+[131]  Plomp, at 247.
+
+[132]  McGreevy v DPP [1973] 1 WLR 276.
+
+[133]  Moore, at pp 7-8.
+
+[134]  Blackstone’s Criminal Practice 2022, at D16.64.
+
+[135]  Morgan, at pp 4-6.
+
+[136]  R v Jamieson [2003] EWCA 3755.
+
+[137]  Ibid., at [49].
+
+[138]  R v Aziz Saleh, [2012] EWCA Crim 484, at [41].
+
+[139]  At [70] supra.
+
+[140]  Van Bokkum, at [32].
+
+[141]  R v Edwards [2004] EWCA Crim 2102, at [84].
+
+[142]  R v Jabber [2006] EWCA 2694.
+
+[143]  Ibid., at [17].
+
+[144]  Ibid., at [18]-[21].
+
+[145]  R v Hedgcock & Others [2007] EWCA Crim 3486.
+
+[146]  Ibid., at [19]-[21].
+
+[147]  Jabber, at [21]
+
+[148]  AB, C p 702.
+
+[149]  R v Darnley [2012] EWCA Crim 1148.
+
+[150]  Ibid., at [19].
+
+[151]  Ibid., at [21].
+
+[152]  R v G & F [2012] EWCA Crim 1756.
+
+[153]  Ibid., at [29].
+
+[154]  Ibid., at [34].
+
+[155]  Ibid., at [36].
+
+[156]  Archbold Hong Kong 2022, at 4-152.
+
+[157]  AB, C pp 701O-702G.
+
+[158]  R v Moscicki [2016] EWCA Crim 389.
+
+[159]  R v Bech [2018] EWCA Crim 448.
+
+[160]  R v Wassab Khan [2013] EWCA Crim 1345, at [16].
+
+[161]  R v Curtis Esprit [2014] EWCA Crim 1918.
+
+[162]  R v P [2007] EWCA Crim 3216.
+
+[163]  Curtis Esprit, at [20].
+
+[164]  R v McCarney [2015] NICA 27, at [59].
+
+[165]  Hui Rafael Junior, at [7]-[8].
+
+[166]  鑽牛角尖.
+
+[167]  Wu Wing Kit (No 2), at [130]. Note: the judgment in Hui Rafael Junior was cited as a footnote to this passage from Wu Wing Kit (No 2).
+
+[168]  See [46] supra.
+
+[169]  Hedgcock, at [26].
+
+[170]  G & F, at [32].
+
+[171]  Doney, at 214.
+
+[172]  Ibid., at 214-215.
+
+[173]  R v Vaid (Shoaib) [2015] Crim LR 532; commentary at 534 by Peter Hungerford-Welch.
+
+[174]  Galbraith, at 128.
+
+[175]  At [45] supra.
+
+[176]  R v R, at 410.
+
+[177]  Ibid.
+
+[178]  Attorney-General’s Reference (No 1 of 1983) [1983] 2 VR 410.
+
+[179]  Ibid., at 415, lines 40-49.
+
+[180]  S (SC 58/2019) v Vector Ltd [2021] 1 NZLR 1, at [122].
+
+[181]  R v Flyger (2001) 2 NZLR 721.
+
+[182]  Ibid., at [16]-[17].
+
+[183]  S (SC 58/2019) v Vector Ltd, at [125].
+
+[184]  Which included Lord Hoffman, Baroness Hale of Richmond and Lord Neuberger of Abbotsbury, all then or future non-permanent judges of the Hong Kong Court of Final Appeal.
+
+[185]  Varlack, at 401f-402g.
+
+[186]  At [74].
+
+[187]  Question of Law Reserved in Acquittal (No 2 of 1993) (1993) 61 SASR 1.
+
+[188]  Ibid., at 5; Varlack, at [22].
+
+[189]  R v Hill (2020) 5 QR 225, at [7].
+
+[190]   AB, E p 1513A-E.
+
+[191]   AB, E p 1506A-C.
+
+[192]  King CJ said of R v R, in Questions of Law Reserved on Acquittal (No 2 of 1993), at 5: “I do not read that case as deciding that there can be a case to answer on circumstantial evidence which is incapable of producing in a reasonable mind a conviction of guilt beyond reasonable doubt. If the evidence is incapable of producing that state of mind, it is not capable of proving the charge.”
+
+[193]  55 ALJ 842, at 853.
+
+[194]  2 Aust Bar Rev 11, at 12.
+
+[195]  R v Bilick (1984) 36 SASR 321, at 335.
+
+[196]  R v Stewart; Ex parte Attorney-General [1989] 1 Qd R 590, at 592.
+
+[197]  Varlack, at [24].
+
+[198]  Li Fook Shiu Ronald, at 12H-13D.
+
+[199]  At [37] et seq. supra.
+
+[200]  At [39] et seq. supra.
+
+[201]  At [41] et seq. supra.
+
+[202]  At [46] supra.
+
+[203]  At [47] et seq. supra.
+
+[204]  At [60] et seq. supra.
+
+[205]  AB, B p 377L.
+
+[206]  AB, B p 378D-H.
+
+[207]  AB, B p 396U.
+
+[208]  AB, B p 397S-U.
+
+[209]  AB, B p 398A-B.
+
+[210]  AB, B p 399J-K.
+
+[211]  AB, A p 23L-M.
+
+[212]  AB, A p 37H-I.
+
+[213]  AB, A pp 239P-241A.
+
+[214]  AB, A p 34S-U.
+
+[215]  HKSAR v Ogana Jeiazel Ogana (Unrep., CACC 461/2009, 23 February 2011).
+
+[216]  Ibid., at [31].
+
+[217]  AB, B p 564, Entries 397-402.
+
+[218]  AB, A p 23, at [6].
+
+[219]  AB, A p 25, at [8].
+
+[220]  AB, C p 700, at [2].
+
+[221]  AB, C p 701, at [4].
+
+[222]  AB, D pp 1177-1181, Entries 500-542 (2nd respondent); D pp 1404-1406, Entries 476-505 (3rd respondent).
+
+[223]  AB, C p 714B-C.
+
+[224]  AB, C p 768F.
+
+[225]  AB, D p 1415, Entries 662-663.
+
+[226]  AB, C pp 894R-895A; p 896D-G.
+
+[227]  AB, C p 701, at [4].
+
+[228]  AB, C p 702, at [5].
+
+[229]  AB, C pp 702-703, at [7].
+
+[230]  AB, C p 959N-P.
+
+[231]  AB, C p 966D-R.
+
+[232]  AB, C p 966S.
+
+[233]  AB, C p 967I-J.
+
+[234]  AB, C p 967J-K.
+
+[235]  AB, C p 967L.
+
+[236]  AB, C p 967M-R.
+
+[237]  AB, C p 968A.
+
+[238]  AB, C p 968J-L.
+
+[239]  AB, C p 968Q-R.
+
+[240]  AB, E p 1537E-Q.
+
+[241]  AB, E p 1537C-D.
+
+[242]  AB, E p 1507, at [17].
+
+[243]  AB, E p 1512, at [33].
+
+[244]  Ibid.
+
+[245]  AB, E p 1520E-J.
+
+[246]  AB, E p 1677J-L.
+
+[247]  AB, E p 1520K-M.
+
+[248]  AB, E p 1502, at [6].
+
+[249]  AB, E p 1501, at [4].
+
+[250]  AB, E pp1501-1502, at [4]-[5].
+
+[251]  AB, E pp 1507-1508, at [17]-[18].
+
+[252]  AB, E pp 1504-1506, at [12].
+
+[253]  AB, E pp 1512-1513, at [34]-[35].
+
+[254]  AB, E p 1508, at [18].
+
+[255]  AB, E p 1512, at [33].
+
+[256]  HKSAR v Moala Alipate (Unrep., [2021] HKCFI 2611, 6 September 2021).
+
+[257]  HKSAR v Chan Tin Cheung (Unrep., ESCC 2797/2020, 25 June 2022).
+
+[258]  R v X Ltd [2014] 1 WLR 591.
+
+[259]  R v SA [2019] 4 WLR 142.
+
+ 

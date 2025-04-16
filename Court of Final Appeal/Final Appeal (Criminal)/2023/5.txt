@@ -1,0 +1,455 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC Nos 3, 4 & 5 of 2023
+
+[2023] HKCFA 11
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NOS 3, 4 & 5 OF 2023 (CRIMINAL)
+
+(ON APPEAL FROM CACC NO 185 OF 2021)
+
+________________________
+
+BETWEEN
+
+ 	HKSAR	Respondent
+ 	and	 
+ 	CHEN KEEN (alias JACK CHEN) (陳克恩) (D1)	Appellant
+ 	 	in FACC 3/2023
+ 	 	(1st Appellant)
+ 	HAO MAY (formerly known as	Appellant
+ 	WANG MAY YAN) (alias MAY WANG) (D2)	in FACC 4/2023
+ 	 	(2nd Appellant)
+ 	YEE WENJYE (also known as	Appellant
+ 	YU WENJIE) (alias ERIC YEE) (D3)	in FACC 5/2023
+ 	 	(3rd Appellant)
+________________________
+
+Before:	Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ and Mr Justice Gummow NPJ
+Date of Hearing:	8 May 2023
+Date of Judgment:	24 May 2023
+_____________________________
+
+JUDGMENT
+
+_____________________________
+
+Chief Justice Cheung:
+
+1.  These appeals raise the question of whether the Court of First Instance has jurisdiction under section 4 of the Costs in Criminal Cases Ordinance (CCCO)[1] to award costs to the defendant in a jury trial when, without fault on his part, the trial is aborted and he has to be tried before another jury.
+
+The facts
+
+2.  The three appellants were indicted for charges of conspiracy to defraud and money laundering. Following a lengthy trial, they were all convicted of the charges.[2] Their appeals against conviction were unsuccessful before the Court of Appeal,[3] but ultimately allowed by this court and a retrial was ordered.[4] They were awarded the costs of the original trial and of the appeals.[5] The appellants were retried on fresh indictments before Deputy High Court Judge Bruce SC sitting with a jury.[6] On Day 57 of the retrial, a prosecution witness gave unsolicited evidence which was prejudicial to the appellants. The deputy judge acceded to their joint application, opposed by the prosecution, and discharged the jury.[7] The retrial was aborted as a result. Upon the appellants’ applications, the deputy judge awarded the costs of the aborted retrial in their favour, after holding that he had jurisdiction to do so under section 4 of the CCCO.[8]
+
+3.  The costs order was reversed on appeal.[9] The Court of Appeal held that on a proper construction of section 4 of the CCCO, a trial court has no jurisdiction to award costs to a defendant following the collapse of the trial. With leave to appeal granted by the Appeal Committee,[10] the proper construction of section 4 is now squarely before this court.[11]
+
+4.  To complete the story, following the discharge of the jury in the aborted retrial, pre-trial legal arguments have been heard and the retrial is due to re-commence before a judge sitting with a new jury pending the outcome of these appeals.
+
+The arguments
+
+5.  It is well established that there is no inherent jurisdiction to award costs in criminal cases. Jurisdiction to award costs is entirely statutory. It follows that there is no inherent entitlement to costs. In order to seek costs, a party must bring himself within a statutory provision which gives the court the power to award costs in that party’s favour on the facts of the case concerned.[12]
+
+6.  Section 4, in Part II of the CCCO dealing with defence costs, provides :
+
+“Where a defendant is not tried for an offence for which he has been indicted or committed for trial, the District Court or the Court of First Instance may order that costs be awarded to the defendant.”
+
+7.  The focus of the argument before this court, as it was before the courts below, is on the words “is not tried for an offence for which he has been indicted or committed for trial”. In other words, when is a defendant “not tried” for the offence for which he has been indicted or committed for trial?
+
+8.  Essentially, the appellants contend[13] (and the deputy judge accepted) that “is not tried” covers not only the situation where a defendant is not tried at all after indictment or committal, but also one where, for whatever reason, the trial process does not result in a verdict. In particular, it covers the scenario where, as happened below, a trial is aborted upon the discharge of the jury before a verdict is reached. Of course, whether costs would be awarded by the trial court in favour of the defendant is a matter of discretion depending on the circumstances of the case. But, so far as jurisdiction is concerned, the appellants’ basic argument is that where, for whatever reason, a trial does not result in a verdict, the court is armed with the jurisdiction to award costs to the defendant if it thinks fit. The appellants argue that this is so regardless of whether the defendant is to undergo another trial before a different jury.
+
+9.  The respondent,[14] whose construction of section 4 was accepted by the Court of Appeal,[15] contends that section 4 covers the situation where a defendant is not tried at all, or, where the trial has started, it has not concluded and will not conclude with a verdict in future. In other words, in the latter case where the trial has already started, section 4 only applies to the situation where the prosecution does not proceed further with the trial, such that no verdict has been and will be delivered. Examples where section 4 applies are where a case is stayed, where the Secretary for Justice declines to file an indictment after committal and issues a warrant in the prescribed form under section 15(2) of the Criminal Procedure Ordinance,[16] and where a nolle prosequi is entered. As accepted by the Court of Appeal,[17] there has to be “finality” relating to the offence for which the defendant was indicted or committed for trial. In other words, the proceedings against the defendant for that offence have to come to an end (otherwise than through a verdict).
+
+Statutory interpretation
+
+10.  The rules on statutory construction are settled. It is certainly true that statutory language should be construed in the light of its context and purpose. Words are given their natural and ordinary meaning with context and purpose to be considered alongside the express wording at the outset ─ not merely at some later stage when an ambiguity is thought to arise.[18] This is because the meaning of words is inevitably coloured by the context in which they are employed. It is unhelpful to look at words in a vacuum or to adopt a literal or dictionary meaning of the words being construed, without also paying regard to the context.
+
+11.  At the same time, it has to be firmly borne in mind that the court’s task is to give effect to the legislative intent within the permissible bounds of interpretation. Thus, a purposive approach does not allow the court to disregard or distort the plain meaning of the text and read the provision in any manner it wants. The court is, after all, an interpreter not a legislator.[19] It cannot attribute to a statutory provision a meaning which the language of the statute, understood in the light of its context and purpose, simply cannot bear.[20] Its role in the interpretative exercise is, and has always been, to ascertain and give effect to the intention of the legislature. The task remains one of construction of the words the legislature has actually used.
+
+12.  It follows that the legislature’s intention is to be gleaned from the text, context and purpose of the statute. In this regard :
+
+(1)  The context of the relevant statutory provision should be taken in its widest sense and will obviously include the other provisions of the statute.[21] All relevant provisions within a statute must be read together as a purposive unity. It is necessary to identify the interpretative considerations involved and then, if they conflict, to weigh and balance them.[22] So far as possible, a statute should be construed as a consistent whole.
+
+(2)  It may be relevant and necessary, depending on the case, to consider the recommendation of a report such as that published by the Law Reform Commission, the explanatory memorandum to the relevant bill or a statement by the responsible official of the government in relation to that bill in the Legislative Council.[23] It may also be relevant in any given case to look at the history of the provision concerned, and read it in the historical context of the situation which led to its enactment.[24] The existing state of the law may also be relevant.[25]
+
+(3)  Regard must also be had to the practical consequences of opposing constructions. Construction is an exercise in common sense and sound reason. The courts will presume that the legislature did not intend a statute to have consequences which are inconsistent with fundamental rights, or are objectionable or undesirable; or absurd; or unworkable or impracticable; or merely inconvenient; or anomalous or illogical; or futile or pointless.[26]
+
+Legislative history of the CCCO
+
+13.  The CCCO, an ordinance “to provide for costs in criminal cases”,[27] came into effect on 17 January 1997. It is the main, albeit not sole, statutory source governing costs in criminal matters in Hong Kong. Its legislative history has been traced in detail by Poon J[28] in HKSAR v Wong Tsz Yuk.[29] In short, statutory provisions on criminal costs used to be scattered across the Magistrates Ordinance[30] and the Criminal Procedure Ordinance, as well as various other Ordinances. Those in the Magistrates Ordinance dealt with the award of costs for or against the defendant depending on whether the complaint was dismissed or led to a conviction;[31] against an appellant when an appeal was abandoned;[32] and in favour of an appellant when a magistracy appeal was allowed.[33] The provisions in the Criminal Procedure Ordinance provided for the award of costs against a defendant upon conviction or in his favour upon acquittal;[34] and for the award of costs by the Court of Appeal to an appellant when allowing an appeal.[35]
+
+14.  There were also miscellaneous provisions giving the courts the power to award costs in criminal proceedings relating to specific offences, such as section 28 of the Prevention of Bribery Ordinance;[36] section 25 of the Complex Commercial Crimes Ordinance[37] and section 28 of the Trade Descriptions Ordinance.[38]
+
+15.  The situation was considered unsatisfactory, no doubt because the relevant provisions were scattered about different Ordinances. But not only that. There were situations where the court was given no power to award costs even though such an order might be considered just and appropriate. Furthermore, the approach as to how the court should exercise its jurisdiction to award costs was not uniform among the different levels of courts.
+
+16.  Following the report of a working group,[39] the CCCO was enacted and came into effect in January 1997, essentially to lay down a set of coherent principles governing the jurisdiction for awarding costs in criminal cases generally and a common procedure for determining the amount of costs for all costs orders specifically provided for. The CCCO repealed most of the provisions on costs in the Magistrates Ordinance and Criminal Procedure Ordinance.[40] In their place, the Ordinance sets out in Part II various situations where a court may award costs in favour of the defence. In Part III, the Ordinance goes on to provide for the award of costs in favour of the prosecution in different types of situations. Part IV deals with the general principles for the award and assessment of costs, and the award of unnecessary and wasted costs. Part V deals with appeals and other procedural matters.
+
+17.  The court in Wong Tsz Yuk concluded its review of the legislative history of the CCCO by observing that :
+
+“… when viewed against the legislative history leading to the enactment, the overall purpose and the extent of reform introduced, [the] CCCO and [the Costs in Criminal Cases Rules are], patently, a complete and self-contained code on the applicable law and practices for all the costs orders that they specifically provide for, aiming at removing all the anomalies and inconsistencies, insofar as those costs orders are concerned…”[41]
+
+Part II of the CCCO
+
+18.  Under Part II of the CCCO, section 3(1) sets out various situations where a magistrate may order costs in favour of the defendant. That is, where an information or complaint is not proceeded with;[42] where a magistrate decides not to commit the defendant for trial for an indictable offence;[43] where a magistrate dealing with a summary offence or an offence summarily dismisses the information or complaint or acquits the defendant;[44] and where a defendant is successful on review of the magistrate’s decision under section 104 of the Magistrates Ordinance or where the prosecutor fails in his application for review.[45] In short, section 3(1), dealing with the position of a defendant in the Magistrates’ Courts, covers situations where a case against him is not proceeded with, or where he is not committed for trial in a higher court, as well as where he is successful in his defence at trial or upon review (or in resisting a review).
+
+19.  Sections 4 to 6 of the CCCO then deal with the position in the District Court and the Court of First Instance. As mentioned, section 4 first deals with the situation where a defendant “is not tried” for the offence for which he has been indicted or committed for trial. The section gives the District Court or the Court of First Instance, as the case may be, the jurisdiction to award costs in favour of the defendant.
+
+20.  Section 5 caters for the obvious scenario where “after trial”, the defendant is acquitted. Both courts are given the jurisdiction to award costs to the defendant.
+
+21.  Section 6 provides for the courts’ jurisdiction to award costs in favour of a defendant facing more than one charge, when he is only partially successful in defending the charges. Both courts are given the power to award costs to the defendant in relation to all or any of such acquittals.
+
+22.  Section 7 of the CCCO then deals with a special situation where a judge directs that a defendant be discharged under section 16 of the Criminal Procedure Ordinance, and gives the court the power to award costs to the defendant. Section 16 provides for the power of a judge, after perusal of documents and hearing submissions, to direct that a defendant committed for trial shall not be arraigned on the charge and that he be discharged, on the basis that the evidence against him is insufficient to establish a prima facie case, and such a discharge “shall be deemed to be an acquittal”.[46] It should be noted that a discharge under section 16 does not involve the holding of a trial for the offence, and for this reason, is not covered by section 5 of the CCCO (which applies to an acquittal after trial only).
+
+23.  Sections 8 onwards deal with the power of an appeal court to award costs to the defendant. Section 8 provides for the Court of First Instance’s power to award such costs in the event of a successful magistracy appeal. In particular, where the court “allows an appeal” against conviction, the court may award costs in favour of the defendant.
+
+24.  Likewise, the Court of Appeal is given power under section 9(1) to award costs to the defendant where it “allows an appeal to which [the] section applies”. Subsection (2) provides that the section applies to any appeal against conviction under section 82 of the Criminal Procedure Ordinance;[47] any appeal against sentence under section 83G or 83H of the Criminal Procedure Ordinance where the court replaces the original sentence with a less severe punishment;[48] any appeal against a verdict of not guilty by reason of insanity;[49] and any appeal against a finding that the defendant is under a disability.[50]
+
+25.  Section 9A provides for the power of the Court of Appeal to award costs to the defendant where it dismisses an appeal under section 84 of the District Court Ordinance,[51] ie an appeal by the Secretary for Justice by way of case stated against a verdict or order of acquittal.
+
+26.  Finally, section 9B provides for the powers of the Court of Appeal and the Court of First Instance to award costs in favour of the defendant where the prosecutor unsuccessfully applies to the court for a certificate under section 32(2) of the Hong Kong Court of Final Appeal Ordinance[52] for the purpose of seeking leave to appeal to this court, if the court considers the application to be without merit.
+
+27.  Part II concludes with section 10 which provides for any defence costs awarded to be charged on the general revenue.
+
+28.  Pausing here, without focusing on section 4 at this stage, two preliminary observations can be made on the provisions included in Part II which, as described, provide for different circumstances under which the courts are given the power to award costs to the defendant. First of all, they are all concerned with situations where a particular event or outcome which is in the defendant’s favour has occurred. That the event or outcome that has occurred has to be in the defendant’s favour is significant and indeed easily explainable once it is remembered that Part II is concerned with awarding costs to the defendant. Unless something has happened that is favourable to the defendant, there is simply no reason to give the court a discretion to award costs to the defendant. After all, costs orders are, generally speaking, merit-based. This is particularly so when, as mentioned, there is no inherent entitlement to costs in criminal proceedings and costs, if awarded to the defendant, have to come out from the general revenue and borne by society at large.
+
+29.  The provisions in Part II, leaving aside section 4 for the time being, are all consistent with this analysis. Indeed paragraph 11 of the Legislative Council Brief on the Costs in Criminal Cases Bill dated 17 October 1995 specifically said :
+
+“Part II of the Bill provides that courts at all levels should have a complete discretion on awarding costs to a successful defendant at trial or otherwise, and on appeal.” (emphasis added)
+
+30.  Secondly, leaving section 4 aside for the time being, all the prescribed events or outcomes which give the courts the jurisdiction to award costs to the defendant are ones which signify the conclusion or termination, in his favour, of the criminal process or, as the case may be, a discrete and severable phase thereof.[53] Thus, for instance, Part II does not provide for the power to award costs to a defendant who has successfully opposed the admission of a confession at a voir dire, as that by itself does not conclude or terminate the trial stage of the criminal process in his favour.
+
+Part III of the CCCO
+
+31.  These observations are of relevance to the proper construction of section 4. However, before I turn to the scope of section 4, a brief description of Parts III and IV of the CCCO should be given. Part III of the Ordinance deals with prosecution costs, ie the powers of the courts to award costs in favour of the prosecution against the defendant. As may be expected, the scenarios provided under Part III are all scenarios where a result unfavourable to the defendant has occurred. Thus, section 11(1) under Part III deals with the situation where a defendant is convicted by a magistrate,[54] as well as where upon his application for review the magistrate confirms his decision to convict the defendant.[55] The court is given power to award costs against the defendant in favour of the prosecutor.
+
+32.  Likewise, section 12 gives the District Court and Court of First Instance the power to award costs to the prosecutor following conviction. Section 13 deals with an unsuccessful magistracy appeal before the Court of First Instance and an unsuccessful appeal to the Court of Appeal against conviction or sentence, and gives the respective courts the discretion to award costs against the unsuccessful defendant.
+
+33.  Section 13A covers the situation where the Court of Appeal allows the prosecution’s appeal by way of case stated under section 84 of the District Court Ordinance and reverses the verdict or order of acquittal. It gives the Court of Appeal the power to award costs to the prosecutor.
+
+34.  Section 13B gives the Court of Appeal and the Court of First Instance the discretion to award costs against a defendant when refusing his application for a certificate under section 32(2) of the Hong Kong Court of Final Appeal Ordinance on the grounds that the application is without merit. The courts have the power to award costs against the unsuccessful defendant.
+
+35.  Section 14 concludes Part III by providing for the recovery of costs against a defendant as a civil debt.
+
+36.  A similar observation can be made in relation to the provisions in Part III, namely, that the courts are given the power to award costs to the prosecution at prescribed junctures which signify the conclusion of the criminal process or a discrete and severable phase of the process in the prosecution’s favour.
+
+Part IV of the CCCO
+
+37.  Two provisions in Part IV of the CCCO merit a mention. Section 15(a) provides that in any criminal proceedings the costs that may be awarded by virtue of an order shall not be punitive but shall be such sums as appear to the court or judge reasonably sufficient to compensate any parties to the proceedings for any expenses properly incurred in those proceedings. Applicable to both defence costs and prosecution costs ordered by the court, the principle set out in section 15(a) simply means that costs are not awarded to punish a party but to compensate the other. Apart from that, it does not provide any clue as to when costs may be awarded. All it tells the court is that costs, if awarded, are to be quantified by reference to what is reasonably sufficient to compensate the receiving party for any expenses properly incurred. Contrary to the appellants’ contention, section 15(a) is only concerned with how costs are to be assessed, rather than under what circumstances the court has jurisdiction to award costs. This is particularly so when section 15(a) is immediately followed by provisions dealing more specifically with the assessment of costs. I therefore do not derive any assistance from section 15(a) on the proper construction of section 4.
+
+38.  The other provision under Part IV which merits some attention is section 17, which provides for the court’s power “at any time in the course of criminal proceedings” to make a costs order in relation to costs incurred by a party as a result of an unnecessary or improper act or omission by another party to the proceedings.[56] It is noteworthy that the court’s power may be exercised against a party “at any time in the course of criminal proceedings”, rather than at any specific juncture. Nor is it dependent on the occurrence of any event or outcome in favour of the defendant, or for that matter, the prosecution.[57]
+
+Section 4 of the CCCO
+
+39.  I now turn to section 4 of the CCCO. It says that where a defendant “is not tried for an offence for which he has been indicted or committed for trial”, the District Court, or, as the case may be, the Court of First Instance, may order that costs be awarded to the defendant.
+
+40.  The words “is not tried” obviously cover the situation where the defendant does not stand trial before the court at all after being indicted or committed for trial for the offence in question, and the criminal process against him in respect of the offence comes to an end. This happens when the Secretary for Justice declines to file an indictment under section 15(2) of the Criminal Procedure Ordinance. It also happens when a nolle prosequi is entered before trial. Likewise, it happens when before trial, the defendant successfully moves the quashing of the indictment, pleads autrefois on the indictment, or applies for a stay, and the criminal process thereby comes to an end (other than through a verdict after trial).[58] In all these cases, the result, or the practical result,[59] is that, subject to any appeal, the criminal process against the defendant in respect of the offence in question has come to an end in favour of the defendant. Plainly, in such a situation, there is a good reason for providing the court with a discretion to award costs to the defendant.
+
+41.  This reading accords with the wording of section 4 which says that the jurisdiction is engaged when a defendant “is not tried” for the offence for which he has been indicted or committed for trial.
+
+42.  Taking one step further, where a trial has started, but for one reason or another, the prosecution decides no longer to proceed with the trial to its logical conclusion by verdict and instead, a nolle prosequi is entered, the criminal process practically comes to an end with an outcome in the defendant’s favour. Again, there is a good reason for giving the court the jurisdiction to award costs to the defendant in such and other similar scenarios.[60]
+
+43.  So far as the wording of section 4 is concerned, construing “is not tried” for the offence concerned as including, by extension, the situation where although the trial has started, it has never resulted in a verdict because before that stage, the criminal process (subject to any appeal) has already ended in favour of the defendant, is acceptable.[61] What has happened is, for all practical purposes, equivalent to the criminal case against the defendant being dropped or otherwise terminating before trial.
+
+44.  However, to yet further extend the scope of “is not tried” to cover the situation where the trial, having started, has come to a premature end without a verdict but also without an outcome in the defendant’s favour, is simply incongruent with the purpose and context of section 4. It is simply not equivalent to the two types of scenarios described in the preceding paragraphs.
+
+45.  When a trial comes to a premature end without a verdict and without bringing the criminal process to an end in the defendant’s favour, there simply lacks the necessary justification for giving the court the power to award costs to the defendant. The collapse of a trial is, on its own, a neutral event. It operates in favour of neither the defendant nor the prosecution. It does not affect the indictment or the underlying criminal process. The trial will have to be restarted before another jury. There is simply no reason to give the court, at that particular stage of the criminal process, a power to award costs to the defendant, just as there is no question of giving the court a power to award costs to the prosecution – and Part III does not. The same applies where a trial does not result in a verdict because of a hung jury, and a new jury has to be empanelled to try the defendant.
+
+46.  If the collapse of the trial was due to the fault of, say, the prosecution, falling within the ambit of section 17 of the CCCO, the trial court has jurisdiction to award costs against the prosecution to the defendant. On the other hand, if the collapse of the trial was not due to the fault of any party, the costs of the defendant will simply form part of his costs of defence, to be dealt with at a later stage if the outcome of the criminal process is in his favour. This is nothing special, and accords with what happens generally to questions of costs in litigation, whether criminal or civil.
+
+47.  In this regard, it should be remembered that whether in criminal or civil litigation, litigation costs, like all other litigation risks, are an inevitable incident of litigation. In our adversarial system, costs (if to be awarded at all) are, generally speaking, outcome-dependent. Before the outcome of the litigation or a particular proceeding is known and therefore the question of costs can be dealt with, the parties simply have to bear their own costs for the time being.[62]
+
+48.  In short, absent an outcome favourable to the defendant, where a trial comes to an end prematurely or otherwise does not result in a verdict and a new trial has to be convened, the trial stage of the criminal process is still ongoing, and there is no reason to give the court a power to award costs to the defendant, or for that matter, the prosecution.
+
+49.  This reading of section 4 sits comfortably with the preceding and subsequent provisions in Part II of the CCCO. All these provisions provide for the jurisdiction to award costs to the defendant where an outcome favourable to him has emerged, signifying the ending of the criminal process or a discrete and severable phase thereof. Likewise, they correspond to the provisions in Part III of the Ordinance, which provide for the converse situations where costs may be awarded to the prosecution, where the discretion to award costs is also dependent on the occurrence of an outcome in favour of the prosecution at the end of specific stages of the criminal process.
+
+50.  The expansive construction of section 4, advocated by the appellants in these appeals, does not square with the language of section 4 either. To say that a defendant “is not tried” for the offence for which he has been indicted or committed for trial when the trial is aborted and a new one is to commence simply stretches the words “is not tried” beyond acceptable limits. As a matter of plain English, such a defendant is still being tried for the offence in question. The trial stage of the criminal process has not come to an end, but only a temporary halt. The defendant is still being pursued for the offence in question and a trial before another jury will be held. I leave out, of course, those cases where, following the collapse of a trial, the criminal process comes to an end as a result of, for instance, a successful application for a permanent stay. Leaving that sort of situation aside, since the defendant will be tried before another jury for the offence concerned, the trial stage of the criminal process is still ongoing, and as a matter of plain English, the defendant is still being tried for the offence for which he has been indicted or committed for trial, even though the trial stage is temporarily halted. It will do unacceptable violence to the language of section 4 to say that such a defendant “is not tried” for the offence.
+
+An anomaly with section 9(1) and (2)(a)?
+
+51.  A main theme of the appellants’ contention is that if the respondent’s construction of section 4 were correct, as compared with the defendant in a case where the trial came to a premature end due to a “trial defect” successfully raised during trial, a defendant would be better off by not asking for the discharge of the jury but carrying on with the trial until verdict. If he was acquitted, he could ask for costs of the trial under section 5. If he was convicted, he could raise the trial defect as a ground of appeal. If the Court of Appeal was with him and allowed his appeal (and ordered a retrial), the court would have the power to award him costs of the trial and of the appeal under section 9(1) and (2)(a). In other words, the contention is that it would be illogical for the legislature to only provide for the power of the Court of Appeal to award the costs of the trial to the defendant when the defect was raised on appeal, but not for the trial judge to do likewise if the defect was raised at trial leading to its collapse.[63] In both cases, the defendant will be tried before another jury. Yet, in the former, the Court of Appeal has the power to award costs to the defendant, whereas in the latter, according to the respondent’s construction, the trial judge does not. This, the appellants say, is discriminatory and inconsistent with the protection of equality under articles 10 and 22 of the Hong Kong Bill of Rights.[64]
+
+52.  Furthermore, if this were the true construction and effect of section 4, the appellants argue, it would put a defendant and his legal representatives in a very difficult position particularly if, like here, the trial defect should occur at an advanced stage of a long, expensive trial, in that the question of costs would assume an overwhelming significance in their decision on whether to apply to discharge the jury.
+
+53.  These arguments are obviously premised on the common ground that the Court of Appeal has power to award costs to the defendant under section 9(1) and (2)(a) when it allows his appeal but orders a retrial. There can be no dispute that the premise is well supported by authorities.[65] Nonetheless, the appellants’ argument breaks down because it overlooks the obvious distinction between the situation that the appellants found themselves in at the retrial before the deputy judge and a situation covered by section 9(1) and (2)(a), although both of them will result in the defendant being tried before another jury.
+
+54.  In the situation faced by the appellants before the deputy judge, the retrial collapsed following the discharge of the jury. Absent a successful application for a permanent stay of the proceedings,[66] the retrial has to be re-convened before a new jury. Crucially, there was no outcome in the trial stage of the criminal process following the collapse of the original retrial which could be said to be favourable to the appellants. Contrast the situation before the Court of Appeal when a defendant successfully appeals against his conviction after trial, and the court orders a retrial. What the defendant has achieved is an outcome favourable to himself, that is, the allowing of his appeal and the quashing of his conviction. Although this cannot be equated with an outright acquittal and in fact, following the retrial ordered by the court, the defendant may or may not be convicted again, it is nonetheless an outcome in the defendant’s favour in the appeal stage of the criminal process in terms of overturning his conviction below. There is therefore a good reason for the court to be given a discretion to award the costs of the original trial which (by definition) led wrongly to the conviction, and/or the costs of the appeal, to the defendant. Of course, whether the court is minded to exercise the power to award the costs of the original trial to a defendant who will have to undergo a retrial is quite another matter. The court is perfectly entitled to take into account, amongst other things, the fact that a retrial has been ordered and the reasons for the making of such an order when deciding whether to award costs to the defendant.[67] Where appropriate, the court may order that costs of the original trial be subject to the outcome of the retrial.[68]
+
+55.  Indeed, rejecting the appellants’ expansive interpretation of section 4 does not mean that the appellants could never recover their costs of the aborted retrial. If they are found not guilty at the new retrial, the court will have the power to award them costs not only of the new retrial, but also of the aborted retrial, pursuant to section 5.
+
+56.  I do not seek to downplay the difficulty that a defendant and his legal team may face when deciding whether to apply for a discharge of the jury when a trial defect is perceived to have occurred, particularly when the trial is a long and expensive one and is at an advanced stage. Depending on the circumstances, either course may have its attraction and carry its own risks. But the bottom line is that there are good reasons behind the respective powers of the trial court and the Court of Appeal to award defence costs.
+
+Construing section 4 consistently with the rest of the Ordinance
+
+57.  A more general point made by the appellants is that the CCCO is meant to be a self-contained, water-tight code on criminal costs. Therefore, it is contended, section 4 should be construed in such a way as to cover all eventualities where a trial may not proceed to its logical conclusion by verdict. This over-generalised argument must be rejected. Despite the detailed provisions in Part II of the Ordinance, there are obviously scenarios where the court’s power to award costs in favour of the defence is not provided for. Take section 3, dealing with costs in relation to a magistracy matter, as an example. Section 3 only provides for four specific situations where costs may be awarded to a defendant in a case handled by a magistrate or by the Court of First Instance on appeal. In particular, section 3(1)(a) deals with the situation where an information or complaint laid before a magistrate “is not proceeded with” (which is similar to section 4 in respect of a case before the District Court or the Court of First Instance), whereas section 3(1)(c) covers the situation where the magistrate dismisses the information or complaint or acquits the defendant (similar to section 5 when the District Court or the Court of the First Instance acquits a defendant). Quite plainly, section 3(1)(a), dealing with the situation where the information or complaint is “not proceeded with”, does not cover the situation where the trial has commenced but for one reason or another, does not proceed to its logical conclusion, thereby necessitating a new trial. This can happen when, for example, the trial magistrate has become ill or is otherwise unable to continue with the trial, or dies before a verdict is reached, and the case has to be re-heard by a different magistrate. In such a case, section 3, given its wording, clearly does not give the court the power to award costs to the defendant. Indeed, as explained above, there is simply no reason to do so when nothing has happened in the criminal process that is favourable to the defendant.
+
+58.  This analysis can be taken one step further. Given that in the situation just described, a magistrate has no power to award costs to the defendant, why should the District Court or the Court of First Instance, when faced with a similar situation, be given a power to do so under section 4 – which would be the result if the expansive interpretation advocated by the appellants were adopted? Indeed, to accept the appellants’ construction would create an anomaly between sections 3(1)(a) and 4.
+
+59.  In this regard, it should be remembered that a main reason for the enactment of the CCCO is to implement the Working Group’s recommendation that “the same guiding principles for the award of costs should apply in all courts”.[69]
+
+60.  Likewise, I have already mentioned that under Part III of the CCCO, the court is not given any power to award costs to the prosecution where a trial collapses before coming to its logical conclusion. That being the case, given that one should proceed on the basis that the CCCO provides a logical and consistent code for awarding costs, why should a defendant in such a situation be entitled to ask for costs against the prosecution when the outcome of the criminal charge is still at large?
+
+The position of a defendant in a criminal case
+
+61.  This brings me to the appellants’ argument that unlike the prosecution, a defendant in a criminal case does not come “voluntarily” to court and the case is forced upon him by the Hong Kong Special Administrative Region. This is no doubt true so far as it goes. In a way, it is similarly true as regards defendants in civil litigation, who are simply dragged into court by their opponents. But it does not follow that a defendant is entitled to ask for costs every time costs are incurred. The argument overlooks and begs a most fundamental question, namely, whether the defendant is guilty of the offence charged. If he is found not guilty, there is every reason to allow him to ask for costs and for that purpose, to give the court power to award costs in his favour as a matter of discretion.[70] However, if he is found guilty, there is no question of awarding him costs or compensating him for any abortive costs in the criminal process save those falling within section 17 of the CCCO. In the meantime, before the result of the criminal process is known, there is little reason why the mere fact that he is taken to court involuntarily should stand him in a substantially better position than the prosecution.
+
+62.  The appellants contend that this results in an unfair situation because a defendant may only get back his costs of the aborted trial if and when he is found not guilty by the new jury. Again, they hark back to their argument based on the supposed anomaly with section 9, giving the Court of Appeal power to award costs of the original trial to the defendant when allowing his appeal against conviction and ordering a retrial. Although that successful defendant may again be found guilty upon retrial, the Court of Appeal has the power to award him the costs of the original trial nonetheless. The appellants therefore argue that to make the power to award defence costs dependent upon the defendant being found not guilty by a new jury is an unnecessary restriction on the scope of section 4, overlooking, in particular, that the defendant does not come to court voluntarily. In fact, they argue, it amounts to imposing a punishment or penalty on the defendant. A variation on the same theme is their argument that the court has the power to award the costs of all proceedings that do not result in or lead to a conviction of the defendant, given that the defendant is brought to court only because he is said to have committed a crime.
+
+63.  With respect, I reject all these arguments. I need not repeat myself in relation to section 9. That aside, the legislature has already provided, in very specific terms, for the circumstances under which costs may be awarded to a defendant – at any time in the course of the criminal process – regardless of whether he is eventually found to be guilty or not guilty.[71] In contrast, section 4, when read together with the other provisions in Part II dealing with defence costs, plainly does not evince any legislative intent to empower the courts to award costs to a defendant who is eventually found to be guilty.
+
+64.  Nor do the provisions in Part II support the wide-sweeping proposition that the courts are given the power to award the costs of any proceedings that do not lead or contribute to a conviction of the defendant. A simple example, as mentioned, is where a defendant is successful in resisting the admission of a confession at the end of a voir dire. There can be no question of the court having the power to award the costs of the voir dire in his favour if he is eventually convicted after trial. It has to be repeated that there is no inherent entitlement to costs in criminal cases.
+
+65.  It is also worth noting that the minutes of meetings and the report of the Working Group contain nothing that may support the appellants’ contentions in this regard. Neither does the Legislative Council Brief indicate that they reflect any of the purposes behind the CCCO.
+
+Section 7 of the CCCO
+
+66.  The appellants argue that the respondent’s interpretation of section 4 renders section 7, dealing with defence costs on discharge after committal without a trial under section 16 of the Criminal Procedure Ordinance, otiose. Their argument is that a discharge under section 16 will fall within section 4, and there is no need for the specific enactment of section 7.
+
+67.  That may be right. But it does not help the appellants’ expansive interpretation of section 4. The simple reason is that section 7 would likewise be rendered otiose under their construction of section 4. For under their interpretation, when there is no trial at all, or when a trial does not result in a verdict (regardless of whether a new trial is ordered), the court is given power under section 4 to award costs to the defendant. That quite plainly covers a section 16 discharge.
+
+68.  Section 7, it would appear, exists quite independently of section 4, and is enacted specifically to cater for a section 16 discharge. It may simply be there to put beyond doubt that in a section 16 situation, the court has power to award costs to the defendant. This ties in well with the analysis above that in such a case, the criminal proceedings have concluded with an outcome favourable to the defendant, for a discharge is equivalent to an acquittal.[72] I see nothing illogical for the legislature to specifically provide for the court’s power to award the defendant his costs in such a situation.
+
+The position in England and Wales
+
+69.  Sections 3, 4, 5, 8 and 9 of the CCCO are modelled on section 16(1), (2)(a), (2)(b), (3) and (4) of the Prosecution of Offences Act 1985 respectively.
+
+70.  The parties have referred us to two English cases where the court considered its power under section 16(2)(a) of the 1985 Act (which is equivalent to section 4 of the CCCO) to award costs to a defendant. In R v Central Criminal Court, ex parte Lord Spens,[73] a trial collapsed on Day 69 as a co-defendant suffered a mental breakdown and the judge discharged the jury. The prosecution decided to offer no evidence against the remaining co-defendant and the judge ordered a permanent stay of proceedings. The judge considered that there was power under section 16(2)(a) to award costs in favour of the remaining co-defendant but as a matter of discretion decided against it. This was accepted to be correct by the Divisional Court although it disagreed with the judge on his jurisdiction to order a stay.
+
+71.  In R v Stewart,[74] the defendant was indicted but there was no trial because he was found unfit to plead. Proceedings were stayed and the Crown confirmed that the prospect of the trial being resumed, should the defendant recover, could be discounted. The Senior Costs Judge, sitting as a recorder, decided that he had power to award costs to the defendant in those circumstances under section 16(2)(a).
+
+72.  These two cases are consistent with the analysis above that what triggers the engagement of section 4 is an outcome at the end of a discrete and severable phase of the criminal process which is favourable to the defendant. In both cases, the prosecution against the defendant in question was stayed. For all practical purposes, there was no and there would not be any conviction. They are decisions consistent with the respondent’s construction of section 4. But as they contain no analysis on the relevant provisions, little weight is placed on them.
+
+73.  For the appellants, it is pointed out that section 16(2)(a) of the 1985 Act was enacted to replace section 12(5) of the Costs in Criminal Cases Act 1973. Section 12(5) read :
+
+“Where a person committed for trial is not ultimately tried, the Crown Court shall have the same power to order payment of costs under this Act as if the accused had been tried and acquitted.” (emphasis added)
+
+74.  The appellants contend that the omission of the word “ultimately” in section 16(2)(a) signifies Parliament’s intention no longer to require “finality” before granting the court the power to award costs to the defendant.
+
+75.  With respect, I do not accept this argument. Although “ultimately” was dropped when section 16(2)(a) of the 1985 Act replaced section 12(5) of the 1973 Act, the words “for an offence for which he has been indicted or committed for trial” were added. These additional words suggest that section 16(2)(a) is engaged only when the defendant is no longer being pursued for the offence for which he was originally indicted or committed for trial. The omission of the word “ultimately” therefore does not necessarily signify a change in legislative intent as argued by the appellants. And for the reasons given above, it clearly does not.
+
+76.  For the respondent, mileage is sought to be gained from section 16(11)(a) of the 1985 Act, which is not adopted in the CCCO as such. Section 16(11)(a) reads :
+
+“Where a person ordered to be retried is acquitted at his retrial, the costs which may be ordered to be paid out of central funds under this section shall include -
+
+(a) any costs which, at the original trial, could have been ordered to be so paid under this section if he had been acquitted…”
+
+77.  The respondent says section 16(11)(a) means that before the outcome of the retrial is known, there is no power on the part of the court to award the costs of the original trial to the defendant. It is argued that this informs the construction of section 16(2)(a) of the 1985 Act and therefore section 4 of the CCCO although section 16(11)(a) has not found its way to the CCCO.
+
+78.  I do not accept the respondent’s argument in this regard. It is not clear whether “retrial” here refers restrictively to a retrial ordered by the Court of Appeal when allowing an appeal against conviction, or covers also a new trial after the collapse of the original trial. In any event, whilst section 16(11)(a) may be consistent with the respondent’s construction, it may equally be explained by saying that it is there to cover the situation where (as per the appellants’ construction) although the original trial court which directed a new trial following the collapse of the original trial had the power to award costs in the defendant’s favour, as a matter of discretion, it decided not to make any order at that stage. In other words, section 16(11)(a) is consistent with either construction.
+
+79.  Furthermore, the respondent’s interpretation of section 16(11)(a) would mean that even the Court of Appeal, when allowing an appeal against conviction and ordering a retrial, has no power under section 16(4)(a)(i) of the 1985 Act (and, therefore, section 9 of the CCCO) to award costs to the defendant – which is contrary to what the respondent accepts to be the position in Hong Kong.
+
+80.  My rejection of the respondent’s contention based on section 16(11)(a) of the 1985 Act does not affect my view on the true construction of section 4 of the CCCO.
+
+A favourable outcome to the appellants?
+
+81.  Belatedly, the appellants argue, by way of a fallback position, that if a favourable outcome is required to engage section 4, there has been a favourable outcome to them when they successfully applied to the deputy judge for the discharge of the jury on the grounds of the prejudicial evidence.
+
+82.  I am unable to accept this argument. It has to be remembered that section 4 is engaged if a defendant “is not tried for an offence for which he has been indicted or committed for trial”. The favourable outcome required by section 4 must be a substantive one in terms of the offence for which the defendant has been indicted or committed for trial.
+
+83.  A successful application at trial to discharge the jury is not such a favourable outcome. The outcome of the trial for the offence for which the defendant has been indicted or committed is still at large. The power to award costs to the defendant under section 4 is simply not engaged in this situation.
+
+Disposition
+
+84.  For these reasons, the Court of Appeal was right in holding that the deputy judge had no power to award the costs of the aborted retrial to the appellants under section 4 of the CCCO. I would dismiss their appeals.
+
+Mr Justice Ribeiro PJ:
+
+85.   I agree with the judgment of the Chief Justice.
+
+Mr Justice Fok PJ:
+
+86.   I agree with the judgment of the Chief Justice.
+
+Mr Justice Lam PJ:
+
+87.   I agree with the judgment of the Chief Justice.
+
+Mr Justice Gummow NPJ:
+
+88.   I agree with the judgment of the Chief Justice.
+
+Chief Justice Cheung:
+
+89.   Accordingly, the court unanimously dismisses the appeals.
+
+ 
+
+ 
+
+(Andrew Cheung)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+ 
+
+(M H Lam)
+Permanent Judge	(William Gummow)
+Non-Permanent Judge
+ 
+
+Mr Tim Owen KC and Mr Benson Tsoi, instructed by Boase Cohen & Collins, for the 1st defendant/appellant in FACC 3/2023 (the 1st appellant)
+
+Mr Ian Winter KC and Ms Betty Chiu, instructed by Haldanes, for the 2nd defendant/appellant in FACC 4/2023 (the 2nd appellant)
+
+Mr Yee Wenjye, the 3rd defendant/appellant in FACC 5/2023 (the 3rd appellant), appeared in person
+
+Ms Vinci Lam SC, DDPP, Ms Claudia Ng, SPP and Ms Joycelyn Ng, SPP, of the Department of Justice, for the respondent
+
+
+[1]  Cap 492.
+
+[2]  HCCC 83/2014.
+
+[3]  [2018] HKCA 121.
+
+[4]  (2019) 22 HKCFAR 248.
+
+[5]  [2019] HKCFA 51.
+
+[6]  HCCC 309/2019.
+
+[7]  [2021] HKCFI 1751.
+
+[8]  [2021] HKCFI 2308.
+
+[9]  [2022] 4 HKLRD 219 (Yuen & M Poon JJA, Barnes J).
+
+[10]  [2023] HKCFA 2 (Ribeiro, Fok & Lam PJJ).
+
+[11]  Leave to appeal was granted in respect of two questions : (1) What on the true construction of section 4 of the CCCO is the meaning of “where a defendant is not tried for an offence for which he has been indicted or committed for trial”? (2) Whether the power to award costs under section 4 covers a situation where a defendant’s trial is aborted by reason of the discharge of the jury?
+
+[12]  Secretary for Justice v N [2013] 1 HKLRD 130, [25].
+
+[13]  The 1st and 2nd appellants are represented by Mr Tim Owen KC leading Mr Benson Tsoi, and Mr Ian Winter KC leading Ms Betty Chiu respectively. The 3rd appellant, acting in person, adopts the submissions of the 1st and 2nd appellants.
+
+[14]  Represented by Ms Vinci Lam SC, Ms Claudia Ng and Ms Joycelyn Ng.
+
+[15]  Before the deputy judge, the respondent, represented by a different team of counsel, argued that section 4 only covers the situation where a defendant is not put on trial at all after being indicted or committed for trial.
+
+[16]  Cap 221.
+
+[17]  [31].
+
+[18]  HKSAR v Chan Chun Kit (2022) 25 HKCFAR 191, [10].
+
+[19]  T v Commissioner of Police (2014) 17 HKCFAR 593, [278].
+
+[20]  China Field Ltd v Appeal Tribunal (Buildings) (No 2) (2009) 12 HKCFAR 342, [36].
+
+[21]  HKSAR v Cheung Kwun Yin (2009) 12 HKCFAR 568, [13].
+
+[22]  Medical Council of Hong Kong v Chow Siu Shek (2000) 3 HKCFAR 144, 154.
+
+[23]  Cheung Kwun Yin, [14].
+
+[24]  Town Planning Board v Town Planning Appeal Board (2017) 20 HKCFAR 196, [29](2).
+
+[25]  Cheung Kwun Yin, [13].
+
+[26]  R v Central Valuation Officer [2003] 4 All ER 209, [116] - [117].
+
+[27]  Long title.
+
+[28]  As Poon CJHC then was.
+
+[29]  [2010] 1 HKC 464, [16] - [38].
+
+[30]  Cap 227.
+
+[31]  s 69.
+
+[32]  s 117(2)(b).
+
+[33]  s 120(1).
+
+[34]  ss 72, 73A.
+
+[35]  s 83XX.
+
+[36]  Cap 201.
+
+[37]  Cap 394.
+
+[38]  Cap 362.
+
+[39]  The Working Group on Costs in Criminal Proceedings. It was chaired by a Deputy Crown Prosecutor and comprised representatives of the Bar Association, Law Society, Law Reform Commission, Legal Aid Department, and the Secretary for the Treasury. Its report was dated April 1992.
+
+[40]  Surviving the CCCO are various miscellaneous provisions on costs for specific offences under different Ordinances.
+
+[41]  [38].
+
+[42]  s 3(1)(a).
+
+[43]  s 3(1)(b).
+
+[44]  s 3(1)(c).
+
+[45]  s 3(1)(d).
+
+[46]  s 16(4).
+
+[47]  s 9(2)(a).
+
+[48]  s 9(2)(b).
+
+[49]  s 9(2)(c).
+
+[50]  s 9(2)(d).
+
+[51]  Cap 336.
+
+[52]  Cap 484.
+
+[53]  Depending on whether there are further steps to be taken following the event or outcome, eg a review, an appeal, a retrial, an application for a certificate for the purpose of seeking leave to appeal to this court, or an application for leave to appeal to this court.
+
+[54]  s 11(1)(a).
+
+[55]  s 11(1)(b).
+
+[56]  Section 18 goes on to provide that the court may order the legal or other representative concerned to “meet the payment of any wasted costs”.
+
+[57]  Apart from the mere fact that the court is persuaded that one party has by his unnecessary or improper act or omission caused costs to be incurred by the other party for which it should exercise its power under section 17 to make an award of costs.
+
+[58]  If the criminal process comes to an end by a verdict after trial, the situation will be covered by section 5.
+
+[59]  Bearing in mind that in theory (although almost never heard of in practice), a new prosecution can be launched after the entering of a nolle prosequi.
+
+[60]  Where a defendant arraigned on an indictment pleads not guilty and the prosecution offers no evidence against him before he is given in charge to the jury, the position is governed by section 51A of the Criminal Procedure Ordinance. The “Not guilty” verdict that the court may order to be recorded has “the same effect as if the accused person has been tried and acquitted”. If the defendant has already been given in charge to the jury, the jury will be directed to return a verdict of “Not guilty”. It is debatable whether either or both of these situations should fall within section 4 or be covered by section 5 instead (which applies to an acquittal “after trial”). But this is an academic point for these appeals.
+
+[61]  For the purpose of determining whether the principle against double jeopardy is infringed, it has been said : “… when you talk of a man being twice tried, that you mean a trial which proceeds to its legitimate and lawful conclusion by verdict; that when you speak of a man being twice put in jeopardy, you mean put in jeopardy by the verdict of a jury, and that he is not tried, that he is not put in jeopardy, until the verdict comes to pass” (emphasis added): R v Charlesworth (1861) 9 Cox CC 44, 53. See also Conway and Lynch v R (1845) 7 Ir Law Rep 149, 178 - 179.
+
+[62]  In Hong Kong, it should be pointed out, we have a relatively generous legal aid system for criminal trials, and those who cannot afford lawyers are, generally speaking, entitled to legal aid. The same applies to those whose legal representation was privately funded initially, but who are no longer able to afford private lawyers.
+
+[63]  See also HKSAR v Lee Ming Tee [2003] 1 HKC 174, [30] where a similar point was made by Seagroatt J.
+
+[64]  The Hong Kong Bill of Rights Ordinance (Cap 383), s 8.
+
+[65]  Eg, HKSAR v Chan Man Sum, Ivan (No 3) [2022] 1 HKLRD 992, [4] - [5]; HKSAR v Lam Chung Pan [2022] 5 HKLRD 556, [18] - [25]; HKSAR v Chan Hing Kai [2020] 2 HKLRD 367, [3] - [14]. See also the report of the Working Group, [11](16). A prohibition against the award of costs to a successful appellant who was ordered to be re-tried under the now repealed section 83XX(3)(a) of the Criminal Procedure Ordinance was struck down by the Court of Appeal in R v Man Wai-keung (No 2) [1992] 2 HKCLR 207 for being inconsistent with the right to equality protected under article 10 of the Hong Kong Bill of Rights.
+
+[66]  The appellants’ applications for a stay failed: [2021] HKCFI 3567 and (2022) 25 HKCFAR 34.
+
+[67]  HKSAR v Chan Hing Kai, [3] - [14]; R v Man Wai-keung (No 2), 214, 217.
+
+[68]  HKSAR v Lam Chung Pan, [22].
+
+[69]  Legislative Council Brief, [6].
+
+[70]  Normally, a defendant should be awarded his costs. However, he may be deprived of all or part of his costs if the court holds that he brought suspicion on himself : Tong Cun Lin v HKSAR (1999) 2 HKCFAR 531, 535; Ting James Henry v HKSAR (No 2) (2007) 10 HKCFAR 730, [16].
+
+[71]  s 17.
+
+[72]  Criminal Procedure Ordinance, s 16(4).
+
+[73]  Official Transcripts (1990-1997), [1992] Lexis Citation 2694, CO/798/92, 27 November 1992 (Glidewell LJ, Hidden J).
+
+[74]  [2004] 3 Costs LR 501.
+
+   

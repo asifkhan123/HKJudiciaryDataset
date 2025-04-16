@@ -1,0 +1,203 @@
+FAMP No. 1 of 2020
+
+[2020] HKCFA 45
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 1 OF 2020
+
+(ON APPLICATION FOR LEAVE TO APPEAL FROM
+
+HCCP NOS. 727 AND 738 OF 2020)
+
+________________________
+
+BETWEEN	 	 
+HKSAR	Applicant
+and	
+LAI CHEE YING (黎智英)	Respondent
+________________________
+
+Appeal Committee: Chief Justice Ma, Mr Justice Ribeiro PJ and Mr Justice Cheung PJ
+Date of Hearing and Determination: 31 December 2020
+________________________
+
+DETERMINATION
+
+________________________
+
+The Appeal Committee:
+
+1.  On 2 December 2020, the respondent, Lai Chee Ying, was charged with one count of fraud.  This was followed by his being charged on 12 December 2020 with one count of “collusion with a foreign country or with external elements to endanger national security” under Article 29(4) of the National Security Law[1] (“NSL”).  The Chief Magistrate, Mr Victor So, refused bail in respect of both charges and remanded the respondent in custody. 
+
+2.  On 23 December 2020, on the respondent’s application, Alex Lee J granted him bail pursuant to section 9J of the Criminal Procedure Ordinance[2] (“CPO”) subject to the respondent providing an undertaking in the following terms:
+
+1. The respondent is to undertake not to engage directly or indirectly in conduct which may reasonably be regarded as requesting a foreign country or an institution, organization or individual outside the mainland, Hong Kong, and Macao of the People’s Republic of China (“PRC”), to impose sanction or blockade, or to engage in other hostile activities against the PRC and the Hong Kong Special Administrative Region.
+
+2. In particular, the respondent shall not:-
+
+(1) Meet with any officials of a foreign government;
+
+(2) Attend or host any interviews, television, radio or online programmes;
+
+(3) Publish any articles in paper or in digital form;
+
+(4) Make any posts/comments/messages on social media platforms including but not limited to Twitter.”
+
+3.  Bail granted was also subject to the following conditions, namely:-
+
+(a) Reside at address given;
+
+(b) The respondent shall be confined to the said address except for reporting to police station and attending court;
+
+(c) Not to leave Hong Kong;
+
+(d) Surrender all travel documents prior to release;
+
+(e) Report to Kowloon City Police Station every Monday, Wednesday and Friday between 3 and 6 pm;
+
+(f) HKD 5 million cash for the Fraud case and HKD 5 million cash for the NSL case;
+
+(g) Three sureties in the sum of HKD 50,000 each for the Fraud case and the NSL case respectively.”
+
+4.  Reasons for the Judge’s grant of bail were handed down on 29 December 2020.[3]
+
+5.  The prosecution seeks leave to appeal to the Court of Final Appeal and, if leave is granted, it seeks an order that the respondent be detained in custody pending the hearing of the Appeal or until further order.
+
+Question 1
+
+6.  In applying for leave, the prosecution puts forward two questions, the first being as follows:
+
+“Is a grant of bail by the Court of First Instance pursuant to section 9J of the Criminal Procedure Ordinance, Cap 221 ... in a High Court Miscellaneous Proceedings (Criminal) ... a final decision as against the prosecution under section 31(b) of the Court of Final Appeal Ordinance [sic] Cap 484 ...?”
+
+7.  Question 1 seeks to raise, as a general issue, whether the Court of Final Appeal has jurisdiction to hear an appeal against a Judge’s grant of bail.  It does not address the position in cases involving the NSL.  
+
+8.  Bail involves a criminal cause or matter and section 31 of the Court’s statute (“HKCFAO”)[4] sets out the Court’s jurisdiction to hear appeals as follows:
+
+“An appeal shall, at the discretion of the Court, lie to the Court in any criminal cause or matter, at the instance of any party to the proceedings, from—
+
+(a) any final decision of the Court of Appeal;
+
+(b) any final decision of the Court of First Instance (not being a verdict or finding of a jury) from which no appeal lies to the Court of Appeal.”
+
+9.  The prosecution seeks to argue that the proposed appeal comes within section 31(b) so that jurisdiction exists.  However, the contrary was held in a ruling by a single Permanent Judge in Pasa Danaville Dizon v HKSAR,[5] on the basis that determining a bail application does not involve a final decision:
+
+“… Under s.31 of the Court’s statute, the Court has a discretion to grant leave to appeal only from any final decision of the Court of First Instance from which no appeal lies to the Court of Appeal. A final decision in that context must mean the lower court’s substantive decision disposing one way or another of the offence charged. A bail application does not involve any such determination. A decision to refuse or grant bail is not final. Bail granted can be revoked. The decision to refuse bail can be reopened on new circumstances being shown. …”
+
+10.  It was in reliance on Dizon that the Judge in the present case refused the prosecution’s application for a question to be certified for appeal to the Court regarding the construction of an Article of the NSL (referred to under Question 2 below).  The prosecution seeks by Question 1 to challenge the correctness of Dizon.
+
+11.  The prosecution’s proposition is that such grant of bail is “a final decision as against the prosecution”.  It is put as follows in the Application for Leave to Appeal:
+
+“As far as bail application proceedings in the Court of First Instance are concerned (namely, the relevant HCCP proceeding), an accused may apply again to the [CFI] upon sufficient change of circumstances: see HKSAR v Siu Yat Leung [2002] 2 HKLRD 147. The refusal of bail, or a grant of bail conditions, is not final as against the accused who can apply again to the [CFI] and/or the court below for bail and/or variation of bail conditions as appropriate: see section 9G(11) of the CPO.
+
+However, for the prosecution, upon a grant of bail by the [CFI] under section 9J of the CPO it has no recourse and cannot apply again to the [CFI] to revoke the bail of an accused. Contrary to the view in Dizon,which was relied upon by the Judge, it is submitted that a grant of bail by the [CFI] under section 9J of the CPO is a final decision against the prosecution.”[6]
+
+12.  As acknowledged in the passages just cited, CPO section 9G(11) makes it clear that an accused who has been refused bail may make further applications to the court.[7] This has led the prosecution to make the surprising submission (for which no authority is cited) that a decision can be final only in relation to one of the parties, but not the other.  We examine below whether it is correct to say that the prosecution cannot make a fresh application to the CFI.  But even assuming for the sake of argument that the prosecution cannot re-apply, the decision is still not final because the decision on bail can be re-opened and varied by the Judge on the application of the accused where there is a sufficient change in circumstances. 
+
+13.  As a matter of policy and common sense, it is very hard to see why an accused should be permitted to re-apply for bail to the Judge but the prosecution should not similarly be able to apply for bail to be revoked.  If, after grant of bail by a Judge, the prosecution should obtain evidence, for example, that the defendant is about to abscond from the jurisdiction or that he has been committing crimes or interfering with witnesses while on bail (all of which are grounds for refusing bail in the first place[8]), it would be surprising in the extreme if the prosecution could not immediately apply for bail to be revoked.
+
+14.  We do not think it reasonably arguable that once a Judge has granted bail, the prosecution “has no recourse and cannot apply again”.  That proposition is inconsistent with CPO section 9K which states:
+
+“(1) A police officer may without warrant arrest and detain any person admitted to bail if—
+
+(a) the police officer has reasonable grounds for believing that any condition on or subject to which such person was admitted to bail has been or is likely to be broken; or
+
+(b) any police officer has been notified in writing by any surety from whom a recognizance of bail has been taken for that person that the surety believes that that person is likely to fail to surrender to custody as shall have been appointed by a court and for that reason the surety wishes to be relieved of his obligations as surety.
+
+(2) Any person arrested under subsection (1) shall be brought within 24 hours after his arrest or as soon as practicable thereafter before a magistrate except where he was so arrested within the period of 24 hours immediately preceding an occasion on which he is required by virtue of his bail to surrender to custody at any court, in which case he shall be brought before that court.
+
+(3) If it appears to the court before which a person is brought under subsection (2) that any condition of admission to bail has been or is likely to be broken, the court may—
+
+(a)  order that that person be detained in custody; or
+
+(b)  admit that person to bail on the same conditions or on such other conditions as it thinks fit,
+
+but if it does not so appear to that court, the court shall release that person from custody and admit him to bail on the same conditions.”
+
+15.  Section 9K applies to an accused who has been admitted to bail (whether by a magistrate, District Judge or CFI Judge) and in practice, will be relied on by the prosecution with the assistance of the police since it will be the prosecution that will be aware of the bail conditions and concerned to see them enforced.  Section 9K makes it clear that if there are reasonable grounds for believing that “any condition on or subject to which such person was admitted to bail has been or is likely to be broken”, the accused may be arrested and brought before a magistrate or a Judge who may thereupon revoke bail and order that person to be detained in custody or may modify the bail conditions.  In other words, the original order granting bail is not final but can be revoked or varied, not just on the application of the accused, but also at the instance of the prosecution.
+
+16.  It may also be noted that the Court of Appeal in Chung Tse-ching v Commissioner of Correctional Services,[9] held that while the CPO was silent as to any power to revoke bail, it was necessarily implicit in a power to grant bail that the court had a corresponding power to revoke it.
+
+17.  For the foregoing reasons, we consider the proposition which underlies Question 1, namely, that generally, grant of bail by a Judge of the Court of First Instance is a final decision falling within the Court’s appellate jurisdiction under HKCFAO section 31(b), is not reasonably arguable and refuse leave in respect thereof.
+
+Question 2
+
+18.  The second Question upon which the prosecution seeks leave stands on a different footing.  The Judge would have certified this question for appeal but for his conclusion that the Court of Final Appeal lacked jurisdiction to hear the appeal.  It seeks to raise issues concerning the effect of NSL Article 42(2) on the general bail regime and is framed as follows:
+
+“What is the correct interpretation of Article 42(2) of the Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region (‘NSL’)?”
+
+19.  NSL Article 42(2) provides:
+
+“No bail shall be granted to a criminal suspect or defendant unless the judge has sufficient grounds for believing that the criminal suspect or defendant will not continue to commit acts endangering national security.”
+
+20.  In our view, Question 2 raises questions of great and general importance as to the ambit and effect of NSL Article 42(2) especially in the context of other NSL Articles, including Articles 1, 3-5, 41 and 42, and of provisions of the CPO as well as of the International Covenant on Civil and Political Rights as applied to Hong Kong by Hong Kong Bill of Rights Ordinance and provisions of the Basic Law.  We consider it reasonably arguable in the present case that the learned Judge may have erred in his construction or application of NSL Article 42(2) in adopting his approach to the grant of bail in the light of the requirements of that Article and accordingly certify and grant leave to appeal in relation to Question 2.
+
+21.  We are satisfied that, unlike Question 1, Question 2 does involve an appeal from a final decision of the Judge at first instance.  It does not involve an appeal against a decision to grant or refuse bail after assessing the associated risks but rather, it involves a decision on a question of law anterior to such considerations. Determination of that question was not subject to being re-opened but was final in the sense explained in HKSAR v Mak Wan Ling,[10] where it was held that a decision of the Court of Appeal on a point of law pursuant to section 81 of the CPO was a final decision for the purposes of jurisdiction under HKCFAO section 31 even though it did not dispose of the case.  As Fok PJ explained:
+
+“In construing what is a final judgment in s.31 of the HKCFAO, it is appropriate to apply the approach adopted in Shell Hong Kong Ltd v Yeung Wai Man Kiu Yip Co Ltd & Anor (2003) 6 HKCFAR 222; which was a decision on whether a decision under O.14A of the Rules of the High Court is a final or interlocutory order. On the ‘application approach’ applied in that case, a decision may be final ‘even if it does not finally determine the whole action’. There, the Court of Final Appeal considered ‘the purpose and substance of the application, the issue dealt with and determined by the court and the effect of a determination of this issue on the rights of the parties, the further conduct of the proceeding and the final disposal of the whole action.’ It held that a broad common-sense approach should be adopted and that if the issue dealt with and determined by the court is a ‘substantive part of the final trial’ or a ‘crucial issue’ in the case or a point ‘that goes to the root of the case’ or a ‘dominant feature of the case’, then the order or judgment, even if it did not finally dispose of the whole action, should nevertheless be regarded as a final judgment.”[11]
+
+22.  We are satisfied that Question 2 comes within the applications approach and is “final” for the purposes of HKCFAO section 31(b), giving the Court jurisdiction to entertain the appeal. 
+
+23.  We ought to emphasise the limited nature of the question which will be before the Court on the hearing of the appeal.  The Court will determine the meaning of NSL Article 42(2) and, having done so, will decide whether the Judge fell into error in his approach to the grant of bail.  If he made no error, the appeal will be dismissed and the Judge’s order granting bail pending trial will be held to have been valid. If, on the other hand, the Judge is held to have fallen into error, the appeal will be allowed and his order set aside.  In either case, the appeal will have been disposed of and it will fall outside the Court’s jurisdiction to deal with any outstanding or subsequent bail application, in particular any application regarding bail pending the respondent’s trial.  Any such application would be a matter to be dealt with by a magistrate, a District Judge or a Judge of the CFI as appropriate.
+
+Detention pending determination of the Appeal
+
+24.  The prosecution seeks an order that the respondent be detained in custody pending determination of the Appeal.
+
+25.  Since leave to appeal is being granted, the Court has jurisdiction to grant or refuse bail pending determination of the substantive appeal.  HKCFAO section 34 empowers the Court or the court below to grant bail pending the appeal on the application of an appellant who is in custody. 
+
+26.  HKCFAO section 35, deals with applications by the prosecutor for holding the defendant in detention pending an appeal to the Court and relevantly provides:
+
+“(1) The following provisions apply where, immediately after a decision of the Court of Appeal or the Court of First Instance, as the case may be, from which an appeal lies to the Court, the prosecutor is granted or gives notice that he intends to apply for, leave to appeal.
+
+(2)  If, but for the decision of the Court of Appeal or the Court of First Instance, as the case may be, the defendant would be liable to be detained, the Court of Appeal or the Court of First Instance, as the case may be, may, on the application of the prosecutor made within 7 days of that decision, make an order providing for his detention, or directing that he shall not be released except on bail (which may be granted as under section 34), as long as an appeal to the Court is pending.”     
+
+27.  Section 35 operates to enable a defendant who has been in custody and who has successfully appealed to the CFI or the Court of Appeal to be ordered by that court, on the application of the prosecutor, to continue to be held in custody where the prosecutor “is granted or gives notice that he intends to apply for, leave to appeal”. 
+
+28.  There is an apparent lacuna since section 35 does not expressly deal with the power of the Appeal Committee to make a like order where it actually decides to grant the prosecutor leave to appeal.  That is odd because the statutory intention is plainly to enable the status quo to be maintained, with the defendant continuing to be held in custody in case the lower court’s decision proves to be wrong and the prosecutor’s intended appeal is successful.  It is incongruent that the lower court should be given power to order interim detention merely on notice being given by the prosecutor of an intention to seek leave to appeal, while the Appeal Committee itself, having actually granted leave so that an appeal is definitely pending, is not expressly catered for.  Once such leave to appeal is granted, it is the Court (usually acting through the Appeal Committee) that becomes seized of issues concerning bail so that applications for bail or detention pending determination of the appeal ought in principle to be dealt with by the Court and not the lower tribunal.  In our view, the fact that section 35 expressly authorises the prosecutor to apply for detention pending appeal where leave to appeal has been granted, necessarily implies that an application may be made to the Appeal Committee for such detention to be ordered.  At this stage, the Appeal Committee is the most appropriate tribunal to consider this question.
+
+29.  We are therefore satisfied that the Appeal Committee has jurisdiction to entertain an application by the prosecution for the respondent to be held in custody pending determination of the appeal. 
+
+30.  We have held that it is reasonably arguable that the Judge’s decision was erroneous and that his order admitting the respondent to bail was invalid.  As previously mentioned, whether or not his Lordship fell into error will be determined on the hearing of the appeal.  It is naturally submitted on the respondent’s behalf that the status quo which should be maintained ought to be regarded as his being out on bail as ordered by the Judge.  On the other hand, the prosecution urges a return to the status quo prior to the Judge’s order which is under challenge, submitting that he should be detained in custody pending the appeal to avoid possible irreparable prejudice to national security and the appeal being rendered nugatory. 
+
+31.  In our view, it would on balance not be right in principle for us to continue the respondent’s bail pending the appeal since that would assume the validity of the Judge’s order admitting the respondent to bail which is the issue at the very heart of the pending appeal.  The status quo ante involved the respondent being remanded in custody pursuant to the order of the Chief Magistrate.  Taking into account the concerns expressed by the prosecution, that position ought, in our view, to be maintained pending determination of the appeal, subject to us giving directions for the appeal be heard and determined with exceptional expedition. 
+
+32.  We accordingly grant the prosecution’s application for the respondent to be held in custody pending determination of the appeal or until further order. 
+
+33.  We order that the appeal be listed for hearing on 1 February 2021 and that the parties adhere strictly to the timetable which we will now hand down in a separate document.  We stress that adherence to that timetable, including for the filing of written cases, the record and authorities to be relied on must be strict to ensure that the hearing date is effective.
+
+ 
+
+ 
+
+(Geoffrey Ma)	(R A V Ribeiro)	(Andrew Cheung)
+Chief Justice	Permanent Judge	Permanent Judge
+  
+
+Mr Anthony Chau, DDPP (Ag) and Mr Ivan Cheung, SPP, of the Department of Justice, for the Applicant
+
+Mr Peter Duncan, SC, Mr Ronny Leung, Mr Lee Siu Him, Mr Jeffrey Tam and Mr Ernie Tung, instructed by Robertsons, for the Respondent
+
+[1] The Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region, applied to the HKSAR on 30 June 2020.
+
+[2] Cap 221.
+
+[3] [2020] HKCFI 3161.
+
+[4] Hong Kong Court of Final Appeal Ordinance (Cap 484).
+
+[5] Ribeiro PJ (2009) 12 HKCFAR 960 at §11.
+
+[6] Form B, §§14-15.
+
+[7] Section 9G(11): “If at any hearing the court refuses to admit an accused person to bail the court shall, at each subsequent hearing while the accused remains in custody, consider the question of whether or not he ought to be admitted to bail and  (a) on the first occasion after that upon which the court first refused to so admit, the court shall hear any argument as to fact or law put to it in support of his admission to bail, whether or not it has previously heard that argument; (b) on the second or any subsequent occasion after that upon which the court first refused to so admit, the court need not hear any argument as to fact or law put to it in support of his admission to bail, if it has previously heard that argument.”
+
+[8] As provided for by CPO section 9G.
+
+[9] [1988] 2 HKLR 389 at 392.
+
+[10] (2019) 22 HKCFAR 51.
+
+[11] Ibid at §12.

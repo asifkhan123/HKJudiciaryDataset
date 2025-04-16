@@ -1,0 +1,788 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No. 9 of 2016
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 9 OF 2016 (CRIMINAL)
+
+(ON APPEAL FROM CACC NO. 131 OF 2014)
+
+____________________
+
+BETWEEN
+
+ 	HKSAR
+Respondent
+ 	and	
+ 	LIANG Yaoqiang (梁耀強)	Appellant
+____________________
+
+Before: Mr Justice Ribeiro PJ, Mr Justice Tang PJ, Mr Justice Fok PJ, Mr Justice Stock NPJ and Lord Millett NPJ
+Dates of Hearing: 11 and 19 January 2017
+Date of Judgment:7 February 2017
+____________________
+
+J U D G M E N T
+
+____________________
+
+Mr Justice Fok PJ:
+
+1.  This is the judgment of the Court.  This appeal arises out of the appellant’s conviction for the murder of Madam Yeung Sau-yu (“Madam Yeung”) and raises the questions of law set out below concerning the trial judge’s directions to the jury on the defence of provocation.
+
+A. Introduction
+
+A.1 The killing of Madam Yeung and the appellant’s trial and conviction
+
+2.  The appellant was charged with murdering Madam Yeung on 12 September 2009 at the premises in which he cohabited with her in Cheung Sha Wan.  Madam Yeung’s body was discovered by the police on the evening of 12 September 2009 when they gained access to the premises.  She was certified dead at the scene. An autopsy report prepared by a forensic pathologist stated the cause of Madam Yeung’s death to be multiple cut wounds leading to death as a result of profuse haemorrhage and damage to the vital organs.  The evidence was that there were at least 213 cut wounds all over her body and also signs of manual strangulation, which may have contributed to her death.  The forensic pathologist agreed with the appellant’s trial counsel that the nature of the attack and the nature and number of wounds indicated “a frenzied attack” on Madam Yeung.
+
+3.  The appellant had departed Hong Kong for the Mainland after Madam Yeung was killed but on his return to Hong Kong on the evening of 13 September 2009 he was arrested.  He admitted killing Madam Yeung but raised the defence of provocation.  It was his case that he was provoked into killing Madam Yeung because of her infidelity and her taunting him.  His offer to plead guilty to manslaughter on the basis of provocation was not accepted by the prosecution and his trial for murder[1] proceeded before V. Bokhary J (“the Judge”) and a jury in March 2014.
+
+4.  The appellant was aged 45 at the time of his trial.  He had been married in the Mainland and had a daughter with his former wife, who left him to come to Hong Kong in 2004.   He met Madam Yeung, whose husband was in Hong Kong, in 2005 and became intimate with her in 2007.  The appellant, his daughter and Madam Yeung came to settle in Hong Kong in April 2009.  According to the evidence, which the jury were directed to accept (a matter to which we return in Section A.3 below), shortly thereafter, the relationship between the appellant and Madam Yeung deteriorated.  He suspected her of having an affair and of lying about what she was doing and who she was with.  Matters came to a head on the evening of 11 September 2009.  He had come home to find evidence that Madam Yeung had had sexual relations with another man in their bed.  On her return home they argued and, although they briefly had intercourse, the argument continued and escalated: Madam Yeung suggested that the appellant should jump to his death; on being challenged as to her lying as to who she had dinner with, Madam Yeung taunted the appellant as to his looks and sexual prowess compared to the other men she had been with; on confronting her with a used condom he had found discarded at the premises that day, Madam Yeung thrust this into his mouth and told him to eat it.  The appellant then slapped Madam Yeung and squeezed her neck for about 10 seconds, after which she continued to taunt him about his former wife’s infidelity and suggested he was not in fact the father of his daughter.  On hearing this, the appellant said he became enraged and fetched a chopper from the kitchen and, in a fury, chopped randomly at Madam Yeung.
+
+5.  By their unanimous verdict convicting the appellant of murdering Madam Yeung, the jury were satisfied that the prosecution had proved that the defence of provocation did not apply in the present case.  The Judge accordingly sentenced the appellant to life imprisonment.  Since the principal issues in this appeal concern the Judge’s directions to the jury on the issue of provocation, it will be necessary to deal with that direction in some detail later in this judgment.  Before doing so, it is convenient to summarise in general terms, by way of introduction, the relevant law as to the defence of provocation.
+
+A.2 The defence of provocation
+
+6.  The doctrine of provocation operates as a partial defence to a charge of murder, reducing the offence of murder for which the penalty of life imprisonment is fixed by statute to the lesser offence of manslaughter for which the penalty is in the discretion of the sentencing judge.  Originally a creature of the common law, the doctrine is now subject to legislation.  In Hong Kong, section 4 of the Homicide Ordinance (Cap.339) (which is in identical terms to section 3 of the Homicide Act 1957[2]) provides:
+
+“Where on a charge of murder there is evidence on which the jury can find that the person charged was provoked (whether by things done or by things said or by both together) to lose his self-control, the question whether the provocation was enough to make a reasonable man do as he did shall be left to be determined by the jury; and in determining that question the jury shall take into account everything both done and said according to the effect which, in their opinion, it would have on a reasonable man.”
+
+7.  As Lord Diplock observed in DPP v Camplin [1978] AC 705,[3] the statutory provision brought about two important changes in the common law.  The first was to abolish previous common law rules on what could constitute provocation and, in particular, the rule that words alone were insufficient to do so.  The second was that if there is any evidence that the defendant at the time of the act causing death lost his self-control as a result of some provocation, however slight it appeared to the judge, he was obliged to leave it to the jury to decide, as a matter of opinion and not law, “whether a reasonable man might have reacted to that provocation as the accused did”.
+
+8.  Statutorily so defined, the ingredients of the defence of provocation have been the subject of authority from the House of Lords and the Privy Council, which has been followed by this Court, and are not in issue in this appeal.  In Ho Hoi Shing v HKSAR (2008) 11 HKCFAR 354, Chan PJ, giving the reasons for the Court’s decision, held (at [31]):
+
+(1) The defence of provocation involves the determination of two issues: was the accused provoked to lose his self-control, and was the provocation enough to make a reasonable man do as he did?
+
+(2) The first issue is a subjective question involving a finding of fact upon the evidence before the court.
+
+(3) The second issue is an objective question requiring the application of the standard of self-control of an ordinary person of the same age and sex as the accused.
+
+(4) This is the effect of section 4 of the Homicide Ordinance as explained in DPP v Camplin, Luc Thiet Thuan v The Queen [1996] 2 HKCLR 45 and A-G for Jersey v Holley [2005] 2 AC 580.
+
+(5) If, on the first issue, the jury are sure that the accused was not provoked to lose his self-control, that is the end of the defence.
+
+(6) However, on the second issue, if they accept that the accused was or might have been provoked, they then have to consider whether a person having the power of self-control to be expected of an ordinary person (of the same age and sex as the accused) would have lost his self-control and reacted in the way the accused did.
+
+(a) If they consider that such a person would or might have behaved as the accused did, the defence of provocation is made out.
+
+(b) If they are sure that such a person would not have reacted in a similar way, the defence fails.
+
+9.  The subjective question as to whether the appellant was provoked to lose his self-control is not in issue in the present appeal.  Nor is it in issue that, as the Court held in Ho Hoi Shing (at [33]), there are two elements of the objective question, namely:
+
+(1) First, an assessment of the gravity of the provocation, which involves a consideration of everything both done and said as required by s.4 of the Ordinance; and
+
+(2) Second, an assessment of how a person with ordinary power of self-control would or might react to provocation of that gravity.
+
+10.  In so holding, the Court was approving and following the explanation of this aspect of the defence of Lord Nicholls of Birkenhead, who in giving the majority judgment in A-G for Jersey v Holley, adopted the comments of Lord Hobhouse of Woodborough in his dissenting judgment in R v Smith (Morgan) [2001] 1 AC 146 at p.185F.  Because of the particular issues raised in this appeal, it is convenient to set out Lord Hobhouse’s summary in R v Smith (Morgan) of the constituents of the defence of provocation (at p.205C-E), which was in the following terms:
+
+“(a) The defendant must have been provoked (whether by things done or by things said or by both together) to lose his self-control and kill or do whatever other act is alleged to render him guilty of murder. (b) This is a factual question upon which all relevant evidence is admissible including any evidence which tends to support the conclusion that the defendant either may have or did not lose his self-control. (c) If the jury conclude that the defendant may have been provoked to lose his self-control and do as he did, the jury should, as an exercise of judgment, but taking into account all the evidence, form a view as to the gravity of the provocation for the defendant in all the circumstances. (d) Finally, the jury should decide whether in their opinion, having regard to the actual provocation ((a) and (b) above) and their view as to its gravity (c above), a person having ordinary powers of self-control would have done what the defendant did.”
+
+11.  Constituents (a) and (b) in the above passage relate to the subjective question of loss of self-control, whilst constituents (c) and (d) relate to the objective question.  As will become apparent, the focus of this appeal was on those two constituents (or elements) of the objective question.  However, it is not suggested that there is any error in the way in which they have been described in Ho Hoi Shing or the authorities it followed and applied. Instead, this appeal is concerned with the manner in which a judge is to direct a jury in respect of them.
+
+A.3 The Judge’s directions to the jury on provocation
+
+12.  In her summing up to the jury, the Judge initially introduced the defence of provocation “in general terms, leaving until later the evidence and submissions relating to provocation in the present case.”  In this introductory part of her summing up, the Judge said:
+
+“Very briefly, the matters put forward by the defence as provocation consists essentially of the deceased’s affair with another man, coupled with a deterioration of relationship between the accused and the deceased; the suspicion that she was having sexual relations with another man; his discovery of the used condom and the bed in a mess, with pubic hair on the bed sheet and a man’s hair on the pillow; her flaunting the affair and taunting him with it saying that it was none of his business; her thrusting a used condom in his mouth and telling him to eat it; comparing his appearance and sexual prowess unfavourably with other men by saying that he was no longer exciting to be with anymore; her saying that his daughter had been fathered by another man; and her refusal to say who she was having sexual relations with. That is a rough summary; the details are in his testimony, which I will come to later.”
+
+13.  The Judge then proceeded to direct the jury on the issue of provocation, reminding the jury that this only arose if they felt sure that the appellant unlawfully killed Madam Yeung with the requisite intent for murder.  On the first issue, the Judge took the unorthodox step of directing the jury as follows:
+
+“On the issue of provocation, the first question is whether the accused was provoked into a sudden and temporary loss of self-control by things said and done by the deceased. The facts are for you, but the law is for me, and I have come to the conclusion, as a matter of law, that there is no evidence on which it can be safely said that the accused was not provoked into a sudden and temporary loss of self-control.
+
+So I repeat.  I have come to the conclusion, as a matter of law, that there is no evidence on which it can safely be said that the accused was not provoked into a sudden and temporary loss of self-control.  So I direct you to proceed on the basis that the accused was so provoked into a sudden and temporary loss of self-control.  That is a direction of law which you are bound to follow.”
+
+This was a misdirection by the Judge, since this first question was a matter for the jury to determine as a matter of fact and not for the Judge as a matter of law, not least because the veracity of the appellant’s evidence was in issue.  However, it was an error regarded by the majority of the Court of Appeal to be in favour of the appellant and hence immaterial.[4]
+
+14.  As to the second issue, the Judge directed the jury as follows:
+
+“It is a question of fact for you to decide as the sole judges of fact and it is whether an ordinary person of the accused’s age and sex would have been provoked to do as he did. By the expression ‘an ordinary person’, the law means a person who has the power of self-control to be expected of an ordinary sober person who is of the accused’s age and sex. Whenever I say an ‘ordinary person’, that is what I will mean.
+
+What is to be expected of an ordinary person? The law expects people to exercise control over their emotions. If, for example, a person has an unusually volatile, excitable or violent nature, he cannot rely on that as an excuse. So the ordinary person in this context is a person who is not exceptionally excitable or given to violence, but possess[ed] of such powers of self-control as everyone is entitled to expect that his fellow citizens will exercise in society as it is today.
+
+Therefore, when considering this question you must take into account everything that was said and done according to the effect which, in your opinion, it would have on that ordinary person.  If you are sure that what was done and said would not have caused an ordinary, sober person of the accused’s age and sex to do as he did, the prosecution will have disproved provocation.  Then, providing the prosecution has made you sure of the ingredients of the offence of murder, you will find the accused guilty of murder. If, on the other hand, you think that what was done and said would or might have caused an ordinary, sober person of the accused’s age and sex to do as he did, you will not find the accused guilty of murder, but find him guilty of the lesser offence of manslaughter.”
+
+15.  The Judge then summarised the evidence of the witnesses.  In respect of the appellant’s evidence, the Judge began by summarising his evidence-in-chief, including the evidence of his background, age, education and first marriage, his daughter born of that marriage, his relationship with Madam Yeung in the Mainland and his coming to Hong Kong with his daughter and Madam Yeung in April 2009.  The Judge then summarised the evidence of the deterioration in the relationship between the appellant and Madam Yeung after their arrival in Hong Kong and his suspicions of her infidelity.  She then addressed in detail the evidence of the events of 11 September 2009 and the confrontation between the appellant and Madam Yeung at home that evening, including the details of what the appellant said Madam Yeung had said and done to him, leading to his chopping her in a rage.  The Judge then summarised the thrust of the prosecution’s cross-examination of the appellant and said this:
+
+“Members of the jury, the accused denies telling any lies when interviewed, and in all the circumstances there is no basis on which you can safely conclude that he had lied as to what was said and done between him and the deceased. In respect of what was said and done between the accused and the deceased, I direct you that the only safe course is for you to proceed on the basis of the account given by him in the witness-box, with such support the defence draws from what he did say when interviewed. Having so directed you, I do not need to deal with the re-examination of the accused by his own counsel save to remind you to take it fully into account as you see fit.”
+
+This was also a misdirection by the Judge, since it was for the jury to decide whether to accept that the evidence of the appellant, or some parts of it, was or might be true (a matter put in issue by the prosecution).  Again, however, it was an error regarded by the majority of the Court of Appeal to be in favour of the appellant and hence immaterial.[5]
+
+16.  The Judge then directed the jury as to the evidence relevant to the appellant’s intent in killing Madam Yeung and concluded her instruction to them on the issue of provocation as follows:
+
+“I have already directed you to proceed on the basis that he had been provoked into a sudden and temporary loss of self-control; but that on its own would not reduce what would otherwise be murder to the lesser offence of manslaughter.
+
+There is still a question of whether an ordinary person of the accused’s age and sex would have done what he did.  If you feel sure that an ordinary person of his age and sex, even in the accused’s circumstances and even having undergone all the provocation which the accused told you that he had undergone at the time of the killing and leading up to it over a considerable period, would not have done what the accused did, then the doctrine of provocation would not operate to reduce murder to manslaughter.  In that situation, if you feel sure that the accused intended to kill the deceased or at least to cause her really serious injury, you will find him guilty of murder.  As I have told you, by the expression ‘an ordinary person’, the law means a person who has the power of self-control to be expected of an ordinary sober person who is of the accused’s age and sex.”
+
+A.4 The Court of Appeal
+
+17.  The appellant appealed against his conviction to the Court of Appeal.[6] Two grounds of appeal were pursued, one of which related to the defence of provocation.[7]  That ground was that the Judge failed to direct the jury to assess the gravity of the provocation when assessing the second, objective, limb of the defence of provocation, namely whether the provocation was enough to make a reasonable man do as he did.
+
+18.  The majority of the Court of Appeal (Lunn VP and Macrae JA) concluded that the Judge’s direction, set out in paragraph [16] above, did bring home to the jury that, in the context of the second limb of the defence of provocation, they were required to have regard, as the first element, to the gravity of the provocation to the appellant himself.[8]
+
+19.  McWalters JA, however, dissenting, held that the Judge’s direction was inadequate[9] because the Judge did not direct the jury to consider and form a view as to the gravity of the provocation to which the appellant had been subjected (constituent (c) of Lord Hobhouse’s summary of the defence) as a discrete first step before going on to determine the sufficiency of the provocation as regards the loss of self-control (constituent (d) of Lord Hobhouse’s summary).[10]
+
+A.5 The certified question of law
+
+20.  This difference of opinion in the Court of Appeal formed the basis of the appellant’s application for leave to appeal to this Court.  The Court of Appeal, again by a majority, with McWalters JA dissenting, refused to certify the following question as one of great and general importance, namely:
+
+“Is it a correct approach in law to combine the two steps (being constituents (c) and (d) in R v Smith (Morgan) [2001] 1 Cr App R 13 [224] per Lord Hobhouse), into a single step?”[11]
+
+21.  On the appellant’s further application, the Appeal Committee granted leave to appeal on the following question of law, namely:
+
+“Whether, in respect of the second limb of the defence of provocation (namely as to ‘whether the provocation was enough to make a reasonable man do as he did’, Homicide Ordinance, Cap.339, s.4), it is a misdirection of law not to direct the jury to form a discrete view as to the gravity of the provocation on the defendant, having the particular attributes he has, separately from and before determining whether, objectively, having regard to the actual provocation and their view as to its gravity, a person with ordinary powers of self-control would have done what the defendant did?”[12]
+
+A.6 A further question of law arising in the course of the appeal
+
+22.  In the course of Mr William Tam SC’s submissions on behalf of the respondent, in the light of an answer given by him to a question from the bench, the Court became concerned that a new and additional question of law of importance was raised that ought to be determined in this appeal.  Having adjourned briefly to consider the position, the Court exceptionally granted leave to appeal on the following further question, namely:
+
+“Whether in directing the jury in relation to the question in s.4 [of the Homicide Ordinance], Cap.339 as to whether the provocation was enough to make a reasonable man do as the defendant did, it may in certain cases be incumbent on the trial judge to direct the jury that the words ‘do as he did’ refer to the formation of an intent to kill or cause really serious bodily harm rather than the precise form of physical reaction? If so, whether the present case is such a case?”
+
+B. The contentions on appeal
+
+23.  The appellant contends for affirmative answers to the certified question set out in paragraph [21] above (“the gravity question”) and also to the further question set out in paragraph [22] above (“the ‘do as he did’ question”), whilst the respondent contends for negative answers to both.
+
+B.1 The appellant’s contentions on the gravity question
+
+24.  In relation to the gravity question, it is submitted in the Appellant’s Case[13] that the jury are “to be directed to consider the ‘objective’ limb of the provocation in the two distinct steps identified at sub-paragraphs (c) and (d) in R v Smith (Morgan).”  Specifically, it is submitted that the jury are, first, to weigh up how serious the provocation was for the defendant “as a distinct step, and to take into account whether what was said and/or done might have affected the defendant more than other people.”  Then, it is “only after the jury has weighed up the seriousness of the provocation on the defendant” that it is to consider, “having regard to the actual provocation and [its] view on how serious that provocation was for the defendant, whether an ordinary person would have acted as the defendant did in those circumstances.”
+
+25.  This approach is said to be supported by the Crown Court Bench Book in use in England and Wales prior to the abolition of the defence of provocation and its replacement by a defence of loss of control by the Coroners and Justice Act 2009, sections 54 to 56.  It is also supported by the reasoning of McWalters JA in the Court of Appeal (which reasoning the appellant adopts) at paragraphs [87] and [92] of his judgment and in his analysis of why he considered the Judge’s direction to the jury to be inadequate (at paragraphs [98(iii)] to [100] of his judgment).
+
+26.  The crux of McWalters JA’s reasoning is to be seen in the following two passages in his judgment where he is addressing the second objective question which the jury must consider in relation to the issue of provocation:
+
+“87. … at this stage the issue is gaining an appreciation of the impact that the provocation had on the defendant as a precursor to determining whether it was enough to make an ordinary person do as the defendant did. This is what is described by Lord Hobhouse in his sub-paragraph (c), namely the step to be taken by the jury of forming a view as to gravity of the provocation to the defendant.
+
+…
+
+92. … by combining Lord Hobhouse’s sub-paragraphs (c) and (d) into one direction on the objective test the risk is created that the importance of sub-paragraph (c) may not be properly appreciated and the role it plays in providing subjective context in the determination of the self-control issue with which sub-paragraph (d) is concerned may not be properly brought home to the jury.  For this reason it is important that this task of the jury is seen as a discrete step that must be taken before the jury goes on to determine the sufficiency of the provocation vis-à-vis the loss of self-control.  If they do not take this step separately from the final step then their determination of the issue of self-control may be at risk of being flawed by not taking full account of the context.”
+
+(Italics in original; underlining added.)
+
+B.2 The contentions on the ‘do as he did’ question
+
+27.  In relation to the ‘do as he did’ question, adopting the point identified in the further question of law set out above, it was contended on behalf of the appellant that in cases where the precise form of the physical reaction by the defendant to the provocation is of an extreme or unusually prolonged or violent nature, it is incumbent on a trial judge to direct the jury in certain cases that the words “do as he did” in section 4 of the Homicide Ordinance means the forming by the defendant of the intent to kill or cause really serious bodily harm, rather than the precise form of the physical reaction.  It was further contended that it was incumbent on the Judge in this case to make such a direction because the appellant’s physical reaction to the provocation in the form of 213 cut wounds was so extreme and unusually prolonged or violent that there was a real risk that the jury would, without a specific direction to disregard the precise form of the physical reaction, inevitably find on the second, objective, question that no ordinary person would have reacted as the appellant did.
+
+28.  It was contended on behalf of the respondent, on the other hand, that section 4 of the Homicide Ordinance was drafted in terms which framed the objective test for the jury by reference to the form of physical reaction, as opposed to the formation of an intent to kill or cause really serious bodily harm, by the use of the express words “do as he did”.  It was further contended that this conclusion is supported by English and Privy Council decisions on section 3 of the Homicide Act 1957 (and equivalent provisions) and Hong Kong decisions on section 4 of the Homicide Ordinance.
+
+C. The gravity question
+
+29.  The ultimate question in relation to the gravity question is whether the reasoning of McWalters JA in the Court of Appeal, set out in paragraph [26] above, is sound. 
+
+30.  In seeking to support that reasoning, Mr McCoy SC,[14] on behalf of the appellant, submitted that it is consistent with the words used by Lord Hobhouse in describing constituent (c) of the defence of provocation in R v Smith (Morgan), namely that “the jury should, as an exercise of judgment, … form a view as to the gravity of the provocation for the defendant in all the circumstances” (underlining added).  This requires, Mr McCoy submitted, constituent (c) to be assessed subjectively and then the question asked, objectively, as constituent (d), whether the hypothetical ordinary person would have lost his self-control in the face of provocation of that particular gravity.
+
+C.1 The underlying rationale of the defence
+
+31.  The terms of section 4 of the Homicide Ordinance are set out in paragraph [6] in Section A.2 above.  The underlying rationale of the defence of provocation on a charge of murder is that the law deems that there may be circumstances in which an impulsive homicidal act done by a person who has been provoked into losing his self-control should be excused the ultimate penalty, now a mandatory sentence to life imprisonment, reserved for the crime of murder.  The law does so, not by treating the defendant’s intention in killing to be otherwise than that for murder,[15] but by reducing his culpability for the intentional killing to that of the crime of manslaughter.  Thus, the doctrine derives from “the law’s compassion to human infirmity”[16] and is “a concession to human frailty”,[17] the policy of the law being to recognise that, in some instances, things said or done may cause a person to lose their self-control so that the resulting intentional act causing death is to be regarded as one which any person with ordinary powers of self-control would or might have done.  If this is so, then the defence applies.
+
+32.  But the law’s compassion in this respect is not unlimited or indiscriminate. A person who is naturally quick-tempered, overly sensitive or prone to violence may, as a matter of fact, have been provoked into a loss of self-control. Notwithstanding that, the defence of provocation will not apply if it is determined that the defendant reacted in a way which falls below the standard which a jury considers is the appropriate degree of self-control which everybody is expected to exercise in society as it is today.  This is an important part of the assessment because, were it otherwise, the defence of provocation would be more than a mere concession to human frailty and would instead develop into a charter for excessive and deadly reaction by individuals who are overly sensitive or lacking in reasonable self-control.
+
+C.2 The subjective question of loss of self-control
+
+33.  As explained in Section A.2 above, the question of fact of whether a particular defendant lost his self-control and carried out a homicidal act is a subjective question which depends on the evidence of what was said and done to the defendant and his reaction to that.  It is a question for the jury to decide and, at this stage, since it is a subjective inquiry, it will be relevant to consider any personal idiosyncrasies of the particular defendant that may have a bearing on whether in fact he lost his self-control.  So, for example, evidence of the defendant’s propensity to react strongly to a particular thing said or done to him may be relevant.  This may result in a finding that the defendant did in fact lash out in a homicidal rage having lost his self-control, although what was said or done to him was of a relatively trivial nature, because of some reason particular to him.  But this is a consequence of the question being subjective.
+
+34.  In the present case, the Judge effectively usurped the role of the jury on this first question by directing them that they were to proceed on the basis that the appellant was in fact provoked into a sudden and temporary loss of self-control.  As already indicated, this was a misdirection since that decision was not for the Judge to take but for the jury, in the light of all the relevant admissible evidence concerning what was said and done to the appellant and his reaction to it.  It seems likely, as the majority of the Court of Appeal held, that the Judge’s misdirection was the result of her attempt to be helpful to the appellant.  Be that as it may, it was not a direction that should have been given.
+
+C.3 The two elements of the objective question
+
+35.  Once it is determined that a defendant has lost self-control and consequently killed, the next question is whether, having regard to the gravity of the provocation, a person having the power of self-control to be expected of an ordinary person (of the same age and sex as the accused) would or might have lost his self-control and reacted in the way the accused did (in the sense discussed below).  As explained in Section A.2 above, there are two elements of this question.  That both those elements are to be assessed objectively is supported by (a) the principle that the criminal law is based on a generally accepted standard of conduct applicable to all, (b) the wording and policy of the statutory provision itself, and also (c) the authorities interpreting it.
+
+C.3a The underlying principle of the criminal law
+
+36.  Thus, the criminal law is generally concerned with setting standards of human behaviour that all persons in society are bound to comply with: see R v Thieu Kham Tran [2010] 3 S.C.R. 350.  This principle was recognised in the Report of the Royal Commission on Capital Punishment (1953) and its adoption of “a fundamental principle of the criminal law that it should be based on a generally accepted standard of conduct applicable to all citizens alike”.[18] It is a principle which, therefore, supports the adoption of an objective standard.
+
+C.3b The wording of section 4
+
+37.  To this end, in section 4 of the Homicide Ordinance, the jury are required to answer the question “whether the provocation was enough to make a reasonable man do as he did” and, in answering that question, the jury must “take into account everything both done and said according to the effect which, in their opinion, it would have on the reasonable man”.  The question which the jury must ask themselves is one of sufficiency: was the provocation enough to push the defendant ‘over the edge’ and to cause him to lose the self-control to be expected of an ordinary member of society?  In answering that question, the jury must have regard to the effect of the provocative words and actions on “the reasonable man”.
+
+38.  As Lord Hoffmann noted in his judgment in R v Smith (Morgan):
+
+“… the concept of the ‘reasonable man’ has never been more than a way of explaining the law to a jury; an anthropomorphic image to convey to them, with a suitable degree of vividness, the legal principle that even under provocation, people must conform to an objective standard of behaviour which society is entitled to expect: see Lord Diplock in Camplin [1978] AC 705, 714. In referring to ‘the reasonable man’ section 3 invokes that standard.”[19]
+
+It is to be noted here that it has frequently been pointed out that the statutory reference to a “reasonable man” is not ideal since it may be said that a reasonable person does not commit homicide.  For this reason, it has been understood to refer to the ordinary person or, in context, the person having ordinary powers of self-control: see Stingel v The Queen (1990) 171 CLR 312 at p.328 and R v Thieu Kham Tran at [30].
+
+C.3c The authorities interpreting section 4
+
+39.  In DPP v Camplin, Lord Diplock noted that:
+
+“… for the purposes of the law of provocation the ‘reasonable man’ has never been confined to the adult male. It means an ordinary person of either sex, not exceptionally excitable or pugnacious, but possessed of such powers of self-control as everyone is entitled to expect that his fellow citizens will exercise in society as it is today. A crucial factor in the defence of provocation from earliest times has been the relationship between the gravity of provocation and the way in which the accused retaliated, both being judged by the social standards of the day.”[20]
+
+(Emphasis added.)
+
+40.  In R v Smith (Morgan), Lord Millett explained the approach required of the jury in these terms:
+
+“The first question the jury must consider is whether the accused was provoked by something, whether done or said, into losing his self control and reacting as he did. If he was, the next question is whether that something would or might have been sufficient to produce the like reaction in a person similarly placed but possessing the powers of self-control of an ordinary person. This does not require the jury to conjure up a picture of a hypothetical ordinary person or the judge to direct them which characteristics of the accused should be attributed to him and which should be disregarded. The question might perhaps be more easily answered if it were reformulated: would or might the provocation have produced the like reaction from the accused if he had exercised normal powers of self-control.”[21]
+
+(Italics in original; underlining added.)
+
+41.  It will be noted that Lord Millett referred to “a person similarly placed” rather than the defendant himself.  This is clearly a reference to an objective standard, albeit one which, as will be addressed below, incorporates certain features of the particular defendant.  The objective standard is necessary, otherwise an unreasonable defendant who over-reacted to an entirely trivial provocation, but which he subjectively assessed to be a gross provocation, might be able to rely on the defence.  This is incontrovertibly not the purpose of the defence of provocation.  In his speech, Lord Millett cited academic opinion which supports the objective measurement of both the gravity of the provocation and the loss of self-control:
+
+“I agree with Professor Ashworth in the article to which I have already referred (at p 312) that, while mitigation of the offences of those who are incapable of exercising ordinary self-control is desirable, the defence of provocation is not an appropriate vehicle. Where an individual who is congenitally incapable of exercising reasonable self-control is provoked by a petty affront, his loss of self-control must be ascribed to his own personality rather than to the provocation he received. In ‘A Rationale of the Law of Homicide’ (1937) 37 Columbia LR 701, 1261, 1281 Wechsler and Michael write:
+
+‘Other things being equal, the greater the provocation [measured objectively], the more ground there is for attributing the intensity of the actor’s passions and his lack of self-control on the homicidal occasion to the extraordinary character of the situation in which he was placed rather than to any extraordinary deficiency in his own character.’
+
+Professor Ashworth observes that the converse also holds true: where the provocation is objectively trivial, the defendant’s loss of self-control should be attributed to his own deficiency rather than the provocation. He concludes that ‘congenitally incapable individuals have an independent claim to mitigation’, and that ‘the defence of provocation is for those who are in a broad sense mentally normal’.”[22]
+
+42.  Similarly, in A-G v Holley, Lord Nicholls clearly considered both elements of the evaluative ingredient of the statutory defence to be objective, when he said:
+
+“Broken down, this objective ingredient has two elements. The first element calls for an assessment of the gravity of the provocation. The second element calls for application of an external standard of self-control: ‘whether the provocation was enough to make a reasonable man do as he did.’”[23]
+
+And he emphasised the need for uniformity in the objective standard required by the “reasonable man” standard thus:
+
+“Under the statute the sufficiency of the provocation (‘whether the provocation was enough to make a reasonable man do as [the defendant] did’) is to be judged by one standard, not a standard which varies from defendant to defendant.”[24]
+
+43.  Australian courts, when interpreting statutory language which asked whether the provocation was “of such a nature as to be sufficient to deprive an ordinary person of the power of self-control”,[25] have taken the same view.
+
+(1) In Stingel v The Queen, for example, the High Court of Australia said this language was “clearly intended to involve an objective threshold test”[26] and noted that:
+
+“The central question posed by the objective test – i.e. of such a nature as to be sufficient – obviously cannot be answered without the identification of the content and relevant implications of the wrongful act or insult and an objective assessment of its gravity in the circumstances of the particular case.”[27]
+
+(Italics in original; underlining added.)
+
+(2) In Buttigieg, the Queensland Court of Appeal referred to matters which would be relevant to affecting the gravity of the particular wrongful act or insult “in the mind of the hypothetical ‘ordinary person’”. [28] It is therefore the gravity to the objective ordinary person that is to be assessed and evaluated by the jury.
+
+(3) The majority of the High Court of Australia made the same point in Masciantonio v The Queen emphasising, in the application of the objective test, the effect of like provocation on “the ordinary person”. [29]
+
+44.  Similarly, in R v Rongonui [2000] 2 NZLR 385, in his observations as to the appropriate directions to a jury in a case of provocation, Tipping J described the appropriate manner in which the level of gravity of the provocation was to be assessed in these terms:
+
+“… It is desirable to add that this means the provocation must have been of sufficient gravity to deprive of their self-control a person with the accused’s characteristic but who is expected to display the power of self-control of an ordinary person. To assist the jury further, it is helpful to say that this requires the jury to assess the gravity of the provocation from the point of view of a person with the accused’s characteristic.”[30]
+
+Although the then statutory defence of provocation in New Zealand[31] was in different terms to section 4 of the Homicide Ordinance, it involved an inquiry into the sufficiency of the provocation and this observation of Tipping J supports the conclusion that the gravity of the provocation in a given case is to be assessed objectively.
+
+C.4 Assessing the gravity of the provocation
+
+45.  Whilst the assessment of the gravity of the provocation is an objective one, it is nevertheless necessary to have regard to aspects of the particular defendant to whom the provocation is directed.  This is because of one of the two changes brought about by the introduction of the statutory defence, namely the abolition of the common law rule that words alone were insufficient to constitute provocation.  Hence, as Lord Diplock explained in DPP v Camplin:
+
+“… now that the law has been changed so as to permit of words being treated as provocation even though unaccompanied by any other acts, the gravity of verbal provocation may well depend upon the particular characteristics or circumstances of the person to whom a taunt or insult is addressed. To taunt a person because of his race, his physical infirmities or some shameful incident in his past may well be considered by the jury to be more offensive to the person addressed, however equable his temperament, if the facts on which the taunt is founded are true than it would be if they were not. It would stultify much of the mitigation of the previous harshness of the common law in ruling out verbal provocation as capable of reducing murder to manslaughter if the jury could not take into consideration all those factors which in their opinion would affect the gravity of taunts or insults when applied to the person whom they are addressed.”[32]
+
+And as Lord Simon of Glaisdale said in the same case:
+
+“The effect of an insult will often depend entirely on a characteristic of the person to whom the insult is directed.”[33]
+
+46.  It is for this reason that, for the purposes of assessing the gravity of the provocation, one must take the reasonable man, who is affected by that provocation, to be “a person similarly placed” to the defendant.  As Lord Millett put it in R v Smith (Morgan):
+
+“… the jury must take the accused as they find him, warts and all. When considering whether a person of ordinary self-control would have been provoked to react as the accused did, the jury must have regard to what Lord Simon in Camplin called ‘the entire factual situation’. The question for the jury is whether a person of ordinary self-control would have reacted as the accused reacted if he were similarly placed, that is to say, having the history, experiences, background, features and attributes of the accused. This is a question of opinion on which the jury may bring their collective experience and good sense to bear without further evidence: see Camplin [1978] AC 706, 716D, 720F-G, and 727G-H. Accordingly, I respectfully agree with Lord Hoffmann that the question is whether the defendant’s behaviour fell below the standard which could reasonably be expected of him, but only if that is taken to mean of him exercising normal self-control.”[34]
+
+(Italics in original.)
+
+47.  Thus, the reasonable man who is expected to exercise the ordinary powers of self-control is a person having the history, experiences, background, features and attributes of the defendant relevant to the provocation.  This remains an objective test but one which fairly incorporates the features of the defendant that might affect the gravity of the provocation.  This was illustrated by Lord Nicholls in A-G v Holley in the following passage of his judgment:
+
+“Hence if a homosexual man is taunted for his homosexuality it is for the jury to consider whether a homosexual man having ordinary powers of self-control might, in comparable circumstances, be provoked to lose his self-control and react to the provocation as the defendant did. Authority for this proposition, if needed, is the ‘glue-sniffer’ case of R v Morhall [1996] AC 90. There the deceased nagged the defendant about his addiction to glue-sniffing. The problem before the House of Lords was whether this addiction should have been taken into account at the defendant’s trial as affecting the gravity of the provocation: see p 97D. Lord Goff of Chieveley, with whose speech all members of the House agreed, said it should. The thrust of his reasoning was that, for this purpose, ‘the entire factual situation’ was to be taken into account. This includes matters not falling strictly within the description ‘characteristics’. It also includes matters which are discreditable to the defendant. Lord Goff said, at p 99:
+
+‘suppose that a man who has been in prison for a sexual offence, for example rape, has after his release been taunted by another man with reference to that offence. It is difficult to see why, on ordinary principles, his characteristic or history as an offender of that kind should not be taken into account as going to the gravity of the provocation.’”[35]
+
+48.  By attributing to the reasonable man the relevant history, experiences, background, features and attributes of the defendant and by applying contemporary societal standards, the provocation is properly contextualised, so that the jury ask themselves the question of whether the provocation was enough to make a reasonable man do as he did in the context of the provocation which caused the loss of self-control that in fact occurred.  As already observed, this inquiry of sufficiency necessarily involves an assessment of the gravity of the provocation – since its gravity and the requisite standard of self-control are, as Lord Millett put it in R v Smith (Morgan), “two sides of the same coin”[36] – but the assessment of the gravity of the provocation nevertheless remains objective.  This is helpfully illustrated by the following passage in the judgment of Charron J delivering the judgment of the Supreme Court of Canada in R v Thieu Kham Tran:
+
+“For example, in determining the appropriate objective standard, it will be relevant for the trier of fact to know that the alleged provocation occurred in circumstances where the deceased was wrongfully firing the accused from his long-term employment. This context is necessary to set the appropriate standard. But the standard does not vary depending on the accused’s peculiar relationship or particular feelings about his employer or his employment. Personal circumstances may be relevant to determining whether the accused was in fact provoked – the subjective element of the defence – but they do not shift the ordinary person standard to suit the individual accused. In other words, there is an important distinction between contextualizing the objective standard, which is necessary and proper, and individualizing it, which only serves to defeat its purpose.”[37]
+
+(Emphasis added.)
+
+C.5 Answering the gravity question
+
+49.  In view of the inquiry required by the words of section 4 of the Homicide Ordinance as interpreted by the authorities referred to above, it is clear that the subjective assessment of the gravity contended for by the appellant must be rejected.
+
+50.  The approach contended for by the appellant would subvert the proper evaluative exercise that the jury are required to undertake when considering a defence of provocation.  It would, as Dickson CJ noted in R v Hill [1986] 1 S.C.R. 313, subvert the logic of the objective test because it would lead to the anomalous result that “[a] well-tempered, reasonable person would not be entitled to benefit from the provocation defence … while an ill-tempered or exceptionally excitable person would find his or her culpability mitigated by provocation and would be guilty only of manslaughter”.[38]
+
+51.  Were the gravity of the provocation to the particular defendant to be assessed in terms of the degree of provocation to him subjectively, it would be difficult, if not impossible, for a jury to determine the level of permissible response to an objectively trivial insult without lowering the uniform standard of self-control that every member of society is required to exercise.
+
+52.  The use of the objective standard to assess the gravity of the provocation and whether it was sufficient to cause any ordinary member of society to lose self-control necessarily sets a benchmark that not everyone will be able to meet.  But, as Lord Nicholls put it in A-G v Holley, continuing from the passage cited above:
+
+“Of course, assessing the conduct of a glue-sniffing defendant against the standard of a glue-sniffing man having ordinary powers of self-control may mean the defendant is assessed against a standard of self-control he cannot attain. He may be exceptionally excitable or pugnacious. But this is so with every defendant who seeks to rely upon provocation as a defence. The objective standard of self-control is the standard set by the common law and, since 1957, by the statutory reference to a ‘reasonable man’. It is of general application. Inherent in the use of this prescribed standard as a uniform standard applicable to all defendants is the possibility that an individual defendant may be temperamentally unable to achieve this standard.”[39]
+
+53.  It therefore follows that the passage in Lord Hobhouse’s speech in R v Smith (Morgan) setting out constituent (c) of the objective question is not to be understood as requiring an assessment of the gravity of the provocation from the defendant’s subjective perspective.  So reading the phrase “the gravity of the provocation for the defendant” is to treat those words as if they were embodied in statute and to construe them literally, without reference to the context in which Lord Hobhouse’s statement was made.  That context includes Lord Hobhouse’s reference to Lord Diplock’s suggested jury direction in DPP v Camplin which Lord Hobhouse considered to be “loyal to the drafting of section 3 which is concerned with the effect the provocation would have on the reasonable/ordinary man”.[40] It also includes the context of the other authorities referred to in Section C.3c above.  Rather than a literal reading as Mr McCoy contends for, the phrase in question should be understood as indicating that Lord Hobhouse intended no more than that there should be an assessment of the gravity of the provocation by reference to the position in which the defendant finds himself.
+
+54.  For all these reasons, therefore, we would answer the gravity question in the negative.  It is not a misdirection of law to fail to direct the jury to form a discrete view as to the gravity of the provocation on the defendant, having the particular attributes he has, separately from and before determining whether, objectively, having regard to the actual provocation and their view as to its gravity, a person with ordinary powers of self-control would or might have done what the defendant did.
+
+C.6 The adequacy of the Judge’s direction on gravity
+
+55.  Having answered the gravity question as above, much (if not all) of the force of the appellant’s challenge to the adequacy of the Judge’s directions to the jury concerning the gravity of the provocation falls away.  As set out in Section A.3 above, the Judge fairly summarised all the evidence of Madam Yeung’s provocative acts and words and set out the relevant circumstances of the appellant and his co-habitation and relationship with Madam Yeung and his relationship with his daughter by his former wife.  The Judge’s summary would properly have put the provocative acts and words in context.  That is all that was necessary since, it must be remembered, the jury were not being asked to consider whether the appellant himself was reasonable in reacting as he did but whether, in the face of the provocation, a person with the powers of self-control to be expected of an ordinary member of society today, would or might have done so.
+
+56.  The particular passage in the summing up which encapsulated the relevant inquiry of sufficiency for the jury was that set out at [16] above, in particular:
+
+“There is still a question of whether an ordinary person of the accused’s age and sex would have done what he did. If you feel sure that an ordinary person of his age and sex, even in the accused’s circumstances and even having undergone all the provocation which the accused told you that he had undergone at the time of the killing and leading up to it over a considerable period, would not have done what the accused did, then the doctrine of provocation would not operate to reduce murder to manslaughter.”
+
+(Emphasis added.)
+
+57.  The underlined passage above must be understood in its context in the summing up read as a whole.  It followed a detailed recapitulation by the Judge of the evidence of the appellant regarding the events on the evening in question and an overly (see [15] above) favourable direction by the Judge that the jury should proceed on the basis of the appellant’s account of events.  The repeated emphasis of “even” in the appellant’s circumstances and “even” having undergone the provocation described, would fairly have invited the jury to consider the gravity of the provocation to the ordinary person in the position of the appellant before assessing whether that provocation was sufficient to cause such a person to lose their self-control.
+
+58.  With respect, we therefore do not agree with McWalters JA’s description of this as “a general and unfocused direction”.[41] The present case was not one in which it was suggested there were any special features of the appellant that bore on the gravity of the provocation and with which the hypothetical reasonable man should be invested.  Instead, the Judge provided detailed directions to the jury regarding the defence case that he was the victim of gross deceit by his co-habitee, a disrespected and cheated upon lover, whose parentage of a beloved child was cast in doubt, for these matters to be weighed in the relevant sufficiency exercise.
+
+59.  The direction which the Judge gave the jury in the present case followed the specimen direction on provocation provided to judges by the Judicial Institute.[42] That direction properly identifies the subjective and objective questions which the jury must address in considering a defence of provocation.  In relation to the objective question, the two constituent elements of that question are covered by the question of sufficiency outlined in question 5 of that specimen direction.  As the specimen direction recognises, there will, of course, be cases where special directions will be called for, for example, where there are features of the defendant which might mean that the provocative conduct would have been more provoking for such a person.  But in view of the answer to the gravity question set out in Section C.5 above, it is not necessary to consider further the appropriateness of the specimen direction.
+
+C.7 Miscellaneous points on the gravity question
+
+60.  It is true that the Crown Court Bench Book, Specimen Directions to the Jury (2008), at [51] in respect of “Provocation (Murder)”[43] did construct a jury direction which split Lord Hobhouse’s constituents (c) and (d) into two separate questions.  Mr McCoy placed heavy reliance on this specimen direction in support of the appellant’s case on the gravity question.  The relevant portion of that direction reads as follows:
+
+“5. But if you conclude that D was or might have been provoked, in the sense which I have explained, you must then go on to weigh up how serious the provocation was for this defendant. Is there anything about this defendant which may have made what was [said and/or done] affect him more than it might have affected other people? (Here, identify any matters which may be relevant to the gravity of the provocation to this defendant.)
+
+6.   Finally, having regard to the actual provocation and to your view of how serious that provocation was for this defendant, you must ask yourselves whether a person having the powers of self-control to be expected of an ordinary, sober person, of D’s age and sex …, would have been provoked to lose his self-control and do as this defendant did … .  If you are sure that such a person would not have done so, the prosecution will have disproved provocation, and D is guilty of murder … .  If, however, you conclude that such a person would or might have reacted and done as D did, your verdict would be ‘Not guilty of murder, but guilty of manslaughter [by reason of provocation]’.”
+
+(Emphasis in original; Notes omitted.)
+
+61.  However, what other bench books provide by way of specimen directions is beside the point.  Specimen directions are merely guides for judges to follow and not authoritative statements of substantive law.  Indeed, as the title page of the Hong Kong Specimen Directions notes: “Save where the Court of Final Appeal or the Court of Appeal has so ruled, these Specimen Directions have no legal authority.”  More significantly, the Crown Court Bench Book appears to have treated Lord Hobhouse’s description of the constituents literally and without regard to the context in which he gave that description.  Insofar as the direction suggests a subjective assessment of the gravity of the provocation to the defendant, this flies in the face of a substantial weight of authority as shown in Section C.3c above.  To that extent, it provides, with respect, dubious support for the appellant’s case on this issue.
+
+62.  Mr McCoy submitted that the key passage in Lord Hobhouse’s speech in R v Smith (Morgan) that explained the true nature of his constituent (c) of the defence of provocation was that at p.196C-D of the report, namely:
+
+“The answer is that the role of the second question is being misunderstood. Its purpose is, as previously stated, to provide a standard of ordinary self-control so as to compare the reaction of the defendant as he was in fact provoked to lose his self-control with the reaction of a person with ordinary powers of self-control to provocation of equal gravity. Its purpose is not to create for the jury some impossible self-contradictory chimera designed ultimately to displace the concept of reasonableness altogether.”
+
+63.  This passage does not, however, support the appellant’s argument.  On the contrary, it demonstrates that the comparison is between the defendant’s loss of self-control in the face of the provocation with the reaction of the hypothetical person exercising the ordinary powers of self-control to provocation of equal gravity.  That latter exercise is a wholly objective exercise and does not admit of a subjective assessment of the gravity of the provocation.  As explained above, were this not so, the hyper-sensitive defendant over-reacting to a trivial provocation would provide the relevant yardstick of behaviour and this is not the way the defence operates.
+
+64.  Similarly, Mr McCoy’s reliance on the Court of Appeal decisions in HKSAR v Lo Chun Siu[44] and HKSAR v Poon Man Sum[45] does not, in our view, assist the appellant.  The gravity question was not in issue in either of those cases and there is no discussion and resolution of the issue now before this Court.  In any event, the description given by McWalters J (as he then was), delivering the judgment of the court in Lo Chun Siu, of the first element of the objective question is consistent with that element being objective and not subjective.[46]  Nor does Poon Man Sum support the subjective approach contended for by the appellant.  The failure in that case was to direct the jury to consider the gravity of the provocation in the context of the relevant evidence which included an earlier threat to commit suicide.[47]
+
+D. The ‘do as he did’ question
+
+65.  The question is set out in paragraph [22] above.  As is apparent from the parties’ contentions on it (at Section B.2 above), the central issue concerns the meaning of the words “do as he did” in section 4 of the Homicide Ordinance.  The proper construction of those words is important because, depending on their true construction, there is a risk that the jury may embark on a line of reasoning that would, on that construction, be impermissible.  The question framed by the Court raises the issue of whether it may be necessary for a trial judge to direct the jury in a specific manner in order to avoid that risk.
+
+D.1 The issue of construction
+
+66.  The wording of section 4 of the Homicide Ordinance is set out in paragraph [6] above.  The second, objective, question arises for the jury’s consideration when there is evidence on which the jury can find that the person charged with murder was provoked to lose his self-control and that issue is whether “the provocation was enough to make a reasonable man do as he did” (underlining added).  What is the proper construction of those words?
+
+67.  To answer that question, the Court must construe the language used in the light of its context and purpose, that being the modern approach to statutory construction which has been repeatedly endorsed and applied by this Court: See, e.g., Medical Council of Hong Kong v Chow Siu Shek (2000) 3 HKCFAR 144 at 154B-C; HKSAR v Cheung Kwun Yin (2009) 12 HKCFAR 568 at [11]-[14]; HKSAR v Fugro Geotechnical Services Ltd (2014) 17 HKCFAR 755 at [19].
+
+D.1a The latent ambiguity in the words
+
+68.  The words “do as he did” in section 4 are inherently ambiguous: see the discussion in Professor Glanville Williams’ Textbook on Criminal Law (2nd Ed., pp.543-544) and Professor Andrew Ashworth’s Principles of Criminal Law (3rd Ed., pp.283-284).  There is a range of meanings that they could convey, namely that the provocation was sufficiently grave to cause a person with ordinary powers of self-control:
+
+(1) To lose self-control (“the loss of self-control meaning”);
+
+(2) To kill the victim (i.e. to form the intent to kill or cause grievous bodily harm and act on that intent) by whatever means (“the killing simpliciter meaning”);
+
+(3) To kill the victim using the means that the defendant did, e.g. by stabbing or shooting or strangulation (“the means of killing meaning”);
+
+(4) To kill the victim in exactly the manner the defendant did, e.g. by 6 shots of the gun or 213 chops of the knife (“the precise method of killing meaning”).
+
+69.  Meaning (1), the loss of self-control meaning, can immediately be discounted as the proper construction of “do as he did” since it is difficult to see how the words convey only the meaning that the defendant must have lost his self-control and no more.  If the intention was to restrict the meaning to loss of self-control, one might have expected the draftsman to have adopted wording along the lines of the New Zealand Crimes Act 1961, section 169(2)(a), which raises the question of whether “[the provocation] was sufficient to deprive a person having the power of self-control of an ordinary person … of the power of self-control” (see paragraph [96] below).  Moreover, to say that a person has lost his self-control does not give any indication of what he has done in consequence of that loss, whereas the use of the verb “to … do” in section 4 indicates a need to focus on some form of action.
+
+70.  This leaves the debate between meanings (2), (3) and (4) above, each of which involves the act of killing but with different degrees of specificity.
+
+D.1b The reasonable relationship rule
+
+71.  A rule known as the “reasonable relationship rule”, or proportionality rule, was often tied to meaning (4) of “do as he did” (the precise method of killing meaning), since a defendant whose act of killing was regarded as disproportionate was deprived of the defence, suggesting that examining exactly what the defendant did was necessary to operating the rule.
+
+72.  In Mancini v DPP [1942] AC 1, Viscount Simon LC stated the common law rule that “the mode of resentment must bear a reasonable relationship to the provocation if the offence is to be reduced to manslaughter.”[48] And in Phillips v The Queen [1969] 2 AC 130, Lord Diplock cited that statement in support of the following proposition:
+
+“… it is beyond question that at common law by which the matter was regulated both in Jamaica and in England until the legislation cited above, the relationship between the degree of retaliation and the nature of the provocation was a relevant factor in determining whether the offence proved was manslaughter and not murder.”[49]
+
+73.  This rule was described as being “firmly established” as part of English law prior to the enactment of section 3 of the Homicide Act 1957[50] and was applied by the Privy Council on an appeal from Hong Kong in Lee Chun-Chuen v The Queen [1963] AC 220 at p.231, a case decided under the common law doctrine and before the enactment of section 4 of the Homicide Ordinance.  The rule was exemplified in the jury direction which Devlin J (as he then was) gave in R v Duffy, and which Lord Goddard in that case ([1949] 1 All ER 932) described as “impeccable”, namely:
+
+“in considering whether provocation has or has not been made out, you must consider the retaliation in provocation – that is to say, whether the mode of resentment bears some proper and reasonable relationship to the sort of provocation that has been given. Fists might be answered with fists, but not with a deadly weapon, and that is a factor you have to bear in mind when you are considering the question of provocation.”[51]
+
+74.  In this regard, it is a question of some importance to consider whether the reasonable relationship rule, either in whole or in part, has survived the enactment of the defence of provocation.  In England, the Court of Appeal in R v Walker [1969] 1 WLR 311 saw force in the submission, which it thought “may well be correct”, that section 3 of the Homicide Act 1957 had “replaced the reasonable relationship rule, and that that rule, if it ever was a rule, has now gone, and has been replaced by the words in the section”.[52] That obiter view was, of course, equivocal but in any event it begs the question as to what the words in the section mean.
+
+75.  Meaning (4) of “do as he did” (the precise method of killing meaning) would derive considerable support from a conclusion that the rule does continue to operate, whilst a conclusion that the rule has been superseded and no longer applies would lend support for either meaning (2) (the killing simpliciter meaning) or (3) (the means of killing meaning).
+
+D.1c The English and Privy Council authorities on section 3 of the Homicide Act
+
+76.  In DPP v Camplin, Lord Diplock framed a “proper direction” to a jury on provocation in these terms:
+
+“The judge should state what the question is using the very terms of the section. He should then explain to them that the reasonable man referred to in the question is a person having the power of self-control to be expected of an ordinary person of the sex and age of the accused, but in other respects sharing such of the accused’s characteristics as they think would affect the gravity of the provocation to him; and that the question is not merely whether such a person would in like circumstances be provoked to lose his self-control but also whether he would react to the provocation as the accused did.”[53]
+
+(Underlining added.)
+
+77.  Lord Diplock had earlier given the judgment of the Privy Council in Phillips v The Queen, which considered the reasonable relationship rule in Mancini v DPP.  There, special leave to appeal to the Privy Council was given to resolve inconsistent decisions of the Court of Appeal of Jamaica as to whether it was a misdirection for a judge to direct a jury in a provocation case that the retaliation must bear some proper and reasonable relationship to the provocation received.  Lord Diplock was of the opinion that the Jamaican statutory provision (identical to section 3 of the Homicide Act 1957) only changed the common law doctrine of provocation in two respects: first, in abolishing the common law rule that words alone could not amount to provocation and, second, in leaving to the jury exclusively the question of deciding whether or not a reasonable man would have reacted to the provocation in the way in which the defendant did.  Thus, as to the latter, Lord Diplock explained that the second question for the jury was, “‘Would a reasonable man have reacted to the same provocation in the same way as the defendant did?’”[54]
+
+78.  Lord Diplock then addressed the argument raised by the appellant in Phillips that “once a reasonable man had lost his self-control his actions ceased to be those of a reasonable man and that accordingly he was no longer fully responsible in law for them whatever he did”[55] (underlining added).  This argument was, in effect, that there was no longer any role for the reasonable relationship rule.  This argument was rejected by Lord Diplock, who held:
+
+“This argument is based on the premise that loss of self-control is not a matter of degree but is absolute; there is no intermediate stage between icy detachment and going berserk. This premise, unless the argument is purely semantic, must be based upon human experience and is, in their Lordships’ view, false. The average man reacts to provocation according to its degree with angry words, with a blow of the hand, possibly if the provocation is gross and there is a dangerous weapon to hand, with that weapon. It is not insignificant that the appellant himself described his own instantaneous reaction to the victim’s provocation in spitting on his mother as ‘I spin around quickly was to punch her with my hand.’”[56]
+
+His Lordship then described the judge’s direction to the jury (“whether a reasonable man would have reacted to the provocation in the way that the appellant did”), which had “followed closely” the statutory language as “impeccable”.[57]
+
+79.  Pausing here, it would appear that Phillips provides some support for the suggestion that the reasonable relationship rule has survived the enactment of the statutory defence of provocation.  However, Lord Diplock added the following important passage:
+
+“Since the passing of the legislation it may be prudent to avoid the use of the precise words of Viscount Simon in Mancini v Director of Public Prosecutions [1942] A.C.1 ‘the mode of resentment must bear a reasonable relationship to the provocation’ unless they are used in a context which makes it clear to the jury that this is not a rule of law which they are bound to follow, but merely a consideration which may or may not commend itself to them.”[58]
+
+80.  It is important to note from this passage that Lord Diplock was categorically stating that the reasonable relationship rule was now not a rule of law which a jury was bound to follow.  That statement of the law does clearly differ from the reasonable relationship rule as stated in Mancini.  In Phillips, the judge did not direct the jury in terms of the reasonable relationship rule and the Privy Council held that there was no error in the summing up on provocation and dismissed the appeal.
+
+81.  This passage was followed by the English Court of Appeal in R v Brown [1972] 2 QB 229, where it was contended that the judge had misdirected the jury on the reasonable relationship rule.  The Court of Appeal noted that the point had not required decision in R v Walker but did in the case before it.  Having referred to the passages from Phillips quoted above, the Court of Appeal held:
+
+“In the view of this court, when considering whether the provocation was enough to make a reasonable man do as the accused did it is relevant for a jury to compare the words or acts or both of these things which are put forward as provocation with the nature of the act committed by the accused. It may be for instance that a jury might find that the accused’s act was so disproportionate to the provocation alleged that no reasonable man would have so acted. We think therefore that a jury should be instructed to consider the relationship of the accused’s acts to the provocation when asking themselves the question ‘Was it enough to make a reasonable man do as he did?’ We feel that Lord Diplock’s warning should be followed and that it would be better not to use the precise words of Viscount Simon unless it is made quite clear that it is not a rule of law which the jury have to follow.”[59]
+
+(Underlining added.)
+
+82.  The decision in Brown therefore provides support for the continued relevance of the proportionality of the retaliation to the provocation, albeit in a qualified way as being “not a rule of law” and albeit limited to the “nature of the act committed by the accused”.  To similar effect is the decision in R v Acott [1997] 1 WLR 306, where Lord Steyn (with whom the other members of the House of Lords agreed) said this:
+
+“Moreover, although there is no longer a rule of proportionality as between provocation and retaliation, the concept of proportionality is nevertheless still an important factual element in the objective inquiry. It necessarily requires of the jury an assessment of the seriousness of the provocation.”[60]
+
+83.  On the reasoning set out in paragraph [75] above, this supports the argument that the proper construction of the words “do as he did” is not meaning (4) but nevertheless still leaves open the question of whether the act of retaliation is to be expressed in terms of meaning (2) or (3) set out above.
+
+D.1d The Hong Kong authorities
+
+84.  Phillips was cited to the Court of Appeal in R v Vu Van Thang [1991] 2 HKC 90 but the issue of the relationship between the provocation and the reaction was not raised, since on the facts of that case it was held that it had not been necessary for the judge to leave the defence of provocation to the jury.
+
+85.  That issue was, however, raised in the appeal in HKSAR v Liang Yaoqiang [2014] 4 HKC 145.  That case concerned the appellant in this appeal and was his first appeal to the Court of Appeal against his conviction for murder before Beeson J and a jury.[61] In that appeal, one of the grounds of appeal concerned the judge’s failure to correct the following submission made in the prosecution’s closing speech to the jury:
+
+“… if you decide he was, or may have been, provoked, I submit that no reasonable person would have done as he did. The infliction of 209 or thereabouts chop wounds to the victim’s body is out of all proportion to any possible provocation.”[62]
+
+86.  The Court of Appeal’s judgment on this ground of appeal (which was delivered by Stock VP) was strictly obiter since the appeal was allowed on another ground of appeal.  However, the Court of Appeal considered the argument that was advanced on behalf of the appellant that:
+
+“… once it is accepted by the jury that the provocation offered would or may cause a reasonable person to lose his self-control, no further inquiry is warranted into the nature and degree of the consequent conduct since, by definition as it were, a loss of self-control envisages the likelihood or at least the possibility of an uncontrolled frenzy of extraordinary violence.” [63]
+
+87.  The Court of Appeal rejected this argument, citing the jury direction provided by Lord Diplock in DPP v Camplin and the passages from Phillips and Brown quoted above.[64]  However, given the obiter nature of the discussion, there is no substantive reasoning in the Court of Appeal’s judgment that bears on the issue of construction now before this Court.
+
+D.1e The position in Australia
+
+88.  The appellant relied heavily on the approach in the Australian cases dealing with the defence of provocation.  Those cases have clearly taken a different approach to that of the English cases considered in Section D.1c above and support a conclusion that the relevant inquiry concerns the sufficiency of the provocation to cause the accused to form an intent to kill or do grievous bodily harm, rather than the precise form of physical reaction.
+
+89.  Thus, in Johnson v The Queen (1976) 136 CLR 619, the High Court of Australia considered the relevant New South Wales statute providing a defence of provocation.[65] It held, relevantly, that the accused bore the onus of proving on a balance of probabilities the matters in the proviso to the section, namely: “(a) That such provocation was not intentionally caused by any word or act on the part of the accused; (b) That it was reasonably calculated to deprive an ordinary person of the power of self-control, and did in fact deprive the accused of such power, and, (c) That the act causing death was done suddenly, in the heat of passion caused by such provocation, without intent to take life.”  It also held that the requirement that the mode of retaliation should bear a reasonable proportion to the act of provocation was not a separate element which the accused must establish, but was a relevant matter to paragraphs (b) and (c) of the proviso.
+
+90.  Importantly, Barwick CJ observed in his judgment:
+
+“To take into account the mode and extent of retaliation when determining whether an ordinary man, subjected to the like acts of provocation in all the circumstances in which the accused then stood, would have lost self-control to the point of doing something akin to what the accused has done is one thing. To require that it be established positively and, as a separate issue or element, whether the act of the accused was in fact proportionate to the provocation, is quite another; or to require the Crown as a specific matter to negative that proportion is quite another. This is particularly so if it be assumed that it has already been concluded that the accused had relevantly lost self-control. In considering whether an ordinary man would have lost self-control so as to form an intent to kill and to kill in the manner in which the accused did so, the jury may think the provocation was such that an ordinary man might react in the way in which the accused reacted. After all, it is the induced intent to kill rather than the induced fatal act which is the critical consideration. As I have stressed, the provocation is irrelevant unless there was an intent to kill or to do grievous bodily harm: and the provocation to be operative must have caused that intent. No doubt the question is difficult, namely: would the actual provocation, which has caused the accused so far to have lost self-control as to have formed an intent to kill, have caused an ordinary man to have lost his self-control and to have formed that intent? To express the objective test as whether the provocation would have caused an ordinary man to have so far lost self-control as to have done an act of the kind or degree done by the accused, tends somewhat to obscure the necessity of there being an intent to kill or do grievous bodily harm. Emphasis on the essential causation of the requisite intent may, on the one hand, make provocation more difficult to establish and, on the other hand, lessen perhaps the importance in the mind of a tribunal of the particular way in which the intent to kill or to do grievous bodily harm was effectuated.”[66]
+
+91. In the subsequent case of Masciantonio v The Queen (1994-1995) 183 CLR 58, the High Court of Australia cited Barwick CJ’s judgment with approval in the following terms:
+
+“… as Barwick CJ pointed out in Johnson v R in considering whether an ordinary person could have reacted in the way in which the accused did, it is the formation of an intent to kill or do grievous bodily harm which is the important consideration rather than the precise form of physical reaction.”[67]
+
+(Underlining added.)
+
+92. In that case, the High Court held that the relevant question to be measured in terms of the ordinary person was whether the accused had been provoked to lose self-control so as to form the intent to kill or do grievous bodily harm rather than the duration or precise physical form of his reaction. That the focus is on the formation of the intent to kill or do grievous bodily harm is shown in the following passage:
+
+“The question is not whether an ordinary person, having lost his self-control, would have regained his composure sooner than the accused nor is it whether he would have inflicted a lesser number of wounds. It is whether an ordinary person could have lost self-control to the extent that the accused did.  That is to say, the question is whether the provocation, measured in gravity by reference to the personal situation of the accused, could have caused an ordinary person to form an intention to kill or do grievous bodily harm and to act upon that intention, as the accused did, so as to give effect to it.  The associated question whether, in the sequence of events, an accused, having lost his self-control, had regained it so that the continued infliction of injury was in fact no longer provoked, is not a question to be answered by reference to the ordinary person.  It is to be answered by reference to the conduct of the accused himself and to common experience of human affairs.  It is the nature and extent – the kind and degree – of the reaction which could be caused in an ordinary person by the provocation which is significant, rather than the duration of the reaction or the precise physical form which that reaction might take.  And in considering that matter, the question whether an ordinary person could form an intention to kill or do grievous bodily harm is of greater significance than the question whether an ordinary person could adopt the means adopted by the accused to carry out the intention.”[68]
+
+(Italics in original; underlining added.)
+
+93. These passages in Masciantonio demonstrate that it is not an element of provocation in the statutory provisions there under consideration that the retaliation should be proportionate to the provocative incident.  They therefore suggest support for meaning (2) of “do as he did” rather than meanings (3) or (4).  To this end, in R v Barrett (2007) 171 A Crim R 315, the Supreme Court of Victoria held that jury directions should not include a suggestion that “the law will only concede the existence of provocation if there is some kind of proportion between the provocation and the murderous act or acts.”  Instead, the direction should conclude: “The provocation must be of a kind that might in the same circumstances cause an ordinary person to form an intention to kill or to cause really serious injury.  The question is not whether an ordinary person would react to the provocation by using the precise method of response as did the accused but whether, in those circumstances, an ordinary person might form an intention to kill or to cause really serious injury.”[69]
+
+94. However, it is to be noted that, in Masciantonio, in the passage immediately before the reference to Barwick CJ’s dictum in Johnson quoted in paragraph [91] above, the majority stated:
+
+“… it is now well established that the question of proportionality is absorbed in the application of the test of the effect of the provocation upon the ordinary person.  As Lord Diplock said in Phillips v The Queen Viscount Simon’s remark was ‘an elliptic way of saying that the reaction of the defendant to the provocation must not exceed what would have been the reaction of a reasonable man’.”[70]
+
+95. This proposition, that the question of proportionality is absorbed in the application of the “ordinary person” test, demonstrates that there is still a place for that concept in the inquiry for the jury.  The suggested absorption of the question of proportionality into the “ordinary person” test bears some similarity to the proposition of Lord Steyn in R v Acott (quoted in paragraph [82] above), namely that “the concept of proportionality is nevertheless still an important factual element in the objective inquiry.”
+
+D.1f The position in New Zealand
+
+96. The question of the relation of the retaliation to the provocation has also been considered in New Zealand, where under the applicable statutory provision[71] it has been held that proportionality is not required as a matter of law.
+
+97. In R v Rongonui [2000] 2 NZLR 385, Elias CJ discussed the notion of proportionality of the response to provocation.  She stated these propositions at the outset of her analysis (at [137]):
+
+(1) Proportionality is not required as a matter of law and it is wrong for the judge to suggest that there is any requirement of reasonably proportionate retaliation.
+
+(2) Lack of proportionality may be evidence which helps the jury determine whether or not the accused committed the homicide under provocation (i.e. the subjective question of whether the defendant in fact lost his self-control). 
+
+98. Elias CJ went on to consider (at [138]) the submission that “[i]n the circumstances of the frenzied attack described by the pathologist … a requirement to take proportionality of the response into account was fatal to the defence of provocation because the response could only have been seen as disproportionate.”  She considered the Privy Council decision in Phillips, noting the statutory language of section 3 of the Homicide Act 1957.  She contrasted (at [140]), the New Zealand statutory defence of provocation where “the objective limb is concerned only with the sufficiency of the provocation to deprive the accused of self-control.”  Hence, she cautioned (at [141]), “[s]ome care is necessary in the application of Phillips given the different statutory provisions.”
+
+99. Elias CJ concluded (at [142]) that the direction in Rongonui “would have suggested to the jury that the disproportionality of the actual response was something it must take into account”.  The material part of that objectionable direction in Rongonui (set out at [68]) was in the following terms:
+
+“When you are considering suggestions of provocation or evidence of the sort that we have been discussing for the last two weeks, it is usual to look at the nature of the threat or the provocation itself and the nature of the response, and it’s perhaps common sense to suggest that there should be some degree of proportionality between the threat and the response.  You consider what would the person with the ordinary power of self-control do under the circumstances, would he or she retreat, would he or she do something less violent than what happened in this case.  It is entirely a matter for you, it is not a question of law at all.  But naturally you will look at all the circumstances both of the build up as to what happened and what happened at the time when you are assessing the suggested provocation.”
+
+A direction of this nature gives rise to the risk that the jury may embark on the impermissible line of reasoning discussed in Section D.4 below.
+
+100. In the later case of R v Timoti [2006] 1 NZLR 323, the question of proportionality in provocation was again considered.  In relation to the subjective question of whether the accused lost his self-control, the Supreme Court of New Zealand held (at [34]) that the relationship between the level of provocation and the level of response was “apt to be equivocal” and continued (at [35]):
+
+“Hence an abstract direction on proportionality is not likely to be helpful to the jury; the more so if it does not distinguish the factual question from the evaluative question.  A case-specific direction on the factual question which invites the jury to consider whether the relationship between the degree of provocation and the level of response assists them in deciding whether the accused did lose the power of self-control will be of assistance; and a rehearsal of the competing contentions of the parties in case-specific terms will be of particular assistance to the jury in deciding this first factual issue.  If it is decided in favour of the Crown, that is, the Crown has established that the accused did not lose the power of self-control, the evaluative question will not arise.”
+
+101. The court then considered the second, evaluative, question (i.e. the objective question) and posed the question of whether the concept of proportionality is capable of assisting the jury in their evaluation of whether the provocation was sufficient to deprive the statutory hypothetical person of the power of self-control, noting that on this question the actual mode of response of the accused to the provocation was irrelevant.  In this regard, the court explained (at [36]-[38]):
+
+“[36] The question now being addressed is not whether the accused did lose the power of self-control; rather it is whether the provocation was sufficient to cause the hypothetical person to do so. The accused’s actual response is no more than a distraction on this issue. The question concerns the response of the hypothetical person to the provocation actually found to have been given. Hence a direction which invites a comparison between the level of provocation and the accused’s response to it is inappropriate and apt to cause confusion on this second (evaluative) question.
+
+[37] Obviously the question whether the provocation was sufficient to cause the hypothetical person to lose the power of self-control to the point of committing the act of homicide carries within it a value judgment to which proportionality considerations are relevant.  But the concept of sufficiency adequately incorporates this without any need for a confusing proportionality gloss.  This approach is supported by observations made by the High Court of Australia in Masciantonio v The Queen. In that case, even against a ‘do as he did’ criterion, Brennan, Deane, Dawson and Gaudron JJ, in their joint judgment, aptly said it was well established that the question of proportionality was ‘absorbed’ into the application of the test involved in what we have called the evaluative question.
+
+[38] In summary, therefore, questions of proportionality may be of some assistance to a properly directed jury on the factual question but are likely to be more confusing than helpful to them on the evaluative question. On that question a direction couched in terms of proportionality between the provocation and the accused’s response should not be given.”
+
+(Underlining added.)
+
+102. It should be noted that, in Timoti, the Supreme Court of New Zealand drew attention (at [43]) to the comments of the Privy Council in Phillips that there are degrees of self-control but suggested that these comments should be read in the light of the materially different wording of section 3 of the Homicide Act 1957:
+
+“focusing attention on what the accused did in response to the provocation.  There is a material difference between the concept of provocation causing the accused to ‘do as he did’ and provocation causing the accused to lose the power of self-control, as in our Act.”
+
+103. The Supreme Court of New Zealand therefore rejected (at [46]) the need to consider the degree of loss of self-control beyond loss to the point of forming the necessary murderous intent as well as performing an action which caused death:
+
+“When s 169(2)(b) speaks of provocation which has deprived the offender of the power of self-control and has thereby induced the act of homicide, it is implicit that the act of homicide encompasses not only the physical action which caused the death but also the necessary murderous intent. It follows that for the purposes of the evaluative question the provocation must have been sufficient to cause the statutory hypothetical person to lose the power of self-control to the point of forming the necessary murderous intent as well as performing an action which caused death. In short, the provocation must have been sufficient to cause in the hypothetical person loss of self-control inducing both a murderous act and murderous intent.  What is not relevant to the evaluative question is the degree of the loss of self-control beyond that point.  Hence the extent of loss of self-control manifested by the accused is not relevant.  Referring back to our discussion of R v Anderson, the degree or method or continuance of the actions which caused the death are not relevant to the inquiry.”
+
+104. Hence, the court concluded that the following portion of the summing up in Timoti (set out in [30]) was a misdirection:
+
+“You must consider, as a weighty factor, whether the accused’s acts leading to Mr Ruarau’s death bear any proper or reasonable relationship to the sort of provocation said to have been given by the accused’s mother and Mr Wuatai.  The extent of loss of self-control has to be considered, in proportion to the alleged provocation …”
+
+Again, a direction of this nature may give rise to the risk that the jury may embark on the impermissible line of reasoning discussed in Section D.4 below.
+
+105. The discussion above shows that the New Zealand courts have rejected any requirement of proportionality between the provocation and the response beyond the need for the provocation to have been sufficient “to cause in the hypothetical person loss of self-control inducing both a murderous act and murderous intent.”  This reasoning, albeit relating to materially different statutory wording, would support meaning (2) of “do as he did” and would certainly suggest that meanings (3) and (4) are not the proper construction of those words. 
+
+106. Of particular relevance to our statutory wording, however, is the passage in paragraph [37] of the judgment in Timoti (quoted above) noting that the concept of sufficiency (with which section 4 of the Homicide Ordinance is concerned, see paragraph [37] above) “incorporates a value judgment to which proportionality considerations are relevant” and the observation that this is consistent with the idea that, in relation to the “do as he did” criterion, proportionality is absorbed into the application of the objective test of the effect of the provocation on the ordinary person.
+
+D.2 The policy underlying the defence
+
+107. The underlying rationale of the defence of provocation has been addressed in Section C.1 above.  The subjective question of whether in any given case a defendant has been provoked to lose his self-control and kill in consequence does not present any conceptual difficulties.  This is a question which the jury must answer by reference to all the available evidence of what was said and done by the victim to the defendant and what the defendant did in retaliation.  At this stage, the nature of the provocation and the precise form and extent of the retaliation is necessarily relevant evidence, although as was pointed out in Timoti, the position may be equivocal.  A disproportionately vicious retaliation may be evidence that self-control was in fact lost, although the possibility remains that such retaliation could have been carried out as a cool-headed and deliberately sadistic killing or as an attempt to camouflage the killing as one committed under a loss of self-control.  This question must be left to the jury to decide on the evidence.
+
+108. However, in respect of the objective question, the notion that the retaliation must bear a particular relationship to the provocation is one beset with conceptual difficulties.  Where the person with ordinary powers of self-control has been provoked to the degree necessary to cause him to lose that self-control, there is an inherent contradiction in then going on to ask whether his actions in that state of loss of self-control bear some proportionate relationship to the provocation offered by the victim.  As Elias CJ put it in Rongonui, this may seek to “invoke a rationality already lost.”[72] If a person has been provoked to such an extent that the ordinary person could equally have lost his self-control to the point of forming the intent to kill the provocateur and acting on that intent, it is difficult to see why the extent of the defendant’s reaction should deprive him of the defence.  To ask of the hypothetical “reasonable man” in section 4 whether the provocation might have been sufficient to make him lose his self-control to the extent of making a choice as to weapon (gun, knife or chapati pan) or to the extent of stabbing, say, once or twice in carrying out his intention to kill the victim rather than, say, 10 or 20 or even 200 times seems artificial and, more importantly, conceptually extremely difficult for a jury.  The precise mode of retaliation may also be fortuitously dependent on the lethal instrument near at hand.
+
+109. As a matter of underlying policy, where the jury have already reached the conclusion that the homicidal act was carried out intentionally by the defendant when he had lost his self-control, the real focus of the evaluative, objective, question is whether a person with the ordinary powers of self-control might have reacted to the retaliation by forming the intent to kill or cause really serious bodily harm to the victim and acting on that intent.  To the extent that an extreme homicidal response negates a finding of a subjective loss of self-control, the defence will not apply.  But save in that circumstance, there is no compelling reason of logic or policy to require the jury to consider whether the homicidal actions (which have already been established were in fact brought about a loss of self-control) bear a reasonable relationship to the provocation.  On the contrary, the difficulties inherent in such a question strongly suggest a conclusion that no such question is necessary.
+
+D.3 The proper construction of “do as he did” in section 4
+
+110. The meaning of the words “do as he did” being inherently ambiguous, the context and purpose of section 4 is critical to determining their proper construction.
+
+111. As a matter of context, section 4 is addressing a partial defence in a case of murder.  The context is derived from the opening words of the section (“Where on a charge of murder …”).  The focus of the defence is then on whether there is evidence on which the jury can find “that the person charged” (i.e. charged with murder) was provoked “to lose his self-control” and “to make a reasonable man do as he did”.  The statutory purpose of section 4 is to give effect to the underlying policy of the law to excuse certain impulsive homicidal acts resulting from substantial provocation from the ultimate penalty for murder (see Section C.1 above).  The section also altered the common law in the two respects addressed in paragraph [7] above.
+
+112. As the discussion of the English and Privy Council cases in Section D.1c above shows, it is debatable whether the reasonable relationship rule still applies under the statutory defence of provocation.  The cases certainly support the proposition that there is no rule of law to that effect.  The idea that the mode of resentment must be proportionate in type to the provocation given is, at the very least, at odds with the abolition of the common law rule that words alone could not amount to provocation.  Once it is accepted that words themselves could provoke the loss of self-control with an intention to kill, the reasonable relationship rule must (if it survives in any form) at least require some reformulation in order to operate in a case of provocative words.
+
+113. That being the case, it is difficult to see a proper basis for concluding that meaning (4) (the precise method of killing meaning) can be the correct construction of “do as he did”.  The conceptual difficulties in seeking to find a relationship between provocation that brings about a loss of self-control triggering a homicidal reaction with the reasonableness of the choice of weapon or mode of carrying out a murderous intent weighs against the conclusion that meaning (3) (the mode of killing meaning) is the proper construction of those words.
+
+114. In the light of the context and purpose of section 4 and the underlying policy of the law to mitigate the penal consequences of a killing carried out in the frenzy of a loss of self-control, meaning (2) (the killing simpliciter meaning) provides the most logical and readily understandable meaning of the words “do as he did”.  This requires the jury to consider whether, in the light of the gravity of the provocation on a person in the position of the defendant but with the ordinary powers of self-control to be expected in society today, that person might have formed the intention to kill or cause grievous bodily harm to the victim and have acted on that intention.  This is a simpler test in which the magnitude of the response is absorbed into the evaluation of whether the provocation was sufficient to cause a person with ordinary powers of self-control to lose that self-control to the point of forming the intent to kill or cause grievous bodily harm and acting on that intent.  It avoids the need for illogical and extremely difficult mental gymnastics on the part of the jury in trying to grade degrees of provocation and degrees of reasonable retaliation to such provocation.  The defence of provocation is neither intended to be, nor capable of being, a matter of scientific measurement.  Rather, it is intended that juries apply their common sense to the evidence to determine the result in any given case.
+
+D.4 The impermissible line of reasoning
+
+115. In view of the proper construction of the words “do as he did” as set out in Section D.3 above, there is a risk that, without a proper direction, the jury may embark on a line of reasoning that would, on that construction, be impermissible.  Thus, the line of reasoning represented by the prosecution’s closing speech to the jury in the appellant’s original trial (see paragraph [85] above), which asks it to reason that: (a) notwithstanding that he was in fact provoked to lose his self-control; (b) the scale of the retaliation was out of proportion to the provocation offered; so that (c) the objective question should necessarily be answered against him; is an impermissible line of reasoning.  The jury should not be led into thinking that killing by inflicting 213 wounds would deprive the accused of the provocation defence, whereas killing by some lesser number of wounds would not.
+
+D.5 Answering the ‘do as he did’ question
+
+116. The ‘do as he did’ question does not ask if there was a misdirection by the Judge in the present case and, as will be evident from Section A.3 above, the Judge did not suggest to the jury that there was any requirement of reasonably proportionate retaliation.  Instead, the Judge directed the jury in accordance with the language of section 4 of the Homicide Ordinance.
+
+117. However, what the ‘do as he did’ question does raise is the broader question of whether it is incumbent on a judge to give the jury directions in cases where there is a risk that the jury might pursue the impermissible line of reasoning described in Section D.4 above.  The short answer to that first part of the ‘do as he did’ question is that it is incumbent on a Judge to direct a jury in terms that will instruct them not to do so since that would be a line of reasoning inconsistent with the proper construction of section 4.
+
+118. The second part of the ‘do as he did’ question asks whether the present case is such a case.  The answer to that question lies in whether the nature and extent of the homicidal act in a given case is such that might lead to the impermissible line of reasoning.  It also depends on the course of any cross-examination of the defendant and the content of the closing speeches of counsel.  This question must therefore be answered on a case by case basis and, as explained in Section D.6 below, it is apparent that this was such a case.
+
+D.6 The adequacy of the Judge’s summing up on “do as he did”
+
+119. The Judge’s summing up on provocation, set out at Section A.3 above, did not invite it to adopt the impermissible line of reasoning.  Neither, however, did the Judge’s directions warn the jury not to adopt it.  This was, however, a case where there was clearly a risk that the jury might do so.
+
+120. This is amply demonstrated by the response Mr Tam gave to a question from the bench as to how the jury’s verdict in the present case could be explained in light of the Judge’s directions (albeit misdirections) to take it from her as a matter of law that the appellant was in fact provoked into a sudden and temporary loss of self-control and that the jury should proceed on the basis of the appellant’s evidence as to what was said and done between him and Madam Yeung. Mr Tam rightly surmised that, assuming the jury acted faithfully in accordance with those directions of the Judge, a plausible explanation for the verdict of guilty of murder is that the jury thought that no reasonable man would have struck Madam Yeung 213 times with the chopper.
+
+121. The risk was increased by defence counsel’s submissions that tended to suggest the defence would avail the accused only if the jury were prepared to find that another person in the defendant’s position would have behaved exactly as the defendant did.  In his closing speech, he submitted:
+
+“But the point is … whether a reasonable man could, or might, have done the same thing.  That’s all you need.  Would someone else in his position, might he have done the same thing?
+
+…
+
+Is it not possible, or could it not be the case that another person in exactly the same position, shoes, as the defendant, could or would not he have behaved exactly the same as the defendant behaved in this case?
+
+Have the prosecution proved to you that no reasonable man would behave – would not behave as the defendant behaved when he did what he did that day?
+
+…
+
+Of course, we say that cumulative provocation, acts and words were said, provocation did take place and another person, another reasonable man in the defendant’s position could or might have behaved exactly as the defendant has behaved.”
+
+122. Confusingly for the jury, these submissions (on which they received no directions from the Judge) were inconsistent with an earlier submission made by counsel for the defence in the following terms:
+
+“This is very important.  If you decide you find the deceased’s actions could have caused – that’s all you need, legally that’s all you need – could have caused the defendant to lose his self-control, you need not consider whether or not his actions therefore after was [proportional] or reasonable. What I’m saying, if you conclude that the actions could have caused the defendant to do what he did, the fact that there were 213 blows is neither here nor there.
+
+As her Ladyship will tell you, the law states there is no hard and fast rule that the mode of resentment must bear a reasonable relationship to the provocation.  The focus that you must have is on the point immediately prior to the defendant’s attack on the deceased, bearing in mind what took place well before then.”
+
+123. In the circumstances, there is clearly a risk in the present case that the impermissible line of reasoning might have been adopted and, for these reasons, the Judge’s direction on the ‘do as he did’ question was inadequate.
+
+D.7 The need for particular directions in certain cases and the type of direction that should be given
+
+124. These issues do not arise in every case involving provocation.  However, in cases where a real risk of the impermissible line of reasoning identified in Section D.6 above exists, a suitable direction which counteracts that risk should be given to the jury.  What exactly is said will depend on the evidence adduced and on what has been advanced by counsel but a direction along the following lines, which for illustrative purposes is adapted to the present case, serves as a guide:
+
+“In addressing the issue whether [those words/that conduct] was or may have been such as to cause an ordinary person to do as the defendant did, it is not a question of whether that ordinary person might have reacted in exactly the same way as did the defendant.  It is sufficient were you to find that the provocation which was presented would or might cause an ordinary person, placed in the same situation as the defendant, to lose self-control and cause [the victim’s] death with the intention of doing so or at least with an intention to cause really serious bodily harm.  If that is what you find, then you must find the defendant not guilty of murder but guilty of manslaughter and the possibility that the ordinary man would not have [stabbed 200 times but only, say, ten times]/[used the chopper but might have used some other implement] is irrelevant.”
+
+125. To this suggestion, we would add that in every case where the defence of provocation falls to be left to the jury, the trial judge should:
+
+(1) Before closing speeches, discuss with counsel whether the evidence and/or their submissions will call for such a direction and, if the judge decides that such a direction is to be given, should discuss with counsel the proposed terms of such a direction; and
+
+(2) In the event that such a direction is to be given, provide the jury with a written form of the direction to be presented as part of a fuller written direction as to the law of murder and the defence of provocation.  Common sense dictates that the task of the jury is much facilitated by written handouts which clearly and succinctly specify what has to be proved before they may convict and, sometimes, by written routes to verdict.  We do not suggest that such handouts or routes to verdict are necessary for every criminal trial and we do not suggest that of itself the failure to provide a handout or route to verdict impeaches the safety of a conviction.  But, save in cases where the legal issue is simple – and murder cases are seldom simple – we encourage their use.
+
+E. Disposition of the appeal
+
+126. For these reasons, we would answer the gravity question as set out in Section C.5 above and the ‘do as he did’ question as set out in Section D.5 above.
+
+127. This is not a case in which it would be appropriate to substitute a conviction of manslaughter, as was submitted on behalf of the appellant.  This was the course adopted by the High Court of Australia in Johnson. However, in the present case, where the issue of credibility of the facts on which the defence was based ought to have been left to the jury to determine, the only appropriate order on the quashing of the murder conviction is one of re-trial.
+
+F. Conclusion
+
+128. For these reasons, we would allow the appellant’s appeal and quash his conviction for murder and order that he be re-tried.
+
+  
+
+  
+
+(R A V Ribeiro)	(Robert Tang)	(Joseph Fok)
+Permanent Judge	Permanent Judge	Permanent Judge
+  
+
+  
+
+(Frank Stock)	(Lord Millett)
+Non-Permanent Judge	Non-Permanent Judge
+  
+
+Mr Gerard McCoy SC, Mr Richard Donald and Ms Denise Souza, instructed by Tse Yuen Ting Wong, assigned by the Director of Legal Aid, appeared for the Appellant on 11 January 2017
+
+Mr Gerard McCoy SC and Ms Denise Souza, instructed by Tse Yuen Ting Wong, assigned by the Director of Legal Aid, appeared for the Appellant on 19 January 2017
+
+Mr William Tam SC, DDPP, and Mr Ivan Cheung, PP, of the Department of Justice, for the Respondent
+
+
+
+[1] In HCCC 457/2013 (this was in fact a re-trial of the appellant, the first trial before Beeson J and a jury in October 2010 having miscarried: see [2014] 4 HKC 145).
+
+[2] Now repealed and replaced by the defence of “loss of control”: see Coroners and Justice Act 2009, ss.54-56.
+
+[3] At p.716B-D; DPP v Camplin involved a 15 year old boy who had killed by hitting the victim with a chapati pan after the latter had buggered the defendant in spite of his resistance and then laughed at him.
+
+[4] CACC 131/2014, Judgment dated 30 June 2015 (“CA Judgment”) per Lunn VP at [18] and Macrae JA at [47].
+
+[5] CA Judgment per Lunn VP at [18] and Macrae JA at [49]-[50].
+
+[6] In CACC 131/2014, before Lunn VP, Macrae and McWalters JJA.
+
+[7] The other ground of appeal, unanimously rejected by the Court of Appeal, related to the adequacy of the Judge’s direction as to the alternative verdict of unlawful act manslaughter.
+
+[8] CA Judgment at [7], [56] and [68].
+
+[9] Ibid. at [100]-[101].
+
+[10] Ibid. at [92]-[93].
+
+[11] CACC 131/2014, Judgment dated 23 October 2015.
+
+[12] FAMC 60/2015, Determination dated 26 May 2016 (Ribeiro, Tang & Fok PJJ).
+
+[13] At [16].
+
+[14] Appearing with Mr Richard Donald and Ms Denise Souza.
+
+[15] Lee Chun-chuen v The Queen [1963] AC 220 at p.228 (a case decided under the common law before the enactment of section 4 of the Homicide Ordinance).
+
+[16] Per Tindal CJ in R v Hayward (1833) 6 C. & P. 157, 159, cited by Lord Diplock in R v Camplin (supra.) at p.713H.
+
+[17] R v. Smith (Morgan) (supra.) per Lord Hoffmann at p.159F and per Lord Millett at p.207A; A-G v Holley (supra.) per Lord Nicholls of Birkenhead at [3].
+
+[18] (Cmd 8932), which led to the enactment of the Homicide Act 1957; see the passage cited by Lord Hobhouse in R v Smith (Morgan) at 194C.
+
+[19] [2001] 1 AC 146 at 172F-G.
+
+[20] [1978] AC 705 at 716H-717B.
+
+[21] [2001] 1 AC 146 at 211E-F.
+
+[22] Ibid. at 214A-D.
+
+[23] [2005] 2 AC 580 at [6].
+
+[24] Ibid. at [22].
+
+[25] An inquiry of sufficiency equivalent to that under section 4 of the Homicide Ordinance: see at [36] above.
+
+[26] (1990) 171 CLR 312 at 324.
+
+[27] Ibid. at 325.
+
+[28] (1993) 69 A Crim R 21 at 28.
+
+[29] (1994-1995) 183 CLR 58 at 66-67 and 69.
+
+[30] [2000] 2 NZLR 385 at [235].
+
+[31] Crimes Act 1961, s.169(2), see [2000] 2 NZLR 385 at [65]; now repealed, see Crimes (Provocation Repeal) Amendment Act 2009.
+
+[32] [1978] AC 705 at 717C-E.
+
+[33] Ibid. at 726C.
+
+[34] [2001] 1 AC 146 at 209H-210C.
+
+[35] [2005] 2 AC 580 at [11].
+
+[36] [2001] 1 AC 146 at 211G.
+
+[37] [2010] 3 S.C.R. 350 at [35].
+
+[38] [1986] 1 S.C.R. 313 at 324.
+
+[39] [2005] 2 AC 580 at [12].
+
+[40] [2001] 1 AC 146 at 198A (emphasis in original).
+
+[41] CA Judgment at [98].
+
+[42] Specimen Directions in Jury Trials – Direction 51, Provocation (Murder); issued September 2013.
+
+[43] The Court was informed this was the last version of this particular direction prior to the repeal of the statutory defence of provocation in England and Wales.
+
+[44] CACC 90/2013, unrep., Judgment dated 6 June 2014 (Stock VP, Barnes and McWalters JJ).
+
+[45] CACC 152/2014, unrep., Reasons for Judgment dated 4 May 2015 (Lunn VP, Macrae and McWalters JJA).
+
+[46] See paragraph [175(2)].
+
+[47] See pp.26-27 of the unreported judgment, at paragraphs [57]-[58].
+
+[48] At p.9.
+
+[49] At pp.136H-137A.
+
+[50] R v Walker [1969] 1 WLR 311 at 316D.
+
+[51] At p.933A-B.
+
+[52] At p.316E-F.
+
+[53] [1978] AC 705 at p.718E-F.
+
+[54] At p.137D.
+
+[55] At p.137H.
+
+[56] At pp.137H-138B.
+
+[57] At p.138B-C.
+
+[58] At pp.138C-D.
+
+[59] At p.234B-C.
+
+[60] At pp.312H-313A.
+
+[61] In CACC 393/2010.
+
+[62] At [61].
+
+[63] At [62].
+
+[64] At [67]-[70].
+
+[65] At p.649, Crimes Act 1900 (NSW) s.23:
+
+“(1) Where, on the trial of a person for murder, it appears that the act causing death was induced by the use of grossly insulting language, or gestures, on the part of the deceased, the jury may consider the provocation offered, as in the case of provocation by a blow.
+
+(2) Where, on any such trial, it appears that the act or omission causing death does not amount to murder, but does amount to manslaughter, the jury may acquit the accused of murder, and find him guilty of manslaughter, and he shall be liable to punishment accordingly:
+
+ Provided always that in no case shall the crime be reduced from murder to manslaughter, by reason of provocation, unless the jury find:
+
+(a) That such provocation was not intentionally caused by any word or act on the part of the accused;
+
+(b) That it was reasonably calculated to deprive an ordinary person of the power of self-control, and did in fact deprive the accused of such power, and
+
+(c) That the act causing death was done suddenly, in the heat of passion caused by such provocation, without intent to take life.”
+
+[66] At pp.639-640.
+
+[67] At p.67.
+
+[68] At pp.69-70.
+
+[69] At [131].
+
+[70] At p.67.
+
+[71] Crimes Act 1961, which materially provides:
+
+“169. Provocation –
+
+(1)  Culpable homicide that would otherwise be murder may be reduced to manslaughter if the person who caused the death did so under provocation.
+
+(2)  Anything done or said may be provocation if –
+
+(a)  In the circumstances of the case it was sufficient to deprive a person having the power of self-control of an ordinary person, but otherwise having the characteristics of the offender, of the power of self-control; and
+
+(b)  It did in fact deprive the offender of the power of self-control and thereby induced him to commit the act of homicide.
+
+(3)  Whether there is any evidence of provocation is a question of law.
+
+(4)  Whether, if there is evidence of provocation, the provocation was sufficient as aforesaid, and whether it did in fact deprive the offender of the power of self-control and thereby induced him to commit the act of homicide, are questions of fact.
+
+(5)  No one shall be held to give provocation to another by lawfully exercising any power conferred by law, or by doing anything which the offender incited him to do in order to provide the offender with an excuse for killing or doing bodily harm to any person.
+
+(6)  This section shall apply in any case where the provocation was given by the person killed, and also in any case where the offender, under provocation given by one person, by accident or mistake killed another person.
+
+(7)  The fact that by virtue of this section one party to a homicide has not been or is not liable to be convicted of murder shall not affect the question whether the homicide amounted to murder in the case of any other party to it.
+
+[72] At [136].
+
+ 
+
+ 

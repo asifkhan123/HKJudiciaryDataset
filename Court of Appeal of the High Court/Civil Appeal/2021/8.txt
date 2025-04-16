@@ -1,0 +1,274 @@
+CACV 6/2021
+
+[2022] HKCA 1457
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO. 6 OF 2021
+
+(ON APPEAL FROM HCSD 26 OF 2020)
+
+____________________
+
+BETWEEN	 	 
+ 	LING WAI HOI	Applicant
+ 	and	 
+ 	JETLAND GLOBAL INVESTMENTS LTD	Respondent
+____________________
+
+Before:	Hon Poon CJHC, Kwan VP and Chu JA in Court
+Date of hearing and judgment:	28 October 2021
+Date of Reasons for Judgment:	30 September 2022
+____________________
+
+REASONS FOR JUDGMENT
+
+____________________
+
+Hon Chu JA (giving the Reasons for Judgment of the Court):
+
+Introduction
+
+1.  This is the applicant’s appeal against the decision of Coleman J (“the Judge”) given on 24 December 2020 dismissing his application to set aside a statutory demand dated 2 April 2020 issued by the respondent.
+
+2.  The statutory demand is in respect of a debt in the amount of $15,095,000[1] comprising (i) $15,030,000, being the unpaid balance of the consideration under a sale and purchase of share agreement dated 20 June 2017; (ii) $50,000, being the stamp duty; and (iii) $15,000, being the legal costs for issuing the statutory demand.
+
+3.  The issue in this appeal is whether the Judge is correct in holding that the applicant failed to establish a bona fide dispute on substantial grounds in respect of his liability for the debt.
+
+4.  At the conclusion of the hearing, we dismissed the appeal with costs to the respondent. We set out below our reasons for judgment.   
+
+Background
+
+5.  The facts leading to the issue of the statutory demand can be stated as follows.
+
+6.  Between 2011 and 2016, the applicant (“Mr Ling”) was the sole shareholder of Help U Credit Ltd (“the Company”), a company that carries on the business of a licensed money lender. Mr Ling was also the sole director of the Company, but he ceased to be a director in around February 2020.
+
+7.  The respondent (“Jetland”) is a wholly owned subsidiary of China Investment and Finance Group Limited (“CIF”), which is a public company listed in Hong Kong. Ms Lee Kar Ying (“Ms Lee”) was a director of Jetland and CIF in around 2016 and 2017.
+
+8.  On 1 March 2016, Jetland, acting by Ms Lee, entered into a subscription agreement with the Company and another company, Crown Rise Enterprises Limited (“Crown Rise”). Under the subscription agreement, Jetland would subscribe for convertible notes in the amount of $50,000,000 to be issued by the Company.
+
+9.  On 31 March 2016, Jetland exercised the right to convert the convertible notes into shares of the Company. 41,666 shares in the Company (“the Shares”) were allotted and issued to Jetland on the same day.    
+
+10.  Jetland was provided with an appraisal report of the Shareholder Equity of the Company as at 31 March 2016 (“Appraisal Report”). The report was dated 1 April 2016. It was based on forecast figures provided by the Company, and it gave what the Judge described as “a rosy picture of the Company and its future”. It is not in dispute that the Company did not perform as forecast, and its money lender business underwent a decline between 2016 and 2017.      
+
+11.  By a resolution passed on 3 April 2017, the shareholders of the Company (i.e. Mr Ling, Jetland and Crown Rise) agreed to allot and issue 37,000 shares of the Company to China New Economy Fund Limited (“China New Economy”) for $19,000,000. The price of the shares was substantially lower than those allotted and issued to Jetland. 
+
+12.  By a share sale and purchase agreement dated 20 June 2017 (“SPA”) executed by Mr Ling and Ms Lee on behalf of Jetland, Mr Ling agreed to purchase the Shares from Jetland at the same price the Shares were sold to Jetland (i.e., $50,000,000). The instrument of transfer was executed on 22 June 2017, and Jetland transferred the Shares to Mr Ling on the same day. Jetland incurred stamp duty charges of $50,000.
+
+13.  The SPA refers to Mr Ling and Jetland as the “Buyer” and the “Seller” respectively. The provisions in the SPA that are relevant to the issues in this appeal include the following:
+
+(1)  Clause 1.2
+
+“The Seller agrees to assist the Buyer to perform business, financial and legal due diligence work on the Company together with its subsidiaries within 7 days from the date of this agreement, and the Buyer agrees to place a cash deposit of HK$15,000,000 to the Seller before commencing the due diligence work. Should there be any mistake, error and/or misconduct noted by the Buyer in the due diligence period, the Seller is required to fully refund the deposit to the Buyer within five (5) days from the notification made by the Buyer to the Seller. If there is no mistake, error or misconduct noted by the Buyer in the due diligence period, and the Buyer chooses not to continue the sale and purchase transaction, the Seller is entitled to forfeit the deposit, and the Buyer does not have any other liability to the Seller then.”
+
+(2)  Clause 1.3
+
+“As consideration and in exchange for the Shares, Buyer shall pay to Seller a consideration of HK$50,000,000 … in cash in the following manners:
+
+ 	HK$
+Deposit paid pursuant to Clause 1.2 above	23,000,000
+On or before 27 June 2018  	27,000,000”
+(3)  Clause 5.7
+
+“This Agreement represents the entire agreement between the parties relating to the subject matter hereof. This Agreement alone fully and completely expresses the agreement of the parties relating to the subject matter hereof. There are no other courses of dealing, understanding, agreements, representations or warranties, written or oral, except as set forth herein. This Agreement may not be amended or modified, except by a written agreement signed by all parties hereto.”
+
+14.  Mr Ling had made three payments to Jetland in the total amount of $34,970,000 as consideration for the Shares as follows:
+
+(1)  $23,050,000 was paid on 19 June 2017, of which $50,000 was the reimbursement for stamp duty;
+
+(2)  $2,670,000 was paid on 23 June 2017; and
+
+(3)  $9,250,000 was paid on 19 June 2018. 
+
+15.  It is Jetland’s case, which is disputed by Mr Ling, that its staff had made oral demands to Mr Ling for the payment of the outstanding balance of the consideration. There is, however, no dispute that Jetland had made written demands by an email dated 14 May 2019 and a solicitors’ letter dated 19 June 2019. It is also common ground that Mr Ling has not paid the balance of the consideration.
+
+16.  On 2 April 2020, Jetland issued the statutory demand to claim the sum of $15,095,000 (“the Sum”), which comprised the unpaid balance of the consideration, stamp duty and legal costs.  By his application dated 5 June 2020, Mr Ling applied to set aside the statutory demand.
+
+Mr Ling’s case
+
+17.  The crux of Mr Ling’s case is that he has entered into an arrangement (“the Arrangement”) with Ms Lee acting on behalf of Jetland, under which he agreed to buy back the Shares at 70% of the original price, namely at $35,000,000, and that while $50,000,000 was stated as the total consideration in the SPA, $15,000,000 of that amount (described as a cash deposit to be applied to and/or deducted from the second instalment, and said to have been reflected in clause 1.2 of the SPA) was to be paid by Jetland, CIF or their management, and not by Mr Ling himself.
+
+18.  Mr Ling also claimed that after paying $23,050,000 on 19 June 2017 (being the first instalment plus the stamp duty), he made two payments of $2,670,000 and $9,250,000 to Jetland on 23 June 2017 and 19 June 2018 respectively, pursuant to another arrangement (“the Early Payment Arrangement”).
+
+19.  According to Mr Ling, the Early Payment Arrangement came about as a result of Ms Lee’s request for early partial payment of the second instalment. Under the arrangement, it was agreed that (1) Mr Ling would make early payment of a sum of approximately $2,700,000 first and pay the remaining sum of $9,300,000 a year later; and (2) in return, the price at which Mr Ling purchased the Shares would be reduced by $80,000, of which $30,000 would be deducted from the $2,700,000 payment (i.e., $2,670,000) and $50,000 would be deducted from the $9,300,000 payment (i.e., $9,250,000). 
+
+20.  On the above factual basis, Mr Ling sought to challenge the Sum on the grounds of (1) promissory estoppel; (2) waiver by estoppel; and (3) fraudulent misrepresentation. It was said that as his case was inherently believable, the dispute should not be resolved summarily and there should be a full trial on the merits.
+
+Jetland’s case
+
+21.  Jetland denied there was the Arrangement or the Early Payment Arrangement. Its case, in a nutshell, is that there is no dispute that the parties had entered into a valid written agreement, and the defence is based on a collateral oral agreement which is wholly incredible, and in any event would have been entered without authority and could not bind Jetland. 
+
+22.  Specifically, Jetland argued that the Arrangement and the Early Payment Arrangement were factually unsustainable, being contrary to the express terms of the SPA, not supported by any documentary evidence and was only mentioned for the first time in the application to set aside the statutory demand.  Jetland also said that it is inconceivable that CIF or Jetland would have agreed to create a sham contract and deliberately mis-state the consideration in the SPA for the purpose of avoiding a loss of $15,000,000. Jetland explained that the reference to the cash deposit of $15,000,000 in clause 1.2 of the SPA was a typo, and it should instead have read $23,000,000, being the agreed first instalment.  Jetland further argued that, on Mr Ling’s case, the whole point of the Arrangement was that Ms Lee wanted to deceive Jetland (and CIF).  Mr Ling must know that Ms Lee had no authority to deceive her principal and thus could not possibly rely on any apparent authority of Ms Lee.    
+
+23.  Jetland submitted that, on the evidence, Mr Ling could not establish any clear representation or promise necessary to found either an estoppel by representation or a promissory estoppel, and there was no cogent evidence to advance a defence of fraudulent misrepresentation. It was also submitted that promissory estoppel and waiver by estoppel could not amount to valid defences in view of the entire agreement clause in clause 5.7 of the SPA, and the oral modification under the Early Payment Arrangement was further caught by clause 5.7 which prohibits oral modifications. 
+
+The Judge’s decision
+
+24.  The Judge heard the application. By his decision handed down on 24 December 2020, he held that Mr Ling failed to establish that there is a bona fide dispute on substantial grounds to the Sum and dismissed the application with costs. 
+
+25.  The Judge found the Arrangement incredible and that Mr Ling could not have thought that Ms Lee had authority to enter into the Arrangement.  His reasons are encapsulated in [69] to [75] of the Decision as follows:
+
+“69. … The Arrangement put forward by Mr Ling, namely that despite the total consideration being expressly stated as $50,000,000 in fact $15,000,000 of that amount was to be paid by the seller (Jetland) or its parent company (CIF) or their management seems to me to be simply incredible.
+
+70. I also agree with Mr Man’s analysis of the fundamental problem for Mr Ling arising from the fact that if the whole purpose of the SPA was somehow to deceive Jetland and CIF, he could not have thought that Ms Lee had authority to do that. Mr Man is correct when he points out that it can be no answer to that point that Ms Lee is said to have acted in collusion with, or at the direction of, other directors of Jetland. As he points out, the relevant principal of which Ms Lee was an agent is Jetland; directors are not agents of each other, either individually or as a board.
+
+71. Nor do I think the underlying premise of Mr Man’s submission is a false premise. Mr Ling’s own case rests upon the idea that there was a deliberate attempt to create a false document, so as to mislead any reader, be it Jetland and/or CIF, and its shareholders (including the investing public), its auditors and the regulators. To suggest that that was not a detriment to Jetland and/or CIF is unreal.
+
+72. Further, it is no answer to say that the $15,000,000 was supposed to be paid, albeit by someone other than Mr Ling. That is a falsity, as compared to what the SPA actually says. At the very least, the Arrangement gave rise to the significant risk of non-payment. There are also the points that the SPA was a carefully drafted written commercial agreement, which by virtue of its terms expressly stated that it was the relevant agreement, and the whole of the relevant agreement, by which Mr Ling agreed to buy back the Shares. As Mr Man submitted, this is not a case involving some handwritten ‘kitchen-table’ agreement made between non-commercial persons. Mr Ling is an experienced businessman, dealing with representatives of a subsidiary of a publicly listed company.
+
+73. As regards the point arising out of the suggested typo in clause 1.2 of the SPA, that does seem to be an obvious typo when the clause is read together with clause 1.3. I also note that if any discount had been applicable, logically it would have been applied to the first instalment and it makes little commercial sense to be applied to the second in the way Mr Ling suggests. These points add to my overall view.
+
+74. Though I do not think it necessary to engage in discussions about the commercial background, I also certainly do not think it can be said that there was no commercial rationale for Mr Ling to have agreed to buy back the Shares at the original price at which they had been sold by him. I see the possible argument from the other end of that consideration, but it does not seem to me to be relevant to the actual determination I need to make. In any event, the correct starting point is not to consider the background commercial circumstances, but to look at the express terms of the SPA. Ordinarily, once such a commercially drafted agreement has been made between commercially experienced parties, the court is not interested in nor needs to consider whether it was a good or a bad deal.
+
+75. On that basis, insofar as Mr Ling seeks to rely upon the Arrangement as demonstrating a bona fide dispute on substantial grounds, with sufficiently precise and believable evidence, he fails.”
+
+26.  The Judge considered that the position might be different in relation to the Early Payment Arrangement[2], as it appeared to be credible that Mr Ling would only have agreed to pay part of the second instalment a year earlier than was contractually due in return for some benefit such as a reduction in the overall amount, and it might be arguable that Jetland had waived the requirement that variations to the SPA had to be in writing.  The point about Ms Lee’ authority would also have no application as no deception was involved and it was logical to offer a slight discount for an early payment.  
+
+27.  Notwithstanding his view on the Early Payment Arrangement, the Judge did not consider it appropriate to set aside the statuary demand, noting that the amount on which there might be some bona fide argument was de minimis and that the apt way to deal with it was to ignore that sum in the statutory demand[3].
+
+The grounds of appeal
+
+28.  In this appeal, Mr Wong SC and Mr Lai (who did not appear below) raised two broad grounds of appeal on behalf of Mr Ling, namely:
+
+(1)       The Judge erred in failing to take into account the commercial background and a number of relevant facts in assessing the credibility of Mr Ling’s case; and
+
+(2)       The Judge erred in holding that Mr Ling could not have thought that Ms Lee had authority to agree to the Arrangement on behalf of Jetland.
+
+Ground (1): The credibility of Mr Ling’s case
+
+29.  The first ground of appeal is in essence a challenge to the Judge’s assessment of the credibility and sufficiency of the evidence put forward by Mr Ling to raise a bona fide dispute with regard to his case on the Arrangement.  The appeal court’s approach in this regard has been summarised in the judgment of Kwan VP in Re Cheung Kwan [2021] HKCA 282, at [31] to [33].  Even though the judge’s evaluation of evidence and findings of act were based on affidavit evidence and contemporaneous documents rather than oral evidence, the appeal court should be reluctant to interfere with the lower court’s evaluation of the evidence, unless it is demonstrated that the judge had fallen into palpable errors in the finding of fact. The appellate process is not designed to give a litigant a platform to repeat submissions made in the court below on the evidence and factual aspects in the hope of persuading the appeal court to come to a different view from the primary judge.
+
+30.  The primary argument of Mr Wong is that, in examining the credibility of Mr Ling’s case on the Arrangement, the Judge should not have used the express terms of the SPA as the starting point, and was wrong to brush aside the commercial circumstances since they are highly relevant to the inherent probability of the existence of the Arrangement.
+
+31.  In our view, the Judge is entitled to test the credibility of Mr Ling’s evidence against the indisputable documentary evidence, including the SPA, which is a commercially drafted agreement made between commercially experienced parties and there is no suggestion that it is a sham. While a party may, subject to any argument based on the entire agreement clause, contend that a document is not a complete record of the agreement between the parties and seek to adduce extrinsic evidence to prove the point, it is another matter to say that the document in question cannot be looked at to test the credibility and inherent probability of the assertion that it did not represent the full terms of what was discussed and agreed. We do not agree that the Judge erred in having regard to the express terms of the SPA when examining the credibility of Mr Ling’s case.
+
+32.  Mr Wong also referred to a number of factual matters which he said are relevant commercial background in support of the existence of the Arrangement. They include: (i) the purchase of the Shares by Jetland was an exercise of its right to convert its $50 million convertible notes and Mr Ling did not receive any part of the $50 million; (ii) the Appraisal Report, which the Judge had referred to, was issued on 1 April 2016 and had no apparent effect on Jetland’s decision to enter into the subscription agreement on 1 March 2016 or to exercise its right of conversion on 31 March 2016; and (iii) the forecast figures in the Appraisal Report were provided by the Company and not an act of Mr Ling in his personal capacity. Mr Wong submitted that the significance of these facts is that Mr Ling owed no duties to Jetland to buy back the Shares, and there is thus no commercial rationale for him to agree to buy back the Shares at the original price at which they were sold to Jetland.
+
+33.  Although the Judge did not think it was necessary to engage in discussions about the commercial background, he was of the view that it could not be said that there is no commercial rationale for Mr Ling to agree to buy back the Shares at the original price of $50 million. We agree. 
+
+34.  Importantly, Mr Ling was the sole shareholder (until 2016) and director of the Company. It is Ms Lee’s evidence that Mr Ling had represented to Jetland in around early 2016 that the Company had a huge growing potential so as to induce Jetland to subscribe for the Shares[4]. Not only is this part of Ms Lee’s evidence not disputed, it is also corroborated by the Appraisal Report. There is also no dispute that the Company’s business did not perform well nor as forecast, and Ms Lee had complained to Mr Ling about the decline in the Company’s business. These would have provided cogent commercial reason for Mr Ling to agree to buy back the Shares so as avoid claims from Jetland.
+
+35.  Mr Wong also criticised Ms Lee’s evidence that Mr Ling agreed to purchase the Shares at the original price of $50 million in exchange of Jetland’s consent to the placing of new shares of the Company to China New Economy as highly unsatisfactory. It was said that Mr Ling retained control of the Company both at the board level and shareholders level, and did not need Jetland’s consent to the placement. It was also said that, in any event, all the shareholders of the Company, including Jetland, had consented to the issue and allotment of new shares on 3 April 2017, which was well before the signing of the SPA on 12 June 2017.  Mr Wong submitted that this demonstrates Jetland’s failure to put forward a viable commercial rationale for Mr Ling’s agreement to buy back the Shares at $50 million.
+
+36.  The argument that Mr Ling did not need Jetland’s consent to the placement of new shares is a new point raised for the first time on appeal, and not supported by any factual evidence. In any event, as pointed out by Mr Man SC, who together with Mr Ng appeared for Jetland, an inference can be drawn from the shareholders’ resolution dated 3 April 2017 providing for the waiver of “all provisions of the Company’s Articles of Associations that might otherwise prohibit or restrict the allotment and issue of shares or require compliance of any condition”, that shareholders’ approval was required due to the restrictions in the Company’s Articles of Association.
+
+37.  As to the timing of the shareholders’ resolution, it is also relevant to have regard to Ms Lee’s evidence[5].  According to her, in March 2017 she was informed by Mr Ling of the Company’s plan to allot and issue shares to China New Economy at a subscription price that was significantly lower than what Jetland had paid. This led to concerns about the business forecasts previously provided to Jetland and questions over whether Jetland was misled into investing in the Company.  All these in turn led to negotiation over the buying back of the Shares, which took place at the same time as the negotiations over the allotment to China New Economy.  Thus viewed, the fact that Jetland had consented to the allotment of new shares to China New Economy before the signing of the SPA does not contradict Jetland’s case.
+
+38.  Mr Wong also submitted that the Judge erred in accepting Jetland’s explanation that the reference to $15 million in clause 1.2 of the SPA was a typo. It was said that he should have considered the inherent improbabilities of (1) Jetland making such typo if there had never been any discussion that $15 million would be borne by Jetland’s own management; and (2) the payments made by Mr Ling (i.e., $34,970,000) tallied with the total consideration payable under the Arrangement. We do not accept this submission.
+
+39.  The Judge  considered that[6], as a matter of construction, the reference to $15 million in clause 1.2 was obviously a typo when the clause was read together with clause 1.3, which provided that the consideration for the Shares was $50 million cash and it was to be paid by two instalments of $23 million and $27 million.  He also considered that if a discount was to be applied, it would logically have been applied to the first instalment and it made little commercial sense to apply it to the second instalment in the way suggested by Mr Ling. 
+
+40.  We discern no error in the Judge’s reasoning and finding on the point.  We also do not agree that the inherent improbabilities argued by Mr Wong shows the Judge’s conclusion on the point to be faulty.  Mr Man made the point, which we agree, that if the whole point of the Arrangement was to prevent an impairment in CIF’s financial report and to mask the price at which the Shares were to be bought back, it would be more probable than not that care would be taken to avoid making reference to the $15 million in the SPA, or in any way hinting or suggesting that the Shares were bought by Mr Ling at $35 million.       
+
+41.  The final point Mr Wong made under this ground is that the Judge did not address Jetland’s delay in demanding payment of the outstanding consideration. He submitted that it was hotly contested whether Jetland had made oral demands for payment before the first written demand in May 2019, and the WhatsApp record produced by Mr Deng Zichao, Jetland’s vice-president, did not show any demands being made.
+
+42.  We see no substance in this complaint. The Judge was aware of the dispute over whether Jetland had made any demands for the outstanding consideration prior to May 2019[7]. In our view, the importance of the point lies not so much in when Jetland started to chase for the payment of the outstanding consideration, but in the indisputable fact that Mr Ling completely failed to respond to any of the formal demands made by Jetland in May and June 2019. He did not, for instance, dispute the claim by referring to the Arrangement or otherwise. Far from advancing his case, the point about Jetland’s demand for payment in fact adds to the incredulous nature of Mr Ling’s case.
+
+43.  For these reasons, we had rejected the 1st ground of appeal.
+
+Ground (2): Ms Lee’s authority
+
+44.  The second ground of appeal is directed at the Judge’s finding that Ms Lee did not have authority to enter into the Arrangement on behalf of Jetland and that Mr Ling could not have thought that she had authority to do so. Mr Wong submitted that Mr Ling was entitled to rely on Ms Lee’s apparent authority unless he had actual knowledge of her lack of actual authority, relying on the case of Thanakharn Kasikorn Thai Chamkat (Mahachon) v Akai Holdings Ltd (No 2) (2010) 13 HKCFAR 479.     
+
+45.  In Akai Holdings Ltd (No 2) at [44], the Court of Final Appeal referred to the oft-cited passage in Freeman & Lockyer v Buckhurst Park Properties (Mangal) Ltd [1964] 2 QB 480 at 506, where Diplock LJ identified four conditions that have to be satisfied before a third party can enforce a contract against a company entered into by a purported agent with no actual authority. The first two conditions, which are relevant to the present appeal, require: (i) the existence of a representation that the agent has authority to enter on behalf of the company into a contract of the kind sought to be enforced, and (ii) such representation to be made by someone who has actual authority to manage the business of the company either generally or in respect of those matters to which the contract relates.
+
+46.  In the present case, there is no evidence of any representation by Jetland as to Ms Lee’s authority to enter into the Arrangement on behalf of Jetland.  Mr Wong argued that Ms Lee was a director of Jetland and CIF and she had all along been the person acting on behalf of Jetland in handling the securities of the Company, including signing the Subscription Agreement for convertible bonds and the conversion notice for the Shares, and negotiating the SPA. However, these previous incidents involved Ms Lee signing documents that were true and correct. They do not support a representation that she had authority to enter into the Arrangement, the effect of which was the creation of a document (i.e., the SPA) that was untrue or misleading to its readers and detrimental to Jetland’s interest. 
+
+47.  Mr Wong argued that Jetland could not be said to be a victim of, or was harmed by, the Arrangement or that Mr Ling knew or believed this was the case. It was said that Mr Ling was under no obligation to buy back the Shares and the Arrangement was to help Jetland or CIF to address their cashflow issues and to avoid impairment of their financial report.  It was further argued that the Arrangement caused no harm to Jetland as the $15 million shortfall would be settled by the management of Jetland or CIF, and there is no evidence to suggest that the management had no intention or ability to meet the shortfall, or that Mr Ling knew of their lack of intention or ability to make the payment.  
+
+48.  Mr Wong’s arguments have missed the focus of the issue.  Indisputably, on Mr Ling’s case, the Arrangement was to create a false document to mislead its readers, including Jetland’s shareholders and auditors. This must be detrimental to the interest of Jetland. The Arrangement was said to cover up a loss in Jetland or CIF and to create a false impression of their financial position.  Irrespective of whether Jetland could be said to be a victim or had suffered any harm, the Arrangement was something that Ms Lee could not have authority to do.  It is also irrelevant whether the management of Jetland or CIF could pay for the $15 million difference.  As the Judge rightly held[8], it is still a falsity in light of what was actually said in the SPA.  The falsity created by the Arrangement is something outwith Ms Lee’s authority. Clearly, she could not have actual authority to enter into the Arrangement to deceive Jetland or CIF.        
+
+49.  Furthermore, Mr Ling must have known that Ms Lee could not have actual authority to enter into the Arrangement to deceive Jetland or CIF.  It was held in Akai Holdings Ltd (No 2), at [49] to [62] that a third party may rely on an agent’s apparent authority (if he had such authority) but not when his belief in that connection is dishonest or irrational, which includes turning a blind eye and being reckless. In the present case, it was not open to Mr Ling to rely on Ms Lee’s apparent authority, not only because Ms Lee did not have actual authority, but also because his belief that she had authority would be, to say the least, reckless or amounting to turning a blind eye.
+
+50.  In short, the Judge did not err in finding that the Arrangement, even if credible, could not bind Jetland for want of authority.  The second ground of appeal has no merits.
+
+The Respondent’s Notice
+
+51.  The Respondent’s Notice seeks to support the Judge’s decision on the additional ground that the Arrangement has no legal effect by reason of the entire agreement clause in clause 5.7 of the SPA.
+
+52.  In view of our rejection of Mr Ling’s grounds of appeal, it is not necessary for us to consider and discuss whether the entire agreement clause has the effect of precluding the applicant from relying on the Arrangement. 
+
+Conclusion and disposition
+
+53.  For these reasons, we had dismissed the appeal with costs to Jetland, to be taxed if not agreed.
+
+Other matters
+
+54.  Before leaving this judgment, we would like to say a few words about the Judge’s obiter dicta in section H of his decision. In [80] to [88], the Judge discussed whether the court has power to set aside a statutory demand conditionally.  He concluded that the court should have the power to do so for three reasons.  First, it would be preferable for the court to have the power in cases where it is satisfied that there is a bona fide dispute of substance but thinks the substance gives rise only to a “shadowy” defence.  Second, as a matter of case management, where the dispute is pursued by a writ action, the imposition of conditions on setting aside a statutory demand would avoid duplication and wastage of time and costs caused by a summary judgment application brought in the hope that leave to defend would be granted on conditions.  Third, Order 1B rules 1(2)(l) and 1(3) of the Rules of the High Court, Cap. 4A (“RHC”) give the court appropriate management powers to impose conditions upon setting aside a statutory demand.  The Judge further expressed the view that had he been persuaded that there was reason for the dispute in this case to go to trial in a writ action, he would have imposed a condition that the sum of $15 million be paid into court.
+
+55.  Although the Judge’s view is obiter and the point is not engaged in this appeal, given that it concerns the jurisdiction of the court in bankruptcy proceedings and therefore is of some importance, we had invited counsel to make submissions on it. Having heard counsel and considered the point further, we respectfully disagree with the Judge and take the view that the court cannot set aside a statutory demand conditionally on the sum claimed, or part of it, being paid into court pending the determination of the debtor’s liability in another action. Our reasons are as follows.
+
+56.  Firstly, as a matter of principle, the statutory demand procedure under rule 48(5) of the Bankruptcy Rules, Cap 6A (“BR”) is a process for establishing whether a debtor should be treated as unable to pay a debt immediately payable. The court in deciding whether to set aside or refuse to set aside a statutory demand, is not called upon to decide and has no jurisdiction to determine whether the debt claimed to be due is in fact due. The issue for the court is whether on the evidence the claim appears to be plainly established as to justify the bankruptcy petition: Re a Debtor No. 32 of 1991 (No. 2) [1994] BCC 524 at 531B-C.  The court’s jurisdiction in an application to set aside a statutory demand is thus not comparable to the summary jurisdiction under an Order 14 application. 
+
+57.  Another essential difference is that, unlike summary judgment proceedings, the statutory demand procedure is not a process for securing judgment.  Nor is it meant to be used for the purpose of debt collection, and the court must not allow the procedure to be used to exert pressure on a debtor to pay a debt, the liability for which is not established by judgment and which is disputed. It is also pertinent to note that under rule 48(7) of the BR, if the application to set aside the statutory demand fails, the court is positively required to authorize the creditor to present a bankruptcy petition.  In these circumstances, what rule 48(5) contemplates must be a definitive rather than a conditional outcome: Re a Debtor No. 90 of 1992 [1993] TLR 387, per Knox J; and Re a Debtor No. 32 of 1991 (No. 2), supra, at 527A-C, per Vinelott J[9].  Either the court is satisfied that there is a bona fide dispute on the debt, in which case the statutory demand must be set aside, or the court is confident that the liability for the debt cannot be genuinely disputed, in which case the statutory demand will be upheld. This accords with the established principle that the bankruptcy jurisdiction of the court should only be exercised in clear cases: Re Leung Cherng Jiunn [2016] 1 HKLRD 850 at [27(5)]. It follows from the analysis above that there is no scope for setting aside a statutory demand on a conditional basis.      
+
+58.  Secondly, while the test for setting aside a statutory demand under rule 48(5)(b) bears some analogy to that which would apply in application for summary judgment under Order 14 rule 3 of the RHC, the two tests are not identical.  Similar to an Order 14 application, it is not enough for an applicant seeking to set aside a statutory demand merely to assert the existence of a dispute or the existence of a counterclaim, set-off or cross-claim. The court has to assess whether the evidence adduced by the applicant is believable in the sense of being capable of belief.  But, in contrast to an Order 14 application where the defendant needs only establish a fair probability of a defence, rule 48(5)(b) expressly requires that a substantial defence, meaning a defence of substance, has to be shown by the applicant.  Accordingly, the burden that the applicant bears is higher than that of a defendant opposing an Order 14 application. 
+
+59.  In Re ICS Computer Distribution [1996] 3 HKC 440 at 443, Rogers J (as Rogers VP then was), refused to apply the Order 14 test to a dispute on substantial grounds, holding that "The analogy with O. 14 breaks down in a number of respects. As Oliver LJ said in the Claybridge case the analogy may be fair for many purposes but is not perfect  ..."  He explained (at 444):
+
+"Importantly for this case there is a distinction between a consideration of whether the company has established a defence on substantial grounds and a consideration of whether the evidence is believable. Taken to the ultimate, the difference is between whether there is evidence and whether that evidence is believable. It seems to me that the onus must be on the company against which a petition is presented to adduce sufficiently precise factual evidence to satisfy the court that it has a bona fide dispute on substantial grounds." (emphasis added)
+
+60.  In Re Leung Cherng Jiunn, supra, at [27], Kwan JA (as Kwan VP then was), after considering Re ICS Computer Distribution and the cases that followed it[10] and another line of cases which held that the test for opposing a bankruptcy petition should be no more stringent than that applied to an application for summary judgment[11], concluded that the two tests involved different considerations in respect of the evidence, and the threshold test for resisting a petition would require a higher standard.  It was also pointed out that, if a petition is dismissed on the basis that there is a bona fide dispute on substantial grounds, it would be most unlikely that summary judgment could be obtained.  
+
+61.  In light of the higher threshold required to set aside a statutory demand, there will be no grey area such as that which exists in Order 14 proceedings where the defence is shadowy, and no justifiable basis for making a conditional setting aside order.
+
+62.  Thirdly, as to Mr Man’s submission, both before this Court and the Judge, that the court has jurisdiction under Order 1B rule 1 of the RHC to impose conditions on setting aside a statutory demand, we do not think this can be made out upon analysis of the relevant statutory provisions and in light of the nature of the statutory demand procedure and the court’s power discussed above. 
+
+63.  One begins with rules 44 to 49 of the BR which set out the procedure for issuing, serving, and challenging a statutory demand. These rules were enacted under section 113 of the Bankruptcy Ordinance, Cap 6 (“the Ordinance”). Rule 48(5), which provides for the power to set aside a statutory demand, does not provide for any power to impose conditions when setting aside a statutory demand. It follows that the court would not have any jurisdiction to set aside a statutory demand conditionally unless the jurisdiction to do so could be founded on some other basis.
+
+64.  Under Order 1B rule 1(3) of the RHC, when the court makes an order, it may make it subject to conditions, including a condition to pay a sum of money into court, and specify the consequences of failure to comply with the order or a condition.  The question is whether the rule may provide the court with jurisdiction to impose conditions when setting aside a statutory demand.
+
+65.  In this regard, Order 1 rule 2(1) of the RHC provides that the RHC shall not have effect in relation to bankruptcy proceedings. Section 99(1) of the Ordinance further provides that:
+
+“The rules and practice of the High Court for the time being for regulating the ordinary civil procedure of the court shall, so far as the same may be applicable and not inconsistent with the provisions of this Ordinance, be applied to bankruptcy proceedings, and every order of the court made in connexion with bankruptcy proceedings may be enforced in the same way as a judgment of the court made in respect of any other civil proceedings may be enforced.”
+
+66.  Accordingly, generally speaking, the Ordinance and the BR together provide a code governing the bankruptcy proceedings and procedures. However, the RHC may apply to bankruptcy proceedings, including applications to set aside statutory demands, but this is only when the provisions are applicable and not inconsistent with the provisions of the Ordinance or the BR.
+
+67.  Having regard to the nature of the statutory demand procedure under rule 48 and the extent of the court’s power in the process as discussed above, there is no room for the application of Order 1B rule 1(3) of the RHC so as to give the court jurisdiction to impose conditions on setting aside a statutory demand. A conditional setting aside order is also inconsistent with the statutory scheme under the BR. 
+
+68.  In addition, we note that in contrast to the rules governing an application to set aside a statutory demand, section 9(5) of the Ordinance expressly authorises the court, when hearing a bankruptcy petition, to order the debtor to provide security for payment to the petitioner of any debt which may be established against him. The fact that rule 48 of the BR does not provide for such power fortifies our view that the rule does not contemplate a midway alternative for a statutory demand to be set aside on terms and Order 1B rule 1(3) cannot be applied to give the court jurisdiction to make a conditional setting aside order.
+
+ 
+
+ 
+
+(Jeremy Poon)
+Chief Judge
+of the High Court	(Susan Kwan)
+Vice President	(Carlye Chu)
+Justice of Appeal
+  
+
+Mr Anson Wong SC and Mr Adrian Lai instructed by Francis Kong & Co for the applicant.
+
+Mr Bernard Man SC and Mr Jonathan Ng instructed by Titus for the respondent.
+
+
+[1] All references in dollar sum are denominated in Hong Kong dollars.
+
+[2]Decision, at [76] to [78]
+
+[3]Decision, at [79]
+
+[4] 2nd Affirmation of Lee Kar Ying, at [5]-[6]
+
+[5] 2nd Affirmation of Lee Kar Ying, at [8] to [13]
+
+[6] Decision, at [73]
+
+[7] Decision, at [36], [37] and [52]
+
+[8] Decision, at [72]
+
+[9] cf Re a Debtor No. 517 of 1991 [1991] TLR 534, per Ferris J. In the UK, there are conflicting first instance decisions on whether a statutory demand can be set aside conditionally, but the balance of authority is now in favour of the view that a statutory demand cannot be set aside conditionally: Muir Hunter on Personal Insolvency, at 7A-138.9.
+
+[10] Re Grandfield Pacific Hotel Ltd, HCCW 29/2001, 3 January 2002, at [11]; Re Malcolm Westley Casselle, at [24]; Re Ip Pui Man Nina [2011] 3 HKLRD 299 at [66] to [67]; and Chan Ping Lam Waymond v Noble Art Limited, CACV 270/2012, 30 September 2013, at [8] to [10]
+
+[11] Markham v Karsten [2007] BPIR 1109 at [44] and [45]; and Ross v Revenue and Customs Commissioners [2010] 2 All ER 126 at [66]
+
+ 
+

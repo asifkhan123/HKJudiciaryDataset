@@ -1,0 +1,410 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No. 3 of 2019
+
+[2019] HKCFA 37
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 3 OF 2019 (CRIMINAL)
+
+(ON APPEAL FROM CAQL NO. 1 OF 2018)
+
+_________________________
+
+BETWEEN	 	 
+HKSAR	Respondent
+and	
+MAK WAN LING (麥允齡) (D3)	Appellant
+_________________________
+
+Before:	Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Cheung PJ and Lord Reed NPJ
+Date of Hearing:	5 September 2019
+Date of Judgment:	18 October 2019
+________________________
+
+JUDGMENT
+
+________________________
+
+Chief Justice Ma and Mr Justice Ribeiro PJ:
+
+1.  The appellant is a registered medical practitioner and was indicted for gross negligence manslaughter (“GNM”).  The prosecution alleged that she had administered to her patient a highly contaminated blood product produced and marketed by two co-defendants, causing the patient’s death.  Her co-defendants were convicted after trial but the jury was unable to reach a verdict in the appellant’s case, resulting in an order for her retrial.  The retrial has yet to take place, awaiting the outcome of the present appeal.
+
+A.     The issue in this appeal
+
+2.  This appeal arises out of a ruling by Barnes J[1]regarding the essential elements of the offence of GNM in determining a preliminary issue for the purposes of the retrial.  Her Ladyship reserved the question of law concerned for the Court of Appeal’s consideration[2]and the appellant appeals from their Lordships’ judgment[3]on that preliminary issue.  The Court of Appeal certified, and the Appeal Committee[4]granted leave to appeal to this Court on, the question formulated as follows:
+
+“In the offence of manslaughter by gross negligence, should the gross negligence referred to in the last element of the offence as enunciated in R v Adomako [1995] 1 AC 171, namely ‘the breach of the duty by the defendant being capable of being characterised as gross negligence and therefore a crime’ be proved based on the objective reasonable man test only or that in addition to the objective reasonable man test, the prosecution is also required to prove that the defendant’s subjective state of mind was culpable in that the defendant was subjectively aware of the obvious and serious risk of death to the deceased?”
+
+B.     The rulings in the Courts below
+
+3.  Barnes J referred to the essential ingredients of GNM as laid down by the House of Lords in R v Adomako[5] and held that the position in Hong Kong differs in relation to the element consisting of the requirement that the defendant’s breach of duty must amount to gross negligence.  Adhering to her earlier ruling in HKSAR v Lai Shui Yin,[6]she held:
+
+“... that the test as to what amount [sic] to gross negligence is not just an objective reasonable man test (as in the case of Adomako, which was adopted in the subsequent case of R v Misra [2005] 1 Cr App R 328 in the UK), but that the prosecution must prove that the defendant’s subjective state of mind was culpable before the defendant can be found guilty of the offence.”[7]
+
+4.  Her Ladyship arrived at that conclusion mainly on the basis of her reading of this Court’s decision in Sin Kam Wah v HKSAR[8] to which we shall return.
+
+5.  In a carefully reasoned judgment, Macrae VP, writing for the Court of Appeal, reversed Barnes J’s decision.  Having considered the law on GNM in Hong Kong, England and Wales, Australia and Canada, as well as issues of legal policy, his Lordship concluded that there was no basis for the law in Hong Kong to follow a different course.
+
+C.     The law relating to GNM
+
+C.1   The law in England and Wales 
+
+6.  Since the certified question relates specifically to Adomako; it is convenient to begin by looking at the law in England and Wales.  There, it is settled that the offence of GNM has four principal elements so that the prosecution is required to prove (i) the existence of a duty of care on the part of the accused vis-à-vis the deceased; (ii) that such duty was breached; (iii) that the breach caused the death of the deceased; and (iv) that the accused’s conduct involved gross negligence.  As indicated in the certified question, the present debate centres on the fourth ingredient: What must the prosecution prove to establish “gross negligence”?
+
+7.  The law has evolved over the last century principally involving three leading authorities. The first is the judgment of the English Court of Criminal Appeal in R v Bateman,[9]a case in which a doctor was charged after his patient died as a result of his delivery of her child.  Hewart LCJ explained that criminal liability for manslaughter by gross negligence shared the same elements of duty, breach and causation required to prove negligence in civil cases but entailed the added requirement that the jury be satisfied that the accused’s negligence “amounted to a crime”.[10] His Lordship stated:
+
+“To support an indictment for manslaughter the prosecution must prove the matters necessary to establish civil liability (except pecuniary loss), and, in addition, must satisfy the jury that the negligence or incompetence of the accused went beyond a mere matter of compensation and showed such disregard for the life and safety of others as to amount to a crime against the State and conduct deserving punishment.”[11]
+
+8.  It is understandable that one might think that a direction along those lines does not give sufficient guidance to the jury regarding the additional element that is needed to attach criminal liability: How are they to decide whether the negligence “went beyond a mere matter of compensation” and amounted to “a crime against the State and conduct deserving punishment”? 
+
+9.  Perhaps more helpful was Hewart LCJ’s statement that “[in] a criminal Court ... the amount and degree of negligence are the determining question.”[12] It was, in other words, for the jury to assess just how bad the negligence was and to convict only if it was of a particularly high degree. 
+
+10.  However, his Lordship added: “There must be mens rea.”[13] This, together with his statement that the prosecution must prove that the accused “showed such disregard for the life and safety of others ...”, gave rise to debate as to whether the fourth element of the offence requires proof not merely of a substantial departure from an objective minimum standard of care, but also a subjective awareness on the accused’s part of the risks to “the life and safety of others” created by his conduct.  That is of course the issue that this Court is asked to determine in the present case.
+
+11.  Some of the abovementioned difficulties were recognised by the House of Lords in the second leading authority, Andrews v Director of Public Prosecutions,[14]a motor manslaughter case.  In his speech, with which the other Law Lords concurred, Lord Atkin began his analysis of the law by observing that the crime of manslaughter involved difficulties of definition, particularly in the case of involuntary manslaughter which had to identify the element of “unlawfulness”, this being “the elusive factor”.[15]Regarding Bateman,Lord Atkin commented:
+
+“I do not myself find the connotations of mens rea helpful in distinguishing between degrees of negligence, nor do the ideas of crime and punishment in themselves carry a jury much further in deciding whether in a particular case the degree of negligence shown is a crime and deserves punishment. But the substance of the judgment is most valuable, and in my opinion is correct.”[16]
+
+12.  His Lordship focussed on the elevated degree of negligence required, stating:
+
+“Simple lack of care such as will constitute civil liability is not enough: for purposes of the criminal law there are degrees of negligence: and a very high degree of negligence is required to be proved before the felony is established. Probably of all the epithets that can be applied ‘reckless’ most nearly covers the case.”[17]
+
+13.  This provided welcome clarification although, as we shall see, his use of the word “reckless” has required further explanation.  It is worth noting that Lord Atkin was concerned to address possible overlaps and differences in the constituents of GNM when placed alongside the then newly-minted statutory offences in the Road Traffic Act 1930 which posited different degrees of negligence for offences such as driving without due care and attention, driving recklessly or at a speed or in a manner dangerous to the public.[18] His Lordship stated:
+
+“...in directing the jury in a case of manslaughter the judge should in the first instance charge them substantially in accordance with the general law, that is, requiring the high degree of negligence indicated in Bateman's case and then explain that such degree of negligence is not necessarily the same as that which is required for the offence of dangerous driving, and then indicate to them the conditions under which they might acquit of manslaughter and convict of dangerous driving.”[19]
+
+14.  After Andrews, a body of case-law grew up, examining the meaning of “recklessness” as an ingredient of certain statutory offences including, in the House of Lords, Commissioner of Police of The Metropolis v Caldwell[20] (concerning arson with intention or being reckless as to whether property would be damaged or destroyed);[21]and R v Lawrence (Stephen)[22] (regarding causing death by reckless driving).[23] These are not of direct relevance to the present discussion.[24] 
+
+15.  There was also an attempt by the Court of Appeal in a consolidated appeal in R v Prentice, R v Adomako and two other cases,[25]to devise a somewhat elaborate scheme setting out different states of mind in the defendant which would justify a finding of gross negligence.[26] That scheme, however, did not find favour and was overtaken by the decision in Adomako[27] in the House of Lords which sought to simplify the law.
+
+16.  In Adomako, an anaesthetist was charged with GNM, the prosecution alleging that during an operation, despite warning signs, he had failed to notice that a tube had become disconnected, depriving the patient of oxygen and resulting in the patient’s death.  Lord Mackay of Clashfern LC (with whom the other Law Lords agreed) endorsed the approach in Bateman and Andrews, and formulated the ingredients of GNM as follows:
+
+“... in my opinion the ordinary principles of the law of negligence apply to ascertain whether or not the defendant has been in breach of a duty of care towards the victim who has died. If such breach of duty is established the next question is whether that breach of duty caused the death of the victim. If so, the jury must go on to consider whether that breach of duty should be characterised as gross negligence and therefore as a crime. This will depend on the seriousness of the breach of duty committed by the defendant in all the circumstances in which the defendant was placed when it occurred. The jury will have to consider whether the extent to which the defendant's conduct departed from the proper standard of care incumbent upon him, involving as it must have done a risk of death to the patient, was such that it should be judged criminal.
+
+It is true that to a certain extent this involves an element of circularity, but in this branch of the law I do not believe that is fatal to its being correct as a test of how far conduct must depart from accepted standards to be characterised as criminal. This is necessarily a question of degree and an attempt to specify that degree more closely is I think likely to achieve only a spurious precision. The essence of the matter which is supremely a jury question is whether having regard to the risk of death involved, the conduct of the defendant was so bad in all the circumstances as to amount in their judgment to a criminal act or omission.”[28]
+
+17.  Referring to Lord Atkin’s use of the word “reckless”, Lord Mackay commented:
+
+“I consider it perfectly appropriate that the word ‘reckless’ should be used in cases of involuntary manslaughter, but as Lord Atkin put it ‘in the ordinary connotation of that word.’”[29]
+
+18.  The law so enunciated has since been regarded as authoritative in England and Wales.  As appears from the passages cited above,[30]after reiterating the essential elements of GNM comprising duty, breach and causation of death, Lord Mackay explains that the requirement that the negligence be “gross” constitutes the “test of how far conduct must depart from accepted standards to be characterised as criminal”, that being “necessarily a question of degree”.  He observed that “whether that breach of duty should be characterised as gross negligence and therefore as a crime ... will depend on the seriousness of the breach of duty committed by the defendant in all the circumstances in which the defendant was placed when it occurred.”
+
+19.  His Lordship makes it clear that this is a question for the jury who, looking at all the circumstances, “have to consider whether the extent to which the defendant's conduct departed from the proper standard of care incumbent upon him, involving as it must have done a risk of death to the patient, was such that it should be judged criminal”.  He disowned any attempt to specify the required degree more closely as an attempt could only achieve a spurious precision, it being “supremely a jury question” as to “whether having regard to the risk of death involved, the conduct of the defendant was so bad in all the circumstances as to amount in their judgment to a criminal act or omission”. 
+
+20.  Adomako therefore applies an objective test for gross negligence by reference to a standard of care, the jury being charged with assessing the extent by which the conduct of the accused fell short.  It was against this background that use by Lord Atkin of the term “reckless” in Andrews – “in the ordinary connotation of that word” – should be understood.
+
+21.  Use of “recklessness” in this context was explained by Rose LJ in AG’s Reference (No 2 of 1999),[31]as follows:
+
+“Although there may be cases where the defendant's state of mind is relevant to the jury's consideration when assessing the grossness and criminality of his conduct, evidence of his state of mind is not a prerequisite to a conviction for manslaughter by gross negligence. The Adomako test is objective, but a defendant who is reckless as defined in Reg v Stone [1977] QB 354 may well be the more readily found to be grossly negligent to a criminal degree.”
+
+22.  This was endorsed in the Divisional Court by Buxton LJ in R v DPP Ex p Jones,[32]in the following terms:
+
+“The law is, therefore, quite clear. If the accused is subjectively reckless, then that may be taken into account by the jury as a strong factor demonstrating that his negligence was criminal, but negligence will still be criminal in the absence of any recklessness if on an objective basis the defendant demonstrated what, for instance, Lord Mackay quoted the Court of Appeal in Adomako as describing (page 183C) as: ‘… failure to advert to a serious risk going beyond mere inadvertence in respect of an obvious and important matter which the defendant's duty demanded he should address …’”
+
+23.  In R v Misra and Srivastava,[33]Judge LJ, writing for the Court of Appeal, applied Adomako as explained above and confirmed that the relevant risk was the risk of causing death:
+
+“... where the issue of risk is engaged, Adomako demonstrates, and it is now clearly established, that it relates to the risk of death, and is not sufficiently satisfied by the risk of bodily injury or injury to health. In short, the offence requires gross negligence in circumstances where what is at risk is the life of an individual to whom the defendant owes a duty of care. As such it serves to protect his or her right to life.”[34]
+
+C.2   The law in Hong Kong
+
+24.  The definition of the offence of GNM as developed in England and Wales has generally been taken to represent the common law applicable in Hong Kong.  Thus, in The Queen v Kong Cheuk Kwan,[35]a case involving a hydrofoil collision heard just before Adomako was decided, Lord Roskill stated: “Their Lordships are of the view that the present state of the relevant law in England and Wales and thus in Hong Kong is clear.”
+
+25.  Since Adomako was handed down, it has been applied in the Court of Appeal in Hong Kong.  Thus it was relied on by Stock VP in Secretary for Justice v Law Siu Kuen,[36]a sentence review in a motor manslaughter case, for the purpose of establishing that a very high degree of negligence is involved in the offence.  And in HKSAR v Ngai Hon Kwong,[37]an appeal against a murder conviction succeeded on the footing that the trial judge had erroneously failed to leave to the jury GNM as a possible alternative verdict. McWalters JA (writing for the Court) followed Adomako in identifying the essential ingredients of GNM.
+
+26.  Accordingly, subject to determination of the issue raised on this appeal, the law as it stands in England and Wales described above represents the law on GNM applicable in Hong Kong as part of the common law.
+
+27.  It may also be noted that, so far as the fourth “gross negligence” element of the offence is concerned, the objective test is embraced by the Supreme Court of Canada[38]and the High Court of Australia[39]where attempts to persuade those tribunals to jettison that test have failed.
+
+D.     Should the law in Hong Kong depart from the objective test?
+
+28.  Mr Peter Duncan SC, appearing[40]for the appellant, submits that the law in this jurisdiction should eschew the objective approach to establishing gross negligence.  As reflected in the certified question, he submits that the Court should hold that “in addition to the objective reasonable man test, the prosecution is also required to prove that the defendant’s subjective state of mind was culpable in that the defendant was subjectively aware of the obvious and serious risk of death to the deceased”.  This is in substance a submission that the offence of manslaughter by negligence should be transformed into an offence of manslaughter by recklessness in the sense of requiring a subjective recklessness as to the risk involved:[41]that no one should be convicted of GNM unless he or she proceeded with the conduct causing death while aware of an obvious and serious risk of causing death.
+
+29.  Two main propositions are advanced in support of that submission.  The first is that the definition of the offence is objectionably “circular”.  The second, comprising related arguments regarding culpability, is that it is unacceptable in principle and contrary to authority that liability for an offence as serious as manslaughter should rest on an objective test rather than on proof of the accused’s awareness of the risk of causing death.
+
+D.1   The circularity argument
+
+30.  A similar argument was advanced in Adomako:
+
+“... [Counsel] criticised the concept of gross negligence which was the basis of the judgment of the Court of Appeal submitting that its formulation involved circularity, the jury being told in effect to convict of a crime if they thought a crime had been committed and that accordingly using gross negligence as the conceptual basis for the crime of involuntary manslaughter was unsatisfactory ...”[42]
+
+31.  The complaint is that the definition entails the court abandoning its proper role of directing the jury.  Instead of instructing them as to what constitutes the offence in law, the jury are left (so it is argued) to define for themselves whether an offence has been committed. This is put as follows in the appellant’s Written Case:
+
+“The Adomako line of authority fails to provide a jury with sufficient guidance as to what constitutes ‘gross’ negligence - the jury is left to determine whether the negligence in a particular case warrants determination as a crime rather than simply being a basis for civil liability: this is contrary to the norm that a jury is directed as to what the law defines a crime to be so that its task is to determine the facts and then apply the law, as directed, to those facts.”[43]
+
+32.  There is support for this criticism in writings of distinguished academic authors.  Thus, the authors of Smith, Hogan, and Ormerod’s Criminal Law disapprove of the current test in the following terms:
+
+“The jury appear to be left with the task of deciding the scope of the offence. The test is quite unlike that in, say, applying the definition of intention, which has been supplied by the judge. In such a case, the jury looks at the facts and applies the legal definition of intention as provided by the judge. In gross negligence, the jury has to determine whether on their view the conduct should be called grossly negligent, and if so that amounts to the crime. This seems objectionable in principle.”[44]
+
+33.  And Professor Graham Virgo comments:
+
+“Such circular reasoning is unsatisfactory and effectively constitutes an open invitation to the jury to find the defendant guilty where their gut reaction is that the defendant is guilty. This confuses to an unacceptable extent questions of law and fact. For such a serious offence as manslaughter principles need to be developed, judicial guidance must be given, otherwise the result will simply be inconsistency and unpredictability…”[45]
+
+34.  With respect, we do not accept the circularity argument.  As we have seen, Lord Mackay in Adomako was prepared to nod in the direction of that criticism by accepting that there was “an element of circularity” in the definition.  However, he was not deflected from upholding the objective approach.  He held to be correct the “test of how far conduct must depart from accepted standards to be characterised as criminal”, which involves “necessarily a question of degree”.  As indicated in Section C.1 above, that approach has been adopted throughout the authorities which have consistently placed a very high degree of negligence at the heart of the definition of GNM. 
+
+35.  As Lord Mackay pointed out, such a question of degree is “supremely a jury question”.  Having regard to the risk of death that was necessarily involved, they are asked to find the facts and to assess the degree to which the defendant’s conduct was negligent in all the circumstances – to assess how far, if at all, it fell short of the minimum standard of care reasonably to be expected.  The Judge directs them that the offence is only constituted upon proof that the defendant was guilty of a very high degree of negligence in all the circumstances.[46]In our view, the test is not circular and there is no abdication of the judge’s role of defining the offence for the jury.  As Judge LJ explained in R v Misra and Srivastava:
+
+“On proper analysis, therefore, the jury is not deciding whether the particular defendant ought to be convicted on some unprincipled basis. The question for the jury is not whether the defendant's negligence was gross, and whether, additionally, it was a crime, but whether his behaviour was grossly negligent and consequently criminal. This is not a question of law, but one of fact, for decision in the individual case.”[47]
+
+36.  It is true that the jury are here not dealing with simple questions of fact, such as whether a certain act was performed or whether the accused was correctly identified as the offender. And often the jury will be assisted by expert evidence.  They are asked in this context to make findings on a question of degree and to exercise an evaluative function on the basis of the findings made.  It is not unusual for the law to assign such an evaluative function to the jury, looking to them as the appropriate tribunal for the ascertainment of community standards.  This was pointed out by Judge LJ in Misra:
+
+“... this represents one example, among many, of problems which juries are expected to address on a daily basis. They include equally difficult questions, such as whether a defendant has acted dishonestly, by reference to contemporary standards, or whether he has acted in reasonable self-defence, or, when charged with causing death by dangerous driving, whether the standards of his driving fell far below what should be expected of a competent and careful driver. These examples represent the commonplace for juries.”[48]
+
+D.2   Gross negligence as the basis of culpability
+
+37.  The next argument in favour of replacing manslaughter by gross negligence with manslaughter by recklessness involves the proposition that manslaughter is a very serious offence and that in principle, liability should depend on proof of culpability involving the defendant’s awareness of the risk of causing death rather than application of an objective standard.  As we have seen, the authorities establish that while evidence of a reckless state of mind is relevant to proving gross negligence, recklessness is not a required ingredient of GNM.
+
+38.  The premise of the appellant’s argument appears to be that in adopting an objective standard, the GNM offence as defined in the Adomako line of cases does not require proof of conduct which is or is sufficiently morally culpable to justify conviction for manslaughter.  We do not accept that premise.  The offence requires proof that the defendant, who owed a duty of care to the deceased, breached that duty causing the deceased’s death when in all the circumstances, the defendant’s conduct fell so far short of what could reasonably be expected of him or her so that such conduct is properly characterised as grossly negligent.  In our view, such conduct is justifiably treated as highly culpable and deserving of being castigated as manslaughter.
+
+39.  Thus, in Bateman,[49]regarding the culpability associated with the offence, Hewart LCJ observed:
+
+“In explaining to juries the test which they should apply to determine whether the negligence, in the particular case, amounted or did not amount to a crime, judges have used many epithets, such as ‘culpable,’ ‘criminal,’ ‘gross,’ ‘wicked,’ ‘clear,’ ‘complete.’ But, whatever epithet be used and whether an epithet be used or not, in order to establish criminal liability the facts must be such that, in the opinion of the jury, the negligence of the accused went beyond a mere matter of compensation between subjects and showed such disregard for the life and safety of others as to amount to a crime against the State and conduct deserving punishment.”
+
+40.  In The Queen v Lavender,[50]concurring with the plurality judgment in the High Court of Australia,[51]Kirby J referred to Hewart LCJ’s epithets and pointed out that “[even] in today's society, where death has resulted from aggravated negligence ... holding the individual criminally liable has been justified.”  He observed that:
+
+“Subjective intention does not enjoy a monopoly on moral culpability. ... The claim of a person who causes harm that he or she did not mean to do it or did not stop to think as excusing them of wrongdoing is commonly treated as unpersuasive, especially where death or serious injury ensue. A person who intends to bring about an undesirable outcome or who is reckless as to the possibility of that outcome but proceeds anyway is more culpable than a person who negligently causes the same outcome. This is because the former is aligned with that outcome while the same cannot be said of the latter. But this is not to say that the latter is always undeserving of moral condemnation and punishment. In some circumstances, the opposite is the case.”[52]
+
+41.  Kirby J noted the statement in Wilson v The Queen[53]that there must “be a close correlation between moral culpability and legal responsibility [for manslaughter]” and concluded that:
+
+“Notwithstanding that manslaughter is defined by reference to an objective test, this correlation is assured by the degree of negligence required.”[54]
+
+D.3   The argument based on R v G and Another
+
+42.  Mr Duncan SC relied heavily on the following passage in the speech of Lord Bingham of Cornhill in R v G and Another as authority for requiring recklessness to replace gross negligence as the basis of what is presently GNM: [55]
+
+“... it is a salutary principle that conviction of serious crime should depend on proof not simply that the defendant caused (by act or omission) an injurious result to another but that his state of mind when so acting was culpable. This, after all, is the meaning of the familiar rule actus non facit reum nisi mens sit rea. The most obviously culpable state of mind is no doubt an intention to cause the injurious result, but knowing disregard of an appreciated and unacceptable risk of causing an injurious result or a deliberate closing of the mind to such risk would be readily accepted as culpable also. It is clearly blameworthy to take an obvious and significant risk of causing injury to another. But it is not clearly blameworthy to do something involving a risk of injury to another if (for reasons other than self-induced intoxication: R v Majewski [1977] AC 443) one genuinely does not perceive the risk. Such a person may fairly be accused of stupidity or lack of imagination, but neither of those failings should expose him to conviction of serious crime or the risk of punishment.”
+
+43.  Counsel also cited the decisions of this Court in Hin Lin Yee v HKSAR;[56]Kulemesin v HKSAR;[57]and HKSAR v Choi Wai Lun[58] as lending support to his argument. 
+
+44.  Additionally, he relied on the judgment of Sir Anthony Mason NPJ in Sin Kam Wah v HKSAR,[59]where R v G and Another was adopted, overruling two Court of Appeal decisions including a case involving GNM, as providing further support.
+
+45.  We do not accept that those authorities, properly understood, are capable of grounding the appellant’s argument. Leaving aside Sin Kam Wah for the moment, the other authorities are all concerned with statutory construction and in R v G and Another,the “salutary principle” was referred to by Lord Bingham in that context.  He was careful to point this out:
+
+“The task confronting the House in this appeal is, first of all, one of statutory construction: what did Parliament mean when it used the word ‘reckless’ in section 1(1) and (2) of the 1971 Act? In so expressing the question I mean to make it as plain as I can that I am not addressing the meaning of ‘reckless’ in any other statutory or common law context.”[60]
+
+46.  His Lordship was construing section 1 of the Criminal Damage Act 1971 in a case involving boys aged 11 and 12 who had set fire to newspapers, thrown them under a large plastic dustbin, and left without putting out the burning papers, resulting in the fire spreading and causing £1 million worth of damage.  They were charged with arson contrary to section 1 “in that they caused damage to property, being reckless as to whether such property would be destroyed or damaged” even though it was accepted that neither of the defendants appreciated that there was any risk of the fire spreading.  Lord Bingham was therefore concerned with determining the meaning of “reckless” in the section and the “salutary principle” he invoked is a common law principle of statutory construction which favours interpreting provisions which create serious criminal offences as presumptively requiring proof of mens rea.
+
+47.  Similarly, in Hin Lin Yee, this Court was concerned with section 54(1) of the Public Health and Municipal Services Ordinance[61]which creates the offence of selling a drug intended for use by man but unfit for that purpose. The question for the Court, obviously one of statutory construction, was whether a defendant is liable even where the medicine was sold in the honest and reasonable, albeit mistaken, belief that it was fit for human use.  It was pointed out that:
+
+“The possible difficulty, in cases like the present, arises because the provision which creates the offence is silent or ambiguous as to the state of mind required.”[62]
+
+48.  Hin Lin Yee sets out the principles to be adopted in construing such provisions, beginning with a presumption of mens rea, echoing Lord Bingham’s approach.
+
+49.  This was re-iterated in Kulemesin v HKSAR[63] where the Court had to construe section 72 of the Shipping and Port Control Ordinance,[64]and, referring back to Hin Lin Yee, Ribeiro PJ stated:
+
+“... where the offence-creating provisions are silent or ambiguous as to the mental requirements, the starting-point is that the statute must be construed adopting the presumption that it is incumbent on the prosecution to prove mens rea in relation to each element of the offence.”[65]
+
+50.  Similarly, in HKSAR v Choi Wai Lun,[66]the Court was engaged in construing section 122 of the Crimes Ordinance[67]which makes it an offence to commit an indecent assault on another person and goes on to provide that a person under 16 is legally incapable of consenting to the behaviour in question, which consent would otherwise prevent the act being an assault for the purposes of the section. The question was whether a person commits the offence if he engages in sexual conduct which is in fact consensual with a girl who is actually aged 13 when he honestly and reasonably believes her to be aged 16 or above.  It was once again made clear that the issue was one of statutory construction:
+
+“The presumption of mens rea flows from recognition that it is a cardinal principle of our criminal law that mens rea, involving the intentional or knowing performance of prohibited conduct, is ordinarily an essential ingredient of guilt of a criminal offence. The law therefore assumes that in creating a statutory offence, the legislature does not intend to dispense with that basic principle unless the enactment does so expressly or by necessary implication. This has been said to reflect the principle of legality or to be a principle of statutory interpretation whereby any ambiguity in a penal statute is resolved in favour of the accused.”[68]
+
+51.  It is self-evident that these cases have no application in the present appeal.  GNM is a common law offence.  It is not created by any statutory provision which, because of its silence or ambiguity, needs to be construed to ascertain the mental element required. There is no basis for contending that the ingredients of GNM which have long been established at common law should somehow be modified to replace the element of gross negligence with a recklessness requirement through the application of a separate common law doctrine involving principles of statutory construction.  The principles of common law regarding the essential elements of GNM on the one hand, and those laying down principles of statutory interpretation regarding mens rea requirements on the other, obviously operate in entirely separate spheres.
+
+52.  Sin Kam Wah[69] is distinguishable on a different basis.  It was a case in which a police officer was convicted of misconduct in public office by accepting as a “general sweetener” sexual favours from prostitutes arranged and paid for by a person who exercised control over them contrary to section 130(1)(b) of the Crimes Ordinance[70].  It was not in dispute that it would be sufficient to prove recklessness on the part of the officer as to whether the person making the arrangements exercised such control.  The question was: What must be proved to establish such recklessness?  Lord Bingham addressed the same question in R v G and Another,[71]albeit in a statutory context whereas this Court in Sin Kam Wah was concerned with the common law offence of misconduct in public office.
+
+53.  Sir Anthony Mason NPJ endorsed Lord Bingham’s approach[72]and was concerned to correct the approach to “recklessness” that had previously been adopted in this jurisdiction[73]which involved accepting that recklessness could be proved by applying an objective test.  The approach held to have been erroneous had been summarised as follows:
+
+“Recklessness on the part of the doer of an act presupposes that there is something in the circumstances that would have drawn the attention of an ordinary prudent individual to the possibility that his act was capable of causing the kind of serious harmful consequences that the section that created the offence was intended to prevent and that the risk of those harmful consequences occurring was not so slight that an ordinary prudent individual would feel justified in treating them as negligible. It is only when this is so that the doer of the act is acting ‘recklessly’ if, before doing the act, he either fails to give any thought to the possibility of there being such risk or, having recognized that there was such a risk, he nevertheless goes on to do it.”[74]
+
+54.  The Court in Sin Kam Wah was therefore concerned with elucidating the nature of “recklessness” where recklessness is an acknowledged element of the offence.  It was not concerned with modifying the ingredients of GNM by replacing gross negligence with a requirement of recklessness as presently advocated on the appellant’s behalf.  The Court found that the basis upon which R v G and Another decided to depart from the approach to “recklessness” enunciated in Caldwell and Lawrence was compelling and, on that footing, it overruled the Court of Appeal decisions in R v Chau Ming Cheong,[75]and R v Dung Shue Wah,[76]since they had followed Caldwell and Lawrence.  Sin Kam Wah was not a manslaughter case and the Court had no occasion then to consider the elements of that offence.  The Court was certainly not suggesting any change to the accepted basis of liability in cases of manslaughter by gross negligence.
+
+55.  We end by emphasising this. The common law offence of GNM operates in a sphere in which the courts have consistently referred to the value placed by the law on human life.[77]
+
+E.     Conclusion
+
+56.  For the foregoing reasons, we would dismiss the appeal and answer the certified question as follows:  In the offence of manslaughter by gross negligence, the element of gross negligence referred to in the last element of the offence as enunciated in R v Adomako [1995] 1 AC 171, is proved by application of the objective standard of reasonableness, there being no additional requirement that the prosecution must also prove that the defendant was subjectively aware of an obvious and serious risk of death to the deceased.  Such awareness, if proved, is relevant to liability but not a necessary ingredient of the offence.
+
+Mr Justice Fok PJ:
+
+57.  I agree with the judgment of the Chief Justice and Mr Justice Ribeiro PJ.
+
+Mr Justice Cheung PJ:
+
+58.  I agree with the judgment of the Chief Justice and Mr Justice Ribeiro PJ.
+
+Lord Reed NPJ:
+
+59.  I agree with the judgment of the Chief Justice and Mr Justice Ribeiro PJ.
+
+Chief Justice Ma:
+
+60.  For the above reasons, the appeal is unanimously dismissed and the certified question answered as set out in para. 56 above.
+
+  
+
+   
+
+(Geoffrey Ma)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+(Andrew Cheung)	(Lord Reed)
+Permanent Judge	Non-Permanent Judge
+  
+
+Mr Peter Duncan SC and Ms Deanna Law, instructed by Howse Williams, for the 3rd Defendant in HCCC 437/2015 (Appellant)
+
+Mr Andrew Bruce SC, on fiat, Mr Anthony Chau, ADPP (Ag.) and Ms Margaret Lau, SPP, of the Department of Justice, for the Respondent
+
+[1] HCCC 437/2015 (Reasons 14 June 2017).  Barnes J gave a like ruling in HKSAR v Lai Chun Ho HCCC 213/2016, the two cases having then been consolidated for consideration by the Court of Appeal.  The present appeal concerns only the appellant’s case HCCC 437/2015.
+
+[2] Pursuant to section 81(1) of the Criminal Procedure Ordinance (Cap 221).
+
+[3] Macrae VP, McWalters and Poon JJA [2018] HKCA 858 (16 November 2018).
+
+[4] Ma CJ, Fok and Cheung PJJ [2019] HKCFA 11 (22 March 2019).
+
+[5] [1995] 1 AC 171.
+
+[6] [2012] 2 HKLRD 639.
+
+[7] HCCC 437/2015, §8. Emphasis in the original.
+
+[8] (2005) 8 HKCFAR 192.
+
+[9] (1927) 19 Cr App R 8.
+
+[10] At pp 10-11.
+
+[11] At p 13.
+
+[12] At p 11.
+
+[13] Ibid.
+
+[14] [1937] AC 576.
+
+[15] At p 581.
+
+[16] At p 583.
+
+[17] Ibid.
+
+[18] At p 584.
+
+[19] At pp 584-585.
+
+[20] [1982] AC 341.
+
+[21] Contrary to section 1 of the Criminal Damage Act 1971.
+
+[22] [1982] AC 510.
+
+[23] Contrary to section 1 of the Road Traffic Act 1972 (as amended by the Criminal Law Act 1977, section 50(1)).
+
+[24] Although we shall mention them again in the context of Sin Kam Wah v HKSAR (2005) 8 HKCFAR 192, discussed below.
+
+[25] R v Prentice, R v Sullman, R v Adomako, R v Holloway [1994] QB 302.
+
+[26] At pp 322H-323B: “...without purporting to give an exhaustive definition, we consider proof of any of the following states of mind in the defendant may properly lead a jury to make a finding of gross negligence: (a) indifference to an obvious risk of injury to health; (b) actual foresight of the risk coupled with the determination nevertheless to run it; (c) an appreciation of the risk coupled with an intention to avoid it but also coupled with such a high degree of negligence in the attempted avoidance as the jury consider justifies conviction; (d) inattention or failure to advert to a serious risk which goes beyond ‘mere inadvertence’ in respect of an obvious and important matter which the defendant's duty demanded he should address.”
+
+[27] [1995] 1 AC 171.
+
+[28] At p 187B-E.
+
+[29] At p 187H.
+
+[30] All at p 187.
+
+[31] [2000] QB 796 at p 809.
+
+[32] [2000] IRLR 373 at §24.
+
+[33] [2005] 1 Cr App R 21.
+
+[34] At §52.
+
+[35] [1986] HKLR 648 (PC) at p 655.  Emphasis supplied.
+
+[36] [2011] 1 HKLRD 1022 at §58.
+
+[37] [2016] 2 HKLRD 149.
+
+[38] R v Creighton [1993] 3 SCR 3.
+
+[39] The Queen v Lavender (2005) 222 CLR 67 and Patel v The Queen (2012) 247 CLR 531.
+
+[40] With Ms Deanna Law.
+
+[41] Rather than recklessness “in the ordinary connotation of that word” as used by Lord Atkin in Andrews: see §§12, 13, 17 and 20 above.
+
+[42] Adomako at p 183.
+
+[43] At §14.5.
+
+[44] Smith, Hogan, and Ormerod’s Criminal Law (15th edition) at p 594 (§14.2.6.3).
+
+[45] “Reconstructing Manslaughter on Defective Foundations” [1995] CLJ 14, at p 16.
+
+[46] The very high degree of negligence needs to be emphasised to the jury: see Smith, Hogan and Ormerod’s Criminal Law (15th edition) at pp 594-5 (§14.2.6.4).
+
+[47] [2005] 1 Cr App R 21 at §62.
+
+[48] Ibid at §63.
+
+[49] R v Bateman (1927) 19 Cr App R 8 at pp 11-12.
+
+[50] (2005) 222 CLR 67 at §127.
+
+[51] Of Gleeson CJ, McHugh, Gummow and Hayne JJ.
+
+[52] (2005) 222 CLR 67 at §127.
+
+[53] (1992) 174 CLR 313 at p 334 per Mason CJ, Toohey, Gaudron and McHugh JJ.
+
+[54] (2005) 222 CLR 67 at §128.
+
+[55] [2004] 1 AC 1034 at §32.
+
+[56] (2010) 13 HKCFAR 142.
+
+[57] (2013) 16 HKCFAR 195.
+
+[58] [2018] HKCFA 18.
+
+[59] (2005) 8 HKCFAR 192.
+
+[60] [2004] 1 AC 1034 at §28.
+
+[61] Cap 132.
+
+[62] (2010) 13 HKCFAR 142 at §40.
+
+[63] (2013) 16 HKCFAR 195.
+
+[64] Cap 313.  It provides that "Any person who by any unlawful act, or in any manner whatsoever without reasonable excuse, endangers or causes to be endangered the safety of any person conveyed in or being in or upon any vessel or in the sea commits an offence.”
+
+[65] Kulemesin v HKSAR (2013) 16 HKCFAR 195 at §38.
+
+[66] [2018] HKCFA 18.
+
+[67] Cap 200.
+
+[68] [2018] HKCFA 18 at §14.
+
+[69] Sin Kam Wah v HKSAR (2005) 8 HKCFAR 192.
+
+[70] Cap 200.
+
+[71] [2004] 1 AC 1034.
+
+[72] Sin Kam Wah v HKSAR (2005) 8 HKCFAR 192 at §§41-44.
+
+[73] In R v Chau Ming Cheong [1983] 1 HKC 68 and R v Dung Shue Wah [1983] 2 HKC 30; following Commissioner of Police of The Metropolis v Caldwell [1982] AC 341 and R v Lawrence (Stephen) [1982] AC 510.
+
+[74] Sin Kam Wah v HKSAR (2005) 8 HKCFAR 192 at §41.
+
+[75] [1983] 1 HKC 68.
+
+[76] [1983] 2 HKC 30.
+
+[77] See, for example, The Queen v Lavender (2005) 222 CLR 67 at §60; Patel v The Queen (2012) 247 CLR 531 at §87; R v Creighton [1993] 3 SCR 3 at p 57.
+
+ 

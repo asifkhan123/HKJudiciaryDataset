@@ -1,0 +1,97 @@
+CTEA 1/2017
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ENFORCEMENT ACTION NO 1 OF 2017
+
+____________
+
+BETWEEN
+
+ 	COMPETITION COMMISSION	Applicant
+and
+
+ 	NUTANIX HONG KONG LIMITED	1st Respondent
+ 	BT HONG KONG LIMITED	2nd Respondent
+ 	SIS INTERNATIONAL LIMITED	3rd Respondent
+ 	INNOVIX DISTRIBUTION LIMITED	4th Respondent
+ 	(trading as “INNOVIX DISTRIBUTION”)	 
+ 	TECH‑21 SYSTEMS LIMITED	5th Respondent
+____________
+
+Before: Hon G Lam J, President of the Competition Tribunal in Chambers
+Date of Hearing: 26 May 2017
+Date of Decision: 26 May 2017
+Date of Reasons for Decision: 12 June 2017
+___________________________________
+
+REASONS FOR DECISION
+
+___________________________________
+
+Case management conference
+
+1. This is the first case management conference in these proceedings.  As stated in §92 of the Tribunal’s Practice Direction No 1, the object of the first CMC is to identify as far as possible the necessary directions to enable the matter to proceed to a substantive hearing fairly, expeditiously and economically.  A number of procedural issues have been canvassed.  There has been a large measure of agreement on some of these issues between the Applicant and at least some of the Respondents as a result of the commendable efforts of the parties’ legal representatives in trying to narrow down their differences.
+
+2. First, the parties have proposed a confidentiality protocol for this tribunal to sanction by order.  Broadly speaking, the protocol recognises that particular information in the documents to be produced in connection with these proceedings may be confidential.  Each party will nominate a number of individuals (being the party’s counsel, solicitors and trainee solicitors and other external lawyers, and the party’s in‑house representative).  Together, the parties’ nominated persons constitute what is called the “confidentiality ring”.  Each member of this ring has to give an undertaking essentially to use the documents in question only for the purpose of these proceedings (and of any appeals) and not to disclose them to anyone outside the ring.  Members of this ring will have access to the documents produced in these proceedings without redaction.  Where the documents are to be provided to everyone else, only copies with any confidential information redacted will be provided.
+
+3. The only issue that arose was whether the order (and the corresponding undertaking by members of the confidentiality ring) should direct that all documents produced in the context of these proceedings must only be used in connection with these proceedings (as the 1st and 2nd Respondents submitted) or only those parts of the Produced Documents which have been validly redacted should be subject to this restriction (as the 3rd Respondent proposed).  The Applicant was neutral on this question.  I adopted the 1st and 2nd Respondents’ proposed wording because issues may arise in relation to the collateral use by one respondent of documents containing non‑public information compulsorily acquired by the Applicant from another respondent.  The precise manner in which the confidentiality order interacts with any implied undertaking at common law is also not wholly clear.  It may be that the practice can be developed but at this stage I consider that a form of wording offering wider protection of confidentiality should be adopted, leaving collateral use subject to the parties’ consent or the direction of the Tribunal.
+
+4. As regards discovery, the Applicant takes the position that it will disclose both used and unused materials in its possession to the Respondents, following the approach the Court of First Instance has recently held to apply in disqualification proceedings under s 214 of the Securities and Futures Ordinance (Cap 571): Securities and Futures Commission v Wong Yuen Yee [2017] 1 HKLRD 788.  There is no dispute in principle regarding the scope of disclosure by the Applicant.
+
+5. The parties were able in the end to agree a timetable for the Applicant to supply a list or lists of documents, for inspection and for copies to be provided upon request.  There was also agreement for an affidavit to be made by the Applicant to verify the lists.  I am not sure an affidavit is ordinarily called for in the absence of some special reason but by agreement I gave a direction in this case.
+
+6. The sixth direction concerns the deadline for taking out any application for discovery from third parties.  I considered that 14 days after the provision of Lists of Documents by the Applicant (as proposed by the Applicant) was too short a time, but 14 days before the next CMC (as proposed by the Respondents) was too late on the basis that the next CMC will be in December this year.  I adopted the suggestion from the 4th Respondent’s counsel of 12 weeks from the date of the Applicant’s Lists of Documents.
+
+7. By the seventh direction, the Applicant proposed a deadline for applications to strike out any part of the Originating Notice of Application or for determination of admissibility of statements under s 45 of the Competition Ordinance (Cap 619) (on the issue of self‑incrimination). Since the 2nd Respondent has in fact issued such an application by summons which I fixed to be heard on 18 September 2017, I directed that any further application to strike out any part of the Originating Notice of Application and any application for determination of admissibility of statements in connection with s 45 of the Ordinance by other respondents should be made at least 28 days before that date.  If such other respondents wish the Tribunal to consider hearing their applications at the same time as the 2nd Respondent’s, it may well be necessary for their applications to be made substantially before that deadline (at any rate if evidence is involved).
+
+8. The eighth direction concerns expert evidence.  No party has said that expert evidence will definitely be required. It does not appear to be a case where the parties will obviously seek to adduce expert evidence, or that any relevant expert evidence will be wide-ranging.  To allow time for a properly considered approach, I directed that any application for directions on expert evidence has to be made within 12 weeks from the date of the Applicant’s lists of documents.  I consider this to be a much more than generous timetable.
+
+9. The ninth direction deals with witness summonses (see r 36 of the Competition Tribunal Rules (Cap 619D) (“CTR”)). The parties are agreed that advance notice should be given for any application for the issue of witness summons.  In the end I set the date of 4 December 2017 which on the timetable would be around 2 weeks after the exchange of witness statements in reply.  It seems to me that should provide ample time for the relevant decisions to be made by each of the parties, leaving a sensible period before the next CMC which will enable everyone to have a better idea then of the scope of the final hearing.
+
+10. Finally, by consensus I fixed the next CMC on 13 December 2017.  There was an issue as to whether I should fix a range of dates for the final hearing.  It may be impossible at this stage to attempt a very accurate estimate of the length of the final hearing, but as Ms Lam who appeared for the Applicant pointed out, this is a case primarily concerning events that took place over 11 days in July 2016 in relation to a single tender, not an alleged cartel spanning 10 years.  The Tribunal can form an impression of the shape of the final hearing.  It seems to me there should be a target to work towards, consistently with the general approach set out in Practice Direction No 1 (in particular §92(8)).  I directed that the period of 1 May to 30 June 2017 be targeted as the range of dates for the substantive hearing of the application and asked the parties to confer and propose the actual trial dates within a week.
+
+3rd Respondent’s summons dated 23 May 2017
+
+11. As to the 3rd respondent’s summons of 23 May 2017, paragraphs 1 to 4 are in my view unnecessary as they duplicate the directions on discovery and inspection that had been under discussion between the parties for some time in connection with this CMC. In fact, in a letter on 26 April, Winston & Strawn for the Applicant had already set out its position with regard to the 3 specific items mentioned below.  By 4 May, if not before, the Applicant indicated willingness to endeavour to agree the scope of and approach to discovery generally and to dispose of the issue by consent.
+
+12. As I saw it, paragraphs 1 to 4 of the summons were more in the nature of a springboard for the main point of the summons, namely, a further extension of time for the 3rd Respondent to file its Response under r 75 of the CTR.  The summons sought an extension of 28 days but the 3rd Respondent’s skeleton argument asked for 49 days from the CMC. 
+
+13. The supporting affirmation stated the 3rd Respondent’s position that it was entitled to all documents relating to the matter in the possession of the Applicant but I did not think it was right to defer the Response until after provision of all the documents including the unused materials.
+
+14. The position is that the documents referred to in the Originating Notice of Application had all been provided to the 3rd Respondent, including 28 documents on 19 April, redacted versions of the interview records of 4 employees or former employees of the 1st, 2nd, 4th and 5th Respondents respectively on 5 May, and the unredacted version of the interview record of the employee from the 1st Respondent on 18 May.
+
+15. The solicitor’s affirmation of the 3rd Respondent asserted that the documents identified in a schedule, which basically covered all documents including unused materials, were essential to the preparation of its Response.  I did not agree.  The 1st, 2nd and 4th Respondents had already filed their Response before the CMC and the 5th Respondent would file it later that day.  Based on the materials available to me I did not think the position of the 3rd Respondent was so radically different from the others that it required fundamentally different treatment in terms of the time for filing its Response.
+
+16. There are 3 things that the 3rd Respondent says it needs in particular.  As to the personal iPhone of a member of its staff, it appears the data could not now be accessed without destroying the phone.  The Applicant has not accessed it.  As to the personal mobile phone and Macbook of another member of its staff, the data will, I understand, be disclosed to the 3rd Respondent in due course.  As to the correspondence surrounding the interview of that latter staff member, it is said to be relevant to the admissibility of his voluntary statement and to whether the 3rd Respondent should make an application to strike out references to his statement in the Originating Notice of Application. I had considered the arguments raised but I was not persuaded that the 3rd Respondent could not without embarrassment plead its Response in the absence of copies of these electronic devices.  Nor did I think the Response should be delayed by the 3rd Respondent’s consideration of whether to attack the admissibility of the statement of the staff member.
+
+17. In fact, from the solicitors’ correspondence dated 21, 27 and 28 April it can be seen that on 28 April the 3rd Respondent was prepared to agree to extend time for its Response to 26 May, provided the record of interviews of the 4 employees or former employees of the 1st, 2nd, 4th and 5th Respondents referred to above and of a staff member of the 3rd Respondent were supplied by the Applicant by 5 May, which the Applicant did.  There was no longer any mention in the 28 April letter of the electronic devices.
+
+18. As his fall‑back position Mr Wu on behalf of the 3rd Respondent asked for an extension of 14 days which the Applicant did not oppose and which I granted, indicating that it was final and that no more time should be expected.
+
+19. For these reasons I also ordered the 3rd Respondent to pay the costs of its summons to the Applicant.
+
+ 
+
+ 
+
+ 	(Godfrey Lam)
+ 	President of the Competition Tribunal
+ 
+
+Ms Catrina Lam, instructed by Winston & Strawn, for the Applicant
+
+Mr Matthew Gearing, Solicitor advocate, instructed by Latham & Watkins, for the 1st Respondent
+
+Mr Stephen Crosswell of Baker & McKenzie, for the 2nd Respondent
+
+Mr Alfred Wu of Norton Rose Fulbright Hong Kong, for the 3rd Respondent
+
+Ms Eva Sit, instructed by Linklaters, for the 4th Respondent
+
+Ms Cindy Kong, instructed by FONGS, for the 5th Respondent
+
+ 
+

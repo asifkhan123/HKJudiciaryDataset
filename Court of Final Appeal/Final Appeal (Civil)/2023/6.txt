@@ -1,0 +1,696 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 4 of 2023
+
+[2023] HKCFA 32
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 4 OF 2023 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 510 OF 2021)
+
+_____________________
+
+BETWEEN
+
+ 	SECURITIES AND FUTURES COMMISSION	Plaintiff
+ 	 	(Respondent)
+ 	and	 
+ 	ISIDOR SUBOTIC	1st Defendant
+ 	DAVID SUBOTIC	2nd Defendant
+ 	 	(1st Appellant)
+ 	SASHA SZABO	3rd Defendant
+ 	 	(2nd Appellant)
+ 	HO MING HIN	4th Defendant
+ 	SIT YI KI	5th Defendant
+ 	LAU YIK KWAN	6th Defendant
+ 	SUEN MAN SIMON	7th Defendant
+ 	LAM WING KI	8th Defendant
+ 	TAM CHEUK HANG	9th Defendant
+ 	EDEN INVESTMENTS LTD.	10th Defendant
+ 	360HK LIMITED	11th Defendant
+ 	DAS CAPITAL LIMITED	12th Defendant
+ 	EASTMORE GLOBAL, LTD.	13th Defendant
+ 	 	(3rd Appellant)
+ 	EASTMORE MANAGEMENT, LLC	14th Defendant
+ 	 	(4th Appellant)
+ 	MIGHTY EDGE LIMITED	15th Defendant
+ 	COASTAL MANAGEMENT LLC	16th Defendant
+ 	 	(discontinued)
+ 	CHINA JOINT FUNDS MANAGEMENT LIMITED	17th Defendant
+ 	EASTMORE HOLDINGS, LTD	18th Defendant
+ 	 	(5th Appellant)
+ 	CURRENT TRADING, LLC	19th Defendant
+ 	 	(6th Appellant)
+ 	BOOTHBAY MULTI STRATEGY FUND LP	20th Defendant
+ 	 	(discontinued)
+_____________________
+
+Before:	Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ and Madam Justice McLachlin NPJ
+Date of Hearing and Judgment:	4 October 2023
+Date of Reasons for Judgment:	30 October 2023
+____________________________________
+
+REASONS FOR JUDGMENT
+
+____________________________________
+
+Chief Justice Cheung:
+
+1.  I agree with the reasons for judgment of Mr Justice Ribeiro PJ.
+
+Mr Justice Ribeiro PJ:
+
+2.  This appeal concerns service out of the jurisdiction and in particular, when such service may validly be effected without the leave of the court. At the hearing, the Court dismissed the appeal. I now provide my reasons for so holding. Various provisions referred to herein are relevantly set out in the Appendix to these Reasons.
+
+A.  The issues in the Courts below
+
+3.  The Securities and Futures Commission (“SFC”) alleges that a syndicate orchestrated a choreographed scheme of false trading in the shares of a company, Ching Lee Holdings Limited, which was newly listed on the Hong Kong Stock Exchange (“HKEX”) in March 2016. It is alleged that the syndicate artificially pushed up the price of those shares to a grossly inflated level, then cashed in by borrowing on the security of the shares, defaulting on the loans and then “dumping” the shares, causing large losses to investors and lenders.
+
+4.  The eighteen defendants named in these proceedings are said to be part of the syndicate. They include the six defendants[1] referred to in the courts below as the “Eastmore defendants” who are outside the jurisdiction. They are the appellants on this appeal. They comprise two individuals resident in the United States and certain companies incorporated variously in the Cayman Islands, Delaware and the Seychelles.
+
+5.  The SFC obtained leave to serve upon the appellants a concurrent writ claiming a range of different reliefs consequent upon their alleged false trading activities, pursuant to sections 213 and 274 of the Securities and Futures Ordinance (“SFO”).[2]  It was estimated that some 896 market participants had suffered an aggregate loss of over HK$101.28 million and that the scheme had generated illicit profits for the syndicate of around HK$124.88 million. Relief claimed included declarations that the appellants had contravened sections 274 and/or 295 of the SFO; as well as restoration orders under SFO section 213(2)(b) requiring them to restore the market participants and lenders who had incurred losses to their positions prior to the impugned transactions, as well as orders to pay such persons damages. The SFC also obtained injunctions freezing assets in Hong Kong up to the value of HK$124.88 million and obtained ancillary disclosure orders against the appellants together with an order for an administrator to be appointed to receive the frozen assets.
+
+6.  The appellants applied to set aside the order granting leave and sought a declaration that the Court lacks jurisdiction over them. They argued that the claims asserted by the SFC do not come within any of the “gateways” in O 11 r 1(1) of the Rules of the High Court (“RHC”) so that leave for service out was wrongly granted. Au-Yeung J[3] and the Court of Appeal[4] both upheld the grant of leave on the basis that the SFC’s claims came within “Gateway F”, being a “claim ... founded on a tort”; and also within “Gateway B”, being a claim for an injunction restraining conduct within the jurisdiction. The appellants seek to argue that they were wrong on Gateway F and are not concerned to challenge the decision granting Gateway B leave.
+
+7.  O 11 r 1(1)(f) materially provides as follows:
+
+“Provided that the writ is not a writ to which paragraph (2) of this rule applies, service of a writ out of the jurisdiction is permissible with the leave of the Court if in the action begun by the writ — (f) the claim is founded on a tort and the damage was sustained, or resulted from an act committed, within the jurisdiction ...”[5]
+
+8.  Leave to appeal was granted by the Court of Appeal in respect of the following Question, namely:
+
+“Whether an action by the SFC for discretionary relief under s 213 of the SFO can properly be characterised as a ‘claim’ and/or ‘founded on a tort’ for the purposes of Gateway F of the RHC.”
+
+9.  On the basis of that Question, the appellants sought to advance two contentions, namely, that:
+
+“... an application by the SFC under s.213 is not a ‘claim’ at all. And, even if it is a ‘claim’, it is not ‘founded on a tort’.”[6]
+
+10.  Putting the “no claim at all” submission in a different way, the appellants argued that:
+
+“S.213(1)(a)(i) refers to a ‘contravention’. This cannot apply to s.274 because it is not possible to ‘contravene’ s.274, which simply describes situations. By its own terms, it is possible to ‘contravene’ s.295, but that is a criminal provision.”[7]
+
+11.  And in the same vein:[8]
+
+“It is seriously questionable whether it is possible to contravene any of the sections of Part XIII of the SFO which deal with market misconduct, because they merely describe the circumstances in which insider dealing and other market misconduct take place (see, for example, ss.270, 274, 275).”
+
+B.  The issues redefined
+
+12.  The arguments and decisions below have accordingly been premised on the need to obtain the court’s leave to serve proceedings out of the jurisdiction, the debate being as to whether such leave was correctly granted on the basis that the SFC’s claims are founded on a tort, with the appellants also arguing that no qualifying “claim” exists.
+
+13.  However, prior to the hearing, it became apparent to members of the Court that the leave of the court should not be assumed to be necessary. O 11 r 1(2) provides as follows:
+
+Service of a writ out of the jurisdiction is permissible without the leave of the Court provided that each claim made by the writ is—
+
+(b) a claim which by virtue of any written law the Court of First Instance has power to hear and determine notwithstanding that the person against whom the claim is made is not within the jurisdiction of the Court or that the wrongful act, neglect or default giving rise to the claim did not take place within its jurisdiction.[9]
+
+14.  At the Court’s direction, the Registrar wrote to the parties informing them that the Court would wish to hear submissions as to whether the writ served by the SFC on the appellants is a writ to which O 11 r 1(2) applies, inviting written submissions on that issue. That was the focus of the hearing and it resulted in dismissal of the appeal.
+
+C.  O 11 r 1(2) - Service without leave of the court
+
+15.  It is clear that the leave of the court is not always required to serve proceedings out of the jurisdiction. As noted above, O 11 r 1(1) only requires such leave to be sought by reference to its various gateways “Provided that the writ is not a writ to which paragraph (2) of this rule applies”. That paragraph, ie, O 11 r 1(2), provides that where a legislative provision (“any written law”) empowers the Court of First Instance (“CFI”) to assume jurisdiction in respect of a claim over someone who is outside Hong Kong or in respect of a wrongful act committed outside Hong Kong, it is unnecessary to seek the court’s leave to serve a writ containing such a claim.
+
+16.  Because such legislative provision provides statutory authority for assuming jurisdiction, it is unnecessary to seek the court’s further authorisation to serve out. Whether this applies depends on the construction of the written law in question. A law which authorises the assumption of jurisdiction may well involve a claim that is sui generis, falling outside the various gateways which are no longer relevant.
+
+17.  In contrast, an application for leave to serve someone out of the jurisdiction under O 11 r 1(1) is an application asking the court to assume jurisdiction over that person and is only granted where the matter comes within one of the specified gateways and provided that Hong Kong is the appropriate forum for dealing with the matter. The gateways relate to matters having a Hong Kong connection and the claim is not founded on a separately existing statutory basis for assuming jurisdiction over the person sought to be served.
+
+18.  Whether O 11 r 1(2) applies to the SFC’s writ raises the following questions which reflect the wording of the rule:
+
+(a)  What are the claims that the SFC is making?
+
+(b)  Are they claims which by virtue of any written law the CFI has power to hear and determine?
+
+(c)  Are they claims over which the CFI has such powers notwithstanding that the person against whom the claim is made is not within the jurisdiction of the court or that the wrongful act, neglect or default giving rise to the claim did not take place within its jurisdiction?
+
+Affirmative answers to (b) and (c) lead to the conclusion that O 11 r 1(2) applies.
+
+D.  What are the SFC’s claims?
+
+19.  The writ which the SFC served upon the appellants seeks declarations that they are persons within section 213 who have contravened sections 274 and/or 295 of the SFO (set out in the Appendix); and that they aided, abetted, or induced another to commit, or were knowingly involved in, or conspired with others to commit, such contraventions. The allegation is that the appellants engaged in false trading contrary to section 274(1) by doing acts with the intention that, or being reckless as to whether, such acts have the effect of creating a false or misleading appearance of active trading in securities in the market or with respect to the market for or price of the shares. It also alleges false trading in contravention of section 274(3) by being concerned in transactions intending that, or being reckless as to whether, such transactions have the effect of creating or maintaining an artificial price for dealing in securities in the market. In consequence, as previously noted, the writ seeks restoration orders under SFO section 213(2)(b) as well as orders for damages, and orders restraining the appellants from false trading or creating or maintaining artificial prices. The appointment of an administrator over recovered assets and Mareva-type injunctions are also sought.   
+
+E.  Are they claims which by virtue of any written law the CFI has power to hear and determine?
+
+20.  Sections 213 and 274 are intended to operate in combination and must be read together. Section 274 defines when prohibited acts of “false trading” occur and section 213 provides for a range of potential consequences if such conduct is established, as determined by the CFI.
+
+21.  Thus, section 213(1)(a)(i)(A) provides that where a person has “contravened any of the relevant provisions” (defined in SFO Sch 1 to include “the provisions of this Ordinance” and thus section 274), “the Court of First Instance, on the application of the Commission, may, subject to subsection (4), make one or more of the orders specified in subsection (2).” The orders so specified in section 213(2) include the various orders applied for in the SFC’s writ, mentioned above.
+
+22.  It is therefore clear that by virtue of a written law, namely SFO sections 213 and 274, the claims advanced by the SFC in the writ served on the appellants are claims which the CFI has power to hear and determine.
+
+F.  Are they claims over which the CFI has such powers notwithstanding that the person against whom the claim is made is not within the jurisdiction of the Court or that the wrongful act, neglect or default giving rise to the claim did not take place within its jurisdiction?
+
+23.  The answer is “Yes”. This is because the CFI’s jurisdiction conferred by section 213 upon contravention of sections 274(1) or 274(3) involves powers to grant relief against a person “in Hong Kong or elsewhere” where such person does anything or causes anything to be done constituting (or assisting, etc, in) false trading affecting the Hong Kong market.[10] The provision specifically envisages relief being ordered against such persons.
+
+24.  The SFO’s policy of conferring jurisdiction over persons who engage in false trading “elsewhere” prejudicially affecting the Hong Kong market is clear and unsurprising. Trading on the HKEX is global and making sanctions legally available against offshore fraudulent parties who cause losses to investors or other participants in the local market is obviously justified. Jurisdiction is conferred by the SFO in respect of prohibited conduct “in Hong Kong or elsewhere” in respect of several instances of prohibited conduct apart from false trading, including price rigging;[11] disclosure of false or misleading information inducing transactions;[12] stock market manipulation;[13] and their criminal offence counterparts.[14]
+
+25.  Accordingly, the foregoing answers lead to the conclusion that O 11 r 1(2) applies to the writ issued by the SFC.
+
+G.  The authorities
+
+26.  This approach to the construction of O 11 r 1(2) finds support in In re Harrods (Buenos Aires) Ltd,[15] a case involving service out of the jurisdiction of a shareholder’s unfair prejudice petition, which dealt with the identical rule as it then existed as part of the English Rules of the Supreme Court.
+
+27.  Dillon LJ pointed out that O 11 r 1(2) was introduced, tracking the wording of the Civil Aviation (Eurocontrol) Act 1962, section 7(3) which gave UK courts powers to hear and determine certain claims against persons outside the jurisdiction. He noted however, the evident intention that O 11 r 1(2) was to have a wider scope than to apply only where its actual wording is used in a statute. His Lordship observed that certain Acts which gave effect to international conventions that had previously been listed in O 11 r 1(1) as among the cases in which leave to serve out of the jurisdiction could be obtained were no longer so listed, commenting that:
+
+“... It may have been thought that as the jurisdiction provisions of the Conventions, laying down in what courts proceedings can be brought, are now part of the statutes and have force in this country by virtue of the statutes, leave under Order 11 is not necessary because of Ord. 11, r. l(2)(b) and so these statutes should not be listed in Ord. 11, r. 1(1).”[16]
+
+28.  O 11 r 1(2) therefore recognises that leave under O 11 r 1(1) is unnecessary where a statute independently confers jurisdiction over the person to be served outside the jurisdiction. A corresponding approach is adopted in these Reasons. Dillon LJ went on to hold that the requirements for application of O 11 r 1(2) are as follows:
+
+“... in my judgment to be within Ord. 11, r. l(2)(b) an enactment must, if it does not use the precise wording in the rule, at least indicate on its face that it is expressly contemplating proceedings against persons who are not within the jurisdiction of the court or where the wrongful act, neglect or default giving rise to the claim did not take place within the jurisdiction. It is not enough, in my judgment, that the enactment, like the Companies Act 1985, gives a remedy in general cases—against ‘other members of the company’—without any express contemplation of a foreign element.”[17]
+
+29.  The application of O 11 r 1(2) is thus limited to cases where the written law in question clearly contemplates proceedings being brought against persons who are not within the jurisdiction of the court or where the wrongful act, etc, giving rise to the claim did not take place within the jurisdiction. It is not enough that the written law is of general application and may be invoked against persons who may happen to be within as well as out of the jurisdiction.
+
+30.  Similarly, Barnett J in In re S (A Minor) (Wardship: Jurisdiction),[18] held that O 11 r 1(2)’s application “requires legislation that specifically provides for the court to deal with a claim although the defendant is not within the jurisdiction of the court.”  This was followed by Deputy High Court Judge Mayo (as he then was) in Re Giant Wizard Corporation,[19] who noted that “the legislation being relied upon to obviate the requirement of obtaining leave must be specific”.
+
+31.  The same limits to O 11 r 1(2) were recently highlighted in Re Sunni International Ltd[20] by Godfrey Lam J (as his Lordship then was). The issue was whether leave was required to serve a winding-up petition out of the jurisdiction on a foreign company and if so, under what rule such service could be effected. His Lordship held that O 11 r 1(2) was not applicable.[21]  The potentially relevant written law was section 327 of the Companies Ordinance,[22] as to which the learned judge observed:
+
+“It is true that in an appropriate case, s.327 empowers the court to wind up a company even though it is a foreign company without any presence within the jurisdiction. But it has to be borne in mind that s.327 was enacted to provide for the winding-up of unregistered companies generally, not specifically foreign companies. It was only settled by decisions of the courts, years after the equivalent provision was first enacted in England in the Companies Act 1862, that it applied to foreign companies: Re Commercial Bank of India (1868) LR 6 Eq 517 ; Re Matheson Bros Ltd (1884) 27 Ch D 225. The statute on its terms applies not only to companies incorporated overseas but to ‘any partnership, whether limited or not, any association and any company’ with specified exceptions. Unregistered companies are not necessarily foreign entities.”[23]
+
+32.  Godfrey Lam J concluded:
+
+“It seems to me a statutory provision that enables the court to wind up a wide assortment of entities, the description of which has been held to include foreign companies, is not a sufficiently specific enactment that qualifies as the kind of written law that removes the requirement of leave for service out of the jurisdiction by virtue of O.11 r.1(2)(b).”[24]
+
+33.  Thus, section 327 lacked the specificity required for dispensation of the requirement of leave under O 11 r 1(2).
+
+I.  SFO section 274 as the relevant written law
+
+34.  By providing that relief may be claimed against someone who, when “in Hong Kong or elsewhere”, engages in conduct constituting false trading, by their combined effect, sections 213 and 274 expressly contemplate proceedings being brought against persons who are not within the jurisdiction of the court.
+
+35.  The conclusion follows that O 11 r 1(2) applies to the SFC’s claims so that service of the writ containing such claims on the appellants out of the jurisdiction was permissible without the leave of the court. Consequently, the debate regarding the applicability of Gateway F is irrelevant.
+
+36.  One might pause to note that the SFO’s intent is plainly to cater for the territorial dimensions of wrongful acts damaging to market participants. Thus, section 274(1) and section 274(3) cater for false trading when a person “in Hong Kong or elsewhere” does the relevant wrongful acts having an impact on the local market. Conversely, section 274(2) and section 274(4) prohibit such acts done in Hong Kong impacting a relevant overseas market.
+
+J.  The contrary arguments
+
+37.  Mr Charles Sussex SC, appearing for the appellants, advanced a miscellany of points with a view to contending that O 11 r 1(2) is inapplicable.
+
+38.  He argued, for instance, that the court’s leave to serve out is usually required and that O 11 r 1(2) ought to be read restrictively since the court is the intended “gatekeeper” to avoid opening the floodgates to the unrestricted assumption of exorbitant jurisdiction over persons out of the jurisdiction. He went so far as to suggest that the court had to consider first whether a particular claim potentially fell within one of the O 11 r 1(1) gateways, and if it did, that the court should not permit reliance on O 11 r 1(2) since otherwise, the gateway “would be rendered otiose”.
+
+39.  Such arguments misconceive the nature and intent of O 11 r 1(2). While the scope of individual gateways may be subject to argument, the overall Order 11 scheme is simple and self-contained.  O 11 r 1(1) lays down that leave to serve out is needed by reference to the listed gateways provided that paragraph (2) does not apply, ie, provided that no independent statutory basis for founding jurisdiction exists. And O 11 r 1(2) spells it out that conversely, leave is not required if the claim in the writ is one which by virtue of any written law the CFI has power to hear and determine notwithstanding that the person against whom the claim is made is not within the jurisdiction or that the wrongful act, neglect or default giving rise to the claim did not take place within Hong Kong.
+
+40.  Thus, the court has no difficulty construing O 11 r 1(2). That paragraph merely registers that leave is not needed where a statutory basis for founding jurisdiction exists. The court simply has to determine whether the written law relied on by the plaintiff for dispensing with leave falls within paragraph (2). As noted above, the authorities have stipulated that such written law must clearly contemplate proceedings being brought against persons who are outside the jurisdiction or where the wrongful conduct did not take place in Hong Kong. It is not enough that the written law is of general application and may be invoked against persons who may be within or outside the jurisdiction. Once the court is satisfied that the written law fits the bill, a statutory basis for assuming jurisdiction is established and there is no need to apply to the court for leave or to argue about whether the claim fits within one or other of the gateways under O 11 r 1(1). The suggestion that one must first go through that discarded exercise before deciding whether O 11 r 1(2) applies makes no sense and is wholly unsustainable.
+
+41.  Mr Sussex SC also sought to place various glosses on O 11 r 1(2), drawing alleged distinctions between different kinds of jurisdiction – territorial, subject-matter and personal – and purported distinctions between the two foreign element limbs referred to in paragraph (2). Such distinctions have no basis in the wording of the applicable rules and serve no purpose. They were advanced in an effort to evade application of the simple and self-explanatory rule contained in O 11 r 1(2).
+
+K.  The “no claim at all” argument
+
+42.  As noted in Section A of these Reasons, one of the more startling submissions made on behalf of the appellants is that O 11 r 1(2) is inapplicable because it requires there to be a “claim” made by writ and (so it was argued) because “... an application by the SFC under s 213 is not a ‘claim’ at all”.[25] Developing that argument, it was contended that “[section] 213(1)(a)(i) refers to a ‘contravention’. This cannot apply to section 274 because it is not possible to ‘contravene’ section 274, which simply describes situations”.[26]  The submission goes so far as to suggest that:
+
+“It is seriously questionable whether it is possible to contravene any of the sections of Part XIII of the SFO which deal with market misconduct, because they merely describe the circumstances in which insider dealing and other market misconduct take place (see, for example, ss.270, 274, 275).”[27]
+
+43.  The notion that “it is not possible to ‘contravene’ section 274, which simply describes situations” is difficult to credit. Why would any statute, let alone an Ordinance like the SFO which is concerned with regulating complex and sophisticated dealings with securities and other financial products “merely describe” certain situations as constituting, inter alia, false trading? It cannot seriously be suggested that it “describes” such circumstances as an end in itself without assigning any operative consequences to such conduct.
+
+44.  It is true that looking at section 274 in isolation, it does not itself create an offence or specify a particular form of liability. What it does is to tell us what constitutes “false trading”. Thus, section 274(1) provides that false trading “takes place” when a person engages in intentional or reckless activities likely to create a false or misleading appearance of active trading in or of the existence of a market at a particular price for listed securities. Section 274(3) identifies another variant of false trading. This occurs where a person engages in transactions intending or being reckless as to whether such transactions are likely to create or maintain an artificial price level for traded shares. In other words, section 274 is a definitional provision. It defines four different forms of false trading. We have looked at subsections (1) and (3) which concern false trading in Hong Kong or elsewhere affecting the local market. As previously noted, subsections (2) and (4) define conduct constituting false trading in Hong Kong which impacts overseas markets.
+
+45.  The drafting technique of using definitional provisions which identify when particular categories of prohibited conduct “take place” is not confined to false trading in the SFO.  It is used for definitions which state when “insider dealing”,[28] “price rigging”,[29] “disclosure of information about prohibited transactions”,[30] “disclosure of false or misleading information inducing transactions”[31] and “stock market manipulation”[32] “take place”. These are plainly not merely “descriptive” provisions.
+
+46.  These sections are obviously not intended to be read in isolation but are designed to operate in combination with other SFO provisions which may exist for different purposes, carrying different consequences where the prohibited conduct is established. They are, in other words, multi-purpose definitions.
+
+47.  Thus section 274’s definition of “false trading” combines with section 245(1)(b) so that conduct so defined constitutes one category of “market misconduct”. This leads to the possible consequence of market misconduct proceedings being instituted by the SFC before the Market Misconduct Tribunal (“MMT”) under section 252. In turn, this could lead to the MMT imposing sanctions listed in section 257 on a person found to have engaged in false trading as the relevant form of market misconduct.
+
+48.  The section 274 definition may alternatively combine with section 281 so that the person found to have engaged in market misconduct (in the form of false trading) may be held liable to pay damages to an individual for pecuniary loss sustained as a result of that market misconduct, section 281(5) empowering that person to bring an action in court for such damages.
+
+49.  The section 274 definition is duplicated in section 295 which creates the offence of false trading with the criminal penalties prescribed in section 303. Then along lines similar to section 281, section 305 confers the right to bring a civil action for damages on a person who has suffered loss due to a criminal contravention of the market misconduct provisions in Part XIV of the SFO.
+
+50.  Of immediate present relevance, the section 274 definition operates in tandem with section 213 so that a person who engages in false trading comes within section 213(1)(a)(i)(A). As we have seen, that provision stipulates that where a person has “contravened any of the relevant provisions” (defined in SFO Sch 1 to include “the provisions of this Ordinance” and thus section 274), the CFI, on the application of the SFC, may make one or more of the orders specified in section 213(2)(a) to (g) and in section 213(8). They include restoration orders and orders for damages, as well as ancillary orders in aid of enforcement.
+
+51.  Thus, section 274 provides the definition of “false trading” which may then take effect in combination with the other provisions of the Ordinance mentioned above. It may lead to MMT proceedings and sanctions; or to an individual’s action for damages relating to such market misconduct; or to criminal proceedings; or to an individual’s damages action based on such criminal conduct; or to proceedings by the SFC seeking orders under section 213 on behalf of injured market participants.  
+
+52.  In SFC v Tiger Asia Management LLC,[33] Lord Hoffmann NPJ considered aspects of the interaction among some of the provisions discussed above. He noted that “the remedies provided under [section] 213 serve a different purpose from the penalties which can be imposed by a criminal court or the MMT”.[34] The latter are concerned with imposing penalties in the public interest. His Lordship continued:
+
+“Section 213, on the other hand, provides remedies for the benefit of parties involved in the impugned transactions. They include injunctions and the appointment of receivers to secure property with a view to recovery by the victims of market misconduct, orders that particular transactions be unwound, orders declaring particular transactions to be void or voidable. In these proceedings the SFC acts not as a prosecutor in the general public interest but as protector of the collective interests of the persons dealing in the market who have been injured by market misconduct. Proceedings under [section] 213 are the public law analogue of actions for damages by individuals under [section] 305 rather than a substitute for a criminal prosecution or proceedings before the MMT.”[35]
+
+He added:
+
+“The effect of a declaration by the Court of First Instance under [section] 213 that Tiger has contravened the prohibition on insider dealing is therefore no different from a finding by a civil court that Tiger is liable on the same grounds for damages under [section] 305.”[36]
+
+53.  It is thus wholly untenable to suggest that the SFC’s writ contains no claim at all or that no contravention of section 274 is possible. On a proper appreciation of the inter-related sections of the SFO and in the light of the decision of this Court in Tiger Asia, there can be no doubt that by its writ, the SFC is mounting a claim against the appellants for contravention of sections 274 and 213 read together, claiming the relief previously referred to.
+
+L.  Conclusion
+
+54.  For the foregoing reasons, I concluded that the appeal has to be dismissed.
+
+55.  As requested by the parties, I would direct that they be at liberty to lodge submissions in writing as to costs here and below within 14 days from the date of these Reasons, such submissions to be dealt with on the papers.
+
+Mr Justice Fok PJ :
+
+56.  I agree with the reasons for judgment of Mr Justice Ribeiro PJ.
+
+Mr Justice Lam PJ :
+
+57.  I agree with the reasons for judgment of Mr Justice Ribeiro PJ.
+
+Madam Justice McLachlin NPJ :
+
+58.  I agree with the reasons for judgment of Mr Justice Ribeiro PJ.
+
+Chief Justice Cheung:
+
+59.  For the foregoing Reasons, the Court unanimously dismissed the appeal and directs that the parties be at liberty to lodge submissions in writing as to costs here and below within 14 days from the date of these Reasons, such submissions to be dealt with on the papers.
+
+ 
+
+ 
+
+(Andrew Cheung)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+ 
+
+(M H Lam)
+Permanent Judge	(Beverley McLachlin)
+Non-Permanent Judge
+ 
+
+Mr Charles Sussex SC and Mr Edward Alder, instructed by MinterEllison LLP, for the 2nd, 3rd, 13th, 14th, 18th and 19th Defendants (Appellants)
+
+Mr Bernard Man SC and Ms Sheena Wong, instructed by Securities and Futures Commission, for the Plaintiff (Respondent)
+
+
+
+APPENDIX
+
+SECURITIES AND FUTURES ORDINANCE (Cap 571)
+
+Section 213 – Injunctions and other orders
+
+(1)  Where—
+
+(a) a person has—
+
+(i)  contravened—
+
+(A)  any of the relevant provisions; ...
+
+(ii)  aided, abetted, or otherwise assisted, counselled or procured a person to commit any such contravention;
+
+(iii)  induced, whether by threats, promises or otherwise, a person to commit any such contravention;
+
+(iv)  directly or indirectly been in any way knowingly involved in, or a party to, any such contravention; or
+
+(v)  attempted, or conspired with others, to commit any such contravention; or
+
+...
+
+the Court of First Instance, on the application of the Commission, may, subject to subsection (4), make one or more of the orders specified in subsection (2).
+
+(2)  The orders specified for the purposes of subsection (1) are—
+
+(a)  an order restraining or prohibiting the occurrence or the continued occurrence of any of the matters referred to in subsection (1)(a)(i) to (v);
+
+(b)  where a person has been, or it appears that a person has been, is or may become, involved in any of the matters referred to in subsection (1)(a)(i) to (v), whether knowingly or otherwise, an order requiring the person to take such steps as the Court of First Instance may direct, including steps to restore the parties to any transaction to the position in which they were before the transaction was entered into;
+
+(c)  an order restraining or prohibiting a person from acquiring, disposing of, or otherwise dealing in, any property specified in the order;
+
+(d)  an order appointing a person to administer the property of another person;
+
+(e)  an order declaring a contract relating to any securities, structured product, futures contract, leveraged foreign exchange contract, or an interest in any securities, structured product, futures contract, leveraged foreign exchange contract or collective investment scheme to be void or voidable to the extent specified in the order;
+
+(f)  for the purpose of securing compliance with any other order made under this section, an order directing a person to do or refrain from doing any act specified in the order;
+
+(g)  any ancillary order which the Court of First Instance considers necessary in consequence of the making of any of the orders referred to in paragraphs (a) to (f). ...
+
+(4)  The Court of First Instance shall, before making an order under subsection (1) or (3A), satisfy itself, so far as it can reasonably do so, that it is desirable that the order be made, and that the order will not unfairly prejudice any person. ...
+
+(6)  Where the Court of First Instance considers it desirable to do so, it may grant such interim order as it considers appropriate pending the determination of an application made pursuant to subsection (1) ...
+
+(7)  An order may be made under subsection (1) ... whether or not it appears to the Court of First Instance that—
+
+(a)  the person against whom the order is made intends to engage again, or to continue to engage, in any of the matters referred to in subsection (1)(a)(i) to (v);
+
+(b)  the person against whom the order is made has previously engaged in any of such matters;
+
+(c)  there is an imminent danger of damage to any person in the event of the order not being made.
+
+(8)  Where the Court of First Instance has power to make an order against a person under subsection (1) ..., it may, in addition to or in substitution for such order, make an order requiring the person to pay damages to any other person.
+
+(9)  The Court of First Instance may reverse, vary or discharge an order made or granted by it under subsection (1), ... or (6) or suspend the operation of the order. ...
+
+ 
+
+Section 245(1) – Market misconduct
+
+market misconduct means—
+
+(a)  insider dealing;
+
+(b)  false trading within the meaning of section 274;
+
+(c)  price rigging within the meaning of section 275;
+
+(d)  disclosure of information about prohibited transactions within the meaning of section 276;
+
+(e)  disclosure of false or misleading information inducing transactions within the meaning of section 277; or
+
+(f)  stock market manipulation within the meaning of section 278,
+
+and includes attempting to engage in, or assisting, counselling or procuring another person to engage in, any of the conduct referred to in paragraphs (a) to (f);
+
+relevant recognized market —
+
+(a)  in relation to securities, means a recognized stock market; ...
+
+Tribunal means the Market Misconduct Tribunal established by section 251.
+
+ 
+
+Section 245(2) – Inside information
+
+inside information, in relation to a corporation, means specific information that—
+
+(a)  is about—
+
+(i)  the corporation;
+
+(ii)   a shareholder or officer of the corporation; or
+
+(iii)  the listed securities of the corporation or their derivatives; and
+
+(b)  is not generally known to the persons who are accustomed or would be likely to deal in the listed securities of the corporation but would if generally known to them be likely to materially affect the price of the listed securities;
+
+ 
+
+Section 257 – Orders, etc. of Tribunal
+
+(1)  Subject to subsection (3), the Tribunal may at the conclusion of any proceedings instituted under section 252 make one or more of the following orders in respect of a person identified as having engaged in market misconduct pursuant to section 252(3)(b)—
+
+(a)  an order that the person shall not, without the leave of the Court of First Instance, be or continue to be a director, [etc]... of a listed corporation or any other specified corporation or ... be concerned ... in the management of a listed corporation or any other specified corporation for the period (not exceeding 5 years) specified in the order;
+
+(b)  an order that the person shall not, without the leave of the Court of First Instance, in Hong Kong, ... acquire, dispose of or otherwise deal in any securities, [etc] ... for the period (not exceeding 5 years) specified in the order;
+
+(c)  an order that the person shall not again perpetrate any conduct which constitutes such market misconduct as is specified in the order (whether the same as the market misconduct in question or not);
+
+(d)  an order that the person pay to the Government an amount not exceeding the amount of any profit gained or loss avoided by the person as a result of the market misconduct in question;
+
+(e)  ... an order that the person pay to the Government the sum the Tribunal considers appropriate for the costs and expenses reasonably incurred by the Government in relation or incidental to the proceedings;
+
+(f)  ... an order that the person pay to the Commission the sum the Tribunal considers appropriate for the costs and expenses reasonably incurred by the Commission ...
+
+ 
+
+Section 270 – Insider dealing
+
+(1)  Insider dealing in relation to a listed corporation takes place—
+
+(a)  when a person connected with the corporation and having information which he knows is inside information in relation to the corporation—  
+
+(i)  deals in the listed securities of the corporation or their derivatives, or in the listed securities of a related corporation of the corporation or their derivatives; or
+
+(ii)  counsels or procures another person to deal in such listed securities or derivatives, knowing or having reasonable cause to believe that the other person will deal in them; ... [other instances of insider dealing listed]
+
+ 
+
+Section 274 – False trading
+
+(1)  False trading takes place when, in Hong Kong or elsewhere, a person does anything or causes anything to be done, with the intention that, or being reckless as to whether, it has, or is likely to have, the effect of creating a false or misleading appearance—
+
+(a)  of active trading in securities or futures contracts traded on a relevant recognized market or by means of authorized automated trading services; or
+
+(b)  with respect to the market for, or the price for dealings in, securities or futures contracts traded on a relevant recognized market or by means of authorized automated trading services.
+
+(2)  False trading takes place when, in Hong Kong, a person does anything or causes anything to be done, with the intention that, or being reckless as to whether, it has, or is likely to have, the effect of creating a false or misleading appearance—
+
+(a)  of active trading in securities or futures contracts traded on a relevant overseas market; or
+
+(b)  with respect to the market for, or the price for dealings in, securities or futures contracts traded on a relevant overseas market.
+
+(3)  False trading takes place when, in Hong Kong or elsewhere, a person takes part in, is concerned in, or carries out, directly or indirectly, one or more transactions (whether or not any of them is a dealing in securities or futures contracts), with the intention that, or being reckless as to whether, it or they has or have, or is or are likely to have, the effect of creating an artificial price, or maintaining at a level that is artificial (whether or not it was previously artificial) a price, for dealings in securities or futures contracts traded on a relevant recognized market or by means of authorized automated trading services.
+
+(4)  False trading takes place when, in Hong Kong, a person takes part in, is concerned in, or carries out, directly or indirectly, one or more transactions (whether or not any of them is a dealing in securities or futures contracts), with the intention that, or being reckless as to whether, it or they has or have, or is or are likely to have, the effect of creating an artificial price, or maintaining at a level that is artificial (whether or not it was previously artificial) a price, for dealings in securities or futures contracts traded on a relevant overseas market.
+
+(5)  Without limiting the general nature of the conduct which constitutes false trading under subsection (1) or (2), where a person—
+
+(a)  enters into or carries out, directly or indirectly, any transaction of sale or purchase, or any transaction which purports to be a transaction of sale or purchase, of securities that does not involve a change in the beneficial ownership of them;
+
+(b)  offers to sell securities at a price that is substantially the same as the price at which he has made or proposes to make, or knows that an associate of his has made or proposes to make, an offer to purchase the same or substantially the same number of them; or
+
+(c)  offers to purchase securities at a price that is substantially the same as the price at which he has made or proposes to make, or knows that an associate of his has made or proposes to make, an offer to sell the same or substantially the same number of them,
+
+then, unless the transaction in question is an off-market transaction, the person shall, for the purposes of subsections (1) and (2), be regarded as doing something or causing something to be done, with the intention that, or being reckless as to whether, it has, or is likely to have, the effect of creating a false or misleading appearance—
+
+(i)  where the securities are traded on a relevant recognized market or by means of authorized automated trading services, of active trading in securities so traded or with respect to the market for, or the price for dealings in, securities so traded; or
+
+(ii)  where the securities are traded on a relevant overseas market, of active trading in securities so traded or with respect to the market for, or the price for dealings in, securities so traded. ...
+
+ 
+
+Section 275 – Price rigging
+
+(1)  Price rigging takes place when, in Hong Kong or elsewhere, a person—
+
+(a)  enters into or carries out, directly or indirectly, any transaction of sale or purchase of securities that does not involve a change in the beneficial ownership of those securities, which has the effect of maintaining, increasing, reducing, stabilizing, or causing fluctuations in, the price of securities traded on a relevant recognized market or by means of authorized automated trading services; or
+
+(b)  enters into or carries out, directly or indirectly, any fictitious or artificial transaction or device, with the intention that, or being reckless as to whether, it has the effect of maintaining, increasing, reducing, stabilizing, or causing fluctuations in, the price of securities, or the price for dealings in futures contracts, that are traded on a relevant recognized market or by means of authorized automated trading services ...
+
+ 
+
+Section 276 – Disclosure of information about prohibited transactions
+
+(1)  Disclosure of information about prohibited transactions takes place when a person discloses, circulates or disseminates, or authorizes or is concerned in the disclosure, circulation or dissemination of, information to the effect that the price of securities of a corporation, or the price for dealings in futures contracts, that are traded on a relevant recognized market or by means of authorized automated trading services will be maintained, increased, reduced or stabilized, or is likely to be maintained, increased, reduced or stabilized, because of a prohibited transaction relating to securities of either the corporation or a related corporation of the corporation or to the futures contracts (as the case may be), if he, or an associate of his—
+
+(a)  has entered into or carried out, directly or indirectly, the prohibited transaction; or
+
+(b)  has received, or expects to receive, directly or indirectly, a benefit as a result of the disclosure, circulation or dissemination of the information. ...
+
+ 
+
+Section 277 – Disclosure of false or misleading information inducing transactions
+
+(1)  Disclosure of false or misleading information inducing transactions takes place when, in Hong Kong or elsewhere, a person discloses, circulates or disseminates, or authorizes or is concerned in the disclosure, circulation or dissemination of, information that is likely—
+
+(a)  to induce another person to subscribe for securities, or deal in futures contracts, in Hong Kong;
+
+(b)  to induce the sale or purchase in Hong Kong of securities by another person; or
+
+(c)  to maintain, increase, reduce or stabilize the price of securities, or the price for dealings in futures contracts, in Hong Kong,
+
+if—
+
+(i)  the information is false or misleading as to a material fact, or is false or misleading through the omission of a material fact; and
+
+(ii)  the person knows that, or is reckless or negligent as to whether, the information is false or misleading as to a material fact, or is false or misleading through the omission of a material fact. ...
+
+ 
+
+Section 278 – Stock market manipulation
+
+(1)  Stock market manipulation takes place when, in Hong Kong or elsewhere—
+
+(a)  a person enters into or carries out, directly or indirectly, 2 or more transactions in securities of a corporation that by themselves or in conjunction with any other transaction increase, or are likely to increase, the price of any securities traded on a relevant recognized market or by means of authorized automated trading services, with the intention of inducing another person to purchase or subscribe for, or to refrain from selling, securities of the corporation or of a related corporation of the corporation;
+
+(b)  a person enters into or carries out, directly or indirectly, 2 or more transactions in securities of a corporation that by themselves or in conjunction with any other transaction reduce, or are likely to reduce, the price of any securities traded on a relevant recognized market or by means of authorized automated trading services, with the intention of inducing another person to sell, or to refrain from purchasing, securities of the corporation or of a related corporation of the corporation; or
+
+(c)  a person enters into or carries out, directly or indirectly, 2 or more transactions in securities of a corporation that by themselves or in conjunction with any other transaction maintain or stabilize, or are likely to maintain or stabilize, the price of any securities traded on a relevant recognized market or by means of authorized automated trading services, with the intention of inducing another person to sell, purchase or subscribe for, or to refrain from selling, purchasing or subscribing for, securities of the corporation or of a related corporation of the corporation. ...
+
+ 
+
+Section 281 - Civil liability for market misconduct
+
+(1)  Subject to subsection (2), a person who has committed a relevant act in relation to market misconduct shall, whether or not he also incurs any other liability (whether under this Part or otherwise), be liable to pay compensation by way of damages to any other person for any pecuniary loss sustained by the other person as a result of the market misconduct, whether or not the loss arises from the other person having entered into a transaction or dealing at a price affected by the market misconduct.
+
+(2)  No person shall be liable to pay compensation under subsection (1) unless it is fair, just and reasonable in the circumstances of the case that he should be so liable.
+
+(3)  For the purposes of this section, a person shall, subject to subsection (4), be regarded as having committed a relevant act in relation to market misconduct if—
+
+(a)  he has perpetrated any conduct which constitutes market misconduct;
+
+(b)     (i)  another person which is a corporation has committed a relevant act in   relation to market misconduct under paragraph (a); and
+
+(ii)  the market misconduct occurred with his consent or connivance as an officer of the corporation; or
+
+(c)     (i)  any other person has committed a relevant act in relation to market   misconduct under paragraph (a); and
+
+(ii)  he assisted or connived with that other person in the perpetration of any conduct which constitutes the market misconduct, with the knowledge that such conduct constitutes or might constitute market misconduct. ...
+
+(5)  A person may bring an action under subsection (1) even though the person against whom the action is brought—
+
+(a)  is not a person whose conduct has been the subject, whether wholly or in part, of any proceedings instituted under section 252 in respect of the market misconduct from which the pecuniary loss of the person bringing the action is alleged to result; or
+
+(b)  has not been identified by the Tribunal pursuant to section 252(3)(b) as having engaged in the market misconduct. …
+
+ 
+
+Section 295 - Offence of false trading
+
+(1)  A person shall not, in Hong Kong or elsewhere, do anything or cause anything to be done, with the intention that, or being reckless as to whether, it has, or is likely to have, the effect of creating a false or misleading appearance—
+
+(a)  of active trading in securities or futures contracts traded on a relevant recognized market or by means of authorized automated trading services; or
+
+(b)  with respect to the market for, or the price for dealings in, securities or futures contracts traded on a relevant recognized market or by means of authorized automated trading services.
+
+(2)  [Activities concerning a relevant overseas market.]
+
+(3)  A person shall not, in Hong Kong or elsewhere, take part in, be concerned in, or carry out, directly or indirectly, one or more transactions (whether or not any of them is a dealing in securities or futures contracts), with the intention that, or being reckless as to whether, it or they has or have, or is or are likely to have, the effect of creating an artificial price, or maintaining at a level that is artificial (whether or not it was previously artificial) a price, for dealings in securities or futures contracts traded on a relevant recognized market or by means of authorized automated trading services.
+
+(4)  [Activities concerning a relevant overseas market.] ...
+
+(6)  Subject to subsection (7), a person who contravenes subsection (1), (2), (3) or (4) commits an offence. ...
+
+ 
+
+Section 296 –  Offence of price rigging
+
+(1)  A person shall not, in Hong Kong or elsewhere—
+
+(a)  enter into or carry out, directly or indirectly, any transaction of sale or purchase of securities that does not involve a change in the beneficial ownership of those securities, which has the effect of maintaining, increasing, reducing, stabilizing, or causing fluctuations in, the price of securities traded on a relevant recognized market or by means of authorized automated trading services; or
+
+(b)  enter into or carry out, directly or indirectly, any fictitious or artificial transaction or device, with the intention that, or being reckless as to whether, it has the effect of maintaining, increasing, reducing, stabilizing, or causing fluctuations in, the price of securities, or the price for dealings in futures contracts, that are traded on a relevant recognized market or by means of authorized automated trading services. …
+
+ 
+
+Section 298 – Offence of disclosure of false or misleading information inducing transactions
+
+(1)  A person shall not, in Hong Kong or elsewhere, disclose, circulate or disseminate, or authorize or be concerned in the disclosure, circulation or dissemination of, information that is likely—
+
+(a)  to induce another person to subscribe for securities, or deal in futures contracts, in Hong Kong;
+
+(b)  to induce the sale or purchase in Hong Kong of securities by another person; or
+
+(c)  to maintain, increase, reduce or stabilize the price of securities, or the price for dealings in futures contracts, in Hong Kong,
+
+if—
+
+(i)  the information is false or misleading as to a material fact, or is false or misleading through the omission of a material fact; and
+
+(ii)  the person knows that, or is reckless as to whether, the information is false or misleading as to a material fact, or is false or misleading through the omission of a material fact.
+
+ 
+
+Section 299 – Offence of stock market manipulation
+
+(1)  A person shall not, in Hong Kong or elsewhere—
+
+(a)  enter into or carry out, directly or indirectly, 2 or more transactions in securities of a corporation that by themselves or in conjunction with any other transaction increase, or are likely to increase, the price of any securities traded on a relevant recognized market or by means of authorized automated trading services, with the intention of inducing another person to purchase or subscribe for, or to refrain from selling, securities of the corporation or of a related corporation of the corporation;
+
+(b)  enter into or carry out, directly or indirectly, 2 or more transactions in securities of a corporation that by themselves or in conjunction with any other transaction reduce, or are likely to reduce, the price of any securities traded on a relevant recognized market or by means of authorized automated trading services, with the intention of inducing another person to sell, or to refrain from purchasing, securities of the corporation or of a related corporation of the corporation; or
+
+(c)  enter into or carry out, directly or indirectly, 2 or more transactions in securities of a corporation that by themselves or in conjunction with any other transaction maintain or stabilize, or are likely to maintain or stabilize, the price of any securities traded on a relevant recognized market or by means of authorized automated trading services, with the intention of inducing another person to sell, purchase or subscribe for, or to refrain from selling, purchasing or subscribing for, securities of the corporation or of a related corporation of the corporation. ...
+
+ 
+
+Section 305 – Civil liability for contravention of this Part
+
+(1)  Subject to subsections (2) and (3), a person who contravenes any of the provisions of Divisions 2 to 4 shall, whether or not he also incurs any other liability (whether under section 303 or otherwise), be liable to pay compensation by way of damages to any other person for any pecuniary loss sustained by the other person as a result of the contravention, whether or not the loss arises from the other person having entered into a transaction or dealing at a price affected by the contravention.
+
+(2)  No person shall be liable to pay compensation under subsection (1) unless it is fair, just and reasonable in the circumstances of the case that he should be so liable.
+
+(3)  A defence under this Part to a charge for an offence in respect of a contravention of any of the provisions of Divisions 2 to 4 shall also be a defence in an action brought under subsection (1) in respect of the same contravention.
+
+(4)  A person may bring an action under subsection (1) in respect of a contravention of any of the provisions of Divisions 2 to 4 even though the person against whom the action is brought has not been charged with or convicted of an offence by reason of the contravention. ...
+
+ 
+
+SFO Schedule 1 -Interpretation
+
+relevant provisions means the provisions of—
+
+(a) this Ordinance; ...
+
+recognized stock market means a stock market operated by a recognized exchange company 
+
+ 
+
+THE RULES OF THE HIGH COURT (Cap 4A)
+
+Order11 - Service of Process, etc, out of the Jurisdiction
+
+O 11 r 1(1)
+
+1.  Principal cases in which service of writ out of jurisdiction is permissible (O. 11, r. 1)
+
+(1)   Provided that the writ is not a writ to which paragraph (2) of this rule applies, service of a writ out of the jurisdiction is permissible with the leave of the Court if in the action begun by the writ— ...
+
+(b)   an injunction is sought ordering the defendant to do or refrain from doing anything within the jurisdiction (whether or not damages are also claimed in respect of a failure to do or the doing of that thing); ...
+
+(f)   the claim is founded on a tort and the damage was sustained, or resulted from an act committed, within the jurisdiction; ...
+
+O 11 r 1(2)
+
+(2)   Service of a writ out of the jurisdiction is permissible without the leave of the Court provided that each claim made by the writ is—
+
+(b)   a claim which by virtue of any written law the Court of First Instance has power to hear and determine notwithstanding that the person against whom the claim is made is not within the jurisdiction of the Court or that the wrongful act, neglect or default giving rise to the claim did not take place within its jurisdiction.
+
+ 
+
+O 11 r 4(2)
+
+(2)   No such leave shall be granted unless it shall be made sufficiently to appear to the Court that the case is a proper one for service out of the jurisdiction under this Order.
+
+[1]  The 2nd, 3rd, 13th, 14th, 18th and 19th defendants.
+
+[2]  Cap 571. Reference was also made to section 295, which concerns the criminal offence of false trading.
+
+[3]  [2021] 3 HKLRD 777.
+
+[4]  Yuen and Au JJA [2023] 1 HKLRD 983, Yuen JA writing for the Court.
+
+[5]  O 11 r 1(1)(b) provides: “Provided that the writ is not a writ to which paragraph (2) of this rule applies, service of a writ out of the jurisdiction is permissible with the leave of the Court if in the action begun by the writ — (b) an injunction is sought ordering the defendant to do or refrain from doing anything within the jurisdiction (whether or not damages are also claimed in respect of a failure to do or the doing of that thing) ...”
+
+[6]  AWC§3.
+
+[7]  AWC§34(2).
+
+[8]  AWC§79.
+
+[9]  There is no paragraph (a).
+
+[10]  Section 274 refers to the effect on a “relevant recognized market” which SFO Sch 1 defines to mean “a stock market operated by a recognized exchange company” and which SFO section 19 restricts to a stock market operated by the Stock Exchange Company.
+
+[11]  SFO section 275.
+
+[12]  SFO section 277.
+
+[13]  SFO section 278.
+
+[14]  SFO sections 295, 296, 298 and 299.
+
+[15]  [1992] Ch 72.
+
+[16]  Ibid at p 116.
+
+[17]  Ibid.
+
+[18]  [1992] 2 HKLR 39 at p 42.
+
+[19]  [2005] HKEC 2140 at §§25-31.
+
+[20]  [2014] 5 HKLRD 558.
+
+[21]  Noting (at §50) that the gateways under O 11 r 1(1) were ill-adapted to covering a winding-up petition, he held that, though far from ideal, reliance might be placed on rule 210 of the Companies (Winding-up) Rules for this purpose.
+
+[22]  Cap 32, since renamed the Companies (Winding Up and Miscellaneous Provisions) Ordinance.
+
+[23]  [2014] 5 HKLRD 558 at §45 (footnote omitted, emphasis in the original).
+
+[24]  Ibid at §48.
+
+[25]  AWC§3.
+
+[26]  AWC§34(2).
+
+[27]  AWC§79.
+
+[28]  SFO section 270.
+
+[29]  SFO section 275.
+
+[30]  SFO section 276.
+
+[31]  SFO section 277.
+
+[32]  SFO section 278.
+
+[33]  (2013) 16 HKCFAR 324.
+
+[34]  Ibid at §16.
+
+[35]  Ibid.
+
+[36]  Ibid at §17.
+
+  

@@ -1,0 +1,551 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 4 of 2022
+
+[2022] HKCFA 11
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 4 OF 2022 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 158 OF 2017)
+
+____________________
+
+BETWEEN	 	 
+ 	SHANDONG CHENMING PAPER HOLDINGS LIMITED	Plaintiff
+(Appellant)
+ 	and	 
+ 	ARJOWIGGINS HKK 2 LIMITED	Defendant
+(Respondent)
+____________________
+
+Before: Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ and Lord Collins of Mapesbury NPJ
+
+Date of Hearing: 17 May 2022
+
+Date of Judgment: 14 June 2022
+
+____________________
+
+JUDGMENT
+
+____________________
+
+Chief Justice Cheung:
+
+1.  I agree with the joint judgment of Mr Justice Fok PJ and Mr Justice Lam PJ.
+
+Mr Justice Ribeiro PJ:
+
+2.  I agree with the joint judgment of Mr Justice Fok PJ and Mr Justice Lam PJ.
+
+Mr Justice Fok PJ and Mr Justice Lam PJ:
+
+A.    Introduction
+
+3.  As explained in Kam Leung Sui Kwan v Kam Kwan Lai[1] (which we shall refer to as “Yung Kee”), the statutory jurisdiction to wind up a foreign-incorporated company in Hong Kong is subject to self-imposed restraints that have been articulated as three threshold, or so-called core, requirements which must be satisfied before the court will exercise that jurisdiction.[2]  These are that:
+
+(1)  There must be a sufficient connection with Hong Kong, but this did not necessarily have to consist in the presence of assets within the jurisdiction;
+
+(2)  There must be a reasonable possibility that the winding-up order would benefit those applying for it; and
+
+(3)  The court must be able to exercise jurisdiction over one or more persons in the distribution of the company’s assets.
+
+4.  This appeal is concerned with the second of those three core requirements, the Appeal Committee having granted leave to appeal on the following question of law:[3]
+
+“Should the Hong Kong Court exercise its winding-up jurisdiction over foreign companies on the basis that a ‘benefit’ is made out under the 2nd core requirement if such ‘benefit’ does not arise as a consequence of the winding-up order being made, but rather, would only ever be realized if the winding-up order is either avoided or discharged?
+
+Put another way, is the ‘leverage’ created by the prospect of a winding-up (as opposed to the making of a winding-up order) a legitimate form of ‘benefit’ under the 2nd core requirement?”
+
+A.1    Background facts
+
+5.  The background facts can conveniently be taken largely from the summary provided in the judgment of the Court of Appeal.[4]
+
+6.  The appellant is a company incorporated in the Mainland of the PRC and its shares, both A and B shares, are listed on the Shenzhen Stock Exchange.  It also has a primary listing of H shares on the Stock Exchange of Hong Kong Limited.  It is registered as a non-Hong Kong company under Part 16 of the Companies Ordinance (Cap.622), having a place of business in Hong Kong.  Its main businesses include paper manufacturing, forestry, finance and real estate.  According to its audited financial statements for the year ended 2015, it had net assets in excess of RMB16 billion, and operated profitably.
+
+7.  The appellant and the respondent established a joint venture in the Mainland pursuant to an agreement entered into in October 2005.  After disputes arose between them, in October 2012, the respondent commenced an arbitration against the appellant in Hong Kong pursuant to the joint venture agreement alleging breach of that agreement.  In November 2015, the arbitral tribunal rendered an award in the arbitration ordering the appellant to pay damages of RMB167,860,000 to the respondent.  The respondent having obtained an order from the Court of First Instance granting it leave to enforce the award in Hong Kong on 7 December 2015, the appellant applied to set aside that order and the award.  In October 2016, M. Chan J dismissed that application as being totally without merit and ordered the appellant to pay the respondent’s costs on an indemnity basis.[5]  The appellant did not appeal that decision.
+
+8.  On 18 October 2016, the respondent served a statutory demand on the appellant for (i) RMB273,450,830.10 in respect of contractual damages (including interest); (ii) US$3,807,956.09 in respect of legal fees, costs and interest thereon; and (iii) HK$3,545,075.02 in respect of fees payable to the Hong Kong International Arbitration Centre and the arbitral tribunal and interest thereon.  The appellant did not pay any part of the amounts so demanded.
+
+9.  Instead, on 7 November 2016, the appellant applied ex parte and obtained an interim injunction order from Harris J to prevent the respondent from presenting a petition to wind it up.  An originating summons to continue the injunction was presented the following day.  On 11 November 2016, leave was granted to allow the originating summons to be amended to seek a declaration that, since the appellant is an unregistered company, the respondent would not be able to satisfy the three core requirements for the Hong Kong court to exercise its jurisdiction to wind up the appellant pursuant to section 327(3) of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap.32) and the interim injunction continued until the hearing of the amended originating summons.
+
+A.2    The CFI decision
+
+10.  The three core requirements have already been set out at [3] above.  At the hearing of the amended originating summons before Harris J, the appellant accepted that the first and third core requirements were met in the present case and so the argument proceeded on the question of whether the second requirement, namely whether there was a reasonable possibility that the winding-up order would benefit those applying for it, was met.
+
+11.  Before Harris J, the appellant maintained that it conducted no business in or from Hong Kong and that its only connection with Hong Kong was its listing here.  It contended it had no assets here, so nothing a liquidator could realise for the benefit of the respondent petitioner.  Moreover, a Hong Kong liquidator would not be recognised in the Mainland, so the presence of substantial assets there (of over RMB16 billion) would not avail the respondent.  There was therefore no reasonable prospect that the respondent would benefit from the making of a winding-up order in Hong Kong and it should take steps to enforce the award in the Mainland instead.[6]
+
+12.  For its part, the respondent contended that the second core requirement was satisfied either by the appellant’s H share listed status being a valuable and realisable asset in Hong Kong, or alternatively, by steps a liquidator might take to investigate a restructuring of the appellant that occurred in 2015 by which a formerly directly held Hong Kong subsidiary of the appellant became an indirect subsidiary by the interposition of Mainland and BVI companies and to recover assets held by that subsidiary for the benefit of the respondent and other creditors.[7]
+
+13.  Harris J found against the respondent in respect of both those arguments.[8]  However, the judge ruled against the appellant on its amended originating summons, holding that the second core requirement was nevertheless satisfied because the leverage created by the prospect of a winding-up petition constituted sufficient benefit for the respondent[9] and, alternatively, because the second core requirement could be moderated on the basis that the appellant’s failure to pay the award amounted, in a non-technical sense, to contempt for the High Court of Hong Kong.[10]
+
+A.3    The presentation of the petition and its adjournment
+
+14.  In the light of the CFI Judgment, the interim injunction granted by Harris J lapsed and the respondent presented a winding-up petition in respect of the appellant in HCCW 175/2017.  At the first hearing of the petition, pending an appeal by the appellant against the CFI Judgment, Harris J adjourned the petition sine die upon the appellant undertaking to procure a third party to pay into court the sums of HK$355,141,100.06 (the HKD equivalent of the amounts claimed in the statutory demand) and HK$33,971,332.38 (being interest thereon).  Those sums were subsequently duly paid into court by a third party with payment out to be made upon further court order.
+
+A.4    The Court of Appeal decision
+
+15.  Before the Court of Appeal, the appellant argued, amongst other points, that the benefit from the prospect of a winding-up order is not a benefit from the making of an order.  It was also contended that Harris J had been wrong to hold that the second core requirement could be moderated and to moderate it as he did.
+
+16.  The Court of Appeal upheld the judge’s decision, for reasons that will be explored later in this judgment, and dismissed the appeal.  In short, the Court of Appeal agreed with Harris J that there was a real possibility of benefit to the respondent in the making of a winding-up order against the appellant.[11]  They were disinclined to agree with the judge that the second core requirement was capable of moderation but ultimately concluded it was not necessary to consider whether, had it been possible to dispense with the second core requirement, this would have been an appropriate case in which to do so.[12]
+
+B.    The appellant’s contentions in this appeal
+
+17.  The appellant’s answer to the certified question set out at [4] above is “No”.[13]  In summary, there are two broad bases in the appellant’s case for that negative answer.
+
+18.  First, the appellant contends that the core requirements are jurisdictional restraints, and that their rationale is comity and the concomitant presumption against extra-territoriality. Because of this, the argument proceeds, the proper interpretation of the core requirements must be informed by their limitations and the principle of non-interference, and in particular that comity militates against accepting leverage as a proper benefit.  This strand of the appellant’s case will be addressed below as “the appellant’s comity argument”.
+
+19.  Next, in addition to the appellant’s comity argument, the appellant separately contends that the second core requirement has always insisted that the benefit referred to has to be a benefit resulting from the making of the winding-up order and that there is no justification for departing from this understanding of the second core requirement.  The appellant also argues that the authorities demonstrate that the nature of the benefit contemplated is property which is either money or something convertible into money, such as assets or choses in action, rather than an intangible benefit in a loose or broad sense, and there is no warrant to create new categories of benefit.  This strand of the appellant’s case will be addressed below as “the ‘need for the making of a winding-up order’ argument”.
+
+C.    Benefit under the 2nd Core Requirement
+
+C.1    The purpose of the 3 Core Requirements and the limited scope of this appeal
+
+20.  The statutory jurisdiction of the Hong Kong courts to wind up a foreign-incorporated company[14] is to be found in sections 327(1) and (3) of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap.32) (“the Ordinance”) which materially provide:
+
+“(1) Subject to the provisions of this Part, any unregistered company may be wound up under this Ordinance, …
+
+…
+
+(3) The circumstances in which an unregistered company may be wound up are as follows –
+
+(a) if the company is dissolved, or has ceased to carry on business, or is carrying on business only for the purpose of winding up its affairs;
+
+(b) if the company is unable to pay its debts;
+
+(c) if the court is of opinion that it is just and equitable that the company should be wound up.”
+
+21.  As indicated at [3] above, the three threshold or core requirements were approved by this Court in Yung Kee.  There is no controversy in this appeal as to the articulation of the three requirements and there is no cause now to revisit them.  The issue in this appeal is a narrow one, limited to the nature of the benefit that will satisfy the second requirement so that, if all three requirements are satisfied, the court may exercise its jurisdiction to make a winding-up order in respect of the company concerned.
+
+22.  At the outset, it is important to keep in mind that the three requirements articulated in Yung Kee are not statutory provisions and their interpretation should not be approached as if it were an exercise of statutory construction.[15] Their purpose, it should be remembered, is as self-imposed restraints on the exercise of jurisdiction to set in motion the court’s winding-up procedures over a body which prima facie is beyond the limits of territoriality[16] and there are many examples of the courts exercising that jurisdiction.
+
+23.  The Appellant refers to the three requirements as jurisdictional restraints.  But they do not go to the existence of the jurisdiction to wind up foreign companies (which is entirely statutory).  Rather, they are a judicially fashioned threshold for the exercise of the statutory jurisdiction to wind up a foreign company.[17]  It is not normally necessary to distinguish between the existence of jurisdiction and the discretion to exercise it.[18]  But in a context where it is necessary to draw the distinction,[19] it has been held in a series of decisions commencing with In re Drax Holdings Ltd[20] that the three requirements go to the discretion of the court, and not to the existence of its jurisdiction.  The discretionary core requirements play a role in the international context, where the court will not wind up a foreign company in cases in which it has no legitimate interest to do so, for that would be to exercise an exorbitant jurisdiction contrary to international comity.[21]  It is therefore preferable to refer to these requirements as threshold requirements, to avoid their description as “core” requirements being misunderstood as suggesting they go to the existence of the jurisdiction itself.
+
+24.  The conclusion, in any given case, that the self-imposed restraints do not preclude the existence of jurisdiction to wind up is to be distinguished from the subsequent question as to whether a winding-up order should actually be made: see [36] and [77] below.  This distinction is well illustrated by the case of Yung Kee itself.[22]  It is also illustrated in the present case by the fact that the appellant’s application below was an attempt to obtain an order of the Court of First Instance preventing the presentation of a winding-up petition by the respondent.
+
+C.2    The “need for the making of a winding-up order” argument
+
+25.  It is convenient to address this argument first.  The appellant contends that, under the second requirement, the benefit must arise from the making of a winding-up order and not from any pressure, or leverage, arising before such an order is actually made.  Therefore, in a case such as the present, where the company has no assets in Hong Kong, the fact that its H share listing on the Stock Exchange of Hong Kong means that it is vulnerable to commercial pressure to pay or procure payment to a creditor in respect of a debt incurred outside Hong Kong should not be held to constitute a legitimate benefit for the purpose of invoking the winding-up jurisdiction in Hong Kong.  In fact, the appellant contends, the commercial pressure exerted by the presentation of the winding-up petition demonstrates a logical conundrum: the petitioner is invoking the jurisdiction precisely in order to force a commercial result (payment of the debt) that will result in a winding-up order not being made.  Accordingly, the argument goes, the commercial pressure on a solvent company to pay or procure payment of the debt from assets outside Hong Kong, insofar as it is a benefit to the petitioner because it may lead to actual payment being made, is an illegitimate form of benefit for the purposes of the second requirement.
+
+26.  The principal basis for the appellant’s argument that, for the purposes of the second requirement, the benefit must flow from the making of a winding-up order and not otherwise, is the articulation of that requirement in Yung Kee, namely:
+
+“… there is a reasonable prospect that the petitioner will derive a sufficient benefit from the making of a winding-up order, whether by the distribution of its assets or otherwise, will always be necessary and will often be sufficient.”[23]
+
+27.  It is the appellant’s case that the necessary benefit must be a sufficient and tangible benefit that results from the making of a winding-up order, usually through the recovery of assets, whether money or tangible or intangible property convertible into money.  In support, the appellant cites: (1) In re Compania Merabello San Nicholas S.A.;[24] (2) In re Eloc Electro-Optieck and Communicatie B.V.;[25] (3) International Westminster Bank plc v Okeanos Maritime Corp;[26] and (4) Re Real Estate Development Co.[27]
+
+28.  Whilst these cases did involve the recognition of a benefit arising from the making of a winding-up order, it does not follow that benefit for the purposes of the second requirement is limited only to one arising from that event.  Indeed, as will be seen, in the case of an undisputed debt due and owing from a company to a creditor, there is a well-recognised statutory mechanism to seek payment of that debt by the presentation of a winding-up petition.
+
+C.3    The statutory demand mechanism to prove a company’s inability to pay its debts
+
+29.  One of the circumstances in which a company may be wound up is where it is “unable to pay its debts”: see section 327(3)(b) of the Ordinance in the case of an unregistered company, set out above, and section 177(1)(d) of the Ordinance, in materially similar terms, in the case of a registered company.
+
+30.  There is a statutory mechanism that deems a company unable to pay its debts.  Under section 327(4)(a) of the Ordinance, it is provided that:
+
+“An unregistered company shall, for the purposes of this Ordinance, be deemed to be unable to pay its debts –
+
+(a) if –
+
+(i) a creditor, by assignment or otherwise, to whom the company is indebted in a sum then due that equals or exceeds the specified amount, has served on the company a written demand in the prescribed form requiring the company to pay the sum so due –
+
+(A) by leaving the demand at the principal place of business of the company;
+
+(B) by delivering the demand to any officer of the company; or
+
+(C) by otherwise serving the demand in any manner that the court may approve or direct; and
+
+(ii) the company has for 3 weeks after the service of the demand neglected to pay the sum, or to secure or compound for it to the reasonable satisfaction of the creditor”.
+
+A like deeming provision applies in relation to the service of a statutory demand in respect of a debt due from a registered company: see section 178(1)(a) of the Ordinance.
+
+31.  The statutory demand mechanism that finds its current version in the Ordinance was first introduced in England and Wales, in respect of registered companies, by section 68(1) of the Joint Stock Companies Act 1856.  It was then extended to unregistered companies as well when that act was replaced by the Companies Act 1862: see sections 80(1) (for registered companies) and 199(4)(a) (for unregistered companies).
+
+32.  In Hong Kong, the statutory demand mechanism was introduced by section 79(1) of the Companies Ordinance (Ord. No. 1 of 1865) and, being based on the Joint Stock Companies Act 1856, was limited to registered companies.  The 1865 Ordinance was replaced by the Companies Ordinance (Ord. No. 58 of 1911), which introduced provisions for the winding up of unregistered companies and extended the statutory demand mechanism to both registered (section 131(i)) and unregistered (section 246(1)(iv)(a)) companies.
+
+33.  The structure and wording of the relevant provisions in Hong Kong have remained largely identical since 1911.  By the Companies (Winding Up and Miscellaneous Provisions) (Amendment) Ordinance 2016, an amendment was made to introduce a prescribed form for the statutory demand.  That amending ordinance implemented certain recommendations made by the Law Reform Commission in its 1999 report on “The Winding-up Provisions of the Companies Ordinance”.  In that report, the Law Reform Commission considered whether the three circumstances in which a company is deemed to be unable to pay its debts under section 178(1), including the non-compliance with a statutory demand, were adequate and concluded:
+
+“We are broadly satisfied that these three circumstances are adequate for the purposes of petitioning to wind-up a company that cannot or will not pay its debts. We note that Hong Kong is not alone in providing for a demand that is not based on a judgment as both the Insolvency Act, section 123(1)(a), and the Australian Corporations Law, section 459F, make similar provision. We consider that to change this approach would add considerably to the costs and time involved in recovering debts and we would not support any change. We have made a number of recommendations that should assist in making the process easier to understand and operate.”[28]
+
+34.  The statutory demand mechanism is a “convenient” method of establishing that a company is unable to pay its debts.[29]  It operates as conclusive proof of the company’s inability to pay its debts for the purpose of establishing the court’s jurisdiction to make a winding-up order.  Where the company is so deemed to be unable to pay its debts, it is perfectly proper for a creditor to present a winding-up petition in order to seek an order from the court to wind up the company.  If the company is in fact solvent or has realisable assets, its winding up will eventually result in the creditor receiving a dividend from the company’s liquidator in satisfaction of the proof of debt lodged in the winding up, which may or may not satisfy the whole of that debt.  Most creditors will no doubt hope that the matter is resolved more expeditiously. If the company is indeed solvent, the creditor will hope that the presentation of the petition itself will prompt the company to pay the debt before the matter proceeds to a winding up.  As will be seen, case law recognises the propriety of the use of a winding-up petition as a means of applying commercial pressure to seek payment of an undisputed debt.
+
+35.  In BNY Corporate Trustee Services Ltd v Eurosail-UK 2007-3BL plc, Lord Walker of Gestingthorpe JSC noted:
+
+“A company’s non-compliance with a statutory demand, or non-satisfaction of execution of a judgment debt, is a matter that can be proved quite simply, usually by a single short witness statement. If proved, it establishes the court’s jurisdiction to make a winding up order, even if the company is in fact well able to pay its debts.”[30]
+
+And similar practical reasons for using a statutory demand to prove insolvency and to prompt the debtor to satisfy a debt are summarised in Insolvency Litigation: A Practical Guide, 3rd Ed., (Sweet & Maxwell, 2021) at [3-005]:
+
+“It is not in fact necessary for a creditor to serve a statutory demand on a debtor company before presenting a winding-up petition to the court. … Creditors do however continue to use the statutory demand route as a precursor to the presentation of a winding-up petition. The receipt of such a demand can focus the debtor’s mind on having to deal with the debt or dispute because of the consequences if it fails to do so. It can also flush out whether there is really any valid dispute in relation to the debt, particularly where the debtor has been reluctant to deal with the issue. Statutory demands are relatively cheap and quick to prepare in relation to the impact of receiving one.”
+
+36.  Although failure to comply with a statutory demand establishes, without the need for further proof, an undisputed debt as the basis for petitioning for the winding up of a company, it does not follow that a winding-up order will necessarily be made.  Whether or not the court will ultimately make a winding-up order on the petition is a separate question but, even if the court declines to make the order, it does not follow that the circumstances conferring the winding- up jurisdiction on the court do not exist.  The separate question of whether the court will make a winding-up order arises because the right to an order on proof of a company’s inability to pay its debts is subject to the wishes of the company’s creditors and contributories generally.  As Buckley J explained in In re Crigglestone Coal Company Limited:
+
+“But then comes another consideration, viz., that the order which the petitioner seeks is not an order for his benefit, but an order for the benefit of a class of which he is a member. The right ex debito justitiæ is not his individual right, but his representative right. If a majority of the class are opposed to his view, and consider that they have a better chance of getting payment by abstaining from seizing the assets, then, upon general grounds and upon s.91 of the Companies Act, 1862, the Court gives effect to such right as the majority of the class desire to exercise. This is no exception. It is a recognition of the right, but affirms that it is the right not of the individual, but of the class; that it is for the majority to seek or to decline the order as best serves the interest of their class. It is a matter upon which the majority of the unsecured creditors are entitled to prevail, but on which the debtor has no voice.” [31]
+
+37.  Failure to comply with a statutory demand therefore operates as conclusive proof of insolvency for the purposes of engaging the jurisdiction to wind up a company.  That the jurisdiction may ultimately not be exercised in favour of the making of a winding-up order does not diminish the purpose and effect of the statutory demand mechanism.  So understood, there is no tension between failure to comply with a statutory demand operating as conclusive proof of insolvency (regardless of whether the company is, in fact, solvent) and the principle against using winding-up proceedings as a means of debt collection for disputed debts.  As Harman J observed in Cornhill Insurance plc v Improvement Services Ltd:
+
+“… in my judgment each defendant was entitled to say: ‘I am undoubtedly owed £1,154. If you don’t pay me I must suspect you can’t. Therefore I can properly swear that you are insolvent and I can properly present a winding up petition to the Companies Court’.”[32]
+
+38.  The statutory demand mechanism is accordingly of great importance as a basis for establishing the jurisdiction to petition for the winding up of a company.
+
+C.4    Invocation of the winding-up jurisdiction as a legitimate means to enforce payment of an undisputed debt
+
+39.  It is important to draw a crucial distinction between those debts which are undisputed and those which are disputed.  The presentation of a winding-up petition on the basis of an undisputed debt gives rise ex debito justitiæ to a winding-up order: In re Crigglestone Coal Company Limited.[33]  Where, however, a debt is disputed, the presentation of a winding-up petition may amount to an abuse of the process of the court.  As Kwan JA (as she then was) observed in Re Leung Cherng Jiunn (debtor):
+
+“It is well established that petitions are not meant to be used for the purpose of debt collection and the winding-up or bankruptcy jurisdiction of the court would be exercised only in very clear cases. Where oral evidence is required to decide a real and substantial dispute of fact, the court will dismiss the petition. And if there is an abuse of process in invoking the jurisdiction of the court in an improper manner, the petitioning creditor may be ordered to pay indemnity costs.” [34]
+
+40.  There is “a long line of authority … which confirms the right of a creditor owed an undisputed debt to petition the court for winding-up”[35] and “the courts have emphasised that a petition presented in order to bring pressure on a company to pay a debt which is indisputably due is perfectly proper”.[36]  Indeed, debt repayment has been described as “the essential basis for a creditor’s petition”.[37]
+
+41.  In Mann v Goldstein, Ungoed-Thomas J considered the propriety of the presentation of a winding-up petition where a debt was disputed, holding that to invoke the winding-up jurisdiction when a debt is disputed on substantial grounds after it has become clear that it is so disputed would be an abuse of the process of the court.  In the course of his judgment, however, he also addressed the appropriate course for the court when the creditor’s debt is clearly established, holding:
+
+“When the creditor’s debt is clearly established it seems to me to follow that this court would not, in general at any rate, interfere even though the company would appear to be solvent, for the creditor would as such be entitled to present a petition and the debtor would have his own remedy in paying the undisputed debt which he should pay. So, to persist in non-payment of the debt in such circumstances would itself either suggest inability to pay or that the application was an application that the court should give the debtor relief which it itself could provide, but would not provide, by paying the debt. Further, the winding-up order on the ground of inability to pay debts would be the very matter which it would be for the Companies Court to decide after presentation of the petition: and validly to present a creditor’s petition which the company inexplicably would not pay could hardly, in general at any rate, be an abuse of the process of the court.”[38]
+
+42.  The above passage supports the proposition that it is entirely proper to seek to enforce payment of an undisputed debt by the presentation of a winding-up petition.  More importantly, the reference to “relief … by paying the debt” supports the further proposition that pressure on a debtor to pay an undisputed debt is a proper benefit of allowing a winding-up petition to proceed.
+
+43.  That further proposition is even more clearly stated in Re a company (No 006273 of 1992), where Millett J (as he then was) refused an injunction to prevent the presentation of a winding-up petition and held:
+
+“In my judgment, it is impossible to describe the presentation of a petition by the respondent based on an undisputed debt as an abuse of the process of the court. It is not threatened for an improper purpose, that is to say, in order to bring pressure on the company to pay a disputed debt. It is threatened for a purpose which is entirely proper, that is to say in order to bring pressure upon the company to pay a debt which is indisputably due.”[39]
+
+44.  The “vast majority” of petitions to wind up a company are creditors’ petitions[40] and as the Court noted in Yung Kee:
+
+“Creditors seek a winding-up order against their debtor in order to obtain payment in or towards satisfaction of their debts. The presence in Hong Kong of significant assets which may be made available to the liquidator for distribution among the creditors will usually suffice. The claim itself is usually simple to establish; the petitioner need prove only that he is owed a debt which is due and unpaid. If he considers it worthwhile he may chase the assets wherever they may be found and seek winding-up orders in different jurisdictions until his debt is satisfied.”[41]
+
+C.5    The benefit need not flow from an administration of the assets after a winding-up order is made
+
+45.  In the context of winding up domestic companies, the courts have always paid regard to the utility of exercising the discretion to make an order for the winding up of the company concerned.  In In re Crigglestone Coal Company Limited,[42] Buckley J (as he then was) neatly explained the rationale for this:
+
+“The Court has often refused an order upon [the ground that the company had no assets to wind up], but not because it lies in the debtor’s mouth to say that he is not amenable to the jurisdiction because he has no property, but because the Court does not make an order when no benefit can result. If the order will be useful (not necessarily fruitful) there is jurisdiction to make it.”
+
+46.  For the winding up of foreign companies, Megarry J in In re Compania Merabello San Nicholas S.A.[43] applied the Crigglestone approach in the winding up of a Panamanian one-ship company.  The only asset of the company appeared to be a claim against a mutual insurance club Oceanus.  Instead of the administration of company’s assets by a liquidator, the petitioner’s aim was to procure the vesting of the Oceanus claim under the Third Parties (Rights against Insurers) Act 1930.  His Lordship held that this would not exclude the court’s jurisdiction to wind up the company:
+
+“… on any footing the making of a winding up order will be beneficial to the petitioning creditors; and it cannot be said, and has not been said, that this is a petition which can bring no benefit to the petitioning creditors and is presented simply for the purpose of making costs. The probability of the liquidator having no assets to administer is not in my judgment a sufficient ground for saying that there is no jurisdiction to make the order. … In the case of English companies there is no need to lay a foundation for jurisdiction by showing that the company has assets here. In the case of foreign companies, the purpose of demonstrating that there are assets here is to establish jurisdiction. Once that is established, then I do not see why the Crigglestone approach should not apply. In other words, in the case of a foreign company, once it is shown that there is jurisdiction, the jurisdiction exists unless it is taken away by demonstrating that no possible benefit can follow from making a winding up order.”[44]
+
+47.  Subsequent cases clearly laid down that sufficient connection with the jurisdiction can be established by other means.  The presence of significant assets within the jurisdiction is not the only means to do so though in most of the cases it would be sufficient.[45] Benefit only entered into the equation after sufficient connection establishing jurisdiction was shown.
+
+48.  Further, Megarry J reiterated that the winding-up mechanism need not be the only benefit of which the court should take heed:
+
+“… I think that in deciding whether to make a winding up order, as a process to secure payment of debts so far as possible, it would be wrong to say that the order should be made only if making it will effect payment in one of the ways that Parliament has provided and not in another way. Words in a judgment must be construed in relation to the subject-matter of the case in question, and not as if they were Acts of Parliament.”[46]
+
+49.  In the subsequent case of In re Eloc Electro-Optieck and Communicatie B.V.,[47]the petitioners sought the winding up of the company in England so that they could obtain payment from a redundancy fund maintained by the Secretary of State under the Employment Protection (Consolidation) Act 1978.  Nourse J acknowledged that normally the court would not wind up a foreign company with no assets within the jurisdiction as there was nothing that could be realized for the benefit of the creditors.  However, that was only a normal working rule whilst the fundamental principle, His Lordship held, is that “the court will not wind up a company if there is no likelihood that any advantage will be achieved by the petitioner.”[48] 
+
+50.  An attempt to challenge the decision in Eloc was rejected by Peter Gibson J (as he then was) in In re a Company (No 00359 of 1987)[49]also reported as International Westminster Bank plc v Okeanos Maritime Corp.[50] The petitioner presented a petition against a Liberian company which had no assets in England.  Sufficient connection was established without reference to the assets of the company.  The petitioner could rely on a reasonable possibility of the liquidator succeeding in claims for fraudulent or wrongful trading as the relevant benefit.  His Lordship affirmed the proposition that it was not necessary to show that the company had assets within the jurisdiction provided that there was a sufficient connection with the jurisdiction and there was a reasonable possibility of benefit accruing to the creditors from the winding up.[51]
+
+51.  The negative formulation by way of exclusion of jurisdiction in sub-paragraph (6) of Megarry J’s summary[52] thus evolved into a requirement of reasonable possibility of benefit where the foreign company had no assets within the jurisdiction.[53]  Peter Gibson J’s re-formulation subsequently became the second “core” requirement in Re Real Estate Development Co.[54]  Knox J agreed that it is possible to establish sufficient connection under the first “core” requirement in the absence of assets and activities carried on by the company within the jurisdiction.[55] Once sufficient connection is established, the courts focus on examining if “persons exist who are likely to benefit from the making of the order and who qualify for one reason or another as persons on whose behalf it would be right to set in motion the winding-up petition over a foreign company.”[56]  Since, as discussed above, it is entirely proper to seek repayment of an undisputed debt by a statutory demand and winding-up petition, there is no justification for narrowly confining the relevant benefit to a consequence materialising only upon the making of the winding-up order itself as opposed to the invocation of the winding-up machinery by the presentation of a petition.
+
+52.  In Re OJSC Ank Yugraneft,[57] the petitioners sought to obtain a winding-up order in England regarding a Russian company which had already been declared by a court in Moscow to be insolvent with the appointment of a Russian bankruptcy administrator.  In the meantime, proceedings were commenced in the English Commercial Court in the name of the company seeking damages for fraud concerning the reduction of the company’s interest in a joint venture.  Christopher Clarke J (as he then was) held that the second “core” requirement was satisfied by the advantage of having the interest of the company represented by an English liquidator in the Commercial Court proceedings.  Although the Russian administrator could act on behalf of the company in the Commercial Court proceedings, it was advantageous to have an English liquidator so that the proceedings would be supervised by a licensed insolvency practitioner conversant with English litigation and accountable and subject to supervision by the English Companies Court.  His Lordship held that the winding-up jurisdiction against a foreign company can be invoked even if the same, or a similar, result can be achieved by other means.[58]
+
+53.  The courts have rejected attempts to focus on one single criterion (be it carrying on business in the jurisdiction, the establishment of a place of business or the presence of assets) in determining whether sufficient connection with the jurisdiction is established. In Yung Kee, Ma CJ and Lord Millett NPJ highlighted that the requirements have to be applied contextually in light of the facts of the case:
+
+“It must be remembered that the so-called core requirements are not statutory but self-imposed constraints adopted by the courts. In elucidating their meaning no question of statutory interpretation arises. The question is whether the connection of a company with Hong Kong is sufficient to justify the Hong Kong court in exercising its jurisdiction to wind that company up, and that is a question of degree. The nature of the connection will vary from case to case and is always a matter for the court.” [59]
+
+54.  Likewise, a pragmatic approach should be applied in assessing whether it would be useful to entertain a winding-up petition in respect of a foreign company.  The benefit that a petitioning creditor can rely upon to satisfy the second requirement will vary from case to case depending on its facts.  From the authorities discussed above, the following observations can be made:
+
+(1)  There is no doctrinal justification for confining the relevant benefit narrowly to the distribution of assets by the liquidator in the winding up of the company;
+
+(2)  It is sufficient that the benefit would be enjoyed solely by the petitioners;
+
+(3)  There is also no doctrinal justification requiring the relevant benefit to come from the assets of the company;
+
+(4)  There are cases where even though there was nothing for the liquidator to administer the courts did not find any difficulty in holding that the second requirement was satisfied so long as some useful purpose serving the legitimate interest of the petitioner can be identified;
+
+(5)  The benefit need not be monetary or tangible in nature; and
+
+(6)  The fact that a similar result could be achieved by other means does not preclude a particular benefit from being relied upon for the purposes of fulfilling the second requirement.
+
+55.  Such an approach accords with the practice adopted in the winding up of domestic companies.  In Crigglestone the petition was opposed by debenture-holders who had a floating charge on all the property of the company.  They had already obtained the appointment of a receiver and it was contended on their behalf that there were no assets available for distribution to the unsecured creditors.  Buckley J ordered the company to be wound up because it could be useful to the unsecured creditors to have a liquidator representing their interest in defending the action brought by the debenture-holders and investigating into the circumstances under which some further loans were granted on the security of further debentures.[60] On appeal, the winding-up order was upheld.  Collins MR held that a reasonable possibility that the unsecured creditors will derive an advantage from the winding up would be enough to support the making of the order.[61]  Romer LJ agreed and held that it was sufficient that some good may result to the petitioners, thus echoing Buckley J’s view that the winding up had to be useful but not necessarily fruitful.[62]
+
+56.  A modern statement on the low threshold for the benefit requirement can be found in the judgment of Neuberger J (as Lord Neuberger of Abbotsbury then was) in Re Demaglass Holdings Ltd:
+
+“… in the case of an opposed petition, the petitioning creditor has to establish the possibility of the prospect of some sort of benefit from a winding up. The test, however appears to be a low one.” [63]
+
+C.6    Commercial pressure as a legitimate benefit under the second requirement
+
+57.  Once it is accepted that commercial pressure to achieve the repayment of an undisputed debt is an entirely proper purpose for a creditor’s winding-up petition (see Section C.4 above), it is difficult to see any principled basis for excluding that commercial pressure as a relevant benefit for the purposes of the second requirement.
+
+58.  It is to be recalled that Yung Kee concerned a shareholder’s petition to wind up a company on the just and equitable basis.  The focus of such a petition is different to that of a creditor’s petition.  As the Court stated:
+
+“The case of a shareholders’ petition is different. In the first place, the parties are different, for while the company is a necessary defendant to every winding-up petition, in the case of a creditor’s petition the dispute is between the petitioner and the company; whereas in the case of a shareholders’ petition, the dispute is between the petitioner and the other shareholders, and the company is the subject of the dispute rather than a party to it. Accordingly the presence of the other shareholders within the jurisdiction is an extremely weighty factor in establishing the sufficiency of the connection between the company and Hong Kong. In the second place, the petitioner’s purpose in seeking a winding-up order is also different, for the object is not so much to obtain payment of a debt but rather to realise the petitioner’s investment in the company. This claim may involve a lengthy and detailed examination of the management of the company’s internal affairs which a petitioner is unlikely to be willing to undertake more than once.”[64]
+
+59.  It is therefore understandable that the Court in Yung Kee was concerned to examine the consequences of the making of a winding-up order when considering whether the three requirements were satisfied so that there was a proper basis for invoking the winding-up jurisdiction.  But it is inappropriate to extrapolate from those references (and in particular the articulation of the second requirement on which the appellant relies in this appeal) a proposition that in creditors’ winding-up proceedings, sufficient benefit can only be found in specified consequences flowing from the making of a winding-up order.
+
+60.  Reaching such a conclusion would fly in the face of the recognition of the propriety of invoking the winding-up jurisdiction as a means to bring commercial pressure to bear to obtain repayment of an undisputed debt and would also be an unduly narrow reading of the second requirement.  The winding-up procedure is a process and it makes little sense to characterise the initiating steps of that process as somehow qualitatively different from steps taken in its continuation for the purpose of deciding whether to assume jurisdiction.  It is illuminating to note that, in ReReal Estate Development Co, when considering the need for a sufficient connection between the company and the winding-up jurisdiction, Knox J posed the question, “sufficient for what?”  To this, he gave the answer:
+
+“… sufficient to justify the court setting in motion its winding-up procedures over a body which prima facie is beyond the limits of territoriality.”[65]
+
+61.  There is no basis for reading the Court’s articulation of the second requirement in Yung Kee as restricting sufficient benefit in cases involving creditors’ petitions only to possible benefits flowing from the making of a winding-up order.  The essential consideration in such cases is whether a reasonable possibility exists of a sufficient benefit accruing to the petitioner from being permitted to set in motion winding-up procedures in Hong Kong in respect of a non-Hong Kong company.  That benefit will exist where setting those procedures in motion results in the payment of an undisputed debt.
+
+62.  The appellant contended that since the success of leverage is predicated upon a winding up being avoided by payment of the debt before the making of the winding-up order, such benefit does not fall within the scope of benefit recognized under the second requirement.
+
+63.  That argument rests on a false premise.  There is no reason why the leverage would disappear upon the making of the winding-up order.  It should be borne in mind that in the present case the issue of the exercise of the winding-up jurisdiction was considered by Harris J in the context of an application for an injunction to restrain the presentation of the petition.  After His Lordship refused to grant the injunction, the petition was presented.  The appellant then pre-empted the substantive hearing of the petition by seeking its adjournment on the condition of procuring a payment into court.  Against that background, it is somewhat self-serving for the appellant to suggest that the success of leverage is predicated upon the winding up being avoided.  But for the payment into court, there is little doubt that the respondent would have proceeded with the petition to seek a winding-up order.  In principle, it is difficult to see why the court should not take account of leverage as a potential benefit in deciding whether to make such order at the hearing of the petition.
+
+64.  As litigants are at liberty to resolve civil disputes by alternative means, leverage is always in the background of any instance of civil litigation and a winding-up petition is no exception.  Even after the making of a winding-up order, leverage can continue to operate in the form of a stay of the winding-up proceedings upon the satisfaction of the debts of the petitioning and supporting creditors. Although Yung Kee was decided in the context of a contributory’s winding up, leverage was also in play as this Court granted a stay of the winding-up order to give the parties an opportunity to come to terms on a buy-out.[66]
+
+65.  The strength of the leverage obviously depends on the practical impact of a winding-up order to be made in this jurisdiction.  Obviously, if a foreign company has no incentive to negotiate for the avoidance or stay of the winding-up order (whether on account of it being hopelessly insolvent or the lack of real impact of the winding-up order on its business as in Banco Nacional de Cuba v Cosmos Trading Corp[67]), there is not much leverage which the petitioner can rely upon in practice.  In cases where the leverage is real, though, its significance ultimately depends on the potential impact of a winding-up order.
+
+66.  In the present context, the leverage stems from the adverse consequences on the listing status of the appellant in the Stock Exchange of Hong Kong.  Any potential impact in terms of possible sanctions by the Listing Division is as much effective before as after the making of a winding-up order.  Viewed in that light, the benefit derived from such leverage is incidental to the possibility of the making of a winding-up order.
+
+67.  As we have already stated, the formulation of the threshold  requirements in the case law should not be construed as if they were statutory provisions.[68] Since the requirement of benefit is to ensure that some useful purpose will be served, there is no justification in principle to exclude significant leverage benefit arising as an incident to the presentation of a petition from the assessment of the second requirement even though such benefit may also have a useful impact prior to the making of the winding-up order.  In the event that the appellant remained recalcitrant, the leverage would continue to have an effect after the making of a winding-up order.
+
+D.    The appellant’s comity argument
+
+68.  We now turn to address the appellant’s comity argument leading to the contention that the proper interpretation of the requirements must be informed by their limitations and the principle of non-interference.
+
+69.  The expression “comity” is used in many senses, but in the present context it means, inter alia, that the court would not pay sufficient deference to the legislative and judicial jurisdiction of the State of incorporation if it were to exercise winding-up jurisdiction over a foreign company in the absence of a sufficient connection with the forum.[69]  Here the sufficient connection is plainly provided by the fact that the appellant’s shares are listed on the Stock Exchange of Hong Kong and it has a registered place of business in Hong Kong.
+
+70.  As discussed above,[70] the second requirement only comes into play after sufficient connection is established and it addresses the utility of winding-up proceedings in respect of foreign as well as domestic companies.  Whilst comity is obviously relevant in the assessment of the first requirement, it has less relevance under the second requirement.  Whilst the issue of comity may arise if the benefit that a petitioner relies upon depends on the liquidator exercising his authority in a foreign jurisdiction, this is not the situation in the present appeal.  The leverage in the present case hinges on the potential impact on the listing of the H shares in the Stock Exchange of Hong Kong.  There is no possible issue of comity in such an assessment.     
+
+71.  The appellant accepted in the courts below that the first and third requirements were satisfied in the present case.  The appellant has not resiled from that acceptance before us.  In any event, it is plain from the background set out above that the appellant had a sufficient connection with Hong Kong.  In the absence of any dispute in this respect, there is no room for suggesting that the exercise of the winding-up jurisdiction in the present instance would be a breach of comity.
+
+72.  In the circumstances, we do not find it necessary to address the appellant’s comity argument at any greater length.  At its heart, the argument amounted to a bold attempt to superimpose on the three requirements a principle of non-interference.[71] This, in substance, is a forum conveniens issue.  In short, it was contended, winding up a foreign company is only justified when the jurisdiction of incorporation cannot fulfil its function so that it is then necessary to fill the lacuna.[72]    
+
+73.  The appellant relied on the dicta of Lord Evershed MR in Banque des Marchands de Moscou (Koupetschesky) v Kindersley[73] to support this proposition.  In that case, the foreign corporation was a Russian bank having substantial assets in England which had been dissolved by the Soviet Government after the Russian Revolution.  The English court made a winding-up order in respect of the bank and appointed a liquidator.  Eighteen years later, in the course of proceedings brought by the liquidator, the winding-up order was challenged.  The issue that came before the court was whether it was necessary to show that the foreign company had established a place of business in England before it could be wound up by the English courts.  The Court of Appeal held that this was not necessary and the presence of assets and persons subject to the English jurisdiction would be enough.  In respect of a foreign company dissolved at its place of incorporation, the Master of the Rolls was of the view that prima facie English courts would not interfere with the administration of its assets as long as those assets were being dealt with by the law of its place of incorporation.  On the facts of that case, an English winding-up order was necessary because of the absence of any machinery under Russian law for due distribution of the English assets of a dissolved Russian bank.
+
+74.  However, His Lordship did not address the situation where a foreign company has not been dissolved at its place of incorporation and a winding-up petition is only presented in an English court.  Subsequently, the law governing the exercise of the winding-up of a foreign company was developed in the cases discussed above.  The three  requirements were adopted and, as held by Morritt LJ in Re Latreefers Inc,[74]if the “core” requirements are satisfied there is no need for the addition of a fourth to ensure that the jurisdiction is only exercised for good reason.  In Yung Kee, this Court endorsed the three requirements as the self-imposed constraints in the exercise of this jurisdiction in Hong Kong notwithstanding that the most appropriate jurisdiction to wind up a company is the one where it was incorporated.[75]  There is no room for adding a further requirement of forum conveniens.
+
+75.  Whilst there are references to appropriateness of forum as being relevant in the cases, such discussions mainly arose as part of the assessment of sufficient connection under the first requirement.[76] Thus, Lloyd J (as he then was) explained the relevance of the concept of appropriate forum in Latreefers as follows:
+
+“It seems to me that it may be relevant to consider what connections there may be with other jurisdictions in order to answer the rather ill-defined question as to the sufficiency of the connection with this jurisdiction. If there is a clear and substantial connection with some other jurisdiction, it may be that more is needed by way of a connection with England and Wales for it to suffice as the foundation of the exercise of extra-territorial jurisdiction. Thus, in the Okeanos case … Peter Gibson J considered, in this context, whether there was any more appropriate jurisdiction to wind up the company.”[77]
+
+76.  There are also cases[78] in which appropriate forum is discussed as a separate requirement for determining if the jurisdiction to wind up a foreign company should be exercised.  These were decisions made at the hearing of the petition or on a preliminary issue in the petition.  The Court was not referred to any case where the issue was considered in the context of an application for an injunction to restrain the presentation of a petition.  In any event, the addition of the criterion of forum conveniens as a separate jurisdictional requirement is contrary to the law endorsed by this Court in Yung Kee.
+
+77.  For present purposes, it suffices for us to hold that, if sufficient connection is established under the first requirement, any issue related to forum conveniens should only be a factor (as opposed to an essential requirement) that the court would consider at the hearing of the petition in deciding if a winding-up order should be made.[79] The weight to be attached to that issue may depend on the practical effects of the winding up of the foreign company.  In cases like Merabello and Eloc, where it is not envisaged that the liquidator will administer any assets (whether within or outside Hong Kong), the fact that the company can also be wound up in the place of its incorporation will not be particularly significant.
+
+78.  In the courts below, the appellant did not raise any discrete argument on appropriate forum and the submissions focused on the second requirement.  Leave to appeal to this Court was restricted to the narrow issue of benefit under that requirement.  In the circumstances, it would not be right to permit a backdoor challenge to whether the first requirement is satisfied in the present case.  In any event, as already noted, the satisfaction of this requirement in the present case was rightly accepted below.
+
+E.    Answering the certified question
+
+79.  The short answer to the question of law for which leave was granted is, in respect of both ways it is put, “Yes.”
+
+E.1    Application of the principles to this case
+
+80.  In light of our conclusions above, Harris J was correct to conclude that the second requirement was satisfied in this case.  The crux of his reasoning is expressed thus:
+
+“A solvent company that fails to pay a judgment or an award out of intransigence is liable to be wound up. It seems to me that the defendant can properly say that this is such a case and that the benefit to be derived from its proposed course of action is the leverage created by the prospect of a winding-up petition or the appointment of a liquidator and the steps a liquidator may take to recover assets even if such steps are problematic. In my view there is a reasonable prospect that the defendant would derive a benefit from a winding-up order.”[80]
+
+81.  We respectfully agree, save that we think it preferable to refer to the respondent deriving a benefit from the invocation of the court’s winding-up procedures over the appellant by the presentation of the petition.  There is no necessity, as demonstrated above, for the benefit to flow directly from the making of a winding-up order.  The fact that the adjournment of the winding-up petition in the present case was ordered on terms, which were duly complied with, that the appellant procure the payment into court of the amount set out in the respondent’s statutory demand and interest thereon demonstrates, in stark terms, the efficacy of the commercial pressure that the presentation of the petition gave rise to.
+
+82.  It follows that we also respectfully agree with the conclusion of the Court of Appeal that the second requirement was satisfied in this case by the pressure placed on the appellant to pay the undisputed, or indisputable, debt by the presentation of a winding-up petition.[81] However, we do not agree that it was necessary for the Court of Appeal to read Harris J’s judgment as if it were limited to a benefit flowing from the making of a winding-up order, rather than its mere prospect.[82]  As we have sought to demonstrate above, there is no logical difficulty in regarding the commercial pressure caused by the presentation of a winding-up petition as a qualifying benefit for the second requirement.
+
+83.  We do, however, also respectfully agree with Barma JA’s characterisation of the nature of the inquiry as to whether the second requirement is satisfied, namely “to ascertain whether it would be appropriate to put into motion the winding-up machinery in respect of a particular overseas company” and that this allows for “some flexibility as to the nature or extent of the likely benefit to the petitioner that should be shown in order to satisfy the second core requirement, as long as the benefit can be said to be a real possibility, rather than a merely theoretical one.”[83]
+
+84.  Harris J went on to hold that the appellant’s disregard for the integrity of the Hong Kong legal system and its at least non-technical contempt for the High Court, by its wish to take advantage of the Hong Kong financial and legal systems yet at the same time refuse to honour the arbitration award and consequential judgment, would “justify moderation of the requirement that a benefit to the defendant be shown”.[84]
+
+85.  We do not, with respect, agree that the second requirement is subject to moderation in this manner or for this reason.  The Court of Appeal declined to consider this argument.[85] In the light of the flexibility that Barma JA identified in the nature of the inquiry (correctly, in our view), moderation of the second requirement is inappropriate.
+
+E.2    Disposition
+
+86.  For the reasons set out above, we would therefore answer the certified question as set out at [79] above and dismiss the appeal.
+
+87.  As described at [14] above, the winding-up petition against the appellant was adjourned on terms that the appellant procure a third party to make payment of the amount set out in the statutory demand plus interest and costs into court, with payment out to abide by the further order of the Court of First Instance, the Court of Appeal or this Court.  The Court of Appeal declined to order payment out, despite dismissing the appellant’s appeal below.  That was understandable since an appeal to this Court was pursued. 
+
+88.  Since, in our judgment, the appeal stands to be dismissed, there would appear now to be no good reason to delay payment out.  Mr Joffe, appearing for the appellant,[86] however, resisted this and submitted that it would be more appropriate to direct this issue to be determined by the Court of First Instance.  He indicated, on instructions, that the appellant might wish to adduce further evidence and start a further arbitration asserting that the respondent had withheld joint venture documents and that this undermined the validity of the original arbitral award giving rise to the judgment debt which was the subject of the statutory demand served on the appellant (see [7] and [8] above).  Mr Joffe went so far as to suggest that the unavailability of the allegedly withheld documents deprived the appellant of the opportunity of properly advancing its case in the original arbitration and that it intended to apply to set aside the ensuing award, if necessary on the basis of fraud.  Moreover, he suggested that the third party, whom the appellant had procured to make the payment in, might wish to be heard on the question of the payment out.
+
+89.  In our view, this attempt to delay the payment out of the sum paid into court as a condition of the adjournment of the winding-up petition pending resolution of the issue now determined by this appeal has no merit.  The sum was paid into court pursuant to an undertaking to do so in order to secure the adjournment of the winding-up petition, which adjournment was effective upon compliance with the undertaking.  The payment in was calculated on the basis of the amounts claimed in the statutory demand, which was not otherwise disputed.  But for the payment in, the hearing of the petition would have proceeded on the basis of an undisputed debt and the deemed insolvency of the appellant arising from its failure or refusal to meet the statutory demand.  For present purposes, it is now too late to challenge the underlying indebtedness and, in any event, the allegations advanced in support of the suggested remission of this issue to the Court of First Instance are wholly vague and unparticularised. 
+
+90.  As far as the third party is concerned, we do not see any reason why that party should be entitled to make representations on the question of payment out.  It is not a party to these proceedings, and has not even been identified, nor has it ever sought to intervene.  In any event, that party must be taken to be fully aware of the terms of the undertaking given by the appellant pursuant to which the sum was paid into court, which included a term that it would be paid out at the discretion of the Court of First Instance, Court of Appeal or this Court.   As such, it must have been the common intention of all parties, including the third party, that the discretion was to be exercised in the light of the outcome of any appeal against Harris J’s decision.  The payment in was plainly made to secure the respondent’s interest in obtaining repayment of the debt, being the subject of the statutory demand, pending the outcome of any such appeal. In these circumstances, any interest the third party funder might have had must be subordinated to the contingency that this Court might order payment out of the sum to the respondent in the event of the dismissal of this appeal.
+
+91.  Accordingly, we would direct that the sum paid into court on 8 September 2017 in HCCW 175/2017, pursuant to the order of Harris J dated 28 August 2017, together with the accrued interest thereon, be paid out to the respondent forthwith.
+
+92.  Further, we would make an order nisi that the appellant pay the costs of this appeal to the respondent and direct that, if any party wishes to vary this order, written submissions should be filed within 14 days of the handing down of this judgment and the Court will make a final order as to costs on the papers.
+
+Lord Collins of Mapesbury NPJ:
+
+93.  I agree with the joint judgment of Mr Justice Fok PJ and Mr Justice Lam PJ.
+
+Chief Justice Cheung:
+
+94.  The appeal is therefore unanimously dismissed and the Court makes the orders set out at [91] and [92] above.
+
+ 
+
+ 
+
+(Andrew Cheung)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 	 
+ 	 
+(M H Lam)	(Lord Collins of Mapesbury)
+Permanent Judge	Non-Permanent Judge
+ 
+
+Mr Victor Joffe and Mr Alexander Tang, instructed by King & Wood Mallesons, for the Plaintiff (Appellant)
+
+Mr Laurence Li SC and Mr Chow Ho Kiu, instructed by CL Chow & Macksion Chan, for the Defendant (Respondent)
+
+[1]  (2015) 18 HKCFAR 501.
+
+[2]  Ibid. at [20].
+
+[3] [2022] HKCFA 1, FAMV 410/2021, 21 January 2022.
+
+[4]  [2020] HKCA 670, CACV 158/2017, 5 August 2020 (“CA Judgment”).
+
+[5]  HCCT 53/2015, Decision (not open to the public), dated 12 October 2016.
+
+[6]  [2017] 4 HKLRD 84 (“CFI Judgment”) at [14].
+
+[7]  Ibid. at [15].
+
+[8]  Ibid. at [16]-[19] in respect of the listing and at [20]-[26] in respect of the investigation of the restructuring.
+
+[9]  Ibid. at [28]-[29].
+
+[10]  Ibid. at [30]-[31].
+
+[11]  CA Judgment at [31]-[34].
+
+[12]  Ibid. at [21]-[28].
+
+[13]  The Plaintiff/Appellant’s Case at [13].
+
+[14]  The effect of the definition of “unregistered company” in s.326 is that any foreign company is subject to the winding-up jurisdiction.
+
+[15]  Yung Kee at [36].
+
+[16]  Re Real Estate Development Co [1991] BCLC 210 per Knox J at 217d.
+
+[17]  Yung Kee at [19] and [21].
+
+[18]  See Re Latreefers Inc [2001] BCC 174 at [30].
+
+[19]  Jurisdiction to approve schemes of arrangement, which applies only to companies “liable to be wound up” (now UK Companies Act 2006, s.895(2)).
+
+[20]  [2004] 1 WLR 1049 at [23]-[26], per Lawrence Collins J (as Lord Collins of Mapesbury then was);  Drax has been followed in several decisions, including Re OJSC Ank Yugraneft v Sibir Energy plc [2009] 1 BCLC 298; Re Rodenstock GmbH [2011] EWHC 1104 (Ch), [2011] Bus LR 1245; JSC Bank of Moscow v Kekhman [2015] EWHC 396 (Ch), [2015] 1 WLR 3737.
+
+[21]  [2004] 1 WLR 1049 at [24].
+
+[22]  See Yung Kee at Section D (concerned with the question of whether the exercise of jurisdiction was proper) and compare Section E (concerned with the question of whether to make a winding-up order).
+
+[23]  The Plaintiff/Appellant’s Case at [49], quoting Yung Kee at [24] (with appellant’s emphasis).
+
+[24]  [1973] 1 Ch 75.
+
+[25]  [1982] 1 Ch 43.
+
+[26]  [1988] 1 Ch 210.
+
+[27]  [1991] BCLC 210.
+
+[28]  Law Reform Commission of Hong Kong, Report on The Winding-Up Provisions of the Companies Ordinance (1999) at [9.5] (emphasis added).
+
+[29]  Clarke and Walker Pty Ltd v Thew (1967) 116 CLR 465 at 467; Derek French, Applications to Wind Up Companies (4th Ed.) at [7-281].
+
+[30]  [2013] 1 WLR 1408 at [24].
+
+[31]  [1906] 2 Ch 327 at 331-332.
+
+[32]  [1986] 1 WLR 114 at 118G to H.
+
+[33]  [1906] 2 Ch 327 per Buckley J at 331.
+
+[34]  [2016] 1 HKLRD 850 at [27(5)].
+
+[35]  Sell Your Car With Us Ltd v Sareen [2019] EWHC 2332 (Ch), [2019] BCC 1211 at [53].
+
+[36]  Ibid. citing Goode on Principles of Corporate Insolvency Law (5th Ed.) at p.195.
+
+[37]  In re Millennium Advanced Technology Ltd [2004] 1 WLR 2177 per DHCJ Briggs QC (now Lord Briggs of Westbourne JSC) at [36].
+
+[38]  [1968] 1 WLR 1091 at 1096C-F.
+
+[39]  [1993] BCLC 131 at 132g (emphasis added).
+
+[40]  Goode on Principles of Corporate Insolvency Law (5th Ed.) at [5-13].
+
+[41]  (2015) 18 HKCFAR 501 at [26] (emphasis added).
+
+[42]  [1906] 2 Ch 327 at 332.
+
+[43]  [1973] 1 Ch 75.
+
+[44]  Ibid. at 90C to F (emphasis added).
+
+[45]  See Yung Kee, supra at [26]. In Re OJSC Ank Yugraneft [2009] 1 BCLC 298 at [58], Christopher Clarke J made the observation that sufficient connection would not be established if the asset was too small or of such a character that the link with the jurisdiction was too tenuous and cited the facts of Re Real Estate Development Co [1991] BCLC 210 as an example.
+
+[46]  [1973] 1 Ch 75 at 91F to G.
+
+[47]  [1982] 1 Ch 43.
+
+[48]  Ibid. at 47C to D and 48G.
+
+[49]  [1988] 1 Ch 210.
+
+[50]  [1987] BCLC 450.
+
+[51]  [1988] 1 Ch 210 at 222H to 223B; 223H to 226A.
+
+[52]  Merabello, supra at 92B.
+
+[53]  The approach of Peter Gibson J was followed by Harman J in Ex parte Nyckeln Finance Co Ltd [1991] BCLC 539 and Lloyd J in Re Latreefers Inc [1999] 1 BCLC 271 where provisional liquidators were appointed in respect of foreign companies without assets within England. Lloyd J’s decision was upheld by the English Court of Appeal, [2001] BCC 174. 
+
+[54]  [1991] BCLC 210.
+
+[55]  Ibid. at 217e to f.
+
+[56]  Ibid. at 217g to h.
+
+[57]  [2009] 1 BCLC 298.
+
+[58]  Ibid. at [60].
+
+[59]  Supra at [36].
+
+[60]  Supra at 334-335.
+
+[61]  Ibid. at 337-338.
+
+[62]  Ibid. at 338.
+
+[63]  [2001] 2 BCLC 633 at 638a to b.
+
+[64]  (2015) 18 HKCFAR 501 at [27].
+
+[65]  [1991] BCLC 210 at 217d-e (emphasis added).
+
+[66]  Yung Kee at [64].
+
+[67]  [2000] 1 BCLC 813.
+
+[68]  Yung Kee at [36].
+
+[69]  In re Drax Holdings Ltd [2004] 1 WLR 1049 at [29].
+
+[70]  See [50] to [52] above.
+
+[71]  The Plaintiff/Appellant’s Case at [41].
+
+[72]  Ibid. at [16.1].
+
+[73]  [1951] 1 Ch 112 at 125-126.
+
+[74]  [2001] BCC 174 at [32].
+
+[75]  Supra at [19] to [21].
+
+[76]  Okeanos, Ex p Nyckeln Finance, Latreefers.
+
+[77]  [1999] 1 BCLC 271 at 278c to d.
+
+[78]  Atlantic & General Investment Trust Ltd v Richbell Information Services Inc [2000] 2 BCLC 778, Re Buccament Bay Ltd [2015] 1 BCLC 646.
+
+[79]  Re Wallace Smith & Co Ltd [1992] BCLC 970 at 985g to i; Dicey, Morris & Collins on The Conflict of Laws (15th Ed) at §30-055; Kate Dawson, The doctrine of forum non conveniens and the winding up of insolvent foreign companies [2005] JBL 28.
+
+[80]  CFI Judgment at [29].
+
+[81]  CA Judgment at [33].
+
+[82]  Ibid. at [30]-[31].
+
+[83]  Ibid. at [27].
+
+[84]  CFI Judgment at [30].
+
+[85]  CA Judgment at [27]-[28].
+
+[86]  With Mr Alexander Tang.
+
+ 

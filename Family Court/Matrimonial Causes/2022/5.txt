@@ -1,0 +1,404 @@
+FCMC 596/2022
+
+[2024] HKFC 16
+
+IN THE DISTRICT COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MATRIMONIAL CAUSES NO.596 OF 2022
+
+__________________________________
+
+BETWEEN
+
+ 	YB	Petitioner
+and
+
+ 	LX	Respondent
+___________________________________
+
+Coram:	Deputy District Judge W.Y. Ho in Chambers (Not Open to public)
+Date of Hearing:	28 July 2023
+Date of Decision:	29 January 2024
+---------------------
+
+DECISION
+
+(Jurisdiction)
+
+---------------------
+
+
+1.  There are 2 applications before me:
+
+1) The Petitioner’s application to amend the Petition
+
+2) The Respondent’s application for the Petition to be dismissed for want of jurisdiction. Alternatively, to have the Petition stayed for forum non conveniens.
+
+2.  The following background facts are not disputed between the parties:
+
+1) The parties were married in Hong Kong on 9 September 2008 and have 2 children, currently the ages of 14 and 11 years old (“the Children”).
+
+2) At all material times, the Petitioner and the Respondent were working in China. They never held employment in Hong Kong.
+
+3) In 2011, the parties purchased a property in Tai Po, Hong Kong (“the Hong Kong Flat”). In 2015, the parties purchased a car parking space in the same estate (“the Car Parking Space”). The Hong Kong Flat and the Car Parking Space shall collectively be referred to as “the Hong Kong Properties”.
+
+4) Since late August 2019, the Petitioner and the Children moved to Shenzhen, China. As at the date of the hearing, the parties and the Children continue to reside in Mainland China.
+
+5) On 12 January 2022, the Petitioner filed a petition for divorce with the Luohu Court of the People’s Republic of China (“the PRC Court”).
+
+6) On 20 January 2022, the Petitioner filed a petition for divorce in Hong Kong (“the Hong Kong Proceedings”).
+
+7) On 21 February 2022, due to the Petitioner’s failure to pay the proper fees into court, the PRC Court treated the divorce proceedings in PRC as being withdrawn.
+
+8) On 11 April 2022, the Petitioner filed an urgent ex parte application for various relief, including an injunction against the Respondent prohibiting the sale of the Hong Kong Properties. Interim relief was granted on 12 April 2022. The substantive argument was heard on 31 October 2022. On 9 December 2022, I gave judgment and ordered the Respondent be prohibited from selling the Hong Kong Properties (“the Injunction Order”). The Injunction Order continues to remain effective as at the date of this decision.
+
+9) On 7 June 2022, the Respondent filed the present summons challenging the jurisdiction of this court to deal with the present divorce proceedings (“the Jurisdiction Summons”). The Jurisdiction Summons was fixed to be heard on 3 March 2023.
+
+10) On 21 February 2023, the Petitioner filed a “Notice of Application for leave to Amend Petition” and had the hearing fixed on the same day as the substantive argument of the Jurisdiction Summons.
+
+11) On the day of the hearing (i.e. 3 March 2023), I gave directions for the Petitioner to take out a proper application for amendment and gave consequential directions for filing of further evidence. I further directed the argument of the intended amendment summons and the Jurisdiction Summons be heard on 28 July 2023.
+
+12) On 7 March 2023, the Petitioner filed a summons seeking leave to amend the Petition (“the Amendment Summons”).
+
+13) Both the Jurisdiction Summons and Amendment Summons were heard on 28 July 2023. Decision was reserved to be handed down no later than 29 January 2024.
+
+THE LAW
+
+3.  I shall first set out the legal principles relating to the jurisdiction of this court. The principles relating to late amendments shall be dealt with directly in the relevant discussion section.
+
+4.  Section 3 of the Matrimonial Causes Ordinance (Cap 179) (“MCO”) states the following:
+
+“3. Jurisdiction in divorce
+
+The court shall have jurisdiction in proceedings for divorce under this Ordinance if—
+
+(a) either of the parties to the marriage was domiciled in Hong Kong at the date of the petition or application; (Replaced 29 of 1995 s. 3)
+
+(b) either of the parties to the marriage was habitually resident in Hong Kong throughout the period of 3 years immediately preceding the date of the petition or application; or (Replaced 29 of 1995 s. 3)
+
+(c) either of the parties to the marriage had a substantial connexion with Hong Kong at the date of the petition or application. (Added 68 of 1970 s. 26. Amended 29 of 1995 s. 3)”
+
+5.  In the case of JQ v CLH (Jurisdiction; substantial connection) [2022] HKFLR 160, Chow JA summarized the principles on substantial connection as follows:
+
+“21. The principles for determining whether a person has a “substantial” connection with Hong Kong for the purpose of s 3(c) of the Ordinance are well established. The leading authority on this topic in Hong Kong is the judgment of the Court of Appeal in ZC v CN (Divorce: jurisdiction) [2014] 5 HKLRD 43, where Cheung JA (with whom the other two members of the Court of Appeal agreed) considered in depth the statutory requirement of substantial connection under that section:
+
+“[9.1] In line with the modern approach of statutory interpretation, one should not simply look at the natural and ordinary meaning of the words ‘substantial connection’ but also the context and purpose of this term.
+
+[9.4] Whether a person has a substantial connection with Hong Kong is clearly a question of fact. No definition for this term will be succinct or comprehensive enough. What one may do is to look at the surrounding factors to see whether that person is substantially connected with Hong Kong at the time of the petition. As a starting point, one begins to see if that person has connection here and then decide whether that connection is a substantial one, see S v S [2006] 3 HKLRD 751 paragraph 15. In terms of connection, there must be physical presence in Hong Kong, this must be the ground rock of invoking the divorce jurisdiction. But because of the requirement of ‘substantial’, the presence cannot be of a transitory nature otherwise this will encourage ‘fly in’ and ‘fly out’ divorces, a theme that the Court has consistently emphasised, see, for example, Griggs (nee Sharp) v Griggs [1971] HKLR 299, Ta Tran Thi Thanh v Ta Van Hung and Another [1981] HKDCLR 37 and more recently S v S, B v A [2008] 1 HKLRD 43.
+
+[9.5] In the majority of cases, where a married couple is in Hong Kong, the Court will have no difficulties in ascertaining whether they have a substantial connection here. Thus in RI v SSH [2010] 4 HKC 588, this Court held that:
+
+‘… Hence in order to see whether the proceeding has a real and substantial connection to Hong Kong one must, first of all, ascertain whether at the time of its commencement the parties have substantially conducted their matrimonial life in Hong Kong. Hong Kong being an international commercial city, the identification of this issue is most acute for expatriate families who live in Hong Kong. The relevant considerations are, for example, whether the parties’ matrimonial home is here, what is their past pattern of life; do they regard Hong Kong as their home for the time being even if their life style may indicate that they may not take root in one place for too long a time. Related to the issue are matters such as the place of work of the spouses: do they choose to work here; even if one of them has to ‘commute’ overseas to work, is Hong Kong still treated as their home base. Likewise for the Children of the family: are they studying here or spending their vacations here even if they are studying abroad.’
+
+See also LN v SCCM (CACV 62/2013), Judgment dated 4 June 2013 and DGC v SLC (née C) [2005] 3 HKC 293.
+
+[9.6] While the discussion in RI v SSH was in the context of forum non conveniens, the question of forum is dependent on the place where the parties have the most real and substantial connection with the action. Hence the suggested factors are clearly applicable to the present discussion.
+
+[9.7] Traditionally, the discussion of this topic mainly centred on the foreign expatriate community who are present in Hong Kong because of business commitments or to avail themselves of the opportunities in this international commercial city, see, for example, S v S, B v A, G v G [2005] 1 HKFLR 182 and Z v Z (Substantial Connection and Forum) [2012] HKFLR 346. Increasingly in recent years this issue is extended to many of the Hong Kong and Mainland China families who have homes or businesses both here and in the Mainland. Examples can be found in this and other cases such as LS v AD (Forum; Discovery in the PRC) [2012] HKFLR 376 and YS v TTWD (Substantial Connection: Forum) [2012] HKFLR 129. The focus of discussion in these cases is not about mainlanders who came here on visitors’ two way permit but those who have resident status in Hong Kong. Needless to say, the same approach of looking at the surrounding circumstances in order to ascertain the presence of substantial connection is to apply to these parties as well.
+
+[9.8] The fact that a party has resident status which allows him or her to live here legally is only a factor to be taken into account. He or she may not be living here on a long term basis and only comes here occasionally. No doubt one has to look at other factors such as the party’s past pattern of life, the frequency of his visit to Hong Kong, the length and purpose of the stay, whether the party is engaged in business or work here, whether the rest of the family is here and whether a home has been established here and whether the Children are at school here. It is also important to bear in mind that since the legislation only requires the party to establish a substantial connection in Hong Kong, he or she at the same time may have a substantial connection elsewhere, see S v S. In my view, if a party is shown to have substantial connection elsewhere by reason of his home or work, this may be used to contrast with the connecting factors he has in Hong Kong to see whether the Hong Kong connection is a substantial one.
+
+[9.9] It is said in Savournin at page 184 (and also B v A at paragraph 20) that a meaning must be given to substantial connection wider than domicile or three years’ ordinary residence. But this is not intended to be interpreted so loosely as to encourage residence of passage (Indyka v Indyka [1969] 1 AC 33 at 105) or divorce of convenience. At the same time it will be unduly restrictive if one confines the connecting factors solely to that of a family context, namely, accommodation in a matrimonial home and presence of spouses and Children. While in the majority of cases, family context is the focus of the inquiry and a material factor, there may well be situations where a party is in Hong Kong without the presence of his family, but nonetheless is able to show that he has a substantial connection here. It really depends on the circumstances of the case. Such cases, however, must be regarded as exceptional.”
+
+22. Further valuable guidance on the meaning of substantial connection for the purpose of s 3(c) of the Ordinance can be found in the judgment of Hartmann J (as he then was) in S v S [2006] 3 HKLRD 751:
+
+“[11] The first reported authority concerning the meaning and extent of s.3(c) of the Ordinance appears to be Savournin v Lau Yat Fung [1971] HKLR 180, a judgment of Briggs J. Having identified the origins of the phrase ‘substantial connection’ in English family law, the judge confirmed that s.3(c) had established a new basis for determining the personal law of the parties to a marriage; in short, a new and additional ground of jurisdiction. He said:
+
+‘Domicile in a country is obviously a substantial connexion with that country: so may three years ordinary residence be so considered. Paragraph (c), a substantial connexion with Hong Kong, is in addition to those two requirements. It is not substituted for them. A meaning must be given to the phrase wider than domicile or three years ordinary residence.’ [my emphasis]
+
+[12] As to the meaning of the phrase, Briggs J said that it was to be given its ordinary meaning; in short, it was not a term of art. Whether or not a party to a marriage had a substantial connection with Hong Kong has to be decided therefore within the factual context of each case.
+
+[13] In my view, when considering the meaning and extent of the phrase, it is important to recognise that the legislature saw fit to qualify it with the indefinite article ‘a’. It is not therefore necessary for a petitioner to demonstrate that his substantial connection with Hong Kong is the only substantial connection he has with any jurisdiction or that his connection with Hong Kong is the most substantial connection he has with any jurisdiction. No exercise of comparisons is required. It is sufficient if he demonstrates that, among others perhaps, he has ‘a’ substantial connection with Hong Kong.
+
+[14] Increasingly we are living in a world without borders. Capital sums are moved in moments from one side of the world to the other with little or no regard for national boundaries. The internet is universal. It is commonplace for even the modestly affluent to have homes in two countries. It is no longer only in the world of fiction that successful business people may at the same time live and work in two countries. S.3(c) is not at odds with this new reality. The subsection recognises that a petitioner who asserts a substantial connection with Hong Kong may also have a substantial connection with one or more other jurisdictions.
+
+[15] But, of course, if the Hong Kong courts are to exercise jurisdiction, it must be shown on a balance of probabilities that a petitioner not merely has a connection with Hong Kong but that, bearing in mind the scope and purpose of the Ordinance, the connection is ‘substantial’.
+
+[16] ‘Substantial’ is a plain enough English adjective. We all understand what it means – at least in substance (if I may be excused the play on words). I say that because it is not a word that lends itself to precise definition or from which precise deductions can be drawn. To say, for example, that ‘there has been a substantial increase in expenditure’ does not of itself allow for a calculation in numerative terms of the exact increase. It is a statement to the effect that it is certainly more than a little but less than great. It defines, however, a significant increase, one that is weighty or sizeable.
+
+[17] It speaks for itself, I think, that an artificially constructed connection will not be a substantial one. A connection must be real in the sense, for example, that it has not been engineered for temporary tactical advantage. It was not the intention of the legislature (in passing s.3(c) into law) to create a convenient off-shore divorce jurisdiction. As it has been said in an earlier authority, the subsection is not intended for ‘birds of passage’.
+
+[18] As the jurisdiction looks to the determination of matrimonial proceedings, a material factor will be whether both parties to the marriage have lived in Hong Kong and, if so, how long they have lived here as man and wife. But those factors will not necessarily be determinative. In each case the factors to be considered will be different and the weight to be given to them, in the factual context of each case, will no doubt be different too.
+
+[19] In summary, whether – for the purposes of the Ordinance – a connection is substantial or not can only be determined on the basis of a broad objective assessment, taking all relevant factors into account.”
+
+23. In the Judgment, at §19, the Judge summarized the applicable principles, with which Mr Chan expressly agrees, as follows:
+
+“(1) What is statutorily required under section 3(c) of the Ordinance is not just a ‘substantial connection’ in any ordinary sense but a connection with Hong Kong of substantial substance that warrants the Hong Kong Court to assume jurisdiction to adjudicate on matters going to the dissolution of a marriage (see B v A at [22] – [23], per Hartmann J; and ZC v CN, supra at [53] – [55]).
+
+(2) For the purposes of establishing (1) above, one should look at factors such as (a) whether the parties’ matrimonial home is in Hong Kong; (b) what is their past pattern of life; (c) do the parties regard Hong Kong as their home for the time being; (d) do the parties choose to work in Hong Kong; (e) are the Children of the family studying in Hong Kong (see ZC v CN at [9.5] & [9.8], per Cheung JA).
+
+(3) Physical presence in Hong Kong is necessary to the establishment of a connection but because of the requirement of ‘substantial’, the presence must be real and not merely transitory (see ZC v CN at [9.4], per Cheung JA).
+
+(4) The fact that a party has resident status which allows him or her to live here legally is only a factor to be taken into account and is clearly not conclusive (see ZC v CN at [9.8], per Cheung JA).
+
+(5) Whilst a party may have a substantial connection with more than one place, if a party is shown to have a substantial connection elsewhere by reason of his home or work, this may be used to contrast with the connecting factors he has in Hong Kong to see whether the Hong Kong connection is a substantial one (see ZC v CN at [9.8], per Cheung JA).
+
+(6) It is only in exceptional circumstances that a party who is in Hong Kong without the presence of his family will nonetheless be able to show that he has a substantial connection here (see ZC v CN at [9.9], per Cheung JA; and LCYP v JEK at [42], per Kwan JA).”
+
+6.  Since the Petitioner also seeks to rely on habitual residence and domicile as the basis of her claim of jurisdiction, I further set out the legal principles on the same.
+
+7.  In the case of ZC v CN [2014] HKFLR 469 at page 476, Cheung JA (as he then was) stated the following principles on habitual residence:
+
+“II) Habitual residence
+
+8.1 Habitual or ordinary residence refers to ‘a man’s abode in a particular place or country which he has adopted voluntarily and for settled purposes as part of the regular order of his life for the time being, whether of short or of long duration. It is necessary that the purpose of living where one does has a sufficient degree of continuity to be properly described as settled’: R v Barnet London Borough Council, Ex p Nilish Shah [1983] 2 AC 309, judgment of Lord Scarman at page 340-344. Lord Scarman applied the natural and ordinary meaning approach in construing the words ‘ordinarily resident’ of the United Kingdom Education Act 1962.
+
+8.2 The same meaning of habitual or ordinary residence is to be given to the family law legislation: Ikimi v Ikimi [2002] Fam 72 Thorpe LJ at page 82, reaffirmed in Mark v Mark [2006] 1 AC 98.
+
+8.3 Unlike domicile, one may have habitual or ordinary (the terms are the same) residence in two places at the same time: Ikimi.
+
+8.4 In the recent case of Vallejos v Commissioner of Registration (2013) 16 HKCFAR 45, the Court of Final Appeal construed ‘ordinarily resident’in Article 24(2)(4) of the Basic Law. The Court of Final Appeal emphasised the purposive and contextual approach in statutory interpretation (paragraph 50) and qualified the natural and ordinary meaning approach of Lord Scarman by regarding it only as a starting point but not decisive (paragraph 80). Ma CJ held that:
+
+81. It is always necessary to examine the factual position of the person claiming to be ordinarily resident to see whether there are any special features affecting the nature and quality of his or her residence. If such features exist, one asks whether they result in that person’s residence being qualitatively so far-removed from what would traditionally be recognised as ‘ordinary residence’ as to justify concluding that he or she is not ‘ordinarily resident’.
+
+This is necessarily a question of fact and degree and the outer boundaries of ‘ordinary residence’ are incapable of precise definition. But the exercise is necessary since the meaning of ‘ordinary residence’ in art.24(2)(4) can only be considered in the factual context presented by the person claiming to come within the meaning of that concept.’”
+
+8.  In the case of TO (also known as TT) v KO [2022] 1 HKC 230, Kwan VP explained the meaning of “habitual residence” and the matters to be considered when considering the same. I set out the relevant paragraphs as follows:
+
+59. The judge referred to the relevant legal principles in §§10 to 12 of the Judgment. There is no serious dispute about the principles. Habitual or ordinary residence refers to “a man’s abode in a particular place or country which he has adopted voluntarily and for settled purposes as part of the regular order of his life for the time being, whether of short or of long duration. … All that is necessary is that the purpose of living where one does has a sufficient degree of continuity to be properly described as settled.” (R v Barnet London Borough Council, ex p Nilish Shah [1983] 2 AC 309 at 343G to H, 344D, per Lord Scarman; adopted in ZC v CN (Divorce: jurisdiction) [2014] 5 HKLRD 43 at §8.1)
+
+60. The Court of Final Appeal emphasised in Vallejos v Commissioner of Registration (2013) 16 HKCFAR 45 that the question of residence has to be interpreted in a purposive and contextual manner. The proper approach is to “examine the factual position of the person claiming to be ordinarily resident to see whether there are any special features affecting the nature and quality of his or her residence. If such features exist, one asks whether they result in that person’s residence being qualitatively so far-removed from what would traditionally be recognised as ‘ordinary residence’ as to justify concluding that he or she is not ‘ordinarily resident’.” (at §81)
+
+61. Physical presence is a weighty feature in considering whether there is a sufficient degree of continuity in the purpose of living for it to be described as settled. In Ikimi v Ikimi [2002] Fam 72, a 44% physical residency rate was held to be “just sufficient” foundation for jurisdiction (§§12, 36, 37). In Armstrong v Armstrong, a 20% residency rate, coupled with the pattern of the husband’s visits, was held to be clearly insufficient (§30).
+
+9.  In respect of the legal principles relating to domicile, the relevant sections of the Domicile Ordinance (Cap 596) are set out as follows:
+
+“3.General rules
+
+(1) Every individual has a domicile.
+
+(2) No individual has, at the same time and for the same purpose, more than one domicile.
+
+(3) Where the domicile of an individual is in issue before any court in Hong Kong, that court shall determine the issue in accordance with the law of Hong Kong.
+
+5. Domicile of adults
+
+(1) On becoming an adult, an individual retains (subject to subsection (2)) the domicile that he had immediately before he becomes an adult.
+
+(2) Subject to sections 6, 7 and 8, an adult acquires a new domicile in a country or territory if—
+
+(a) he is present there; and
+
+(b) he intends to make a home there for an indefinite period.
+
+10. Domicile in country comprising 2 or more territories
+
+In any case where—
+
+(a) an adult is present in a country comprising 2 or more territories and intends to make a home in that country for an indefinite period; but
+
+(b) the application to him of the other provisions of this Ordinance does not show that he is domiciled in any particular territory within the country,
+
+then (notwithstanding the other provisions of this Ordinance) he shall be treated, until he acquires another domicile (whether under section 5 or 8 or this section), as domiciled in the territory within that country with which he is for the time being most closely connected.
+
+11.Closest connection
+
+(1) In determining for the purposes of section 4, 8 or 10 the country or territory with which an individual is for the time being most closely connected, account may be taken of any relevant matter.
+
+(2) In determining for the purposes of section 4 the country or territory with which a child is for the time being most closely connected, account shall be taken of any preference that the child may have as to the country or territory in which to have his home.
+
+(3) In determining for the purposes of section 8 the country or territory with which an adult lacking the capacity to form the intention necessary for acquiring a domicile is for the time being most closely connected, account shall be taken of any intention that he might have, immediately before losing that capacity and as an adult, as to the country or territory in which to make a home for an indefinite period.
+
+(4) Any matter taken into account under subsection (1), (2) or (3) may be given such weight as is appropriate in all the circumstances of the case.”
+
+10.  Cheung JA (as he then was) stated at page 474 of ZC v CN:
+
+“I) Domicile
+
+7.1 Rule 4 of Dicey, Morris & Collins: The Conflict of Laws, (15th Ed)
+
+Chapter 6, para 6R-001 states:
+
+‘ RULE 4—(1) A person is, in general, domiciled in the country in which he is considered by English law to have his permanent home.
+
+(2) A person may sometimes be domiciled in a country although he does not have his permanent home in it.’
+
+7.2 To elaborate on this rule the authors state that:
+
+6-004 Permanent home. The notion which lies at the root of the concept of domicile is that of permanent home. …… A person may be said to have his home in a country if he resides in it without any intention of at present removing from it permanently or for an indefinite period. But a person does not cease to have his home in a country merely because he is temporarily resident elsewhere; and a person who has formed the intention of leaving a country does not cease to have his home in it until he acts according to that intention.
+
+6-005 While the notion of permanent home can be explained largely in the light of commonsense principles, the same is certainly not true of domicile. Domicile is ‘an idea of law’ which diverges from the notion of permanent home in two principal respects. In the first place, the elements which are required for the acquisition of a domicile go beyond those required for the acquisition of a permanent home. In order to acquire a domicile of choice in a country a person must intend to reside in it permanently or indefinitely. …… Secondly, domicile differs from permanent home in that the law in some cases says that a person is domiciled in a country whether or not he has his permanent home in it……’
+
+7.3 The words ‘by English law’ in Rule 4 mean in the context of this case ‘by Hong Kong law’. This rule together with the concept of acquiring a domicile by choice are reflected in our Domicile Ordinance (Cap 596) which is an ordinance to consolidate and reform the law for determining the domicile of individuals. . . .”
+
+11.  In seeking to establish one’s domicile, the court is entitled to consider a number of factors. In the case of W v C (Domicile and Forum) [2013] HKFLR 213, Yuen JA (as she then was) stated the following:
+
+“20. A list of factors that may be taken into account in determining an individual’s intention whether to make a home in a particular place was conveniently set out by Chu DJ in Y v W FCMC1847/2011, as follows:
+
+“(i) Length of residence;
+
+(ii) Condition of residence: Purchased property? Leased property? Furnished lodgings? Hotels?;
+
+(iii) Marriage with a local partner;
+
+(iv) Whereabouts of the family;
+
+(v) Business interest;
+
+(vi) Whereabouts of personal belongings;
+
+(vii) Whereabouts of the person’s property and investments;
+
+(viii) The fact of naturalisation;
+
+(ix) Decision made as to the nationality of the Children;
+
+(x) Education of the Children;
+
+(xi) Memberships of clubs or religious associations;
+
+(xii) Place of work;
+
+(xiii) Relation between a man and his family.”
+
+THE AMENDMENT SUMMONS
+
+12.  There is no dispute the application for amendment of the Petition was made late. The only explanation offered by the Petitioner is set out in paragraphs 4 and 5 of her 3rd Affirmation. She explained her legal advisers informed her the Respondent argued she was not entitled to rely on any other limb of section 3 MCO, except the ground of domicile as pleaded in her Petition. The Petitioner deposed the amendments are necessary to include the remaining 2 limbs of s.3 MCO in the Petition so that she may rely on all 3 limbs of s.3 MCO.
+
+13.  I find the Petitioner’s explanation unsatisfactory. Her legal advisers drafted the Petition. It is only logical to assume her legal advisers knew they were entitled to plead other grounds if necessary but chose (presumably on instructions) to rely on the ground of domicile only. It is unclear to the court whether the fault lies with the Petitioner in that her instructions have now changed or whether it is the inadvertence of her legal advisers in drafting the Petition. Nevertheless, I do not accept the Petitioner and/or her legal advisers were, somehow, taken by surprise by the Respondent’s arguments.
+
+14.  In considering whether the Petitioner’s application should be allowed, the court must consider not only the explanation for the late application, but must consider a number of factors to assess where justice lies and whether the application should be granted despite the delay in making the application (see paragraph 20/8/6 Hong Kong Civil Procedure 2024 Vol 1). For example, the court should consider, inter alia, the timing of the amendment application, the interests of the parties, the prejudice suffered by the respondent party, whether the prejudice can be remedied by costs, and whether the amendment is necessary to ensure all matters are before the court for the proper adjudication of the issue at hand. The list is, of course, not exhaustive.
+
+15.  I have considered submissions of counsel. Although I do not accept the explanation as being satisfactory to negate the delay of the application, I do accept much of the evidence relating to all 3 limbs of s.3 MCO are already canvassed in the evidence before me. I also accept that for the purposes of considering whether the court has jurisdiction over this present case, the amendments should be allowed so that this court can holistically consider all factors and come to a comprehensive decision on jurisdiction. A determination on jurisdiction may finally determine the proceedings. In view of the finality of the present decision, I am of the view that so long as the evidence filed already covers the issues raised by the amendments proposed, the court should determine the points of law arising from the evidence already before it.
+
+16.  In so far as there may be any prejudice caused to the Respondent, I have endeavoured to remedy the same by giving leave to the Respondent to file a further affirmation in opposition to address any new matter he has not already addressed. I note counsel for the Respondent conceded at the hearing in March 2023 he was able to proceed on a de bene esse basis. However, he submitted he would not have sufficient time to argue the Amendment Summons at the same hearing since the hearing on 3 March 2023 was fixed for the purposes of arguing the Jurisdiction Summons only. This “prejudice” was also remedied by re-fixing the 2 summonses to be heard on the first available date.
+
+17.  As for any remaining prejudice the Respondent may suffer from the late application, I am of the view that such prejudice, if any, is remedial by an adverse costs order against the Petitioner. At the hearing in March 2023, I warned the Petitioner’s counsel of possible adverse costs orders due to the late application. Counsel for the Petitioner agreed the Petitioner would have to bear the costs of the adjournment but submitted the basis of awarding such costs and the quantum would be subject to further argument.
+
+18.  By reason of the matters set out above and in the interest of disposing the issue of jurisdiction fairly and comprehensively, I allow the Petitioner’s application for amendment.
+
+19.  I now proceed to consider the Jurisdiction Summons on the basis that all 3 grounds in s.3 MCO are now properly raised before me.
+
+WHETHER BOTH PARTIES ARE DOMICLED IN HONG KONG AS AT THE DATE OF THE PETITION
+
+20.  I outright reject the Petitioner’s claim that the Respondent was domiciled in Hong Kong as at the date of the Petition. It is not disputed the Respondent lost his right to become a Hong Kong permanent resident in 2013 due to his failure to satisfy the 7 year residence requirement. The Respondent explained at paragraph 22 of his First Affirmation that he purposely chose not to fulfil the 7 year residence criteria as he felt his PRC passport was more convenient for his travels. He expressly stated he never intended to become a Hong Kong resident.
+
+21.  It is not disputed the Respondent’s employment was all along in the PRC. The parties and the Children moved to Shenzhen in or around the beginning of the school term in 2019, and have not moved back to Hong Kong since. It is clear the Respondent never intended to make Hong Kong his domicile of choice nor was he domiciled in Hong Kong as at the date of the Petition by reason of having made Hong Kong his permanent home.
+
+22.  In such circumstances, I do not accept the Respondent was domiciled in Hong Kong at the date of the Petition.
+
+23.  In so far as the Petitioner claims to be domiciled in Hong Kong, I do not accept the Petitioner’s claim.
+
+24.  It is not disputed that for the period of more than 1 year immediately preceding the Petition (that is, since in or around September 2019), the Petitioner had been residing in Mainland China.
+
+25.  Though the Petitioner constantly claims she was unable to return to Hong Kong due to travel restrictions imposed by COVID related policies and so on, Hong Kong reopened its borders with Mainland China in February 2023. Yet despite the reopening of the borders, the Petitioner has not returned to Hong Kong. Moreover, despite the Hong Kong Flat being preserved by way of the Injunction Order, the Petitioner has not returned to Hong Kong for the purposes of residing here.
+
+26.  The Petitioner claims she tried to enrol the Children into school in Hong Kong and that as soon as the Children have a school placement in Hong Kong, she will return to Hong Kong with them. However, I note despite having been repeatedly invited by Shatin College during 2021 to attend interviews and a visit to the school, the Petitioner did not attend the same.
+
+27.  I further note the Petitioner admitted in her own evidence she did not take any steps to apply to become a permanent resident of Hong Kong and she was of the view there was no immediate need to apply for a Hong Kong identity card.
+
+28.  In summary, the reasons she gave for not returning to Hong Kong are no longer existent and yet she continues to remain out of Hong Kong. Though she alleges she intends to return upon finding school placements for the Children, it is clear she was not serious in her efforts. I therefore find the Petitioner’s claim that she intends to return to Hong Kong and make Hong Kong her permanent place of residence to be unbelievable.
+
+29.  I therefore do not accept the Petitioner was domiciled in Hong Kong as at the date of the Petition.
+
+WHETHER EITHER OF THE PARTIES WERE HABITUALLY RESIDENT IN HONG KONG 3 YEARS IMMEDATELY PRECEEDING THE PETITION
+
+30.  I set out the Petitioner’s case on habitual residence as pleaded in the Amended Petition:
+
+“3A. Either party was habitually resident in Hong Kong throughout the period of 3 years immediately preceding the date of the petition on 20th January 2022, between 20th January 2019 and end of August 2019, and certain public holidays between 2019 and 2022, residing at the address of [ … ](“the Matrimonial Home”).” (Address left out)
+
+31.  Paragraph 3B(vi) of the Amended Petition also pleads: “The Petitioner, the Respondent, the Children had habitually resided in Hong Kong for at least 10 months throughout the period of 3 years immediately preceding the date of the petition.”
+
+32.  At the hearing, I asked the Petitioner’s counsel what is meant by “at least 10 months” and the exact dates or periods of time the Petitioner resided in Hong Kong. I further questioned whether the pleading relating to habitual residence at paragraph 3A is inconsistent with the pleading at paragraph 3B(vi). Counsel for the Petitioner insists the pleading is not inconsistent. However, he was only able to give the court 4 exact dates of the Petitioner’s visit to Hong Kong from 2019 to 2022.
+
+33.  I find the Petitioner’s case on habitual residence to be inconsistent and confusing, to say the least.
+
+34.  Paragraph 3A of her Amended Petition set out properly, pleads the following:
+
+1) Either Party was a habitual resident in Hong Kong:
+
+a) throughout the period of 3 years immediately preceding the date of the Petition,
+
+b) Between 20 January 2019 to end of August 2019, and
+
+c) “certain public holidays during 2019 – 2022”.
+
+35.  Properly read and understood, paragraph 3A pleads 3 periods of habitual residence. Though Counsel for the Petitioner explained the mentioning of specific periods was only meant to particularize her stay in Hong Kong, this is not how the pleading reads in plain English.
+
+36.  Even if I accept counsel’s interpretation of paragraph 3A of the Amended Petition, the Petitioner’s exact period of habitual residence is unclear on the Petitioner’s own evidence. At paragraph 18 of her 2nd Affirmation, she claims she habitually resided in Hong Kong for 9 months since 20 January 2019. However at paragraph 3(b) of her 2nd Affirmation and paragraph 3B(vi) of the Amended Petition, she deposes her period of habitual residence to be of “at least 10 months”. There is no evidence from the Petitioner to explain what is specifically meant by the phrase “at least 10 months” and the precise duration referred to by the phrase “at least 10 months”.
+
+37.  I note the Petitioner has not provided any movement records to this court to show her period of residence in Hong Kong during January 2019 – January 2022. There is simply no evidence before this court on the exact total number of days she spent here in Hong Kong and the duration of each stay. At paragraph 14 of her 2nd Affirmation, she is only able to name 2 specific holidays, over the entire period of 2019 – 2022, in which she returned to Hong Kong. However, she did not provide any specific end dates for the said visits mentioned. Hence not only is her claim of habitual residence of 9 months or “at least 10 months” ambiguous, the claim is unsupported by her own evidence. I therefore do not accept the Petitioner had habitually resided in Hong Kong for 9 months or “at least 10 months”.
+
+38.  I remind myself that for the parties to establish habitual residence, the parties are not required to have lived continuously in Hong Kong for 3 years prior to the date of the petition. In order to establish habitual residence, the parties must prove they have adopted Hong Kong as a place in which they will settle (albeit they may have settled in more than one place), and that they have adopted Hong Kong as place in which they will settle throughout the 3 years immediately preceding the date of the Petition.
+
+39.  It is clear s.3(b) MCO requires either party to habitually reside in Hong Kong throughout the period of 3 years immediately preceding the petition. The use of the word “throughout” together with the phrase “immediately preceding” clearly means the habitual residence must be persistent during the whole of the 3-year period immediately preceding the date of the petition (i.e. from January 2019 to January 2022).
+
+40.  Even assuming for the sake of argument the Petitioner is able to establish she had habitually resided in Hong Kong for either 9 or 10 months during 2019 – 2022, I do not accept the Petitioner has established habitual residence for the purposes of s.3(b) MCO.
+
+41.  I am of the view that it is not sufficient for the Petitioner to say she had habitually resided in Hong Kong for 9 or 10 months at some point in time during 2019 – 2022. Her habitual residence must be “throughout” the period of 2019 - 2022. If, for whatever reason, the Petitioner fails to habitually reside in Hong Kong after the said 9 or 10 month period, then she cannot establish her habitual residence as required by s.3(b) MCO.
+
+42.  In so far as to whether there are other factors that may support the Petitioner’s claim of habitual residence, I note she has not pleaded any other factors in support of her claim. In any event, for reasons which I shall explain in my discussion regarding substantial connection, I fail to see any other factors which indicate the Petitioner has settled here in Hong Kong for the said 3 year period.
+
+43.  I am of the view that, even on the Petitioner’s own pleaded case, she is unable to prove she habitually resided in Hong Kong throughout the 3 years immediately preceding the Petition. I therefore reject the Petitioner’s claim of having habitually resided in Hong Kong for the said 3 year period.
+
+44.  In so far as the Petitioner claims the Respondent had habitually resided in Hong Kong, I reject the same. It is clear the Respondent has been living in Mainland China since 2019 and has not returned to live in Hong Kong since. According to the Respondent’s evidence, he never settled nor intended to settle in Hong Kong. There is simply no evidence before this court to conclude the Respondent had, during the period of January 2019 – January 2022, adopted Hong Kong as a place “as part of the regular order of his life” to the extent that he can be considered settled in Hong Kong.
+
+45.  By reason of the matters set out above, I do not accept either party had habitually resided in Hong Kong throughout the 3 years immediately preceding the date of the Petition.
+
+WHETHER EITHER PARTIES HAVE A SUBSTANTIAL CONNEXION WITH HONG KONG AS AT THE DATE OF THE PETITION
+
+46.  I have considered the principles as set out in the case of JQ v CLH, the evidence before me, and the submissions of the parties.
+
+47.  I am of the view that for any connection to be substantial it must be one that points to a real intention of the parties to conduct their life in Hong Kong for the purposes of making Hong Kong their home (see ZC v CN at paragraph 9.5 of the judgment), even if it may not be their only home.
+
+48.  Having considered the Amended Petition and facts pleaded by the Petitioner in support of her claim of substantial connection, I am of the view that the pleaded facts are insufficient to establish the parties have a substantial connection to Hong Kong.
+
+49.  Firstly, I am of the view the undisputed facts of this case clearly indicate the parties have, as at the date of the Petition, established the regular order and pattern of their life in the Mainland China, with no intention of residing in Hong Kong on a permanent basis. I set out the salient undisputed facts of this case as follows:
+
+1) The parties have not resided in Hong Kong since 2019. Despite the full reopening of Hong Kong borders with Mainland China in February 2023, and the Hong Kong Flat being preserved by the Injunction Order, the Petitioner and the Children have not moved back to Hong Kong.
+
+2) As at the date of the Petition and the date of the hearing, the Children continue to remain in Mainland China and continue to receive their education in Mainland China.
+
+3) The Petitioner and Respondent have all along maintained their employment in Mainland China.
+
+4) Neither party is a Hong Kong resident.
+
+5) The Petitioner has not applied to become a Hong Kong resident or a one-way permit. More importantly, the Petitioner expressly stated in her evidence there was no immediate need for her to make such applications.
+
+6) According to the parties’ respective Form E, the majority of their assets are located in the Mainland China. In particular, the parties’ cash assets are all in Renminbi. Their bank accounts do not hold any Hong Kong Dollar deposits.
+
+7) According to the Petitioner’s 2nd Affirmation, she only returned to Hong Kong twice after 2019.
+
+50.  The undisputed facts show that, as at the date of the Petition, the parties have a substantial connection to the Mainland China in that their daily lives are primarily, if not solely, conducted in Mainland China.
+
+51.  Secondly, I do not accept all the pleaded facts in paragraph 3B of the Amended Petition as being true. For example, for reasons set out earlier, I do not accept the Petitioner intended to return to Hong Kong for the purposes of residing here and I do not accept the Petition resided in Hong Kong for “at least 10 months” as pleaded.
+
+52.  Thirdly, any connection the Petitioner claims she still has with Hong Kong cannot be described as substantial, by any stretch of the word. The remaining pleaded facts (of which I have not explicitly rejected in this Decision) are either irrelevant in that those facts relate to matters before the date of the Petition (e.g. the Petitioner’s living arrangements before September 2019), or are insubstantial to have any bearing on the question of the parties’ own substantial connection to Hong Kong (e.g. whether the parties have extended family in Hong Kong). Miscellaneous matters such as holding a Hong Kong driving licence and valid car insurance (assuming this is still true as at the date of the Petition) in itself cannot be any proof of substantial connection. These matters are irrelevant in this case especially when the Petitioner has not returned to Hong Kong in the past 4 years and does not own a car in Hong Kong (see the Petitioner’s Form E dated 1 September 2022).
+
+53.  In so far as the Petitioner attempts to central her argument around the Properties, I have already set out in my judgment dated 9 December 2022 that I accepted the Petitioner agreed to sell the Properties. Had the Respondent sold the Properties at the agreed price, the parties would no longer have any substantial assets in Hong Kong. I am of the view the agreement to sell the Properties must be an indication that the parties do not intend to permanently reside in Hong Kong. Moreover, the Properties continue to remain preserved only by reason of the operation of the Injunction Order. Hence, the mere fact the Properties remain unsold in all the circumstances cannot be regarded as a substantial connection to Hong Kong.
+
+54.  Having considered the evidence, I reject the Petitioner’s claim the parties have any substantial connection with Hong Kong as at the date of the Petition.
+
+55.  By reason of having rejected the Petitioner’s claim of jurisdiction, I am not required to decide on the Respondent’s alternative argument of forum non-conveniens.
+
+SUMMARY AND ORDERS
+
+56.  By reason of the matters set out above, I am of the view the Petitioner is unable to prove any of the jurisdictional requirements set out in the s.3 MCO and therefore this court has no jurisdiction to adjudicate on the Amended Petition.
+
+57.  At the hearing in July 2023, both counsel submitted that if the court does not have jurisdiction to adjudicate the Amended Petition, the Injunction Order should also be discharged for want of jurisdiction. However, I understand the Injunction Order is now on appeal. I therefore decline to make any orders relating to the Injunction Order at this stage. Parties may consider taking out the necessary and proper applications consequential to this Decision (if and when appropriate).
+
+58.  I therefore order the Petitioner’s Amended Petition be dismissed for want of jurisdiction.
+
+59.  I see no reason why costs should not follow the event. I therefore make a costs order nisi as follows:
+
+1) Costs of the Respondent’s summons dated 7 June 2022 and the costs of this suit be to the Respondent, to be taxed if not agreed, with certificate for counsel.
+
+2) Costs of and occasioned by the Petitioner’s Amendment Summons be to the Respondent, to be taxed if not agreed, with certificate for counsel.
+
+3) Unless any party applies to vary the above costs order nisi within 14 days hereof, the costs order shall become an order absolute.
+
+ 
+
+ 
+
+ 	(W.Y. Ho)
+ 	Deputy District Judge
+ 
+
+Mr Billy Poon instructed by Messrs Augustine C.Y. Tong & Co. for the Petitioner
+
+Mr Mike Yeung instructed by Messrs Cheung Fung & Hui for the Respondent
+

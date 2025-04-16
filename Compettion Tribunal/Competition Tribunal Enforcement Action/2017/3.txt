@@ -1,0 +1,525 @@
+CTEA 1/2017
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ENFORCEMENT ACTION NO 1 OF 2017
+
+____________
+
+BETWEEN
+
+ 	COMPETITION COMMISSION	Applicant
+and
+
+ 	NUTANIX HONG KONG LIMITED	1st Respondent
+ 	BT HONG KONG LIMITED	2nd Respondent
+ 	SIS INTERNATIONAL LIMITED	3rd Respondent
+ 	INNOVIX DISTRIBUTION LIMITED	4th Respondent
+ 	(trading as “INNOVIX DISTRIBUTION”)	 
+ 	TECH‑21 SYSTEMS LIMITED	5th Respondent
+____________
+
+Before: Hon G Lam J, President of the Competition Tribunal in Chambers
+
+Date of Hearing: 18 September 2017
+
+Date of Decision: 3 October 2017
+
+_______________
+
+D E C I S I O N
+
+_______________
+
+A. INTRODUCTION
+
+1.  This is the Tribunal’s decision on two applications made by the 1st and 2nd respondents respectively for orders to strike out references to certain statements from the Originating Notice of Application in this case, and for associated orders to debar the applicant from adducing into evidence or relying upon all such statements in the substantive hearing.  The applicant, 1st respondent and 2nd respondent will be referred to in this decision as “the Commission”, “Nutanix” and “BT”.
+
+2.  As the grounds are essentially the same, the applications are dealt with together below.  They raise the question of whether statements made by an employee in an interview held pursuant to s 42 of the Competition Ordinance (Cap 619) (“Ordinance”) are, by virtue of s 45(2), inadmissible against the employer undertaking in proceedings brought by the Commission for pecuniary penalty under s 93.
+
+3.  The underlying proceedings in this case are an application by the Commission against five undertakings for a declaration pursuant to s 94 that they have contravened the first conduct rule (s 6(1)) and for the imposition of a pecuniary penalty on each of them pursuant to s 93.  Broadly described, the allegation is that in July 2016, in response to the Hong Kong Young Women’s Christian Association’s (“YWCA”) invitation to tender for the supply and installation of an IT server system, BT planned to submit a bid based on a system supplied by Nutanix.  To assist BT’s bid, Mr A[1] of Nutanix agreed with Mr B of BT that Mr A would obtain four “dummy” bids (ie not genuine bids) from friends of his.  Mr A then agreed with each of three individuals who worked in the 3rd, 4th and 5th respondents respectively and an individual who worked in another firm, for them to do so.  It is said that pursuant to these agreements the 3rd, 4th and 5th respondents (but not the fourth firm) submitted dummy bids to YWCA.  The Commission contends that the conduct of the five respondents constituted “bid‑rigging” and therefore “serious anti‑competitive conduct” under the Ordinance and contravened the first conduct rule.
+
+4.  The statements concerned in the present applications were made in the interview of Mr A and Mr B and another employee of BT, Mr C, by the Commission under s 42 of the Ordinance.
+
+B.  THE FACTUAL BACKGROUND
+
+(1)  Nutanix’s application
+
+5.  On 19 August 2016, the Commission issued two notices under s 41, one addressed to Nutanix and the other to Mr A, requiring them to provide specified information and documents.  The s 41 notice to Nutanix stated:
+
+“2.1 Annex A to this Notice sets out the documents and information that Nutanix Hong Kong Limited (“Nutanix”), acting by its proper officer, is required to produce or provide to the Commission.”
+
+“4.5 The answers to the questions set out in Part 2 of Annex A to this Notice must be:
+
+…
+
+(c) concluded by the proper officer, the chief operating officer or a director of Nutanix affixing his or her name, title, signature, and be properly dated.”
+
+6.  On 19 and 30 September, by letters of Latham & Watkins, each of Nutanix and Mr A responded to the s 41 notice by producing documents and information to the Commission.  The letters for Mr A began with the words “We refer to your letter to our client, Mr. [A], dated 19 August 2016”, and referred to the s 41 notice.  Similarly, the letters for Nutanix began with the words “We refer to your letter to our client, Nutanix, dated 19 August 2016”.  After these letters, Latham & Watkins continued to liaise with the Commission separately on behalf of Nutanix and Mr A.  The solicitor responsible in Latham & Watkins has now stated that they were and are acting only for Nutanix in this matter, and that they provided assistance to Mr A only in his capacity as Nutanix’s employee, not in any personal capacity.
+
+7.  At a meeting between representatives of Nutanix and the Commission on 26 January 2017, upon being advised that Mr A was the primary Nutanix employee involved in the YWCA tenders, the Commission indicated that they would like to schedule an interview with him in February 2017.
+
+8.  On 2 February, a Manager of the Commission sent an email to Latham & Watkins stating the Commission wished to arrange an interview with their “client’s staff, Mr [A] ([xxxxxx] Manager)”.  The Manager has now explained that he should have described Mr A as Latham & Watkins’ “client” instead, and that he did not attach any significance at the time to the description.  On 8 February, Latham & Watkins requested that more than one lawyer from their firm be present at the interview “to ensure that we can offer adequate legal assistance to Mr [A]”, which was acceded to by the Commission.
+
+9.  On 14 February 2017, the Commission issued a notice under s 42 of the Ordinance to Mr A.  The notice was addressed to:
+
+“Mr [A]
+
+[xxxxxx] Manager
+
+Nutanix Hong Kong Limited
+
+c/o 31st Floor, Tower 1
+
+Time Square …”
+
+It was sent to his work email address under a cover letter.  The s 42 notice stated:
+
+“2.1 For the purposes of conducting the investigation referred to in Part 1 of this Notice, the Commission requires you to attend before it to answer questions relating to any matter the Commission reasonably believes to be relevant to the investigation.
+
+2.2       You are required to attend before the Commission at 10 a.m. on 21 February 2017 at the offices of the Commission at the address specified below …”
+
+10.  On 21 February 2017, Mr A attended the interview, accompanied by two solicitors from Latham & Watkins.  Neither of them stated they were attending the interview as lawyers for Nutanix, but the Commission’s representative at the interview recorded their presence as “legal representatives of Mr [A]’s company”, though he has since said he should have been more precise by also describing them as the legal representatives of Mr A.
+
+11.  The procedure for claiming privilege against self‑incrimination was also raised at the beginning of the interview.  The solicitors from Latham & Watkins made clear that while Nutanix wished to continue in its efforts to cooperate with the Commission, they wished to do so in a manner that would protect the right for Mr A to assert the privilege against self‑incrimination.  It was agreed that there was no need to assert the privilege before each response on the understanding that the claim of privilege against self‑incrimination was being invoked with respect to all responses throughout the course of the interview.
+
+12.  As can be seen from the transcript of the interview, the Commission’s representatives stated that they were conducting the interview with Mr A under s 42, and recorded that they had just given Mr A some files, including information for persons attending an interview under s 42, along with copies of ss 42, 43, 45, 52, 53 and 128.  They also stated the Commission had reasonable cause to suspect that a contravention of s 6 and/or s 91 by Nutanix had taken place.  The interview then took place over 21 and 22 February.  The Commission posed wide‑ranging questions to Mr A, who was also asked to explain certain documents produced by Nutanix pursuant to the earlier s 41 notice.
+
+13.  No one else from Nutanix has been interviewed by the Commission, whether under s 42 or otherwise.
+
+14.  The Originating Notice of Application filed on 23 March 2017 refers to certain statements made by Mr A in the interview.  Nutanix seeks an order striking out all such references and debarring the Commission from adducing any evidence from or relying on the statements made by Mr A at the interview.
+
+(2)  BT’s application
+
+15.  On 9 August 2016, the Commission executed a search warrant on BT’s premises.  In addition to physical documents, the Commission also seized certain electronic devices such as the mobile phones of Mr B and Mr C, BT’s computers and Mr B’s tablet computer. 
+
+16.  Baker & McKenzie, on behalf of BT, then approached the Commission to discuss the prospect of BT cooperating with the Commission’s investigation.  In around December 2016, BT agreed a framework for cooperation with the Commission during the investigation phase. As part of this framework, BT agreed to make certain of its employees available for interview.  In particular, it is said that at a meeting between the Commission on the one hand and the in‑house and external lawyers of BT on the other on 16 December 2016, it was agreed that BT would make Mr B and Mr C (both of whom being on garden leave) available for interview by the Commission on the basis that Baker & McKenzie, as BT’s legal representatives, would be permitted to attend both interviews.  The Commission disputes there was such an agreement, but accepts that Baker & McKenzie had said at the meeting that BT would prefer to be present at the interviews for the purpose of assisting the Commission by pointing out any account from Mr B or Mr C that may be inconsistent with BT’s own internal investigation.  Baker & McKenzie also stated at the meeting that the witnesses were to be made available under notices under s 42, though the Commission said the reason expressed at the meeting was BT’s confidentiality obligations rather than a desire to preserve the position on the privilege against self‑incrimination.
+
+17.  On 23 December 2016, the Commission issued s 42 notices to Mr B and Mr C, which were addressed to them as follows:
+
+“Mr [B or C, as the case may be] [xxxxxx] Manager of BT Hong Kong Limited
+
+c/o 38/F.,
+
+Dorset House,
+
+Taikoo Place, 979 King’s Road,
+
+Island East, Hong Kong”
+
+18.  The notices were sent under cover of the Commission’s letter by registered post to their office address and by email to their BT email addresses.  The notices contained wording similar to that quoted in §9 above.
+
+19.  In early January 2017, Mr C decided to instruct Kennedys LLP as his independent legal advisors.  The Commission took the position that as Mr C had his own legal advisor, neither Baker & McKenzie nor BT’s in‑house lawyers would be permitted to attend his interview. Baker & McKenzie complained that this deviated from the agreement on 16 December 2016 and stated that Mr C’s legal adviser was not privy to BT’s investigative steps and would not be able to assist the Commission with BT’s agreed cooperation.  The Commission responded and explained but did not alter its position.
+
+20.  In the result, Mr C was interviewed by the Commission on 23 January in the presence of two solicitors from Kennedys LLP, but with no representative from Baker & McKenzie or BT present.  Mr B did not instruct his own lawyers.  He was interviewed on 25 January with a partner of Baker & McKenzie present in their capacity as BT’s external legal advisors.  He received an audio recording of the interview in early February but refused to make it available to BT.  The transcript of Mr C’s interview was provided by the Commission to BT on 10 April and the transcript of Mr B’s on 25 April.
+
+21.  The Originating Notice of Application refers to certain statements made by Mr B and Mr C in their interviews.  BT seeks an order striking out all such references and debarring the Commission from adducing any evidence from or relying on the statements made by Mr B and Mr C at the interviews.
+
+C.  THE STATUTORY FRAMEWORK
+
+22.  The Commission is a body set up by the Ordinance with the function, among others, “to investigate conduct that may contravene the competition rules and enforce the provisions of this Ordinance” (s 130(a)).
+
+23.  Part 3 of the Ordinance, headed “Complaints and Investigations”, confers extensive powers on the Commission for the investigation of a suspected contravention of the competition rules and creates offences in relation to investigations.
+
+24.  In particular, s 41 (Powers to obtain documents and information) and s 42 (Persons may be required to attend before Commission) set out two separate coercive mechanisms for gathering information and documents.
+
+25.  S 41 applies
+
+“where the Commission has reasonable cause to suspect that a person has or may have possession or control of documents or information or may otherwise be able to assist it in relation to a matter that constitutes or may constitute a contravention of a competition rule” (see s 41(1)).
+
+26.  Under s 41(2) and (4):
+
+“(2) For the purpose of conducting an investigation, the Commission may by notice in writing require any person —
+
+(a) to produce to it any document or a copy of any document; or
+
+(b) to provide it with any specified information,
+
+relating to any matter it reasonably believes to be relevant to the investigation.
+
+……
+
+(4) The Commission may also specify in the notice —
+
+(a) the time and place at which any document is to be produced or any information is to be provided; and
+
+(b) the manner and form in which any document is to be produced or any information is to be provided.”
+
+27.  The power under s 41(2)(a) to require a person to produce a document is augmented by s 41(5) as follows:
+
+“(5) The power under this section to require a person to produce a document includes power —
+
+(a) if the document is produced —
+
+(i) to make copies of it or to take extracts from it; or
+
+(ii) to require that person or any other person who is a present or past employee or partner of that person, or was at any time employed by that person, to give an explanation of or further particulars about the document;
+
+(b) if the document is not produced, to require that person to state, to the best of the person’s knowledge and belief, where it is.”
+
+28.  Similarly, the power under s 41(2)(b) to require a person to provide specified information is augmented by s 41(6) as follows:
+
+“(6) The power under this section to require a person to provide specified information includes power—
+
+(a) in relation to information recorded otherwise than in legible form, to require the production of a copy of the information in a visible and legible form or in a form from which it can readily be produced in a visible and legible form; and
+
+(b) to require the provision of instruction on the operation of equipment containing information stored electronically.”
+
+29.  S 42(1) provides:
+
+“For the purpose of conducting an investigation, the Commission may, by notice in writing, require any person to attend before the Commission, at a time and place specified in the notice, to answer questions relating to any matter it reasonably believes to be relevant to the investigation.”
+
+30.  S 43(1) provides that the Commission may require a person giving any explanation, further particulars, answer or statement to the Commission under Part 3 of the Ordinance to verify the truth of the explanation, particulars, answer or statement, by statutory declaration.
+
+31.  S 44(1) provides:
+
+“A person who gives evidence to the Commission under this Part and any counsel, solicitor, or other person who appears before the Commission under this Part has the same privileges and immunities as the person would have if the investigation were civil proceedings in the Court of First Instance.”
+
+32.  S 45 provides as follows:
+
+“45. Self‑incrimination
+
+(1) A person is not excused —
+
+(a) from giving any explanation or further particulars about a document; or
+
+(b) from answering any question,
+
+under this Division on the grounds that to do so might expose the person to proceedings referred to in subsection (3).
+
+(2) No statement made by a person —
+
+(a) in giving any explanation or further particulars about a document; or
+
+(b) in answering any question,
+
+under this Division is admissible against that person in proceedings referred to in subsection (3) unless, in the proceedings, evidence relating to the statement is adduced, or a question relating to it is asked, by that person or on that person’s behalf.
+
+(3) The proceedings referred to in subsections (1) and (2) are —
+
+(a) proceedings in which the Commission applies for an order for —
+
+(i) pecuniary penalty under section 93; or
+
+(ii) financial penalty under section 169; and
+
+(b) any criminal proceedings other than proceedings for —
+
+(i) an offence under section 55 (Providing false or misleading documents or information);
+
+(ii) an offence under Part V (Perjury) of the Crimes Ordinance (Cap 200); or
+
+(iii) an offence of perjury.”
+
+33.  S 46 provides:
+
+“46. Obligation of confidence
+
+(1) A person is not excused from providing to the Commission any information or producing any document to the Commission under this Part in respect of which an obligation of confidence is owed to any other person.
+
+(2) A person who, when required to do so under this Ordinance, produces any document or provides any information to the Commission, in respect of which an obligation of confidence is owed to any other person, is not personally liable for that act.”
+
+34.  S 52(1) provides that a person who, without reasonable excuse, fails to comply with a requirement or prohibition imposed on that person under, inter alia, ss 41, 42 and 43, commits an offence, and provides for the maximum punishment for the offence.
+
+35.  Under s 55(1), a person commits an offence if he knowingly or recklessly provides to the Commission under Part 3 of the Ordinance any document or information that is false or misleading in a material particular.
+
+D.  THE PARTIES’ CONTENTIONS
+
+36.  Both Nutanix and BT contend that the statements made by the individuals in question at their interviews are, by virtue of s 45(2), inadmissible in the substantive proceedings against Nutanix or BT, as the case may be.  Their arguments have centred round the construction and application of s 45(2) although they have submitted different routes to arrive at the outcome contended for.
+
+37.  On behalf of Nutanix, Mr Gearing advanced a two‑pronged test.  He submitted that on the basis that (i) Mr A’s conduct in July 2016 is said to be attributable and is sought to be attributed to Nutanix, and (ii) that Mr A was in fact called to and did speak on behalf of Nutanix at the s 42 interview, the “person” who made the statements in answering questions at the interview and hence the “person” against whom such statements are inadmissible under s 45(2) should be construed to include Nutanix.
+
+38.  On behalf of BT, Mr Hollander put the focus solely on attribution.  His submission is that where the Commission seeks to attribute the conduct of an individual to an undertaking for the purposes of proceedings for pecuniary penalty, s 45(2) should be construed either in the way contended for by Nutanix, or by reading in, immediately after the phrase “against that person”, words such as “or the entity or the person on whose behalf it is to be attributed”.
+
+39.  On these bases, Nutanix and BT contend that the relevant passages in the Originating Notice of Application are not admissible against them respectively, and as a result may prejudice, embarrass or delay the fair trial of the proceedings or otherwise constitute an abuse of the process of the Tribunal, and are therefore liable to be struck out under r 40 of the Competition Tribunal Rules (Cap 619D).
+
+40.  In response, the Commission contends that the statements were made by the individuals interviewed and are not to be regarded as statements made by Nutanix or BT.  By virtue of s 45(2), the statements are inadmissible against the individuals themselves in any relevant proceedings but are not rendered inadmissible against their employers or indeed anyone else.
+
+41.  As a secondary argument, the Commission says that even if Nutanix and BT are right about the effect of s 45(2), the statements are still admissible against all the respondents other than the particular interviewee’s employer, and references to them should therefore not be struck out from the Originating Notice of Application altogether.
+
+42.  Although the Originating Notice of Application also contains references to statements made at the interviews of the then employees of the 3rd, 4th and 5th respondents respectively, these respondents have adopted a neutral stance to the present applications.
+
+E.  DISCUSSION
+
+(1)  Structure and purpose of s 45
+
+43.  It is common ground that the privilege against self‑incrimination is not absolute and may be abrogated by statute.  Statutory abrogation of the privilege such as found in s 45 is not uncommon whether in Hong Kong[2] or other jurisdictions.  The general object of such provisions has been described by Ribeiro PJ in A v The Commissioner of the Independent Commission Against Corruption (2012) 15 HKCFAR 362 at §75 as follows:
+
+“… the legislative objective of such abrogating provisions is generally to facilitate investigation of suspected criminal or other prohibited conduct and not to enable self‑incriminating evidence to be collected by compulsory means for use in criminal proceedings against the subject of the compulsion. Accordingly, legislation which excludes the privilege against self‑incrimination usually also regulates the admissibility and use that can be made of the compelled information. …”
+
+44.  The same general object can be discerned in s 45. As in the case of many other abrogating provisions, the scheme adopted by the legislature in s 45 is to provide for abrogation of the privilege, to impose restriction on the direct use of the statements so obtained (“direct use prohibition”), and to be silent on — thereby inferentially permitting[3] — derivative use of the statements.  Although this structure evidently follows a “common pattern”[4], there are in the statute books “variations in the effect on the admissibility of information obtained”[5]. The precise scope of the abrogation and the restriction on use ultimately depends on the wording of the statute in question.
+
+45.  In the present case, the individuals having attended the interviews and answered questions, it is not in dispute that any privilege against self‑incrimination has been exhausted and is no longer applicable.  As Ribeiro PJ stated in HKSAR v Lee Ming Tee (2001) 4 HKCFAR 133 at 157C:
+
+“Assuming (although this is subject to challenge by the appellant) that some of the answers were self‑incriminating, once the respondents gave them to the Inspector, their privilege against self‑incrimination was extinguished in relation to the answers given. This is because the essence of the privilege is the withholding of answers. Having given the answers, the respondents were left with the protection afforded by the prohibition against use of the answers in evidence against them”
+
+46.  S 45(2) is formulated in such a way that the direct use prohibition operates automatically without any need for a claim to be made by the person prior to his answers or at any stage,[6] and is imposed on all the statements the person made under that Division (ie ss 39-46) regardless of whether they tend to incriminate him.
+
+47.  The prohibition is, however, limited in three respects.  It (i) negatives only the “admissibility” of the statements made, (ii) “against that person”, (iii) in the proceedings specified in s 45(3), which consist of proceedings for penalties under ss 93 and 169 as well as all criminal proceedings except those for giving false evidence. The prohibition terminates in relation to a statement if evidence relating to it is adduced, or a question relating to it is asked, by the person or on his behalf.
+
+48.  The issue in this case is the scope of the “direct use prohibition” in s 45(2) as regards the beneficiary of that prohibition. This is a question to be determined on the proper construction of s 45(2): HKSAR v Lee Ming Tee, at 164A, 166H–I. 
+
+(2)  Principles of construction
+
+49.  The principles applicable to the construction of statutes are well established.[7] They are not in dispute and need not be extensively set out here.  I would emphasise that the object of the exercise is to ascertain the intention of the legislature, not in the abstract, but “as expressed in the language of the statute”.[8]  The language is construed “having regard to its context and purpose”.[9]  Words are to be given their natural and ordinary meaning unless the context or purpose points to a different meaning,[10] but a court cannot ascribe to a statutory provision a meaning which the language, understood in the light of its context and statutory purpose, cannot bear.[11]
+
+50.  Mr Gearing and Mr Hollander have further urged upon this Tribunal the following observation of Smart J in R v Hood (1997) 91 A Crim R 526, 536:[12]
+
+“Where a statute abrogates the privilege against self‑incrimination and confers a compensatory protection, the court must construe the ambit of that statutory protection. A technical or narrow approach should not be adopted having regard to the importance of that privilege …”
+
+Mr Mok SC, who appeared on behalf of the Commission, did not dissent from this approach which I am prepared to adopt.
+
+51.  While it has been submitted that the Tribunal should construe s 45 in the light of the requirements of a fair trial, it has not been contended by any of the respondents that a remedial construction should be adopted without which the section would infringe provisions of the Basic Law or the Bill of Rights.
+
+(3)  Language of the Ordinance
+
+52.  I turn to the language of s 45.  It is plain and indeed common ground between the parties that the “person” is the same person in s 45(1) and (2).  In particular, within s 45(2), it is clear as a matter of language that the “person” against whom a statement is rendered inadmissible is the “person” who made the statement.  Accordingly, leaving aside Mr Hollander’s alternative argument that involves adding words to s 45(2), it is necessary for Nutanix and BT to argue that in a case such as the present, the “person” who made the statement at the interviews is or includes the employer.
+
+53.  S 45(2) refers to two categories of statements made by a person “under this Division” (ie under ss 39–46): (a) statements made in giving any explanation or further particulars about a document, and (b) statements made in answering any question. The same bifurcation is seen in the statutory abrogation of the privilege in s 45(1).  It is common ground that (a) is a reference to s 41(5)(a)(ii), and (b) is a reference to s 42 and probably also s 41(2)(b).
+
+54.  The direct use prohibition is clearly aimed at protecting the person being required to make the statement — it is compensatory protection for the “subject of the compulsion”[13].  The compulsion comes from ss 41 and 42.  A person may be required by a notice under s 41 to give specified information or to give an explanation of or further particulars about a document, or required by a notice under s 42 to attend before the Commission and answer questions.  If he fails to comply with such requirement, he commits an offence under s 52, unless he has a reasonable excuse. Privilege against self‑incrimination might have been an excuse (see s 44) but for the express provision in s 45(1) that a person is not excused on the ground that it might expose the person to certain specified proceedings.  S 45(2) affords some protection to the person by providing that no statement so made is admissible against that person in the specified proceedings.
+
+55.  The interpretation section of the Ordinance, s 2, provides that the word “person”
+
+“in addition to the meaning given by section 3 of the Interpretation and General Clauses Ordinance (Cap 1), includes an undertaking”
+
+and the word “undertaking”
+
+“means any entity, regardless of its legal status or the way in which it is financed, engaged in economic activity, and includes a natural person engaged in economic activity”.
+
+S 3 of the Interpretation and General Clauses Ordinance (Cap 1) provides that “person”
+
+“includes any public body and any body of persons, corporate or unincorporate, and this definition shall apply notwithstanding that the word “person” occurs in a provision creating or relating to an offence or for the recovery of any fine or compensation”.
+
+56.  The word “person” in s 45 is therefore as a matter of definition capable of meaning an undertaking, be it a company, partnership, unincorporated association or individual.  In fact, it is not in dispute that an undertaking can be required by the Commission to provide specified information under s 41(2)(b) or to give explanation of or particulars about a document under s 41(5)(a)(ii), and that where it is so required, the undertaking is itself the “person” in s 45(1) and (2) and enjoys the benefit of the direct use prohibition, even though the information required may have been given via a proper officer. 
+
+57.  The present case in contrast concerns s 42. Who are the persons required by the s 42 notices in this case to attend before the Commission and answer questions?  Mr Mok submitted that only a natural person can be the subject of a s 42 notice because only a natural person can attend before the Commission to answer questions.  While some support for this proposition may be found in the cases he relied upon,[14] it is, as he acknowledged, unnecessary in this case to decide this question on which I heard no argument and express no opinion.
+
+58.  What is clear in my view is that the identity of the person required by a s 42 notice to attend and answer questions cannot depend fortuitously on the manner in which the correspondence preceding the interview was worded or how the attendants were described on the day or who retained the lawyers that accompanied the interviewee.  It depends instead on the construction of the s 42 notice itself — the document invoking the Commission’s statutory power and imposing legal obligations on the addressee. 
+
+59.  There can be no doubt in the present case that the persons required by the s 42 notices to attend before the Commission and answer questions were the individuals themselves.  In contrast with the s 41 notice to Nutanix which was addressed to Nutanix itself requiring compliance by its proper officer (see §5 above), all three s 42 notices in question were addressed to the individuals by their names, and required them to attend before the Commission on the specified dates.  The fact that the notices were sent to their work addresses and office email addresses is insignificant because under s 167(1)(a), a notice may be served by the Commission, in the case of a natural person:
+
+“(ii) by sending it by post in a letter addressed to the person at the person’s usual place of residence or business or, if the person’s address is unknown, addressed to the person’s last known place of residence or business” or
+
+“(iv) by sending it by electronic mail transmission to the electronic mail address of the person or, if that address is unknown, to the last known electronic mail address of the person”.
+
+60.  It is also clear, as was accepted by Mr Gearing and Mr Hollander, that if the individuals to whom the notices were directed failed to attend or refused to answer questions, it is they themselves (not their employers) who committed an offence under s 52. If they attended but gave false or misleading evidence, it is they themselves (not their employers) who committed an offence under s 55.
+
+61.  Both respondents drew attention to the fact that the s 41 and s 42 notices contained an explanation that the Commission had reasonable cause to suspect that two or more undertakings invited to participate in the tender exercises for the procurement of an IT system by the YWCA had contravened s 6(1) of the Ordinance, and that there was no reference to any suspected infringement of the Ordinance by a natural person. The statement of subject matter and purpose is a statutory requirement (ss 41(3)(a) and 42(2)(a)).  In my view it provides little assistance in ascertaining who the person is for the purposes of s 45.  First, the direct use prohibition protects the person who gave explanation or particulars or answered questions, not necessarily the person being investigated. Secondly, even if a natural person approached was not suspected to have himself contravened any competition rule, it is common ground that he could still be found to have been “involved in a contravention” under s 91 and on that basis liable for a pecuniary penalty under s 93.
+
+62.  Mr Gearing submitted that during the interview of Mr A, the Commission sought explanation of documents provided by Nutanix under the s 41 notice issued to it.  Had the Commission sought explanation of the documents under s 41 from Nutanix instead, Nutanix would be protected by the direct use prohibition under s 45(2)(a) when it gave an explanation.  It is not right, he submitted, that Nutanix should lose that protection as a result of the Commission’s circumvention of this procedure. However, s 41(5)(a)(ii) makes it clear that the Commission has power to require not only the person who produced the document in the first place, but also “any other person who is a present or past employee or partner of that person, or was at any time employed by that person”, to give an explanation of the document.  It could hardly be said to be a circumvention of the proper procedure for the Commission to approach Mr A for an explanation of the documents.
+
+63.  In fact, it seems to me reference to s 41(5)(a)(ii) brings out a point against the respondents’ contention.  That provision draws a clear distinction between a person and the “other person” who is his present or past employee (or partner), and plainly regards them as two separate persons.  It envisages the situation where the employer has been required by a s 41 notice to produce a document, but a past or present employee, rather than the employer, is required by another s 41 notice to give an explanation of or provide further particulars about the document.  While the “person” in s 45 clearly applies to the employee in this scenario, s 45(2) is not so worded as to extend the benefit of the direct use prohibition to the employer.
+
+64.  It is not easy to accept this was an inadvertent omission, as the respondents suggested.  The correlation between s 45 on the one hand and ss 41 and 42 on the other is plain.  If the legislature had intended that the employer of the past or present employee who provided the explanation of or particulars about the document under s 41(5)(a)(ii) should also be protected by the direct use prohibition, one would have expected it to make express provision to that effect.  The same can be said with respect to a person who is required to attend and answer questions under s 42 and his employer.[15]
+
+65.  Mr Gearing drew an analogy with s 46.  In his submission, if information, which is confidential information of a third party, is sought from an employee in an interview under s 42 instead of being sought from the employer undertaking under s 41, then on the Commission’s construction, the employer undertaking would not have the benefit of the immunity from liability for breach of confidence provided by s 46(2).  This result, he submitted, would be both illogical and unfair.  As Mr Mok submitted, however, this argument assumed that the employer undertaking would be liable to the third party for breach of confidence where an employee, pursuant to a compulsory requirement imposed on him personally, disclosed the information to the Commission.  There is, in my view, neither principle nor authority to support this assumption.
+
+66.  I should mention that Mr Mok cited two decisions in support of the Commission’s construction, namely, Smith v R [2007] WASCA 163 and R v Hertfordshire County Council, ex p Green Environmental Industries Ltd [1998] Env LR 153.  It seems to me, with great respect, that what is relied upon is no more than dicta[16] which interpret provisions of a similar nature in a way that is broadly consistent with the Commission’s interpretation of s 45.  Those passages are of limited assistance in resolving what is ultimately a question of construction of the particular statutory provision with which this Tribunal is concerned.
+
+(4)  Respondents’ construction of “person”
+
+67.  Accepting (as all the parties to these applications do) that the interviewees are the persons who were required under s 42 to attend and answer questions and the persons who made the statements, what is the basis for saying that Nutanix or BT, as the case may be, was also the person who made the statements? 
+
+68.  Neither respondent submitted that statements made by an employee should be inadmissible against an undertaking by virtue of s 45(2) merely because it is the employer of the person.  Instead, Nutanix submitted a two‑pronged test, emphasising (i) that Mr A was called to speak at the interview on behalf of Nutanix (which I shall call the “representation argument”), and (ii) Mr A’s conduct in relation to the YWCA tenders is sought to be attributed to Nutanix (the “attribution argument”). BT, with a somewhat different approach, relied only on (ii).
+
+(i)  The representation argument
+
+69.  In support of the representation argument, it is said that Nutanix told the Commission in January 2017 that Mr A was the primary Nutanix employee involved in the YWCA tenders (although it may be noted that the Commission had already issued a s 41 notice to Mr A in August 2016).  Mr A was subsequently made available by Nutanix to attend before the Commission.  He was accompanied at the interview by lawyers who acted only for Nutanix.  Accordingly, it was submitted, he gave his answers as much on behalf of Nutanix as he did for himself. 
+
+70.  In view of the common ground that the s 42 notice was addressed to Mr A personally, however, I have considerable difficulty with the concept that he nevertheless attended and gave answers “on behalf of” Nutanix.  S 42 does not refer to the capacity of a person.  The Commission is empowered to require “any person” to attend.  Where a s 42 notice is issued to a natural person, his obligation to attend before the Commission is personal to him.  It does not depend on his continued employment by any undertaking, or on its authorisation.  Attendance is compulsory and not dependent on his being given leave of absence by his employer.  Nor does he become a representative or agent in answering questions merely because he has been proffered or somehow made available by the employer or because he attends with the employer’s lawyers.  Likewise, his answers are personal to him, and not given on behalf of the employer, in the sense that (assuming they are admissible in legal proceedings) they do not bind the employer.  He, and not the employer, is liable if false or misleading evidence is given.
+
+(ii)  The attribution argument
+
+71.  The second limb in Nutanix’s two‑pronged test, which BT advanced as the sole criterion, focusses on the circumstances of the alleged infringing conduct rather than the circumstances of the interview. The argument, as I understand it, is that where the Commission seeks to attribute the conduct of an individual to an undertaking in order to found liability on the latter’s part for infringement of a competition rule, the answers given by that individual under s 42 in subsequent investigation should also be regarded as the undertaking’s answers. 
+
+72.  In particular, since an undertaking that is a company (as are Nutanix and BT) can only act through individuals employed by it, the acts of such an undertaking are inevitably performed by those individuals.[17] It was submitted that since explanations and answers were sought from the individuals because they were considered by the Commission as representing the respondents in the matters for which the Commission was investigating, their explanations and answers should likewise be regarded as the respondents’.
+
+73.  Mr Gearing and Mr Hollander have put the argument most attractively but I am unable to subscribe to it.  Where the Commission by notice under s 42 requires a natural person to attend and answer questions, it is the knowledge of that person to which the Commission seeks to gain access.  No reason can be found in the statute for deeming it to be a requirement imposed on the employer undertaking which may (as here) be a company with no mind or knowledge other than that which, in other areas of the law, is imputed to it under various doctrines.  Nor are there any policy reasons, as I shall explain, to require that the attendance and answers be attributed to the undertaking.
+
+74.  There is in my view little logical justification why the same answer should necessarily be given to the very different questions of (i) whose acts are to be regarded as the acts of the undertaking for the purpose of ss 6 and 93, and (ii) whose testimony should be regarded as the undertaking’s testimony in subsequent investigation.  The fact that an individual’s hands are deemed the hands of the undertaking for one purpose does not necessarily mean his mouth should be accepted as its mouth for another purpose.  In artificially adopting the same rules of attribution for these questions in order to equate the two, the argument seems to me to beg the question why.
+
+75.  The circumstances surrounding the s 42 interview could be every different from those surrounding the alleged infringing acts.  The employee could have since left the undertaking, and could be uncooperative with or even hostile to the undertaking.  He might have even entered into a leniency agreement with the Commission in return for giving information. Taken to its logical conclusion, BT’s attribution argument would apply regardless of these circumstances, even when the employee has become wholly unconnected with the employer and even when there is no realistic element of compulsion against the employer.
+
+76.  Furthermore, there is nothing to confine the questions that may be asked of an employee under s 42 to the acts he did which the Commission seeks to attribute to the employer undertaking.  He may be asked relevant questions in relation to which he is merely a “witness” rather than an “actor”.  Moreover, in any given case there may be more than one employee whose acts allegedly constitute contravention of competition rules by an undertaking.[18] As Mr Hollander acknowledged, even if one accepts his attribution argument, there is no logic in holding to be inadmissible against the employer what one employee said on these other questions such as about the acts of other employees (which, incidentally, would not be inadmissible against those other employees by virtue of s 45(2)).  The illogicality in the argument is that all the answers given by an employee would be inadmissible whether or not they are admissions of the particular employee’s acts the Commission attributes to the employer.
+
+77.  The argument also presents other logical and practical difficulties.  It is argued that the employer undertaking should be protected by the direct use prohibition where the interviewee is a person whose conduct the Commission seeks to attribute to the undertaking.  But attribution may be disputed or at least not admitted and, if so, may not be established, if at all, until the end of the case.[19] Yet questions of admissibility under s 45(2) may fall to be determined earlier, as in this case.  This problem reminds one of an argument raised in Tate Access Floors Inc v Boswell [1991] Ch 512 (further referred to in §94 below), which Browne‑Wilkinson VC dealt with as follows:
+
+“Notwithstanding this, the individual defendants assert that they can claim the privilege in relation to the order made against Oxford [an overseas company]. They neither admit nor deny that Oxford is a mere creature of theirs. But they say that it is the plaintiffs’ case that Oxford is the mere creature of the individual defendants and, on that basis, they are entitled to claim that to require discovery by the companies is indirectly to require discovery by the individual defendants.
+
+In my judgment this claim by the individual defendants is ill‑founded.  First, unless and until they accept that the company defendants are simply their creatures, there can be no basis for the claim.  The privilege is what it says it is: a privilege against self‑incrimination. Even if it were possible to argue that a company which is the mere alter ego of an individual faced with the risk of prosecution should not be required to give discovery which might aid such prosecution, the foundation of such argument must be that the company is in fact the mere alter ego of the individual who is at risk.”
+
+78.  The above difficulties in my view further militate against any legislative intention to include the employer of the person subject to the s 42 notice within the “person” who has the benefit of the direct use prohibition. 
+
+(5)  The rectifying construction
+
+79.  BT’s alternative argument, which involves inserting in s 45(2), after the phrase “against that person”, words covering the person on whose behalf the statement was made or the person to whom his conduct is to be attributed, can be more shortly dealt with.  Although Mr Hollander has not characterised it in this way, there is no escape from the fact that this is a rectifying construction involving reading words into the statute.  The test for adopting such construction is that set out in Inco Europe Ltd v First Choice Distribution [2000] 1 WLR 586: see Chan Pun Chung v HKSAR (2000) 3 HKCFAR 392; Wan Chiu Wah v Director of Agriculture, Fisheries and Conservation (unrep, HCMP 1085/2015, 13 September 2017), §17.  In that case, Lord Nicholls made clear that the power is confined to “plain cases of drafting mistakes” and said (at p 592F–G):
+
+“Before interpreting a statute in this way the court must be abundantly sure of three matters: (1) the intended purpose of the statute or provision in question; (2) that by inadvertence the draftsman and Parliament failed to give effect to that purpose in the provision in question; and (3) the substance of the provision Parliament would have made, although not necessarily the precise words Parliament would have used, had the error in the Bill been noticed.”
+
+80.  In my view, for the reasons set out in this decision, the present case does not come anywhere near the threshold in respect of any of these three matters.  To accede to this argument would be tantamount to judicial legislation which is of course impermissible.
+
+(6)  Fairness and policy reasons
+
+81.  A number of points have been made based on considerations of legal policy and fairness.  Thus Mr Hollander submitted that if the Commission’s interpretation was correct, the direct use prohibition would not afford any meaningful protection because persons proceeded against for a pecuniary penalty under s 93 would principally be corporations and other undertakings.  He submitted the legislature should not be taken to have removed the privilege against self‑incrimination on compelled evidence but replaced it with a direct use prohibition which is “entirely worthless in any normal case”, and “not a quid pro quo at all”.  This submission was adopted by Mr Gearing for Nutanix.
+
+82.  There are four observations I would make on this argument.  First, while the direct use prohibition has been described as “compensatory protection”[20] and “substituted protection”[21], there is no rule or principle that its scope must be exactly equivalent to and co‑extensive with the privilege abrogated.  In fact, the legislature may where appropriate provide expressly for certain direct use of compulsorily obtained answers.[22]
+
+83.  Secondly, where a natural person is served with a s 42 notice, it is he who is compelled to attend before the Commission and answer questions, and it is his privilege that is abrogated by s 45(1). That subsection removes any excuse that to answer questions might expose the person to criminal or penalty proceedings.  It does not purport to abrogate either the person’s privilege to refuse to answer on the ground that it may incriminate another person, or some other person’s right to prevent the person from answering, if such privilege or right exists (as to which see my fourth observation below).  There is no obvious mismatch between the abrogation of privilege and the direct use prohibition.
+
+84.  Thirdly, as Mr Mok submitted, the direct use prohibition is not rendered nugatory on the Commission’s interpretation. While the respondents suggest that the Ordinance is principally concerned with enforcement against corporations and other undertakings, the protection would still be significant for the interviewee because his answers could potentially expose him to specified proceedings including (as is common ground) proceedings against him for pecuniary penalty under the Ordinance as a person “involved in a contravention” within the meaning of s 91.
+
+85.  Fourthly, to put the argument in context, it seems to me relevant to inquire, generally, as to whether an employer enjoys any relevant privilege where his employee is asked by the authorities to supply information.  For present purposes, I proceed on the basis that as a matter of Hong Kong law, a company may claim privilege against self‑incrimination.  This was decided by Recorder McCoy SC at first instance in Salt & Light Development Inc v SJTU Sunway Software Industry Ltd [2006] 2 HKLRD 279,[23] and the contrary has not been argued before me.  So a corporate employer is not at a disadvantage in this context simply because it is a company. 
+
+86.  But here, as explained above, it was the employees, not the companies, that were compelled to answer questions at the interviews.  There is no authority to suggest that at common law, an employee has a privilege to refuse to answer questions on the ground that it may incriminate his employer, or that an employer has a privilege that enables him to prevent his employee from answering questions on the ground that it may incriminate the employer.  S 65(1) of the Evidence Ordinance (Cap 8), which provides:
+
+“The right of a person in any legal proceedings other than criminal proceedings to refuse to answer any question or produce any document or thing if to do so would tend to expose that person to proceedings for an offence or for the recovery of a penalty …” (emphasis added),
+
+is relevantly identical to s 14(1) of the (UK) Civil Evidence Act 1968 which has been said to be declaratory of the common law: Rio Tinto Zinc Corporation v Westinghouse Electric Corporation [1978] AC 547, 637H, per Lord Diplock.  The privilege is generally understood to be a privilege against incrimination of oneself (and of one’s spouses as provided by s 65(1)(b) of the Evidence Ordinance). 
+
+87.  S 45(1), in stipulating that a “person” is not excused from answering any question “on the grounds that to do so might expose the person” (emphasis added) to specified proceedings, seems to me also to have proceeded on the footing that only a risk of incrimination of the person being questioned would otherwise have provided an excuse.
+
+88.  Counsel for the two respondents argued, however, that the law should not allow a company’s privilege to be circumvented and destroyed by compelling its employees to answer questions that tend to incriminate the employer, offering in return only a direct use prohibition in favour of the employee but not the employer.  Reliance is placed on the dicta of two law lords in Rio Tinto Zinc Corporation v Westinghouse Electric Corporation [1978] AC 547.
+
+89.  The facts of that case were complex but for present purposes it is sufficient to note that Westinghouse, a US corporation which faced a suit in Virginia for breach of contract, alleged in their defence that the contracts had been rendered incapable of performance because of the activities of an international cartel that included two British companies (RTZ).  On Westinghouse’s application, a Virginia judge issued letters rogatory to the High Court of London seeking orders that the two RTZ companies produce certain documents and that a number of individuals, who were directors or officers of the two companies, be orally examined. The RTZ companies claimed privilege against self‑incrimination on the ground that disclosure of the documents would expose them to proceedings for fines under EEC competition law recoverable in England.  The individuals also claimed privilege.  But one of the arguments raised was that, even if the individuals were not entitled to claim any personal privilege, they or the two RTZ companies could claim the latter’s privilege to prevent any examination of the individuals (see pp 587B, 605F).  Since the House of Lords held that the individuals could themselves claim their own privilege under the Fifth Amendment to the US Constitution, it was not necessary to deal with the argument raised. Nevertheless, Viscount Dilhorne said (at p 632B–C):
+
+“Mr Rokison advanced the interesting argument that the privilege to which the appellant companies were entitled and which was claimed by their proper officers, could not be evaded by seeking the evidence which the companies could not be compelled to give, from officers and servants of the company through, as he said, “the back door.”  He was unable to cite any authority for that proposition and I express no opinion on it, save to say that it renders a company’s privilege of little value if it can be got round in that way.  This appears to me to be a proper matter for consideration when a revision of company law is being considered.”
+
+Likewise, Lord Fraser said of the argument at p 652B that
+
+“The submission is unsupported by authority but it has much logical force and if it had been relevant to do so I would have wished to consider it more carefully.”
+
+90.  Against these tentative remarks must be placed Lord Diplock’s strongly adverse statement, at pp 637G–638A:
+
+“It was submitted that since the companies were entitled to withhold the documents from production, they had a privilege in English law to require their officers and servants to refuse to answer questions that might lead to the disclosure of the contents of the documents or provide evidence that would tend to expose the companies to a penalty. At common law, as declared in section 14(1) of the Civil Evidence Act 1968, the privilege against self‑incrimination was restricted to the incrimination of the person claiming it and not anyone else. There is no trace in the decided cases that it is of wider application; no textbook old or modern suggests the contrary. It is not for your Lordships to manufacture for the purposes of this instant case a new privilege hitherto unknown to the law.”
+
+91.  In Rochfort v Trade Practices Commission (1982) 153 CLR 134, referring to a subpoena duces tecum served on an officer of an unincorporated association, Mason J also stated (at p 145):
+
+“The privilege against self‑incrimination is that of the witness who is called to produce. He cannot claim the privilege on the ground that the document tends to incriminate another …”
+
+and therefore a subpoena duces tecum should generally be issued to the owner of the documents (as opposed to an officer of the owner) so that the owner could properly raise the privilege.  The context of this passage makes it clear that his Lordship took the view that an officer of an unincorporated association could not refuse to produce documents on the ground that production would incriminate the association (even though, in that context, his Lordship had proceeded on the footing that the privilege was available to unincorporated associations: see p 148).[24]  In Environment Protection Authority v Caltex Refining Co Pty Ltd (1993) 178 CLR 477 at 516, Brennan J also said that the privilege was not created to protect persons other than the person claiming the privilege.[25]
+
+92.  More generally, Megarry VC had also said at first instance in British Steel Corporation v Granada Television Ltd [1981] AC 1096, 1106E–F:
+
+“… the privilege against self‑incrimination can be invoked only by someone who does so in good faith for his own protection, and not for some ulterior purpose: it is a privilege against self‑crimination, and not a privilege against the incrimination of others, or for the protection of them or their property.”
+
+93.  In Sociedade Nacional de Combustiveis de Angola UEE v Lundqvist [1991] 2 QB 310 (“Sonangol”), the plaintiffs alleged that an individual who had provided consultancy services to them through a Liberian company had conspired with others to defraud them. They obtained a Mareva injunction as well as an order requiring the individual and the company, acting through the individual, to disclose their assets.  These two defendants applied to have the order set aside on the ground that they were entitled to claim privilege against self‑incrimination.  Although the company, being overseas, had failed to establish a real risk that it would be prosecuted in England, it claimed privilege on the basis that “if it was compelled to disclose its assets it might by doing so increase the risk of exposure of the [individual] defendant to criminal proceedings”.  Rejecting this claim, Beldam LJ (with whom Browne‑Wilkinson VC agreed) said:
+
+“The privilege claimed is a privilege against self‑incrimination and does not in my judgment extend in the case of a company to incrimination of its office holders. In the Westinghouse case [1978] A.C. 547 it had been submitted that the R.T.Z. Companies, being entitled to withhold documents from production, had a privilege in English law to require their officers to refuse to answer questions which might provide evidence that would tend to expose the companies to a penalty. Lord Diplock in his judgment said, at pp. 637–638:
+
+‘At common law, as declared in section 14(1) of the Civil Evidence Act 1968, the privilege against self‑incrimination was restricted to the incrimination of the person claiming it and not anyone else. There is no trace in the decided cases that it is of wider application; no text book old or modern suggests the contrary. It is not for your Lordships to manufacture for the purposes of this instant case a new privilege hitherto unknown to the law.’
+
+I would therefore reject the claim to privilege made on behalf of the fourth defendant on this ground.”
+
+94.  In Tate Access Floors Inc v Boswell [1991] Ch 512, the plaintiffs alleged that three former senior employees had defrauded the plaintiffs by setting up overseas companies which then raised false invoices which those employees caused the plaintiffs to pay.  An Anton Piller order was granted and executed in England and an application was mounted to have it set aside on the ground, inter alia, that it infringed the privilege of the individual defendants against self‑incrimination.  It was alleged that there was a real risk of the individual defendants being prosecuted in England for conspiracy, but it was not contended that the corporate defendants (all overseas) would be so prosecuted.  One of the questions raised was whether the individual defendants could have the Anton Piller order against the corporate defendants set aside on the basis that disclosure by them would incriminate the individual defendants.  Dealing only with the individual defendants’ motion to set aside and rejecting the argument, Browne‑Wilkinson VC stated the passage quoted in §77 above and continued (at p 531):
+
+“… In order for a person to show that he has any privilege at all, the burden must be on him to show that he is being asked to incriminate himself: he has no privilege against incrimination by a third party and must prove that the company is his creature.
+
+Even if, contrary to my view, the individual defendants are entitled to put forward the claim to privilege on the basis that the defendant companies are their creatures, in my judgment they are still not entitled to object to the discovery against the company defendants.  The privilege can only be claimed by the person who is likely to be incriminated: see In re Westinghouse Electric Corporation Uranium Contract Litigation M.D.L. Docket No. 235 (No. 2) [1978] A.C. 547, 637 per Lord Diplock.  If people choose to conduct their affairs through the medium of corporations, they are taking advantage of the fact that in law those corporations are separate legal entities, whose property and actions are in law not the property or actions of their incorporators or controlling shareholders.  In my judgment controlling shareholders cannot, for all purposes beneficial to them, insist on the separate identity of such corporations but then be heard to say the contrary when discovery is sought against such corporations.”
+
+95.  Both Sonangol and Tate Access concern the question whether a company has a privilege that can be raised against disclosure on the ground that it may incriminate an individual connected with the company (such as an officer or shareholder).  In each case Lord Diplock’s statement of the law in Westinghouse was applied in rejecting the argument.
+
+96.  The same point was made in Salt & Light Development Inc.  The corporate plaintiffs there were served with interrogatories, and the question arose whether they could refuse to answer them on the ground that the answers might lead to prosecution of the plaintiffs in Shenzhen for a range of offences, and further whether the risk of prosecution of the directors could be taken into account.  Relying on the dictum of Lord Diplock in Westinghouse and the decisions in Sonangol and Tate Access, the learned Recorder said that the privilege claimed by a company is personal to the company and “not descendible”, and he therefore declined to take into consideration the risk of incrimination of the directors of the plaintiffs (see §§78–81).
+
+97.  The converse situation arose in Kensington International Ltd v The Republic of Congo [2007] EWHC 1632 (Comm), where the plaintiff sought discovery from several third parties, being two companies and two of their officers, under the Norwich Pharmacal jurisdiction.[26]  Disclosure was resisted on the ground of privilege against self‑incrimination.  In particular, it was argued that even if the officers did not enjoy any personal privilege, they were nevertheless entitled to refuse to provide the documents and information sought on the ground that they might incriminate the companies.  Although it was unnecessary to decide the point, as it was held that the officers’ personal entitlement to claim the privilege was, on the facts, co‑extensive with that of the companies, Gross J, sitting in the English Commercial Court, expressed his views on the argument as follows:[27]
+
+“… on the assumption that Messrs. Chautard and Lambroza did not enjoy a personal privilege against self-incrimination, my provisional inclination would have been one of reluctance to accede to a claim for privilege by them to guard against the risk of incriminating VS and VB [ie the companies]. The reasons for this reluctance, both general and particular, are these. First, I am, with respect, attracted to the reasoning of Lord Diplock in Westinghouse (supra). At the very least, to find in favour of Mr. Gruder’s submission on this Issue would involve an extended application of the privilege against self‑incrimination. Secondly, as discussed further when considering Issue (III) (below), the privilege in this area does impact on the effectiveness of civil remedies designed to redress fraud. With such considerations in mind, any extension of the privilege would require cogent justification. Thirdly, the position of one‑man companies or of alter egos of companies may well be different; but that is not this case. Fourthly, on the facts, the identity between Messrs. Chautard and Lambroza on the one hand and VS and VB on the other is not so complete as to incline me to favour any such claim; on the material before me, they had wider roles than simply as employees or officers of VS and VB. …”
+
+98.  I, too, would be disinclined to accept that an individual otherwise subject to a requirement to answer questions could refuse to do so on the ground, not that it might incriminate himself (or his spouse), but that it might incriminate his employer or a company of which he was director, let alone the proposition that the employer or company has an enforceable right on that ground to prevent him from answering.  The principle that the privilege does not extend to incrimination of someone other than the person being questioned is well established.  Leaving aside the case where a company is the alter ego of an individual, the bifurcation of personality between a company and the human agents through whom it acts logically entails that one cannot self-incriminate the other.  There is no basis for this Tribunal, for the purposes of construing s 45, to proceed on the footing of an unprincipled and unprecedented expansion of the privilege.
+
+99.  To illustrate his argument of unfairness, Mr Hollander postulated a case where the only evidence supporting a charge was the admission at a s 42 interview by an employee.  If in consequence a charge was laid under the Ordinance against both employer and employee for a pecuniary penalty, the Tribunal would be forced to acquit the employee by virtue of s 45(2) but would use the admission to find the case proved as against the employer.  This, counsel submitted, would be a perverse result that would bring the law into disrepute.  Mr Mok’s response was that in such a case, no charge would be brought against the employee in the first place.  It should also be noted that, in some systems, such as the European Union, competition law does not impose liability on individuals.[28] There are also jurisdictions, such as the United States and Australia,[29] in which corporations do not even enjoy a privilege against self‑incrimination in the first place.  Disparity in treatment of an undertaking and its employees, and of companies and human beings, is not necessarily perverse.
+
+100.  For his part, Mr Mok also prayed in aid policy considerations.  He submitted that construing s 45 in the way contended for by the two respondents would “emasculate” and “stultify” the Commission’s investigative powers and would render s 42 “redundant and futile”.  As Mr Gearing pointed out, however, it is common ground that derivative use of the information is in no way restricted by s 45, so that extending the direct use prohibition to an undertaking would not deprive the statutory abrogation of all its purpose.  The Commission could still use the answers obtained under s 42 “to develop new lines of inquiry; to identify sources of independent evidence; to assist in formulating applications for search warrants; and so forth”.[30] On the other hand, if one takes Mr Hollander’s example in the preceding paragraph, the respondents’ construction would indeed mean that the Commission would be entirely powerless to seek any penalty for the contravention.  Ultimately, it seems to me the proper response is a matter of legislative choice.  On the true and proper construction of the Ordinance, the legislature has in my view decided to put in place for Hong Kong a system in which only the person compelled to provide information is given the benefit of the direct use prohibition.
+
+F.  CONCLUSION
+
+101.  The language of the relevant provisions, examined in the light of their context and purpose and considerations of fairness and policy, means that in the case of an interview under s 42, the beneficiary of the direct use prohibition is the subject of the compulsion, that is to say, the person required by the s 42 notice to attend and answer questions.  The respondents’ constructions are unjustified and are not adopted.  Neither Nutanix nor BT was the subject of the relevant s 42 notices in this case.  Accordingly, neither of them can rely on s 45(2) to exclude the records of interview of Mr A, Mr B and Mr C as being inadmissible against them respectively.
+
+102.  For these reasons, Nutanix’s and BT’s applications are dismissed.  On a provisional basis, the Commission’s costs are ordered to be paid by Nutanix and BT, and there will be no order as to the 3rd, 4th and 5th respondents’ costs. 
+
+ 
+
+ 
+
+ 	(Godfrey Lam)
+Judge of the Court of First Instance, High Court
+President of the Competition Tribunal
+ 
+
+Mr Johnny Mok SC and Ms Catrina Lam, instructed by Winston & Strawn, for the Applicant
+
+Mr Matthew Gearing, Solicitor advocate, instructed by Latham & Watkins, for the 1st Respondent
+
+Mr Charles Hollander, instructed by Baker & McKenzie, for the 2nd Respondent
+
+Mr Alfred Wu, of Norton Rose Fulbright Hong Kong, for the 3rd Respondent
+
+Mr Joshua Chan, instructed by Linklaters, for the 4th Respondent
+
+Ms Cindy Kong, instructed by FONGS, for the 5th Respondent
+
+
+[1] The identity of the individuals involved will be kept confidential, at any rate at this stage, pursuant to the confidentiality ruling dated 28 March 2017.
+
+[2] See eg s 148 of the Competition Ordinance (Cap 619); s 44A of the High Court Ordinance (Cap 4); s 145 of the predecessor Companies Ordinance (Cap 32), considered in HKSAR v Lee Ming Tee (2001) 4 HKCFAR 133 and now replaced by s 865 of the Companies Ordinance (Cap 622); ss 168IB and 286D of the Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap 32); ss 179(16), 184(4), 187 and 359 of the Securities and Futures Ordinance (Cap 571); s 42D(4) of the Professional Accountants Ordinance (Cap 50); s 33 of the Theft Ordinance (Cap 210).
+
+[3] HKSAR v Lee Ming Tee, at 161B; R v Director of Serious Fraud Office, ex parte Smith [1993] AC 1, 40F–G.
+
+[4] A v The Commissioner of the Independent Commission Against Corruption (2012) 15 HKCFAR 362 at §76, per Ribeiro PJ.
+
+[5] R v Director of Serious Fraud Office, ex parte Smith [1993] AC 1, 40F.
+
+[6] in contrast to the provisions in some other enactments, eg s 865(3)(b) of the Companies Ordinance (Cap 622) and s 187(2) of the Securities and Futures Ordinance (Cap 571).
+
+[7] See eg HKSAR v Cheung Kwun Yin (2009) 12 HKCFAR 568, §§11–14; T v Commissioner of Police (2014) 17 HKCFAR 593, §§194–196; Nam Sang Wai Development Co Ltd v Town Planning Board (2017) 20 HKCFAR 196, §29.
+
+[8] Cheung Kwun Yin, §11, per Li CJ.
+
+[9] Cheung Kwun Yin, §12, per Li CJ.
+
+[10] Cheung Kwun Yin, §12, per Li CJ.
+
+[11] T v Commissioner of Police, §195, per Fok PJ.
+
+[12] The other two judges in the Court of Criminal Appeal of New South Wales in that case, namely, Hunt CJ in CL and Ireland J, both reserved their opinion on the question of statutory interpretation.
+
+[13] A v The Commissioner of the Independent Commission Against Corruption (2012) 15 HKCFAR 362 at §75.
+
+[14] Smorgon v ANZ Banking Group Ltd (1976) 134 CLR 475 at 481; Penn‑Texas Corporation v Murat Anstalt [1064] 1 QB 40; Joint & Several Liquidators of Kong Wah Holdings Ltd v The Grande Holdings Ltd (2006) 9 HKCFAR 766 at §§47–48; and Fieldhouse and Others v Commissioner of Taxation (1989) 25 FCR 187 at 218.
+
+[15] For an example of such language, see relevant provisions in ss 26A and 30A of the (UK) Competition Act 1998 (added by s 39 of the Enterprise and Regulatory Reform Act 2013).
+
+[16] see Smith v R at §75 per Buss JA and R v Hertfordshire County Council, ex p Green Environmental Industries Ltd at 166 per Waller LJ.
+
+[17] See Tesco Stores Ltd v Office of Fair Trading [2012] CAT 31, §62.
+
+[18] Indeed, Mr Mok submitted that one of the two BT employees, Mr C, was a mere witness, though Mr Hollander did not comment on it and it is not necessary for me to deal with it. 
+
+[19] As far as I can see, attribution is neither denied nor admitted by Nutanix and BT, but has been denied by another respondent.
+
+[20] Hamilton v Oades (1988‑89) 166 CLR 486, 508 per Dawson J.
+
+[21] HKSAR v Lee Ming Tee, at p 166I
+
+[22] See eg s 20(a) of the Prevention of Bribery Ordinance (Cap 201), considered in A v The Commissioner of the Independent Commission Against Corruption (2012) 15 HKCFAR 362.
+
+[23] This is also the position in England: Triplex Safety Glass Co Ltd v Lancegaye Safety Glass (1934) Ltd [1939] 2 KB 395, and in New Zealand: New Zealand Apple and Pear Marketing Board v Master & Sons Ltd [1986] 1 NZLR 191.  The privilege, however, is not available to corporations under Australian law and US law: see Environment Protection Authority v Caltex Refining Co Pty Ltd (1993) 178 CLR 477; United States v White, 322 US 694 (1944).
+
+[24] The case pre‑dated Environment Protection Authority v Caltex Refining Co Pty Ltd (1993) 178 CLR 477 which decided that in Australia, a corporation does not enjoy any privilege against self‑incrimination.
+
+[25] See also p 504, where Mason J said: “It makes no sense at all to make the privilege available to a corporation in respect of these books and documents when officers of the corporation are bound to testify against the corporation unless they are able to claim the privilege personally.”
+
+[26] Norwich Pharmacal Co v Customs & Excise Commissioners [1974] AC 133.
+
+[27] On appeal, the Court of Appeal did not deal with this point: [2008] 1 WLR 1144.
+
+[28] except where they are themselves undertakings that have breached competition law.
+
+[29] See Environment Protection Authority v Caltex Refining Co Pty Ltd (1993) 178 CLR 477; United States v White, 322 US 694 (1944).
+
+[30] A v The Commissioner of the Independent Commission Against Corruption (2012) 15 HKCFAR 362 at §77.
+
+  
+

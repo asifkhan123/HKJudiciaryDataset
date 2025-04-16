@@ -1,0 +1,121 @@
+FAMV No 16 of 2017
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO 16 OF 2017 (CIVIL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL FROM
+
+CACV NO 256 OF 2014)
+
+_______________________
+
+BETWEEN
+
+ 	BASAB INC.	1st Plaintiff
+(1st Applicant)
+ 	HUI KING CHUN (許經振)	2nd Plaintiff
+(2nd Applicant)
+ 	- and -
+ 	SUPERB GLORY HOLDINGS LIMITED
+(超榮控股有限公司)	1st Defendant
+(1st Respondent)
+ 	CHEN LIHUA (陳麗華)	2nd Defendant
+(2nd Respondent)
+ 	FOK HEI YU (霍羲禹)	3rd Defendant
+ 	BATCHELOR, JOHN HOWARD	4th Defendant
+ 	DOUBLE KEY INTERNATIONAL LIMITED
+(倍建國際有限公司)	5th Defendant
+ 	CHENG HUNG MUI (鄭紅梅)	6th Defendant
+ 	ZHANG XIAOFENG (張曉峰)	7th Defendant
+
+_______________________
+
+Appeal Committee: Mr Justice Ribeiro PJ, Mr Justice Tang PJ and Mr Justice Fok PJ
+Date of Hearing and Determination: 17 August 2017
+Date of Reasons for Determination: 24 August 2017
+_____________________________
+
+REASONS FOR DETERMINATION
+
+_____________________________
+
+Mr Justice Tang PJ:
+
+1.  These proceedings arose out of the sale of 161 million shares (“the shares”) in Kith Holdings Ltd (“KHL”) a listed company owned by Accufit Investments Inc (“Accufit”).  The 1st plaintiff (“P1”) owns 100% of Accufit.  The 2nd plaintiff (“P2”) is the founder and chairman of KHL.
+
+2.  The facts have been set out fully in the judgments of Deputy High Court Judge Wilson Chan, as he then was, and the Court of Appeal.  For present purposes a brief outline suffices.  The 1st defendant (“D1”) lent HK$140 million to Accufit (“the loan”) secured inter alia by a charge by Accufit over 131,000,000 shares in KHL.  In addition, the loan was secured by the P2’s personal guarantee as well as a debenture by P1 over all its assets.  Such assets include its 100% holding in Accufit.  Accufit in turn owned 161 million shares in KHL (inclusive of the 131 million shares already charged to D1).  Upon Accufit’s default the Receivers appointed under the debenture sold the 161 million shares for an amount which was insufficient to repay the loan.
+
+3.  D1 sought to serve a statutory demand on P2 as guarantor but was unable to do so.
+
+4.  If the shares had indeed been wrongly sold at an undervalue as alleged, Accufit might well have a claim against the defendants.  So it was that P1 applied to the BVI court for leave to commence a statutory derivative action against basically the same parties.[1]  Bannister J refused leave, holding that the claim against the various defendants was speculative, unsupported by any material evidence and without substance.  The BVI Court of Appeal having evaluated afresh the evidence adduced before the court affirmed Bannister J’s decision.[2]
+
+5.  On 2 January 2014, the plaintiffs commenced the present proceedings claiming damages, alleging that:
+
+(1) The shares had been sold at an undervalue by the receivers as directors of Accufit such that D1 has breached its duties owed to P1 as chargee.
+
+(2) P2 as guarantor, claims that D1 was also in breach of duty in the sale to P2 as chargee.
+
+(3) The plaintiffs’ claim that there was a conspiracy amongst inter alia D1 and D2 to injure the plaintiffs economically by unlawful means, that is to say, selling the shares at undervalue.
+
+6.  The plaintiffs’ claims were struck out by Deputy High Court Judge Wilson Chan on 4 December 2014, relying on well-established authorities[3] on the ground that any loss allegedly suffered by the plaintiffs were merely reflective of the loss of Accufit.
+
+7.  Before Deputy Judge Wilson Chan and the Court of Appeal, the plaintiffs sought to argue that their claims fell into exceptions where claims might be pursued by persons other than the company which had suffered the loss notwithstanding that the loss is merely reflective.  Such exceptions formed the substance of the three questions of law which are said to be of great general or public importance. The questions are:
+
+“a. Whether the no reflective loss principle is inapplicable to claims by a secured creditor for loss of the secured asset, for the reason that the secured creditor is the primary beneficiary of any damages that may be recovered by the Company?
+
+b. If so, whether the no reflective loss principle is equally inapplicable to a claim brought by a person who has an independent cause of action against inter alios the secured creditor for loss of the secured asset?
+
+c. Whether an exception to the no reflective loss principle exists where: -
+
+(i) The Plaintiff has an independent cause of action against the Defendants.
+
+(ii) The Company is under the control of the wrongdoer and the alternative remedies suggested by Lord Millett in Waddington[4]are inapplicable.”
+
+8.  The same 3 questions were considered by the Court of Appeal when they refused leave to appeal to this court and can be disposed of briefly and substantially for the reasons given by the Court of Appeal.  First, neither plaintiff was a secured creditor.  So the first question does not arise.  Secondly, the fact it is alleged that the plaintiffs have independent causes of action does not help.  If they had no independent cause(s) of action, it is difficult to see on what basis either of them could launch a personal claim.  The no reflective loss rule applies nevertheless because as Yuen JA explained:
+
+“ … the focus of the rule against reflective loss is not on whether a wrong had been done to the plaintiff … personally,[5] but on the loss he is seeking to recover – if the loss can be made good if the company … enforces its rights against the defendant, the plaintiff’s loss is a reflective loss and to prevent double recovery, its claim should be struck out .”[6]
+
+9.  As for the third question, the Court of Appeal refused leave because it involves a new point “not argued on appeal and below”.[7]  As I understand it, Mr Ko argues that the applicants should be allowed to recover in their names and for their benefit what is Accufit’s loss because Accufit was not allowed by the BVI courts to bring a derivative action in Accufit’s name.  Mr Ko relies on Giles v Rhind [8]where the English Court of Appeal held that the no reflective loss rule did not apply where the claim is made against:
+
+“a wrongdoer who, in breach of his contract with the company and its shareholders, ‘steals’ the whole of the company’s business, with the intention that the company should be so denuded of funds that it cannot pursue its remedy against him, and who gives effect to that intention by an application for security for costs which his own breach of contract has made it impossible for the company to provide.” Per Chadwick LJ
+
+Giles was disapproved by this court in Waddington, although Lord Millett went on to say that it was impossible not to share the determination of the English Court of Appeal not to allow a defendant who has been guilty of such conduct to escape liability, but the solution was not to make an exception to the no reflective loss rule.  With respect, I agree.  Mr Ko submits that this new point was not available to the applicants in the court of appeal because it was bound by Waddington. But the facts in Giles were very different.  Here, the BVI courts refused leave to commence a derivative action not because of the fault of the defendants, but because no proper case had been made out for leave.  Mr Ko further argues that since the threshold test for a derivative action in the BVI  is higher than Hong Kong, and since whether a derivative action could be brought is governed by the law of the incorporation,[9] a further exception to the no reflective loss rule should be made.  I do not believe this is arguable, but even if it is, I would not allow it to be raised for the first time in this court.
+
+10.  For these reasons, we have on 17 August 2017 refused leave to appeal with costs.
+
+ 
+
+ 
+
+  (RAV Ribeiro)	   (Robert Tang)	 (Joseph Fok)
+Permanent Judge	Permanent Judge	Permanent Judge
+ 
+
+Mr Tony Ko, instructed by Ha and Ho, for the 1st and 2nd plaintiffs (1st and 2nd applicants)
+
+Mr Johnny Mok SC and Mr Alexander Tang, instructed by Anthony Siu & Co, for the 1st and 2nd defendants (1st and 2nd respondents)
+
+
+[1] Para 7 of Court of Appeal judgment, dated 2 December 2016.
+
+[2] Para 7 of Court of Appeal judgment, dated 2 December 2016.
+
+[3] Landune International Ltd v Cheung Chung Leung [2006] 1 HKLRD 39; Gardner v Parker [2004] 2 BCLC 554; Erridge v Coole & Haddock (a firm) (2000 WL 1274094, unreported) and Heedes v Telstra Corp Ltd [2001] WASC 297.
+
+[4] Waddington Ltd v Chan Chun Hoo (2008) 11 HKCFAR 370.
+
+[5] Thus giving rise possibly to an independent cause of action.
+
+[6] Landune International Ltd v Cheung Chung Leung [2006] 1 HKLRD 39 at para 24, cited by Deputy High Court Judge Wilson Chan at para 20 of his judgment.
+
+[7] Para 8 of Court of Appeal judgment, dated 10 February 2017.
+
+[8] [2003] Ch 618.
+
+[9] Waddington paras 31 and 55.
+
+  
+

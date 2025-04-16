@@ -1,0 +1,240 @@
+CACV 20/2024, [2024] HKCA 927
+
+On Appeal from [2023] HKCFI 3290
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO 20 OF 2024
+
+(ON APPEAL FROM HCA 2549/2017 AND HCA 2569/2017 (CONSOLIDATED))
+
+________________________
+
+ACTION NO. 2549 OF 2017
+
+________________________
+
+BETWEEN	 	 
+ 	CHINA HEALTH GROUP LIMITED	Plaintiff
+and
+
+ 	LI ZHONG YUAN	1st Defendant
+ 	CAPITAL FORESIGHT LIMITED	2nd Defendant
+ 	LI HONG HOLDINGS LIMITED	3rd Defendant
+AND
+
+________________________
+
+ACTION NO. 2569 OF 2017
+
+________________________
+
+BETWEEN	 	 
+ 	CAPITAL FORESIGHT LIMITED	Plaintiff
+and
+
+ 	CHINA HEALTH GROUP LIMITED	Defendant
+________________________
+
+(Consolidated by the Order of Master M Lam dated 19 January 2018)
+
+Before:	Hon Cheung, Au and G Lam JJA in Court
+Date of Hearing:	27 August 2024
+Date of Further Written Submissions:	10 and 24 September 2024
+Date of Judgment:	18 October 2024
+ 
+
+_________________
+
+J U D G M E N T
+
+_________________
+
+Hon G Lam JA (giving the Judgment of the Court):
+
+A. Introduction and Background
+
+1.  This is an appeal by the appellant, Capital Foresight Ltd (“Capital Foresight”), in relation to its claim for dividends of US$4 million under certain redeemable preference shares issued by the respondent, China Health Group Ltd (“China Health”) (formerly called China Healthcare Holdings Ltd).
+
+2.  China Health is and was at all material times a company incorporated in Bermuda and listed on the Main Board of the Hong Kong Stock Exchange.  By a subscription agreement of 5 April 2006 completed on 28 July 2006, it issued 15,000 redeemable convertible cumulative preference shares (“Preference Shares”) to a third party.  In April 2010, Capital Foresight purchased the Preference Shares from the original subscriber for US$15 million.  The Preference Shares carried a right to receive dividends out of the corporate funds available for distribution, and a right to require redemption on their maturity date at an amount determined by a formula set out in the subscription agreement.
+
+3.  The initial maturity date of the Preference Shares was 28 July 2011 (5 years from completion of subscription), but China Health was in financial difficulty and the date was by agreement extended to 17 May 2013.  Before their maturity, on 23 November 2012, a further agreement was entered into between China Health and Capital Foresight to deal with China Health’s obligations under the Preference Shares (“2012 Agreement”), clause 2 of which provided:
+
+“ … the Company shall redeem, and the PS holder shall accept the redemption of, all of the Preference Shares and in full and final settlement of all rights that the PS holder may have in respect of the Preference Shares whether under the Bye-laws or otherwise the aggregate price of not more than US$19 million (to be satisfied as to US$15 million by cash to the PS holder or its designee(s), and as to not more than US$4 million by the issue of a promissory note in the form attached to Schedule 1 of this Agreement and the delivery of the same to the PS holder or its designee(s). Payment shall be made and the promissory note duly executed by the Company shall be delivered on before the third full working day next following the date of completion of the Fund Raising whereupon any and all rights of the PS holder in respect of the Preference Shares whether under the Bye-laws or otherwise shall cease and determine and shall be deemed to have been irrevocably waived.”
+
+4.  The “Fund Raising” referred to in that clause is defined in the preceding clause to mean essentially a fund raising based on the issue of equity to raise not less than US$15 million.  The form of promissory note in Schedule 1 leaves the beneficiary and maturity date blank.
+
+5.  Subsequently, China Health and Capital Foresight entered into 4 further successive agreements to modify their mutual rights and obligations relating to the Preference Shares.  It is unnecessary to recount the details except to note that they made provisions for China Health to settle the dividends accruing from 1 December 2012 onwards (namely “Dividend II” for the period from 1 December 2012 to 30 November 2013; “Dividend III” for the period from 1 December 2013 to 30 June 2014; and “Dividend IV” for the period from 30 June 2014 to 31 March 2015) by issuing shares to Capital Foresight at specified prices.  It was provided that the calculation and settlement of the dividends on the Preference Shares up to 30 November 2012 (“Dividend I”) shall still follow the 2012 Agreement. 
+
+6.  The last of these supplemental agreements, dated 12 September 2014, provided as follows:
+
+“ The Company hereby confirms to the PS holder the following:
+
+1. The Company will complete the redemption of the principal amount of the preference shares on or before 10 November 2014, and will settle the dividends within a reasonable time thereafter.
+
+2. The Company will deposit an amount of US$1,500,000 (or its equivalent value in Renminbi or Hong Kong dollars) into a bank account designated by the PS holder as security deposit before 26 September 2014.
+
+…
+
+3. In the event that the PS holder fails to receive US$1,500,000 (or equivalent value in Renminbi or Hong Kong dollars) before 26 September, this confirmation letter may be considered as invalid, and the PS holder is entitled to take all measures to protect its rights and interest.”[1]
+
+7.  Eventually the principal amount of US$15,000,000 was paid by China Health to Capital Foresight in several tranches from 26 September 2014 and was eventually fully paid by 2 December 2014.  Dividends II, III and IV were also settled by China Health in April 2015, by the issue of shares to Capital Foresight.  It appears that Capital Foresight initially paid for the shares but was subsequently reimbursed by China Health which thereby discharged its liabilities in respect of Dividends II, III and IV.[2]
+
+8.  Capital Foresight also began to take steps for the recovery of Dividend I under the 2012 Agreement (i.e. the dividends accrued up to 30 November 2012).  For reasons not material to this appeal, it entered into an agreement dated 11 April 2015 to sell to Mr Ho Kin (“Mr Ho”) – a friend of the main shareholder of Capital Foresight, Mr Chen Li Bo (“Mr Chen”) – or to Mr Ho’s company, the debt of US$4 million owed by China Health representing Dividend I.
+
+9.  Capital Foresight Ltd also issued a letter dated 31 July 2015 to China Health, asking China Health to issue the promissory note referred to in the 2012 Agreement in favour of Li Hong Holdings Ltd (“Li Hong”), a company owned by Mr Ho, as its designee, in settlement of Dividend I on the Preference Shares.  There was a dispute whether the letter was received by China Health at that time or only in 2016.  But in any event, it is common ground that, on 1 August 2015, China Health issued a promissory note in the sum of US$4 million in favour of Li Hong with a maturity date of 31 January 2016 (“Loan Note”).
+
+10.  When Li Hong tried to obtain payment on the Loan Note, however, China Health disputed liability and obtained an injunction from the High Court (in proceedings HCMP 2593/2016) preventing Li Hong from presenting a winding up petition against China Health based on the Loan Note.  On about 2 November 2017, Li Hong, reluctant to get engaged in litigation, indorsed the Loan Note back to Capital Foresight.
+
+B.  Proceedings below
+
+11.  On 7 November 2017, China Health commenced an action (HCA 2549/2017) against: (1) Dr Li Zhong Yuan (“Dr Li”), its former director and chairman; (2) Capital Foresight; and (3) Li Hong.  It claims, inter alia, a declaration that both the 2012 Agreement and the Loan Note are void or voidable and unenforceable.  The crux of its case was that the 2012 Agreement was a façade created to disguise what it termed the “Backdoor Arrangement”, namely, the issuance by China Health of a promissory note for US$4 million to Capital Foresight or its nominee as a means of secretly channelling China Health’s funds to Dr Li for his own profit.  It was alleged that Dr Li, Mr Chen, Mr Ho and Mr Rupert Li, a solicitor and at one time a shareholder of Capital Foresight, conspired together to procure the payment of US$4 million out of China Health’s funds to Dr Li.
+
+12.  Capital Foresight also commenced an action (HCA 2569/2017) against China Health on 9 November 2017, claiming an order that China Health forthwith issue in its favour a promissory note for US$4 million pursuant to the 2012 Agreement.  That action was consolidated with China Health’s action in January 2018, and Capital Foresight’s claim was thereafter proceeded with as its counterclaim.
+
+13.  The action was tried before Harris J, who gave judgment on 20 December 2023 (“Judgment”).[3]  The bulk of the trial and of the Judgment concerned China Health’s case that the 2012 Agreement was a sham – a case that Harris J eventually rejected on the facts and evidence, having heard oral evidence from, among others, Dr Li, Mr Chen, Mr Ho and Mr Rupert Li. 
+
+14.  Towards the end of the Judgment, Harris J dealt with Capital Foresight’s counterclaim or its claim in HCA 2569/2017.  His Lordship agreed with China Health’s submission that the absence of any agreement on the maturity date of the promissory note to be issued is a flaw, which can only be cured by implying an agreement that payment would be within a reasonable period of issue of the promissory note.  There was however neither pleading nor specific evidence on this point.  Accordingly he dismissed Capital Foresight’s claim, albeit with no order as to costs.[4]
+
+C.  Capital Foresight’s appeal
+
+15.  There is no appeal by China Health against the dismissal of its action.  Capital Foresight, however, appeals against the dismissal of its claim.  The contentions of the parties on the appeal have initially solely centred around the effect of the absence of an express agreement on the maturity date of the promissory note to be issued.  At the court’s invitation, counsel have addressed the two further questions of (1) whether an order by way of specific enforcement for China Health to issue a promissory note is appropriate given that we are concerned with monetary obligations, and (2) whether specific performance should be ordered given that China Health had already issued a promissory note, i.e. the Loan Note, in 2015.
+
+16.  At the hearing of the appeal, and prompted by exchanges with the court, counsel for Capital Foresight applied for re-amendment of its Amended Defence and Counterclaim by the addition of a claim for the sum of US$4 million or damages.  We gave both parties the opportunity to make further written submissions on the issues arising, which were duly lodged.
+
+17.  We shall divide our analysis of the issues raised into four sections reflecting the following questions:
+
+(1)  Has China Health fully complied with the 2012 Agreement or are there outstanding obligations it has not fulfilled?
+
+(2)  Should an order for specific performance be granted requiring China Health to issue a promissory note in favour of Capital Foresight?
+
+(3)  Should damages in lieu of specific performance be awarded to Capital Foresight?
+
+(4)  If neither specific performance nor damages in lieu should be ordered, should Capital Foresight’s claim be dismissed altogether?
+
+D.  Whether China Health has fulfilled all its obligations under the 2012 Agreement
+
+18.  The 2012 Agreement was an accommodation for China Health.  As Harris J noted, under the terms a sum in excess of HK$464 million would be due from China Health upon redemption of the Preference Shares on the extended maturity date of 17 May 2013.[5]  By the 2012 Agreement, Capital Foresight agreed to accept a much lower sum of US$19 million in full and final settlement of its rights in respect of the Preference Shares.  Thus the obligation was to pay “the aggregate price of not more than US$19 million”.  It is common ground that despite the words “not more than”, the price to be paid was nothing less than US$19 million.
+
+19.  US$15 million for the principal was to be paid in cash shortly after the contemplated fundraising.  The provision for the remaining US$4 million to be settled via a promissory note (“to be satisfied … as to not more than US$4 million by the issue of a promissory note … and the delivery of the same”) seems to us to be a mechanism devised primarily for China Health’s benefit – it would only need to effect payment later, upon maturity of the promissory note.  As such, after payment of the principal of US$15 million, the core obligation was, as submitted by counsel for Capital Foresight, to pay US$4 million, with the promissory note simply being a means to that end.
+
+20.  Whilst the Loan Note was issued, it was dishonoured by China Health.  Upon dishonour, Capital Foresight, having been indorsed the Loan Note, could sue on it, but in our view of the proper construction of the 2012 Agreement, it could also sue on the underlying debt which remained outstanding.  It has been said, in a general case, that where a person took a bill of exchange from another in discharge of the latter’s liability to the former under a separate contract, and the bill is dishonoured, the first person has the option of suing on the original contract, since dishonour of the bill restores the contractual duty of payment which was merely suspended by the giving of the bill: Goode on Commercial Law (5th ed), §19.88; see also Byles on Bills of Exchange and Cheques (30th ed), §26-001.  In Chitty on Contracts (35th ed), Vol. 1, §25-073, it is also said that normally a creditor who accepts a negotiable instrument for a debt is presumed to have taken it as a qualified or conditional payment, so that if it is dishonoured the right to sue upon the original debt revives.  It is true that the 2012 Agreement itself stipulated for the issuance of the promissory note, but we do not accept Mr Man SC’s submission that this excluded the underlying obligation to pay the agreed price.  As explained above, the agreement was for the settlement of the rights under the Preference Shares in return for the sum of US$19 million.  The mechanism of the promissory note permitted China Health to pay at a later date, but if China Health dishonoured the promissory note after availing itself of that mechanism, Capital Foresight is not confined to a suit on the note but may sue on the 2012 Agreement itself.  There is no discernible reason why Capital Foresight should be taken to have agreed that the issuance of a promissory note, even if dishonoured, should absolutely and completely discharge China Health from liability under the 2012 Agreement.
+
+21.  On the facts of this case, the real and natural claim is for payment of an agreed sum due under the contract, which is quite distinct and different from a claim for damages for breach of contract.  An action in debt does not depend on the proof of loss caused by the breach, but seeks to enforce an obligation to make payment of a liquidated sum.
+
+E.  Specific Performance
+
+22.  Although there is an outstanding obligation for China Health to pay US$4 million under the 2012 Agreement, it is in our opinion misguided for Capital Foresight to seek specific performance[6] in terms of an order requiring the issue of a promissory note.  Quite apart from the point relied on by the judge, there are in our view two fundamental objections to the claim for specific performance here.
+
+(1)  Monetary relief would be an adequate remedy
+
+23.  First, the general principle is that the equitable relief of specific performance is not granted where damages would be an adequate remedy: see e.g. Treitel on the Law of Contract (15th ed), §21-019.  It has been said in Cavendish Square Holding BV v Makdessi [2016] AC 1172 at §30 that “the minimum condition for an order of specific performance is that the innocent party should have a legitimate interest extending beyond pecuniary compensation for the breach.”  A promissory note is in essence a promise to pay money.  The loss caused by the breach of a promise to issue a promissory note is also pecuniary, save perhaps in wholly exceptional circumstances.  It is therefore not surprising that counsel are unable to find a single precedent where an order for specific performance was made to enforce simply a promise to issue a promissory note or similar instrument.  Liberty Mercian Ltd v  Cuddy Civil Engineering Ltd [2013] EWHC 4110 (TCC) provides an example of an order requiring the defendant to procure a performance bond issued by an insurer or a bank in circumstances where the defendant itself had no assets, which clearly raises particular issues.  Capital Foresight has referred to certain special cases where specific performance may be available for monetary obligations, such as a contract to pay money to a third party and a contract for the payment of an annuity or other periodical sums: see Andrews, Tettenborn and Virgo, Contractual Duties: Performance, Breach, Termination and Remedies (4th ed), §27-036; Hanbury and Martin, Modern Equity (22nd ed), §27-018.  But plainly the present case does not have any similar special features that warrant an order for specific performance of a purely monetary obligation.  It is simply a claim for a one-off promissory note to be issued by the defendant to the claim in favour of the claimant. 
+
+(2)  China Health had already issued a promissory note
+
+24.  The second difficulty is that China Health had in fact issued a promissory note pursuant to the 2012 Agreement, i.e. the Loan Note.  On Capital Foresight’s own case, as submitted by counsel in their first skeleton argument for the appeal, it directed China Health on 31 July 2015 to issue the US$4 million promissory note to Li Hong, and in compliance China Health issued it on 1 August 2015 in favour of Li Hong with a maturity date of 31 January 2016.[7] If the act required by the contract has already been done, it is not clear what basis there is for Capital Foresight to seek an order that it be done again.  As shown by the precedents of pleadings placed before us, a material fact for a claim for specific performance is that the defendant has failed, neglected or refused to do the thing required: Bullen & Leake & Jacob’s Precedents of Pleadings (19th ed), vol. 2, §52-O2; Blackford, Chancery Practice and Orders, p 355. 
+
+25.  Faced with this difficulty, counsel for Capital Foresight submit that China Health had disputed the validity of the Loan Note and sought a declaration that it was void or voidable and unenforceable, and that Harris J did not make any findings in that regard.  However, the primary basis for China Health to dispute the validity of the Loan Note was the Backdoor Arrangement, which was rejected by the judge. There was a subsidiary plea that the Loan Note was issued by Dr Li using the company seal without the authority of the Board, but the judge found that the Board meeting on 23 November 2012 did take place and the minutes were genuine.[8] According to the minutes, the Board authorised any one executive director to, inter alia, “execute, sign and deliver any documents, agreements or certificates for and on behalf of the Company or to affix the common seal of the Company on and sign any documents or agreements for and on behalf of the Company, in connection with” the 2012 Agreement.[9]  So the plea of lack of authority was implicitly rejected.  Although Harris J did not make a finding in express terms that the Loan Note was valid, the whole tenor of the Judgment was inconsistent with there being any invalidity.  Thus in §49(1) the judge referred to several public announcements by China Health which were positive representations that the Loan Note was valid and binding, and in §73(3) the judge accepted Mr Chen’s evidence that he had agreed to accept the Loan Note in settlement of interest.  The judge also dismissed China Health’s claim for a declaration that the Loan Note was void or voidable and unenforceable.
+
+26.  In any event, it is for Capital Foresight to prove, as the basis of its claim for specific performance, that the relevant act had not yet been performed.  The lack of a positive finding that the Loan Note was valid does not suffice. 
+
+27.  It is submitted on behalf of Capital Foresight that all parties proceeded below on the basis that the Loan Note was not enforceable or “effectively non-existent”.  This is not correct.  Capital Foresight’s case run below was that the Loan Note was valid and binding: it denied in its Defence and Counterclaim that the Loan Note was or is void or voidable or unenforceable.[10] At the hearing of the appeal Mr Wong SC said his client’s position now is that the Loan Note was invalid, though he was unable to advance any intelligible basis for the invalidity.  He also submitted that China Health cannot approbate and reprobate: having contended below that the Loan Note was void, it cannot now contend it is not.  But on that footing it is hard to see how Capital Foresight can itself now be heard to say that the Loan Note was invalid.  Furthermore, China Health’s contention was rejected by the court after trial, whereas Capital Foresight’s contention was implicitly upheld by the judge.  This being a question of jurisdiction, we do not think this court can found our decision on a party’s assertion without any factual or legal basis or on another party’s case which has been rejected by the trial judge, rather than on the facts as determined by the judge after trial.
+
+28.  It is true that the Loan Note was dishonoured by China Health, but this does not mean it was void.  Capital Foresight as indorsee could have sued China Health on the Loan Note and, had it done so, would have obtained judgment on it after trial in light of the judge’s rejection of the Backdoor Arrangement case and his acceptance of the defendants’ factual case on the Loan Note.  It is not clear why the pleader[11] had chosen not to include the Loan Note even as an alternative claim.  But whatever the reason may be, it does not mean the Loan Note was “non-existent”.  In our judgment Capital Foresight has no basis in fact to say that China Health has failed, neglected or refused to issue a promissory note and that the court should now order it to issue another one.
+
+(3)  Absence of pleading or evidence on maturity date
+
+29.  Thirdly, there is in addition the difficulty arising from the absence of an agreed maturity date for the promissory note as discussed in the Judgment.  At §80 of his Judgment, the judge said this (footnote omitted):
+
+“ The absence of any agreement as to the maturity date of the promissory note to be issued is a flaw. The only way it can be cured is by implying an agreement that payment would be within a reasonable period of issue of the promissory note. This should have been pleaded and evidence adduced directed specifically to this point. Plainly it was not. The fact that during their evidence Rupert Li and Mr Chen expressed their views on what Capital Foresight might have been willing to accept by way of maturity date does not cure this flaw. In my view it is not appropriate for the court to determine what the parties would probably have been willing to agree particularly when there is no evidence from China Health directed to this point because it was not pleaded. And I note it was not referred to in Capital Foresight’s opening submissions.”
+
+30.  Much ink has been spilled on the question whether the absence of an agreed maturity date for the new promissory note is fatal to the claim.  As shown in the passage above the judge considered that it was not inherently necessarily fatal and that an implied agreement was possible, but he rejected that route because of the state of the pleadings and the evidence in this particular case.  In the light of our views on the two fundamental objections to the claim for specific performance above, it is unnecessary for us to deal with this ground.
+
+F.  Damages in lieu of specific performance
+
+31.  Capital Foresight submits that if specific performance is not available, the court can and should award it damages in lieu.  The power to do so is set out in section 17 of the High Court Ordinance (Cap 4), which provides:
+
+“ Where the Court of Appeal or the Court of First Instance has jurisdiction to entertain an application for an injunction or specific performance, it may award damages in addition to, or in substitution for, an injunction or specific performance.”
+
+32.  Capital Foresight submits that if the court declines to grant specific performance because monetary relief would be an adequate remedy, this would simply be a discretionary factor showing that specific performance is not an appropriate remedy.  It does not follow that the court has no jurisdiction to entertain the application.  There is therefore power to award damages in lieu under section 17 despite that specific performance would not properly have been granted.  In our view there is force in this argument.  The question is whether, at the date of the writ, the court could have granted a decree of specific performance.  If it could have (however unwisely) done so, the fact that it would not be appropriate to grant one because monetary relief would have been adequate, does not deprive the court of power to order damages in lieu: see Jaggard v Sawyer [1995] 1 WLR 269, 284H-285C; Ge Qingfu v L & A International Holdings Ltd [2020] 4 HKLRD 544 at §84.
+
+33.  The second objection to specific performance mentioned above is however more formidable.  If there was no failure to perform an act – in other words the act has in fact been done – it is difficult to see what jurisdiction the court has to entertain an application for specific performance of that particular obligation.  At the date of the writ in Capital Foresight’s action (9 November 2017), China Health had issued and delivered the promissory note required.  There was no plea or proof that the defendant had failed, neglected or refused to do the thing required.  A key ingredient that would enable the court, if it thought fit, to exercise its power of granting specific performance was missing: see Ferguson v Wilson (1866) LR 2 Ch App 77 at 91.  The court could not have granted an order for the issue of another promissory note, because one had already been issued.
+
+34.  Capital Foresight argues that as at that date, China Health had disputed the validity of the Loan Note and, indeed, commenced its own action for declarations of voidness.  But we do not think that the uncertainty existing at that time means there was the requisite jurisdictional basis.  At that time, Capital Foresight had just taken an indorsement of the Loan Note from Li Hong, and it went on to deny in its own pleading that the Loan Note was void, voidable or unenforceable (see §27 above).  If it had wanted the benefit of a promissory note it could and should have made a claim on the Loan Note.  Indeed, to make China Health issue another promissory note at that time would be pointless, as the same defence of the Backdoor Arrangement would be raised against the new note as against the old one.  It follows from the findings in Harris J’s Judgment that the Loan Note had never been void or unenforceable.  Capital Foresight had in the event allowed the Loan Note to become time-barred, but that is not a ground for obtaining an order for a new promissory note to be issued.
+
+35.  Even if damages in lieu may in principle be awarded, there is the further question of quantification.  Capital Foresight has not articulated any specific bases for arriving at the amount.  Presumably one argument would be that it should represent the present value of the future payment via the promissory note.  Since this depends on the proper maturity date of the promissory note, it raises the same difficulties referred to by Harris J.  In addition, as there appears to be no evidence that Capital Foresight returned the price (US$1.67 million) to Mr Ho upon the indorsement of the Loan Note back to it, it is open to argument whether Capital Foresight’s loss was reduced by this sum.  It is however unnecessary to resolve these difficulties given that there should not be an order for damages in lieu for the reasons above.
+
+G.  Capital Foresight’s claim under the proposed amendment
+
+36.  At the hearing, as a result of exchanges with this court, counsel for Capital Foresight applied for re-amendment of its Amended Defence and Counterclaim by the addition of (1) a new paragraph 27A stating: “By reason of the matters aforesaid and by reason of CHGL’s breach of the 2012 Agreement and/or the 3 supplemental agreement, CHGL is liable to pay the sum of US$4 million to Capital Foresight.  Further or alternatively, CHGL do pay damages to Capital Foresight, including in the sum of US$4 million and interest.”; and (2) two new further prayers for relief, namely “Further or alternatively, payment of US$4 million or damages” and “Interest”.
+
+37.  In our view, in the exceptional circumstances of this case, leave should be given to plead the claim for the sum of US$4 million.  In other words, the first sentence of the proposed paragraph 27A and the prayer for “payment of US$4 million” should be permitted to be added.  On the findings made by judge and on our construction of the 2012 Agreement, Capital Foresight would be entitled to succeed on such a claim and to be paid the outstanding sum of US$4 million, but for the absence of a plea.  The amendment would enable justice to be done: see Kaiser Garments Ltd v Lai Shum Co [1980] HKLR 224, 226.
+
+38.  It is submitted on behalf of China Health that had such a claim been pleaded earlier it could have explored with the witnesses whether such interpretation of the 2012 Agreement was consistent with their understanding of the commercial considerations in light of the fact that no maturity date was agreed and the issuance of the promissory note was going to be in the future.  But the witnesses’ own thinking is quite irrelevant.  The circumstances of the 2012 Agreement were investigated in detail at trial.  As a matter of fact a promissory note had already been issued, and the maturity date of 31 January 2016 was chosen by China Health which was acceptable to Capital Foresight.  We do not accept the amendment would occasion any unfairness to China Health.  In fact, China Health confirmed at the commencement of the trial below that it should lose if the Backdoor Arrangement was not established.  In our judgment it would be manifestly unjust if a legally sound route for recovering a sum plainly outstanding from China Health was denied simply because it was raised late.
+
+39.  We would however disallow the proposed amendment for a damages claim because the real claim is one in debt and the question of loss was never investigated at trial.  Nor was it prompted by the exchanges with this court.
+
+40.  Accordingly, there will be judgment entered against China Health for US$4 million.
+
+H.  Interest
+
+41.  We do not find it just and appropriate to award interest.  Capital Foresight’s primary claim was for a promissory note for US$4 million payable in the near future.  There was no element of interest included in that claim.  Nor was there any claim or argument advanced for damages under section 17 of the High Court Ordinance in addition to specific performance.  Capital Foresight has only succeeded on the basis of a late amendment.
+
+I.  Disposition and costs
+
+42.  For the above reasons, we hold that judgment should be entered against China Health for US$4 million.
+
+43.  As to costs, on a nisi basis, we consider that the judge’s order that there be no order as to Capital Foresight’s claim should remain, and that there should also be no order as to the costs of the appeal.
+
+ 
+
+ 
+
+(Peter Cheung)
+Justice of Appeal	(Thomas Au)
+Justice of Appeal	(Godfrey Lam)
+Justice of Appeal
+  
+
+Mr William Wong SC, Mr Patrick Chong, Mr Adrian Lee and Mr Han Sheng Lim, instructed by Howse Williams, for the 2nd Defendant in HCA 2549/2017 and the Plaintiff in HCA 2569/2017 (the Appellant)
+
+Mr Bernard Man SC, Ms Natalie So and Mr Louis Cheng, instructed by Jones Day, for the Plaintiff in HCA 2549/2017 and the Defendant in HCA 2569/2017 (the Respondent)
+
+[1]   The Chinese original is as follows:
+
+“  公司特此向優先股股東確認如下：
+
+1.  公司將在2014年11月10日或之前，完成對優先股本金的贖回，並在之後合理的時間內完成對利息的支付。
+
+2.  公司將在2014年9月26日之前將總數為一百五十萬的美元（或等值的人民幣、港幣）作為保證基金，滙入優先股股東指定的賬戶。
+
+……
+
+3.  優先股股東在9月26日之前若未能收到150萬美元（或等值的人民幣、港幣）則本確認函可被視作無效，優先股股東有權採取一切方法保障自己的利益和權益。”
+
+[2]   Judgment, §§18-20.
+
+[3]   [2023] HKCFI 3290.
+
+[4]   Judgment, §§77-81.
+
+[5]   Judgment, §9.
+
+[6]   The debate below and on appeal have been based on specific performance but it does not matter for the purposes of this appeal whether the order sought is regarded as one for specific performance or as a mandatory injunction.
+
+[7]   Appellant’s Skeleton Submissions, §13.
+
+[8]   Judgment, §11.
+
+[9]   See §(c)(viii) of the minutes.
+
+[10]  See §23 of Capital Foresight’s Defence and Counterclaim, which denies inter alia §38 of China Health’s Statement of Claim which pleads that “the Loan Note was and is void or voidable, and unenforceable.”
+
+[11]  The pleading was not signed by Mr William Wong SC.
+
+ 
+

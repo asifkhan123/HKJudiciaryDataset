@@ -1,0 +1,276 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 6 of 2024
+
+[2024] HKCFA 32
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 6 OF 2024 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 377 OF 2022)
+
+_________________________
+
+BETWEEN
+
+ 	HUI CHUN PING	Plaintiff
+ 	 	(Appellant)
+ 	and	 
+ 	HUI KAU MO	Defendant
+ 	 	(Respondent)
+_________________________
+
+Before:	Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ and Lord Hoffmann NPJ
+Dates of Hearing:	27 and 28 November 2024
+Date of Judgment:	23 December 2024
+-------------------------
+
+JUDGMENT
+
+-------------------------
+
+Chief Justice Cheung:
+
+1.  I agree with the judgment of Lord Hoffmann NPJ.
+
+Mr Justice Ribeiro PJ:
+
+2.  I agree with the judgment of Lord Hoffmann NPJ.
+
+Mr Justice Fok PJ:
+
+3.  I agree with the judgment of Lord Hoffmann NPJ.
+
+Mr Justice Lam PJ:
+
+4.  I agree with the judgment of Lord Hoffmann NPJ.
+
+Lord Hoffmann NPJ:
+
+Introduction
+
+5.  In 2004 Hutchison Whampoa (“HW”) proposed to undertake a construction project in Qingdao. They needed someone to smooth the path to obtaining the necessary approvals and the defendant, who appears to have worked for HW in some capacity, suggested to them that the plaintiff might have the right connections. As a result, HW engaged the plaintiff as a consultant. In an agreement which the plaintiff says was negotiated by the defendant on his behalf, HW agreed that he would be remunerated by a payment in cash and a 10% interest in the profits of the venture. The latter was referred to as the “dry shares”. All the parties acted through special purpose corporate vehicles but that does not affect any issue in this appeal.
+
+6.  The plaintiff says that the defendant later persuaded him that he should accept a further payment of RMB 40 million in place of the dry shares and he authorised the defendant to reach an agreement with HW to this effect. But the parties afterwards fell out and on 13 November 2018 the plaintiff commenced proceedings against the defendant in the High Court. The action followed a rather leisurely course but this appeal arises out of an application by the plaintiff by summons dated 12 April 2021 to amend the Statement of Claim in various respects including an allegation that, in breach of his fiduciary duty to the plaintiff as his agent, the defendant had by 29 June 2006 secretly acquired the dry shares for himself. These allegations, if true, would have entitled the plaintiff to claim that the defendant held the dry shares for him as a constructive trustee. But the question was whether by 2018 such a claim was barred by the Limitation Ordinance (Cap. 347).
+
+7.  Section 20 of the Ordinance reads as follows:
+
+Limitation of actions in respect of trust property
+
+(1)  No period of limitation prescribed by this Ordinance shall apply to an action by a beneficiary under a trust, being an action—
+
+(a)  in respect of any fraud or fraudulent breach of trust to which the trustee was a party or privy; or
+
+(b)  to recover from the trustee trust property or the proceeds thereof in the possession of the trustee, or previously received by the trustee and converted to his use.
+
+(2)  Subject as aforesaid, an action by a beneficiary to recover trust property or in respect of any breach of trust, not being an action for which a period of limitation is prescribed by any other provision of this Ordinance, shall not be brought after the expiration of 6 years from the date on which the right of action accrued[.]
+
+8.  All the proposed amendments were allowed by the Master but on appeal this part of his order was set aside by Deputy High Court Judge H Au-Yeung on the ground that by 13 November 2018 (to which the proposed amendment would have been back-dated) the plaintiff's claim under a constructive trust which was alleged to have arisen in 2006 would have been statute barred by section 20(2). The plaintiff was entitled to a postponement of the commencement of the limitation period until he had discovered the allegedly concealed acquisition of the dry shares (see section 26(1)(b) of the Ordinance) but the evidence was that he knew about it by, at the latest, 6 November 2012. The action had therefore been commenced too late. The Deputy Judge’s decision was upheld by the Court of Appeal (Kwan VP, Au and Chow JJA).
+
+9.  Before the Court of Appeal, four points were argued:
+
+(1)  Was the application of a limitation period excluded by section 20(1)(b)? (“the section 20(1)(b) point”).
+
+(2)  If section 20(1)(b) did not apply, was the defendant entitled to rely on section 20(2)? (“the section 20(2) point”).
+
+(3)  If the claim to a constructive trust was barred, could the plaintiff nevertheless pursue a claim for accounts and inquiries? (“the accounting point”).
+
+(4)  If the claim to a constructive trust was barred, could the plaintiff nevertheless claim “equitable compensation” for breach of the rule that a trustee was incapacitated from making a profit from his trust or creating a conflict between his duties as trustee and his other interests? (“the no profit/no conflict point”).
+
+10.  The Court of Appeal decided all four points against the plaintiff, certified them as being of great general or public importance and gave leave to appeal. I shall deal with each in turn.
+
+A.  The section 20(1)(b) point
+
+11.  The plaintiff’s principal submission is that his claim to recover the dry shares from the defendant comes within section 20(1)(b). The defendant is alleged to hold the shares on a constructive trust and the action is “to recover from the trustee trust property.” It is therefore excluded from the 6-year limitation period imposed by section 20(2).
+
+12.  Section 20 reproduced section 19 of the UK Limitation Act 1939 (now re-enacted as section 21 of the Limitation Act 1980) which in turn traced its ancestry back to section 8 of the Trustee Act 1888. As I said in Peconic Industrial Development Ltd v. Lau Kwok Fai[1] at paragraph 19, the Ordinance was obviously intended to have the same meaning as the 1939 Act. We must therefore examine what these provisions mean in English law.
+
+13.  Before the Trustee Act 1888 there had been no fixed limitation period for an action for breach of trust. The old courts of equity might refuse relief on the grounds of laches or acquiescence and in claims for relief for which there was an appropriate analogy at common law, they would apply the limitation period which would have applied to a common law claim. But there was no limitation period for claims for breach of trust.[2]
+
+14.  In a common law system in which the law is developed by judicial decision-making, there is a tendency for judges to try to explain an apparent anomaly by inventing a fiction which shows there is no anomaly at all. For example, the real reasons for the refusal to apply limitation to a breach of trust may lie buried somewhere in the history of the Court of Chancery. I have not investigated the question. Someone at some time must have thought it was a good idea. But later judges felt a need to explain why, contrary to the position in other claims for property, debt or damages, time in an action for breach of trust did not run from when the cause of action accrued. The explanation they gave was summarised by Lord Sumption in Williams v. Central Bank of Nigeria:[3]
+
+“The reason was that the trust assets were lawfully vested in the trustee. Because of his fiduciary position, his possession of them was the beneficiary’s possession and was entirely consistent with the beneficiary’s interest. If the trustee misapplied the assets, equity would ignore the misapplication and simply hold him to account for the assets as if he had acted in accordance with his trust. There was nothing to make time start running against the beneficiary.”
+
+15.  This explanation, as indicated by the tell-tale words “as if”, was a fiction devised specifically for the purpose of explaining why there was no limitation period for an action for breach of trust. The point to notice about this and other such fictions is that they were devised for a particular purpose. For the purpose of limitation, a trustee who had embezzled the funds many years earlier was deemed not to have done so. Thereby the chancery court avoided the reproach of inconsistency with the general assumption that time would start running from the accrual of a cause of action. But of course, for the purpose of liability, the court looked at what had actually happened. And when the Trustee Act 1888 abolished the old rule and ultimately explicitly provided in its successor the 1939 Act that a 6-year period should run “from the date on which the right of action accrued”[4] Parliament obviously assumed that, contrary to the previous fiction, a cause of action could accrue.
+
+16.  It was however established more than two centuries ago that this rule did not apply to constructive trusts. The constructive trust was an altogether different animal from a trust created by an agreement to hold or exercise control over property in a fiduciary capacity. It was another fiction by which equity provided a remedy against someone who had obtained property by or with knowledge of fraud or breach of fiduciary duty. If a court of equity decided that someone had obtained property in this way, it would declare that he held it on a constructive trust for the plaintiff “as if” he had agreed to be a bare trustee of that property. The court could then order the defendant or anyone claiming under him (other than a purchaser for value in good faith and without notice of the plaintiff’s claim) to transfer to him the legal title. It was in essence a proprietary claim, analogous to a common law action to recover property.
+
+17.  But the courts did not treat the fiction that a constructive trustee had agreed to hold the property on trust as also implying the fiction that for the purposes of limitation a trustee was deemed to have acted in accordance with the trust. On the contrary, time ran from the moment when the constructive trust arose. An early case was Beckford v. Wade,[5] an appeal to the Privy Council from Jamaica in 1805. The plaintiff claimed that there had been fraud in the distribution of the estate of an ancestor who had died in 1735. As a result, land which otherwise would have descended to her had been conveyed to a predecessor in title of the defendant. Accordingly she claimed to be entitled under a constructive trust. Sir William Grant MR, giving the advice of the Board, said:
+
+“The question then is, what the true construction of the Act is in this particular: whether it meant only actual and express trusts, as between Cestui que trusts and trustees properly so called, upon which length of time ought to have no effect: or whether it intended to leave open to perpetual litigation every equitable question, relative to real property. If it did so intend, it was ill calculated for obtaining its professed purpose of quieting possessions, and of preventing many vexatious and expensive suits at Law and in Equity, of which the preamble complains. I hardly know, how according to this construction any suit in Equity would be barred by this Act. Upon what grounds is a Court of Equity ever called upon to direct one man to convey a real estate to another, except upon the ground of a trust, either actual or constructive? When the Act speaks of one man being seised or possessed to the use of, or in trust for, another, I can hardly conceive, that it means any other than an actual direct trust; not such possible, eventual trust, as may, in case certain facts are established in evidence, be declared by a Court of Equity against a person, who claims to be, and who prima facie is, the true owner of the estate. Questions of that kind almost always depend upon controverted facts; and, according to every principle, upon which Statutes of Limitation are grounded, long possession ought to secure a party against the necessity of entering into such a controversy at a distance of time.”[6]
+
+18.  The Trustee Act 1888, which gave trustees for the first time the protection of a period of limitation, must therefore be read against the background of a settled understanding that constructive trustees already had such protection by analogy with claims to property at common law. The Act defined “trustee” to include “constructive trustees” but if the words “an action...to recover from the trustee trust property” in the 1888 equivalent of section 20(1)(b) of the Ordinance applied to constructive trustees in the sense used by Sir William Grant in Beckford v. Wade, it would deprive them a right to a limitation period which they had previously enjoyed.
+
+19.  This point was clearly made by Viscount Cave, giving the advice of the Privy Council in Taylor v. Davies,[7]an appeal from Canada on an identical Canadian statute. The case concerned a bankrupt estate which under Canadian law had vested in an assignee to be realised subject to the supervision of a committee of inspection. The defendant was one of the inspectors and it was alleged that in 1902 he had bought a property from the assignee without disclosing facts which he knew made it much more valuable than the agreed price. In 1914 an action was brought by and on behalf of the other creditors to set aside the conveyance on the ground that, as an inspector, he had a fiduciary duty to disclose what he knew about its value.
+
+20.  Viscount Cave said that on the facts alleged, the defendant became a constructive trustee for the insolvent estate but that its claim was barred by limitation. In answer to the submission that the claim was within the exception in the Canadian equivalent of section 8 of the UK 1888 Act, he stated what he considered to have been the previous law, particularly by reference to “the well-known judgment of Sir William Grant MR in Beckford v. Wade”[8]and went on:
+
+“As to the pre-existing law, then, there is no question; but it is contended for the appellant that the recent statute has altered the law in this respect. Sect. 47, sub-s. 1, it is said, defines a trustee as including ‘a trustee whose trust arises by construction or implication of law,’ and, accordingly, the exclusion from s. 47, sub-s. 2, of a claim to recover ‘trust property or the proceeds thereof still retained by the trustee’ must apply to property in the hands of a constructive trustee or of any person claiming under him otherwise than by purchase for value without notice. If this contention be correct, then the section, which was presumably passed for the relief of trustees, has seriously altered for the worse the position of a constructive trustee, and (to use the words of Sir William Grant in the case above cited) a doctrine has been introduced which may be ‘fatal to the security of property.’ It does not appear to their Lordships that the section has this effect. The expressions ‘trust property’ and ‘retained by the trustee’ properly apply, not to a case where a person having taken possession of property on his own behalf, is liable to be declared a trustee by the Court; but rather to a case where he originally took possession upon trust for or on behalf of others. In other words, they refer to cases where a trust arose before the occurrence of the transaction impeached and not to cases where it arises only by reason of that transaction. The exception no doubt applies, not only to an express trustee named in the instrument of trust, but also to those persons who under the rules explained in Soar v. Ashwell and other cases are to be treated as being in a like position; but in their Lordships’ opinion it does not apply to a mere constructive trustee of the character described in the judgment of Sir William Grant.”[9]
+
+21.  In Paragon Finance plc v. D B Thakerar & Co.[10] Millett LJ pointed out that some terminological confusion had been caused by judges also using the term “constructive trustee” to refer to persons who could be treated as trustees because they had accepted fiduciary duties in relation to property, not fictitiously because of wrongful conduct, but in reality, by implied agreement or analogy with ordinary trustees.[11] These would include executors and administrators, company directors, trustees de son tort and the like.[12] They are what Viscount Cave called “persons who under the rules explained in Soar v. Ashwell[13] and other cases are to be treated as being in a like position”.[14] Millett LJ devised the useful classification of calling such fiduciaries “category 1 trustees” and those whose “trusteeship” arose from a wrongful act like the purchase at an undervalue in Taylor v. Davies as “category 2 trustees”.[15]
+
+22.  In Williams v. Central Bank of Nigeria[16]the plaintiff claimed, in proceedings started after the 6-year period of limitation had expired, that the bank had fraudulently assisted in a breach of trust by someone who owed him fiduciary duties. He argued, with some academic support, that the Limitation Act 1939 had abolished the Beckford v. Wade distinction between consensual and constructive trusts and that all now fell within the exception in section 21(1)(b).[17] This submission was firmly rejected by a majority in the Supreme Court, which held the claim to be statute barred.
+
+23.  Mr Paul Shieh SC for the plaintiff, in an excellent argument before us, was constrained to accept the decision in Williams (and a similar decision by this Court in Peconic Industrial Development Ltd v. Lau Kwok Fai) but says thus far and no further. Section 20(1)(b) may not apply to persons like the Bank in Williams, which owed no fiduciary duties but was alleged to be liable because it assisted in a breach of trust. Likewise persons who receive property by a transaction which they know has been a breach of trust by the transferor. Such people are category 2 trustees. But all persons who enter into fiduciary relationships, such as the defendant in this case, are category 1 trustees. The category is not confined to those who agree to such a relationship in respect of the property in question. All such fiduciaries must be deemed for limitation purposes to have acted in accordance with their duties in the same way as consensual trustees.
+
+24.  This argument is supported by the decision of Deputy Judge Barma SC (as he then was) in Secretary for Justice v. Hon Kam Wing.[18]This was an action by the Hong Kong government to recover a large fortune accumulated by a sergeant in the Hong Kong police from bribes taken during the course of his long career. The action was commenced considerably more than 6 years after Sergeant Hon had retired from the police and the government had learned about his corruption. He pleaded that the claim was statute-barred. Deputy Judge Barma’s technique for treating Sergeant Hon as a category 1 trustee was to deem the government to have authorised him to take bribes on its behalf. He therefore held the money on a deemed consensual trust and must be deemed for limitation purposes to have acted in accordance with that trust. That brought him within section 20(1)(b).[19]
+
+25.  The judge’s main reason for holding that the bribes were deemed to have been acquired on a consensual trust for the government was the decision of the Privy Council in Attorney-General for Hong Kong v. Reid,[20] where it had been held that an employer obtains a proprietary interest in a bribe received by his employee. One reason given for this conclusion was that the fiduciary was deemed to have agreed to hold the bribe on such a trust. Lord Templeman said:
+
+“As soon as the bribe was received it should have been paid or transferred instanter to the person who suffered from the breach of duty. Equity considers as done that which ought to have been done.”[21]
+
+26.  That case was followed by the Supreme Court in FHR European Ventures v. Cedar Capital Partners LLC[22] and similar statements will be found in the judgment of Lord Neuberger of Abbotsbury.[23] Accordingly, the argument goes, a fiduciary is deemed to have agreed to hold property acquired in breach of duty on trust for his principal and thereby become a category 1 trustee within section 20(1)(b), as opposed to someone who has merely participated in a breach of trust by someone else.
+
+27.  This argument, although supported by some academic writing to which I shall return, appears to me to be wrong both in principle and on authority. As to principle, I have already observed that fictions and deeming provisions are always for a particular purpose. Thus the fiction that a category 1 trustee always acted in accordance with the trust was applied in the pre-1888 Act law for the purpose of limitation but obviously not for the purpose of liability.
+
+28.  Likewise, the purpose for which the beneficiary is held to acquire a proprietary interest in property acquired in breach of a fiduciary’s duty is to prevent the latter from deriving any advantage from an increase in the value of such property or its product. It would have been sufficient to give this explanation without any deeming. But the fiction does no harm. In my opinion, however, there is no justification for reading this fiction across into the rule that time runs against a category 2 constructive trustee. The reasons for the one rule have nothing to do with the other. As Lord Mildew memorably observed in Travers v. Travers, “there is too much of this damned deeming.”[24]
+
+29.  Authority too is against this submission. Although it is true that the Williams and Peconic cases concerned wrongful assistance in a breach of trust by a third party who owed no fiduciary duties, the rule stated by Lord Sumption was much wider. He fully approved the distinction made in Taylor v. Davies[25] between “cases where a trust arose before the occurrence of the transaction impeached” and “cases where it arises only by reason of that transaction.”[26] That is the true boundary between category 1 and category 2 trustees. And although Deputy Judge Barma tried hard, I think it is impossible to distinguish Sergeant Hon’s case from the actual decisions in Taylor v. Davies and subsequent English cases. Mr Davies acted in breach of his fiduciary duty as an inspector. He was not assisting in a breach of trust by someone else or receiving property which he knew was the product of someone else’s breach of trust. Viscount Cave decided the case on the basis that the assignee sold him the property in good faith and incurred no personal liability. The constructive trust was the product of Mr Davies’ own breach of fiduciary duty. But that duty had not been as trustee of the property which he acquired.
+
+30.  Viscount Cave’s succinct distinction between category 1 and category 2 trustees has been adopted in subsequent English cases, of which I need mention only Gwembe Valley Development Co Ltd v. Koshy (No 3)[27] in which a director of a company used his position to make a secret profit. The Court of Appeal held that he did not come within section 21(1)(b) of the 1980 Act because, although a fiduciary, he had not expressly or impliedly accepted a fiduciary duty in relation to the money he had acquired. Mummery LJ said:
+
+“Mr Koshy’s liability to account for undisclosed profits, and any constructive trust imposed on those profits, do not depend on any pre-existing responsibility for any property of the company. They arose directly out of the transaction which gave rise to those profits, and the circumstances in which it was made. The fact that Mr Koshy was in a pre-existing fiduciary relationship with the company was not enough, by itself, to bring the case within class 1, any more than it was in Taylor v Davies.”[28]
+
+31.  Mr Shieh SC submitted, as he had to, that Gwembe Valley and the other English cases were wrongly decided and that Secretary for Justice v. Hon Kam Wing was right. As I have indicated, I do not agree. I suspect that Deputy Judge Barma was motivated by an understandable feeling that Sergeant Hon had clearly been hugely corrupt and should on no account be allowed to get away with the proceeds. A similar feeling was acknowledged by Stone J to be the ground for his dissent in the Court of Appeal in the Peconic case.[29] But any limitation period may produce cases in which people who are undoubtedly liable can nevertheless retain wrongful gains. As I said in Peconic, the fact that a limitation period sometimes allows people who were grossly dishonest to escape liability is the price which the legislature was willing to pay for having a general and clear-cut rule.[30]
+
+32.  Turning to the academic writing, it seems to me that they are for the most part based on the proposition that if the beneficiary of a fiduciary duty acquires a proprietary interest in property such as a bribe because the fiduciary is deemed to have acted lawfully, he must also be deemed to have acted lawfully for the purposes of limitation.[31] Professor Televantos of Lincoln College adds the entirely original thought that the cases from Beckford v. Wade to Taylor v. Davies were based upon an old-fashioned notion that a constructive trust did not arise simply from applying the law to the facts but was constituted by the court’s exercise of a discretion. The existence of such a discretion has in these more enlightened times been disavowed: see Lord Sumption in Angove’s Pty Ltd v. Bailey[32]. The earlier cases can therefore now be ignored.[33]
+
+33.  Professor Virgo says that he finds this argument convincing.[34] I must confess I do not. I can find in the old cases no trace of a claim by the court to be exercising a discretion. There are some dicta to this effect in the judgments in the Court of Appeal in Metropolitan Bank v. Heiron[35] but everyone agrees that they were wrong and do not reflect what actually happened in any case before or since. The principles upon which a fiduciary would be treated as a constructive trustee of property which he had acquired were tolerably well settled and the judges applied the law to the facts, as in any other dispute. If the equity judges had been exercising a discretion, it is difficult to see why in that case they applied a fixed period of limitation. One would have expected them rather to employ the flexible doctrine of laches.
+
+34.  Finally, Mr Shieh relied upon some extra-judicial remarks made by Lord Millett in the course of denouncing cases like Lister v. Stubbs[36] and Sinclair v. Versailles[37] for refusing to recognise a principal’s proprietary interest in property acquired by a fiduciary in breach of duty. He spoke of the constructive trust which was imposed in such a case as a “real trust” within category 1 of his classification.[38] But he was not at this point considering the law of limitation and to apply this remark to limitation would in my opinion be inconsistent with his approval of Taylor v. Davies in the Paragon Finance case.
+
+35.  I therefore agree with the Court of Appeal that section 20(1)(b) of the Ordinance does not apply to this case.
+
+B.  The section 20(2) point
+
+36.  Mr Shieh next submits that if the defendant is not a trustee for the purposes of section 20(1)(b), how can he be a trustee for the purposes of claiming a 6-year limitation period under section 20(2)? You cannot give the same word different meanings within the same section.
+
+37.  I do not think that there is anything in this point. Viscount Cave, who had practised at the Chancery Bar from 1880, would probably have said that the whole of section 8 did not apply to category 2 constructive trustees. They remained entitled to limitation under the old law stated in Beckford v. Wade. Nothing has happened since 1888 to change that position. Or if you want to be a little less antiquarian, you could say that section 20(2) was obviously intended to create a limitation period for all claims for breach of trust, express or constructive, apart from those specified in section 20(1). If that means giving the word “trustee” a different meaning in the two subsections, so be it.[39]
+
+C.  The accounting point
+
+38.  I must admit that I approach the third and fourth points with a high degree of scepticism. If the purpose of a limitation period is to encourage people to assert any claims they have within a reasonable time and avoid the courts having to make decisions upon scanty evidence of what happened in the distant past, it would be strange if ancillary or alternative remedies were exempt from limitation. The taking of an account, even if not expressly declared to be subject to its own limitation period, must be ancillary to some claim for whatever sum the account shows to be due. If such a claim is barred by limitation, there is no point in taking an account. This was the opinion of David Richards J in Barnett v. Greggy[40] and I agree.
+
+D.  The “no profit/no conflict” point
+
+39.  A claim for “equitable compensation” for infringement of the rule that a trustee should not make a profit from his trust or create a conflict between his interests and those of the beneficiary was said by Sir Robert Megarry V-C in Tito v. Waddell (No 2)[41]to be a claim for which no period of limitation was prescribed. There may not be specific mention of these rules in the limitation Acts but they are aspects of the trustee’s fiduciary duty. A breach of such obligations is a claim for breach of trust within the meaning of section 20(2) or the rule in Beckford v. Wade. If a claim to a constructive trust of property or its value is barred by limitation, I do not understand how one can make an identical claim by giving it a different name. That was the opinion of the Court of Appeal in the Gwembe case[42] and I think it is correct. I would therefore answer the certified question by saying that a claim in this form is substantially the same as the claim for breach of trust and is therefore also barred.
+
+Conclusion
+
+40.  I would therefore affirm the decisions of the Court of Appeal on all four certified points and dismiss the appeal.
+
+Chief Justice Cheung:
+
+41.  Accordingly, the Court unanimously dismisses the appeal and makes an order nisi that the costs of the appeal be paid by the plaintiff to the defendant. If any party wishes to vary the order nisi, written submissions should be filed within 14 days of the handing down of this judgment and the Court will make a final order as to costs on the papers.
+
+ 
+
+ 
+
+(Andrew Cheung)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+ 
+
+(M H Lam)
+Permanent Judge	(Lord Hoffmann)
+Non-Permanent Judge
+ 
+
+Mr Paul Shieh SC and Mr John Leung, instructed by Iu, Lai & Li, for the Plaintiff (Appellant)
+
+Mr Benjamin Yu SC, Ms Bonnie Y.K. Cheng and Mr Jonathan Fung, instructed by Zhong Lun Law Firm LLP, for the Defendant (Respondent)
+
+[1]  (2009) 12 HKCFAR 139
+
+[2]  Mills v. Drewitt (1855) 20 Beav 632, 638 per Sir John Romilly MR; Bright v. Legerton (1861) 2 De G F & J 606, 616 per Lord Campbell LC; Beckford v. Wade (1805) 17 Ves Jun 87, 97 per Sir William Grant MR; Taylor v. Davies [1920] AC 636, 650-651 per Viscount Cave; Williams v. Central Bank of Nigeria [2014] AC 1189, para. 12 per Lord Sumption
+
+[3]  [2014] AC 1189, para. 13
+
+[4]  Section 19(2) of the Limitation Act 1939
+
+[5]  (1805) 17 Ves Jun 87
+
+[6]  Ibid., 95-96
+
+[7]  [1920] AC 636
+
+[8]  Ibid., 651
+
+[9]  Ibid., 652-653
+
+[10]  [1999] 1 All ER 400
+
+[11]  Ibid., 408g-409h
+
+[12]  Ibid., 408j
+
+[13]  [1893] 2 QB 390
+
+[14]  [1920] AC 636, 653
+
+[15]  [1999] 1 All ER 400, 408j-409a
+
+[16]  [2014] AC 1189
+
+[17]  Ibid., para. 28
+
+[18]  [2003] 1 HKLRD 524
+
+[19]  Ibid., para. 62
+
+[20]  [1994] 1 AC 324
+
+[21]  Ibid., 331E
+
+[22]  [2015] AC 250
+
+[23]  Ibid., paras. 7, 21, 42-50
+
+[24]  A.P. Herbert, More Uncommon Law (London 1989), p. 80
+
+[25]  [1920] AC 636, 653 per Viscount Cave
+
+[26]  [2014] AC 1189, para. 23
+
+[27]  [2004] 1 BCLC 131
+
+[28]  Ibid., para. 119
+
+[29]  [2008] 4 HKLRD 473
+
+[30]  (2009) 12 HKCFAR 139, para. 29
+
+[31]  See for example David Hayton “No Proprietary Liability for Bribes and Other Secret Profits?” (2011) 25(1) Trust Law International 3
+
+[32]  [2016] 1 WLR 3179, para. 27
+
+[33]  Andreas Televantos, “Trusts, Limitation Periods and Unauthorised Gains” [2020] Conv 330, pp. 340-342
+
+[34]  Graham Virgo, The Principles of Equity & Trusts (5th ed.) p. 540, fn 142
+
+[35]  (1880) 5 Ex D 319
+
+[36]  (1890) 45 Ch D 1
+
+[37]  [2012] Ch 453
+
+[38]   Lord Peter Millett, “Bribes and Secret Commissions Again” (2012) 71(3) CLJ 583, 593
+
+[39]  See the discussion of this question by Mummery LJ in the Gwembe case [2004] 1 BCLC 131, para. 110
+
+[40]  [2015] PNLR 13, para. 82
+
+[41]  [1977] 1 Ch 106, 248-251
+
+[42]  [2004] 1 BCLC 131, paras. 104-109
+
+ 

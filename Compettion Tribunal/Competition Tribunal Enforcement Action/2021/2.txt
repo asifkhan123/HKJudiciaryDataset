@@ -1,0 +1,352 @@
+CTEA 1/2021
+
+[2023] HKCT 1
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ENFORCEMENT ACTION NO 1 OF 2021
+
+________________
+
+BETWEEN
+
+ 	COMPETITION COMMISSION	Applicant
+ 	and	 
+QUADIENT TECHNOLOGIES HONG KONG LIMITED	1st Respondent
+ 	QUADIENT INTERNATIONAL SUPPLY LIMITED	2nd Respondent
+ 	TOPPAN FORMS (HONG KONG) LIMITED	3rd Respondent
+ 	SMARTECH BUSINESS SYSTEMS (HONG KONG) LIMITED	4th Respondent
+________________
+
+Before:	Hon Harris J, President of the Competition Tribunal in Chambers
+Date of Hearing:	2 September 2022
+Date of Decision:	14 June 2023
+________________
+
+D E C I S I O N
+
+________________
+
+Introduction
+
+1.  On 10 June 2022 I heard an application for orders by agreement between the Commission and the Respondents for orders in accordance with the Kam Kwong[1] procedure, namely:
+
+(1)  In respect of the 1st and 2nd Respondents:
+
+“1. There be a declaration that the 1st and 2nd Respondents have contravened the First Conduct Rule under section 6 of the Competition Ordinance (Cap. 619) (‘Ordinance’);
+
+2. The 1st and 2nd Respondents do pay to the Government a pecuniary penalty in the sum of HK$1,399,000 pursuant to section 93 of the Ordinance within 14 days from the date hereof and provide documentary evidence of such payment to the Applicant within 7 days from the date of payment;
+
+3. Pursuant to section 96 of the Ordinance, the 1st and 2nd Respondents do pay to the Government the sum of HK$476,101, being one third of the costs of and incidental to the investigation into their conduct or affairs, reasonably incurred by the Applicant in connection with these proceedings; and
+
+4. The 1st and 2nd Respondents do pay to the Applicant one third of the Applicant’s costs of and incidental to the proceedings herein, to be taxed if not agreed.”
+
+(2)  In respect of the 3rd Respondent:
+
+“1. There be a declaration that the 3rd Respondent has contravened the First Conduct Rule under section 6 of the Competition Ordinance (Cap. 619) (‘Ordinance’);
+
+2. The 3rd Respondent do pay to the Government a pecuniary penalty in the sum of HK$3,372,000 pursuant to section 93 of the Ordinance within 14 days from the date hereof and provide documentary evidence of such payment to the Applicant within 7 days from the date of payment;
+
+3. Pursuant to section 96 of the Ordinance, the 3rd Respondent do pay to the Government the sum of HK$476,101, being one third of the costs of and incidental to the investigation into its conduct or affairs, reasonably incurred by the Applicant in connection with these proceedings; and
+
+4. The 3rd Respondent do pay to the Applicant one third of the Applicant's costs of and incidental to the proceedings herein, to be taxed if not agreed.”
+
+(3)  In respect of the 4th Respondent:
+
+“1. There be a declaration that the 4th Respondent has contravened the First Conduct Rule under section 6 of the Competition Ordinance (Cap. 619) (‘Ordinance’);
+
+2. The 4th Respondent do pay to the Government a pecuniary penalty in the sum of HK$808,000 pursuant to section 93 of the Ordinance within 14 days from the date hereof and provide documentary evidence of such payment to the Applicant within 7 days from the date of payment;
+
+3. Pursuant to section 96 of the Ordinance, the 4th Respondent do pay to the Government the sum of HK$476,101, being one third of the costs of and incidental to the investigation into its conduct or affairs, reasonably incurred by the Applicant in connection with these proceedings. Such sum be paid by the 4th Respondent in equal monthly instalments over 6 months; and
+
+4. The 4th Respondent do pay to the Applicant one third of the Applicant’s costs of and incidental to the proceedings herein, to be taxed if not agreed.”
+
+2.  As is apparent from the orders that are sought the Parties have agreed that both liability and the penalties should be dealt with together. As is also apparent from the orders that the Parties seek both liability and the precise penalties that the Commission seeks are agreed. The Parties have, as required by the Kam Kwong procedure, agreed Statements of Agreed Facts. As the position of (A) the 1st and 2nd, (B) the 3rd and (C) the 4th Respondents were negotiated separately there are three Statements of Agreed Facts (“Statement(s)”). The normal practice is that they should be appended to this decision. However, for reasons explained in [6]–[39] they need to be redacted. The redacted Statements of Agreed Facts will be appended to another short decision, which I anticipate will be handed down in approximately two weeks when redacted versions of the Statements of Agreed Facts prepared in accordance with this Decision have been prepared by the Commission. Consequently it is not necessary to repeat the background to the matter and the details of the contraventions in the body of this decision as this will be dealt with in the Statements.
+
+3.  There are only two issues that are controversial. Neither of them impact on the terms of orders to be made. As will become apparent they are relevant to the Statements.
+
+4.  The first issue was raised by the 3rd Respondent and is fairly minor, namely, that it disputes, and has not agreed in its Statement, that the contravention was specifically aimed at making customers of Neopost Inserters pay higher prices as suggested in the Commission’s written skeleton. The 3rd Respondent has submitted that the Tribunal make no finding of fact to this effect. I shall do not do so.
+
+5.  The second issue was raised by me and concerns an application for redaction from the publicly available version of the Statements of the names of some individuals and certain figures. It was not obvious to me at the hearing what the justification for all the redactions were. This issue was adjourned for the Parties to give further thought to the matter. As matters transpired the same issue arose at a similar hearing on 12 July 2022 in CTEA 1/2022. Both matters were adjourned until 2 September 2022 in order that the issue of redaction on the grounds of confidentiality from documents filed in Competition Tribunal matters could be considered more comprehensively in order that the Tribunal could elaborate further on the relevant principles and how they are to be applied. Following that hearing further written submissions were filed by the Commission.
+
+Confidentiality
+
+6.  On 31 August 2022 I handed down my decision in CTEA 2/2022[2] (“August Decision”) in which I consider the approach to be taken by the Tribunal in determining applications for confidentiality orders. As is apparent from my decision it was intended to introduce the subject and my initial thinking on the principles that apply with a view to a more detailed consideration of the issue at a joint hearing on 2 September 2022 of CTEA 1/2021 and CTEA 1/2022. I have dealt with the confidentiality issues relevant to CTEA 1/2022 in a separate decision also delivered today[3]. That decision should be read in conjunction with this one.
+
+7.  The issue of confidentiality initially arose in CTEA 1/2021 at the first hearing of the present application by the Commission for orders by consent using the Kam Kwong procedure, which I explain later in this decision, that the 1st, 2nd and 4th Respondents had breached the First Conduct Rule. The Commission sought confidentiality treatment of various information in the agreed Statements of Facts. The information, which it was sought to restrict was described as follows in [10]–[13] of the Commission’s skeleton argument dated 26 May 2022.
+
+“10. The first category is information which is confidential against the public. Such information is the highlighted information set out in Part B of the Statements, and comprises (a) price-related information, (b) identities of individuals employed or formerly employed by Rs which the Commission does not intend to pursue, and (c) identities of certain non-parties. Such information is the same information in the ONA for which confidential treatment was granted by this Tribunal on 1 December 2021. The Commission respectfully seeks the same confidential treatment in respect of the Highlighted Information in Part B of the Statements.
+
+11. No confidential treatment is requested as against Rs in respect of information of the first category.
+
+12. The second category is information which is confidential against both Rs and the public. Such information is the highlighted information set out in Part C of the Statements, and comprises (a) the relevant value of sales directly or indirectly related to the Rs’ contravention (‘Value of Sales’), and (b) the turnover of the respective Rs in the relevant financial year (ended on 31 January 2019 for R1 and R2 and on 31 December 2018 for R3 and R4) (‘Turnover’).
+
+13. The Value of Sales and the Turnover are sensitive commercial information relating to the Rs’ respective business interests and are not available to the public, thus falling within the ambit of s.123(1)(a)(ii) of the CO. Even if the Value of Sales and the Turnover are no longer current, the Commission submits that, in the interest of the administration of justice, publication of such information is unnecessary for the public to understand the substance of the Tribunal’s orders, and the Commission’s proposed calculation of the recommended pecuniary penalty. Further, as recognised by President G Lam J (as he then was) in Competition Commission v Nutanix Hong Kong Ltd [2020] HKCT 11 (‘Nutanix Relief Judgment’) at §9, ‘there is a need to preserve confidentiality not only between the respondents who are actual or potential competitors but also as against other resellers of Nutanix products [i.e. the subject products] and also as against suppliers and resellers of competing products.’”
+
+8.  It was unclear from the evidence filed why it was thought by the Commission that information relating to turnover of the businesses of the 1st, 2nd and 4th Respondents was sufficiently confidential to justify redaction. At the hearing Mr Chan suggested that information about turnover allowed profit to be calculated, which as, when pressed he conceded, is wrong. The Commission’s approach to financial data seemed to be simply that if it was not available to third parties it was confidential and generally should not be included in information available to the public or other parties. This approach suggests that there is a rebuttable presumption that any information that is not publicly available and might be considered confidential by the person whose information it is, should be redacted in a judgment or originating process, or affirmations. This seemed to me to be wrong. The Commission’s submissions on the principles which should guide the Tribunal in determining whether or not information should be redacted were limited and I ordered the matter to be considered thoroughly at a subsequent hearing which would give the Tribunal the opportunity to consider comprehensively in the context of the Kam Kwong procedure what principles should guide it in determining applications for redaction. The authorities, which I refer to in the August Decision only dealt with the treatment of information in an originating notice[4] or in pleadings[5].
+
+9.  In CTEA 1/2021 the Commission seeks restrictions on the following information.
+
+(1)  price information relating to the quotations to customers of Neopost Inserters as discussed and/or submitted by the 3rd Respondent or the 4th Respondent (“Price Information”);
+
+(2)  identities and job titles of employees of the respective Respondents not pursued by the Commission (“Employee Identities”);
+
+(3)  identities of non-parties to the proceedings (“Non-Party Identities”);
+
+(4)  value of sales figures; and
+
+(5)  turnover figures.
+
+10.  On 25 November 2021, the Commission by way of a letter together with the Affidavit of Stephen Joseph Ryan, had applied for confidential treatment over the same Price Information, Employee Identities and Non-Party Identities in the Originating Notice of Application. By an Order made on 1 December 2021, I granted the Commission’s application.
+
+11.  The Commission asks the Tribunal to refrain from mentioning in the Tribunal’s judgment the information for which confidential treatment is sought, to exhibit redacted copies of the Statements, and/or to redact from the Tribunal’s judgment the percentage reductions for the Respondents’ cooperation to prevent reverse engineering of the value of sales and turnover of the Respondents, in line with the Tribunal’s approach in Competition Commission v Nutanix Hong Kong Limited & Others[6].
+
+12.  At the hearing on 10 June 2022 (“10 June Hearing”), I directed the Commission and the 1st, 2nd and 4th Respondents to file evidence in support of the Confidentiality Application should they wish to maintain a claim for confidential treatment over the value of sales figures and turnover figures, and set down a further hearing to dispose of the confidentiality application—which took place on 2 September 2022.
+
+13.  Subsequent to the 10 June Hearing, the Commission took steps to liaise with the respective Respondents, which indicated that they did not intend to insist on seeking confidential treatment of the value of sales figures and turnover figures. By a letter to the Tribunal dated 8 July 2022, the Commission confirmed that the parties did not insist on seeking confidential treatment of these categories of information in the present case. At the September hearing the Commission invited the Tribunal to decide whether confidential treatment should be granted over (i) Price Information; (ii) Employee Identities; and (iii) Non-Party Identities.
+
+14.  As I explain in the August Decision:
+
+(1)  the Tribunal has the power pursuant to Part 8 of the Competition Ordinance, Cap. 619 (“Ordinance”) to restrict the use and disclosure of confidential information, which is defined in section 123, provided to the Commission. Part 8 does not apply to disclosure ordered by the Tribunal or a court, where required by law or in connection with proceedings brought under the Competition Ordinance. Part 8’s relevance is limited to identifying the types of information that may be confidential and illustrating that the legislature recognised that the nature of competition law matters may engage concerns about confidentiality.
+
+(2)  Although Part 8 does not apply to proceedings before the Tribunal, the Tribunal may make orders restricting the use and disclosure of confidential information in proceedings before it.
+
+(3)  The Competition Tribunal Rules, Cap. 619D, and [11] of the Competition Tribunal Practice Direction No. 2 (Confidential Information) provide a procedure for the parties to apply to the Commission for orders restricting use and disclosure of confidential information. I shall refer to them generically as “confidentiality orders”.
+
+(4)  In determining an application for a confidentiality order the starting point is the strong presumption that all evidence should be available to a person against whom the Commission alleges a breach of the First or Second Conduct Rule.
+
+(5)  It is necessary for a party applying for a confidentiality order to adduce evidence justifying a restriction on the use and disclosure of information it contends is confidential and should be redacted or otherwise restricted in its availability to parties or the public.
+
+15.  In the August Decision I introduce the principles that guide the Tribunal in determining whether or not a confidentiality ring should be ordered and, if so, on what terms [13]–[25].
+
+16.  There is no dispute that the Tribunal can make confidentiality orders. What requires detailed consideration is the principles that guide the Tribunal in determining applications for such orders and how the principles are likely to apply in practice.
+
+17.  In the following paragraphs I consider more generally the principles that guide the Tribunal in determining applications for confidentiality orders of whatever nature having had the benefit of further submissions from Derek Chan SC on behalf of the Commission and Timothy Parker on behalf of the 2nd and 3rd Respondents in CTEA 1/2022. I then turn to consider the particular categories of information that the Commission seeks confidentiality orders in respect of in CTEA 1/2021.
+
+Restrictions on the Open Justice Principle
+
+18.  The Commission argued before me that it has been consistently recognised by the courts that while the principle of open justice is important, courts have an inherent jurisdiction to determine how it should be applied, and that when it is necessary in the interests of justice, the courts have the power to permit certain information to be withheld from public disclosure. In support of this proposition Mr Chan referred me to A v British Broadcasting Corporation[7], a case concerning a court order anonymising the petitioner’s name and prohibiting the publication of a name or details likely to identify the petitioner, in which the UK Supreme Court explained the courts’ power to make exceptions to the principle of open justice at [27]–[41]. Relevantly, [27] and [38] of the judgment explains:
+
+“27. Since the principle of open justice is a constitutional principle to be found in the common law, it follows that it is for the courts to determine its ambit and its requirements, subject to any statutory provision. The courts therefore have an inherent jurisdiction to determine how the principle should be applied.
+
+…
+
+38. As I have explained, it has long been recognised that the courts have the power to permit the identity of a party or a witness to be withheld from public disclosure where that is necessary in the interests of justice. The Lord President was plainly right to approach the matter on the basis that the interests of justice are not confined to the court’s reaching a just decision on the issue in dispute between the parties. It is necessary in the first place to recognise that the administration of justice is a continuing process: see, for example, Attorney General v Butterworth [1963] 1 QB 696, 725, per Donovan LJ. The court can therefore take steps in current proceedings in order to ensure that the interests of justice will not be defeated in the future. For example, the High Court of Justiciary has permitted undercover police officers to give evidence while screened from the sight of the general public, and without public disclosure of their identities, in order to avoid jeopardising their effectiveness in future investigations.”
+
+In my view the position in Hong Kong is not, as the Commission contend relying for authority on A v British Broadcasting Corporation[8], simply a matter of the court exercising a wide common law jurisdiction to determine how the open justice principle applies to the facts of a particular case. In the following paragraphs I explain why Hong Kong’s law requires a rather more disciplined and rigorous approach.
+
+19.  As was held in Competition Commission v Nutanix Hong Kong Ltd & Ors[9] at [50], and has been accepted by the Commission, competition enforcement proceedings for breach of the First Conduct Rule (section 6 of the Ordinance) before this Tribunal involve the “determination of a criminal charge”, thereby engaging Articles 10 and 11 of the Hong Kong Bill of Rights Ordinance (“BOR”, section 8 of Cap. 383). These provisions have constitutional force by virtue of Article 39 of the Basic Law.
+
+20.  Article 10 of the BOR enshrines (among other things) the right to a fair trial, the equality of arms, and the open justice principle:
+
+“All persons shall be equal before the courts and tribunals. In the determination of any criminal charge against him, or of his rights and obligations in a suit at law, everyone shall be entitled to a fair and public hearing by a competent, independent and impartial tribunal established by law. The press and the public may be excluded from all or part of a trial for reasons of morals, public order (ordre public) or national security in a democratic society, or when the interest of the private lives of the parties so requires, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice; but any judgment rendered in a criminal case or in a suit at law shall be made public except where the interest of juvenile persons otherwise requires or the proceedings concern matrimonial disputes or the guardianship of children.”
+
+21.  Article 11(2)(a) of the BOR guarantees the right of a party to be informed in detail of the case against them:
+
+“(2) In the determination of any criminal charge against him, everyone shall be entitled to the following minimum guarantees, in full equality—
+
+(a) to be informed promptly and in detail in a language which he understands of the nature and cause of the charge against him.”
+
+22.  It is thus clear that a respondent to a case brought against them for breach of the First Conduct Rule, as is the case in these proceedings, is entitled to be fully informed of the allegations against them. There is thus little room for restricting information relied on by the Commission being made available to a respondent on the grounds of confidentiality.
+
+23.  It is also the clear intention of Article 10 that restrictions on information that would otherwise become public, being made available to the public about legal proceedings before a court or a tribunal are exceptional. A party applying for restrictions on such information being made public must demonstrate by evidence that one or more of the matters referred to in Article 10 of the BOR is engaged. In a competition case the grounds for excluding the press and the public from a trial are likely to be limited to case where it is demonstrated that “… the interest of the private lives of the parties so requires, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice”. The express exceptions to the requirement that a judgment must be made public would, of course, never apply. This does not exclude the possibly that a decision might be redacted, although it is clear from Article 10 that this would be exceptional and that it needs to be demonstrated by a party seeking redaction that it is necessary in order either to protect their personal privacy or necessary in the interests of justice.
+
+Applications for confidential orders
+
+24.  The applications that have been made in the limited number of proceedings, including the two I am currently considering, so far brought before the Tribunal for confidentiality orders, are justified, so it has been argued, on the following factual grounds. First, that they involve allegations against individuals, who may or may not be respondents, which may interfere with their business or personal reputations and interests. Secondly, that if made public the information sought to be kept confidential might have a consequence, which is antithetical to the purpose of the Ordinance.
+
+25.  So far the applications for confidentiality that have been made to the Tribunal have been in connection with:
+
+(1)  information contained in the originating process;
+
+(2)  information which it is anticipated will be filed and served by parties during the interlocutory stages of the proceedings; and
+
+(3)  the present applications for redaction of information contained in a decision disposing of a case by what has come to be called by the Kam Kwong procedure[10].
+
+The Kam Kwong procedure is a method by which the parties agree, subject to approval by the Tribunal, that a respondent has infringed either the First or Second Conduct Rule and the range of penalties that should be imposed on the respondent. It is modelled on the Carecraft procedure adopted in directors disqualification proceedings. As can be seen from [40] of my decision in Kam Kwong I made declarations that the 1st, 2nd and 4th Respondents had contravened the First Conduct Rule. I subsequently made similar declarations against the 3rd and 5th Respondents[11]. At a subsequent hearing I determined[12] the pecuniary and costs penalties to be imposed on the Respondents. This resulted in judgements being entered against the 1st to 5th Respondents pursuant to sections 93 and 94 of the Ordinance. The reasons for decision consisted of statements of facts agreed by the Commission and the relevant Respondents and my decision. The parties did not seek to redact any of the information in either the statements of agreed facts or in my reasons for decision.
+
+26.  What has brought the issue of confidentiality into fine focus has been the Commission’s applications for redaction of information in the statements of agreed facts in the Kam Kwong procedure in the present case and CTEA 1/2022. In each case the applications were initiated by the Commission. The Respondents were, unsurprisingly, happy to agree to information being redacted, although when I raised concerns about the redactions at the hearings the Respondents indicated they were indifferent to whether they were permitted.
+
+27.  It seems to me that the Commission in applying to have information redacted from the statements of agreed facts has overlooked the fact that they form part of a judgment of the Tribunal and redaction should only be made if Article 10 of the BOR is satisfied. I note in passing that although sections 152 and 154 (appeals) of the Ordinance uses the term “decision” to describe determinations of the Tribunal, sections 153A and 153B, which clarified that the Tribunal can award interest on a debt or damages ordered by the Tribunal, refers to the determinations as judgments. It is consistent with the characteristics of the proceedings and the Tribunal (it must be before a judge of the Court of First Instance (section 135)) that the decisions are properly characterised as judgments and Article 10 is engaged. I do not understand this to be controversial.
+
+28.  It follows that if the Kam Kwong procedure results in a judgment it has to be made public. The next question is in what circumstances, if any, can a judgment which has to be made public be redacted? The Court of Appeal considered comprehensively the circumstances in which the open justice principle’s application can be modified in Asia Television Ltd v Communications Authority[13]. Cheung CJHC (as he then was) explains the circumstances in which a modification is justified in [22]–[27], [32]:
+
+“22. Fourth, all this means that any restriction on open administration of justice necessarily represents a compromise between these important interests, rights and freedoms, and must be justified by considering and balancing all pertinent interests, rights and freedoms, including in particular those mentioned above.
+
+23. Fifth, the case law has firmly established that the following considerations or matters do not by themselves justify any restriction on open administration of justice:
+
+(1) Publicity of litigation leading to embarrassment and inconvenience: Re Wong Tung Kin [1989] 1 HKLR 93; Ex parte New Cross Building Society, at p.235F.
+
+(2) Publicity leading to economic damage, even very severe economic damage: R v Dover Justices, ex p Dover District Council and Wells (1992) 156 JP 433.
+
+(3) Professional embarrassment and possible damage to professional reputation: Ex parte Kaim Todner, at pp.975H-976C.
+
+(4) The parties’ agreement that the proceedings be held in private: Ex parte Kaim Todner, at p.977C-E.
+
+(5) The mere fact that the subject proceedings etc which gave rise to a judicial review application were held in private: Re The Takeovers & Mergers Panel [1996] 2 HKLR 60; Sit Ka Yin Priscilla v Equal Opportunities Commission [1998] 1 HKC 278.
+
+24. Viewed in terms of the balancing exercise described above, it may be said that the right to privacy underlying some of these considerations or matters is in itself insufficient to justify a departure from the general rule of open justice (see also para.31 below).
+
+25. This is hardly surprising. After all, unwanted publicity, embarrassment and so forth are some of the normal incidence of litigation. They are some of the inevitable consequences of open justice. As a general rule, no one involved in litigation, particularly the initiating party of litigation, can complain. In many but certainly not all cases, if parties desire secrecy, they may, where appropriate, go for arbitration, mediation or some other form of alternative dispute resolution.
+
+26. Sixth, however, open justice is, from the perspective of proper administration of justice, just a means, albeit an important one, to an end, that is, doing justice between the parties concerned: Scott v Scott, at p.437; Ex parte New Cross Building Society, at p.235E. It therefore follows that where open administration of justice in a case would frustrate that ultimate aim of doing justice, it is a most important if not decisive consideration to take into account when balancing the relevant interests, rights and freedoms involved, to decide whether open justice should be restricted, and if so, by what means and to what extent.
+
+27. The case law has very often expressed this in terms of a requirement of ‘necessity’, that is, where justice would be frustrated if open administration of justice in a particular case is not restricted, then, to the extent necessary to prevent that from happening, there may be a restriction on doing justice openly.
+
+…
+
+32. Eighth, where justice can be administered openly in the case itself, but to do so would or might jeopardise some right or interest of one or both of the parties outside of the case, whether open justice should be restricted and if so, the manner and extent of restriction, must be considered by conducting the balancing exercise already described. One common example is cases concerning refugees or torture claimants where it is said that the life, limb or liberty of the refugee or torture claimant or their family is or may be put at risk in the absence of some form of restriction on open justice: R (Kambadzi) v Secretary of State for the Home Department [2011] 1 WLR 1299; Re BU (supra).”
+
+29.  An example of circumstances which are capable of justifying departing from the open justice principle in the competition law enforcement context is a case in which it can be demonstrated that disclosure of information would harm competition and frustrate the purpose of the legislation and the proceedings. This would prejudice the interests of justice because it would interfere with the achievement of the legislation’s purpose.
+
+30.  In the English case of Unwired Planet International Ltd v Huawei Technologies Co Ltd[14] Birss J explains the justification for keeping information out of the public domain as follows:
+
+“16. It is clear that in the area of competition law, the need to keep certain information out of the public domain is well recognised. This is for two different reasons. One reason is that publication may discourage frankness and discourage companies from coming forward and applying for leniency. That is a good reason but it is not relevant in this case. The other reason is because publication of certain information such as pricing may itself be anti-competitive. That may be because publication could work a bit like a cartel. Another way in which publication could be anti-competitive is because it could weaken the competitive position of a party relative to others in the market. This latter point plays a major part in the reasoning of the parties before me. I accept that the point is capable of being relevant but there is a risk. In such a case it is easy to make generalised assertions that publication would harm a company’s interests. Just because a company regards the information as confidential and would prefer that it not be disclosed is not enough.”
+
+The first reason identified by Birss J is advanced by the Commission for a number of proposed redactions in the present case, namely, redacting the identity of a witness in order to protect them from an unjustified degree of public or media attention and the ancillary risk that potential witnesses in other cases may be discouraged from assisting the Commission in its investigations if they anticipate their identity and involvement being made public[15]. However, the alleged jeopardy must be demonstrated by cogent evidence. It is not enough to identity one of the considerations, which the cases recognise may justify redaction and suggest that it applies without identifying and proving any fact or matter, which demonstrates that it does. In order for the Tribunal to undertake the balancing exercise Cheung CJHC explains in ATV[16] it must have something more than conjecture to work with in deciding whether the open justice principle should be moderated in a particular case.
+
+31.  On 25 November 2021 in CTEA 1/2021 the Commission filed an affidavit of Stephen Ryan, the Head (Legal Advisory) of the Competition Commission. This sought an order for redaction in an Intended Originating Notice of Application (“INOA”) intended to commence CTEA 1/2021 which as I have explained in [10] I granted. Redaction was sought as against the public in respect of the first three categories of information I have referred to in [9].
+
+32.  As the evidence justifying redaction is fairly short I will quote it in full.
+
+“Price Information
+
+8. Price-related information was referred to when describing the quotations submitted by either Toppan HK or Smartech and the information exchanged between them regarding the same. The information is commercial information relating to the business interests of Toppan HK and Smartech and is not available publicly.
+
+9. Even if it is considered that the Price Information is no longer particularly current, mitigating somewhat the risks mentioned in the previous paragraph, it seems desirable to avoid any residual risks in this respect. The allegations in the Intended ONA relate to, inter alia, the exchange of competitively sensitive information and the Commission does not wish to perpetuate any harm caused by the alleged conduct (even if remote) by publishing the relevant prices to the wider world. The publication of the specific Price Information does not in any event appear necessary for the third parties to understand the substance of the Commission’s case.
+
+Identities of Employees Not Pursued
+
+10. This category of information concerns the identities of the individuals employed by the companies named in the Intended ONA as having been involved in the Subject Conduct. These individuals provided information to the Commission in its investigation under the Ordinance, but the Commission has not made any allegations of involvement in a contravention of a competition rule (pursuant to section 91 of the Ordinance) as regards these individuals in the Intended ONA.
+
+11. As such, the disclosure of the identities of these individuals to the public might significantly harm their interests, including by subjecting them unnecessarily to public scrutiny, the consequences of which may be embarrassing or damaging to both their personal and professional reputations. The Commission therefore takes the view that it would not be in the interests of justice or indeed the public interest to unnecessarily expose them to the risks mentioned above.
+
+Identities of Certain Non-Parties
+
+12. This category of information relates to the identities of other parties which are referred to in the Intended ONA as part of the factual background to the alleged contravention. These parties did not participate in the Subject Conduct and are not named as respondents in the Intended ONA.
+
+13. Similarly to the Identities of Employees Not Pursued, the Commission takes the view that it would not be in the interests of justice or indeed the public interest to unnecessarily expose these other parties to any inadvertent risks of being embarrassed or having their reputation and goodwill being damaged.”
+
+33. In terms of number most of the redactions were of names of individuals. Nearly all the individual names in the INOA were redacted. I think it is accurate to say that at the time the application was made redaction of this type of information was standard and I granted the application. On 16 December 2021 the Commission’s solicitors Minter Ellison wrote informing the Tribunal that terms of settlement had been reached, and a joint application pursuant to Rule 39 of the Competition Tribunal Rules, Cap. 619D had been filed consisting of consent summonses and Statements of Agreed Facts. Redaction of information in the Statements of Agreed Facts was sought, but no new evidence in support of the application was filed. Instead the letter advanced further reasons in relation to value of sales and turnover. The letter suggested this:
+
+“18. Part C of the Statements of Agreed Facts sets out the undisputed facts relevant to the calculation of the recommended pecuniary penalty and investigation costs.
+
+19. The Highlighted Information in Part C of the Statements of Agreed Facts concerns the following categories of information:-
+
+(i) The relevant value of sales which is directly or indirectly related to the Respondents’ contravention (the ‘Value of Sales’); and
+
+(ii) The turnover of the respective Respondents in the financial year ended on 31 January 2019 (the ‘Turnover’).
+
+20. The Value of Sales and the Turnover are commercial information relating to the business interests of the Respondents respectively and are not available to the public, thus falling within the ambit of section 123(1)(a)(ii) of the Ordinance. Although sections 125(2) and 126(1)(d) of the Ordinance expressly permit the disclosure of confidential information in connection with judicial proceedings arising under the Ordinance, the Applicant nevertheless considers that, for the reasons given immediately below and having regard to all the circumstances of the case, confidential treatment should be provided to the Value of Sales and Turnover.
+
+21. Even if it is considered that the Value of Sales and the Turnover are no longer particularly current, it is desirable to avoid any potential harm of publishing such information to the wider world. In any event, it is the Applicant’s view that the publication of such information does not appear necessary for third parties to understand the substance of the Applicant’s proposed calculation of the recommended pecuniary penalty and investigation costs, and the orders to be made by this Tribunal as a result of the CTR39 Applications (if thought fit).”
+
+34.  This seemed to me unconvincing. Whilst viewed from the point of view of the Respondents this information might be commercially sensitive it was not apparent to me how making this information public might frustrate the purpose of the proceedings or the Ordinance or, for that matter, how it might be said (and it was being said by the Commission, not by the Respondents) that revealing it was prejudicial to the legitimate interests of the Respondents and outweighed the conventional application of the open justice principle. At the hearing on 10 June 2022 I asked Derek Chan SC, who appeared for the Commission, why it was suggested turnover should be redacted. As I have explained earlier in this decision he told me that it allowed the relevant Respondent’s profit to be calculated. After an exchange with me, he accepted that this was wrong. It became clear in my view that there was no good reason for redacting the sales and turnover figures. In respect of the identity of individuals Mr Chan submissions added nothing of substance to the reasons for redaction given in Mr Ryan’s affidavit.
+
+35.  It seems to me clear that there was no basis for the redaction of the sales figures and turnover and consistent with this the application to redact it was subsequently abandoned. So far as the identity of the individuals is concerned the matter is more difficult. Mr Ryan’s reasons for suggesting their names should be redacted is more conjecture than evidence. I accept that there may be cases in which there is potential prejudice to individuals interviewed by the Commission, which is sufficiently serious to justify moderating the application of the open justice principle, because if, it becomes generally known that the identity of witnesses has been made public this may impact the cooperation the Commission obtains from individuals it seeks information from in regard to future investigations. I cannot see any particular reason to think that CTEA 1/2021 is such a case.
+
+36.  Subsequent to the hearing on 2 September 2022 and the filing of further submissions, I have received other applications by the Commission represented by other legal teams for redactions in other cases. They have also shown in my view insufficient regard to the principles that I have discussed in this Decision. At a hearing on 1 December 2022 in CTEA 2/2022 Norman Nip SC on behalf of the Commission accepted that it appeared that the Commission was not able to provide any more specific evidence to justify redacting names than the sort that I have described in the present case.
+
+37.  The views of the Commission of what is required in order to facilitate its operations are entitled to respect and should be given appropriate weight in determining issues of the sort I have been considering. However, it does seem to me that insufficient thought has been given to this matter. The practice seems to have developed of redacting a significant amount of information from documents placed before the Tribunal with scanty evidence to justify so doing in the expectation that the Tribunal will routinely approve the redactions. When pressed to justify the practice the response has been, with respect, shallow and unimaginative.
+
+38.  I am keen that the Tribunal facilitates the Commissions’ function rather than hinder it. It seems to me that with this in mind applications for redactions should be made having regard to the following considerations:
+
+(1)  So far as the identity of individuals in statements of agreed facts or decisions of the Tribunal is concerned if nothing of importance turns on the identity of the individual they should be referred to as “an employee of X limited” or similar language. I would expect this normally to be sufficient for the Commission’s purposes. If the name of the individual is important than I would expect the Commission to be able to adduce precise evidence justifying its redaction. Generally not knowing the name of an individual is unlikely to inhibit the Tribunal in approving a Kam Kwong settlement.
+
+(2)  I assume given the way the present matter has developed that either the Commission will proceed on the basis that financial information such as turnover and sales figures do not need redaction or they will ask the Respondent to justify doing so. In the present case the Respondents were indifferent, although as I have mentioned unsurprisingly happy to agree with the Commission that the information be redacted when asked.
+
+(3)  So far as originating notices of motion are concerned generally the Tribunal will in future agree to the redaction of names of individuals as against the public. The redactions should, however, take the form of a footnote to the name redacted describing the individual as “an employee of X limited or X Respondent” or similar description unless the Commission can provide substantive evidence for not doing so.
+
+(4)  The position in respect of redactions against Respondents raises additional issues, which I address in my Decision dated 31 August 2022 in CTEA 2/2022.
+
+39.  For the reasons I have explained I will allow the individual names in the Statements to be replaced by the description “an employee of ‘X’ Limited or ‘X’ Respondent”.
+
+Kam Kwong Procedure
+
+40.  As I have explained the Parties have agreed both liability and the penalties. As the relief that is sought consists of declarations and the imposition of penalties, this matter cannot simply be disposed of by consent. It is necessary for the Tribunal to review what is proposed and consider whether or not the agreed facts demonstrate a contravention of the Ordinance and the agreed penalties are appropriate. A procedure was proposed by me in Kam Kwong for the Tribunal to determine proceedings, in which the Respondents had conceded contraventions of the Ordinance pursuant to section 6 or involvement in a contravention pursuant to section 91. The procedure is based on the Carecraft procedure adopted in disqualification proceedings brought under the Securities and Futures Ordinance, Cap. 571 and the Companies (Winding Up and Miscellaneous Provisions) Ordinance, Cap. 32. This has subsequently been adopted by Linda Chan J in Competition Commission v Quantr Ltd[17] and G Lam J in Competition Commission v Nutanix Hong Kong Ltd & others[18]. The Tribunal will, however, exercise restraint when scrutinising the proposed agreement[19]. The Tribunal will not search out reasons to disagree with an agreement that the Commission, which has expertise in the subject matter of the proceedings, and Respondents consider appropriate.
+
+41.  It is not necessary to repeat the details of the procedure. It has most recently been explained in a subsequent decision in Kam Kwong[20] dealing with Respondents, who had not accepted liability at the time of the first application to the Tribunal. Generally in my view it is not necessary in each case for the Tribunal to rehearse the principles and how they apply except in the following circumstances. First, there is a matter which is contentious. For example in Kam Kwong[21] the penalties had not been agreed and it was necessary for the Tribunal to consider the parties arguments in some detail. This required consideration of the relevant principles and how they operate in practice particularly as Competition Law in Hong Kong is still developing and the principles require explanation as do their application. Secondly, matters the Tribunal itself believes require detailed consideration. This is so in the present case in which I required further consideration of the issue of confidentiality and redaction from the Statements of information that I have discussed in the previous section.
+
+42.  In the present case all matters have been agreed. There is no factual dispute. The Statements recite (a) the background to the contraventions of section 6 or involvement in contraventions, (b) the facts and matters said to constitute the contraventions of section 6 or involvement in the contraventions and (c) the facts relevant to the calculation of penalties and investigation costs.
+
+43.  In my view the facts recited in the Statements demonstrate that:
+
+(1)  The 1st, 2nd, 3rd and 4th Respondents contravened the First Conduct Rule under section 6 of the Ordinance.
+
+(2)  As against the 1st and 2nd Respondent a pecuniary penalty of HK$1,399,000 pursuant to section 93 of the Ordinance is appropriate and pursuant to section 96 of the Ordinance it is appropriate that the 1st and 2nd Respondents pay HK$476,101 of the costs of the investigation.
+
+(3)  As against the 3rd Respondent a pecuniary penalty of HK$3,372,000 pursuant to section 93 of the Ordinance is appropriate and pursuant to section 96 of the Ordinance it is appropriate that the 3rd Respondent pay HK$476,101 of the costs of the investigation.
+
+(4)  As against the 4th Respondent a pecuniary penalty of HK$808,000 pursuant to section 93 of the Ordinance is appropriate and pursuant to section 96 of the Ordinance it is appropriate that the 4th Respondent pay HK$476,101 of the costs of the investigation.
+
+(5)  The 1st and 2nd Respondents pay the Commission one third of its costs.
+
+(6)  The 3rd Respondent pay the Commission one third of its costs.
+
+(7)  The 4th Respondent pay the Commission one third of its costs.
+
+I will make an order in the terms of the three Consent Summonses agreed by the parties.
+
+ 
+
+ 
+
+ 	(Jonathan Harris)
+President of the Competition Tribunal
+ 
+
+Mr Derek Chan SC and Ms Allison Wong, instructed by MinterEllison LLP, for the applicant
+
+Attendance of Hogan Lovells, for the 1st and 2nd respondents, was excused
+
+Attendance of Slaughter and May, for the 3rd respondent, was excused
+
+Attendance of Stephenson Harwood, for the 4th respondent, was excused
+
+
+[1]  Competition Commission v Kam Kwong Engineering Co Ltd [2020] 4 HKLRD 61, [2020] HKCT 3.
+
+[2]  [2022] HKCT 4.
+
+[3]  [2023] HKCT 2.
+
+[4]  Competition Commission v Nutanix Hong Kong Ltd CTEA 1/2017, 28 March 2017.
+
+[5]  Taching Petroleum Company Ltd v Meyer Aluminium Ltd; Shell Hong Kong Ltd v Meyer Aluminium Ltd [2019] 6 HKC 553; [2019] HKCT 1.
+
+[6]  CTEA 1/2017; [2020] HKCT 11.
+
+[7]  [2015] AC 588.
+
+[8]  Supra.
+
+[9]  [2019] 3 HKC 307.
+
+[10]  Competition Commission v Kam Kwong Engineering Company Ltd & others [2020] HKCT 3, 17 July 2020.
+
+[11]  4 August 2020.
+
+[12]  [2022] HKCT 2, 22 July 2022.
+
+[13]  [2013] 2 HKLRD 354.
+
+[14]  [2018] Bus LR 896, [16]; see also Shell Hong Kong Limited v Meyer Aluminium Ltd [2021] HKCT 2.
+
+[15]  See also Shell Hong Kong [102(3)], Ibid.
+
+[16]  Supra.
+
+[17]  [2020] 5 HKLRD 528; [2020] HKCT 10.
+
+[18]  [2019] 3 HKC 307; [2019] HKCT 2.
+
+[19]  Kam Kwong [16(4)]; Quantr [5(2)]; Nutanix relief judgment [5]; supra.
+
+[20]  [2022] HKCT 1.
+
+[21]  Ibid.
+
+  
+

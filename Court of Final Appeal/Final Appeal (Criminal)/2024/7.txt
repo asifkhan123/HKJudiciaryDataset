@@ -1,0 +1,419 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No. 8 of 2024
+
+[2025] HKCFA 7
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 8 OF 2024 (CRIMINAL)
+
+(ON APPEAL FROM HCMA NO. 34 OF 2023)
+
+________________________
+
+BETWEEN
+
+ 	HKSAR	Appellant
+and	
+ 	LAM CHEUK TING (林卓廷)	Respondent
+________________________
+
+Before:	Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ and Mr Justice Allsop NPJ
+Date of Hearing:	12 February 2025
+Date of Judgment:	1 April 2025
+______________________
+
+J U D G M E N T
+
+______________________
+
+Chief Justice Cheung:
+
+1.  I have had the advantage of reading in draft the judgment of Mr Justice Ribeiro and that of Mr Justice Fok, which reach opposite conclusions. I respectfully agree with Mr Justice Ribeiro’s judgment.
+
+2.  I do not consider the language of section 30(1) of the Prevention of Bribery Ordinance (Cap 201) to preclude the adoption of a broader construction (i.e., the second construction referred to in Mr Justice Ribeiro’s judgment). The provision reads:
+
+“Any person who knowing or suspecting that an investigation in respect of an offence alleged or suspected to have been committed under Part II is taking place, without lawful authority or reasonable excuse, discloses to—
+
+(a) the person who is the subject of the investigation (the subject person) the fact that he is so subject or any details of such investigation; or
+
+(b) the public, a section of the public or any particular person the identity of the subject person or the fact that the subject person is so subject or any details of such investigation,
+
+shall be guilty of an offence and shall be liable on conviction to a fine at level 4 and to imprisonment for 1 year.”
+
+3.  The crux of the present debate lies in the meaning of the phrase “the fact that he/the subject person is so subject”, which appears in both section 30(1)(a) and (b). (“Subject person” simply refers to “the person who is the subject of the investigation”, that is, the investigation in respect of a Part II (corruption) offence. It is neutral regarding the content of the offending disclosure.)
+
+4.  Relevantly, section 30(1) covers two distinct and separable facts: (1) a person is the subject of an investigation; and (2) the investigation concerns a Part II offence. Linguistically, disclosure of “the fact that he/the subject person is so subject” is capable of meaning that the disclosure need only reveal fact (1), without disclosing fact (2). In other words, it may involve disclosing that a particular person is the subject of an investigation – without specifying that the investigation pertains to a Part II offence, even though that is the case.
+
+5.  I do not consider this interpretation to be so strained that, when understood in light of the provision’s context and statutory purpose, it is one that the language cannot bear. In fact, the equivalent phrase appears in the Chinese text of section 30(1)(b) as “該受調查人正受調查的事實”.[1] When translated into English, it means “the fact that the subject person is under investigation”. If nothing else, this demonstrates that the broader construction is a permissible reading of the language used.
+
+6.  Since language is not an obstacle to adopting the broader construction, for the reasons given in Mr Justice Ribeiro’s judgment, this interpretation clearly better serves the statutory purpose of the section 30 offence in its known context. Under it, the actus reus ensures the secrecy necessary for the investigation of a Part II offence, whereas the specific mens rea requirement – knowledge or suspicion of an investigation of a Part II offence – establishes the offence’s culpability. While, generally speaking, a penal consequence may indicate that the narrower of two possible constructions is to be preferred, “[t]here is, however, no hard and fast rule in this respect.”[2] After all, canons of construction are merely tools to assist the court in arriving at an interpretation that best fits the statutory context and serves the legislative purpose of the provision in question, as may be gleaned from the statute itself and all relevant admissible materials and circumstances.
+
+7.  I do not accept that the narrower construction – which requires disclosure of the fact that the investigation concerns a Part II offence – adequately serves the statutory purpose of ensuring the secrecy of corruption investigations. Its adoption necessarily entails introducing the concept of implicit or indirect disclosure that the investigation concerns a Part II offence, so as to encompass cases where there is no explicit reference to that fact. This approach, if based on an objective test, disregards the facts, information, and subjective understanding and belief of the subject person. It may therefore allow a tip-off to go unpunished under the section, as the subject person may recognise it as such even where an objective observer would not. Conversely, a test that relies on, or takes into account, the subject person’s subjective knowledge, information, understanding and belief in determining implicit or indirect disclosure is inherently difficult to apply. By definition, such matters are exclusive to the subject person and may be exceedingly difficult – if not impossible – for the prosecution to establish beyond reasonable doubt. That difficulty is all the more acute given the clandestine nature of corruption offences and the obstacles inherent in the collection of evidence.
+
+8.  The difficulty is further compounded where the implicit or indirect disclosure is made not to the subject person, but to others – i.e., a section 30(1)(b) situation. In such cases, is the test still based on an objective observer’s understanding? Or does one take into account the knowledge and information of the recipient of the disclosure? If the disclosure is made to more than one person, whose knowledge, information and understanding should be taken into account? Or should the subjective knowledge, information, understanding and belief of the subject person be relevant – after all, the mischief targeted by section 30(1)(b) is that such a disclosure may lead to the subject person being tipped off? Depending on the answers to these and possibly other questions, tip-offs may not be captured by the offence, or the task of prosecution may become exceedingly complicated, if not impossible. Such an outcome does not, in my view, best serve the clear statutory purpose of the section 30(1) offence.
+
+9.  In the context of disclosure to persons other than the subject person, the reference to disclosing “the identity of the subject person”' in section 30(1)(b) adds little to the debate in this appeal. Depending on the facts, when disclosure to third parties is at issue, describing it as disclosing “the identity of the subject person” may sometimes be more appropriate than describing it as disclosing the fact that the subject person is under investigation – which, as a matter of fact, concerns a Part II offence.
+
+10.  Where, as here, the investigation concerns both a Part II offence and a non-Part II offence, disclosing that the subject person is under investigation for a non-Part II offence suffices. I express no view on a situation where there are two entirely separate and distinct investigations arising from different and unconnected facts – one investigation concerning a Part II offence and the other a non-Part II offence. In such a case, whether merely disclosing that the subject person is under investigation for the latter would constitute a section 30 offence is a question that does not arise here.
+
+11.  I would therefore allow the appeal and restore the conviction and sentence.
+
+Mr Justice Ribeiro PJ:
+
+A.  The issue
+
+12.  The respondent, Lam Cheuk Ting, was charged with three counts of disclosing the identity of a person under investigation by the Independent Commission Against Corruption (“ICAC”) contrary to s 30(1) of the Prevention of Bribery Ordinance (“POBO”).[3] He was convicted by the magistrate[4] but his conviction was quashed on appeal by Deputy High Court Judge Douglas Yau.[5]
+
+13.  The prosecution was granted leave to appeal in respect of a question of law certified by the CFI as follows:
+
+“Upon a proper construction of s 30(l)(b) of the Prevention of Bribery Ordinance (Cap 20l) (‘the POBO’), in particular, the phrase ‘the identity of the subject person’, whether an offence under that section is committed when the defendant discloses the identity of the subject person by claiming that he is the subject of investigation by the Independent Commission Against Corruption (‘the ICAC’) in respect of an alleged or suspected offence not under Part II of the POBO only whilst, in fact and to the knowledge of the defendant, the subject person is the subject of investigation by the ICAC in respect of such an offence and also an offence alleged or suspected to have been committed under Part II of the POBO?”
+
+14.  The main provision involved, POBO s 30(1), states as follows:
+
+(1) Any person who knowing or suspecting that an investigation in respect of an offence alleged or suspected to have been committed under Part II is taking place, without lawful authority or reasonable excuse, discloses to—
+
+(a) the person who is the subject of the investigation (the subject person) the fact that he is so subject or any details of such investigation; or
+
+(b) the public, a section of the public or any particular person the identity of the subject person or the fact that the subject person is so subject or any details of such investigation,
+
+shall be guilty of an offence and shall be liable on conviction to a fine at level 4 and to imprisonment for 1 year.
+
+15.  The principal issue of construction concerns the content of the disclosure that is required to constitute the offence. Is the offence established if, with the requisite mens rea, a defendant discloses that X is the subject of an investigation by the ICAC; or must the defendant go on to disclose that the investigation is in respect of an offence under POBO Pt II?
+
+16.  POBO Pt II specifies offences involving corruption, including solicitation and acceptance of advantages, bribery, corrupt transactions with agents and possession of unexplained property. The common law offence of misconduct in public office is not included.
+
+17.  Lam disclosed to the public that the subject person was being investigated by the ICAC for misconduct in public office, but did not mention that he was also being investigated for corruption, a fact known to Lam.
+
+B.  The facts
+
+18.  Lam had been an ICAC investigator and was at the relevant time, a member of the Legislative Council. He heard of the events in what became known as the “7.21 incident” unfolding on 21 July 2019 in Yuen Long MTR station, involving assaults by white-clad assailants on black-clad protesters who were returning from demonstrations in Central. He went to the scene and was himself assaulted and sustained injuries which put him in hospital.
+
+19.  Superintendent Yau Nai-keung (“Supt Yau”), then Assistant District Commissioner (Crime) Yuen Long District, had attended at the scene of the 7.21 incident and, on 22 July, gave a media briefing. He apparently stated that he had not seen anyone carrying weapons. This, along with the alleged absence of timely police intervention to stop the assaults, aroused much suspicion and criticism of the police, including by the respondent.
+
+20.  On 23 July, the ICAC began investigating allegations that officers including Supt Yau had accepted advantages for taking no or no timely enforcement action. Misconduct in public office was also being investigated.
+
+21.  On 25 July, the respondent was interviewed as an ICAC witness. ICAC officers informed him that the ICAC had started an investigation into suspected offences of corruption and misconduct in public office against police officers including Supt Yau in connection with the aforesaid allegations. He was reminded of the prohibition against disclosure under POBO s 30. He says he responded by saying that such restriction applied only to corruption offences and not to misconduct in public office, an allegation denied by the ICAC officers. The Judge made no finding as to Lam’s alleged response to those officers.
+
+22.  On 2 October 2019, Supt Yau was transferred to Police New Territories North Headquarters in the post of Superintendent (Operations) (Crime) (New Territories North) overseeing crime investigations at a regional level. The respondent and others criticised this as placing an officer who was himself culpable in charge of reviewing the 7.21 incident.
+
+23.  Lam gave three press conferences on 30 December 2019, 21 January 2020 and 16 July 2020 respectively (the subject-matter of the three charges). He explained at each press conference, that he had sought (i) to expose the improper way the police were enforcing the law and (ii) to pressurise the CP into replacing Supt Yau with an officer unconnected with the case to investigate police actions. On each occasion, he stated that Supt Yau was subject to ICAC investigation for misconduct in public office. Each session was livestreamed and also made available to the public on the respondent’s Facebook page.
+
+C.  The decisions below
+
+24.  The Magistrate held that since the respondent knew that Supt Yau was being investigated for a suspected Part II offence and had disclosed that he was under investigation, albeit only saying that it was for misconduct in public office and not mentioning any Part II offence, the offences were established. He rejected the defence of reasonable excuse.
+
+25.  DHCJ Yau considered the legislative history and held that the legislative intent had been to narrow the scope of the disclosure offence so that it was necessary for the prosecution to prove not merely disclosure of an investigation but of an investigation of a Part II offence. He allowed the appeal and quashed the conviction. He would, however, have rejected the reasonable excuse defence.
+
+D.  Construction of section 30
+
+D.1  On the ordinary meaning of the words
+
+26.  POBO s 30(1)(b) has three parts: the mens rea, the actus reus and the defence of lawful authority or reasonable excuse. We are not concerned with the defence.
+
+27.  The provisions on mens rea clearly require the defendant to know or suspect that an investigation is taking place “in respect of an offence alleged or suspected to have been committed under Part II” of the POBO. So the prosecution must prove that the defendant knew or suspected (i) that an investigation was taking place and (ii) that it concerned a Part II offence.
+
+28.  Does this extend to the actus reus provisions? Sections 30(1)(a) and (b) must be read together. Each of those paragraphs specifies the person(s) to whom the disclosure is made and what must be disclosed to constitute the offence.
+
+(a)  Under s 30(1)(a), the prohibited disclosure is made to “the person who is the subject of the investigation (the subject person)” and the matter disclosed is “the fact that he is so subject” or “any details of such investigation”.
+
+(b)  Under s 30(1)(b), disclosure is made to “the public, a section of the public or any particular person” and what must be disclosed is “the identity of the subject person” or “the fact that the subject person is so subject” or “any details of such investigation”.
+
+29.  I would add that it is necessarily implicit in these provisions that a Part II investigation must in fact be taking place, this being a further actus reus requirement. Thus, there are three aspects to the offence: (i) the fact of the investigation taking place; (ii) the defendant’s knowledge or suspicion that it is taking place; and (iii) a relevant disclosure by the defendant.
+
+30.  The question of construction which arises focuses on the third aspect and is as follows. When, under s 30(1)(a) or (b), the defendant discloses, in respect of the person subject to the investigation, “the fact that he is so subject”, how should the expression “is so subject” be interpreted? Plainly, it requires the defendant to disclose that the relevant person is subject to the ICAC investigation which the defendant knows or suspects is underway. But does the defendant have to go further and disclose that the inquiry is “in respect of an offence alleged or suspected to have been committed under Part II” (in substance, if not in so many words)?
+
+D.2  The first construction on the ordinary meaning
+
+31.  On one possible construction (“the first construction”) based on use of the definite article in the provision, the answer is “Yes, the disclosure must indicate that the investigation concerns a Pt II offence”.
+
+32.  The reasoning runs as follows. The words “he is so subject” (or “the subject person is so subject”) refer back to the words “the person who is the subject of the investigation” and the investigation has to be construed as referring back to the mens rea provision which specifies “an investigation in respect of an offence alleged or suspected to have been committed under Part II”. Thus, the argument proceeds, disclosure to the subject person under paragraph (a) or to the public, etc, under paragraph (b) of s 30(1) that the subject person “is so subject” requires disclosure not merely of the fact that such person is under investigation but that it is an investigation “in respect of an offence alleged or suspected to have been committed under POBO Part II”.
+
+33.  While the first construction is quite plausible on a literal reading of the statutory language, I do not think it is correct. Clearly, the defendant must disclose the existence of the investigation by the ICAC which he or she knows or suspects is taking place. But it does not follow that such disclosure has to include information that an offence within POBO Part II is being investigated.
+
+D.3  The second construction on the ordinary meaning
+
+34.  The preferable argument (“the second construction”) distinguishes between the mens rea and actus reus elements of the offence. It focuses on the fact that paragraphs (a) and (b) of s 30(1), which address the actus reus of the offence, refer in the alternative to either (i) disclosure of “the fact that [the subject person] is subject to the investigation” or (ii) disclosure of “any details of such investigation”. The distinction being drawn is between the fact of the investigation and its details. On this construction, a prohibited disclosure may simply be of the fact that the investigation of which the defendant is aware is taking place, without providing any further information. Alternatively, disclosure may be of the details of that investigation, a broad expression capable of encompassing, among many other things, the nature of the offence under investigation. These different categories of disclosure represent alternative forms of the actus reus, expressed disjunctively. On this reading, to attract liability it is enough for the existence of the investigation to be disclosed (whether to the subject person or to the public) without further details and in particular without stating what offences are being probed.
+
+35.  The provisions are drafted to cover disclosures made in various different circumstances. Thus, they envisage that prohibited disclosures may be made to persons who do not know that any investigation is under way; or to persons who may know that there is an investigation but not the identity of the subject persons; or to those who may know the identity of the person being investigated but not any details such as regarding the time, place, transactions and other persons involved; or the possible offences being considered. Disclosures which fall within any of these disjunctive categories are sufficient to constitute the offence without any necessity of including a statement that a Part II offence is being investigated.
+
+D.4  Purposive and contextual construction
+
+36.  The second construction appropriately reflects the statutory purposes of the offence. In Ming Pao Newspapers Ltd & Ors v Attorney-General of Hong Kong,[6] the Privy Council considered the aims of the legislation. Lord Jauncey of Tullichettle, writing for the Board, observed that:
+
+“In many offences involving dishonesty there will be a party who suffers and who has an obvious interest to report the matter to the authorities with the result that the offender can expect that some investigation into the offence will take place. In cases of bribery, however, neither party to the transaction is likely to have any interest to report the matter - rather the reverse, since both are likely to be satisfied with what has occurred. This means that bribery offences are particularly difficult to detect and the maintenance of secrecy as to an investigation is even more important in order not to put the suspect on his guard.”[7]
+
+37.  He cited Fuad JA in Mohammed Yaqub Khan v Attorney-General,[8] who held that the primary purpose of the offence:
+
+“... is to protect the confidentiality and efficacy of the investigation and thus it prohibits unauthorised disclosure to the person under investigation that he is under investigation and any details of such investigation. Obviously such knowledge would enable the person concerned, if he were so minded, to abscond, tamper with the evidence or otherwise attempt to frustrate the investigation.”
+
+38.  Fuad JA furthermore noted that the section was “also designed to protect the reputation of the person under investigation unless and until one or other of the events specified in subsection (2) has occurred.”[9]
+
+39.  The statutory intent of s 30(1) is accordingly to preserve the efficacy or integrity of the ICAC investigation into corruption offences and also to prevent any unwarranted damage to the reputation of the subject person. The unwanted risks – that the subject person might abscond, tamper with or concoct evidence, or otherwise attempt to frustrate the investigation; or that a person’s reputation might be unjustifiably damaged – would arise if the fact of the investigation is prematurely disclosed, even if the nature of the offences under investigation is not alluded to.
+
+40.  The important initial restrictions on the scope of this offence are the mens rea requirement and the fact that a Part II investigation is actually underway in respect of the subject person. The mens rea requirement lays down the basis on which the defendant may be held culpable and confines criminal liability to cases where the prosecution can prove that the defendant knows or suspects that “an investigation in respect of an offence alleged or suspected to have been committed under Part II is taking place”.
+
+41.  Only if the existence of the Part II investigation and the defendant’s culpable mental state so defined are established, does one need to consider the actus reus elements regarding the information conveyed by the prohibited disclosure. Although the statutory language used in respect of “the investigation” regarding the actus reus is the same as that used in relation to the mens rea requirement, the context is quite different. The actus reus elements aim to protect the integrity of the ongoing investigation and are no longer concerned with defining the defendant’s culpable state of mind or the initial restrictive requirements of the offence. The actus reus penalises disclosure of either the fact of the investigation or any of its details. Either category of disclosure may prejudice the investigation. In this context, the statutory purpose would be hampered by importing an unnecessary requirement for the disclosure to include mention of the additional fact that the investigation is concerned with a Pt II offence.
+
+42.  The second construction is appropriately geared to the likelihood that prohibited disclosures will often be elliptically expressed or conveyed by no more than a “nod and a wink” without the defendant indicating the offences under consideration. Subtly tipping off the suspect that he or she is subject to an ICAC investigation without going into any detail is likely to be enough to prejudice the ICAC’s inquiries, hence the prohibition against disclosure simply of “the fact” of the investigation. It is in my view highly improbable that the legislative intent was to prohibit such “tipping off” only where the disclosure makes reference to investigation of a Pt II offence.
+
+D.5  The submissions at the hearing
+
+43.  The aforesaid construction does not correspond with the submissions advanced by counsel on either side at the hearing.
+
+44.  Mr Ned Lai, appearing for the appellant,[10] largely espoused “the first construction” referred to above, to the effect that the disclosure constituting the s 30(1) offence generally requires specific mention of a Pt II offence as the subject-matter of the investigation. However, he argued that where, as in the present case, the charge relates to disclosing to the public the subject person’s identity (under the first alternative limb of s 30(1)(b)), mention of a Pt II offence as the subject-matter of the investigation is not required as part of the disclosure. In contrast, he submitted that disclosures under the other two limbs of s 30(1)(b) as well as under s 30(1)(a) (relating to the fact that the relevant person is subject to the investigation) only become offences if the disclosures mention that the inquiry concerns a Pt II offence.
+
+45.  That submission is, with respect, unsustainable. Textually, I can see no basis for drawing the purported distinction between the first and second limbs of s 30(1)(b). In each case one is simply concerned with disclosures as to who the person subject to the investigation is. And viewed purposively, the distinction is antithetical to the statutory objectives.
+
+46.  Where a person who, with knowledge that X is the subject of an ICAC investigation regarding a Pt II offence (either alone or with other non-Pt II offences), directly discloses to X that X is subject to an ICAC investigation without stating that it concerns a Part II offence, on Mr Lai’s construction, no offence is committed. But, he submits, if the same disclosure is made to the public at large, ie, that X is subject to an ICAC investigation, again without stating that it concerns a Pt II offence, an offence would be committed. It is impossible to see any justification for this differential treatment. It seems obvious that the objective of preserving the integrity of the investigation is more acutely engaged where a defendant directly tips off the subject person about the fact of the investigation, than where the subject person may hear of the investigation through a publicly disseminated disclosure. Yet Mr Lai’s argument excludes criminal liability for the direct tipping-off case while asserting such liability in the public disclosure situation. It is a construction which is wholly at odds with the statutory purpose.
+
+47.  While the respondent’s Written Case essentially advances the first construction (which I have rejected), at the hearing, Mr Erik Shum, appearing for the respondent,[11] sought to keep his submissions narrowly focused on the certified question which he criticised. However, as is well established, this Court is not bound by the framing of the question on which leave to appeal was granted. Nor is the Court bound to answer the framed question.
+
+48.  Mr Shum orally submitted that proof of a s 30(1) offence, sometimes, but not always, requires establishing that the disclosure mentions that the ongoing ICAC investigation is concerned with a Pt II offence. Whether this is required, he submitted, depends on whether the recipient of the disclosure already knows that such is the subject-matter of the investigation. In the present case, he argued that such “Part II” disclosure is required and reference to an ICAC investigation into misconduct in public office did not trigger liability.
+
+49.  I am unable to accept that approach. The actus reus requirements do not vary with the recipient’s knowledge. The offence occurs when such disclosure is made whether or not the recipient has any information about the investigation. The statutory purpose is to counter the risk of prejudicing the investigation (or unwarrantedly tarnishing the subject person’s reputation) by prohibiting such disclosures, regardless of the state of the recipient’s knowledge.
+
+E.  The present case
+
+50.  The Judge conducted a detailed examination of statements made by various members of the Legislative Council during the passage of the Bill. He concluded that the purpose of the amendment was to narrow the scope of the offence and so favoured the first construction. With respect, I do not think that the Judge was right in his approach. He appears to have referred to the discussions during the legislative process as an aid to construing particular provisions rather than merely for ascertaining the overall purpose of the legislation. Moreover, I do not accept that properly construed, the amendment narrows the scope of the offence in the present context. Very similar issues of construction arise under both the former and the present versions of the offence.
+
+51.  The respondent explains that he made the disclosures (i) to expose the allegedly lamentable deficiencies in the enforcement of the law by the police; and (ii) to cause Supt Yau to be replaced by an officer to be put in charge of investigating the 7.21 incident, who was not conflicted by being potentially culpable himself.
+
+52.  These may be public-spirited objectives, but they do not justify disclosures prohibited by POBO s 30(1). Lam had already brought in the ICAC which, he knew, was independently investigating possible corruption and misconduct in public office offences. Supt Yau was not in charge. By making the disclosures, the respondent was counter-productively threatening the integrity of the ICAC investigation into Supt Yau’s activities. If his intention was to sully Supt Yau’s reputation in the public eye with a view to having him removed, this fell foul of the offence’s purpose of preventing premature and possibly unfounded damage to the subject person’s reputation.
+
+F.  Summary and conclusion
+
+53.  When giving his press conferences, the respondent knew that Supt Yau was being investigated by the ICAC for offences under POBO Part II and for misconduct in public office at common law. The initial essential elements of the s 30(1) offence were therefore satisfied. His knowledge founded his culpability.
+
+54.  With such knowledge, the respondent disclosed to the public that Supt Yau was subject to an ICAC investigation for misconduct in public office without saying that he was also being investigated for corruption offences under Part II.
+
+55.  That was sufficient to establish the actus reus under s 30(1)(b). While the mens rea requires proof of knowledge that the investigation concerns a Pt II offence, on a contextual and purposive construction, the actus reus requirements are different, operating in a different context, with different objectives. The actus reus requirements are aimed at preserving the integrity of ICAC investigations by prohibiting disclosures likely to prejudice the same. Such prejudice may, depending on the circumstances, be caused by disclosures of the subject person’s identity or the fact that the investigation is taking place or of details of the investigation. Any of these disclosures will trigger liability, there being no requirement that the defendant must mention that the offence under investigation is one within Part II.
+
+56.  For the foregoing reasons, I would allow the appeal and restore the respondent’s conviction and sentence.
+
+Mr Justice Fok PJ:
+
+57.  The Prevention of Bribery Ordinance (Cap.201) (“PBO”) s.30 provides as follows:
+
+“30. Offence to disclose identity, etc. of persons being investigated
+
+(1) Any person who knowing or suspecting that an investigation in respect of an offence alleged or suspected to have been committed under Part II is taking place, without lawful authority or reasonable excuse, discloses to—
+
+(a) the person who is the subject of the investigation (the subject person) the fact that he is so subject or any details of such investigation; or
+
+(b) the public, a section of the public or any particular person the identity of the subject person or the fact that the subject person is so subject or any details of such investigation,
+
+shall be guilty of an offence and shall be liable on conviction to a fine at level 4 and to imprisonment for 1 year.”
+
+58.  This appeal concerns the proper construction of s.30(1)(b) of the PBO, specifically concerning the content of the actus reus of the offence. Is the offence constituted by the disclosure of the identity of a person as the subject of an investigation for an offence by the ICAC other than one under Part II of the PBO, where the defendant knows that the person is also subject to an investigation by the ICAC in respect of a PBO Part II offence? The prosecution, as appellant in this Court, contends that it is, whereas the respondent contends to the contrary. Although the issue is relatively short, it is not straightforward and, as will be seen, the appeal also touches more generally on the actus reus element of the offence.
+
+59.  I gratefully adopt the summary of the facts set out in the judgment of Mr Justice Ribeiro PJ above. Arising out of those facts, the respondent was charged with three counts of disclosing the identity of a person under investigation by the ICAC contrary to PBO s.30(1)(b). Save for the dates of the disclosures, the particulars of the offences were in the same terms, namely:
+
+“LAM Cheuk-ting, on [DATE], in Hong Kong, knowing or suspecting that an investigation in respect of an offence alleged or suspected to have been committed under Part II of the Prevention of Bribery Ordinance, Cap.201, was taking place, without lawful authority or reasonable excuse, disclosed to the public or a section of the public the identity of the person who was the subject of the investigation, namely YAU Nai-keung.”
+
+60.  For the purpose of the construction exercise, PBO s.30(1) may be broken down into its separate elements of mens rea, statutory defence and actus reus. The exercise should also be approached from the starting point that the statutory purpose of s.30(1) includes the purpose of the preservation of the integrity of an ICAC investigation into a suspected corruption or bribery offence under Part II of the PBO by the avoidance of prejudice to the investigation. Another purpose is the protection of the reputation of the person subject to such investigation but, in the present context, it is the protection of the integrity of the investigation that is of primary importance.
+
+61.  The mens rea is “knowing or suspecting that an investigation in respect of an offence alleged or suspected to have been committed under Part II is taking place”. It should be noted that the mental element required is knowledge or suspicion of an actual investigation that “is taking place”. Therefore, in proving the commission of the offence, the prosecution will have to establish the fact that there was, at the material time, an ongoing investigation into an offence alleged or suspected to have been committed under Part II of the PBO.
+
+62.  In this particular case, it is not in dispute in this appeal that the respondent had the requisite mens rea for the offence. The magistrate found that the respondent knew that Yau was being investigated for a suspected offence under Part II of the PBO, as was the fact, and that finding was not disturbed on appeal to the Court of First Instance.
+
+63.  The statutory defence is “lawful authority or reasonable excuse”. The respondent asserted but failed to establish that defence below and it does not arise on this appeal.
+
+64.  The focus of this appeal is instead on the actus reus of the offence under s.30(1), which is contained in sub-paragraphs (a) and (b) of s.30(1).
+
+65.  The two sub-paragraphs distinguish between disclosure to (a) the person who is the subject of the investigation under Part II of the PBO, and (b) the public, a section of the public or any particular person. It is important to note that, for (a), “the person who is the subject of the investigation” is expressly defined as “(the subject person)”. That definition is repeated, twice, in sub-paragraph (b). It is also important to note that the definition also incorporates the fact of the person being the subject of “the” investigation, which in turn refers back to the introductory words of the section “an investigation in respect of an offence alleged or suspected to have been committed under Part II”.
+
+66.  It is necessary to examine more closely the nature of the disclosure that is covered by both sub-paragraphs of s.30(1) since what is controversial in this appeal is the content of the disclosure that constitutes the offence.
+
+67.  Under sub-paragraph (a), the prohibited disclosure to the subject person is of (i) “the fact that he is so subject”, or (ii) “any details of such investigation”. It should be noted that the use of the term “is so subject” in (i) is linked to the fact of the person being the subject of “an investigation in respect of an offence alleged or suspected to have been committed under Part II”.
+
+68.  Under sub-paragraph (b), the prohibited disclosure to the public, a section of the public or any particular person (i.e. someone other than the subject person) is of (i) “the identity of the subject person”, or (ii) “the fact that the subject person is so subject”, or (iii) “any details of such investigation”. A number of discrete points may be made about this sub-paragraph:
+
+(1)  The three types of prohibited disclosure are disjunctive, so each is intended to cover separate and distinct conduct, although there may be some scope for overlap between the three on the facts of a particular case.
+
+(2)  The inclusion of the term “such investigation” in (iii) necessarily encompasses the defined term “the subject person” since there is no other reference to any other investigation and the only investigation that is material is that to which the person in question is subject. And as already noted above in respect of sub-paragraph (a), that investigation is specifically one “in respect of an offence alleged or suspected to have been committed under Part II”.
+
+(3)  Type (ii) disclosure is expressed using the defined term “the subject person” and is of “the fact that the subject person is so subject”. This slightly awkward repeated use of “subject”[12] serves to emphasise that the subject person is someone who is the subject of an investigation “in respect of an offence alleged or suspected to have been committed under Part II” and the fact that the prohibited disclosure is of the fact that he is the subject of such an investigation (“is so subject”). But the disclosure that is targeted is of the fact that the person “is so subject” and type (ii) disclosure can be constituted without naming or otherwise identifying the subject person. He might, for example, be referred to generically by reference to his occupation or some other feature other than his name.
+
+(4)  Type (i) disclosure is somewhat opaque, hence the issue of construction raised in this appeal. The prohibited disclosure cannot mean the mere identity of a particular person without more. Such disclosure in a vacuum would be meaningless and it is plain that there must be some characteristic of the disclosure to bring the conduct within the mischief of the offence created by the section. In my judgment, that characteristic of the identification is provided by the use of the definition “the subject person” and, for the reasons expanded upon below, it is the disclosure of the identity of the person as the subject of an investigation “in respect of an offence alleged or suspected to have been committed under Part II”, and not merely as the subject of an investigation by the ICAC simpliciter, that is the offending conduct under this head. How that prohibited disclosure may be made, and whether express reference to a Part II offence is required, is a separate matter to be addressed further below.
+
+(5)  Type (i) disclosure is not the same as type (ii) disclosure. As already noted, type (ii) disclosure can be constituted without naming or otherwise identifying the subject person. Type (i) disclosure is the more specific disclosure of the identity of the person in question as the subject of an investigation “in respect of an offence alleged or suspected to have been committed under Part II”. Type (i) disclosure could, for example, occur by disclosure of a suspect’s identity as the subject of the particular investigation when it is common knowledge that a Part II investigation is taking place. And type (ii) disclosure could occur by disclosure of the fact a Part II investigation is underway when it is common knowledge that an ICAC investigation about the individual in question is taking place but not that it is one under Part II.
+
+(6)  Type (iii) disclosure, of any details of the relevant Part II investigation, would encompass specifics of an investigation beyond the mere fact that an investigation is underway. Such specifics might include details concerning third parties being interviewed or searches of premises or requests for documents and so forth.
+
+(7)  Thus understood, the three types of disclosure under sub-paragraph (b) constitute cascading, or incrementally broader, forms of disclosure that might jeopardise the integrity of an ICAC investigation into a Part II offence whether by tipping off the subject of that investigation or otherwise.
+
+69.  The essential difference of opinion between this judgment and that of Mr Justice Ribeiro PJ arises from our respective views of the meaning of “the fact that [he/the subject person] is so subject” in sub-paragraphs (a) and (b). Thus, in paragraph [34] above, his Lordship identifies “the second construction” as resulting in the conclusion that “to attract liability it is enough for the existence of the investigation to be disclosed (whether to the subject person or to the public) without further details and in particular without stating what offences are being probed.”
+
+70.  I respectfully differ and it will be apparent that I conclude that the proper construction of s.30(1)(b) is what Mr Justice Ribeiro PJ identifies as “the first construction”, namely disclosure that the individual concerned is subject to an investigation “in respect of an offence alleged or suspected to have been committed under Part II” in substance, if not in so many words. I do so for the following reasons.
+
+71.  I do not agree that the statutory purpose of PBO s.30(1) supports the conclusion that the second construction is correct or that, insofar as there may be a choice to be made, it is to be preferred to the first construction.
+
+72.  Whilst it is an established principle that statutory provisions are to be given a purposive interpretation, the Court cannot attribute to a statutory provision a meaning which the language of the statute, understood in the light of its context and the statutory purpose, is incapable of bearing: see China Field Ltd v Appeal Tribunal (Buildings) (No.2).[13]
+
+73.  In the context of PBO s.30(1), the focus of the statutory purpose is “an investigation in respect of an offence alleged or suspected to have been committed under Part II”. The focus could have been differently worded since the ICAC has responsibility for investigating and prosecuting other offences. Such other offences include those under Part III and Part V of the PBO as well as offences under the Elections (Corrupt and Illegal Conduct) Ordinance (Cap.554)[14] and other offences discovered in the course of an ICAC investigation, including the common law offence of misconduct in public office.[15] Part III and Part V of the PBO include non-corruption offences[16] and the Elections (Corrupt and Illegal Conduct) Ordinance includes both corruption[17] and non-corruption[18] offences. The exclusion of these from the ambit of s.30(1) demonstrates that the purpose of the section is not as broad as the protection of all ICAC investigations, or indeed even all ICAC corruption investigations.
+
+74.  Earlier cases stating the purpose of PBO s.30(1) were decisions on a differently worded provision, which did not express the prohibition in terms of investigations of offences under a particular part of the PBO. Thus, the version of s.30(1) considered by Fuad JA in Mohammed Yaqub Khan v Attorney-General[19] and by Lord Jauncey of Tullichettle in Ming Pao Newspapers Ltd v Attorney-General of Hong Kong[20] was in the following terms:
+
+“(1) Any person who, without lawful authority or reasonable excuse, discloses to any person who is the subject of an investigation in respect of an offence alleged or suspected to have been committed by him under this Ordinance the fact that he is subject to such an investigation or any details of such investigation, or discloses to any other person either the identity of any person who is the subject of such an investigation or any details of such an investigation, shall be guilty of an offence and shall be liable on conviction to a fine of $20,000 and to imprisonment for one year.”[21]
+
+75.  Whilst I agree with Mr Justice Ribeiro PJ that the Judge’s examination of statements of members of the Legislative Council during the legislative process leading to the 1996 amendments to s.30(1) was incorrect (see paragraph [50] above), I consider the Judge’s conclusion was correct since it is plain, in my view, simply from a comparison of the wording of the pre-1996 version of s.30(1) and the current version of s.30(1) that the scope of the prohibition was narrowed by those amendments.
+
+76.  The statutory purpose of s.30(1) being the protection of the integrity of “an investigation in respect of an offence alleged or suspected to have been committed under Part II” of the PBO, I do not therefore accept that its language as analysed above is able to sustain the second construction. Instead, applying a purposive approach, the first construction is to be preferred.
+
+77.  That conclusion is also supported contextually by the fact that, in order to establish the offence, the prosecution must establish as a fact that an actual investigation into an offence alleged or suspected to have been committed under Part II of the PBO was, at the material time, actually “taking place” and, as part of the mens rea, that the defendant knew or suspected that such an investigation was taking place. In my view, and with respect, separating the actus reus element of the offence from the mens rea element, which the second construction requires, is artificial and strained.
+
+78.  Whilst I agree with Mr Justice Ribeiro PJ that there is no justification for the differential treatment inherent in Mr Ned Lai’s submission for the appellant (see paragraph [46] above), there is in fact no differential if the first construction is adopted. The flaw in the appellant’s case is in advancing what is, in substance, the second construction in relation to type (i) disclosure under sub-paragraph (b) of s.30(1).
+
+79.  It follows that I do not consider there is a constructional choice available as between the first construction and the second construction. Were such a choice presented, however, I would prefer the first construction since the provision is a penal one: see, in this context, HKSAR v Chui Shu Shing[22] and Secretary for Justice v Cheng Ka Yee[23].
+
+80.  I would accept that the offence could be constituted by a disclosure without using the words “[you are/he is] being investigated for an offence under Part II”. Depending on the context and circumstances, mere disclosure of investigation by the ICAC might be sufficient to constitute the actus reus. But if a defendant has expressly identified a person as being subject to investigation by the ICAC into a non-Part II offence (for example, misconduct in public office, as in this case), the actus reus element of the offence would require the prosecution to allege and establish that such disclosure, objectively, amounted to disclosure of the person as being subject of “an investigation in respect of an offence alleged or suspected to have been committed under Part II” of the PBO.
+
+81.  In the present case, Mr Lai confirmed that the prosecution case below was that the mere identification of Superintendent Yau was sufficient to constitute the actus reus of the offence and that the prosecution case was not that, by saying he was subject to an investigation in respect of the offence of misconduct in public office, it objectively constituted disclosure of the fact that he was subject to an investigation in respect of a Part II offence. Whether that case might have been advanced is not a matter with which this appeal is concerned.
+
+82.  For the above reasons, so far as its disposition is concerned, I would dismiss this appeal. The certified question for which leave to appeal was granted is not susceptible of a simple “yes” or “no” answer and whether the offence is made out will depend on whether, by disclosing the identity of the subject person by claiming he is the subject of investigation by the ICAC in respect of an offence not under Part II of the PBO, that disclosure objectively constitutes disclosure of the fact that he was subject to an investigation in respect of a Part II offence.
+
+Mr Justice Lam PJ:
+
+83.  I respectfully agree with Mr Justice Fok PJ that for the reasons set out in his judgment that the appeal should be dismissed. With great respect, I am unable to agree with Mr Justice Ribeiro PJ that his preferred second construction of Section 30(1) of the Prevention of Bribery Ordinance Cap.201 (“the PBO”) is a viable alternative to the first construction.
+
+84.  In my judgment, the language of the statutory provisions (whether under Section 30(1)(a) or (b)) clearly confines the relevant limb of the offence to a disclosure that a person is subject to an investigation in respect of an offence under Part II of the PBO (“the Part II investigation”). A disclosure that a person is subject to an investigation by the ICAC is not enough to constitute such disclosure unless the context and the circumstances surrounding the disclosure objectively brings about a disclosure of the Part II investigation. The latter would essentially be the scenario postulated by Mr Justice Fok PJ at [80] above and possibly encompass some “nod and wink” situations postulated by Mr Justice Ribeiro PJ at [42] above. As highlighted by Mr Justice Fok PJ, if that is the case of the prosecution, the burden of showing that the disclosure has such objective effect is on them.
+
+85.  Counsel for the defendant[24] brought to our attention that the prosecution case had been advanced in the courts below without any attempt to establish that the disclosures by the defendant had such an objective effect. This is confirmed by counsel for the prosecution[25]. In the circumstances, this Court should consider the liability of the defendant by focusing on whether a mere disclosure of an investigation by the ICAC of a non-Part II offence against the subject person could constitute an offence under Section 30(1)(b).
+
+86.  It is common ground between Mr Justice Ribeiro PJ and Mr Justice Fok PJ that there should not be any distinction on the extent of disclosure regarding the investigation required under Section 30(1)(a) and that under Section 30(1)(b). In other words, if a mere disclosure of the fact that the subject person was under an investigation by the ICAC is not enough for Section 30(1)(a), the same approach should be applied in respect of the disclosure of the identity of such person under Section 30(1)(b).
+
+87.  The expressions “the subject person” and “so subject” in both sub-sections prescribe that the disclosure which constitutes the actus reus must reveal the fact that the person is the subject of “the investigation” (which can only be a Part II investigation), not being merely subject to an investigation by the ICAC. Hence, the disclosure must allude, whether explicitly or implicitly, to a Part II investigation in order for the actus reus to be made out. In this connection, I respectfully disagree with Mr Justice Ribeiro PJ that disclosure of the nature of the offence only comes into the picture in connection with disclosure of the details of the investigation. A disclosure of the fact that the person is subject to a Part II investigation requires a disclosure that it was an investigation in respect of a Part II offence. Otherwise, it would only be a disclosure of the fact that the person is being subject to an investigation.
+
+88.  This point can be demonstrated by asking rhetorically whether a mere disclosure that the person is under a criminal investigation is enough. On the broad second construction, the disclosure needs not be made with any reference to the ICAC since the initial investigation of a Part II offence may be conducted by other law enforcement agencies. Further, as Mr Justice Fok PJ pointed out, the ICAC has the duty and power to investigate offences other than those under Part II of the PBO. There is thus no basis for holding that the expression “so subject” necessarily embraces a disclosure of the mere fact that the person is subject to an ICAC investigation or that a reference to ICAC would necessarily reveal that it is a Part II investigation.
+
+89.  Under the second construction, it would be sufficient even if the disclosure is merely that the person is subject to an investigation without even mentioning the agency which is undertaking the investigation. It would be sufficient if in fact there is an ongoing Part II investigation concerning the subject person and the person making the disclosure has knowledge or suspicion of such investigation. I cannot read the text of Section 30(1) as embracing such a wide construction being given to the words “so subject”.
+
+90.  If one has regard to the legislative history of Section 30, the revelation that it is a Part II investigation as part of the disclosure which constitutes the actus reus is even clearer. As it was originally enacted in 1970, Section 30(1) reads:
+
+“Any person who, without lawful authority or reasonable excuse, discloses to any person who is the subject of an investigation in respect of an offence alleged or suspected to have been committed by him under this Ordinance the fact that he is subject to such an investigation or any details of such investigation, or discloses to any other person either the identity of any person who is the subject of such an investigation or any details of such an investigation, shall be guilty of an offence and shall be liable on conviction to a fine of twenty thousand dollars and to imprisonment for one year.” (my emphasis)
+
+91.  The expression “the fact that he is subject to such an investigation” under the first limb (contrast with “any details of such investigation” under the second limb) clearly embodied the requirement of disclosure of the fact that it was a Part II investigation. If the legislature intends otherwise, it suffices to say “the fact that he is subject to an investigation”.
+
+92.  The amendment in 1996 changed that expression to “so subject”. But there is no basis for regarding that in so doing the legislature has expanded the scope of the first limb to embrace the second construction now put forward by Mr Justice Ribeiro PJ. The objectives of the amendment were set out in the speech of the Honourable Mrs Selina Chow in the legislative council on 10 July 1996:
+
+“I would now like to come to my amendment to section 30(1). In fact my amendment is exactly the same as the one proposed by the Administration before the Privy Council ruling. It liberalizes the existing state of things by:
+
+(a) limiting the application of section 30 to offences under Part II of the Ordinance; and,
+
+(b) narrowing the application of this subsection so that the offence is triggered if the person who discloses does so knowing or suspecting that an investigation of a Part II offence is taking place.”
+
+93.  Though I agree with Mr Justice Ribeiro PJ and Mr Justice Fok PJ that the Judge below erred in referring extensively to the discussions during the legislative process in 1996 as an aid of construction, it is permissible for the court to ascertain the purpose of an amendment by reference to what had been said by the legislator to be its objectives when she moved for the relevant amendment, see Director of Lands v Yin Shuen Enterprises Ltd (2003) 6 HKCFAR 1 at [21] and [22].
+
+94.  I will therefore dismiss the appeal and respectfully concur with Mr Justice Fok PJ in his proposed answer to the certified question.
+
+Mr Justice Allsop NPJ:
+
+95.  I have had the great advantage of reading the judgments of all members of the Court. The judgments reveal, in their respective ways, what can be drawn in meaning from the express words of s30(1) of the Prevention of Bribery Ordinance (Cap 201) (the PBO). I respectfully agree with the judgments of the Chief Justice and Mr Justice Ribeiro PJ. I will not seek to repeat matters covered by them, but will only seek to express shortly why I am in agreement with them.
+
+96.  I have not found the elucidation and expression of the meaning of the shortly expressed s30(1) of the PBO to be easy. This is especially so because, as the Chief Justice and Mr Justice Ribeiro PJ say, two ways of construing or interpreting the provision present themselves.
+
+97.  One approach to the meaning of (a) and (b) is reached by reading into paragraphs (a) and (b) the full description of the investigation in the chapeau: one “in respect of an offence ... under Part II”. The linking of the full description in the chapeau to the nature and extent of the acts in (a) and (b) is, on this reading, effected by the definite article “the” in the phrase “the investigation” and the phrase “so subject” in paragraph (a), and by the use of the defined phrase “the subject person” and the phrase “so subject” in paragraph (b).
+
+98.  If this be the correct reading of s30(1), there is no legitimate basis in the text of the section to view the first limb of paragraph (a) as different in scope of prohibited disclosure from the second limb of paragraph (b), or to view the second limb of paragraph (b) as different in scope of prohibited disclosure from the first limb of paragraph (b). The textual linkages would be too clear.
+
+99.  On this reading of s30(1), the learned Deputy Judge may be seen to be correct. There would have been no breach of s30(1)(b), because there was no disclosure of the identity of a person who is subject to an investigation of a particular character, being one “in respect of an offence … under Part II” (of the PBO). But it would also mean that disclosing to the very person who is the subject of the investigation that he or she was the subject of an investigation by the ICAC, without disclosing that the investigation was “in respect of an offence … under Part II” (of the PBO) may well not breach s30(1)(a). I say “may well” only because, if the express words of the disclosure were so limited, the context might possibly make the disclosure understood to be that he or she was the subject of an investigation “in respect of an offence …under Part II” (of the PBO). That would be a question of fact.
+
+100.  This reading has a textual simplicity. Also, assuming that the words used in s30(1) before its amendment in 1996 “of such an investigation” had the same content as do the words used in the amended s30(1) after 1996: “the investigation”, “so subject” and “subject person”, this reading may be strengthened. However, a direct and close textual comparison between the two provisions risks inviting a distraction. The task is to construe the present provision. This is to be done from a perspective that reflects the legislative history and accommodates and vindicates the purpose of the section.
+
+101.  As is plain from the words of the section before and after amendment in 1996, there was an intention of the Legislative Council in 1996 to narrow the operation or application of the section from applying where there was an investigation “in respect of an offence…under this Ordinance” (the PBO) to an investigation “in respect of an offence…. under Part II” (of the PBO). That clear purpose, derived from the words of the Ordinance, was effected and manifested by the introduction of the chapeau into the section, which identifies not only a necessary mental element, but also the gateway to the operation of the section by the prohibited disclosures. Disclosures (set out in paragraphs (a) and (b)) were only to be criminalised in respect of a specific category of investigation being known to be, or suspected of, taking place.
+
+102.  There is, however, no discernible purpose from the changes made in 1996 to limit the quality of the protection to be given to such an investigation by the prohibited acts of disclosure. The narrowing of scope of the section was as to the kind of investigation to be protected by the provision, not as to the efficacy, reach, or quality of the protection to be given to it. Nor do I discern any such purpose in any part of the speech by the Honourable Mrs Selina Chow in moving the amendments on 10 July 1996. Everything there said by her conforms with the narrowing of the operation of the section by means of the chapeau.
+
+103.  The protective purpose had been expressed, only months before the amendments to s30(1), by Lord Jauncey of Tullichettle on behalf of the Privy Council in May 1996 in Ming Pao Newspapers Ltd v Attorney-General of Hong Kong [1996] AC 907 at 920F to 0921A: principally, to protect the integrity and efficacy of the investigation, and also to protect the reputation of the person the subject of the investigation.
+
+104.  The purpose of the section, in the protection of the investigation and its integrity and efficacy, is directed to avoiding the risk of such harm by relevant and prohibited disclosures. For this purpose, there is no necessary requirement for the description of the disclosure to be full and precise, indeed to the contrary. The words of the first limb of paragraph (a) would fulfill the purpose of protecting the investigation referred to in the chapeau by prohibiting disclosing to the very person the subject of that investigation that he or she is subject to an ICAC investigation (being in fact the investigation known or suspected). If, however, paragraph (a) only prohibited disclosing to the person that he or she was subject to an investigation under Part II of the PBO, the protection of the investigation would tend to be undermined, compared to the position if paragraph (a) prohibited the disclosure of the fact of an investigation by the ICAC or by any other authority. Saying to someone who is known by the discloser to be the subject of a bribery investigation under Part II, that he or she is under investigation by the ICAC, or under investigation by the ICAC for matters that anyone could reasonably perceive not to be unrelated to bribery, might be seen readily to alert or ‘tip off’ the person the subject of the bribery investigation under Part II. If such were not prohibited, it might be thought that the protection of the integrity of the investigation actually being carried on was barely, or but weakly, protected by the section.
+
+105.  Is that, however, what the section says? If the words of s30(1) lead intractably to the necessary conclusion that the disclosures prohibited are limited to such of the detailed character set out in the chapeau, the answer would be, no. However, for the reasons given by the Chief Justice and Mr Justice Ribeiro, the words of s30(1) are not intractable in that way. There is an available choice of meaning capable of being borne by the words used. One construction vindicates and protects the high public policy of s30(1); the other tends to limit or undermine that protection. As Dixon CJ said in Commissioner for Railways (NSW) v Agalianos (1955) 92 CLR 390 at 397 (cited and relied upon by McHugh, Gummow, Kirby and Hayne JJ in Project Blue Sky v Australian Broadcasting Authority (1998) 194 CLR 355 at [69]) “the context, the general purpose and policy of a provision and its consistency and fairness are surer guides to its meaning than the logic with which it is constructed.”
+
+106.  Importantly, the construction is one that is fairly discernible from the text. I say “importantly” because this is a provision prescribing a criminal offence. The necessary clarity of discerning the content of a criminal offence from the defining words used may require an assumed purpose of the provision to be less than fully vindicated if the construction of the provision that supported the purpose was obscure or tenuous. That is not the case here.
+
+Chief Justice Cheung:
+
+107.  Accordingly, by a majority, the Court allows the appeal, sets aside the deputy judge’s order, and restores the respondent’s conviction and sentence.
+
+ 
+
+ 
+
+(Andrew Cheung)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+ 
+
+(M H Lam)
+Permanent Judge	(James Allsop)
+Non-Permanent Judge
+  
+
+Mr Ned Lai DDPP, Ms Samantha Chiu SADPP (Ag) and Mr Timothy Chen SPP (Ag), of the Department of Justice, for the Appellant
+
+Mr Erik Shum, Ms Christy Wong and Mr Isaac Wu, instructed by Ho Tse Wai & Partners, for the Respondent
+
+
+[1]  The same phrase appears as “他是該項調查的標的此一事實” in section 30(1)(a), that is, “the fact that he is the subject of that investigation”. The current version of section 30(1) was enacted in 1996 in both English and Chinese. Both texts are equally authentic: Interpretation and General Clauses Ordinance (Cap 1), section 10B; HKSAR v Chan Chun Kit (2022) 25 HKCFAR 191, [57]-[58].
+
+[2]  HKSAR v Chui Shu Shing (2017) 20 HKCFAR 333, [43].
+
+[3]  Cap 201.
+
+[4]  Mr Ip Kai-leung, ESCC 2789/2020 (26 January 2022).
+
+[5]  [2024] HKCFI 422 (8 February 2024).
+
+[6]  [1996] AC 907, per Lord Jauncey of Tullichettle.
+
+[7]  Ibid at 920.
+
+[8]  [1987] HKLR 145 at 147.
+
+[9]  Ibid. Section 30(2) relates to measures which necessarily involve disclosure to the person concerned that he or she is under investigation.
+
+[10]  Mr Ned Lai DDPP, with Ms Samantha Chiu SADPP (Ag) and Mr Timothy Chen SPP (Ag).
+
+[11]  With Ms Christy Wong and Mr Isaac Wu.
+
+[12]  This may be explained by the legislative history of the section, as a result of which the most recent amendments (in 1996) were grafted onto the previous statutory language and therefore adopted its structure.
+
+[13]  (2009) 12 HKCFAR 342 per Lord Millett NPJ at [36].
+
+[14]  Independent Commission Against Corruption Ordinance (Cap.204) (“ICAC Ordinance”), s.10(2).
+
+[15]  ICAC Ordinance, ss.10(5) and 12.
+
+[16]  See, e.g., s.14 (in Part III) and ss. 27 and 29 (in Part V).
+
+[17]  See, e.g., s.6.
+
+[18]  See, e.g., ss.22 and 34.
+
+[19]  [1987] HKLR 145 at 147.
+
+[20]  [1996] AC 907 at 918-919.
+
+[21]  Ibid. at 914 (emphasis added).
+
+[22]  (2017) 20 HKCFAR 333 per French NPJ at [43].
+
+[23]  (2019) 22 HKCFAR 97 per French NPJ at [37] and [47].
+
+[24]  Mr Erik Shum, with Ms Christy Wong and Mr Isaac Wu.
+
+[25]  Mr Ned Lai, with Ms Samantha Chiu and Mr Timothy Chen.
+
+ 
+
+ 

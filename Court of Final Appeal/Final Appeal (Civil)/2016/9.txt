@@ -1,0 +1,325 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 7 of 2016
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 7 OF 2016 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 202 OF 2015)
+
+____________________
+
+BETWEEN
+
+ 	CLP POWER HONG KONG LIMITED	Respondent
+ 	and	 
+ 	COMMISSIONER OF RATING AND VALUATION	Appellant
+____________________
+
+Before :	Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Tang PJ, Mr Justice Fok PJ and Lord Walker of Gestingthorpe NPJ
+Date of Hearing : 27 February 2017
+Date of Judgment : 17 March 2017
+________________________
+
+J U D G M E N T
+
+________________________
+
+Chief Justice Ma:
+
+1.  I agree with the judgment of Lord Walker of Gestingthorpe NPJ.
+
+ 
+
+Mr Justice Ribeiro PJ:
+
+2.  I agree with the judgment of Lord Walker of Gestingthorpe NPJ.
+
+ 
+
+Mr Justice Tang PJ:
+
+3.  I agree with the judgment of Lord Walker of Gestingthorpe NPJ.
+
+ 
+
+Mr Justice Fok PJ:
+
+4.  I agree with the judgment of Lord Walker of Gestingthorpe NPJ.
+
+ 
+
+Lord Walker of Gestingthorpe NPJ:
+
+Introduction
+
+5.  The issue in this appeal is whether the Respondent, CLP Power Hong Kong Limited (“CLP”) is liable to be assessed under the Rating Ordinance, Cap 116, in respect of certain fixed equipment at its generating stations in the New Territories and at its stand-by generating station on Lantau.  The Appellant is the Commissioner of Rating and Valuation (“the Commissioner”).
+
+6.  The appeal is from the judgment of the Court of Appeal (Cheung, Kwan and Barma JJA) given on 2 February 2016, remitting the matter to the Lands Tribunal for further consideration of the evidence.  The nature of the fixed equipment, and the reasons for the Court of Appeal’s decision to make a remission, are considered below.  Much turns on the relationship between two sections of the Rating Ordinance, and on the meaning, in the context of those sections, of the words “machinery” and “plant”.
+
+7.  This matter has a long history.  In 2008 there were no fewer than eight outstanding appeals by CLP against assessments under the Rating Ordinance and the Government Rent (Assessment and Collection) Ordinance, Cap 515, the earliest relating to the 1999-2000 assessment year. But seven of the appeals were stayed by an order of Lam J made on 3 November 2008. The exception was CLP’s appeal against the rating assessment for 2004-5, which was chosen as a suitable “reference year”.  Since then further assessments have been made for later years.
+
+8.  The appeal in relation to the 2004-5 assessment was heard by the Lands Tribunal (Au J and Mr W K Lo) over 44 days between February 2010 and February 2012, with evidence from numerous expert witnesses. Judgment was given on 24 April 2013.  The written judgment extends to 391 paragraphs, of which only three relatively short groups of paragraphs are directly relevant to the issue in this appeal.  Paragraphs 28 to 43 summarise the relevant statutory provisions in the context of CLP’s undertaking (part of which is in mainland China).  Paragraphs 84 to 93 contain a finding (in the very different context of an argument about “interdependency”, which concerned the relative bargaining positions of the hypothetical landlord and the hypothetical tenant) that the hypothetical landlord’s fixed equipment (the rateability of which is in dispute) and the hypothetical tenant’s machinery (the value of which, as is common ground, is not to be taken into account for rating purposes) “have been designed and built as an integrated system”. Paragraphs 227 to 234 set out the competing arguments on the disputed items of fixed equipment and decide the point in favour of the Commissioner, and paragraph 384 records Mr Lo’s concurrence on that point.
+
+9.  However the Lands Tribunal decided other points of more central importance in favour of CLP and the appeal relating to the 2004-5 assessment was allowed to the extent summarised in paragraphs 235 and 387 of the Lands Tribunal’s judgment.  On 3 January 2014 its decision was confirmed after a review.  On 9 April 2015 the Lands Tribunal refused leave to appeal on any of three grounds relied on by CLP, but on 28 August 2015 the Court of Appeal (Kwan and Barma JJA) granted leave to appeal on one of the three grounds, that is the issue relating to the items of fixed equipment.
+
+The facts
+
+10.  CLP has four generating stations in Hong Kong, on three different sites.  The following summary is based on paragraphs 28 to 37 of the judgment of the Lands Tribunal.
+
+(1) Station A at Castle Peak Power Station (“CPPS ‘A’”) consists of four generating units.  Their primary fuel is coal but their design is such that they can also burn oil.
+
+(2) Station B at Castle Peak Power Station (“CPPS ‘B’”) has four generating units similar to those at CPPS ‘A’, except that two of the units have been modified to burn natural gas.
+
+(3) Black Point Power Station (“BPPS”) is on the coast four miles north of Castle Peak Power Station. It has eight generating units with a combined cycle gas-fired system.
+
+(4) Penny’s Bay Power Station (“Penny’s Bay”) on Lantau Island has three 100MW gas turbines.  It provides stand-by capacity to CLP’s network, to Hong Kong airport and to some other areas.
+
+CLP’s assets and interests in mainland China are described in paragraphs 38 to 43.
+
+11.  The items of equipment in issue in this appeal are described as follows in paragraph 227 of the Lands Tribunal’s first judgment:
+
+“(a) the boilers and supporting steelwork at CPPS ‘B’ and BPPS;
+
+(b) the cooling water circuits at CPPS ‘B’ and BPPS; and
+
+(c) ancillary pipework and electrical cables within the power stations.”
+
+This summary contains at least one, and possibly two, serious errors.  It is common ground between the parties that the reference in (a) above to “boilers” is mistaken.  The reference should be to steelwork supporting the boilers, which are themselves machinery coming within section 8(b) of the Rating Ordinance (set out in paragraph 14 below).  It is regrettable that this serious mistake was not formally corrected with the agreement of the parties when the Lands Tribunal reviewed its first judgment. It is even more regrettable that the other possible error (asserted by CLP and denied by the Commissioner) was not brought to the attention of this Court until the close of counsel’s oral submissions.  The parties cannot even agree as to whether there is an issue as to the supporting steelwork at BPPS.  It will therefore be necessary to return to this (paragraphs 66 to 69 below).
+
+The Rating Ordinance
+
+12.  The issue in this appeal turns on the correct construction of sections 8 and 8A of the Rating Ordinance, and their application to the facts as found by the Lands Tribunal.   The basic unit of assessment in Hong Kong is a “tenement”, defined in section 2 of the Rating Ordinance as -
+
+“any land (including land covered with water) or any building, structure, or part thereof which is held or occupied as a distinct or separate tenancy or holding or under any licence.”
+
+13.  In English rating law the corresponding expression is “hereditament”.  In Hong Kong, where almost all land is held under a Government lease, the word “tenement” (and its definition as set out above) express the importance of the notion of a holding of land.  It has been a basic principle of rating law in Hong Kong that a rateable tenement is held and occupied by one person only.  That principle now has two exceptions, one in section 8A (added by amendment in 1991) and the other in section 9 (which relates to advertising stations, and was amended in 1981).  As explained below, the main (but not the sole) purpose of section 8A is to keep up with advances in equipment related to information technology, such as fibre-optic cables.
+
+14.  Section 8 has been part of the Rating Ordinance since its enactment in 1973 (as a consolidation, with amendments, of legislation going back to the 19th century; there is a summary of the history in the judgment of Cons JA in Commissioner of Rating and Valuation v Yiu Lian Machinery Repairing Works Ltd & Ors [1985] 2 HKC 517, 521-2 – “Yiu Lian”).  The section was amended in 1981, but only by adding a reference to the new section 7A.  It provides,
+
+“For the purpose of ascertaining the rateable value of a tenement under section 7 and 7A -
+
+(a) subject to paragraph (b), all machinery (including lifts) used as adjuncts to the tenement shall be regarded as part of the tenement, but the reasonable expenses incurred in working such machinery shall be allowed for in arriving at the rateable value of the tenement;
+
+(b) no account shall be taken of the value of any machinery in or on the tenement for the purpose of manufacturing operations or trade processes.”
+
+15.  Section 8A provides,
+
+“(1) Where any land (including land covered with water) or any building or structure is occupied by a person by means of any plant, such land, building or structure shall, to the extent that the land, building or structure is so occupied, be deemed for rating purposes to be a separate tenement, whether or not such land, building or structure is otherwise a tenement and that person shall be deemed for rating purposes to be the occupier of such tenement and liable for payment of rates assessed thereon.
+
+(2) For the purposes of ascertaining the rateable value of such tenement, the plant by means of which the person is occupying the tenement shall be regarded as part of the tenement.
+
+(3) In this section “plant” (工業裝置)　includes cables, ducts, pipelines, railway lines, tramway lines, oil tanks, settings and supports for plant or machinery.”
+
+16.  Section 10, by an amendment made in 1991, modifies the effect of the deeming provision in Section 8A by enabling the Commissioner to treat a number of separate tenements as one single tenement by making what is called an in cumulo assessment. That method of assessment is regularly adopted in the rating of utility companies.
+
+17.  Both leading counsel (Mr Benjamin Yu SC for the Commissioner, and Mr David Elvin QC for CLP) made detailed submissions as to the correct construction of sections 8 and 8A, in the context of the Rating Ordinance as a whole, and their submissions are considered below.  But it may be useful to make some fairly simple preliminary points about the language of sections 8 and 8A, since the two sections, standing side by side but without any direct reference to each other, present some unusual features.
+
+18.  It is to be noted that section 8 refers only to machinery (not to plant), and does not define the term “machinery” (except for indicating that it includes lifts in a building); and conversely section 8A refers only to plant, and not to machinery (except for the final words of subsection (3) referring to “settings and supports for plant or machinery”). Section 8A(3) does not contain a full and comprehensive definition of the term “plant”. It does no more than list a number of items which are to be included in the statutory meaning.
+
+19.  That sort of inclusive definition is not necessarily bad drafting practice, especially when the term in question is an ordinary word with a wide but imprecise meaning.  Henry Thring, who is often regarded as having been the founder of modern statutory draftsmanship during his time as first parliamentary counsel in the days of Gladstone, gave a warning to over-ambitious draftsmen in his short work, Practical Legislation, first published in 1877 (3rd ed, 2015, p 102):
+
+“The proper use of definitions is to include or exclude something with respect to the inclusion or exclusion of which there is a doubt without such definition. No attempt should be made to make a pretence of scientific precision by defining words of which the ordinary meaning is sufficiently clear and exact for the purpose of the Act in which they are used.”
+
+20.  Nevertheless the drafting of sections 8 and 8A is rather unusual in that there is no clear explanation of the relationship between the two sections.  That omission is particularly surprising because for well over a century the phrase “plant or machinery” (or sometimes “plant and machinery”) has often been used in statutes, in different common law jurisdictions and in different legal contexts (including rating and taxation), as a composite expression similar to other familiar composite expressions such as “repair or maintenance”, “fit and proper”, “health and safety” or “sports and pastimes”.  In ACT Construction Limited v Customs and Excise Commissioners [1981] 1 WLR 1542, 1546 Lord Roskill said of “repair or maintenance”,
+
+“The two words are not used in antithesis to one another. The phrase is a single composite phrase ‘repair or maintenance’ and in many cases there may well be an overlap between them.”
+
+21.  Even when the two words “plant” and “machinery” are not used in a single composite phrase, there is a considerable overlap between them.  They are both ordinary words of wide but imprecise meaning, but “plant” normally has a wider meaning than “machinery”.  In normal usage “plant” refers to a wide variety of tangible property, other than land or buildings, used as fixed assets (rather than circulating assets) of a business. That point is clearly made in the well-known definition given by Lindley LJ in Yarmouth v France (1887) 19 QBD 647, 658, in which the expression was, at first glance surprisingly, held to include a horse pulling a trolley of goods unloaded from a ship:
+
+“There is no definition of plant in [the Employers’ Liability Act 1880]: but in its ordinary sense, it includes whatever apparatus is used by a business man for carrying on his business - not his stock-in-trade which he buys or makes for sale; but all goods and chattels, fixed or moveable, live or dead, which he keeps for permanent employment in his business: see Blake v Shaw.”
+
+The vicious nature of the horse which kicked the driver, breaking his leg, was held to be a defect in the employer’s plant within the meaning of the Employers’ Liability Act 1880.
+
+22.  Blake v Shaw (1860) Johns 732 is a decision of Page-Wood V-C holding that a large stock of ready-made clothes was not included in a bequest of “plant” in the will of a wholesale clothier.  He said at p 734,
+
+“In most cases the word ‘plant’ is used to describe something which, if not in direct contrast to stock, is at any rate of an entirely different nature. All the matters permanently used for the purpose of trade, as distinguished from the fluctuating stock, are commonly included in the word ‘plant’. It consists sometimes of things which are fixed, as, for example, counters, heating, gas and other apparatus and things of that kind, and in other cases of horses, locomotives and the like, which are in this sense only fixed that they form part of a permanent establishment intended to be replaced when dead or worn out, as the case may be.”
+
+23.  This passage is useful in clarifying two different meanings of “fixed”.  Old as it is, it remains relevant today, at any rate if the reference to horses is replaced by a reference to motor vehicles of all sorts.  There is of course no question of horses, motor vehicles or locomotives coming within the scope of section 8A, but that is not because “plant” has a restricted meaning. It is because the section applies only to plant by means of which a person occupies some land, building or structure.
+
+24.  “Machinery” is also an ordinary word of wide but imprecise meaning.  Not all machinery is used for manufacturing purposes, or indeed for any business purpose, as the reference to lifts in section 8(a) reminds us.  A passenger lift in a private house or block of flats is machinery but would not normally be described as plant.   In this respect, therefore, but only in this respect, the normal meaning of “machinery” covers a larger field than the normal meaning of “plant.”  In his judgment in the Court of Appeal Cheung JA cited an instructive case from New Zealand concerned with gasometers and their ancillary pipes and mains, Auckland City Corporation v Auckland Gas Co Ltd [1919] NZLR 561, 586 (“Auckland”), in which Sim J said that “machinery”
+
+“... means primarily a number of machines taken collectively, and a machine in its popular sense is a piece of mechanism which, by means of its interrelated parts, serves to utilise or apply power, but does not include anything that is merely a reservoir or conduit, although connected with something which is without doubt a machine.”
+
+The majority of the New Zealand Court of Appeal held that each gasometer was to be regarded as machinery, because it was a sort of giant pump, but the pipes and mains were not regarded as machinery.  Only Stout CJ followed an old Massachusetts decision that an entire gasworks should be considered to be “one great integral machine”.  Each member of the Court recognised that the decision must turn not on dictionary definitions but on the context of the particular statute (see at pp 564, 583, 586-7 and 588-9).
+
+The Hong Kong Electric case
+
+25.  This appeal is not the first occasion on which this Court has had to consider the rating of a power station generating electricity.  In Hong Kong Electric Co Ltd v Commissioner of Rating and Valuation (No 2) (2011) 14 HKCFAR 579 (“Hong Kong Electric”) this court heard an appeal concerned with the rating of the power station on Lamma Island owned by Hong Kong Electric Co Ltd (“HKE”).  That appeal might have raised contentious issues about the proper treatment of plant and machinery, and the correct construction of sections 8 and 8A of the Rating Ordinance, such as have been raised in this case.  In the event the issues do not seem to have been raised, which is no doubt the reason why the case received little attention in the Court of Appeal.
+
+26.  The leading judgment was given by Lord Millett NPJ, with whom the other members of the court agreed.  Ribeiro PJ gave a separate judgment dealing with assets under construction, with which the other members of the court (including Lord Millett NPJ) agreed. Lord Millett NPJ discussed the meaning and effect of sections 8 and 8A in some detail, and his considered view, concurred in by the whole court, must carry great weight, even though it was not a contentious issue in that appeal.
+
+27.  Cheung JA did cite (and adopt) paragraph 136 of the judgment of Lord Millett NPJ, which is as follows:
+
+“Section 8 provides that, for the purpose of ascertaining the rateable value of the tenement, (a) machinery used as an “adjunct” to the tenement is to be regarded as part of the tenement, but (b) no account is to be taken of the value of any machinery in or on the tenement required for the purpose of manufacturing operations or trade processes. Section 8A provides that plant, together with land, buildings or structures occupied by means of any plant, is deemed for rating purposes to be a separate tenement. Cables, ducts, pipelines, oil tanks, and settings and support for plant or machinery fall within the definition of ‘plant’. While plant and fixed machinery both form part of the tenement, therefore, the value of such machinery used for manufacturing operations or trade processes is to be disregarded in ascertaining the rateable value of the tenement.”
+
+28.  Cheung JA did not however cite the following paragraphs, which amplify and apply the general description in paragraph 136. They also refer to the official practice of in cumulo assessment under section 10 of the Rating Ordinance.  It is useful to see how Lord Millett NPJ continued:
+
+“137. It follows that the assets employed by the Company in its undertaking are divided for rating purposes into two categories. The first consists of the rateable assets (‘RA’) being those assets which form part of the tenement and whose value is to be taken into account in ascertaining its rateable value. The second comprises those assets which do not form part of the tenement or whose value is to be disregarded in ascertaining its rateable value and are accordingly non-rateable assets (‘NRA’).
+
+138. The tenement with which the present case is concerned consists of the land, buildings and structures occupied and used on 1 April 2004 by the Company for the generation, transmission, distribution and supply of electricity on Hong Kong Island, Ap Lei Chau and Lamma Island. These comprise a large number of separate tenements but the Commissioner exercised her power to treat them as one single tenement. Such an assessment is described as an in cumulo assessment and its adoption in the present case is not controversial.
+
+139. The assets employed by the Company for the purposes of its undertaking are described at length in the decision of the Lands Tribunal. It was based upon detailed evidence which was not in dispute. On the relevant date:
+
+(a) Electricity was generated by means of eight coal fired generating units, five gas turbines and one combined cycle gas turbine installed on a 62 hectare site on Lamma Island. A 22 hectare extension to the site, consisting of reclaimed land, was under construction but not in use. While the land, buildings, structures, plant and some of the machinery are part of the tenement and rateable, the generating station houses a huge amount of machinery and apparatus which, while part of the tenement, fall to be disregarded in assessing its rateable value and are NRA. While the turbines which generate the electricity are NRA, the specially designed reinforced concrete foundations to which they are bolted are rateable. Similarly, while the boilers are NRA, they are held in place within specially designed structures which are part of the tenement and rateable. The moving parts of the coal conveyor system are NRA but the structure which supports them is part of the tenement. The switchgear and transformers are NRA but the cables which are specially designed to connect to them in order to transmit, distribute and supply the electricity are plant and form part of the tenement.
+
+(b) Electricity was transmitted at very high voltages by cables which are largely underground or in tunnels, although some are overhead supported by pylons, to 32 substations where it was stepped down for distribution. The cables comprise plant and form part of the tenement. The substation buildings are also part of the tenement but the transformers, switch gear and other apparatus which they contain are NRA.
+
+(c) Electricity was then distributed in cables to over 3,000 sub-stations where it was further stepped down to the voltages used by consumers. Most of these sub-stations were located within buildings owned and occupied by third parties. Again, the cables comprise plant and so form part of the tenement. The space within buildings where the sub-station equipment is located is also part of the tenement but the transformers, switch gear and other apparatus installed there are NRA.”
+
+29.  This analysis by Lord Millett NPJ, concurred in by the other members of the court, clearly proceeds on the basis that the items of plant specifically brought in by section 8A (“cables, ducts, pipelines” etc) were not “machinery” and so could not obtain the benefit of section 8(b). Machinery which was within the protection of section 8(b) was not deprived of that protection by section 8A merely because it might also be described as plant. The only effect of section 8A on such machinery would be to attract the deeming provision (as to being a separate tenement) in section 8A(1), but that would in practice be undone by an in cumulo assessment under the power conferred by the amended section 10.
+
+The Yiu Lian Case
+
+30.  The conclusion reached by Cheung JA, and concurred in by the other members of the Court of Appeal, differed from the view which Lord Millett NPJ expressed (I stress again, without it having been a contested issue) in Hong Kong Electric.  Cheung JA referred at some length to the case of Yiu Lian [1985] 2 HKC 517.  That was a very unusual case in that the Commissioner was seeking to charge rates on a floating dry dock which was attached to the land only by chains attached to concrete blocks on the sea bed.  In the Court of Appeal (which reversed the Lands Tribunal’s decision in favour of the Commissioner) there was a good deal of discussion about differences between rating law in Hong Kong and England, and on how far those differences depended on the different concepts of “tenement” and “hereditament”.
+
+31.  I am doubtful whether the unusual facts of Yiu Lian would have led to a different result in England.   But the case was regarded in Hong Kong as having wider implications for the rating of equipment which could not be classified as machinery, but could be classified as plant. In this way Yiu Lian contributed indirectly to the legislative changes made in 1991, but a more immediate impetus for the changes was a dispute about the rating of fibre-optic cables and ducts installed by the Hong Kong Telephone Company, which in 1990 reached a negotiated settlement with the Commissioner of an appeal commenced in 1988.  These cables and ducts formed a very extensive network, passing through public and private property, and presented a new problem as to the reach of the rating legislation.
+
+32.  All this is set out in some detail in the legislative history contained in section V (paragraphs 5.1 to 5.6) of the judgment of Cheung JA.  Section 5.1 contains an illuminating extract from a work by Mrs Mimi Brown, written in 2013 when she was Commissioner, and paragraph 5.6 contains an extract from the 1991 Legislative Council briefing paper (produced to the Court of Appeal without objection) which also explains (in its paragraphs 5 and 7) the reasons for the amendment of section 10 of the Rating Ordinance.
+
+Principles of statutory construction
+
+33.  There was little difference between counsel as to the principles of statutory construction to be applied (but a great deal of difference as to the conclusions that should be reached).  The classic statement is that of Li CJ in HKSAR v Cheung Kwun Yin (2009) 12 HKCFAR 568, paragraphs 11 to 14, of which there is a full summary in paragraph 9.1 of the judgment of the Court of Appeal.
+
+34.  Mr Yu also referred, however, to the warning against an exorbitantly purposive approach given by Lord Millett NPJ in China Field Ltd v Appeal Tribunal (Buildings) (No 2) (2009) 12 HKCFAR 342, paragraph 36:
+
+“There can be no quarrel with the principle that statutory provisions should be given a purposive construction; but there has been a distressing development by the courts which allows them to distort or even ignore the plain meaning of the text and construe the statute in whatever manner achieves a result which they consider desirable. It cannot be said too often that this is not permissible. Purposive construction means only that the statutory provisions are to be interpreted to give effect to the intention of the legislature, and that intention must be ascertained by a proper application of the interpretative process. This does not permit the Court to attribute to a statutory provision a meaning which the language of the statute, understood in the light of its context and the statutory purpose, is incapable of bearing: see HKSAR v Lam Kwong Wai (2006) 9 HKCFAR 574 per Sir Anthony Mason NPJ at paragraph 63.”
+
+35.  The general principles of statutory construction are indeed general principles which apply even in specialised fields such as taxation, rating and compulsory purchase of land.  This has a bearing on what Cheung JA (in paragraph 9.14 of his judgment) rightly called “the so-called ‘piecemeal’ principle in rating law”.   In a compulsory purchase case which was one of the last appeals heard by the House of Lords before its jurisdiction passed to the Supreme Court, Transport for London Ltd v Spirerose Ltd [2009] UKHL 44, paragraph 25, I cited (with the approval of the other members of the Committee) some observations of Kirby J in a dissenting judgment in Commissioner of Taxation v Ryan (2000) 201 CLR 109, 146:
+
+“It is hubris on the part of specialised lawyers to consider that ‘their Act’ is special and distinct from general movements in statutory construction which have been such a marked feature of our legal system in recent decades. The Act in question here is not different in this respect. It should be construed, like any other federal statute, to give effect to the ascertained purpose of the Parliament”.
+
+The principal issues in the appeal
+
+36.  When leave to appeal to this Court was granted by the Court of Appeal by an order dated 24 May 2016, the order identified six questions of great general or public importance.  The first two questions relate to section 8A and are framed as alternatives, and the third question also relates to section 8A.  The fourth question relates to the so-called ‘piecemeal’ principle.  The fifth question relates to the interaction of section 8 (and especially section 8(b)) with section 8A.  The sixth question (if it arises) relates to the issue of remission to the Lands Tribunal.
+
+37.  The first three questions can conveniently be considered together, and I think it is more logical to consider the fifth question before the fourth.  With that rearrangement, there are four principal issues in the appeal:
+
+(1) the correct construction of section 8A, and in particular its statutory purpose and its reach (that is, the extent of its application);
+
+(2) the interaction of section 8A with section 8, and especially the relieving provision in section 8(b);
+
+(3) the so-called “piecemeal” principle; and
+
+(4) the issue of remission.
+
+Those issues are considered below in that order.
+
+(1) The Construction of Section 8A
+
+38.  In paragraph 9.4 of his judgment Cheung JA identified the key issue as:
+
+“...whether section 8A is indeed a deeming provision as submitted by CLP. If it is, then, in my view, section 8A has to be discarded in its application in the present case because the disputed items which are said to be rateable are already part of CLP’s tenements and as such it is not necessary to rely on a deeming provision to bring them into the fold of tenements for rating purposes.”
+
+39.  Plainly section 8A(1) is in some sense a deeming provision.  It uses the words “shall ... be deemed for rating purposes.”  But deeming provisions are not all of a kind.  They do not all have the same force.  As Lord Radcliffe said in St Aubyn v Attorney General [1952] AC 15, 53, the expression may be “used to give a comprehensive description that includes what is obvious, what is uncertain and what is, in the ordinary sense, impossible”.  Moreover in paragraphs 9.5 and 9.9 of his judgment Cheung JA seems to me, with great respect, to have interpreted the words “whether or not such land, building or structure is otherwise a tenement” in section 8A(1) in a sense opposite to their natural meaning in this context.  The natural meaning of “otherwise”, in this context, is “in the absence of this section” or “but for this section”.  The section is to apply to any equipment which is plant by means of which any land, building or structure is occupied by a person “whether or not such land, building or structure is otherwise a tenement.  It achieves that result in two stages.  Subsection (1) deems the land, building or structure (to the extent of its being occupied by the relevant plant) to be a separate tenement, and subsection (2) provides that the plant is to be regarded as part of that separate tenement for the purposes of ascertaining its rateable value.  The word “regarded” in subsection (2) indicates a less emphatic type of deeming.
+
+40.  That is not to say that section 8A is without its difficulties.  It leaves the reader to puzzle out that “plant” has, in the context of business premises, a wider meaning than “machinery”, even though the very wide meaning given to it in Yarmouth v France (1887) 19 QBD 647 is restricted by the requirement in section 8A(1) that some land, building or structure “is occupied by means of” the item of plant in question.  The reader also has to puzzle out that although the principal and immediate legislative purpose of the amendments made in 1991 was to ensure that “plant” should cover the network of fibre-optic cables and ducts of the Hong Kong Telephone Company (cables and ducts being the first two items specified in section 8A(3)), it was also intended (in view of Yiu Lian) to apply to other ancillary equipment that was not naturally described as machinery, especially equipment used for the transmission of electrical current or substances in gaseous, liquid or solid form (that being a common feature of cables, ducts, pipelines, railway lines and tramway lines, the first five items in the list).  Sim J may have had the same approach in mind in his comment in Auckland (at p 587) “They are thus conduits and reservoirs, but nothing more.”
+
+41.  Land occupied by any of these items is to be treated as a separate tenement, partly to avoid difficulty with the long-standing principle of rating law that a tenement can have only one person at a time in rateable occupation of it.  A telephone company’s cables and ducts within (say) an office block are to be regarded as in that company’s occupation, even though the office block is occupied by others.  The same treatment can be applied to electricity cables and other equipment forming part of the distribution network of a company generating electricity.  As a matter of practical administration, however, the theoretical “separateness” of all the company’s tenements would be overridden by an in cumulo assessment under section 10.
+
+42.  Mr Yu challenged the Court of Appeal’s interpretation of section 8A both on linguistic and on contextual grounds.  In the first place he drew attention to this passage in paragraph 9.5 of the judgment of Cheung JA:
+
+“To emphasise this point, this section further provides that the land is to be deemed to be a separate tenement ‘whether or not such land, building or structure is otherwise a tenement’. Mr Yu submitted the word ‘otherwise’ is quite different from ‘not otherwise’. As will be discussed later, I disagree with this view.”
+
+43.  With great respect to Cheung JA, I cannot follow the reasoning in this passage.  The words emphasised make clear that some land, etc is to be deemed to be a separate tenement, but the wording of section 8A read as a whole also make clear that that the plant occupying that land, etc may be either plant (for instance, a fibre-optic cable in a duct) that would not otherwise be recognised as a tenement at all, or plant (for instance, a steel support for a boiler) that would otherwise be treated as part of a larger tenement.  The later discussion in paragraph 9.9 of the judgment does not to my mind take the point any further.
+
+44.  Nor did Mr Elvin provide a satisfactory answer. His written submissions state (at paragraph 23) that in the case of CLP’s power stations there is “no need to apply section 8A to deem a tenement because one already exists”, and he developed the point in his oral submissions.  But the argument ignores the “whether or not” words which Cheung JA emphasized.    No doubt there were other ways, and perhaps simpler ways, for the legislature to achieve its legislative intention, especially as the separateness of all these tenements is in practice undone by an in cumulo assessment under section 10.  But on the plain meaning of the words of the statute Mr Yu’s argument on this point must prevail.
+
+45.  In paragraphs 9.12 and 9.13 of his judgment Cheung JA referred to the judicial definition of “plant” in Yarmouth v France and observed that under it machinery comes within the definition of plant. He went on to say, without further explanation, that the Commissioner’s argument would create
+
+“... an extremely unsatisfactory situation. This will render section 8 devoid of any true meaning and impose such an absurd result that the Court should strive to avoid giving section 8A such a meaning.”
+
+He treated this as confirmation of the view that he had already expressed, that section 8A has only a limited application.  But the reasoning depends on an unexplained and questionable assumption about the relationship between section 8 and section 8A, the topic dealt with in the next section of this judgment.
+
+46.  As a footnote to the discussion of the first issue, I note that the Lands Tribunal dealt with it in paragraph 233 of their first judgment.  The Lands Tribunal did not accept the submissions of leading counsel then appearing for CLP.  I agree with their conclusion but not with all their reasoning.  In my view paragraph 233(1) overstates the differences between what section 8 is dealing with, and what section 8A is dealing with, by overlooking section 8A(2), which (like section 8) refers to ascertaining the rateable value of a tenement.
+
+(2)  The relationship of section 8 and section 8A
+
+47.  Section 8A does not expressly amend the text of section 8, which must be taken to remain in force unless and except so far as section 8A necessarily alters its effect.  Section 8A does alter the effect of section 8, but only in the rather technical way mentioned in paragraphs 40 and 41 above.  Machinery which is an adjunct to a tenement within the meaning of section 8(a) (which I shall call “adjunct machinery”) may also be plant occupying some land, building or structure within the meaning of section 8A (which I shall call “occupying plant”).  Occupying plant is by section 8A(2) to be regarded as part of the separate tenement established by the deeming provision in section 8A(1).  If the occupying plant happens to be adjunct machinery then the words “shall be regarded as part of the tenement” in section 8(a) must be displaced; the plant cannot simultaneously be a separate tenement, and part of another tenement.  But that is a technicality with little or no practical significance, since in practice the Commissioner will make an in cumulo assessment under section 10.
+
+48.  In other respects section 8 remains in full force.  In particular, the relieving provision in section 8(b) continues to apply in respect of “any machinery in or on the tenement for the purpose of manufacturing operations or trade processes.”  Section 8(b) does not say that such machinery is to be deemed not to exist, since that might have had unintended implications for the valuation of the tenement as a whole.  It simply provides that no account is to be taken of the value of the machinery.  Section 8A(2) applies “for the purpose of ascertaining the rateable value of such tenement”, but there that is no more inconsistent with the relieving provision in section 8(b) than the identical opening words of section 8.  In my view there is absolutely nothing in section 8A to produce the “extremely unsatisfactory situation” or the “absurd result” referred to in paragraph 9.13 of the judgment of Cheung JA (see paragraph 45 above).  I respectfully consider that the Court of Appeal has adopted an unnatural construction of section 8A in order to avoid a supposed problem which does not really exist.
+
+49.  The overlap created by the possibility (indeed, the strong probability) that most adjunct machinery falling within section 8(a) will also be occupying plant falling within section 8A could be avoided only by treating the inclusive definition of “plant” in section 8A(3) as limited to ancillary equipment which is not adjunct machinery falling within section 8(a), and is one of (or perhaps is of a kind with) the seven types of ancillary equipment specifically mentioned in the definition.  But it would be a strong thing to treat those specific cases, mentioned in an inclusive definition, as if they effectively constituted a full, comprehensive definition (see paragraph 19 above).  It is not necessary to go that far in order to make sense of the two sections as a whole (nor would it alter what I regard as the proper outcome of this appeal, although it might affect the outcome of other cases on different facts).
+
+(3)  The so-called ‘piecemeal’ principle
+
+50.  Mr Yu has in his written case (paragraph 37) and orally submitted that it is a rule in the law of rating that in deciding whether an item is plant, it is not permissible to have regard to its function as part of a larger whole. The authorities on which he relies for this proposition are Shell-Mex and BP Ltd v Holyoak [1959] 1 WLR 188 (“Shell-Mex”) and Manchester Marine Ltd v Duckworth [1973] 1 WLR 1431 (“Manchester Marine”).  He goes so far as to say (paragraph 38) that in the construction of section 8A of the Rating Ordinance, “the legislature should be assumed to know the law, including the aforesaid principle.”
+
+51.  In my opinion there is no such principle.  I would not of course accuse Mr Yu of hubris, but the notion that there is some sort of unwritten common law of rating known only to rating specialists must be dismissed for the reasons stated by Kirby J in Commissioner of Taxation v Ryan (paragraph 35 above).  It is not a matter of the legislature having to know the law, but of the legislature making the law.  If there were anything like the principle for which Mr Yu contends, it would be a principle derived from statute law construed in accordance with the general principles of statutory construction.  Despite their common roots, the English statute law of rating is very different, particularly in relation to machinery and plant, from the rating law of Hong Kong set out in the Rating Ordinance.
+
+52.  The process of statutory construction can be seen in several of the authorities cited to this Court.  In Auckland the Court of Appeal of New Zealand was concerned with that country’s Rating Act 1908, which exempted various categories of property including “machinery, whether fixed to the soil or not”, with no further definition.  The majority of the Court decided, on the normal meaning of the word “machinery”, that the gas mains and pipes were not exempted: see Chapman J at p585, Sim J at p587, and Hosking J at p591.
+
+53.  In contrast to the simplicity of the New Zealand law a century ago, English statute law on rating has for almost a century adopted a much more detailed and prescriptive approach to machinery and plant. This approach was first introduced by the Rating and Valuation Act 1925, followed by the Plant and Machinery (Valuation for Rating) Order 1927.  This primary and secondary legislation followed an unusual technique, which was described and commented on by the English Court of Appeal in BP Refinery (Kent) Ltd v Walker [1957] 2 QB 305 (“BP (Kent)”), a case concerned with BP’s large oil refinery at the Isle of Grain.  I am reluctant to go much further into this and later English legislation, since it is so different from the Rating Ordinance.  But in view of Mr Yu’s reliance on Shell-Mex and Manchester Marine I feel obliged to do so.
+
+54.  The 1925 Act contained a Third Schedule, incorporated into the Act by section 24(1), which set out four classes of plant or machinery, described in some technical detail, which were to be treated as part of the rateable hereditament, though with an exception for machinery or plant “for the purpose of manufacturing or trade processes” (the same wording as is used in section 8(b) of the Rating Ordinance).  However (and this is the unusual legislative technique) section 24(3) was in these terms:
+
+“For the purpose of enabling all persons concerned to have precise information as to what machinery and plant falls within the classes in the said Third Schedule, there shall be constituted a committee of five persons to be appointed by the Minister...”
+
+The committee of experts were to advise the Minister in even more detail about the contents of the Third Schedule, and the Minister had power to reproduce their advice, with or without modification, in a statutory instrument.  That was the origin of the 1927 Order.
+
+55.  As Lord Evershed MR dryly remarked in BP (Kent) at p315, the parliamentary intention was undoubtedly laudable, but the hope of achieving precise certainty was somewhat over-sanguine.  In fact one of the issues in the case was whether the 1927 Order was ultra vires. Nevertheless the same technique, with some modifications, has been used in a succession of later English statutes, including the General Rate Act 1967 (section 21 and the Third Schedule) and the Plant and Machinery (Rating) Order 1960.  The distinction drawn in paragraph 39.1 of Mr Yu’s written case is therefore mistaken, but the mistake is understandable since Lord Denning MR’s unreserved judgment in Manchester Marine refers only to section 21.
+
+56.  Shell-Mex was a borderline case on relatively simple facts.  It was concerned with the rating of a newly-built filling station, which had underground tanks for the storage of petrol.  There were four 3000-gallon cylindrical metal tanks, each weighing about two tons when empty.  For safety reasons they were housed in rectangular concrete and brick silos, with the space between the silo walls and the tanks filled with a special type of sand.  Under the 1925 Act and the 1927 Order this facility was to be treated as part of the rateable hereditament only if it met the two-part test of (a) being a “tank” (which was not in dispute) and (b) being within the words “is, or is in the nature of, a building or structure” (this was the essential issue).  The borderline nature of the point is apparent from the course of the litigation.  The Lands Tribunal decided in favour of the ratepayer.  The Court of Appeal unanimously reversed that decision.  The House of Lords, by a bare majority of three to two, restored the decision of the Lands Tribunal.
+
+57.  All three law lords in the majority treated the issue as a short (though difficult) question of fact. For instance Viscount Simonds said, at p 193, “... it is not a case of that which was a tank being turned into a structure but of that which was a tank remaining a tank and being housed in a structure made for that purpose.”  So the structure of the silo was rateable but the metal cylinder was not.  The only point of law in the case was the House's disapproval of a test depending on the notion of a “functional entity,” which had been used as a test in earlier cases, and also alternatively the notion of a “physical entity”.  Viscount Simonds referred to the latter test, at p 194, as “obscurum per obscurius,” (the obscure through the more obscure), a Latin phrase which is a shorthand way of describing the futility of trying to explain or define an obscure concept by the use of even more obscure language. Lord Reid, at p199, did say that “the purpose of this legislation is to split up for rating purposes installations which are for practical purposes indivisible,” but I do not read that as laying down any general principle of the need for a “piecemeal” approach.  It was his conclusion as to how the detailed provisions of the 1925 Act and the 1927 Order should be applied to the facts of the particular case. 
+
+58.  In Manchester Marine Lord Denning MR did, in an unreserved judgment, express himself in wide general terms, as he was sometimes inclined to do.  At p1435 he said, “Rating law is different from revenue law”, which is a surprisingly broad proposition, not least because rating law can be seen as a branch of revenue law.  On the same page he cited the passage from Lord Reid that I have already mentioned, and said that it is legitimate in rating cases to consider the subject piecemeal and to split it up in a way that is not permissible in revenue cases.  That is so, but the reason is not because of some quasi-constitutional principle about construing statutes dealing with different fields of law (the strict construction of penal statutes and statutes restricting civil liberties does, by way of contrast, have a constitutional basis: Gurung Kesh Bahadur v Director of Immigration(2002) 5 HKCFAR 480, para 24).  The reason is simply that the English rating legislation contains very detailed provisions set out in statutory instruments, whereas the English law on capital allowances for purposes of income tax (or now corporation tax) refers to plant and machinery without further explanation or elaboration (as does the Hong Kong legislation concerned with profits tax: see Inland Revenue Ordinance, Cap 112, sections 36A to 39E).
+
+59.  For these reasons Cheung JA was right to refer to the supposed principle as “so-called”.  What is needed is reliance on the ordinary general principles of statutory construction.  In my view they lead irresistibly to the conclusions set out in the earlier sections of this judgment. 
+
+(4)  The issue of remission
+
+60.  The Court of Appeal directed that the Lands Tribunal’s judgment of 24 April 2013 and 3 January 2014 shall be remitted to the Lands Tribunal for consideration of three categories of equipment, referred to as “the disputed items”.  These were the items referred to in paragraph 11 above, but (as explained in that paragraph) there is an issue as to whether the disputed items include the supporting steelwork for the boilers at BPPS.  That issue should not have been left unacknowledged and unresolved until the close of argument in this Court.
+
+61.  I shall first consider items of equipment agreed to be disputed items.  CLP had not asked the Court of Appeal to remit the matter to the Lands Tribunal.  CLP’s case before the Court of Appeal was that section 8A did not, as a matter of law, apply to any equipment on any land, building or structure which was already (that is, apart from section 8A) a rateable tenement.  It accepted, as Mr Elvin has confirmed to us, that the disputed items did come within the definition of “plant” in section 8A(3).  The Court of Appeal recognised (para 9.35 of the judgment of Cheung JA) that there are serious practical difficulties about a remission, a full seven years after the beginning of the first Lands Tribunal hearing.
+
+62.  As already mentioned (paragraph 8 above) the Lands Tribunal made a finding that the hypothetical landlord’s assets and the hypothetical tenant’s non-rateable assets “had been designed and built as an integrated system”.  But the same was no doubt true of the gasworks in Auckland, the petrol tanks and their silos in Shell-Mex, and the dry dock in Manchester Marine.  Moreover this discussion was in the different context of “interdependency” and the relative bargaining positions of the hypothetical landlord and tenant. It was not expert evidence as to whether all or any of the disputed items were “machinery” falling within section 8(b), as the question- begging reference to non-rateable assets indicates.
+
+63.  If expert evidence on that point was required, it was for CLP, rather than for the Commissioner, to adduce it.  But I doubt whether much if any expert evidence about the disputed items was required.  Supporting steelwork for boilers falls squarely within the definition in section 8A(3) and cannot reasonably be described as a machine, or part of a machine, even though the steelwork was carefully designed to be suitable for the boilers.  The same is true of the ancillary pipework and electrical cables.
+
+64.  As to the water-cooling systems at CPPS B and BPPS, the Lands Tribunal held (paragraph 234) that they fall within the definition of “plant”, and the fact that they are (as was said by Mr Jupp, one of CLP’s experts) designed to suit the capacity of the steam turbines does not make them part of the steam turbines.  It appears from Mr Jupp’s report, mentioned in paragraph 9.30 of the judgment of Cheung JA, that each system includes a pump house with a pump extracting water from the sea.  The pumps are no doubt machines, but the Order of the Court of Appeal (paragraph 2(2)) indicates that the pump houses are not treated as part of the systems.  In any event, the water-cooling systems as a whole cannot be regarded as a machine, or part of a machine, falling within section 8(b).
+
+65.  Apart from the issue of the supporting steelwork at BPPS, therefore, I would not make a remission to the Lands Tribunal.  It is unfortunate that because of their construction of sections 8 and 8A (see paragraph 46 above) the Lands Tribunal did not make clear, specific findings on these points.  But the answers are clear and in all the circumstances a remission would not be appropriate.
+
+66.  It remains to consider the supporting steelwork at BPPS.  I have already described how the issue was left unresolved before the Lands Tribunal, even on review.  The matter came before the Court of Appeal under an order (at A6 of the Record) which refers in general terms to “non-rateable machinery”.  CLP’s notice of appeal (at A8 of the Record) refers to paragraph 227 of the Lands Tribunal’s first judgment without drawing attention to any special problem about steelwork at BPPS.  The Commissioner’s respondent’s notice (at A9 of the Record) refers to (inter alia) “the boiler supporting steelwork at CPPS ‘B’ and BPPS.”
+
+67.  It is correct (as stated in a letter dated 3 March 2017 from CLP’s solicitors) that CLP’s skeleton argument in the Court of Appeal (at B5 of the Record, and apparently objected to by CLP) referred in paragraph 3(1) only to “the integral supporting steelwork from which the boilers hang at Castle Point (sic) Power Station B” and footnote 2 stated that “the Commissioner has not contested that at BPPS, the heat recovery boilers and their supporting steelwork are all non-rateable.”  (This sentence is misquoted in the solicitors’ letter of 3 March 2017, possibly through confusion of “contested” and “contended”.)  But this assertion was directly challenged in paragraph 1 and footnote 1 of the Commissioner’s skeleton argument (not included in the Record, but annexed to a letter dated 3 March 2017 from the Department of Justice).
+
+68.  Despite this direct conflict between the parties’ skeleton arguments, the Court of Appeal appears to have been unware that the identification of the disputed items was itself a contentious issue. Paragraph 1.2 of the judgment (although purporting to set out the Commissioner’s view) seems to have been taken word for word from CLP’s skeleton argument.  The difference between the parties on this point is not mentioned in paragraph 1, paragraphs 9.30 to 9.32, or elsewhere in the judgment.
+
+69.  The solicitors’ letter of 3 March 2017 raises various points of fact about coal-fired and gas-fired boilers.  There are no findings of fact about these points in either of the Lands Tribunal’s judgments and it is not appropriate for this Court to enquire into them now, not least because the reference year 2004-5 is now so long ago.  Moreover, the Court of Appeal’s order at A10 of the Record, drafted (as the Court has been informed in the Department of Justice’s letter of 3 March 2017) by CLP’s solicitors without reference to the Commissioner, does not set aside or direct remitter of the Lands Tribunal’s judgment so far as it affects the structural steelwork at BPPS.  The judgment of the Lands Tribunal on that issue has remained in force throughout.  The right course is for this Court to leave it in force.
+
+70.  I would therefore allow this appeal and make an order nisi for CLP to pay the Commissioner’s costs of this appeal.  Any submissions as to costs or as to the form of the order should be made in writing to be served and lodged with the Registrar within 21 days after the handing down of this judgment, and any submissions in reply should be made in writing, to be served and lodged within 14 days afterwards.  In the absence of any submissions as to costs, the order nisi will become absolute.
+
+  
+
+Chief Justice Ma:
+
+71.  For the reasons contained in the judgment of Lord Walker of Gestingthorpe NPJ, this appeal is allowed.  The orders as to costs and the form of the formal order are as set out in paragraph 70 above.
+
+ 
+
+ 
+
+(Geoffrey Ma)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Robert Tang)
+Permanent Judge
+ 
+
+ 
+
+(Joseph Fok)	(Lord Walker of Gestingthorpe)
+Permanent Judge	Non-Permanent Judge
+ 
+
+Mr Benjamin Yu SC and Ms Yvonne Cheng SC, instructed by the Department of Justice, for the Appellant
+
+Mr David Elvin QC and Mr John Litton, instructed by Holman Fenwick Willan, for the Respondent
+
+ 

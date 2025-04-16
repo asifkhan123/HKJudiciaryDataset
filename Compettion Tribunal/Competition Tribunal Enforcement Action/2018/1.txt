@@ -1,0 +1,1119 @@
+CTEA 1/2018
+
+[2020] HKCT 3
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ENFORCEMENT ACTION NO 1 OF 2018
+
+________________
+
+BETWEEN	 	 
+ 	COMPETITION COMMISSION	Applicant
+and
+
+ 	KAM KWONG ENGINEERING COMPANY LTD	1st Respondent
+ 	(金光工程有限公司)	 
+ 	GOLDFIELD N&W CONSTRUCTION	2nd Respondent
+ 	COMPANY LTD (聯合金輝建築工程有限公司)	 
+ 	PACIFIC VIEW ENGINEERING LTD	3rd Respondent
+ 	(豪景工程有限公司)	 
+ 	CHAN KAM SHUI (陳金水)	4th Respondent
+ 	LAM PO WONG (林保旺)	5th Respondent
+________________
+
+Before:	Hon Harris J in Chambers
+Dates of Hearing:	3 June 2020
+Date of Decision:	3 June 2020
+Date of Reasons for Decision:	17 July 2020
+ 
+
+__________________________________
+
+R E A S O N S  F O R  D E C I S I O N
+
+__________________________________
+
+The application
+
+1.  By Consent Summonses dated 6 August 2019 (“Consent Summonses”), the Commission and (i) 1st Respondent and 4th Respondent, and (ii) 2nd Respondent respectively, jointly apply for the Tribunal’s approval to dispose of the proceedings between them by consent under r 39 of the Tribunal’s Rules (Cap 619D, “Rules”).  Each of the Consent Summonses was enclosed with a Statement of Agreed Facts in accordance with [72] of Practice Direction No 1 of the Tribunal (“CTPD1”), (“Agreed Statements”).  The Statements of Facts are appended to these Reasons.  These proceedings were commenced against 1st Respondent to 5th Respondent in respect of (i) an alleged contravention of the First Conduct Rule (“FCR”) pursuant to s 6 of the Competition Ordinance, Cap 619, “Ordinance” by 1st Respondent to 3rd Respondent; and (ii) the “involvement” of 4th Respondent and 5th Respondent in the alleged contravention for the purposes of s 91 of the Ordinance.
+
+2.  The substantive part of the proposed orders sought in the Consent Summonses include the following.  In the case of the 2nd Respondent it was agreed that “There be a declaration that the 2nd Respondent had contravened the First Conduct Rule”.  In the case of the 1st Respondent that “There be a declaration that the 1st Respondent has contravened the First Conduct Rule”.  In the case of the 4th Respondent that “There be a declaration that the 4th Respondent was involved in the contravention of the First Conduct Rule for the purpose of s 91 of the Competition Ordinance, Cap 619”.
+
+3.  This was the first application received by the Tribunal for the disposal of the proceedings against respondents by consent. As the orders that were sought included declarations (financial penalties are also sought) I wrote on 14 August 2019 expressing concern over granting declarations by consent as the court generally does not do so.  I directed that a case management conference should take place on 12 September 2019 at which the court and parties could consider how the matter should proceed.  Having considered the matter further after the case management conference the Commission concluded that the appropriate way to proceed was by the parties adopting what is known in the context of directors’ disqualification proceedings under the Companies Ordinance, Cap 622, and the Securities and Futures Ordinance (“SFO”), Cap 576, as the Carecraft procedure, which has its origins in the case of Re Carecraft Construction Co Ltd [1].  The 1st, 2nd and 4th Respondents agree that this is the correct way to dispose of the proceedings against them.  Having had the opportunity to read counsels’ submissions I agree that this is the correct way to dispose of the proceedings against the relevant Respondents.  I give my reasons for reaching this decision in [5]–[18].
+
+4.  The 3rd and 5th Respondents are not parties to the agreement.  The trial of the case against them is fixed to take place before me commencing on 15 September 2020.  Counsel for the 3rd and 5th Respondents filed submissions for the purposes of the joint application of the Commission and the 1st, 2nd and 4th Respondents.  Those submissions focused on the impact of the proposed disposal of the proceedings against of the 1st, 2nd and 4th Respondents by the Carecraft procedure, or something similar[2], on the conduct of the proceedings against the 3rd and 5th Respondents.
+
+5.  I indicated at the beginning of the hearing that having read counsels’ submissions I was satisfied that the proceedings against the 1st, 2nd and 4th Respondents could be disposed of by adopting the Carecraft procedure.  The only issue that required further consideration was what, if any, impact either the Commission or the 3rd and 5th Respondents wished to argue a Carecraft order had on the proceedings against the 3rd and 5th Respondents, and, in particular, what changes or additions needed to be made to the directions for the trial contained in my order dated 12 September 2019.  Mr Ngai, on behalf of the 3rd and 5th Respondents, told me that his clients did not suggest any changes need be made.  That being the case in this decision it is only necessary for me to deal with the Carecraft procedure and why it is a permissible procedure for disposing of the proceedings under the Ordinance and the application of the Carecraft procedure in the present case.
+
+Juridical basis for adopting the Carecraft Procedure
+
+6.  Judgment and orders by consent of the parties were envisaged by the drafter of the Rules.  Rule 39(1) of the Competition Tribunal Rules, Cap 619D (“Rules”) provides that if the parties have agreed on the terms of an order to be made by the Tribunal in any proceedings under, amongst other parts, Part 4 of the Rules, (i.e. enforcement proceedings before the Tribunal under Part 6 of the Ordinance, including ss 92–94 & 101), the agreed terms, signed by or on behalf of the parties, must be sent to the Tribunal for approval.  The Tribunal may make an order under r 39(2) with or without a hearing having regard to the agreed terms and any information submitted by parties in support of the terms.
+
+7.  Rule 39(4) adopts Order 42 of the Rules of the High Court, Cap 4A, for proceedings under Part 4 of the Rules, but Order 42 Rule 5A, which deals with consent judgment and orders, was expressly excluded.  To give further guidance on the operation of the Rules, the Chief Justice has prescribed CTPD1, which provides, inter alia, that:
+
+“72. One of the underlying objectives of the procedure of the Tribunal is to facilitate the settlement of disputes… Where the Ordinance provides the Tribunal may, upon being satisfied of certain facts, exercise a power, such as the imposition of a pecuniary penalty under s. 93 or other orders under s. 94, an application for such an order by consent should be accompanied by a statement of agreed facts on the basis of which the Tribunal is asked to make the order in question.”
+
+8.  The above requirement of a statement of agreed facts in r 72 of the CTPD1 supports the adoption of the Carecraft Procedure for the Tribunal expeditiously to dispose of enforcement proceedings against respondents who admit liability.
+
+Justifications in policy and practice
+
+9.  In Carecraft,the English Court adopted the Carecraft procedure in the context of an application by the Official Receiver in the UK for an order to disqualify certain respondents as directors under the Company Directors Disqualification Act 1986 (“1986 Act”). Both the Official Receiver and the respondents proposed that the court determines the period of disqualification on the basis only of those factual matters set out in a schedule of agreed facts in order to dispense with a full trial of all factual allegations raised by the Official Receiver.  The court was requested to decide if such procedure was allowable in light of the express requirement under the 1986 Act that, as a prerequisite for a disqualification order, the court must be satisfied that the conduct of the respondents in relation to a company or companies makes him unfit to be concerned in the management of a company.
+
+10.  The court in Carecraft took the view that pragmatically it would be unrealistic for the court to disregard any admission which one party may make in respect of factual contentions advanced by the opposite party [3]. It concluded that the court did have jurisdiction under the 1986 Act to proceed as proposed by the parties.  In arriving at this conclusion, the court took into account the following factors.  It was observed that there was no jurisdiction “in which any court has held that there must be a full trial of all relevant issues, regardless of any agreement or admission of material facts”[4].  The court drew an analogy with competition cases [5], referring in particular to in Re Net Book Agreement, 1957 (No 2) [6], in which the parties invited the court to proceed on the basis of a short affidavit in support of a statement of case the deponent to which would not be cross-examined.  Further, analogies were also drawn with criminal cases where the accused elects to plead guilty [7].  In these situations, the court could make a finding as to criminality and proceed straight to sentencing on the basis of an agreed summary of facts, provided the court is satisfied that the facts contained in the summary amount to the criminal offence as charged and upon which the guilty plea has been entered [8].
+
+11.  Subsequent authorities have clarified further the nature of the Carecraft procedure.  Essentially, it can, without the judge’s consent, limit the facts(by way of a statement of agreed facts) on which the judge can base his judgment as to the order that should be made, but the decision whether a disqualification order should be made, and if so for what period, remains for the judge: Secretary of State for Trade and Industry v Rogers [9] per Scott VC.  In practice, the Procedure enables the expeditious disposal of proceedings and avoids the substantial costs that would otherwise be incurred if there is a trial.  As observed in Rogers [10], it would be a very rare case where the Carecraft Procedure is used and the court entertains any doubts as to whether the order sought should be made.  That in my experience has proved to be the case in Hong Kong.
+
+12.  In the present context, the Ordinance is similar to the 1986 Act with which Carecraft was concerned.  The Ordinance reserves the decision as to whether there was a contravention of a competition rule, and if so what sanctions are to be imposed, to the Tribunal. Both ss 93 and 94 of the Ordinance expressly provide that the Tribunal can impose those sanctions thereunder “(i)f the Tribunal is satisfied… that a person has contravened or been involved in a contravention of a competition rule”.
+
+13.  In my view the justifications for the adoption of the Carecraft procedure in the context of director’s disqualification apply equally in proceedings under the Ordinance.  Support for this conclusion is provided by [72] of CTPD1 that “One of the underlying objectives of the procedure of the Tribunal is to facilitate the settlement of disputes”.  I also note that s 101 of the Ordinance provides for disqualification orders, as one of the sanctions available to the Tribunal upon the finding of contravention of a competition rule by a company.  Such relief is sought in the present case against 4th Respondent.  The fact that the Carecraft proceeding is accepted as a permissible method for disposing of applications for disqualification of directors in the context of the regulation of companies and securities, suggests its use should be permissible in disposing of proceedings under the Ordinance.
+
+14.  The public interest in favour of settlements in competition law cases is also well recognised in European jurisprudence.  In the UK, this was recently highlighted by Lord Sumption JSC in R (Gallaher Group Ltd) v Competition and Markets Authority [11]:
+
+“Cartel investigations are notoriously difficult without inside information or the active cooperation of at least one participant and are not necessarily straightforward even then. Early Resolution Agreements are a standard tool at the disposal of competition authorities for settling them by consent at an early stage after the investigation has been notified to those under investigation. A party under investigation is offered the prospect of settling the allegation on the basis of a negotiated admission and a discount on the penalty which would otherwise have been imposed. Properly used, they enable an investigation to be conducted expeditiously, economically and fairly and are in principle in the public interest”
+
+15.  Similarly, the General Court of the European Court of Justice (“General Court”) has remarked in Timab Industries and CFPR v Commission [12] that the aim of the European Commission’s cartel settlement procedure is to “simplify and speed up administrative procedures and to reduce the number of cases brought before the EU judicature, and thus to enable the Commission to handle more cases with the same resources”.  Whilst the enforcement mechanisms under UK and EU competition laws are materially different from that in Hong Kong [13], the policy as espoused in the above judicial decisions are self-evidently sensible and in my view of general applicability in Hong Kong.
+
+16.  The enforcement mechanism under the Australian regime is similar to the one in Hong Kong.  The power to impose sanctions is vested primarily in the courts.  The Australian courts have developed the following principles when considering whether to make consent orders in the settlement of cases under the Competition and Consumer Act 2010 for admitted contraventions of consumer laws (see Australian Competition and Consumer Commission (“ACCC”) v Coles Supermarkets Australia Pty Ltd) [14]:
+
+(1)     There is a public interest in the settlement of cases under the Act.  The burden of lengthy litigation on public and private resources will be reduced or avoided when respondents acknowledge contraventions.
+
+(2)     The orders proposed must at least be consistent with the public interest.
+
+(3)     The court must be satisfied that it has the power to make the orders proposed and that the orders are appropriate.
+
+(4)     Once the court is satisfied that the orders are within its power and appropriate, it should exercise a degree of restraint when scrutinising the proposed settlement terms, particularly where both parties are legally represented and are able to evaluate the desirability of the settlement.
+
+(5)     In deciding whether agreed orders conform with legal principle, the court is entitled to treat the consent of the respondent as an admission of all facts necessary to the granting of the relief sought against it.
+
+(6)     The above propositions have been held to be equally applicable in relation to declarations sought by consent: see ACCC v Econovite Pty Ltd [15] per French J.
+
+17.  In my view the benefits of providing a mechanism, which facilitates agreements between the Commission and respondents, who concede that they have contravened the Ordinance are overwhelming.  The authorities to which I have referred demonstrate that this is the view of courts in other jurisdictions with substantive and procedural legal systems similar to Hong Kong, including specifically in the area of competition law. The Carecraft procedure provides a mechanism developed in comparable contexts to competition law.  In my view it provides a readymade blueprint for disposing of proceedings under the Ordinance, which I agree with the parties can be adopted to dispose of the proceedings against the 1st, 2nd and 4th Respondents.
+
+Judgment for liability and relief against 1st Respondent, 2nd Respondent and 4th Respondent
+
+18.  In gist, the basis of the contravention of the FCR by the 1st Respondent and 2nd Respondent, as set out in the Agreed Statements, is that during the appointment of the 1st Respondent, 2nd Respondent and 3rd Respondent as decoration contractors at King Tai Court, San Po Kong, Kowloon (“Estate”) between 16 June and 7 November 2017 (“Relevant Period”), their representatives (including the 4th Respondent as director of the 1st Respondent) had (i) agreed to allocate potential customers between themselves (“Allocation Agreement”) by reference to mutually exclusive floors/units of the Estate (“Agreed Allocation”); and (ii) engaged in a concerted practice of exchanging and coordinating the content and price of standard decoration packages on offer (“Pricing Coordination Agreement”).
+
+19.  I accept that the facts as set out in the Agreed Statements establish contraventions of the FCR by 1st Respondent and 2nd Respondent and the involvement of 4th Respondent in such contraventions.  The conduct in question namely, market sharing and price fixing, are classic breaches of the FCR.
+
+Relevant legal principles
+
+20.  The FCR is defined in s 6 of the Ordinance:
+
+“(1) An undertaking must not—
+
+(a) make or give effect to an agreement;
+
+(b) engage in a concerted practice; or
+
+…
+
+if the object or effect of the agreement, concerted practice… is to prevent, restrict or distort competition in Hong Kong.
+
+(2) Unless the context otherwise requires, a provision of this Ordinance which is expressed to apply to, or in relation to, an agreement is to be read as applying equally to, or in relation to, a concerted practice… (but with any necessary modifications).
+
+(3) The prohibition imposed by subsection (1) is referred to in this Ordinance as the ‘first conduct rule’.”
+
+21.  The FCR targets the actions of “undertakings”, which is defined in s 2 of the Ordinance to mean “any entity, regardless of its legal status or the way in which it is financed, engaged in economic activity, and includes a natural person engaged in economic activity”. In the situation where sub-contractors are engaged, such as 2nd Respondent’s engaging of a sub-contractor to carry out decoration works during the Relevant Period, it is necessary in defining “undertaking” to consider (i) the relevant economic activity that was engaged in; (ii) the entity engaged in that activity; and (iii) what persons are comprised in that entity [16]: W Hing Construction [17].
+
+22.  An “agreement”, as defined in s 2(1), “includes any agreement, arrangement, understanding, promise or undertaking, whether express or implied, written or oral, and whether or not enforceable or intended to be enforceable by legal proceedings”.  Its central component is a meeting of minds or concurrence of wills between at least two parties, regardless of form.  For the purpose of the FCR, an agreement does not require the same certainty as would be necessary for the creation of a legally enforceable contract: Competition Tribunal v Nutanix Hong Kong Ltd [18] per G Lam J.
+
+23.  Whilst “concerted practice” is not defined in the Ordinance, the Tribunal has accepted the meaning developed in EU jurisprudence, namely “a form of coordination between undertakings by which, without it having been taken to the stage where an agreement properly so-called has been conclude, practical cooperation between them is knowingly substituted for the risks of competition”: Nutanix [19], referring to the line of EU case law starting with Imperial Chemical Industries v Commission [20].  This implies reciprocal contact (direct or indirect) between the undertakings in question, which occurs where one competitor discloses its future intentions or conduct on the market to another when the latter requests it or, at the very least, accepts it: Nutanix [21].
+
+24.  The distinction between agreements and concerted practices is simply a difference in focus and emphasis; they are intended to catch forms of collusion having the same nature which are distinguishable from each other only by their intensity and the forms in which they manifest themselves: Nutanix [22].
+
+Contravention of the FCR by “object”
+
+25.  The FCR prohibits any agreement that has an anti-competitive “object” or “effect”.  The two elements are disjunctive: W Hing Construction [23]. In the present case, given that the Commission is only relying on the “object” limb, it is unnecessary to investigate the effects of the Allocation Agreement and the Pricing Coordination Agreement.
+
+26.  Section 7 of the Ordinance supplements s 6 in relation to “object” by providing that (i) for an agreement with more than one object, it is sufficient if one of its objects is to restrict competition; and (ii) the object of restriction of competition may be found even if it can be ascertained only by inference.  The following principles are relevant to determining a contravention of the FCR by object: see W Hing Construction [24]:
+
+(1)     The essential legal criterion for ascertaining whether certain coordination between undertakings involves a restriction of competition by object is the finding that such coordination reveals in itself a sufficient degree of harm to competition.
+
+(2)     With respect to an agreement, regard must be had to its content, its objectives, and the economic and legal context of which it forms part.
+
+(3)     When determining that context, it is also necessary to consider the nature of the goods or services affected, as well as the real conditions of the functioning and structure of the market in question.
+
+(4)     Although the parties’ intention is not a necessary factor in determining whether an agreement between undertakings is restrictive, there is nothing to prevent that factor from being taken into account.
+
+27.  In this regard, the concept of infringement by object is narrowly interpreted because it permits undertakings to be sanctioned without examination of the effects of collusion.  Price-fixing and market sharing agreements are generally regarded as paradigmatic cases since they are horizontal pacts which directly exclude competition in respect of significant parameters in their operation by reducing customer choice and insulating the suppliers from rivalry amongst themselves: see W Hing Construction [25].
+
+Serious anti-competitive conduct
+
+28.  “Serious anti-competitive conduct”is defined in s 2(1) of the Ordinance to include:
+
+“(a) fixing, maintaining, increasing or controlling the price for the supply of goods or services;
+
+(b) allocating sales, territories, customers or markets for the production or supply of goods or services.”
+
+29.  If “serious anti-competitive conduct” is established:
+
+(1)     the exemption of the application of the FCR from contravening undertakings with less than a combined turnover of HK$200,000,000 during the turnover period will be disapplied: see s 30, and s 5(1) & (2) of Schedule 1 of the Ordinance;
+
+(2)     the requirement under s 82 of the Ordinance for the Commission to issue a warning notice before bringing enforcement proceedings does not apply; and
+
+(3)     the Commission may, instead of bringing proceedings in the Tribunal in the first instance, issue an infringement notice to the person concerned under s 67 of the Ordinance.
+
+Involvement in and attribution for contravention of the FCR
+
+30.  With regards to the 4th Respondent’s “involvement” in the contraventions of the FCR, s 91 of the Ordinance provides:
+
+“A reference in this Part to a person being involved in a contravention of a competition rule means a person who—
+
+…
+
+(b) aids, abets, counsels or procures any other person to contravene the rules;
+
+…
+
+(d) is in any way, directly or indirectly, knowingly concerned in or a party to the contravention of the rule; or”
+
+31.  In relation to the above provisions:
+
+(1)     As noted in Nutanix [26], s 91 of the Ordinance is couched in language familiar in the criminal law, and its ultimate source is the Australian Crime Act 1914 (Cth).
+
+(2)     In the criminal context, the words “aid and abet” are apt to describe the actions of a person who was present at the time of the commission of the offence and takes part in it: Ferguson v Weaving [27] per Lord Goddard CJ.  On the other hand, “counsel and procure” covers an accessory’s acts prior to the commission of the offence.  The difference between the two being that the latter requires proof of a causal link between the procurer’s conduct and the offence (R v For Kau [28]) whereas the former does not (R v Calhaem [29] per Parker LJ).
+
+(3)     The above provisions concern accessorial liability, which presupposes the existence of a contravention: Nutanix [30].  Thus, if an undertaking is not liable because an employee’s acts are not attributed to it, then equally the employee cannot be held liable for involvement.
+
+32.  In terms of attribution for the purpose of the FCR, undertakings ought to be liable for the acts of their employees in the course of their employment, provided that there is a sufficient connection between the acts of the employee and the undertaking so that the former can properly be regarded as part of the latter in the relevant context [31]: see Nutanix [32].
+
+The undisputed contravention of FCR in the present case
+
+33.  Given the facts set out in the Agreed Statements, I accept that there were clear contraventions of the FCR by 1st Respondent and 2nd Respondent with the involvement of 4th Respondent:
+
+(1)     By virtue of the Allocation Agreement and/or the Pricing Coordination Agreement, 1st Respondent and 2nd Respondent made and gave effect to an agreement and/or engaged in a concerted practice with the object of preventing, restricting or distorting competition in Hong Kong in contravention of the FCR during the Relevant Period.
+
+(2)     By his conduct, 4th Respondent was “involved” in the contravention within the meaning of s 91 of the Ordinance in that he had (i) aided, abetted, counseled or procured and (ii) been knowingly concerned in the contravention.
+
+(3)     The Allocation Agreement and the Pricing Coordination were, whether individually or in combination, serious anti-competitive conduct, and therefore the threshold of HK$200,000,000 combined turnovers as provided under paragraph 5(1) of Schedule 1 of the Ordinance does not apply.
+
+Relief at the present stage
+
+34.  As I explained in [1] the Consent Summonses, the Commission, 1st Respondent, 2nd Respondent and 4th Respondent jointly propose:
+
+(1)     judgment for liability to be entered against 1st Respondent, 2nd Respondent and 4th Respondent;
+
+(2)     a declaration that 1st Respondent and 2nd Respondent have contravened the FCR and 4th Respondent was involved in such contravention;
+
+(3)     adjournment of the proceeding to a further hearing for the determination of other relief sought by the Commission in the Originating Notice of Application; and
+
+(4)     costs of the proceedings and the Consent Summonses be to the Commission.
+
+35.  The reason for dividing the disposal of the proceedings against the 1st Respondent, 2nd Respondent and 4th Respondent into two stages is a practical one.  The law and principles in relation to the grant of penalties and sanctions under ss 93 and 94 of the Ordinance are still in the “embryonic” stages of development given the novelty of the Ordinance in Hong Kong.  Overseas leading counsel was instructed in W Hing Construction [33] to make submissions to the Tribunal in respect of, amongst other things, the applicable principles in relation to penalties in European jurisdictions.  The decision was only handed down on 29 April 2020 [34] and the parties have not had the opportunity to consider it thoroughly and attempt to agree in the light of it what financial penalties might be appropriate.  However, there is no dispute that judgment should be entered now and the agreed declarations made.  The declarations sought in the consent summonses are intended to crystalise the liability of the 1st Respondent, 2nd Respondent and 4th Respondent thus establishing the Tribunal’s jurisdiction under ss 93, 94 and 101 of the Ordinance.  The consequential orders for penalties will be considered at a hearing which I have fixed for 7 August 2020.
+
+36.  Whether declarations are to be granted under the Carecraft procedure will have general implications upon all proceedings before the Tribunal.  Schedule 3 of the Ordinance expressly provides that the Tribunal may, with respect to a contravention of the competition rules, make a declaration that a person has contravened a competition rule.  Since the Tribunal has the same jurisdiction to grant remedies and relief as the Court of First Instance by virtue of s 142(2) of the Ordinance, the principles governing the court’s discretionary power to grant declarations applies equally to the Tribunal.
+
+37.  Although the courts will not as a general rule grant a declaration in the absence of an opportunity to investigate evidence and hear argument because it wants to be sure that it is appropriate to grant such relief, the rule is one of practice only and not of law: Hong Kong Civil Procedure 2020 Vol 1 [35]; Zamir & Woolf, The Declaratory Judgment [36].  There is no limit to the court’s jurisdiction to make a declaration defining the legal rights of the parties, except such limit as it may in its discretion impose upon itself: Hanson v Radcliffe Urban District Council [37] per Lord Sterndale MR; Barnard v National Dock Labour Board [38] per Denning LJ.
+
+38.  With respect to the court’s discretion, it is trite that the applicant must satisfy three requirements before a declaration will be made: (i) that he has a real (as opposed to an abstract or hypothetical) interest in the subject matter of the declaration; (ii) that he has a real interest in obtaining a declaration against the adverse party; and (iii) that the adverse party is a proper contradictor: see Koo Ming Kown v Rev Mr Mok Kong Ting & Ors [39] per DHCJ To.  In this regard, the question of whether or not any practical purpose would be served by granting declaratory relief is of prime importance in determining how the court’s discretion should be exercised: Surani Varsha Bhupendra v KBC Bank [40]per Ng J.  In the context of the court’s power to grant declarations founding jurisdiction to grant relief under s 213 of the SFO, Lord Hoffmann NPJ  explains in SFC v Tiger Asia Management LLC [41] that “I find it hard to see why, if a Court has found something to be the case, it should not make a declaration to that effect if it would be appropriate and useful to do so”.
+
+39.  Where a declaration is sought with consent of the parties, the court needs to be careful that the court’s discretion is not be supplanted by the parties’ agreement, but nor will it refuse to give effect to terms of settlement by refusing to make orders where they are within the court’s jurisdiction and are otherwise unobjectionable: Coles Supermarkets [42]. In the present case, in my view, it is appropriate for this Tribunal to grant the proposed declarations in the exercise of its discretion.  The reasons for so concluding can be divided into three parts:
+
+(1)     There is a significant legal controversy which is being resolved, ie whether the 1st Respondent, 2nd Respondent and 4th Respondent have contravened the FCR or been involved in the same: see The Declaratory Judgment [43].
+
+(2)     The Commission, as a regulator tasked with investigating conduct that may contravene the competition rules and enforce provisions designed to regulate economic activity for the public welfare, has a legitimate interest in the outcome of the reliefs since they (see ACCC v The Construction, Forestry, Mining and Energy Union[44]).  A declaration will achieve a number of things which will advance the Commission’s function.  It will establish the Commission’s claim that 1st Respondent and 2nd Respondent have contravened the FCR and in respect of 4th Respondent, been involved in such contravention, and serve to record the Tribunal’s disapproval of the contravention.  This in turn is likely to deter other persons from contravening the Ordinance.  It will also enable persons suffering loss or damage as a result of the contravention to commence “follow-on” proceedings for compensation under s 110 of the Ordinance.
+
+(3)     The 1st Respondent, 2nd Respondent and 4th Respondent are proper contradictors because they are made the subject of the proposed declaration and have an interest in opposing them, albeit the declarations are made by consent: ACCC v MSY Technology Pty Ltd [45], referring to French J’s judgment in IMF (Australia) Ltd v Sons of Gwalia Ltd (Administrator Appointed) [46].
+
+40.  For reasons set out above, I will make declarations in the following terms:
+
+(1)     There be a declaration that the 1st Respondent has contravened the First Conduct Rule.
+
+(2)     There be a declaration that the 2nd Respondent has contravened the First Conduct Rule.
+
+(3)     There be a declaration that the 4th Respondent was involved in the contravention of the First Conduct Rule for the purpose of s 91 of the Competition Ordinance, Cap 619.
+
+41.  I reserve the costs and adjourn the question of which penalties to impose to 7 August 2020.
+
+ 
+
+ 
+
+ 	(Jonathan Harris)
+ 	Judge of the Court of First Instance
+ 	 High Court
+Mr Victor Dawes SC, Mr Issac Chan and Mr Adrian TY Wong,  
+     instructed by King & Wood Mallesons, for the applicant
+Ms Allison Wong, instructed by JCC Cheung & Co,   
+      for the 1st and 4th respondents
+Mr Michael Lok and Ms Sharon Yuen, instructed by Chow & Partners, 
+     for the 2nd respondent
+Mr Matthew Ngai, instructed by Dundons, for the 3rd and 5th respondents<
+ 
+
+                                
+
+ 
+
+ 
+
+
+
+
+STATEMENT OF AGREED FACTS (“STATEMENT”) BETWEEN THE COMPETITION COMMISSION (“COMMISSION”) AND THE 1ST and 4TH RESPONDENTS
+
+(For the purposes of a settlement pursuant to Rule 39 of the Competition Tribunal Rules, Cap.619D (“CTR”) and Paragraph 72 of the Competition Tribunal Practice Direction 1 (“CTPD1”))
+
+ 
+
+PART A — INTRODUCTION
+
+1.        On 6 September 2018, the Commission issued these proceedings pursuant to ss.92, 94, 96, 101 and 102 of the Competition Ordinance (Cap. 619) (“Ordinance”) against, inter alia, the 1st and 4th Respondents, seeking:
+
+(a)        A declaration that the 1st Respondent has contravened the First Conduct Rule pursuant to s.6 of the Ordinance (“First Conduct Rule”);
+
+(b)        A declaration that the 4th Respondent has been involved, within the meaning in s.91 of the Ordinance, in a contravention of the First Conduct Rule;
+
+(c)        A pecuniary penalty to be assessed;
+
+(d)        An order that the 1st and 4th Respondents shall cease entering into any agreements or concerted practice involving any anti-competitive conduct, or aiding, abetting, counselling or procuring, and/or being knowingly concerned in any anti-competitive conduct, in respect of any projects under the Housing Authority’s Decoration Contractor System (“DC System”);
+
+(e)        An order that the 4th Respondent be disqualified as a director, liquidator, provisional liquidator, receiver or manager of a company, or be prohibited from in any way whether directly or indirectly being concerned or taking part in the promotion, formation or management of a company for a period to be decided by the Tribunal;
+
+(f)        An order that the 1st and 4th Respondents to pay the Government an amount equal to the amount of the costs of and incidental to any investigation into the conduct or affairs of the 5th Respondent, that has been reasonably incurred by the Commission in connection with these proceedings;
+
+(g)        Costs of the proceedings; and
+
+(h)        Such further and/or other relief as the Competition Tribunal (“Tribunal”) may consider appropriate.
+
+2.         Subject to the approval of the Tribunal, the Commission and the 1st and 4th Respondents agree to enter judgment on liability against the 1st and 4th Respondents by way of the summary procedure as provided for in Rule 39 CTR and §72 CTPD1.  The procedure as envisaged by the parties is that sanctioned by the High Court in England and Wales in the case of Re. Carecraft Construction Co Ltd [1994] 1 WLR 172 and clarified by the English Court in Secretary of State for Trade and Industry v Rogers [1996] 1 WLR 1569, and as applied by the Hong Kong Court of First Instance as appropriate for proceedings under section 214 of the Securities and Futures Ordinance, Cap. 571 and section 168H of the former Companies Ordinance (Cap. 32).
+
+3.         This Statement is intended to be submitted pursuant to Rule 39 of the CTR and §72 of the CTPD1 for the purpose of setting the factual basis upon which the Tribunal is asked to make the orders sought.
+
+4.         For the purpose of resolving these proceedings summarily, by reference to the facts as set out in Part B below, the Commission contends and the 1st and 4th Respondents accept that between 16 June and 7 November 2017 (“Relevant Period”):
+
+(a)        The 4th Respondent was one of two directors of the 1st Respondent;
+
+(b)        The 4th Respondent supervised and managed the renovation works to be carried out by the 1st Respondent at King Tai Court, San Po Kwong, Kowloon, Hong Kong (“Estate”);
+
+(c)        The 1st Respondent had contravened the First Conduct Rule by having made and given effect to a market allocation and price-fixing       agreement with Goldfield N & W Construction Company Limited (“2nd Respondent”) and Pacific View Construction Limited (“3rd Respondent”) (“Contravention”); and
+
+(d)        By his conduct, the 4th Respondent was involved in the Contravention within the meaning of s.91 of the Ordinance.
+
+5.         The Commission and the 1st and 4th Respondents accept and acknowledge that none of the admissions made by the 1st and 4th Respondents in this Statement shall be binding against any other Respondents in these proceedings.
+
+6.         In the event that the Tribunal does make the proposed orders set out at paragraphs 33 and 34 below, the Commission reserves the right to refer to this signed Statement for all purposes connected with or ancillary to these proceedings.
+
+PART B — UNDISPUTED FACTS
+
+B1.      The Estate
+
+7.         The Estate was, at all material times, a housing estate consisting of one domestic block developed by the Housing Authority (“HKHA”) under the Green Form Subsidised Home Ownership Pilot Scheme (“GSH”).
+
+8.         The Estate was completed in 2017, and the new owners began collecting the keys to their respective units on 20 June 2017.
+
+9.         The Estate consists of 857 Units spread over 32 floors.
+
+B2.      The HKHA and the DC System
+
+10.       HKHA is a statutory body which seeks to provide affordable rental housing to low-income families with housing needs, and help low-income to middle-income families to gain access to subsidised home ownership.  The Estate is one of such initiatives by the HKHA.
+
+11.       At all material times the HKHA has operated the DC System for newly completed public rental housing estates as well as newly completed buildings for one of the HKHA’s ownership scheme, including the buildings under the GSH such as the Estate.  The aim of the DC System was to protect tenants of public rental housing estates or owners of the buildings under the ownership schemes by preventing infiltration of illegal elements so that decoration works in new estates and courts can be carried out in an orderly manner.
+
+12.       Under the DC System:
+
+(a)        The HKHA maintains a “Reference List of Decoration Contractors” (“Reference List”). Anyone may apply to be put on the Reference List but, to be successful, a contractor has to meet the eligibility criteria set by HKHA and will be checked by the police for triad connections;
+
+(b)        When a new building is about to be ready for owners to move in, the HKHA will grant licences to a number of contractors on the Reference List for undertaking decoration works for the tenants (“Licence”).  The number of contractors thus appointed (“Designated DCs”) is based on the ratio of one contractor to every 250 flats;
+
+(c)        Contractors are selected for appointment from a ballot‑generated priority list of all those on the Reference List.  When offered an appointment, a contractor is obliged to take it up, although if there are unforeseen circumstances or valid reasons, it may decline the opportunity once during its registration on the Reference List;
+
+(d)        Before obtaining the Licence, a contractor has to provide to HKHA (i) a valid business registration certificate, (ii) documents to prove it meets the eligibility criteria in respect of cash at bank or unutilised overdraft facility, and (iii) a surety bond;
+
+(e)        The Designated DCs will be invited to attend a briefing session which includes a presentation about HKHA’s relevant regulations with one of the regulations being that the Appointed DCs should not agree among themselves to allocate flats to a certain contractor (referred to as “pie-sharing” in the HKHA’s briefing), but should allow tenants to choose freely which contractors they want to engage;
+
+(f)        The tenants/owners are free to decide whether they wish to have their units decorated and, if they do, whether to engage a Designated DC or any other contractor or to decorate it themselves or by their friends or relatives;
+
+(g)        The scope and price of any decoration works undertaken by the Designated DC for a tenant/owner is a matter between the tenant/owner and the Designated DC to negotiate; and
+
+(h)        Designated DCs are not agents or representatives of the HKHA and any dispute or claim for loss or damage arising from the decorative works is to be dealt with and resolved between the Designated DC and the tenant/owner concerned.
+
+13.       Each Designated DC has to enter into the Licence which is an agreement by deed with HKHA, with the title “Licence for Tenants’ Decoration Works”.  By this, HKHA grants to the Designated DC the right to enter the estate and carry out decoration works on behalf of tenants.
+
+B3.      The Contravention
+
+B3a.     Appointment as a Designated DC for the Estate
+
+14.       The 1st Respondent has been on the HKHA’s Reference List since 2015.
+
+15.       By letter dated 14 November 2016, HKHA invited the 1st Respondent to be a Designated DC at the Estate.
+
+16.       On 16 November 2016, the 1st Respondent, by its authorized person, CHAN Chun Wah, accepted HKHA’s invitation to be a Designated DC at the Estate.
+
+17.       At all material times (including during the Relevant Period):
+
+(a)        The 1st Respondent was the Designated DCs of the Estate having been duly appointed pursuant to the DC System described above;
+
+(b)        The 4th Respondent was a director of the 1st Respondent and was responsible for managing the 1st Respondent’s day-to-day business activities at the Estate; and
+
+(c)        The 4th Respondent recruited all on-site personnel to work for and on behalf of the 1st Respondent, and gave instructions to those personnel.
+
+18.       The 1st Respondent accepts that for the purpose of the Ordinance, the acts/omissions of all of its employees, agents, and representatives including, but not limited to, the 4th Respondent and Chan Chun Wah are attributable to the 1st Respondent such that it is liable for any contraventions of the First Conduct Rule that were carried out in the name of the 1st Respondent by any of its employees, agents, and representatives.
+
+B3b.    Market Allocation
+
+19.       In order to ensure that the 1st, 2nd, and 3rd Respondent would not actively compete with each other for the decoration works at the Estate, the 4th Respondent, on behalf of the 1st Respondent entered into an allocation arrangement (“Allocation Arrangement”) with the 2nd and 3rd Respondent whereby they agreed to allocate potential customers from the Estate between themselves with reference to the owners’ unit and floor number within the Estate.  Specifically, the agreed allocation between the 1st, 2nd, and 3rd Respondent was as follows:
+
+ 
+
+Units on 1st and 2nd Floors
+
+Floors
+
+1st Respondent
+
+101-104, 221-226
+
+5,8,9,12,15,18,21,24,27,30
+
+2nd Respondent
+
+105-108, 207-220
+
+4,7,10,13,16,19,22,25,28,31
+
+3rd Respondent
+
+109-110, 201-206, 227-228
+
+3,6,11,14,17,20,23,26,29,32
+
+(“Agreed Allocation”).
+
+20.       The Allocation Arrangement was entered into in on or around June 2017 after the site office was erected at the Estate.
+
+21.       During the Relevant Period, the 1st, 2nd, and 3rd Respondent carried out the decoration works in accordance with the Allocation Arrangement.
+
+Particulars
+
+(a)        In order to facilitate the performance of the Allocation Arrangement, the 4th Respondent had in his possession a table setting out the division of units of the Estate amongst the 1st, 2nd and 3rd Respondents (“Table”). Persons acting for and on behalf of the 1st Respondent had in their possessions (i) the Table and (ii) notebooks which recorded the units and floors assigned to the 1st Respondent under the Agreed Allocation (“Notebooks”);
+
+(b)        The said Table and Notebooks were used by the 4th Respondent and/or persons acting on behalf of the 1st Respondent as a point of reference during the course of business in particular, to identify owners from whom to solicit (and/or not solicit) business at the Estate;
+
+(c)        A Whatsapp message with the Agreed Allocation was also circulated amongst those acting for and on behalf of the 1st Respondent.
+
+(d)        Whenever a person acting for and on behalf of the 1st Respondent:
+
+(1)        was approached by a unit owner in the Estate; or
+
+(2)        wished to solicit a person who appeared to be a unit owner in the Estate,
+
+the persons acting for and on behalf of the 1st Respondent would first ascertain the unit number or floor of that owner before engaging with him or her;
+
+(e)        If the owner’s unit or floor was allocated to another Respondent, the 4th Respondent or persons acting on behalf of the 1st Respondent would ordinarily decline to accept the business and/or direct the owner to the relevant Respondent which had been allocated with such unit or floor;
+
+(f)        As a result of the Allocation Arrangement, the 1st Respondent performed decoration works exclusively [47] on Units and floors allocated to it, namely on the 5th, 8th, 9th, 12th, 15th, 18th, 21, 25th, 27th, and 30th floor as well as units on the 1st floor. In total, the 1st Respondent performed decoration works in 58 Units.
+
+22.       At all material times, the 4th Respondent:
+
+(a)        Was the sole shareholder and a director of 1st Respondent and was the manager of the 1st Respondent’s works at the Estate;
+
+(b)        Had recruited all on-site personnel to work for, and on behalf of, the 1st Respondent;
+
+(c)        Was in possession of the Tables;
+
+(d)        Had actively dealt with potential customers in accordance with the Allocation Arrangement and the particulars as set out at paragraph 21 above; and
+
+(e)        Had directed the staff, agents, and/or representatives of the 1st Respondent to give effect to the Allocation Arrangement by only soliciting business from the units/floors allocated to the 1st Respondent in accordance with the Agreed Allocation in accordance with the particulars as set out at paragraph 19 to 21 above.
+
+23.       In the premises:
+
+(a)        By virtue of the matters stated at paragraphs 19 to 21 above, the Allocation Arrangement was a market and/or customer allocation agreement which allocated the owners (i.e. actual or potential customers) between the 1st, 2nd, and 3rd Respondents.  The object of the Allocation Arrangement was to prevent, or restrict, or distort competition in relation to the provision of decoration works for the Estate;
+
+(b)        The 1st, 2nd, and 3rd Respondents had accordingly made and gave effect to an agreement/concerted practice with the object of preventing, or restricting, or distorting competition in Hong Kong, in contravention of the First Conduct Rule; and
+
+(c)        Such conduct constitutes ‘serious anti-competitive conduct’ within the meaning of s. 2(1) of the Ordinance.
+
+24.       Also, with regards to the Allocation Arrangement, the 4th Respondent was a person involved (within the meaning of s.91 of the Ordinance) in a contravention of the First Conduct Rule as the 4th Respondent had:
+
+(a)        On behalf of the 1st Respondent entered into the Allocation Arrangement with the 2nd and 3rd Respondents;
+
+(b)        Been knowingly concerned in the entering of the Allocation Arrangement as per paragraph 22 above; and
+
+(c)        Aided, abetted, counseled, and/or procured, the giving effect of the Allocation Arrangement by the 1st Respondent as per paragraph 22 above.
+
+B3b.    Price Coordination Arrangement
+
+On 16 June 2017, the 1st, 2nd, and 3rd Respondent had also engaged in the concerted practice of exchanging and coordinating the content and price of the standard decoration packages on offer to the owners of the units in the Estate (“Price Coordination Arrangement”).
+
+26.       As respects the Price Coordination Arrangement, the 4th Respondent, on behalf of the 1st Respondent, agreed with representatives of the 2nd and 3rd Respondent that he would procure and produce in Chinese text leaflets for use to promote certain standard packages for decoration services.
+
+27.       In accordance with this agreement, sometime before 16 June 2017, the 4th Respondent received the 2nd and 3rd Respondents’ proposed prices to various standardised decoration packages.
+
+28.       The 4th Respondent subsequently produced one set of leaflets for each of the 1st, 2nd, and 3rd Respondents (“Leaflets”, attached herein, together with their agreed English translations, as Annex A). The Leaflets for each of these contained substantially identical features:
+
+(a)        The 3 sets of Leaflets adopted the same layout and design;
+
+(b)        The 3 sets of Leaflets listed the same 10 items of decoration works; and
+
+(c)        Save for the smallest Unit, there were two packages labelled “Package A”,
+
+which included items 1 to 4, and “Package B”, which included items 1 to 10, on offer, respectively.
+
+29.       The Leaflets also stated a package price for each of the basic packages on offer in respect of each of the Units (“Package Prices”) which only differed marginally:
+
+Unit Size
+
+Respondent
+
+Package A
+
+(HKD)
+
+Package B
+
+(HKD)
+
+1 to 2 person
+
+1st Respondent
+
+5,680
+
+-
+
+ 
+
+2nd Respondent
+
+5,780
+
+-
+
+ 
+
+3rd Respondent
+
+5,580
+
+-
+
+2 to 3 persons
+
+1st Respondent
+
+8,580
+
+22,980
+
+ 
+
+2nd Respondent
+
+8,380
+
+23,180
+
+ 
+
+3rd Respondent
+
+8,480
+
+23,180
+
+1-bedroom
+
+1st Respondent
+
+13,680
+
+35,580
+
+ 
+
+2nd Respondent
+
+13,780
+
+35,680
+
+ 
+
+3rd Respondent
+
+13,580
+
+35,880
+
+2-bedrooms
+
+1st Respondent
+
+15,380
+
+39,480
+
+ 
+
+2nd Respondent
+
+15,280
+
+38,680
+
+ 
+
+3rd Respondent
+
+15,480
+
+39,180
+
+30.       In the premises, it is the Commission’s case (which is not disputed by the 1st and 4th Respondent) that:
+
+(a)        By virtue of the matters stated at paragraphs 25 to 29 above, the Price Coordination Arrangement was an agreement/concerted practice entered into by him on behalf of the 1st Respondent with the 2nd and 3rd Respondents to facilitate the Allocation Arrangement. By ensuring that, ostensibly, the decoration packages and Package Prices were substantially similar, this would, in turn, facilitate the Allocation Arrangement by reducing the incentive of potential customers to “shop around” between the 1st, 2nd, and 3rd Respondents once they had been approached by the Respondent to whom their Unit or floor had been allocated; and
+
+(b)        Together, the Allocation Arrangement and the Price Coordination Arrangement were part of a single overall agreement/concerted practice, with each instance of customer allocation and price coordination under the respective agreements/concerted practices being in pursuit of a common objective of giving effect to the single overall agreement/concerted practice with the object of such agreement being to prevent, or restrict, or distort competition in Hong Kong in contravention of the First Conduct Rule.
+
+(c)        Such conduct constitutes ‘serious anti-competitive conduct’ within the meaning of s. 2(1) of the Ordinance.
+
+31.       Also, with regards to the Price Coordination Arrangement, the 4th Respondent was a person involved (within in the meaning of s.91 of the Ordinance) in a contravention of the First Conduct Rule as the 4th Respondent:
+
+(a)        Had actual knowledge of the Price Coordination Arrangement between the 1st, 2nd, and 3rd Respondent;
+
+(b)        Had organized the printing of the Leaflets for the 1st, 2nd and 3rd Respondents setting out their respective Package Prices for identical packages with identical designs;
+
+(c)        In his capacity as the manager of the 1st Respondent’s decoration works at the Estate, had directed the staff, agents, and/or representatives of the 1st Respondent to give effect to the Price Coordination Arrangement by using the Leaflets printed by the 4th Respondent when marketing the services of the 1st Respondent to potential customers; and
+
+(d)        Had, himself, given effect to the Price Coordination Arrangement by using the Leaflets and the Package Prices therein in the course of soliciting business from potential customers, and had used the Package Prices as an anchoring reference point from which to begin negotiations.
+
+32.       Given the 4th Respondent’s conduct as stated in paragraphs 19 to 29 above and his direct contribution and participation to the contravention of the First Conduct Rule, his conduct as a director makes him unfit to be concerned in the management of a company for the purpose of s.102(b) of the Ordinance.
+
+PART C — PROPOSED ORDERS
+
+33.       On the basis of the facts not in dispute as set out in Part B above, the Commission and the 1st and 4th Respondents agree that judgment should be entered against the 1st and 4th Respondents. There shall be a declaration that the 1st Respondent has contravened the First Conduct Rule and the 4th Respondent was a person involved (within the meaning of s.91 of the Ordinance) in the contravention of the First Conduct Rule.
+
+34.       As for the further reliefs that are sought by the Commission, the Commission and the 1st and 4th Respondents agree that:
+
+  (a)        A separate hearing should be held for the determination of the appropriate reliefs to be imposed by the Tribunal; and
+
+  (b)        The hearing should be held after the determination of liability as against the other Respondents in these proceedings.
+
+35.       If, pursuant to this Statement, the Tribunal disposes of these proceedings summarily, the 4th Respondent agrees that there should additionally be an order that the 1st and 4th Respondents do pay the Commission’s costs of these proceedings to be taxed if not agreed.
+
+PART D — AGREED MITIGATING FACTORS
+
+36.       In agreeing to deal with the present proceedings in accordance with Rule 39 CTR and §72 CTPD1, the 1st and 4th Respondents have adopted a reasonable course of action which has saved time and costs of the Commission and that of the Tribunal.
+
+37.       The Commission will recommend to the Tribunal that this be a factor to be taken into account should the Tribunal decide that an order for pecuniary penalty against the 1st and 4th Respondents and/or (2) a disqualification order against the 4th Respondent be appropriate.
+
+Dated this 6th day of August 2019.
+
+ 
+
+ 
+
+_________________________________	_______________________________
+BRENT SNYDER, CEO 	JCC Cheung & Co., Solicitors
+For and on behalf of the Commission	For and behalf of the 1st and 4th Respondents
+       
+
+                          
+
+         
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STATEMENT OF AGREED FACTS (“STATEMENT”) BETWEEN THE COMPETITION COMMISSION (“COMMISSION”) AND THE 2ND RESPONDENT
+
+(For the purposes of a settlement pursuant to Rule 39 of the Competition Tribunal Rules, Cap.619D (“CTR”) and Paragraph 72 of the Competition Tribunal Practice Direction 1 (“CTPD1”))
+
+ 
+
+PART A — INTRODUCTION
+
+1.         On 6 September 2018, the Commission issued these proceedings pursuant to ss.92, 94, 96, 101 and 102 of the Competition Ordinance (Cap. 619) (“Ordinance”) against, inter alia, the 2nd Respondent, seeking:
+
+(a)        A declaration that the 2nd Respondent has contravened the First Conduct Rule pursuant to s.6 of the Ordinance (“First Conduct Rule”);
+
+(b)        A pecuniary penalty to be assessed;
+
+(c)        An order that the 2nd Respondent shall cease entering into any agreements or concerted practice involving any anti-competitive conduct, or aiding, abetting, counselling or procuring, and/or being knowingly concerned in any anticompetitive conduct, in respect of any projects under the Housing Authority’s Decoration Contractor System (“DC System”);
+
+(d)        An order that the 2nd Respondent shall pay the Government an amount equal to the amount of the costs of and incidental to any investigation into the conduct or affairs of the 2nd Respondent, that has been reasonably incurred by the Commission in connection with these proceedings;
+
+(e)        Costs of the proceedings; and
+
+(f)        Such further and/or other relief as the Competition Tribunal (“Tribunal”) may consider appropriate.
+
+2.         Subject to the approval of the Tribunal, the Commission and the 2nd Respondent agree to enter judgment on liability against the 2nd Respondent by way of the summary procedure as provided for in Rule 39 CTR and §72 CTPDI.  The procedure as envisaged by the parties is that sanctioned by the High Court in England and Wales in the case of Re. Carecraft Construction Co Ltd [1994] 1 WLR 172 and clarified by the English Court in Secretary of State for Trade and Industry v Rogers [1996] 1 WLR 1569, and as applied by the Hong Kong Court of First Instance as appropriate for proceedings under section 214 of the Securities and Futures Ordinance, Cap. 571 and section 168H of the former Companies Ordinance (Cap. 32).
+
+3.         This Statement is intended to be submitted pursuant to Rule 39 of the CTR and §72 of the CTPDI for the purpose of setting the factual basis upon which the Tribunal is asked to make the orders sought.
+
+4.         For the purpose of resolving these proceedings summarily, by reference to the facts as set out in Part B below, the Commission contends and the 2nd Respondent accepts that between 16 June and 7 November 2017 (“Relevant Period”) it had contravened the First Conduct Rule by having made and given effect to a market allocation and price-fixing agreement with Kam Kwong Engineering Company Limited (“1st Respondent”) and Pacific View Engineering Limited (“3rd Respondent”) (“Contravention”).
+
+5.         The Commission and the 2nd Respondent accepts and acknowledges that none of the admissions made by the 2nd Respondent in this Statement shall be binding against any other Respondents in these proceedings.
+
+6.         In the event that the Tribunal does make the proposed orders set out at paragraphs 30 and 31 below, the Commission reserves the right to refer to this signed Statement for all purposes connected with or ancillary to these proceedings.
+
+PART B — UNDISPUTED FACTS
+
+B1.      King Tai Court
+
+7.         King Tai Court (“Estate”) was, at all material times, a housing estate consisting of one domestic block developed by the Housing Authority (“HKHA”) under the Green Form Subsidised Home Ownership Pilot Scheme (“GSH”).
+
+8.         The Estate was completed in 2017, and the new owners began collecting the keys to their respective units on 20 June 2017.
+
+9.         The Estate consists of 857 Units spread over 32 floors.
+
+B2.      The HKHA and the DC System
+
+10.       HKHA is a statutory body which seeks to provide affordable rental housing to low-income families with housing needs, and help low-income to middle-income families to gain access to subsidised home ownership.  The Estate is one of such initiatives by the HKHA.
+
+11.       At all material times the HKHA has operated the DC System for newly completed public rental housing estates as well as newly completed buildings under one of HKHA’s ownership schemes, including the buildings under the GSH such as the Estate.  The aim of the DC System was to protect tenants of public rental housing estates or owners of the buildings under the ownership schemes by preventing infiltration of illegal elements so that decoration works in new estates and courts can be carried out in an orderly manner.
+
+12.       Under the DC System:
+
+(a)        The HKHA maintains a “Reference List of Decoration Contractors” (“Reference List”). Anyone may apply to be put on the Reference List but, to be successful, a contractor has to meet the eligibility criteria set by HKHA and will be checked by the police for triad connections;
+
+(b)        When a new building is about to be ready for owners to move in, the HKHA will grant licences to a number of contractors on the Reference List for undertaking decoration works for the tenants (“Licence”).  The number of contractors thus appointed (“Designated DCs”) is based on the ratio of one contractor to every 250 flats;
+
+(c)        Contractors are selected for appointment from a ballot-generated priority list of all those on the Reference List.  When offered an appointment, a contractor is obliged to take it up, although if there are unforeseen circumstances or valid reasons, it may decline the opportunity once during its registration on the Reference List;
+
+(d)        Before obtaining the Licence, a contractor has to provide to HKHA (i) a valid business registration certificate, (ii) documents to prove it meets the eligibility criteria in respect of cash at bank or unutilised overdraft facility, and (iii) a surety bond;
+
+(e)        The Designated DCs will be invited to attend a briefing session which includes a presentation about HKHA’s relevant regulations with one of the regulations being that the Appointed DCs should not agree among themselves to allocate flats to a certain contractor (referred to as “pie-sharing” in the HKHA’s briefing), but should allow tenants to choose freely which contractors they want to engage;
+
+(f)        The tenants/owners are free to decide whether they wish to have their units decorated and, if they do, whether to engage a Designated DC or any other contractor or to decorate it themselves or by their friends or relatives;
+
+(g)        The scope and price of any decoration works undertaken by the Designated DC for a tenant/owner is a matter between the tenant/owner and the Designated DC to negotiate; and
+
+(h)        Designated DCs are not agents or representatives of the HKHA and any dispute or claim for loss or damage arising from the decorative works is to be dealt with and resolved between the Designated DC and the tenant/owner concerned.
+
+13.       Each Designated DC has to enter into the Licence which is an agreement by deed with HKHA, with the title “Licence for Tenants’ Decoration Works”.  By this, HKHA grants to the Designated DC the right to enter the estate and carry out decoration works on behalf of tenants.
+
+B3.      The Contravention
+
+B3a.     Appointment as a Designated DC for the Estate
+
+14.       The 2nd Respondent has been on the HKHA’s Reference List since 1993.
+
+15.       By letter dated 14 November 2016, HKHA invited the 2nd Respondent to be a Designated DC at the Estate.
+
+16.       On 15 November 2016, the 2nd Respondent, by its managing director NG Hin Cheung (“Ng”), accepted HKHA's invitation to be a Designated DC at the Estate.
+
+17.       After accepting HKHA’s invitation, by an oral agreement between Ng on behalf of the 2nd Respondent and one CHEUNG Chin Fan (“Cheung”), the 2nd Respondent subcontracted to Cheung the decoration business at the Estate, that Cheung would conduct such business under the 2nd Respondent’s name, i.e. as the 2nd Respondent’s agent.  It was the common understanding between Ng, on behalf of the 2nd Respondent, and Cheung that in the event that Cheung was to make a profit from the decoration business at the Estate, the profits will be shared with the 2nd Respondent.
+
+18.       Following the subcontracting of the works from the 2nd Respondent to Cheung:-
+
+(a)        Cheung enlisted YIP Siu Ming (“Yip”) to carry out the works to be done at the Estate;
+
+(b)        Yip had, in turn, partnered with FONG Chi Fung (“Fong”) and KWOK Shuk Chu (“Kwok”) to carry out the works to be done at the Estate;
+
+(c)        Yip, Fong and Kwok were the persons in charge of the decoration business at the Estate in the name of the 2nd Respondent.
+
+19.       The 2nd Respondent accepts that for the purpose of the Ordinance, the relevant undertaking comprises of:
+
+(a)        Cheung, Yip, Fong, Kwok and all persons acting under their direction or instruction at the Estate in the name of the 2nd Respondent; and
+
+(b)        The 2nd Respondent itself;
+
+such that the 2nd Respondent is liable for the contraventions of the First Conduct Rule that were carried out by Cheung, Yip, Fong and/or Kwok as part of the undertaking.
+
+B3b.    Market Allocation
+
+20.       In order to ensure that the 1st, 2nd, and 3rd Respondent would not actively compete with each other for the decoration works at the Estate, persons for and on behalf of the 1st, 2nd, and 3rd Respondent entered into an allocation arrangement (“Allocation Arrangement”) whereby they agreed to allocate potential customers from the Estate between themselves with reference to the owners' unit and floor number within the Estate.  Specifically, the agreed allocation between the 1st, 2nd, and 3rd Respondent was as follows:
+
+ 
+
+Units on 1st and 2nd Floors
+
+Floors
+
+1st Respondent
+
+101-104, 221-226
+
+5,8,9,12,15,18,21,24,27,30
+
+2nd Respondent
+
+105-108, 207-220
+
+4,7,10,13,16,19,22,25,28,31
+
+3rd Respondent
+
+109-110, 201-206, 227-228
+
+3,6,11,14,17,20,23,26,29,32
+
+(“Agreed Allocation”).
+
+21.       The Allocation Arrangement was entered into on 16 June 2017 at the site office erected at the Estate at a meeting conducted after a customary worship ceremony commemorating the commencement of work.
+
+22.       During the Relevant Period, the 1st, 2nd, and 3rd Respondent carried out the decoration works in accordance with the Allocation Arrangement.
+
+Particulars
+
+(a)        In order to facilitate the performance of the Allocation Arrangement, persons acting for and on behalf of the 2nd Respondent had in their possessions (i) a table setting out the division of units of the Estate amongst the 1st, 2nd, and 3rd Respondent, and (ii) notebooks which recorded or had printed therein the units and floors assigned to the 2nd Respondent under the Agreed Allocation.
+
+(b)        The said table and notebooks were used by persons acting on behalf of the 2nd Respondent as a point of reference during the course of business in particular, to identify owners from whom to solicit (and/or not solicit) business at the Estate.
+
+(c)        Whenever a person acting for and on behalf of the 2nd Respondent:
+
+(1)        was approached by a unit owner in the Estate; or
+
+(2)        wished to solicit a person who appeared to be a unit owner in the Estate,
+
+the persons acting for and on behalf of the 2nd Respondent would first ascertain the unit number or floor of that owner before engaging with him or her.
+
+(d)        If the owner’s unit or floor was allocated to another Respondent, the persons acting for an on behalf of the 2nd Respondent would ordinarily decline to accept the business and/or direct the owner to the relevant Respondent which had been allocated with such unit or floor.
+
+(e)        As a result of the Allocation Arrangement, the 2nd Respondent performed decoration works exclusively [48]on units and floors allocated to it, namely on the 4th, 7th, 10th, 13th, 16th, 19th, 22nd, 25th 28th and 31st floor as well as units on the 1st floor.  In total, the 2nd Respondent performed decoration works in 56 units—which is around 6.53% of the total number of units at the Estate.
+
+23.       In the premise:-
+
+(a)        By virtue of the matters stated at paragraphs 20 to 22 above, the Allocation Arrangement was a market and/or customer allocation agreement which allocated the owners (i.e. actual or potential customers) between the 1st, 2nd, and 3rd Respondents.  The object of the Allocation Arrangement was to prevent, or restrict, or distort competition in relation to the provision of decoration works for the Estate;
+
+(b)        The 1st, 2nd, and 3rd Respondents had accordingly made and gave effect to an agreement/concerted practice with the object of preventing, or restricting, or distorting competition in Hong Kong, in contravention of the First Conduct Rule; and
+
+(c)        Such conduct constitutes ‘serious anti-competitive conduct’ within the meaning of s. 2(1) of the Ordinance.
+
+B3b.    Price Coordination Arrangement
+
+24.       In order to facilitate the Allocation Arrangement and to restrict and limit the price competition between the 1st, 2nd, and 3rd Respondents for certain standardised decoration packages, on 16 June 2017, the 1st, 2nd, and 3rd Respondents had also engaged in the concerted practice of exchanging and coordinating the content and price of the standard decoration packages on offer to the owners of the units in the Estate (“Price Coordination Arrangement”)
+
+25.       As respects the Price Coordination Arrangement, representatives of the 1st, 2nd, and 3rd Respondents had further agreed to procure and produce in Chinese text leaflets for use to promote certain standard packages for decoration services.
+
+26.       In accordance with this agreement, sometime before 16 June 2017, a representative of the 2nd Respondent provided its proposed prices to various standardised decoration package to the 4th Respondent who was the person responsible for producing the Leaflets.
+
+27.       The 4th Respondent subsequently produced one set of leaflets for each of the 1st, 2nd, and 3rd Respondents (“Leaflets”, attached herein, together with their agreed English translations, as Annex A).  The Leaflets for each of the Respondents contained substantially identical features:
+
+(a)        The 3 sets of Leaflets adopted the same layout and design;
+
+(b)        The 3 sets of Leaflets listed the same 10 items of decoration works; and
+
+(c)        Save for the smallest unit, there were two packages labelled “Package A”, which included items 1 to 4, and “Package B”, which included items 1 to 10, on offer, respectively.
+
+28.       The Leaflets also stated a package price for each of the basic packages on offer in respect of each of the units (“Package Prices”) which only differed marginally:
+
+Unit Size
+
+Respondent
+
+Package A
+
+(HKD)
+
+Package B
+
+(HKD)
+
+1 to 2 person
+
+1st Respondent
+
+5,680
+
+-
+
+ 
+
+2nd Respondent
+
+5,780
+
+-
+
+ 
+
+3rd Respondent
+
+5,580
+
+-
+
+2 to 3 persons
+
+1st Respondent
+
+8,580
+
+22,980
+
+ 
+
+2nd Respondent
+
+8,380
+
+23,180
+
+ 
+
+3rd Respondent
+
+8,480
+
+23,180
+
+1-bedroom
+
+1st Respondent
+
+13,680
+
+35,580
+
+ 
+
+2nd Respondent
+
+13,780
+
+35,680
+
+ 
+
+3rd Respondent
+
+13,580
+
+35,880
+
+2-bedrooms
+
+1st Respondent
+
+15,380
+
+39,480
+
+ 
+
+2nd Respondent
+
+15,280
+
+38,680
+
+ 
+
+3rd Respondent
+
+15,480
+
+39,180
+
+29.       In the premise:-
+
+(a)        By virtue of the matters stated at paragraphs 20 to 28 above, the Price Coordination Arrangement was an agreement/concerted practice entered into by the 1st, 2nd and 3rd Respondent to facilitate the Allocation Arrangement by reducing the incentive of potential customers to seek out to the other Respondents once the said potential customers had been approached by the Respondent which had been allocated such particular units or floors;
+
+(b)        Together, the Allocation Arrangement and the Price Coordination Arrangement were part of a single overall agreement/concerted practice, with each instance of customer allocation and price coordination under the respective agreements/concerted practices being in pursuit of a common objective of giving effect to the single overall agreement/concerted practice with the object of such agreement being to prevent, or restrict, or distort competition in Hong Kong in contravention of the First Conduct Rule; and
+
+(c)        Such conduct constitutes ‘serious anti-competitive conduct’ within the meaning of s. 2(1) of the Ordinance.
+
+PART C — PROPOSED ORDERS
+
+30.       On the basis of the facts not in dispute as set out in Part B above, the Commission and the 2nd Respondent agrees that judgment should be entered against the 2nd Respondent. There shall be a declaration that the 2nd Respondent has been in contravention of the First Conduct Rule pursuant to s.6 of the Ordinance.
+
+31.       As for the further reliefs that are sought by the Commission, the Commission and the 2nd Respondent agrees that:
+
+(a)        A separate hearing should be held for the determination of the appropriate reliefs to be imposed by the Tribunal; and
+
+(b)        The hearing should be held after the determination of liability as against the other Respondents in these proceedings.
+
+32.       If, pursuant to this Statement, the Tribunal disposes of these proceedings summarily, the 2nd Respondent agrees that there should additionally be an order that the 2nd Respondent do pay the Commission's costs of these proceedings to be taxed if not agreed.
+
+PART D — AGREED MITIGATING FACTORS
+
+33.       In agreeing to deal with the present proceedings in accordance with Rule 39 CTR and §72 CTPDI, the 2nd Respondent has adopted a reasonable course of action which has saved time and costs of the Commission and that of the Tribunal.
+
+34.       Further, the 2nd Respondent had no actual knowledge of the anti-competitive conduct of Cheung, Yip, Fong and/or Kwok acting in its name at the Estate.  It admits liability on the basis that under the Ordinance, the 2nd Respondent and those acting for and on its behalf at the Estate constitute a single undertaking.
+
+35.       As of the date of this Statement, the 2nd Respondent has not received any payment from Cheung for his work on the Estate.
+
+36.       The Commission will recommend to the Tribunal that the above factors be taken into account should the Tribunal decide that an order for pecuniary penalty against the 2nd Respondent be appropriate.
+
+Dated this 6th day of August 2019.
+
+ 
+
+ 
+
+________________________________ 	_______________________________
+BRENT SNYDER, CEO	 
+For and on behalf of the Commission	For and behalf of the 2nd Respondent
+       
+
+ 
+
+         
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+[1]      [1994] 1 WLR 172; which has been most recently adopted in Hong Kong in SFC v Chin Jong Hwa, [2019] HKCFI 2735.
+
+[2]      For example, the procedure adopted in the SFC v Sun Min [2017] 4 HKLRD 211, in which the respondent had consented to a finding of insider dealing under s213 of the Securities and Futures Ordinance, Cap 576.
+
+[3]      181D.
+
+[4]      183E.
+
+[5]      182F–183D.
+
+[6]      (1964) LR 4 RP 484.
+
+[7]      181F–H.
+
+[8]      see also HKSAR v Zheng Xing-wang, (unrep, HCCC 6/2016, 16 June 2016 at [71], [79])per Zervos J.
+
+[9]      [1996] 1 WLR 1569 at 1574H–1575A.
+
+[10]     Supra, 1571H–1572A.
+
+[11]     [2019] AC 96 at [46].
+
+[12]     [2015] 5 CMLR 1 at [60].
+
+[13]   Generally, the existing UK and the EU competition legal regimes vest the power of adopting final infringement decisions imposing penalties primarily on the administrative regulators, and the judiciaries would only intervene at the review stage: see eg Gallaher (supra) for the UK position, and Timab Industries (supra) for the EU position.
+
+[14]     [2014] FCA 1405 at [70]–[73].
+
+[15]     [2003] FCA 964 at [11].
+
+[16]   The 2nd Respondent has accepted that for the purposes of the Ordinance, the “undertaking” comprises of (i) all persons acting under the direction or instruction at the Estate in the name of 2nd Respondent; and (ii) 2nd Respondent itself: 2nd Respondent Statement at [19].
+
+[17]     Supra, at [309+].
+
+[18]     [2019] HKCT 2 at [26]–[27].
+
+[19]     Supra, at [28].
+
+[20]     [1972] ECR 619.
+
+[21]     Supra, at [29]–[30].
+
+[22]     Supra, at [34].
+
+[23]     Supra, at [33].
+
+[24]     Supra, at [105]–[106].
+
+[25]     Supra, at [107], [110]–[111], [124], [137].
+
+[26]     Supra, at [349].
+
+[27]     [1951] 1 KB 814 at 818–819.
+
+[28]     [1994] 1 HKCLR 122 at 125.
+
+[29]     [1985] QB 808 at 813E.
+
+[30]     Supra, at [352]–[353].
+
+[31]   1st Respondent has accepted that the act/omissions of all its employees, agents and representatives (including 4th Respondent) are attributable to 1st Respondent for the purpose of the Ordinance: 1st Respondent/4th Respondent Statement at [18].
+
+[32]     Supra, at [370]–[372].
+
+[33]     Supra.
+
+[34]     [2020] HKCT 1.
+
+[35]     §§15/16/2 & 19/7/20.
+
+[36]     (4th ed, 2011) at §§7–27 to 7–28.
+
+[37]     [1922] 2 Ch 490 at 507.
+
+[38]     [1953] 2 QB 18 at 41.
+
+[39]     [2018] HKCFI 967 at [19]–[20].
+
+[40]     [2018] HKCFI 2071 at [14].
+
+[41]     (2013) 16 HKCFAR 324 at [17].
+
+[42]     Supra, at [75].
+
+[43]     Supra, at [8]–[60].
+
+[44]     [2006] FCA 1730 at [6].
+
+[45]     (2012) 201 FCR 378 at [30].
+
+[46]     (2004) 211 ALR 231 at [47].
+
+[47]      Except Unit 2023 on the 20th floor which was decorated by the 2nd Respondent whilst such unit had been allocated to the 3rd Respondent pursuant to the Allocation Arrangement.
+
+[48]      Except Unit 2023 on the 20th floor which was decorated by the 2nd Respondent whilst such unit had been allocated to the 3rd Respondent pursuant to the Allocation Arrangement.
+

@@ -1,0 +1,423 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No 9 of 2024
+
+[2025] HKCFA 1
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO 9 OF 2024 (CRIMINAL)
+
+(ON APPEAL FROM CACC NO 210 OF 2018)
+
+________________________
+
+BETWEEN
+
+ 	HKSAR	Respondent
+ 	and	 
+ 	LI CHEUNG CHOI (李長再)	Appellant
+________________________
+
+Before:	Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ and Lord Hoffmann NPJ
+Date of Hearing:	22 November 2024
+Date of Judgment:	7 January 2025
+________________________________
+
+J U D G M E N T
+
+________________________________
+
+Chief Justice Cheung:
+
+1.  I agree with the judgment of Mr Justice Lam PJ.
+
+Mr Justice Ribeiro PJ:
+
+2.  I agree with the judgment of Mr Justice Lam PJ.
+
+Mr Justice Fok PJ:
+
+3.  I agree with the judgment of Mr Justice Lam PJ.
+
+Mr Justice Lam PJ:
+
+A.  Background
+
+4.  In R v Blastland[1]Lord Bridge of Harwich explained why hearsay evidence which may be potentially probative is excluded in a jury trial:
+
+“The rationale of excluding it as inadmissible, rooted as it is in the system of trial by jury, is a recognition of the great difficulty, even more acute for a juror than for a trained judicial mind, of assessing what, if any, weight can properly be given to a statement by a person whom the jury have not seen or heard and which has not been subject to any test of reliability by cross-examination.”
+
+5.  In the present case, the Appeal Committee granted leave to appeal in respect of a question of law certified by the Court of Appeal:
+
+“Are the statements of an accused to a medical practitioner regarding his or her background and state of mind at the time of the offence, and the circumstances of a relevant event or events, hearsay evidence and inadmissible when he or she does not testify at trial and, if so, does this also render inadmissible the expert opinion of the medical practitioner?”
+
+6.  Further, the Court of Appeal in its judgment[2] suggested a novel approach in directing a jury on a statement of an accused to a psychiatrist regarding his background and state of mind at the time of the offence[3]. The proposed approach involves the creation of a new exception to the hearsay rule. It is thus necessary to examine it against the existing law and its rationale.
+
+A1.  The killing and the defence of diminished responsibility
+
+7.  The Appellant was charged with the murder of his wife. During a trip in a taxi on 23 October 2015, when travelling through the Tate’s Cairn Tunnel, he used a belt to strangle her. After exiting the tunnel, the taxi driver stopped the car outside a convenience store and reported the matter to two police officers. When the police officers arrived, the wife was unconscious and the Appellant tried to strangle himself and bit his tongue. The Appellant and his wife were taken to the North District Hospital. She remained in a coma and died 5 days later.
+
+8.  There is no dispute that the Appellant killed his wife. This appeal focuses on his partial defence of diminished responsibility. The defence of diminished responsibility only becomes relevant after the prosecution has satisfied the jury that the defendant is otherwise guilty of murder[4]. The defence is provided by Section 3(1) of the Homicide Ordinance Cap 339 (“the HO”):
+
+“Where a person kills or is a party to the killing of another, he shall not be convicted of murder if he was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury) as substantially impaired his mental responsibility for his acts and omissions in doing or being a party to the killing.”
+
+9.  The burden of proving diminished responsibility is laid on the defendant by Section 3(2). To establish the same, a defendant has to show on the balance of probabilities that:
+
+(a)  he or she was suffering from an abnormality of mind, arising out of the specified causes[5];
+
+(b)  the abnormality of mind substantially impaired his or her mental responsibility for the acts or omissions in the killing.
+
+10.  A defendant who discharges such burden would be convicted of manslaughter instead of murder. In HKSAR v Tsim Sum Kit, Ada[6]this Court decided that placing the persuasive burden on a defendant is consistent with the right to a fair trial and the presumption of innocence:
+
+“A defendant who seeks to raise diminished responsibility is ex hypothesi liable to be convicted of murder if that defence fails. That is to say, the prosecution will already have done enough to prove the elements of murder beyond reasonable doubt. The defendant is not therefore someone presumed innocent at the point of invoking the partial defence. He or she will already have had the benefit of the presumption of innocence requiring the prosecution to prove the actus reus and mens rea of murder before seeking to establish the elements of the diminished responsibility defence.”[7]
+
+11.  The Appellant was tried before Madam Justice Toh (“the Judge”) with a jury. At the trial, the main issue between the defence and the prosecution was whether at the time of killing the Appellant was suffering from stimulant psychosis caused by consumption of drugs (which is an abnormality of mind within Section 3(1) of the HO) as opposed to drug intoxication (which is not an abnormality of mind under the Section)[8]. Psychiatric expert evidence was adduced to assist the jury on the issue of diminished responsibility. The Appellant relied on the evidence of Dr Choi who interviewed the Appellant in April 2017 about 18 months after the killing. The Appellant told Dr Choi that he had been experiencing delusions and hallucinations since around early July or August 2015. Dr Choi opined that the Appellant suffered from stimulant psychosis.
+
+12.  The defence also called evidence from Professor Tang who had not interviewed the Appellant. Professor Tang acknowledged that he could not form an opinion on whether the Appellant had psychotic symptoms or psychosis at the time of the killing. The main thrust of his evidence was the unlikelihood of drug-induced intoxication symptoms lasting for two or three days and the possibility of psychosis being resolved within a short duration and thus being undetected by treating doctors.
+
+13.  On the prosecution side, evidence was adduced from Dr Tang. She was the psychiatrist who attended the Appellant and gave him treatment when he was detained in Siu Lam Psychiatric Centre (“SLPC”) from October 2015 to March 2016. She did not prescribe any anti-psychotic medication to the Appellant. Her report stated:
+
+“[The Appellant] is impressed to suffer from methamphetamine intoxication, and possibly adjustment problem precipitated by the psychosocial stressor of debt; at the time of the index offence. He reported that he voluntarily took methamphetamine 2 days prior to the index offence, and the urine toxicology report on 24th October 2015 revealed positive finding of the drug. He stated that there was poor sleep after using methamphetamine, and he expressed suspiciousness and appeared worrisome towards the creditor Mr Hui and his 2 sons, but the paranoid idea was not impressed to be up to delusional level. No definite psychotic symptom such as hallucination, passivity or thought alienation was reported. During the stay at SLPC from 30th October 2015 to 2nd April 2016, he denied any abnormal perception or belief.”[9]
+
+14.  Another psychiatrist performing visiting duties at SLPC, Dr Lui, also testified. There was also evidence from a medical officer at the North District Hospital about the condition and diagnosis of the Appellant when he was admitted on 23 October 2015 shortly after the killing.
+
+15.  The diagnosis of Dr Tang as well as Dr Lui was that the Appellant suffered from methamphetamine intoxication. Methamphetamine is commonly known as “Ice”. They ruled out stimulant psychosis for want of distinct and ongoing symptoms. According to the observations of the treating doctors at the North District Hospital and SLPC, the Appellant did not display any psychotic symptoms.
+
+16.  In her closing speech, prosecuting counsel challenged the credibility of the Appellant’s assertion that he had experienced earlier hallucinations and delusions. The Appellant only made this assertion to Dr Choi some 18 months after the killing. The assertion was inconsistent with what the Appellant had previously said to Dr Tang and subsequently told Dr Lui. Instead, the Appellant told Dr Tang and Dr Lui that he did not hear non-existent voices and he did not have any abnormal beliefs after he consumed Ice previously.
+
+17.  The Appellant elected not to give evidence at the trial. Hence, there was no evidence of the alleged delusions and hallucinations other than the evidence of Dr Choi by way of his recitation of what the Appellant had told him in the interview in April 2017.
+
+18.  In her summing-up, the Judge told the jury that it was for them to decide if the Appellant was suffering from an abnormality of mind on the balance of probabilities and they should do so after considering all the psychiatric evidence and all the surrounding circumstances of the offence[10]. After alluding to the evidence of Dr Tang on this topic, the Judge said to the jury:
+
+“Now, you will notice that Dr Choi was told something quite different, that he heard voices, which is not from any existing person. So, this is another -- an example of why hearsay evidence is unreliable in the sense that the person has not given evidence in front of you, been subjected to cross-examination and for you to decide if the witness is telling you the truth, is reliable or accurate or inaccurate. So you may think therefore, that why was the defendant telling something different to Dr Choi, 18 months later? So that is for you, members of the jury.”[11]
+
+19.  It is thus quite plain that the Judge left the assessment of the credibility of that claim to the jury. Further, when the Judge referred to the Appellant’s interview with Dr Choi, she alluded specifically to the Appellant’s explanation to Dr Choi about not informing Dr Tang and Dr Lui of the hallucinations:
+
+“And [Dr Choi] said that the defendant told him that he did not tell the doctor at Siu Lam about the persecutions etc, because he was afraid he might be locked up in the mental hospital for the rest of his life. Well again, that is hearsay. We don’t know, but he did not tell the doctors in Siu Lam.”[12]
+
+20.  The Judge also directed the jury that the statements by the Appellant set out in the expert reports were not evidence. Thus, she said:
+
+“So again, [Dr Tang] gives the background, his history of substance abuse and one thing to note is that, as I said, it is all hearsay.”[13]
+
+“All this is hearsay, members of the jury, and because there is no evidence to prove that whether he saw or he had the feeling. This was only what he told the psychiatrist.”[14]
+
+“… The evidence on behalf of the defence comes from two psychiatrists. The two psychiatrists base their opinion on what they were told by the defendant. Now, what they were told by the defendant has not been repeated in evidence before you, and that is why I say it is hearsay. He has not given evidence, nor been cross‑examined on it, nor has he repeated what he told the psychiatrists on Oath. So what was told to the doctors by the defendant has no firm evidential foundation. So similarly, with what he had told Dr Dorothy Tang and Dr Lui, again that has not been repeated on Oath, nor has he been cross-examined on it. So there is no firm foundation for that evidence.”[15]
+
+21.  These directions were given after the Judge had discussed with counsel the propriety of the same and defence counsel did not have any objection.
+
+22.  The jury returned a verdict of guilty on the charge of murder and the Appellant was convicted accordingly.
+
+A2.  The decision of the Court of Appeal and its proposed new approach
+
+23.  The Appellant appealed to the Court of Appeal. One of the grounds of appeal (and the only relevant one before us) was that the Judge erred in directing the jury that the statements made by the Appellant to the psychiatrists were hearsay and no reliance could be placed upon them. On 7 September 2021, the Court of Appeal dismissed the appeal.
+
+24.  In a very detailed and well-written judgment, the Court of Appeal held that the Judge’s direction regarding the hearsay nature of the statements made by the Appellant to the psychiatrists was in accordance with the current state of the law in Hong Kong as set out in HKSAR v Kissel[16]. After a very full analysis of the authorities in England and Australia[17], the Court of Appeal held that the Judge’s direction was in accordance with the uniform view of the common law in those jurisdictions[18].
+
+25.  However, the Court of Appeal found the current position to be unsatisfactory for the following reasons:
+
+(a)  When an accused is not fit to testify due to his medical condition, it may prevent him from advancing his defence of diminished responsibility. This would be a disproportionate response created by the inflexible application of the hearsay rule[19];
+
+(b)  As the statements were included in the expert reports, the jury would not be able to understand or apply the direction given under the hearsay rule. In effect, they would be taken as being directed to ignore the expert opinions[20].
+
+26.  Drawing an analogy with the direction for mixed statements endorsed by the House of Lords in R v Sharp (Colin)[21], the Court of Appeal suggested that it would be better to direct the jury that the whole expert report is before them for them to determine where the truth lies, including the medical history recited by a defendant to the psychiatrist. Where a defendant does not give evidence at the trial in support of the medical history, the judge may comment that the jury is entitled to take that into account when determining what weight they should give to the medical history and that determination may affect their assessment of the expert opinion which is founded on that medical history. The judge is also entitled to direct the jury that they may attach less weight to a defendant’s out-of-court statement because it has not been tested by cross-examination. The judge may also comment that a defendant bears the burden of proving the defence of diminished responsibility and could have provided evidence to prove the medical history had he chosen to do so. However, these comments would not be appropriate in cases where the defendant is medically unfit to give evidence[22]. I shall call this the “Proposed New Approach”.
+
+27.  The Court of Appeal certified the question set out in [5] above as it considered the application of the hearsay rule in respect of statements made to a medical expert as raising a question of law of great and general importance.
+
+B.  The common law position in Hong Kong
+
+B.1  The nature and admissibility of a defendant’s statement
+
+28.  The first part of the certified question focuses on the nature and admissibility of an accused’s out-of-court statement to a medical expert regarding his background and state of mind at the time of the offence. Since such a statement by an accused is not his testimony at the trial and is not subject to any cross-examination before the jury, it is a hearsay statement by nature insofar as it is deployed to prove the truth of its contents[23]. On the other hand, if the statement is admitted only for the purpose of showing what the accused had said to an expert as opposed to the truth of its contents, it is not deployed for a testimonial purpose[24] and is admissible without infringing the hearsay rule. If the statement is relevant to his assessment in coming to his conclusion, the expert can refer to it in his evidence as the basis of his opinion.
+
+29.  This common law rule as applied in Hong Kong is not in doubt. Before us, in addition to the cases cited in the Court of Appeal, counsel also referred to Canadian authorities. In Canada, a general exception to the hearsay rule based on necessity and reliability was developed[25]. By reason of the suspect nature of a statement from an accused, the test laid down in R v Khan could not be satisfied. Subject to that, the Canadian Supreme Court took a position consistent with the traditional common law approach[26]. For present purposes, it suffices to reiterate the rationale for admitting such a statement and its limitation as set out in the following often cited dicta:
+
+(a) “A sounder argument for admitting evidence of what the men had told the examining doctor might have been that it was part of the material on which he formed the opinion that he gave in evidence. When a physician’s diagnosis or opinion concerning his patient’s health or illness is receivable, he is ordinarily allowed to state the ‘history’ he got from the patient … This makes all statements made to an expert witness admissible if they are the foundation, or part of the foundation, of the expert opinion to which he testifies; but … such statements are not evidence of the existence in fact of past sensations, experiences and symptoms of the patient. Hearsay evidence does not become admissible to prove facts because the person who proposes to give it is a physician. And, if the man whom the physician examined refuses to confirm in the witness box what he said in the consulting room, then the physician’s opinion may have little or no value, for part of the basis of it has gone.”[27]
+
+(b) “Thus, if the doctor’s opinion is based entirely on hearsay and is not supported by direct evidence, the judge will be justified in telling the jury that the defendant’s case (if that is so) is based upon a flimsy or non-existent foundation and that they should reach their conclusion bearing that in mind. In proper cases, for example where, as here, the defendant has completely recovered from any abnormality of mind by the time of the trial, there is no reason why the judge should not comment upon the fact that the defendant could have provided the necessary evidence had he wished to do so, the burden of proof being upon him.”[28]
+
+(c) “Where … the information upon which an expert forms his or her opinion comes from the mouth of a party to the litigation, or from any other source that is inherently suspect, a court ought to require independent proof of that information. The lack of such proof will … have a direct effect on the weight to be given to the opinion, perhaps to the vanishing point. But it must be recognized that it will only be very rarely that an expert’s opinion is entirely based upon such information, with no independent proof of any of it. Where an expert’s opinion is based in part upon suspect information and in part upon either admitted facts or facts sought to be proved, the matter is purely one of weight.”[29]
+
+30.  In terms of the practice and the case law in Hong Kong, the Court of Appeal referred to HKSAR v Kissel[30]and the Specimen Directions on Expert Evidence published by the Judicial Institute[31]. Kissel was not a case in which the defendant did not give evidence. She testified at the trial. The question of hearsay in a psychiatrist report arose because Dr Wong, the psychiatrist called by the defendant, made reference to the opinion of another psychiatrist, Dr Lui, in his report. Dr Lui was a consultant psychiatrist of Castle Peak Hospital and he had previously given a report on the defendant. Neither the prosecution nor the defence intended to call Dr Lui to give evidence at the trial. The purpose of the inclusion of Dr Lui’s opinion in Dr Wong’s report was to support the cogency and reliability of the latter’s opinion. The prosecution objected to this part of Dr Wong’s report. The objection was upheld by the trial judge. That decision was affirmed by the Court of Appeal.
+
+31.  The Court of Appeal in Kissel held that the introduction of the opinion of one expert (who would not testify before the jury) in the report of another expert was objectionable and the reference to the non-testifying expert’s opinion should be excluded from the evidence to avoid confusing the jury[32]. After citing Ramsay v Watson, the Court of Appeal in Kissel also observed that what a defendant told the expert could not be evidence as to the truth of what she had said[33].
+
+32.  The law as stated by the Court of Appeal in Kissel accords with the common law position. Generally, trial judges in Hong Kong follow the guidance set out in the Specimen Directions on Expert Evidence published by the Judicial Institute[34]. As observed by the Court of Appeal:
+
+“… the practice in Hong Kong is to generally regard a failure by an accused to testify as going to the weight of the expert opinion evidence on which he relies, rather than its admissibility, with the jury being told to disregard it if they find the factual foundation for the opinion has not been proven.”[35]
+
+33.  In his oral submissions, Mr Chau SC[36] acknowledged that the Judge’s directions were impeccable as the law stands. Counsel courageously invited this Court to change the common law rule in Hong Kong by extending the mixed statement exception to apply it to out-of-court statements by a defendant to an expert witness.
+
+B2.  Creation of new hearsay exceptions is a matter for the legislature
+
+34.  In Hong Kong, we adhere to the established principle that it is for the legislature, not the judiciary, to create new exceptions to the hearsay rule[37]. Bokhary PJ in Wong Wai Man & Others v HKSAR[38] cautioned against adopting a different approach. In HKSAR v Hung Wai Yip[39] Ribeiro PJ took the same stance. It is noteworthy that in response to the recommendations of the Law Reform Commission in its Report on Hearsay in Criminal Proceedings, there is an ongoing process of legislative reform in this area[40].
+
+35.  Mr Chau invited this Court to depart from these earlier authorities by creating a new exception to the hearsay rule in respect of out-of-court statements made to a psychiatric expert.
+
+36.  In Walton v The Queen[41] Mason CJ suggested that the hearsay rule should not be applied inflexibly:
+
+“The hearsay rule should not be applied inflexibly. When the dangers which the rule seeks to prevent are not present or are negligible in the circumstances of a given case there is no basis for a strict application of the rule. Equally, where in the view of the trial judge those dangers are outweighed by other aspects of the case lending reliability and probative value to the impugned evidence, the judge should not then exclude the evidence by a rigid and technical application of the rule against hearsay. It must be borne in mind that the dangers against which the rule is directed are often very considerable, as evidenced by the need for the rule itself. But especially in the field of implied assertions there will be occasions upon which circumstances will combine to render evidence sufficiently reliable for it to be placed before the jury for consideration and evaluation of the weight which should be placed upon it, notwithstanding that in strict terms it would be regarded as inadmissible hearsay.”[42]
+
+37.  In the Court of Appeal, McWalters JA took encouragement from these observations and suggested that Hong Kong should adopt the Proposed New Approach[43].
+
+38.  The other members of the High Court of Australia in Walton v The Queen did not adopt the suggestion of Mason CJ. Wilson, Dawson and Toohey JJ reiterated that the unlikelihood of concoction or distortion is not sufficient of itself to render a hearsay statement admissible[44].
+
+39.  In my judgment, the present case does not provide a suitable platform for this Court to consider departing from Wong Wai Man & Others v HKSAR. There have been certain developments in the other jurisdictions, but these do not support the Proposed New Approach. In the context of a defendant’s out-of-court statements to a social worker and psychiatric expert, the New Zealand Court of Appeal modified the common law approach by creating an exception where hearsay evidence is the only evidence available and the surrounding circumstances make it highly probable that it is true[45]. In Canada, the Supreme Court adopted a wider approach to hearsay evidence based on the criteria of necessity and reliability[46].
+
+40.  Since the Appellant could have given evidence at the trial but deliberately chose not to do so, it is not surprising that counsel did not urge this Court to follow these overseas developments. Moreover, as discussed below, the Proposed New Approach does not offer the right solution to the concerns perceived by the Court of Appeal.
+
+B3.  The Proposed New Approach and the analogy with mixed statements
+
+41.  The Proposed New Approach was formulated by the Court of Appeal based on the treatment of mixed statements in Sharp[47]. A mixed statement to the police was admitted on the basis that it is evidence of an accused’s reaction to a charge, see R v David Anthony Pearce[48]. After Sharp, both the inculpatory and the exculpatory parts are admissible as evidence of their truth. As observed by Stock JA (as Stock NPJ then was) in HKSAR v Poon Hoi Wing & Anor[49]:
+
+“It is important to appreciate that the exculpatory part is admissible as evidence of its truth not in some vacuum. It is admissible to that end because without it the tribunal of fact is less able fairly to evaluate the facts admitted.”
+
+42.  With respect, I cannot agree with the Court of Appeal that it is appropriate to adopt the same approach regarding statements on medical history and past state of mind recorded in a psychiatric report. In Sharp Lord Havers explained the rationale for endorsing the mixed statement approach[50]:
+
+“How can a jury fairly evaluate the facts in the admission unless they can evaluate the facts in the excuse or explanation? It is only if the jury think that the facts set out by way of excuse or explanation might be true that any doubt is cast on the admission, and it is surely only because the excuse or explanation might be true that it is thought fair that it should be considered by the jury….”[51]
+
+43.  This rationale is not applicable to an out-of-court statement by a defendant to a psychiatrist. In a trial, expert opinion serves a different evidential purpose from that of an admission. Admissions are deployed to prove or disprove facts which are relevant to one or more factual issues raised by the parties. On the other hand, an expert gives evidence to assist the jury in analysing an issue involving scientific or other special knowledge or expertise which is likely to be outside the experience and knowledge of a judge or juror.
+
+44.  The analysis and assessment of expert evidence is different from the assessment of the underlying factual premise on which the expert expressed his or her opinions. An expert does not vouch for the credibility of the factual information provided by a party (as opposed to personal observations made by the expert in the course of his engagement with that party) since such information is not within the personal knowledge of the expert.
+
+45.  The out-of-court statement given by a defendant to a psychiatrist provides the basis for the latter’s opinion on the mental state of the defendant. Normally the prosecution would not rely on such out-of-court statements as evidence of the truth of their contents. The prosecution in the instant case did not rely on any out-of-court statement by the Appellant to the psychiatrists as evidence of its truth as opposed to evidence that a defendant had made that statement to the psychiatrist. Hence, the concern of Lord Havers is not applicable to the statement of a defendant in a psychiatric report.
+
+46.  Unlike the above-mentioned developments in Canada and New Zealand, the Proposed New Approach does not contain proper threshold requirements for permitting the out-of-court statement to be admitted as evidence of its truth. I am unable to accept Mr Chau’s submission that the close proximity between a psychiatrist and a defendant should provide a sufficient safeguard. There is nothing unique in the relationship between a psychiatric expert and an accused person. Similar proximity may well arise in the relationship between other experts and an accused person. Most expert witnesses, if not all, have to work on factual assumptions based on information supplied by a party. The adoption of the Proposed New Approach would open the door to the objectionable forensic manoeuvre which Lawton LJ deprecated in R v Turner (Terence)[52]. In R v Gordon[53]Street CJ referred to such tactical devices which the court should guard against:
+
+“Not infrequently a tactical device is followed on behalf of persons accused of criminal offences involving calling in their defence a psychiatrist for the purpose of eliciting from the psychiatrist a comprehensive factual statement, being the history given to the psychiatrist, and then of eliciting from the psychiatrist some expressions of professional opinion inconsistent with guilt on the part of the accused person. That device enables accused persons to get before juries factual assertions contained in histories given to psychiatrists, being assertions not substantiated or sought to be substantiated by the tendering of any admissible evidence of the matters recited in the history. It is a device which results in unproved assertions and unsubstantiated opinions being placed before juries and relied upon by the defence. As such it is a device that counsel should not attempt to employ and that trial judges are well justified in guarding against.”
+
+47.  Moreover, the Proposed New Approach fails to pay due regard to the rationale for the hearsay rule as highlighted by Lord Bridge in R v Blastland[54] if the jury has to assess the weight to be attached to a factual assertion of a defendant without the benefit of cross-examination.
+
+48.  In terms of giving the jury a meaningful and workable directions in assessing the weight to be attached to the opinion of the psychiatrists, the direction given by the Judge in the instant case was perfectly comprehensible to the jury and adequate in safeguarding the legitimate interests of the Appellant. The Judge plainly left it to the jury to decide if they could act upon the opinion of Dr Choi based on the Appellant’s unsworn assertion that he had suffered from earlier hallucinations and delusions. The Judge stressed that it was a matter for the jury to consider that such an unsworn assertion was only made to Dr Choi but not to Dr Tang and Dr Lui. Her Ladyship also highlighted the explanation given by the Appellant for such omission from his statements to Dr Tang and Dr Lui. In the circumstances of the present case, these directions are probably more helpful to the jury than a direction under the Proposed New Approach. Adopting the Proposed New Approach would not lead to a different outcome in the present case.
+
+49.  As regards the situation where it is established by medical evidence that a defendant is unfit to testify[55], the judge should direct the jury to take evidence of such unfitness into account in assessing the weight to be attached to the expert opinion even though it may be based on the out-of-court statements of such a defendant. The inability to testify may be temporary and an adjournment can be considered to give time to a defendant to recover after receiving necessary treatment. There can be a dispute on the extent of the disability and experts may disagree with each other in that regard. Such disputes, like other factual disputes, would have to be decided by the jury, not the trial judge. In some cases, there could be other evidence on the medical history of a defendant to support the defence case on abnormality of mind.
+
+50.  Further, I am unable to agree with the Court of Appeal over its concern about disproportionality. It is wrong in principle to re-characterise the hearsay nature of a piece of evidence simply because a defendant suffers from a condition that renders him unfit to testify in a particular case. Since the HO places the burden of proof in respect of the partial defence of diminished responsibility on the defendant, he or she has to discharge that burden by admissible evidence. Even in cases where no meaningful testimony could be obtained from a defendant, it is quite possible for an expert to form an opinion on abnormality of mind and substantial impairment based on other evidence. As discussed below, it is rare that the expert opinion would not be admissible.
+
+B4.  Medical history and state of mind
+
+51.  I turn to Mr Chau’s submission in his printed case that the existing law needs clarification in respect of admissibility of out-of-court statements made by an accused to an expert on feelings, symptoms or medical history.
+
+52.  With respect, I do not find any difficulty in this regard. Insofar as such statements are relevant to the opinion proffered by an expert, they are admissible as evidence of the basis on which such opinion was given but they are not evidence of the truth of such statements.
+
+53.  Medical history or background information about the mental condition of an accused does not fall within any common law exception to the hearsay rule. In R v Gordon[56]the defendant was charged with maliciously inflicting grievous bodily harm with intent. He made admissions of guilt in an interview by police officers. At trial, he denied that he was guilty of the attack on the victim and tried to explain the earlier admissions on the basis that he was motivated by a pathological aversion in making the admissions. A psychiatrist was called on his behalf. The judge expressed concern about the information given by the defendant’s mother to the psychiatrist concerning the upbringing of the defendant and his girlfriend’s information on her relationship with him since the defence did not intend to call the mother and the girlfriend to give evidence. The psychiatrist told the court categorically that he was unable to offer a professional assessment without their information. This eventually led to the withdrawal by defence counsel of the psychiatrist as a witness[57]. The New South Wales Criminal Court of Appeal held that the withdrawal in such circumstances was not an irregularity. In refusing to grant leave to appeal, the High Court of Australia[58] observed that such statements could not be regarded as “original evidence” which need not be confirmed by other evidence adduced before the court.
+
+54.  In Walton v The Queen[59]Mason CJ said:
+
+“… evidence of a relevant out-of-court statement is admissible evidence of the maker’s knowledge or state of mind when he made the statement in a case where such knowledge or state of mind is a fact in issue or a fact relevant to a fact in issue.”[60] (my emphasis)
+
+55.  His Honour further explained that the rationale for admitting original evidence stemmed from such evidence having an “independent evidentiary value” in proving the accused’s mental state apart from his own reliability and veracity[61].
+
+56.  Statements made by an accused to a psychiatrist concerning his medical history or his past state of mind for the purpose of an expert opinion do not have such independent evidentiary value. These statements are different from a person’s contemporaneous statement regarding his or her current health or feelings which could be the best original evidence of such condition or sentiments[62].
+
+57.  In light of the above, I must disagree with the approach of Justice Prior in R v Pangallo[63]. The defendant was charged with the murder of his wife and two sons-in-law and attempted murder of the mother of one of those sons-in-law. The only issue was insanity. Justice Prior admitted the statements of the defendant made to the psychiatrist in an interview which took place a few days after the killings as original evidence of his bodily feelings because the statements were made “soon afterwards” as the defendant had not yet had treatment for his condition[64]. Justice Prior also admitted statements made by the defendant at subsequent interviews which took place more than one year afterwards as original evidence about his mental state at the time of the killings[65].
+
+58.  With respect, the learned judge failed to distinguish between a statement about the current state of mind of the defendant when he was interviewed and a statement about what the defendant experienced at the time of the killings. The rationale for admitting the former statement as evidence of truth cannot be applied to admit the latter for the same purpose. As a matter of Hong Kong law[66], the test for admitting res gestae evidence as discussed in R v Andrews[67] is applicable. The test requires, amongst other things, the statement to be sufficiently spontaneous in that it must be so closely associated with the event that it can fairly be stated that the mind of the declarant was still dominated by the event. The judge must also be satisfied that the circumstances were such that there was no possibility of any concoction or distortion to the advantage of the maker[68].
+
+59.  In the context of the present appeal, there is no basis for suggesting that the statements made by the Appellant to Dr Tang, Dr Lui or Dr Choi had the requisite degree of spontaneity. Nor can it be suggested that they come within the scope of original evidence of his state of mind.
+
+B4.  The basis rule
+
+60.  The second part of the certified question addresses the possible inadmissibility of an expert opinion when its factual foundation is not supported by any evidence. It is not an issue in the present case since the expert opinions of the psychiatrists were admitted as evidence for the jury to consider. Apart from the out-of-court statements of the Appellant, there was other evidence relevant to the defence of diminished responsibility which the psychiatrists duly took into account: his urine sample which contained traces of “Ice”; his conversation with the deceased in the taxi journey; his attempt to strangle himself and his biting of his tongue. In such circumstances, the Judge was obliged to leave the issue of diminished responsibility to the jury and let them decide on the weight to be attached to the evidence of each expert.
+
+61.  As observed by the Court of Appeal[69], the practice generally adopted in Hong Kong is to regard a failure by an accused to testify as going to the weight of the expert opinion evidence rather than its admissibility[70]. Though Mr Lai, for the Respondent[71], did not rule out the possibility that a judge may refuse to admit psychiatric evidence when there is no evidence whatsoever to support the factual basis for such report, he emphasized that it is very rare that an expert’s opinion is proffered solely on the basis of the out-of-court statement of a defendant. As observed by Justice Sopinka, where an expert’s opinion is based in part upon suspect information and in part upon either admitted facts or facts sought to be proved, the matter is purely one of weight[72].
+
+62.  In my judgment, this is the right approach. Mr Lai assured us that this is the approach generally adopted by the prosecution in Hong Kong. As discussed, the Court of Appeal in Kissel dealt with a different situation. Due to the risk of confusion to the jury as to the nature of the opinion of the non-testifying expert, I agree that reference to such opinion in the report of the testifying expert should be excluded. However, it does not follow that a similar direction needs to be given in respect of out-of-court statements of an accused which are included in expert reports. On the contrary, the factual basis of an opinion should be set out in the report so that the jury can properly assess the weight to be attached to the opinion.
+
+63.  Given that the issue does not arise here, it would not be appropriate for this Court to postulate the circumstances in which a trial judge could properly rule that an expert opinion is inadmissible. It is not helpful to generalise since such a decision obviously depends very much on the facts and circumstances of each case having regard to the issues in dispute, the content of the out-of-court statement, its inherent reliability, the significance of the statement to the opinion of the expert, and the reasons for the lack of other evidence on the same issue.
+
+64.  In this connection, the distinction between a civil trial and a criminal trial before a jury must be borne in mind. In a trial by jury, a trial judge should not inadvertently usurp the role of the jury as the fact finder. When diminished responsibility is raised as a defence, it would rarely be appropriate for a judge to rule that an expert opinion relied upon by the defence is inadmissible when its factual foundation is in dispute (and thus should be determined by the jury) since such a ruling would effectively withdraw that defence from the consideration of the jury.
+
+C.  Answers to the certified question and disposition of the appeal
+
+65.  In short, I respectfully reject the suggestion of the Court of Appeal to create a new exception to the hearsay rule for statements made by an accused person to psychiatrists by extending the mixed statement rule to these statements.
+
+66.  The answer to the certified question is as follows:
+
+(a)  An accused’s out-of-court statement to a medical expert regarding his background and state of mind at the time of the offence is a hearsay statement by nature insofar as it is deployed to prove the truth of its contents. On the other hand, if the statement is admitted only for the purpose of showing what the accused had said to an expert, it is not deployed for a testimonial purpose and is admissible without infringing the hearsay rule, see [28] above;
+
+(b)  It is very rare that an expert’s opinion is proffered solely on the basis of the out-of-court statement of an accused. Where an expert’s opinion is based in part upon suspect information and in part upon either admitted facts or facts sought to be proved, the matter is purely one of weight. When diminished responsibility is raised as a defence, it would rarely be appropriate for a judge to rule that an expert opinion relied upon by the defence is inadmissible when its factual foundation is in dispute, see [61] to [64] above.
+
+67.  It follows that the appeal should be dismissed.
+
+Lord Hoffmann NPJ:
+
+68.  I agree with the judgment of Mr Justice Lam PJ.
+
+Chief Justice Cheung:
+
+69.  Accordingly, the appeal is unanimously dismissed.
+
+ 
+
+ 
+
+(Andrew Cheung)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+ 
+
+(M H Lam)
+Permanent Judge	(Lord Hoffmann)
+Non-Permanent Judge
+ 
+
+Mr Phil Chau SC and Mr Kei Rui Tien, instructed by Simon Si & Co, assigned by the Director of Legal Aid, for the Appellant
+
+Mr Ned Lai, DDPP (Ag) and Ms Karen Ng, SPP, of the Department of Justice, for the Respondent
+
+
+[1]  [1986] 1 AC 41 at p.54.
+
+[2]  [2021] 4 HKLRD 423 (“CA Judgment”) (Macrae V-P, McWalters and Zervos JJA).
+
+[3]  Ibid at [132].
+
+[4]  Section 3(3) of the Homicide Ordinance Cap 339. See also HKSAR v Tsim Sum Kit, Ada [2024] HKCFA 14 at [37] to [42].
+
+[5]  The specified causes are those set out in Section 3(1), viz. abnormality of mind “arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury”. Psychosis is a disease of the mind but intoxication is not, see Archbold Hong Kong 2024 Criminal Law, Pleadings, Evidence and Practice at [20-121] and [20-122].
+
+[6]  [2024] HKCFA 14.
+
+[7]  Ibid at [38].
+
+[8]  See footnote 5 above.
+
+[9]  B1/7 at [12].
+
+[10]  B3/413.
+
+[11]  B3/411.
+
+[12]  B3/423-424.
+
+[13]  B3/411.
+
+[14]  B3/419.
+
+[15]  B3/422.
+
+[16]  [2014] 1 HKLRD 460.
+
+[17]  Ramsay v Watson (1961) 108 CLR 642; R v Ahmed Din (1962) 46 Cr App R 269; R v Bathurst (1968) 52 Cr App R 251; R v Colin Bradshaw (1986) 82 Cr App R 79; Gordon v R (1982) 41 ALR 64; Walton v The Queen (1989) 166 CLR 283; R v Hendrie (1985) 37 SASR 581; R v Pangallo (1989) 51 SASR 254.
+
+[18]  See CA Judgment at [119].
+
+[19]  See CA Judgment at [124].
+
+[20]  See CA Judgment at [125].
+
+[21]  [1988] 1 WLR 7. The directions were taken from the judgment of Lord Lane CJ in R v Findlay Duncan (1981) 73 Cr App R 359. A mixed statement is a statement made by an accused which in part comprises admission and in part exculpatory or self-serving statement.
+
+[22]  See CA Judgment at [126] to [132].
+
+[23]  See Oei Hengky Wiryo v HKSAR (No2) (2007) 10 HKCFAR 98.
+
+[24]  See HKSAR v Milne John (2022) 25 HKCFAR 257 at [32] to [37].
+
+[25]  R v Khan [1990] 2 SCR 531; see also the cases cited at footnote 46 below.
+
+[26]  See Phillion v The Queen [1978] 1 SCR 18; R v Abbey [1982] 2 SCR 24; R v Lavallee [1990] 1 SCR 852; and R v Giesbrecht [1994] 2 SCR 482 upholding the decision of the Manitoba Court of Appeal in (1993) 85 Man R(2d) 69.
+
+[27]  Ramsay v Watson (1961) 108 CLR 642 at pp.648 to 649.
+
+[28]  R v Bradshaw (1985) 82 Cr App R 79 at p.83.
+
+[29]  R v Lavallee [1990] 1 SCR 852 at p.900 per Sopinka J.
+
+[30]  [2014] 1 HKLRD 460.
+
+[31]  Hong Kong Judicial Institute’s Specimen Directions in Jury Trials (Vol 2, November 2020 Revision), Chapter 110 (“Specimen Directions on Expert Evidence”).
+
+[32]  [2014] 1 HKLRD 460, at [142] and [148].
+
+[33]  Ibid, at [144]. The defendant’s application for leave to appeal to this Court was unsuccessful, see HKSAR v Nancy Ann Kissel FAMC 63/2013, 13 May 2014.
+
+[34]  Specimen Directions on Expert Evidence, in particular p.110-4.
+
+[35]  CA Judgment at [91].
+
+[36]  Appearing together with Mr Tien for the Appellant.
+
+[37]  A principle laid down by the majority in Myers v Director of Public Prosecutions [1965] AC 1001 and followed by the House of Lords in R v Blastland [1986] 1 AC 41 at pp.52 to 53.
+
+[38]  (2000) 3 HKCFAR 322 at pp.327 to 328.
+
+[39]  (2016) 19 HKCFAR 187 at [11].
+
+[40]  Notwithstanding the lapse of the Evidence (Amendment) Bill 2018 in the Sixth Term of the Legislative Council, the Government is committed to taking forward the legislative exercise with the aim of re-introducing an amendment bill afresh in the current term of the Legislative Council. The proposed amendments in Sections 55O and 55P of the Evidence (Amendment) Bill 2018 set out the requirements of necessity and threshold reliability for admission of hearsay evidence in criminal proceedings.
+
+[41]  (1989) 166 CLR 283.
+
+[42]  Ibid at p.293. It should be noted that in this part of the discussion, Mason CJ was not addressing the state of mind exception which was referred to in the earlier part of his judgment. See the discussion by the CA at CA Judgment [94] to [101]. As held therein, the state of mind exception is not relevant in the present appeal.
+
+[43]  See CA Judgment at [131]. His Lordship cited the judgment of Mason CJ at [102].
+
+[44]  Supra at p.304 per Wilson, Dawson and Toohey JJ. The fifth member, Deane J was disposed to accept that the hearsay rule should be applied with flexibility though he confined his observation to the facts of the case, see p.308.
+
+[45]  R v Smith [1989] 3 NZLR 405; R v Rongonui [2000] 2 NZLR 385.
+
+[46]  R v Khan [1990] 2 SCR 531; R v Finta [1994] 1 SCR 701; R v Starr [2000] 2 SCR 144.
+
+[47]  [1988] 1 WLR 7.
+
+[48]  (1979) 69 Cr App R 365. See also Blackstone’s Criminal Practice 2024 at [F18.93].
+
+[49]  [2001] 1 HKC 363 at p.369.
+
+[50]  The approach was laid down by Lord Lane CJ in R v Duncan (1981) 73 Cr App R 359.
+
+[51]  [1988] 1 WLR 7 at p.15D to F.
+
+[52]  [1975] QB 834 at p.840E to F.
+
+[53]  BC8111151 New South Wales Criminal Court of Appeal (unreported, No 44 of 1981) 13 August 1981.
+
+[54]  See [4] above.
+
+[55]  Mr Chau quite properly accepted that the present case does not fall within this scenario.
+
+[56]  New South Wales Criminal Court of Appeal see footnote 53 above.
+
+[57]  The unreported judgment of the New South Wales Criminal Court of Appeal of 13 August 1981 was included in the authorities placed before us.
+
+[58]  (1982) 41 ALR 64.
+
+[59]  (1989) 166 CLR 283.
+
+[60]  Ibid at p.288. See also R v Blastland [1986] 1 AC 41 at p.54C to E.
+
+[61]  Ibid at p.289.
+
+[62]  Archbold Hong Kong 2024 Criminal Law, Pleadings, Evidence and Practice at [11-9]; see also Cross & Tapper on Evidence 13th Edn, at pp.582 to 583.
+
+[63]  (1989) 51 SASR 254.
+
+[64]  Ibid at p.269.
+
+[65]  Ibid at p.270 to 271.
+
+[66]  Archbold Hong Kong 2024 Criminal Law, Pleadings, Evidence and Practice at [11-17] and [11-18]. See also HKSAR v Li Cheung Yin [2018] HKCFI 581 at [14] to [16]; HKSAR v “Z” HCMA 291/2010, 5 September 2011, at [24].
+
+[67]  [1987] 1 AC 281.
+
+[68]  In R v Andrews the House of Lords summarized the principles governing res gestae.
+
+[69]  CA Judgment at [91].
+
+[70]  See also Specimen Directions on Expert Evidence.
+
+[71]  Appearing together with Ms Ng.
+
+[72]  R v Lavallee [1990] 1 SCR 852 at p.900, cited at [29(c)] above.
+
+ 
+
+ 

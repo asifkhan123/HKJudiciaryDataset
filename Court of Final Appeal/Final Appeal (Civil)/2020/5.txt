@@ -1,0 +1,366 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 5 of 2020
+
+[2020] HKCFA 33
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 5 OF 2020 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 150 OF 2017)
+
+________________________
+
+BETWEEN	 	 
+ 	CHAN KA LAM	Applicant
+ 	 	(Appellant)
+ 	and	 
+ 	THE COUNTRY AND MARINE PARKS	Respondent
+ 	AUTHORITY	(Respondent)
+________________________
+
+Before: Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Cheung PJ and Lord Sumption NPJ
+Date of Hearing: 4 September 2020
+Date of Judgment: 12 October 2020
+________________________
+
+J U D G M E N T
+
+________________________
+
+Chief Justice Ma and Mr Justice Cheung PJ:
+
+1.  This appeal raises a question of statutory interpretation, namely of s5(1)(b) of the Country Parks Ordinance[1] and its application in relation to the designation of enclaves as part of country parks in Hong Kong.
+
+A. BACKGROUND
+
+2.  In 1976, the Ordinance was enacted to provide a legal framework for the designation as well as the control and management of country parks and special areas.  The Director of Agriculture, Fisheries and Conservation is designated as the Country and Marine Parks Authority (“the Authority”) in whom is vested the control and management of country parks and special areas.[2]  Among other things, it is the duty of the Authority to make recommendations to the Chief Executive for the designation of areas as country parks.[3] The Authority is the respondent in this appeal.
+
+3.  The Ordinance also establishes the Country and Marine Parks Board, which is a consultative body to advise the Authority (“the Board”).[4]  It also plays an adjudicative role in the statutory designation process of country parks[5] and in the control of the use of leased land within a country park.[6] The Board comprises the Authority and not less than 5 members who are public officers,[7] as well as members who are not public officers, including those representing conservationist interests.  Its importance in the scheme of country parks can be seen in the specific reference to this body in the long title of the Ordinance, quite apart from the detailed provisions in it dealing with its operations.[8]
+
+4.  Many of the country parks in Hong Kong were designated in the 1970s and over the years, the number of country parks has been increased to 24 and they now cover some 40% of the land areas in Hong Kong.
+
+5.  Until 2010, the policy on the designation of country parks was to prefer government land, as designation of land in private ownership could give rise to objections and management problems.  As a result, private land together with some surrounding government land were usually excluded from country park boundaries, and thus became “country park enclaves”.  As at 2010, there were a total of 77 country park enclaves with a total area of 2,076 hectares.
+
+6.  By 2010, owing to the quickened pace of urbanisation, some country park enclaves were facing increasing development pressure.  In June that year, unauthorised excavation works were detected within the country park enclave of Sai Wan,[9] triggering significant public concerns on the protection of country park enclaves in Hong Kong.  This eventually led to a change of government policy as announced by the Chief Executive in his 2010-11 policy address,[10] in which the government undertook to either incorporate the enclaves into existing country parks, or determine their proper uses through statutory planning under the Town Planning Ordinance[11] to meet conservation and social development needs.  This policy change involved 54 of the 77 country park enclaves, the others having already been covered by outline zoning plans made under the Town Planning Ordinance.
+
+7.  Pursuant to the 2010 change of government policy, the Authority prepared a working paper dated May 2011 entitled “Review of the Criteria for Designating Country Parks and Proposed Measures for Protecting Country Park Enclaves”[12] for the consultation and advice of the Board.  As paragraph 1 of the Working Paper explained, the paper sought the advice of the Board on “the updated principles and criteria for designating new country parks or extending existing country parks”.  The paper also proposed “comprehensive measures for protecting country park enclaves.”[13]  The paper then discussed in detail the updated principles and criteria proposed for the Board’s advice, noting that, if adopted, “they would be used to assess the merits, justifications and implications of incorporating country park enclaves into the country park boundaries”.[14] The paper also discussed alternative measures to protect country park enclaves under the Town Planning Ordinance or under some existing schemes and policy.[15]  Paragraph 5 of the paper was headed “The proposed way forward”.  Paragraph 5.1 pointed out that of the existing 77 country park enclaves, 54 were not protected under the Town Planning Ordinance.  Paragraph 5.2 went on to say that it was considered necessary to protect the 54 enclaves against incompatible uses by applying appropriate protection measures discussed in the paper.  Paragraph 5.3 then stated:-
+
+“As regards the appropriate protection measures to be applied, we will, in conjunction with departments concerned, consider whether the enclave is suitable for designation as part of a country park according to the updated principles and criteria for designating new country parks or extending existing country parks set out at Annex 2, or it is more suitable to be protected by including the area into a DPA [Development Permission Area] plan followed by an OZP [Outline Zoning Plan] under the TPO [Town Planning Ordinance]. Actions will then be taken to initiate the respective procedures for applying the relevant protection measures as soon as practicable.” (Emphasis added)
+
+8.  The paper ended with paragraph 7, entitled “Advice sought”:-
+
+“Members[16] are invited to offer views and comments on the updated principles and criteria for designating new country parks or extending existing country parks, and the proposed measures and way forward for protecting country park enclaves set out in this paper.”
+
+The Working Paper is of some importance and is further considered below.[17]
+
+9.  At a meeting on 24 May 2011, the Board endorsed in principle the updated principles and criteria for designating new country parks or extending existing country parks set out in the Working Paper.  On top of that, it was stated by the Authority that it “would submit the proposed measures for each enclave to the Board for deliberation” and “would take account of members’ views when it assessed the situation of individual enclaves in details [sic] and devised the most appropriate measures”.[18] Following such endorsement, the Authority proceeded to assess in batches the 54 enclaves as regards their suitability for inclusion into the surrounding country parks or alternatively, for protection by other measures.
+
+10.  Of those assessed,[19] 6 enclaves[20] were decided by the Authority as not suitable for inclusion into their surrounding country parks, who therefore decided not to recommend them for designation as country park.  However, notwithstanding what had been stated at the 24 May 2011 meeting, unlike those enclaves which the Authority decided to recommend for designation, the decisions not to recommend the 6 enclaves were made by the Authority without consulting the Board.  The Authority maintained the view that it was not under a duty to do so nor was it necessary to do so.
+
+B. PROCEEDINGS BELOW
+
+11.  The decisions not to include the 6 enclaves into their neighbouring country parks eventually led to the commencement by the applicant, an environmental activist, of the judicial review proceedings from which this appeal arose.  Before the Court of First Instance,[21] the challenge against the Authority’s decision not to consult the Board under s5(1)(b) of the Ordinance failed, but the challenge against the Authority’s assessments and decisions not to recommend designation of the enclaves succeeded on public law grounds with which we are not concerned.  In this appeal, we are concerned only with the earlier question of the true construction of s5(1)(b).
+
+12.  Section 5(1) of the Ordinance reads:-
+
+“(1) There is hereby established a Country and Marine Parks Board which shall —
+
+(a) act as a consultative body to advise the Authority upon any matter referred to it by the Authority;
+
+(b) consider and to advise the Authority on, the policy and programmes prepared by the Authority in respect ofcountry parks and special areas, including proposed country parks and special areas; and
+
+(c) consider any objections that may be lodged under section 11 or section 17.”
+
+13.  Au J, who heard the application for judicial review, accepted that under s5(1)(b), the Authority is under a duty to consult the Board so as to enable the Board to consider and advise the Authority on its “policy and programmes in respect of country parks …… .”[22] However, the judge disagreed that the assessments and decisions concerning the 6 enclaves were “policy” or “programmes” in respect of country parks:-
+
+“38. First, I accept that the usual meaning of ‘policy’ and ‘programme’ refers to or denotes respectively a course or set of general principles to guide the conducts and plan or scheme that is of general and broad nature. Such meaning is also consistent respectively with the usual meaning of the Chinese words ‘政策’ and ‘計劃’. These words therefore are not intended to include or cover individual one-off decision made in respect of country parks.
+
+…
+
+40. However, the individual specific assessment conducted under the 2011 Criteria and decision made not to designate an area as country park are not and cannot be regarded as a ‘policy’ or ‘programme’.
+
+41. Second, I agree that the assessment and decision not to designate an enclave as a country park cannot be a matter ‘in respect of country parks’ or ‘in respect of proposed country parks’.  The assessment and decision do not involve a country park or a proposed country park as the enclave involved is by definition not a country park or a proposed park.”
+
+14.  On appeal by the applicant, the Court of Appeal[23] essentially agreed with the judge’s reasoning and dismissed the appeal.[24]  The court explained what it understood to be the meaning of the “policy and programmes” of the Authority under s5(1)(b):-
+
+“In the statutory context of the [Ordinance], we agree with the judge that in Section 5(1)(b) ‘policy’ and ‘programmes’ refers [sic] to formulation of principles (as policy) and the making of plan or scheme (as programme) on a high level of generality. There is a clear distinction between the formulation of policy and programme on the one hand and their actual execution and implementation on the other. Whilst Section 5(1)(b) provides that the Board should consider and give advice on the former, it could not be the legislative intent that the Board, playing an advisory role, should be involved in the execution or implementation of policy or programme.”[25] (Emphasis added)
+
+15.  The Court of Appeal concluded that the application of the policy and implementation of the programme set out in the Working Paper in the assessment of each individual enclave was “a pure executive act instead of a policy making or programme planning stage.”[26]
+
+16.  The court rejected the applicant’s argument that the assessments should be viewed together to form a programme.  It said:-
+
+“64. Likewise, the submission of Mr Kat [for the applicant] that each assessment should be viewed together with other assessments to form a programme cannot assist his case. Notwithstanding that these assessments were conducted with the same approach and with the same set of criteria (as they had to be since they were all done pursuant to the criteria set out in the 2011 paper), we do not regard such nexus as providing a basis for asserting that they were a programme within the meaning of Section 5(1)(b). If Mr Kat were correct, all decisions or actions or other executive steps taken under the 2011 Paper can be regarded as programme for which the Authority must seek the advice of the Board under that subsection.”
+
+17.  It is to be noted in relation to the proceedings below that both Au J and the Court of Appeal saw the issue raised by the applicant as being whether the individual assessments by the Authority regarding the 6 enclaves could themselves amount to a policy or programme within the meaning of s5(1)(b) of the Ordinance.  This was regarded by the Court of Appeal as being “the central issue” in the appeal.[27] As we shall see presently, this was not the correct question to address on the facts of the present case.
+
+C. LEAVE TO APPEAL TO THE COURT OF FINAL APPEAL
+
+18.  On 12 May 2020, the Appeal Committee[28] gave leave to the applicant to appeal to this court on the following questions, namely:-
+
+“(a) On the true construction of section 5(1)(b) of the Country Parks Ordinance (Cap 208), in what circumstances does the Authority come under a duty to consult the Board, and thus to enable the Board to consider and advise the Authority, on the policy and programmes prepared by the Authority in respect of country parks ... including proposed country parks...?
+
+(b) In particular, to what extent, if any, does the Authority come under a duty to consult the Board, and thus to enable the Board to consider and advise the Authority, regarding the Authority’s assessments and decisions regarding the suitability or otherwise of designating existing enclaves as country park pursuant to the Authority’s Working Paper WP/CMPB/6/2011 published in May 2011?”
+
+These questions require an analysis of the meaning of s5(1)(b) of the Ordinance and its applications to the facts of the present case.
+
+D. PARTIES’ ARGUMENTS
+
+19.  For the applicant, Mr Nigel Kat SC[29] argued it was unhelpful simply to look at the definitions of “policy and programmes” in s5(1)(b) and then apply them to the facts, this being the approach adopted by Au J and the Court of Appeal.  The difficulty with this approach, so it was essentially contended, was that it made the duty on the Board to consider and advise under that provision potentially too wide.  Mr Kat pointed to the fact that the Authority has the responsibility for a wide variety of matters in country parks (see the duties on the Authority enumerated in s4 of the Ordinance) and its policies and programmes can accordingly vary greatly in their nature, scope and degree depending on their subject matter.  For example, if “programme” were to be construed as a series of planned activities, events or future actions, even if such involved what may appear to be matters of relatively low importance such as country park patrol rotas, this would require the Board to be consulted.  On the other hand, a one-off decision over an important topic such as a newly‑discovered coral reef or a marine park might not come within the ambit of s5(1)(b).  According to Mr Kat, it was impossible to devise a satisfactory definition for the words “policy and programmes” that would be applicable and workable in all circumstances.
+
+20.  Instead, it was contended that rather than construing the specific words contained in s5(1)(b), a different approach should be adopted.  Mr Kat argued that one should apply Wednesbury unreasonableness principles to determine whether a proposed measure mandates consultation.  A decision maker, in determining whether a s5(1)(b) consultation arises, must ask whether any proposed measure or decision would amount to a policy or programme of “sufficient significance or importance” on which the Board ought to consider and advise.  In determining whether any matter was of sufficient significance or importance, the Authority would have to take into account all relevant matters, whilst disregarding all those which are irrelevant; a “multi‑factorial” approach should be adopted.  In this regard, reference was made to what Mr Kat called a “Tameside inquiry”.[30]
+
+21.  A multi‑factorial approach meant that the Authority had to take the following factors into account: the nature and subject of the proposed measures; the scale or degree of the proposed measures; the likely effect of the proposed measures on the country parks concerned; the relevant expertise available in the Board; the urgency and degree of necessity of the proposed measures; and the public interest in the proposed measures.
+
+22.  Adopting this approach, Mr Kat submitted that in relation to the designation of areas as country parks or as part of country parks as in the present case, it was difficult to conceive of circumstances “short of de minimis” in which it would not be sufficiently significant or important to have to consult the Board under s5(1)(b).  Accordingly, he submitted that there was a duty in the present case to consult the Board on the suitability of the said 6 country park enclaves for inclusion into their neighbouring country parks pursuant to the Working Paper, subject only to de minimis.
+
+23.  Mr Abraham Chan SC,[31] for the Authority, submitted that the words “policy and programmes” in s5(1)(b) had to be construed, but he contended for a narrow construction.  Like Mr Kat, Mr Chan’s approach was to try to avoid giving too wide a scope for the Board’s duty to consider and advise under that provision.  As we understood them, Mr Chan’s submissions amounted to the following:-
+
+(1) The natural meaning of the words “policy” and “programme” was clear.  In the respondent’s printed Case, it was accepted that the word “policy” referred to a course or set of general principles, while “programme” referred to a plan or planned series of intended activities, events or future actions.[32] In his oral submissions, however, Mr Chan narrowed his definition of programme to merely a plan or outline of intended activities,[33] rather than the activities themselves.
+
+(2) Accordingly, and this was the crux of the Authority’s case, these terms operated on a “high level of generality”.  It is to be observed that this was the way the Court of Appeal had construed the relevant words.  It was said by Lam VP,[34] “In the statutory context of [the Ordinance], we agree with the judge that in s5(1)(b) ‘policy’ and ‘programmes’ refers [sic] to formulation of principles (as policy) and the making of plan or scheme (as programme) on a high level of generality.”  In other words, as Mr Chan puts it, the two terms refer to “framework or schematic matters” or “directive principles”.
+
+(3) The Authority argues that this must be so, otherwise the Board will be concerning itself with every detail, however small (as Mr Chan puts it “on nearly every aspect of a given authority’s work”).  Reference was made to the factor of time and resources (although there was no evidence in relation to these facets).  This would be unworkable. Accordingly, Mr Chan submitted that the Board’s role under s5(1)(b) was restricted to considering and advising on “framework or schematic matters”, certainly as far as programmes were concerned, and not on the intended activities, events or future actions themselves even if they were identified within a programme.
+
+(4) A workable balance therefore had to be reached when examining the legislative scheme envisaged by s5(1)(b).
+
+(5) Accordingly, in the application of the above analysis, the Authority contended that the individual assessments in relation to the 6 enclaves could not be either a policy or programme or a part of such within the meaning of s5(1)(b) of the Ordinance.  In further support of this point, Mr Chan made the following submissions:-
+
+(a) In any event, decisions such as the said assessments individually could not linguistically be characterised as a policy or programme “prepared” by the Authority in respect of country parks.
+
+(b) The language of s5(1)(b) was to be contrasted with that used for s24(2).[35] While this latter provision specifically required the advice of the Board to be sought before any area could be designated as a special area, this was to be contrasted with the absence of such requirement in s5(1)(b) or anywhere else in the Ordinance.
+
+24.  Further on the construction of s5(1)(b), Mr Chan made the following point (a point which was accepted by Au J and which the Court of Appeal did not find it necessary to decide).  He contended that in any event, the assessments of the 6 enclaves were not “in respect of” country parks; rather they were in respect of the enclaves.  The words “in respect of” require that the principal practice or subject matter of the relevant policy or programme directly concerned country parks or special areas or areas proposed as such.
+
+25.  Before addressing these specific issues on the construction of s5(1)(b), we should first restate some relevant general principles and outline the respective roles of the Authority and the Board under the Ordinance.
+
+E. PRINCIPLES OF STATUTORY CONSTRUCTION
+
+26.  The principles of statutory construction are well established.  Words are construed in their context and purpose.  They are given their natural and ordinary meaning with context and purpose to be considered alongside the express wording from the start, and not merely at some later stage when an ambiguity is thought to arise.[36]
+
+27.  It is, however, important to emphasise that a purposive and contextual interpretation does not mean that one can disregard the actual words used in a statute.  To the contrary, the court is to ascertain the intention of the legislature as expressed in the language of the statute.  One cannot give a provision a meaning which the language of the statute, understood in the light of its context and purpose, cannot bear.[37]
+
+F. RESPECTIVE ROLES OF THE AUTHORITY AND THE BOARD
+
+28.  As the long title of the Ordinance tells us, the Ordinance was enacted to provide for the designation, control and management of country parks and special areas, the establishment of the Board, and for purposes connected therewith.  The respective roles of the Authority and the Board are clearly set out.
+
+29.  The Authority is responsible for the control and management of country parks and its responsibilities and function are set out in ss3 and 4, and further expanded on in other parts of the Ordinance.  The Board’s duties are different and are set out in summary in s5 of the Ordinance, again expanded on in other parts of the Ordinance.  One of its principal functions is to be a consultative body. The Authority can consult the Board on any matter (s5(1)(a)), but accepts it must consult the Board to consider and advise on policies and programmes prepared by the Authority (s5(1)(b)).  One of the questions for determination in this appeal[38] of course focuses on the circumstances when such consultation is mandatory.
+
+30.  Before resolving the two Questions in this appeal, we draw attention to an important area of overlap between the function of the Authority and that of the Board in relation to the designation of areas as country parks, this being the particular subject matter of the present appeal.  Although Part III of the Ordinance is headed “DESIGNATION OF COUNTRY PARKS”, this is somewhat misleading in that there are relevant provisions to be found in other parts of the Ordinance. One such provision is s4(a), which places the primary responsibility for making recommendations to the Chief Executive on designation on the Authority.  The presence of this provision in Part II of the Ordinance (“DUTIES OF COUNTRY AND MARINE PARKS AUTHORITY AND ESTABLISHMENT OF COUNTRY AND MARINE PARKS BOARD”) is significant in that this particular duty of the Authority, alongside the other duties set out in s4, is immediately followed by the role of the Board in s5, including the said duties of consultation set out in ss5(1)(a) and (b).  There is a clearly discernible link between the responsibilities of the Authority in relation to the recommendation which may be made in designating (or not designating) areas as country parks and the participation of the Board in this subject matter.
+
+31.  The critical question is of course when the participation of the Board becomes compulsory in this regard, but for the time being the only point of emphasis is that the Board can and does have a potentially important role to play as far as the designation of areas as country parks is concerned.  There are other relevant provisions.  Section 8(4), in Part III of the Ordinance, provides specifically that the Authority shall consult the Board on the preparation of a draft map showing a proposed country park that is recommended by the Authority to the Chief Executive for designation.  Further, the Board also has an adjudicative role under s11.  However, the participation of the Board under Part III of the Ordinance (as well as that of other entities referred to therein such as the Chief Executive and members of the public) only arises when there has already been a designation of an area as a country park.  At the earlier stage of whether or not an area should be designated as a country park, ss4 and 5 are relevant.  At this stage, the only relevant persons who are involved are the Authority and the Board.
+
+32.  We now address the Questions in the appeal.  As mentioned earlier, Question (a) calls for the construction of s5(1)(b), Question (b) is the application of the law to the facts of the case.
+
+G. CONSTRUCTION OF s5(1)(b) OF THE ORDINANCE
+
+33.  The words “policy and programmes” fall to be determined in particular in this appeal.  In our view, these words, whether in English or in Chinese, unqualified and not defined elsewhere in the Ordinance, are everyday words and relatively straightforward to understand.  The parties have provided many references to dictionary meanings but it is unnecessary to refer to them.
+
+34.  Basically, the word “policy” means a course or set of general principles offering guidance towards an objective or pointing the way towards an objective.  It is general or broad in nature.  In other words, the word “policy” suggests that it is something standing at a higher level of generality than specific decisions or acts.  It functions to guide or direct future actions.  The decision that country park enclaves may be considered for inclusion into existing country parks notwithstanding that they involve privately-owned land and the further decision to adopt the updated criteria set out in the Working Paper as assessment criteria for inclusion of country park enclaves into existing country parks exemplify what can amount to a policy in this context.
+
+35.  The word “programme” on the other hand is less general or broad in nature, being more specific in terms of what is sought to be achieved.  It connotes a plan of action, a project or scheme or, as referred to earlier,[39] a series of planned activities, events or future actions.  A programme is a suitable term to employ if it seeks to implement the effect of a policy by a series of intended activities, events or actions.  There is no justification artificially to cut down the scope of what a programme can contain and exclude “executive acts” from a programme. For the same reason, it is unhelpful to say categorically that an act to carry out or implement a programme does not form part of the programme, for it begs the question as to what the programme comprises in the first place.  Some reliance was placed by Mr Chan on s4(c) of the Ordinance,[40] on the word “measures” to indicate that acts of implementation might not necessarily fall within the words “policy and programmes”.  The short answer is that such measures may fall within these words: it depends on what the relevant policy or programme comprises and this will of course depend on the facts.
+
+36.  In the case of s5(1)(b), the two words juxtaposed in this way, are not only to be construed as having different meanings but also cumulatively intended to give an indication of the spectrum of matters on which the Board must be consulted. This is the purpose of the provision and it arises in the present case in the context of the designation of areas as country parks.  That said, it is important to bear in mind that specific words are used: only policies and programmes prepared by the Authority are targeted, not just any matter that is handled by the Authority.  This disposes partly with the concern that the Board’s role is not to micro‑manage the functions of the Authority.  However, the operation of s5(1)(b) is clear: as long as a policy or programme prepared by the Authority is involved, the Board must be consulted for its consideration of and advice on that policy or programme.  The critical question is always whether the particular matter involved comes within the words policy or programme.
+
+37.  We now deal with the parties’ submissions, to which we have earlier referred.
+
+38.  As mentioned earlier, Mr Kat argued that the way s5(1)(b) operated and ought to be construed was that the Authority must consult the Board on any matters that have a significant impact or are otherwise important in respect of country parks.  A multi‑factorial approach should be adopted.  We reject these arguments for the following reasons:-
+
+(1) First, it is not a construction based on the wording of s5(1)(b).  On the contrary, it is a construction which largely ignores the words “policy and programmes” in s5(1)(b), and is chiefly arrived at by reference to what the applicant perceives to be the purpose of the legislation and intent of the legislature. Under this construction, any “measure” that may have a significant impact or is otherwise important is covered, whereas a “policy” or “plan” that has no significant impact or is not otherwise important is excluded.  Such a construction does violence to the words “policy and programmes”, indeed the whole of s5(1)(b).  As mentioned, a provision cannot be given a meaning which its language cannot bear.  If the legislation wanted to qualify words, it would have done so expressly.
+
+(2) Secondly, the suggested criteria of significance and importance must in practice be almost impossible to operate.  In the context of country parks, rhetorically speaking, how is a court going to assess whether a matter is significant or important? What may be insignificant or unimportant to some people may be extremely significant or important to another group.  The applicant herself makes the point that the Board comprises members from a diverse background and the membership has commonly included naturalists, conservationists and ecologists. There may be members from other backgrounds.
+
+(3) Thirdly, the applicant’s construction borrows from the concept of Wednesbury unreasonableness under general public law.  There is simply no justification to import this concept into the construction of s5(1)(b).  In fact, it confuses the mandatory duty to consult under s5(1)(b) with the discretion to consult under s5(1)(a).  Under s5(1)(a), the Authority may, in its discretion, decide to refer any matter to the Board for consultation.  The exercise of this statutory discretion is controlled by general public law principles such as those relied on by Mr Kat.  For example, if a decision in respect of a country park, including a decision to designate or not designate an area as country park, is likely to have a significant impact or is otherwise important, public law principles may well require the Authority to exercise his discretion to consult the Board, particularly if the subject matter is one within the expertise of the Board,[41] or one on which the Board as a valuable consultative resource is intended by the legislature to have a say.  In this way, the concern of Mr Kat that the Authority can bypass the Board and decide on matters of significant impact or otherwise of importance in respect of country parks is taken care of by the general law.  However, where the matter comes within s5(1)(b), in other words involving a policy or programme prepared by the Authority, consultation is mandatory.  And whether it does come within this provision depends on its true construction, not on concepts such as Wednesbury unreasonableness or a so‑called Tameside inquiry.
+
+39.  For his part, Mr Chan is of course correct in his general approach that in determining the effect of s5(1)(b), it is important to construe the words in that provision.  However, we cannot accept the limitations that he, following the Court of Appeal, has sought to place particularly on the meaning of the word “programme”.  As stated earlier, while the word “policy” is general or broad in nature (and can conceivably come within the words of the Court of Appeal “a high level of generality”), the term “programme” is quite different. It should not be limited to meaning only a plan or outline.  There is no support from the purpose and context of s5(1)(b) to justify such a narrow interpretation.  On the contrary, the purpose and context of that provision suggests, as we have seen, the importance of the role played by the Board under the Ordinance.  It makes no sense to confine the Board’s consideration and advice only to a plan or outline and not to the substance of the activities, events or actions thereunder.
+
+40.  Nor are we persuaded that for reasons of time and resources, a so‑called workable balance needs to be reached in the construction of s5(1)(b).  Like the submission that a high level of generality should be added as a qualification, this factor of time and resources finds no support or hint in the context of the Ordinance, whether in the body of the statute itself or even in any of the legislative materials.
+
+41.  Like Mr Kat, Mr Chan was essentially concerned about the whole system being unworkable in that the Board may become involved in many matters of fine detail.  The ready answer to this is that it all depends on whether s5(1)(b) applies.  Quite simply, if a policy or programme prepared by the Authority in respect of country parks is involved, the Board must be consulted.  This is dependent on whether there is in existence a policy or programme within their definitions.  This may or may not involve matters of detail and depends on the facts of any given case.  We would also add that although the present case does not involve going into the construction of the words “consider and to advise” in s5(1)(b), it seems that the extent to which the Board may wish to deal with any particular policy or programme within the meaning of that provision would be entirely in its discretion subject to their acting within acknowledged administrative law principles.  It is up to the Board and its members to determine the extent of their involvement and their dealing with detail in the course of considering and advising on policies and programmes.
+
+42.  Finally in this context, as regards the Authority’s argument based on the words “in respect of”, we see no reason to limit the broad meaning of “in respect of” in the way submitted by the Authority.  As Fok PJ explained in Securities and Futures Commission v Pacific Sun Advisors Ltd:- [42]
+
+“… The words ‘in respect of’ mean having a relation, connection, reference or regard to something. In Cunard’s Trustees v Commissioners of Inland Revenue, they were described by Lord Greene MR as ‘colourless’. Mann CJ in Trustees Executors & Agency Co Ltd v Reilly said of them:
+
+‘The words ‘in respect of’ are difficult of definition, but they have the widest possible meaning of any expression intended to convey some connection or relation between the two subject-matters to which the words refer.’”
+
+43.  The words “in respect of country parks” mean exactly what they say, that the relevant policy or programme prepared by the Authority have something to do with country parks, whether actual or proposed.  The term “proposed” envisages a situation that a policy or programme may involve an area which is not yet a country park.
+
+H. APPLICATION TO FACTS OF PRESENT CASE
+
+44.  Turning to the facts of the present case, the Working Paper,[43] which was prepared by the Authority, clearly sets out a policy using the updated criteria to assess enclaves for the purposes of designation of country parks.  But apart from that, it also sets out an action plan to assess all the 54 enclaves not protected under the Town Planning Ordinance for designation as part of a country park by reference to the updated criteria.  This was the effect of paragraph 5.3 of the Working Paper.  The individual assessments of the 54 enclaves that were to be made, formed part of a plan to implement the policy protecting the 54 enclaves.
+
+45.  In our view, this action plan of individual assessments fell within the meaning of programme under s5(1)(b) of the Ordinance.  Earlier,[44] we referred to the approach of Au J and the Court of Appeal to inquire whether the various assessments could themselves be regarded individually as policies or programmes.  Obviously, they were not policies (and this argument was not maintained by the applicant before us).  They were not programmes prepared by the Authority either: they were simply assessments made by the Authority following the said policy.  As stated earlier however, the assessments were a part of a programme but they were not programmes individually.
+
+46.  As for the “in respect of” argument,[45] the assessment programme was clearly in respect of the neighbouring country parks in that the purpose of the assessments was to decide whether the enclaves should be absorbed into these country parks.  Looked at from another angle, the assessments were also in respect of proposed country parks in the sense that the enclaves were to be assessed for designation as country parks.
+
+47.  Accordingly, the assessments of the enclaves (which included the relevant 6 enclaves) were a part of a programme within the meaning of s5(1)(b) of the Ordinance and therefore required the Board to be consulted on them.
+
+48.  For completeness, we should just finally deal with the point made by Mr Chan in relation to s24(2) of the Ordinance.[46] The fact that there exists an express provision dealing with the role of the Board in relation to the designation of special areas cannot preclude its role in the designation of country parks if this otherwise comes within the terms of s5(1)(b) as properly construed.
+
+I. OUTCOME
+
+49.  For these reasons, we would allow the appeal, set aside the relevant orders below and make:-
+
+(1) an order of certiorari to bring up and quash the Authority’s decision not to consult the Board on the Authority’s assessments and decisions regarding the suitability or otherwise of designating the enclaves at Hoi Ha, Pak Lap, To Kwa Peng, So Lo Pun, Tin Fu Tsai and Pak Tam Au as country park pursuant to the Working Paper; and
+
+ (2)     an order of mandamus requiring the Authority to put before the Board an assessment of the suitability of incorporating each of the 6 enclaves into country parks in accordance with law for its consideration and advice, and to consider the advice of the Board thereon in formulating its recommendations to the Chief Executive for the designation of areas as country parks pursuant to s4(a) of the Ordinance.
+
+50.  As for costs, we would make an order nisi that the respondent do pay the appellant’s costs both here and below, such costs to be taxed if not agreed.  The appellant’s costs should also be taxed in accordance with the Legal Aid Regulations.  If a different order for costs is sought, written submissions should be lodged with the Registrar and served on the other party within two weeks of the handing down of this judgment, with liberty to the other party to serve written submissions in reply within two weeks thereafter.  The matter will then be dealt with on paper.  If no submissions are lodged or served within the initial two week period, the order nisi will stand absolute.
+
+ 
+
+Mr Justice Ribeiro PJ:
+
+51.  I agree with the joint judgment of Chief Justice Ma and Mr Justice Cheung PJ.
+
+ 
+
+Mr Justice Fok PJ:
+
+52.  I agree with the joint judgment of Chief Justice Ma and Mr Justice Cheung PJ.
+
+ 
+
+Lord Sumption NPJ:
+
+53.  I agree with the joint judgment of Chief Justice Ma and Mr Justice Cheung PJ.
+
+ 
+
+Chief Justice Ma:
+
+54.  Accordingly, we unanimously allow the appeal, set aside the relevant orders below and make the orders and directions indicated in paragraphs 49 and 50.
+
+ 
+
+
+
+(Geoffrey Ma)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+ 
+
+   (Andrew Cheung)	    (Lord Sumption)
+Permanent Judge	 Non-Permanent Judge
+  
+
+Mr Nigel Kat SC and Mr Earl Deng, instructed by Vidler & Co., assigned by the Director of Legal Aid, for the Applicant (Appellant)
+
+Mr Abraham Chan SC, Mr Keith Lam and Mr John Leung, instructed by the Department of Justice, for the Respondent (Respondent)
+
+[1] Cap 208 (“the Ordinance”).
+
+[2] Section 3.
+
+[3] Section 4(a).
+
+[4] Sections 5(1)(a) and (b).
+
+[5] Sections 5(1)(c) and 11.
+
+[6] Sections 5(1)(c) and 17.
+
+[7] Section 5(2).
+
+[8] See Sections 5 and 6.
+
+[9] An enclave situated on the eastern coast of the Sai Kung peninsula.
+
+[10] Dated 13 October 2010 (“Sharing Prosperity for a Caring Society”).
+
+[11] Cap 131.
+
+[12] Working Paper WP/CMPB/6/2011 (“the Working Paper”).
+
+[13] Para 1.
+
+[14] Para 3.1.
+
+[15] Paras 4.5-4.8.
+
+[16] Members of the Board.
+
+[17] See para 44 below.
+
+[18] Paras 102/11 and 124/11 of the Minutes of Meeting.
+
+[19] As at June 2013, 26 enclaves had been assessed.
+
+[20] Hoi Ha, Pak Lap, To Kwa Peng, Pak Tam Au, So Lo Pun and Tin Fu Tsai.
+
+[21] HCAL 54/2014 (Au J as he then was).
+
+[22] Judgment dated 27 April 2017 (CFI Judgment), para 31.
+
+[23] Lam VP, Barma and Poon JJA.
+
+[24] Judgment of Lam VP dated 14 May 2019 (CA Judgment) [2019] 2 HKLRD 1198.
+
+[25] CA Judgment, para 57.
+
+[26] CA Judgment, para 61.
+
+[27] CA Judgment, para 50.
+
+[28] Ma CJ, Ribeiro PJ and Cheung PJ [2020] HKCFA 16.
+
+[29] Mr Earl Deng with him.
+
+[30] Referring to the principles established in Secretary of State for Education and Science v Tameside Metropolitan Borough Council [1977] AC 1014.
+
+[31] Leading Mr Keith Lam and Mr John Leung.
+
+[32] Paras 44(1) and 45(3).
+
+[33] Relying on a definition in The Shorter Oxford English Dictionary (6th ed, 2007) and on the Chinese version of “programme” in s5(1)(b) (“計劃”).
+
+[34] CA Judgment, para 57.
+
+[35] Section 24(2) in Part VI of the Ordinance deals with the designation of special areas.  It states:-
+
+“(2) The Authority may, on the advice of the Board, by order in the Gazette, designate any area of Government land within a country park as a special area for the purposes of this Ordinance.”
+
+[36] Town Planning Board v Town Planning Appeal Board (2017) 20 HKCFAR 196, paras 29, 75; HKSAR v Lam Kwong Wai and Anr (2006) 9 HKCFAR 574, para 63.
+
+[37] Lam Kwong Wai, para 63.
+
+[38] See Question (a) as set out in para 18 above.
+
+[39] Paras 19 and 23(1) above.
+
+[40] “It shall be the duty of the Authority –
+
+ …
+
+ (c) to take such measures in respect of country parks and special areas as he thinks necessary –
+
+(i) to encourage their use and development for the purposes of recreation and tourism;
+
+(ii) to protect the vegetation and wild life inside country parks and special areas;
+
+(iii) to preserve and maintain buildings and sites of historic or cultural significance within country parks and special areas but without prejudice to the Antiquities and Monuments Ordinance (Cap. 53); and
+
+(iv) to provide facilities and services for the public enjoyment of country parks and special areas”
+
+[41] See Secretary of State for Education and Science v Tameside Metropolitan Borough Council [1977] AC 1014.
+
+[42] (2015) 18 HKCFAR 138, para 23.
+
+[43] See paras 7 and 8 above.
+
+[44] See para 17 above.
+
+[45] See paras 24, 42 and 43 above.
+
+[46] See para 23(5)(b) above.
+
+ 

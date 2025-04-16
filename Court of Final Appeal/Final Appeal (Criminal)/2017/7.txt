@@ -1,0 +1,353 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC Nos. 6 and 7 of 2017
+
+[2018] HKCFA 15
+
+FACC No. 6 of 2017
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 6 OF 2017 (CRIMINAL)
+
+(ON APPEAL FROM HCMA NO. 700 OF 2013)
+
+_______________________
+
+BETWEEN
+
+ 	HKSAR	Respondent
+ 	and	
+ 	WAN THOMAS (溫皓竣) (D1)	Appellant
+_______________________
+
+FACC No. 7 of 2017
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 7 OF 2017 (CRIMINAL)
+
+(ON APPEAL FROM HCMA NO. 700 OF 2013)
+
+______________________
+
+BETWEEN
+
+ 	HKSAR	Respondent
+ 	and	
+ 	GUAN QIAOYONG (關巧用) (D2)	Appellant
+______________________
+
+Before: Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Tang PJ, Mr Justice Fok PJ and Lord Collins of Mapesbury NPJ
+Date of Hearing: 17 April 2018
+Date of Judgment: 14 May 2018
+____________________
+
+JUDGMENT
+
+____________________
+
+Chief Justice Ma:
+
+1.  I agree with the judgment of Mr Justice Fok PJ.
+
+Mr Justice Ribeiro PJ:
+
+2.  I agree with the judgment of Mr Justice Fok PJ.
+
+Mr Justice Tang PJ:
+
+3.  I agree with the judgment of Mr Justice Fok PJ.
+
+Mr Justice Fok PJ:
+
+4.  This appeal concerns the regime under the Prison Rules[1] for visits to prisoners on remand awaiting trial (“prisoners awaiting trial”).  In particular, it raises the questions of (i) whether under those Rules visits to such prisoners are limited to their relatives and friends, and (ii) if so, whether under the visiting regime a prisoner’s friends are limited only to those persons who are personal acquaintances and known to him so that, absent special authority, visits by strangers or persons he has not previously met are excluded in all cases and regardless of the purpose of the visit.
+
+The proceedings below
+
+5.  The appellants, with others,[2] were charged with conspiracy to defraud[3] in that, between 27 August 2011 and 19 August 2012, they conspired with other unknown persons to defraud officers of the Correctional Services Department (“CSD”) by dishonestly and falsely representing to those officers that each of them was a friend of an inmate remanded at Lai Chi Kok Reception Centre (“LCKRC”), thereby inducing the officers to act contrary to their public duty, namely to grant them permission to visit the relevant inmates at LCKRC which the officers would not otherwise have granted.
+
+6.  On 13 September 2013, the appellants[4] were convicted after trial before the magistrate,[5] who imposed community service orders on them.[6]  The appellants appealed against their convictions.  The appeal was ordered to be transferred from the Court of First Instance to the Court of Appeal[7] and, on 17 October 2016, the Court of Appeal[8] gave judgment dismissing the appellants’ appeals.[9]
+
+7.  The Court of Appeal having refused to certify that questions of law of great and general importance were involved in the appeal,[10] the Appeal Committee granted the appellants leave to appeal in respect of the questions of law set out at [8] below and also on the substantial and grave injustice ground on the footing that it was reasonably arguable that the evidence was incapable of sustaining a conviction for conspiracy to defraud.[11]
+
+8.  The questions of law in respect of which leave to appeal was granted are:
+
+“(a) On a proper construction, what is the meaning of ‘visitors’ in the context of the Prison Rules, Cap 234A?
+
+(b) If in the context of Rule 203, ‘visitors’ bears the same meanings under Rule 48 and ‘friends’ as a category of visitors means ‘personal friends’:
+
+(i) Is Rule 203 compatible with article 6(2)(a) of the Hong Kong Bill of Rights?
+
+(ii) Is Rule 203 compatible with article 14 of the Hong Kong Bill of Rights?”
+
+The facts
+
+9.  The facts were substantially undisputed at trial.  The 1st appellant set up a company, IPS-Care Company, which offered what were called “representative visiting services” to the family and friends of prisoners on remand who were detained in LCKRC.  Those visiting services included visiting prisoners awaiting trial on behalf of their family and friends, procuring items for delivery to prisoners such as newspapers, books and magazines, as well as ordering and delivering meals and conveying messages to and from prisoners. The 2nd appellant was employed by the 1st appellant to provide the visiting services.  IPS-Care Company had a website advertising its services and its employees also distributed leaflets for the same purpose outside LCKRC.  There was evidence that staff wore green “polo” shirts when carrying out the visits.  The visiting services were charged at a rate of HK$84 per visit, later increased to HK$120 per visit, and there was a minimum total charge of HK$300.  Between August and November 2011, the two appellants visited a total of 31 prisoners awaiting trial who were in custody in LCKRC.
+
+10.  As regards the procedure for visiting prisoners at LCKRC, the prosecution evidence was that visits were processed by the Visitor Registration Unit and all visitors were required to complete a Visit Request Slip on which a visitor must specify his or her name, identity card number, address and relationship with the prisoner.  CSD staff would input the information from the Visit Request Slip into a computer for verification purposes.  In respect of the relationship of the visitor to the prisoner, the computer system only had two categories, namely “relative” and “friend”.  There was a single code for “friend”, whereas for “relative” there were various codes corresponding to different family members.
+
+11.  After verification in this way, a computer-generated Visit Arrangement Slip was generated and given to the visitor, on the strength of which the visitor would be admitted to visit the prisoner.  So far as the relationship between the visitor and the prisoner was concerned, CSD staff were not able to ascertain or verify that relationship.  The prosecution evidence was that if a person was not a relative and did not fill in “friend” in the Visit Request Slip, or if the CSD knew that a claimed relationship was false, the matter would be referred to a senior officer for determination.[12]
+
+12.  There was no distinction in the procedure between prisoners awaiting trial and convicted prisoners, although convicted prisoners would, on admission to the institution in which they were detained, be asked to provide a Declared Visitors List setting out the names and relationships of all prospective visitors which would then be input into the CSD’s Penal Record Information System.  It would appear that prisoners awaiting trial at LCKRC might not have completed a Declared Visitors List before they received visits and this was the case in respect of each of the prisoners awaiting trial who were the subject of visits by the appellants.
+
+13.  In the present case, in respect of each visit made to a prisoner by the appellants, each appellant indicated in the relevant Visit Request Slip that he or she was a friend of the prisoner being visited.  As noted above at [5], that claimed relationship was alleged to be the misrepresentation of fact on which the conspiracy in the charge was based.
+
+The Prison Rules and the questions of construction arising on this appeal
+
+14.  The Prison Rules consist of various rules and regulations for the government and management of prisons, prison staff and prisoners authorised by the rule-making power under section 25 of the Prisons Ordinance.[13] Although other rules featured in the course of argument to which reference will be made, three rules are of particular relevance in this appeal, namely Rules 2, 48 and 203.
+
+15.  Rule 2 is in Part I of the Prison Rules entitled “General Rules for the Government of Prisons” and provides:
+
+“2. Application of rules
+
+The rules in this Part shall apply to all classes of prisoners except in so far as they may be inconsistent with the rules made to govern any particular class or classes of prisoners.”
+
+16.  Rule 48, under Subdivision 7 of Division 3 of Part I of the Prison Rules entitled “Communications and Visits”, provides:
+
+“48. General provisions as to visits
+
+No persons, other than the relatives and friends of a prisoner, shall be allowed to visit him except by special authority. Such visits by relatives and friends shall, subject to such restrictions as may be imposed for the maintenance of discipline and order in the prison and for the prevention of crime, be allowed in the manner following –
+
+(a) they shall be allowed to visit a prisoner twice a month and no more than 3 persons shall be allowed at one time;
+
+(b) the visits of the relatives and friends of a prisoner shall be recorded in a book kept for that purpose and the visits shall be limited to 30 minutes on each occasion;
+
+(c) a prisoner shall be visited in the presence of an officer of the Correctional Services Department;
+
+(d) the Superintendent shall fix the days and times for visits which shall be publicly notified at the gates of the prison;
+
+(e) (Repealed L.N. 65 of 1969)
+
+(f) visitors shall not be admitted until they have recorded their names and addresses, their relationship to or connexion with the prisoner they wish to visit;
+
+(fa) visitors shall not be admitted unless they have satisfied an officer of the Correctional Services Department, if so required, as to their identity;
+
+(g) the Superintendent may, in special cases, extend the duration of a visit;
+
+(h) the Superintendent may permit any convicted prisoner to see his relatives or friends for the purpose of making arrangements respecting his property or for any other special reason;
+
+(i)              the Superintendent may allow a prisoner who is entitled to a visit to write a letter instead of receiving such visit.”
+
+17.  In Part II of the Prison Rules entitled “Special Rules for Particular Class of Prisoners”, Rule 203, under Subdivision 7 of Division 1 entitled “Visits and Communications”, provides:
+
+“203. Rule as to visitors
+
+(1) Every prisoner awaiting trial shall, subject to the order of the Superintendent, be permitted to be visited by one visitor, or if circumstances permit, by two at the same time, for a quarter of an hour on any week day, during such hour as may from time to time be appointed.
+
+(2) The Superintendent may, in special cases, permit the visit to be prolonged, and allow more than 2 visitors to visit such prisoner at one time.”
+
+18.  As will be seen, Rule 203 grants to prisoners awaiting trial an entitlement, subject to the order of the Superintendent of the prison, to be visited by one or more “visitors”.  The first question that arises in this appeal is whether, as contended by the appellants, that entitlement extends the class of persons who may visit prisoners awaiting trial to any persons or whether, as contended by the prosecution, “visitors” in Rule 203 are confined to the “relatives and friends” of such prisoners.  Both the magistrate and Court of Appeal considered that the prosecution’s construction of Rule 203 was correct.[14]
+
+19.  If the prosecution’s construction is correct, as was held below, the next question that arises is whether the category of visitors who are “friends” of a prisoner is limited to those persons who are in a pre-existing personal relationship with the prisoner and are known to him and cannot include strangers or those whom the prisoner has never met.  This was the prosecution’s contention below and the magistrate and the Court of Appeal both accepted that contention[15] and rejected the appellants’ invitation to give the word “friends” a wider construction.  On this basis, since the prisoners they had visited were strangers whom they had not met before, the courts below held that the appellants had made misrepresentations to the CSD staff when completing the Visit Request Slips for their visits to prisoners in LCKRC in the period covered by the charge.
+
+20.  The questions in issue being ones of statutory construction, it is necessary for the Court to construe the language used in the Prison Rules having regard to its context and purpose.  The context of a particular rule will include the other provisions of the Prison Rules and this may include the history of those rules.  The words used must be construed consistently with their purpose.  That purpose is ascertained using a flexible and open-minded approach.  For these uncontroversial and well-settled principles, see the recent judgment of Ma CJ in Town Planning Board v Town Planning Appeal Board (2017) 20 HKCFAR 196 at [29] and the references there cited.
+
+The proper construction of Rule 203
+
+(a) Do “visitors” mean “relatives and friends”?
+
+21.  The rival constructions of Rule 203 respectively advanced by the parties to this appeal differ as regards the extent to which Rule 48 applies to prisoners awaiting trial.
+
+22.  In this respect, the appellants emphasise that the regime provided for prisoners awaiting trial in Rule 203 is, and has always been, a particular self-contained regime for such prisoners separate and distinct from that applying to convicted prisoners.  This, they say, is inherent in the presumption of innocence and is also reflected in Article 6(2)(a) of the Bill of Rights.  The appellants also rely on the fact that the Legislature has used the words “visitor” and “visitors” in Rule 203 rather than the words “relatives and friends” as in Rule 48.  Relying on Rule 2, the appellants contend that, where there is an inconsistency between that particular regime applying to prisoners awaiting trial and the regime applying generally to prisoners under Rule 48, the general regime in Rule 48 yields to the particular regime in Rule 203.  Thus, since Rule 203 says that prisoners awaiting trial may be permitted to be visited by one or more “visitors”, this is not restricted to “relatives and friends” which is the category of persons generally able to visit prisoners under Rule 48.
+
+23.  For the following reasons, I would reject the appellants’ argument as regards the construction of Rule 203 and hold that the word “visitors” in that rule means “relatives and friends”.
+
+24.  To construe Rule 203 in context, it is necessary to have regard to the other rules in the Prison Rules.  This requirement is expressly reinforced in the Prison Rules by Rule 2 which specifies that the rules in Part I “shall apply to all classes of prisoners except in so far as they may be inconsistent with the rules made to govern any particular class or classes of prisoners”.  Rule 48 is a rule within Part I and so, unless it is inconsistent with the rules relating to prisoners awaiting trial, it must apply.
+
+25.  Rule 203 relating to prisoners awaiting trial is inconsistent with Rule 48 in respect of the maximum number of persons who may visit and also as to the total duration and frequency of visits.  Thus, under Rule 203, the maximum number of persons who may visit may be more than two.  In contrast, under Rule 48, the maximum may never exceed three.  Under Rule 203, prisoners awaiting trial may receive daily weekday visits up to an aggregate of approximately 300 minutes per month, whereas, under Rule 48, the maximum number of visits is two per month for an aggregate of 60 minutes per month.  To that extent, in relation to the maximum number of persons who may visit, the total duration and frequency of visits, Rule 48 must yield to the specific provisions of Rule 203 applying to prisoners awaiting trial.
+
+26.  Rule 48 must, however, otherwise apply to prisoners awaiting trial.
+
+(1) First, the provisions of Rule 48 sub-paragraphs (c), (f) and (fa) prescribe particular procedures to be complied with in relation to visits to prisoners.  These must apply to visits to prisoners awaiting trial since Rule 203 is silent as regards those procedures and it cannot be the case that such visits are unregulated by any procedure.
+
+(2) Secondly, Rule 48 sub-paragraph (h) contains a particular provision concerning visits to “any convicted prisoner”.  This distinction drawn in sub-paragraph (h) points clearly to the provisions elsewhere in Rule 48 applying to other classes of prisoners and thus to prisoners awaiting trial.
+
+27.  I do not discern any inconsistency between Rule 48 and Rule 203 as to the identity of the persons who may visit and there is no reason in principle why there should be a difference in respect of the identity of visitors.  Although the words “visitor” and “visitors” are used in Rule 203, there is no indication that they are intended to mean something different to the meaning they bear elsewhere in the Prison Rules.  Generally speaking, where the same word is used in different parts of the same piece of legislation, it should be given the same meaning unless the context otherwise clearly indicates a different meaning is intended.  As Lord Walker of Gestingthorpe noted, in R v Islam [2009] 1 AC 1076, at [23]:
+
+“It is as true today as it was in 1869 that ‘it is a sound rule of construction to give the same meaning to the same words occurring in different parts of an Act of Parliament’ …”.[16]
+
+28.  With that rule in mind, it is important to note that the word “visitors” is also used in sub-paragraphs (f) and (fa) of Rule 48.  On a reading of Rule 48 as a whole, “visitors” must be read as meaning “relatives and friends” because the second sentence of the introductory part of Rule 48 provides that “Such visits by relatives and friends shall … be allowed in the manner following – …” (emphasis added).[17] The word “visitors” having been used in sub-paragraphs (f) and (fa) of Rule 48, it would be very surprising if the same word used in Rule 203 was intended to have a different meaning and I would hesitate to reach that conclusion in the absence of clear legislative intent.
+
+29.  It is true that prisoners awaiting trial are generally treated differently to and more liberally than convicted prisoners under the Prison Rules.  For example, prisoners awaiting trial must be kept apart from convicted prisoners (Rule 190); they may receive their own food rather than the prison diet (Rule 192, cf. Rule 31); they may receive malt liquor (Rule 192, cf. Rule 25); they may wear private clothes (Rule 196, cf. Rule 26); they may but are
+
+not required to work (Rule 201, cf. Rule 38).  The more generous rules as to the maximum number of visitors and the frequency and aggregate duration
+of visits in Rule 203 is another example of the more liberal regime applied to prisoners awaiting trial.  This separate and more liberal treatment does not seem to me, however, to provide a sufficient reason on its own to read “visitors” in Rule 203 as necessarily bearing a different meaning to that which it bears in Rule 48.
+
+30.  Other provisions in the same subdivision of the Prison Rules support the conclusion that reading “visitors” in Rule 203 literally and to convey a different meaning as to the category of persons who may visit prisoners generally under Rule 48 is unlikely to have been intended.  Thus:
+
+(1) In Rule 205, which is headed “Right to see visitors for the purpose of finding bail” (emphasis added), it is provided that:
+
+“Every prisoner awaiting trial who is in prison in default of bail shall be permitted to see any of his relatives or friends, on any week day, at any reasonable hour, for the bona fide purpose of providing bail.”
+
+If the visiting regime under Rule 203 extends to persons other than “relatives and friends” it would be odd that a prisoner cannot have resort to that wider category of persons to assist him to find bail.  Rule 205 also shows the word “visitors” (albeit appearing in a heading to a legislative provision[18]) being equated with “relatives or friends”.
+
+(2) In Rule 204, relating to visits from a private medical adviser for the purpose of his defence, it is provided that the choice of such adviser may be “by him or by his friends or legal adviser” and in Rule 206(1), concerning written communications, prisoners awaiting trial are entitled to be provided with a reasonable amount of paper and other writing materials “for [the] purpose of communicating with his friends or for preparing his defence”.  It seems unlikely that the use of “friends” in Rules 204 and 206(1) was intended so as to exclude, for example, “relatives” of those prisoners awaiting trial and this suggests a broader purposive, rather than literal, approach to the construction of the term “friends”.
+
+31.  Although the Court was taken through the legislative history of the Prison Rules, that exercise does not materially assist.  In each of the precursors to the current version of the Prison Rules,[19] there has consistently been a provision that prisoners awaiting trial are subject to the general rules applicable to other prisoners except insofar as they are inconsistent with specific rules relating to them.  The precursor Prison Rules have had their equivalent rules to the current Rules 48 and 203 but I do not consider that the wording of those precursors provides a clear answer to the question of construction of those current rules now under consideration.  It appears from Hansard that the 1954 version of the Prison Rules were intended to be a complete revision of the old rules and to bring them up-to-date and so resort to previous versions of the rules prior to 1954 is of little assistance.[20]
+
+32.  Similarly, the United Nations’ Standard Minimum Rules for the Treatment of Prisoners[21] and the Nelson Mandela Rules[22] do not materially assist in the construction of Rule 203.  Those international standards are, as their name suggests, merely prescribed minimum rules.  Moreover, the visitation entitlements contained in those rules are framed in terms of visits by “family and friends” and so do not imply the necessity of a wider category of visitors.[23]
+
+(b) What is the meaning of “friends” and were the appellants within that meaning in relation to the prisoners they visited?
+
+33.  The conclusion that “visitors” in Rule 203 is to be construed to mean “relatives and friends” of the prisoners awaiting trial leads to the next question as to who constitute the “friends” of such a prisoner and whether the appellants could properly be said to be within that category of visitor.  As noted at [19] above, the magistrate and Court of Appeal both concluded that under Rule 48 a “friend” of a prisoner must be a personal acquaintance of the prisoner and could not mean a stranger.  In this appeal, the prosecution invited this Court to uphold that conclusion.
+
+34.  The reasoning leading to the Court of Appeal’s narrower definition of the word “friends” in the Prison Rules is contained in the CA Judgment at [58] which reads as follows:
+
+“As a piece of subsidiary legislation dealing with penal establishments, one of the primary concerns of the Prison Rules is the maintenance of discipline and order in the prison and the prevention of crime. These are the considerations that underpin the restrictions that the Superintendent may impose under Rule 48 and Rule 203. On the other hand, due regard must also be given to the benefits that social visits may confer on the prisoners. As will be seen shortly, it is universally accepted in modern civilized societies that family and social support is crucial for the prisoners’ adaption to prison life and overcoming adjustment problems and for their rehabilitation and facilitation of their future re-integration into society. With these considerations in mind, ‘friends’ in the context of the Prison Rules cannot possibly mean someone who is a stranger of the prisoner. He must be a personal acquaintance of the prisoner. He and the prisoner must know each other in order to give the desired effects and benefits to the social visits. The same definition of ‘friends’ applies to the entire statutory regime of visits in the Prison Rules, including Rule 48 and Rule 203.”
+
+35.  With respect, the reasoning in this paragraph provides neither a sound basis nor compelling policy for construing the word “friends” so restrictively.  The fact that one of the primary concerns of the Prison Rules is the maintenance of discipline and order and the prevention of crime in prisons does not provide any logical basis for restricting the meaning of “friends”.  There is no reason to think that giving that word a wider meaning to include the appellants would have any detrimental effect on discipline and order and there is certainly no question of the appellants’ activities being contrary to good order and discipline in LCKRC or otherwise for an unlawful purpose.  In linking family and social support to prisoners’ “rehabilitation and facilitation of their future re-integration into society”, the Court of Appeal seems to have misapprehended the position of prisoners awaiting trial.  Unlike convicted prisoners, prisoners awaiting trial have no need for rehabilitation since they are presumed innocent.  In any event, this is not a good reason for holding that, for the purposes of providing a prisoner awaiting trial with the desired effects and benefits of social visits, the “friend” who performs the function of providing the moral and material support to which the prisoner is entitled must necessarily be his personal acquaintance and that the two must be known to one another.
+
+36.  For the reasons which follow, I would respectfully disagree with the courts below as regards the meaning of “friends”.  I consider that a wider definition should be given to the word “friends” to include persons in the position of the appellants. Before articulating what I consider to be a comprehensive practical definition of “friends” in Rule 48, I shall first explain my reasons for concluding that, for the purposes of the Prison Rules, the appellants in this case should clearly be considered to be “friends” of the prisoners awaiting trial that they visited.
+
+37.  The dictionary definition of the word “friend” includes a wide range of meanings including “a person joined by affection and intimacy to another”, “a near relation”, “a person who is not hostile or an enemy to another; one who is on the same side”, “a person who wishes another, a cause, etc., well”, and “an acquaintance, an associate; a stranger whom one comes across or has occasion to mention again”.[24]
+
+38.  This wide range of meanings is reflected in In re Barlow’s Will Trusts,[25] where Browne-Wilkinson J (as he then was) noted, in relation to the meaning of the word “friends” in a will, that:
+
+“The word has a great range of meanings; indeed, its exact meaning probably varies slightly from person to person. Some would include only those with whom they had been on intimate terms over a long period; others would include acquaintances whom they liked. Some would include people with whom their relationship was primarily one of business; others would not. Indeed, many people, if asked to draw up a complete list of their friends, would probably have some difficulty in deciding whether certain of the people they knew were really ‘friends’ as opposed to ‘acquaintances.’”
+
+39.  The difficulties in defining the relationship of friend as requiring personal acquaintance is further complicated by the general use of the term “friend” to describe a number of what may be relatively impersonal relationships.  Thus, for example, the law recognises a “McKenzie friend” in the context of litigation who is a person who may sit with a litigant in person to give him advice and help him with the presentation of his case.[26] Similarly, under RHC Order 80 rule 2(1), a person under disability may not bring, or make a claim, in any proceedings except by his “next friend”, which capacity does not require a relationship having any particular degree of intimacy.  To take a further example, a “friend of the court” (amicus curiae) does not imply personal friendship between the advocate and the judge.  Nor, of course, is such personal friendship implied by the professional courtesy of barristers referring to each other in court as “my learned friend”.
+
+40.  Apart from the wide meaning of the word itself, in the context of the Prison Rules, there are practical difficulties in evaluating the quality of relationship that should qualify a person as a “friend” of a prisoner.  Does a friend have to be on intimate or close terms to the prisoner?  Is a Facebook friend, whom the prisoner may never have met, sufficient?  What about other social media contacts or “pen pals” or friends of friends?  As the procedure for visiting prisoners at LCKRC described above shows, there is no practical way in which CSD staff can verify the degree of any claimed friendship.  A prisoner is left to determine who he is prepared to identify as his relatives and friends when he completes the Declared Visitors List and it would not seem realistic for CSD staff to vet this list to ascertain the quality of an asserted friendship.
+
+41.  A principled approach to determining the meaning of “friends” in Rule 48 in the present case is to examine the word by reference to the purposes for which visits by friends are made to prisoners awaiting trial.  Those will be similar to the purposes for which visits are made to convicted prisoners subject to differences arising from the important distinction that the imprisonment of convicted prisoners is in part rehabilitative in nature.  The most important purpose of any prison visit to prisoners awaiting trial is contact with persons outside the prison and the provision of moral and material support.  But the purpose of visits to prisoners awaiting trial is additionally to enable them to take advantage of the more liberal regime to which they are subject.  The entitlement of a prisoner awaiting trial to procure for himself food and malt liquor (Rule 192), his own clothes (Rule 196), newspapers and other means of occupation (Rule 202(2)) are of no practical benefit if these things cannot actually be supplied to him.
+
+42.  In practice, it is easy to envisage situations in which relatives and close personal friends will be unable to visit a prisoner awaiting trial.  They may be working or otherwise unable to attend during visiting hours or they may be incapacitated through ill health or other indisposition.  Yet such persons may have a strong desire to visit a prisoner awaiting trial and the prisoner himself may have a corresponding desire to be visited by them for the purposes contemplated by the Prison Rules.  For prisoners awaiting trial who are overseas nationals with no family or social network in Hong Kong, the practical difficulties are all the more obvious.
+
+43.  In those circumstances, if (say) the disabled grandmother of a prisoner awaiting trial wanted to deliver some food that the prisoner particularly liked or to convey a personal message of support to him, for example, it would seem odd if the grandmother could not send her own friend to deliver that food or convey that message.  It would do no violence to the language of Rule 48 construed purposively to describe that friend of the grandmother as a friend of the prisoner.  Objectively, looked at from the point of view of the prisoner, the grandmother’s friend would almost certainly be regarded by him as a friend lending support or performing a service for his benefit and be willingly received as a visitor.
+
+44.  In the present case, the appellants were contracted by relatives of the prisoners awaiting trial whom they visited and they were requested to perform the functions that would otherwise have been performed by family members or personal friends (see the description at [9] above).  The representative visiting services which they offered consisted of providing to prisoners awaiting trial the support they might receive as contemplated under the Prison Rules.  In those circumstances, it does not stretch the meaning of the word “friend” to describe the appellants as friends of the prisoners awaiting trial whom they visited. The appellants would, in these circumstances, properly be described from the point of view of the prisoner as his friends.  Similarly, this would be the case even if the services were contracted directly by the prisoner himself.  For these reasons, I would conclude that the appellants were “friends” of the prisoners awaiting trial whom they visited.
+
+45.  Having rejected the Court of Appeal’s definition of “friends”, I turn to consider how the word “friends” in Rule 48 should be defined.  For the reasons set out above, I consider that, as well as personal acquaintances, “friends” of such a prisoner can also include a person: (a) who has been requested to visit the prisoner, either directly by the prisoner himself or indirectly through a relative or personal acquaintance of the prisoner; (b) who wishes to visit the prisoner in order to provide him with some moral or material benefit consistent with the statutory purposes of visits to that category of prisoner; and (c) by whom the prisoner is willing to be visited.  If those conditions are satisfied, the visitor should, objectively, be regarded as a “friend” of the prisoner.
+
+46.  The magistrate was concerned that a wider definition of “friends” which could include persons not known to each other would extend its meaning too far and frustrate the Prison Rules.  In the SoF at [27], she held:
+
+“Given the special nature of the CSD and the need to restrict the source of visitors, if people who do not know each other can be called “friends”, its meaning would extend boundlessly, and all people could be broadly divided into two categories, namely “relatives” and “friends”. As such, the rules would be completely ineffective and unenforceable.”
+
+47.  I do not agree. The definition proposed above (at [45]), so far as it relates to persons not previously personally acquainted, has specific limits and is not “boundless”.  It does not, with respect, render the Prison Rules ineffective or unenforceable.  On the contrary, it seeks to formulate the concept of friendship in Rule 48 in the context of the Prison Rules as a whole and for the purposes of those rules.  Obviously, the putative “friend” of a prisoner must have a legitimate reason for visiting him and must be seeking to do so in good faith and not for some improper ulterior purpose.
+
+48.  I would add that the above definition of the word “friends” does not make redundant any residual category of visitors to whom special authority might be granted under Rule 48.  A person not fulfilling the three conditions set out in the definition might still wish to apply for special authority to visit a prisoner. Representatives of religious groups or other voluntary organisations are examples of persons who might fall into this category.  It is also to be noted that the Prison Rules themselves provide for visits by visiting justices (Part III, Division 1) and prison visitors (Part III, Division 2).  The special authority category in Rule 48 is consistent with the existence of these separate special classes of visitors who may be strangers to the prisoners they visit.
+
+49.  In the course of argument, the concept of agency was advanced as a basis for holding that representative visitors like the appellants were friends of the visited prisoners since they were agents acting on behalf of the prisoners’ relatives and friends.  However, although agency has a superficial attraction in the case of relatives and friends who engage the appellants’ services, I do not consider that it provides an appropriate or comprehensive principle on which to define friends in the Prison Rules.  Whilst relatives and friends may appoint an agent who may be said to visit a prisoner on their behalf, the agency concept cannot work for a prisoner who himself contracts for the representative visiting services offered by the appellants, since the prisoner’s agent represents the prisoner himself and a prisoner cannot visit himself under the Prison Rules.
+
+The constitutional questions
+
+50.  The conclusions reached above as to the proper construction of the Prison Rules mean that the appellants’ statements on the Visit Request Slips that they were friends of the prisoners whom they visited were true and not misrepresentations.  There could accordingly be no question of the CSD officers being induced to act contrary to their public duty to admit persons who were not entitled to visit the prisoners concerned.  On this basis, the appellants’ appeals must be allowed.
+
+51.  It therefore follows that it is unnecessary to consider the constitutional questions raised (set out at [8] above) concerning the compatibility of Rule 203 with Articles 6(2)(a) and 14 of the Hong Kong Bill of Rights and the circumstances of this case do not involve any interference with or restriction of rights raising any question of compatibility with the Hong Kong Bill of Rights Ordinance.[27]  In keeping with the Court’s general practice, where a constitutional issue is raised but it is not necessary to determine that issue for the purpose of determining the appeal before it, the Court usually will not address that constitutional issue: see, for example, Fateh Muhammad v Commissioner of Registration & Anor (2001) 4 HKCFAR 278 per Bokhary PJ at 287C-E; and GA v Director of Immigration (2014) 17 HKCFAR 60 per Ma CJ at [42].
+
+Substantial and grave injustice
+
+52.  The above conclusions as to the proper construction of the Prison Rules also mean that it is strictly unnecessary to consider the appellants’ submissions that substantial and grave injustice was done to them in that the evidence was incapable of sustaining a conviction of conspiracy to defraud.  Nevertheless, the charges against the appellants being serious and involving dishonesty, it is appropriate to address them briefly since, in my view, there are two respects in which the evidence fell short of establishing necessary elements of the charge against the appellants.
+
+53.  The first respect relates to the element of dishonesty, which was fundamental to the alleged conspiracy to defraud.  Although the appellants did not give evidence as to what they understood by the word “friend”, the meaning of that word in the Prison Rules was by no means clear and settled.  The word “friend” being inherently broad (see above), it does not follow automatically, as the magistrate and Court of Appeal seem to have thought, that the appellants must have known that the correct definition of the word was that found by the courts below.  In determining if a defendant has made a dishonest misrepresentation, it is necessary to consider whether he honestly believed the representation to be true in the sense in which he understood it.  As Lord Jenkins, giving the opinion of the Privy Council in Akerhielm v De Mare, observed:
+
+“The question is not whether the defendant in any given case honestly believed the representation to be true in the sense assigned to it by the court on an objective consideration of its truth or falsity, but whether he honestly believed the representation to be true in the sense in which he understood it albeit erroneously when it was made. This general proposition is no doubt subject to limitations. For instance, the meaning placed by the defendant on the representation made may be so far removed from the sense in which it would be understood by any reasonable person as to make it impossible to hold that the defendant honestly understood the representation to bear the meaning claimed by him and honestly believed it in that sense to be true. But that is not this case.”[28]
+
+54.  Here, there were no guidelines from the CSD as to the meaning of the word, which is undefined in the Prison Rules.  When the representative visiting services conducted by the appellants first came to the attention of the CSD in August 2011, legal advice was sought by the CSD from the Department of Justice concerning that service and it was not until August 2012 that the appellants were arrested.[29]  There was evidence that CSD staff might differ over the meaning of the word.  It is therefore entirely possible that the appellants might have believed that they were “friends” of the prisoners awaiting trial whom they visited within the meaning of the Prison Rules and it does not follow, merely because they did not give evidence, that the prosecution case that they dishonestly misrepresented their status as friends must be accepted.
+
+55.  The second respect in which the evidence was insufficient to support the charge against the appellants related to the evidence of the existence of a conspiracy agreement.  The alleged conspiracy was an agreement to carry out the representative visiting services by dishonest means, namely by falsely representing that they were friends of the prisoners awaiting trial to be visited.  Although the appellants were from the same company and there was therefore necessarily a uniformity in their actions, there were only two categories of relationship on the Visit Request Slips for them to complete.  If they were not a “relative” of the prisoners, the only other possible status was “friend”.  The mere fact that the appellants were all from the same company does not support the conclusion that the only irresistible inference here was that they all agreed together that they would select the category “friends” to insert in the Visit Request Slips in order to induce the CSD staff to admit them as visitors.
+
+56.  In the course of argument, Lord Collins of Mapesbury NPJ observed that the prosecution of the appellants for conspiracy to defraud might be described as “heavy handed”.  I would respectfully agree.  The present case involved a company providing visiting services to prisoners awaiting trial for relatives and friends of the prisoners unable to attend in person and their activities were known to the authorities for some time.  The company’s services (described at [9] above) provided at a modest cost were entirely within the purposes for which visits to such prisoners are permitted under the Prison Rules.  Staff of the company openly distributed leaflets outside LCKRC and wore green shirts as a uniform to identify themselves as representatives of the company.  There was no clear consensus as to what the word “friend” in the Prison Rules meant.  In these circumstances, it is a matter of some surprise that the appellants were charged as they were.
+
+Conclusion
+
+57.  For the above reasons, I would allow the appellants’ appeals and quash their convictions.
+
+Lord Collins of Mapesbury NPJ:
+
+58.  I agree with the judgment of Mr Justice Fok PJ.
+
+  
+
+   
+
+(Geoffrey Ma)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Robert Tang)
+Permanent Judge
+  
+
+   
+
+(Joseph Fok)
+Permanent Judge
+
+(Lord Collins of Mapesbury)
+Non-Permanent Judge
+
+ 
+
+Mr Johannes Chan SC and Mr Douglas Kwok, instructed by Tang, Wong & Chow, assigned by the Director of Legal Aid, for D1/the Appellant in FACC 6/2017
+
+Mr Eric TM Cheung, Solicitor Advocate, instructed by ONC Lawyers, assigned by the Director of Legal Aid, for D2/the Appellant in FACC 7/2017
+
+Mr David Leung SC, DPP, Ms Audrey Parwani, SPP and Ms Gladys Chan, PP, of the Department of Justice, for the Respondent in FACC 6 & 7/2017
+
+
+[1] (Cap.234A).  The current version of the Prison Rules is dated 2015 and, save where otherwise indicated, references in this judgment to the Prison Rules will be to that version.
+
+[2] There were a total of nine defendants charged.  D4, D5 and D6 pleaded guilty before trial and the trial proceeded against the appellants (who were D1 and D2 respectively) and D3, D7, D8 and D9.
+
+[3] Contrary to common law and section 159C(6) of the Crimes Ordinance (Cap.200).
+
+[4] Together with the other defendants who had pleaded not guilty (i.e. D3, D7, D8 and D9).
+
+[5] Ms Kennis Tai Chiu-ki, sitting as a Deputy Magistrate, in KTCC 2097/2013.
+
+[6] D1 and D2 were respectively sentenced to perform 240 hours and 120 hours of community service.
+
+[7] Pursuant to section 118(1)(d) of the Magistrates Ordinance (Cap.227).
+
+[8] Yeung VP, Poon & Pang JJA.
+
+[9] HCMA 700/2013, Judgment dated 17 October 2016 (“CA Judgment”).
+
+[10] HCMA 700/2013, Judgment dated 24 January 2017.
+
+[11] FAMC Nos. 10/2017 & 17/2017 (Ribeiro, Tang & Fok PJJ), Determination dated 27 October 2017.
+
+[12] Visits by volunteer groups were handled differently from the above procedure applying to relatives and friends: KTCC 2097/2013, Statement of Findings (“SoF”) at [9(b)].
+
+[13] (Cap.234).
+
+[14] SoF at [19] & [21]; CA Judgment at [55] & [56].
+
+[15] SoF at [26]-[28]; CA Judgment at [57]-[58].
+
+[16] Courtauld v Legh (1869) LR 4 Exch 126 per Cleasby B at 130; see also Bennion on Statutory Interpretation (6th ed., 2013), at p.1034; and R v Kansal (No 2) [2002] 2 AC 69 per Lord Hutton at
+117G-H.
+
+[17] To this extent, I respectfully disagree with the CA Judgment at [54] which holds that “visitors” in sub-paragraphs (f) and (fa) of Rule 48 must also apply to persons who are given special authority to visit under Rule 48.  This construction is contrary to the plain language of Rule 48.  Instead, it would appear that special authority visitors will be subject to the discretion of the Commissioner of the CSD or his duly authorised representative as regards the procedures for their visits to prisoners.
+
+[18] And so subject to s.18(3) of the Interpretation and General Clauses Ordinance (Cap.1).
+
+[19] Prison Rules 1885 (No.18 of 1885); Prison Rules 1925 (originally No.4 of 1899); and the Prison Rules 1954 (No.17 of 1954).
+
+[20] Hong Kong Hansard, Session 1954, in the speech of the Attorney-General at p.158; and see also para.[10] of the Objects and Reasons for the Bill at p.160.
+
+[21] (“SMR”); Adopted by the First United Nations Congress on the Prevention of Crime and the Treatment of Offenders, held at Geneva in 1955, and approved by the Economic and Social Council by its resolutions 663C (XXIV) of 31 July 1957 and 2076 (LXII) of 13 May 1977.
+
+[22] Resolution adopted by the General Assembly on 17 December 2015, A/RES/70/175.
+
+[23] See, SMR Rules [37], [87] and [92]; and Nelson Mandela Rules, Rule 58(1).
+
+[24] Shorter Oxford English Dictionary (6th Edition), Vol.1, p.1042.
+
+[25] [1979] 1 WLR 278 at 281B-D.
+
+[26] The term comes from the case of McKenzie v McKenzie [1971] P 33; see also Lobo v Kripalani [1998] 2 HKLRD 325 per Godfrey JA (as he then was) at 328F-H.
+
+[27] (Cap.383).
+
+[28] [1959] AC 789 at 805.
+
+[29] SoF at [9(g)]; CA Judgment at [22] & [27].
+
+ 

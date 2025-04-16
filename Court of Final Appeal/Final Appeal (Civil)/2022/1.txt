@@ -1,0 +1,429 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 1 of 2022
+
+[2022] HKCFA 18
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 1 OF 2022 (CIVIL)
+
+(ON APPEAL FROM CACV No. 602 of 2018)
+
+______________________
+
+BETWEEN	 	 
+ 	KOO MING KOWN	1st Applicant
+(1st Respondent)
+ 	MURAKAMI TADAO	2nd Applicant
+(2nd Respondent)
+and	
+ 	THE COMMISSIONER OF INLAND REVENUE	Respondent
+(Appellant)
+______________________
+
+Before : Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Stock NPJ and Mr Justice Gleeson NPJ
+
+Dates of Hearing: 5 July 2022
+
+Date of Judgment : 5 August 2022
+
+____________________
+
+JUDGMENT
+
+____________________
+
+Chief Justice Cheung:
+
+1.  I agree with the judgment of Mr Justice Gleeson NPJ.
+
+Mr Justice Ribeiro PJ:
+
+2.  I agree with the judgment of Mr Justice Gleeson NPJ.
+
+Mr Justice Fok PJ:
+
+3.  I agree with the judgment of Mr Justice Gleeson NPJ.
+
+Mr Justice Stock NPJ:
+
+4.  I agree with the judgment of Mr Justice Gleeson NPJ.
+
+Mr Justice Gleeson NPJ:
+
+A.     Introduction
+
+5.  This is an appeal by the Commissioner of Inland Revenue (“the CIR”) against a decision of the Court of Appeal.[1] The Court of Appeal dismissed the CIR’s appeal against a decision of G Lam J sitting in the Court of First Instance of the High Court.[2]
+
+6.  The matter came before G Lam J as an appeal by Mr Koo and Mr Murakami (“the Applicants”) against decisions of the Board of Review (“the Board”) upholding tax assessments against them.[3]
+
+7.  The issue before this Court is narrower than the issues before the Board and G Lam J. It is one which both G Lam J and the Court of Appeal decided against the CIR, and concerns the meaning and effect of s 82A(1)(a) of the Inland Revenue Ordinance (Cap 112) (“the IRO”), which exposes to an administrative penalty, described as additional tax, a person who makes an incorrect tax return.
+
+8.  The tax returns of Nam Tai Electronic & Electrical Products Limited (“NT”) for the years 1996/97, 1997/98 and 1999/2000 were found by the Board to have been incorrect. The Applicants were directors of NT at the time. In the manner described below, Mr Koo signed the first and third of those returns, and Mr Murakami signed the second. Section 82A, which was enacted in 1969, does not make specific reference to the potential liability of an officer of a corporation who signs the corporation’s tax return, but it covers the case of a person who makes an incorrect return by omitting or understating anything in respect of which he is required to make a return on behalf of another person. On that basis, the Board held the Applicants were liable to be assessed to additional tax under s 82A(1)(a). The Applicants contended that they do not fall within that statutory description. G Lam J and the Court of Appeal agreed with them.
+
+B.     Section 82A of the IRO
+
+9.  At the relevant times, s 82A of the IRO provided as follows:
+
+“(1) Any person who without reasonable excuse –
+
+(a) makes an incorrect return by omitting or understating anything in respect of which he is required by this Ordinance to make a return, either on his behalf or on behalf of another person or a partnership; or
+
+(b) makes an incorrect statement in connection with a claim for any deduction or allowance under this Ordinance; or
+
+(c) gives any incorrect information in relation to any matter or thing affecting his own liability to tax or the liability of any other person or of a partnership; or
+
+(d) fails to comply with the requirements of a notice given to him under section 51(1) or (2A); or
+
+(e) fails to comply with section 51(2),
+
+shall, if no prosecution under section 80(2) or 82(1) has been instituted in respect of the same facts, be liable to be assessed under this section to additional tax of an amount not exceeding treble the amount of tax which –
+
+(i) has been undercharged in consequence of such incorrect return, statement or information, or would have been so undercharged if the return, statement or information had been accepted as correct; or
+
+(ii) has been undercharged in consequence of the failure to comply with a notice under section 51(1) or (2A) or a failure to comply with section 51(2), or which would have been undercharged if such failure had not been detected.
+
+(2) Additional tax shall be payable in addition to any amount of tax payable under an assessment, or an additional assessment under section 60.
+
+(3) An assessment of additional tax may be made only by the Commissioner personally or a deputy commissioner personally.
+
+(4) Before making an assessment of additional tax the Commissioner or a deputy commissioner, as the case may be, shall –
+
+(a) cause notice to be given to the person he proposes so to assess . . .
+
+(b) consider and take into account any representations which he may receive under paragraph (a) from or on behalf of a person proposed to be assessed for additional tax.
+
+. . .
+
+(7)     A person who has been assessed to additional tax under subsection (1) shall not be liable to be charged on the same facts with an offence under section 80(2) or 82(1).”
+
+10.  Section 2(1) of the IRO defines “person” to include:
+
+“a corporation, partnership, trustee, whether incorporated or unincorporated, or body of persons”.
+
+11.  By amendment made in 2010 the words “or a partnership” were deleted from s 82A(1)(a). Nothing turns on this. It will be noted that “person” includes “partnership”.
+
+C.     The material facts
+
+12.  NT did not have any board resolution or protocol or provision in its Memorandum and Articles of Association as to how documents such as tax returns were to be signed or authenticated.
+
+13.  Each return was made following receipt of a notice from the CIR said to be issued pursuant to s 51(1) of the IRO, which was at the commencement of a blank form of tax return evidently intended to be completed by the taxpayer. In each case the notice was addressed to NT, and stated:
+
+“By virtue of Section 51(1) of [the IRO] you are required to make on this form a true and correct return of the Assessable Profits [for a period].”
+
+Neither the notice nor the blank form of return sent to NT referred to any individual, but the form concluded with a declaration to be completed and signed.  In the case of the returns for 1996/1997 and 1997/98, the declaration was as follows:
+
+“I (name), being Secretary/Manager/ Director/ Liquidator of [NT] declare that to the best of my knowledge and belief all the statements contained in this return are true, correct and complete and I have disclosed the whole of the Assessable Profits (or Adjusted Loss) of the Corporation arising during [the relevant period] as stated in the formal notice in Page 1.”
+
+14.  In the case of the 1999/2000 return the declaration was as follows:
+
+“I (name), being Secretary/Manager/Director/Liquidator of [NT] declare that:
+
+• to the best of my knowledge and belief all the statements contained in this return are true, correct and complete;
+
+• the whole of the Assessable Profits (or Adjusted Loss) of the Corporation arising during the basis period for [the relevant period] as stated in the formal notice on Page 1 have been disclosed; and
+
+• the Supporting Documents referred to in the formal notice on Page 1 have been prepared and this return is completed in accordance with the Supporting Documents.”
+
+15.  In the case of the 1996/1997 and 1999/2000 returns as furnished in response to the notice, the name of Mr Koo appeared as the maker of the declaration and the declaration was signed by him. In the case of the 1997/1998 return the name of Mr Murakami appeared as the maker of the declaration and the declaration was signed by him. In each return, information as to profits, and other relevant information called for by the form of return sent to NT by the CIR, was completed.
+
+16.  In the return for 1998/99 the declaration was signed by another person. It is presently immaterial.
+
+17.  Mr Murakami ceased to be a director of NT in 2002. Mr Koo ceased to be a director in 2006.
+
+18.  Following a tax audit in 2002, the Inland Revenue Department (“the IRD”) disallowed claims for deductions made in the returns. Following such disallowance, NT was assessed under s 60 of the IRO. NT objected and pursued, unsuccessfully, challenges to the assessments. It did not pay the amounts assessed, and on 4 June 2012 was wound up by the court on the petition of the CIR.
+
+19.  In 2013, the Applicants were assessed to additional tax under s 82A(1)(a) of the IRO. The assessments were made on the basis that the returns were incorrect. The Applicants do not accept that the returns were incorrect, but the issues to which that gives rise are not before this Court. The nature of that dispute can, therefore, be stated in a summary form.
+
+20.  NT was part of a group of companies engaged in the manufacture and sale of electronic and electrical products. The holding company of the group, Nam Tai Electronics Inc (“NTEI”) was incorporated in the British Virgin Islands. Its shares were listed on NASDAQ. Other subsidiaries of NTEI were incorporated in Canada and the People’s Republic of China. The group’s manufacturing operations were principally based in Shenzhen. In NT’s substantive tax appeal, the Board found that decisions as to allocation or attribution of profits as between group members were not made solely by reference to the trading results of members treated as separate entities dealing at arms-length. The accounts of NT, which were audited, showed very substantial payments to related companies for management and other services. For example, in NT’s accounts for 1996/97, total operating income was approximately $78 million, and management fees paid to NTEI were more than $32 million. Similarly high proportions applied in the later years. The Board found that these fees were artificial and did not reflect the value of services provided to NT. The fees, the Board held,[4] “could never have been regarded as expenses incurred in the production of [NT’s] profits”. The Board found that the fees were not allowable deductions under sections 16 and 17 of the IRO, not being amounts expended for the purpose of producing profits. An alternative argument for the CIR, based on the anti-avoidance provision of the IRO, 61A, raised a question that the Board said was moot, but the Board indicated an inclination to accept it. The Board found that the Applicants had no reasonable excuse for the incorrect returns.
+
+21.  The amounts of additional tax assessed against Mr Koo in relation to the years 1996/97 and 1999/2000 respectively were $6,400,000 and $6,200,000. The amount assessed against Mr Murakami in relation to the year 1997/98 was $5,400,000.
+
+D.     The appeal to this Court, and a procedural twist
+
+22.  The Applicants, in their appeal to the Court of First Instance, argued that s 82A(1)(a) of the IRO did not apply to them as they did not fall within the description of a person who makes an incorrect return by omitting or understating anything in respect of which he is required by the IRO to make a return. They also raised other arguments against their assessments, including a challenge to the Board’s finding that the returns were incorrect. G Lam J accepted the primary argument, and that decision was upheld by the Court of Appeal. Pursuant to leave granted by the Court of Appeal on 10 December 2021, the CIR appealed to this Court.
+
+23.  On 14 March 2022, the CIR filed its Printed Case in support of its appeal. On 11 April 2022, the Applicants filed their Printed Case in opposition to the appeal. The Printed Cases dealt only with the primary argument, which raised the issue in respect of which leave to appeal had been granted. The CIR submitted that, if the appeal to this Court were allowed, the matter should be remitted to the Court of Appeal to determine the outstanding issues. This appeared to be common ground. If the appeal to this Court were dismissed, those other issues would not arise.[5]
+
+24.  The appeal to this Court was listed for hearing in June 2022.
+
+25.  On 20 May 2022, the Applicant, Mr Koo, writing on his own behalf and on behalf of Mr Murakami, informed the Acting Registrar of this Court that the Applicants did not intend to oppose the CIR’s appeal and that they wished to withdraw their Printed Case. On 25 May 2022, Mr Koo wrote to the Court confirming the above information, and stating that he and Mr Murakami did not intend to instruct lawyers to attend the hearing or to attend in person.
+
+26.  The questions for this Court in the appeal were certified by the Court of Appeal to be of great general or public importance. It was therefore for this Court to decide how the appeal was to be disposed of.[6]
+
+27.  On 26 May 2022, Mr Eugene Fung SC and Mr John Leung were appointed as amici curiae by this Court.
+
+28.  On 14 June 2022, the amici curiae filed a Printed Case addressing the questions before this Court in the appeal. The submissions in that Printed Case supported the decisions of G Lam J and the Court of Appeal.
+
+E.     Legislative context
+
+29.  Part 9 of the IRO is the statutory source of the legal obligation to furnish a tax return. It commences with s 51, which, at the relevant time, provided:
+
+“51 Returns and information to be furnished
+
+(1) An assessor may give notice in writing to any person requiring him within a reasonable time stated in such notice to furnish any return which may be specified by the Board of Inland Revenue for–
+
+(a) property tax, salaries tax or profits tax; or
+
+(b) property tax, salaries tax and profits tax,
+
+under Parts II, III, IV, XA, XB and XC…
+
+(2)     Every person chargeable to tax for any year of assessment shall inform the Commissioner in writing that he is so chargeable not later than 4 months after the end of the basis period for that year of assessment unless he has already been required to furnish a return under the provisions of subsection (1).”
+
+30.  G Lam J noted[7] that, at the material time, in the case of a company chargeable to profits tax, s 51(1) was put into effect by the IRD sending the company a blank profits tax return form with a requirement, printed thereon, to make a return on that form. He also observed[8] that, in this case, in each of the relevant notices, the requirement was addressed to the corporation, NT.
+
+31.  Subsections (3), (4), (4A) and (4B) of s 51 empower an assessor to give notices requiring persons (not limited to a taxpayer) to furnish information regarding tax liabilities. (That ties in with s 82A(1)(c)).
+
+32.  Section 51(5) provides:
+
+“(5) A return, statement, or form purporting to be furnished under this Ordinance by or on behalf of any person shall for all purposes be deemed to have been furnished by that person or by his authority, as the case may be, unless the contrary is proved, and any person signing any such return, statement, or form shall be deemed to be cognizant of all matters therein”.
+
+33.  As to the references in s 51 to a return being furnished or made on behalf of a person, it may be noted that s 20A(3) of the IRO provides that a person who sells any goods in Hong Kong on behalf of a non-resident shall furnish a return showing the gross proceeds of sale. Section 22(2) provides for returns on behalf of a partnership. The precedent partner is to make a return on behalf of the partnership, or, where no other partner is resident in Hong Kong, the return is to be made by the manager or agent of the partnership in Hong Kong. Section 53, dealing with incapacitated or non-resident persons, provides that an act or thing required by the IRO to be done by a person shall, if that person is incapacitated or non-resident, be required to be done by the trustee of the incapacitated person or the agent of the non-resident person.
+
+34.  At the relevant time, section 57 of the IRO provided:
+
+“(1) The secretary, manager, any director or the liquidator of a corporation and the principal officer of a body of persons shall be answerable for doing all such acts, matters or things as are required to be done under the provisions of this Ordinance by such corporation or body of persons”.
+
+35.  In the case of a solvent company, the signature of one director (or the secretary or the manager) was sufficient for the purposes of the form provided by the CIR. Section 57, which is in the part of the IRO dealing with returns, refers to an act required to be done by a corporation. One such act is furnishing a tax return in compliance with a notice under s 51(1). Section 57 identifies a class of persons “answerable for” doing that act. In the case of directors, it says that “any director” shall be answerable. That appears to mean that all directors are answerable; if it were otherwise there is no way of knowing which director is answerable. It will be necessary to return to the concept of answerability, but it may be observed that what the relevant officer or officers is or are answerable for is “doing [an act] required to be done . . . by [the] corporation”. The argument for the CIR is that the result is that when one particular director, such as Mr Koo, signs the return which the corporation NT is required to make, then for the purposes of s 82A(1)(a) that director is making a return that he or she is required to make. In that respect, however, it may be noted that there is nothing in s 82A which makes any director liable if no return is furnished to the IRD. Section 82A(1)(d) only applies to the person to whom a s 51(1) notice is given. Furthermore, provided an individual falls within one of the categories mentioned in s 57(1), the revenue authorities have no other concern with which particular officer of the corporation signs.
+
+36.  Part 14 of the IRO deals with penalties and offences. Section 80 creates offences and penalties for failing to make returns and incorrect returns. In subsection (2) it provides that any person who without reasonable excuse makes an incorrect return by omitting or understating anything in respect of which he is required to make a return either on his behalf or on behalf of another person or partnership is guilty of an offence, the penalty for which is a fine at a certain level and a further fine of treble the amount of tax undercharged as a result. Section 82 imposes penalties in respect of conduct by which a person with intent to evade tax or to assist another to evade tax provides false information of various kinds in or concerning tax returns or tax obligations.
+
+F.     Legislative history
+
+37.  When the original IRO was enacted in 1947,[9] section 57 provided:
+
+“The secretary, manager, or other principal officer of every company or body of persons corporate or unincorporate shall be answerable for doing all such acts, matters or things as are required to be done under the provisions of this Ordinance by such company or body of persons:
+
+Provided that any person to whom a notice has been given under the provisions of this Ordinance on behalf of a company or body of persons shall be deemed to be the principal officer thereof unless he proves that he has no connexion with the company or body of persons, or that some other person resident in the Colony is the principal officer thereof”.
+
+38.  Subsequent reports of the Inland Revenue Ordinance Review Committee indicated concerns about obtaining returns and information from corporations whose control and management were outside Hong Kong. One proposal to deal with this was to replace the reference to principal officer with a reference to directors. In the course of a debate in Committee in 1971, the Financial Secretary said[10]:
+
+“I take this opportunity to say that the answerability of the representative does not extend to personal liability for tax due by the corporation. This is not the intention; and there has been a judicial decision in Australia (where there is a similar provision) determining that is in law not the effect of the provision”.
+
+39.  The reference to an Australian decision appears to have been a reference to Lean v Brady[11]. The legislation there in question required every company with an income to appoint a public officer and provided that the public officer should be liable for doing all things required to be done by or on behalf of the company and that in case of default both the company and the public officer would be liable for all penalties imposed for any breach. The liability of the public officer for penalties was made clear in express terms. However, Dixon J pointed out that the public officer was not personally liable for a company’s income tax or for failure to pay it. Rather, the public officer was made liable for penalties for failure to comply with obligations connected with tax administration such as an obligation to file tax returns.
+
+40.  Section 82A was introduced following a report of the Inland Revenue Ordinance Review Committee in 1967. The CIR had expressed a need for an alternative to court action which would authorize him to impose penalties for most offences except those of wilful intent to evade tax. The report said:
+
+“398. The Commissioner submitted that where any person has been undercharged to tax as a consequence of any incorrect return, statement or information made or given to the Department, or where he would have been undercharged if the return, etc. had been accepted, it would be reasonable to empower the Department to impose a penalty, up to the amount of the tax undercharged, according to the acceptability of the excuse offered by the offender: similar powers are to be found in the tax laws of other territories, including South Africa, Australia, Malaysia and Singapore . . .”.
+
+41.  G Lam J, in his reasons[12], observed that there does not appear to have been any discussion of the liabilities of corporate officers to the s 82A penalty for signing an incorrect corporate return. In the Explanatory Memorandum to the Inland Revenue (Amendment) Bill 1969 potential liability to the “additional tax” was said to exist where “the taxpayer” has made an incorrect return. That is consistent with par 398 of the report. The CIR is right to say that such a consideration is not conclusive of the present issue, but it is fair to observe that, if a purpose of s 82A(1)(a) had been to expose to additional tax the individuals who sign corporate tax returns, it might have been expected to do so expressly.
+
+G.     The Issue of Construction
+
+42.  The potential liability of Mr Koo in respect of the two returns signed by him, and of Mr Murakami in respect of the return signed by him, depends upon whether they satisfy the description, in s 82A(1)(a), of a “person who   . . . makes an incorrect return by omitting or understating anything in respect of which he is required by this Ordinance to make a return, either on his behalf or on behalf of another person”.
+
+43.  In its application to the Court of Appeal for leave to appeal from the decision of that Court, the CIR formulated the question raised by the case as follows[13]:
+
+“Does section 82A of the [IRO] permit the [CIR] to assess additional tax on a secretary, manager, director or liquidator (‘the Signer’) who has physically signed an incorrect return (‘the Return’) of a corporate taxpayer (‘the Taxpayer’)? In particular:
+
+(1) Whether, having regard to all the circumstances, including the actual words used in the Return, and the legislative context and purposes, the Signer is ‘making’ the Return in his personal capacity on behalf of the Taxpayer?; and
+
+(2) Whether the Signer, being a secretary, manager, director or liquidator of the Taxpayer, is ‘required’ by the IRO to make the Return on behalf of the Taxpayer?
+
+44.  The Court of Appeal accepted that formulation of the questions of importance raised by the case[14].
+
+45.  In the Printed Cases of CIR and the amici curiae arguments were directed to the questions of “making” and “requirement”.
+
+46.  This is a convenient method of summarising the contention of the Applicants that they did not satisfy the statutory description, and of the reasoning upon which the Court of First Instance and the Court of Appeal upheld that contention. However, “making” and “requirement” are not strictly separate questions so much as two aspects of the one problem. No doubt it may happen that a person makes a tax return without being required to make it, but in the ordinary case the maker of a return is the person who is required to make it, and the expression “anything in respect of which he is required . . . to make a return” appears to be a compendious reference to the various impositions made by the Ordinance. It is not suggested that there is any material difference between the verb “to furnish” used in s 51(1) and the verb “to make” used in s 82A(1)(a). The scheme of the Ordinance is that a requirement to make a return in respect of, for example, profits, results from a written notice given under s 51(1). The notice is given to a person requiring that person to furnish a return. In the ordinary case the notice is addressed to the taxpayer, and the taxpayer makes the return. There are cases, of a kind referred to above, where a notice will not be addressed to the taxpayer, but in the case of a corporation which is required to make a return for the purpose of assessment to profits tax, the notice is addressed to the corporation, as in the present case. The notices in this case made no reference to Mr Koo, or Mr Murakami. As will appear, in order to justify a conclusion that those individuals made incorrect returns by omitting or understating anything in respect of which they were required to make a return, the CIR developed a theory of primary and secondary, and individual and collective, requirements which were said to exist in the commonplace situation of a corporate taxpayer. The argument of the Applicants, accepted by the primary judge and the Court of Appeal, was that, in the case of each of the returns in question, it was the taxpayer, NT, that was required to make the return, and that made the return.
+
+H.     Other potential liabilities of officers of corporations
+
+47.  This case is concerned only with one particular form of potential liability, that is, liability for additional tax under s 82A(1)(a). An officer of a corporation could be liable, depending on the facts and circumstances, for various penalties arising out of the administration of the IRO. Sections 80 and 82 provide a number of examples. G Lam J referred also[15] to s 101E of the Criminal Procedure Ordinance[16] which provides that where an offence has been committed by a company with the consent or connivance of a director the director shall be guilty of the like offence. In the Court of Appeal, Barma JA referred[17] to s 51(4) of the IRO which entitles the revenue authorities to require persons to provide information relevant to tax liabilities and pointed out that officers of corporations would be obvious candidates for such investigation in the case of corporate taxpayers.
+
+I.     Judgment of Court of First Instance
+
+48.  G Lam J said[18] that it was common ground that, in each of the years in question, NT was required to make a return and made a return. He said[19]:
+
+“Being a company, NT Trading could of course only furnish a return through acts of natural persons. Physical acts were necessary to achieve it: someone had to use a typewriter or a pen to fill in the form, someone had to sign in the box and someone had to post or deliver the completed form to the IRD. But it does not follow that these individuals, or one or a combination of them, or the board of directors who authorised or instructed them, made the return. Making or furnishing a return is a legal act capable of being said to have been done directly by a company albeit through physical steps undertaken by human beings”. (Emphasis in original).
+
+49.  It may be added that it does not follow from the fact that one director signed a declaration that the information in the return was true that such director made the return.
+
+50.  The learned judge dealt with the CIR’s reliance on s 57(1) as a potential source of a requirement on Mr Koo and Mr Murakami individually to make a return on behalf of NT, and much of his reasoning is reflected in what is said on that topic below. In that connection[20], he pointed out that although, on the case for the CIR, every secretary, manager, or director of a solvent company is required to make a return on behalf of the company (although apparently one return made by one of them will suffice), none of them would be liable under s 82A(1)(d) if no return were furnished.
+
+51.  The CIR relied also on s 51(5). That, the learned judge pointed out[21], is a provision in aid of proof of a particular fact (state of mind) in a case where that fact is relevant. It does not advance the argument as to the meaning of s 82A(1)(a).
+
+52.  The learned judge stated that, for the reasons he gave, his conclusion was as follows[22]:
+
+“I consider that where a company has been required by notice issued to it under s 51(1) to make a return, it is the company, rather than the individual who signs the document, that furnishes, or makes, the return in compliance with the requirements of the notice. Accordingly, s 82A(1)(a) does not permit a penalty assessment to be made on [the Applicants]”.
+
+J.     Judgment of Court of Appeal
+
+53.  In the Court of Appeal, Barma JA, with whom the other members of the Court agreed, pointed out[23] that it was not in dispute that the notices under s 51(1) were issued and directed to NT and said that the terms of the declarations signed by the Applicants did not furnish a reason to regard the returns as made other than by NT. The forms of return, including the declaration, were forms created by the CIR. Furthermore, the Applicants simply declared their belief in the correctness of the information in the returns; they did not assume the capacity of the makers of the returns.
+
+54.  As to s 57(1), Barma JA said[24] that, although it makes directors and others “answerable”, it remains the company which is required to do the acts, matters and things in question. The directors are not required to do the acts referred to. He said[25]:
+
+“[T]o be answerable for doing acts required to be done by a company can best be understood as being under a duty to ensure that the act in question is done by the company. This is different to being under an obligation or requirement to do the act on behalf of the company”.
+
+K.     The argument for the CIR
+
+55.  The CIR contends that, in the case of each of the relevant returns, both NT and the individual who signed the return were liable to additional tax under s 82A(1)(a). Although NT was not assessed to additional tax under s 82A(1)(a), it could have been. The 1996/1997 return, for example, it is said, was made by Mr Koo, and his act in making the return was done on behalf of NT and is attributed to NT, which is “vicariously liable”, but not to the exclusion of Mr Koo’s liability.
+
+56.  The question to be decided was posed by the CIR in the following paragraph of his Printed Case[26]:
+
+“19 There is no doubt that there is no intention under section 82A(1)(a) to exclude attribution of the physical making of an incorrect return by a Signer to the corporate taxpayer so as to render it not liable therefor . . . Thus the question is whether it is intended that the making (by physical signing) of the return is considered to be the act of the corporate taxpayer itself, with the consequence that the individual concerned is not considered to have made it personally at all, or by the principles of agency and vicarious liability, with the consequence that the individual is and remains the maker, but on behalf of the company, which is liable vicariously. That, in turn, raises the question of whether section 82A(1)(a), properly interpreted, is intended to impose liability for additional tax on the individual who in fact makes (by physically signing) the (incorrect) return of the corporate taxpayer, in addition to the corporation itself, under the ‘on behalf of another person’ limb.”
+
+57.  The contention that NT, as well as the individual Applicants, made the returns is necessary to avoid what would be a remarkable consequence.  Where a solvent corporation’s tax return is incorrect, it may be expected that the primary target for potential liability for additional tax would be the corporation itself. Reference has been made earlier to the legislative history, which shows that it was contemplated that, at least in the ordinary case, liability for additional tax would fall upon the taxpayer.
+
+58.  The CIR’s emphasis on physicality was said to be supported by reference to the language of the relevant declarations, by which the individuals vouched for the information provided in the returns.
+
+59.  The corollary of the proposition that, in the case of each return, there were two persons (NT and the Signer) liable to be assessed to additional tax is that there were two persons required to make the return. At this point the submissions invoke the concept of a primary requirement, on the corporation, and a secondary and collective requirement, on its officers. The source of these refinements is said to be s 57(1).
+
+60.  In the CIR’s Printed Case, it is said[27]
+
+“29 To achieve the purpose of ensuring correctness of the return, it must have been the intention of those provisions to cast the net of liability for any incorrectness in the return wide rather than narrow, so that one should construe if possible a person who physically furnishes or makes (by signing) a return when he or she is not the person primarily required to make the return to be acting on behalf of, rather than, as the latter, so that the former can be made to act with all due care under the pain of possibility of an imposition of additional tax.”
+
+61.  Hence, the argument is that it was NT that was “primarily required” to make the relevant return. On that basis, any requirement under which the Applicants were acting was a secondary requirement. However, even assuming that, contrary to what was held in the Court of First Instance and the Court of Appeal, the people referred to in s 51(7) are required (secondarily) to do the act of the company for which they are answerable (to make the return), such requirement would not fall on any one of them individually. No one suggests they should each make a return on behalf of the company. The response to this is to say that the requirement is collective, but is discharged when any one of them makes the return.
+
+62.  In support of this, as noted above, the CIR says the legislative purpose is “to cast the net of liability for any incorrectness in the return wide rather than narrow”.
+
+L.     The reach of s 82A(1)(a)
+
+63.  In considering the above arguments, it is convenient to commence with that concerning legislative purpose. At one level of abstraction, it can be said that the purpose of the IRO is to raise revenue. No one would seriously suggest that it follows that the solution to any question about the meaning of a doubtful provision in the IRO is to construe it in the manner which will raise the most revenue. Taxing acts do not set out to raise revenue at all costs; typically they involve a complex interplay of considerations of fiscal policy, administrative efficiency and fairness to, and as between, taxpayers. Identifying the purpose of one element of a scheme of taxation is likely to require attention to detail.
+
+64.  It is obvious that s 82A(1)(a) does not cast the net of liability for any incorrectness in a company’s tax return as widely as possible. For example, it does not impose liability on those directors who did not sign the return, even if they voted in favour of a resolution to adopt the accounts reflected in the return. Why a legislature casting a wide net in such a context would fasten upon the element of physicality stressed by the CIR’s submissions is difficult to explain. As between the people referred to in s 57(1), the identity of the individual who signs a company’s return may be a matter of happenstance.
+
+65.  For there to be an assessment to additional tax under s 82A, there must be an incorrect return and an amount of tax that has been undercharged in consequence of such incorrect return. The amount of tax undercharged is the basis of the potential assessment to additional tax. Tax evasion, involving wilful intention, is dealt with elsewhere[28]. Potential liability under s 82A(1)(a) flows from error if there is no reasonable excuse. It is the contention of the CIR that, in the case of a corporate taxpayer, not only is the taxpayer itself liable to additional tax, but so also is the officer of the corporation who signs its return.
+
+66.  It is accepted on both sides of the argument that a corporate taxpayer may be liable to additional tax under s 82A(1) if the corporation’s tax return is incorrect. As noted earlier, a contrary conclusion would be remarkable. The most direct path to the conclusion is to say, as the Court of First Instance and the Court of Appeal held, and the amici curiae submit, that it is the corporate taxpayer that is required to make, and makes, the incorrect return, and is therefore the “person” liable to be assessed to additional tax. The signing of the declaration at the conclusion of the return by an officer of the corporation is part of the process by which the corporation acts to fulfil the requirement that it make a return. On the other hand, the argument for the CIR is that, although the corporate taxpayer is the person “primarily required” to make the return[29], the legislative intention is that an officer of the corporation is to make the return on the taxpayer’s behalf by signing it[30], the taxpayer being “liable vicariously”[31]. The act of signing, and therefore making the return, it is said, is that of the individual officer but the officer acts as agent, on behalf of the company.
+
+67.  This gives rise to the obvious question: what is the source of the requirement that the individual officer make the return?  In the case of the 1996/97 return, for example, the s 51(1) notice of requirement to furnish the return was addressed to NT. It did not mention Mr Koo. How then, can it be said that Mr Koo was required to make the return, as the language of s 82A(1)(a) dictates?
+
+68.  According to the CIR, the answer lies in s 57(1). In the relevant year, it is said, that provision made Mr Koo (and a number of other people) “answerable” for doing all such acts as were required to be done under the IRO by NT[32].
+
+69.  The first difficulty with this response is that there is nothing in s 57(1) to single out Mr Koo as subject to a requirement to make NT’s tax return. Whatever be the precise obligation that follows s 57(1), it is one that falls on all the members of the class to which it refers. The CIR says that, although it is a collective obligation, if it is discharged by one of the members of the class the others are relieved of further obligation.
+
+70.  A second difficulty is that, since the CIR contends that it was NT that was “primarily required to make the return”[33], the collective requirement on the class of persons referred to in s 57(1) must be secondary. This results in something of a conceptual tangle. In the CIR’s Printed Case, which argues that NT is vicariously liable for the act of signing and making done by its officer (relevantly, Mr Koo), the following appears:
+
+“17. Vicarious liability is therefore a form of secondary liability, the primary liability is on and remains with the person who has physically committed the act. The act is and remains that of the ‘agent’, but for which the company is also liable secondarily if the requirements for vicarious liability are satisfied”. (Emphasis in original).
+
+In the result, apparently, a primary requirement on the company gives rise to secondary liability in the company.
+
+71.  A third difficulty is that s 57(1) does not, in terms, impose a legal obligation on the officers whom it identifies, either collectively or individually, primarily or secondarily, to do anything. It makes them “answerable” for doing certain acts which are required to be done by a corporation. As submitted by the amici curiae[34], it facilitates the exercise by the revenue authorities of their functions in relation to a corporation and confers authority on certain individuals to bind the corporation for the purposes of the IRO. However, it is not a charging provision. In other jurisdictions, similar language has been held not to make officers of corporations liable to pay the corporation’s tax[35].
+
+72.  There is no provision in the IRO which directly visits any legal sanction upon the officers of a corporation in the event that the corporation makes no tax return. Section 82A(1)(d) applies only to the addressee of the section 51(1) notice. Furthermore, it is not suggested by the CIR that s 82A exposes to liability for additional tax any of the officers referred to in s 57(1) other than the one who signs the corporation’s return. If the concept of answerability has the amplitude for which the CIR contends, it is difficult to understand why potential liability for additional tax should not affect all of them.
+
+73.  As the Court of Appeal pointed out[36], there are provisions in the IRO which expressly impose a requirement on certain persons to do acts (including the making of returns) on behalf of others. Section 22(2) requires the precedent partner of a partnership to make and deliver a statement of the profits or losses of the partnership. Section 53 requires the trustee of an incapacitated person to do any act or thing required by the IRO to be done by the incapacitated person. It also requires the local agent of a non-resident person to do any act or thing required by the IRO to be done by the non-resident person. This, it was said correctly, underlines the distinction between the responsibility of ensuring that a company makes a return and an obligation to make a return on behalf of the company[37].
+
+74.  The argument for the CIR does not go so far as to suggest that it is impossible for a corporation to make a return directly rather than through the agency of an individual. In the CIR’s Printed Case it is said[38]:
+
+“9. In the context of a corporate taxpayer, when a director or a secretary or a manager or a liquidator (“Officer”) physically signs a document (“Signer”), the Signer may be acting as the corporation, or as a separate person acting as an agent on behalf of the corporation”. (Emphasis in original).
+
+Rather, the contention is that, on the true construction of the IRO, and on the facts and in the circumstances of the present case, the returns were required to be made, and were made, by Messrs Koo and Murakami respectively as agents on behalf of NT and not by NT itself. There is no warrant for a conclusion that s 57(1) has this consequence.
+
+75.  Section 51(5) does not assist the CIR. That section has the effect that, if a return is made by one person on behalf of another, then the former is deemed to have authority to make the return. It also facilitates proof that someone who signs a return knows what is in it. It does not address the present issue.
+
+M.     Conclusion and disposition
+
+76.  The Court of First Instance and the Court of Appeal were correct to decide that, in the light of the relevant provisions of the IRO, and in the events that occurred, the returns in question were required to be made, and were made, by NT. They were not required to be made, and were not made, by the Applicants on behalf of NT. The statutory language relied upon in support of a different conclusion does not bear the weight which the CIR seeks to put upon it.
+
+77.  The appeal should be dismissed.
+
+Chief Justice Cheung:
+
+78.  Accordingly, the appeal is dismissed.
+
+ 
+
+ 
+
+(Andrew Cheung)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+(Frank Stock)	(Murray Gleeson)
+Non-Permanent Judge	Non-Permanent Judge
+ 
+
+Mr Stewart Wong SC and Ms Elizabeth Cheung, instructed by the Department of Justice, for the Respondent (Appellant)
+
+1st and 2nd Applicants (1st and 2nd Respondents), both acting in person, absent
+
+Mr Eugene Fung SC and Mr John Leung, as Amici Curiae
+
+ 
+
+[1] Lam VP, Chu JA and Barma JA [2021] 3 HKLRD 642 (“the CA Judgment”)
+
+[2] [2018] HKCFI 2593, 23 November 2018 (“the CFI Judgment”)
+
+[3] Board of Review, Cases D32/16, D33/16
+
+[4] Board of Review, Case D41/08, par 55.
+
+[5]  Before G Lam J, the CIR attempted to rely, in the alternative, upon s 82A(1)(c) but the learned judge held that,    because of the procedure that had been followed, this argument was not open: [2018] HKCFI 2593 at pars 64-65.
+
+[6]  Zhang Hong Li v DBS Bank (Hong Kong) Ltd (2019) 22 HKCFAR 392
+
+[7] CFI Judgment at par 27
+
+[8] CFI Judgment at par 42
+
+[9] Ord. No 20/47
+
+[10] Hong Kong Legislative Council Official Record of Proceedings, 20 January 1971, p 361
+
+[11] (1937) 58 CLR 328
+
+[12] CFI Judgment at pars 24, 25
+
+[13] Amended Notice of Motion, 16 September 2021
+
+[14] [2021] HKCA 1833, 10 December 2021
+
+[15] CFI Judgment at par 61
+
+[16] Cap 221
+
+[17] CA Judgment at par 55
+
+[18] CFI Judgment at par 45
+
+[19] CFI Judgment at par 46
+
+[20] CFI Judgment at par 59
+
+[21] CFI Judgment at par 62
+
+[22] CFI Judgment at par 63
+
+[23] CA Judgment at pars 25-29
+
+[24] CA Judgment at pars 38-44
+
+[25] CA Judgment at par 39
+
+[26] CIR’s Printed Case par 19
+
+[27] CIR’s Printed Case par 29
+
+[28] IRO s 82(1)
+
+[29] CIR’s Printed Case par 29
+
+[30] CIR’s Printed Case par 30
+
+[31] CIR’s Printed Case par 19
+
+[32] CIR’s Printed Case pars 47 to 63
+
+[33] CIR’s Printed Case par 29
+
+[34] Printed Case of amici curiae, par 51
+
+[35] Income Tax Commissioner v Chatani (1980) 31 WIR 337; In re Wayte (Holdings) Limited (In Receivership) [1986] IR 448; De Silva v The Commissioner of Income Tax (1951) 53 NLR 280.
+
+[36] CA Judgment at par 40
+
+[37] CA Judgment at pars 39-40
+
+[38] CIR’s Printed Case par 9
+
+ 

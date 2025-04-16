@@ -1,0 +1,109 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 4 of 2020
+
+[2020] HKCFA 44
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 4 OF 2020 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 62 OF 2018)
+
+_________________________
+
+BETWEEN	 	 
+ 	JOE ZHIXIONG ZHOU	Plaintiff
+ 	 	(Appellant)
+and	
+ 	SAIF PARTNERS II L.P.	1st Defendant
+ 	 	(1st Respondent)
+ 	SAIF II GP CAPITAL LIMITED	2nd Defendant
+ 	 	(2nd Respondent)
+_________________________
+
+Before: Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Cheung PJ and Lord Hoffmann NPJ
+Date of Hearing: 1 December 2020
+Date of Judgment: 1 December 2020
+Date of Reasons for Judgment: 28 December 2020
+ 
+
+__________________________
+
+REASONS FOR JUDGMENT
+
+__________________________
+
+Chief Justice Ma:
+
+1.  At the conclusion of counsel’s submissions, the appeal was dismissed with costs.  The reasons for dismissing the appeal are contained in the judgment of Lord Hoffmann NPJ, with which I agree.
+
+Mr Justice Ribeiro PJ:
+
+2.  I agree with the judgment of Lord Hoffmann NPJ.
+
+Mr Justice Fok PJ:
+
+3.  I agree with the judgment of Lord Hoffmann NPJ.
+
+Mr Justice Cheung PJ:
+
+4.  I agree with the judgment of Lord Hoffmann NPJ.
+
+Lord Hoffmann NPJ:
+
+5.  The following are my reasons for agreeing that the appeal should be dismissed. 
+
+6.  The appellant Mr Joe Zhou is a venture capitalist. Between 2004 and 2006 he worked for a private equity fund known as SAIF Partners.  The administration of the fund was structured in the form of a series of superimposed Cayman Islands Exempted Limited Partnerships.  Under the Cayman Exempted Limited Partnership Law (2003 Revision) such a partnership has general partners and limited partners.  A general partner is solely responsible for the administration of the business of the partnership and has unlimited liability for its debts.  Limited partners have no powers or duties in respect of the business but are not liable for more than their contributions to the fund.
+
+7.  Mr Zhou was a limited partner in SAIF Partners II L.P. (“SAIF”), the first respondent, in which the general partner was SAIF II GP Capital Limited (“SAIF Capital”), the second respondent.  SAIF Capital was controlled by Mr Yan, the founder of the business.  SAIF was in turn the general partner in SAIF II GP L.P. (“SAIF GP”), in which there was one limited partner.  Finally, SAIF GP was the general partner of SB Asia Investment Fund II L.P. (“the Fund”) in which the limited partners were a number of external investors. The effect of this structure was that SAIF, in which Mr Zhou was a partner, controlled (via its control over SAIF GP) the business of the Fund. It was also entitled to a management fee and 20% of the profits on investments made by the Fund.
+
+8.  Under the Cayman law, a limited partner does not, as such, owe any fiduciary duties to the other partners. But that is no reason why he should not enter into a separate agreement with one or more of the other partners which creates such duties.  There was expert evidence at trial on Cayman law (which governed the position) to this effect.  In this case the relations between Mr Zhou and the other partners in SAIF, all of whom worked in the business, were governed at the relevant time by an Amended and Restated Limited Partnership Agreement of 29 June 2005 (“the ALPA”).  The judge found that the ALPA gave rise to a fiduciary duty on the part of Mr Zhou, owed to the other partners in SAIF, to perform his duties as a partner in the interests of the partnership and the Fund which it controlled and not to make a personal profit from investment opportunities available to the Fund.  This finding was upheld by the Court of Appeal and leave to appeal against it has been refused.
+
+9.  The judge went on to find that in October 2005, while a partner in SAIF, Mr Zhou identified an investment opportunity in a PRC technology company named Show World Information Technology Co Ltd (“Show World”).  On his recommendation the Fund in April 2006 invested US$8 million through a new Cayman company, My Show Group Limited (“My Show”) which established a PRC enterprise called Beijing Show World Science and Technology Co Ltd (a wholly owned foreign enterprise or “WOFE”) to which the assets and undertaking of Show World were transferred.  Mr Zhou was appointed a director of My Show and the WOFE.
+
+10.  During 2006 an employee of the WOFE developed a new technology for internet advertising.  The Respondents alleged, and the judge found, that this could have been profitably developed by the WOFE.  Instead, Mr Zhou and the general manager of the WOFE diverted it to a company named Xinrui in which Mr Zhou afterwards acquired a personal interest. The judge held that this transaction was a breach of Mr Zhou’s fiduciary duty to SAIF, in consequence of which he was accountable for the profit he had made.  This finding was also upheld by the Court of Appeal and leave to appeal against it was refused.
+
+11.  These two findings led to the conclusion that Mr Zhou was accountable to SAIF for any profit he had made on the Xinrui transaction.  The judge made an order accordingly.  But he went on to say although SAIF and its general partner were the only counter-claiming defendants, “[i]n substance, the ultimate beneficiaries to whom Mr Zhou owed the duty not to make a secret profit from his position as a Limited Partner were the external investors who contributed to [the Fund].”  He said further that “[i]n order to avoid over-recovery by [SAIF] and to protect the interests of [the Fund], [SAIF] must, in my opinion, hold the profit …to be disgorged by Mr Zhou on trust for [the Fund]”. Counsel for the Respondents did not dissent from these propositions and consented to an order in those terms.
+
+12.  This part of the judgment, although as a matter of Cayman law a correct statement of the relationship between SAIF and the Fund, was unfortunate because it suggested (at any rate to Mr Barlow SC, counsel for Mr Zhou) that SAIF was suing “on behalf of” the contributors to the Fund and that the court did not have jurisdiction to make such an order unless they had authorised the proceedings or were parties to the action.  Hence the certified question in this appeal:
+
+“Do our courts have jurisdiction (in either the literal sense or the broader sense), following the trial of an Action, to grant substantive remedies to a counterclaiming defendant, as a ‘trustee’ for non-parties whom the defendant has neither joined in the Action nor shown any specific authority to represent therein?”.
+
+13.  But the true position was that SAIF was not suing “on behalf of” anyone.  It was asserting its own cause of action, as the party to whom the fiduciary duty created by the ALPA was owed.  While SAIF, as indirect general partner of the Fund, did owe its limited partners a fiduciary duty,[1] I doubt whether Mr Zhou personally did so.  He was a limited partner in the Fund but the Cayman statute expressly provides that limited partners do not as such owe any fiduciary duties.[2]  He made no profit from his position as a limited partner in the Fund, the bottom rung of the fund administration structure.  He made it from the knowledge he acquired as a partner in SAIF, the top rung where the decisions were made.  On the other hand, if the WOFE had been a Hong Kong company, he would probably have been in breach of his fiduciary duty as a director by diverting an investment opportunity to Xinrui.    There was no evidence of what the position was under PRC law.
+
+14.  But in my opinion none of this matters because SAIF had in its own right a complete cause of action for an account of profits.  The judge found that the ALPA, which was an agreement between Mr Zhou and the other partners in SAIF, created a fiduciary duty and that Mr Zhou was liable to SAIF to account for any profit he had made.  There is no question of “over-recovery” because it has been the law for at least three centuries that the purpose of the rule that a fiduciary must disgorge unauthorised profits is not compensatory: see Keech v. Sandford (1726) Sel. Cas. Ch. 61. As Viscount Sankey said in Regal (Hastings) Ltd v. Gulliver [1967] 2 AC 134 (Note) at pp.144-145:
+
+“The rule of equity which insists on those, who by use of a fiduciary position make a profit, being liable to account for that profit, in no way depends on fraud, or absence of bona fides; or upon such questions or considerations as whether the profit would or should otherwise have gone to the plaintiff, or whether the profiteer was under a duty to obtain the source of the profit for the plaintiff, or whether he took a risk or acted as he did for the benefit of the plaintiff, or whether the plaintiff has in fact been damaged or benefited by his action. The liability arises from the mere fact of a profit having, in the stated circumstances, been made. The profiteer, however honest and well-intentioned, cannot escape the risk of being called upon to account.”
+
+15.  Thus the question of whether SAIF, having received from Mr Zhou the proceeds of this action, ought to account for them to the Fund is res inter alios acta, a matter between SAIF and the Fund.  It is not relevant to the liability of Mr Zhou to SAIF. If a trustee who has sold trust property sues for the price, he is not suing “as a trustee”.  He is suing as vendor and, as between him and the purchaser, his trusteeship is irrelevant.  Likewise, if a trustee of property employs an agent to sell it and the latter makes a secret profit, he is liable to his principal to account for the profit.  The fact that the principal is a trustee and may have to account to the beneficiaries for whatever he receives from the agent is irrelevant.
+
+ 
+
+ 
+
+(Geoffrey Ma)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+ 
+
+(Andrew Cheung)	(Lord Hoffmann)
+Permanent Judge	Non-Permanent Judge
+  
+
+Mr Barrie Barlow SC and Mr Chan Pat Lun, instructed by MinterEllison LLP, for the Plaintiff (Appellant)
+
+Mr Charles Manzoni SC and Mr Alexander Tang, instructed by Fangda Partners, for the 1st and 2nd Defendants (Respondents)
+
+[1]  Cayman Islands Exempted Limited Partnership Law, s.19(1) A general partner shall act at all times in good faith and, subject to any express provisions of the partnership agreement to the contrary, in the interests of the exempted limited partnership.
+
+[2]  Ibid., s.19(2) Subject to any express provisions of the partnership agreement to the contrary, a limited partner of an exempted limited partnership in that capacity does not owe any fiduciary duty in exercising any of its rights or authorities or otherwise in performing any of its obligations under the partnership agreement to the exempted limited partnership or any other partner.
+
+ 

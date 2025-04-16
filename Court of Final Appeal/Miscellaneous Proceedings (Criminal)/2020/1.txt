@@ -1,0 +1,180 @@
+FAMC Nos. 66 and 67 of 2019
+
+FAMC Nos. 6 and 16 of 2020
+
+[2020] HKCFA 40
+
+FAMC Nos. 66 of 2019 and 6 of 2020
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NOS. 66 OF 2019 AND 6 OF 2020 (CRIMINAL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL FROM
+
+HCMA NO. 289 OF 2018)
+
+________________________
+
+BETWEEN	 	 
+ 	HKSAR	Respondent
+ 	and	 
+ 	TSUI TACK KONG(崔德剛)	1st Applicant
+ 	YUEN TING FUNG(袁廷峰)	2nd Applicant
+________________________
+
+FAMC Nos. 67 of 2019 and 16 of 2020
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NOS. 67 OF 2019 AND 16 OF 2020 (CRIMINAL)
+
+ (ON APPLICATION FOR LEAVE TO APPEAL FROM
+
+HCMA NO. 289 OF 2018)
+
+________________________
+
+BETWEEN	 	 
+ 	HKSAR	Respondent
+ 	and	 
+ 	CHING LEE ENGINEERING LIMITED	3rd Applicant
+ 	(正利工程有限公司)	 
+ 	LEE KWONG KONG(李廣江)	4th Applicant
+________________________
+
+(HEARD TOGETHER)
+
+Appeal Committee: Mr Justice Ribeiro PJ, Mr Justice Fok PJ and Mr Justice Cheung PJ
+Date of Hearing and Determination:	11 December 2020
+Date of Reasons for Determination:	16 December 2020
+________________________________
+
+REASONS FOR DETERMINATION
+
+________________________________
+
+Mr Justice Ribeiro PJ:
+
+1.  At the hearing, we dismissed these applications for leave to appeal for reasons which we now provide.
+
+2.  On 17 November 2014, Mr Chan Shu-moon was walking on the pavement in Jardine’s Bazaar, Causeway Bay, when the ground beneath him suddenly caved in and he fell into a sinkhole which was some 3.7m deep, suffering multiple injuries, including three broken ribs.
+
+3.  The sinkhole was formed about 2.3m from an adjacent building site which was in the charge of the four applicants.  They had authorised and were carrying out the works then in progress which involved excavation of the basement level of the building being constructed.  As this was below ground water level, it was necessary to build an impermeable structure known as a “cofferdam” incorporating a “grout curtain” for the purpose of keeping ground water from seeping horizontally into the site.  When officials of relevant government departments investigated the accident, they concluded that the cofferdam had not been properly built or maintained resulting in the ingress of excessive water into the site, leading to the sinkhole collapse.  They decided that the four applicants should face prosecution.
+
+4.  They were charged under section 40(2B)(b) of the Buildings Ordinance[1] which relevantly provides:
+
+“Any person ... directly concerned with any ... site formation works, ... foundation works or other form of building works who –
+
+(b)      carries out ... such … works, or authorizes or permits ... such ... works to be carried out, in such manner as is likely to cause a risk of injury to any person ... shall be guilty of an offence ….”
+
+5.  There was no doubt that the four applicants were directly concerned with the relevant works and that a risk of injury had materialised in respect of the unfortunate Mr Chan. The only question was whether that risk of injury was causally related to the manner in which the works were carried out.
+
+6.  The trial before Mr Winston Leung, Deputy Magistrate,[2] lasted 29 days and resulted in the conviction of all four applicants, their sentences being fines ranging from $30,000 to $100,000. 
+
+7.  There was no direct evidence as to the cause of the sinkhole.  Thus, on the crucial question of causation, the issue was whether it was an irresistible inference that the manner of carrying out the works on the site was such that it was likely to cause the risk which occurred.  The Magistrate found that such an irresistible inference could indeed be drawn so that the offence was proved beyond reasonable doubt. In reaching that conclusion, he accepted the evidence of an expert prosecution witness, Mr Pang Kwok-kay, and rejected contrary evidence from defence experts.
+
+8.  Mr Pang pointed out that the evidence showed that there had been an excessive ingress of water into the site for a considerable period which had necessitated four de-watering pumps to be used.  The sinkhole was dry, indicating that there had been a drastic drop of the ground water level by 1.27 m to 1.82 m.  He also noted that there had been two ground subsidence incidents in the pavement outside the site a few days before the relevant sinkhole collapse.  He inferred that the cofferdam and grout curtain were defective and had cracks, resulting in a “piping effect” whereby the excessive ground water entering the site had carried with it particles of soil from the surrounding areas, leading to soil erosion and the formation of progressively enlarging cavities in the ground, ultimately causing the sinkhole to form.  He also opined that observation of the flooding situation on the site and proper use of the equipment to monitor the ground water level and ground settlement at the site should have signalled the likely risk to the applicants and ought to have led to the taking of remedial steps.  However, such indications were disregarded and no remedial measures were taken.
+
+9.  The Magistrate accepted this evidence and held that the following facts had been proved beyond reasonable doubt:
+
+“(a) The grout curtain was defective and leaking water into the cofferdam.
+
+(a) Over a period of three months, from 17 August 2014 to 17 November 2014, the Site was flooded with excessive water coming in from the leaking grout curtain from time to time, especially on 6, 13, 17 and 21 November 2014. By ‘excessive water’, I mean more water than allowed by the water cut-off design.
+
+(b) Piping effect occurred at the leaking points of the grout curtain, drawing not only water and soil into the cofferdam but causing soil erosion and loss of ground outside it.
+
+(c) The piping created Sinkhole 3 [the relevant sinkhole] ... as well as Sinkholes 1 and 2.
+
+(d) Sinkhole 3 caused multiple injuries to Mr Chan Shu-moon.”[3]
+
+10.  He also found that the monitoring systems had been disregarded during the whole period of construction; that the leakage was obvious at least on the dates mentioned above and that the applicants must have had first-hand knowledge thereof; but that nothing had been done to deal with the leakage except to de-water the site using four pumps.[4]
+
+11.  The Magistrate therefore found that section 40(2B)(b) had been violated in that two aspects of the manner in which the works were being carried out, namely with defects in the cofferdam leading to the flooding of the site and a failure properly to monitor the effects of the flooding and to remedy the situation, were likely, through a piping effect, to have caused the risk of injury that had been suffered by Mr Chan.
+
+12.  The applicants’ appeal came before Campbell-Moffat J.[5] After having reviewed the case put forward by each side and the Magistrate’s decision, her Ladyship observed that the appeal:
+
+“... boiled down to a criticism that the learned magistrate should not have rejected the opinion evidence of the defence expert witnesses and that some of the underlying facts from which an inference was drawn, were not proved beyond reasonable doubt.”[6]
+
+13.  It was, in other words, an appeal purely on the facts which, somewhat to the Judge’s dismay, involved an appeal bundle running to over 12,000 pages and 17 pages of Grounds of Appeal.[7] Her Ladyship formulated the core issue as follows:
+
+“In the absence of evidence showing the exact cause of the collapse of the Sinkhole, were the circumstances of the case, such that the Court can draw the irresistible inference that its collapse was caused by the manner in which the building works were carried out rather than some other reason or reasons?”[8]
+
+14.  The Judge agreed with the Magistrate’s essential findings and agreed that the question was whether a violation of section 40(2B)(b) had been proved on the basis of the evidence regarding “the geology of the area; the nature of the Sinkhole; the nature of the building works; the amount of water on the Site; and the reliability of the GWL [ground water level] and GSL [ground settlement level] monitoring records”.[9]  She noted the Magistrate’s rejection of the defence expert evidence and was not prepared to interfere with his view.[10] The Judge also upheld his finding as to the causative influence of the piping effect:
+
+“Of all of the explanations advanced, I, like the magistrate, find the argument as to ‘piping effect’ the only reasonable cause of the creation of the Sinkhole on 17 November 2014. That is because I, like the magistrate, am satisfied beyond reasonable doubt that the water which appears to be flowing into the Site was excessive.”[11]
+
+15.  Her Ladyship also agreed with his findings as to inadequate monitoring and a failure to take remedial measures, concluding that the required irresistible inference ought to be drawn and that the guilt of each applicant was proved beyond reasonable doubt:
+
+“Having considered all of the evidence from both lay and expert witnesses and having taken into account the view of the learned magistrate as to the quality of that evidence, I am of the view that there are sufficient proven facts from which the Court can draw the irresistible inference that the Sinkhole was formed by a default in the building works and therefore that the prosecution have proved beyond reasonable doubt that the creation of the Sinkhole on 17 November 2014, was caused by the manner in which the ELS [excavation and lateral support] works were carried out on the Site. I, like the learned magistrate, do not accept the alternative hypotheses put before the court by the defence and valiantly improved upon by Miss Wong in her submissions before me. I do not have to be sure of the exact cause of the formation of the Sinkhole but there is sufficient evidence before the court from which this court can infer the causal link between that formation and the Site. It is not necessary for this court to form a view as to how it was that excessive water came to be flowing into the Site but it does find that there was excessive water and that there was significant dewatering. This should have given cause for concern about the GWL and GSL outside of the Site, which in turn should have given cause for concern about the apparent lack of indication of any significant drop in GWL or GSL on the relevant records, if they existed, and if they were checked. It is not necessary for this court to go as far as to suggest some form of conspiracy as between A1‑4 in order to do so. The manner in which the works were carried out and supervised, lead the Court to the overwhelming and irresistible conclusion that monitoring equipment was not working properly and that excessive amounts of water were coming into the Site, which required significant pumping out and that action alone should have put the parties on notice if they were carrying out their duties in a satisfactory manner. They were in default by not taking action to stem the flow and ascertain any damage caused thereby.”[12]
+
+16.  The present applications for leave to appeal are mounted by the applicants, separately represented by leading counsel,[13] in the wholly unpromising context of proceedings which have turned throughout on case-specific findings and inferences.  Undaunted, the applicants sought certification and leave on the basis of the following question of law:
+
+“In an appeal under s.113 of the Magistrates Ordinance, Cap 227, in the context of the appeal being by way of rehearing, to what extent should a judge consider material errors submitted to have been made by the trial magistrate?”
+
+17.  It is advanced on the basis that the Judge, in criticising the form in which the Grounds of Appeal were drawn up, stated:
+
+“If this were the Court of Appeal, it would be required to find an error on the part of the magistrate before it could act. However, this court is not the Court of Appeal and it carries out its role in a different manner. The key distinguishing feature being that this court is required to make up its own mind on contested issues of fact and law, having regard to the evidence given in the court below. This is an important distinction which needs to be recognised when drafting grounds of appeal. Grounds which are drafted to indicate errors made by the magistrate are of less assistance to this court in carrying out its function.”[14]
+
+18.  The question proposed for certification leads nowhere in the present case.  As discussed above, the Judge agreed with and upheld the central findings and conclusions of the Magistrate, holding that causation had been proved on the basis of a well-founded irresistible inference.  She plainly did in fact consider and rejected criticisms levelled against the Magistrate regarding errors he was alleged to have made.  In any event, even if she might have found that he had erred in some respects, or if she had made findings based on a slightly different approach to the facts, the outcome of the appeal by way of rehearing was the same.  No basis for granting leave to appeal on such findings exists. Whether or not any issues of law might, in some other case, merit an airing in connection with how Magistrates’ appeals by way of rehearing should be conducted, such issues are quite academic in the present case.
+
+19.  Associated complaints, advanced as grounds for leave on the “substantial and grave injustice” basis, similarly lack any foundation in the light of the unassailable findings by the Magistrate and the Judge in the present case. 
+
+20.  The applications for leave to appeal were also made on the substantial and grave injustice basis against the Judge’s costs order regarding the costs of the appeal.  The Judge duly considered the applicable principles and exercised her discretion in the specific circumstances of the case in making the order.[15]  No basis for granting leave to appeal is disclosed.
+
+ 
+
+ 
+
+(R A V Ribeiro)	(Joseph Fok)	(Andrew Cheung)
+Permanent Judge	Permanent Judge	Permanent Judge
+ 
+
+FAMC 66/2019 & FAMC 6/2020 
+
+Mr Peter Duncan, SC, instructed by MinterEllison LLP, for the 1st and 2nd Applicants
+
+Ms Alice Chan, DDPP (Ag) and Mr Pierre Lui, SPP, of the Department of Justice, for the Respondent 
+
+FAMC 67/2019 & FAMC 16/2020 
+
+Ms Maggie Wong, SC, Mr Eric Chung and Mr Lawrence Pang, instructed by Deacons, for the 3rd and 4th Applicants
+
+Ms Alice Chan, DDPP (Ag) and Mr Pierre Lui, SPP, of the Department of Justice, for the Respondent
+
+[1] Cap 123.
+
+[2] ESS39227-ESS39230/2015 (10 April 2018).
+
+[3] Statement of Findings pp 91-92.
+
+[4] Statement of Findings p 93.
+
+[5] [2019] HKCFI 2925 (2 December 2019).
+
+[6] Judgment §16.
+
+[7] In a subsequent Decision on Costs [2020] HKCFI 327, §5.
+
+[8] Judgment §32.
+
+[9] Judgment §§37-51.
+
+[10] Judgment §59.
+
+[11] Judgment §60.
+
+[12] Judgment §66.
+
+[13] Mr Peter Duncan SC for the 1st and 2nd applicants and Ms Maggie Wong SC leading Mr Eric Chung and Mr Lawrence Pang for the 3rd and 4th applicants.
+
+[14] Judgment §22.
+
+[15] Decision on Costs [2020] HKCFI 327.
+
+ 
+

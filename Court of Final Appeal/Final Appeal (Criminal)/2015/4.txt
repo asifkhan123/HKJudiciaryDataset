@@ -1,0 +1,575 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No 4 of 2015
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO 4 OF 2015 (CRIMINAL)
+
+(ON APPEAL FROM HCMA NO 716 OF 2013)
+
+____________________
+
+BETWEEN
+
+ 	SECRETARY FOR JUSTICE	Appellant
+ 	and	
+ 	GLOBAL MERCHANT FUNDING LIMITED	
+Respondent
+____________________
+
+Before : Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Tang PJ, Mr Justice Fok PJ and Lord Clarke of Stone-cum-Ebony NPJ
+
+Date of Hearing and Judgment: 12 April 2016
+
+Date of Reasons for Judgment: 16 May 2016
+
+____________________
+
+REASONS FOR JUDGMENT
+
+____________________
+
+Mr Justice Ribeiro PJ :
+
+1.  At the hearing, this appeal was dismissed with costs.  These are the Court’s reasons for so doing.
+
+A. The charge, the issues and the decisions below
+
+2.  The respondent, Global Merchant Funding Limited (“GMF”), was charged under section 29(1)(a) of the Money Lenders Ordinance (“MLO”)[1] which provides that any person who carries on business as a money lender without a licence commits an offence. 
+
+3.  The central issue is whether GMF was carrying on business as a money lender.[2]  Since the MLO relevantly defines “money lender” as “every person whose business ... is that of making loans ...” the case turns on whether, by providing finance pursuant to a contract referred to as the Merchant  Cash Advance Contract (“MCA Contract”) entered into with merchants operating small businesses, GMF was “making loans” to those merchants.
+
+4.  Section 2(1) of the MLO defines “loan” as follows:
+
+“‘loan’ includes advance, discount, money paid for or on account of or on behalf of or at the request of any person, or the forbearance to require payment of money owing on any account whatsoever, and every agreement (whatever its terms or form may be) which is in substance or effect a loan of money, and also an agreement to secure the repayment of any such loan, and ‘lend’ and ‘lender’ shall be construed accordingly”.
+
+5.  The Court of Appeal conveniently summarised the purport of the MCA Contract as follows:
+
+“... GMF purchased a fixed amount of the merchant’s future credit card receivables, known as the ‘Purchased Amount’. The price paid by GMF was in the form of a one-off upfront MCA, known as the ‘Purchase Price’, which was at a discount to the Purchased Amount. The merchant arranged for GMF to collect the Purchased Amount through the merchant’s credit card processing bank, whereby GMF received a fixed percentage of the merchant’s credit card sales until the Purchased Amount was collected in full.”[3]
+
+6.  The crucial question is whether the legal effect of the MCA Contract’s provisions is such as to make it an agreement “which is in substance or effect a loan of money”.  
+
+7.  The Courts below answered that question in the negative.  The charge was dismissed by Mr Li Kwok Wai, Permanent Magistrate.[4]  The prosecution then brought an appeal to the Court of First Instance by way of case stated[5] and Line J acceded to an application for the appeal to be transferred to the Court of Appeal where the appeal was dismissed.[6]  However, the Court of Appeal certified that a point of great and general importance arises in the following terms:
+
+“Whether the reference to ‘loan’ in section 2 of the Money Lenders Ordinance, Cap 163 will apply to a transaction which:
+
+(i) is not one of the traditional forms of discounting such as bill discounting, block discounting or the sale of book debts, and,
+
+(ii) involves no discounting of any debt due from another person but in which, in consideration of a cash advance, the recipient of the cash advance (1) undertakes to pay a larger sum to the one making the advance and (2) makes provision by way of assignment for payments to be made out of anticipated future income accruing from credit card transactions whilst remaining liable as primary obligor for the amount so due to the extent that the income necessary to make the agreed payment does not materialize either at all or at the rate agreed, and,
+
+(iii) where there are no receivables due from any third person or none having a face value corresponding to the amount due from the recipient of the cash advance?”
+
+8.  We should say at once that the question as certified is tendentiously framed, especially in postulating as a given that the transaction is one where the recipient of the payment remains liable as primary obligor and one where there are no receivables due from any third person.  As appears from the discussion which follows, those propositions are very much in issue in analysing the effect of the MCA Contract.  The Court is of course not bound by the way questions are framed or certified but will address the issues properly arising where leave has been granted.  But parties who put forward questions which are slanted or tendentiously framed should note that they run the risk of being refused leave to appeal for want of a properly formulated question.
+
+9.  The substantive issue is whether the Magistrate and the Court of Appeal were right to hold that the MCA Contract did not constitute a loan within the meaning of section 2 of the MLO.  
+
+10.  GMF contends that the MCA Contract does not involve a loan.  It says that the contract is what it purports to be, namely, an agreement whereby the merchant sells and GMF purchases the right to a percentage of the merchant’s future payments by credit card companies, falling outside the MLO. 
+
+11.  The Secretary for Justice, on the other hand, contends that the MCA Contract is in substance or effect an agreement for the loan of money by GMF to the merchant at an objectionably high rate of interest, secured by assignments of credit card receivables by way of security.
+
+B.     The approach to categorising transactions
+
+12.  The issue is therefore one of categorisation: whether the relevant transactions should be categorised as loans or as purchases of receivables.  The approach which the Courts adopt in deciding between such rival contentions is well-established.  The concepts employed in the Hong Kong legislation derive from the original English equivalents[7] and the English case-law, dealing with very similar issues, is highly relevant.
+
+13.  Perhaps because the legislation is penal and, if misapplied, may be commercially disruptive, the Courts have consistently taken a restrictive view of what constitutes money lending.  Thus, in Olds Discount Co Ltd v John Playfair Ltd,[8] a case dealing with the MLA 1927,[9] it was held that an agreement for the purchase by a hire-purchase company of book debts owing by customers to a drapers company which had sold them goods on credit did not constitute a loan “notwithstanding that the operative reason in the minds of the defendants for entering into it was that they desired to raise money as a temporary matter in the same way as they would have raised it if they had merely entered into a transaction of loan”.[10]  This was because, as Branson J explained:
+
+“... it is the nature of the agreement entered into, and not its object, at which the court has to look in order to decide whether in any particular case the agreement is a moneylending agreement or otherwise.”[11]
+
+14.  Olds Discount was approved by the Privy Council in Chow Yoong Hong v Choong Fah Rubber Manufactory, where Lord Devlin elucidated the Court’s approach in the following terms:[12]
+
+“There are many ways of raising cash besides borrowing. One is by selling book-debts and another by selling unmatured bills, in each case for less than their face value. Another might be to buy goods on credit or against a post-dated cheque and immediately sell them in the market for cash. Their Lordships are, of course, aware, as was Branson J, that transactions of this sort can easily be used as a cloak for moneylending. The task of the court in such cases is clear. It must first look at the nature of the transaction which the parties have agreed. If in form it is not a loan, it is not to the point to say that its object was to raise money for one of them or that the parties could haveproduced the same result more conveniently by borrowing and lending money. But if the court comes to the conclusion that the form of the transaction is only a sham and that what the parties really agreed upon was a loan which they disguised, for example, as a discounting operation, then the court will call it by its real name and act accordingly.”
+
+15.  When the New Zealand Court of Appeal[13] considered the meaning of “moneylending” under the applicable Act,[14] after citing Chow Yoong Hong v Choong Fah Rubber Manufactory, Richardson J stated:[15]
+
+“... the first step in determining whether the transactions under review were loans is to ascertain their true nature or substance. ... It is well settled that, where documents have been drawn to define the relationship of persons involved in a business operation, the true nature of the transaction can only be ascertained by careful consideration of the legal arrangements actually entered into and carried out. ... It is the legal character of the transaction which is decisive, not the overall economic consequences to the parties ... That character is not determined conclusively by the nomenclature used by the parties. Consideration must be given to the whole of the contract in order to determine the true nature of the relationship.”
+
+16.  Another line of authority where the same approach to categorisation has been adopted is also relevant to the present appeal.  Those cases involve companies which raise finance by assigning their assets to others where the question is whether such transactions should be categorised as outright sales or assignments on the one hand; or assignments by way of security, creating charges on those assets, on the other.  If in the latter category, the charge must be registered and, if unregistered, is void as against the liquidator.[16]
+
+17.  Some of those decisions will be considered in the context of the Secretary’s submission that the receivables in the present case were assigned by way of security.[17] However, for now it is material to note that the same approach to categorisation has been adopted in that context.  Thus, in Welsh Development Agency v Export Finance Co,[18] Dillon LJ commented that there is no one clear touchstone for such categorisation and that:
+
+“It is necessary therefore to look at the provisions in the master agreement as a whole to decide whether in substance it amounts to an agreement for the sale of goods or only to a mortgage or charge on goods and their proceeds.”
+
+18.  Lloyds & Scottish Finance v Cyril Lord Carpets,[19] was a case involving a method of financing called “block discounting” whereby a company assigned book debts arising from sales in blocks to a finance company in return for a lump sum payment calculated so as to provide a discounting charge to the finance house.  Lord Wilberforce noted that such transactions had been held to be sales of the debts and not charges and elaborated as follows:
+
+“... it has to be appreciated that block discounting is essentially a method of providing finance. Commercially and in its economic result, it may not differ from lending money at interest: the 'discounting charge', which represents the finance house's profit, is stated in term[s] of so much per cent per annum, which percentage is no doubt based upon current interest rates. Legally, however, there is no doubt that discounting is not treated as the lending of money and that the asset discounted is not considered as the subject of a charge.”[20]
+
+19.  Because of the similarity in result between a loan and a sale, his Lordship held that the Court could only decide between the rival contentions by paying close regard to the precise contractual arrangements between the parties.[21]
+
+20.  As Millett LJ (as Lord Millett then was) put it in Orion Finance Limited v Crown Financial Management Limited:[22]
+
+“...proper legal categorisation is a matter of construction of the documents. This does not mean that the terms which the parties have adopted are necessarily determinative. The substance of the parties' agreement must be found in the language they have used; but the categorisation of a document is determined by the legal effect which it is intended to have, and if when properly construed the effect of the document as a whole is inconsistent with the terminology which the parties have used, then their ill-chosen language must yield to the substance.”
+
+His Lordship added:
+
+“The question is not what the transaction is but whether it is in truth what it purports to be. Unless the documents taken as a whole compel a different conclusion, the transaction which they embody should be categorised in conformity with the intention which the parties have expressed in them.”[23]
+
+21.  In our view, the abovementioned approach is applicable in the present case.  The MLO’s definition of a “loan” to include “every agreement (whatever its terms or form may be) which is in substance or effect a loan of money” must be understood to be referring to an agreement which has the legal substance or effect of a loan and not an agreement with such an economic or commercial substance or effect. Methods of financing which may be economically indistinguishable from a loan repayable with interest may well be differently categorised in law. 
+
+22.  Assuming that the transaction is not merely a sham,[24] the Court can only decide whether a transaction is or is not a loan by construing the relevant documents and analysing the legal effect of what the parties have actually agreed.  The language used by the parties is relevant but if it is inconsistent with what, as a matter of law, they have mutually agreed, the Court disregards the parties’ terminology in categorising the transaction.
+
+C. The principles applied
+
+23.  Applying those principles, on a proper legal analysis, what have the parties to the present transactions mutually agreed? Is their contract in truth what it purports to be, namely a contract for the sale and purchase of credit card receivables, or, despite the parties’ terminology, is it in legal substance or effect a contract for a loan?
+
+C.1 The main contractual terms
+
+24.  The terms of the MCA Contract are contained in two documents comprising the “Merchant Cash Advance (MCA) Sale and Purchase Contract” (“the Contract”) and the GMF “Standard Terms and Conditions” (“the Standard Terms”), designed to be read together.  The material provisions are set out in the Annex to this judgment.  In each case, the only parties to the contract were GMF and the merchant concerned. 
+
+25.  The essential terms of the transaction are contained in the un-numbered clauses at the start of the Contract as follows:
+
+“The Seller hereby agrees to sell to the Buyer a fixed amount of the Seller’s future receivables (the “Future Receivables”), relating to the payment of monies by the Seller’s customers, for the purchase of the Seller’s goods or services, through the use of any of the following cards: Visa/Mastercard/CUP.
+
+The amount paid by the Buyer to the Seller in consideration for the Future Receivables shall be in the form of a one-off, upfront Merchant Cash Advance or “MCA” (the “Purchase Price”).
+
+The total amount of the Future Receivables sold by the Seller to the Buyer shall be known as the “Purchased Amount”. The Purchased Amount will be collected by the Buyer through the deduction of a specified percentage of the Seller’s periodic batch settlements from the Seller’s card processor (“the Processor”, as defined more fully in the Terms and Conditions[25]) until the Purchased Amount has been collected in full. The specified percentage shall be known as the “Retrieved Percentage”.
+
+The Seller shall give an irrevocable authorisation to the Processor to deduct or split a cash sum from each periodic batch settlement, equal to the periodic net batch settlement amount multiplied by the Retrieved Percentage (the “Split Settlement(s)”). This irrevocable authorisation will take the form of a letter (the “MCA Processing Instruction Letter”), and will be completed by the Seller and given to the Buyer, who will then send it to the Processor, on behalf of the Seller. The Processor will continue to pay the Split Settlement(s) to the Buyer until the Purchased Amount has been collected in full.”
+
+We adopt the italicised contractual definitions in this judgment.
+
+26.  To underline the parties’ professed intentions as to the nature of the contract, clause 7.8 of the Standard Terms states:
+
+7.8 For the avoidance of doubt, each of the Seller and the Buyer acknowledges and agrees that the Purchase Price paid by the Buyer to the Seller is for the purchase by the Buyer of the Future Receivables as set out in the [MCA Contract] and is not a loan or a credit facility offered by the Buyer to the Seller.  Accordingly, the Seller and the Buyer agree and acknowledge that the Contract and any transactions contemplated therein shall not be subject to the Money Lenders Ordinance …
+
+C.2   The transactions
+
+27.  The charge alleges that GMF carried on business as a money lender without a licence between 9 May 2011 and 21 October 2011.  The prosecution relies on MCA Contracts entered into by GMF respectively with Lam Ching trading as Amy House (“Amy House”), Unionjoy Enterprise Limited (“Unionjoy”) and Big Food Yamagimachi Diet Limited (“Big Food”).  Amy House was a fashion shop, Unionjoy sold clothing and Big Food ran a catering business. 
+
+28.  Pursuant to each agreement, GMF paid to the merchant the Purchase Price for a specified Purchased Amount of future credit card receivables which would be collected in tranches directly from the Processor pursuant to the Processing Instruction Letter which irrevocably authorized such direct payments to GMF.
+
+29.  On 9 May 2011, Amy House was paid $80,000 as the Purchase Price for the Purchased Amount of $97,600 which GMF had fully recovered from the Processor by 22 October 2011.  Unionjoy received the Purchase Price of $50,000 on 18 May 2011 and GMF had collected the Purchased Amount of $60,000 by September 2011.  In Big Food’s case, the Purchase Price of $300,000 was received on 3 June 2011 and the Purchased Amount of $375,000 was collected in full by GMF by 21 October 2011.  It is evident that the Purchase Price was at a substantial discount from the Purchased Amount and that if the difference between the sums were to be treated as interest, it would represent a very high annual rate of interest. 
+
+C.3   The Processing Instruction Letter
+
+30.  Of central importance to the proper categorisation of this transaction are the MCA Contract’s provisions concerning the Processing Instruction Letter and GMF’s right to be paid the Purchased Amount. 
+
+31.  Clause 1 of the Contract provides:
+
+“The MCA Processing Instruction Letter will be sent by the Buyer to the Processor, and shall constitute an irrevocable authorisation by the Seller to the Processor to remit all of the Split Settlements into a designated bank account of the Buyer (the “Designated Account”) rather than to the Seller’s existing bank account, until the Purchased Amount has been collected in full by the Buyer.”
+
+32.  It is supplemented by clauses in the Standard Terms (i) which make it a condition precedent to the payment of the Purchase Price that the merchant should provide GMF with the Processing Instruction Letter[26] as well as a copy of its agreement with the Processor regarding settlement of its credit card transactions;[27] (ii) by which the merchant irrevocably authorises the Processor to transfer the Split Settlement to the Designated Account from time to time until such time as the Purchased Amount has been collected in full[28] and agrees that the Processor may rely upon Processing Instruction Letter, without reference to the merchant, in remitting the Split Settlement to GMF;[29] and (iii) which deem it a Termination Event for the merchant to revoke the Processing Instruction Letter.[30]
+
+33.  We will return to the MCA Contract to examine other provisions relied on by the Secretary in support of his rival contention favouring a loan.  However, it is our view that the legal effect of the abovementioned terms is to establish that the transaction is not a loan but a contract for the sale and purchase of receivables falling outside the MLO.
+
+D.  The parties’ agreement analysed
+
+D.1  The legal nature of the receivable
+
+34.  The legal analysis of credit card transactions has authoritatively been provided by the English Court of Appeal in Re Charge Card Services Ltd.[31]  They involve three contracts: (i) the contract between the credit card company and the merchant whereby the merchant agrees to accept payment by use of the card from anyone holding the card and the credit card company agrees to pay to the merchant the price of goods or services supplied less a discount; (ii) the contract between the credit card company and the cardholder which enables him to pay the price by its use and with him in return agreeing to pay the credit card company the full amount of the price charged by the merchant; and (iii) the contract for the sale or supply of goods or services entered into between the merchant and the cardholder.
+
+35.  The MCA Contract is concerned only with contract (i), between the credit card company (in this case, the Processor) and the merchant.  The receivable that GMF is agreeing to buy is a percentage[32] of the payment that the merchant has a right to receive from the Processor.
+
+36.  The merchant’s right against the Processor is a contractual right, enforceable by action, and is accordingly a chose in action.  It is a right to be paid money at various future dates.  Such right to payment gives rise from time to time to a debt payable by the Processor to the merchant so that what GMF is purchasing under the MCA Contract is an agreed percentage of each such debt until GMF receives the full Purchased Amount.
+
+D.2   The assignability of the receivable
+
+37.  It may be arguable whether the agreement is an agreement to assign an existing chose in action consisting of the legal right to payment in future or to assign a series of future choses in action, but we do not think that distinction material in the present case.  Equity recognizes that in either case, the purchased receivable is a chose in action capable of assignment.  Equity also recognizes that a chose in action consisting of part of a debt is assignable.
+
+38.  Thus, while property which does not presently exist but which is to be acquired at a future time is not assignable at law, Equity has not been so inhibited.  As Lord Westbury LC explained in Holroyd v Marshall:[33]
+
+“... if a vendor or mortgagor agrees to sell or mortgage property, real or personal, of which he is not possessed at the time, and he receives the consideration for the contract, and afterwards becomes possessed of property answering the description in the contract, there is no doubt that a Court of Equity would compel him to perform the contract, and that the contract would, in equity, transfer the beneficial interest to the mortgagee or purchaser immediately on the property being acquired. This, of course, assumes that the supposed contract is one of that class of which a Court of Equity would decree the specific performance. If it be so, then immediately on the acquisition of the property described the vendor or mortgagor would hold it in trust for the purchaser or mortgagee, according to the terms of the contract.”
+
+39.  It is important that an agreement to assign future property should be for value (as it was in the present case by GMF providing the Purchase Price).  Windeyer J in the High Court of Australia emphasised this in Norman v Federal Commissioner of Taxation:[34]
+
+“If we turn from attempted gifts of future property to purported dispositions of it for value, the picture changes completely. The common law objection remains. But in equity a would-be present assignment of something to be acquired in the future is, when made for value, construed as an agreement to assign the thing when it is acquired. A court of equity will ensure that the would-be assignor performs this agreement, his conscience being bound by the consideration. The purported assignee thus gets an equitable interest in the property immediately the legal ownership of it is acquired by the assignor, assuming it to have been sufficiently described to be then identifiable. The prospective interest of the assignee is in the meantime protected by equity. These principles, which now govern assignments for value of property to be acquired in the future, have been developed and established by a line of well-known cases[35] ...”
+
+40.  His Honour also explained that part of a debt is assignable, but necessarily by an equitable (as opposed to a statutory or legal) assignment:
+
+“A creditor cannot recover a debt piecemeal in a court of law. Therefore, when part of a debt was assigned, proceedings to enforce the assignment had to be brought in a court of equity. And the assignee, not the assignor, would be the plaintiff in the suit. The assignor (the creditor) as legal owner, the debtor and any assignees of other parts of the debt were all necessary parties, so that all the obligations of the debtor and the rights of all persons interested in the fund might be established by the decree. This was the rule of the Chancery Court. It is still the law ...”[36]
+
+D.3   How was the assignment effected in the present case?
+
+41.  For GMF to have purchased the future credit card receivables, it had to have acquired the right, if necessary, to sue the Processor for the specified percentage of the Batch Settlement constituting the Split Settlement.  As there are no express words of assignment in the MCA Contract, how – if at all – did GMF acquire that right?  It is in this context that the irrevocable authorisation contained in the Processing Instruction Letter assumes crucial importance.  It operates as an equitable assignment by the merchant to GMF of its right to payment by the Processor of the specified amount.
+
+42.  The rules of equity are undemanding as to the form the creation of an equitable assignment must take.  As Lord Macnaghtan pointed out in Tailby v The Official Receiver:[37]
+
+“It has long been settled that future property, possibilities and expectancies are assignable in equity for value. The mode or form of assignment is absolutely immaterial provided the intention of the parties is clear. To effectuate the intention an assignment for value, in terms present and immediate, has always been regarded in equity as a contract binding on the conscience of the assignor and so binding the subject-matter of the contract when it comes into existence, if it is of such a nature and so described as to be capable of being ascertained and identified.”
+
+43.  And as his Lordship reiterated in William Brandt’s Sons & Co v Dunlop Rubber Company:[38]
+
+“... the document does not, on the face of it, purport to be an assignment nor use the language of an assignment. An equitable assignment does not always take that form. It may be addressed to the debtor. It may be couched in the language of command. It may be a courteous request. It may assume the form of mere permission. The language is immaterial if the meaning is plain. All that is necessary is that the debtor should be given to understand that the debt has been made over by the creditor to some third person. If the debtor ignores such a notice he does so at his peril. If the assignment be for valuable consideration and communicated to the third person, it cannot be revoked by the creditor or safely disregarded by the debtor.”
+
+44.  There is accordingly no need for there to be any express words of assignment.  In the William Brandt’s Sons case itself, Brandts’ debtor (Kramrisch & Co, a rubber merchant) on-sold to Dunlop goods which it had purchased with finance provided by Brandts and undertook to Brandts that the price would be paid directly to Brandts by Dunlop, giving notice to Dunlop that it should do so.  This was held to establish an equitable assignment of Kramrisch’s debt to Brandt.  Lord Macnaghten thought it “difficult to conceive a plainer case of an equitable assignment, or a clearer case of notice to the debtor”:
+
+“There was an undertaking that the money should be paid direct to Brandts. There was besides a declaration of trust. There was an engagement to give Brandts ‘a sole and absolute lien’ - that is, sole and absolute control and dominion over the proceeds of the goods. Then Dunlops receive through Brandts a notice, which no man of business could mistake, telling them, on Kramrisch & Co's express authority, that they are to pay to Brandts the money which they owe their creditors, Kramrisch & Co. What more could be required? Dunlops disregard that notice, and pay the wrong people. They must pay the money over again, and pay it to the right person.”[39]
+
+45.  In Palmer v Carey,[40] the question was whether an agreement had taken effect as an equitable assignment so as to keep a certain sum of money out of a bankrupt’s estate.  While it was held that on the facts that had not occurred, Lord Wrenbury[41] stated the principles as follows:
+
+“The law as to equitable assignment, as stated by Lord Truro in Rodick v Gandell (1852) 1 De GM & G 763 , 777, 778, is this: ‘The extent of the principle to be deduced is that an agreement between a debtor and a creditor that the debt owing shall be paid out of a specific fund coming to the debtor, or an order given by a debtor to his creditor upon a person owing money or holding funds belonging to the giver of the order, directing such person to pay such funds to the creditor, will create a valid equitable charge upon such fund, in other words, will operate as an equitable assignment of the debts or fund to which the order refers.’ ... It is necessary to find, further, that an obligation has been imposed in favour of the creditor to pay the debt out of the fund. This is but an instance of a familiar doctrine of equity that a contract for valuable consideration to transfer or charge a subject matter passes a beneficial interest by way of property in that subject matter if the contract is one of which a Court of equity will decree specific performance.”
+
+46.  These authorities show that it is enough if it is clear from the parties’ agreement that they intend the right to be assigned. They have held that such intention is sufficiently demonstrated where (i) the assignor enters into an agreement with the assignee for valuable consideration obliging the assignor irrevocably to authorise the debt to be paid to the assignee out of a particular fund belonging to or held to the assignor’s order; (ii) the assignor irrevocably instructs his debtor or the holder of the fund to pay the assignee; and (iii) the agreement is one which Equity will enforce by specific performance.
+
+47.  The importance of the assignor being contractually bound not to revoke the payment instruction is stressed.  In Ex p Hall, In re Whitting,[42] James LJ pointed out that, “To prevent the possibility of revocation it is necessary to prove the prior agreement, which is the only thing which gives the bankers any equity.”  A mandate which the assignor may revoke at will does not sufficiently demonstrate an intention to make over his right to payment to the assignee.  A revocable mandate is also liable to be revoked, for instance, by the assignor’s bankruptcy,[43] by service of a garnishee order on the person holding the fund to the assignor’s order[44] or by the assignor’s death,[45] a state of affairs inconsistent with an intention on the part of the assignor to assign his right to the assignee.
+
+48.  It may be noted in passing that one issue dealt with in these authorities concerns the question whether sufficient notice of the equitable assignment was given to the holder of the assigned property or funds to create a legal obligation on that person solely to pay the assignee, so that if payment was made to the wrong person, the holder of the funds would have to pay over again.[46] That is not an issue arising on this appeal.
+
+D.4   Not a loan in substance and effect
+
+49.  The foregoing analysis justifies the conclusion that the MCA Contract is indeed what it purports to be, that is, an agreement for the sale and purchase of receivables rather than a loan.  The receivables consisting of credit card settlement payments to be made by the Processor, are assignable choses in action.  In consideration of the Purchase Price received, the merchant bound itself irrevocably to instruct the Processor to pay to GMF directly the Split Settlement amounts upon processing each batch settlement until GMF had collected sums totalling the Purchased Amount.  Such instruction was duly given by the merchant.  This constituted an equitable assignment of the relevant sums which took effect as and when they came into existence.  While the transaction plainly represents a form of finance indistinguishable in economic effect from a loan with interest, it is not a loan in legal substance and effect and therefore falls outside the MLO.
+
+E.  The arguments on behalf of the Secretary for Justice
+
+50.  As we understood the submissions of Mr Clifford Smith SC,[47] he advanced three main arguments for holding that the MCA Contract was a loan agreement.
+
+E.1   The “Purchased Amount” argument
+
+51.  First, he contended that the contract involved no sale of any future receivable:
+
+“... the Merchant has not sold any right to claim the Purchased Amount. Indeed, the Merchant itself has no right to the Purchased Amount capable of being the subject of a sale. That is because there is no one who is under any obligation to pay the Purchased Amount to the Merchant.”[48]
+
+52.  By way of elaboration, it was submitted that:
+
+“... the Purchased Amount does not represent a debt due from any customer or other third party, including the credit card processor, but is an amount in respect of which the merchant is the only primary obligor and the guarantees given to GMF are guarantees of the merchant’s own liability and not are guarantees for the performance of any debt or obligation that has been sold.”[49]
+
+53.  The Court of Appeal,[50] counsel submitted, fell into error in regarding the Purchased Amount as the “face value” of the receivables.
+
+54.  We do not accept this argument.  The MCA Contract is clear as to what the subject-matter of the sale is, namely, the “Future Receivables” which relate to “the payment of monies by the [merchant’s] customers, for the purchase of the [merchant’s] goods or services, through the use of [the specified credit cards]”.  The expression “Purchased Amount” is defined as “The total amount of the Future Receivables sold by the [merchant] to [GMF]” to be “collected by [GMF] through the deduction of a specified percentage of the [merchant’s] periodic batch settlements from the [Processor]”.
+
+55.  Such an arrangement does not pose difficulties since, as stated in Tailby v The Official Receiver:[51] “If future book debts be assigned, the subject-matter of assignment is capable of being identified as and when the book debts come into existence...”
+
+56.  It involves a method of financing which differs little from the “block discounting” arrangement referred to by Lord Wilberforce in Lloyds & Scottish Finance v Cyril Lord Carpets,[52] as follows:
+
+“The book debts in question arose out of credit sales by the appellant company to individual customers, in which payment was due to be made by the customers over periods of 6, 12, 24 or 30 months. In order to provide finance for expansion, the appellant company used a method called ‘block discounting’ which involved assignments of the book debts arising from these sales in blocks to a finance company in return for a lump sum payment calculated so as to provide a discounting charge to the finance house. This financing method is well known and widely adopted. It has received consideration in the courts in three reported cases: Re George Inglefield Ltd [1933] Ch 1, [1932] All ER Rep 244; Olds Discount Co Ltd v John Playfair Ltd [1938] 3 All ER 275; and Olds Discount Co Ltd v Cohen [1938] 3 All ER 281n in which, on documents not unlike those used in the present case, it was held that the transactions should be considered to be sales of the debts in question and not treated as charges.”
+
+57.  For the reasons given in Sections D.1 and D.2 of this judgment, it is clear that the Future Receivables are assignable in equity and, as explained in Section D.3 above, it is clear that such an equitable assignment was created in the present case.  This is why we described the framed question of law as tendentious in so far as it postulated as a given that no receivables were due from any third person.
+
+E.2   The argument that any assignment was by way of security
+
+58.  Secondly, Mr Smith SC sought to argue that the effect of the Processing Instruction was to create an assignment by way of security and did not involve the sale and purchase of choses in action as contended for by GMF.  In the appellant’s printed case,[53] the point is put as follows:
+
+“If GMF is to be regarded as an equitable assignee of a future chose in action, which the Court of Appeal took to be the case (at paragraph 27 of the Judgment) this would necessarily mean that the future chose in action had been assigned by way of security for a debt, as in Tailby.[54] For that reason, the fact that an agreement to assign a future chose in action may be effective in equity does not indicate that the MCA Contract is one of sale and purchase. On the contrary, it is entirely consistent with it being a loan agreement.”
+
+59.  We are quite unable to understand the contention that such an assignment “would necessarily mean that the future chose in action had been assigned by way of security for a debt”.  Clearly, such an assignment might alternatively be by way of sale, which is what the debate in the present case is all about. 
+
+60.  Where a person borrows money, it is of course possible that he may assign certain property to or on trust for his creditor by way of security for the debt.[55] That obviously presupposes that there is a debt to be secured.  Whether that is the nature of the transaction depends on the construction of the parties’ agreement.  The parties expressly agreed to such a transaction in Tailby (referred to by Mr Smith), as stated in the bill of sale with which that case was concerned.[56]  The question in issue, as indicated by Lord Herschell, was “whether an assignment by way of security of certain book debts not existing at the time of the assignment was valid, so as to give the assignee a good title to them when they came into existence.”[57]  Tailby therefore offers no support for Mr Smith’s proposition.
+
+61.  An important feature distinguishing a sale on the one hand from a mortgage or charge on the other is the existence of an equity of redemption.  This was pointed out by Romer LJ in Re George Inglefield Ltd:[58]
+
+“In a transaction of sale the vendor is not entitled to get back the subject-matter of the sale by returning to the purchaser the money that has passed between them. In the case of a mortgage or charge, the mortgagor is entitled, until he has been foreclosed, to get back the subject-matter of the mortgage or charge by returning to the mortgagee the money that has passed between them.”[59]
+
+62.  The importance of this distinguishing feature was also recognized by Millett LJ in Orion Finance Limited v Crown Financial Management Limited.[60] Having cited Re George Inglefield Ltd, his Lordship noted that “[the] absence of any right in the transferor to recover the property transferred is inconsistent with the transaction being by way of security ...”
+
+63.  In the present case, there is no basis for regarding the assignment of the credit card receivables to GMF as an assignment by way of security.  There is no question here of the merchant getting back the subject-matter of the property assigned by returning to GMF the money that has passed between them.  Payment of each Split Settlement by the Processor represents the Processor’s performance of the assigned payment obligations.  When GMF receives the Purchased Amount in full, its assigned rights are satisfied.  There is no question of the merchant paying off a loan and then getting back some property assigned by way of security.  The parties have simply not agreed anything to that effect.
+
+64.  Mr Smith SC endeavoured to rely on In re Kent & Sussex Sawmills Ltd,[61] in support of his submission that the MCA Contract arrangement does confer on the merchant an equity of redemption.  We do not consider that decision of any help to the Secretary’s case.  The issue there was whether certain letters of authority created an unregistered charge on the book debts of a company which was void against the liquidator. 
+
+65.  It arose in the context of the sawmill company borrowing money on overdraft from a bank for the purpose of financing a sale of cut logs to a government Ministry and agreeing to provide a letter to the Ministry authorising it to remit the purchase price to the bank, stating in the letter that its instructions were “to be regarded as irrevocable unless the said bank should consent to their cancellation in writing”.  The starting-point was therefore that the bank had loaned money to the company by way of overdraft.  That was the crucial basis of Wynn-Parry J’s construction of the letter of authorisation with a view to determining whether it was an assignment at all, and if so, whether it was an outright assignment or an assignment by way of security.  Thus, his Lordship stated:
+
+“... in my judgment the proper way of construing this letter, looking at it as a whole, is to bear in mind and never to lose sight of the circumstance that the relationship of the two parties in question, the company and the bank, was that of borrower and lender and that this letter was brought into existence in connexion with a proposed transaction of borrowing by the company and lending by the bank.” [62]
+
+66.  Having concluded that it was an assignment, Wynn-Parry J continued:
+
+“That, however, does not conclude the matter because I have then to investigate the question whether that assignment on its true construction is an out-and-out assignment of the whole of the benefit accruing or to accrue to the company under the contract or whether it is no more than an assignment by way of security. Here, again, I think the truth is to be found by bearing in mind the relationship between the parties. Prima facie, at any rate when one has to look at a document brought into existence between a borrower and a lender in connexion with a transaction of borrowing and lending, one must approach the consideration of that document with the expectation of discovering that the document is intended to be given by the borrower to the lender in order to secure repayment of a proposed indebtedness of the borrower to the lender.”[63]
+
+67.  Given this orientation, it is hardly surprising that his Lordship construed the letter as intending to create an equity of redemption rather than an outright assignment to the bank of the right to payment by the Ministry:
+
+“As I say, I approach this matter more in the expectation of finding that the parties have brought into existence a document consistent with their relations of borrower and lender rather than finding that notwithstanding those relations they brought into existence a document in which their relationship changed to that of vendor and purchaser.”[64]
+
+68.  Needless to say, we do not, in the present case, start from the premise that the relationship between the merchant and GMF is that of borrower and lender, so that the Sawmills case is of no assistance to the Secretary’s case. 
+
+E.3   The effect of clauses imposing liability on the merchant
+
+69.  The third argument advanced by Mr Smith SC rested on certain terms of the MCA Contract which impose a liability on the merchant upon the GMF failing to collect the full Purchased Amount either at all or at a specified minimum rate per week.  Such terms are relied on as indicating that there was in truth a loan repayable by the merchant and not a sale and purchase of credit card receivables.
+
+70.  The relevant provisions are set out in full in the Annex to this judgment.  First, Mr Smith relied on clause 10 of the Contract which provides that if there is no payment at all by the merchant – not even the first Split Settlement – GMF can call the whole deal off and the merchant must return the Purchase Price.  This places a potential liability on the merchant but it is wholly consistent with the contract being one of purchase and sale.  It deals with the situation where the transaction simply fails to get off the ground. 
+
+71.  Mr Smith relies next on clauses 6, 7 and 11 of the Contract and clauses 8.1(l), 8.2 and 8.4 of the Standard Terms, whose combined effect may be summarised as follows.  In entering into the MCA Contract, GMF and the merchant negotiated the percentage (the Retrieval Percentage) of the merchant’s credit card takings which would be devoted to paying off progressively the Purchased Amount.  As we have seen, the agreed percentages were 25% in the case of Amy House and 30% for Big Food.  There was necessarily some uncertainty as to what the actual rate of the merchant’s future credit card takings would be.  So the parties negotiated a minimum benchmark for such takings calculated on the basis of the merchant’s track record over the preceding 12 months.  Thus, for instance, in Amy House’s case, the historical benchmark was taken to be $73,461 per month and so a weekly “historical collection rate” of $4,238 reflecting the agreed Retrieval Percentage. The benchmark was therefore set at $4,238 per week and, by clause 11, if the actual weekly collection rate were to fall by more than 20% below that weekly benchmark, GMF reserved the right to require the merchant to top up the deficiency; or to terminate the MCA Contract making the balance of the Purchased Amount immediately payable; or to terminate and treat the outstanding balance as due under any other outstanding transactions between GMF and the merchant.  As the Contract states, these are options which GMF has but is not obliged to exercise.
+
+72.  The abovementioned provisions address the position where the essential contractual arrangement has failed.  The vital feature of the deal involves the sale and purchase of the merchant’s credit card receivables effected by the equitable assignment to GMF of a percentage of future debts, to be paid off in tranches by the Processor until the Purchased Amount is collected by GMF in full.  It is to the Processor that GMF looks as the primary obligor in respect of the payment of Split Settlements.  This is how GMF actually recovered the Purchased Amount in full in all three of the transactions relied on by the prosecution.[65] These are the core characteristics of the contract upon which categorisation of the transaction must be based.  It is only if the central mechanism fails that GMF may need to have recourse to the provisions regarding claims against the merchant.  To categorise the MCA Contract on the basis of such contingent, fall-back provisions while ignoring the vital features of the contract would present the spectacle of the tail wagging the dog.
+
+73.  As Sir Nicholas Browne-Wilkinson VC pointed out in Welsh Development Agency v Export Finance Co:[66]
+
+“The fact that the ‘purchaser’ of, for example, book debts has a right of recourse against the ‘seller’ of the debts in the event of the debtor's nonpayment is not in itself inconsistent with the transaction being one of sale. In many cases (see, for example, Olds Discount Co Ltd v John Playfair Ltd [1938] 3 All ER 275) a transaction has been upheld as a sale notwithstanding a personal obligation on the vendor of book debts to make good to the purchaser any default in payment by the debtors.”
+
+74.  It is true that many such contracts will provide for such recourse where the debtor of the assigned debt defaults in making payment whereas in the present case, clause 11 operates where the Processor is not in default but where (by virtue of low credit card takings) payment received by GMF does not achieve the contractually agreed threshold.  In our view, this is a distinction which does not make a difference for categorisation purposes.  Recourse to the merchant under clause 11 is triggered by non-receipt of a contractually agreed amount.  It provides a contingent fall-back mechanism which is not inconsistent with the essential contract being one for the sale and purchase of receivables rather than a loan.
+
+75.  Finally, Mr Smith SC relied on clause 9 of the Contract making the merchant and the guarantor jointly and severally liable to pay the Purchased Amount to GMF in full.  That must be construed in context as a joint and several liability under a guarantee which is self-evidently a contract of suretyship whereby (in this case) the merchant and the guarantor accept a secondary contractual liability to see that the principal debtor – the Processor – duly performs its payment obligations.  The existence of such potential secondary liability does not affect the categorisation of the MCA Contract discussed.
+
+F.  Conclusion
+
+76.  For the foregoing reasons, the Secretary’s appeal was dismissed.
+
+ 
+
+ 
+
+
+(Geoffrey Ma)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Robert Tang)
+Permanent Judge
+ 
+
+ 
+
+(Joseph Fok)
+Permanent Judge
+
+(Lord Clarke of Stone-cum-Ebony)
+Non-Permanent Judge
+
+Mr Clifford Smith SC, instructed by, and Mr Anthony Chau, SPP, of the Department of Justice, for the Appellant
+
+Mr Simon Westbrook SC, Mr Derek C.L. Chan and Mr Michael Lok, instructed by Gall, for the Respondent
+
+ 
+
+Annex
+
+A. The Contract
+
+“The Seller hereby agrees to sell to the Buyer a fixed amount of the Seller’s future receivables (the “Future Receivables”), relating to the payment of monies by the Seller’s customers, for the purchase of the Seller’s goods or services, through the use of any of the following cards: Visa/Mastercard/CUP.
+
+The amount paid by the Buyer to the Seller in consideration for the Future Receivables shall be in the form of a one-off, upfront Merchant Cash Advance or “MCA” (the “Purchase Price”).
+
+The total amount of the Future Receivables sold by the Seller to the Buyer shall be known as the “Purchased Amount”. The Purchased Amount will be collected by the Buyer through the deduction of a specified percentage of the Seller’s periodic batch settlements from the Seller’s card processor (“the Processor”, as defined more fully in the Terms and Conditions) until the Purchased Amount has been collected in full. The specified percentage shall be known as the “Retrieved Percentage”.
+
+The Seller shall give an irrevocable authorisation to the Processor to deduct or split a cash sum from each periodic batch settlement, equal to the periodic net batch settlement amount multiplied by the Retrieval Percentage (the “Split Settlement(s)”). This irrevocable authorisation will take the form of a letter (the “MCA Processing Instruction Letter”), and will be completed by the Seller and given to the Buyer, who will then send it to the Processor, on behalf of the Seller. The Processor will continue to pay the Split Settlement(s) to the Buyer until the Purchased Amount has been collected in full.
+
+In consideration of the mutual obligations of the parties in relation to the Transaction, each of the Buyer and the Seller agrees that:
+
+1. The MCA Processing Instruction Letter will be sent by the Buyer to the Processor, and shall constitute an irrevocable authorisation by the Seller to the Processor to remit all of the Split Settlements into a designated bank account of the Buyer (the “Designated Account”) rather than to the Seller’s existing bank account, until the Purchased Amount has been collected in full by the Buyer.
+
+…
+
+5. The period for the collection of the Purchased Amount by the Buyer is not fixed, and is dependent on the actual level of the Seller’s Relevant Card Transactions (as defined in the Terms and Conditions).
+
+6. According to the information provided by the Seller to the Buyer during the Seller’s application for the Transaction, the Seller and the Buyer agree that, for the purposes of this Contract, the average monthly volume of the Seller’s card transactions during a period of 12 months prior to the date of this Contract shall be deemed to be HK$73,4611 per month. This implies a theoretical historical weekly collection rate (the “Historical Weekly Collection Rate”) of HK$4,238 per week (i.e. HK$73,461 multiplied by 12, divided by 52 and then multiplied by the Retrieval Percentage).
+
+7. The “Actual Weekly Collection Rate” shall be defined on any given date as the total amount collected by the Buyer since the start of the Transaction, being the date on which the Purchase Price is paid to the Seller, up to such date, divided by the number of weeks taken by the Buyer to collect such amount.
+
+…
+
+9. The Seller and the Guarantor(s) shall be jointly and severally liable to pay the Purchased Amount to the Buyer in full.
+
+10. The first Split Settlement shall be collected by the Buyer within seven (7) days of the date on which the Purchase Price is paid by the Buyer to the Seller. If no such Split Settlement is received by the Buyer, then the Buyer shall be entitled to modify or terminate the Contract and/or the Transaction, and the Seller shall immediately thereafter return the Purchase Price to the Buyer.
+
+11. If, by the end of each 14-day period since the start of the Transaction, the Actual Weekly Collection Rate is less than the Historical Weekly Collection Rate by 20% or more, then the Buyer shall, without prejudice to receiving the Split Settlement(s), be entitled but not obliged to take any of the following measures against the Seller at its sole discretion:
+
+a. Demand the payment of a sum of money equivalent to the deficit equals to the Actual Weekly Collection Rate minus the Historical Weekly Collection Rate, multiplied by the number of weeks that have passed since the start of the Transaction. The Seller shall pay such sum to the Buyer within seven (7) days of such demand. For the avoidance of doubt, such sum shall be applied to reduce the then remaining balance of the Purchased Amount; or
+
+b. Terminate the Contract, whereupon the entire then remaining balance of the Purchased Amount shall become immediately payable by the Seller to the Buyer; or
+
+c. Terminate the Contract, whereupon the entire outstanding balance of the Purchased Amount shall be applied to any or all of any other transactions outstanding as of that date with the Buyer. …
+
+For the avoidance of doubt, the remedies contemplated under this Clause 11 are intended for the benefit of the Buyer in the event the Seller fails to comply with its obligations to ensure accurate processing of all future Relevant Card Transactions, in addition to its obligations as set out herein. The entitlement of the Buyer to receive any sums pursuant to this clause 11 shall not in any way be deemed as being equivalent to a minimum monthly collection amount.”
+
+B. The Standard Terms
+
+“1.Definitions and Interpretations
+
+…
+
+1.2 In these Terms and Conditions, the following words and expressions shall have the following meanings:
+
+…
+
+(e) “Processor” shall mean the card processor designated by the Buyer in respect of the processing and settling of the Relevant Card Transactions;
+
+…
+
+2.Conditions Precedent
+
+2.1 Prior to the payment of the Purchase Price by the Buyer to the Seller pursuant to the Contract, the Buyer must receive and be satisfied with the following documents, provided that the Buyer may waive any of such requirements at its sole discretion:-
+
+…
+
+(e) a copy of the Seller’s agreement with the Processor in respect of the processing and settling of the Relevant Card Transactions (the “Processing Contract”);
+
+…
+
+(h) the MCA Processing Instruction Letter;
+
+3.Representations and Warranties
+
+…
+
+3.2 In respect of each of the Seller’s Future Receivables and the Processor, the Seller represents and warrants that:
+
+(a) the Processor has no right to prohibit the Seller’s assignment of any part of such Future Receivables nor any set-off right in respect of it;
+
+4.Processing Covenants
+
+…
+
+4.2 By entering into the Contract, the Seller:-
+
+(a) irrevocably authorises the Processor to transfer the Split Settlement to the Designated Account from time to time until such time as the Purchased Amount has been collected in full;
+
+(b) agrees that the Processor may rely upon the Seller’s instructions in the form of the MCA Processing Instruction Letter, without reference to the Seller, in remitting the Split Settlement to the Buyer;
+
+(c) agrees that the Processor will act on the Buyer’s behalf, and as instructed by the Buyer, with respect to the receipt of the Split Settlement;
+
+…
+
+7. Sale and Purchase
+
+7.1 The Seller acknowledges that it is selling to the Buyer, and the Buyer is buying from the Seller, a sum of the Batch Settlement Payments equal to the Purchased Amount, subject to the terms of the Contract.
+
+…
+
+7.8 For the avoidance of doubt, each of the Seller and the Buyer acknowledges and agrees that the Purchase Price paid by the Buyer to the Seller is for the purchase by the Buyer of the Future Receivables as set out in the [MCA Contract] and is not a loan or a credit facility offered by the Buyer to the Seller. Accordingly, the Seller and the Buyer agree and acknowledge that the Contract and any transactions contemplated therein shall not be subject to the Money Lenders Ordinance …
+
+7.10 The Buyer shall be entitled at any time to request the Seller to complete, sign and deliver to the Buyer, in the form as required by the Buyer, a written assignment of the Future Receivables at the Seller’s expense.
+
+…
+
+8. Termination Events
+
+8.1 For the purposes of these Terms and Conditions, each of the events or circumstances as described in this clause 8.1 shall be regarded as a Termination Event:
+
+…
+
+(i) the Seller shall revoke the MCA Processing Instruction Letter;
+
+…
+
+(l) the Actual Weekly Collection Rate is less than the Historical Weekly Collection Rate by 20% or more by the end of each 14-day period since the start of the Transaction;
+
+8.2 At any time after a Termination Event the Buyer shall have the right, without prejudice to any other rights, power or remedy the Buyer may have pursuant to the Contract, these Terms and Conditions and in law, to terminate all or any obligations the Buyer may have to the Seller under the Contract by written notice to the Seller.
+
+…
+
+8.4 Without prejudice to the generality of clause 8.3 of these Terms and Conditions, the Seller shall immediately after the termination of the Contract by the Buyer pursuant to clause 8.2 pay the then remaining balance of the Purchased Amount to the Buyer.
+
+8.5 As security for the performance by the Seller of its obligations under the Contract, by signing the Contract, the Seller appoints the Buyer … to be the Seller’s attorney for any of the following: … (d) to do any other acts or things the Buyer considers to be necessary in order to collect, realise or perfect the Buyer’s ownership of the Future Receivables or to secure the performance by the Seller of any of its obligations under the Contract.”
+
+
+[1] Cap 163.
+
+[2] It being accepted that GMF did not have a licence.
+
+[3] Per Kwan JA, with whom Lunn VP and Pang J agreed (HCMA 716/2013, 2 April 2015) §9.
+
+[4] ESS 43438/2011 (13 July 2012).
+
+[5] HCMA 716 of 2013 (5 November 2013).
+
+[6] Lunn VP, Kwan JA and Pang J (HCMA 716/2013, 2 April 2015).
+
+[7] The Moneylenders Acts 1900 to 1927 (since repealed and replaced, inter alia, by the Consumer Credit Act 1974).  The Money-lenders Ordinance 1911 was closely based on the Moneylenders Act 1900.  The MLO took its present form as a result of amendments made in 1980.
+
+[8] [1938] 3 All ER 275.
+
+[9] See also Olds Discount Co Ltd v Cohen [1938] All ER 281 (Note)]
+
+[10] At 277.
+
+[11] Ibid.
+
+[12] [1962] AC 209 at 216-217.
+
+[13] Re Securitibank Ltd (No 2) [1978] 2 NZLR 136.
+
+[14] Section 2 of the Moneylenders Act 1908.
+
+[15] At 167-168 (authorities cited omitted).
+
+[16] In the relevant authorities, by operation of section 395 of the Companies Act 1985 and its equivalents.  In Hong Kong, section 337(4) of the Companies Ordinance (Cap 622) prescribes the same consequence.
+
+[17] Section E.2 below.
+
+[18] [1992] BCLC 148 at 161.
+
+[19] [1992] BCLC 609.
+
+[20] At 615-616.
+
+[21] At 617.
+
+[22] [1996] 2 BCLC 78 at 84.
+
+[23] At 85.
+
+[24] That is, a transaction in which the parties “have a common intention that the acts or documents are not to create the legal rights and obligations which they give the appearance of creating”: Snook v London and West Riding Investments Ltd [1967] 2 QB 786 at 802.  The Secretary concedes that the present case does not involve a sham.
+
+[25] Standard Terms §1.2(e): “Processor” shall mean the card processor designated by the Buyer [GMF] in respect of the processing and settling of the Relevant Card Transactions”.
+
+[26] Standard Terms §2.1(h).
+
+[27] Standard Terms §2.1(e).
+
+[28] Standard Terms §4.2(a).
+
+[29] Standard Terms §4.2(b).
+
+[30] Standard Terms §8.1(i).
+
+[31] [1989] Ch 497 at 509.
+
+[32] That percentage, referred to in the MCA Contract as the Retrieval Percentage, was for example 25% in the case of Amy House and 30% for Big Food.
+
+[33] (1862) 10 HL Cas 191 at 211.
+
+[34] (1963) 109 CLR 9 at 24.
+
+[35] Citing Holroyd v Marshall (1862) 10 HLC 191; Collyer v Isaacs (1881) 19 Ch D 342; Tailby v Official Receiver (1888) 13 App Cas 523; and In re Lind; Industrials Finance Syndicate Ltd v Lind (1915) 2 Ch 345.
+
+[36] Norman v Federal Commissioner of Taxation (1963) 109 CLR 9 at 29, citing Performing Right Society Ltd v London Theatre of Varities Ltd [1924] AC 1, at 14, 20, 30, 31.
+
+[37] (1888) 13 App Cas 523 at 543.
+
+[38] [1905] AC 454 at 462.  This passage was applied by the Privy Council in Elders Pastoral Ltd v Bank of New Zealand (No. 2)[1990] 1 WLR 1478 at 1480.
+
+[39] At 460-461.
+
+[40] [1926] AC 703 (PC) at 706-707.
+
+[41] This passage was approved in Swiss Bank v Lloyds Bank [1982] AC 584 at 613, per Lord Wilberforce.
+
+[42] (1878) 10 Ch D 615 at 621.
+
+[43] Ibid.
+
+[44] Rekstin v Severo Sibirsko & Co and Bank for Russian Trade [1933] 1 KB 47.
+
+[45] Williams v Ball [1917] 1 Ch 1.
+
+[46] As in William Brandt’s Sons & Co v Dunlop Rubber Company [1905] AC 454; and James Talcott Ltd v John Lewis Ltd and North American Dress Co Ltd [1940] 3 All ER 592.
+
+[47] Appearing for the Secretary for Justice with Mr Anthony Chau SPP.
+
+[48] Appellant’s Case §7.
+
+[49] Ibid §43.
+
+[50] Court of Appeal §43.
+
+[51] (1888) 13 App Cas 523 at 544 per Lord Macnaghten.
+
+[52] [1992] BCLC 609 at 611.
+
+[53] At §25.
+
+[54] Tailby v The Official Receiver (1888) 13 App Cas 523.
+
+[55] As occurred for instance in Holroyd v Marshall (1862) 10 HL Cas 191.
+
+[56] Tailby v The Official Receiver (1888) 13 App Cas 523 at 523.
+
+[57] Ibid at 527-528.
+
+[58] [1933] Ch 1 at 27.
+
+[59] His Lordship also pointed out (at 27-28) that on realization of the mortgaged property at a surplus, the mortgagee has to account for the excess; and that if realization leaves an unpaid balance on the loan, the mortgagee may sue for that balance; whereas the profit or loss realized on the sale of property purchased rests entirely with the purchaser.
+
+[60] [1996] 2 BCLC 78 at 84.
+
+[61] [1947] 1 Ch 177.
+
+[62] Ibid at 180.
+
+[63] Ibid at 181.
+
+[64] Ibid.
+
+[65] As indicated in Section C.2 of this judgment.
+
+[66] [1991] BCLC 936 at 949.  The English Court of Appeal agreed on this point: “It is now well-established that factoring or block discounting amounts to a sale of book debts, rather than a charge on book debts, even though under the relevant agreement the purchaser of the debts is given recourse against the vendor in the event of default in payment of the debt by the debtor.”  Welsh Development Agency v Export Finance Co [1992] BCLC 148 at 154, per Dillon LJ.  See also Millett LJ in Orion Finance Limited v Crown Financial Management Limited [1996] 2 BCLC 78 at 84.
+
+1 This figure and other figures mentioned in the contract are taken from the MCA Contract of Amy House.

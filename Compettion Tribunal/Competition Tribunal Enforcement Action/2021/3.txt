@@ -1,0 +1,1187 @@
+CTEA 2/2021
+
+[2025] HKCT 1
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ENFORCEMENT ACTION NO 2 OF 2021
+
+________________
+
+BETWEEN
+
+ 	COMPETITION COMMISSION	Applicant
+and
+
+ 	HONG KONG COMMERCIAL CLEANING SERVICES LIMITED	1st Respondent
+ 	MAN SHUN HONG KONG & KLN CLEANING COMPANY LIMITED	2nd Respondent
+ 	CHAN MING CHU	3rd Respondent
+ 	CHENG YIP CHIU	4th Respondent
+ 	CHENG HOK KUEN	5th Respondent
+________________
+
+Before:	Hon Harris J, President of the Competition Tribunal in Court
+Dates of Hearing:	23 July 2024, 10 and 20 January 2025
+Dates of Judgment:	23 July 2024, 10 and 20 January 2025
+Date of Reasons for Judgment:	14 February 2025
+__________________________________
+
+REASONS FOR JUDGMENT
+
+__________________________________
+
+Introduction
+
+1.  There are before the Tribunal three Kam Kwong applications[1] made pursuant to rule 39 of the Competition Tribunal Rules (Cap. 619D) and [72] of the Competition Tribunal Practice Direction No. 1, for approval to dispose of these proceedings by agreement, respectively between the Commission and:
+
+(1) The 1st, 3rd and 4th Respondents; and
+
+(2) The 2nd and 5th Respondents.
+
+2.  The Commission and the Respondents have come to agreement on both issues of liability and penalty:
+
+(1) On 23 July 2024, the Tribunal first entered judgment for liability of the 2nd and 5th Respondents pursuant to the Kam Kwong procedure based on a statement of agreed facts on liability (“R2/5 Liability Statement”), leaving the question of relief in respect of the 2nd and 5th Respondents to be determined at a later hearing to be fixed after the trial on liability in respect of the 1st, 3rd and 4th Respondents.
+
+(2) The 1st, 3rd and 4th Respondents have subsequently agreed settlement terms with the Commission on both liability and penalties.
+
+(3) On 10 January 2025, the Tribunal entered judgment on both liability and relief against the 1st, 3rd and 4th Respondents pursuant to the Kam Kwong procedure (“R1/3/4 Order”) on the basis of a statement of agreed facts (“R1/3/4 Statement”).
+
+(4) The settlement between the Commission and the 1st, 3rd and 4th Respondents obviates the need for a trial. The 2nd and 5th Respondents have then agreed to dispose of the question of relief by way of the Kam Kwong procedure.
+
+(5) On 20 January 2025, the Tribunal determined the relief in respect of the 2nd and 5th Respondents pursuant to the Kam Kwong procedure (“R2/5 Relief Order”) based on a statement of agreed facts on relief (“R2/5 Relief Statement”).
+
+3.  Consequently, there are in total three sets of statement of agreed facts (collectively “Statements”), which are respectively appended to these Reasons for Judgment.
+
+4.  Given the three Kam Kwong applications arise from the same factual matrix and the relief sought by the Commission against the two groups of Respondents are similar, I am of the view (to which parties also agreed) that it would be more logical and efficient to deal with the three applications in the same written decision.
+
+5.  These are the reasons for my judgment.
+
+Background
+
+6.  The background of these proceedings and details of the contraventions are set out comprehensively in the Statements. It is not necessary for me to recite the facts in full here.
+
+7.  The Commission’s case as pleaded in the Originating Notice of Application (“ONA”) can be briefly summarised as follows.
+
+8.  At all material times:
+
+(1) The 1st Respondent (or “HKC”) and the 2nd Respondent (or “MS”) are contractors in the business of providing cleaning services to, inter alia, public rental housing estates and other buildings (collectively “PRH Estates”) under the management of the Hong Kong Housing Authority (“HA”);[2]
+
+(2) The 3rd Respondent (or “Ming”) and the 4th Respondent (or “Chiu”) are the two directors of HKC and own 22% and 78% shares in HKC respectively;[3] and
+
+(3) The 5th Respondent (or “Kuen”) is one of the two directors of MS and owns 30% shares in MS[4].
+
+9.  The Commission’s case (which is also admitted by the Respondents)[5] is that HKC and MS have engaged in price fixing by way of exchange of commercially sensitive information (“Information Exchange Agreement”) in tenders submitted to the HA for the procurement of cleaning services for PRH Estates at least from 27 May 2016 to 21 August 2018 (both dates inclusive) (“Contravention”) in contravention of the First Conduct Rule (“FCR”) under section 6 of the Competition Ordinance (Cap. 619) (“Ordinance”)[6].
+
+10.  Ming and Chiu, being the directors of HKC, and Kuen, being the director of MS, were involved in the Contravention for the purposes of sections 91(b) and (d) of the Ordinance[7].
+
+11.  Pursuant to the Information Exchange Agreement, HKC and MS exchanged confidential commercially sensitive information when bidding for 17 tenders called by the HA (collectively “Affected Tenders”). The Affected Tenders contained information on, inter alia, the prices that HKC and MS intended to quote, salary of workers, and project related expenses[8].
+
+12.  According to the Commission, both HKC and MS quoted identical and/or inexplicably similar prices and the tender documents contained the same inexplicable mistake at least on one occasion. These commonalities can only be explained on the basis that the tender documents were not prepared independently but relied on systematic sharing of information between HKC and MS[9].
+
+13.  It is not disputed that all of the arrangements encompassed under the Information Exchange Agreement leading to the Affected Tenders were part of a single overall agreement with an object of preventing, restricting or distorting competition in Hong Kong and thus in contravention of the FCR[10].
+
+Legal Principles
+
+14.  The Kam Kwong procedure has been explained and adopted by the Tribunal on a number of occasions. The relevant principles have most recently been summarised in Competition Commission v Multisoft Limited & Ors[11] at [10]-[15]:
+
+“10. The Kam Kwong procedure explained and adopted by the Tribunal in Competition Commission v Kam Kwong Engineering Co Ltd and Ors[12] has been applied on a number of occasions in relation to liability, declarations of contravention, pecuniary penalties and disqualification orders alike to dispose of proceedings by agreement: see for example Competition Commission v Quadient Technologies Hong Kong Ltd and Ors[13]; Competition Commission v Quantr Ltd and Ors[14]; Competition Commission v Nutanix Hong Kong Ltd[15].
+
+11. The Tribunal must be satisfied that it has the power to make the orders proposed and that the orders are appropriate. Once satisfied, the Tribunal exercises a degree of restraint when scrutinising the proposed settlement terms, particularly when both parties are legally represented and are able to evaluate the desirability of settlement. It will not search out reasons to disagree with an agreement that the Commission, which has expertise in the subject matter of the proceedings, and Respondents consider appropriate: Quadient at [40]; Quantr at [5(2)] and Nutanix at [5]–[6].
+
+12. In deciding whether an agreed order should be granted, the Tribunal treats the consent of the respondent as an admission of all facts necessary to the granting of relief sought against it. The same applies to declarations sought by agreement: Quantr at [5(3)].
+
+13. Where a declaration is sought, the court has to be satisfied that: (i) the applicant has a real (as opposed to an abstract or hypothetical) interest in the subject matter of the declaration; (ii) that he has a real interest in obtaining a declaration against the adverse party; and (iii) that the adverse party is a proper contradictor: Kam Kwong at [38].
+
+14. As to the amount of penalty:
+
+(1) The Tribunal must have regard to the following mandatory considerations set out in section 93(2) of the Ordinance, which include:
+
+(a) The nature and extent of the conduct that constitutes the contravention;
+
+(b) The loss or damage, if any, caused by the conduct;
+
+(c) The circumstance in which the conduct took place; and
+
+(d) Whether the person has previously been found by the Tribunal to have contravened the Ordinance.
+
+(2) In relation to undertakings which have contravened a competition rule, the Tribunal also adopts a structured methodological approach explained in Competition Commission v W Hing Construction Company Ltd and Ors[16] at [46]–[74], which involves four main steps:
+
+(a) Step 1: determining the “Base Amount”. This involves identifying the value of the undertaking’s sales directly or indirectly related to the contravention within Hong Kong in the financial year in question (“VOS”) and applies a “Gravity Percentage” of 15% to 30% (for “serious anti-competitive conduct” as defined in section 2(1) of the Ordinance) and multiplied by the number of years of the undertaking’s participation in the contravention;
+
+(b) Step 2: making adjustments for aggravating, mitigating and other factors;
+
+(c) Step 3: applying the statutory cap, which is 10% of the total turnover of the undertaking in Hong Kong for each year in which the Contravention occurred, up to a maximum of three years;
+
+(d) Step 4: applying a cooperation reduction and considering any plea of inability to pay;
+
+15. In line with the above approach of restraint in scrutinising proposed settlement terms, while the Tribunal will assess if the amount of the agreed penalty is “appropriate” having regard to the circumstances of the case and the matters specified in section 93(2)(a)–(d) of the Ordinance, where the proposed penalty is within a proper range and does not appear to the Tribunal to be manifestly excessive or inadequate, or otherwise contrary to public interest, the Tribunal is unlikely to depart from it, and should not do so merely because the Tribunal might itself have been disposed to select some other figure: Nutanix at [6].”
+
+Relief sought by the Commission
+
+15.  The agreed draft orders submitted to the Tribunal include the following relief:
+
+(1) In relation to 1st, 3rd and 4th Respondents:
+
+(a) A declaration of contravention of the FCR by the 1st Respondent;
+
+(b) A declaration that each of the 3rd and 4th Respondents has been involved in the contravention of the FCR by the 1st Respondent;
+
+(c) A pecuniary penalty of HK$10,960,000 to be paid by the 1st Respondent and guaranteed by each of the shareholder of the 1st Respondent;
+
+(d) A pecuniary penalty of HK$10,000 to be paid by each of the 3rd and 4th Respondents;
+
+(e) Payment of the Commission’s investigation costs of HK$709,900;
+
+(f) Payment of the Commission’s costs of and incidental to the application in these proceedings vis-à-vis the 1st, 3rd and 4th Respondents; and
+
+(g) A director disqualification order against each of the 3rd and 4th Respondents for a period of 24 months.
+
+(2) In relation to 2nd and 5th Respondents:
+
+(a) A declaration of contravention of the FCR by the 2nd Respondent;
+
+(b) A declaration that the 5th Respondent was involved in the contravention of the FCR;
+
+(c) A pecuniary penalty of HK$11,300,000 to be paid by the 2nd Respondent and guaranteed by each of the shareholder of the 2nd Respondent;
+
+(d) A pecuniary penalty of HK$10,000 to be paid by the 5th Respondent;
+
+(e) Payment of the Commission’s investigation costs of HK$709,900;
+
+(f) Payment of the Commission’s costs of and incidental to the application in these proceedings vis-à-vis the 2nd and 5th Respondents; and
+
+(g) A director disqualification order against the 5th Respondent for a period of 24 months.
+
+Declarations of contravention
+
+16.  The Tribunal’s approach in exercising discretion to grant declarations of contravention has been discussed in Kam Kwong at [38]-[39] and most recently applied in Multisoft at [18].
+
+17.  In the present case, I accept that it is appropriate for the Tribunal to grant the proposed declarations in [15] above in light of the following:
+
+(1) There is a significant legal controversy being resolved, namely whether the Respondents have contravened the FCR or have been involved in the same;
+
+(2) As a regulator tasked with investigating conduct that may contravene the competition rules and enforcing provisions designed to regulate economic activity for the public welfare, the Commission has a legitimate interest in the outcome of the reliefs. The declarations will establish the Commission’s claim that the Respondents have contravened the FCR (in the case of the 1st and 2nd Respondents) or have been involved in the same (in the case of the 3rd, 4th and 5th Respondents). This would record the Tribunal’s disapproval of the contravention and in turn likely to deter other persons from contravening the Ordinance; and
+
+(3) The Respondents are proper contradictors as they are made the subject of the proposed declarations and have an interest in opposing them, albeit the declarations are made by consent.
+
+Penalties for the 1st Respondent
+
+18.  The agreed pecuniary penalty of HK$10,960,000 for the 1st Respondent, which is guaranteed by the 3rd and 4th Respondents, was arrived at by applying the 4-step methodology summarised in Multisoft at [14]:
+
+(1) Step 1: In determining the Base Amount:
+
+(a) Pursuant to [2.3] of the Policy on Recommended Pecuniary Penalties published by the Commission in June 2020 (“RPP Policy”), the value of sales (“VOS”) refers to the value of the undertaking’s sales directly and/or indirectly related to the contravention in the relevant geographic area within Hong Kong, and will normally be based on the last full financial year of the undertaking’s participation in the Contravention.
+
+(b) The relevant VOS that is directly and/or indirectly affected by the Contravention includes HKC’s revenue generated from cleaning service contracts with the HA in the financial year ending March 2018. Thus, the Commission adopted the sum of HK$13,058,151.88 as the VOS[17].
+
+(c) The Commission’s case (to which HKC, Ming and Chiu agreed) is that the price-fixing conduct constituted serious anti-competitive conduct[18], which would normally attract a gravity percentage between 15% to 30%.[19] The factors set out in [2.6] of the RPP Policy were taken into account, such as (i) the type of conduct involved, including whether it is serious anti-competitive conduct; (ii) the combined market shares of the undertakings involved; (iii) whether the penalty is to be imposed on an undertaking that contravened a conduct rule, and if so, the degree of that undertaking’s involvement; and (iv) the impact, whether directly or indirectly, on competitors, consumers, and third parties. To reflect the seriousness of the conduct, a moderate gravity percentage of 20% has been agreed.
+
+(d) As the contraventions by HKC took place between 27 May 2016 and 21 August 2018 (i.e. a total of 27 months)[20], a duration multiplier of 2.25 was applied.
+
+(e) Therefore, the Step 1 figure is HK$13,058,151.88 x 0.2 x 2.25 = HK$5,876,168.35.
+
+(2) Step 2: Aggravating and mitigating factors:
+
+(a) An uplift of 25% is applied for contravention of the “Non-collusion Tendering Certificates” (“NCC”). By signing and submitting the NCC to HA as part of their tender, HKC falsely represented to the HA that it had not colluded with any other undertakings in its preparation and submission of the relevant tender.
+
+(b) The penalty sought is increased by 30% due to the participation of the 3rd and 4th Respondents as directors of HKC.
+
+(c) The Commission recommends a further uplift of 50% for obstruction by HKC’s staff to the Commission’s investigation:
+
+(i) On 23 September 2019, members of HKC had attempted to obstruct the Commission’s investigation into the Contravention by deleting computer documents and hyperlinks that were relevant to the Commission’s investigation[21].
+
+(ii) The Commission submits this is the first case in Hong Kong in which obstruction to the Commission’s investigation has been recommended as an aggravating factor.
+
+(iii) Pursuant to [2.14(g)] of the RPP Policy, obstruction to the Commission’s investigation is stated as one of the aggravating circumstances.
+
+(iv) In European jurisprudence, refusal to cooperate with or attempts to obstruct the European Commission in carrying out its investigations has been recognised as an aggravating factor warranting an increase in the penalty imposed[22].
+
+(v) In Hong Kong, obstructing the Commission’s investigation is a serious matter. Under the Ordinance, obstructive conduct such as destroying or falsifying documents (section 53) and obstruction of search (section 54) constitute criminal offences.
+
+(vi) Given the nature of obstruction in the present case involves deliberate destruction of relevant electronic documents as opposed to mere non-cooperation, I consider that a 50% uplift is reasonable to mark the Tribunal’s disapproval of such acts of obstruction and to achieve a deterrent effect.
+
+(d) Save for the cooperation discount canvassed in Step 4 below, parties agreed that there are no mitigating circumstances that warrant reduction of the Base Amount.
+
+(e) Therefore, the Commission sought to increase the penalty by 105% which results in a figure of HK$12,046,145.12.
+
+(3) Step 3: Statutory cap:
+
+(a) HKC’s relevant turnover for the purposes of the Competition (Turnover) Regulation (Cap. 619C) and section 93(3) of the Ordinance is HK$330,633,155[23].
+
+(b) The figure of HK$12,046,145.12 in Step 2 does not exceed the statutory cap, which is 10% of the agreed turnover i.e. HK$33,063,315.50.
+
+(4) Step 4: A cooperation discount of 9% is applied as the admission of liability only occurred after the trial dates have been fixed and the trial is less than 5 months away.
+
+(5) This brings the final figure to HK$10,960,000 (rounded down to the nearest HK$10,000).
+
+Penalties for the 2nd Respondent
+
+19.  Similarly, the agreed pecuniary penalty of HK$11,300,000 for the 2nd Respondent, which is guaranteed by each shareholder of the 2nd Respondent, was arrived at by applying the same 4-step methodology:
+
+(1) Step 1: In determining the Base Amount:
+
+(a) The relevant VOS that is directly and/or indirectly affected by the Contravention includes MS’ revenue generated from cleaning service contracts with the HA in the financial year ending June 2018 and June 2019. Thus, the Commission adopted the sum of HK$21,116,163.24 as the VOS[24].
+
+(b) To reflect the seriousness of the conduct, a moderate gravity percentage of 20% has been agreed (i.e. same as the 1st Respondent).
+
+(c) As the contraventions by MS took place between 27 May 2016 and 21 August 2018 (i.e. a total of 27 months)[25], a duration multiplier of 2.25 was applied.
+
+(d) Therefore, the Step 1 figure is HK$21,116,163.24 x 0.2 x 2.25 = HK$9,502,273.46.
+
+(2) Step 2: Aggravating and mitigating factors:
+
+(a) An uplift of 25% is applied for contravention of NCC. By signing and submitting the NCC to HA as part of their tender, MS falsely represented to HA that it had not colluded with any other undertakings in its preparation and submission of the relevant tender.
+
+(b) The penalty sought is increased by 50% due to the participation of the 5th Respondent as a director of MS.
+
+(c) Save for the cooperation discount and exceptional proportionality discount in light of MS’ financial position as canvassed in Step 4 below, parties agreed that there are no other mitigating circumstances that warrant reduction of the Base Amount.
+
+(d) Therefore, the Commission sought to increase the penalty by 75% which results in a figure of HK$16,628,978.
+
+(3) Step 3: Statutory cap:
+
+(a) MS’ relevant turnover for the purposes of the Competition (Turnover) Regulation (Cap. 619C) and section 93(3) of the Ordinance is HK$231,552,812[26].
+
+(b) The figure of HK$16,628,978 in Step 2 does not exceed the statutory cap, which is 10% of the agreed turnover i.e. HK$23,155,281.
+
+(4) Step 4: Cooperation and proportionality discounts:
+
+(a) A cooperation discount of 15% is applied as the 2nd and 5th Respondents admitted liability at a relatively early stage, namely before the filing of any witness statements[27].
+
+(b) The Commission proposed a further 20% discount to render the pecuniary penalty proportionate to all the circumstances of the case, which include, in particular, MS’ financial position as set out in [10] of R2/5 Relief Statement.
+
+(c) In Competition Commission v W Hing Construction Co Ltd & Ors (No.3)[28], the Tribunal recognised that reduction of penalty on account of inability to pay “should be an exceptional measure, having regard to the effect on the firm’s viability” (at [122]). It is incumbent upon the respondent in question to produce clear and comprehensive evidence of its financial position (at [119]).
+
+(d) In light of the information provided in [10] of the R2/5 Relief Statement, I am satisfied that the 2nd Respondent’s viability would be undermined by the penalty imposed and thus a 20% discount is reasonable and proportionate.
+
+(5) This brings the final figure to HK$11,300,000 (rounded down to the nearest HK$10,000).
+
+Penalties for the 3rd, 4th and 5th Respondents
+
+20.  In determining the appropriate pecuniary penalty for individuals, the 4-step approach above does not apply. Instead, the Commission adopts a global assessment approach, that is, the Commission proposes a lump sum figure, which is derived primarily from the mandatory considerations set out in section 93(2) of the Ordinance: see Multisoft at [29].
+
+21.  Given that the 3rd, 4th and 5th Respondents agreed to guarantee the pecuniary penalty imposed on HKC (in the case of 3rd and 4th Respondents) or MS (in the case of the 5th Respondent) and the director disqualification orders sought, the Commission proposes a nominal penalty in the sum of HK$10,000 against each of the 3rd, 4th and 5th Respondents. I agree that the sum of HK$10,000 is appropriate and reasonable.
+
+Disqualification Orders
+
+22.  Apart from pecuniary penalties, the Commission also seeks disqualification orders pursuant to sections 101 and 102 of the Ordinance against each of the 3rd, 4th and 5th Respondents.
+
+23.  As set out in the Statements, the 3rd, 4th and 5th Respondents admitted to having knowledge of the Information Exchange Agreement and thus being involved in the Contravention.
+
+24.  Taking into account the above, the Commission considers, and I agree, that a director disqualification order should be made against each of the 3rd, 4th and 5th Respondents for a period of 24 months.
+
+Payment of investigation costs
+
+25.  In terms of investigation costs, the Tribunal is empowered by section 96 of the Ordinance to grant an order for payment of the Commission’s investigation costs.
+
+26.  The 1st, 3rd and 4th Respondents agreed to pay (a) the Commission’s investigation costs in the sum of HK$709,900, and (b) the Commission’s costs of these proceedings up to the date of the R1/3/4 Order, to be taxed if not agreed.
+
+27.  Similarly, the 2nd and 5th Respondents have also agreed to pay (a) the Commission’s investigation costs in the sum of HK$709,900, and (b) the Commission’s costs of these proceedings up to the date of the R2/5 Relief Order, to be taxed if not agreed.
+
+Disposition
+
+28.  By reason of the above, I made the following orders:
+
+(1) In respect of the 1st, 3rd and 4th Respondents:
+
+(a) There be a declaration pursuant to section 94(1) of, and section 1(a) of Schedule 3 to, the Competition Ordinance (Cap. 619) (“Ordinance”) that the 1st Respondent has contravened the First Conduct Rule under section 6 of the Ordinance;
+
+(b) There be a declaration pursuant to section 94(1) of, and section 1(a) of Schedule 3 to, the Ordinance that each of the 3rd and 4th Respondents has been involved in the contravention of the First Conduct Rule by the 1st Respondent;
+
+(c) There be an order under section 93(1) of the Ordinance that the 1st Respondent shall pay to the Government a pecuniary penalty in the sum of HK$10,960,000, such sum being payable in four (4) equal quarterly installments of HK$2,740,000 (“Installment Payment”) on the specified time after the date of the R1/3/4 Order (“Specified Payment Time”), and provide documentary evidence of the Installment Payment to the Applicant within 7 days from the date of payment. The Installment Payment and the Specified Payment Time are:
+
+Installment Payment	Specified Payment Time
+1	HK$2,740,000	31 March 2025
+2	HK$2,740,000	30 June 2025
+3	HK$2,740,000	30 September 2025
+4	HK$2,740,000	31 December 2025
+(d) There be an order that each shareholder of the 1st Respondent irrevocably and unconditionally guarantee the payment obligation of the 1st Respondent in respect of the pecuniary penalty set out in paragraph 4 of the R1/3/4 Order, such guarantee shall be in a form to be agreed by the parties;
+
+(e) There be an order under section 93(1) of the Ordinance that each of the 3rd and 4th Respondents shall pay to the Government a pecuniary penalty in the sum of HK$10,000 within 14 days from the date of the R1/3/4 Order, and provide documentary evidence of such payment to the Applicant within 7 days from the date of payment;
+
+(f) There be an order under section 101 of the Ordinance that each of the 3rd and 4th Respondents may not, without leave of the Tribunal, (a) be, or continue to be, a director of a company; and (b) in any way, whether directly or indirectly, be concerned or take part in the promotion, formation or management of a company, for a period of 24 months, effective 6 months from the date of the R1/3/4 Order;
+
+(g) There be an order under section 96(1) of the Ordinance that the 1st Respondent shall pay to the Government an amount in the sum of HK$709,900, being the 1st Respondent’s share of the Applicant’s reasonably incurred costs of and incidental to the Applicant’s investigation into matters relating to the 1st, 3rd and 4th Respondents’ contravention of the First Conduct Rule within 14 days from the date of the R1/3/4 Order, and provide documentary evidence of such payment to the Applicant within 7 days from the date of payment; and
+
+(h) There be an order that the 1st, 3rd and 4th Respondents shall jointly and severally pay the Applicant’s costs (limited to the 1st, 3rd and 4th Respondents’ part) of and incidental to these proceedings up to the date of the R1/3/4 Order (including this application and reserved costs, if any), to be taxed if not agreed.
+
+(2) In respect of the 2nd and 5th Respondents:
+
+(a) There be a declaration that the 2nd Respondent has contravened the First Conduct Rule under section 6 of the Competition Ordinance (Cap. 619) (“Ordinance”);
+
+(b) There be a declaration that the 5th Respondent was involved in the contravention of the First Conduct Rule for the purpose of section 91 of the Ordinance;
+
+(c) There be an order under section 93(1) of the Ordinance that the 2nd Respondent shall pay to the Government a pecuniary penalty in the amount of HK$11,300,000, such amount being payable in eight (8) equal quarterly installments of HK$1,412,500 (“Installment Payment”) on the specified time after the date of R2/5 Relief Order (“Specified Payment Time”), and provide documentary evidence of the Installment Payment to the Applicant within 7 days from the date of payment. The Installment Payment and the Specified Payment Time are:
+
+Installment Payment	Specified Payment Time
+1	HK$1,412,500	31 March 2025
+2	HK$1,412,500	30 June 2025
+3	HK$1,412,500	30 September 2025
+4	HK$1,412,500	31 December 2025
+5	HK$1,412,500	31 March 2026
+6	HK$1,412,500	30 June 2026
+7	HK$1,412,500	30 September 2026
+8	HK$1,412,500	31 December 2026
+(d) There be an order that each shareholder of the 2nd Respondent irrevocably and unconditionally guarantees the payment obligation of the 2nd Respondent in respect of the pecuniary penalty set out in paragraph 1 of the R2/5 Relief Order, such guarantee shall be in a form to be agreed by the parties;
+
+(e) There be an order under section 93(1) of the Ordinance that the 5th Respondent shall pay to the Government a pecuniary penalty in the sum of HK$10,000 within 14 days from the date of the R2/5 Relief Order, and provide documentary evidence of such payment to the Applicant within 7 days from the date of payment;
+
+(f) There be an order under section 101 of the Ordinance that the 5th Respondent may not, without the leave of the Tribunal, (a) be, or continue to be, a director of a company; (b) be a liquidator or provisional liquidator of a company; (c) be a receiver or manager of a company’s property and (d) in any way, whether directly or indirectly, be concerned or take part in the promotion, formation or management of a company, for a period of 24 months from the date of the R2/5 Relief Order;
+
+(g) There be an order under section 96(1) of the Ordinance that the 2nd Respondent shall pay to the Government an amount in the sum of HK$709,900, being the 2nd Respondent’s share of the Applicant’s reasonably incurred costs of and incidental to the Applicant’s investigation into matters relating to the 2nd and 5th Respondents’ contravention of the First Conduct Rule within 14 days from the date of the R2/5 Relief Order, and provide documentary evidence of such payment to the Applicant within 7 days from the date of payment; and
+
+(h) There be an order that the 2nd and 5th Respondents shall jointly and severally pay the Applicant’s costs (limited to the 2nd and 5th Respondents’ part) of and incidental to these proceedings up to the date of the R2/5 Relief Order (including this application and reserved costs, if any), to be taxed if not agreed.
+
+ 
+
+ 
+
+ 	(Jonathan Harris)
+ 	President of the Competition Tribunal
+ 
+
+Mr Jenkin Suen SC and Mr Derek J Y Chan, instructed by Woo, Kwan, Lee & Lo, for the Applicant
+
+Mr Peter Dong, instructed by Tony Kan & Co, for the 1st, 3rd and 4th Respondents
+
+Mr Gon Yeung and Mr Ryan Law, instructed by Oldham, Li & Nie, for the 2nd and 5th Respondents
+
+
+
+
+Appendix 1
+
+STATEMENT OF AGREED FACTS (THE “STATEMENT”)
+
+BETWEEN THE COMPETITION COMMISSION (THE “COMMISSION”) AND THE 2nd and 5th RESPONDENTS
+
+(For the purposes of a settlement pursuant to Rule 39 of the Competition Tribunal Rules, Cap. 619D (“CTR”) and Paragraph 72 of the Competition Tribunal Practice Direction 1 (“CTPD1”))
+
+PART A — INTRODUCTION
+
+1.   On 14 December 2021, the Commission issued these proceedings pursuant to ss. 92, 94, 96, 101, 102, and 144 of the Competition Ordinance, Cap. 619 (“Ordinance”) against the 2nd Respondent (“MS”) and 5th Respondent (“Kuen”), seeking an order for, among other things:
+
+(1) a declaration that MS has contravened the First Conduct Rule pursuant to s. 6 of the Ordinance (“FCR”);
+
+(2) a declaration that Kuen was involved in the said contravention as defined in s. 91 of the Ordinance;
+
+(3) a pecuniary penalty against MS and Kuen pursuant to ss. 92 and 93 of the Ordinance, to be assessed;
+
+(4) a director-disqualification order against Kuen pursuant to ss. 101 and 102 of the Ordinance;
+
+(5) costs of the proceedings, against MS and Kuen pursuant to s. 144 of the Ordinance;
+
+(6) costs of the Commission’s investigation against MS and Kuen, pursuant to s. 96 of the Ordinance;
+
+(7) an order restraining or prohibiting MS (and its directors, servants, and agents) from engaging in any conduct that constitutes the said contravention; and
+
+(8) such further or other relief as the Tribunal considers appropriate.
+
+2.   Subject to the approval of the Tribunal, the Commission on the one hand, and MS and Kuen on the other, agree to enter judgment on liability against MS and Kuen by way of the summary procedure as provided for in Rule 39 CTR and §72 CTPD1. The procedure as envisaged by the parties is that sanctioned by the Honourable Mr Justice Jonathan Harris in the case of Competition Commission v Kam Kwong Engineering Co Ltd [2020] 4 HKLRD 61 as a “readymade blueprint for disposing of proceedings under the Ordinance” (at §17).
+
+3.   This Statement is intended to be submitted pursuant to Rule 39 CTR and §72 CTPD1 for the purpose of setting the factual basis upon which the Tribunal is asked to make the orders sought save and except the pecuniary penalty against MS and Kuen pursuant to ss. 92 and 93 of the Ordinance under §111(1) of the Originating Notice of Application dated 14 December 2021.
+
+4.   For the purpose of resolving these proceedings summarily, by reference to the facts as set out in Part B below:
+
+(1) the Commission contends and MS accepts that between 27 May 2016 and 21 August 2018 (both dates inclusive) (“Contravention Period”), MS had contravened the FCR by having agreed to fix prices by way of exchanging commercially sensitive information with another undertaking, Hong Kong Commercial Cleaning Services Limited (“HKC”), who is the 1st Respondent in these proceedings (the “Contravention”); and
+
+(2) the Commission contends and Kuen accepts that during the Contravention Period, Kuen had been involved in a contravention of the FCR by procuring MS to contravene the FCR and being directly or indirectly knowingly concerned to the Contravention between HKC and MS.
+
+5.   The Commission, MS, and Kuen accept and acknowledge that none of the admissions made by MS and Kuen in this Statement shall be binding against any other Respondents in these proceedings.
+
+6.   The Commission, MS, and Kuen shall jointly apply to the Tribunal pursuant to Rule 39 CTR and §72 CTPD1 for the present proceedings to be resolved as per the procedure envisaged therein. If the Tribunal decides to deal with proceedings between the Commission, MS and Kuen by way of the procedure envisaged in Rule 39 CTR, the Commission reserves the right to refer to this signed Statement for all purposes connected with or ancillary to these proceedings. If the Tribunal for whatever reason is of the view that these proceedings shall not be dealt with by way of the procedure provided for in Rule 39 CTR, no admission or concession by either the Commission or MS or Kuen on liability or pecuniary penalty shall be referred to or relied upon by either the Commission or MS or Kuen at any adjourned or subsequent hearing or in any other proceedings without the prior written consent of the Commission, MS and Kuen.
+
+PART B – UNDISPUTED FACTS
+
+B1. HKC and MS
+
+7.   HKC and MS are both limited liability companies registered in Hong Kong.
+
+8.   HKC and MS are competing cleaning services contractors (“CSCs”) in the business of providing cleaning services to inter alia public rental housing estates and other buildings under the management of the Hong Kong Housing Authority (“HA”) (together, the “PRH Estates”).
+
+9.   Prior to the establishment of HKC, the business of HKC was previously operated by Hong Kong Commercial Cleaning Eng. Co (“HKCE”), a sole proprietorship founded by the 4th Respondent (“Chiu”). HKC was founded by Chiu in 2001 and took over the businesses of HKCE.
+
+10.   Chan Ming Chu (“Ming”) is one of the two directors of HKC, and owns 22% share in HKC. Ming has been a director and shareholder of HKC since its establishment.
+
+11.   Chiu is the other director of HKC and owns 78% share in HKC. Chiu has also been a director and the principal shareholder of HKC since its establishment. In relation to HKC’s tendering, Chiu signed off on HKC’s tenders and had ultimate managerial control of HKC.
+
+12.   At the material times, Kuen was one of the two directors of MS and previously owned 30% share in MS. Kuen was a director and shareholder of MS from at least 2005 until 12 January 2023 after which Kuen ceased to be a director or shareholder of MS. In relation to MS’s tendering, Kuen signed off on MS’s tenders and had ultimate managerial control of MS in the Contravention Period.
+
+13.   Chan Mei Chu (“Mei”) is and was the other director of MS and in the Contravention Period owned 70% share in MS. Mei has been a director and shareholder of MS since 2007.
+
+14.   Ming and Mei are sisters.
+
+15.   Chiu and Ming are husband and wife.
+
+16.   Chiu and Kuen are fellow clansmen and are personal friends.
+
+17.   Kuen worked at HKC before launching into business independently through his acquisition of his shareholding in MS. He continues to assist with certain aspects of HKC’s business, and received payments for services rendered to HKC.
+
+18.   As well as being shareholder and one of the two directors at HKC, Ming occupies the title “Finance Director” at MS, and was on occasion tasked by Kuen with assisting in relation to MS’s finances, for example liaising with MS’s bank. As a result, Ming possessed company chops of both HKC and MS.
+
+19.   During the Contravention Period, HKC and MS had shared office premises, computer servers, as well as administrative support staff.
+
+20.   Despite the sharing of common staff and office facilities, HKC and MS are separate and independent undertakings, and have always held themselves to the HA and the general public as separate and independent undertakings.
+
+B2. Procurement of cleansing services by the HA
+
+21.   As part of the HA’s general management of the PRH Estates, the HA would procure cleansing services[29] for these PRH Estates by way of competitive tendering. Since 2011, all cleansing service contracts have been awarded on a 2-year basis with the option of being extended for two further 2-year periods if agreeable by both the HA and the incumbent contractor without the need for further tendering.
+
+22.   The HA maintains a list of qualified CSCs called “Housing Authority List of Cleansing Service Contractors” (the “CSC List”). Only CSCs on the CSC List are invited by the HA to tender for cleansing service contracts for the PRH Estates.
+
+23.   CSCs not on the CSC List are required to apply in writing to the HA to be admitted on the CSC List. Only upon successful admission onto the CSC List will an CSC be invited to tender for cleansing service contracts for the PRH Estates.
+
+24.   At least during the Contravention Period, HKC and MS have been CSCs on the CSC List.
+
+25.   Upon successful admission onto the CSC List, CSCs will then receive invitations for quotation by the HA to express interest to provide cleansing services to particular individual PRH Estate in due course. CSCs interested to tender for any or all of these PRH Estates may request blank tendering documents from the HA to complete and submit to tender for each PRH Estate. These documents include:
+
+(1) Statement of Conviction（定罪聲明）;
+
+(2) Management Proposal（管理計劃）;
+
+(3) Financial Proposal（財務計劃）; and
+
+(4) Statement of Financial Resources.
+
+(together, “Tendering Documents”).
+
+26.   The Management Proposal and the Financial Proposal require the tendering-CSC to detail inter alia the guaranteed monthly wages which the tenderee was undertaking to pay its workmen, including e.g. the supervisors, foremen and the cleaners; and the total monthly costs of hiring the required workers, etc.
+
+27.   The Financial Proposal, in addition to the quoted prices, also require the tendering-CSC to include other price items such as prices of cleaning supplies, equipment, storage, administration fee, etc., as well as the total sum of the CSC’s bid (being the aggregate sum of all prices quoted by the tendering-CSC for the 2-year contracted period and also for a 6-year period on the assumption that the cleansing contract is renewed twice).
+
+28.   The Statement of Financial Resources is a statement made by the tendering CSC to confirm with the HA that the tendering CSC has sufficient financial resources to meet the HA’s capital requirements for the tender. This statement is required to be prepared and certified by a qualified accountant, a director or an auditor as it requires in support, the tendering CSC’s audited accounts and reports. The statement also requires the tendering CSC to state inter alia its capital requirements, its available capital, projected profit and loss for the tendered contract, proposed working capital and employed capital improvement for any deficit in the CSC’s available capital.
+
+29.   During the material time, the HA evaluates the tenders it receives using a weighted scoring system. HA scores two aspects of each CSC’s tender submission against a weighting: 30% is attributed to non-price aspects, and 70% on price aspects of the proposal. At the end of each tender exercise, a combined score sheet with total scores will be prepared in respect of all bidders. As stipulated at paragraph 11 of the HA’s instructions on tender that is appended to the Tendering Documents (“Instructions to Tender”), the HA is not bound to accept the cheapest conforming bid. Instead, the HA may reject bids which it considers to be unreasonably high or low.
+
+30.   At all material times, tenders for cleansing service contract with the HA were governed by, among other guidelines and policies, two guidelines issued by the HA. In particular:
+
+(1) Guide to Registration of Works Contractors and Property Management Services Providers – Part I General Guidelines (“HA’s General Guidelines”); and
+
+(2) Guide to Registration of Works Contractors and Property Management Services Providers – Part III Specific Guidelines for (b) Cleansing Service Contractors (“HA’s Specific Guidelines”).
+
+(collectively referred to as “HA’s Guidelines”).
+
+31.   The HA’s Guidelines provides for the following rules and restrictions that were applicable to all CSCs including HKC and MS:
+
+(1) At any one time there is to be a cap on the HA works which any particular CSC may be awarded (see, for example, Section 3.1.4. HA’s General Guidelines and Section 11 and 12 of HA’s Specific Guidelines);
+
+(2) Collusion amongst CSCs in any tendering exercise or any business transactions on any HA projects is strictly prohibited. Specifically, CSCs shall not engage in any act which may yield a predetermined outcome of any award of tender (see, for example, Section 3.3.3. HA’s General Guidelines);
+
+(3) While related companies are permitted to be admitted onto and retained on HA’s lists of contractors, these companies must submit proper certification of “related company” status by their own director or a qualified accountant for the purpose of application for admission or retention on the list. Moreover, related companies who are admitted and retained on such lists must give an undertaking that:
+
+(a) only one company will submit a tender for a particular contract; and
+
+(b) all companies within each group of related companies on the list will share the list capping limit set for one company on the respective list.
+
+(see, for example, Section 3.3.5. HA’s General Guidelines).
+
+(4) A “related company” for the purpose of (3) above, carries the same meaning as “related parties” as defined in the Hong Kong Institute of Certified Public Accountants – Hong Kong Accounting Standard (HKAS 24). HKAS 24 states:
+
+“A related party is a person or entity that is related to the entity that is preparing its financial statements (in this Standard referred to as the “reporting entity”).
+
+(a) A person or a close member of that person’s family is related to a reporting entity if that person:
+
+(i) has control or joint control of the reporting entity;
+
+(ii) has significant influence over the reporting entity; or
+
+(iii) is a member of the key management personnel of the reporting entity or of a parent of the reporting entity.
+
+(b) An entity is related to a reporting entity if any of the following conditions applies:
+
+(i) The entity and the reporting entity are members of the same group (which means that each parent, subsidiary and fellow subsidiary is related to the others);
+
+(ii) One entity is an associate or joint venture of the other entity (or an associate or joint venture of a member of a group of which the other entity is a member);
+
+(iii) Both entities are joint ventures of the same third party;
+
+(iv) One entity is a joint venture of a third entity and the other entity is an associate of the third entity;
+
+(v) The entity is a post-employment benefit plan for the benefit of employees of either the reporting entity or an entity related to the reporting entity. If the reporting entity is itself such a plan, the sponsoring employers are also related to the reporting entity;
+
+(vi) The entity is controlled or jointly controlled by a person identified in (a).
+
+(vii) A person identified in (a)(i) has significant influence over the entity or is a member of the key management personnel of the entity (or of a parent of the entity);
+
+(viii) The entity, or any member of a group of which it is a part, provides key management personnel services to the reporting entity or to the parent of the reporting entity.”
+
+32.   Of relevance to the present proceedings, up until around 2018 the Instructions to Tender issued by the HA specifically provided that by its submission of tender, a tendering CSC is taken to have expressly represented and undertaken to the HA that:
+
+(1) Save and except with the prior written approval of the HA, the tendering CSC has not (and will not) informed any other person (outside of the HA) of any prices that have been set out in the Tendering Documents;
+
+(2) The tendering CSC has not (and will not), through arrangements with other persons, determined the prices set out in the Tendering Documents;
+
+(3) The tendering CSC has not (and will not) entered/enter into any arrangements with another person concerning whether it will bid or whether that other person will bid or not; and
+
+(4) The tendering CSC has never colluded with any other person in any manner concerning the competitive process of the tender.
+
+33.   In or around 2018, the Instructions to Tender was subsequently updated to, among other things, include:
+
+(1) A specific obligation on the part of the tendering CSC to ensure that in the process of preparing its tendering submissions, it had not entered into any sort of agreement, arrangement, communication, understanding, undertaking, or promises with any other persons on matters concerning the bid price, bidding process, or any other clauses in the tender;
+
+(2) Specific references to the Ordinance and, in particular, a reminder that bid-rigging is anticompetitive and constitutes a serious anticompetitive behavior under the Ordinance; and
+
+(3) A requirement that each tendering CSC shall sign and submit the pro forma “Non-collusion Tendering Certificate” (不合謀投標確認書) as part of their tendering submission with the HA.
+
+34.   At all material times:
+
+(1) Neither HKC nor MS has submitted certifications that they are Related Companies, or that they are related to other CSCs; and
+
+(2) Neither HKC nor MS has sought or received express written approval from the HA that it will inform other persons of their pricing information that is quoted in the Tendering Documents (c.f. the Instructions to Tender).
+
+B3. The Contravention
+
+35.   MS admits that it had made and given effect to an agreement with HKC to fix the prices that were quoted in its tenders to the HA for cleansing service contracts (the “Information Exchange Agreement”). In particular, MS admits that the Information Exchange Agreement was entered into by 27 May 2016 latest (i.e. the first day of the Contravention Period) and was given effect to throughout the Contravention Period.
+
+36.   Pursuant to the Information Exchange Agreement, MS and HKC had exchanged confidential commercially sensitive information in the following 17 tenders that were called by the HA (collectively referred to as the “Affected Tenders”):
+
+PRH Estate	HA’s Contract no.
+1.	Lei Yue Mun Estate	KS20160116
+2.	Chak On Estate	KS20160200
+3.	Hoi Lai Estate	KS20160635
+4.	Lei Muk Shue Estate	KS20160634
+5.	Oi Man Estate	KS20160636
+6.	Shek Wai Kok Estate	KS20160637
+7.	Tsz Ching Estate	KS20170192
+8.	Tin Shui (1) Estate	KS20160638
+9.	Lok Wah South Estate	KS20170140
+10.	Shun Tin Estate	KS20170141
+11.	Wah Fu (1) Estate	KS20170142
+12.	Yau Oi Estate	KS20170143
+13.	Ko Yee Estate	KS20170322
+14.	Fuk Loi Estate	KS20180067
+15.	Lok Wah North Estate	KS20180070
+16.	Mei Tung Estate	KS20180071
+17.	Yip On Factory Estate and Wang Cheong Factory Estate (“Yip On”)	KS20180076
+37.   In particular, prior to HKC and MS’s submission of tender in the Affected Tenders, HKC and MS had shared and taken into account each other’s intended submissions to the HA as contained in their respective Tendering Documents. This included, among other matters, the following commercially sensitive information:
+
+(1) the monthly wage which HKC and MS would commit to paying the workers required to carry out the cleansing services contract (such as “supervisor”, “management”, and “non-skilled workers” (e.g. cleaners));
+
+(2) the total number of man hours per day which HKC and MS would commit to deploying on each of the relevant estates;
+
+(3) the maximum number of working hours which HKC and MS would commit to each employee per day;
+
+(4) the project related expenses to carrying out the cleansing contract;
+
+(5) the projected monthly profits of HKC and MS; and
+
+(6) the total bidding sum, consisting of HKC and MS’s quotation for the annual, biannual, and six-year cleansing contract fee.
+
+38.   Of the 17 Affected Tenders, MS was awarded the following cleansing contracts from the HA:
+
+PRH Estate and Contract No.	Total bidding sum (2 year basis)/(6 year basis)
+1	Shun Tin Estate (KS20170141)	13,917,120/41,751,360
+2	Wah Fu (1) Estate (KS20170142)	17,647,200/52,941,600
+B4. CONTRAVENTION OF THE FCR
+
+39.   In the premises, it is the Commission’s case (which is not disputed by MS and Kuen) that:
+
+(1) By virtue of the matters stated in section B above, the Information Exchange Agreement was a price-fixing agreement entered into between HKC and MS to exchange their commercially sensitive information in tenders submitted to the HA for the procurement of cleansing services for PRH Estates during the Contravention Period, in contravention of the s. 6 of the Ordinance;
+
+(2) All of the arrangements encompassed under the Information Exchange Agreement leading to the 17 Affected Tenders were part of a single overall agreement, with each arrangement and each tender being in pursuit of a common objective of giving effect to the single overall agreement with the object of such agreement being to prevent, or restrict, or distort competition in Hong Kong in contravention of the FCR; and
+
+(3) Such conduct had the object of harming competition in Hong Kong and constitutes “serious anti-competitive conduct” within the meaning of s. 2(1) of the Ordnance.
+
+B5. INVOLVEMENT OF KUEN
+
+40.   With regards to the Information Exchange Agreement, Kuen, the 5th Respondent, was a person involved (within the meaning of s. 91 of the Ordinance) in a contravention of the FCR, as Kuen had procured MS to contravene the FCR, and was directly or indirectly, knowingly concerned in or a party to the contravention of the FCR. In particular, Kuen:
+
+(1) was during the Contravention Period the director and 30% owner of MS, and was the person occupying the position of management of MS;
+
+(2) managed the day-to-day affairs of MS;
+
+(3) was the signatory to all of MS’s Affected Tenders;
+
+(4) prepared MS’s tendering documents (including those of the 17 Affected Tenders) while having access and did access HKC’s tendering documents;
+
+(5) was responsible for allowing MS to share office premises at HKC’s Premises without setting up any measures to prevent staff from HKC or MS from accessing each other’s commercially sensitive documents including their respective Tendering Documents;
+
+(6) was responsible for the computer system that was set up so that staff at HKC and at MS could access each other’s commercially sensitive documents through their respective computers and servers;
+
+(7) knowingly hired and put in positions of tendering responsibility staff that had access to HKC’s commercially sensitive documents, thereby procuring the Contravention;
+
+(8) had actual knowledge of the Information Exchange Agreement between HKC and MS; and
+
+(9) had directed members of MS to give effect to the Information Exchange Agreement by allowing members of HKC to access the information contained in MS’s Tendering Documents in the Affected Tenders.
+
+PART C – AGREED MITIGATING FACTORS
+
+41.   In agreeing to deal with the present proceedings in accordance with Rule 39 CTR and §72 CTPD1, the 2nd and 5th Respondents have adopted a reasonable course of action which has saved time and costs of the Commission and that of the Tribunal.
+
+42.   The Commission will recommend to the Tribunal that the above factor(s) be taken into account should the Tribunal decide that an order for pecuniary penalty against the 2nd and 5th Respondents and/or a disqualification order against the 5th Respondent be appropriate.
+
+Dated this 30 day of January 2024.
+
+
+……….……….……….……….……….……………
+
+For and on behalf of the Hong Kong Competition Commission
+
+
+……….……….……….……….……….……………
+
+For and on behalf of Man Shun Hong Kong & Kln Cleaning Company Limited
+
+
+……….……….……….……….……….……………
+
+Cheng Hok Kuen
+
+
+
+Appendix 2
+
+STATEMENT OF AGREED FACTS (THE “STATEMENT”)
+
+BETWEEN THE COMPETITION COMMISSION (THE “COMMISSION”)
+
+AND THE 1st, 3rd, and 4th RESPONDENTS
+
+(For the purposes of a settlement pursuant to Rule 39 of the Competition Tribunal Rules, Cap. 619D (“CTR”) and Paragraph 72 of the Competition Tribunal Practice Direction 1 (“CTPD1”))
+
+PART A — INTRODUCTION
+
+1.   On 14 December 2021, the Commission issued these proceedings pursuant to ss. 92, 94, 96, 101, 102, and 144 of the Competition Ordinance, Cap. 619 (“Ordinance”) against the 1st Respondent (“HKC”), 3rd Respondent (“Ming”), and 4th Respondent (“Chiu”), seeking an order for, among other things:
+
+(a) a declaration that HKC has contravened the First Conduct Rule (“FCR”) pursuant to s. 6 of the Ordinance;
+
+(b) a declaration that Ming and Chiu were involved in the said contravention as defined in s. 91 of the Ordinance;
+
+(c) a pecuniary penalty against HKC, Ming, and Chiu pursuant to ss. 92 and 93 of the Ordinance, to be assessed;
+
+(d) a director-disqualification order against Ming and Chiu pursuant to ss. 101 and 102 of the Ordinance;
+
+(e) costs of the proceedings, against HKC, Ming, and Chiu, pursuant to s. 144 of the Ordinance;
+
+(f) costs of the Commission’s investigation against HKC, Ming, and Chiu, pursuant to s. 96 of the Ordinance;
+
+(g) an order restraining or prohibiting HKC (and its directors, servants, and agents) from engaging in any conduct that constitutes the said contravention; and
+
+(h) such further or other relief as the Tribunal considers appropriate.
+
+2.   Subject to the approval of the Tribunal, the Commission and each of HKC, Ming, and Chiu agree to enter judgment on liability and consequential orders against HKC, Ming, and Chiu by way of the summary procedure as provided for in Rule 39 of the CTR and §72 of the CTPD1. The procedure as envisaged by the parties is that sanctioned by the Honourable Mr Justice Jonathan Harris in the case of Competition Commission v Kam Kwong Engineering Co Ltd [2020] 4 HKLRD 61 as a “readymade blueprint for disposing of proceedings under the Ordinance” (at §17).
+
+3.   This Statement of Agreed Facts (“Statement”) is intended to be submitted pursuant to Rule 39 of the CTR and §72 of the CTPD1 for the purpose of setting the factual basis upon which the Tribunal is asked to make the orders sought.
+
+4.   For the purpose of resolving these proceedings summarily, by reference to the facts as set out in Part B below:
+
+(a) the Commission contends and HKC accepts that between 27 May 2016 and 21 August 2018 (both dates inclusive) (“Contravention Period”), HKC had contravened the FCR by having agreed to or engaged in the concerted practice of fixing prices by way of exchange of commercially sensitive information with another undertaking, Man Shun Hong Kong & Kln Cleaning Company Limited (“MS”), who is the 2nd Respondent in these proceedings (the “Contravention”); and
+
+(b) the Commission contends, and Ming and Chiu accept that during the Contravention Period, Ming and Chiu had been involved in a contravention of the FCR by procuring HKC to contravene the FCR and being indirectly knowingly concerned in the Contravention between HKC and MS.
+
+5.   The facts as set out in this Statement are agreed by the Commission and each of HKC, Ming and Chiu. This Statement is filed before the Tribunal to support the joint application by the Commission and HKC, Ming & Chiu for the orders sought below to be made under Rule 39 of the CTR (“Joint Application”):
+
+(a) judgment for liability be entered against HKC, Ming and Chiu;
+
+(b) a declaration pursuant to section 94(1) of, and section 1(a) of Schedule 3 to, the Ordinance that HKC has contravened the FCR, pursuant to s. 6 of the Ordinance;
+
+(c) a declaration pursuant to section 94(1) of, and section 1(a) of Schedule 3 to, the Ordinance that each of Ming and Chiu has been involved in the said contravention as defined in s. 91 of the Ordinance;
+
+(d) an order under section 93(1) of the Ordinance that HKC shall pay a pecuniary penalty in the sum of HK$10,960,000, such sum being payable in four (4) equal quarterly installments of HK$2,740,000 (“Installment Payment”) on the specified time after the date of the order (“Specified Payment Time”), and provide documentary evidence of the Installment Payment to the Commission within 7 days from the date of payment. The Installment Payment and the Specified Payment Time are:
+
+ 	Installment Payment	Specified Payment Time
+1	HK$2,740,000	31 March 2025
+2	HK$2,740,000	30 June 2025
+3	HK$2,740,000	30 September 2025
+4	HK$2,740,000	31 December 2025
+(e) an order that each shareholder of HKC irrevocably and unconditionally guarantees the payment obligation of HKC in respect of the pecuniary penalty set out in the preceding paragraph, such guarantee shall be in a form to be agreed by the parties.
+
+(f) an order under section 93(1) of the Ordinance that each of Ming and Chiu shall pay a pecuniary penalty in the amount of HK$10,000 within 14 days from the date of the order, and provide documentary evidence of such payment to the Commission within 7 days from the date of payment;
+
+(g) an order under section 101 of the Ordinance that each of Ming and Chiu may not, without the leave of the Tribunal, (a) be, or continue to be, a director of a company; and (b) in any way, whether directly or indirectly, be concerned or take part in the promotion, formation or management of a company, for a period of 24 months, effective 6 months from the date of the order;
+
+(h) an order that HKC, Ming and Chiu shall jointly and severally pay the Commission’s costs (limited to HKC’s, Ming’s and Chiu’s part) of and incidental to the proceedings up to the date of the order (including this application and reserved costs, if any), to be taxed if not agreed, pursuant to s. 144 of the Ordinance; and
+
+(i) an order under section 96(1) of the Ordinance that HKC shall pay the Commission’s costs of investigation in the amount of HK$709,900.00, being HKC’s share of the Commission’s reasonably incurred costs of and incidental to the Commission’s investigation into matters relating to HKC’s, Ming’s and Chiu’s contravention of the FCR within 14 days from the date of the order, and provide documentary evidence of such payment to the Commission within 7 days from the date of payment;.
+
+6.   The Commission, HKC, Ming and Chiu accept and acknowledge that none of the admissions made by HKC, Ming, and Chiu in this Statement shall be binding against any other Respondents in these proceedings.
+
+7.   The Commission, HKC, Ming and Chiu shall jointly apply to the Tribunal pursuant to Rule 39 of the CTR and §72 of the CTPD1 for the present proceedings to be resolved as per the procedure envisaged therein. If the Tribunal decides to deal with the proceedings between the Commission, HKC, Ming and Chiu by way of the procedure envisaged in Rule 39 of the CTR, the Commission reserves the right to refer to this signed Statement for all purposes connected with or ancillary to these proceedings. If the Tribunal for whatever reason is of the view that these proceedings shall not be dealt with by way of the procedure provided for in Rule 39 of the CTR, no admission or concession by either the Commission or HKC, Ming and Chiu regarding their liabilities shall be referred to or relied upon by either the Commission or HKC, Ming and Chiu at any adjourned or subsequent hearing or in any other proceedings without the prior written consent of the Commission, HKC, Ming and Chiu.
+
+PART B – UNDISPUTED FACTS
+
+B1. HKC and MS
+
+8.   HKC and MS are both limited liability companies registered in Hong Kong.
+
+9.   HKC and MS are competing cleansing services contractors (“CSCs”) in the business of providing cleansing services to inter alia public rental housing estates and other buildings under the management of the Hong Kong Housing Authority (“HA”) (together, the “PRH Estates”).
+
+10.   Prior to the establishment of HKC, the business of HKC was previously operated by Hong Kong Commercial Cleaning Eng. Co (“HKCE”), a sole proprietorship founded by the 4th Respondent (“Chiu”). HKC was founded by Chiu in 2001 and took over the businesses of HKCE.
+
+11.   Ming is one of the two directors of HKC, and owns 22% share in HKC. Ming has been a director and shareholder of HKC since its establishment.
+
+12.   Chiu is the other director of HKC and owns 78% share in HKC. Chiu has also been a director and the principal shareholder of HKC since its establishment. In relation to HKC’s tendering, Chiu signed off on HKC’s tenders and had ultimate managerial control of HKC.
+
+13.   At the material times, the 5th Respondent (“Kuen”) was one of the two directors of MS and previously owned 30% share in MS. Kuen was a director and shareholder of MS for at least 2005 until 12 January 2023 after which Kuen ceased to be a director or shareholder of MS. In relation to MS’s tendering, Kuen signed off on MS’s tenders and had ultimate managerial control of MS in the Contravention Period.
+
+14.   Chan Mei Chu (“Mei”) is and was the other director of MS and in the Contravention Period owned 70% share in MS. Mei has been a director and shareholder of MS since 2007.
+
+15.   Ming and Mei are sisters.
+
+16.   Chiu and Ming are husband and wife.
+
+17.   Chiu and Kuen are fellow clansmen and are personal friends.
+
+18.   Kuen worked at HKC before launching into business independently through his acquisition of his shareholding in MS. He continues to assist with certain aspects of HKC’s business, and received payments for services rendered to HKC.
+
+19.   As well as being shareholder and one of the two directors at HKC, Ming occupies the title “Finance Director” at MS, and was on occasion tasked with assisting in relation to MS’s finances, for example liaising with MS’ bank. As a result, Ming possessed company chops of both HKC and MS.
+
+20.   During the Contravention Period, HKC and MS had shared office premises as well as administrative support staff. HKC and MS can access to each other’s computer servers.
+
+21.   Despite the sharing of common staff and office facilities, HKC and MS are separate and independent undertakings, and have always held themselves to the HA and the general public as separate and independent undertakings.
+
+B2. Procurement of cleansing services by the HA
+
+22.   As part of the HA’s general management of the PRH Estates, the HA would procure cleansing services[30] for these PRH Estates by way of competitive tendering. Since 2011, all cleansing service contracts have been awarded on a 2-year basis with the option of being extended for two further 2-year periods if agreeable by both the HA and the incumbent contractor without the need for further tendering.
+
+23.   The HA maintains a list of qualified CSCs called “Housing Authority List of Cleansing Service Contractors” (the “CSC List”). Only CSCs on the CSC List are invited by the HA to tender for cleansing service contracts for the PRH Estates.
+
+24.   CSCs not on the CSC List are required to apply in writing to the HA to be admitted on the CSC List. Only upon successful admission onto the CSC List will an CSC be invited to tender for cleansing service contracts for the PRH Estates.
+
+25.   At least during the Contravention Period, HKC and MS have been CSCs on the CSC List.
+
+26.   Upon successful admission onto the CSC List, CSCs will then receive invitations for quotation by the HA to express interest to provide cleaning services to particular individual PRH Estates in due course. CSCs interested to tender for any or all of these PRH Estates may request blank tendering documents from the HA to complete and submit to tender for each PRH Estate. These documents include:
+
+(1) Statement of Conviction（定罪聲明）;
+
+(2) Management Proposal（管理計劃）;
+
+(3) Financial Proposal（財務計劃）.; and
+
+(4) Statement of Financial Resources.
+
+(together, “Tendering Documents”).
+
+27.   The Management Proposal and the Financial Proposal require the tendering-CSC to detail inter alia the guaranteed monthly wages which the tenderee was undertaking to pay its workmen, including e.g. the supervisors, foremen and the cleaners; and the total monthly costs of hiring the required workers, etc.
+
+28.   The Financial Proposal, in addition to the quoted prices, also require the tendering-CSC to include other price items such as prices of cleaning supplies, equipment, storage, administration fee, etc., as well as the total sum of the CSC’s bid (being the aggregate sum of all prices quoted by the tendering-CSC for the 2-year contracted period and also for a 6-year period on the assumption that the cleansing contract is renewed twice).
+
+29.   The Statement of Financial Resources is a statement made by the tendering CSC to confirm with the HA that the tendering CSC has sufficient financial resources to meet the HA’s capital requirements for the tender. This statement is required to be prepared and certified by a qualified accountant, a director or an auditor as it requires in support, the tendering CSC’s audited accounts and reports. The statement also requires the tendering CSC to state inter alia its capital requirements, its available capital, projected profit and loss for the tendered contract, proposed working capital and employed capital improvement for any deficit in the CSC’s available capital.
+
+30.   During the material time, the HA evaluates the tenders it receives using a weighted scoring system. HA scores two aspects of each CSC’s tender submission against a weighting: 30% is attributed to non-price aspects, and 70% on price aspects of the proposal. At the end of each tender exercise, a combined score sheet with total scores will be prepared in respect of all bidders. As stipulated at paragraph 11 of the HA’s instructions on tender that is appended to the Tendering Documents (“Instructions to Tender”), the HA is not bound to accept the cheapest conforming bid. Instead, the HA may reject bids which it considers to be unreasonably high or low.
+
+31.   At all material times, tenders for cleansing service contract with the HA were governed by, among other guidelines and policies, two guidelines issued by the HA. In particular:
+
+(1) Guide to Registration of Works Contractors and Property Management Services Providers – Part I General Guidelines (“HA’s General Guidelines”); and
+
+(2) Guide to Registration of Works Contractors and Property Management Services Providers – Part III Specific Guidelines for (b) Cleansing Service Contractors (“HA’s Specific Guidelines”).
+
+(collectively referred to as “HA’s Guidelines”).
+
+32.   The HA’s Guidelines provides for the following rules and restrictions that were applicable to all CSCs including HKC and MS:
+
+(1) At any one time there is to be a cap on the HA works which any particular CSC may be awarded (see, for example, Section 3.1.4. HA’s General Guidelines and Sections 11 and 12 of HA’s Specific Guidelines);
+
+(2) Collusion amongst CSCs in any tendering exercise or any business transactions on any HA projects is strictly prohibited. Specifically, CSCs shall not engage in any act which may yield a predetermined outcome of any award of tender (see, for example, Section 3.3.3. of HA’s General Guidelines);
+
+(3) While related companies are permitted to be admitted onto and retained on HA’s lists of contractors, these companies must submit proper certification of “related company” status by their own director or a qualified accountant for the purpose of application for admission or retention on the list. Moreover, related companies who are admitted and retained on such lists must give an undertaking that:
+
+(a) only one company will submit a tender for a particular contract; and
+
+(b) all companies within each group of related companies on the list will share the list capping limit set for one company on the respective list.
+
+(see, for example, Section 3.3.5. of HA’s General Guidelines).
+
+(4) A “related company” for the purpose of (3) above, carries the same meaning as “related parties” as defined in the Hong Kong Institute of Certified Public Accountants – Hong Kong Accounting Standard (HKAS 24). HKAS 24 states:
+
+“A related party is a person or entity that is related to the entity that is preparing its financial statements (in this Standard referred to as the “reporting entity”).
+
+(a) A person or a close member of that person’s family is related to a reporting entity if that person:
+
+(i) has control or joint control of the reporting entity;
+
+(ii) has significant influence over the reporting entity; or
+
+(iii) is a member of the key management personnel of the reporting entity or of a parent of the reporting entity.
+
+(b) An entity is related to a reporting entity if any of the following conditions applies:
+
+(i) The entity and the reporting entity are members of the same group (which means that each parent, subsidiary and fellow subsidiary is related to the others);
+
+(ii) One entity is an associate or joint venture of the other entity (or an associate or joint venture of a member of a group of which the other entity is a member);
+
+(iii) Both entities are joint ventures of the same third party;
+
+(iv) One entity is a joint venture of a third entity and the other entity is an associate of the third entity;
+
+(v) The entity is a post-employment benefit plan for the benefit of employees of either the reporting entity or an entity related to the reporting entity. If the reporting entity is itself such a plan, the sponsoring employers are also related to the reporting entity;
+
+(vi) The entity is controlled or jointly controlled by a person identified in (a).
+
+(vii) A person identified in (a)(i) has significant influence over the entity or is a member of the key management personnel of the entity (or of a parent of the entity);
+
+(viii) The entity, or any member of a group of which it is a part, provides key management personnel services to the reporting entity or to the parent of the reporting entity.”
+
+33.   Of relevance to the present proceedings, up until around late 2018 the Instructions to Tender issued by the HA specifically provided that by its submission of tender, a tendering CSC is taken to have expressly represented and undertaken to the HA that:
+
+(1) Save and except with the prior written approval of the HA, the tendering CSC has not (and will not) inform any other person (outside of the HA) of any prices that have been set out in the Tendering Documents;
+
+(2) The tendering CSC has not (and will not), through arrangements with other persons, determined the prices set out in the Tendering Documents;
+
+(3) The tendering CSC has not (and will not) enter into any arrangements with another person concerning whether it will bid or whether that other person will bid or not; and
+
+(4) The tendering CSC has never colluded with any other person in any manner concerning the competitive process of the tender.
+
+34.   In or around late 2018, the Instructions to Tender was subsequently updated to, among other things, include:
+
+(1) A specific obligation on the part of the tendering CSC to ensure that in the process of preparing its tendering submissions, it had not entered into any sort of agreement, arrangement, communication, understanding, undertaking, or promises with any other persons on matters concerning the bid price, bidding process, or any other clauses in the tender;
+
+(2) Specific references to the Competition Ordinance and, in particular, a reminder that bid-rigging is anticompetitive and constitutes a serious anticompetitive behavior under the Competition Ordinance; and
+
+(3) A requirement that each tendering CSC shall sign and submit the pro forma “Non-collusion Tendering Certificate” (不合謀投標確認書) as part of their tendering submission with the HA.
+
+35.   At all material times:
+
+(1) Neither HKC nor MS has submitted certifications that they are Related Companies, or that they are related to other CSCs; and
+
+(2) Neither HKC nor MS has sought or received express written approval from the HA that it will inform other persons of their pricing information that is quoted in the Tendering Documents (c.f. the Instructions to Tender).
+
+B3. The Contravention
+
+36.   HKC admits that it had made and given effect to an agreement with MS to fix the prices that were quoted in its tenders to the HA for cleansing service contracts (the “Information Exchange Agreement”). In particular, HKC admits that the Information Exchange Agreement was entered into by 27 May 2016 latest (i.e. the first day of the Contravention Period) and was given effect to throughout the Contravention Period.
+
+37.   Pursuant to the Information Exchange Agreement, HKC and MS had exchanged confidential commercially sensitive information in the following 17 tenders that were called by the HA (collectively referred to as the “Affected Tenders”):
+
+PRH Estate	HA’s Contract no.
+1.	Lei Yue Mun Estate	KS20160116
+2.	Chak On Estate	KS20160200
+3.	Hoi Lai Estate	KS20160635
+4.	Lei Muk Shue Estate	KS20160634
+5.	Oi Man Estate	KS20160636
+6.	Shek Wai Kok Estate	KS20160637
+7.	Tsz Ching Estate	KS20170192
+8.	Tin Shui (1) Estate	KS20160638
+9.	Lok Wah South Estate	KS20170140
+10.	Shun Tin Estate	KS20170141
+11.	Wah Fu (1) Estate	KS20170142
+12.	Yau Oi Estate	KS20170143
+13.	Ko Yee Estate	KS20170322
+14.	Fuk Loi Estate	KS20180067
+15.	Lok Wah North Estate	KS20180070
+16.	Mei Tung Estate	KS20180071
+17.	Yip On Factory Estate and Wang Cheong Factory Estate	KS20180076
+38.   In particular, prior to HKC and MS’s submission of tender in the Affected Tenders, HKC and MS had shared and taken into account each other’s’ intended submissions to the HA as contained in their respective Tendering Documents. This included, among other matters, the following commercially sensitive information:
+
+(1) the monthly wage which HKC and MS would commit to paying the workers required to carry out the cleansing services contract (such as “supervisor”, “management”, and “non-skilled workers” (e.g. cleaners));
+
+(2) the total number of man hours per day which HKC and MS would commit to deploying on each of the relevant estates;
+
+(3) the maximum number of working hours which HKC and MS would commit to each employee per day;
+
+(4) the project related expenses to carrying out the cleansing contract;
+
+(5) the projected monthly profits of HKC and MS; and
+
+(6) the total bidding sum, consisting of HKC and MS’s quotation for the annual, biannual, and six-year cleansing contract fee.
+
+39.   Of the 17 Affected Tenders:
+
+(1) HKC was awarded the following cleansing contracts from the HA:
+
+PRH Estate and Contract No.	Total bidding sum (6 year basis) (HK$)
+1	Hoi Lai Estate (KS20160635)	37,713,600
+2	Oi Man Estate (KS20160636)	40,089,600
+3	Shek Wai Kok Estate (KS20160637)	40,521,600
+4	Tsz Ching Estate (KS20170192)	59,040,000
+5	Tin Shui (1) Estate (KS20160638)	28,101,456
+6	Ko Yee Estate (KS20170322)	17,193,600
+7	Yip On Factory Estate and Wang Cheong Factory Estate (KS20180076)	16,893,936
+(2) MS was awarded the following cleansing contracts from the HA:
+
+PRH Estate and Contract No.	Total bidding sum (6 year basis) (HK$)
+1	Shun Tin Estate (KS20170141)	41,751,360
+2	Wah Fu (1) Estate (KS20170142)	52,941,600
+B4. CONTRAVENTION OF THE FCR
+
+40.   In the premises, it is the Commission’s case (which is not disputed by HKC, Ming, and Chiu) that:
+
+(1) By virtue of the matters stated in section B above, the Information Exchange Agreement was a price-fixing agreement/concerted practice entered into between HKC and MS to exchange their commercially sensitive information in tenders submitted to the HA for the procurement of cleansing services for PRH Estates during the Contravention Period, in contravention of s. 6 of the Ordinance;
+
+(2) All of the arrangements encompassed under the Information Exchange Agreement leading to the 17 Affected Tenders were part of a single overall agreement/concerted practice, with each arrangement and each tender being in pursuit of a common objective of giving effect to the single overall agreement/concerted practice with the object of such agreement/concerted practice being to prevent, or restrict, or distort competition in Hong Kong in contravention of the FCR; and
+
+(3) Such conduct had the object of harming competition in Hong Kong and constitutes “serious anti-competitive conduct” within the meaning of s. 2(1) of the Ordnance.
+
+B5. INVOLVEMENT OF MING AND CHIU
+
+41.   With regard to the Information Exchange Agreement, Ming, the 3rd Respondent, was a person involved (within the meaning of s. 91 of the Ordinance) in a contravention of the FCR, as Ming had procured HKC to contravene the FCR, and was indirectly, knowingly concerned in the contravention of the FCR. In particular, Ming:
+
+(1) is and was during the Contravention Period the director and 22% owner of HKC, and was the person occupying the position of management of HKC;
+
+(2) allowed MS to share office premises at HKC’s premises without setting up any measures to prevent staff from HKC or MS from accessing each other’s commercially sensitive documents including their respective Tendering Documents;
+
+(3) allowed the computer system to set up so that staff at HKC and at MS could access each other’s commercially sensitive documents through their respective computers and servers;
+
+(4) hired staff to take on HKC’s tendering responsibility (who had access to MS’s commercial sensitive documents), thereby procuring the Contravention; and
+
+(5) had indirect knowledge of the Information Exchange Agreement between HKC and MS.
+
+42.   With regard to the Information Exchange Agreement, Chiu, the 4th Respondent, was a person involved (within the meaning of s. 91 of the Ordinance) in a contravention of the FCR, as Chiu had procured HKC to contravene the FCR, and was indirectly, knowingly concerned in the contravention of the FCR. In particular, Chiu:
+
+(1) is and was during the Contravention Period the director and 78% owner of HKC, and was the person occupying the position of management of HKC;
+
+(2) is and was negligent by delegating the tendering responsibility of HKC to Mr. Yuen Chi Hung (“Hung”) until mid-2018 who has continued to work as a consultant to HKC on a part-time basis. Hung was entrusted by Chiu to be responsible for tendering for PRH Estates on behalf of HKC and specifically, for the preparation of tender documents for Chiu’s final confirmation and signature;
+
+(3) was the signatory to all of HKC’s Affected Tenders;
+
+(4) allowed MS to share office premises at HKC’s premises without setting up any measures to prevent staff from HKC or MS from accessing each other’s commercially sensitive documents including their respective tendering documents;
+
+(5) allowed computer system to set up so that staff at HKC and at MS could access each other’s commercially sensitive documents through their respective computers and servers;
+
+(6) hired staff to take on HKC’s tendering responsibility (who had access to MS’s commercially sensitive documents), thereby procuring the Contravention; and
+
+(7) had indirect knowledge of the Information Exchange Agreement between HKC and MS.
+
+PART C – UNDISPUTED FACTS RELEVANT TO THE RELIEFS SOUGHT
+
+43.   For the purposes of assessing the amount of recommended pecuniary penalty under s. 93 of the Ordinance, it is the Commission’s case, of which is agreed by HKC:
+
+(1) that the relevant value of sales that is directly and indirectly affected by the Contravention should include HKC’s revenue generated from cleaning service contracts with the HA in the financial year ending March 2018 and that the relevant value of sales for the purpose of calculating HKC’s penalty under the approach as set out in Competition Commission v W. Hing Construction Co. Ltd and Others [2020] 2 HKLRD 1229 should be HK$ 13,058,151.88;
+
+(2) that in HKC’s tender for Fuk Loi Estate (KS20180067); Lok Wah North Estate (KS20180070); Mei Tung Estate (KS20180071); and Yip On (KS20180076), HKC had, as part of its tender submissions to the HA signed and submitted the pro forma “Non-collusion Tendering Certificate” (“NCC”) representing to the HA that it had not colluded with any other undertakings in its preparation and submission of the relevant tender. This representation was, at all material times, false and that HKC had known that such representation was false prior to its submission. The Commission applied an uplift of 25% for contravention of NCCs;
+
+(3) that, on 23 September 2019, members of HKC had attempted to obstruct the Commission’s investigation into the Contravention by deleting computer documents and hyperlinks that were relevant to the Commission’s investigation. The Commission applied an uplift of 50% for obstruction by HKC’s staff to the Commission’s search;
+
+(4) that Ming and Chiu are and were negligent by failing to act with reasonable care, skill and diligence including by delegating the tendering responsibility of HKC to its employees; and by hiring staff to take on HKC’s tendering responsibility (who had access to MS’s commercially sensitive documents). The Commission applied an uplift of 30% for the involvement of directors in the contravention;
+
+(5) that HKC’s relevant turnover for the purposes of the Competition (Turnover) Regulation, Cap. 619C, and section 93(3) of the Ordinance was HK$330,633,155; and
+
+(6) that, applying a cooperation discount of 9%, the pecuniary penalty payable by HKC in favor of the Commission is in the sum of HK$10,960,000.
+
+44.   Each of Ming and Chiu agrees to be imposed director-disqualification order for a period of 24 months (such order to take effect 6 months after the date of the order to be made) and agrees to pay a pecuniary penalty of HK$10,000 each (totaling HK$20,000) to reflect the principle that, as directors, they are personally liable for the contravention.
+
+45.   HKC does pay its share of the Commission’s investigation costs in the amount of HK$709,900.00; and
+
+46.   HKC, Ming and Chiu do pay the Commission’s legal costs vis-à-vis the 1st, Respondent, the 3rd Respondent and the 4th Respondent, to be taxed if not agreed.
+
+Dated this 6th day of December 2024.
+
+
+……….……….……….……….……….……………
+
+For and on behalf of the Hong Kong Competition Commission
+
+
+……….……….……….……….……….……………
+
+For and on behalf of Hong Kong Commercial Cleaning Services Limited
+
+
+……….……….……….……….……….……………
+
+Chan Ming Chu
+
+
+……….……….……….……….……….……………
+
+Cheng Yip Chiu
+
+
+
+Appendix 3
+
+STATEMENT OF AGREED FACTS (“R2/5 STATEMENT ON REFLIEF”)
+
+BETWEEN THE COMPETITION COMMISSION (THE “COMMISSION”)
+
+AND THE 2nd and 5th RESPONDENTS
+
+(For the purposes of a settlement pursuant to Rule 39 of the Competition Tribunal Rules, Cap. 619D (“CTR”) and Paragraph 72 of the Competition Tribunal Practice Direction 1 (“CTPD1”))
+
+PART A — INTRODUCTION
+
+1.   On 14 December 2021, the Commission issued these proceedings pursuant to ss. 92, 93, 96, 101 and 144 of the Competition Ordinance, Cap. 619 (“Ordinance”) against the 2nd Respondent (“MS”) and 5th Respondent (“Kuen”), seeking an order for, among other things:
+
+(1) a declaration that MS has contravened the First Conduct Rule pursuant to s. 6 of the Ordinance (“FCR”);
+
+(2) a declaration that Kuen was involved in the said contravention as defined in s. 91 of the Ordinance;
+
+(3) a pecuniary penalty against each of MS and Kuen pursuant to ss. 92 and 93 of the Ordinance, to be assessed;
+
+(4) a disqualification order against Kuen pursuant to s. 101 of the Ordinance;
+
+(5) costs of the proceedings, against MS and Kuen pursuant to s. 144 of the Ordinance;
+
+(6) costs of the Commission’s investigation against MS and Kuen, pursuant to s. 96 of the Ordinance;
+
+(7) an order restraining or prohibiting MS (and its directors, servants, and agents) from engaging in any conduct that constitutes the said contravention; and
+
+(8) such further or other relief as the Tribunal considers appropriate.
+
+2.   A Statement of Agreed Facts was signed between the Commission and MS and Kuen on 30 January 2024 (“R2/5 Statement on Liability”) and submitted pursuant to Rule 39 of CTR and §72 of CTPD1 for the purpose of setting the factual basis upon which the Tribunal is asked to make the orders sought save and except the relief sought against MS and Kuen pursuant to ss. 92, 93, 96, 101 and 144 of the Ordinance (“Relief”) under paragraphs 111, 114 and 115 of the Originating Notice of Application dated 14 December 2021.
+
+3.   On 23 July 2024, the Tribunal determined the liability of MS and Kuen pursuant to the Kam Kwong procedure based on R2/5 Statement on Liability, leaving the question of Relief in respect of MS and Kuen to be determined at a future hearing to be fixed after the trial on liability in respect of Hong Kong Commercial Cleaning Services Limited (“HKC”, the 1st Respondent), Chan Ming Chu (“Ming”, the 3rd Respondent) and Cheng Yip Chiu (“Chiu”, the 4th Respondent).
+
+4.   Subject to the approval of the Tribunal, the Commission on the one hand, and MS and Kuen on the other, agree to enter judgment on the Relief against MS and Kuen based on the undisputed facts as set out in R2/5 Statement on Liability and by way of the summary procedure as provided for in Rule 39 of CTR and §72 of CTPD1. The procedure as envisaged by the parties is that sanctioned by the Tribunal’s President, the Honourable Mr Justice Jonathan Harris in the case of Competition Commission v Kam Kwong Engineering Co Ltd [2020] 4 HKLRD 61 as a “readymade blueprint for disposing of proceedings under the Ordinance” (at §17).
+
+5.   The factual basis upon which the Tribunal is asked to grant the Relief sought against MS and Kuen is based on the undisputed facts as set out in R2/5 Statement on Liability.
+
+6.   The facts as set out in this R2/5 Statement of Relief is agreed by the Commission and each of MS and Kuen. This Statement is filed before the Tribunal to support the joint application by the Commission and MS and Kuen for the orders sought below to be made under Rule 39 of CTR:
+
+(a) an order under section 93(1) of the Ordinance that MS shall pay a pecuniary penalty in the amount of $11,300,000, such amount being payable in [eight (8)] equal quarterly installments of $1,412,500 (“Installment Payment”) on the specified time after the date of the order (“Specified Payment Time”) and provide documentary evidence of the Installment Payment to the Commission within 7 days from the date of payment. The Installment Payment and the Specified Payment Time are:
+
+ 	Installment Payment	Specified Payment Time
+1.	$1,412,500	31 March 2025
+2.	$1,412,500	30 June 2025
+3.	$1,412,500	30 September 2025
+4.	$1,412,500	31 December 2025
+5.	$1,412,500	31 March 2026
+6.	$1,412,500	30 June 2026
+7.	$1,412,500	30 September 2026
+8.	$1,412,500	31 December 2026
+(b) an order that each shareholder of MS irrevocably and unconditionally guarantees the payment obligation of MS in respect of the pecuniary penalty set out in the preceding paragraph, such guarantee shall be in a form to be agreed by the parties.
+
+(c) an order under section 93(1) of the Ordinance that Kuen shall pay a pecuniary penalty in the amount of $10,000 within 14 days from the date of the order, and provide documentary evidence of such payment to the Commission within 7 days from the date of payment.
+
+(d) an order under section 101 of the Ordinance that Kuen may not, without the leave of the Tribunal, (a) be, or continue to be, a director of a company; and (b) be a liquidator or provisional liquidator of a company; (c) be a receiver or manager of a company’s property; or (d) in any way, whether directly or indirectly, be concerned or take part in the promotion, formation or management of a company, for a period of 24 months from the date of the order;
+
+(e) an order that MS and Kuen shall jointly and severally pay the Commission's costs incidental to the proceedings (against them only) up to the date of the order (including this application and reserved costs, if any), to be taxed if not agreed, pursuant to section 144 of the Ordinance; and
+
+(f) an order under section 96(1) of the Ordinance that MS shall pay the Commission's costs of investigation in the amount of $709,900.00, being MS's share of the Commission's reasonably incurred costs of and incidental to the Commission's investigation into matters relating to MS’s and Kuen’s contravention of the FCR within 14 days from the date of the order, and provide documentary evidence of such payment to the Commission within 7 days from the date of payment.
+
+7.   The Commission, MS and Kuen accept and acknowledge that none of the admissions made by MS and Kuen in this Statement shall be binding against any other Respondents in these proceedings.
+
+8.   The Commission, MS, and Kuen shall jointly apply to the Tribunal pursuant to Rule 39 of CTR and §72 of CTPD1 for the present proceedings to be resolved as per the procedure envisaged therein. If the Tribunal decides to deal with proceedings between the Commission, MS and Kuen by way of the procedure envisaged in Rule 39 of CTR, the Commission reserves the right to refer to the R2/5 Statement on Liability and this R2/5 Statement on Relief for all purposes connected with or ancillary to these proceedings. If the Tribunal for whatever reason is of the view that these proceedings shall not be dealt with by way of the procedure provided for in Rule 39 of CTR, no admission or concession by either the Commission or MS or Kuen on liability and Relief shall be referred to or relied upon by either the Commission or MS or Kuen at any adjourned or subsequent hearing or in any other proceedings without the prior written consent of the Commission, MS and Kuen.
+
+PART B – UNDISPUTED FACTS RELEVANT TO THE RELIEF SOUGHT
+
+9.   For the purposes of assessing the amount of recommended pecuniary penalty under ss. 92 and 93 of the Ordinance, it is the Commission’s case, of which is agreed by MS:
+
+(1) that the relevant value of sales that is directly and indirectly affected by the Contravention (as defined in R2/5 Statement on Liability) should include MS’s revenue generated from cleaning service contracts with the HA in the financial years ending June 2018 and June 2019 and that the relevant value of sales for the purpose of calculating MS’s penalty under the approach as set out in Competition Commission v W. Hing Construction Co. Ltd and Others [2020] 2 HKLRD 1229 should be $21,116,163.24;
+
+(2) that in MS’s tender for Fuk Loi Estate (KS20180067); Lok Wah North Estate (KS20180070); Mei Tung Estate (KS20180071); and Yip On Estate (KS20180076), MS had, as part of its tender submissions to the HA signed and submitted the pro forma “Non-collusion Tendering Certificate” (“NCC”) representing to the HA that it had not colluded with any other undertakings in its preparation and submission of the relevant tender. This representation was, at all material times, false and that MS had known that such representation was false prior to its submission. The Commission applied an uplift of 25% for contravention of NCCs;
+
+(3) that Kuen was a person involved (within the meaning of s. 91 of the Ordinance) in a contravention of the FCR, as Kuen had procured MS to contravene the FCR, and was directly or indirectly, knowingly concerned in or a party to the contravention of the FCR. The particulars that Kuen was directly or indirectly, knowingly concerned in or a party to the contravention of the FCR are set out in paragraph 40 of R2/5 Statement on Liability. The Commission applied an uplift of 50% for the involvement of director(s) in the contravention;
+
+(4) that MS’s relevant turnover for the purposes of the Competition (Turnover) Regulation, Cap. 619C, and section 93(3) of the Ordinance was $231,552,812, 10% of which is $23,155,281;
+
+(5) in the present case, MS and Kuen has adopted a reasonable course of action from an early stage of the proceedings by:
+
+(a) expressly indicating to the Commission and the Tribunal before the filing of any witness statements that they were willing to admit to liability in these proceedings;
+
+(b) following from (a) above, not filing any witness statements in these proceedings;
+
+(c) first undertaking to admit liability in these proceedings;
+
+(d) engaging in constructive negotiations with the Commission concerning the terms of the R2/5 Statement on Liability and R2/5 Statement on Relief;
+
+(e) filing the joint application with the Commission on the question of liability (referred to at paragraph 0 above); and
+
+(f) filing the present joint application with the Commission on the question of relief.
+
+(6) in adopting the course of action referred to at paragraph 90 above, MS and Kuen had saved considerable time and costs of both the Commission and the Tribunal. A cooperation discount of 15% should, in the circumstances be applied to MS’s pecuniary penalty to reflect the degree and utility of its cooperation with the Commission. As for Kuen, a nominal penalty is also warranted in light of the factors mentioned above.
+
+(7) applying a cooperation discount of 15%, the pecuniary penalty payable by MS (subject to the further adjustments mentioned below) is the sum of $14,134,631.
+
+10.   Exceptionally for the purposes of the present proceedings, the Commission has agreed that a further 20% reduction to MS’s pecuniary penalty should be warranted in order to render the pecuniary penalty proportionate to all the circumstances of this case. In particular:
+
+(1) the proposed pecuniary penalty of HK $14,134,631 (before the 20% reduction) would:
+
+(a) be 50% higher than the total profits generated by MS in the last 8 financial years even after accounting for the two Government subsidies it received in 2020/21 and 2022/23 financial year;
+
+(b) represent 179% of its turnover in the financial year of 2023/2024 and -27.6 times of its profit; and
+
+(c) be higher than the entire net assets of MS;
+
+(2) the profitability of MS has been deteriorating since the 2019/20 financial year with it making a loss of $512,157 in the latest 2023/24 financial year and MS’s profitability in the coming 5 years is likely to be substantially impacted by its inability to tender for any of HA’s cleansing contracts. In this regard:
+
+(a) following the commencement of the present action, the Procurement Review and List Management Board (“PRLMB”) (the body within the HA responsible for tendering and the maintaining of list of approved contractors) decided to suspend MS from its approved list of cleansing service contractors with the result that it is suspended from tendering for HA’s cleansing service contracts effective from 24 December 2021;
+
+(b) the suspension was to run indefinitely until MS’s liability is confirmed by the Tribunal’s judgement after which, pursuant to the HA’s practice, MS would likely be debarred from the list of HA approved cleansing service contractors for a specific period to be decided by PRLMB;
+
+(c) on 13 May 2024, MS voluntarily removed itself from the HA’s approved list of cleansing service contractors;
+
+(d) if MS wishes to apply to be re-admitted as the HA’s approved cleansing service contractor (e.g. in order to tender for HA’s contracts in future), one of the requirements it must meet is to have five years’ clean record of “convictions” under relevant Ordinances (which includes findings on liability for contraventions of the First Conduct Rule under the Ordinance);
+
+(e) the “five years clean records of “convictions” will only start to run from the date of the Tribunal’s determination of liability against MS (assuming that it does not commit other offenses in the interim); and
+
+(f) in the circumstances, the earliest opportunity which MS may conceivably bid for HA’s cleansing service contracts would be earliest 2029.
+
+11.   Applying a 20% reduction on the otherwise applicable penalty of $14,134,631, the Commission proposes and MS accepts that it should pay a pecuniary penalty of $11,307,704 (rounding down to $11,300,000).
+
+12.   As for Kuen, he agrees to be the subject of a disqualification order for a period of 24 months and to pay a nominal pecuniary penalty of $10,000.
+
+13.   MS agrees to pay its share of the Commission’s investigation costs in the amount of $709,900.00; and
+
+14.   MS and Kuen agree to pay the Commission’s legal costs vis-à-vis the 2nd Respondent and the 5th Respondent, to be taxed if not agreed.
+
+Dated this 13th day of January 2025.
+
+
+……….……….……….……….……….……………
+
+For and on behalf of the Hong Kong Competition Commission
+
+
+……….……….……….……….……….……………
+
+For and on behalf of Man Shun Hong Kong & Kln Cleaning Company Limited
+
+
+……….……….……….……….……….……………
+
+Cheng Hok Kuen
+
+
+[1]   By way of summonses dated (1) 1 February 2024 (for determination of liability against the 2nd and 5th Respondents), (2) 9 December 2024 (for determination of both liability and penalties against the 1st, 3rd and 4th Respondents), and (3) 13 January 2025 (for determination of penalties against the 2nd and 5th Respondents).
+
+[2]   [3] and [5] of ONA.
+
+[3]   [6]-[7] of ONA.
+
+[4]   [8] of ONA.
+
+[5]   [4] of R1/3/4 Statement; [4] of R2/5 Liability Statement.
+
+[6]   [10], [93]-[96] of ONA.
+
+[7]   [98]-[106] of ONA.
+
+[8]   [69]-[70] of ONA.
+
+[9]   [71] of ONA.
+
+[10]   [40(2)] of R1/3/4 Statement; [39(2)] of R2/5 Liability Statement
+
+[11]   [2024] 4 HKLRD 37; [2024] HKCT 2.
+
+[12]   [2020] 4 HKLRD 61.
+
+[13]   [2023] 3 HKLRD 374.
+
+[14]   [2020] 5 HKLRD 528.
+
+[15]   [2020] HKCT 11.
+
+[16]   [2020] 2 HKLRD 1229.
+
+[17]   [43(1)] of R1/3/4 Statement.
+
+[18]   [40(3)] of R1/3/4 Statement.
+
+[19]   [50] of Competition Commission v W Hing Construction Co Ltd & Ors (No.3) [2020] HKCT 1.
+
+[20]   [4(a)] of R1/3/4 Statement.
+
+[21]   [43(3)] of R1/3/4 Statement
+
+[22]   [2] of Guidelines on the Method of Setting Fines Imposed pursuant to Article 15(2) of Regulation No.17 and Article 65(4) of the ECSC Treaty published by the Official Journal of the European Communities
+
+[23]   [43(5)] of R1/3/4 Statement
+
+[24]   [9(1)] of R2/5 Relief Statement.
+
+[25]   [4(1)] of R2/5 Liability Statement.
+
+[26]   [9(4)] of R2/5 Relief Statement.
+
+[27]   [9(5)] of R2/5 Relief Statement.
+
+[28]   [2020] HKCT 1.
+
+[29]   For the purpose of this Statement, the phrase “cleaning” and “cleansing” may be used interchangeably as per the HA’s terminology.
+
+[30]   For the purpose of this Statement, the phrase “cleaning” and “cleansing” may be used interchangeably as per the HA’s terminology.
+
+ 

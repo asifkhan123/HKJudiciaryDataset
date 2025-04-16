@@ -1,0 +1,98 @@
+FAMV No. 15 of 2016
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 15 OF 2016 (CIVIL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL
+
+FROM CACV 215 OF 2013)
+
+_______________________
+
+BETWEEN
+
+CHINA GAS HOLDINGS LIMITED	Defendant/Applicant
+and	
+LI XIAO YUN (李小雲)	1st Plaintiff/1st Respondent
+XU YING (徐鷹)	2nd Plaintiff/2nd Respondent
+_______________________
+
+Appeal Committee: Mr Justice Ribeiro PJ, Mr Justice Tang PJ and Mr Justice Fok PJ
+Date of Hearing and Determination: 18 August 2016
+Date of Reasons for Determination: 23 August 2016
+_____________________________
+
+REASONS FOR DETERMINATION
+
+_____________________________
+
+Mr Justice Ribeiro PJ :
+
+1. At the hearing, this application was dismissed for reasons which we now provide.
+
+2. The applicants (Ps), both Chinese nationals, were Chairman and Vice-Chairman as well as executive directors and employees of the respondent (D), a Hong Kong listed company.  In 2004, they were respectively granted stock options on 10 million and 95 million shares in D for $0.80 each.  In 2011, steps were taken to remove them as Chairman and Vice-Chairman and as directors and employees.  That process spanned several weeks, during which time Ps gave notice purporting to exercise their options, accompanying their notices with HK$ cheques drawn on funds which were not sourced from the PRC.  D refused to honour the options.  Ps sought specific performance or damages.
+
+3. The question was ultimately whether exercise of the stock options would have involved breach of exchange control regulations and illegality under PRC law such that D was entitled to refuse to issue the shares to Ps.
+
+4. Mimmie Chan J[1] held in favour of D and the Court of Appeal (Cheung JA, with Yuen and Kwan JJA agreeing)[2] reversed her Ladyship’s judgment, awarding Ps damages of HK$25,005,057.24 and HK$254,286,030.20 respectively.
+
+5. D seeks leave to appeal, formulating questions said to be of great general or public importance which all concern the meaning and effect of certain PRC exchange control provisions (in particular of the meaning and effect of Circular 78 made pursuant to certain PRC Regulations, Measures and Detailed Rules).  D seeks to argue that the Court of Appeal erred in principle in overturning the Judge’s decision on the construction of those provisions.
+
+6. D’s position, at least as initially advanced, reflects the Judge’s approach, which was to construe the PRC provisions much as if they were Hong Kong statutory materials.[3] D’s submission was that:
+
+“It is common ground that the approach to statutory interpretation in the PRC is similar to that under HK law, and that the purposive approach to statutory interpretation is to be adopted in the present case: CA Judgment §8.18…; CFI Judgment §104…. Thus, the issues in question are questions of law and the CFA is in as good a position as the lower courts to determine the questions raised in the proposed appeal.”[4]
+
+7. It is, however, incorrect to suggest that the Court of Appeal endorsed or adopted an approach based simply on construing for itself the PRC regulatory materials.  On the contrary, it carefully examined the evidence of the experts on each side and gave particular weight to their opinions where they were in agreement.  It was centrally important that the experts agreed that the regulatory agency (the State Administration of Foreign Exchange or “SAFE”) “only regulates ‘domestic’ foreign exchange transactions of individuals and ‘cross-border’ foreign exchange transactions of individuals, but not ‘overseas’ foreign exchange transactions of individuals.”[5] Such agreement between the experts was acknowledged by the Judge[6] although she does not appear to have attached any consequences to that evidence.
+
+8. The Court of Appeal referred furthermore to the experts’ agreement that “the term ‘domestic individual’ referred to in Circular 78 means natural persons who have a labour relationship with a domestic company.”[7] It held on the basis of the evidence that D was not an “Overseas-Listed Company” since it was not incorporated in the PRC; and that there was in any case no labour relationship involving Ps and a domestic company, so that Ps were not caught by Circular 78.[8]  It held, after considering various additional aspects of the evidence, that D had failed to establish that the stock option scheme fell within the regulated ambit.[9]
+
+9. In his submissions on D’s behalf, Mr Wong Yan Lung SC[10] accepted that the issues sought to be raised could not be resolved purely as a matter of statutory interpretation, although he persisted in the argument that the Court was able to construe the PRC provisions in the same way as it would construe Hong Kong legislation since it was common ground that the same canons of statutory interpretation were applicable.  As his argument developed, his main submission was that the Court of Appeal had misunderstood the expert evidence and that leave should be granted so that its misunderstanding, especially as to the purpose of the PRC’s exchange control scheme, could be corrected so that it would not erroneously influence the approach of courts in future cases.
+
+10. Mr Denis Chang SC,[11] criticised D’s application inter alia on the basis that (i) it wrongly submits that a question of law is raised when the issues involve matters of foreign law and raise questions of fact; (ii) it ignores the agreed evidence that SAFE’s operation was limited to the regulation of domestic and cross-border foreign exchange transactions and that Circular 78 does not apply to overseas foreign exchange transactions of individuals; and (iii) that it ignores the further agreed evidence as to the meaning of “domestic individual” and “domestic company” which supports the conclusion that the present case falls outside the ambit of Circular 78 because it does not involve any employment or labour relationship between a domestic company and domestic individuals.  There is much force in these arguments which are in line with the points stressed by the Court of Appeal. 
+
+11. In our view, the leave application is not reasonably arguable.  The questions on which leave is sought are either based on the erroneous premise that the effect of the PRC provisions is a question of law and construction for the Court, ignoring highly pertinent expert evidence; or amount to an inapt invitation to the Court to re-try the case by re-assessing the expert evidence.  We do not accept that the Court of Appeal’s judgment propounds any error as to the purpose of the PRC’s exchange control regime.[12]  In any event, its decision as to the effect of particular provisions of foreign law constitutes no more than a potential piece of evidence and is not a legal precedent.  Should a party in a future case wish to file expert evidence disagreeing in any respect with the evidence of PRC law accepted by the Court of Appeal in the present case, it would be entirely free to do so and the overall evidential position would have to be assessed by the court in that future case.  Moreover, the evidence shows that Circular 78 has been repealed so that the Court of Appeal’s findings on its meaning and effect are likely to be of limited relevance to future cases, raising no questions of law of great general or public importance.
+
+12. Leave was accordingly refused with costs.
+
+ 
+
+ 
+
+(R A V Ribeiro)	(Robert Tang)	(Joseph Fok)
+Permanent Judge 	Permanent Judge 	Permanent Judge
+ 
+
+Mr Wong Yan Lung, SC, Mr Victor Dawes, SC and Mr Justin Ho, instructed by Baker & McKenzie, for the Defendant/Applicant
+
+Mr Denis Chang, SC and Ms Teresa Wu, instructed by P. C. Woo & Co., for the 1st and 2ndPlaintiffs/1st and 2ndRespondents
+
+
+[1] HCCL 18/2011 (25 September 2013).
+
+[2] CACV 215/2013 (15 October 2015).
+
+[3] Judgment §104.
+
+[4] D’s skeleton argument §8.
+
+[5] CA Judgment §7. 
+
+[6] Judgment §113.
+
+[7] CA Judgment §8.20.
+
+[8] CA Judgment §§8.25-8.34.
+
+[9] CA Judgment §8.11.
+
+[10] Appearing with Mr Victor Dawes SC and Mr Justin Ho.
+
+[11] Appearing with Ms Teresa Wu for the respondents.
+
+[12] We do not consider that §8.6 of its judgment, much relied on by Mr Wong SC, can be read as laying down some general, erroneous view on the purpose of the exchange control scheme.
+
+ 
+

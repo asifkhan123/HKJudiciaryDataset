@@ -1,0 +1,789 @@
+CTEA 1/2021
+
+[2023] HKCT 6
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ENFORCEMENT ACTION NO 1 OF 2021
+
+________________
+
+BETWEEN
+
+ 	COMPETITION COMMISSION	Applicant
+and
+
+ 	QUADIENT TECHNOLOGIES HONG KONG LIMITED	1st Respondent
+ 	QUADIENT INTERNATIONAL SUPPLY LIMITED	2nd Respondent
+ 	TOPPAN FORMS (HONG KONG) LIMITED	3rd Respondent
+ 	SMARTECH BUSINESS SYSTEMS (HONG KONG) LIMITED	4th Respondent
+________________
+
+Before:	Hon Harris J, President of the Competition Tribunal in Chambers
+Date of Hearing:	2 September 2022
+Date of Decision:	14 June 2023
+Date of Reasons for Decision:	26 July 2023
+_________________________________
+
+REASONS FOR DECISION
+
+_________________________________
+
+1.  On 14 June 2023 I handed down my Decision this matter dealing with redaction of certain information in the Statements of Agreed Facts referred to in my judgment.  I permitted certain redactions to be made in accordance with the directions explained and ordered in the judgment.  Appended to this Reasons for Decision are the Statements of Fact redacted in accordance with those directions.
+
+ 
+
+ 
+
+ 	(Jonathan Harris)
+ 	President of the Competition Tribunal
+ 
+
+Mr Derek Chan SC and Ms Allison Wong, instructed by MinterEllison LLP, for the applicant
+
+Attendance of Hogan Lovells, for the 1st and 2nd respondents, was excused
+
+Attendance of Slaughter and May, for the 3rd respondent, was excused
+
+Attendance of Stephenson Harwood, for the 4th respondent, was excused
+
+  
+
+Appendix 1
+
+STATEMENT OF AGREED FACTS (R1 and R2)
+
+(Prepared pursuant to Rule 39 of the Competition Tribunal Rules, Cap. 619D (“CTR”) and
+
+Paragraph 72 of the Competition Tribunal Practice Direction No. 1 (“CTPD1”))
+
+PART A — INTRODUCTION
+
+1.  On 25 November 2021, the Competition Commission (“Commission”) issued proceedings pursuant to sections 92, 94 and 96 of the Competition Ordinance (Cap. 619) (“Ordinance”) before the Competition Tribunal (“Tribunal”) against, inter alia, Quadient Technologies Hong Kong Limited (previously known as Neopost Hong Kong Limited) (“Neopost HK”) and Quadient International Supply Limited (previously known as Neopost International Supply Limited) (“NISL”), being the 1st and 2nd Respondents in these proceedings respectively, seeking:
+
+(a) A declaration that the 1st and 2nd Respondents have contravened the First Conduct Rule under section 6 of the Ordinance;
+
+(b) A pecuniary penalty against the 1st and 2nd Respondents in respect of their contravention of the First Conduct Rule pursuant to section 92 of the Ordinance;
+
+(c) An order requiring the 1st and 2nd Respondents to pay to the Government an amount equal to the amount of the costs of and incidental to the Commission’s investigation into their conduct or affairs, reasonably incurred by the Commission in connection with proceedings for the contravention;
+
+(d) Costs of these proceedings; and
+
+(e) Such further or other relief as the Tribunal may consider appropriate.
+
+2.  Subject to the approval of the Tribunal, the Commission and the 1st and 2nd Respondents agree to dispose of these proceedings by way of the summary procedure as provided for in Rule 39 of the CTR and §72 of the CTPD1. The procedure as envisaged by the parties is that sanctioned by the High Court in England and Wales in the case of Re Carecraft Construction Co Ltd [1994] 1 WLR 172 and clarified by the English Court of Appeal in Secretary of State for Trade and Industry v Rogers [1996] 1 WLR 1569, and as adopted in Hong Kong for proceedings under section 214 of the Securities and Futures Ordinance (Cap. 571) and section 168H of the former Companies Ordinance (Cap. 32). Further, the procedure was endorsed by the Honourable Mr. Justice Jonathan Harris in his Reasons for Decision handed down on 17 July 2020 in CTEA 1/2018 as a “readymade blueprint for disposing of proceedings under the Ordinance” (Competition Commission v. Kam Kwong Engineering Company Ltd and Others [2020] HKCT 3, at §17) and by the Honourable Madam Justice Linda Chan in her judgment handed down on 3 November 2020 (Competition Commission v. Quantr Limited and Others [2020] HKCT 10). Additionally, the same procedure was adopted by the Honourable Mr. Justice Godfrey Lam (as he then was) in his Judgment handed down on 16 December 2020 in relation to the penalty proceedings in Competition Commission v. Nutanix Hong Kong Limited and Others [2020] HKCT 11.
+
+3.  This Statement of Agreed Facts (“Statement”) is submitted pursuant to Rule 39 of the CTR and §72 of the CTPD1. The Tribunal is asked to make the orders sought on the basis of the facts set out in this Statement.
+
+4.  For the purpose of resolving these proceedings summarily, by reference to the facts as set out below, the Commission contends and the 1st and 2nd Respondents admit that, from 19 April 2018 to 23 January 2019, they have contravened the First Conduct Rule under section 6 of the Ordinance by having made or given effect to an agreement to fix prices, rig bids and allocate customers regarding the sale of Neopost branded inserters (“Neopost Inserters”) in Hong Kong (“Subject Conduct”), as more particularly described in paragraph 52 below.
+
+5.  The facts as set out in this Statement are agreed by the Commission and the 1st and 2nd Respondents. The Statement is filed before the Tribunal to support the joint application by the Commission and the 1st and 2nd Respondents for an order to be made under Rule 39 of the CTR (“Joint Application”).
+
+6.  If the Tribunal for whatever reason is of the view that these proceedings shall not be dealt with by way of the Joint Application, no admission or concession by either the Commission or the 1st and 2nd Respondents or liability to a pecuniary penalty or costs (save and except the matters set out in paragraphs 53 to 55 below), shall be referred to or relied upon by either the Commission or the 1st and 2nd Respondents at any adjourned or subsequent hearing or in any other proceedings without the prior written consent of both the Commission and the 1st and 2nd Respondents.
+
+7.  The Commission shall also be at liberty to disclose a redacted version of this Statement to any third party where it considers proper to do so in the interests of the public.
+
+PART B – UNDISPUTED FACTS RELEVANT TO LIABILITY
+
+B1. The Parties
+
+Neopost
+
+8.  Neopost HK is, and was at all material times, a company incorporated in Hong Kong with its registered office address located at Unit 602, One Hysan Avenue, Causeway Bay, Hong Kong. It was incorporated on 13 June 2008 and its name was changed to Quadient Technologies Hong Kong Limited on 1 April 2020.
+
+9.  Neopost HK is wholly owned by Mailroom Holding B.V., a company registered in the Netherlands, which in turn is wholly owned by Quadient S.A. (formerly known as Neopost S.A., registered in France) (“Neopost S.A.”). Neopost S.A. is the parent company of the Neopost Group.
+
+10.  NISL is, and was at all material times, a company registered in England and Wales with its registered office address located at Here East, 14 East Bay Lane, London, United Kingdom, E15 2GW. It was incorporated in 2003 and its name was changed to Quadient International Supply Limited on 28 January 2020.
+
+11.  NISL is wholly owned by Neopost (Holdings) Ltd., a company registered in England and Wales, which in turn is wholly owned by Neopost S.A.
+
+12.  By reason of the matters set out in paragraphs 8 to 11 above, Neopost HK and NISL are, and were at all materials times, sister companies having the same ultimate parent company, namely Neopost S.A.
+
+Toppan
+
+13.  Toppan Forms (Hong Kong) Limited (“Toppan HK”) is, and was at all material times, a company incorporated in Hong Kong with its registered office address located at Room 51-75A, 10th Floor, Kowloonbay International Trade & Exhibition Centre, 1 Trademark Drive, Kowloon Bay, Hong Kong.
+
+Smartech
+
+14.  Smartech Business Systems (Hong Kong) Limited (formerly known as Pitney Bowes Hong Kong Limited) (“Smartech”) is, and was at all material times, a company incorporated in Hong Kong with its registered office address located at Unit 1902, 19th Floor, 88 Hing Fat Street, North Point, Hong Kong.
+
+B2. Distribution of Neopost Inserters in Hong Kong
+
+15.  Inserters are machines that insert letters and other correspondence into envelopes for mass mailing. Government departments, insurance companies and banks, which may need to dispatch large volumes of mail, are the usual customers of inserters.
+
+16.  Neopost S.A. is an international company specializing in mail-related solutions, which include the manufacture of inserters. NISL distributed Neopost Inserters worldwide. In Hong Kong, Neopost Inserters were at all material times sold through local distributors which entered into distribution agreements directly with NISL. Inserters were supplied by NISL to the local distributors which were then sold to the end-users and customers. At all material times, NISL had no employees of its own in Hong Kong, and instead relied on a service agreement between Neopost HK and NISL for Neopost HK to conduct NISL’s business activities in Hong Kong on its behalf, including but not limited to the management of local distributors.
+
+17.  Mr. A was, at all material times, employed by Neopost HK as its Business Development Manager Asia Pacific. His terms of employment required him inter alia to support the sales and marketing activities of NISL’s distributors in Hong Kong. At the material times, he managed the distributors in Hong Kong on behalf of NISL, and was their sole point of contact for Hong Kong based distributors of Neopost products.
+
+18.  At the material times, Toppan HK, Smartech, and another Hong Kong company known as Jardine OneSolution (HK) Limited (currently known as HKBN JOS Limited) (“JOS”), were non-exclusive distributors of Neopost Inserters in Hong Kong. The relevant distribution arrangements for each of these entities were as follows:
+
+(a) On 18 July 2006, NISL entered into a distribution agreement with JOS for the latter to resell Neopost frankers. Frankers are machines that produce an ink stamp on a letter, or any document to be mailed, as proof of postage paid. Although JOS’s distribution agreement with NISL only covered frankers, JOS was in practice also allowed to resell certain models of Neopost Inserters (from at least 2015 onwards).
+
+(b) On 14 April 2009, NISL entered into a non-exclusive distribution agreement with Toppan HK for the latter to resell Neopost Inserters.
+
+(c) In February 2018, NISL entered into a non-exclusive distribution agreement with Smartech for the latter to resell Neopost’s frankers. Whilst Smartech’s distribution agreement did not cover inserters, NISL had on 1 September 2017 entered into a non-exclusive distribution agreement with Smart Post (Hong Kong) Limited (“Smart Post”), a wholly own subsidiary of Smartech, for Smart Post to resell Neopost Inserters.
+
+19.  Separately, Smartech was the exclusive distributor in Hong Kong for Pitney Bowes branded inserters and frankers.
+
+B3. The relevant facts leading up to the Subject Conduct
+
+20.  Set out below are the relevant undisputed facts leading up to the formation and implementation of the Subject Conduct.
+
+B3a. “Gentlemen Agreement” between Neopost HK/NISL, Toppan HK and JOS from 2010 to 2017
+
+21.  Since 2010, there had been a “Gentlemen Agreement” set up by Neopost HK/NISL to govern the relationship between Toppan HK and JOS with respect to the sale of Neopost Inserters and frankers. Among other things, the “Gentlemen Agreement” required Toppan HK and JOS not to sell to each other’s customers (“Gentlemen Agreement”). Neopost HK/NISL required the distributors to adhere to the terms of that agreement in order to retain their authorisation to sell both frankers and inserters.
+
+22.  Since commencement of the Ordinance, there was one incident in which Toppan HK and Neopost HK/NISL attempted to enforce the Gentlemen Agreement as a result of JOS selling to a customer of Toppan HK. However, in early March 2017, JOS responded to Neopost HK/NISL that it did not accept the Gentlemen Agreement or any agreement or understandings then in place involving JOS.
+
+B3b. Attempted revisions to the Gentlemen Agreement by Neopost HK/NISL in 2017
+
+23.  In the process of recruiting Smartech to be a new distributor for Neopost Inserters in early 2017, Neopost HK/NISL considered modifying the Gentlemen Agreement to apply to Toppan HK and Smartech, to manage conflicts between the three distributors. In this connection, two draft documents were prepared by Neopost HK/NISL seeking to prohibit JOS, Toppan HK and Smartech from selling Neopost products to each other’s customers. Internal discussions at Neopost HK/NISL were held between Mr. A and his superiors concerning options for incentivising and/or forcing the distributors to agree to and comply with a new version of the agreement.
+
+24.  After realizing that the two draft documents might contravene the Ordinance, Neopost HK/NISL came up with the idea of requiring the winning distributor (the newcomer) to purchase products from the losing distributor if the customer was a customer of the losing distributor (the incumbent) at a pre-defined price (“Inter-Distributor Purchase Agreement”). In this regard, a draft document was prepared by Neopost HK/NISL and circulated internally, but ultimately the agreement reached between the parties extended well beyond the terms of the Inter-Distributor Purchase Agreement.
+
+B3c. Meetings between Neopost HK/NISL, Toppan HK and Smartech leading up to the Subject Conduct
+
+25.  Despite objections by Toppan HK, Neopost HK/NISL formally appointed Smartech as a distributor of Neopost products in Hong Kong in February 2018.
+
+26.  On 26 February 2018, Mr. A (Neopost HK/NISL) arranged and attended a meeting with Mr. B, who was at the material time the Assistant General Sales Manager of Toppan HK (who later became the General Sales Manager of Toppan HK in January 2019 and Mr. C, who was the Small Mailing Business Sales Director of Smartech, to facilitate and promote cooperation between them. During that meeting, Mr. A tried to comfort Mr. B that the introduction of Smartech as an additional distributor should not affect Toppan HK’s existing customer base and business. However, there was no conclusion reached at the meeting. On 29 March 2018, Mr. A arranged another meeting with Mr. B and Mr. C to continue with their discussion at the previous meeting but, again, no conclusion was reached among the parties.
+
+B4. The Subject Conduct
+
+27.  Set out below is the Commission’s case (which is not disputed by Neopost HK and NISL) in relation to the Subject Conduct.
+
+B4a. Meeting of 19 April 2018
+
+28.  On 19 April 2018, Mr. A arranged and attended a meeting with Mr. B and Mr. D, who was at the material times the Sales Manager of Toppan HK and team leader of the Machinery Products and Services team, at the office of Toppan HK. In a preceding WhatsApp message, Mr. A had asked Mr. B to meet to discuss the “price” issue.
+
+29.  During the meeting, among other things, Mr. A initiated a discussion that Toppan HK and Smartech should focus on their own customers and not actively approach the other’s customers, and Toppan HK agreed. Toppan HK and Smartech would avoid cut-throat price competition with each other. If Toppan HK noticed that a customer was Smartech’s customer, Toppan HK’s quotation should be higher than that of Smartech, and vice versa.
+
+30.  On the same day, after the meeting, Mr. A sent a WhatsApp message to Mr. B, which stated “I discussed with [Mr. C]. All good. Shall we have a meeting together in my office? ….”. In other words, Mr. A discussed the idea raised during the meeting with Mr. C afterwards, who was on board with the idea, so Mr. A reported back to Mr. B and arranged another meeting to further discuss the arrangement.
+
+B4b. Meeting of 4 May 2018
+
+31.  On 4 May 2018, at the invitation of Mr. A (Neopost), Mr. B and Mr. D (Toppan HK), and Mr. C (Smartech) and Mr. E, who was at the relevant time Smartech’s Services Director, attended a meeting with Mr. A at the office of Neopost HK. The purpose of the meeting was to discuss how to reduce “conflicts” between the two distributors of Neopost Inserters (i.e. Toppan HK and Smartech), by which was meant, the degree to which they would compete for and poach each other’s customers.
+
+32.  In summary, the attendees reached an agreement (“Toppan HK Smartech Agreement”) that:
+
+(a) If a company requesting a quotation for Neopost Inserters had been using Pitney Bowes’ inserters (meaning that the company was Smartech’s customer, since Smartech was the exclusive distributor of Pitney Bowes’ inserters), Toppan HK would allow Smartech to win the request for quotation (“RFQ”) by quoting a price higher than Smartech’s;
+
+(b) On the other hand, if the company requesting the quotation for Neopost Inserters had been using Neopost Inserters (meaning that the company was probably Toppan HK’s customer), Smartech would allow Toppan HK to win the RFQ by quoting a price higher than Toppan HK’s;
+
+(c) In addition, the party winning the RFQ would then source the Neopost Inserters from the losing party instead of directly from Neopost HK/NISL (which did not reflect a need for technical assistance from one party to the other but rather aimed to ensure that both of Toppan HK and Smartech would obtain business); and
+
+(d) Mr. C (Smartech) and Mr. D (Toppan HK) could make enquiries of each other to ascertain whether a particular customer was either Toppan HK’s or Smartech’s customer.
+
+B4c. Subsequent meetings and contacts between Toppan HK and Smartech giving effect to the Toppan HK Smartech Agreement
+
+33.  After the meeting on 4 May 2018, representatives of Toppan HK and Smartech maintained regular contacts to exchange competitively sensitive information in furtherance of the Toppan HK Smartech Agreement, at first primarily between Mr. D and Mr. C and subsequently between Mr. D and Mr. F (who was at the relevant time Smartech’s Senior Business Manager). Several of the relevant contacts and associated disclosures were recorded in the daily planner of Mr. D, as well as in WhatsApp messages between the relevant individuals. While Neopost did not attend or directly participate in the meetings and discussions between Toppan HK and Smartech described below (other than the meetings described in paragraph 50), the dealings between Toppan HK and Smartech arising from the meetings and discussions in this section are undisputed for the purpose of this Statement.
+
+34.  This included exchanging intended quotation prices and models of inserters, before submitting quotations or bids to potential customers. In several cases, this was done with the explicit or implicit understanding that one party would bid a higher price than the other in an attempt to ensure that the latter would win the relevant business (for example, as it was its existing customer). On at least two occasions, Smartech purchased Neopost Inserters from Toppan HK after it won the business opportunities (that is, the Department of Health and Zurich Services (HK) Ltd. tenders, described further below). There was also one occasion where Toppan HK purchased Neopost Inserters from Smartech (that is, The Hong Kong Mortgage Corporation Limited tender below).
+
+B4c(i)  Business opportunities discussed at meeting of 24 May 2018
+
+35.  On 24 May 2018, Mr. C (Smartech) and Mr. D (Toppan HK) met at a Pacific Coffee coffee shop near the office of Toppan HK. At this meeting, among other things, Mr. C disclosed to Mr. D the details of three intended Smartech quotations relating to Neopost Inserters, which Mr. D recorded in his daily planner. The relevant details and discussions, from the 24 May meeting and afterwards, are set out below.
+
+Canon Hong Kong Company Ltd. (“Canon”)
+
+36.  Mr. C disclosed to Mr. D that Smartech intended to provide to Canon a price quotation of HK$350,000 for a Neopost DS180 inserter. He further proposed that Toppan HK submit a quotation between HK$380,000 and HK$400,000 for this inserter to Canon. Mr. D later found out that Toppan HK had already submitted a quotation to Canon. Smartech was ultimately selected to supply a Pitney Bowes inserter (which it had also quoted for).
+
+Department of Health (“DOH”)
+
+37.  Mr. C disclosed to Mr. D that Smartech intended to provide to the DOH a price quotation of HK$325,000, plus an additional 14% for an all-inclusive maintenance package, for a Neopost DS90i inserter. On that same day but before the meeting, Mr. F had contacted Mr. C through WhatsApp to discuss the DOH deal and to enquire whether they needed to communicate with Toppan HK regarding the deal. Ultimately, although the DOH was Toppan HK’s customer, Toppan HK was not invited to submit a quotation (unknown to Smartech). Smartech won this tender in November 2018 and, in purported compliance with the Toppan HK Smartech Agreement, sourced a Neopost DS95i inserter from Toppan HK in December 2018. The tender document signed and submitted by Smartech included a clause 22(a), whereby the supplier was regarded to have represented and warranted to the Government that it had not engaged in collusion in relation to the invitation to quotation.
+
+Hong Kong Cable TV Ltd. (“Cable TV”)
+
+38.  Mr. C disclosed to Mr. D that Smartech intended to provide to Cable TV a price quotation of around HK$230,000 to HK$250,000 for a Neopost DS75i inserter. Subsequently, Mr. D contacted Mr. C and Mr. F to inform them that Cable TV was Toppan HK’s customer; ultimately, however, Toppan HK was not invited to bid. On 25 May 2018, Smartech quoted a price of HK$230,000 for this inserter to Cable TV, in line with Mr. C’s disclosure to Mr. D, though the net price was HK$188,000 to reflect the application of a special trade-in discount. Cable TV subsequently purchased a Pitney Bowes inserter from Smartech.
+
+B4c(ii) Business opportunities discussed after meeting of 24 May 2018
+
+39.  Subsequent to the meeting on 24 May 2018, Toppan HK and Smartech maintained regular contacts in respect of inserter business opportunities to give effect to the Toppan HK Smartech Agreement, including those which Mr. D recorded in his daily planner. These included the business opportunities set out in the following paragraphs.
+
+United Asia Finance Ltd. (“UA Finance”)
+
+40.  In late May 2018, Mr. C and Mr. D were in contact with respect to a tender from UA Finance for an inserter. Mr. C disclosed to Mr. D that Smartech intended to quote for two models of Neopost Inserter (DS95i at HK$260,000 and DS180i at HK$330,000). Mr. D understood that UA Finance was Smartech’s customer and, in accordance with the Toppan HK Smartech Agreement, that Smartech should win the tender. Toppan HK submitted a quote of HK$296,000 for a DS95i (i.e. which was higher than the quote of HK$260,000) which Smartech intended to submit for the same model). UA Finance ultimately purchased a Pitney Bowes inserter from Smartech (which it had subsequently quoted for).
+
+Zurich Services (HK) Ltd. (“Zurich”)
+
+41.  In late May 2018, Mr. C and Mr. D were in contact with respect to a tender from Zurich for an inserter. Mr. C disclosed to Mr. D that Smartech intended to submit either a quotation of HK$370,000 for a Pitney Bowes Relay 7000 inserter or HK$199,000 for a Neopost DS75i inserter. Mr. D understood that, since Zurich had been using a Pitney Bowes inserter, the expectation under the Toppan HK Smartech Agreement was that Toppan HK was to let Smartech win the tender. In WhatsApp messages discussing Toppan HK’s submission in relation to this tender, Ms. G (who was at the relevant time Toppan HK’s Account Manager) and Mr. D determined that Toppan HK’s quotation for a Neopost DS75i inserter should not be very much higher than Smartech’s quotation (though still higher in order to let Smartech win the tender). Toppan HK ultimately provided to Zurich a final quotation price of HK$230,000 (HK$200,000 for the Neopost DS75i inserter and HK$30,000 for ‘Optical Mark Recognition’) whereas Smartech submitted a final quote of HK$174,000 for the same model (inclusive of a HK$25,000 trade in discount). Smartech eventually was awarded the tender for the DS75i inserter, and sourced the inserter from Toppan HK pursuant to the Toppan HK Smartech Agreement.
+
+OCBC Wing Hang Bank Ltd. (“OCBC”)
+
+42.  In or around late May or June 2018, Mr. D disclosed to Mr. C that Toppan HK intended to submit a quotation for three Neopost DS75i inserters to OCBC, while Mr. C indicated that Smartech intended to submit a quotation for a Pitney Bowes inserter. Since the two companies were quoting different brands of inserters, Mr. D and Mr. C considered these quotations to fall outside the coordination envisaged in the Toppan HK Smartech Agreement (i.e., a “free f[ight]” as Mr. D indicated in his daily planner). OCBC ultimately selected Smartech to supply a Pitney Bowes inserter.
+
+The Hong Kong Mortgage Corporation Ltd. (“HKMC”)
+
+43.  On 9 June 2018, Toppan HK provided a quotation of HK$968,000 for a Neopost DS200i inserter and Neopost AIMS software to Fuji Xerox (Hong Kong) Ltd. (“Fuji Xerox”), a reseller of inserters, for an end user, the HKMC. Fuji Xerox’s quotation was successful. Smartech (which had also submitted a quotation to Ricoh for HKMC) was unsuccessful. Mr. C requested that Toppan HK source the inserter from Smartech (instead of from Neopost directly) and Mr. D and Mr. B (Toppan HK) agreed to do so. On 13 June 2018, Mr. A emailed Mr. D and Ms. G (Toppan HK) regarding the purchase of the DS200i inserter, indicating that “I will tell [Mr. C] to bill you as in the attached, total 58,800 euro”. Toppan HK sourced the Neopost Inserter and software from Smartech for HK$562,160.
+
+Transport Department (“TD”)
+
+44.  On 11 June 2018, Mr. D contacted Mr. C in relation to the potential sale of an inserter to the TD. Mr. D disclosed to Mr. C that the TD was using a Neopost MM4 inserter and hoped to switch to a Neopost DS63 inserter, and indicated that he hoped that Smartech would let Toppan HK win the deal. Ultimately, Smartech was not invited to bid, while Toppan HK was chosen by the TD to supply a Neopost DS75i inserter and sourced the inserter from Neopost directly.
+
+Sun Hung Kai Real Estate Agency Ltd. (“SHK”)
+
+45.  On 6 July 2018, Mr. D contacted Mr. C to discuss their quotations for the sale of an inserter to SHK through Fuji Xerox. Mr. D disclosed to Mr. C that Toppan HK intended to quote HK$248,000 for a Neopost DS75i inserter, while Mr. C disclosed that Smartech intended to quote HK$350,000 for a Pitney Bowes Relay 7000 inserter. Smartech submitted a quotation to Fuji Xerox at the disclosed price for this model of inserter (along with other Pitney Bowes models) and ultimately sold (for delivery to SHK) a Pitney Bowes Relay 4500 inserter for HK$230,000.
+
+Registration and Electoral Office (“REO”)
+
+46.  On 18 July 2018, Mr. D notified Mr. C that Toppan HK intended to provide a quotation for a Neopost DS180i inserter to the REO and would like Smartech to quote a higher price to help Toppan HK win the bid. On 9 November 2018, Mr. F sent Mr. C a WhatsApp audio message which said (in translation from the original Chinese), “[Mr. C], just to let you know that [I] have just talked to [Mr. D], and for Kowloon Bay it should be…that is, they should be the window [in the sense of designated winner] for the new site of the Registration and Electoral Office, and if it gets to prices or things like that, tell [Mr. D] to contact you direct then; he said that he had already told you 2 or 3 months ago. So it doesn’t matter. Should be quoting for DS-180, quoting for DS-180. I am updating you on this first.” Thereafter, Mr. D called Mr. F to inform him that the REO was Toppan HK’s customer and not viable for Smartech. By “not viable” it was meant that Smartech should not submit any bid to REO and that it would not win even if it did so. On 3 January 2019, Mr. F sent Mr. D a WhatsApp audio message which said (in translation from the original Chinese), “Hi [Mr. D], another REO tender has arrived, let’s coordinate when you start working on it, thanks!” On 11 January 2019, Toppan HK submitted to the REO a quotation for the Neopost DS180i inserter of HK$593,000, while Smartech submitted a higher quotation of HK$650,000 for the same model. The tender documents submitted by each party included an anti-collusion clause (clause 24(a)) and a signed Non-collusive Quotation Certificate. The REO subsequently purchased the inserter from Toppan HK in April 2019.
+
+Discovery Bay Management Services Ltd. (“DBMS”)
+
+47.  On 31 August 2018, Ms. G informed Mr. D via WhatsApp message that DBMS intended to change its inserter to Neopost’s DS75. As the customer was using Pitney Bowes’ machines, Mr. D believed that it was Smartech’s customer and responded that (in translation from the original Chinese) “we should discuss with ST [i.e. Smartech]”. On 4 September 2018, Mr. D contacted Mr. C and disclosed to him that Toppan HK intended to propose to DBMS a Neopost DS85i inserter for HK$300,000 or a Neopost DS75i inserter. On 6 September 2018, Toppan HK submitted a quotation for a Neopost DS75i inserter for HK$188,000, while on 21 September 2019, Smartech submitted a quotation of HK$288,000 (inclusive of a special trade-in discount of HK$32,000) for a Neopost DS85 (i.e. a lower price than the intended quotation for the same model disclosed by Toppan HK) or Pitney Bowes Relay 7000 inserter. On 5 November 2018, Mr. F sent a WhatsApp message to Mr. D to ask about the progress of the deal. DBMS ultimately did not proceed to purchase an inserter.
+
+Official Receiver’s Office (“ORO”)
+
+48.  In or around September or October 2018, Toppan HK and Smartech discussed the open tender issued by the ORO for an inserter. Mr. D asked Mr. F to have Smartech submit a quotation of higher than (HK$180,000) for a Neopost DS75i inserter. On 19 September 2018, Mr. F sent a WhatsApp message to Mr. C to inform him of Mr. D’s request and indicated that he would accordingly submit a quotation of HK$188,000, with which Mr. C agreed. On 20 September 2018, Smartech duly submitted a quotation of HK$188,000 for a Neopost DS75i inserter (being a quotation of HK$198,000 for the machine with a HK$10,000 trade-in discount), while on the same day Toppan HK submitted a lower price for the same model of HK$149,000 (being a quotation of HK$154,000 for the machine with a HK$5,000 trade-in discount). On 22 October 2018, Mr. F discovered that JOS had won the tender at a price of HK$153,000 for a Neopost DS75i inserter (inclusive of stand or cabinet, maintenance and trade-in discount). The following day, Mr. F sent WhatsApp audio recordings to raise his concern with Mr. C regarding JOS’s low quotation price and had him relay this concern to Mr. D, and stated (in translation from the original Chinese) “I helped him raise to 188,000, I helped him raise to 188,000”.
+
+Sumitomo Mitsui Banking Corporation (“SMBC”)
+
+49.  In or around November 2018, Mr. D contacted Mr. F to request him to coordinate for the sale of an inserter to SMBC (which Mr. F understood to mean that Smartech should not quote for SMBC), if Smartech received an invitation to quote from SMBC. On 22 November 2018, Mr. F informed Mr. C of this request by WhatsApp message. The basis for the request was that Mr. D considered SMBC to be Toppan HK’s customer. Prior to these conversations, on 30 August 2018, Toppan HK had submitted a quotation of HK$947,400 for a Neopost DS200i inserter and AIMS and OMS software. On 27 November 2018, Smartech submitted the higher quotation price of HK$1,200,000 for the same inserter and software package (inclusive of a HK$100,000 trade-in discount). Toppan HK was eventually awarded the tender in May 2019.
+
+B4c(iii) Other contacts
+
+50.  On 27 July 2018, Mr. A, Mr. C, Mr. D and Mr. B met at Neopost HK’s office, at which it was confirmed that all attendees were fine with the Toppan HK Smartech Agreement. On 7 December 2018, the same individuals attended a further meeting at Neopost HK’s office, at which it was agreed among the attendees that the Toppan HK Smartech Agreement would continue into 2019.
+
+51.  The regular contacts between Toppan HK and Smartech for the purpose of giving effect to the Toppan HK Smartech Agreement continued until at least 23 January 2019.
+
+B5. The Contravention
+
+52.  It is the Commission’s case (which is not disputed by Neopost HK and NISL) that:
+
+(a) Each of Neopost HK and NISL contravened section 6(1) of the Ordinance (i.e. the First Conduct Rule) during the period between 19 April 2018 and 23 January 2019 by virtue of the Subject Conduct (“Contravention”), i.e. the making and/or giving effect by Neopost HK and NISL to an agreement with Smartech and Toppan HK to fix prices, rig bids and allocate customers regarding the sale of Neopost Inserters in Hong Kong, as more particularly described in paragraphs 27 to 51 above;
+
+(b) the Contravention had the object of preventing, restricting or distorting competition;
+
+(c) the Contravention constitutes “serious anti-competitive conduct” within the meaning of section 2(1) of the Ordinance; and
+
+(d) the conduct of Mr. A is attributable to Neopost HK and NISL insofar as the Contravention is concerned, and Neopost HK and NISL are jointly and severally liable for the Contravention.
+
+PART C – UNDISPUTED FACTS RELEVANT TO CALCULATION OF THE RECOMMENDED PECUNIARY PENALTY AND INVESTIGATION COSTS FOR NEOPOST HK AND NISL
+
+53.  The financial years of Neopost HK and NISL start on 1 February and end on 31 January. The Contravention took place primarily in their financial year ending on 31 January 2019, which is the relevant year for the purposes of calculating the recommended pecuniary penalty for Neopost HK and NISL (“Relevant Year”).
+
+54.  The relevant value of sales which is directly or indirectly related to the Contravention comprise the sale by Neopost HK and NISL of Neopost Inserters in Hong Kong (“Value of Sales”). In the Relevant Year, Neopost HK and NISL generated a Value of Sales in the total sum of HK$8,031,331.
+
+55.  According to the definition of “turnover” under section 2 of the Competition (Turnover) Regulation (Cap. 619C), the turnover of Neopost HK and NISL in the Relevant Year is in the total sum of HK$18,655,781.
+
+56.  As for the Commission’s costs of and incidental to its investigation into this matter, the Commission has incurred such costs in the sum of HK$1,428,304 (see Annex 1).
+
+Dated this 26th day of June 2023.
+
+
+
+_________________________________	__________________________________
+MINTERELLISON LLP
+Solicitors for the Applicant	HOGAN LOVELLS
+Solicitors for the 1st and 2nd Respondents
+ANNEX 1
+
+CTEA 1/2021
+
+Breakdown of the Competition Commission’s
+
+costs of and incidental to the investigation into the Subject Conduct
+
+Item	Heads of Investigation Costs Claimed	Quantity	Amount (HK$)
+1	Costs related to the execution of warrants issued under s. 48 of the Competition Ordinance (Cap. 619) (“CO”), from 23 January 2019 to 30 January 2019	5 warrants	756,148
+External digital forensic services	 	756,009
+Local subsistence allowance, travelling and other charges	 	139
+2	External compliance expert advice regarding assessment of the compliance programmes of the subject undertakings	9.6 hours	66,528
+3	External audio recording and transcription services regarding interviews conducted under s. 42 CO	8 interviews	37,675
+4	External translation services regarding translation of s.42 interview transcripts and other Chinese language documents, for use by Competition Commission staff, and external Counsel	5 transcripts	168,398
+5	External legal services regarding legal advice	104 hours	398,624
+6	Miscellaneous: charges for company searches and business registration searches	40 searches	931
+ 	Total:	 	1,428,304
+Appendix 2
+
+STATEMENT OF AGREED FACTS (R3)
+
+(Prepared pursuant to Rule 39 of the Competition Tribunal Rules, Cap. 619D (“CTR”) and
+
+Paragraph 72 of the Competition Tribunal Practice Direction No. 1 (“CTPD1”))
+
+PART A — INTRODUCTION
+
+1.  On 25 November 2021, the Competition Commission (“Commission”) issued proceedings pursuant to sections 92, 94 and 96 of the Competition Ordinance (Cap. 619) (“Ordinance”) before the Competition Tribunal (“Tribunal”) against, inter alia, Toppan Forms (Hong Kong) Limited (“Toppan HK”), being the 3rd Respondent in these proceedings, seeking:
+
+(a) A declaration that the 3rd Respondent has contravened the First Conduct Rule under section 6 of the Ordinance;
+
+(b) A pecuniary penalty against the 3rd Respondent in respect of their contravention of the First Conduct Rule pursuant to section 92 of the Ordinance;
+
+(c) An order requiring the 3rd Respondent to pay to the Government an amount equal to the amount of the costs of and incidental to the Commission’s investigation into their conduct or affairs, reasonably incurred by the Commission in connection with proceedings for the contravention;
+
+(d) Costs of these proceedings; and
+
+(e) Such further or other relief as the Tribunal may consider appropriate.
+
+2.  Subject to the approval of the Tribunal, the Commission and the 3rd Respondent agree to dispose of these proceedings by way of the summary procedure as provided for in Rule 39 of the CTR and §72 of the CTPD1. The procedure as envisaged by the parties is that sanctioned by the High Court in England and Wales in the case of Re Carecraft Construction Co Ltd [1994] 1 WLR 172 and clarified by the English Court of Appeal in Secretary of State for Trade and Industry v Rogers [1996] 1 WLR 1569, and as adopted in Hong Kong for proceedings under section 214 of the Securities and Futures Ordinance (Cap. 571) and section 168H of the former Companies Ordinance (Cap. 32). Further, the procedure was endorsed by the Honourable Mr. Justice Jonathan Harris in his Reasons for Decision handed down on 17 July 2020 in CTEA 1/2018 as a “readymade blueprint for disposing of proceedings under the Ordinance” (Competition Commission v. Kam Kwong Engineering Company Ltd and Others [2020] HKCT 3, at §17) and by the Honourable Madam Justice Linda Chan in her judgment handed down on 3 November 2020 (Competition Commission v. Quantr Limited and Others [2020] HKCT 10). Additionally, the same procedure was adopted by the Honourable Mr. Justice Godfrey Lam (as he then was) in his Judgment handed down on 16 December 2020 in relation to the penalty proceedings in Competition Commission v. Nutanix Hong Kong Limited and Others [2020] HKCT 11.
+
+3.  This Statement of Agreed Facts (“Statement”) is submitted pursuant to Rule 39 of the CTR and §72 of the CTPD1. The Tribunal is asked to make the orders sought on the basis of the facts set out in this Statement.
+
+4.  For the purpose of resolving these proceedings summarily, by reference to the facts as set out below, the Commission contends and the 3rd Respondent admits that, from 19 April 2018 to 23 January 2019, it contravened the First Conduct Rule under section 6 of the Ordinance by having: (i) made or given effect to an agreement to fix prices, rig bids and allocate customers regarding the sale of Neopost branded inserters (“Neopost Inserters”) in Hong Kong; and (ii) engaged in a concerted practice by exchanging competitively sensitive information (together, the “Subject Conduct”), as more particularly described in paragraph 49 below.
+
+5.  The facts as set out in this Statement are agreed by the Commission and the 3rd Respondent. The Statement is filed before the Tribunal to support the joint application by the Commission and the 3rd Respondent for an order to be made under Rule 39 of the CTR (“Joint Application”).
+
+6.  If the Tribunal for whatever reason is of the view that these proceedings shall not be dealt with by way of the Joint Application, no admission or concession by either the Commission or the 3rd Respondent or liability to a pecuniary penalty or costs (save and except the matters set out in paragraphs 50 to 52 below), shall be referred to or relied upon by either the Commission or the 3rd Respondent at any adjourned or subsequent hearing or in any other proceedings without the prior written consent of both the Commission and the 3rd Respondent.
+
+7.  The Commission shall also be at liberty to disclose a redacted version of this Statement to any third party where it considers proper to do so in the interests of the public.
+
+PART B – UNDISPUTED FACTS RELEVANT TO LIABILITY
+
+B1. The Parties
+
+Toppan
+
+8.  Toppan HK is, and was at all material times, a company incorporated in Hong Kong with its registered office address located at Room 51-75A, 10th Floor, Kowloonbay International Trade & Exhibition Centre, 1 Trademart Drive, Kowloon Bay, Hong Kong.
+
+Smartech
+
+9.  Smartech Business Systems (Hong Kong) Limited (formerly known as Pitney Bowes Hong Kong Limited) (“Smartech”) is, and was at all material times, a company incorporated in Hong Kong with its registered office address located at Unit 1902, 19th Floor, 88 Hing Fat Street, North Point, Hong Kong.
+
+Neopost
+
+10.  Quadient Technologies Hong Kong Limited (which was formerly known as Neopost Hong Kong Limited) (“Neopost HK”) is, and was at all material times, a company incorporated in Hong Kong with its registered office address located at Unit 602, One Hysan Avenue, Causeway Bay, Hong Kong.
+
+11.  Quadient International Supply Limited (which was formerly known as Neopost International Supply Limited) (“NISL”) is, and was at all material times, a company registered in England and Wales with its registered office address located at Here East, 14 East Bay Lane, London, United Kingdom, E15 2GW.
+
+B2. Distribution of Neopost Inserters in Hong Kong
+
+12.  Inserters are machines that insert letters and other correspondence into envelopes for mass mailing. Government departments, insurance companies and banks, which may need to dispatch large volumes of mail, are the usual customers of inserters.
+
+13.  NISL distributed Neopost Inserters worldwide. In Hong Kong, Neopost Inserters were at all material times sold through local distributors which entered into distribution agreements directly with NISL. Inserters were supplied by NISL to the local distributors which were then sold to the end-users and customers.
+
+14.  Mr. A was at all material times employed by Neopost HK as its Business Development Manager Asia Pacific.
+
+15.  At the material times, Toppan HK, Smartech, and another Hong Kong company known as Jardine OneSolution (HK) Limited (currently known as HKBN JOS Limited) (“JOS”), were non-exclusive distributors of Neopost Inserters in Hong Kong. The relevant distribution arrangements for each of these entities were as follows:
+
+(a) On 18 July 2006, NISL entered into a distribution agreement with JOS for the latter to resell Neopost frankers. Frankers are machines that produce an ink stamp on a letter, or any document to be mailed, as proof of postage paid. Although JOS’s distribution agreement with NISL only covered frankers, JOS was in practice also allowed to resell certain models of Neopost Inserters (from at least 2015 onwards).
+
+(b) On 14 April 2009, NISL entered into a non-exclusive distribution agreement with Toppan HK for the latter to resell Neopost Inserters.
+
+(c) In February 2018, NISL entered into a non-exclusive distribution agreement with Smartech for the latter to resell Neopost’s frankers. Whilst Smartech’s distribution agreement did not cover inserters, NISL had on 1 September 2017 entered into a non-exclusive distribution agreement with Smart Post (Hong Kong) Limited (“Smart Post”), a wholly own subsidiary of Smartech, for Smart Post to resell Neopost Inserters.
+
+16.  Separately, Smartech was the exclusive distributor in Hong Kong for Pitney Bowes branded inserters and frankers.
+
+B3. The relevant facts leading up to the Subject Conduct
+
+17.  Set out below are the relevant undisputed facts leading up to the formation and implementation of the Subject Conduct.
+
+B3a. “Gentlemen Agreement” between Neopost HK/NISL, Toppan HK and JOS from 2010 to 2017
+
+18.  Since 2010, there had been a “Gentlemen Agreement” set up by Neopost HK/NISL to govern the relationship between Toppan HK and JOS with respect to the sale of Neopost Inserters and frankers. Among other things, the “Gentlemen Agreement” required Toppan HK and JOS not to sell to each other’s customers (“Gentlemen Agreement”). Neopost HK/NISL required the distributors to adhere to the terms of that agreement in order to retain their authorisation to sell both frankers and inserters.
+
+19.  Since commencement of the Ordinance, there was one incident in which Toppan HK and Neopost HK/NISL attempted to enforce the Gentlemen Agreement as a result of JOS selling to a customer of Toppan HK. However, in early March 2017, JOS responded to Neopost HK/NISL that it did not accept the Gentlemen Agreement or any agreement or understandings then in place involving JOS.
+
+B3b. Attempted revisions to the Gentlemen Agreement by Neopost HK/NISL in 2017
+
+20.  In the process of recruiting Smartech to be a new distributor for Neopost Inserters in early 2017, Neopost HK/NISL considered modifying the Gentlemen Agreement to apply to Toppan HK and Smartech, to manage conflicts between the three distributors. In this connection, two draft documents were prepared by Neopost HK/NISL seeking to prohibit JOS, Toppan HK and Smartech from selling Neopost products to each other’s customers. Internal discussions at Neopost HK/NISL were held between Mr. A and his superiors concerning options for incentivising and/or forcing the distributors to agree to and comply with a new version of the agreement.
+
+21.  After realizing that the two draft documents might contravene the Ordinance, Neopost HK/NISL came up with the idea of requiring the winning distributor (the newcomer) to purchase products from the losing distributor if the customer was a customer of the losing distributor (the incumbent) at a pre-defined price (“Inter-Distributor Purchase Agreement”). In this regard, a draft document was prepared by Neopost HK/NISL and circulated internally, but ultimately the agreement reached between the parties extended well beyond the terms of the Inter-Distributor Purchase Agreement.
+
+B3c. Meetings between Neopost HK/NISL, Toppan HK and Smartech leading up to the Subject Conduct
+
+22.  Despite objections by Toppan HK, Neopost HK/NISL formally appointed Smartech as a distributor of Neopost products in Hong Kong in February 2018.
+
+23.  On 26 February 2018, Mr. A (Neopost HK/NISL) arranged and attended a meeting with Mr. B, who was at the material time the Assistant General Sales Manager of Toppan HK (who later became the General Sales Manager of Toppan HK in January 2019) and Mr. C, who was the (Small Mailing Business Sales Director) of Smartech, to facilitate and promote cooperation between them. During that meeting, Mr. A tried to comfort Mr. B that the introduction of Smartech as an additional distributor should not affect Toppan HK’s existing customer base and business. However, there was no conclusion reached at the meeting. On 29 March 2018, Mr. A arranged another meeting with Mr. B and Mr. C to continue with their discussion at the previous meeting but, again, no conclusion was reached among the parties.
+
+B4. The Subject Conduct
+
+24.  Set out below is the Commission’s case (which is not disputed by Toppan HK) in relation to the Subject Conduct.
+
+B4a. Meeting of 19 April 2018
+
+25.  On 19 April 2018, Mr. A arranged and attended a meeting with Mr. B and Mr. D, who was at the material times the Sales Manager of Toppan HK and team leader of the Machinery Products and Services team, at the office of Toppan HK. In a preceding WhatsApp message, Mr. A had asked Mr. B to meet to discuss the “price” issue.
+
+26.  During the meeting, among other things, Mr. A initiated a discussion that Toppan HK and Smartech should focus on their own customers and not actively approach the other’s customers, and Toppan HK agreed. Toppan HK and Smartech would avoid cut-throat price competition with each other. If Toppan HK noticed that a customer was Smartech’s customer, Toppan HK’s quotation should be higher than that of Smartech, and vice versa.
+
+27.  On the same day, after the meeting, Mr. A sent a WhatsApp message to Mr. B, which stated “I discussed with [Mr. C]. All good. Shall we have a meeting together in my office? ….”. In other words, Mr. A discussed the idea raised during the meeting with Mr. C afterwards, who was on board with the idea, so Mr. A reported back to Mr. B and arranged another meeting to further discuss the arrangement.
+
+B4b. Meeting of 4 May 2018
+
+28.  On 4 May 2018, at the invitation of Mr. A (Neopost), Mr. B and Mr. D (Toppan HK), and Mr. C (Smartech) and Mr. E, who was at the relevant time Smartech’s Services Director, attended a meeting with Mr. A at the office of Neopost HK. The purpose of the meeting was to discuss how to reduce “conflicts” between the two distributors of Neopost Inserters (i.e. Toppan HK and Smartech), by which was meant, the degree to which they would compete for and poach each other’s customers.
+
+29.  In summary, the attendees reached an agreement (“Toppan HK Smartech Agreement”) that:
+
+(a) If a company requesting a quotation for Neopost Inserters had been using Pitney Bowes’ inserters (meaning that the company was Smartech’s customer, since Smartech was the exclusive distributor of Pitney Bowes’ inserters), Toppan HK would allow Smartech to win the request for quotation (“RFQ”) by quoting a price higher than Smartech’s;
+
+(b) On the other hand, if the company requesting the quotation for Neopost Inserters had been using Neopost Inserters (meaning that the company was probably Toppan HK’s customer), Smartech would allow Toppan HK to win the RFQ by quoting a price higher than Toppan HK’s;
+
+(c) In addition, the party winning the RFQ would then source the Neopost Inserters from the losing party instead of directly from Neopost HK/NISL (which did not reflect a need for technical assistance from one party to the other but rather aimed to ensure that both of Toppan HK and Smartech would obtain business); and
+
+(d) Mr. C (Smartech) and Mr. D (Toppan HK) could make enquiries of each other to ascertain whether a particular customer was either Toppan HK’s or Smartech’s customer.
+
+B4c. Subsequent meetings and contacts between Toppan HK and Smartech giving effect to the Toppan HK Smartech Agreement
+
+30.  After the meeting on 4 May 2018, representatives of Toppan HK and Smartech maintained regular contacts to exchange competitively sensitive information in furtherance of the Toppan HK Smartech Agreement, at first primarily between Mr. D and Mr. C and subsequently between Mr. D and Mr. F (who was at the relevant time Smartech’s Senior Business Manager). Several of the relevant contacts and associated disclosures were recorded in the daily planner of Mr. D, as well as in WhatsApp messages between the relevant individuals.
+
+31.  This included exchanging intended quotation prices and models of inserters, before submitting quotations or bids to potential customers. In several cases, this was done with the explicit or implicit understanding that one party would bid a higher price than the other in an attempt to ensure that the latter would win the relevant business (for example, as it was its existing customer). On at least two occasions, Smartech purchased Neopost Inserters from Toppan HK after it won the business opportunities (that is, the Department of Health and Zurich Services (HK) Ltd. tenders, described further below). There was also one occasion where Toppan HK purchased Neopost Inserters from Smartech (that is, The Hong Kong Mortgage Corporation Limited tender below).
+
+B4c(i) Business opportunities discussed at meeting of 24 May 2018
+
+32.  On 24 May 2018, Mr. C (Smartech) and Mr. D (Toppan HK) met at a Pacific Coffee coffee shop near the office of Toppan HK. At this meeting, among other things, Mr. C disclosed to Mr. D the details of three intended Smartech quotations relating to Neopost Inserters, which Mr. D recorded in his daily planner. The relevant details and discussions, from the 24 May meeting and afterwards, are set out below.
+
+Canon Hong Kong Company Ltd. (“Canon”)
+
+33.  Mr. C disclosed to Mr. D that Smartech intended to provide to Canon a price quotation of HK$350,000 for a Neopost DS180 inserter. He further proposed that Toppan HK submit a quotation between HK$380,000 and HK$400,000 for this inserter to Canon. Mr. D later found out that Toppan HK had already submitted a quotation to Canon. Smartech was ultimately selected to supply a Pitney Bowes inserter (which it had also quoted for).
+
+Department of Health (“DOH”)
+
+34.  Mr. C disclosed to Mr. D that Smartech intended to provide to the DOH a price quotation of HK$325,000, plus an additional 14% for an all-inclusive maintenance package, for a Neopost DS90i inserter. On that same day but before the meeting, Mr. F had contacted Mr. C through WhatsApp to discuss the DOH deal and to enquire whether they needed to communicate with Toppan HK regarding the deal. Ultimately, although the DOH was Toppan HK’s customer, Toppan HK was not invited to submit a quotation (unknown to Smartech). Smartech won this tender in November 2018 and, in purported compliance with the Toppan HK Smartech Agreement, sourced a Neopost DS95i inserter from Toppan HK in December 2018. The tender document signed and submitted by Smartech included a clause 22(a), whereby the supplier was regarded to have represented and warranted to the Government that it had not engaged in collusion in relation to the invitation to quotation.
+
+Hong Kong Cable TV Ltd. (“Cable TV”)
+
+35.  Mr. C disclosed to Mr. D that Smartech intended to provide to Cable TV a price quotation of around HK$230,000 to HK$250,000 for a Neopost DS75i inserter. Subsequently, Mr. D contacted Mr. C and Mr. F to inform them that Cable TV was Toppan HK’s customer; ultimately, however, Toppan HK was not invited to bid. On 25 May 2018, Smartech quoted a price of HK$230,000 for this inserter to Cable TV, in line with Mr. C’s disclosure to Mr. D, though the net price was HK$188,000 to reflect the application of a special trade-in discount. Cable TV subsequently purchased a Pitney Bowes inserter from Smartech.
+
+B4c(ii) Business opportunities discussed after meeting of 24 May 2018
+
+36.  Subsequent to the meeting on 24 May 2018, Toppan HK and Smartech maintained regular contacts in respect of inserter business opportunities to give effect to the Toppan HK Smartech Agreement, including those which Mr. D recorded in his daily planner. These included the business opportunities set out in the following paragraphs.
+
+United Asia Finance Ltd. (“UA Finance”)
+
+37.  In late May 2018, Mr. C and Mr. D were in contact with respect to a tender from UA Finance for an inserter. Mr. C disclosed to Mr. D that Smartech intended to quote for two models of Neopost Inserter (DS95i at HK$260,000 and DS180i at HK$330,000). Mr. D understood that UA Finance was Smartech’s customer and, in accordance with the Toppan HK Smartech Agreement, that Smartech should win the tender. Toppan HK submitted a quote of HK$296,000 for a DS95i (i.e. which was higher than the quote of HK$260,000 which Smartech intended to submit for the same model). UA Finance ultimately purchased a Pitney Bowes inserter from Smartech (which it had subsequently quoted for).
+
+Zurich Services (HK) Ltd. (“Zurich”)
+
+38.  In late May 2018, Mr. C and Mr. D were in contact with respect to a tender from Zurich for an inserter. Mr. C disclosed to Mr. D that Smartech intended to submit either a quotation of HK$370,000 for a Pitney Bowes Relay 7000 inserter or HK$199,000 for a Neopost DS75i inserter. Mr. D understood that, since Zurich had been using a Pitney Bowes inserter, the expectation under the Toppan HK Smartech Agreement was that Toppan HK was to let Smartech win the tender. In WhatsApp messages discussing Toppan HK’s submission in relation to this tender, Ms. G (who was at the relevant time Toppan HK’s Account Manager) and Mr. D determined that Toppan HK’s quotation for a Neopost DS75i inserter should not be very much higher than Smartech’s quotation (though still higher in order to let Smartech win the tender). Toppan HK ultimately provided to Zurich a final quotation price of HK$230,000 (HK$200,000 for the Neopost DS75i inserter and HK$30,000 for ‘Optical Mark Recognition’) whereas Smartech submitted a final quote of HK$174,000 for the same model (inclusive of a HK$25,000 trade in discount). Smartech eventually was awarded the tender for the DS75i inserter, and sourced the inserter from Toppan HK pursuant to the Toppan HK Smartech Agreement.
+
+OCBC Wing Hang Bank Ltd. (“OCBC”)
+
+39.  In or around late May or June 2018, Mr. D disclosed to Mr. C that Toppan HK intended to submit a quotation for three Neopost DS75i inserters to OCBC, while Mr. C indicated that Smartech intended to submit a quotation for a Pitney Bowes inserter. Since the two companies were quoting different brands of inserters, Mr. D and Mr. C considered these quotations to fall outside the coordination envisaged in the Toppan HK Smartech Agreement (i.e., a “free f[ight]” as Mr. D indicated in his daily planner). OCBC ultimately selected Smartech to supply a Pitney Bowes inserter.
+
+The Hong Kong Mortgage Corporation Ltd. (“HKMC”)
+
+40.  On 9 June 2018, Toppan HK provided a quotation of HK$968,000 for a Neopost DS200i inserter and Neopost AIMS software to Fuji Xerox (Hong Kong) Ltd. (“Fuji Xerox”), a reseller of inserters, for an end user, the HKMC. Fuji Xerox’s quotation was successful. Smartech (which had also submitted a quotation to Ricoh for HKMC) was unsuccessful. Mr. C requested that Toppan HK source the inserter from Smartech (instead of from Neopost directly) and Mr. D and Mr. B agreed to do so. On 13 June 2018, Mr. A emailed Mr. D and Ms. G regarding the purchase of the DS200i inserter, indicating that “I will tell Mr. C to bill you as in the attached, total 58,800 euro”. Toppan HK sourced the Neopost Inserter and software from Smartech for HK$562,160.
+
+Transport Department (“TD”)
+
+41.  On 11 June 2018, Mr. D contacted Mr. C in relation to the potential sale of an inserter to the TD. Mr. D disclosed to Mr. C that the TD was using a Neopost MM4 inserter and hoped to switch to a Neopost DS63 inserter, and indicated that he hoped that Smartech would let Toppan HK win the deal. Ultimately, Smartech was not invited to bid, while Toppan HK was chosen by the TD to supply a Neopost DS75i inserter and sourced the inserter from Neopost directly.
+
+Sun Hung Kai Real Estate Agency Ltd. (“SHK”)
+
+42.  On 6 July 2018, Mr. D contacted Mr. C to discuss their quotations for the sale of an inserter to SHK through Fuji Xerox. Mr. D disclosed to Mr. C that Toppan HK intended to quote HK$248,000 for a Neopost DS75i inserter, while Mr. C disclosed that Smartech intended to quote HK$350,000 for a Pitney Bowes Relay 7000 inserter. Smartech submitted a quotation to Fuji Xerox at the disclosed price for this model of inserter (along with other Pitney Bowes models) and ultimately sold (for delivery to SHK) a Pitney Bowes Relay 4500 inserter for HK$230,000.
+
+Registration and Electoral Office (“REO”)
+
+43.  On 18 July 2018, Mr. D notified Mr. C that Toppan HK intended to provide a quotation for a Neopost DS180i inserter to the REO and would like Smartech to quote a higher price to help Toppan HK win the bid. On 9 November 2018, Mr. F sent Mr. C a WhatsApp audio message which said (in translation from the original Chinese), “[Mr. C], just to let you know that [I] have just talked to [Mr. D], and for Kowloon Bay it should be…that is, they should be the window [in the sense of designated winner] for the new site of the Registration and Electoral Office, and if it gets to prices or things like that, tell [Mr. D] to contact you direct then; he said that he had already told you 2 or 3 months ago. So it doesn’t matter. Should be quoting for DS-180, quoting for DS-180. I am updating you on this first.” Thereafter, Mr. D called Mr. F to inform him that the REO was Toppan HK’s customer and not viable for Smartech. By “not viable” it was meant that Smartech should not submit any bid to REO and that it would not win even if it did so. On 3 January 2019, Mr. F sent Mr. D a WhatsApp audio message which said (in translation from the original Chinese), “Hi [Mr. D], another REO tender has arrived, let’s coordinate when you start working on it, thanks!” On 11 January 2019, Toppan HK submitted to the REO a quotation for the Neopost DS180i inserter of HK$593,000, while Smartech submitted a higher quotation of HK$650,000 for the same model. The tender documents submitted by each party included an anti-collusion clause (clause 24(a)) and a signed Non-collusive Quotation Certificate. The REO subsequently purchased the inserter from Toppan HK in April 2019.
+
+Discovery Bay Management Services Ltd. (“DBMS”)
+
+44.  On 31 August 2018, Ms. G informed Mr. D via WhatsApp message that DBMS intended to change its inserter to Neopost’s DS75. As the customer was using Pitney Bowes’ machines, Mr. D believed that it was Smartech’s customer and responded that (in translation from the original Chinese) “we should discuss with ST [i.e. Smartech]”. On 4 September 2018, Mr. D contacted Mr. C and disclosed to him that Toppan HK intended to propose to DBMS a Neopost DS85i inserter for HK$300,000 or a Neopost DS75i inserter. On 6 September 2018, Toppan HK submitted a quotation for a Neopost DS75i inserter for HK$188,000, while on 21 September 2019, Smartech submitted a quotation of HK$288,000 (inclusive of a special trade-in discount of HK$32,000) for a Neopost DS85 (i.e. a lower price than the intended quotation for the same model disclosed by Toppan HK) or Pitney Bowes Relay 7000 inserter. On 5 November 2018, Mr. F sent a WhatsApp message to Mr. D to ask about the progress of the deal. DBMS ultimately did not proceed to purchase an inserter.
+
+Official Receiver’s Office (“ORO”)
+
+45.  In or around September or October 2018, Toppan HK and Smartech discussed the open tender issued by the ORO for an inserter. Mr. D asked Mr. F to have Smartech submit a quotation of higher than HK$180,000 for a Neopost DS75i inserter. On 19 September 2018, Mr. F sent a WhatsApp message to Mr. C to inform him of Mr. D’s request and indicated that he would accordingly submit a quotation of HK$188,000, with which Mr. C agreed. On 20 September 2018, Smartech duly submitted a quotation of HK$188,000 for a Neopost DS75i inserter (being a quotation of HK$198,000 for the machine with a HK$10,000 trade-in discount), while on the same day Toppan HK submitted a lower price for the same model of HK$149,000 (being a quotation of HK$154,000 for the machine with a HK$5,000 trade-in discount). On 22 October 2018, Mr. F discovered that JOS had won the tender at a price of HK$153,000 for a Neopost DS75i inserter (inclusive of stand or cabinet, maintenance and trade-in discount). The following day, Mr. F sent WhatsApp audio recordings to raise his concern with Mr. C regarding JOS’s low quotation price and had him relay this concern to Mr. D, and stated (in translation from the original Chinese) “I helped him raise to 188,000, I helped him raise to 188,000”.
+
+Sumitomo Mitsui Banking Corporation (“SMBC”)
+
+46.  In or around November 2018, Mr. D contacted Mr. F to request him to coordinate for the sale of an inserter to SMBC (which Mr. F understood to mean that Smartech should not quote for SMBC), if Smartech received an invitation to quote from SMBC. On 22 November 2018, Mr. F informed Mr. C of this request by WhatsApp message. The basis for the request was that Mr. D considered SMBC to be Toppan HK’s customer. Prior to these conversations, on 30 August 2018, Toppan HK had submitted a quotation of HK$947,400 for a Neopost DS200i inserter and AIMS and OMS software. On 27 November 2018, Smartech submitted the higher quotation price of HK$1,200,000 for the same inserter and software package (inclusive of a HK$100,000 trade-in discount). Toppan HK was eventually awarded the tender in May 2019.
+
+B4c(iii) Other contacts
+
+47.  On 27 July 2018, Mr. A, Mr. C, Mr. D and Mr. B met at Neopost HK’s office, at which it was confirmed that all attendees were fine with the Toppan HK Smartech Agreement. On 7 December 2018, the same individuals attended a further meeting at Neopost HK’s office, at which it was agreed among the attendees that the Toppan HK Smartech Agreement would continue into 2019.
+
+48.  The regular contacts between Toppan HK and Smartech for the purpose of giving effect to the Toppan HK Smartech Agreement continued until at least 23 January 2019.
+
+B5. The Contravention
+
+49.  It is the Commission’s case (which is not disputed by Toppan HK) that:
+
+(a) Toppan HK contravened section 6(1) of the Ordinance (i.e. the First Conduct Rule) during the period between 19 April 2018 and 23 January 2019 by virtue of the Subject Conduct (“Contravention”), i.e. the making and/or giving effect by Toppan HK to an agreement, and/or engaging in a concerted practice including the exchange of competitively sensitive information, with Smartech and Neopost HK/NISL to fix prices, rig bids and allocate customers regarding the sale of Neopost Inserters in Hong Kong, as more particularly described in paragraphs 24 to 48 above;
+
+(b) the Contravention had the object of preventing, restricting or distorting competition;
+
+(c) the Contravention constitutes “serious anti-competitive conduct” within the meaning of section 2(1) of the Ordinance; and
+
+(d) the conduct of Mr. B and Mr. D is attributable to Toppan HK, insofar as the Contravention is concerned.
+
+PART C – UNDISPUTED FACTS RELEVANT TO CALCULATION OF THE RECOMMENDED PECUNIARY PENALTY AND INVESTIGATION COSTS FOR TOPPAN HK
+
+50.  The financial year of Toppan HK starts on 1 January and ends on 31 December. The Contravention took place primarily in its financial year ending on 31 December 2018, which is the relevant year for the purposes of calculating the recommended pecuniary penalty for Toppan HK (“Relevant Year”).
+
+51.  The relevant value of sales which is directly or indirectly related to the Contravention comprise the sale by Toppan HK of Neopost Inserters in Hong Kong (“Value of Sales”). In the Relevant Year, Toppan HK generated a Value of Sales in the sum of HK$9,223,500.
+
+52.  According to the definition of “turnover” under section 2 of the Competition (Turnover) Regulation (Cap. 619C), the turnover of Toppan HK in the Relevant Year is HK$551,786,654.
+
+53.  As for the Commission’s costs of and incidental to its investigation into this matter, the Commission has incurred such costs in the sum of HK$1,428,304 (see Annex 1).
+
+Dated this 26th day of June 2023.
+
+
+
+
+_________________________________	
+__________________________________
+
+MINTERELLISON LLP
+Solicitors for the Applicant	
+SLAUGHTER AND MAY
+Solicitors for the 3rd Respondent
+
+
+ANNEX 1
+
+CTEA 1/2021
+
+Breakdown of the Competition Commission’s
+
+costs of and incidental to the investigation into the Subject Conduct
+
+Item	Heads of Investigation Costs Claimed	Quantity	Amount (HK$)
+1	Costs related to the execution of warrants issued under s. 48 of the Competition Ordinance (Cap. 619) (“CO”), from 23 January 2019 to 30 January 2019	5 warrants	756,148
+External digital forensic services	 	756,009
+Local subsistence allowance, travelling and other charges	 	139
+2	External compliance expert advice regarding assessment of the compliance programmes of the subject undertakings	9.6 hours	66,528
+3	External audio recording and transcription services regarding interviews conducted under s. 42 CO	8 interviews	37,675
+4	External translation services regarding translation of s.42 interview transcripts and other Chinese language documents, for use by Competition Commission staff, and external Counsel	5 transcripts	168,398
+5	External legal services regarding legal advice	104 hours	398,624
+6	Miscellaneous: charges for company searches and business registration searches	40 searches	931
+ 	Total:	 	1,428,304
+Appendix 3
+
+STATEMENT OF AGREED FACTS (R4)
+
+(Prepared pursuant to Rule 39 of the Competition Tribunal Rules, Cap. 619D (“CTR”) and
+
+Paragraph 72 of the Competition Tribunal Practice Direction No. 1 (“CTPD1”))
+
+PART A — INTRODUCTION
+
+1.  On 25 November 2021, the Competition Commission (“Commission”) issued proceedings pursuant to sections 92, 94 and 96 of the Competition Ordinance (Cap. 619) (“Ordinance”) before the Competition Tribunal (“Tribunal”) against, inter alia, Smartech Business Systems (Hong Kong) Limited (“Smartech”), being the 4th Respondent in these proceedings, seeking:
+
+(a) A declaration that the 4th Respondent has contravened the First Conduct Rule under section 6 of the Ordinance;
+
+(b) A pecuniary penalty against the 4th Respondent in respect of their contravention of the First Conduct Rule pursuant to section 92 of the Ordinance;
+
+(c) An order requiring the 4th Respondent to pay to the Government an amount equal to the amount of the costs of and incidental to the Commission’s investigation into their conduct or affairs, reasonably incurred by the Commission in connection with proceedings for the contravention;
+
+(d) Costs of these proceedings; and
+
+(e) Such further or other relief as the Tribunal may consider appropriate.
+
+2.  Subject to the approval of the Tribunal, the Commission and the 4th Respondent agree to dispose of these proceedings by way of the summary procedure as provided for in Rule 39 of the CTR and §72 of the CTPD1. The procedure as envisaged by the parties is that sanctioned by the High Court in England and Wales in the case of Re Carecraft Construction Co Ltd [1994] 1 WLR 172 and clarified by the English Court of Appeal in Secretary of State for Trade and Industry v Rogers [1996] 1 WLR 1569, and as adopted in Hong Kong for proceedings under section 214 of the Securities and Futures Ordinance (Cap. 571) and section 168H of the former Companies Ordinance (Cap. 32). Further, the procedure was endorsed by the Honourable Mr. Justice Jonathan Harris in his Reasons for Decision handed down on 17 July 2020 in CTEA 1/2018 as a “readymade blueprint for disposing of proceedings under the Ordinance” (Competition Commission v. Kam Kwong Engineering Company Ltd and Others [2020] HKCT 3, at §17) and by the Honourable Madam Justice Linda Chan in her judgment handed down on 3 November 2020 (Competition Commission v. Quantr Limited and Others [2020] HKCT 10). Additionally, the same procedure was adopted by the Honourable Mr. Justice Godfrey Lam (as he then was) in his Judgment handed down on 16 December 2020 in relation to the penalty proceedings in Competition Commission v. Nutanix Hong Kong Limited and Others [2020] HKCT 11.
+
+3.  This Statement of Agreed Facts (“Statement”) is submitted pursuant to Rule 39 of the CTR and §72 of the CTPD1. The Tribunal is asked to make the orders sought on the basis of the facts set out in this Statement.
+
+4.  For the purpose of resolving these proceedings summarily, by reference to the facts as set out below, the Commission contends and the 4th Respondent admits that, from 19 April 2018 to 23 January 2019, it contravened the First Conduct Rule under section 6 of the Ordinance by having: (i) made or given effect to an agreement to fix prices, rig bids and allocate customers regarding the sale of Neopost branded inserters (“Neopost Inserters”) in Hong Kong; and (ii) engaged in a concerted practice by exchanging competitively sensitive information (together, the “Subject Conduct”), as more particularly described in paragraph 49 below.
+
+5.  The facts as set out in this Statement are agreed by the Commission and the 4th Respondent. The Statement is filed before the Tribunal to support the joint application by the Commission and the 4th Respondent for an order to be made under Rule 39 of the CTR (“Joint Application”).
+
+6.  If the Tribunal for whatever reason is of the view that these proceedings shall not be dealt with by way of the Joint Application, no admission or concession by either the Commission or the 4th Respondent or liability to a pecuniary penalty or costs (save and except the matters set out in paragraphs 50 to 52 below), shall be referred to or relied upon by either the Commission or the 4th Respondent at any adjourned or subsequent hearing or in any other proceedings without the prior written consent of both the Commission and the 4th Respondent.
+
+7.  The Commission shall also be at liberty to disclose a redacted version of this Statement to any third party where it considers proper to do so in the interests of the public.
+
+PART B – UNDISPUTED FACTS RELEVANT TO LIABILITY
+
+B1. The Parties
+
+Smartech
+
+8.  Smartech (formerly known as Pitney Bowes Hong Kong Limited (“PBHK”)) is, and was at all material times, a company incorporated in Hong Kong with its registered office address located at Unit 1902, 19th Floor, 88 Hing Fat Street, North Point, Hong Kong. It was incorporated on 12 December 1997 and its name was changed to Smartech on 3 October 2016 when the current shareholders of Smartech acquired the entire issued shares of PBHK.
+
+Neopost
+
+9.  Quadient Technologies Hong Kong Limited (which was formerly known as Neopost Hong Kong Limited) (“Neopost HK”) is, and was at all material times, a company incorporated in Hong Kong with its registered office address located at Unit 602, One Hysan Avenue, Causeway Bay, Hong Kong.
+
+10.  Quadient International Supply Limited (which was formerly known as Neopost International Supply Limited) (“NISL”) is, and was at all material times, a company registered in England and Wales with its registered office address located at Here East, 14 East Bay Lane, London, United Kingdom, E15 2GW.
+
+Toppan
+
+11.  Toppan Forms (Hong Kong) Limited (“Toppan HK”) is, and was at all material times, a company incorporated in Hong Kong with its registered office address located at Room 51-75A, 10th Floor, Kowloonbay International Trade & Exhibition Centre, 1 Trademark Drive, Kowloon Bay, Hong Kong.
+
+B2. Distribution of Neopost Inserters in Hong Kong
+
+12.  Inserters are machines that insert letters and other correspondence into envelopes for mass mailing. Government departments, insurance companies and banks, which may need to dispatch large volumes of mail, are the usual customers of inserters.
+
+13.  NISL distributed Neopost Inserters worldwide. In Hong Kong, Neopost Inserters were at all material times sold through local distributors which entered into distribution agreements directly with NISL. Inserters were supplied by NISL to the local distributors which were then sold to the end-users and customers.
+
+14.  Mr. A was at all material times employed by Neopost HK as its Business Development Manager Asia Pacific.
+
+15.  At the material times, Toppan HK, Smartech, and another Hong Kong company known as Jardine OneSolution (HK) Limited (currently known as HKBN JOS Limited) (“JOS”) were non-exclusive distributors of Neopost Inserters in Hong Kong. The relevant distribution arrangements for each of these entities were as follows:
+
+(a) On 18 July 2006, NISL entered into a distribution agreement with JOS for the latter to resell Neopost frankers. Frankers are machines that produce an ink stamp on a letter, or any document to be mailed, as proof of postage paid. Although JOS’s distribution agreement with NISL only covered frankers, JOS was in practice also allowed to resell certain models of Neopost Inserters (from at least 2015 onwards).
+
+(b) On 14 April 2009, NISL entered into a non-exclusive distribution agreement with Toppan HK for the latter to resell Neopost Inserters.
+
+(c) In February 2018, NISL entered into a non-exclusive distribution agreement with Smartech for the latter to resell Neopost’s frankers. Whilst Smartech’s distribution agreement did not cover inserters, NISL had on 1 September 2017 entered into a non-exclusive distribution agreement with Smart Post (Hong Kong) Limited (“Smart Post”), a wholly own subsidiary of Smartech, for Smart Post to resell Neopost Inserters.
+
+16.  Separately, Smartech was the exclusive distributor in Hong Kong for Pitney Bowes branded inserters and frankers.
+
+B3. The relevant facts leading up to the Subject Conduct
+
+17.  Set out below are the relevant undisputed facts leading up to the formation and implementation of the Subject Conduct.
+
+B3a. “Gentlemen Agreement” between Neopost HK/NISL, Toppan HK and JOS from 2010 to 2017
+
+18.  Since 2010, there had been a “Gentlemen Agreement” set up by Neopost HK/NISL to govern the relationship between Toppan HK and JOS with respect to the sale of Neopost Inserters and frankers. Among other things, the “Gentlemen Agreement” required Toppan HK and JOS not to sell to each other’s customers (“Gentlemen Agreement”). Neopost HK/NISL required the distributors to adhere to the terms of that agreement in order to retain their authorisation to sell both frankers and inserters.
+
+19.  Since commencement of the Ordinance, there was one incident in which Toppan HK and Neopost HK/NISL attempted to enforce the Gentlemen Agreement as a result of JOS selling to a customer of Toppan HK. However, in early March 2017, JOS responded to Neopost HK/NISL that it did not accept the Gentlemen Agreement or any agreement or understandings then in place involving JOS.
+
+B3b. Attempted revisions to the Gentlemen Agreement by Neopost HK/NISL in 2017
+
+20.  In the process of recruiting Smartech to be a new distributor for Neopost Inserters in early 2017, Neopost HK/NISL considered modifying the Gentlemen Agreement to apply to Toppan HK and Smartech, to manage conflicts between the three distributors. In this connection, two draft documents were prepared by Neopost HK/NISL seeking to prohibit JOS, Toppan HK and Smartech from selling Neopost products to each other’s customers. Internal discussions at Neopost HK/NISL were held between Mr. A and his superiors concerning options for incentivising and/or forcing the distributors to agree to and comply with a new version of the agreement.
+
+21.  After realizing that the two draft documents might contravene the Ordinance, Neopost HK/NISL came up with the idea of requiring the winning distributor (the newcomer) to purchase products from the losing distributor if the customer was a customer of the losing distributor (the incumbent) at a pre-defined price (“Inter-Distributor Purchase Agreement”). In this regard, a draft document was prepared by Neopost HK/NISL and circulated internally, but ultimately the agreement reached between the parties extended well beyond the terms of the Inter-Distributor Purchase Agreement.
+
+B3c. Meetings between Neopost HK/NISL, Toppan HK and Smartech leading up to the Subject Conduct
+
+22.  Despite objections by Toppan HK, Neopost HK/NISL formally appointed Smartech as a distributor of Neopost products in Hong Kong in February 2018.
+
+23.  On 26 February 2018, Mr. A (Neopost HK/NISL) arranged and attended a meeting with Mr. B, who was at the material time the Assistant General Sales Manager of Toppan HK (who later became the General Sales Manager of Toppan HK in January 2019) and Mr. C, who was the Small Mailing Business Sales Director of Smartech, to facilitate and promote cooperation between them. During that meeting, Mr. A tried to comfort Mr. B that the introduction of Smartech as an additional distributor should not affect Toppan HK’s existing customer base and business. However, there was no conclusion reached at the meeting. On 29 March 2018, Mr. A arranged another meeting with Mr. B and Mr. C to continue with their discussion at the previous meeting but again, no conclusion was reached among the parties.
+
+B4. The Subject Conduct
+
+24.  Set out below is the Commission’s case (which is not disputed by Smartech) in relation to the Subject Conduct.
+
+B4a. Meeting of 19 April 2018
+
+25.  On 19 April 2018, Mr. A arranged and attended a meeting with Mr. B and Mr. D, who was at the material times the Sales Manager of Toppan HK and team leader of the Machinery Products and Services team, at the office of Toppan HK. In a preceding WhatsApp message, Mr. A had asked Mr. B to meet to discuss the “price” issue.
+
+26.  During the meeting, among other things, Mr. A initiated a discussion that Toppan HK and Smartech should focus on their own customers and not actively approach the other’s customers, and Toppan HK agreed. Toppan HK and Smartech would avoid cut-throat price competition with each other. If Toppan HK noticed that a customer was Smartech’s customer, Toppan HK’s quotation should be higher than that of Smartech, and vice versa.
+
+27.  On the same day, after the meeting, Mr. A sent a WhatsApp message to Mr. B, which stated “I discussed with [Mr. C]. All good. Shall we have a meeting together in my office? ….”. In other words, Mr. A discussed the idea raised during the meeting with Mr. C afterwards, who was on board with the idea, so Mr. A reported back to Mr. B and arranged another meeting to further discuss the arrangement.
+
+B4b. Meeting of 4 May 2018
+
+28.  On 4 May 2018, at the invitation of Mr. A (Neopost), Mr. B and Mr. D (Toppan HK), and Mr. C (Smartech) and Mr. E, who was at the relevant time Smartech’s Services Director, attended a meeting with Mr. A at the office of Neopost HK. The purpose of the meeting was to discuss how to reduce “conflicts” between the two distributors of Neopost Inserters (i.e. Toppan HK and Smartech), by which was meant, the degree to which they would compete for and poach each other’s customers.
+
+29.  In summary, the attendees reached an agreement (“Toppan HK Smartech Agreement”) that:
+
+(a) If a company requesting a quotation for Neopost Inserters had been using Pitney Bowes’ inserters (meaning that the company was Smartech’s customer, since Smartech was the exclusive distributor of Pitney Bowes’ inserters), Toppan HK would allow Smartech to win the request for quotation (“RFQ”) by quoting a price higher than Smartech’s;
+
+(b) On the other hand, if the company requesting the quotation for Neopost Inserters had been using Neopost Inserters (meaning that the company was probably Toppan HK’s customer), Smartech would allow Toppan HK to win the RFQ by quoting a price higher than Toppan HK’s;
+
+(c) In addition, the party winning the RFQ would then source the Neopost Inserters from the losing party instead of directly from Neopost HK/NISL (which did not reflect a need for technical assistance from one party to the other but rather aimed to ensure that both of Toppan HK and Smartech would obtain business); and
+
+(d) Mr. C (Smartech) and Mr. D (Toppan HK) could make enquiries of each other to ascertain whether a particular customer was either Toppan HK’s or Smartech’s customer.
+
+B4c. Subsequent meetings and contacts between Toppan HK and Smartech giving effect to the Toppan HK Smartech Agreement
+
+30.  After the meeting on 4 May 2018, representatives of Toppan HK and Smartech maintained regular contacts to exchange competitively sensitive information in furtherance of the Toppan HK Smartech Agreement, at first primarily between Mr. D and Mr. C and subsequently between Mr. D and Mr. F (who was at the relevant time Smartech’s Senior Business Manager). Several of the relevant contacts and associated disclosures were recorded in the daily planner of Mr. D, as well as in WhatsApp messages between the relevant individuals.
+
+31.  This included exchanging intended quotation prices and models of inserters, before submitting quotations or bids to potential customers. In several cases, this was done with the explicit or implicit understanding that one party would bid a higher price than the other in an attempt to ensure that the latter would win the relevant business (for example, as it was its existing customer). On at least two occasions, Smartech purchased Neopost Inserters from Toppan HK after it won the business opportunities (that is, the Department of Health and Zurich Services (HK) Ltd. tenders, described further below). There was also one occasion where Toppan HK purchased Neopost Inserters from Smartech (that is, The Hong Kong Mortgage Corporation Limited tender below).
+
+B4c(i) Business opportunities discussed at meeting of 24 May 2018
+
+32.  On 24 May 2018, Mr. C (Smartech) and Mr. D (Toppan HK) met at a Pacific Coffee coffee shop near the office of Toppan HK. At this meeting, among other things, Mr. C disclosed to Mr. D the details of three intended Smartech quotations relating to Neopost Inserters, which Mr. D recorded in his daily planner. The relevant details and discussions, from the 24 May meeting and afterwards, are set out below.
+
+Canon Hong Kong Company Ltd. (“Canon”)
+
+33.  Mr. C disclosed to Mr. D that Smartech intended to provide to Canon a price quotation of HK$350,000 for a Neopost DS180 inserter. He further proposed that Toppan HK submit a quotation between HK$380,000 and HK$400,000 for this inserter to Canon. Mr. D later found out that Toppan HK had already submitted a quotation to Canon. Smartech was ultimately selected to supply a Pitney Bowes inserter (which it had also quoted for).
+
+Department of Health (“DOH”)
+
+34.  Mr. C disclosed to Mr. D that Smartech intended to provide to the DOH a price quotation of HK$325,000, plus an additional 14% for an all-inclusive maintenance package, for a Neopost DS90i inserter. On that same day but before the meeting, Mr. F had contacted Mr. C through WhatsApp to discuss the DOH deal and to enquire whether they needed to communicate with Toppan HK regarding the deal. Ultimately, although the DOH was Toppan HK’s customer, Toppan HK was not invited to submit a quotation (unknown to Smartech). Smartech won this tender in November 2018 and, in purported compliance with the Toppan HK Smartech Agreement, sourced a Neopost DS95i inserter from Toppan HK in December 2018. The tender document signed and submitted by Smartech included a clause 22(a), whereby the supplier was regarded to have represented and warranted to the Government that it had not engaged in collusion in relation to the invitation to quotation.
+
+Hong Kong Cable TV Ltd. (“Cable TV”)
+
+35.  Mr. C disclosed to Mr. D that Smartech intended to provide to Cable TV a price quotation of around HK$230,000 to HK$250,000 for a Neopost DS75i inserter. Subsequently, Mr. D contacted Mr. C and Mr. F to inform them that Cable TV was Toppan HK’s customer; ultimately, however, Toppan HK was not invited to bid. On 25 May 2018, Smartech quoted a price of HK$230,000 for this inserter to Cable TV, in line with Mr. C’s disclosure to Mr. D, though the net price was HK$188,000 to reflect the application of a special trade-in discount. Cable TV subsequently purchased a Pitney Bowes inserter from Smartech.
+
+B4c(ii) Business opportunities discussed after meeting of 24 May 2018
+
+36.  Subsequent to the meeting on 24 May 2018, Toppan HK and Smartech maintained regular contacts in respect of inserter business opportunities to give effect to the Toppan HK Smartech Agreement, including those which Mr. D recorded in his daily planner. These included the business opportunities set out in the following paragraphs.
+
+United Asia Finance Ltd. (“UA Finance”)
+
+37.  In late May 2018, Mr. C and Mr. D were in contact with respect to a tender from UA Finance for an inserter. Mr. C disclosed to Mr. D that Smartech intended to quote for two models of Neopost Inserter (DS95i at HK$260,000 and DS180i at HK$330,000). Mr. D understood that UA Finance was Smartech’s customer and, in accordance with the Toppan HK Smartech Agreement, that Smartech should win the tender. Toppan HK submitted a quote of HK$296,000 for a DS95i (i.e. which was higher than the quote of HK$260,000 which Smartech intended to submit for the same model). UA Finance ultimately purchased a Pitney Bowes inserter from Smartech (which it had subsequently quoted for).
+
+Zurich Services (HK) Ltd. (“Zurich”)
+
+38.  In late May 2018, Mr. C and Mr. D were in contact with respect to a tender from Zurich for an inserter. Mr. C disclosed to Mr. D that Smartech intended to submit either a quotation of HK$370,000 for a Pitney Bowes Relay 7000 inserter or HK$199,000 for a Neopost DS75i inserter. Mr. D understood that, since Zurich had been using a Pitney Bowes inserter, the expectation under the Toppan HK Smartech Agreement was that Toppan HK was to let Smartech win the tender. In WhatsApp messages discussing Toppan HK’s submission in relation to this tender, Ms. G (who was at the relevant time Toppan HK’s Account Manager) and Mr. D determined that Toppan HK’s quotation for a Neopost DS75i inserter should not be very much higher than Smartech’s quotation (though still higher in order to let Smartech win the tender). Toppan HK ultimately provided to Zurich a final quotation price of HK$230,000 (HK$200,000 for the Neopost DS75i inserter and HK$30,000 for ‘Optical Mark Recognition’) whereas Smartech submitted a final quote of HK$174,000 for the same model (inclusive of a HK$25,000 trade in discount). Smartech eventually was awarded the tender for the DS75i inserter, and sourced the inserter from Toppan HK pursuant to the Toppan HK Smartech Agreement.
+
+OCBC Wing Hang Bank Ltd. (“OCBC”)
+
+39.  In or around late May or June 2018, Mr. D disclosed to Mr. C that Toppan HK intended to submit a quotation for three Neopost DS75i inserters to OCBC, while Mr. C indicated that Smartech intended to submit a quotation for a Pitney Bowes inserter. Since the two companies were quoting different brands of inserters, Mr. D and Mr. C considered these quotations to fall outside the coordination envisaged in the Toppan HK Smartech Agreement (i.e., a “free f[ight]” as Mr. D indicated in his daily planner). OCBC ultimately selected Smartech to supply a Pitney Bowes inserter.
+
+The Hong Kong Mortgage Corporation Ltd. (“HKMC”)
+
+40.  On 9 June 2018, Toppan HK provided a quotation of HK$968,000 for a Neopost DS200i inserter and Neopost AIMS software to Fuji Xerox (Hong Kong) Ltd. (“Fuji Xerox”), a reseller of inserters, for an end user, the HKMC. Fuji Xerox’s quotation was successful. Smartech (which had also submitted a quotation to Ricoh for HKMC) was unsuccessful. Mr. C requested that Toppan HK source the inserter from Smartech (instead of from Neopost directly) and Mr. D and Mr. B (Toppan HK) agreed to do so. On 13 June 2018, Mr. A emailed Mr. D and Ms. G (Toppan HK) regarding the purchase of the DS200i inserter, indicating that “I will tell [Mr. C] to bill you as in the attached, total 58,800 euro”. Toppan HK sourced the Neopost Inserter and software from Smartech for HK$562,160.
+
+Transport Department (“TD”)
+
+41.  On 11 June 2018, Mr. D contacted Mr. C in relation to the potential sale of an inserter to the TD. Mr. D disclosed to Mr. C that the TD was using a Neopost MM4 inserter and hoped to switch to a Neopost DS63 inserter, and indicated that he hoped that Smartech would let Toppan HK win the deal. Ultimately, Smartech was not invited to bid, while Toppan HK was chosen by the TD to supply a Neopost DS75i inserter and sourced the inserter from Neopost directly.
+
+Sun Hung Kai Real Estate Agency Ltd. (“SHK”)
+
+42.  On 6 July 2018, Mr. D contacted Mr. C to discuss their quotations for the sale of an inserter to SHK through Fuji Xerox. Mr. D disclosed to Mr. C that Toppan HK intended to quote HK$248,000 for a Neopost DS75i inserter, while Mr. C disclosed that Smartech intended to quote HK$350,000 for a Pitney Bowes Relay 7000 inserter. Smartech submitted a quotation to Fuji Xerox at the disclosed price for this model of inserter (along with other Pitney Bowes models) and ultimately sold (for delivery to SHK) a Pitney Bowes Relay 4500 inserter for HK$230,000.
+
+Registration and Electoral Office (“REO”)
+
+43.  On 18 July 2018, Mr. D notified Mr. C that Toppan HK intended to provide a quotation for a Neopost DS180i inserter to the REO and would like Smartech to quote a higher price to help Toppan HK win the bid. On 9 November 2018, Mr. F sent Mr. C a WhatsApp audio message which said (in translation from the original Chinese), “[Mr. C], just to let you know that [I] have just talked to [Mr. D], and for Kowloon Bay it should be…that is, they should be the window [in the sense of designated winner] for the new site of the Registration and Electoral Office, and if it gets to prices or things like that, tell [Mr. D] to contact you direct then; he said that he had already told you 2 or 3 months ago. So it doesn’t matter. Should be quoting for DS-180, quoting for DS-180. I am updating you on this first.” Thereafter, Mr. D called Mr. F to inform him that the REO was Toppan HK’s customer and not viable for Smartech. By “not viable” it was meant that Smartech should not submit any bid to REO and that it would not win even if it did so. On 3 January 2019, Mr. F sent Mr. D a WhatsApp audio message which said (in translation from the original Chinese), “Hi [Mr. D], another REO tender has arrived, let’s coordinate when you start working on it, thanks!” On 11 January 2019, Toppan HK submitted to the REO a quotation for the Neopost DS180i inserter of HK$593,000, while Smartech submitted a higher quotation of HK$650,000 for the same model. The tender documents submitted by each party included an anti-collusion clause (clause 24(a)) and a signed Non-collusive Quotation Certificate. The REO subsequently purchased the inserter from Toppan HK in April 2019.
+
+Discovery Bay Management Services Ltd. (“DBMS”)
+
+44.  On 31 August 2018, Ms. G informed Mr. D via WhatsApp message that DBMS intended to change its inserter to Neopost’s DS75. As the customer was using Pitney Bowes’ machines, Mr. D believed that it was Smartech’s customer and responded that (in translation from the original Chinese) “we should discuss with ST [i.e. Smartech]”. On 4 September 2018, Mr. D contacted Mr. C and disclosed to him that Toppan HK intended to propose to DBMS a Neopost DS85i inserter for HK$300,000 or a Neopost DS75i inserter. On 6 September 2018, Toppan HK submitted a quotation for a Neopost DS75i inserter for HK$188,000, while on 21 September 2019, Smartech submitted a quotation of HK$288,000 (inclusive of a special trade-in discount of HK$32,000) for a Neopost DS85 (i.e. a lower price than the intended quotation for the same model disclosed by Toppan HK) or Pitney Bowes Relay 7000 inserter. On 5 November 2018, Mr. F sent a WhatsApp message to Mr. D to ask about the progress of the deal. DBMS ultimately did not proceed to purchase an inserter.
+
+Official Receiver’s Office (“ORO”)
+
+45.  In or around September or October 2018, Toppan HK and Smartech discussed the open tender issued by the ORO for an inserter. Mr. D asked Mr. F to have Smartech submit a quotation of higher than HK$180,000 for a Neopost DS75i inserter. On 19 September 2018, Mr. F sent a WhatsApp message to Mr. C to inform him of Mr. D’s request and indicated that he would accordingly submit a quotation of HK$188,000, with which Mr. C agreed. On 20 September 2018, Smartech duly submitted a quotation of HK$188,000 for a Neopost DS75i inserter (being a quotation of HK$198,000 for the machine with a HK$10,000 trade-in discount), while on the same day Toppan HK submitted a lower price for the same model of HK$149,000 (being a quotation of HK$154,000 for the machine with a HK$5,000 trade-in discount). On 22 October 2018, Mr. F discovered that JOS had won the tender at a price of HK$153,000 for a Neopost DS75i inserter (inclusive of stand or cabinet, maintenance and trade-in discount). The following day, Mr. F sent WhatsApp audio recordings to raise his concern with Mr. C regarding JOS’s low quotation price and had him relay this concern to Mr. D, and stated (in translation from the original Chinese) “I helped him raise to 188,000, I helped him raise to188,000”.
+
+Sumitomo Mitsui Banking Corporation (“SMBC”)
+
+46.  In or around November 2018, Mr. D contacted Mr. F to request him to coordinate for the sale of an inserter to SMBC (which Mr. F understood to mean that Smartech should not quote for SMBC), if Smartech received an invitation to quote from SMBC. On 22 November 2018, Mr. F informed Mr. C of this request by WhatsApp message. The basis for the request was that Mr. D considered SMBC to be Toppan HK’s customer. Prior to these conversations, on 30 August 2018, Toppan HK had submitted a quotation of HK$947,400 for a Neopost DS200i inserter and AIMS and OMS software. On 27 November 2018, Smartech submitted the higher quotation price of HK$1,200,000 for the same inserter and software package (inclusive of a HK$100,000 trade-in discount). Toppan HK was eventually awarded the tender in May 2019.
+
+B4c(iii) Other contacts
+
+47.  On 27 July 2018, Mr. A, Mr. C, Mr. D and Mr. B met at Neopost HK’s office, at which it was confirmed that all attendees were fine with the Toppan HK Smartech Agreement. On 7 December 2018, the same individuals attended a further meeting at Neopost HK’s office, at which it was agreed among the attendees that the Toppan HK Smartech Agreement would continue into 2019.
+
+48.  The regular contacts between Toppan HK and Smartech for the purpose of giving effect to the Toppan HK Smartech Agreement continued until at least 23 January 2019.
+
+B5. The Contravention
+
+49.  It is the Commission’s case (which is not disputed by Smartech) that:
+
+(a) Smartech contravened section 6(1) of the Ordinance (i.e. the First Conduct Rule) during the period between 19 April 2018 and 23 January 2019 by virtue of the Subject Conduct (“Contravention”), i.e. the making and/or giving effect by Smartech to an agreement, and/or engaging in a concerted practice including the exchange of competitively sensitive information, with Toppan HK and Neopost HK/NISL to fix prices, rig bids and allocate customers regarding the sale of Neopost Inserters in Hong Kong, as more particularly described in paragraphs 24 to 48 above;
+
+(b) the Contravention had the object of preventing, restricting or distorting competition;
+
+(c) the Contravention constitutes “serious anti-competitive conduct” within the meaning of section 2(1) of the Ordinance; and
+
+(d) the conduct of Mr. F and Mr. C is attributable to Smartech insofar as the Contravention is concerned.
+
+PART C – UNDISPUTED FACTS RELEVANT TO CALCULATION OF THE RECOMMENDED PECUNIARY PENALTY AND INVESTIGATION COSTS FOR SMARTECH
+
+50.  The financial year of Smartech starts on 1 January and ends on 31 December. The Contravention took place primarily in the financial year ending on 31 December 2018, which is the relevant year for the purposes of calculating the recommended pecuniary penalty for Smartech (“Relevant Year”).
+
+51.  The relevant value of sales which is directly or indirectly related to the Contravention comprise the sale by Smartech of Neopost Inserters in Hong Kong (“Value of Sales”). In the Relevant Year, Smartech generated a Value of Sales in the sum of HK$3,454,860.
+
+52.  According to the definition of “turnover” under section 2 of the Competition (Turnover) Regulation (Cap. 619C), the turnover of Smartech in the Relevant Year is in the total sum of HK$40,997,015.
+
+53.  As for the Commission’s costs of and incidental to its investigation into this matter, the Commission has incurred such costs in the sum of HK$1,428,304 (see Annex 1).
+
+
+
+Dated this 26th day of June 2023.
+
+
+
+
+__________________________________	
+__________________________________
+
+MINTERELLISON LLP
+Solicitors for the Applicant	
+STEPHENSON HARWOOD
+Solicitors for the 4th Respondent
+ 
+
+ANNEX 1
+
+CTEA 1/2021
+
+Breakdown of the Competition Commission’s
+
+costs of and incidental to the investigation into the Subject Conduct
+
+Item	Heads of Investigation Costs Claimed	Quantity	Amount (HK$)
+1	Costs related to the execution of warrants issued under s. 48 of the Competition Ordinance (Cap. 619) (“CO”), from 23 January 2019 to 30 January 2019	5 warrants	756,148
+External digital forensic services	 	756,009
+Local subsistence allowance, travelling and other charges	 	139
+2	External compliance expert advice regarding assessment of the compliance programmes of the subject undertakings	9.6 hours	66,528
+3	External audio recording and transcription services regarding interviews conducted under s. 42 CO	8 interviews	37,675
+4	External translation services regarding translation of s.42 interview transcripts and other Chinese language documents, for use by Competition Commission staff, and external Counsel	5 transcripts	168,398
+5	External legal services regarding legal advice	104 hours	398,624
+6	Miscellaneous: charges for company searches and business registration searches	40 searches	931
+ 	Total:	 	1,428,304
+ 
+

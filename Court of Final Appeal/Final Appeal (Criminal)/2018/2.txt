@@ -1,0 +1,486 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No. 2 of 2018
+
+[2018] HKCFA 30
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 2 OF 2018 (CRIMINAL)
+
+(ON APPEAL FROM HCMA NO. 49 OF 2016)
+
+_______________________
+
+BETWEEN
+
+HKSAR	Respondent
+
+and
+LEUNG CHUN KIT BRANDON (梁竣傑)
+Appellant
+_______________________
+
+Before: Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Stock NPJ and Lord Walker of Gestingthorpe NPJ
+Date of Hearing: 11 June 2018
+Date of Judgment: 4 July 2018
+_______________________
+
+JUDGMENT
+
+_______________________
+
+Chief Justice Ma:
+
+1.  I agree with the judgment of Mr Justice Stock NPJ.
+
+ 
+
+Mr Justice Ribeiro PJ:
+
+2.  I agree with the judgment of Mr Justice Stock NPJ.
+
+ 
+
+Mr Justice Fok PJ:
+
+3.  I agree with the judgment of Mr Justice Stock NPJ.
+
+ 
+
+Mr Justice Stock NPJ:
+
+The issue
+
+4.  The question in this appeal is whether the prosecution has a right to a closing speech in a criminal trial in the magistracy where the defendant is unrepresented and, apart from giving evidence himself, has not called any witnesses.
+
+The Proceedings
+
+5.  An information was laid against the appellant alleging that in January 2014 being a data user, he provided the personal data of one Joseph Lei to a Ms Tam for use by her in direct marketing.  Without taking certain prescribed measures before providing that data, such as obtaining Lei’s consent, such action constitutes an offence contrary to s.35J(5)(b) of the Personal Data (Privacy) Ordinance, Cap 486. 
+
+6.  A similar information was laid against Ms Tam but in her case the allegation was that she had for the purpose of direct marketing used Lei’s personal data supplied by the appellant.
+
+7.  The facts fall within a narrow compass.  Mr Lei’s evidence was that he and the appellant were acquaintances through alumni activities and that at a Christmas party in 2013 he handed his name card to the appellant. However, without his consent, the appellant then provided Ms Tam with information from that card, namely, Lei’s first name and his mobile telephone number.  The appellant knew that Ms Tam worked for an insurance company; indeed, she had sold financial products to him.  Shortly thereafter Ms Tam contacted Lei both by Whatsapp messages and two telephone calls and tried to interest him in financial planning services.  Lei took umbrage at the use of his personal details in this way, gave these approaches short shrift, and took up the matter with the appellant.  Unfortunately, this resulted in hostile exchanges and a report by Lei to the police which in turn triggered the prosecutions in question.  The personal data which was the subject of the charges was Mr Lei’s name and telephone number.
+
+8.  The defence case was that the appellant and Lei were friends, not merely alumni acquaintances, that at the Christmas party Lei had asked the appellant to introduce friends to him so that he, Lei, could expand the customer base for his photography business.  As it happened, Ms Tam had asked the appellant whether he could introduce friends to her, so he provided her with the names and contact details of about ten persons, including Mr Lei, making clear to her that she was not to call them until their consent had been secured and, further, that she was not to engage in “hard selling” with them.  Some of these persons agreed to be contacted, some did not.  It was in this context that he had provided Ms Tam with Lei’s name and telephone number, but certainly not in order that she should use it for the purpose of direct marketing.  He told Lei that he had given her his contact details and Lei indicated his consent.  The appellant testified to this effect.
+
+9.  The trial took place at the Eastern Magistrates’ Court in December 2015 and on 30 December 2015 the magistrate[1] found the appellant guilty of the offence charged and imposed a fine of HK$5000.  Ms Tam was acquitted.
+
+10.  At trial, the appellant was throughout unrepresented.  He testified on his own behalf but called no witnesses.  Ms Tam was represented by counsel.
+
+11.  At the conclusion of all the evidence, counsel for the prosecution made closing submissions in the course of which the appellant raised the issue whether the prosecutor was entitled to do so. Having heard submissions on that issue the magistrate ruled that he was entitled to do so.  Those closing submissions covered submissions as to law, factual submissions in relation to Ms Tam and factual submissions in relation to the appellant.
+
+12.  The appellant appealed against his conviction.  He was represented on appeal, and on 2 June 2017 his appeal was dismissed.[2]
+
+13.  There were several grounds of appeal: first, a suggested infringement of the appellant’s right to a fair trial by reason of the fact that the prosecutor had made submissions as to the evidence, including that of the appellant, even though the appellant had been unrepresented; further, that the magistrate had misinterpreted the definitions of “direct marketing”, “data” and “personal data”; and, finally, that there was a lurking doubt about the safety of the conviction given that the prosecution case as advanced in submissions to the magistrate was materially inconsistent with the evidence adduced and that the evidence of Lei was materially unreliable.  All these grounds were rejected. 
+
+The Questions
+
+14.  On 5 February 2018 this Court[3] granted leave to appeal in respect of the following questions of law as being questions of great and general importance:
+
+“In the trial of a criminal case in the magistracy, where an unrepresented defendant, apart from giving evidence himself, has not called any witnesses (hereinafter referred to as “the specific circumstances”):
+
+(a) Does the prosecution have the right to make a closing speech under section 19(2) of the Magistrates Ordinance (Cap 227)?
+
+(b) Is R v Au-yeung Tat-shing and another ([1988] 1 HKLR 1) a correct interpretation of section 19(2) of the Magistracy Ordinance (Cap 227)?
+
+(c) If the answer to both (a) and (b) are “yes”, then is the unrepresented defendant’s constitutional right to have a just and fair trial infringed by the prosecution’s right under section 19(2) of the Magistrates Ordinance to make a closing speech in “the specific circumstances”?
+
+(d) If the answer to (c) “yes”, is such infringement justified?”
+
+The central contention
+
+15.  Subject only to such impact as the decision in R v Au-yeung Tat-shing and another[4] may have had upon proceedings in the magistracy, the rule denying the prosecutor a right of reply in trials where the defendant appears unrepresented and gives no evidence save on his own behalf has consistently been applied in Hong Kong.  It is a rule which has its roots in practice in criminal proceedings in England and Wales, the relevance of which, for present purposes, is necessary to explain at the outset.
+
+16.  It is argued by the respondent that the rule is applicable to criminal proceedings in the Court of First Instance and the District Court, but not to proceedings in the Magistrates Court and that the reason it does not there apply is to be found in the terms of s.19(2) of the Magistrates Ordinance. For that proposition, they rely on the decision of the Court of Appeal in R v Au-yeung Tat-shing as did the magistrate in this case and the judge upon appeal. In that case it was held that s.19(2) conferred on each party the right to make a closing speech and, further, it was a right not limited to cases of represented defendants or to cases where, if unrepresented, the defendant not only gives evidence himself but calls witnesses as to facts[5].
+
+17.  In so far as is relevant to this appeal, section 19 of the Magistrates Ordinance provides as follows:
+
+“ (1) Where the defendant is present at the hearing, the substance of the complaint or the information (or the summons which has been issued … pursuant to such complaint or information) shall be read over to him, and explained if necessary, and he shall be asked whether he admits or denies the truth of the complaint or information. If the defendant admits the truth of the complaint or information, his admission shall be recorded as nearly as possible in the words used by him, and the magistrate shall convict him or make an order against him accordingly; but if he does not admit the truth of the complaint or information as aforesaid, then the magistrate shall proceed to hear upon oath the complainant or informant and such witnesses as may be produced in support of the complaint or information, and also to hear the defendant and such evidence as may be adduced in defence;and also to hear and examine such other witnesses as the complainant or informant may examine in rebuttal, if the defendant or his counsel has examined any witnesses or given any evidence other than as to the defendant’s general character.
+
+(2) The magistrate, having heard what each party has to say and the witnesses and evidence so adduced, shall consider the whole matter and determine the same, and shall convict or make an order against the defendant or dismiss the complaint or information, as the case may be.”
+
+18.  It is the phrase in subsection (2) “having heard what each party has to say” which is at the heart of this appeal, for the suggestion is that it confers upon each party the right of reply and, further, that the right thus conferred is unqualified.
+
+The relevance of historical context
+
+19.  Neither the phrase nor the subsection in which it appears speak for themselves.  The subsection is meaningless on its own and in the context of the section as a whole, it is not possible to say that the phrase permits of only one interpretation.  The term “right of reply” is not used; there is no express direction to hear the parties “after all the evidence has been adduced”; and it is arguable that the phrase in question refers, not to a right of reply – let alone to such a right in all circumstances - but to the earlier stages in the course of proceedings, referred to insubsection (1), when the complainant is heard on oath and the defendant is heard, together with such evidence as he may adduce.  Furthermore, there are decisions of the courts of this jurisdiction which run contrary to the interpretation offered by the Court of Appeal in Au-yeung.[6]  
+
+20.  Any valid exercise in interpretation must be contextual which means that the passage in issue is to be read not only in the context of the enactment as a whole but also in the context of existing common law, where relevant, of legislative history and of other statutes in pari materia.[7]  This is especially so when the interpretation postulated by the decision in Au-yeung would, if correct, spell an exception to the general rule of practice.
+
+21.  The Hong Kong legislative context cannot, in turn, properly be understood without tracing the development of the relevant rule in England.  That is because of the importation of English rules of practice and  procedure by virtue of s.9(3) of the Criminal Procedure Ordinance, Cap 221[8] and, more particularly, because the effect of certain provisions in that Ordinance which refer expressly to the right of reply[9] can better be understood by reference to preceding legislation in England.
+
+22.  Accordingly, I turn first to the development of the exclusionary rule in England.  In doing so, and thereafter in reviewing developments in Hong Kong, the intention is to illustrate the particular care which has been taken over time to create and maintain some procedural equality of arms for unrepresented defendants and, in the context of the relevant legislation, to recognise the specificity employed in delineating the right of the prosecutor to reply.  The object of the illustration is to test whether the broad words of the statutory provision which is at the heart of this appeal can have been intended to effect a fundamental change to the rule in question.
+
+The practice in England
+
+23.  Until recently, the long established practice in England and Wales was that where a defendant was unrepresented and had either called no evidence at all or was himself the only witness, the prosecutor lost the right to make closing submissions.[10]  In R v Mondon[11] the practice was described by Edmund Davies LJ as a “rule of practice”, well established[12].  In R v Paul[13] the Court of Appeal of England and Wales said that the practice was more than a mere convention.  As we shall see, this has also been the practice in Hong Kong.          
+
+24.  Before 1898, defendants were not competent witnesses in their own defence.  If a defendant called no witnesses, the privilege of making a closing speech for the prosecution was highly restricted: only the Attorney General enjoyed the right of reply.[14]  Some progress was made in 1836 when those indicted for felony were enabled to make their defence through counsel,[15] whereas it seems that previously a defendant could address a jury and cross-examine witnesses but the assistance of counsel was only permitted to argue points of law and to suggest questions for his client to ask in cross-examination.[16]  The 1836 change did not result in any broadening of the prosecutor’s right of reply.
+
+25.  The limitation on the prosecutor’s right of reply was preserved in 1865 with the enactment of the Criminal Procedure Act.[17]  Section 2 provided that where any defendant was defended by counsel, “but not otherwise” (emphasis added), counsel for the prosecution was accorded a right to address the jury a second time at the end of the prosecution case, if no evidence was to be adduced by the defence.  But even the newly introduced right to sum up in the specified circumstances was one which the courts said should be used sparingly.[18]
+
+26.  A significant milestone was reached with the enactment of the Criminal Evidence Act 1898.  Section 1 provided that every person charged with an offence was a competent witness for the defence and preserved a defendant’s right to make an unsworn statement.  Section 3 of the Act stipulated that:
+
+“In cases where the right of reply depends upon the question whether evidence has been called for the defence, the fact that the person charged has been called as a witness shall not of itself confer on the prosecution the right of reply.”
+
+In other words, where the defendant was not represented by counsel the mere fact that he testified did not, by reason of the 1898 Act, confer on the prosecution the right of reply.[19]  Conversely, the provision is not to be read as denying the prosecution a right of reply merely because the defendant has testified.[20]
+
+27.  Thereafter the rule of practice was regularly affirmed by high authority.  In R v Baggott, Hewart LCJ endorsed the comment of Salter J in R v Harrison  that in cases where an accused person gave evidence but was undefended, the rule that counsel for the Crown was not to address the jury a second time was one that “ought to be carefully observed.”[21]
+
+28.  The Criminal Justice Act 1948 provided by section 42(1) that notwithstanding the provisions of Denman’s Act (the 1865 Act) and the Act of 1898, the mere fact that the defence put in documents as evidence did not of itself confer upon the prosecutor the right of reply in trials upon indictment.
+
+29.  The Criminal Procedure (Right of Reply) Act 1964 provided that upon trials on indictment, the prosecutor was no longer to be accorded a right of reply by reason only that the Attorney General or Solicitor General appeared for the Crown at trial and, further, gave the defence the right to the last speech.
+
+30.  The practice was re-affirmed in R v Mondon,[22] in which Edmund Davies LJ said that:
+
+“The practice is now well established that in circumstances such as these, where an accused is professionally unrepresented and calls no witnesses, other than giving evidence for herself or himself, the Crown is not entitled to make a second speech. That has long been a rule of practice .”[23]
+
+31.  The practice thus far reviewed assumed one or more unrepresented defendants.  It is common ground that where a defendant is represented and gives or calls evidence, the prosecutor has a right of reply, meaning a right to make a final speech.  However, where a defendant is represented by counsel and does not give evidence and does not call witnesses, the prosecutor still has a right to make a closing speech but it is a right which should be exercised sparingly and, when exercised, the speech should be brief: Reg. v Bryant & Oxley.[24]  Where there are several defendants who are represented by counsel and indicted jointly for the same offence and evidence given by one defendant affects the cases of the others, the prosecution is entitled to refer to the cases of all the defendants in his closing speech.[25]  But where there are two defendants and only one is represented, the prosecutor is not precluded from making a closing speech but that speech should focus on the evidence which relates to the case of the defendant who is represented.[26]  That said, “the procedure is not vitiated by the fact that the nature of the case means that the evidence in the case of the represented defendant also impinges on the unrepresented defendant and therefore leads inevitably to comment on it”: R v Tahir.[27]  Although the present appeal concerns such a case, that is to say, a case of two defendants where one was represented, the other not, it is common ground that the closing speech on behalf of the prosecutor addressed the evidence adduced by the appellant as a separate entity and not as a by-product of comment on the evidence relating to Ms Tam.
+
+Hong Kong practice
+
+A. Legislation
+
+32.  Section 9(3) of the Criminal Procedure Ordinance, Cap 221, is the successor to section 10 of the Criminal Procedure Ordinance 1899, with changes of no consequence for present purposes.  Section 9(3) provides as follows:
+
+“Subject to the provisions of this Ordinance and to such rules and orders and any other enactment (including any enactment relating to juries) applicable thereto, the practice and procedure in all criminal causes and matters (including trials for treason or misprision of treason) shall be, as nearly as possible, the same as the practice and procedure from time to time and for the time being in force for similar cases in England.”
+
+33.  There is nothing on the face of that provision or in the context in which it appears which limits its effect to criminal proceedings in the Court of First Instance or the District Court.
+
+34.  Section 56 of the Criminal Procedure Ordinance is headed “Right of Reply.” It provides that:
+
+“(1) The fact that the person charged has been called as a witness shall not of itself confer on the prosecution the right of reply.
+
+(2) Upon the trial of any person charged with an offence –
+
+(a) the prosecution shall not be entitled to the right of reply on the ground only that the Secretary for Justice or the Solicitor General appears for the HKSAR at the trial; and
+
+(b) the time at which the prosecution is entitled to exercise the right shall, notwithstanding any rule of law, be after the close of the evidence for the defence and before the closing speech (if any) by or on behalf of the person charged.”
+
+35.  Section 56(1) is a repetition of section 3 of the 1898 Act with the omission of the first phrase of that earlier provision,[28] an omission of no present consequence.
+
+36.  Section 58 of the Criminal Procedure Ordinance provides that:
+
+“Sections 54 to 57A shall apply to all criminal proceedings, notwithstanding any other provision in force at the time of theirenactment, and in sections 54 to 57A court includes the District Court and a magistrate.”
+
+37.  It follows that section 56 applies also to proceedings in the magistracy.
+
+38.  Section 79(1) of the District Court Ordinance, Cap 336, provides, in so far as is presently relevant, that:
+
+“Subject to the provisions of this Ordinance and as may be prescribed, the procedure and practice for the time being in force in the Court of First Instance in relation to criminal proceedings therein shall, so far as the same may be applicable, be followed as nearly as may be in criminal proceedings in the [District] Court; … .”
+
+B. Authorities
+
+39.  It is common ground that, save for such effect as the decision in Au-yeung has had in relation to magistracy proceedings, the rule excluding a right ofreply in the specific circumstances has been followed in Hong Kong.
+
+40.  The rule was not directly in issue in Man Ching-ip & Others v The Queen[29] since that was a case in which the defendants had been represented but had not testified, so the question was whether in those circumstances there was a right in the prosecutor to make a closing speech.  However, in the course of his judgment, Sir Alan Huggins VP referred to the right of the prosecutor to make a closing speech “unless the defendant is unrepresented and calls no witnesses to the facts except himself.”[30]  An argument was advanced that the right to make a speech was not a matter of practice and procedure, but that argument was rejected. In rejecting it, the Court said that:
+
+“From time to time it happens that a rule of practice becomes so well-established that it is regarded as a rule of law and will not be changed otherwise than by statute. In our view it is impossible to hold that the right to make a speech in the course of judicial proceedings is not a matter of practice and procedure.”[31]
+
+41.  Sir Alan Huggins commented that s.9(3) of the Criminal Procedure Ordinance might raise a difficulty where “an English statute which alters a matter of practice and procedure may not be applicable in Hong Kong and yet the practice and procedure in Hong Kong may prima facie be changed by it.”  It was not necessary, for the purpose of that case, to decide the point but he suggested that such a difficulty could be avoided by limiting the application of s.9(3) “to non statutory rules of practice and procedure.”[32]  He further suggested that consideration be given to the repeal of the provision.
+
+42.  The rule of practice with which this appeal is concerned was more recently affirmed in HKSAR v Tso Kin Shing[33] where the question was whether the rule,  as preserved by s.56 of the Criminal Procedure Ordinance, was affected by the production by the defendant of documentary evidence in addition to his own testimony.  In refusing leave to appeal against the Court of Appeal’s decision that mere production of such evidence made no difference to the rule, the Appeal Committee categorised the rule as “well-settled.”[34]  See also HKSAR v Chan Hoi Wing.[35]
+
+43.  It has been held that the same principle applies to trials in the District Court.  In HKSAR v Zhuo Yaying,[36] the Court of Appeal rejected the submission that the practice or rule applied only to trials by jury and not to trials before a judge sitting alone.  The Court said that : “… The ability of a professionally trained lawyer to convince a Trial Judge and a jury is the same; he may enjoy an unfair advantage over an unrepresented defendant”,[37] the Court emphasising, however, that prosecuting counsel was nonetheless entitled in such circumstances to address the judge as to law.  Whether a trial judge sitting alone is as susceptible to the influence of professional advocacy as a jury is perhaps open to debate but that the practice applies in the District Court is in any event clear by virtue of s.79 of the District Court Ordinance[38] and by the implied effect of s.56 of the Criminal Procedure Ordinance.[39]
+
+44.  As for the magistracy, we have been referred to Tseng Ping-yee v The Queen.[40]  That was a decision of the Full Court on appeal from a conviction by a magistrate where a represented defendant did not testify but asked to make an unsworn statement.  The magistrate held that in Hong Kong an accused person had no such right, a decision made in the face of a provision of the Criminal Evidence Ordinance 1906 which was in the same terms as section 1 of the Criminal Evidence Act 1898,[41] save that it omitted the proviso that: “Nothing in this Act shall affect … any right of the person charged to make a statement without being sworn.”  The majority of the Court held that the right was firmly established in England at the time the 1898 Act was passed, that the practice applied in Hong Kong by virtue of a predecessor of what is now s.9(3) of the Criminal Procedure Ordinance,[42] and that the omission of the proviso did not, by implication, affect the right, not least because it was “ ‘a well-established principle of construction that a statute is not to be taken as effecting a fundamental alteration in the general law unless it uses words pointing unmistakably to that conclusion’ ”.[43]  No-one there suggested that the rule of practice, applicable to trials on indictment, was not equally applicable to trials in the magistracy.
+
+Section 19 of the Magistrates Ordinance
+
+45.  It is against that background that the effect of s.19(2) of the Magistrates Ordinance falls to be considered, in particular the decision in Au-yeung Tat-shing that the sub-section confers upon the prosecution a right of reply even where the defendant appears unrepresented and gives no evidence save on his ownbehalf.
+
+46.  We have seen[44] that by subsection (1) the magistrate is enjoined, where a defendant does not admit the truth of the complaint or information, “to hear upon oath the complainant or informant and such witnesses as may be produced in support of the complaint or information” and also to “hear the defendant and such evidence as may be adduced in defence” and also, in certain prescribed circumstances,  to “hear and examine… other witnesses … in rebuttal.” There then follows subsection (2) which enjoins the magistrate to consider and determine the whole matter “having heard what each party has to say and thewitnesses and evidence so adduced.”
+
+47.  The origin of section 19[45] is section 14 of the Summary Jurisdiction Act 1848.  That is a lengthy section and it suffices for present purposes to extract the following:
+
+“… but if [the defendant] do not admit the Truth of such Information or Complaint as aforesaid, then the said Justice or Justices shall proceed to hear the Prosecutor or Complainant, and such Witnesses as he may examine and such other Evidence as he may adduce, in support of his Information or Complaint respectively, and also to hear the Defendant and such Witnesses as he may examine and such other Evidence as he may adduce in his Defence, and also to hear such Witnesses as the Prosecutor or Complainant may examine in reply, if such Defendant shall have examined any Witnesses or given any Evidence other than as to his the Defendant’s general Character; but the Prosecutor or Complainant shall not be entitled to make any Observations in reply upon the Evidence given by the Defendant, nor shall the Defendant be entitled to make any Observations in reply upon the Evidence given by the Prosecutor or Complainant in reply as aforesaid; and the said Justice or Justices, having heard what each Party shall have to say as aforesaid, and the Witnesses and Evidence so adduced, shall consider the whole Matter, and determine the same, and shall convict or make an Order upon the Defendant, or dismiss the Information or Complaint, as the Case may be; … .” (Emphasis added).
+
+48.  It will be observed that s.19 of the Magistrates Ordinance omits the emphasised phrase or its equivalent, commencing with the words “but the Prosecutor … shall not be entitled to make any Observations in reply… .”  The respondent finds support in this omission as indicative that s.19 in its present form must, by contrast, be read as intending a right of reply.  If the argument is to have any force it must go further and contend that it intends a right of reply in all circumstances.
+
+49.  Interpretation of s.19 has presented itself for decision on appeals from magistrates on two occasions prior to the decision in Au-yeung although on each occasion the question was whether the section conferred on a defendant a statutory right of address at the conclusion of the case.  In both cases it was held that no such right was conferred by s.19 to address the court at that stage,[46] although in the earlier of those decisions, Wong Sang v The Queen, Scholes J. said that it was a matter of practice to permit such an address.[47]
+
+Au-yeung Tat-shing
+
+50.  The issue was more fully addressed in Au-yeung Tat-shing.  In that case the defendants were unrepresented before the magistrate on a conspiracy charge.  They gave evidence themselves but called no witnesses.  At the close of the defence case, the prosecutor was permitted to make a closing speech.
+
+51.  The ground of appeal was framed as follows:
+
+“Is the right of the prosecution to make a closing speech, including comment on evidence by a defendant in circumstances where that defendant is unrepresented and calls no witnesses to the facts except himself, to be exercised sparingly and with becoming brevity or is there no right of address by the prosecution in these circumstances, having regard to the following decisions : R v Bryant [1978] 2 All E R 689, R v Tong Yuk-tim [1980] HKLR 140, R v Man Ching-ip [1980] HKLR 890.”[48]
+
+52.  The judgment of Barker JA is brief. It refers to the argument for the Crown that for the purpose of the issue at stake, there was a difference between on the one hand, trials before juries and the District Court and, on the other, a prosecution before a magistrate and that that difference was occasioned by the terms of s.19.
+
+53.  Barker JA said:[49]
+
+“ It seems to us that s.19(1) and (2) make a clear distinction between “evidence on oath” and what each party has to say (the emphasis is ours). Section 19(2) in our view gives each party the right to make a closing speech, and in no way limits this right to cases where a defendant is represented or, if unrepresented, himself gives evidence and calls witnesses as to the fact.
+
+“ This view finds some support from rule 13 of the Magistrates Courts Rules 1981 in England sub-rule 4 of which which reads:
+
+‘ At the conclusion of the evidence for the defence the accused may address the court if he has not already done so’.
+
+“ And sub-rule 5 provides:
+
+‘Either party may, with leave of the court, address in (sic) the court a second time, but when the court grants leave to one party it shall not refuse leave to the other.’
+
+“ The cases mentioned in the reference to us, and cited before us, were all cases on indictment and in our view are irrelevant to trial in a Magistrates Court. Whatever be the position as to closing speeches so far as trials by jury or before District Judge are concerned (and we express no view upon this matter) we are satisfied that the prosecution does have the right to make such a speech in the case of an unrepresented defendant who alone gives evidence in a Magistrates Court.”
+
+54.  Li VP agreed, though expressly “with some hesitation”, saying that:
+
+“ If it is the intention of the legislature that prosecuting counsel should have a right to give a closing address in all circumstances I suggest that there should be clear provisions. It is hoped that the proper authority will look into the matter to clarify the position.
+
+…
+
+Before a District Judge prosecuting counsel has no right to a closing address against a defendant who is not legally represented and has not given evidence or called witnesses. If it is intended that the practice in Magistrates Court be different it is better to make express provisions rather than relying on general terms or to pray in aid the Magistrates Court Rules in England which have no application to Hong Kong.”
+
+Analysis
+
+55.  With respect, the hesitation expressed by Li VP was well-founded.
+
+56.  It seems plain that the legislature cannot have intended by the broad phraseology of section 19 to undo a rule of practice for long embedded in the criminal procedure of this jurisdiction, particularly when that practice was designed to assist defendants in criminal cases in the fair presentation of their defence.
+
+57.  “It is a well-established principle of construction that a statute is not to be taken as effecting a fundamental alteration in the general law unless it uses words that point unmistakably to that conclusion”: National Assistance Board v Wilkinson.[50]  That principle has been referred to as “a principle of legal policy that law should be altered deliberately rather than casually, and that Parliament should not change either common law or statute law by a sidewind, but only by measured and considered provisions.”[51]  If it be said that at issue here is a change of practice, more readily susceptible to amendment, the answer is, first, that the rule with which we are concerned has, as Sir Alan Huggins said in Man Ching-ip in relation to a similar rule, become “so well-established that it is regarded as a rule of law…”;[52] second, that historically the rule has been circumscribed by precisely worded legislation; and third, that since it is a rule designed for the protection of defendants in criminal cases, particular care should be taken in construing provisions said to alter the parameters of that protection.  Accordingly, where it is suggested that the rule has been abolished by legislation, one should be slow to interpret the type of imprecise phraseology upon which the decision in Au-yeung turned as constituting a fundamental change to that protection.
+
+58.  In examining the history of the rule, we noted a series of hard-edged and unambiguous statutory provisions which precisely circumscribed the prosecutor’s right of reply.  That examination also illustrated the clarity with which the rules relating to that right have from time to time been expressed in judgments in this jurisdiction and in England and Wales.
+
+59.  The contrast between that history of specificity and the terminology in section 19 upon which the decision in Au-yeung rested, could hardly be more stark. So, for example, section 2 of Denman’s Act refers in terms to “the Right of Reply”, as does section 3 of the 1898 Act, as does s.42 of the 1948 Act, the very title of the 1964 Act includes that term and “Right of Reply” is the heading of s.56 of the Criminal Procedure Ordinance.  Yet one searches s.19 of the Magistrates Ordinance in vain for that term and one observes that the only reference in the 1848 Act to a right of reply, does not appear in s.19.  Against that backdrop, it does not seem to me possible rationally to conclude that s.19 intended to confer on anyone a statutory right of reply.
+
+60.  If the construction of s.19 by Barker JA be correct, the logical consequence would be far reaching.  It would mean that in the magistrates court, the prosecutor enjoyed a right of reply not available in the higher courts, despite the probability that a greater proportion of defendants are unrepresented at the magistrates court level.  It would, in summary proceedings at least, render otiose section 56(1) of the Criminal Procedure Ordinance, a provision which is not even mentioned in the judgment.  I am satisfied that something altogether more specific and tightly worded would be required to achieve that effect.
+
+61.  It is also difficult to understand the support which Barker JA drew from the Magistrates Courts Rules 1981.  We have been shown the whole of rule 13 and its only relevance, as I see it, is that it sits in marked contrast to the broad terminology of s.19 in that rule 13 stated the order of evidence and speeches, step by step; in any event, the right of reply conferred on the prosecution by that provision was only one which could be exercised with the leave of the court. In deciding whether to grant leave, the court would no doubt have had regard to well established rules of practice.[53]  
+
+62.  In so far as the respondent seeks to draw comfort from the omission from section 19 of the prohibition on rights of reply found in section 14 of the 1848 Act, that comfort is, with respect, misplaced. The purpose of that prohibition is suggested by Mr Archbold in 1851 to the effect that “if [these rights of reply] were allowed to be exercised, a single case might often last a day; and in large towns, such as Manchester, Liverpool, Hull, &c. and in the police offices of the metropolis, it would be impossible to get through the business.  All that is really required is, a statement of the case and defence; all other speeches by or for either party, may very well be dispensed with, without any hazard of injustice being done by reason of the omission.”[54]  The 1848 exclusion of the right of reply could only have been an exclusion of such right as already existed but, more to the point, it is a bridge too far to conclude that by the omission of that prohibition, the Hong Kong legislature intended to move from prohibiting a right of reply to all parties in any circumstances to the opposite extreme of conferring such a right upon all parties regardless of the circumstances. 
+
+63.  For these reasons, I am satisfied that section 19(2) of the Magistrates Ordinance does not address rights of reply and does not confer a right of reply upon the prosecution in the case of an unrepresented defendant who, apart from giving evidence himself, has not called any witnesses.  In my judgment, Au-yeung Tat-shing was wrongly decided and should not be followed.  The answer to Question (a) at paragraph 14 above is therefore “no” and the answer to Question (b) is also “no”.  It follows that it is not necessary to answer questions (c) and (d)in respect of which leave has been granted.
+
+64.  Whilst it may, strictly speaking, be unnecessary to decide what is meant by the phrase “having heard what each party has to say” in s.19(2) since it suffices for present purposes to conclude that itdoes not mean what the Court in Au-yeung Tat-shing held it to mean, it seems safe to conclude that the phrase relates back to the procedure outlined in subsection (1).  Subsection (1) assumes that the magistrate hears the complainant on oath and then witnesses in support and, next, hears the defendant and then evidence in support.  Thus when subsection (2) refers to the magistrate “having heard what each party has to say”, that is most likely a reference to having heard the complainant on oath and having heard the defendant as presaged in subsection (1).  The fact that it does not refer to having heard the defendant “on oath” might be explained by the fact that until 1972,[55] the defendant enjoyed the right to make an unsworn statement.     
+
+Recent developments
+
+65.  Our attention has been drawn to recent decisions by the Court of Appeal in England and Wales which evidence an inroad upon the rule in that jurisdiction.  They are Reg. v Stovell [56] and R v Cojan.[57]  Both concerned trials in the Crown Court.  In the former, counsel and solicitors were permitted to withdraw from representing the defendant at an advanced stage of the proceedings because of professional embarrassment and in the latter the defendant withdrew his instructions from counsel and solicitors a few days before the summing up to a jury.  In Stovell, the defendant then testified and prosecuting counsel made what was described as “an extremely long speech”; in Cojan, the defendant testified and did not make a closing speech, but prosecuting counsel did.
+
+66.  Both decisions followed significant procedural and evidential changes in England and Wales, for example, rules as to inferences from silence, the need to lodge defence statements, and the admissibility of evidence of bad character, giving rise to a number of considerations with which decisions such as Mondon were not concerned.
+
+67.  In Stovell, the Court of Appeal said that:
+
+“ … in the light of the procedural and evidential changes which have taken place since the decision of this Court in Mondon, we are by no means satisfied that in all cases, particularly when a defendant has been represented substantially throughout the trial and there are issues arising during the defence upon which the jury would be assisted by comment from prosecuting counsel, it is necessarily inappropriate for prosecuting counsel to make a second speech. But it is unnecessary in the present case to reach a conclusion with regard to that matter, because, for the reasons which we have already given, even the old authorities would not, as it seems to us, lead to the quashing of this conviction.”[58]
+
+68.  The court in Cojan shared those doubts preferring “to approach the matter as an issue of balance and fairness.”[59]
+
+69.  In each case, the Court was influenced not only by changes to rules of evidence in criminal cases but also by a concern that a defendant should not take unfair advantage of the rule by dispensing with, or effecting the withdrawal of, representation.
+
+70.  The current position in England and Wales is now reflected in the Criminal Procedure Rules.  The position in the Crown Court is that the prosecutor is entitled to make final representations where the defendant is represented, or where he has called at least one witness other than himself about the facts of the case or where “the court so permits.”[60] The position in the magistrates court appears to be different. There, the prosecutor is entitled to make final representations in support of the prosecution case where the defendant is represented or “whether represented or not, the defendant has introduced evidence other than his or her own”,[61] but there is absent the discretionary provision which is available in Crown Court proceedings.
+
+71.  It is not contended that s.9(3) of the Criminal Procedure Ordinance compels our courts to follow suit and in this regard the suggestion made by Sir Alan Huggins[62] that s.9(3) cannot have been intended to import changes of practice imposed by statute is one which I respectfully endorse.  He suggested, however, that the time may well have come “when consideration should be given to the repeal of s.9(3) … , the courts in Hong Kong being left to adopt such practice and procedure as may seem appropriate in the few cases where express provision has not been made by ordinance or rules of court.”  That suggestion seems to have fallen on deaf ears but is one which, in my opinion, merits consideration.  
+
+72.  It is not difficult to imagine trials, whether in the Court of First Instance, District Court or Magistrates Court of sufficient complexity - by reason of the facts or the number of defendants - as to render the assistance of prosecuting counsel desirable.  This is, of course, to raise a fundamental question whether to maintain the rule of practice in its full breadth in all circumstances.  Such a question could only conscientiously be addressed by a mature consideration of the justification, if any, for and the likely effect of such a change in Hong Kong.  This is not the case for that exercise.
+
+Disposal
+
+73.  The appellant’s position is that in consequence of the material irregularity in the Magistrates Court proceedings, he was denied a fair trial.  The unfairness is one of substance and not theoretical in this particular case because, so the argument goes, there was a real danger that the error influenced the decision to convict given that prosecuting counsel was experienced counsel, that his closing speech was directed in substantial part at the credibility of the witnesses and that the most that could reasonably be said in favour of the conviction is that but for the irregularity the magistrate might have entered the same verdict, a conclusion which dictates that the conviction must be quashed.
+
+74.  There is no question but that a breach of the rule of practice with which this appeal is concerned constitutes a material irregularity.  Such an irregularity might require the quashing of a conviction but not necessarily so.[63]  In R v Pink,[64] the proviso was applied; in R v Mondon, it was not.[65] 
+
+75.  In HKSAR v Zhuo Yaying,[66] the Court of Appeal was of the opinion that the irregularity was a serious one given that there were central issues of fact in dispute and, accordingly, quashed the conviction.  That was also the result in HKSAR v Chan Hoi Wing,[67] with the court refusing to apply the proviso, not surprisingly given the particularly trenchant attack in front of the jury by prosecuting counsel in his closing speech.
+
+76.  Section 17(2) of the Court of Final Appeal Ordinance provides that for the purpose of disposing of an appeal, the Court may exercise any powers of the court from which the appeal lies.  This appeal lies from the Court of First Instance in the exercise of its appellate jurisdiction under section 113 of the Magistrates Ordinance and in disposing of an appeal the judge is empowered to confirm, reverse or vary the decision or remit it, or make such other order as he thinks just.[68]  
+
+77.  In the present case what is at issue is procedural fairness.  An appeal to the Court of First Instance from a conviction in the magistracy is by way of rehearing[69] and upon an issue whether an appellant has been deprived of a fair hearing, the principle encapsulated in Lam Siu Po v Commissioner of Police is that:
+
+“It does not require every element of the protections conferred to be present at every stage of the determination of a person’s rights and obligations, but only that such protections should be effective when the determination is viewed as an entire process, including as part of that process such appeals or judicial reviews as may be available.”[70]
+
+78.  Whether or not the magistrate may, without the benefit of countervailing professional advocacy, have been influenced in his decision by the advocacy of prosecuting counsel, it is in the light of the Lam Siu Po principle, highly relevant that upon appeal to the Court of First Instance, the appellant was represented by counsel.  That is especially relevant in cases where the appellate judge, on an appeal which is by way of rehearing, is invited to conclude that the evidence against the appellant was such as to render the conviction unsafe.  That was a specific ground of appeal in this case and the judge expressly noted that it was incumbent upon him to consider, notwithstanding the submissions made by the prosecutor to the magistrate, whether the findings of fact by the magistrate were correct.[71]  We do not have the benefit of the written submissions presented by counsel for the appellant to the Judge but it is clear that they included an attack on the reliability of the complainant’s evidence.[72]  A study of the judgment reveals a survey of the evidence, or at least some of it, including answers which the appellant gave in records of interview which tended to support the prosecution case,[73] and a Facebook entry at the material time which revealed a telling reaction by the appellant to Lei’s initial anger at the appellant’s conduct.[74]  We understand from Mr Duncan SC, for the appellant, that the judge did not have a transcript of the evidence in the court below but the provision of a transcript, if one was required to support the attack on the reliability of the evidence, must have been within the power of the appellant’s representatives to secure and in any event, there was clearly enough before the judge for this attack to be mounted and for the judge to answer it.
+
+79.  Mr Duncan urges upon us the course taken by this Court in Ching Kwok Yin v HKSAR.[75]  In that case the magistrates court trial was infected by a serious irregularity in the failure of the prosecution to disclose the criminal record of the complainant.  The judge on appeal held that the error did not render the conviction unsafe. This Court[76] disagreed.  I do not think that that decision assists this appellant.  In that case, the judge on appeal concentrated on the effect of the irregularity on the magistrate; and it was self-evident that the reliability of the complainant’s testimony was affected by the fact of previous convictions including one with an element of dishonesty.  In the present case, the irregularity was procedural rather than one affecting the creditworthiness of a witness and, in any event, the judge, by reference to indicia of guilt which had nothing to do with impressions of creditworthiness, was able to form his own view on the facts.
+
+80.  In my judgment, therefore, whilst the appellant has succeeded in demonstrating an error by the magistrate and by the judge in holding that the prosecutor enjoyed a right of reply, he has not succeeded in persuading us that the procedural error in the magistrates court infected the fairness of the process as a whole.  For that reason, I would dismiss the appeal.
+
+ 
+
+Lord Walker of Gestingthorpe NPJ:
+
+81.  I agree with the judgment of Mr Justice Stock NPJ.
+
+ 
+
+Chief Justice Ma:
+
+82.  For the above reasons, the appeal is dismissed. 
+
+ 
+
+ 
+
+(Geoffrey Ma)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+(Frank Stock)
+Non-Permanent Judge
+
+(Lord Walker of Gestingthorpe)
+Non-Permanent Judge
+
+  
+
+Mr Peter Duncan SC and Mr Tien Kei-rui, instructed by John C H Suen & Co., assigned by the Director of Legal Aid, for the Appellant
+
+Ms Vinci Lam SADPP and Mr Ivan Cheung SPP (Ag.), of the Department of Justice, for the Respondent
+
+
+[1] Mr Lee Siu-ho, ESS 24178/2015
+
+[2] Deputy High Court Judge Johnny Chan, HCMA 49/2016
+
+[3] Ribeiro, Tang and Fok PJJ, FAMC 19/ 2017
+
+[4] [1988] 1 HKLR 1
+
+[5] Ibid at 3
+
+[6] See para 50 below
+
+[7] Bennion on Statutory Interpretation 6th ed., p 540
+
+[8] Para 32 below
+
+[9] in particular s.56 Criminal Procedure Ordinance, at para 34 below
+
+[10] That practice has now been altered in the Crown Court in England and Wales by reason of Criminal Procedure Rules 25.9(2)(j) (see Blackstone’s Criminal Practice (2018) D18.17) whereby discretion is conferred on a court to permit such a step. However, the old rule seems still to prevail for trials in the Magistrates Court: Criminal Procedure Rules 24.3(3)(h).  See para 70 below.
+
+[11] (1968) 52 Cr App R 695
+
+[12] Ibid at 698
+
+[13] [2013] 2 Cr App R 26
+
+[14] Rex v The Earl of Abingdon (1794) Peake 310; 170 ER 167
+
+[15] Trials for Felony Act 1836 (6&7 Will 4 c 114). And in “all Cases of summary Conviction” defendants were to be “admitted to make their full Answer and Defence, and to have all Witnesses examined and cross - examined by Counsel or Attorney.” 
+
+[16] Rex v Parkins (1824) 1 C & P 548; 171 ER 1311
+
+[17] Known as Denman’s Act
+
+[18] Reg. v Holchester (1866) 10 Cox 226. See also R v Hoggard [1995] Crim LR 747 which refers to the right conferred by s.2 of the 1865 Act to make a closing speech and in particular to the fact that "The practice [has] … grown up of the defence seeking to rely upon self-serving statements made in interview or on suggestions or allegations in cross-examination of prosecution witnesses.  When there is such reliance or matters are put to witnesses which are in effect a defence unsupported by other evidence, it will generally be in order for the Crown to make a closing speech in order to deal with them.”
+
+[19] R v Thomas (1924) 17 Cr App R 34
+
+[20] Tong Yuk-tim v The Queen [1980] HKLR 140, 143. It is to be noted that the judgment in Tong Yuk-tim contains an error at p 144 where it cites Reg. v Bryant and Oxley [1979] 1 QB 108 for the proposition that "when an unrepresented defendant gives evidence but calls no evidence, save as to character, the right of the Crown to address the jury should be exercised sparingly and with becoming brevity", since the defendants in Bryant and Oxley were represented by counsel; an error noted in HKSAR v Tso Kin Shing [2014] 3 HKLRD 736 at [5.17].
+
+[21]R v Baggott (1928) 20 Cr App R 92.  R v Harrison (1924) 17 Cr App R 156
+
+[22] (1968) 52 Cr App R 695
+
+[23] Ibid at 698
+
+[24] [1979] 1 QB 108 at 117
+
+[25] Ibid at 118.  See also Reg. v Trevelli (1882) 15 Cox C. C. 289, 290, cited in Bryant at 118 A-D
+
+[26] It is not possible to say how these rules might be affected by recent rules in respect of proceedings in the Crown Court: see para 70 below.
+
+[27] [1997] Crim L R 837
+
+[28] i.e: “In cases where the right of reply depends upon the question whether evidence has been called for the defence.. .” See para 26 above.
+
+[29] [1980] HKLR 890
+
+[30] Ibid at 894
+
+[31] Ibid at 895
+
+[32] Ibid at 895
+
+[33] [2014] 3 HKLRD 736
+
+[34] Ma CJ, Tang and Fok PJJ FAMC No. 20 of 2014, 6 August 2014 at [14]
+
+[35] [2015] 1 HKLRD 643
+
+[36] [2016] 3 HKLRD 925
+
+[37] Ibid at [44]
+
+[38] Para 38 above
+
+[39] Para 34 above
+
+[40] [1969] HKLR 304
+
+[41] Para 26 above
+
+[42] Section 10 of the Criminal Procedure Ordinance 1899
+
+[43] Tseng Ping-yee v The Queen at 328, citing Devlin J (as he then was) in National Assistance Board v Wilkinson (1952) 2 Q.B. 648; see para 57 below
+
+[44] Para 17 above
+
+[45] The predecessor to section 19 in its present form was section 13 of the Magistrates Ordinance 1932. The wording of subsection (1) was slightly different from that of section 19 but it is not suggested that anything turns on the difference.
+
+[46] Wong Sang v The Queen [1959] HKLR 417; and Lo Kee v The Queen [1966] HKLR 601.  Each was a decision of a single judge of the High Court on appeal from a magistrate’s court.
+
+[47] At 420
+
+[48] The factual context and effect of Reg. v Bryant & Oxley is referred to at para 31 above.
+
+[49] [1988] 1 HKLR 1 at 3
+
+[50] [1952] 2 QB 648, per Devlin J (as he then was) at 661
+
+[51] Bennion on Statutory Interpretation 6th ed., Section 269 at p 741
+
+[52] Para 40 above
+
+[53] The current position in the magistrates courts in England and Wales is governed by Criminal Procedure Rule 24.3 (3)(h). See para 70 below.
+
+[54] “Jervis’s Acts … Relating to the Duties of Justices of the Peace.” 3d ed., 1851 at p 139
+
+[55] See s.54(2) Criminal Procedure Ordinance
+
+[56] [2006] EWCA Crim 27
+
+[57] [2015] 2 Cr App R 20
+
+[58] At [36]. In Reg. v Rabani [2008] EWCA Crim 2030, the Court of Appeal categorised the passage cited from Stovell as obiter, but noted that counsel for the appellant in Rabani conceded that in certain circumstances the prosecution might be entitled to make a closing speech even where a defendant was unrepresented. But, for the purposes of that particular appeal, the Court dealt with the issue on the basis that the prosecution had no right to a final speech.
+
+[59] At 297
+
+[60] Criminal Procedure Rules 25.9(2)(j). See Blackstone’s Criminal Practice (2018) D 18.17.
+
+[61] Criminal Procedure Rules 24.3(3)(h)
+
+[62] Man Ching-ip & Others v The Queen [1980] HKLR 890 at 895; para 40 above.
+
+[63] R v Harrison (1924) 17 Cr App R 156； Reg. v Pink [1971] 1 QB 508
+
+[64] [1971] 1 QB 508
+
+[65] (1968) 52 Cr App R 695 at 699
+
+[66] [2016] 3 HKLRD 925 at [46]
+
+[67] [2015] 1 HKLRD 643 at [21] and [29]
+
+[68] Magistrates Ordinance, s.119(1)(d).
+
+[69] Chou Shih Bin v HKSAR (2005) 8 HKCFAR 70
+
+[70] (2009) 12 HKCFAR 237 at [109]
+
+[71] Judgment paras 94-95
+
+[72] Ibid para 159
+
+[73] Ibid para 127
+
+[74] Ibid para 134
+
+[75] (2000) 3 HKCFAR 387
+
+[76] Bokhary, Chan and Ribeiro PJJ, Sir Alan Huggins and Lord Millett NPJJ
+
+ 

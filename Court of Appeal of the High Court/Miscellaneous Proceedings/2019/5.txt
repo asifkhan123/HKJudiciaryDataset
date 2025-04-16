@@ -1,0 +1,147 @@
+CAMP 7/2019
+
+[2019] HKCA 435
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+MISCELLANEOUS PROCEEDINGS NO 7 OF 2019
+
+(ON AN INTENDED APPEAL FROM HCCT 7/2018)
+
+______________
+
+ 	IN THE MATTER of an arbitration between Baosteel Engineering & Technology Group Company Limited, Applicant and Heihe Longjiang Chemical Company Limited, 1st Respondent and China Zenith Chemical Group Limited, 2nd Respondent
+ 	and
+ 	IN THE MATTER of an application under Sections 84 and 92 of the Arbitration Ordinance (Cap 609) of the Laws of Hong Kong for leave to enforce an arbitral award
+______________
+
+BETWEEN	 	 
+ 	BAOSTEEL ENGINEERING & TECHNOLOGY GROUP COMPANY LIMITED	Plaintiff/Applicant
+ 	and	 
+ 	CHINA ZENITH CHEMICAL GROUP LIMITED	Defendant/Respondent
+________________
+
+Before: Hon Lam VP and Au JA in Court
+Dates of Written Submissions: 14 and 29 January 2019
+Date of Judgment: 9 April 2019
+____________________
+
+J U D G M E N T
+
+____________________
+
+Hon Lam VP (giving the Judgment of the Court):
+
+Introduction
+
+1.  In April 2017, the plaintiff (“BS”), a Mainland company, obtained an arbitral award (“the Award”) against the defendant (“CZ”), a Hong Kong listed company.  
+
+2.  On 7 February 2018, Mimmie Chan J (“the Judge”) granted leave to BS to enforce the Award in Hong Kong.
+
+3.  On 11 July 2018, upon the application of CZ, the Judge granted a temporary stay of execution for 6 months upon the condition that CZ paid into court the principal amount of the Award, being a sum of slightly less than RMB 20 million.  The Judge’s reasons for the temporary stay were published as [2018] HKCFI 1678 (“the Stay Decision”).  The temporary stay was sought and granted on the basis that HH has a cross-claim against BS for damages in respect of defective and unfit designs provided by BS, pursuant to a separate agreement between HH and BS, not connected with the arbitration award, for works to be carried out by BS for the Project (“Project Defects Claim”). 
+
+4.  The Project Defects Claim is litigated in the Heihe Intermediate Court (“the Mainland Court”). HH advanced a claim in the sum of approximately RMB 32.97 million against BS.
+
+5.  By a summons dated 24 December 2018, CZ applied to the Judge for an extension of the stay of further 3 months.  The Judge refused the application on 7 January 2019 ([2019] HKCFI 68; “the Extension Decision”).  The Judge also refused to grant CZ leave to appeal against the Extension Decision on 10 January 2019 ([2019] HKCFI 120; “the Leave Decision”). 
+
+6.  By a summons dated 14 January 2019, CZ renewed the application for leave to appeal before us.
+
+7.  Both parties have lodged their respective statements in the application. 
+
+8.  Pursuant to the Judge’s order of 17 January 2019, the money in court was paid out to BS for the satisfaction of the principal sum of the Award. 
+
+9.  The Stay Decision was a finely balanced one.  Although a temporary stay of 6 months was reluctantly granted on terms of payment into court of the full amount of the Award, the Judge noted the following factors against the grant of a stay:
+
+(a)  a set off or cross-claim in the proceedings instituted in the Mainland (“the PRC Proceedings”) could only be raised by HH.  CZ could not rely on such set off or cross-claim;
+
+(b)  The ongoing (and yet unconcluded) PRC Proceedings could not be a valid ground to resist or delay enforcement of the award;
+
+(c)  BS as the judgment creditor of the award would be unfairly prejudiced by the stay; and
+
+(d)  There were concerns regarding CZ’s financial position as evidenced by its own annual report and financial statements.
+
+10.  In the Extension Decision, the Judge took the view that CZ was unable to show that a judgment would be handed down by the HH Court in a foreseeable future.  The Judge found no reason why the rights of BS should be further delayed.  The Judge also reiterated the fact that any set off could only be raised by HH.
+
+Grounds of Appeal
+
+11.  In the draft notice of appeal attached to the summons dated 14 January 2019, CZ sought to rely on the following grounds for the intended appeal against the Extension Decision:
+
+(a)  The Judge failed to have any or sufficient regard to:
+
+(i)  the alleged concrete timetable of the handing down of the decision of the HH Court;
+
+(ii)  the lack of material prejudice on the part of BS;
+
+(iii)  the substantial prejudice to CZ;
+
+(iv)  the relationship between CZ and HH;
+
+(v)  the inter-relationship between BS’ arbitral claim and the PRC Proceedings;
+
+(vi)  the amount of the counterclaim against BS in the PRC Proceedings as compared with the Award; and
+
+(vii)  the judgment in the PRC Proceedings could provide a defence against the enforcement of the Award; and
+
+(b)  The Judge also wrongly placed excessive reliance on the fact that there would be a further delay of 12 months (from the conclusion of the trial of the PRC Proceedings to the handing down of the judgment) which was not supported by evidence, and after that the time taken by any further appeal (as CZ did not seek a stay until the conclusion of any further appeal).
+
+12.  In the Defendant’s Statement, Mr Pao SC, leading Mr Ko, further submitted that:
+
+(a)  The Judge’s refusal to grant a short stay was contrary to the original purpose of the temporary stay;
+
+(b)  The Judge erred in taking into account her experience that there might be a further delay of 12 months from the conclusion of the trial until judgment;
+
+(c)  There was no real prejudice to BS;
+
+(d)  The Judge failed to take into account the confirmation by HH that it would use the proceeds in the PRC Proceedings to satisfy the Award; and
+
+(e)  Overall fairness of the case required the Judge to grant a short stay of proceedings.
+
+Discussion
+
+13.  The granting (or the refusal) of stay of execution involves the exercise of discretion of the court.  It is well established that this Court will only interfere with the exercise of the judge’s discretion if he made errors in principle or the discretion was exercised in a manner that is plainly wrong: see Lo King Yeung v Eddie Chu Hoi Dick CAMP 18 and 19/2017, 6 November 2017, at [7].
+
+14.  Having considered the proposed grounds of appeal and the submissions in the Defendant’s Statement, CZ fails to satisfy us that there is any reasonable prospect of success in the intended appeal.
+
+15.  The Judge was clearly apprised of the circumstances of this case.  She was the judge who granted leave to BS for the enforcement of the Award in Hong Kong in the first place. It is clear from the Stay Decision that she had taken into account the matters set out in Ground 1 of the draft notice of appeal.  The weight to be attached to such matters are matter for the judge. It was perfectly open to the judge to attach much less weight to these matters (some 6 months since the Stay Decision) when she refused the extension of the stay.  Ground 1 has no merit.
+
+16.  The so-called PRC law expert evidence prepared by HH’s legal representative[1] on the timing for handing down of judgment could not provide a finite date for having a judgment in the PRC Proceedings. 
+
+17.  Having considered the above evidence, we are of the view that the Judge was entitled to conclude that CZ failed to demonstrate that a judgement of a competent authority would be handed down within “the fixed foreseeable future”: see [2] of the Extension Decision.  We do not think the judge’s exercise of discretion can reasonably be argued as flawed by virtue of Ground 2.
+
+18.  The finely balanced Stay Decision cannot pre-empt the judge’s exercise of discretion in determining the Extension application.
+
+19.  We cannot see any reasonable argument to suggest that BS would suffer no prejudice. As the judge rightly pointed out, BS was entitled to have the Award enforced without any delay: see [10] of the Stay Decision.   
+
+20.  As Mr Cohen, counsel for BS, rightly pointed out, even if a judgment were obtained in favour of HH in the PRC Proceedings, it could not be a defence to the Award.  At the time of the Award, it was (as it is still) a mere unliquidated claim by HH, not CZ.
+
+Conclusion
+
+21.  For the above reasons, we do not see any basis to suggest that it was plainly wrong for the Judge to exercise her discretion in refusing the extension of stay.  CZ fails to establish that there is a reasonable prospect of success in the intended appeal.  Nor do we find any other reason in the interests of justice that the intended appeal should be heard.
+
+22.  We therefore refuse to grant leave to appeal.  BS’s summons dated 14 January 2019 is dismissed accordingly.
+
+23.  We also order that CZ should pay BS’s costs of this application.  Having considered the statement of costs lodged by BS, we fix the amount of its costs at $110,000.
+
+24.  We further make an order pursuant to Order 59 rule 2A(8) of the Rules of the High Court (Cap 4A), that no party may request this determination be reconsidered at an oral hearing inter partes.
+
+ 
+ 
+
+(M H Lam)	(Thomas Au)
+Vice President	Justice of Appeal
+  
+
+Mr Julian Cohen, instructed by FitzGerald Lawyers, for the plaintiff
+
+Mr Jin Pao SC and Mr Tony Ko, instructed by Wellington Legal, for the
+defendant
+
+
+[1] The original is contained in pp 90-95 of the Application Bundle, and the English translation in pp 96-101.  
+
+ 
+

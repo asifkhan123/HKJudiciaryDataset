@@ -1,0 +1,96 @@
+FAMC No. 16 of 2023
+
+[2024] HKCFA 20
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 16 OF 2023 (CRIMINAL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL
+
+FROM CACC NO. 210 OF 2018)
+
+________________________
+
+BETWEEN
+
+ 	HKSAR	Respondent
+ 	and	 
+ 	LI CHEUNG CHOI (李長再)	Applicant
+________________________
+
+Appeal Committee:	Mr Justice Ribeiro PJ, Mr Justice Fok PJ and
+ 	Mr Justice Lam PJ
+Date of Hearing and Determination:	10 July 2024
+Date of Reasons for Determination:	11 July 2024
+_________________________________
+
+REASONS FOR DETERMINATION
+
+_________________________________
+
+Mr Justice Fok PJ:
+
+1.  At the conclusion of the hearing of this application, we granted leave to appeal to the Court of Final Appeal in respect of one question of law but dismissed the remainder of the application. We indicated that we would hand down our reasons for doing so in due course, which we now do.
+
+2.  We were satisfied that the following question of law, as certified by the Court of Appeal, is involved in the decision and is of sufficient importance and arguability to merit the grant of leave to the appeal, namely:
+
+“Question 1: Are the statements of an accused to a medical practitioner regarding his or her background and state of mind at the time of the offence, and the circumstances of a relevant event or events, hearsay evidence and inadmissible when he or she does not testify at trial and, if so, does this also render inadmissible the expert opinion of the medical practitioner?”[1]
+
+3.  The applicant also sought leave to appeal in respect of a second question of law, said to raise a question of law of great and general importance concerning the meaning of s.5(3) of the Homicide Ordinance (Cap.339) (“HO”), namely:
+
+“Question 2: As far as Section 5(3) of the [HO] is concerned, how should ‘the settled intention of dying in pursuance of the pact’ be interpreted? Does it include the intention of the deceased at the time of the killing?”
+
+4.  For the reasons that follow, although there are no reported cases in this jurisdiction on the meaning and effect of s.5 of the HO which deals with the (in practice, rare) partial defence to a murder charge of suicide pact, we did not accept that that question is involved in the proposed appeal, nor that its answer would have any bearing on the outcome of the case in any event. Nor did we accept that the trial judge’s omission to direct the jury on the defence of suicide pact resulted in substantial and grave injustice to the applicant.
+
+5.  The applicant was convicted, after trial before Toh J (“the Judge”) and a jury, of murdering his wife (“the deceased”) by strangling her. The killing occurred in a taxi driven by PW1, who had picked them up in Yau Tong. The applicant and the deceased gave various instructions to PW1 as to where to take them. These included the Tsing Ma Bridge, the airport, a hotel in Fortress Hill and eventually Lok Ma Chau. Whilst he was driving the couple through the Tate’s Cairn Tunnel, PW1 heard a scream from the deceased and the sounds of a struggle. Shortly after this, PW1 stopped the taxi at Sheung Shui MTR station where he alerted the police to the suspicious activity that had taken place in the back of his taxi. The deceased was found in a coma and the police arrested the applicant. Following his arrest, the applicant’s urine was tested and found to contain traces of methamphetamine (ice). The taxi’s in-car camera recorded various things said by the deceased and the applicant in the course of the journey. Some of these statements were said to be suggestive of the applicant and the deceased having insurmountable problems and wishing to escape those problems through suicide. The deceased died after five days in hospital and it was determined that her cause of death was due to pressure on the neck.
+
+6.  The applicant did not testify in his defence. He advanced at his re-trial the positive partial defence of diminished responsibility. It was his case, supported by expert psychiatric evidence called by the defence, that he suffered from an abnormality of mind in the form of stimulant psychosis, caused by his consumption of ice. This was based on the applicant having told the defence expert about his long history of recreational use of ice and his drug dependency. The prosecution expert evidence supported a contrary case based on his having apparently told the prosecution expert that he voluntarily took ice two days before the offence. On this basis, the prosecution expert disagreed with the defence diagnosis of an abnormality of the mind in the form of stimulant-induced psychosis, preferring instead a conclusion of likely voluntary methamphetamine intoxication at the time of the killing.
+
+7.  The applicant’s evidential defence of diminished responsibility was, as a matter of fact, inconsistent with a defence of suicide pact. Nevertheless, it was the applicant’s case on this application that the Judge was duty bound to direct the jury on this alternative defence and that her failure to do so was a departure from a settled norm giving rise to substantial and grave injustice to the applicant.
+
+8.  Question 2 has been advanced on this application for leave to appeal because of a statement in the Court of Appeal’s judgment when it was addressing the evidence that there was an agreement between the applicant and the deceased having for its object the death of both of them, i.e. a suicide pact. That statement is that, to meet the threshold requirement for the defence to be left to the jury, the evidence must go beyond establishing that the deceased was upset, emotional or even depressed. It had to establish, so the Court of Appeal stated, “to use the language of section 5(3), ‘a settled intention of dying’ pursuant to a pact with another.”[2]
+
+9.  With respect to the Court of Appeal, this comment was incorrect as a matter of law since as a matter of interpretation the words “a settled intention of dying” in HO, s.5(3) plainly refer to that of “the person acting in pursuance of a suicide pact” (see HO, s.5(1)) who kills another person and is charged with their murder. The error is of no importance, however, since nothing turns on it and it is not necessary to answer it in order to resolve the issue of whether suicide pact should have been left to the jury. The context of the Court of Appeal’s comment was a discussion of the evidence from the transcript of the taxi’s in-car camera recording, which the Court of Appeal considered revealed that “what statements there are from the deceased reveal a positive intention by her not to kill herself”.[3] That discussion was directed to the issue of whether there was a sufficient evidential basis of an agreement between the applicant and the deceased having for its object the death of both of them. Clearly, if there was not sufficient evidence that the deceased was party to such an agreement, the defence of suicide pact would not be viable.
+
+10.  The suggested ground of appeal of substantial and grave injustice seeks to challenge the conclusion of both the Judge and the Court of Appeal that there was not sufficient evidence of a suicide pact to leave that defence to the jury. We were not persuaded that it was reasonably arguable that the Court of Appeal was wrong to conclude, applying the established principles concerning alternative verdicts,[4] that there was no sufficient evidential basis to require the Judge to direct the jury on the alternative defence of suicide pact.[5] The Court of Appeal reviewed the evidence from the taxi’s in-car camera and concluded that it did not evidence a common agreement between the applicant and the deceased to commit suicide.[6] The evidence of the applicant’s mutterings to himself after he had strangled the deceased do not provide a sound basis for a finding of suicide pact. So far as they suggest he had suicidal thoughts, this does not evidence an intention on the part of the deceased to kill herself and they are consistent with the applicant feeling remorse after having killed (i.e. murdered) the deceased.
+
+11.  There is some overlap between this proposed ground of appeal and Question 1 in that the Court of Appeal also considered whether there was an evidential basis for the defence of suicide pact if regard could be had to the statements of the applicant to the medical expert. The Court of Appeal concluded that these only showed what the applicant wanted to do and not what the deceased wanted to do.[7] That conclusion is, in our view, not susceptible of reasonable contrary argument.
+
+12.  For these reasons, we granted partial leave to appeal to the Court of Final Appeal and dismissed the remainder of the application.
+
+13.  The appeal, limited to Question 1 set out above, will be heard on a date to be notified to the parties by the Registrar.
+
+ 
+
+ 
+
+(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge	(M H Lam)
+Permanent Judge
+ 
+
+Mr Phil Chau SC and Mr Kei Rui Tien, instructed by Simon Si & Co, assigned by the Director of Legal Aid, for the Applicant
+
+Mr Ned Lai, DDPP (Ag) and Ms Karen Ng, SPP, of the Department of Justice, for the Respondent
+
+
+[1]  [2024] HKCA 290, CACC 210/2018, Judgment dated 22 March 2024 at [9]-[10].
+
+[2]  [2021] 4 HKLRD 423 (“CA Judgment”) at [75].
+
+[3]  CA Judgment at [74].
+
+[4]  See, HKSAR v Chau Yui Ming (2019) 22 HKCFAR 368 at [32]-[36].
+
+[5]  CA Judgment at [77].
+
+[6]  Ibid. at [74] and [77].
+
+[7]  Ibid. at [76].
+
+ 
+

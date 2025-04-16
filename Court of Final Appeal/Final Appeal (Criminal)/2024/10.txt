@@ -1,0 +1,937 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC Nos. 10 and 11 of 2024
+
+[2025] HKCFA 3
+
+FACC No. 10 of 2024
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 10 OF 2024 (CRIMINAL)
+
+(ON APPEAL FROM HCMA NO. 99 OF 2023)
+
+___________________________
+
+BETWEEN
+
+ 	HKSAR	Respondent
+ 	and	 
+ 	TANG NGOK KWAN (鄧岳君)	1st Appellant
+ 	TSUI HON KWONG (徐漢光)	2nd Appellant
+___________________________
+
+FACC No. 11 of 2024
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 11 OF 2024 (CRIMINAL)
+
+(ON APPEAL FROM HCMA NO. 99 OF 2023)
+
+___________________________
+
+BETWEEN
+
+ 	HKSAR	Respondent
+ 	and	 
+ 	CHOW HANG TUNG (鄒幸彤)	Appellant
+___________________________
+
+(Heard together)
+
+Before:	Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ and Mr Justice Chan NPJ
+Date of Hearing:	8 January 2025
+Date of Judgment:	6 March 2025
+_______________
+
+J U D G M E N T
+
+_______________
+
+THE COURT:
+
+1.  Tang Ngok Kwan (“A1”), Tsui Hon Kwong (“A2”) and Chow Hang Tung (“A3”) (together “the appellants”), were respectively two committee members and the vice-chairperson of an organization called The Hong Kong Alliance in Support of Patriotic Democratic Movements of China (“HKA”) which was incorporated in Hong Kong in 1989.
+
+A.  The Notice
+
+2.  On 25 August 2021, the Commissioner of Police (“CP”) served Notices in materially identical terms (“the Notice”) on each of the appellants requiring them to procure HKA to provide specified information and documents within 14 days. The Notice stated that it was served pursuant to section 3(1) of Schedule 5 (“Schd 5 s 3(1)”) of the Implementation Rules[1] (“IR”) made under Article 43 of the National Security Law[2] (“NSL43”). In these appeals, one of the main issues is whether the Notice was indeed compliant with and therefore validly served under Schd 5 s 3(1).
+
+3.  The relevant contents of the Notice (in translation) are set out in Appendix 1 to this judgment. It materially stated:
+
+“According to the police investigation, the [CP] has reasonable grounds to believe that the ‘[HKA]’ is a ‘foreign agent’ specified in Section 1 of Schedule 5. Under Section 3(1) of Schedule 5, as the [CP] reasonably believes that it is necessary to issue the requirement of this notice for the prevention and investigation of an offence endangering national security, the Commissioner, with the approval of the Secretary for Security, by this notice served on the ‘[HKA]’, requires the ‘[HKA]’ to provide the Commissioner with the following information in writing together with relevant supporting documents, within 14 days:...”
+
+4.  The italicised words are central to the controversy reflected in Question 1, discussed below. The Notice goes on to list the information and documents requested. They include information about the members and staff of the HKA; activities of HKA involving named organizations and individuals; HKA’s meeting minutes; details of HKA’s assets, revenue, sources of revenue and expenditure, as well as transactions involving listed entities and persons; and an explanation for receipt by A3 of $3,000 from “Asia Democracy Network” on 4 February 2021.
+
+B.  The Charge
+
+5.  The appellants declined to comply for reasons given in an open letter written to the CP.[3] They stated that they were not foreign agents of any organization; that they would challenge the legality of the Notice, taking issue on various aspects; and that they were invoking rights against self-incrimination and to a fair trial, freedom of association and protection of privacy.[4]
+
+6.  They were charged under Schd 5 s 3(3)(b) with the offence of failing to comply with the Notice, the particulars being as follows:
+
+“CHOW Hang-tung, TANG Ngok-kwan, … and TSUI Hon-kwong, on the 8th day of September, 2021, being an office-bearer of [HKA] in Hong Kong, or a person managing or assisting in the management of the said organization in Hong Kong, who has been served with a notice under section 3(1)(b) of Schedule 5 to the Implementation Rules for Article 43 of the [NSL], failed to comply with the said notice.”
+
+7.  On the basis of the Notice and the Particulars of the offence, the prosecution’s case was:
+
+(a)  That the CP “had reasonable grounds to believe” that HKA was a “foreign agent”;
+
+(b)  That the CP reasonably believed that it was necessary to issue the requirement that HKA provide the requested information “for the prevention and investigation of an offence endangering national security”; and
+
+(c)  That the appellants were office-bearers or persons managing or assisting in the management of HKA and were served with the Notice and thus were bound by and failed to comply with the obligations imposed on HKA and themselves by service of the Notice.
+
+8.  The appellants were convicted before Mr Peter Law, Principal Magistrate[5] and their appeal was dismissed by Anna Lai J.[6]
+
+C.  Leave to appeal
+
+9.  The Appeal Committee granted leave to appeal to this Court in respect of the following questions of law, namely:
+
+Question 1
+
+What are the elements of the offence under IR Schd 5 s 3(3) and in particular, was it necessary for the prosecution to prove that the Hong Kong Alliance in Support of Patriotic Democratic Movements of China was in fact a “foreign agent” as defined by IR Schd 5 s 1, as opposed to an organization which the Commissioner of Police had reasonable grounds to believe was such a “foreign agent”?
+
+Question 2
+
+Was a challenge by way of defence to the validity of the Notice and its service on the applicants excluded by the “same person” test referred to in HKSAR v Chow Hang Tung [2024] HKCFA 2?
+
+Question 3
+
+Could the Notice validly require the production of information which came into existence before the promulgation of the NSL or the making of IR Schd 5?
+
+10.  Leave to appeal was also granted on the substantial and grave injustice basis, confined to the issue of whether the upholding of the CP’s claim of Public Interest Immunity (“PII”) by the Courts below was erroneous and/or resulted in the denial of a fair trial for the applicants.
+
+D.  Relevant provisions of the NSL and IR
+
+11.  Relevant provisions of the NSL and IR are set out in Appendix 2 to this judgment.
+
+12.  As noted above, the appellants were charged under IR Schd 5 s 3(3)(b) with failing to comply with the Notice. The IR, including that section, were made by the Chief Executive (“CE”) in conjunction with the Committee for Safeguarding National Security (“CSNS”) of the Hong Kong Special Administrative Region (“HKSAR”) pursuant to NSL43 which relevantly provides as follows:
+
+D.1  NSL43
+
+When handling cases concerning offence endangering national security, the department for safeguarding national security of the Police Force of the [HKSAR] may take measures that law enforcement authorities, including the Hong Kong Police Force, are allowed to apply under the laws in force in the [HKSAR] in investigating serious crimes, and may also take the following measures: ...
+
+(5) requiring a political organisation of a foreign country or outside the mainland, Hong Kong, and Macao of the [PRC], or an agent of authorities or a political organisation of a foreign country or outside the mainland, Hong Kong, and Macao of the [PRC], to provide information; ...
+
+(7) requiring a person, who is suspected, on reasonable grounds, of having in possession information or material relevant to investigation, to answer questions and furnish such information or produce such material.
+
+The [CSNS] of the [HKSAR] shall be responsible for supervising the implementation of the measures stipulated in the first paragraph of this Article by law enforcement authorities including the department for safeguarding national security of the Hong Kong Police Force.
+
+The [CE] shall be authorised, in conjunction with the [CSNS] of the [HKSAR], to make relevant implementation rules for the purpose of applying the measures under the first paragraph of this Article.
+
+13.  Thus, NSL43 authorises the making of rules, including rules under IR Schedule 5 regarding measures to require foreign agents to provide information in connection with cases concerning offences endangering national security pursuant to NSL43(5).
+
+14.  Similarly, NSL43 empowers the making of the Schedule 7 rules concerning measures to obtain information for the purpose of investigations of offences endangering national security from persons reasonably suspected of possessing such information pursuant to NSL43(7).
+
+D.2  The IR
+
+15.  The IR begin with a Preamble referring to the empowering provisions of NSL43. The IR then provide that the rules authorised to be made by NSL43 are as set out in the corresponding Schedules.[7]  Thus, Rule 2(5) provides in relation to Schedule 5 as follows:
+
+The Secretary for Security and the [CP] may, in accordance with Schedule 5, exercise the power to require a foreign or Taiwan political organization, or a foreign or Taiwan agent, to provide information by reason of activities concerning Hong Kong.
+
+16.  Similarly, Rule 2(7) provides:
+
+A police officer may, in accordance with Schedule 7, exercise the power to require a person to furnish information and produce material.
+
+D.3  Schedule 5
+
+Schd 5 s 1
+
+17.  Schd 5 s 1 relevantly defines “foreign agent” as follows:
+
+foreign agent
+
+(a) means a person who carries on activities in Hong Kong, and—
+
+(i) is directly or indirectly directed, directly or indirectly supervised, directly or indirectly controlled, employed, subsidized or funded by a foreign government or foreign political organization, or accepts monetary or non-monetary rewards from a foreign government or foreign political organization; and
+
+(ii) carries on all or part of the person’s activities for the benefit of a foreign government or foreign political organization; but
+
+(b) does not include a diplomatic agent, [etc] ... who is entitled to privileges and immunities in Hong Kong in accordance with the laws of Hong Kong ...
+
+18.  Since the prosecution is alleging that the CP had reasonable grounds to believe that HKA was a “foreign agent” and that each of the appellants served with the Notice was an office-bearer of HKA or a person managing or assisting in the management (“a manager”) of HKA in Hong Kong, the following provisions are relevant.
+
+Schd 5 s 3(1) to (3)
+
+(1) If the Commissioner of Police reasonably believes that it is necessary to issue the requirement for the prevention and investigation of an offence endangering  national security, the Commissioner may from time to time, with the approval of the Secretary for Security, by written notice served on a foreign agent or Taiwan agent, require the agent to provide the Commissioner with the following information within the specified period in the specified way—
+
+(a) ...
+
+(b) if the agent is an organization—
+
+(i) the personal particulars of the staff of the organization in Hong Kong, and of the members of the organization in Hong Kong (including name, age, type and number of identification document, occupation and residential address);
+
+(ii) the activities of the organization in Hong Kong;
+
+(iii) the assets, income, sources of income, and expenditure of the organization in Hong Kong.
+
+(2) If an agent fails to comply with a notice served under subsection (1)(a), the agent commits an offence and is liable on conviction on indictment to a fine of $100,000 and to imprisonment for 6 months unless the agent establishes to the satisfaction of the court that the agent has exercised due diligence and has failed to comply with the notice for reasons beyond the agent’s controls.
+
+(3) If a foreign agent or Taiwan agent is an organization—
+
+(a) the obligations imposed on the agent by subsection (1)(b) is binding on every office-bearer in Hong Kong, and on every person managing or assisting in the management of the organization in Hong Kong, if the office-bearer or person has been served with the notice under subsection (1); and
+
+(b) if the agent fails to comply with a notice served under subsection (1)(b), every office-bearer and person who is mentioned in paragraph (a) and who has been served with the notice commits an offence and is liable on conviction on indictment to a fine of $100,000 and to imprisonment for 6 months unless the office-bearer or person establishes to the satisfaction of  the court that the office-bearer or person has exercised due diligence and that the office-bearer or person has failed to comply with the notice for reasons beyond the office-bearer’s or person’s controls.
+
+E.  Question 1 – The elements of the offence
+
+19.  The prosecution’s position has throughout been that it is sufficient to show (as the Notice states) that the CP “has reasonable grounds to believe that [HKA] is a ‘foreign agent’ specified in Section 1 of Schedule 5”. Question 1 asks whether that is the correct construction of the relevant rules or whether, on the contrary, as the appellants contend, the prosecution has to prove that HKA was in fact such a foreign agent.
+
+20.  If it is necessary to establish that HKA was in fact a foreign agent and not merely reasonably believed to be such, service of the Notice on the appellants would not have been valid under Schd 5 s 3(1) since the appellants would not be shown to be office-bearers, etc, of a foreign agent. Their non-compliance with the Notice would not constitute an offence under Schd 5 s 3(3).
+
+21.  Looking first at the text of the relevant sections, there is a powerful argument for concluding that the organization served must actually be a foreign agent. The applicable provisions all refer to the person or organization served as a foreign agent and not as a person or organization reasonably believed to be a foreign agent. Thus:
+
+(a)  NSL43(5) empowers the department for safeguarding national security of the Police Force to take measures “requiring ... an agent of authorities or a political organisation of a foreign country ...” – not someone merely reasonably believed to be such an agent – to provide information.
+
+(b)  IR r 2(5) similarly authorises the Secretary for Security and the CP, “in accordance with Schedule 5 [to] exercise the power to require ... a foreign or Taiwan agent, to provide information by reason of activities concerning Hong Kong” – thus imposing a requirement on “a foreign or Taiwan agent” – not on a person or entity reasonably believed to be such.
+
+(c)  IR Schd 5 s 1 defines “foreign agent” as “(a) ...a person who carries on activities in Hong Kong, and (i) is ... directed, ... supervised, ... controlled, employed, subsidized or funded by a foreign government or foreign political organization, or accepts ... rewards from a foreign government or foreign political organization; and (ii) carries on all or part of the person’s activities for the benefit of a foreign government or foreign political organization”. The measures authorized are to be taken against persons coming within that definition, not against persons reasonably believed to be such persons, but who are not shown to come within that definition.
+
+(d)  Schd 5 s 3(1) does refer to the CP’s reasonable belief, but about something else. It refers to his reasonable belief “that it is necessary to issue the requirement for the prevention and investigation of an offence endangering national security”. It does not refer to a reasonable belief as to the “foreign agent” status of the person to be served. “The requirement” referred to is that of serving notice “on a foreign agent or Taiwan agent” – not on someone reasonably believed to be such – requiring “the agent” to provide the CP with the relevant information. The fact that the very same IR provision expressly refers to “reasonable belief” in connection with a different component of that provision indicates that the absence of such reference regarding the status of “foreign agent” is deliberate.
+
+(e)  Similarly, as referred to below, the consistent adoption of a “reasonable belief” qualification in relation to various elements in Schedule 7 shows that its omission in Schedule 5 is intentional.
+
+(f)  The provisions as to the information which can be required again refer to the CP serving a notice on the agent, who is either an individual (Schd 5 s 3(1)(a)) or, as in the present case, an organization (Schd 5 s 3(1)(b)) – not merely an individual or organization reasonably believed to be such an agent. And the information sought relates to the activities of the agent and to particulars of its staff, its assets, etc, and not those of a person or organization merely reasonably believed to be an agent.
+
+(g)  The same point may be made about Schd 5 s 3(3) which creates the offence of failing to comply and prescribes the penalties. Where the foreign agent is an organization, it imposes liability on the agent’s actual office-bearers and managers and not on those who may be attached to some entity only reasonably believed to be such an agent.
+
+(h)  Similarly, the defences provided for under Schd 5 s 3(2) and (3) refer to the due diligence and reasons for non-compliance beyond the control of the actual agent and the actual agent’s office-bearers and managers, and not to persons reasonably believed to have the status of agent or its office-bearers and managers.
+
+22.  A purposive construction of Schd 5 s 1 and Schd 5 s 3(1) supports the foregoing view. The legislative purpose is evident when the provisions of Schedules 5 and 7 are compared.
+
+23.  Under Schedule 7, for the purpose of investigating an offence endangering national security, the Secretary for Justice (“SJ”) is authorised to obtain an order from the court requiring any person (who does not need to have a particular status such as of a foreign agent under Schedule 5) to furnish specified information. Throughout Schedule 7 and the provisions empowering its making, that person is stated to be “a person ... who is suspected, on reasonable grounds, of having in possession information or material relevant to investigation”. Various related provisions are similarly expressed in terms of reasonable belief or reasonable suspicion.
+
+(a)  Thus the rule-making power in NSL43(7), authorises the taking of measures: “requiring a person, who is suspected, on reasonable grounds, of having in possession information or material relevant to investigation, to answer questions and furnish such information or produce such material”.
+
+(b)  IR r 2(7) and Schedule 7 regulate exercise of that power with Schd 7 s 2(1) authorising the SJ to make the court application. The court only makes such disclosure orders if satisfied that there are “reasonable grounds for suspecting that the offence endangering national security under investigation has been committed” (Schd 7 s 2(2) and (4)(a)); that there are reasonable grounds for suspecting that a particular person or some persons of a particular description have information relevant to the investigation (Schd 7 s (4)(b) and (c)) and that there are reasonable grounds for believing that it is in the public interest that an order ... should be made [having regard to certain considerations]” (Schd 7 s (4)(d)).
+
+24.  Why is there such a difference between Schedules 5 and 7? What is the legislative purpose behind that difference?
+
+(a)  Schedules 5 and 7 obviously provide alternative routes for obtaining information in aid of preventing and investigating offences endangering national security. Schedule 5 caters for cases where the CP is able to prove that the target is in fact a foreign or Taiwan agent, while Schedule 7 deals with persons who are not of any such known status but are reasonably believed to have pertinent information.
+
+(b)  Where the CP is able to prove that the individual or organization concerned is in fact a foreign agent and thus able to use Schedule 5, he does not need to apply to the court for a disclosure order. He may serve a Notice which directly imposes an obligation on the foreign agent to comply, backed by criminal sanctions. This may be considered justified since it may well be thought likely that a person or organization who as a matter of fact comes within the Schd 5 s 1 definition of foreign agent is likely to be in possession of pertinent information.
+
+(c)  On the other hand, where the CP is not in a position to prove that the target is actually a “foreign or Taiwan agent”, Schedule 7 requires him to satisfy the court that there are reasonable grounds to believe that the person targeted possesses the relevant information. This is an appropriate safeguard since an order made under Schedule 7 carries potential criminal liability (Schd 7 s 2(13)).
+
+(d)  The ability of the CP to proceed without judicial supervision under Schedule 5 explains the higher threshold requirement of having to prove actual foreign agent status. In contrast, under Schedule 7, a person may be required to provide information on a judge being satisfied that there are reasonable grounds for suspecting that the person has information, or is in possession of material, likely to be relevant to the investigation and that the other requirements of Schd 7 s 2(4), all assessed on a reasonable belief standard, are satisfied.
+
+(e)  Moreover, while its threshold requirement is lower, Schedule 7 contains safeguards, not found in Schedule 5, which are aimed at preserving the rights of persons served who may themselves be possible suspects while being compelled to make disclosures. Thus, Schd 7 s 2(9) makes it clear that legal professional privilege is preserved; Schd 7 ss 2(11) and (12)[8] exclude reliance on the privilege against self-incrimination but at the same time impose a restriction on use of the material obtained in potential criminal proceedings against the subject person; and by Schd 7 s 6, rules of court designed to deal with comparable applications are made applicable.
+
+(f)  Such provisions highlight the different intended purposes of Schedules 5 and 7 respectively and indicate why the Schedule 5 requirements are premised on the subject having the actual status of a foreign agent.
+
+25.  For the foregoing reasons, we conclude that on the true construction of the relevant Schedule 5 provisions, the actual status of the person or organization served as a foreign agent within the meaning of Schd 5 s 1 is a requirement of valid service under Schd 5 s 3(1) and is an element of the offence created by Schd 5 s 3(3). We reject the respondent’s submission that it suffices to show that the CP reasonably believes that person to be a foreign agent.
+
+F.  The Magistrate’s decision
+
+26.  On 2 August 2022, the Magistrate gave a preliminary ruling on the elements of the offence, addressing what is now Question 1, ie, whether, in the context of a prosecution for an offence under Schd 5 s 3(3), it was necessary to prove that the subject organization “was as a matter of fact a foreign agent”. He held that this was not necessary and that it was not an essential element to be proved by the prosecution.
+
+27.  For the reasons set out in Section E above, we do not agree. In reaching that conclusion, it was an important part of the Magistrate’s reasoning that, in his view, there were no statutory criteria for identifying an organization as a “foreign agent” under Schd 5 s 1 and that this was a deliberate omission lending weight to his decision. Thus, he stated:
+
+“Now there is a statutory definition of foreign agent under Section 1, but silence on the criteria as to identify a particular organisation being a foreign agent.”[9]
+
+28.  He concluded that Schedule 5 was “deliberately silent on the criteria on identification of a foreign agent” and attributed this to the rule-maker’s intention:
+
+“... to create some flexibility to the [CP] for his professional judgment at that juncture, regardless of the strict rules of evidence and the burden and standard as in criminal trial”.[10]
+
+29.  On this basis, he held that the legislative intention was not to require proof of actual foreign agent status as an element of the offence:
+
+“Looking into the background and the purpose of the legislation coupled with the deliberately silence on the criteria on identification of foreign agent, it is clear intention that the lawmakers and the rule-maker not to create the proof of foreign agent be an element of the offence.”[11]
+
+30.  That conclusion was repeated in the Magistrate’s verdict delivered on 4 March 2023, where he stated:
+
+“The IR already set out in Sch. 1 and Sch. 7 the mandatory standard of the threshold for identification of the target or recipient, but none is provided in Sch. 5, the Commissioner adopted the threshold of ‘reasonable grounds to believe’.”[12]
+
+31.  Stressing the need for “effectiveness” in enforcing national security,[13] he held that the “reasonable grounds to believe” basis for serving the Notice on HKA as a foreign agent was correct, stating:
+
+“With their backgrounds, political aims, activities and nexus with both locals and non-locals throughout the years, suffice to say is that [citing the Notice] ‘… the Commissioner of Police has reasonable grounds to believe that the ‘Hong Kong Alliance’ is a foreign agent’…’ was the correct approach.”[14]
+
+32.  The Magistrate’s premise that Schedule 5 is silent as to the criteria for identifying a foreign agent (or a foreign agent which is an organization), thereby signalling an intention not to require proof of actual foreign agent status as an element of the offence, is plainly erroneous.
+
+33.  As we have seen, a clear definition of “foreign agent” is contained in Schd 5 s 1. The expression “means a person who carries on activities in Hong Kong” and who is directed, ... (etc) or funded by a foreign government or foreign political organization”; and “carries on all or part of the person’s activities for the benefit of such foreign government or foreign political organization” (while excluding diplomatic agents).
+
+34.  The Magistrate appears to have overlooked Schd 5 s 3 which makes it clear that the foregoing definition applies both to individuals and to organizations. It specifies the information which may be required “if the agent is an individual” (s 3(1)(a)) and information which may be required “if the agent is an organization” (s 3(1)(b)). Moreover, Schd 5 s 3(3) states that if a foreign agent is an organization, the obligations imposed on it bind its office-bearers and managers. Plainly, in each case “agent” or “foreign agent” are accorded the same meaning within Sch 5 s 1, whether involving an individual or an organization.
+
+35.  Since the CP chose to proceed against HKA under Schd 5 (instead of Schd 7), he had to prove that HKA came within the Schd 5 s 1 definition. There was no attempt at offering such proof. If information was to be sought from HKA on a reasonable suspicion basis because the CP was unable to prove that HKA was in fact a foreign agent, he could instead have requested the SJ to proceed under Schd 7. But, having chosen to go under Schedule 5 which does not require judicial sanction, it was no answer to contend, contrary to the plain meaning and purpose of the Schedule 5 provisions, that it was sufficient to assert a reasonable belief that the target organization was a foreign agent and that the persons served were its office-holders or managers.
+
+G.  The Judge’s decision
+
+36.  In dismissing the appellants’ appeal, Anna Lai J agreed with the Magistrate that it was not necessary to prove as an element of the offence the fact that the person served with a notice was a “foreign agent”.[15] Additionally, she held (unlike the Magistrate) that the appellants were precluded from even challenging the legality of the Notices, holding that the contention that they were invalid constituted an impermissible collateral attack.[16]
+
+37.  In endorsing the Magistrate’s conclusion that the person’s status as a “foreign agent” was not an element of the offence, the Judge cited passages from the Verdict containing the erroneous proposition that in the IR there was “a deliberate silence on the threshold requirement for identification of a foreign agent” from which it could be deduced that “the rule‑makers were minded to create some flexibility for the Commissioner to exercise his professional judgment at that juncture” and did not intend to make “proof of foreign agent as a matter of fact ... an element of the offence upon non-compliance”.[17]  This led to the conclusion that requiring the CP merely to have reasonable grounds to believe that HKA was a foreign agent was the correct approach.[18]
+
+38.  For the reasons set out above, we are unable to accept the correctness of her Ladyship’s decision.
+
+H.  Question 2 - Chow Hang Tung No 1 and challenging the validity of the Notice
+
+39.  However, Anna Lai J’s judgment went further, addressing what is now Question 2 set out in Section C above. Accepting the prosecution’s submission, she held that the “same person” exception discussed in HKSAR v Chow Hang Tung[19] (“CHT No 1”) precludes the appellants from challenging “the legality” of the Notice since that would constitute an impermissible collateral attack and any such challenge had to be by way of judicial review.[20]
+
+40.  Stressing the importance of national security and the need for effective implementation of the NSL, the Judge held that:
+
+“It cannot possibly be the legislative intent to have the underlying merits and / or information of the ongoing investigation which form the basis of the CP / Secretary of Security’s decision be examined in a criminal trial.”[21]
+
+41.  Her Ladyship stated:
+
+“... I conclude that upon the true construction of section 3(3) of Schedule 5, the IR merely requires a Notice which appears to be valid on its face and has not been quashed by judicial review. The legality of the Notices is not an element of the offence that is open to challenge by way of a defence in the criminal proceedings.”[22]
+
+42.  The legal basis of that conclusion was explained as follows:
+
+“The ‘same person’ exception is applicable to the present case and provides a basis for excluding a collateral attack. The Notices were specifically directed at the Appellants who had clear and ample opportunity to challenge their legality. The Appellants were well aware of the consequence that they might be prosecuted for non-compliance with the requirement. They may always apply for judicial review against it.”[23]
+
+43.  Unfortunately in so holding, the Judge fell into error regarding the elements of the offence and misapplied CHT No 1 and the principles governing the permissibility of collateral attacks as well as the exceptional category of “same person” cases.
+
+44.  One might begin by noting the drastic consequences of the purported application of CHT No 1. The effect of the proposition advanced by the respondent was that the appellants were entirely shut out of challenging the validity of the Notice served on them even if its validity was an essential element of the offence and even if the CP and the prosecution were wrong as to the legal requirements for a valid notice and the document served did not comply with the necessary requirements.
+
+45.  We have held in answer to Question 1 that it is indeed a necessary element of the Schd 5 s 3(3) offence that HKA was in fact a foreign agent as defined in Sch 5 s 1. As explained in Section E above, unless the prosecution could prove the status of HKA as a foreign agent, the appellants would not be proven to be office-bearers or managers of a foreign agent and their non-compliance with the Notice would not constitute an offence under Schd 5 s 3(3).
+
+46.  Thus, her Ladyship was wrong to hold that the legality of the Notices was not an element of the offence that is open to challenge. It was an essential element that, in the ordinary way, would require proof by the prosecution beyond reasonable doubt.
+
+47.  It is, to say the least, a very strong thing to deprive a defendant of the right to contend that such an essential element of the offence has not been established on the basis that such contention is an impermissible “collateral challenge”. It is obviously fundamental that a defendant has the right to be presumed innocent and is entitled to put the prosecution to proof of the elements of the offence and to raise any substantive defences available. As pointed out in Section J.1 below, that right is guaranteed by BL87 and is expressly recognized by NSL5. The court seized of the prosecution only convicts if it finds that the elements of the offence have been proved.
+
+48.  It is thus not surprising that, as this Court repeatedly stressed in CHT No 1,while a “collateral challenge” to the validity of an administrative act or decision during a criminal trial may sometimes be excluded on the true construction of an applicable statute, there is a strong presumption in favour of permitting such challenges where such validity is an essential element of the offence. There must be compelling reasons for holding that, as a matter of statutory construction, such presumption is displaced.[24]
+
+49.  The Judge referred to CHT No 1 in this context. That was a case where, by a majority, this Court held that a collateral challenge was permissible, with no discernible ground of statutory construction for holding otherwise. The issue arose in the context of two quite separate events or processes.[25]  The first process (in which the appellant Chow did not take part) took place under the Public Order Ordinance, leading to the CP’s prohibition of the gathering. The second involved the criminal prosecution against Chow some months later. As the majority of the Court pointed out:
+
+“It is self-evident that the two processes are entirely separate and distinct. They occurred at different times, involved different parties, differed in their subject-matter, required the application of different legal principles and produced different outcomes. Chow did not take part in the decision process. In the criminal proceedings, she was not concerned with re-opening, appealing or setting aside the CP’s prohibition order. Her aim was to mount a defence which would have no effect on the prohibition order which had been issued four months before the magistracy trial and 18 months before the appeal.”[26]
+
+50.  The majority accordingly held:
+
+“It is therefore of basic importance that the legal aspects of the two processes should not be elided and confused. With respect, such confusion arose when the Magistrate held that it was not open to Chow to challenge the validity of the prohibition by way of defence ‘because such challenges, ... were grounds for a judicial review, which should be dealt with by the Appeal Board and examined and resolved by way of judicial review rather than by a criminal court.’… It was misplaced to deprive Chow of an opportunity to raise an important aspect of her defence on the basis that she should instead have had her challenge dealt with by the Appeal Board and by judicial review as part of the decision process to which she had not been a party.”[27]
+
+51.  However, the Judge in the present case relied on an exception to the aforesaid approach to collateral challenges involving what were referred to as “same person cases” which:
+
+“... involves the situation where the person seeking to mount a collateral attack questioning the lawfulness of an administrative order by way of criminal defence is the very person against whom that order was specifically directed as intended by the statute pursuant to which the order was made.”[28]
+
+52.  That exception does not, of course, dilute the aforesaid strong presumption in favour of allowing a defendant to challenge in criminal proceedings the validity of a relevant administrative order or decision which is an element of the offence. The exception only arises where the defendant is the “same person” who has been made subject to the relevant order or decision (thus excluding Chow in CHT No 1) and it is compellingly clear that the legislative intention requires departure from the aforesaid strong presumption.
+
+53.  Since the question depends on the construction of particular statutory schemes, it is not possible to lay down categorical principles as to when the “same person” exception arises. However, some indication of the kinds of consideration which may be relevant to the exception can be found as discussed in CHT No 1.
+
+54.  Thus, there are sometimes cases where the statute which authorises the administrative order or decision itself provides a mechanism of appeal or review for persons aggrieved, affording them ample opportunity for challenge. Such procedures may involve specialist expertise relevant to assessing the matters in issue. Particularly where such statutory procedures have been ignored or unsuccessfully resorted to and the aggrieved person has persisted in failing to comply, the court may hold that the legislative intention is for the defendant to be precluded from subsequently raising such challenge at the criminal trial.[29]
+
+55.  There has occasionally been some suggestion that the statutory intention is for certain issues not to be tried in the criminal courts, particularly the magistrates’ courts, on the basis that they are unsuitable forums for hearing the challenges against the validity of administrative acts, perhaps because such challenges may be thought to raise public law issues considered more appropriately dealt with on judicial review.[30]  That is, however, a suggestion to be treated with great circumspection, given the strong presumption against depriving a defendant of the right to a defence and bearing in mind Lord Irvine’s cautionary observation against “belittling” magistrates’ courts and Lord Steyn’s catalogue of potential difficulties that may stand in the way of a judicial review challenge, mentioned in Boddington.[31]  We would be inclined to consider such “inappropriate forum” sentiments no more than a possible aspect of the type of case referred to in the preceding paragraph, where the statutory intention is evident from the provision of mechanisms specially designed to deal with challenges to the administrative orders or decisions in question.
+
+56.  In the present case, no basis exists for displacing the strong presumption against depriving the appellants of their right to put the prosecution to proof by challenging the validity of the Notice.
+
+57.  They were served with the Notice dated 25 August 2021 pursuant to Schd 5 s 3(1) which required them to provide specified information within 14 days. The IR did not provide any independent procedure for challenging the issue or validity of the Notice, but simply stipulated in Schd 5 s 3(3)(b) that non-compliance would constitute an offence punishable by criminal sanctions.
+
+58.  The appellants denied the validity of the Notice in their open letter delivered to the police on 7 September 2021 in which they contended, inter alia, that HKA was not a “foreign agent”; that it was wrong in law to proceed on the basis merely of some (undisclosed) allegedly reasonable grounds to believe that it was such an agent; and that accordingly, there was no power to require disclosures under Schd 5.[32] Such a challenge does not raise any special difficulties in the way of its adjudication by a criminal court.
+
+59.  The appellants were arrested on 8 and 9 September 2021 and were charged on 10 September 2021with the offence of failing to comply with the Notice. They pleaded not guilty, raising the above-mentioned objections and arguing that since HKA was not, and had not been shown to be, a foreign or Taiwan agent, they were not in law office-bearers or managers of any such agent and had been wrongly convicted of failing to comply with the Notice.
+
+60.  There can be no doubt that they were entitled to question the validity of the Notice which was an essential element of the offence. The Judge was, with respect, plainly wrong to shut them out from making that argument, erroneously holding that it was sufficient that the Notice appeared to be valid on its face and had not been quashed by judicial review.
+
+61.  Accordingly, our answer to Question 2 is “No”.
+
+I.  Question 3 – Production of pre-existing documents
+
+62.  Question 3 only arises where a person has properly been served as a foreign agent or an office-bearer or manager of such an agent. It therefore does not substantively arise in the present case, given our views as to the invalidity of service. But as it has been fully addressed by the parties, we will deal briefly with the issue.
+
+63.  The Notices require disclosure of information dating back as far as 1989 in that they seek details of HKA’s directors, committee members and full-time staff since its establishment. Other information sought dates back to 2014, including information concerning “the activities held in Hong Kong by HKA from 2014 to present” involving certain persons and organizations; minutes of meetings convened by HKA in Hong Kong from 2014 to the present; and information concerning the “assets, revenue, sources of revenue and expenditure of [HKA] in Hong Kong from 2014 to the present”.
+
+64.  The appellants argue that such a demand is not legitimate. They argue that they cannot be convicted of a failure to comply with Notices concerning information dating back to a period prior to the NSL coming into operation at 11 p.m. on 30 June 2020. Such a request, they contend, falls outside the scope of Schd 5 s 3(3).[33] The complaint therefore alleges a form of illicit retrospectivity.
+
+65.  NSL39 provides: “This Law shall apply to acts committed after its entry into force for the purpose of conviction and imposition of punishment.”  The present prosecution, if otherwise properly founded, would not fall foul of that Article since the “act committed” to which the NSL (via the IR) applies is the act (or omission) of failing to comply with the Notices served on 25 August 2021 within 14 days of such service, obviously occurring after the NSL’s promulgation.
+
+66.  Schd 5 s 3(1) specifies three broad categories of information that may be required if the CP “reasonably believes that it is necessary to issue the requirement for the prevention and investigation of an offence  endangering  national  security”. If that test is satisfied, there is no reason to restrict the information capable of being required to the period after 30 June 2020.
+
+67.  The objections raised by the appellants are essentially challenges to the relevance of the information sought. How, they ask, can the information dating back to 2014 or even 1989 be relevant to any of the legislative purposes of Schedule 5 and to their possible liability under Schd 5 s 3(3)?
+
+68.  In our view, such questions are to be addressed in the context of the above-mentioned test. If challenged, the CP would be expected to indicate why he reasonably believes that it is necessary to require the disclosures for the prevention and investigation of an offence endangering national security. If the Court is satisfied that the CP has reasonable grounds to believe that the information sought is necessary, it has to be provided, whatever the date of its coming into existence.
+
+J.  Substantial and grave injustice - PII
+
+69.  Leave to appeal was granted on the issue of whether the upholding of the CP’s PII claim below was erroneous and/or resulted in the denial of a fair trial for the applicants. It is an issue which involves consideration of the prosecution’s duty of disclosure against a claim for PII – an immunity designed to protect some important public interest – assessed in the context of the essential right to a fair trial.
+
+J.1  Fair trial
+
+70.  In a jurisdiction where the Rule of Law is fundamental, it is a cardinal principle that a person charged with a criminal offence must have a fair trial. That principle is given constitutional force by the Basic Law and is explicitly recognised by the National Security Law, reflecting the long-established common law principle.
+
+71.  Thus Article 87 of the Basic Law (“BL87”) states:
+
+In criminal or civil proceedings in the [HKSAR], the principles previously applied in Hong Kong and the rights previously enjoyed by parties to proceedings shall be maintained.
+
+Anyone who is lawfully arrested shall have the right to a fair trial by the judicial organs without delay and shall be presumed innocent until convicted by the judicial organs.
+
+72.  And BL39 gives constitutional effect to the provisions of the International Covenant on Civil and Political Rights (“ICCPR”) as applied to Hong Kong, implemented through the Hong Kong Bill of Rights Ordinance,[34] Article 10 of the Bill of Rights (“BOR10”) relevantly stipulating that:
+
+... In the determination of any criminal charge against him, ... everyone shall be entitled to a fair and public hearing by a competent, independent and impartial tribunal established by law. The press and the public may be excluded from all or part of a trial for reasons of morals, public order (ordre public) or national security in a democratic society, ... or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice; but any judgment rendered in a criminal case or in a suit at law shall be made public …
+
+73.  The NSL acknowledges and reiterates the above-mentioned Basic Law provisions. NSL 4 materially states:
+
+Human rights shall be respected and protected in safeguarding national security in the [HKSAR]. The rights and freedoms, ... which the residents of the Region enjoy under the Basic Law of the [HKSAR] and the provisions of the [ICCPR] ... as applied to Hong Kong, shall be protected in accordance with the law.
+
+74.  More specifically, NSL 5 relevantly provides:
+
+“The principle of the rule of law shall be adhered to in preventing, suppressing, and imposing punishment for offences endangering national security. A person who commits an act which constitutes an offence under the law shall be convicted and punished in accordance with the law. No one shall be convicted and punished for an act which does not constitute an offence under the law.
+
+A person is presumed innocent until convicted by a judicial body. The right to defend himself or herself and other rights in judicial proceedings that a criminal suspect, defendant, and other parties in judicial proceedings are entitled to under the law shall be protected. ...”
+
+75.  The NSL goes on, in respect of procedural and trial arrangements regarding offences endangering national security, to elaborate as follows:
+
+(a)  NSL41 relevantly provides that the NSL and the laws of the HKSAR “shall apply to procedural matters, including those related to criminal investigation, prosecution, trial, and execution of penalty, in respect of cases concerning offence endangering national security over which the Region exercises jurisdiction”. NSL41 then refers to the handling of sensitive materials at trial, stating:
+
+The trial shall be conducted in an open court. When circumstances arise such as the trial involving State secrets or public order, all or part of the trial shall be closed to the media and the public but the judgment shall be delivered in an open court.
+
+(b)  NSL45 makes it clear that HKSAR laws apply unless otherwise provided:
+
+Unless otherwise provided by this Law, magistrates’ courts, the District Court, the High Court and the Court of Final Appeal shall handle proceedings in relation to the prosecution for offences endangering national security in accordance with the laws of the [HKSAR].
+
+(c)  NSL63 envisages that law enforcement officers, judicial officers, court staff, defence lawyers and supporting institutions involved in handling offences endangering national security may be privy to sensitive information and imposes obligations of confidentiality on such persons:
+
+The law enforcement and judicial authorities and their staff who handle cases concerning offence endangering national security under this Law, or the law enforcement and judicial authorities of the [HKSAR] and their staff who handle other cases concerning offence endangering national security, shall keep confidential State secrets, trade secrets or personal information which they come to know in the process of handling such cases.
+
+A lawyer who serves as defence counsel or legal representative shall keep confidential State secrets, trade secrets or personal information which he or she comes to know in the practice of law.
+
+The relevant institutions, organisations and individuals who assist with the handling of a case shall keep confidential any information pertaining to the case.
+
+76.  As the foregoing review demonstrates, the fundamental principle mandating a fair trial, reflected in the presumption of innocence and the right to defend oneself, together with other established rules of criminal procedure, are adopted for the handling of offences endangering national security. With necessary restrictions being imposed where State secrets and similarly sensitive information are involved, the principle of open justice is endorsed.
+
+77.  Our courts have frequently acknowledged their duty under NSL3 effectively to “prevent, suppress and impose punishment for any act or activity endangering national security” and the importance of that duty. However, it bears emphasising that carrying out that duty requires the courts faithfully to give effect to the provisions of the NSL and other applicable laws, including the safeguards provided for, and not to ignore such provisions.
+
+78.  The essential requirement at common law that trials be fair was succinctly summarised by Lord Bingham of Cornhill in R v H,[35] referring to earlier decisions of the House of Lords, as follows:
+
+“As the House declared in R v Horseferry Road Magistrates’ Court, Ex p Bennett [1994] 1 AC 42, 68, and recently repeated in Attorney General’s Reference (No 2 of 2001) [2004] 2 AC 72, 85, para 13, it is ‘axiomatic that a person charged with having committed a criminal offence should receive a fair trial and that, if he cannot be tried fairly for that offence, he should not be tried for it at all’.”
+
+J.2  The prosecution’s duty of disclosure
+
+79.  Claims for PII fall to be considered against an important aspect of the right to a fair trial, namely, the prosecution’s duty of disclosure. As Sir Anthony Mason NPJ explained in HKSAR v Lee Ming Tee & Anor:[36]
+
+“The prosecution’s duty of disclosure has its foundation in the right of the defendant to a fair trial. The right to a fair trial entails adequate knowledge of the case to be made by the prosecution (R v Brown [1998] AC 367 at p.374G, per Lord Hope of Craighead). What is fair must be determined in the light of the general principle of open justice (R v Keane [1994] 1 WLR 746 at p.750G, per Lord Taylor of Gosforth CJ), a principle which was described by Lord Hope of Craighead in R v Brown (at p.374G) as ‘the great principle of open justice’. It would be contrary to that great principle if the prosecution were to withhold from the defence material which might undermine the case against the defendant or which might assist the defence case (R v Brown at p.374G). It is therefore the duty of the prosecution to disclose to the defence ‘all relevant material which may assist the defence subject to the exception … of public interest immunity’ (R v Mills [1998] AC 382 at p.402H, per Lord Hutton).”
+
+J.3  Determining claims for PII
+
+80.  Where the prosecution seeks to withhold from the defence evidence which is ordinarily disclosable on the basis that non-disclosure is necessary for protection of an important public interest, there is plainly a risk that the defence may thereby be denied a fair trial. How should the courts deal with this situation? Unsurprisingly, a large body of case-law – often involving mutually inconsistent decisions – has arisen as to how the court should decide whether disclosure should be ordered or withheld. In England and Wales, there has been statutory intervention regulating this issue in certain particular areas.
+
+81.  In our jurisdiction, the principles have been explained by the Court of Appeal in HKSAR v Nayab Amin.[37]  While much of that decision concerns PII claims in connection with the identity and potential evidence of an “active informer” who took part in a relevant undercover operation, raising issues which are of no present relevance, Nayab Amin helpfully sets out the proper approach and the broad general principles. We endorse the Court of Appeal’s statement of those broad principles while some of the finer points dealt with in that judgment need not be considered here and may conceivably require further examination.
+
+82.  The Court of Appeal’s approach involves asking three questions:
+
+“They are: (i) is the information which the defence requests disclosable, that is, is it caught by the prosecutor's common law disclosure duty; (ii) if the answer to (i) above is ‘yes’, is the claim to PII in respect of the disclosable information established; and (iii) if the answer to (ii) above is ‘yes’, can the defendant still receive a fair trial if the PII claim is upheld?”[38]
+
+83.  Adopting that approach, “the first step is for the claimant to clearly articulate to the court what information or material the claimant wishes to withhold from disclosure”.[39] Obviously, unless that is done, the court cannot ascertain whether such material is disclosable and cannot proceed with questions (ii) and (iii).
+
+84.  Whether the material is disclosable is determined as indicated by Sir Anthony Mason NPJ in HKSAR v Lee Ming Tee & Anor.[40] As the Court of Appeal noted, it is a “broad relevance based test”,[41] which is “not confined only to what is helpful to a defendant but extends to information or material that are relevant or possibly relevant to an issue in the case.”[42]
+
+85.  If the material sought to be withheld is disclosable, question (ii) arises and “the claimant must then make good its claim that disclosing this information or material would create a real risk of serious prejudice to an important public interest”.[43]  This requires the prosecution to articulate the nature of the risk. In cases where it is alleged that the questions arising in the adjudication of the case involve national security or State secrets, the courts are required by NSL47 to seek a certificate from the Chief Executive as to whether that is so, such certificate being binding. If a positive certificate is issued it would appear to follow that question (ii) is answered affirmatively.
+
+86.  Where the court is satisfied, whether on the basis of an NSL47 certificate or otherwise, that disclosure of the material would create a real risk of serious prejudice to an important public interest it proceeds to consider question (iii), namely, can the defendant still receive a fair trial if the PII claim is upheld?
+
+87.  Referring to the judgment of Ribeiro PJ in HKSAR v Lee Ming Tee,[44] the Court of Appeal emphasised that “the court's primary endeavour is to ensure that a fair trial takes place, employing the law’s available resources, and not to abort it on the ground that fairness cannot be attained” and that “a fair trial is not synonymous with a perfect trial.”[45]   Thus, “[within] the limits of imperfection, the judge must do what he can to ensure that the trial is and, throughout its duration, remains, as fair as he can make it and that it never becomes an unfair trial.”[46]  In other jurisdictions, special procedures and other measures have been introduced by legislation to mitigate potential unfairness designed to enable the trial to proceed as a fair trial where PII is upheld.
+
+88.  Having taken into account resort to available measures for minimising unfairness, whether a fair trial is possible depends on whether the defendant would be afforded a proper “opportunity … to make his defence to the charge for which he is being tried ... in a process in which he enjoys the presumption of innocence, the prosecution bear the burden of proof, the defendant has a right to testify in his defence but cannot be compelled to do so, and the defendant must be acquitted if a reasonable doubt exists as to his guilt.”[47]
+
+89.  If as a consequence of upholding the PII claim, the defendant would be denied access to information or material which could enable him to prove his innocence or raise a reasonable doubt as to his guilt, such non-disclosure would deprive him of a fair trial. As a matter of law, in the absence of corrective measures (whether presently available or possibly introduced by legislation), the trial cannot then proceed without disclosure being ordered. In this situation, the prosecution has a choice either to make the disclosure and proceed with the trial or to withhold disclosure and discontinue the prosecution. As the Court of Appeal observed:
+
+“The right to a fair trial, developed at common law and entrenched now as a constitutional right, can never be outweighed in importance by other considerations and cannot be sacrificed no matter how important the material is that is not being disclosed or how great the harm that may be done to other aspects of the public interest. There is no balancing exercise involved here. If a fair trial cannot take place without more complete disclosure being made then the judge orders such further disclosure as in his view will secure the fairness of the trial. If that is too much disclosure for the prosecution then it can choose to discontinue the trial.”[48]
+
+90.  In our view, this is entirely consistent with the constitutional protections contained in BL39 and BL87 and the provisions of NSL4, 5, 41, 45 and 63 building in safeguards for persons charged with offences endangering national security, referred to in Section J.1 above.
+
+J.4  Non-disclosure and evidence
+
+91.  A further point is important in relation to the present case. In most cases, the non-disclosure only impacts the ability of the defence to mount its case without affecting the ability of the prosecution to discharge its burden of proof. Thus, many cases involve the defence objecting to PII claims to avoid disclosing the identity of police informers or details of observation points or other methods used by the police in their surveillance of the defendant, etc, contending that the defendant needs to challenge evidence so obtained. Hence, the test is whether withholding the information deprives the defendant of a fair trial.
+
+92.  However, it is important to bear in mind that where information or material is excluded on PII grounds, that material is not in evidence and if such evidence is necessary for the prosecution to prove its case, its successful plea of PII would ultimately be self-defeating: it would be permitted to proceed with the trial without making the disclosure but would lack the evidence to prove its case.
+
+93.  The decision of the English Court of Appeal in R v Morley (Francis) & Ors,[49] provides an illustration. The appellants were charged with conspiring to supply cocaine to an unidentified recipient for sale in the Scottish market. They applied for details of police investigations into any Scottish telephone contacts but this was refused on PII grounds. The appellants argued that they were thus deprived of a fair trial since the information was needed to undermine the prosecution case of a specific supply to a third party in Scotland. The upholding of the prosecution’s PII claim meant that there was no evidence of such contact. The Court of Appeal noted this but held that on the facts, it did not matter in the end. Gross LJ stated:
+
+“The starting point is of course the burden and standard of proof. The burden of proof rests, as it always does, on the Crown to prove its case. Here the Crown was committed to a particular conspiracy, a joint venture to supply the Scottish market. That conspiracy had to be proved by the Crown to the criminal standard. They had to make the jury sure of it. It is entirely right, as counsel for the appellants submitted, that the Crown sought to do that by way of inference. But the Crown was put in the position of having a gap in its evidence. It could not say that it had evidence of any telephone contact. The appellants were in a position to comment and make submissions extensively on that very point. It seems clear from what we know of the trial that they did so. It seems to us, with respect, hopeless to contend that the appellants were in some way prejudiced. The Crown were simply left without one possible and possibly important basis on which to invite the jury to draw the inference on which the Crown's case depended. It does not seem to us that there was any prejudice to the appellants at all, still less that the trial was in any way thereafter unfair.”[50]
+
+J.5  PII in the present case
+
+94.  The only materials produced by the prosecution bearing on the basis for charging and convicting the appellants of the offence under Schd 5 s 3(3) were highly redacted copies of an Investigation Report on HKA dated 26 July 2021 (“Exh P19(1)”) and an Application to the CP to Require Foreign and/or Taiwan Political Organizations and/or Agents to provide Information by reason of Activities Concerning Hong Kong dated 24 August 2021 (“Exh P20(1)”) (together “the Exhibits”).
+
+95.  In Exh P20(1), the senior officer who prepared it recommended that the CP issue the Notices stating that, on the basis of certain assessments made in the document, “there are reasonable grounds for believing that HKA … are foreign/Taiwan agents defined in Schedule 5” and that the Notices were necessary for the prevention and investigation of offences endangering national security. Agreeing with that recommendation, the CP sought the Secretary for Security’s approval, which was duly given on 24 August 2021.
+
+96.  The striking feature of the Exhibits is that a very large part of each document was redacted, produced as pages often completely covered in black ink. As we have seen, Schd 5 s 1 defines “foreign agent” as a person who carries on activities in Hong Kong and has a relationship with a foreign government or foreign political organization involving its control, supervision, funding, etc, by that government or organization, for which the “foreign agent” carries on all or part of its activities for the benefit of that foreign entity.
+
+97.  Since the appellants’ defence was that HKA was not a “foreign agent” and therefore that they were not office-bearers or managers of such an agent, it was plainly important for them to know the basis of the prosecution’s case to the contrary. The redactions deprived them of all relevant information in that regard. The identities of the foreign entities and their alleged interactions with HKA apparently referred to in redacted portions of the documents were suppressed so that the appellants had no indication of how it was said that HKA fell within the Schd 5 s 1 definition and how they qualified as office-bearers or managers of a foreign agent.
+
+98.  In our view, this carries two fatal consequences for the prosecution’s case. In the first place, it was self-defeating to have redacted out the only material relied on for establishing the foreign agent element of the offence, so that, in its absence, the charge could not be proved. Secondly, depriving the appellants of all knowledge of the nature of the prosecution’s case as to the foreign agent element plainly made it impossible for them to have a fair trial. They were thereby denied access to information or material which could enable them to prove their innocence or to raise a reasonable doubt as to their guilt. On either basis, their convictions cannot stand.
+
+99.  The prosecution’s case for upholding those convictions is tied to its construction of the Schd 5 s 3(3) offence and its contention that the appellants were excluded from challenging the validity of the Notices pursuant to CHT No 1.
+
+100.  Thus, it was argued that it was not an element of the offence to prove that HKA was in fact a foreign agent, but that it sufficed for the CP to believe on reasonable grounds that such was the case. Accordingly, so it was contended, it was not necessary to disclose to the appellants the aforesaid matters bearing on the Schd 5 s 1 definition. That is of course a construction that we have rejected in Section E above. To prove its case, the prosecution had to show that HKA in fact fell within the terms of that definition. But even on the prosecution’s erroneous construction, it would still have been necessary, upon being challenged, for it to provide evidence of the grounds upon which the CP formed his belief, allowing the court to gauge whether they were reasonable. However, while para 44 of Exh P20(1) refers to other paragraphs in that document as containing the basis for the CP’s allegedly reasonable grounds for belief, those paragraphs are almost entirely redacted, appearing simply as pages covered in black ink. Even on a “reasonable belief” test, the conviction cannot rest on an unsubstantiated assertion.
+
+101.  The prosecution’s alternative basis for defending its redactions was reliance on the proposition, accepted by the Judge, that CHT No 1 applied so as to exclude any challenge by the appellants to the validity of the Notices. For the reasons given in Section H above, that proposition is erroneous.
+
+K.  Conclusion
+
+102.  We accordingly conclude as follows:
+
+(a)  In answer to Question 1: It is a necessary element of the Schd 5 s 3(3) offence for which the appellants were convicted that HKA was in fact a foreign agent as defined in Schd 5 s 1 and that they were office-bearers or managers of such an agent. The courts below fell into error in holding that it was sufficient merely for the CP to assert that he had reasonable grounds to believe that HKA was a foreign agent. 
+
+(b)  In answer to Question 2: The Judge below was wrong to hold that the appellants were excluded from challenging the validity of the Notices by the purported application of the “same person” test in CHT No 1. There was no basis in the present case for departing from the strong presumption in favour of permitting collateral challenges.
+
+(c)  On the basis of the aforesaid conclusions, the appeals must be allowed and the convictions must be quashed.
+
+(d)  An answer to Question 3 is therefore not required. However, as it has been argued, our view is that the proper test is that provided under Schd 5 s 3(1) so that where the CP “reasonably believes that it is necessary to issue the requirement for the prevention and investigation of an offence endangering national security”. If that test is met, the information may be sought, there being no restriction to information only coming into existence after 30 June 2020.
+
+(e)  As to the substantial and grave injustice ground, we consider the PII claim ill-conceived and self-defeating in the present case. On a true construction of the Schd 5 s 3(3) offence, the prosecution had the burden of proving that HKA was in fact a “foreign agent” as an element of that offence. By redacting the only potential evidential basis for establishing such facts, the prosecution disabled itself from proving its case. Moreover, non-disclosure of the redacted facts in any event deprived the appellants of a fair trial so that their convictions involved a miscarriage of justice and would in any event not have been permitted to stand.
+
+103.  This Court unanimously allows the appeals and quashes the convictions and sentences.
+
+ 
+
+ 
+
+(Andrew Cheung)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+ 
+
+(M H Lam)
+Permanent Judge	(Patrick Chan)
+Non-Permanent Judge
+ 
+
+FACC 10/2024
+
+Mr Robert Pang SC, Mr Albert N B Wong and Mr Esmond Wong, instructed by Kenneth Lam, Solicitors, for the 1st and 2nd Appellants
+
+FACC 11/2024
+
+The Appellant appeared in person
+
+Department of Justice
+
+Mr Ivan Cheung, ADPP and Ms Karen Ng, SPP, of the Department of Justice, for the Respondent
+
+ 
+
+ 
+
+ 
+
+ 
+
+APPENDIX 1
+
+The Notice
+
+[Addressed to each appellant]
+
+The Commissioner of Police hereby requires the “Hong Kong Alliance in Support of Patriotic Democratic Movements of China” [company number : 255202] [hereinafter called the “Hong Kong Alliance”] to provide certain information pursuant to Schedule 5 of the Implementation Rules for Article 43 of the Law of the People”s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region [hereinafter called “Schedule 5”].
+
+According to the police investigation, the Commissioner of Police has reasonable grounds to believe that the “Hong Kong Alliance” is a “foreign agent” specified in Section 1 of Schedule 5. Under Section 3(1) of Schedule 5, as the Commissioner of Police reasonably believes that it is necessary to issue the requirement of this notice for the prevention and investigation of an offence endangering national security, the Commissioner, with the approval of the Secretary for Security, by this notice served on the “Hong Kong Alliance”, requires the “Hong Kong Alliance” to provide the Commissioner with the following information in writing together with relevant supporting documents, within 14 days:
+
+[1]  For the staff members in Hong Kong and the members in Hong Kong since the establishment of the “Hong Kong Alliance”, that is, the following persons:
+
+[i]  directors,
+
+[ii]  standing committee members (and)
+
+[iii]  full-time staff members,
+
+Their personal information, including name, date of birth, type and number of the identification document, contact phone number, residential address, position and employment period shall be provided;
+
+[2]  For the activities held in Hong Kong by the “Hong Kong Alliance” from 2014 to present, involving the following organizations or person [regardless of the organizations or person participating in the activities as joint organizers, co-organizers, sponsors or attendees, and including the activities conducted by contracting with the places outside Hong Kong with the use of the communication technology]:
+
+[i]  “New School for Democracy” established in Hong Kong,
+
+[ii]  “China Human Rights Lawyers Concern Group”,
+
+[iii]  political parties outside the territory of the People”s Republic of China or in Taiwan or other organizations outside the territory of the People”s Republic of China or in Taiwan that pursue political ends and/or their branches in Hong Kong, including “Federation for a Democratic China”, “Asia Democracy Network”, “New School for Democracy”, “The National Endowment for Democracy” and the organizations that receive money from “The National Endowment for Democracy” [including “National Democratic Institute”, “International Republican Institute”,”Solidarity Center” and “Center for International Private Enterprise”], (and)
+
+[iv]  Mark Herman SIMON[51],
+
+Information on the activities concerned, including name, purpose, date, time and place of the activity, details of the person-in-charge, source of fund and breakdown of the expenditure, and all records of contacting the aforesaid organizations or person for organizing, holding, sponsoring or attending the aforesaid activities [including the electronic communication records] shall be provided;
+
+[3]  Minutes of the following meetings that the “Hong Kong Alliance” convened in Hong Kong from 2014 to present [including the meetings with the places outside Hong Kong by communication technology] shall be provided:
+
+[i]   board meetings and standing committee meetings,
+
+[ii]  meetings with political parties outside the territory of the People”s Republic of China or in Taiwan or other organizations outside the territory of the People”s Republic of China or in Taiwan that pursue political ends and/or their branches in Hong Kong [including “Federation for a Democratic China”], (and)
+
+[iii]  meetings with Mark Herman SIMON;
+
+[4]  The assets, revenue, sources of revenue and expenditure of the “Hong Kong Alliance” in Hong Kong from 2014 to present shall be provided, that is;
+
+[i]   details of account(s) directly or indirectly held with the local bank(s) currently or previously, including the account number, the account holder and/or the ultimate beneficial owner,
+
+[ii]  details of the assets like the property, vehicle(s), stock(s), etc., in Hong Kong directly or indirectly held currently or previously,
+
+[iii]  all transactions and money dealing, including reason, purpose, date, amount, the bank account and the account book(s) involved, with “New School for Democracy” [whether it was established in Taiwan or Hong Kong or other places]; “China Human Rights Lawyers Concern Group”; “Federation for a Democratic China”; “Asia Democracy Network”; “The National Endowment for Democracy”; and the organizations that receive money from “The National Endowment for Democracy” [including “National Democratic Institute”, “International Republican Institute”, “Solidarity Center” and “Center for International Private Enterprise”]; Mark Herman SIMON; and political parties outside the territory of the People”s Republic of China or in Taiwan or other organizations outside the territory of the People”s Republic of China or in Taiwan that pursue political ends and/or their branches in Hong Kong, (and)
+
+[iv]  reason and purpose of CHOW Hang-tung, the vice-chairperson of the “Hong Kong Alliance”, receiving some HK$3,000 from “Asia Democracy Network” on 4th February 2021 shall be provided.”
+
+The aforesaid information and relevant supporting documents shall be served on the Commissioner of Police by submitting in person to National Security Department at Police Headquarters, No. 1 Arsenal Street, Wan Chai, Hong Kong.
+
+Since you are the officer-bearer and/or the person managing or assisting in the management of the “Hong Kong Alliance”, you are served with this notice under Section 3(3)(a) of Schedule 5. You have to ensure that the “Hong Kong Alliance” will submit the required information and relevant supporting documents to the Commissioner of Police on or before 7th September 2021. …
+
+Under Section 3(3)(b) of Schedule 5, if an agent fails to comply with the notice, every officer-bearer and person managing or assisting in the management of the agent who has been served with the notice commits an offence and is liable on conviction on indictment to a fine of $100,000 and to imprisonment for 6 months. Besides, Section 3(4) of Schedule 5 stipulates that if any information provided to the Commissioner of Police in compliance with a notice served is false, incorrect, or incomplete in a material particular, the person who has provided the information commits an offence and is liable on conviction on indictment to a fine of $100,000 and to imprisonment for 2 years.
+
+...
+
+[HUNG Ngai]
+
+for Commissioner of Police
+
+ 
+
+ 
+
+APPENDIX 2
+
+Provisions of the NSL and Implementation Rules
+
+NSL provisions
+
+NSL 4
+
+Human rights shall be respected and protected in safeguarding national security in the Hong Kong Special Administrative Region. The rights and freedoms, including the freedoms of speech, of the press, of publication, of association, of assembly, of procession and of demonstration, which the residents of the Region enjoy under the Basic Law of the Hong Kong Special Administrative Region and the provisions of the International Covenant on Civil and Political Rights and the International Covenant on Economic, Social and Cultural Rights as applied to Hong Kong, shall be protected in accordance with the law.
+
+NSL 5
+
+The principle of the rule of law shall be adhered to in preventing, suppressing, and imposing punishment for offences endangering national security. A person who commits an act which constitutes an offence under the law shall be convicted and punished in accordance with the law. No one shall be convicted and punished for an act which does not constitute an offence under the law.
+
+A person is presumed innocent until convicted by a judicial body. The right to defend himself or herself and other rights in judicial proceedings that a criminal suspect, defendant, and other parties in judicial proceedings are entitled to under the law shall be protected. No one shall be liable to be tried or punished again for an offence for which he or she has already been finally convicted or acquitted in judicial proceedings.
+
+NSL39
+
+This Law shall apply to acts committed after its entry into force for the purpose of conviction and imposition of punishment.
+
+NSL41
+
+This Law and the laws of the Hong Kong Special Administrative Region shall apply to procedural matters, including those related to criminal investigation, prosecution, trial, and execution of penalty, in respect of cases concerning offence endangering national security over which the Region exercises jurisdiction.
+
+...
+
+The trial shall be conducted in an open court. When circumstances arise such as the trial involving State secrets or public order, all or part of the trial shall be closed to the media and the public but the judgment shall be delivered in an open court.
+
+NSL43
+
+When handling cases concerning offence endangering national security, the department for safeguarding national security of the Police Force of the Hong Kong Special Administrative Region may take measures that law enforcement authorities, including the Hong Kong Police Force, are allowed to apply under the laws in force in the Hong Kong Special Administrative Region in investigating serious crimes, and may also take the following measures:
+
+…
+
+(5) requiring a political organisation of a foreign country or outside the mainland, Hong Kong, and Macao of the People’s Republic of China, or an agent of authorities or a political organisation of a foreign country or outside the mainland, Hong Kong, and Macao of the People’s Republic of China, to provide information;
+
+(6) ...
+
+(7) requiring a person, who is suspected, on reasonable grounds, of having in possession information or material relevant to investigation, to answer questions and furnish such information or produce such material.
+
+The Committee for Safeguarding National Security of the Hong Kong Special Administrative Region shall be responsible for supervising the implementation of the measures stipulated in the first paragraph of this Article by law enforcement authorities including the department for safeguarding national security of the Hong Kong Police Force.
+
+The Chief Executive shall be authorised, in conjunction with the Committee for Safeguarding National Security of the Hong Kong Special Administrative Region, to make relevant implementation rules for the purpose of applying the measures under the first paragraph of this Article.
+
+NSL45
+
+Unless otherwise provided by this Law, magistrates’ courts, the District Court, the High Court and the Court of Final Appeal shall handle proceedings in relation to the prosecution for offences endangering national security in accordance with the laws of the HKSAR.
+
+NSL63
+
+The law enforcement and judicial authorities and their staff who handle cases concerning offence endangering national security under this Law, or the law enforcement and judicial authorities of the HKSAR and their staff who handle other cases concerning offence endangering national security, shall keep confidential State secrets, trade secrets or personal information which they come to know in the process of handling such cases.
+
+A lawyer who serves as defence counsel or legal representative shall keep confidential State secrets, trade secrets or personal information which he or she comes to know in the practice of law.
+
+The relevant institutions, organisations and individuals who assist with the handling of a case shall keep confidential any information pertaining to the case.
+
+Implementation Rules
+
+WHEREAS—
+
+…
+
+(3)  the first paragraph of Article 43 of the Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region provides, to the effect that, when handling cases concerning offence endangering national security, the department for safeguarding national security of the Police Force of the Hong Kong Special Administrative Region may take measures that law enforcement authorities, including the Hong Kong Police Force, are allowed to apply under the laws in force in the Hong Kong Special Administrative Region in investigating serious crimes, and may also take the following measures—
+
+…
+
+(e)  requiring a political organization of a foreign country or outside the mainland, Hong Kong and Macao of the People’s Republic of China, or an agent of authorities or a political organization of a foreign country or outside the mainland, Hong Kong and Macao of the People’s Republic of China, to provide information;
+
+(f)  ... and
+
+(g)  requiring a person, who is suspected, on reasonable grounds, of having in possession information or material relevant to investigation, to answer questions and furnish such information or produce such material; and
+
+(4)  the third paragraph of Article 43 of the Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region authorizes the Chief Executive, in conjunction with the Committee for Safeguarding National Security of the Hong Kong Special Administrative Region, to make relevant implementation rules for the purpose of applying the measures under the first paragraph of that Article:
+
+NOW, THEREFORE, these Implementation Rules are made as follows—
+
+2.  Schedules
+
+…
+
+(5)  The Secretary for Security and the Commissioner of Police may, in accordance with Schedule 5, exercise the power to require a foreign or Taiwan political organization, or a foreign or Taiwan agent, to provide information by reason of activities concerning Hong Kong.
+
+…
+
+(7)  A police officer may, in accordance with Schedule 7, exercise the power to require a person to furnish information and produce material.
+
+Schedule 5: Rules on Requiring Foreign and Taiwan Political Organizations and Agents to Provide Information by Reason of Activities Concerning Hong Kong
+
+1.  Interpretation
+
+In this Schedule—
+
+foreign agent …—
+
+(a)  means a person who carries on activities in Hong Kong, and—
+
+(i)  is directly or indirectly directed, directly or indirectly supervised, directly or indirectly controlled, employed, subsidized or funded by a foreign government or foreign political organization, or accepts monetary or non-monetary rewards from a foreign government or foreign political organization; and
+
+(ii)  carries on all or part of the person’s activities for the benefit of a foreign government or foreign political organization; but
+
+(b)  does not include a diplomatic agent, a consular officer, or an employee of a consular post, who is entitled to privileges and immunities in Hong Kong in accordance with the laws of Hong Kong, or any other person or body that is entitled to privileges and immunities in Hong Kong in accordance with the laws of Hong Kong;
+
+...
+
+Taiwan agent … means a person who carries on activities in Hong Kong, and—
+
+(a)  is directly or indirectly directed, directly or indirectly supervised, directly or indirectly controlled, employed, subsidized or funded by a Taiwan authority or Taiwan political organization, or accepts monetary or non-monetary rewards from a Taiwan authority or Taiwan political organization; and
+
+(b)  carries on all or part of the person’s activities for the benefit of a Taiwan authority or Taiwan political organization;
+
+3.  Regulation of foreign or Taiwan agents
+
+(1)  If the Commissioner of Police reasonably believes that it is necessary to issue the requirement for the prevention and investigation of an offence endangering national security, the Commissioner may from time to time, with the approval of the Secretary for Security, by written notice served on a foreign agent or Taiwan agent, require the agent to provide the Commissioner with the following information within the specified period in the specified way—
+
+(a)  if the agent is an individual—
+
+(i)  the activities of the agent in Hong Kong, and the personal particulars of the agent (including the activities participated by the agent in any local organization, the agent’s post, business, occupation and address);
+
+(ii)  the assets, income, sources of income, and expenditure of the agent in Hong Kong; or
+
+(b)  if the agent is an organization—
+
+(i)  the personal particulars of the staff of the organization in Hong Kong, and of the members of the organization in Hong Kong (including name, age, type and number of identification document, occupation and residential address);
+
+(ii)  the activities of the organization in Hong Kong;
+
+(iii)  the assets, income, sources of income, and expenditure of the organization in Hong Kong.
+
+(2)  If an agent fails to comply with a notice served under subsection (1)(a), the agent commits an offence and is liable on conviction on indictment to a fine of $100,000 and to imprisonment for 6 months unless the agent establishes to the satisfaction of the court that the agent has exercised due diligence and has failed to comply with the notice for reasons beyond the agent’s controls.
+
+(3)  If a foreign agent or Taiwan agent is an organization—
+
+(a)  the obligations imposed on the agent by subsection (1)(b) is binding on every office-bearer in Hong Kong, and on every person managing or assisting in the management of the organization in Hong Kong, if the office-bearer or person has been served with the notice under subsection (1); and
+
+(b)  if the agent fails to comply with a notice served under subsection (1)(b), every office-bearer and person who is mentioned in paragraph (a) and who has been served with the notice commits an offence and is liable on conviction on indictment to a fine of $100,000 and to imprisonment for 6 months unless the office-bearer or person establishes to the satisfaction of the court that the office-bearer or person has exercised due diligence and that the office-bearer or person has failed to comply with the notice for reasons beyond the office-bearer’s or person’s controls.
+
+(4)  If any information provided to the Commissioner of Police in compliance with a notice served under subsection (1) is false, incorrect, or incomplete in a material particular, the person who has provided the information commits an offence and is liable on conviction on indictment to a fine of $100,000 and to imprisonment for 2 years unless the person establishes to the satisfaction of the court that the person had good reason to believe that the information was true, correct and complete.
+
+Schedule 7: Rules Relating to Requirement to Furnish Information and Produce Materials
+
+1.  Interpretation
+
+In this Schedule—
+
+authorized officer … means—
+
+(a)  any police officer; or
+
+(b)  any person authorized in writing by the Secretary for Justice for the purposes of this Schedule.
+
+2.  Requirement to furnish information or produce material
+
+(1)  The Secretary for Justice may, for the purpose of an investigation into an offence endangering national security, make an ex parte application to the Court of First Instance for an order under subsection (2) in relation to a particular person or to persons of a particular description.
+
+(2)  The Court of First Instance may, if on such an application it is satisfied that the conditions in subsection (4)(a), (b) and (d) or subsection (4)(a), (c) and (d) are fulfilled, make an order complying with subsection (3) in respect of the particular person, or persons of the particular description, to whom the application relates.
+
+(3)  An order under subsection (2) must—
+
+(a)  give particulars of the offence endangering national security that is under investigation;
+
+(b)  identify the particular person, or state the particular description of persons, in respect of whom the order is made;
+
+(c)  authorize the Secretary for Justice to require the person or persons in respect of whom the order is made to do either or both of the following—
+
+(i)  to answer questions or furnish information with respect to any matter that reasonably appears to an authorized officer to be relevant to the investigation;
+
+(ii)  to produce any material that reasonably appears to the Secretary for Justice to relate to any matter relevant to the investigation, or any material of a class that reasonably appears to the Secretary for Justice so to relate; and
+
+(d)  contain such other terms (if any) as the Court of First Instance considers appropriate in the public interest, but nothing in this paragraph is to be construed as authorizing the court to order the detention of any person in custody without that person’s consent.
+
+(4)  The conditions referred to in subsection (2) are—
+
+(a)  that there are reasonable grounds for suspecting that the offence endangering national security under investigation has been committed;
+
+(b)  where the application relates to a particular person—that there are reasonable grounds for suspecting that the person has information, or is in possession of material, likely to be relevant to the investigation;
+
+(c)  where the application relates to persons of a particular description, that—
+
+(i)  there are reasonable grounds for suspecting that some or all persons of that description have such information or are in possession of such material; and
+
+(ii)  the offence endangering national security could not effectively be investigated if the application was required to relate to a particular person, whether because of the urgency of the investigation, the need to keep the investigation confidential or the difficulty in identifying a particular person who has relevant information or material;
+
+(d)  that there are reasonable grounds for believing that it is in the public interest that an order under subsection (2) should be made in respect of that person or those persons, having regard to—
+
+(i)  the seriousness of the offence endangering national security under investigation;
+
+(ii)  whether or not the offence endangering national security could be effectively investigated if an order under subsection (2) is not made;
+
+(iii)  the benefit likely to accrue to the investigation if the information is disclosed or the material obtained; and
+
+(iv)  the circumstances under which the person or persons may have acquired, or may hold, the information or material (including any obligation of confidentiality in respect of the information or material and any family relationship with a person to whom the information or material relates).
+
+ ...
+
+(7)  A notice in writing imposing a requirement on a person under subsection (5) or (6) must—
+
+(a)  state that a court order has been made under this section and include—
+
+(i)  the date of the order;
+
+(ii)  the particulars of the offence endangering national security under investigation;
+
+(iii)  where the order is made in respect of that particular person, a statement to that effect;
+
+(iv)  where the order is made in respect of persons of a particular description and that person is of that particular description, a statement to that effect;
+
+(v)  a statement of the authorization given to the Secretary for Justice by the order; and
+
+(vi)  a statement of any other terms of the order relevant to that person;
+
+(b)  have annexed to it a copy of the order made under this section, but there may be excluded from such copy—
+
+(i)  any reference in the order to a particular person other than that person, or to persons of a particular description not including that person; and
+
+(ii)  any details in the order that relate only to such particular person or persons of a particular description; and
+
+(c)  set out or have annexed to such notice the provisions of subsections (8), (9) and (10) and section 5 of this Schedule.
+
+...
+
+(11)  A person is not excused from furnishing information or producing any material required under this section on the ground that to do so—
+
+(a)  might tend to incriminate the person; or
+
+(b)  would breach an obligation as to secrecy or another restriction on the disclosure of information or material imposed by statute or otherwise.
+
+(12)  A statement by a person in response to a requirement imposed by virtue of this section may not be used against the person in criminal proceedings against the person except as follows—
+
+(a)  in evidence in proceedings under subsection (14) or section 36 of the Crimes Ordinance (Cap. 200); or
+
+(b)  for the purpose of impeaching the person’s credibility in proceedings in respect of any offence where in giving evidence the person makes a statement inconsistent with it.
+
+(13)  Any person who without reasonable excuse fails to comply with a requirement imposed on the person under this section commits an offence and is liable on conviction on indictment to a fine of $100,000 and to imprisonment for 1 year.
+
+(14)  Any person who, in purported compliance with a requirement under this section—
+
+(a)  makes a statement that the person knows to be false or misleading in a material particular; or
+
+(b)  recklessly makes a statement that is false or misleading in a material particular,
+
+commits an offence and is liable on conviction on indictment to a fine of $500,000 and to imprisonment for 3 years.
+
+(15)  Where an order under subsection (2) has been made, the Secretary for Justice, or a person authorized in writing by the Secretary for Justice for the purpose of this subsection, may, after satisfying any conditions that may be prescribed by rules of court in this respect, obtain a copy of the order; but subject to the foregoing part of this subsection and to subsection (7)(b), no person is entitled to obtain a copy of the order or any part of the order.
+
+...
+
+(17)  An application for the discharge or variation of an order made under this section may be made by any person on whom a requirement is imposed under the order.
+
+6.  Rules of court
+
+For the rules of court applicable to any application made under this Schedule, reference may be made to the rules of court applicable to similar applications under the laws of Hong Kong (in particular, the Rules of the High Court made under section 30 of the Organized and Serious Crimes Ordinance (Cap. 455)) with the necessary modifications.
+
+
+[1]  Instrument A303, formerly A406A.
+
+[2]  The Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region (Instrument A302, formerly A406) (“NSL”).
+
+[3]  [2023] HKMagC 2 (“Verdict”) at §129.
+
+[4]  Verdict at §10.
+
+[5]  [2023] HKMagC 2 (4 March 2023).
+
+[6]  [2024] HKCFI 553.
+
+[7]  IR Rule 2. Schd 5 implements NSL43(5) and Schd 7 does the same for NSL43(7).
+
+[8]  Schd 7 s 3(11) does likewise regarding material ordered to be produced.
+
+[9]  WKCC 3633/2021, 2 August 2022 (“Ruling”) at p 2.
+
+[10]  Ruling at p 4.
+
+[11]  Ibid.
+
+[12]  Verdict at §84 (footnotes omitted).
+
+[13]  Verdict at §85.
+
+[14]  Verdict at §88.
+
+[15]  Judgment at §§30-32.
+
+[16]  Ibid at §§22-23.
+
+[17]  Verdict at §32, cited in Judgment at §25.
+
+[18]  Verdict at §§87-88, cited in Judgment at §26.
+
+[19]  (2024) 27 HKCFAR 71.
+
+[20]  Judgment at §22(1).
+
+[21]  Judgment at §22(5) (as corrected).
+
+[22]  Judgment §§23 and 35. The Magistrate’s decision was rendered before publication of CHT No 1 and so did not involve similar consideration of these issues.
+
+[23]  Judgment at §22(1).
+
+[24]  CHT No 1 at §§18, 21, 25, 126, 137, 160, 162, 193 and 194, citing English authorities including R v Wicks [1998] AC 92 and Boddington v British Transport Police [1999] 2 AC 143.
+
+[25]  CHT No 1 at §95.
+
+[26]  CHT No 1 at §119.
+
+[27]  CHT No 1 at §120.
+
+[28]  CHT No 1 at §122.
+
+[29]  CHT No 1 at §§26-28, 33-34; 124, 126, 129-130; citing R v Wicks [1998] AC 92; Boddington v British Transport Police [1999] 2 AC 143; and HKSAR v Sky Wide Development Ltd [2013] 1 HKLRD 613.
+
+[30]  CHT No 1 at §§29-30, 34; citing Quietlynn Ltd v Plymouth City Council [1988] 1 QB 114; and HKSAR v The Incorporated Owners of No 10 Bonham Strand HCMA 239/2004, 28 May 2004.
+
+[31]  Boddington v British Transport Police [1999] 2 AC 143, per Lord Irvine of Lairg at 162 and per Lord Steyn at 173, cited in CHT No 1 at §§31-32.
+
+[32]  Verdict at §129.
+
+[33]  A1 and A2’s Written Case at §§100-116; A3’s Written Case at§§98-107.
+
+[34]  Cap 383.
+
+[35]  [2004] 2 AC 134 at §10.
+
+[36]  (2003) 6 HKCFAR 336 at §143.
+
+[37]  [2020] 2 HKLRD 1051.
+
+[38]  Ibid at §94.
+
+[39]  Ibid at §105.
+
+[40]  (2003) 6 HKCFAR 336 at §§145, 170-171.
+
+[41]  Nayab Amin at §97.
+
+[42]  Ibid at §100.
+
+[43]  Ibid at §105.
+
+[44]  (2001) 4 HKCFAR 133 at 150.
+
+[45]  Nayab Amin at §153.
+
+[46]  Ibid at §156.
+
+[47]  Ibid at §161.
+
+[48]  Ibid at §147.
+
+[49]  [2012] EWCA Crim 1866.
+
+[50]  Ibid at §27.
+
+[51]  According to the information accessed, Mark Herman SIMON is the personal assistant to LAI Chee-ying.
+
+ 
+
+ 

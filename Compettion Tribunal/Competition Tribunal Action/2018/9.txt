@@ -1,0 +1,968 @@
+CTA 1/2018 &
+CTA 2/2018
+
+[2021] HKCT 2
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ACTION NO 1 OF 2018
+
+____________
+
+BETWEEN	 	 
+ 	TACHING PETROLEUM COMPANY LIMITED	Plaintiff
+and
+
+ 	MEYER ALUMINIUM LIMITED	Defendant
+____________
+AND
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ACTION NO 2 OF 2018
+
+____________
+
+BETWEEN
+
+ 	SHELL HONG KONG LIMITED	Plaintiff
+and
+
+ 	MEYER ALUMINIUM LIMITED	Defendant
+____________
+ 	(Heard Together)	 
+Before: Hon Au-Yeung J, Deputy President
+
+Dates of Hearing: 27-30 July, 2, 3 and 9 August 2021
+
+Date of Judgment: 12 October 2021
+
+_______________
+
+J U D G M E N T
+
+_______________
+
+ 
+
+Contents	Paragraph
+A.	OVERVIEW	1
+B.	BACKGROUND	9
+C. 	PARTIES’ RESPECTIVE CASE	30
+D. 	KEY ISSUES	47
+E.	LEGAL PRINCIPLES ON FIRST CONDUCT RULE	48
+F.	BURDEN AND STANDARD OF PROOF	52
+G.	WITNESSES	75
+H.	EXPERT EVIDENCE	112
+I. 	ANALYSES OF MEYER’S CASE	134
+J.	ANALYSES OF TACHING’S CASE	144
+K. 	ANALYSES OF SHELL’S CASE	184
+L.	COLLUSION AS THE ONLY PLAUSIBLE EXPLANATION	209
+M.	OBJECT RESTRICTION	215
+N. 	COSTS	221
+O. 	CONCLUSION	232
+ 
+
+A.    OVERVIEW
+
+1.  Taching and Shell sue Meyer in the Court of First Instance for costs of industrial diesel oil delivered to Meyer. In defence, Meyer alleges, amongst others, that Taching and Shell have breached the First Conduct Rule by colluding to fix price (“Alleged Contravention”).  This is a trial of that single defence transferred from the Court of First Instance pursuant to section 113(3) of the Competition Ordinance, Cap 619.
+
+2.  Meyer’s pleaded case on the Alleged Contravention was evidenced by and/or inferred from 2 factors only:
+
+(1)     There were 118 Pairs of corresponding Price Adjustment Notices issued by Taching and Shell respectively, between January 2011 and June 2017 (“Relevant Period”).  Those 118 pairs of List Price Adjustment Notices made the same adjustments to the List Price of industrial diesel.
+
+(2)     The adjustments of List Price specified in the 118 Pairs of Price Adjustment Notices were not public information and the striking uniformity in such changes could not be explained by mere coincidence.
+
+3.  Based on these 2 factors alone, Meyer claims that the only reasonable inference for the uniformity in the 118 Pairs of Price Adjustment Notices is that it was the result of anti-competitive collusion between Taching and Shell.
+
+4.  Taching and Shell deny any collusion.
+
+5.  Taching’s case is that it sourced industrial diesel only from Sinopec (Hong Kong) Petroleum Co Ltd (“Sinopec”) and sold it to Meyer.
+
+(1)     The initial Taching’s Net Price for each of the relevant agreements was negotiated between Taching and Meyer on arms-length basis; and
+
+(2)     Thereafter, for the relevant contractual term, Taching’s Net Price at which it sold to Meyer would be adjusted following the Price Adjustment Notices issued by Sinopec from time to time. 
+
+6.  Shell’s case is that:
+
+(1)     Shell’s Fixed Discount for each relevant period was negotiated between Shell and Meyer on arms-length basis;
+
+(2)     During the negotiations on Shell’s Fixed Discount, Meyer disclosed Taching’s Net Price to Shell as a leverage to persuade Shell to match Taching’s Net Price; and
+
+(3)     Thereafter, for the Relevant Period, Shell’s List Price would be independently reviewed and adjusted from time to time by staff who did not have any direct dealings or negotiations with Meyer or any of Shell’s end-users.
+
+7.  There are a few preliminary observations arising from the parties’ cases:
+
+(1)     The only parties to the Alleged Contravention were Taching and Shell and nobody else.
+
+(2)     The collusion applied to adjustments of the List Price, not Discounts.
+
+(3)     There had been 3 Renegotiations of the Discounts of Taching and Shell in 2010, 2012 and 2013 conducted by Meyer at around the same time.  Meyer engineered the 3 Renegotiations to ensure the same Net Prices of Taching and Shell on the effective date for each of the relevant agreement. It is not Meyer’s case that Taching and Shell had colluded in respect of those 3 Renegotiations.
+
+(4)     There can be no contravention of the First Conduct Rule in respect of conduct prior to commencement of the Competition Ordinance on 14 December 2015, although, if any agreement or concertation was entered into before that date, Taching and Shell could still be in breach of the First Conduct Rule afterwards if they gave effect to that agreement or concertation.
+
+(5)     It is not Meyer’s case that there were communications, direct or indirect reciprocal contacts, between Taching and Shell. In the circumstances, Meyer’s case cannot be established unless it proves that collusion constituted the only possible explanation for the parallel conduct.  (See Sections F and L below.)
+
+(6)     It takes two to collude.  If the Tribunal were to accept either Taching or Shell’s case, Meyer’s case must fail.
+
+(7)     Meyer refers to 3 further matters in the evidence, ie that Taching and Shell had not followed “international oil prices” (undefined), that they charged “supra-competitive prices” (undefined) and that Taching almost halved its Net Priceovernight on 7 June 2017 after Meyer discovered the alleged collusion. Those 3 matters might have prompted Meyer to investigate and discover the Alleged Contravention, but they are not matters pleaded in support of the Alleged Contravention and are hence irrelevant.
+
+8.  Ms Lam (and Ms Xu) representing Taching reminds the Court that the “Core Period” in this case is really between 13 March and 6 June 2017 (ie the period during which the price of industrial diesel was not paid); and the Tribunal should not make any findings on the Alleged Contravention outside the Core Period (if proved).  I do not think, in the light of the findings in this judgment, that it makes much difference to the conclusion, whether one adopts this Core Period or the Relevant Period for analyses.  I therefore focus on the Relevant Period in this judgment.
+
+B.    BACKGROUND
+
+B1. Oil Majors and Sellers
+
+9.  Crude oil has to be refined to produce a range of fuel products including diesel.  There are no refineries in Hong Kong and so all diesel has to be imported.  These imports arrive principally by sea: HKCC Report (2017), §3.3.
+
+10.  There are 4 companies in Hong Kong with the necessary licences for importing diesel into Hong Kong and with terminal storage facilities in Tsing Yi.  They are Shell, ExxonMobil Hong Kong Ltd (“ExxonMobil”), Chevron Hong Kong Ltd (“Chevron”) and Sinopec.  They are commonly referred to in the industry as the “Oil Majors. The diesel is distributed from Tsing Yi, typically by tanker trucks, to customers.
+
+11.  Each of the Oil Majors provides bulk supply of industrial diesel to both end-users (who consume the product themselves) and dealers/resellers (who resell the product to end users).  Each of the Oil Majors use a “list less” pricing mechanism[1] with some variations.
+
+12.  According to the estimates of Taching and Shell, there are around 80 to 100 sellers of industrial diesel oil in Hong Kong of variable sizes.  Taching is one of the dealers/retailers.
+
+13.  The Oil Majors revise their List Prices periodically.  In the case of Shell and Sinopec, they do this around once or twice a month, though there is no regular interval.
+
+14.  The Oil Majors will give prior notice to their customers of proposed changes to the List Price.  In the case of Shell and Sinopec, customers are given notice by way of, amongst others, notification letters, normally issued shortly before the adjustment (which invariably takes place at 00:00 on the following day). 
+
+15.  Sinopec has been publishing adjustments of its List Price on its website since 2013, according to Shell’s witness.
+
+B2.  Supply of industrial diesel to Meyer
+
+16.  Meyer is an aluminium manufacturer with an aluminium manufacturing plant in Tai Po Industrial Estate.  It requires a daily supply of industrial diesel for its manufacturing process.
+
+17.  At all material times, Meyer only had 2 suppliers of industrial diesel, Taching and Shell.  Taching had supplied industrial diesel to Meyer since 1970s; and Shell to Meyer since 1950s.  Taching’s industrial diesel was abbreviated as IDO, but later changed to IEVD. Shell’s industrial diesel was abbreviated as MULSD.
+
+18.  Taching entered into long term contracts with Meyer.
+
+19.  Similarly, Shell generally enters into long-term supply contracts with commercial end-users, typically ranging from 1 to 3 years.  Shell provides to its long-term customers a range of services, including those relating to safe delivery of diesel, set up, safety and efficiency seminars at the customers’ sites. In respect of each customer, Shell would assign an Account Manager, whose responsibilities include building and maintaining long-term relationship with the customers, assisting customers with their requests and developing solutions based on customers’ needs.
+
+20.  One of the advantages of these long-term supply contracts, whether with Taching or Shell, is that it guarantees supply of industrial diesel to the customer. 
+
+21.  Meyer had always tried to maintain the ratio of approximately 50:50 “share of wallet” between Taching and Shell.  Towards the end of their relationship, Meyer purchased about $47 million worth of fuel from Taching and Shell.
+
+22.  The Net Price (ie the price at which industrial diesel was delivered to Meyer) was computed by a similar formula with slight variations:
+
+     Taching’s Net Price = Taching’s List Price - Taching’s Fixed Discount
+
+     Shell’s Net Price = Shell’s List Price - Shell’s Fixed Discount - agreed rebate + delivery charge.
+
+23.  Although Shell had additional components (ie Shell’s Fixed Minor Adjustments), such difference from Taching had no real significance to Meyer because the Net Prices payable by Meyer to Taching and Shell respectively at all material times were exactly identical.
+
+24.  Under the aforesaid pricing formulae:
+
+(1)     Both Taching and Shell could change their respective List Price from time to time by giving “Price Adjustment Notices” to Meyer. The List Price is one which applies uniformly to all customers utilizing the “list-less” pricing mechanism.
+
+(2)     As the other components, Fixed Discounts and Fixed Minor Adjustments (in the case of Shell only), would remain constant throughout the relevant contractual period, the amount of adjustments in List Prices will be the same as the resulting adjustments in Net Prices.  (Note: in the case of Shell, the Fixed Discount is customer specific.)
+
+25.  There is no dispute that the Initial Net Price of Taching and Shell was arrived at following arm’s length negotiations with Meyer.
+
+26.  During the Relevant Period, Meyer had initiated Renegotiations of Fixed Discounts with Taching and Shell separately but at about the same time, on 3 occasions in 2010, 2012 and 2013.  Meyer did that to ensure that Taching and Shell would increase their respective Fixed Discounts by the same amount on the effective date; and that their Net Prices would end up being identical. Meyer does not allege that there was collusion between Taching and Shell in those 3 Renegotiations.
+
+27.  Meyer would use the price quotes from other suppliers as leverage to persuade Shell to offer a lower discount. 
+
+28.  In respect of Taching and Meyer, the sale and purchase of IEVD during the Relevant Period was governed by the Taching-Meyer Agreements made in 2010, 2012 and 2014, which gradually increased the Taching’s Fixed Discount in favour of Meyer from                          per litre.  The estimated quantity of IEVD to be ordered by Meyer per month was 300,000 litres but Meyer was not bound to purchase the stated quantity from Taching.
+
+29.  In respect of Shell and Meyer, the sale and purchase of MULSD was governed by the Shell-Meyer Agreements in 2010, 2012 and 2013.  The last one was extended by a letter dated 19 February 2016.  Those Agreements gradually increased Shell’s Discounts in favour of Meyer from                       .
+
+C.    PARTIES’ RESPECTIVE CASE
+
+C1.  Meyer’s Pleaded Case
+
+30.  Meyer did not know how the List Prices were actually determined by Taching or Shell. Meyer was, however, given to understand that the adjustments of Shell’s List Prices were to cater for the fluctuation of the import costs of industrial diesel or international oil prices.
+
+31.  In about May 2017, upon obtaining quotes from another supplier in Hong Kong, Meyer discovered that the then prices charged by Taching and Shell were about double that of the other supplier.
+
+32.  In its new quotations, Taching almost halved its Net Price overnight from HK$6.15 per litre (6 June 2017) to HK$3.8 per litre (7 June 2017). Taching’s price further dropped in its next two quotes which were both at HK$3.6 per litre (12 June 2017 and on 15 June 2017).
+
+33.  Meyer carried out further investigations and discovered parallel pricing in (i) the Net Prices charged by Taching and Shell; and (ii) the adjustments made to the List Prices of Taching and Shell between 2011 and June 2017. In the 6 years between 2011 and 2017, out of the 118 Pairs of Notices, 111 were initiated by Shell, 1 by Taching and 6 were by both of them on the same day. Those Notices effected identical changes to their respective List Prices either on the same day or very shortly thereafter, after a corresponding change was made by either Taching or Shell. 
+
+34.  According to Meyer, the changes specified in the respective Price Adjustment Notices by Taching and Shell were not public information and the striking uniformity in such changes could not be explained by mere coincidence.
+
+35.  The only reasonable inference was the Alleged Contravention,which has been set out in 2 paragraphs in Meyer’s Points of Defence to Taching and Shell’s claims:
+
+“13. [Meyer] therefore found out that, at least since 2011, [Taching and Shell] have colluded by way of directly or indirectly fixing, maintaining or controlling their respective Net Unit Prices for the supply of industrial diesel to [Meyer] through determining and manipulating their respective [List Prices] and/or directly or indirectly exchanging confidential pricing information in order to substitute practical cooperation for risks of competition. [Taching and Shell] had given a false impression that the respective Net Unit Prices charged by [Taching and Shell] at a particular time were independently arrived at when in fact the said figures have all along been agreed upon and/or concerted between [Taching and Shell] beforehand. (underline added)
+
+…
+
+16. In the premises, [Taching and Shell] have contravened the First Conduct Rule under Part 6 of the Competition Ordinance (Cap 619) (“the Ordinance”) by way of making and/or giving effect to an agreement and/or engaging in a concerted practice of price fixing and/or exchange of pricing information with the object and/or effect of preventing, restricting or distorting competition in Hong Kong.”
+
+36.  I have in my Decision dated 29 May 2020 (“May 2020 Decision”) (§28) held that any reference to an “effect” defence shall be disregarded.
+
+C2.  Taching’s Pleaded Case
+
+37.  Taching was and is a non-exclusive authorized seller of Sinopec. Taching sources industrial diesel solely from Sinopec since 2007 and sells it to end customers like Meyer.  Taching has never purchased from Shell.
+
+38.  Taching denies any collusion.  As to the manner in which its Net Price and the adjustments thereto were determined, Taching’s explanations are that:
+
+(1)     After the parties agreed on the Initial Net Price for an agreement, the Fixed Discount would remain unchanged during the relevant contractual period, but the Net Price would be adjusted following adjustments to Taching’s List Price from time to time.
+
+(2)     Taching’s List Price was adjusted by reference to, and in the same corresponding amount as, the adjustments made to the List Price of Sinopec. Sinopec’s List Prices were published on its website and was therefore public information.
+
+(3)     There were 118 Notices issued by Sinopec to Taching (i) before or on the same day as Taching’s 118 List Price Adjustment Notices; and (ii) on the same day or within a few days of Shell’s 118 List Price Adjustment Notices.
+
+(4)     It was Taching’s independent commercial decision to follow Sinopec’s price adjustments, given that:
+
+(a)     When Sinopec reduced its List Price, it was in Taching’s commercial interests to follow in order to maintain its competitiveness with other industrial diesel suppliers, particularly other sellers of Sinopec industrial diesel;
+
+(b)     When Sinopec increased its List Price, it was likewise in Taching’s commercial interest to follow so as to cover its increased cost of sourcing industrial diesel from Sinopec.
+
+39.  Taching has never discussed, agreed or concerted with Shell on any matter relating to the prices at which each of them would supply industrial diesel to Meyer.  Taching did not have any information or knowledge about the pricing mechanism between Shell and Meyer or the prices charged by Shell to Meyer.
+
+C3.  Shell’s Pleaded Case
+
+40.  Shell denies any collusion.  Its List Prices were determined by reference to its internal policies, set out in the Confidential Annex to Shell’s Re-amended Points of Reply (“RAPoR”).  Extracts from Shell’s Local Price Book (2012) (“Price Book”) evidencing its internal policies, and all emails evidencing each adjustment to the List Price in the Relevant Period with the underlying rationale (“List Price Emails”), have been disclosed.
+
+41.  Shell’s List Price was primarily based on its costs of acquiring industrial diesel, and would be reviewed in accordance with established policies by reference to, amongst others, market factors, without reference to Taching.
+
+42.  It was commonplace for the Oil Majors to make similar or identical changes to their List Price in order to maintain the competitiveness of their product.  This explained why the price adjustments to Taching’s List Price (which followed Sinopec’s) almost always coincided with Shell on the same day or shortly thereafter.
+
+43.  As for the Discount,
+
+(1)     It was negotiated at arms-length between Shell and each end-user, including Meyer, on a case by case basis.
+
+(2)     Any similarity in the Net Prices charged by Shell and Taching was procured by Meyer’s disclosure of Taching’s price information to Shell to use it as leverage to procure Shell to adopt the same Net Prices.  During the Relevant Period, there were only 3 adjustments to Shell’s Discount to Meyer, in 2010, 2012 and 2013.
+
+(3)     Insofar as Shell made an independent commercial decision to adapt to Taching’s price level, that did not constitute anti-competitive collusion.
+
+44.  The reviews of and adjustments to Shell’s List Price were undertaken by designated personnel within Shell who did not have any direct dealings or negotiations with the representatives of Shell’s end-users.
+
+45.  The negotiations on Discounts and changes thereto were undertaken by designated Account Managers (each being responsible for specific end-users), who had no involvement in the fixing of the List Price.
+
+46.  Shell’s personnel were expressly prohibited from engaging in direct or indirect discussions with Shell’s competitors or their staff about pricing information.
+
+D.   KEY ISSUES
+
+47.  Bearing in mind the preliminary observations in paragraph 7 above, the key issues are as follows:
+
+(1)     Whether Taching and Shell have entered into or engaged in an agreement or concertation to fix, maintain or control their respective Net Prices for the supply of industrial diesel to Meyer through determining and manipulating their respective List Prices during the Relevant Period. In particular:
+
+(a)     Absent explicit concertation such as discussions and reciprocal contacts between Taching and Shell, whether the similarity in pricing gave rise to no plausible explanation but collusion between Taching and Shell;
+
+(b)     In respect of Taching, whether its Net Price was the subject of arms-length negotiation with Meyer; and Taching simply followed the adjustments in Sinopec’s List Prices; and
+
+(c)     In respect of Shell, whether the similarity in Net Prices with Taching was engineered by Meyer in using Taching’s prices as leverage against Shell; and the adjustments in Shell’s List Prices were independently and internally determined by Shell without reference to Taching.
+
+(2)     Whether the abovementioned agreement/concertation (if established) had the object of preventing, restricting or distorting competition in Hong Kong.
+
+E.    LEGAL PRINCIPLES ON FIRST CONDUCT RULE
+
+48.  Under the First Conduct Rule, an undertaking must not make or give effect to an agreement or engage in a concerted practice if the object or effect of the agreement, or concerted practice is to prevent, restrict, or distort competition in Hong Kong: section 6(1)(a) and (b) of the Competition Ordinance.
+
+49.  Fixing, maintaining, increasing or controlling the price for the supply of goods is regarded as “serious anti-competitive conduct”: section 2 of the Competition Ordinance.
+
+50.  I extract from the May 2020 Decision, the pertinent principles in relation to the First Conduct Rule:
+
+“C3. Agreement or concerted practice
+
+63. An “agreement” is not required to be in any particular form and is not limited to a legally enforceable contract but is defined broadly in s.2(1) of the Ordinance to include “any agreement, arrangement, understanding, promise or undertaking, whether express or implied, written or oral, and whether or not enforceable or intended to be enforceable by legal proceedings”: Nutanix, at §25.
+
+64. The central component in the concept of agreement is a meeting of minds or concurrence of wills between at least two parties, the form in which it is manifested being unimportant: Nutanix, at §26.
+
+65. A “concerted practice” is not defined in the Ordinance. A consistent line of decisions in the EU has held that concerted practice is a form of cooperation, falling short of an agreement, where undertakings knowingly substitute practical cooperation for the risks of competition: Nutanix, at §28.
+
+66. Whilst each economic operator must determine independently the policy which he intends to adopt on the market, this does not deprive undertakings of the right to adapt themselves intelligently to the existing and anticipated conduct of their competitors. However, it does preclude any direct or indirect contact between such operators, the object or effect whereof is either to influence the conduct on the market of an actual or potential competitor or to disclose to such a competitor the course of conduct which they themselves have decided to adopt or contemplate adopting on the market: Nutanix, at §29.
+
+67. Reciprocal contact between the undertakings in question is implied in the concept of concerted practice in the sense that there is an element of acting in concert “where one competitor discloses its future intentions or conduct on the market to another when the latter requests it or, at the very least, accepts it …”: Nutanix, at §30.
+
+68. The definition of agreement and concerted practice are intended “to catch forms of collusion having the same nature which are distinguishable from each other only by their intensity and the forms in which they manifest themselves”. The two concepts are not synonymous and have partially different elements but are not mutually incompatible: Nutanix, at §34.
+
+C4. Information exchange
+
+69. In order to establish a concerted practice in the context of information exchange, the applicable law in the EU requires:
+
+(1) “Discussions” or “reciprocal contacts” involving disclosure of strategic information ie information that eliminates or substantially reduces strategic uncertainty as to a competitor’s conduct on the market;
+
+(2) Between two or more actual or potential competitors;
+
+(3) Subsequent conduct on the market; and
+
+(4) A relationship of cause and effect between the discussions and that conduct.
+
+…
+
+72. Exchange of competitively sensitive information such as an undertaking’s planned prices or planned pricing strategy between competitors is likely to be concerted practice in circumstances where: (a) the information is given with the expectation or intention that the recipient will act on the information when determining its conduct in the market; and (b) the recipient does act or intends to act on the information. See FCR Guideline §2.28.
+
+…
+
+74. Exchange of publicly available information that is equally accessible in terms of the cost of access to all competitors and customers is unlikely to contravene the First Conduct Rule. Information which is more costly to obtain for parties not affiliated with the information exchange because they would need to gather and collate the information is unlikely to be considered truly public. The fact that information could have been gathered from a customer does not mean that the information is publicly available: FCR Guideline §6.48; EU Horizontal Cooperation Guideline §§92-94.
+
+75. Depending on the facts of the case, the possibility of finding a concerted practice cannot be excluded, for example in a situation where an announcement by an entity was followed by public announcements by other competitors. This is not least because strategic responses of competitors to each other’s public announcements could prove to be a strategy for reaching a common understanding about the terms of coordination. See EU Horizontal Cooperation Guidelines, §63.
+
+76. As to subsequent conduct on the market, it was held in Nutanix, at §33 that:
+
+‘In order to prove a concerted practice, it is not therefore necessary to show that the competitor in question has formally undertaken to adopt a particular course of conduct. It is sufficient that, by its statement of intention, the competitor should have eliminated or, at the very least, substantially reduced uncertainty as to the conduct to expect of the other on the market.’
+
+77. As regards a relationship of cause and effect between the discussions and the subsequent conduct, the presumption must be that the undertakings taking part in the concerted action and remaining active on the market take account of the information exchanged with their competitors for the purposes of determining their conduct on that market, especially where the undertakings concert together on a regular basis over a long period: Case C-199/92P, Huls AG v Commission, EU:C:1999:358, §162.
+
+78. It is for the undertaking to rebut the presumption and to prove that the concertation did not have any influence on its own conduct on the market: Huls AG, §§162 & 167.
+
+C5. Object restriction
+
+79. The Ordinance provides:
+
+(1) S.7(1): If an agreement or concerted practice has more than one object, it has the object of restricting competition if one of its objects is to restrict competition.
+
+(2) S.7(2): An undertaking may be taken to have made or given effect to an agreement or to have engaged in a concerted practice that has as its object the restriction of competition, even if that object can be ascertained only by inference.
+
+80. Price fixing constitutes, by its very nature, a restriction on competition by object: Competition Commission v W. Hing Construction Co Ltd & Ors (“W. Hing”) [2019] 3 HKC 486 at §137, G Lam J.
+
+81. So is exchange of information between competitors in private on their future individual intentions or plans with respect to price or other information of commercial or strategic significance FCR Guideline, §§2.28, 6.40; Joined Cases T-202/98, T-204/98, and T-207/98 Tate & Lyle [2001] ECR II-2035, §58; Case T-1/89 Rhone Poulenc v European Commission, EU:T:1991:56, §§122-124.
+
+82. If an agreement is a restriction by object, it is not necessary to consider its effect on competition: Nutanix, §382; W. Hing, §§98-106; …
+
+…
+
+C6. Parallel conduct
+
+84. Parallel conduct in itself is not illegal. The prohibition of anti-competitive collusion does not deprive economic operators of the right to adapt themselves intelligently to the existing and anticipated conduct of their competitors. It is well established that, in the absence of evidence on explicit concertation, parallel conduct could not be regarded as furnishing proof of concertation unless that collusion constituted the only plausible explanation for such conduct. See Joined Cases C-89/85, etc, Ahlstrom Osakeyhtio v Commission of the EU [1993] ECR I-1307 (“Wood Pulp II”), §71; FCR Guideline, §2.31.
+
+85.    Where an applicant relies solely on undertakings’ parallel behaviour as proof of concertation, it must address any alternative explanations advanced by the firms of that behaviour and demonstrate why they are implausible: Case T-442/08, CISAC v European Commission, EU:T:2013:188, §§101-102 & 132-133.”
+
+51.  There are 3 methods to prove that an agreement or concertation existed in the context of parallel conduct: May 2020 Decision, §161:
+
+“(1)   Direct or indirect factual evidence (such as communications) pointing to explicit collusion other than parallel conduct.  The Tribunal will first examine whether such evidence meet the requisite standard. If the Tribunal concludes that there is such evidence, alternative explanations for the parallel conduct, even if plausible, would not invalidate the finding of infringement.  See CISAC, §§101-102. (“1st Method”)
+
+(2)     Where there is some direct or indirect evidence of explicit collusion but it is not enough to establish infringement to the requisite standard, this may be supplemented by circumstantial evidence, including economic evidence.  However, the claimant must still provide sufficient evidence to render implausible the alternative explanations for the parallel conduct: CISAC, §§132-133. (“2nd Method”)
+
+(3)     Where there is no direct or indirect evidence of any explicit collusion, parallel conduct alone cannot be regarded as proof of collusion unless that collusion constituted the only plausible explanation for such conduct: Wood Pulp II, §71. (“3rd Method”)”
+
+F.    BURDEN AND STANDARD OF PROOF
+
+52.  An agreement or concertation for the purpose of price fixing is considered serious anti-competitive conduct under section 2 of the Competition Ordinance.  There is no dispute that the burden of proof lies on Meyer to prove its case with evidence of commensurate cogency.
+
+53.  The civil standard of proof on the balance of probabilities applies. This standard will not be heightened because of the gravity of the allegations.  The party bearing the burden of proving a serious allegation must discharge the burden with evidence of commensurate cogency.  The more serious the allegation, the stronger should be the evidence before the court would conclude that the allegation is established on the balance of probabilities. See Re H [1996] AC 563, Lord Nicholls; Nina Kung v Wang Din Shin (2005) 8 HKCFAR 387 at §§182 & 184, Television Broadcasts Ltd v Communications Authority (“TVB v CA”) [2016] 2 HKLRD 41 at §296, G Lam J (as he then was).
+
+54.  Re H has been applied in the competition context in Napp Pharmaceutical Holdings Ltd v Director General of Fair Trading: [2002] ECC 13, at §§107-109. As explained by the UK CAT at §§107-108:
+
+“In our view it follows from the speech of Lord Nicholls (with whom Lord Goff and Lord Mustill agreed) in Re H, that under the law of England and Wales there are only two standards of proof, the criminal standard and the civil standard; there is no ‘intermediate’ standard. The position is the same in the law of Scotland and Northern Ireland. Within the civil standard, however, the more serious the allegation, the more cogent should be the evidence before the court concludes that the allegation is established on the preponderance of probability.
+
+Since cases under the Act involving penalties are serious matters, it follows from Re H that strong and convincing evidence will be required before infringements of the Chapter I and Chapter II prohibitions can be found to be proved, even to the civil standard. Indeed, whether we are, in technical terms, applying a civil standard on the basis of strong and convincing evidence, or a criminal standard of beyond reasonable doubt, we think in practice the result is likely to be the same. We find it difficult to imagine, for example, this Tribunal upholding a penalty if there were a reasonable doubt in our minds, or if we were anything less than sure that the Decision was soundly based.
+
+In those circumstances the conclusion we reach is that, formally speaking, the standard of proof in proceedings under the Act involving penalties is the civil standard of proof, but that standard is to be applied bearing in mind that infringements of the Act are serious matters attracting severe financial penalties. It is for the Director to satisfy us in each case, on the basis of strong and compelling evidence, taking account of the seriousness of what is alleged, that the infringement is duly proved, the undertaking being entitled to the presumption of innocence, and to any reasonable doubt there may be.” (underline added)
+
+55.  The May 2020 Decision has held that parallel conduct alone is not sufficient to establish collusion.  Under EU law, although the Tribunal should consider the circumstantial evidence holistically (where individually each piece of evidence is not sufficient to found liability) together with economic evidence, expert evidence alone is not sufficient to establish the existence of collusion, eg Wood Pulp II (§§164-169 of the May 2020 Decision).
+
+56.  Of the 3 methods mentioned in paragraph 51 above, this case is only concerned with the 3rd.  By the 3rd method, where the claimant relies solely on parallel conduct:
+
+(a)     It would be sufficient for the respondent (in this case, Taching and Shell) to prove circumstances which cast the parallel conduct in a different light and thus allow another explanation of the facts to be substituted for the one adopted by the claimant (in this case, Meyer).
+
+(b)     It is for the claimant to provide sufficient evidence to render implausible the explanation given by the respondent for the parallel conduct, other than the existence of concertation.
+
+(c)     Even where the respondent puts forward no explanation (or an explanation which is rejected), this being a case where the claimant relies on circumstantial evidence, the burden remains on the claimant to prove that the parallel conduct justifies an inference that the only plausible explanation of the conduct is collusion.
+
+57.  Mr Lee (with Ms Lui and Mr Tse) representing Meyer contends that propositions (b) and (c) effectively establish a standard of proof of beyond reasonable doubt and there is no obligation to satisfy this test.  He relies on the Bank St Petersburg PJSC v Arkhangelsky [2020] 4 WLR 55 for the proposition that a potential plausible explanation does not mandate a finding of no dishonesty or no impropriety.
+
+58.  In the May 2020 Decision, at §§58-60 and 86-87, I have rejected Mr Lee’s argument.  The civil standard of proof should not be conflated with the necessary elements nor the quality of evidence needed to establish collusion. In deference to counsel, I explain the reasons further.
+
+59.  Parallel conduct, in itself, cannot constitute proof of concerted practice because it can be the “very essence” of competition: FCR Guideline §2.31; Motta, Competition Policy: Theory and Practice at 186-189; Rey, “On the Use of Economic Analysis in Cartel Detection” in European Competition Law Annual: 2006 – Enforcement of Prohibition of Cartels (2007) at 76-81.
+
+60.  In cases involving a homogenous product, one would positively expect to see parallel prices even in the absence of collusion:
+
+“It is important to understand that [parallel pricing behaviour] is an almost universal feature of homogenous product markets. Irrespective of whether the firms are competing vigorously or coordinating their pricing, one would still expect to see very similar prices. Given that all the retailers are selling virtually identical products, it would be more puzzling if prices were not moving together.” HKCC Report §2.9.
+
+61.  Accordingly, parallel conduct could be innocent.  This can happen when an undertaking adapts its pricing intelligently to its competitor’s, or follows the pricing of another without any communication with the other, or obtains information of its competitor through market intelligence.
+
+62.  Hence, if a respondent falling with the 3rd Method adduces evidence to provide an alternative explanation for the parallel conduct, it behoves the claimant to demonstrate that the alternative explanation is implausible in order to justify the serious inference of agreement or concertation.
+
+63.  Mr Lee’s submission that this elevates the standard of proof to one of beyond reasonable doubt is unsustainable for the following reasons:
+
+64.  Firstly, a precise standard of proof such as balance of probabilities or beyond reasonable doubt is not a concept espoused by the courts in the EU.  For the civil law system, the pervasive requirement is generally that the level of proof must be one that is convincing to the court: TVB v CA, §284.
+
+65.  Under EU law, it is not necessary for every item of evidence produced to satisfy the standard of proof in relation to every aspect of the contravention.  It is sufficient if the body of evidence relied on, viewed as a whole, satisfies the burden: Nutanix, §73.
+
+66.  In EU, the quality of evidence in the context of parallel conduct has been described as requiring sufficiently precise and coherent proof to justify the view that parallel behaviour was the result of concerted action.  Joined Cases 29 and 30/83, Compagnie Royale Asturienne des Mines SA v Rheinzink GmbH [1984] ECR 1679 at §20.  In other words, there must be a firm, precise and consistent body of evidence, the absence of which would prevent the establishment of concertations: Wood Pulp II, §127.  This is consistent with the civil standard of proof, as explained by the UK CAT in Napp Pharmaceutical.
+
+67.  Secondly, Meyer says that were all enforcement cases.  It does not matter.  The fact that an undertaking is entitled to the presumption of innocence and to any reasonable doubt there may be, does not mean a standard of proof other than the civil standard of balance of probabilities nor does it reverse the burden of proof. Applying a civil standard on the basis of strong and convincing evidence, taking into account any reasonable doubt there may be, is simply a reflection of the seriousness of what is alleged (including the possibility of attracting significant penalties in another arena) in accordance with the principles established in Re H.  See Napp Pharmaceutical, §§109-111.
+
+68.  As the Tribunal pointed out in the May 2020 Decision §114, this approach does not preclude Meyer from relying on inferences from a number of coincidences and indicia which, taken together, may in the absence of another plausible explanation, constitute evidence of contravention of the competition rules. Such inferences are consistently drawn in the EU, as well as in the UK where the standard of proof is the civil standard of balance of probabilities.  See, for example, Lexon (UK) Ltd Competition and Markets Authority [2021] CAT 5, §220 and Napp Pharmaceutical, (supra) §110 where this was described as “inferences or presumptions that would, in the absence of any countervailing indications, normally flow from a given set of facts”.  These principles recognise the clandestine nature of an agreement or concertation and difficulty of proof.
+
+69.  Of course, inferences concerning serious misconduct can only be drawn if –
+
+(a)     it is grounded on primary facts;
+
+(b)     the primary facts form a reasonable basis (on balance of probabilities) for a definite conclusion of collusion; in other words, the causation between the primary facts and the conclusion must be definite, and it would not do if the primary facts give rise to conflicting inferences of equal degrees of probability so that the choice between them is a mere matter of conjecture; and
+
+(c)     the inference has to be a compelling one; in other words, the inference from the primary facts has to be “plainly established”.
+
+Nina Kung at §§185‑187.
+
+70.  Compared to the criminal standard of proof for enforcement cases in Hong Kong, the 2nd and 3rd propositions became: (b) the inference must be a logical consequence of those facts; and (c) the inference must be “irresistible”, that is, it must be the only inference that can reasonably be drawn on the basis of those facts: Nutanix §75.
+
+71.  Applying Nina Kung in the context of the Alleged Contravention, where the only primary fact is the parallel conduct, a claimant will fail to satisfy Nina Kung tests (b) and (c), because undertakings may engage in parallel conduct even in the absence of any anti-competitive agreement or concertation.
+
+72.  Thirdly, Arkhangelsky is not a competition case:
+
+(1)     The claimant bank claimed outstanding debts under various personal guarantees given by and loans granted to the defendant, his wife, and their company. The defendants counterclaimed in conspiracy to unlawfully appropriate their assets.
+
+(2)     After a 46-day trial in which the judge considered extensive direct evidence concerning the events in question, including witness testimony, he allowed the claim and dismissed the counterclaim notwithstanding his findings that the bank’s agents had given dishonest evidence on a number of occasions and his serious misgivings about their conduct: see §§4-6, 47, 55, 121.
+
+(3)     His judgment was overturned on appeal and a retrial was ordered The ground was that he had applied the wrong standard of proof by holding that the appellants’ burden of proof could only be discharged by showing the facts to be incapable of innocent explanation when, on the evidence before him, the judge may well have considered the conspiracy alleged to be not improbable: see §§48, 55, 121.
+
+73.  Arkhangelsky does not support Meyer’s proposition:
+
+(1)     The appeal was really concerned with the application of undisputed principles concerning the well-established standard of proof as explained in Re H to fact sensitive issues in that case: see §39.
+
+(2)     The English Court of Appeal made clear that the trial judge’s statement that the appellant’s “burden of proof could only be discharged by showing the facts to be incapable of innocent explanation” was, “in the context of this case”, wrong: §§44, 48, 54, 56, 121.  The Court of Appeal did not suggest that it would never be appropriate to require the party bearing the burden of proof to show that the innocent explanations put forward in response are implausible.
+
+(3)     In any event, this case was not concerned with the drawing of inferences based on purely circumstantial evidence findings made after a 46-day trial in which the judge had the opportunity to consider extensive direct evidence.
+
+(4)     This was an unusual case because the trial judge had found both parties to have behaved dishonestly and lied to the court (§47). Accordingly, it would not be “inherently improbable” for the respondents to have committed the dishonest conspiracy.
+
+(5)     This authority does not shed any light on how the Tribunal should draw inferences from parallel conduct in competition cases.
+
+74.  Accordingly, for the 3rd Method, it is necessary, as a matter of law, for Meyer to show that collusion constituted the only plausible explanation for the parallel conduct.
+
+G.   WITNESSES
+
+G(1).  Credibility of witnesses
+
+75.  Given the lapse of time since 2011-2017, the Court assesses the credibility of witnesses against the contemporaneous documents and the inherent probabilities in their evidence.
+
+76.  Meyer has only called Ms Sandy Chan (Chief Administrative Officer) to give evidence, but she had not been personally involved in negotiations and dealings with Taching.  Though an articulate and careful witness, much of Ms Chan’s knowledge and understanding of matters was based on what others had told her, eg that the industrial diesel from Taching was imported from Singapore (when in fact it was from Mainland China).  That said, I find her to be a truthful witness.
+
+77.  Meyer has not produced a witness with first-hand knowledge of its dealings with Taching – Mr James Cheng (Meyer’s CEO), Mr Philip Wong (who had power to sign contracts on behalf of Meyer for the purchase of industrial diesel) and Ms Kitty Chu (assisting Mr Wong).  Ms Kitty Chu was physically unwell and her failure to give evidence was excusable.
+
+78.  Taching had Mr Lawrence Ma and Mr David Wong as witnesses.  Mr Lawrence Ma is the General Manager of Taching and has been in the oil business for 40 years.  As Ms Lam describes, he was typically a “boss” focussed on the big picture, but he was not the one handling Taching’s List Price Adjustment Notices.  It was not surprising that he mistakenly thought that all the figures under the “Old List Price” on page 1314 were different to those under “New List Price” on page 1313.  Mr Ma would not hide the fact that he only discovered those differences when Annex A to the Agreed Facts (“Exhibit Annex A”) setting out the 118 Pairs of List Price Adjustment Notices were prepared.  He would not offer an answer not within his knowledge but left it to Mr David Wong.
+
+79.  Mr David Wong was the Operation Manager who joined Taching in 1976.  He was the one handling the Taching List Price Adjustment Notices.  He was frank and careful.  He admitted having committed errors.  He remained consistent throughout his cross-examination.  He mentioned about having a discretion in issuing List Price Adjustment Notices more than 1-2 days after Sinopec issued its, which was not in accordance with Mr Lawrence Ma’s instructions.  I shall come back to this under Taching’s case in Section J below.
+
+80.  However, I consider any inconsistency in Mr Lawrence Ma and Mr David Wong’s evidence was more a revelation of these witnesses having different duties to discharge in Taching rather than their lying.  In any case, if Mr David Wong had not followed Mr Lawrence Ma’s instructions, it was an employment issue and could not give rise to a basis for inferring anti-competitive conduct.
+
+81.  Overall, I find Mr Lawrence Ma and Mr David Wong to be credible witnesses.
+
+82.  Shell has 2 witnesses: Ms Christina Tam and Ms Jessica She.
+
+83.  Ms Tam (Account Manager) gave evidence on, amongst others, the collection of market intelligence with the Trading and Supply Department of Shell.  Both departments would use the same method, ie getting price quotations from customers and through enquiries in failed tenders.
+
+84.  Mr Lee criticizes her for giving “guarded testimony”, even in relation to peripheral questions.
+
+(1)     An example was when cross-examined by him on whether customers would come to her every day and leverage Shell for a lower price, Ms Tam refused to answer, claiming that it was irrelevant to this case.  When pressed, she conceded that such leverage did not always happen.
+
+(2)     When asked to estimate the proportion of her customers employing such leverage tactics, Ms Tam again refused to answer by saying that she did not make a survey, that it was case sensitive, and that some customers might develop into a stage where they would use other competitors’ prices as leverage.
+
+85.  I am unable to see how being careful not to generalize when her customers’ situation might be fact sensitive could create any negative impact on Ms Tam’s credibility.  Nor can I see how her answers to those examples can assist in resolving the issues.
+
+86.  Next, Ms Tam was cross-examined as to whether she could verify the accuracy of a purported competitor’s lower price quotation.  She conceded that she could not.
+
+87.  Again I cannot see how that answer could undermine her credibility.  She was not publishing an academic paper on oil prices and thus have to ensure accuracy in her data.  She was in a commercial entity collecting market data to cater for the rolling changes in List Prices/Discounts.  As could be seen from Exhibit Annex A, the changes could be as frequent as within 7-8 days.  Ms Tam’s evidence showed that Shell consistently collected market intelligence in the way she described, placed the weight as Shell deemed fit on it in a commercial context, and went on to adjust the List Price/Discounts.
+
+88.  Ms Tam was heavily cross-examined on §18 of her witness statement:
+
+“18. In my experience, the market for the supply of industrial diesel in Hong Kong is a highly competitive one, and there is some transparency in the market with respect to Discounts and/or Net Price offered in that: –
+
+(1)   Most customers routinely ask for price quotes from more than one supplier (which may be an oil major or a reseller) in order to secure a better price. If the price offered by Shell is not the most competitive one, the customers would often use the prices offered by others as leverage with a view to persuading Shell to match the competing offer, or even offer a lower price). Through these negotiations, generally the customers would have provided me with information proactively about the Discounts and/or Net Prices offered by other suppliers in the market.”
+
+…
+
+(3)   With the above market intelligence, Account Managers like me would be able to work out (or at least have an intelligent guess) of the level of Discount offered by other players in the market. The Net Price and or Discounts (as may be calculated or estimated) on a losing bid would help Shell to formulate a more competitive offer when it competes in other business opportunities in the future.”  (underline added)
+
+89.  In her oral evidence, Ms Tam testified that all the Discounts referred to in her witness statement were in fact “Shell’s” Discounts only.  Mr Lee queried how a customer could have used Shell’s Discount as a leverage in their negotiations with Shell.
+
+90.  Ms Tam explained by a hypothetical example.  A customer told her that the successful bid of another supplier was $10.  At that time, the List Price of Shell was, say, $15.  As the delivery charge of Shell was $0.05, so the Net Price was $14.95.  The notional “Discount” of that supplier would have been $4.95 (ie $15–$0.05–$10).  As Shell offered a Discount of less than $4.95, that was why Shell lost in that bid.
+
+91.  Having heard Ms Tam, I am satisfied that what she really meant in paragraph 18 of her witness statement was that she would obtain information from her customers as to the discounts and/or net prices offered by other suppliers.  She would convert those discounts and/or net prices into notional “Shell’s Discounts” for market intelligence purpose.  In that manner, the information user would be able to compare suppliers’ notional discounts/net prices on like bases.
+
+92.  Overall, I find Ms Tam to be a credible witness.
+
+93.  The other witness, Ms Jessica She, was a Pricing Analyst of Shell between 2007 and 2013 and has since 2013 been a Pricing Manager.  She gave evidence on the internal and independent system of seeking approval for adjustments to Shell’s List Price.
+
+94.  Mr Lee criticizes Ms She’s evidence as unsatisfactory in many regards.                                                                                                                                                                                                                                                                                                                                                                                                          
+
+                                                                                                                                              
+
+                                                                                                                                                                                                                                                                                                                                                                                                
+
+                                                                                                                                              
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
+                                                                                                                                              
+
+                                                                                                                                                                           
+
+95.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+
+[The redaction in paragraphs 94 and 95 concerns Ms She’s predictions.]
+
+96.  It was plain from Ms She’s evidence that her job required educated guesses of adjustments in List Prices, acting at best as she could on the information available in the market.  I am unable to see how the fact that                                                                                                                                                                                                                       could affect Ms She’s credibility.                                                                                                                                               
+
+97.  Another example that Mr Lee gave was Ms She’s evidence in relation to                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+98.  In this example, Ms She referred to customers informing “Shell” and not her.  Even based on Ms Tam’s evidence, there was another department who could have received the customer’s information.  I cannot see how Mr Lee’s example could undermine Ms She’s credibility.
+
+99.  Both Ms Tam and Ms She were careful and frank witnesses who would only give evidence on matters within their own knowledge.  By way of example, Ms She would not accept that Shell’s List Price Adjustment letters were sent to 200-300 customers as suggested by Ms Lam in cross-examination.  Ms She also volunteered the information that Sinopec only published its List Prices on its website starting from 2013.  Both witnesses were prompt in answering the Tribunal’s questions.
+
+100.  Having heard all the witnesses, I am satisfied that they were all truthful witnesses who have tried to tell the Tribunal the truth as best they could. Save where specifically identified, I accept their evidence.
+
+G(2).  Hearing of evidence in camera
+
+101.  I have granted leave to hear the evidence of Ms She in camera on the basis that her evidence may touch on matters on which confidentiality has been asserted. I give my reasons now.
+
+102.  The principles for hearing in camera have been aptly summarized by Ms Sit SC (leading Mr Joshua Chan) representing Shell as follows:
+
+(1)     Trials in the Tribunal should generally be heard in open court, but the Tribunal has discretion to direct that a matter be heard in camera: CTR, rule 28.
+
+(2)     Sitting in camera involves restriction on the open administration of justice.  It must be justified by considering and balancing all pertinent interests, rights (eg a litigant’s right to a public hearing) and freedoms (eg of the public to attend and report on proceedings).  The restriction should only be where and to the extent necessary: TVB v CA, at §§19-22 & 27.  It can take different forms eg a blanket order for the hearing to be held in camera or partial censor of submissions to be ventilated in open court or restriction on reporting: §36.
+
+(3)     A restriction on open administration of justice would be justified if open administration of justice (i) would frustrate the ultimate aim of doing justice between the parties, which is a most important if not decisive consideration in the balancing exercise; (ii) would jeopardize some right or interest of one or both of the parties outside of the case: §§26 &32 of TVB v CA.
+
+(4)     While competition proceedings regularly involve some restriction on open justice (eg redaction of documents), such restrictions still need to be justified and supported by cogent evidence which addresses the details: Unwired Planet International Ltd v Huawei Technologies Co Ltd [2018] Bus LR 896, §23.
+
+(5)    Factors relevant to the justification exercise include those set out in Unwired Planet,at §24:
+
+(a)     The nature of the information, eg technical trade secrets;
+
+(b)     The effect of the publication of the information, which will be a critical factor eg where it would be contrary to public interest, or destroys the subject matter of the proceedings such as a technical trade secret; and while the effect on competition and competitiveness could be a factor, that will need to be examined critically;
+
+(c)     The nature of the proceedings, as the balance of factors (eg the need to encourage leniency application in a competition case or damages in an intellectual property claim) would differ;
+
+(d)     The relationship between the information in issue, and the proceedings as a whole – whether the restriction will undermine the public’s understanding of the proceedings or the reasons for the judgment; and
+
+(e)     The relationship between the person seeking to restrain publication of the information and the proceedings themselves – whether that person is the party who puts in issue the confidential information in the first place or a third party.
+
+103.  Mr Lee objected to Ms She sitting in camera.  He stated that the cross-examination was likely to be on the oil costs and reasons for increase.  He did not have a lot of questions on redacted information in Ms She’s witness statement.
+
+104.  Applying the above principles, I directed the hearing of part of Ms She’s evidence to be in camera.
+
+105.  Firstly, the Price Book (still in force today) and List Price Emails contained confidential and commercially sensitive information, the leakage of which to competitors and customers would harm Shell’s business interest.
+
+106.  Secondly, §§4-14 of Ms She’s witness statement were concerned with market conditions which was public information.  I directed that sitting in camera be restricted to the time when cross-examination concerned §15 of her witness statement onwards, which touched on the Price Book and List Price Emails.
+
+107.  Thirdly, when one paid regard to the core issue of collusion and Shell’s defence, it could readily be seen that it sufficed for the judgment to find if Shell had an internal and independent policy of making adjustments to List Prices which was complied with.  It was not necessary for the public to know what constituted Shell’s pricing policy and what factors affected each adjustment.
+
+108.  Fourthly, the confidential information was frequently intermingled with the non-confidential on the same document, such as the List Price Emails.  It was not practical to delineate Ms She’s oral evidence into confidential and non-confidential portion.  If one were to make such delineation, then as Ms Sit submitted, people would have to “hop in and out of camera sessions”.  That would not be time economical and would be extremely disruptive to the proceedings.
+
+109.  Fifthly, Shell was not the party who has put the confidential information in issue.  Shell’s claim was admitted by Meyer and did not involve the confidential information.  To the contrary, it was Meyer who sought to put Shell’s pricing policy into issue when running its defence.
+
+110.  For the given reasons in Section G(2), Ms She’s evidence was heard in camera after her evidence in chief.
+
+111.  It turned out that hearing her evidence in camera was fully justified. Whilst Mr Lee told the Tribunal that his cross-examination would not touch on confidential matters, the contrary happened as soon as he started cross-examining Ms She. 
+
+H.   EXPERT EVIDENCE
+
+112.  Having heard the evidence of the factual witnesses and upon the application of Taching and Shell, I excluded the expert reports from the evidence in the course of the trial.  Here are my reasons.
+
+113.  In CTPD1, §9 states that active and robust case management will form a central element of the procedure of the Tribunal.
+
+114.  The giving of expert directions is very much a matter of case management: Shenzhen Futaihong Precision Industry Co Ltd v BYD Co Ltd [2019] 2 HKC 175, §9.
+
+115.  There are 3 conditions to be met before expert evidence can be adduced:
+
+(a)     The subject matter of the opinion must fall within an area in which expert evidence may properly be given;
+
+(b)     The witness must be qualified as an expert to give the evidence of the type in question; and
+
+(c)     His evidence must be relevant to the issues being litigated.
+
+116.  In Shenzhen Futaihong, §6, the Court of Appeal explained that evidence meeting condition (a) can still be excluded by the Court if the Court takes the view that calling it will not be helpful in resolving any issue in the case justly.  Such evidence will not be helpful where the issue to be decided is one on which the Court is able to come to a fully informed decision without hearing such evidence.
+
+117.  Applying Shenzhen Futaihong, I excluded the expert evidence for the following reasons:
+
+118.  Firstly, this Tribunal has asked Mr Lee whether there was a particular paragraph in the expert reports that the Tribunal should focus on so that at the end of the day the Tribunal could infer that there was agreement, communication or collusion between Taching and Shell.  Mr Lee gave an unequivocal answer, “No.”  He went on to say that the expert evidence was not central and the “main focus” was really whether the cases put forth by Taching and Shell were accepted and that it would be those matters, instead of the expert issues, that would be the main factual findings on which inference might or might not be drawn. Mr Lee’s answers formed a clear admission that the expert evidence was irrelevant.  The “main focus” that he referred to could be decided on the factual evidence.
+
+119.  Secondly, Dr Sharon Pang’s report prepared on behalf of Meyer showed the expert evidence to be irrelevant to any of the issues defined in Section D above.  This was evident from Dr Pang’s summary of conclusions in §6 of her report that:
+
+(1)     She did not consider the underlying cost factors of the Oil Majors to be similar;
+
+(2)     She did not consider that there was high degree of transparency in the List Prices of the Oil Majors; and
+
+(3)     She considered that there was a high degree of uniformity in the changes to the List Prices of Shell and Sinopec.
+
+120.  Conclusion (1) was about evidence relating to pricing behaviour of the midstream Oil Majors (ie those who imported from overseas into Tsing Yi Island).  It had absolutely nothing to do with the present situation in which Taching and Shell sold to end-users at a different, downsteam, level of the supply chain.  It also had absolutely nothing to do with Taching.
+
+121.  Conclusion (2) again was about Oil Majors and Taching was not involved. Mr Lee, however, suggested that if there was no transparency between the Oil Majors, it was hardly arguable that a small reseller like Taching would have additional means of improving the transparency and have access to more information than the Oil Majors. So the expert evidence about transparency between the Oil Majors and resellers was still valuable to consider the relevant transparency in this case. 
+
+122.  Mr Lee’s suggestion meant that if there was no transparency in the mid-stream market, somehow the Tribunal could still infer that there would not be transparency in the downstream market.  With respect, I fail to see the logic.  In fact, there was no factual premise for Mr Lee’s suggestion because none of the experts, including Dr Pang, dealt with transparency in the downstream market.
+
+123.  Mr Lee also referred to §3.3 of Shell’s RAPoR to justify adducing expert evidence for the purpose of showing lack of transparency:
+
+“(a) Due to the transparency of the industrial diesel market in Hong Kong, [Shell's] List Price ... and the Net Price ... it offered to the Defendant were accessible to Taching even without direct or indirect communication between the Plaintiff and Taching.”
+
+124.  According to Mr Lee, if there was no transparency in the market, that could provide some support for the contention that Taching could not, without collusion with Shell, have got Shell’s updated List Prices from the market, in such a timely manner, almost on the same day or following day.
+
+125.  With respect, Mr Lee has misread Shell’s case.  Shell expressly denied in §3.1 of its RAPoR the sharing of pricing information with Taching.  In the evidence, Shell got List Prices of other market players but Taching did not feature in Shell’s process of setting the List Price.
+
+126.  Mr Lee has also misread Taching’s case.  Whether there was transparency or not simply did not affect Taching, as it did not determine its own List Price or adjustments but simply followed Sinopec’s.  Taching never had Shell’s List Price information.
+
+127.  Whether the List Price was transparent was background information that, in the circumstances of this case, could be proved by factual evidence without expert evidence.  No transparency could not give rise to inference of communication between Taching and Shell to fix price or assist Meyer in building up a positive case of agreement or concertation.
+
+128.  In any case, the fact that one market player got the price information of another was in itself innocent.  It was how that market player got the price information that was relevant. That was not something that needed to be proved by expert evidence in this case and in fact Dr Pang did not purport to prove it.
+
+129.  Conclusion (3), even accepting that to be true, was irrelevant because Sinopec was not a party to the Alleged Contravention and Meyer’s attempt to amend its pleadings to plead a wider collusion has been rejected: §§94-131 of the May 2020 Decision.  There was thus a missing link between the prices of Shell and Sinopec on the one hand and the alleged collusion between Taching and Shell on the other.  Sinopec, not being a party, simply had no input to Dr Pang’s views in her report.
+
+130.  In his submission, Mr Lee clarified that he was not involving Sinopec in any way to show that there was collusion between Taching and Shell.  He was just saying that Taching was directly following Shell.  With respect, if Mr Lee was correct, that was a matter of fact and not a matter for expert evidence.
+
+131.  For the reasons given in Section H, it was plain and obvious that expert evidence was irrelevant in this case.
+
+132.  Mr Lee has also tried to justify the need for expert evidence to prove some “peripheral issues”, ie the number of players in the market, whether the product was homogenous and whether there were similar costs. He submitted that usually for conscious parallelism to be present there would be similar costs. 
+
+133.  Such submission again showed a misunderstanding of the core issues. None of the peripheral issues could prove or disprove collusion.  In fact, during cross-examination, homogeneity of the product virtually did not feature.  Little was explored on similar oil costs. It was not anyone’s case that there was conscious parallelism. 
+
+I.     ANALYSES OF MEYER’S CASE
+
+134.  The closing submission of Meyer can be summarized as follows:
+
+(1)     There were 118 Pairs of entirely identical List Price Adjustment Notices, which were made in circumstances when pricing information should be confidential and private (§2);
+
+(2)     Meyer has established a prima facie case of collusion, which requires Taching and Shell to provide a satisfactory non-collusive explanation for the uniformity of adjustments.  Taching and Shell have wholly failed to do so and, in fact, the evidence of their witnesses were lies which Meyer submits should be rejected (§3).
+
+(3)     Taching followed Shell’s List Prices (§184).
+
+(4)     The adjustment of List Price of Taching and Shell had not followed the changes in international oil prices and such disparities were specially obvious in 2015-2017 when oil prices dropped significantly.  They showed that there were otherconsiderations in play when such adjustments were made.  As these additional considerations would invariably be different between the two oil companies, it would be too much of a coincidence that the adjustments of the same were exactly identical over the years if they had made their calculations independently and without reference to each other’s pricing behaviour (§100).
+
+(5)     Taching and Shell were charging supra-competitive prices (§184).
+
+135.  With respect, there is not even a “prima facie case” of agreement or concertation for Taching and Shell to answer. 
+
+136.  Firstly, after a full trial, there is still no evidence as to when the alleged agreement or concertation was entered into, who on behalf of Taching and Shell entered into it and its scope.  In fact, these matters were never put to any of the witnesses of Taching or Shell.
+
+137.  Indisputably, there is not the slightest evidence of any communication or exchange between Taching and Shell at any time during the Relevant Period, not even before the Competition Ordinance came into effect.
+
+138.  Secondly, even on Meyer’s own case, Taching and Shell could not have “fixed” their Net Prices through “determining and manipulating” their respective List Prices in view of Meyer’s orchestration of the Initial Net Prices for Taching and Shell after each of the 3 Renegotiations.
+
+139.  Thirdly, the List Price information of Taching and Shell was not confidential information, despite the fact that the information was not put on the internet.  The List Price Adjustment Notices issued by Taching and Shell were not marked “confidential”.  They were distributed to all of their existing or potential customers and covered more products than just industrial diesel, although the price adjustment for each product might be different.  Neither Taching nor Shell prohibited their customers from disclosing the List Price or adjustments to other people.  In fact, Meyer itself disclosed such information of other suppliers to Shell and Taching.
+
+140.  Fourthly, in cross-examination, Meyer suggested that Taching was directly following Shell’s, rather than Sinopec’s, List Price Adjustments.  (More details are in Section J(3) and (4) below.)  Even if that was true, (i) competition law did not prevent economic entities from adapting themselves intelligently to the existing and anticipated conduct of their competitors: Wood Pulp II, §71, cited in the May 2020 Decision, §84; (ii) Meyer itself accepts that conscious parallelism is legitimate (§184.4 of Meyer’s closing submission); (iii) Meyer’s case rested principally on Taching’s conduct; and (iv) there was nothing to show the meeting of minds of Taching and Shell.
+
+141.  Fifthly, even if Meyer can shatter the credibility of Taching and Shell’s witnesses, Meyer would still be left with only 118 Pairs of List Price Adjustment Notices, and the unilateral and equivocal conduct of Taching in following the pricing of Shell.  These 2 facts were not sufficient to establish a prima facie case of agreement or concertation, as they were consistent with innocence.
+
+142.  Sixthly, it is not open to the Tribunal to infer collusion from unpleaded facts (ie failure to follow changes in international oil prices and charging supra-competitive prices).
+
+143.  Meyer’s case must fail.
+
+J.     ANALYSES OF TACHING’S CASE
+
+144.  Taching’s case is supported by:
+
+(1)     Witnesses’ evidence of all 3 parties;
+
+(2)     The scale of Taching’s business; and
+
+(3)     Sinopec and Taching’s respective List Price Adjustment Notices.
+
+145.  Meyer, however, points to 10 occasions (should be 11, classified into 4 Categories) when Taching “deviated from its practice” and suggested that “Taching followed Shell instead of Sinopec”.
+
+J(1).  Witnesses’ evidence
+
+146.  On Taching’s side, Mr Lawrence Ma testified that there was never any contact between Taching and Shell during the Relevant Period.  There was no communication channel between Taching and Shell.  In fact, he testified that it was unthinkable for Taching to work with Shell because they were opponents to each other.  He might have been “the person most hated by Shell” as he had poached a lot of business from them.
+
+147.  Mr Lawrence Ma’s evidence was supported by Shell’s evidence:
+
+(1)     Taching never featured in Shell’s List Price Emails. 
+
+(2)     Shell had an established policy of prohibiting staff from sharing price sensitive information with competitors without a lawful reason to do so, or engage in anti-competitive practices: Shell’s Antitrust Manual.  Ms She and Ms Tam, both confirmed that (a) they were aware of Shell’s policy; (b) they had complied with Shell’s policies at all material times and (c) they had never had any contact or discussion with Taching during the Relevant Period.
+
+(3)     These were also consistent with Shell’s contemporaneous internal documents, which suggested that Shell only learned about the increase in Taching’s Fixed Discount from Meyer during their Renegotiations of Shell’s Fixed Discount. 
+
+148.  Taching’s case that it followed Sinopec’s price adjustments and had no control over how Sinopec adjusted its price was supported by Meyer’s own evidence.  As Ms Sandy Chan accepted:
+
+(1)     All along, Taching told Meyer that it followed Sinopec’s List Price changes.
+
+(2)     Save for two or three occasions, Taching always adjusted its own List Price by exactly the same amount as Sinopec’s adjustment of its list price.  This was consistent with Meyer’s own understanding and expectation.
+
+(3)     In particular, when Taching’s cost for purchasing industrial diesel from Sinopec went down, Taching always passed on 100% of that benefit to Meyer by adjusting its list price downwards by the same amount.
+
+(4)     On the other hand, when Sinopec announced an upward adjustment, it would be fair to both Taching and Meyer for Taching’s Net Price to be adjusted upwards by the same amount, because that would reflect the corresponding increase in Taching’s cost in acquiring IEVD.
+
+(5)     It would be fair to both Taching and Meyer if Taching’s profit margin remained the same.
+
+(6)     Taching did not rip off Meyer.
+
+J(2).  Scale of Taching’s business
+
+149.  Practically, it made sense for Taching to follow Sinopec’s adjustments because Taching was a comparatively small business compared to the Oil Majors. Its customers went from 7 (including Meyer) to 3 (after losing Meyer) by now.
+
+150.  The Net Price at which Taching purchased industrial diesel from Sinopec was pegged to the price adjustments of Sinopec.  It would be in the interest of Taching to follow Sinopec’s increase by the same amount to cover the increased cost of sourcing; and to follow Sinopec’s decrease by the same amount to maintain Taching’s competitiveness.  That would secure its share of wallet as one of Meyer’s 2 suppliers.
+
+151.  Mr David Wong, the person actually dealing with Taching’s List Price Adjustment Notices, testified that the downward adjustments were issued faster to increase Taching’s competitiveness and upward adjustments could be issued more slowly so that its customers would have a better impression and more confidence with Taching.  I have no reason to doubt his evidence, which was an exercise of commercial discretion.
+
+J(3).  Sinopec and Taching’s respective List Price Adjustment Notices
+
+152.  Exhibit Annex A summarizes all the Sinopec, Taching and Shell’s List Price Adjustment Notices in the Relevant Period.  It shows that, save for the 4 Categories, Taching had made the same adjustments either on the same day or shortly after Sinopec did so.  “Items” in Section J shall mean those in Exhibit Annex A.
+
+153.  In view of the 4 Categories, Meyer submits that Taching “deviated from its practice” and “followed Shell instead of Sinopec”
+
+(1)     Category 1: two of Taching’s List Price Adjustment Notices were different, in terms of dollar amount, from Sinopec’s List Price adjustments; ie Items 7 and 9 dated 9 April 2011 and 27 May 2011, respectively.
+
+(2)     Category 2: three Sinopec’s List Price Adjustment Notices were allegedly “missing”, ie between Items 4 and 5, 15 and 16, 16 and 17, all in 2011.
+
+(3)     Category 3: five of Taching’s adjustments to its List Price several days after Sinopec made its adjustments as, Meyer suggests, Taching was waiting for Shell to adjust, ie Items 2, 24, 34, 38 and 54.
+
+(4)     Category 4: Taching adjusted its List Price a few days before Sinopec made its adjustment, ie Item 69 dated 27 October 2014.
+
+154.  Category 1 only occurred on 2 occasions.  It was first discovered after Exhibit Annex A was prepared shortly before trial.  Mr Lawrence Ma apparently was unable to explain Category 1 except to say that it might be a “human error”.  He drifted to unconvincing explanations (such as his own birthday and the taking of vaccine) as to why he did not press Mr David Wong for an explanation before trial. Apparently, he avoided giving an answer inconsistent with Mr David Wong’s.
+
+155.  Mr Wong testified that Sinopec introduced “Sinopec industrial diesel” in February 2011. Sinopec had re-arranged the order of products in the 2 List Price Adjustment Notices such that the subject product (IEVD) was moved from line 4 to line 3.  Mr Wong was not aware of the re-arrangement at that time when copying the List Price changes from Sinopec’s Notice into Taching’s own. 
+
+156.  Mr David Wong took time to figure out the explanation. He did not shy away from his own copying mistake.  Viewed on its own, Mr David Wong’s explanation was credible.
+
+157.  What was inexplicable, however, was that Ms Au, the accountant of Taching, should have but did not discover Category 1.  However, as the matter was first raised in cross-examination, there was no chance for Taching to call Ms Au to give evidence.
+
+158.  Even on this state of unsatisfactory evidence of Taching, it is insufficient to justify an inference of agreement or concertation to fix prices.  In particular,
+
+(1)     Category 1 took place in early 2011, more than 4 years before the Competition Ordinance came into effect on 14 December 2015.
+
+(2)     Little significance can be attached to discrepancies in 2 out of 118 occasions over a time span of almost 6½ years.
+
+(3)     The totality of the evidence shows overwhelmingly that Taching did, as a matter of fact, follow Sinopec’s price adjustments in adjusting its List Prices.
+
+159.  Category 2 is said to have 3 “missing” Sinopec List Price Adjustment Notices.  Meyer’s suggestions are these.  The “Old List Price” in a Sinopec List Price Adjustment Notice should be the same as the “New List Price” in the preceding Notice; yet that was not the position in Items 4 and 5, 15 and 16, 16 and 17.  Therefore, one or more Sinopec Notices must have been missing between those 3 pairs of Notices.
+
+160.  Again, the issue was only raised in cross-examination.  Mr Lawrence Ma was taken by surprise by Meyer’s suggestion.  At first he did not even understand what was suggested to him.  He initially thought that all the Old List Prices on Item 5 (p 1314) were different from the New List Price on the Item 4 (p 1313) until the Tribunal pointed out to him that only first 3 Old List Prices had changed.  It was quite clear that Mr Lawrence Ma was not aware of the discrepancies in Category 2, nor any complaints by other distribution agents of Sinopec.  He said that Sinopec did not issue any statement that they had issued wrong List Prices.
+
+161.  Mr David Wong responded to the suggestion of “missing” Sinopec Notices with a straight answer, “no way”.
+
+162.  Both Mr Lawrence Ma and Mr David Wong rejected any suggestion that there was any “missing” Sinopec Notices which Taching had received but (i) chose not to follow; or (ii) Taching did not adjust its List Price because Shell did not do so.
+
+163.  Whilst Taching had no control over how Sinopec issued Notices, Mr Lawrence Ma and Mr David Wong were adamant that the Old and New List Prices in Sinopec’s List Price Adjustment Notices had no impact on Taching, because Taching conducted business with Sinopec by using a “Net Price” rather than “list-less” mechanism.  The Net Price payable by Taching was pegged to Sinopec’s price adjustment under the column of “difference” in Sinopec’s List Price Adjustment Notices. 
+
+164.  Again, Ms Au could not be called to give evidence.  There was no other circumstantial evidence pointing to missing Sinopec Notices.  In fact, I cannot see why Taching would want to conceal the “missing notices”. In any case, these 3 instances occurred in 2011, long before the Competition Ordinance came into effect.  There is not enough for the Tribunal to infer, even if there had been “missing notices”, that there was collusion between Taching and Shell, or that Taching had something to hide. 
+
+165.  Category 3 involved 5 occasions.  Ms Lam adds items 4 and 115 to the list but excludes item 34, but that has no impact on the big picture.
+
+166.  Mr Lawrence Ma’s evidence was that Mr David Wong was instructed to adjust Taching’s price within 1 or 2 days of Sinopec’s.  Taching would issue notices on Saturdays but not Sundays.
+
+167.  However, on those 5 occasions, Taching’s Notices were issued more than 1 or 2 days after the corresponding Sinopec Notices. 
+
+168.  Looking at the Taching Notices as a whole, 109 of them were consistently issued on the same day as, or up to 3 days (with an intervening Sunday) from the corresponding Sinopec Notices.
+
+169.  Even where Taching’s Notices were issued more than 2 days after the corresponding Sinopec’s Notices, the gaps between the dates of the corresponding Taching and Shell Notices were often also more than 2 days apart.
+
+170.  As events happened long ago, Mr David Wong could only guess.  He said he would have regard to the business situation at the relevant time.  He claimed to have some “flexibility” in bringing forward downward adjustments or deferring upward adjustments, as that would increase the competitiveness of Taching and attract more business for Taching in the long run.
+
+171.  With respect, such evidence sat uncomfortably with what Mr Lawrence Ma said, that Taching almost had to write a cheque to Sinopec every day.
+
+172.  However, Mr David Wong also said that he was the only one responsible for handling List Price changes and he might have been out of office or on leave on those occasions.  Mr Lawrence Ma confirmed that it was common practice for Oil Majors to always follow one another to make the same amount of adjustments within a short time.  It was acceptable for Taching for there to be “a few days’ difference” because Meyer would not place an order everyday (because of the share of wallet between Taching and Shell).  Further, the potential loss to Taching (for not making adjustments within the 1-2 day policy) would be in the range of a few thousand dollars and that was acceptable to Mr Lawrence Ma.
+
+173.  Mr Lawrence Ma and Mr David Wong’s evidence meant an approach of “increase slowly, reduce quickly”.  The latter’s evidence was consistent with the issuing pattern of the 116 pairs of Sinopec and Taching Notices:
+
+(i)     All the 5 occasions concerned upward adjustments.  They were entirely consistent with the aforesaid approach.
+
+(ii)     Amongst the 116 occasions, there were 55 occasions involving a downward adjustment.  Out of those 55 occasions, there was only 1occasion on which Taching’s Notice was issued more than 1 day after the corresponding Sinopec’s Notice (Item 16).  On that occasion, Taching’s Notice was issued on 26.9.2011 (the stated date of 6.9.2011 was an unchallenged typo), 3 days after Sinopec’s Notice dated 23.9.2011. However, as there was an intervening Sunday (25.9.2011), that Taching Notice was still issued within 2 days.
+
+(iii)    It is also notable that on 37 out of those 55 occasions, the relevant Taching Notices were issued on the same day as the corresponding Sinopec Notices.  In other words, in the majority of cases involving a downward adjustment, Taching passed on the benefit of the price reduction to Meyer immediately, rather than wait for 1 or 2 days, even though this would have been perfectly permissible according to Mr Lawrence Ma’s instruction to Mr David Wong.
+
+174.  The 5 (or 6) occasions could not undermine the pattern of Taching closely following Sinopec’s List Price Adjustment Notices.  I accept Taching’s explanation for Category 3.
+
+175.  Category 4 was a unique incident whereby Taching issued its List Price Adjustment Notices on 24 October 2014, 3 days before Sinopec.  Mr David Wong explained that Ms Kitty Chu used Shell’s decrease in List Price as leverage and threatened to stop ordering IEVD from Taching the following day unless Taching matched the price reduction.  Mr David Wong reported the matter to Mr Lawrence Ma.  Mr Lawrence Ma said he felt compelled to and did accede to Ms Kitty Chu’s request as Meyer was Taching’s most important customer.  He knew, from experience, that Shell was the leader of oil companies in Hong Kong and predicted that Sinopec was likely to follow Shell’s List Price adjustment within a few days.  His prediction came true.
+
+176.  In cross-examination, Mr Lee queried why Taching did not bother to make a phone call or re-negotiate with Meyer before committing to the reduction, which was diametrically opposite to Taching’s usual practice of engaging in several rounds of negotiations before agreeing to a reduction.
+
+177.  In my view, Mr Lee has misunderstood the evidence.  The Renegotiations were in relation to new contracts whereas Category 4 was one-off.  It was quite clear that all that Mr Lawrence Ma did was to make a quick commercial decision in the light of his knowledge of the usual market situation.  This was an example of Meyer using another supplier’s price as leverage (this time against Taching), and Taching intelligently adapting to Shell’s conduct by following Shell’s price.  There was no suggestion of collusion between Taching and Shell.
+
+178.  Category 4 was first raised in cross-examination.  Given the unique circumstance, it came as no surprise that Mr Lawrence Ma was able to promptly answer the question in the witness box.  He candidly explained that he was not aware of this item until he saw Exhibit Annex A.  He was not shaken in cross-examination.  Meyer has not called any witness (including Ms Kitty Chu) to contradict Taching.  I accept Taching’s explanation for Category 4.
+
+179.  Assuming I am wrong, I would only draw these inferences from the 4 Categories: Taching did not follow Sinopec’s List Price on 2 occasions. Taching had withheld 3 Sinopec Notices.  Mr David Wong acted contrary to express instructions and might have caused loss to Taching in the period connected to Category 3.  Taching had followed Shell’s instead of Sinopec’s price adjustment on one occasion. 
+
+180.  Just to complete the picture.  In 2017, Meyer complained about Taching’s price level and threatened to withhold payment for the outstanding purchase price.  Ms Kitty Chu requested for a discount of more than $3.  Taching gave 3 quotations as desperate measures to win back Meyer as a customer.  The prices in the 3 quotations were lower than Taching’s costs of acquisition from Sinopec (Exhibit T1) and were spot prices that would apply to a limited quantity of industrial diesel for a short period.  The temporary loss from trading was acceptable to Taching. 
+
+181.  Those 3 quotations were not pleaded bases of the Alleged Contravention and were hence irrelevant.   
+
+J(4).   Meyer’s suggestion that Taching followed Shell’s price adjustments
+
+182.  Mr Lee submits that the inference from the 4 Categories was that Taching had followedShell’s price adjustment.  With respect, this submission is flawed:
+
+(1)     The 4 Categories added up only to 11 occasions.  They were few and far between, compared to an overwhelming 107 instances where Taching’s List Price Adjustment Notices followed closely Sinopec’s.
+
+(2)     As pointed out by Ms Lam, not a single question had been put to either Mr Lawrence Ma or Mr David Wong in respect of any of the List Price Adjustment Notices issued during the period covering the invoices from March to June 2017.  Shell’s List Price Emails during the Core Period all stated “last move initiated by Shell … and competitors followed”, except the one dated 13 April 2017.  That exception was not issued by Ms She and did not contain any reason for the proposed adjustment.  The incontrovertible evidence was that, during that period, all List Price Adjustment Notices were initiated by Shell, followed by Sinopec.  Taching followed Sinopec.
+
+(3)     Mr Lee has not explained why it was more probable that Taching had not followed the price adjustments of its supplier but those of an unrelated entity, Shell. 
+
+(4)     The 4 Categories occurred before the Competition Ordinance came into effect and years before litigation was contemplated.  Mr Lee has not explained how following Shell’s price adjustments on a few occasions could give rise to a price fixing collusion that would extend into the rest of the Relevant Period. 
+
+(5)     Merely following a market player’s pricing was not in itself against competition law.  Mr Lee has not even suggested that any of the 4 Categories could give rise to an inference of communication or reciprocal contact between Taching and Shell.
+
+183.  In the premises, save that Taching had followed Shell’s price adjustment on one occasion under Category 4, I decline to draw any other inferences as suggested by Mr Lee.  The 4 Categories do not assist Meyer.  On balance of probabilities, Taching’s case is credible and plausible and I accept the same.
+
+K.    ANALYSES OF SHELL’S CASE
+
+184.  Shell’s case is supported by: (i) the Price Book; (ii) the List Price Emails; and (iii) evidence of its own and Meyer’s witness.
+
+185.  Of importance is that Meyer has never challenged the authenticity of the Price Book and the List Price Emails.
+
+K(1).  Price Book
+
+186.  Shell’s List Price Adjustment Policy is set out in its Price Book (D1/12).  There is division of labour between determination of the List Price and negotiating Discounts with customers.
+
+187.  The List Price should be reviewed                                                                                                                                                based on the following factors of which Shell, rightly, claims confidentiality:
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+188.  In determining whether and to what extent its List Price should be adjusted, Shell’s policy (though not pleaded but                      ) also requires keeping track of the following factors and monitoring them for abnormalities (Exhibit S1):
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+189.  Pursuant to such policy, List Price adjustments are calculated and proposed by the Pricing Analyst/Pricing Manager (in this case, Ms She), and endorsed by the Business Manager (in this case, Ms Joanna Chow).  In the Relevant Period,
+
+(1)     Ms She was responsible for carrying out daily review of Shell’s costs and analyses by reference to the criteria in paragraphs 187-188 above to determine whether a List Price adjustment was necessary.
+
+(2)     If Ms She took the view that an adjustment to the List Price was warranted, she would submit a proposal to Ms Joanna Chow.
+
+(3)     If Ms Joanna Chow approved the proposal, Ms She would notify the Accounts Manager and the Sales Support to implement the change.
+
+(4)     Ms She did not have direct dealings with customers of Shell.
+
+190.  The Discount was customer specific and negotiated on a case by case basis.  Shell’s Account Managers were responsible for review and negotiation of the Discount offered to individual customers (though, as explained below, this was subject to approval).  See Price Book, §5.3.
+
+191.  In determining what Discount/Net Price to give to a customer, Shell’s Account Managers would be assisted by the Pricing Analyst/Manager, who would build up a profitability analysis model on the basis of the proposed offer (as may be put forward by the Account Manager or the customer) to work out whether the proposed offer was likely to be sufficiently profitable.
+
+192.  The Account Manager (in this case, Ms Tam who was assigned to deal with Meyer) would then report the proposed offer together with the profitability analysis to the Sales Manager (Mr Samson Lam) and the Business Manager (Ms Joanna Chow), who would evaluate the proposal and decide whether to support/endorse it. 
+
+193.  Ms Tam and another Department were responsible for collection of market intelligence (“MI”),                                                                                                                                        
+
+194.  Shell has strict policy prohibiting its personnel from engaging in discussions with Shell’s competitors about pricing information.
+
+195.  It is also notable that                                                           , Shell actually made                          assessment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+
+K(2).  List Price Emails
+
+196.  The List Price Emails evidenced how Shell’s personnel complied with the internal policy.  Ms She proposed 115 out of 118 List Price changes during the Relevant Period.  Taching never featured in the List Price Emails.
+
+197.  When determining whether to adjust its List Price, Shell drew on various factors including                                                                                                                                                                                                                                                                           It is clear that Shell made its own independent commercial decision when determining its price adjustments.
+
+198.  Examples of price adjustments are as follows:
+
+(1)     On 1 February 2011, Ms She proposed to increase Shell’s List Price [details in the email]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+
+(2)     On 25 February 2011, Ms She proposed to increase Shell’s List Price [details in the email]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+
+(3)     On 4 October 2011, Ms She proposed to decrease Shell’s List Price [details in the email]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+199.  Example (3) was an independent commercial decision to match the price of a competitor, which was not prohibited by the First Conduct Rule (which had not yet taken effect any way) and indeed, an indicator of a highly competitive market.
+
+200.  Mr Lee submits that Shell has failed to make full and frank disclosure. He points to 3 instances when the List Price Emails were missing. 
+
+201.  Ms She explained that she was on leave at that time.  She was not responsible for and did not have records of those missing List Price Emails. She had made enquiries of those colleagues who might have handled the matter then but those documents (which should have been in existence in 2012) were no longer available.
+
+202.  I am satisfied that Ms She has made reasonable endeavours to locate the missing List Price emails.  In any case, 3 instances compared to the total of 118 could not affect the overall weight of the consistent pattern in Shell’s List Price Emails.  Without disrespect, Mr Lee’s complaint as regards non-disclosure carries no weight.
+
+203.  Meyer has attempted to cross-examine Shell’s witnesses to show that there had been communications between Shell and other resellers showing that Shell’s staff had not followed the internal policy.  The attempt was thwarted because, quite apart from the fact that the subject was not pleaded, the prejudicial value would outweigh the probative value.
+
+K(3).  Evidence of Shell and Meyer’s witnesses
+
+204.  I have referred to the evidence of Shell’s witnesses in paragraph 147(2) above.
+
+205.  With respect to each of the supply agreements in force during the Relevant Period, the Discounts/Net Prices agreed between Shell and Meyer were the result of either Meyer disclosing to Shell the Discount/Net Price which other suppliers had offered or agreed to charge Meyer, or Shell independently working out a Discount which was offered to and accepted by Meyer:
+
+(1)     In April 2010, Shell agreed to increase its Discount by HK$0.50/L after Ms Tam was informed by Ms Kitty Chu that Meyer had not placed any orders with Shell that month because Shell’s Net Price was higher than Taching’s by HK$0.50/L. This resulted in the 2010 Shell-Meyer Agreement.
+
+(2)     In June 2012, Shell agreed to increase its Discount by HK$1.10/L after taking into account the market intelligence showing there was a substantial gap between the Discount offered to Meyer and the most competitive rates on the market. This resulted in the 2012 Shell-Meyer Agreement.
+
+(3)     In December 2013, Shell agreed to increase its Discount by HK$1.10/L after Ms Kitty Chu informed Ms Tam that TAT Petroleum (HK) Pte had approached Meyer with a price quote which was lower than Shell’s Net Price by around HK$1.10/L. This resulted in the 2013 Shell-Meyer Agreement.
+
+These are not disputed by Meyer.
+
+206.   In fact, Ms Sandy Chan confirmed under cross-examination that:
+
+(1)     The List Price Emails showed that Shell came up with the List Price changes independently in accordance with its own policy.
+
+(2)     Meyer deliberately maintained a more or less proportion of purchase from Taching and Shell over the years.
+
+(3)     In its negotiation with Taching and Shell respectively, it was Meyer who kept Shell and Taching “closely informed of the progress of [its] negotiation with the other supplier” with the result that the respective Net Prices of the 2 suppliers after such negotiations would invariably be the same.
+
+K(4)  Finding on Shell’s case
+
+207.  Meyer’s closing submission has only one comment on Shell’s case: “the unsatisfactory evidence given by Ms Tam and Ms She on the material matters could also be taken into account by the Tribunal ‘in the general mix of determining the issue’ and entitle the Tribunal to reach the conclusion that there was collusion in this case.”
+
+208.  Given the Tribunal’s finding that Ms Tam and Ms She were credible, this comment is a virtual concession that Shell’s case is unimpeachable.  The evidence of Shell in proving its case is overwhelming and not shaken in cross-examination.  Meyer never put to Shell’s witnesses the existence of anything close to an agreement or concertation.  Nor did Meyer challenge Shell’s case that its decision to adjust its List Prices was made independently and internally, without reference to Taching.  If Shell had acted independently, there could not have been collusion with Taching.  On balance of probabilities, Shell’s case is credible and plausible and I accept it.
+
+L.     COLLUSION AS THE ONLY PLAUSIBLE EXPLANATION
+
+209.  It can readily be seen that if the matter has stopped here and the Tribunal were to apply the “lesser” standard of proof propounded by Mr Lee, on balance of probabilities, Meyer’s case must fail when the Tribunal finds the case of either Taching or Meyer credible.  Therefore, to be able to succeed in the arena of competition law, in the absence of explicit concertation, Meyer must provide sufficient evidence render Taching and Shell’s explanations implausible and to show that the only plausible explanation is collusion.
+
+210.  Meyer utterly fails in discharging this part of its burden.  In fact, the circumstantial evidence was against Meyer.
+
+211.  Firstly, the purpose of price-fixing is to ensure cooperation between competitors who collectively hold a sufficiently large share of the market, such that they can charge inflated prices without fear of being undercut by competitors.  The existence of a large number of market players (who are not alleged to be part of the cartel) militates strongly against the existence of collusion: Wood Pulp II, §§116-118.
+
+212.  It would also be easy for a purchaser (like Meyer) to switch to 80-100 suppliers (who were not parties to the Alleged Contravention).  In fact, as borne out by the evidence, Meyer could quickly switch to another supplier (ExxonMobil) after discovering the 118 Pairs of List Price Adjustment Notices. 
+
+213.  Secondly, such alleged collusion would only, in turn, harm the business of Shell and Taching.  The evidence established that Shell’s adjustments to List Price applied to all of its customers who used the “list-less” pricing mechanism.  The majority (over 200) of Shell’s customers used that mechanism. Shell would be putting itself at risk of being undercut by its competitors as regards those customers.
+
+214.  There was no sense in Taching (a reseller/supplier who never purchased from Shell) fixing price with Shell (an Oil Major) when Meyer was not obliged by contract to purchase from Taching.
+
+M.  OBJECT RESTRICTION
+
+215.  Both Ms Sit SC and Ms Lam have submitted that even if the Tribunal were to find the Alleged Contravention established to the requisite standard, it would not constitute a contravention of the First Conduct Rule, unless the Tribunal is also satisfied that it is a “by object” restriction.  They submit that despite price fixing belongs to a category which would normally be regarded as anti-competitive, on the evidence, this was not a typical case that was by its very nature harmful to the proper functioning of competition such that it should be regarded as a “by object” restriction, without an effects analyses.
+
+216.  The Alleged Contravention involved only 2 out of 80-100 suppliers on the market.  It involved only the fixing of List Price supplied to one common customer.  It did not involve the fixing of Discounts. 
+
+217.  Without Meyer’s orchestration, Taching and Shell might not be charging the same Net Prices during the Relevant Period.  Taching and Shell could still have undercut the other by offering a lower Net Price even if they had agreed on the List Price.  There is undisputed evidence that other market players could undercut Taching and Shell’s prices by offering substantially lower net prices which Meyer used as leverage against Shell.
+
+218.  Therefore, even if Taching and Shell had agreed to fix their price adjustment, the Net Price after such adjustments would still be subject to competition from other suppliers, so it is submitted. 
+
+219.  Further, Taching and Shell even competed between themselves to maintain the share of wallet:
+
+(1)     Their Fixed Discounts to Meyer were substantial in 2012 and 2013.  In the 2013 renegotiation, Taching was even willing to offer the discount even though it meant a significant reduction to its profit margin to only                   .
+
+(2)     Shell pro-actively built a close relationship with Meyer by trying to persuade Meyer to purchase more than 50% of its industrial diesel from Shell, albeit unsuccessfully.
+
+(3)     Taching and Shell each provided different forms of value-added services to Meyer, eg daily delivery, technical services, maintenance and cleaning of oil tanks, third party insurance for oil tank trucks, financing the installation of oil storage tanks at Meyer’s manufacturing plant and maintenance and repair costs, seminars for staff, etc.
+
+220.  In my view, having rejected Meyer’s case on breach of First Conduct Rule, it is not appropriate for the Tribunal to comment on the issue of object infringement.  Given the submission of Ms Sit SC and Ms Lam, the issue may be fact sensitive and may even require expert evidence on analyzing the effects. I decline to embark on a wholly academic exercise.
+
+N.    COSTS
+
+221.  Taching and Shell seek costs on indemnity basis.
+
+222.  The Tribunal may make an order for indemnity costs where it is appropriate in the circumstances.  In that respect, the Tribunal can take into account the litigation conduct of the losing party: Order 62, rule 5(1)(e) of RHC.  Examples of where the Court grants an order for indemnity costs are where the proceedings are scandalous or vexatious, or have been conducted maliciously, or for an ulterior motive, or in an oppressive or disproportionate manner, or involved an obviously unsustainable or fabricated claim, though the Court’s discretion is a broad one: Choy Yee Chun v Bond Star Development Ltd [1997] HKLRD 1327 at 1333I-1334H, 1335C-F, 1336G-I, 1337C, 1337F-J.
+
+223.  The General Terms and Conditions at Section B of the Shell-Meyer Agreement stated that:
+
+“6.5 Shell shall also have the right to recover from Buyer all reasonable fees, costs and expenses (including legal, collection and administrative costs and expenses) that may be incurred by Shell in connection with the collection of such past due payment. …”
+
+224.  I accept that it was not Meyer’s intention to use litigation to defer its payment obligations.  It has been paying all of Taching and Shell’s invoices for years until the present dispute arose.  It had paid all the amounts under the unpaid invoices into the Court of First Instance.
+
+225.  I would not say that proportionality in this case should only be viewed by comparing the costs and the amounts of Taching and Shell’s claim. Given the commercial implications for Meyer (ie the amount of over $47 million worth of industrial diesel it used to purchase per year from Taching and Shell and the damages it could claim if breach of the First Conduct Rule is established), there was reason why Meyer wanted to defend.
+
+226.  The greater problem was that Meyer started off with no more than a suspicion arising out of 118 Pairs of List Price Adjustment Notices.  It went on to build its case on surmise upon surmise.  From a pleaded case of collusion between Taching and Shell, Meyer sought, at the interlocutory stage, through its amendment application, redaction application and application for further and better particulars, to fish for information to support its potential claim of collusion involving other market players.
+
+227.  Taching and Shell have put forth their cases at the very first opportunity in the respective PoR and their cases have never shifted.  The lack of agreement or concertation was at the forefront of their defence during Meyer’s interlocutory applications.  After discovery, Meyer pursued its competition defence knowing full well that it could not challenge the authenticity of Shell’s Price Book and List Price Emails.
+
+228.  At the trial, Meyer has failed to show even a prima facie case of agreement or concertation.  Meyer’s approach was still one of fishing through cross-examination.  It attempted to show that Shell did not follow its internal procedure and had some sort of agreement with its resellers.  This attempt was not based on a pleaded case and in fact has been rejected at the Tribunal when Meyer sought further and better particulars of Shell’s RAPoR.
+
+229.  The expert evidence turned out to be wholly unnecessary.
+
+230.  Taching and Shell have been forced, since the grant of unconditional leave to defend to Meyer, to spend 2 more years on an expensive piece of litigation.  Taching and Shell, in particular Shell, are put to the risk of leakage of their confidential business information.
+
+231.  Not only should costs follow the event but I consider it appropriate to order that costs after the close of pleadings should be on indemnity basis with certificates for 2 counsel. I make an order nisi accordingly.
+
+O.   CONCLUSION
+
+232.  To answer the key issues in paragraph 47 above, the Alleged Contravention is not established.
+
+(a)     Absent explicit concertation such as discussions and reciprocal contacts between Taching and Shell, Meyer has failed to show that the similarity in pricing gave rise to no plausible explanation but collusion between Taching and Shell.
+
+(b)     The case of Taching is plausible and the Tribunal accepts it.
+
+(c)     The case of Shell is plausible and the Tribunal accepts it.
+
+233.  It is not necessary, in view of the above findings, to decide whether the Alleged Contravention had the object of preventing, restricting or distorting competition in Hong Kong.
+
+234.  On a nisi basis, I order Meyer to bear the costs of Taching and Shell, such costs in respect of the proceedings after close of pleadings shall be on indemnity basis, to be taxed if not agreed, with certificates for 2 counsel.
+
+235.  I extend my greatest gratitude to counsel for their enlightening arguments and their dedicated efforts in this case.
+
+ 
+
+ 
+
+ 	(Queeny Au-Yeung)
+ 	Deputy President of the Competition Tribunal
+ 
+
+Ms Catrina Lam and Ms Cherry Xu, instructed by Herbert Tsoi & Partners, for Taching, the plaintiff in CTA 1/2018
+
+Ms Eva Sit, SC and Mr Joshua Chan, instructed by Clifford Chance, for Shell, the plaintiff in CTA 2/2018
+
+Mr Kenneth K H Lee, Ms Nana Lui and Mr William Tse, instructed by Robertsons, for Meyer, the defendant in both cases
+
+ 
+
+[1]  ie List Price minus various items.
+
+ 

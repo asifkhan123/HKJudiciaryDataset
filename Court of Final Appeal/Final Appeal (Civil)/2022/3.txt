@@ -1,0 +1,674 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 5 of 2022
+
+[2022] HKCFA 12
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 5 OF 2022 (CIVIL)
+
+(On appeal from CACV No. 358 of 2020)
+
+____________________
+
+BETWEEN	 	 
+ 	FONG CHAK KWAN	Plaintiff (Respondent)
+ 	and	 
+ 	ASCENTIC LIMITED	1st Defendant
+ 	BRENTWOOD INDUSTRIES, INC.	2nd Defendant
+ 	EMPLOYEES COMPENSATION
+ASSISTANCE FUND BOARD	3rd Defendant (Appellant)
+____________________
+
+Before: Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ, Mr Justice Bokhary NPJ and Lord Collins of Mapesbury NPJ
+
+Date of Hearing:  19 May 2022
+
+Date of Judgment:  21 June 2022
+
+ 
+
+________________________
+
+JUDGMENT
+
+_________________________
+
+Mr Justice Ribeiro PJ:
+
+A.    The main issues in this appeal
+
+1.  This case initially involved four parties: the plaintiff/respondent, Mr Fong Chak Kwan, a Hong Kong permanent resident (“Mr Fong”); the 1st defendant, Ascentic Limited, a Hong Kong company (“D1”); the 2nd defendant, Brentwood Industries, Inc, a company incorporated in Pennsylvania in the United States (“D2”); and the 3rd defendant/appellant, the Employees Compensation Assistance Fund Board (“the Board”), which administers the fund (“the Fund”) constituted under the Employees Compensation Assistance Ordinance (“Cap 365”).  The present parties are the Board and Mr Fong.
+
+2.  In the circumstances described below, two issues have arisen between them.  The first concerns the standing of the Board to take over D2’s defence and to challenge the Hong Kong Court’s assumption of jurisdiction against D2; and the second relates to the validity of such assumption of jurisdiction in respect of a tort allegedly committed outside of Hong Kong pursuant to Order 11 rule 1(1)(f) of the Rules of the High Court[1] which establishes a jurisdictional gateway (referred to here and below as “Gateway F”).
+
+3.  It will be apparent that the aforesaid jurisdictional issue arises in the first place between Mr Fong as the plaintiff and D2 as the foreign defendant.  However, since judgment in default was entered against D2, the Board obtained leave to intervene in the proceedings to take over D2’s defence and to challenge the Court’s assumption of jurisdiction as aforesaid.  It did so because it anticipated that the Fund might be liable to provide a statutory relief payment to Mr Fong if his claim against D2, when quantified, should be unsatisfied.  The Board’s jurisdictional challenge below was unsuccessful, Marlene Ng J[2] and the Court of Appeal[3] holding that jurisdiction was properly founded via Gateway F.
+
+4.  The Board’s intervention gives rise to the first issue in this appeal, namely, as to the effect of section 33(d) of Cap 365 on the Fund’s potential liability.  Its provisions are set out in Section E of this judgment.  Because they exclude claims against the Fund in certain cases involving non-Hong Kong employment, the Appeal Committee[4] considered it apposite to examine the standing of the Board to intervene in this litigation (which had not previously been considered).  On 22 February 2022, having sought submissions from the parties, it granted leave to appeal on the first issue, formulated as involving the following question:
+
+“Is section 33(d) of the Employees Compensation Assistance Ordinance (Cap 365) applicable and if so, what are its consequences for the appeal?”
+
+5.  The Appeal Committee also granted the Board leave to appeal on the following question concerning the second issue:
+
+“On a proper interpretation of the phrase ‘the damage was sustained ... within the jurisdiction’ in Gateway F, whether ‘the damage’ is limited to damage directly caused by the alleged tortious act, or whether it extends to indirect or consequential damage (e.g. the pecuniary expenditure or other loss resulting from the direct damage) sustained within the jurisdiction?”
+
+6.  I have had the benefit of reading in draft the judgment of Lord Collins of Mapesbury NPJ which deals with the second issue.  I am respectfully wholly in agreement with his Lordship’s reasoning and conclusions.  In this judgment, I deal with the first issue.
+
+B.    The accident and Mr Fong’s bringing of proceedings in Hong Kong
+
+7.  On 10 October 2014, while Mr Fong was assigned to work as a site service specialist at a sewage treatment works in Ningbo on the Mainland, he accidentally fell more than 4 metres into the trench of a sedimentation tank when a metal plank on which he was walking gave way.[5]  He consequently suffered serious personal injuries.[6]  He returned to Hong Kong four days after the accident and received medical treatment in hospitals here and was granted sick leave for a total of 1,015 days.
+
+8.  On 7 March 2016, Mr Fong commenced the present action.  D1 was served in Hong Kong and a defence was filed.[7]  Then on 17 October 2016, Mr Fong obtained leave to issue and serve a concurrent writ[8] on D2 in Pennsylvania.[9]  Such leave was obtained in reliance on five of the jurisdictional “gateways” in Order 11, namely, (1) that D2 was a necessary or proper party to the action brought against D1 (“Gateway C”);[10] (2) that the claim was brought for breach of a contract made within the jurisdiction (“Gateway D(i)”);[11] or (3) made by an agent within the jurisdiction on behalf of a principal outside (“Gateway D(ii)”) [12] or (4) governed by Hong Kong law (“Gateway D(iii)”);[13] and (5) that the claim was founded on a tort with the damage sustained within the jurisdiction, Gateway F referred to above.[14]
+
+9.  Mr Fong served the concurrent writ on D2 in the United States and, when D2 did not acknowledge service, on 4 July 2017 interlocutory judgment was entered against it for damages to be assessed.[15]  D1 had disputed liability, contending inter alia that D2 and not D1, was Mr Fong’s employer.[16] D1 later settled Mr Fong’s claim without admission of liability, agreeing to pay him certain (relatively modest) sums under a consent order dated 18 May 2018.[17] 
+
+C.    The Board’s intervention and the decisions below
+
+10.  Initially, the Board did not consider the Fund at risk because it knew that D1 had an Employees Compensation insurance policy and that D1 was disputing liability.  It did not have information as to whether D2 was insured but noted that D2 was denying that it was Mr Fong’s employer.[18]  However, on 25 May 2018, the Board learned of Mr Fong’s settlement with D1.  As the Board’s solicitor affirmed, this was seen to have major implications for the Board’s position:
+
+“... (a) the EC Policy had become irrelevant, (b) there was no other insurance policy known to be in force in relation to P/Accident insofar as section 25A of the ECO was concerned, and (c) there was no longer any ‘employer’ to properly contest P’s claim on both issues of liability and quantum, so the Board’s contingent interest in the outcome of the present action became more acute. Indeed, the following issues would affect the Board’s interests: (i) whether there was proper basis for P’s application to serve the [concurrent writ] on D2 out of jurisdiction, and (b) whether Hong Kong was the proper forum for bringing P’s claim against D2.”[19]
+
+11.  Taking the view that there were substantial issues to be contested, the Board submitted that in view of the Fund’s potential liability under Cap 365, it would be appropriate for the Board to intervene in the present action.[20]
+
+12.  Upon being joined as the 3rd defendant, the Board applied to set aside the Order granting Mr Fong leave to serve D2 outside the jurisdiction and also to set aside the default judgment on the grounds of material non-disclosure and to stay the proceedings on the basis of forum non conveniens.   
+
+13.  Marlene Ng J found that Gateways C, D(iii) and F – but not Gateways D(i) and D(ii) – were available to Mr Fong.  She rejected the non-disclosure and forum non conveniens applications.[21]  
+
+14.  On appeal, the Court of Appeal disagreed with Marlene Ng J regarding the availability of Gateway C[22] and Gateway D(iii)[23] but upheld her judgment regarding Gateway F.[24]  It is of present relevance that her Ladyship’s finding that Gateways D(i) and D(ii) were inapplicable was maintained.  This is a point to which I shall return.[25]  The Court of Appeal upheld Marlene Ng J’s rejection of the non-disclosure[26] and forum non conveniens[27] applications and they form no part of the present appeal. 
+
+D.    The issue of the Board’s standing
+
+15.  Cap 365 has as one of its main objects the making of relief payments to eligible persons in relation to damages awarded by a Hong Kong court of competent jurisdiction for employment-related injuries which they have been unable to recover despite reasonable enforcement efforts.  Thus, section 20A of Cap 365 relevantly states:
+
+“(1) An eligible person who is unable to recover from an employer payment of an amount of damages for which the employer is liable may apply for a relief payment of that amount from the Fund.”
+
+(2) For the purposes of this section, an employer is not to be regarded as liable for the payment of an amount of damages unless the amount is payable pursuant to a judgment or order of a court of competent jurisdiction in Hong Kong.”
+
+16.  Similar provision is made regarding unsatisfied awards of employees’ compensation under the Employees’ Compensation Ordinance (“Cap 282”).[28]
+
+17.  An “eligible person” is, for present purposes, an “injured employee”; and a “relief payment” is a payment made from the Fund pursuant to an application under section 20A.[29] The amount of such a relief payment is the amount of common law damages which the employer is liable to pay in respect of personal injury suffered by the employee in an accident arising out of and in the course of his employment, subject to certain reductions.[30]
+
+18.  Cap 365 enables the Board, if faced with a contingent liability regarding a relief payment, to apply to intervene in existing proceedings, materially providing as follows:
+
+“If proceedings have been initiated to claim compensation or damages ... (a) where no policy of insurance is known to be in force at the time of the accident to which the proceedings relate, the Board may apply to the court to join in the proceedings as a party in accordance with Order 15, rule 6 of the Rules of the High Court ... to take over the defence as if it were the employer in the proceedings if— … (v) at any time when the employer fails to attend the hearing, leaving the claim uncontested ...”[31]
+
+19.  As we have seen, it was pursuant to those provisions that the Board, considering the Fund to be at risk of a claim by Mr Fong regarding unpaid damages awarded against D2, obtained leave to be joined as a party to take over the defence as if it were Mr Fong’s employer.
+
+20.  It is in this context that the issue of the Board’s standing arises.  The questions are whether, on its true construction and on the facts established, section 33(d) applies to exclude potential claims by Mr Fong against the Fund; and if so, how such exclusion affects the Board’s intervention in the proceedings and what the consequences should be for the outcome of this appeal.
+
+E.    The context and purpose of section 33(d)
+
+21.  Cap 365, section 33(d) provides:
+
+“No claim lies under this Part[32] in respect of—
+
+(d) any compensation or damages for injury to an employee who has been engaged outside Hong Kong by an employer who—
+
+(i) is outside Hong Kong; and
+
+(ii) has no place of business in Hong Kong (and whether or not the employer’s business is for gain).”
+
+22.  Section 33(d) thus excludes claims against the Fund involving injury to an employee (i) “who has been engaged outside Hong Kong” by an employer (ii) who “is outside Hong Kong” and (iii) who has “no place of business in Hong Kong”.  They are features which locate the employment relationship outside of Hong Kong, denying access to the Fund where the three conditions apply.
+
+23.  The underlying policy is readily discernible when one considers how the Fund is financed and its purpose. The relief payments made under Cap 365 are funded by a portion of the levies collected under the Employees’ Compensation Insurance Levies Ordinance (“Cap 411”).[33]  Cap 411 imposes a levy on each premium payable by employers under insurance policies issued for the purposes of Cap 282.[34]  Such insurance, taken out by employers against liability for employees’ compensation[35] or common law damages[36] in respect of injuries to their employees in accidents arising out of and in the course of employment, is compulsory.[37] 
+
+24.  Thus, Cap 282, section 40(1) provides that “no employer shall employ any employee in any employment unless there is in force in relation to such employee a policy of insurance issued by an insurer” for a specified amount “in respect of the liability of the employer”.[38]  Cap 282, section 2 relevantly defines “employee” as “any person who has ... entered into or works under a contract of service or apprenticeship with an employer in any employment”, the focus being on the existence of a contract of employment.
+
+25.  The Fund accordingly represents a locally constituted monetary pool with the object of providing relief to injured employees who have been unable to recover compensation or damages awarded against their employers by Hong Kong courts of competent jurisdiction. 
+
+26.  That is not to say that accidents occurring abroad are all excluded.  Cap 282, section 30B(2) enables such a claim to be made (potentially leading to a relief payment claim under Cap 365), provided that the employment relationship is based in Hong Kong:
+
+“This Ordinance also applies where personal injury by accident arising out of and in the course of employment is caused to an employee outside Hong Kong where the employee’s contract of employment is entered into in Hong Kong with an employer who is a person carrying on business in Hong Kong.”
+
+Thus an employee who is injured when sent to do a job abroad is covered only if his or her contract of employment was entered into in Hong Kong with an employer carrying on business here.
+
+27.  In cases where an employer, carrying on business abroad, is prepared to submit to the jurisdiction of the Hong Kong court in relation to a claim based on an accident which occurred abroad, Cap 282, section 30B(5) lays down as a necessary condition of its application the requirement that the employee was “recruited or engaged” in Hong Kong:
+
+“If an employer who is a person carrying on business outside Hong Kong submits or has agreed to submit to the jurisdiction of the Court, then, notwithstanding that the accident causing the personal injury occurred outside Hong Kong, this Ordinance shall apply to employees within the meaning of this Ordinance who have been recruited or engaged in Hong Kong.”
+
+28.  It is noteworthy that Cap 282 makes it compulsory for employers who enter into employment contracts with employees in Hong Kong to acquire insurance against liability for accidents occurring abroad as catered for by the abovementioned provisions of section 30B. Thus, Cap 282, section 40(1A) states: “Subsection (1) does not require an employer to obtain insurance for any liability he may have in respect of damages awarded by a court outside Hong Kong to an employee referred to in section 30B.”  By necessary implication, if the employee is employed in Hong Kong, section 40(1) in combination with section 2 require the employer to have insurance cover in respect of liability for damages awarded by a Hong Kong court.  This clearly covers section 30B(2) cases and would also catch section 30B(5) cases where the employee was contractually “engaged” (as opposed to non-contractually “recruited”) in Hong Kong.  The Fund’s liability to make compensation or relief payments is therefore premised on the relevant employer having been compulsorily required to insure against his own liability and thus required to contribute the levy financing the Fund.
+
+29.  The statutory intention of confining access to the Fund to Hong Kong-based employment relationships is also evident from the legislative history of section 33(d).  Those provisions were introduced as one measure in a raft of legislative changes (described as a “rescue package”[39]) introduced by the Employees Compensation Assistance (Amendment) Bill 2002 in response to a financial crisis then faced by the Fund involving recurrent deficits due to various causes.[40]
+
+30.  It follows that the provisions of section 33(d) are intended to be construed restrictively, recognising that they were introduced to confine the Fund’s liability to claims arising out of Hong Kong-based employment relationships.
+
+F.    Construction of section 33(d)
+
+31.  In the present case, it is uncontroversial that two of the three elements of section 33(d), namely, that the employer (i) “is outside Hong Kong” and (ii) “has no place of business in Hong Kong” are satisfied.  There is no dispute as to the construction of those words nor as to the facts.  D2 is a Pennsylvania company and therefore “outside Hong Kong”.  It is also clear that D2 had no place of business in Hong Kong.  The Judge found that “D2 had no business, presence or assets in Hong Kong”[41] and the Court of Appeal likewise noted that “[D2] was a US-based company with no presence in Hong Kong”.[42]
+
+32.  However, the parties differ as to the true construction and applicability of the element which excludes claims for injury to “an employee who has been engaged outside Hong Kong by an employer”.  More particularly, they differ as to what “engaged” should be held to mean.
+
+33.  Mr Horace Wong SC, appearing for the Board,[43] rightly recognises that “engaged” has been given various meanings depending on the context.  It is unnecessary to list the cases cited.  He submits that for present purposes, the word should be interpreted as referring either (i) to the making of the contract of employment or (ii) the provision of services under that contract (or as he put it at the hearing, “providing the employee with work”).  He contends that on either basis, upon the findings made by the Judge, this third element is also satisfied, making section 33(d) applicable and thus excluding claims against the Fund.
+
+34.  Ms Audrey Eu SC, appearing for Mr Fong,[44] relies principally on the Court of Appeal’s decision in Chan Sze Yuen v Tin Wo Engineering Co Ltd,[45] arguing that “engaged” in the present context bears a different meaning from “employed” and should be taken to be essentially the same as “recruited” and so treated as including “the preparatory steps leading to the conclusion of the contract of employment.”[46] She seeks to argue that Mr Fong was “engaged” in Hong Kong when he signed the agreement at D1’s premises, even though the contract with D2 was held not to have come into existence until D2’s subsequent acceptance in the United States.
+
+35.  I am unable to accept Ms Eu SC’s construction.  Nor do I accept the second limb of Mr Wong SC’s submission suggesting that “engaged” should be interpreted to refer to the actual provision of services under the employment contract.  In my view, in the present context, a person is “engaged” by an employer when that person enters into the contract of employment whereby he or she is hired as an employee.  If that occurs outside of Hong Kong, the third element of section 33(d) is satisfied and, given satisfaction of the other two elements, the Fund’s liability excluded.
+
+36.  Chan Sze Yuen,[47] relied on by Ms Eu SC, was a case concerned with Cap 282, section 30B(5)[48] involving a non-Hong Kong employer who submitted to the local jurisdiction[49] in respect of a personal injury claim arising out of an accident occurring abroad.   The claimant worked as a steel binder on a building construction site in Macau where he suffered a leg injury.  The Court of Appeal had to consider whether he had been “recruited or engaged in Hong Kong” so as to make Cap 282 applicable.  The main focus of the judgment is on the meaning of “recruited ... in Hong Kong”. 
+
+37.  Thus Chu JA, writing for the Court of Appeal, noted that:
+
+“The trial judge found that at the time the applicant set off to Macau, his employment to work at the Site had already been confirmed and that he was not going to Macau merely to see whether he would be employed. Applying the ordinary English meaning of the word ‘recruitment’, he held that the applicant was recruited or engaged in Hong Kong and that section 30B(5) of the Ordinance applies.”[50]
+
+“... when he set off for Macau he was certain that he would be working at the Site. On this basis, the trial judge concluded that the applicant had been recruited in Hong Kong. In my view, on the evidence as accepted, there is ample room for the trial judge’s conclusion that the applicant was recruited or engaged in Hong Kong.”[51]
+
+38.  Her Ladyship held that “recruited” has a different meaning from “employed”.[52]  I respectfully agree.  The claimant was properly held to have been “recruited” in Hong Kong by a fellow worker who had suggested, on behalf of the foreman in Macau, that they should take up a job at the Macau building site, and he agreed.  He evidently did not enter into any contract of employment until he arrived at the site (and so would not have been “engaged in Hong Kong” in the sense I have suggested).  But the Court of Appeal found that the Judge had ample evidence to hold that he had been “recruited” here, satisfying the requirement that he was “recruited or engaged” in Hong Kong.  A person can plainly be recruited here (eg, by a recruiting agent) and then be later engaged by the employer when entering into the contract abroad.  Such pre-engagement “recruitment” in Chan Sze Yuen was sufficient to trigger section 30B(5) and the Court of Appeal’s construction is thus consistent with “engaged” being taken to mean, in contrast, “contractually hired as an employee”.
+
+39.  Chan Sze Yuen therefore does not support Ms Eu SC’s proposition that “engaged” should be treated as essentially the same as “recruited” so as to extend to “preparatory steps leading to the conclusion of the contract of employment”.  Indeed, that decision runs counter to Counsel’s submission.  Section 30B(5) applies to employees “within the meaning of this Ordinance who have been recruited or engaged in Hong Kong”.  This refers to an employee who has entered into a contract of employment (and thus is an employee within the meaning of Cap 282) and had either been “recruited” or “engaged” in Hong Kong.  As the Court of Appeal in Chan Sze Yuen held, the two words should be taken to mean two different things. As Bennion puts it:
+
+“… there is a presumption that where different words are used in an Act they have different meanings. So if a word is capable of bearing more than one meaning it is unlikely to be interpreted as having the same meaning as a different word in the same legislation.”[53]
+
+And as the Court held in HKSAR v Cheung Wai Kwong,[54] inclusion of two alternative activities (“driving” or “using” a vehicle) indicates that the Legislature “recognised and intended a distinction between the two activities”.
+
+40.  It is clear that Caps 282, 411 and 365 are in pari materia, for mingpart of the same statutory relief scheme and must be read together as a coherent whole, assuming uniformity in the use of language.[55]  Section 33(d) does not mention “recruited” but refers to an employee “engaged outside Hong Kong”.  Since 30B(5) uses “recruited” and “engaged” with distinct meanings, “engaged” in section 33(d) cannot coherently be equated with “recruited” within that scheme. 
+
+41.  I am indebted to Lam PJ for, and gratefully adopt, his Lordship’s observation as to the difference between the two terms evident in the Chinese version of section 30B(5), as follows:
+
+In the Chinese version of Section 30B(5), the phrase “recruited or engaged” is rendered in Chinese as  “招募或聘用”.  As a matter of Chinese language, “招募” is a different concept from “聘用”.  In the Chinese version, like the English version, the two expressions are put together by a conjunction “或” (meaning “or”).  “招募” (recruited) refers to the initial process by which an employer searches for suitable candidates for employment and does not involve the making of any specific decision to employ a particular person.   On the other hand, “聘用” (engaged) refers to a definite decision to employ a specific person and it is at the end stage in the employment process. Whilst as a matter of English usage the word “engaged”, in a context other than the way it is being used in the phrase “recruited or engaged” under section 30B(5), may sometimes be capable of being interpreted broadly to cover the whole process starting from recruitment to the decision to employ a person, it is not so for the Chinese expression “聘用”.  For such broader concept of “engaged”,  the appropriate Chinese rendering would be  “招聘”.  “聘用” carries a narrower connotation and involves the specific engagement of a particular candidate as an employee.  When the English version is construed together with the Chinese version it is clear that “engaged” does not mean “recruited” in section 30B(5).     
+
+42.  For all the aforesaid reasons, I cannot accept Ms Eu SC’s construction of section 33(d).
+
+43.  I do not agree with the second limb of Mr Wong SC’s construction because section 33(d) refers to an employee “who has been engaged outside Hong Kong by an employer” which naturally connotes being hired as an employee.  The provision is not addressing a situation where an employee is “engaged in” or “engaged on” or “provided with” work of some kind.  The distinction arises simply as a matter of language.  Thus, for instance, in Benninga (Mitcham) Ltd v Bijstra,[56] in an entirely different context, MacKinnon LJ stated:
+
+“An employer ‘engages’ a servant when he makes an agreement with him for his services. A workman is ‘engaged’ on work when he is actually carrying it out.”
+
+44.  Moreover, the words “an employee who has been engaged outside Hong Kong” refer to a completed past event.  They refer to the point in time when the parties entered into a contract of employment, commencing their employment relationship.  
+
+45.  Construction of the relevant phrase to mean “an employee who has entered into a contract of employment outside Hong Kong” is reinforced when section 33(d) is read together and contrasted with section 30B(2) of Cap 282.  That provision, as we have seen, states:
+
+“This Ordinance also applies where personal injury by accident arising out of and in the course of employment is caused to an employee outside Hong Kong where the employee’s contract of employment is entered into in Hong Kong with an employer who is a person carrying on business in Hong Kong.” (Italics supplied)
+
+46.  Section 30B(2) presents a mirror-image of section 33(d).  While section 33(d) sets out three elements which operate to exclude claims from Cap 365, section 30B(2) sets out matching elements which, in reverse, function to include claims within Cap 282 (which therefore qualify for potential relief payment claims under Cap 365). 
+
+47.  Thus, section 33(d) excludes Cap 365 claims which involve an injury to an employee (i) “who has been engaged outside Hong Kong” by an employer (ii) who “is outside Hong Kong” and (iii) who has “no place of business in Hong Kong”; while section 30B(2) permits claims where the injury is caused to an employee outside Hong Kong where (a) “the employee’s contract of employment is entered into in Hong Kong” (b) “with an employer who is a person carrying on business in Hong Kong”. 
+
+48.  The inclusionary element (a) [an employee whose “contract of employment is entered into in Hong Kong”] is the obverse of the exclusionary element (i) [an employee “engaged outside Hong Kong”]; and element (b) [“an employer who is a person carrying on business in Hong Kong”] is the obverse of elements (ii) and (iii) [an employer who is “outside Hong Kong” and has “no place of business in Hong Kong”].  This strongly suggests that construed contextually, “engaged outside Hong Kong” is, like its mirror-image, also concerned with entering into a contract of employment.
+
+G.    Application of section 33(d)
+
+49.  As previously mentioned the two elements of section 33(d) concerning the employer’s absence from Hong Kong are plainly satisfied.  Since section 33(d) was not adverted to, the third element – whether Mr Fong had been “been engaged outside Hong Kong” – was not in terms addressed by the Courts below.  However, in dealing with the jurisdictional avenues involving Gateway D, the Judge, upheld by the Court of Appeal, made findings directly bearing on whether Mr Fong had entered into the employment contract with D2 outside Hong Kong and hence on the applicability of the third element of section 33(d). 
+
+50.  Before the Judge, Mr Fong sought to bring himself within Gateway D(i) under O 11 r 1(1)(d)(i) which materially provides:
+
+“... service of a writ out of the jurisdiction is permissible with the leave of the Court if in the action begun by the writ ... (d) the claim is brought to ... recover damages ... in respect of the breach of a contract, being ... a contract which (i) was made within the jurisdiction ...”
+
+51.  The Judge analysed in detail the evidence relating to the making of Mr Fong’s contract of employment[57] and concluded that Mr Fong “would have real difficulty to show a good arguable case that the Employment Contract was concluded in Hong Kong”.[58]  Applying the postal rule, she held that the contract had been concluded in the United States and accordingly that Gateway D(i) was not open to Mr Fong.[59]  That decision was upheld by the Court of Appeal.[60] 
+
+52.  Mr Fong also relied on Gateway D(ii) under O 11 r 1(1)(d)(ii) which provides:
+
+“... service of a writ out of the jurisdiction is permissible with the leave of the Court if in the action begun by the writ ... (d) the claim is brought to ... recover damages ... in respect of the breach of a contract, being ... a contract which (ii) was made by or through an agent trading or residing within the jurisdiction on behalf of a principal trading or residing out of the jurisdiction.”
+
+53.  The Judge concluded that there was no basis for finding an agency and that this gateway was also not available.[61]  The conclusion that the contract had been made in the United States – and not in Hong Kong – was therefore maintained.  On my construction of section 33(d), this establishes that Mr Fong “had been engaged outside Hong Kong by” D2 as his employer.
+
+54.  The Judge did find that there was a good arguable case that the contract was governed by Hong Kong law and that Gateway D(iii) was thus available.  But that was not a finding relevant to section 33(d).  In any event, the Court of Appeal reversed her Ladyship on this point and held that on the evidence, Mr Fong had not made out a good arguable case for the availability of Gateway D(iii).[62]  That decision is not under appeal.
+
+55.  It has therefore been decided concurrently by the Courts below that there is not even a good arguable case either that Mr Fong’s contract of employment had been made within the jurisdiction, or made by or through an agent trading or residing within the jurisdiction.  The inescapable conclusion on those findings, albeit made in the context of Gateway D, is that the third element of section 33(d) is satisfied and that Mr Fong had been “engaged outside Hong Kong”.
+
+56.  Ms Eu SC submitted that since the section 33(d) point was not taken below, the well-established principles in Flywin Co Ltd v Strong & Associates Ltd[63] should be applied to give Mr Fong the opportunity of filing further evidence and making further arguments.  However, when asked what evidence might be available, it was clear that Ms Eu SC was not suggesting that there was any further evidence to be had concerning the place where the contract of employment was made.  She suggested that, assuming the correctness of her construction of “engaged” as encompassing pre-contractual conduct equated with “recruitment”, there might be evidence of a course of negotiations in Hong Kong which resulted in Mr Fong signing the written contract which was then concluded in the United States.  The relevance, if any, of such evidence is thus wholly dependent on acceptance of Ms Eu SC’s construction of “engaged” as embracing such pre-contractual conduct.  However, as previously indicated, I do not accept that construction. 
+
+H.    The consequences for this appeal
+
+57.  For the foregoing reasons, I conclude that section 33(d) would preclude Mr Fong from making a successful claim against the Fund for a relief payment.  The Fund is and was therefore not at risk of any claim by him.  Cap 365, section 25A caters for the Board’s intervention only if it can properly apply to be joined as a party in accordance with O 15 r 6.[64]  Since no question or issue connected with any potential claim for relief against the Fund arises as between the Board and Mr Fong, the Board was not properly joined and it has no standing to challenge the Court’s assumption of jurisdiction over D2.
+
+58.  Ms Eu SC invited the Court to defer coming to the aforesaid decision.  She submitted that, assuming that Mr Fong were to succeed on the Gateway F argument so that the default judgment against D2 remains in place, he should be allowed to proceed to an assessment of damages and then to seek to enforce the judgment in the United States (in order to satisfy the requirements of making reasonable enforcement efforts under Cap 365, section 20A(3)) and, if that proved unsuccessful, to claim a relief payment from the Fund; and if that was refused, to commence proceedings by writ against the Board under Cap 365, section 24.  On the premise that Mr Fong succeeds on the Gateway F issue, there is of course nothing to stop him proceeding to an assessment of damages and seeking to enforce the judgment in the United States (or indeed elsewhere, such as on the Mainland), if he is so advised.  However, if the ultimate object is to make a claim against the Fund, I do not think it would be beneficial to the parties or in the interests of justice to expend the additional time, effort and resources in pursuing the course of action outlined by Ms Eu SC where the outcome is now clear.
+
+59.  Accordingly, on the ground that the Board lacks standing to challenge the assumption of jurisdiction via Gateway F, I would dismiss the Board’s appeal.    
+
+Mr Justice Fok PJ:
+
+60.  I agree with the judgment of Mr Justice Ribeiro PJ on the first issue and with that of Lord Collins of Mapesbury NPJ on the second issue.
+
+Mr Justice Lam PJ:
+
+61.  I agree that the appeal should be dismissed for the reasons set out in the judgments of Mr Justice Ribeiro PJ and Lord Collins of Mapesbury NPJ.
+
+Mr Justice Bokhary NPJ:
+
+62.  I agree with Mr Justice Ribeiro PJ and with Lord Collins of Mapesbury NPJ.  Accordingly, I would dismiss this appeal.  There is nothing I wish to add on the second issue.  On the first issue, I would add simply this.  If section 33(d) of the Employees Compensation Assistance Ordinance (Cap 365) stood alone, I might have construed the word “engaged” in it to mean “recruited”.  But it does not stand alone.  It has to be read together with section 30B(5) of the Employees’ Compensation Ordinance (Cap 282) in which the expression “recruited or engaged” is used.  These two are statutes on closely related matters.  That being so, the presumption is that they similarly use different words to mean different things.  Such a presumption is rebuttable.  But rebutting it is an uphill task.  And the gradient is particularly steep where two different words are contrasted by having “or” inserted between them.  There is nothing in the circumstances of the present case capable of propelling the “recruited” construction up so steep a gradient.
+
+63.  The second issue, which the Board got itself joined to argue, has been answered against the Board. In so far as the first issue has been answered in the Board’s favour, the answer means that the Board was not on risk, had no standing and should not have been joined.
+
+Lord Collins of Mapesbury NPJ:
+
+64.  I agree, in common with the other members of this Court, with Mr Justice Ribeiro PJ’s judgment on the first issue. In this judgment, I deal with the second issue, whether the default judgment against the second defendant should be set aside on the ground that the case did not come within the tort gateway in the Rules of the High Court, Order 11, r. 1(1)(f).
+
+65.  By Order 11, r. 1(1) “... service of a writ out of the jurisdiction is permissible with the leave of the Court if in the action begun by the writ – ... (f) the claim is founded on a tort and the damage was sustained, or resulted from an act committed, within the jurisdiction” (“Gateway F”).
+
+66.  The Statement of Claim alleged that the plaintiff’s fall at the sewage treatment plant in Ningbo on the Mainland was due to (inter alia) the negligence and/or breach of common law duty of care of the second defendant, and that as a result of the accident he sustained serious injuries to his left shoulder, left leg, and his head, thereby causing defect in his vision. He was granted leave ex parte to serve the writ out of the jurisdiction on the second defendant in the United States under (inter alia)[65] Gateway F on the basis that the negligence had been committed in Hong Kong. But after an interlocutory judgment had been entered against the second defendant and the Board had intervened, he made an affirmation that in any event Gateway F was satisfied because he had sustained and continued to sustain damage within Hong Kong.[66] His revised statement of damages claimed damages for pain, suffering and loss of amenities, loss of earnings, loss of earnings capacity, and special damages for medical and travel expenses.
+
+The judgments below
+
+67.  By the time of the hearing before Marlene Ng J, it was accepted on behalf of the plaintiff that the tort had not been committed in Hong Kong, and it was conceded on his behalf that he had suffered direct damage (i.e. immediate bodily injuries) as a result of the accident at the factory and therefore that the cause of action in negligence had been completed on the Mainland, and that he experienced only indirect damage in Hong Kong.[67]
+
+68.  After a very full analysis of the authorities in Hong Kong, England, Australia and Canada, including in particular Brownlie v Four Seasons Holdings Inc,[68] the judge, in line with the majority judgments of Lady Hale and Lord Wilson in that decision, and being unpersuaded by the minority view of Lord Sumption, decided that (a) the expression “damage” in Gateway F was not limited to damage which completed the cause of action; (b) the expression was not limited to direct damage as opposed to indirect/consequential damage; (c) where damage was felt in more than one jurisdiction, indirect/consequential damage qualified under Gateway F if it was of some significance; (d) the expression was to be given its ordinary and natural meaning, which embraced indirect/consequential damage; and (e) the consequences of a wide interpretation were sufficiently addressed by the discretion as to forum conveniens.
+
+69.  The Court of Appeal (Cheung and Yuen JJA), after an equally full analysis of the authorities (including the decision of the English Court of Appeal in Brownlie v FS Cairo (Nile Plaza) LLC[69]in the second phase of the claims by Lady Brownlie, which are elaborated below) dismissed the appeal. It followed its earlier decision in Dynasty Line Ltd v Sukamto Sia[70]that Gateway F applied if some significant damage had been sustained in Hong Kong. The Court of Appeal, like the judge, held that the reasoning of the majority in Brownlie v Four Seasons Holdings Inc was to be preferred to that of the minority.Damage included all of the heads of damage which might be suffered as a result of tortious conduct, including all the detriment, physical, financial and social which the plaintiff suffered as a result. The natural and ordinary meaning of Gateway F was clear, and there was no basis for drawing a distinction between direct and indirect damage. Nor was there any basis for applying the European jurisprudence on the Brussels Convention and Brussels I Regulations. Finally, the expression “the damage” in Gateway F did not mean that all the damage, or the damage which completed the cause of action, had to be sustained in Hong Kong.
+
+70.  Both Marlene Ng J and the Court of Appeal found that the discretion should be exercised in favour of the Hong Kong court, and leave to appeal was not sought from that finding.
+
+Arguments on appeal
+
+71.  For the Board it was argued that: (1) only direct damage satisfies Gateway F; (2) the significance of the damage is not determinative, since both direct damage and indirect damage can be significant or insignificant; (3) the critical consideration in interpreting Gateway F is not the ordinary or natural meaning, but its context and purpose; (4) the gateways represent the considered judgment of the legislature as to the classes of case in which a foreign defendant may be brought before the Hong Kong court, and their purpose is to identify a sufficient connection to justify the exercise of extra-territorial jurisdiction; (5) conferring jurisdiction on the place where the pecuniary consequences are felt, or where the pain and suffering are experienced, would in effect confer jurisdiction on the courts of the plaintiff’s domicile, which has never been a basis of jurisdiction in Hong Kong; (6) such a basis of jurisdiction would become portable, since a plaintiff could create a link with Hong Kong by moving there, and effectively create a form of universal jurisdiction; (7) it is no answer to say that excesses could be tempered by applying forum conveniens principles, since the existence of jurisdiction and its exercise are different matters, and serve different purposes; (8) nor is it an answer that the distinction between direct and indirect damage is elusive or meaningless, since the distinction is well-recognised and its application is straightforward.
+
+72.  For the plaintiff it was argued that: (1) the natural and ordinary meaning of the expression “the damage” is consistent with its context and purpose; (2) the wide meaning has worked well, whereas the narrow meaning is artificial and untested; (3) the jurisdiction would not be an exorbitant one; (4) it would be inconsistent with the purpose of the rule to interpret “damage” so as to in effect limit it to the place of commission of the tort; (5) the concept of indirect damage is not known to Hong Kong law, and a distinction between direct and indirect damage would be difficult to draw; (6) if the connection with the forum is not substantial, its weight can be balanced at the discretionary stage, which is an appropriate and effective mechanism to prevent acceptance of jurisdiction where the connection is casual or adventitious.  
+
+73.  Since the judgments below, and this judgment also, to a large extent hinge on the applicability of the recent decisions in England, and in particular the two decisions of the UK Supreme Court in the Brownlie litigation, it is necessary to set out the history of the relevant provisions, to highlight the differences between the current rules in England and those in Hong Kong, and then, after a brief survey of decisions in Hong Kong and other jurisdictions, to consider whether the majority or the minority views in the Brownlie cases are to be preferred in Hong Kong.
+
+The evolution of Gateway F and cross-border torts
+
+74.  Prior to the introduction of the Rules of Court in the Supreme Court of Judicature Act 1873, jurisdiction over defendants abroad was governed by the Common Law Procedure Act 1852, sections 18 and 19, the effect of which was that service on a foreigner abroad was permissible where the cause of action “arose within the jurisdiction.” In Distillers Co Ltd v Thompson,[71]  where the plaintiff had been born in New South Wales with severe disability as a result of his mother having taken the drug thalidomide, the Privy Council on an appeal from New South Wales (which retained the nineteenth century legislation) adopted the test of the place where in substance the act or omission occurred which gave the plaintiff his cause of action: since the essence of the complaint was failure to warn his mother in New South Wales of the danger of the product (rather than the faulty manufacture of the product in England), the cause of action was held to have arisen in New South Wales.
+
+75.  The Rules of Court scheduled to the Supreme Court of Judicature Act 1873 provided in Rule 6 that service out of the jurisdiction could be authorised “in a case in which the cause of action has arisen within the jurisdiction, or is properly cognizable against a defendant within the jurisdiction.” Order XI of the Rules of Court scheduled to the Supreme Court of Judicature Act 1875, permitted service out of the jurisdiction in relation to “any act or thing ... for which damages are sought to be recovered was or is to be done or is situate within the jurisdiction,” and in Bree v Marescaux[72]it was held that this did not extend to permit service abroad where only the damage had occurred in England: the plaintiff had alleged that he had been dismissed in England as a result of a false allegation of misconduct on a voyage to Jamaica.
+
+76.  This head of jurisdiction was not included in the Rules of the Supreme Court 1883, and it was held that service out of the jurisdiction was not generally available in tort actions unless they came under one of the specific heads of jurisdiction, such as necessary or proper party: Lenders v Anderson;[73] Croft v King;[74] Williams v Cartwright.[75]
+
+77.  But a specific tort head of jurisdiction was introduced in 1920 as RSC Order 11, r. 1(1)(ee), to cover cases where “the action is founded on a tort committed within the jurisdiction.” In George Monro, Ltd v American Cyanamid and Chemical Corp[76]the English distributor of a pest control product supplied by a US manufacturer sold the product to Boots Cash Chemists, which in turn sold it to a local council, which contracted to remove rats from a farm. The council was held liable to the farmer for negligence and the English distributor was ordered to contribute. The English distributor failed in its attempt to sue the US manufacturer in England. Goddard LJ seems to have thought that the tort jurisdiction did not extend to a case where the wrongful act was committed out of the jurisdiction but the damage resulting took place within the jurisdiction, and Du Parcq LJ asked: “Where was the wrongful act, from which the damage flows, in fact done? The question is not where was the damage suffered, even though damage may be of the gist of the action.”[77]
+
+78.  The principle in Distillers Co Ltd v Thompson was subsequently applied to the tort gateway in Order 11, r. 1(1), so that in the case of negligent and fraudulent misrepresentation, where the negligent or fraudulent statement was communicated from one country to another, the torts were held to have been committed where the statement was received and acted upon: Multinational Gas Co v Multinational Gas Services Ltd;[78] The Albaforth.[79]
+
+79.  With effect from 1987 the rule in England was changed to cover cases where “the claim is founded on a tort and the damage was sustained, or resulted from an act committed, within the jurisdiction.” The change was made to bring cases outside the sphere of the Brussels Convention into line, at least broadly, with the decision of the European Court in Bier v Mines de Potasse d’Alsace SA[80]that the expression “place where the harmful event occurred” in the Brussels Convention, Article 5(3), was intended to cover both the place where the damage occurred and the place of the event giving rise to it. Subsequently, in a series of cases on this provision (and its successors in the Brussels I Regulation and recast Brussels I Regulation), not all of which are easy to reconcile, the European Court decided that for this purpose damage did not include indirect or consequential  financial loss: e.g. Dumez France SA v Hessische Landesbank;[81] Marinari v Lloyds Bank Plc;[82] Universal Music International Holding BV v Schilling;[83] contrast Kolassa v Barclays Bank Plc.[84]
+
+80.  In England, since the introduction of the Civil Procedure Rules 1998 the tort head of jurisdiction is to be found in what is now Practice Direction 6B, para 3.1(9), as: “A claim is made in tort where –(a) damage was sustained ... within the jurisdiction; or (b) damage which has been or will be sustained results from an act committed ... within the jurisdiction.”[85] A change had been made in 2000[86] from “the damage was sustained” to “damage was sustained” to bring the rule into line with the decision of the English Court of Appeal in Metall und Rohstoff AG v Donaldson Lufkin & Jenrette Inc,[87] that it was not necessary that all the damage should have been sustained within the jurisdiction, provided that damage has resulted from substantial and efficacious acts committed within the jurisdiction (whether or not other substantial and efficacious acts have been committed elsewhere).
+
+Differences between Hong Kong and English rules
+
+81.  The present Rules of the High Court were introduced in 1988, and included the current version of Gateway F as it had by then been amended in England. The relevant differences for present purposes between the English rule and the Hong Kong rule are as follows.
+
+82.  First, the English rule now refers to a claim “made in tort” whereas the Hong Kong rule continues to refer to a claim “founded on a tort.” No doubt the English formulation was intended to modernise the language as part of the reforms in the Civil Procedure Rules which replaced the Rules of the Supreme Court, although the wording in Hong Kong continues to be correct as a matter of legal terminology, since claims are not “made” in tort.
+
+83.  Second, the English rule no longer refers to “the damage,” as it did between 1987 and 2000, but now refers to “damage” simpliciter to take account of the decision in the Metall und Rohstoff AG case, above, whereas the Hong Kong rule remains unchanged.
+
+84.  A further difference between the Hong Kong rules and the English rules is that the Rules of High Court in Hong Kong provide in Order 11, r. 4(2) that leave to serve out of the jurisdiction shall not be granted “unless it shall be made sufficiently to appear to the Court that the case is a proper one for service out of the jurisdiction under this Order.” This is the same as the former RSC Order 11, r. 4(2), which was not reproduced in the Civil Procedure Rules. The English equivalent, introduced in 2000,[88] is now CPR r. 6.37(3): “The court will not give permission unless satisfied that England and Wales is the proper place in which to bring the claim.”
+
+The authorities in Hong Kong and other jurisdictions
+
+85.  The important issue raised on this part of the appeal is one which has been the subject of debate and decision in Hong Kong and elsewhere.
+
+Hong Kong: the decision in Dynasty Line Ltd v Sukamto Sia[89]
+
+86.  The effect of this decision, which supports the plaintiff’s case, is that no enquiry into the place where the cause of action is complete is necessary. The allegation was that a BVI company had been defrauded by its Singaporean shareholders, who had caused it to purchase shares in a Hong Kong listed company and procured it to hand over the shares to them before the vendors had been paid; the shareholders had then pledged the shares to financial institutions as security for loans, and the financial institutions sold the shares in diminution of the indebtedness. The original vendors of the shares sued the plaintiff BVI company for the price of shares which it should have, but no longer, owned, and the plaintiff sued the alleged fraudsters in Hong Kong. One of the defendants argued that the damage was sustained when the shares were first pledged, and there was a dispute about where that had occurred.  It was held (applying Metall und Rohstoff AG v Donaldson Lufkin & Jenrette Inc, above) that, in considering whether damage was sustained in Hong Kong, it was sufficient if some significant damage had occurred in Hong Kong, and Gateway F applied because it had been pleaded that significant damage had been sustained in Hong Kong when the shares in the Hong Kong listed company were sold in Hong Kong by the pledgee financial institutions.[90]
+
+Australia
+
+87.  The Australian authorities favour the plaintiff’s approach. In New South Wales the rule (since repealed) that process may be served outside the State “where the proceedings are founded on, or are for the recovery of, damage suffered wholly or partly in the State caused by a tortious act or omission wherever occurring” was held to apply where the initial injury and damage occurred in Queensland, but the plaintiff suffered economic loss through not being able to carry out his occupation. The damage may be indirect, or consequential whether by way of bodily injury or financial or economic loss (Challenor v Douglas[91]) and is to be contrasted with the element necessary to complete a cause of action, and includes all the detriment, physical, financial and social which the plaintiff suffers as the result of the tortious conduct of the defendant (Flaherty v Girgis[92]).
+
+Canada
+
+88.  The early cases are helpful to the plaintiff’s case, but more recent authority disapproves the place of damage as a suitable basis for jurisdiction. As in Australia, the early Canadian authorities are largely concerned with damage occurring in the forum (Ontario) following accidents in another part of the federation. In cases involving a rule granting jurisdiction in the case of a claim “in respect of damage sustained in Ontario arising from a tort ... committed elsewhere” it was held that the Ontario court had jurisdiction where the accident occurred in another province and some damage had been sustained there, but consequential damage which flowed from the injury occurred in Ontario.[93] Those decisions are now obsolete, since it has been held by the Supreme Court of Canada that the existence and exercise of jurisdiction both with regard to defendants in other Canadian provinces and in foreign countries are subject to a constitutional imperative of a “real and substantial connection” with the forum. In determining whether a court can assume jurisdiction, the court relies on a set of specific factors which are given presumptive effect, and the place where the damage is sustained is not one of those factors. In Club Resorts Ltd v Van Breda[94]the Supreme Court of Canada said:
+
+“The use of damage sustained as a connecting factor may raise difficult issues. For torts like defamation, sustaining damage completes the commission of the tort and often tends to locate the tort in the jurisdiction where the damage is sustained. In other cases, the situation is less clear. The problem with accepting unreservedly that if damage is sustained at a particular place, the claim presumptively falls within the jurisdiction of the courts of the place, is that this risks sweeping into that jurisdiction claims that have only a limited relationship with the forum. An injury may happen in one place, but the pain and inconvenience resulting from it might be felt in another country and later in a third one. As a result, presumptive effect cannot be accorded to this connecting factor.”[95]
+
+England: the Brownlie decisions
+
+89.  It is not necessary for present purposes to do more than mention the authorities prior to the two decisions in the Brownlie litigation, because the judgments in those cases are exhaustive and supersede the previous decisions. In a series of decisions involving personal injuries suffered abroad, which were approved by the majority in both Brownlie decisions, it was held that the English court had jurisdiction where consequential loss was suffered in England.[96] There are also decisions involving economic torts,[97] including some which draw a distinction between direct and indirect damage, in the light of rulings of the European Court, which, as will be seen below, are not a secure basis for decision in the light of the Brownlie cases.
+
+90.  In Brownlie v Four Seasons Holdings Inc[98](“Brownlie I”)Lady Brownlie, the widow of Professor Sir Ian Brownlie QC, sued the defendant Canadian company in contract and tort for damages following the death of her husband and her own injury resulting from a car crash whilst on an excursion during a holiday in Egypt. The claim in tort was brought in her own capacity for damages for pain and suffering and loss of amenity and medical expenses; and in her capacity as the executrix of her husband’s will for damages suffered by her husband (under the Law Reform (Miscellaneous Provisions) Act 1934) and for damages for bereavement and loss of dependency under the Fatal Accidents Act 1976. In Brownlie I the Supreme Court held that there was no reasonable prospect that the claimant would be able to establish at trial that she had contracted with the defendant corporate entity or that it would be vicariously liable for the negligence of the driver of the car. A majority (Lady Hale, Lord Wilson, Lord Clarke; Lord Sumption, dissenting, with whom Lord Hughes agreed) concluded obiter that the meaning of the word “damage” in Civil Procedure Rules, Practice Direction 6B, para 3.1(9) refers to the actionable harm caused by the wrongful act alleged and includes all the detriment, physical, financial and social which the claimant suffers as a result.
+
+91.  In Brownlie v FS Cairo (Nile Plaza) LLC[99](“Brownlie II”)Lady Brownlie sued a separate corporate entity in the same group of companies. In a differently constituted panel, the majority (Lord Lloyd-Jones, with whom Lords Reed, Briggs and Burrows agreed, with Lord Leggatt dissenting) held that “damage” refers to actionable harm, and is not limited to the damage necessary to complete a cause of action. It was sufficient that some significant damage has been sustained in the jurisdiction, whether it be physical damage or economic loss.
+
+92.  The judgments in Brownlie I and Brownlie II are lengthy, but in essence the view of the majority in both decisions is founded upon what it regarded as the natural and ordinary meaning of the word “damage” in the context of the gateway, and its purpose. In Brownlie I, for Lady Hale the natural and ordinary meaning “when considered in the light of the purpose of the provision extends to the physical and financial damage caused by the wrongdoing, considerations which are apt to link a tort to the jurisdiction where such damage is suffered.”[100] Precisely the same formula was adopted by Lord Lloyd-Jones in Brownlie II,[101] and he also added later in his judgment that in the gateway “in a case of personal injury or wrongful death ‘damage’ ... extends, both in its natural and ordinary meaning and on a purposive reading, to the actionable harm caused by the tortious act, including all the bodily and consequential financial effects which the claimant suffers.”[102] The long line of first instance decisions in England adopting this approach was expressly approved by both Lady Hale and Lord Lloyd-Jones.[103] Support for the view of the natural and ordinary meaning of the gateway was drawn by both Lady Hale and Lord Lloyd-Jones from the Canadian and Australian authorities, and also by Lord Lloyd-Jones from the decisions in Hong Kong of the Court of Appeal in Dynasty Line Ltd v Sukamto Sia and of Marlene Ng J at first instance in this case.[104]
+
+93.  Alternative interpretations were rejected by Lady Hale and Lord Lloyd-Jones. First, even though the gateway had been changed to accommodate the decision of the European Court in the Bier case, there was no basis for adopting the distinction later drawn by the European Court between direct damage and indirect damage. There was no reason to think that those who framed the rule intended it precisely to mirror the interpretation later given to the tort jurisdiction head in the Brussels regime.[105] Nor was there any basis for an assumption that the domestic gateway was thereafter to be tied to European law as that was developed by later decisions of the European Court, the most significant of which were made some years after the amendment of the domestic rule.[106] In any event, the two schemes were different: the European scheme deliberately eschews any discretion in favour of clear and certain rules, in the context of a scheme which governs, not only jurisdiction, but also recognition and enforcement of the resulting judgments, by contrast with the discretionary element in the English scheme.[107]
+
+94.  Second, the word “damage” in the gateway could not be equated with the damage which completed the cause of action, since damage was not an essential part of every cause of action in tort, such as trespass to the person, trespass to goods, libel and some slanders; and there was no reason to think that completion of the cause of action is what the framers of the Rules had in mind when they used the word “damage.”[108]
+
+95.  To the extent that the exercise of such a potentially wide jurisdiction might encourage forum-shopping, or allow a claimant to choose the forum, or permit claims founded on only a tenuous amount of damage sustained in England, those concerns were met by requirement that England be an appropriate forum under the discretionary test, which was “robust enough”[109] or “sufficiently muscular.”[110] Lord Lloyd-Jones said:[111]
+
+“The discretionary test of forum non conveniens, well established in our law, is an appropriate and effective mechanism which can be trusted to prevent the acceptance of jurisdiction in situations where there is merely a casual or adventitious link between the claim and England. Where a claim passes through a qualifying gateway, there remains a burden on the claimant to persuade the court that England and Wales is the proper place in which to bring the claim. Unless that is established, permission to serve out of the jurisdiction will be refused ... In addition—and this is a point to which I attach particular importance—the forum non conveniens principle is not a mere general discretion, the application of which may vary according to the differing subjective views of different judges creating a danger of legal uncertainty. On the contrary, the principle applies a structured discretion, the details of which have been refined in the decided cases, in a readily predictable manner.”
+
+96.  The dissenting judgments in Brownlie I of Lord Sumption and in Brownlie II of Lord Leggatt concluded that “damage” meant direct damage, although their reasoning differed.
+
+97.  Lord Sumption’s reasoning can be summarised as follows: (1) The law of tort did not generally protect pecuniary interests as such, and was in general concerned with non-pecuniary interests, such as bodily integrity, physical property and reputation which were inherently entitled to its protection. Although “damage” as that word is used in the gateway was not necessarily limited to the damage which serves to complete a cause of action in tort, the two concepts were related, in the sense that the damage to the interest protected was sustained in country A where the claimant had been injured or killed, and the pecuniary measure of that damage might depend on things that happened elsewhere. It would have been possible for the draftsman of the gateway to provide that “damage” should extend to the financial or physical consequences of the damage, but there was nothing in the language to suggest that it was done. (2) The jurisdictional gateways were concerned to identify some substantial and not merely casual or adventitious link between the cause of action and the forum, and that purpose was better served by locating jurisdiction in the place where the relevant interest of the claimant was damaged than by asking where he or she experienced the effects of the damage. (3) In the context of personal injury, a principle which located damage in the place where the pecuniary consequences of the accident were felt or where any continuing pain, suffering or loss of amenity were experienced would in the great majority of cases confer jurisdiction on the country of the claimant's residence, which would amount to a universal jurisdiction to entertain claims by English residents for the more serious personal injuries suffered anywhere in the world. (4) The distinction between direct and indirect damage drawn by the European Court embodied an analysis of what constitutes “damage” which was unanswerable, and the jurisdictional gateway in tort was deliberately drafted so as to assimilate the tests for asserting jurisdiction over persons domiciled in an EU member state and persons domiciled elsewhere. (5) The gateways identified relevant connections with the jurisdiction, and their ambit was a question of law, by contrast with the discretion as to forum conveniens which authorised the court to decline a jurisdiction which it possesses as a matter of law. (6) The main determining factor in the exercise of the discretion on forum conveniens grounds was not the relationship between the cause of action with the jurisdiction but the practicalities of litigation, and English law did not accept jurisdiction simply on the basis that the English courts were a convenient or appropriate forum if the subject matter had no relevant jurisdictional connection with England.
+
+98.  Lord Leggatt did not agree with Lord Sumption that any inference could properly be drawn that the gateway was intended to have exactly the same scope as the tort head in the Brussels regime, although the Brussels regime did show that it was possible to distinguish between direct and indirect damage. Nor did he consider that there was any reason to equate the meaning of the “damage … sustained” referred to in the gateway with damage which completed a cause of action in tort. His reasons for dissent were these: (1) The territorial nature of jurisdiction demands that there should be a substantial connection between the territory of the State from which the court's authority derives and either the proposed defendant or something which that person has done before the assertion of personal jurisdiction over the proposed defendant is justified. (2) The provision in the Civil Procedure Rules (CPR r. 6.37(3)), that England is “the proper place in which to bring the claim” was not an adequate answer, since the purpose of having grounds for service out of the jurisdiction which must apply before the question whether England is the proper place in which to bring the claim arises is to make the existence of a sufficient connection with the jurisdiction a prerequisite to permitting a person outside the jurisdiction to be sued in England. (3) A test met by the occurrence in England of any harm resulting indirectly from a wrong committed elsewhere fails to achieve this purpose, and provides an irrational and ineffectual threshold requirement. (4) The question whether England is “the proper place in which to bring the claim” is intended to codify the forum conveniens doctrine, which applies where there is a sufficient basis for founding jurisdiction in England but there is also some other available forum, having competent jurisdiction, where the case could be tried. (5) The forum conveniens factors are not relevant to whether there is a sufficient connection between the defendant and England to make it legitimate for the English court to assume jurisdiction in a case where the defendant has not submitted to the jurisdiction of the English courts. (6) Different judges assessing whether England is the appropriate forum will inevitably attach different degrees of weight to different factors and may reach differing conclusions on similar facts without either conclusion being susceptible to legal challenge. Such inconsistency of outcome would be a source of injustice, and encourage satellite litigation causing defendants who have no real connection with England to have to incur the difficulty and expense of instructing English lawyers to apply to contest the jurisdiction of the English courts.
+
+Conclusions
+
+99.  This case is concerned, like Brownlie I and Brownlie II, with claims arising out of personal injuries. In such cases it is normally straightforward, as in this case, to identify the place where the tort was committed, and the place or places where the plaintiff suffered injuries of a physical or financial character. The process may be more difficult in other cases, such as professional negligence or conspiracy to defraud, and no doubt the principles will require to be refined in the future to encompass such cases.
+
+100.  In my judgment Marlene Ng J and the Court of Appeal were right to find that Gateway F applied to this case. My reasons are these.
+
+101.  There can be no doubt that the question is one of construction of Gateway F, and in this case the question is what is meant by “the damage” which must be “sustained ... within the jurisdiction.”
+
+102.  There are two preliminary matters in this exercise. The first is whether there is any distinction between “the damage” in Gateway F and “damage” in the equivalent English rule. As indicated above, the current English rule was introduced to give effect to the decision of the English Court of Appeal in the Metall und Rohstoff AG case that it was not necessary that all the damage should have been sustained within the jurisdiction, provided that damage has resulted from substantial and efficacious acts committed within the jurisdiction (whether or not other substantial and efficacious acts have been committed elsewhere). There is no reason why the decision in Metall und Rohstoff AG should not be followed in Hong Kong.
+
+103.  The second matter is whether the rulings of the European Court on the tort head of jurisdiction in the Brussels Convention and the Brussels I Regulations have any relevance. In Brownlie I and Brownlie II it was held that, although the place of damage was introduced to bring the English head of jurisdiction broadly into line with the Brussels Convention, the framers did not intend the gateway to be interpreted in accordance with European law and the decisions of the European Court. It would, of course, be absurd to suggest that the similar change in the Hong Kong rule in 1988 was intended to incorporate the European law principles and to treat Hong Kong as if the Brussels Convention (and the decisions of the European Court on the Convention and its successors) applied to it. The most which can be said about the European Court decisions is, as Lord Leggatt said in Brownlie II, which the Board adopts in its argument, that there is a well-recognised and workable distinction between direct and indirect damage in its jurisprudence. That would only arise in this case if that distinction fell to be made.
+
+104.  In my judgment the construction of the relevant part of Gateway F is clear, and the reasoning in the majority judgments in Brownlie I and Brownlie II is compelling.
+
+105.  The purpose of the gateways is to set out a list of the situations in which the legislator considers that there may be a sufficient link with Hong Kong to justify a defendant in another country or law district being sued in Hong Kong. In some cases the link may be tenuous. Four examples will suffice. First, the clearest example is Gateway C, which allows service abroad on a person who is a “necessary or proper party” to proceedings in Hong Kong, but this head of jurisdiction is not founded upon any territorial connection between the claim, the subject matter of the relevant action and the jurisdiction of the court: Tyne Improvement Commissioners v Armement Anversois SA (The Brabo);[112] Altimo Holdings and Investment Ltd v Kyrgyz Mobil Tel Ltd.[113] As Sir Francis Piggott, the Chief Justice of Hong Kong, said more than 100 years ago, the necessary or proper party head “throws the net of jurisdiction over a wider area; and the principle of considering the nature of the cause of action which pervades the whole subject, appears here to be ignored”: Piggott, Foreign Judgments and Jurisdiction, vol. 3, p. 238 (1910).  Second, Gateway A permits service out of the jurisdiction on a defendant domiciled within the jurisdiction. Because of the common law notion of domicile of origin, such a person may have no real connection with Hong Kong. Third, Gateway D allows service out of the jurisdiction where a contract was made in Hong Kong, but the parties and the transaction may have nothing to do with Hong Kong. Fourth, Gateway M allows service out of the jurisdiction where the claim is brought to enforce any foreign judgment or arbitral award, and that jurisdiction is exercisable over foreigners even where the judgment debtor or award debtor has no assets within the jurisdiction: Tassarruf Mevduati Sigorta Fonu v Demirel.[114]
+
+106.  One of the results of the discretionary nature of the jurisdiction under Order 11, r. 1(1) is to mitigate the effect of such situations. It will be necessary to return to this aspect of the jurisdiction.
+
+107.  In my view, in the light of the legislative purpose, the natural and ordinary meaning of the word “damage” is just that, and the rule does not distinguish between the damage which completes a cause of action and that which does not, nor does it distinguish between direct or indirect damage, or between physical or financial damage.
+
+108.  The question is whether there is a legislative purpose, or a public policy, or an absurd or undesirable result, which justifies a narrower construction, to encompass only direct damage as opposed to indirect damage.
+
+109.  I have already indicated why Order 11, r. 1(1) does not reveal a legislative purpose that every gateway must be construed to require a real connection with Hong Kong. The Board has adopted the reasoning of Lord Leggatt on this appeal, and in my view there are three flaws in the reasoning.
+
+110.  The first flaw is that the heads of jurisdiction provide a necessary connection with the forum, and should be construed in accordance to conform with that connection. I have endeavoured to demonstrate that, although in some respects the heads of jurisdiction require a real connection with the forum, in others they do not.
+
+111.  The second flaw is the assumption (shared by Lord Sumption in Brownlie I)that the question of discretion is entirely separate from that of jurisdiction. The third flaw is the assumption that the exercise of discretion is exclusively or mainly related to forum conveniens. These points are inter-connected.
+
+112.  I agree with Lord Lloyd-Jones[115] that the jurisdictional gateways alone do not confer jurisdiction; they form only one element of the jurisdictional test, and before the court will give permission to serve proceedings out of the jurisdiction, not only must a claim pass through one of the gateways, but it must also be shown that England is the proper place in which to bring the claim. That is why from the earliest days of the operation of Order 11 it was emphasised that the “court ought to be exceedingly careful before it allows a Writ to be served out of the jurisdiction” (Société Générale de Paris v Dreyfus Bros[116]), and that the jurisdiction must be exercised “with care and forbearance” (Massey v Heynes[117]) or with “discrimination and with scrupulous fairness to the defendant” (Ocean Steamship Co Ltd v Queensland State Wheat Board[118]). This remains the guiding principle: Seaconsar Far East Ltd v Bank Markazi Jomhouri Islami Iran.[119]
+
+113.  It has been said that the jurisdiction in which a tort has been committed is prima facie the natural forum for the determination of a dispute: The Albaforth;[120] Berezovsky v Michaels.[121] But this is only a useful rule of thumb or a prima facie starting point: VTB Capital plc v Nutritek International Corp.[122] Although the burden is on the plaintiff to show that the action is brought in a forum conveniens, justice often requires a homeward trend. In the present case the forum conveniens discretion was deployed in favour of Hong Kong. Even though the accident happened on the Mainland and the witnesses were based there, Hong Kong was held to be an appropriate forum because damage had been sustained in Hong Kong; evidence could be given by video link or by taking evidence where the witnesses resided; expert evidence on Chinese law could be heard in Hong Kong; and the plaintiff had the benefit of legal aid in Hong Kong. If the Board had not intervened, these issues would not have arisen in practice because the second defendant allowed judgment to go by default, perhaps because it (or its insurers) had been advised that a Hong Kong default judgment arising out of an accident on the Mainland would not have been enforceable in the United States.
+
+114.  The third flaw is the assumption that the discretionary exercise is limited to considerations of the forum conveniens, which
+
+“requires the ... court to decide whether its jurisdiction or that of the suggested foreign court is the more suitable as a forum for the determination of the dispute between the parties. The traditional way in which this question has been framed speaks of the ‘forum in which the case can be suitably tried for the interests of all the parties and for the ends of justice’ (per Lord Collins JSC in Altimo Holdings and Investment Ltd v Kyrgyz Mobil Tel Ltd [2012] 1 WLR 1804, para 88, adopting the language of Lord Goff of Chieveley in Spiliada Maritime Corpn v Cansulex Ltd [1987] AC 460).”[123]
+
+115.  Order 11, r. 1(1) enumerates what are described as the principal cases in which service of a writ out of Hong Kong is permissible, and provides that service of the writ “is permissible with the leave of the Court” in those cases. Order 11, r. 4(1) provides that the application for grant of leave must be supported by an affidavit, and Order 11, r. 4(2) provides:
+
+“No such leave shall be granted unless it shall be made sufficiently to appear to the Court that the case is a proper one for service out of the jurisdiction under this Order.”
+
+116.  As indicated above, this is the same as the former RSC Order 11, r. 4(2), which has its origin in the 1883 Rules of Court. In England it has been replaced by: “The court will not give permission unless satisfied that England and Wales is the proper place in which to bring the claim” (CPR r. 6.37(3)).
+
+117.  It is well established that, in deciding whether a case falls within one of the heads of jurisdiction, the court must consider the substance of the matter and not merely whether the case technically falls within the letter of the head of jurisdiction in question: the case must be clearly within both the letter of the rule and the spirit of the head: Johnson v Taylor Bros & Co Ltd;[124] Rosler v Hilbery;[125]GAF Corp v Amchem Products Inc;[126]Metall und Rohstoff AG v Donaldson Lufkin & Jenrette Inc.[127]  The authorities show, contrary to a recent dictum by the English Court of Appeal[128] in a case in which the authorities do not seem to have been cited,[129] that this principle applies to the question whether the claim falls within the spirit of a gateway, and not simply to the exercise of the discretion. Nor does it apply exclusively to the construction of the heads of jurisdiction, although it has sometimes been used in this sense, for example by Lord Mustill in Mercedes-Benz v Leiduck,[130] when discussing whether a Mareva injunction was within the injunction gateway. The wider, and principled, view is demonstrated by Metall und Rohstoff AG v Donaldson Lufkin & Jenrette Inc,[131]in which the English Court of Appeal said that “it would certainly contravene the spirit, and also we think the letter, of the rule if jurisdiction were assumed on the strength of some relatively minor or insignificant act having been committed here, perhaps fortuitously.”
+
+118.  The principle, not mentioned in Brownlie I or Brownlie II, that a claim must fall within the spirit of the rule provides the answer to the argument that an expansive interpretation of the damages aspect of the tort gateway might lead to a situation in which, as Lord Leggatt put it,[132] “a claimant can create a link with England which satisfies the gateway requirement for suing a foreign defendant in the English courts by travelling to England, for example for medical treatment, after the event giving rise to the damage has occurred.” If the plaintiff has no real connection with the forum, then the court may refuse leave, or set it aside, on the basis that the claim is not within the spirit of the rule, irrespective of whether the claim satisfies the discretionary forum conveniens factors (although in such a case they would normally not be satisfied).
+
+119.  No reliance was placed on this line of authorities in Brownlie I and Brownlie II because it may have been assumed that those authorities are inapplicable or obsolete following the replacement of Order 11, r. 4 by the requirement in CPR r. 6.37(3) to show that England is “the proper place in which to bring the claim” with the result that the discretion is concerned exclusively, or mainly, with forum conveniens.  That assumption is implicit in Lungowe v Vedanta Resources plc,[133] in which “proper place” was treated simply as a translation of forum conveniens,and underpins the judgments in Brownlie I[134]and Brownlie II.[135]  The contrary view (which I favour) would be that the replacement should be interpreted simply as part of the exercise in the Civil Procedure Rules to use less technical language than the Rules of the Supreme Court, and that it applies equally to the question whether a claim is within the spirit of the relevant head of jurisdiction, irrespective of forum conveniens factors.
+
+120.  But in any event the former provision remains part of Hong Kong law, and I have no doubt that it could be employed in Hong Kong, in addition to forum conveniens factors, to mitigate the excesses, such as the supposed portability of a claim to the plaintiff’s domicile or residence (or Lord Leggatt’s example of the Egyptian plaintiff who comes to England while still suffering pain or disability), to which an expansive interpretation of Gateway F is said to lead.
+
+121.  In summary, the natural and ordinary meaning of Gateway F leads to the conclusion that it includes indirect or consequential damage, and to the extent that construction leads in a particular case to a result where Hong Kong is not the forum conveniens or the case is outside the spirit of the rule, the Hong Kong court can, and should, exercise its discretion to refuse, or set aside, leave to serve out of the jurisdiction. For those reasons I would dismiss the appeal on the second issue.
+
+Mr Justice Ribeiro PJ:
+
+122.  The appeal is unanimously dismissed.  We direct that the parties be at liberty to lodge written submissions, in the light of the aforesaid judgments, as to costs both here and in the Courts below.  Such submissions should be lodged within 14 days of the publication of this judgment and any submissions in reply within 14 days thereafter.
+
+ 
+
+ 
+
+(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge	(M H Lam)
+Permanent Judge
+ 	 
+ 	 
+(Kemal Bokhary)	(Lord Collins of Mapesbury)
+Non-Permanent Judge	Non-Permanent Judge
+ 
+
+Mr Horace Wong SC leading Mr Clark Wang and Mr Adrian TY Wong, instructed by Gallant, for the 3rd Defendant (Appellant)
+
+Ms Audrey Eu SC leading Mr Anson Wong Yu Yat, instructed by Kenneth Lam, Solicitors, assigned by the Director of Legal Aid, and Mr Jason Kung (not assigned by the Director of Legal Aid), instructed by Kenneth Lam, Solicitors, for the Plaintiff (Respondent)
+
+[1]  Cap 4A.
+
+[2]  [2020] HKCFI 679.
+
+[3]  Cheung and Yuen JJA [2021] HKCA 1138, Cheung JA writing for the Court.
+
+[4]  Ribeiro, Fok and Lam PJJ [2022] HKCFA 4.
+
+[5]  J§2.
+
+[6]  Listed in CA§49.
+
+[7]  J§3.
+
+[8]  Pursuant to O 6 rr 6 and 7.
+
+[9]  J§7.
+
+[10]   Under O 11 r 1(1)(c).
+
+[11]   Under O 11 r 1(1)(d)(i).
+
+[12]   Under O 11 r 1(1)(d)(ii).
+
+[13]   Under O 11 r 1(1)(d)(iii).
+
+[14]   J§27.
+
+[15]   J§8.
+
+[16]   J§5.
+
+[17]   J§12.  D1 made “ex gratia” settlement payments totalling about $575,000.
+
+[18]   J§32.
+
+[19]   J§34.
+
+[20]   J§36.
+
+[21]   CA§§8-9.
+
+[22]   CA§§55-59.
+
+[23]   CA§§63-64.
+
+[24]   CA§34.
+
+[25]   In Section G of this judgment.
+
+[26]   CA§§66-72.
+
+[27]   CA§65.
+
+[28]   Cap 365, section 16.  In this judgment, the discussion focusses on the claim for a statutory relief payment.
+
+[29]   Cap 365, section 2.
+
+[30]   Cap 365, sections 3 and 20B; Cap 282, section 3.
+
+[31]   Cap 365, section 25A.
+
+[32]   Part IV of the Ordinance which includes section 20A and the other provisions for claiming relief for unpaid damages. 
+
+[33]   Cap 411, sections 4, 6, 7(1), Schedule 2.
+
+[34]   Cap 411, sections 14 and 15.
+
+[35]   Cap 282, section 5.
+
+[36]   Cap 282, section 26.
+
+[37]   Cap 282, section 40(1). 
+
+[38]   The liability in question is liability “under this Ordinance and independently of this Ordinance for any injury to his employee by accident arising out of and in the course of the employee’s employment”: Cap 282, section 40(1F).
+
+[39]   Legislative Council Brief, EMB CR 4/4/3231/77, February 2002 §10. The package included government loans and a net increase in the levy attributable to the Fund; as well as a reduction in and restructuring of the Fund’s liability, replacing payment of common law damages claims with relief payments reducing the recoverable amounts and providing for instalment payments: §§11-16.  The Board’s power to intervene under Cap 365, section 25A was also introduced as part of those measures.  The financial difficulties and the amending legislation are discussed in detail in Kwan Kam Pui v Fung Man [2014] 6 HKC 361 at §20.
+
+[40]   Such causes included escalating claims for common law damages, declining levy income and the insolvency of certain participating insurers resulting from the major insolvency of their Australian parent company: Legco Brief §§4, 7-9.
+
+[41]   J§193.  See also J§§133(a) and 143.
+
+[42]   CA§63(4) and (6).
+
+[43]   With Mr Clark Wang and Mr Adrian TY Wong.
+
+[44]   With Mr Anson Wong Yu Yat and Mr Jason Kung.
+
+[45]   Hartmann & Chu JJA and Lam J (as he then was), CACV 71/2011 (25 July 2012).
+
+[46]   Respondent’s Written Case §§72-75.  Counsel also relied on the Chinese text “聘用” which she submits “has the connotation of ‘hiring’”, but that does not advance her argument.
+
+[47]   Supra.
+
+[48]   Discussed in Section E above. It states: “If an employer who is a person carrying on business outside Hong Kong submits or has agreed to submit to the jurisdiction of the Court, then, notwithstanding that the accident causing the personal injury occurred outside Hong Kong, this Ordinance shall apply to employees within the meaning of this Ordinance who have been recruited or engaged in Hong Kong.”
+
+[49]   Chan Sze Yuen (supra) at §13.
+
+[50]   Ibid at §9.
+
+[51]   Ibid at §19.
+
+[52]   Ibid at §16.
+
+[53]  Bennion, Bailey and Norbury on Statutory Interpretation (8th Ed) at p 651.
+
+[54]  (2017) 20 HKCFAR 524, per Fok PJ at §32.
+
+[55]  See HKSAR v Kwan Ka Hei (2020) 23 HKCFAR 229, per Cheung PJ (as he then was) at §§47-49.
+
+[56]  [1946] 1 KB 58 at 62.
+
+[57]  J§§21-22, 25-26, 27(b) and 122-129.
+
+[58]  J§125.
+
+[59]  J§§127-129.
+
+[60]  CA§63(7) and (8).
+
+[61]  J§131.
+
+[62]  CA§§63-64.
+
+[63]  (2002) 5 HKCFAR 356 at §§38-39.
+
+[64]  O 15 r 6 (2)(b)(ii) materially states: Subject to the provision of this rule, at any stage of the proceedings in any cause or matter the Court may on such terms as it thinks just and either of its own motion or on application— (b) order any of the following persons to be added as a party, namely— (ii) any person between whom and any party to the cause or matter there may exist a question or issue arising out of or relating to or connected with any relief or remedy claimed in the cause or matter which in the opinion of the Court it would be just and convenient to determine as between him and that party as well as between the parties to the cause or matter.
+
+[65]   Marlene Ng J held that Gateway C (necessary or proper party) and Gateway D (iii) (breach of contract governed by Hong Kong law) applied, but Gateways D (i) and (ii) (breach of contract within the jurisdiction or made by an agent within the jurisdiction) were inapplicable. The Court of Appeal held that neither Gateway C nor Gateway D (iii) was applicable. This Court was not asked to grant leave to appeal in relation to those gateways.
+
+[66]   The judge decided that the plaintiff was not barred from relying on the damage limb of Gateway F notwithstanding that it had not been raised at the ex parte stage.
+
+[67]   At [200].
+
+[68]   [2017] UKSC 80, [2018] 1 W.L.R. 192.
+
+[69]   [2020] EWCA Civ 996, [2021] 2 All E.R. 605, affd. [2021] UKSC 45, [2021] 3 W.L.R. 1011.
+
+[70]   [2009] 4 HKLRD 454.
+
+[71]   [1971] A.C. 458.
+
+[72]   (1881) 7 Q.B.D. 434 (CA).
+
+[73]   (1889) 12 Q.B.D. 50 (Div Ct).
+
+[74]   [1893] 1 Q.B. 419 (Div Ct).
+
+[75]   [1895] 1 Q.B. 142 (CA).
+
+[76]   [1944] K.B. 432 (CA).
+
+[77]   At 441.
+
+[78]   [1983] Ch. 258 (CA).
+
+[79]   [1984] 2 Lloyd’s Rep. 91 (CA).
+
+[80]   Case 21/76 [1976] E.C.R. 1735, [1978] Q.B. 708.
+
+[81]   Case C-220/88 [1990] E.C.R. I-49.
+
+[82]   Case C-364/93 [1995] E.C.R. I-2719, [1996] Q.B. 217.
+
+[83]   Case C-12/15 [2016] Q.B. 967.
+
+[84]   Case C-375/13 [2016] 1 All E.R. (Comm.) 733.
+
+[85]   The words omitted deal with threatened torts, which are not expressly covered by Gateway F in Hong Kong.
+
+[86]   SI 2000/221.
+
+[87]   [1990] 1 Q.B. 391 (CA).
+
+[88]   SI 2000/940.
+
+[89]   [2009] 4 HKLRD 454. For Singapore, where the rule is for cases where “the claim is wholly or partly founded on, or is for the recovery of damages in respect of, damage suffered in Singapore caused by a tortious act or omission whenever occurring” see MAN Diesel & Turbo SE v IM Skaugen SE [2019] SGCA 80, [77].
+
+[90]   At [33]-[34].
+
+[91]   [1983] 2 NSWLR 405, 408. See also Brix-Neilsen v Oceaneering Australia Pty Ltd [1982] 2 NSWLR 173.
+
+[92]   (1985) 63 A.L.R. 466, 482 (NSW Court of Appeal), affd. on other grounds: [1987] HCA 17, (1987) 162 C.L.R. 574. See also Voth v Manildra Flour Mills Pty Ltd [1990] HCA 55, (1990) 171 C.L.R. 538, [3].
+
+[93]   Vile v Von Wendt (1979) 103 D.L.R. (3d) 356; See also Poirier v Williston (1980) 113 D.L.R. (3d) 252, affd. (1980) 118 D.L.R. (3d) 576n; Skyrotors Ltd v Carriere Technical Industries Ltd (1979) 102 D.L.R. (3d) 323 (aircraft crash in Quebec; owner suffered financial loss in Ontario).
+
+[94]  [2012] 1 S.C.R. 572.
+
+[95]  At [89], applied most recently in Moore v. Kemgni, 2022 ONSC 2141; Thind v. Polycon Industries, 2022 ONSC 2322.
+
+[96]  Booth v Phillips [2004] EWHC 1437 (Comm.), [2004] 1 W.L.R. 3292; Cooley v Ramsey [2008] EWHC 129 (Q.B.); Harty v Sabre International Security Ltd [2011] EWHC 852 (Q.B.); Wink v Croatia Osiguranje DD [2013] EWHC 1118 (Q.B.); Pike v Indian Hotels [2013] EWHC 4096 (Q.B.); Stylianou v Toyoshima [2013] EWHC 2188 (Q.B.).
+
+[97]  Société Commerciale de Réassurance v Eras International Ltd (Eras EIL Actions) [1992] 1 Lloyd’s Rep. 570, 590-591 (CA); Bastone & Firminger Ltd v Nasima Enterprises (Nigeria) Ltd [1996] C.L.C. 1902, 1912; ABCI v Banque Franco-Tunisienne [2003] EWCA Civ 205, [2003] 2 Lloyd’s Rep. 146, [44]-[45]; Erste Group Bank AG v JSC ‘VMZ Red October’ [2015] EWCA Civ 379, [2015] 1 C.L.C. 706, [106]-[107]; Eurasia Sports Ltd v Tsai [2018] EWCA Civ 1742, [2018] 1 W.L.R. 6089, [21], [30].
+
+[98]  [2017] UKSC 80, [2018] 1 W.L.R. 192.
+
+[99]  [2021] UKSC 45, [2021] 3 W.L.R. 1011, affirming [2020] EWCA Civ 996, [2021] 2 All E.R. 605.
+
+[100]   Brownlie I, [55], [69].
+
+[101]   Brownlie II, [51].
+
+[102]   Brownlie II, [76].
+
+[103]   Brownlie I, [48]; Brownlie II, [64].
+
+[104]   Brownlie II, [66]-[67].
+
+[105]   Brownlie I, [50].
+
+[106]   Brownlie II, [54].
+
+[107]   Brownlie II, [55].
+
+[108]   Brownlie I, [52]; Brownlie II, [81].
+
+[109]   Brownlie I, [54] (Lady Hale).
+
+ [110]   Brownlie I, [66] (Lord Wilson).
+
+[111]   Brownlie II, [79].
+
+[112]  [1949] A.C. 326, 338.
+
+[113]  [2011] UKPC 7, [2012] 1 W.L.R. 1804, [73].
+
+[114]  [2006] EWHC 3354 (Ch.), [2007] 2 All E.R. 815, affd. [2007] EWCA Civ 799, [2007] 1 W.L.R. 2508.
+
+[115]   Brownlie II, [77].
+
+[116]  (1885) 29 Ch.D. 239, 243.
+
+[117]  (1888) 21 Q.B.D. 330, 334 (CA).
+
+[118]  [1941] 1 K.B. 402, 417 (CA).
+
+[119]  [1994] 1 A.C. 438, 455.
+
+[120]  [1984] 2 Lloyd’s Rep. 91 (CA).
+
+[121]  [2000] 1 W.L.R. 1004, 1013 (HL).
+
+[122]  [2013] UKSC 5, [2013] 2 A.C. 337, [18].
+
+[123]  Unwired Planet International Ltd v Huawei Technologies (UK) Ltd[2020] UKSC 37, [2020] Bus. L.R. 2422, [94]. 
+
+[124]  [1920] A.C. 144, 153.
+
+[125]  [1925] Ch. 250, 259-260 (CA).
+
+[126]  [1975] 1 Lloyd’s Rep 601 (Megarry J. and CA), 605, per Megarry J.
+
+[127]  [1990] 1 Q.B. 391, 434 (CA).
+
+[128]   Sharab v Al-Saud [2009] EWCA Civ 353, [2009] 2 Lloyd’s Rep. 160, [35].
+
+[129]  See Conductive Inkjet Technology Ltd v Uni-Pixel Displays Inc [2013] EWHC 2968 (Ch.), [2014] F.S.R. 475, [59].
+
+[130]  [1996] A.C. 284, 299. See also Convoy Collateral Ltd v Broad Idea International Ltd [2021] UKPC 24, [2022] 2 W.L.R. 703, [167]. 
+
+[131]  [1990] 1 Q.B. 391, 437 (CA).
+
+[132]  Brownlie II, [194].
+
+[133]  [2019] UKSC 20, [2020] A.C. 1045, [38], [66], [69].
+
+[134]  At [3], [40].
+
+[135]  At [28], [55], [196].
+
+ 

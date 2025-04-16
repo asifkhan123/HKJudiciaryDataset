@@ -1,0 +1,476 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 3 of 2020
+
+[2020] HKCFA 38
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 3 OF 2020 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 207 OF 2016)
+
+_____________________
+
+BETWEEN	 	 
+ 	EMINENT INVESTMENTS (ASIA PACIFIC) LIMITED	Plaintiff (Appellant)
+ 	and	 
+ 	DIO CORPORATION	Defendant (Respondent)
+_____________________
+
+Before: Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Cheung PJ and Lord Collins of Mapesbury NPJ
+Date of Hearing and Judgment: 21 October 2020
+Date of Reasons for Judgment: 3 December 2020
+_____________________________
+
+REASONS FOR JUDGMENT
+
+______________________________
+
+Chief Justice Ma:
+
+1.  I agree with the joint Reasons for Judgment of Mr Justice Ribeiro PJ and Lord Collins of Mapesbury NPJ.
+
+Mr Justice Ribeiro PJ and Lord Collins of Mapesbury NPJ:
+
+2.  At the hearing, this appeal was dismissed with costs.  These are our reasons. 
+
+3.  This appeal concerns a claim by a financial adviser for a success fee in respect of a fundraising transaction entered into by its client after termination of the advisory agreement.  It raises questions concerning the proper construction of that agreement.
+
+A.     The background
+
+4.  The respondent DIO Corporation (“DIO”), a Korean company listed on the KOSDAQ,[1] was looking to raise additional capital to expand its overseas business and was seeking international advice on fundraising.  It engaged the appellant Eminent Investments (Asia Pacific) Limited (“Eminent”), a Hong Kong company, to act as its financial adviser pursuant to a Financial Advisory Agreement (“FAA”) dated 10 October 2008.  It was drafted by Eminent and supplemented by an Addendum dated 15 January 2009 (“The Addendum”).
+
+5.  In April 2009, Eminent introduced Dentsply International Inc (“Dentsply”), a US company listed on the NASDAQ, to DIO as a prospective investor.  After Eminent provided Dentsply with some information on DIO, a telephone conference call involving the three parties plus UBS (an investment bank advising Dentsply) occurred on 9 April 2009. 
+
+6.  The call was described by the trial Judge, Mr Recorder Shieh SC, as involving discussions which were “very general” and in which no particular deals or fundraising transactions were raised.[2]  While the representatives of Eminent and DIO came away from that call in an optimistic mood, in mid-April or at the end of April Dentsply informed them that it was not interested in proceeding.
+
+7.  On 30 April 2009, Charlie Lee, who had worked for Eminent left his employment. And on 8 June 2009, Eminent terminated the employment of Christopher Song and Jung Lee.  All three had participated in the telephone conference with Dentsply as part of Eminent’s team.
+
+8.  On 16 June 2009, Eminent asked DIO if it was still looking for capitalisation and intimated that Song and Lee had been laid off.  DIO did not seek Eminent’s further assistance and on 30 December 2009, it asked Eminent to return USD$70,000 which had been paid as consulting fees. DIO unsuccessfully argued at the trial that by demanding repayment it had accepted Eminent’s prior repudiatory breach, terminating the FAA.  However, Eminent asserts that the Agreement was terminated on or about 29 January 2010 after one month’s notice.
+
+9.  It appears that Eminent ceased business in March 2010 and that Eminent and its principal named Kane Yang later pleaded guilty to breaches of the Securities and Futures Ordinance.[3] 
+
+10.  The Judge found that in May 2010, Friadent GmbH (“Friadent”), a subsidiary of Dentsply, approached DIO regarding a possible OEM (original equipment manufacturing) arrangement for the manufacture of dental implants.[4] Charlie Lee, who had previously worked for Eminent, was engaged by DIO to assist in communications with Friadent and Dentsply. 
+
+11.  In September 2010, Bret Wise, the CEO and chairman of Dentsply, visited DIO in Pusan and, having been much impressed, wanted to explore a greater partnership with DIO. The Judge found that Charlie Lee did a great deal of work liaising with DIO, Friadent and Dentsply to that end.[5]
+
+12.  On 9 December 2010, a deal between Dentsply and DIO was announced.  Dentsply acquired less than 20% of DIO’s outstanding shares while its German subsidiary, Dentsply Germany Investments GmbH, acquired KRW56.6 billion worth of convertible bonds issued by DIO.[6] The Judge found that Eminent had failed to show that any work done by it under the FAA was the effective cause of this deal.[7]
+
+B.     The relevant provisions of the FAA and the Addendum
+
+13.  The following provisions of the FAA and Addendum (further discussed in Section H of these Reasons) are of present relevance. They contain numerous grammatical and spelling errors.
+
+B.1   The FAA
+
+14.  The First Recital:
+
+“WHEREAS, the Company hereto has retained the Financial Advisor on a sole and exclusive basis to advise the Company with respect to its Corporate Governance, Equity Valuation, Financial & Accounting Analysis, Corporate Financial Planning, Strategic Capital Raising and other Corporate Financing activities”.
+
+15.  The Second Recital:
+
+“WHEREAS, the Parties hereto desire to specifically state the services mentioned above and under this agreement to be provided to the Company by the Financial Advisor, the compensation to be received by Financial Advisor [sic] from the Company for providing such services, and the terms and conditions that shall govern the relationship between the Parties.”
+
+16.  The FAA was for a term of 18 months, terminable by either party giving 30 days prior written notice.[8]
+
+17.  Clause 2 is headed “ENGAGEMENT & FEE STRUCTURE” and, in Clause i) it lists the services to be provided by Eminent including the study of DIO’s business operations and financial performance; assistance in preparing DIO’s business plan to be presented to potential investors; assembling and discussing business, financial and legal information with accountants, lawyers and auditors; providing quarterly research reports for institutional investors and advising on investor relations and on a communications and public relations strategy.  Clause 2 i)(4) in particular states that services which Eminent is to provide include:
+
+“On a best effort basis, [advising] the Company on Mergers & Acquisitions, Fund Raising, private placements or shareholder restructuring prior to any IPO or Secondary Listing”.
+
+18.  Provision is then made for the payment of three types of fees, namely retainer fees (USD$100,000 in two instalments), an independent equity research fee (USD$30,000) and importantly, in Clause 2 iv) a “TRANSACTION FEE”, also referred to as a “success fee”:
+
+“Upon completion of any transaction for the Company[,] [t]he Company agrees to pay the Financial Advisor a success fee including and not limited to a three percent (3%) [sic] of the total transactional amount tied to any financial transaction related to Fund Raising or Private Placement or Shareholder restructuring, or Mergers & Acquisition for the Company.”
+
+19.  Clause 2 iv) applies to transactions completed during the currency of the FAA.  Centrally important is Clause 3 i) which has been referred to as a “tail gunner clause” [9] and which relates to success fees payable after its termination.  Under the heading “OBLIGATIONS OF THE COMPANY” it provides:
+
+“The Company agrees that within a period of two (2) years after the termination of this Agreement, should the Company complete a transaction including and not limited to an [sic] secondary listing or fund raising with any third parties or receive funds from a financing source introduced by the Financial Advisor, the Company shall pay Financial Advisor its fees according to this Agreement or and [sic] any executed amendments thereof or a generally accepted market compensation in case the transaction compensation method is not explicitly stated in this agreement.”
+
+20.  Eminent also relies on Clause 4 a) which, under the heading “MISCELLANEOUS”, states as follows:
+
+“Financial Advisor acknowledges that the Company will be providing confidential information to Financial Advisor. The Parties hereto agree that they will cooperate with each other and provide full due diligence, and that all conversations, documentation, or work products will be kept in the utmost confidence. The Company acknowledges that Financial Advisor will be providing confidential information to the Company. Accordingly, the Company agrees that the information, including but not limited to, Financial Advisor’s database of investors, methods, systems and procedures, will be kept confidential and shall not, without the prior written consent of Financial Advisor, be disclosed by the Company, except to its attorneys, accountant and Board of Directors. Financial Advisor intends to introduce the Company to its contacts, including private and institutional financing sources or strategic alliances. The Company agrees that it will respect Financial Advisor’s relationships with these investors and other sources of financing and that the Company shall not participate in or permits [sic] the circumvention of any obligation to Financial Advisor created by this Agreement or any means.”
+
+B.2   The Addendum
+
+21.  The Addendum dated 15 January 2009 recites (Second Recital) that “to officially expand the role of the Financial Advisor, the Parties have agreed to amend certain terms and/or conditions of the [FAA] ...”. 
+
+22.  Third Recital:
+
+“WHEREAS, the [sic] under this Agreement, the role of the Financial Advisor has been appointed as sole and exclusive financial advisor for Financial Scenario(s) including and not limited to Secondary Listings in an overseas stock market, backdoor listings, Public Placements, Private Placements, Mergers & Acquisitions (‘M&A’), Management Buy-outs (‘MBO’), Leverage [sic] Buy-outs (‘LBO’) in one or series of Transaction(s) in any form including and not limited to loans, bonds, common stock, preferred stock, convertible securities or equity linked debt instruments of any kind conducted by the Company and its subsidiaries and affiliates directly or from any registered shareholder(s) of the Company.”
+
+23.  Fourth Recital:
+
+“WHEREAS, the following fees are excluded from the foregoing Success Fee and/or Financial Advisory Fee under the terms and condition of this Agreement and the First Agreement: All legal, accounting and audit costs for transactional due diligence and any specific circumstances required by the third parties, by law or by government regulations to retain professional services to complete a proposed transaction.”
+
+24.  The Fifth Recital makes it clear that the Addendum is to be read as part of the FAA:
+
+“WHEREAS, this Agreement specifies the agreed terms and conditions which applies [sic] to certain roles and responsibilities that are not stated on the First Agreement [ie, the FAA] and are to be included as part of the ... First Agreement.”
+
+25.  Paragraph 1 adds to the ENGAGEMENT & FEE STRUCTURE provisions of Clause 2 of the FAA as follows.
+
+26.  Paragraph 1a:
+
+“Upon completion of the listing or Secondary Placement of the Company on the London Stock Exchange Alternative Investment Market or AIM (or such other stock exchange as agreed to by the Company), a success fee in cash equivalent to two percent (2%) of the transaction value will be paid to the Financial Advisor, within fourteen (14) days of the Transaction closing date. ...”
+
+27.  Paragraph 1b:
+
+“Upon successful completion of any mergers & acquisition transaction involving the Company and a third party, the Company agrees to pay the Financial Advisor within fourteen (14) days of the Transaction closing date, a success fee in the amount equal to three percent 3% of the total transaction value in cash calculated based on enterprise value of the acquired company including any assumed liabilities.”
+
+28.  Paragraph 1d:[10]
+
+“In addition to the advisory fee for the First Agreement, the Company agrees to pay the Financial Advisor another fixed retainer of ... (USD450,000), paid in four installments [sic] upon the execution of this agreement. First installment [sic], ... (USD 50,000) is due within seven (7) days upon this Agreement signed by both parties. Second installment [sic], ... (USD 85,000) is due before February 20th, 2009. Third installment [sic], ... (USD 65,000) is due upon the completion of any of the following events: (i) the Company signs an Engagement Letter or Letter of Proposal from a Nominated Advisor ...; (ii) the Company formally approves a potential mergers & acquisition transaction in the form of but not limited to an Official Letter of Intent ... or Memorandum of Understanding ... or an Official Merger Agreement related to a mergers & acquisition transaction with a third party; (iii) the Company received and accepted the term sheet for the Transaction(s) of any of the Financial Scenario(s) under the terms and conditions of this Agreement. Fourth installment [sic] or final payment, ... (USD 250,000) is due within seven (7) days upon the completion of any the Transaction(s) under the Financial Scenario(s).”
+
+29.  Paragraph 2 of the Addendum removed the entitlement to an Independent Equity Research Fee under the FAA.
+
+C.     Eminent’s construction
+
+30.  The fundamental proposition advanced by Mr Wong Yan Lung SC[11] on Eminent’s behalf is that Eminent is entitled to fees under Clause 3 i) which should be construed as requiring introduction of a party as opposed to introduction of a transaction.
+
+31.  This is elaborated upon as follows:
+
+“... [Clause 3 i)] should be construed against its relevant business contexts, purposes, common sense and efficacy, which included the need to protect Eminent as the [Financial Advisor], and to hedge against the risk of DIO as Client to circumvent the obligation to pay Eminent by terminating the engagement of Eminent before closing a deal with a financial source like Dentsply who was introduced by Eminent. Plainly, [Clause 3 i)] should be construed as requiring ‘introduction of a party’ as opposed to ‘introduction of a transaction’.”[12]
+
+“... Eminent’s construction of [Clause 3 i)], viz. ‘introduced by the Financial Advisor’ qualifies the ‘counterparty’ (i.e. a secondary stock exchange, a third party, or a financing source) with whom DIO entered into a deal or from whom DIO received funds, rather than ‘the transaction’, is a far more natural, logical and grammatical construction (as further elaborated in Section D2.3 below). In any event, Eminent’s construction must at least be an equally plausible construction, which means [Clause 3 i)] is far from clear. Even on the CA’s flawed approach, the CA should have considered the business contexts in the construction exercise.”[13]
+
+“The words ‘introduced by the Financial Advisor’ qualify or describe ‘the counterparty’ (i.e. (a) ‘a secondary listing’ (i.e. a secondary stock exchange other than Hong Kong), or (b) ‘any third parties’, or (c) ‘a financing source’), rather than ‘the transaction’.”[14]
+
+32.  Eminent contends that it is entitled to a Transaction Fee consequent upon DIO and Dentsply entering into the above-mentioned transaction on 9 December 2010 which occurred well within the two-year post-termination period referred to in Clause 3 i):
+
+“In April 2009, Eminent introduced to DIO a manufacturer and distributor of professional dental products called Dentsply International Inc (‘Dentsply’). The FAA was terminated on or about 29 January 2010 after one month’s notice. On 9 December 2010, a deal was announced whereby Dentsply acquired shares and convertible bonds of DIO (‘the Dentsply Deal’), just over 10 months (i.e. within 2 years) after such termination.”[15]
+
+33.  At the hearing, Mr Wong SC ventured to suggest that there is an alternative basis for triggering an entitlement to a Transaction Fee, namely, by Eminent rendering the advisory and preparatory services referred to in Clause 2 i) as part of a process of “shaping up” DIO to be attractive to potential investors.  He sought to argue that even without Eminent having introduced DIO to the financing source or otherwise contributed to completion of the eventual transaction, provision of the Clause 2 i) services would be sufficient to qualify Eminent for payment of the Transaction Fee if DIO completed a fundraising transaction. 
+
+34.  This was a new argument since the “shaping up” process is only mentioned in Eminent’s Written Case as a common feature of financial advisory agreements generally, providing “important context” for the purposes of construction.[16] The importance of introducing or “matching” the client with the investor is there maintained in line with Mr Wong SC’s fundamental proposition.[17] It is fair to say that the new argument was not seriously pressed and, being singularly unconvincing, must be rejected and needs no further discussion.
+
+D.     DIO’s construction
+
+35.  DIO’s argument, advanced by Mr Charles Sussex SC,[18] is that the FAA should be construed as requiring “introduction to the transaction which ultimately took place (involving receipt of funds from a financing source)”.[19] This, it is argued, “imputes a degree of causation and/or proximity between the introduction and the eventual transaction, and accords with the general rule that a commission agent is only entitled to commission on a transaction where his services are the effective cause of the transaction being brought about”.[20]
+
+36.  As the Judge found that Eminent had failed to show that any work done by it under the FAA was the effective cause of the Dentsply deal announced on 9 December 2010,[21] DIO contends that no entitlement to the Transaction Fee arises.  Alternatively, if contrary to DIO’s primary case, Eminent’s construction is preferred, DIO submits that the Court should imply an “effective cause” requirement to give business efficacy to the FAA.[22]
+
+E.     The reasoning of the Judge
+
+37.  The Judge’s reasoning[23] was that the starting point was to ascertain how, for the purposes of Clause 2 iv) of the FAA, Eminent was to earn its fee during the currency of the contract, and then to ascertain the effect of Clause 3 i) on Eminent's ability to earn the Transaction Fee. The answer was that under Clause 2 iv)  the fee was earned “[u]pon completion of any transaction for the Company.”  That connoted active involvement and participation by Eminent in the transaction.  Mere introduction was not enough, and Eminent had to do something so as to enable it to say that it has completed a transaction for DIO.  Consequently, Clause 2 iv) was to be interpreted as requiring Eminent to be an effective cause in completing the transaction; or alternatively a term importing such an effective cause requirement was to be implied.
+
+38.  He held that, as a matter of common sense, Eminent could not be in a better position if the transaction in question took place after termination rather than before.  A number of features of Clause 3 i) supported that conclusion:
+
+(a)     the expression “[DIO] shall pay [Eminent] its fees according to this Agreement” meant Eminent’s fees as claimable and calculated according to Clause 2 iv);
+
+(b)     the defining phrase was “a transaction,” which could not mean any transaction, but harked back to the sort of transaction which, under the Transaction Fee clause (Clause 2 iv)), would have entitled Eminent to a fee had the FAA not been terminated;
+
+(c)     two of the three scenarios (secondary listing and fundraising with any third parties) did not contain any limiting phrase linking them to Eminent, and they could not be taken literally because otherwise it would mean that if DIO entered into a secondary listing transaction which had absolutely nothing to do with Eminent or work done by it, Eminent would still be able to claim a Transaction Fee against it, or if DIO succeeded in raising funds with a third party that it identified without involving Eminent in any way, Eminent would still be able to claim a Transaction Fee.
+
+F.     The reasoning of the Court of Appeal
+
+39.  Cheung JA, with whom the other members of the Court of Appeal agreed,[24] held that the language of Clause 3 i) was clear enough to construe it as requiring Eminent to have introduced to DIO a transaction which DIO completed before Eminent was entitled to receive the fee.  To focus simply on the word “introduction” would require the Court to ignore the rest of the phrase, namely, DIO completing “a transaction .... introduced by” Eminent.  The three transactions named in Clause 3 i) were descriptive and not exhaustive (“a transaction including and not limited to”).   The contextual background was that DIO wanted to seek capital to expand its business, and the entitlement to a fee by Eminent was clearly not merely based on an introduction to DIO of a party but an introduction which led to a transaction. The fact that Clause 3 i) was only effective for two years after a termination pointed to a relation back to Clause 2 iv) of work required to be done by Eminent under the FAA, namely, the introduction of a transaction which raised funds for DIO and its completion which entitles it to receive fees.  Clause 3 i) could not be looked at in isolation from the other parts of the FAA.
+
+G.     Interpretation
+
+G.1   The arguments
+
+40.  On this appeal Eminent has argued for a “purposive” approach to interpretation and has suggested that the Court of Appeal was wrong to conclude[25] that: (1) there was still a choice between “textualism” and “contextualism”; (2) where the document was professionally prepared, sophisticated and complex, the textual approach may be adopted without the need to resort to the context or factual matrix of the case, and context was relevant only to the clarification of inconsistencies or gaps. The result, according to Eminent, was that the Court of Appeal wrongly construed Clause 3 i) in vacuo detached from the relevant contextual considerations, with the result that (i) it excluded the context of the FAA as a distinctive class of agreement whereby the financial adviser provided financial services to DIO in the venture capital market, which was very different from other superficially comparable agency contracts such as estate agency agreements; (ii) it wrongly leaned towards the “effective cause” requirement; (iii) it failed to consider or analyse[26] relevant “contextual background” matters, including the submission abbreviated as “conditional embargo”, and the line of cases relating to financial advisory agreements, etc.
+
+41.  DIO, on the other hand, has emphasised a “textual” approach, and has relied on the points that: (1) commercial common sense should not be invoked by the courts to undervalue the importance of the language of the provision which is to be construed; (2) where the parties have used unambiguous language, the court should apply it, and should be very slow to reject the natural meaning of a provision as correct simply because it appears to be a very imprudent term for one of the parties to have agreed, even ignoring the benefit of wisdom of hindsight.
+
+G.2   General approach to interpretation
+
+42.  The highest courts in Hong Kong and in England and Wales have returned often in recent years to the principles of the interpretation of contracts.[27] Reported cases deal of course with the difficult cases and it is easy to overlook the fact that the overwhelming majority of contracts are interpreted and performed without difficulty in accordance with their terms.
+
+43.  It is a truism that the starting point is the ordinary and natural meaning of the words of the contract, and of course in the vast majority of cases that is the ending point also.  But, as Ma CJ pointed out in Fully Profit (Asia) Ltd v Secretary for Justice,[28] in the more difficult cases it is not particularly helpful to refer to the “ordinary and natural meaning” of words because in such cases there can be much debate over exactly what is the ordinary or natural meaning of words; and in those cases the surer guide to interpretation is context. 
+
+44.  In Wood v Capita Insurance Services Ltd,[29] Lord Hodge JSC reviewed the many cases on interpretation and emphasised that interpretation was a unitary exercise.  That is why, where there are conflicting interpretations, account should be taken of the natural and ordinary meaning of the provision in question, the purpose of the contract and of the provision, other relevant provisions, the facts and circumstances known or assumed by the parties at the time that the contract was executed, the quality of the drafting of the instrument, and commercial common sense.
+
+45.  The following points emerge from the judgment of Lord Hodge JSC:
+
+(a)     it does not matter whether the more detailed analysis commences with the factual background and the implications of rival constructions or a close examination of the relevant language in the contract, so long as the court balances the indications given by each;
+
+(b)     the court must be alive to the possibility that one side may have agreed to something which with hindsight did not serve its interest, or that a provision may be a negotiated compromise or that the negotiators were not able to agree more precise terms;
+
+(c)     some agreements may be successfully interpreted principally by textual analysis, for example because of their sophistication and complexity and because they have been negotiated and prepared with the assistance of skilled professionals, whereas the correct interpretation of contracts which are marked by informality, brevity or the absence of skilled professional assistance may be achieved by a greater emphasis on the factual matrix;
+
+(d)     but negotiators of complex formal contracts may often not achieve a logical and coherent text because of, for example, the conflicting aims of the parties, failures of communication, differing drafting practices, or deadlines which require the parties to compromise in order to reach agreement; and
+
+(e)     commercial common sense and surrounding circumstances should not be used to undervalue the importance of the language of the provision which is to be construed, and the mere fact that a contractual arrangement, if interpreted according to its natural language, has worked out badly for one of the parties, is not a reason for departing from the natural language.
+
+46.  In our view, there is no substance to Eminent’s criticism of the Court of Appeal. The Court of Appeal plainly rejected[30] the notion that there was a conflict between a “textual” and a “contextual” approach, specifically relying on Lord Hodge’s judgment in Wood v Capita Insurance Services Ltd.[31] It is true that on one reading of paragraph 7.4, the Court of Appeal may be taken to have suggested that, in the case of professionally drafted documents, the context was relevant only to dealing with inconsistencies or gaps. There is no such limitation, but a fair reading of the judgment as a whole shows that the Court of Appeal was not excluding context in the whole process of interpretation.
+
+H.     The proper construction of the FAA
+
+47.  The relevant provisions of the FAA and Addendum are set out in Section B above.
+
+H.1   The FAA viewed overall
+
+48.  Eminent’s claim rests on Clause 3 i) which must be construed in the context of the FAA as a whole.  It is also to be construed on the undisputed footing that the FAA was entered into in order to provide DIO with international financial advice on fundraising with a view to DIO raising additional capital to expand its overseas business.
+
+49.  As the Second Recital declares, the FAA is an agreement appointing Eminent as Financial Advisor to render a range of services and providing for compensation to be paid to Eminent for furnishing the same.  In the present context, advice on “Strategic Capital Raising and other Corporate Financing activities” are of primary relevance.
+
+50.  The FAA establishes a relationship between Eminent and DIO which is to span 18 months (unless terminated by 30 days’ written notice).  It envisages Eminent delving into DIO’s business and performing the various tasks listed in Clause 2 i), being compensated for its work by different types of fees.  We are of course focussing on a “Transaction Fee” and the discussion is as to what triggers an obligation to pay the same.  However, under the FAA, Eminent is to receive compensation in the form of retainer and equity research fees whether or not a Transaction Fee is ever earned.  Other fees potentially payable in stages are provided for by the Addendum.  The FAA and the Addendum therefore do not constitute a simple agreement for payment of a commission upon an agent making a successful one-off business introduction.
+
+H.2   Entitlement to a Transaction Fee under the FAA during its currency
+
+51.  Entitlement to a Transaction Fee during the currency of the FAA is provided for by Clause 2 iv), which links such entitlement to services provided by Eminent of the nature referred to in Clause 2 i)(4), ie, advising DIO “on Mergers & Acquisitions, Fund Raising, private placements or shareholder restructuring prior to any IPO or Secondary Listing”.  These are different forms of transaction whereby DIO might raise funds to expand its overseas business, as intended by the parties.  A merger or acquisition would thus involve combining with a suitable partner enterprise. Fundraising is a more general concept, involving potential investors putting money into DIO’s business whether as equity or debt.  An “IPO or Secondary Listing” and the work preparatory thereto (“private placements or shareholder restructuring prior to” such events) envisage an offering of shares in DIO to the public.  Since DIO is already listed on the KOSDAQ, the possibility of a “Secondary Listing” on another stock exchange is contemplated.
+
+52.  Clause 2 iv), makes a completed transaction pivotal for entitlement to a Transaction Fee.  Thus:
+
+(a)     The clause is headed “TRANSACTION FEE”.
+
+(b)     The fee is a “success fee” payable “[u]pon completion of [the relevant transaction]”.
+
+(c)      The amount of the fee is 3% of the “total transactional amount”.
+
+(d)     The relevant transaction (which supplies the transactional amount for calculating the 3%) is “any financial transaction related to Fund Raising or Private Placement or Shareholder restructuring, or Mergers & Acquisition for the Company”.  The relevant transaction is thus one involving a form of fundraising for DIO, as seen in Clause 2 i)(4).
+
+(e)     Accordingly, a Transaction Fee is earned during the currency of the FAA upon the completion of a fundraising transaction, calculated as 3% of the amount raised, and paid to Eminent as a success fee reflecting the services it provided towards achieving completion of the transaction.
+
+53.  On the foregoing interpretation of Clause 2 iv), to earn a Transaction Fee, Eminent is required not merely to introduce the third party concerned, but to put in work towards achieving the successful completion of the actual fundraising transaction.  It is inconsistent with Eminent’s proposed construction that introduction of a third party (as opposed to introduction of a transaction) is all that is required.  It is noteworthy that neither the word “introduce” nor any of its derivatives appear in Clause 2 iv) whereas the word “transaction” appears four times. 
+
+H.3   Entitlement to a Transaction Fee under the Addendum
+
+54.  The provisions of the Addendum are relevant and admissible to interpret the FAA because the parties expressly agreed (Fifth Recital of the Addendum) that they were to be read together.
+
+55.  The construction which stresses the pivotal nature of the fundraising transaction and its completion is reinforced by the Addendum.  Thus, the Third Recital identifies Eminent’s role in “Financial Scenarios” listing additional forms of fundraising and makes it plain that these are “Transaction(s) ... conducted by the Company, its subsidiaries, etc”.[32] And the Fourth Recital refers to “the foregoing Success Fee” and excludes from it all “legal, accounting and audit costs for transactional due diligence and any specific circumstances required by the third parties, by law or by government regulations to retain professional services to complete a proposed transaction”.
+
+56.  Paragraph 1a, provides for a success fee payable in relation to a specific potential form of fundraising involving a listing or placement on the London Stock Exchange AIM and, like Clause 2 iv), it conditions entitlement to that fee on “completion of the listing or Secondary Placement”.  It lays down as the amount of the fee, 2% “of the transaction value”.  While this transaction does not arise on the facts, the structure of this provision, fixing upon completion of the transaction, is a further indication of the contractual intent.
+
+57.  Paragraph 1b focusses on “mergers & acquisition transactions involving the Company and a third party” and promises payment to Eminent “upon successful completion” within 14 days of the transaction’s closing date, of a success fee representing 3% of “the total transaction value in cash calculated based on enterprise value of the acquired company including any assumed liabilities.”  Payment is again of a “success fee” dependent on Eminent’s contribution to a successfully completed transaction. 
+
+58.  Paragraph 1d is also important.  Added in January 2009 in the period running up to their exploration of Dentsply’s possible interest in investing in DIO, Eminent negotiated an additional “fixed retainer” of USD$450,000 of which USD$200,000 was payable in stages (with instalments to be paid on signing; on approval of a potential M&A “transaction with a third party”; and on acceptance of “the term sheet for the Transaction(s) of any of the Financial Scenario(s)”).  The final payment of USD$250,000 is conditional upon “completion of any [sic] the Transaction(s) under the Financial Scenario(s)”. 
+
+59.  Paragraph 1d evidently caters for the eventuality that the intended interaction with the potential investor might come to nothing so that no success fee would be payable.  It provides for compensation to be paid to Eminent in stages as work is done and progress is made.  It demonstrates that Eminent is intended to be actively involved in bringing about completion of the transaction and compensated for its services at each stage.  Consistently with the FAA’s provisions conditioning entitlement to the Transaction Fee on a completed transaction, paragraph 1d makes entitlement to the final instalment dependent on successful completion of the relevant financial transaction while affording Eminent recompense for work done along the way.  There is no provision anywhere in the Addendum attaching a fee entitlement merely to “introduction” of a counterparty.  
+
+H.4   Entitlement to a Transaction Fee after termination of the FAA
+
+60.  Does the position differ regarding entitlement to a Transaction Fee under Clause 3 i)?  In our view, the answer is “No”.  The situation differs to the extent that it deals with Eminent’s entitlement to fees during the two-year period following termination of the FAA, but the requirement which triggers that entitlement is the same as during the FAA’s currency.  Indeed, it would be strange (as the Judge pointed out) if the entitlement to fees were different and in some way less demanding after its termination.
+
+61.  Under Clause 3 i), DIO agrees that within the two-year period, fees are payable “should the Company complete a transaction” which is described in terms echoing the description of transactions referred to in the First and Second Recitals and in Clause 2 iv).  They are, as we have seen, fundraising transactions.[33]  
+
+62.  The Transaction Fee payable is calculated on the same basis as during the FAA’s currency, Clause 3 i) providing for Eminent to be paid “its fees according to this Agreement [the FAA] or and [sic] any executed amendments thereof” [including the Addendum].  There is a fall-back provision to apply “a generally accepted market compensation in case the transaction compensation method is not explicitly stated in this agreement”.  Thus, one would expect a Transaction Fee applicable to Clause 3 i) to represent 3% of the total transactional amount of the successful fundraising transaction, in accordance with Clause 2 iv) and paragraph 1b of the Addendum.
+
+63.  One difference between Clause 3 i) and Clause 2 iv) is that the former refers to an introduction by Eminent.  It speaks of DIO completing a transaction “including and not limited to an [sic] secondary listing or fund raising with any third parties or receive funds from a financing source introduced by the Financial Advisor”.  Eminent seizes on this and, as noted above, argues that in Clause 3 i), “introduced by the Financial Advisor” qualifies “the ‘counterparty’ (ie a secondary stock exchange, a third party, or a financing source) with whom DIO entered into a deal or from whom DIO received funds, rather than ‘the transaction’”.[34]
+
+64.  We do not agree.  That argument disregards crucial words in the clause.  The words “introduced by the Financial Advisor” qualify “a transaction including and not limited to [a] secondary listing or fund raising with any third parties or receive funds from a financing source”.  It is the transaction which is successfully completed that Eminent has to introduce, being a transaction described as including but not limited to a secondary listing or fundraising, etc.  If Eminent introduces the third party but then plays no part or an insignificant part in bringing about the fundraising transaction eventually completed, there is no entitlement to a Transaction Fee. This construction dovetails with the pivotal requirement that the services rendered by Eminent must contribute to completion of the relevant fundraising transaction. 
+
+65.  Moreover, as a matter of language, when Clause 3 i) speaks of “[a] secondary listing ... introduced by the Financial Advisor”, it is not referring to Eminent introducing a counterparty.  A secondary listing is a transaction – referred to as a “Financial Scenario” in the Addendum, not a person.  This is reflected in the Addendum’s Third Recital which includes a secondary listing as one of the “Financial Scenarios” along with “backdoor listings, Public Placements, Private Placements, Mergers & Acquisitions (‘M&A’), Management Buy-outs (‘MBO’), Leverage [sic] Buy-outs (‘LBO’)”. 
+
+H.5   The function of Clause 3 i)
+
+66.  There is some suggestion by Eminent that making a Transaction Fee entitlement dependent on its having introduced DIO to the successfully completed transaction as opposed merely to a third party would somehow render the tail gunner clause “meaningless”.[35] We do not agree.
+
+67.  Clause 3 i) guards against Eminent being unfairly deprived of a Transaction Fee which it has substantially earned.  Since a completed transaction is the necessary trigger for the fee entitlement, a situation could arise where Eminent has done everything necessary to bring a fundraising deal to fruition but where, in the absence of Clause 3 i), it might be excluded from recompense by DIO deferring completion until after the FAA is terminated.  Thus, Clause 3 i) provides the financial adviser with a safeguard, ensuring that the fee is payable “should the Company complete [the relevant] transaction ... introduced by [Eminent]” during the two-year post-termination period.  Commercially, it is unlikely that a fundraising deal would be delayed by more than two years merely as an expedient for avoiding payment of the Transaction Fee.
+
+H.6   Irrelevance of Clause 4(a).
+
+68.  Eminent argues that Clause 4(a) supports its construction because it stipulates that Eminent “intends to introduce [DIO] to its contacts, including private and institutional financing sources or strategic alliances” and DIO agrees to respect Eminent’s relationships with such investors and sources of financing and to refrain from “the circumvention of any obligation to [Eminent] created by [the FAA] or any means”.
+
+69.  This adds nothing to the foregoing analysis. The relevant obligation which the FAA creates is for DIO to pay Eminent the Transaction Fee where it has introduced a successfully completed transaction. If that obligation has not been triggered, there is no question of circumvention.
+
+H.7   No presumption or implied term
+
+70.  Reliance has been placed in argument and in some of the decided cases on Article 57 in Bowstead & Reynolds on Agency[36] which states: 
+
+“Subject to any special terms or other indications in the contract of agency, where the remuneration of an agent is a commission on a transaction to be brought about, he is not entitled to such commission unless his services were the effective cause of the transaction being brought about.”
+
+71.  However, as the commentary in Bowstead & Reynolds makes clear, the statement in Article 57 is no more than a particular example of the wider principle stated in the preceding Article,[37] that where an agent is entitled to remuneration upon the happening of a future event, the entitlement does not arise until that event has occurred; and the event upon which the agent's entitlement to remuneration arises is to be ascertained from the terms of the agency contract. Everything depends on the contract’s construction and it is inappropriate to regard Article 57 as stating a substantive legal rule as to the existence of either a presumption or an implied term in favour of an “effective cause” requirement. 
+
+72.  It follows that there is no special approach to the construction of contractual terms governing post-termination payments to financial advisers. All depends on the application of the established rules on construction of contracts to the particular case.
+
+H.8   The authorities cited by the parties
+
+73.  The parties referred the court to many authorities (several involving the use of the term “introduction” or “introduce”) on the question whether it is necessary for the acts of an agent or adviser to be the effective cause of the contemplated transaction before the agent or adviser is entitled to a fee.
+
+74.  The basic principles emerged in connection with the activities of estate agents. In Millar, Son & Co v Radford,[38] Lord Collins MR said: “It was, therefore, important to point out that the right to commission did not arise out of the mere fact that agents had introduced a tenant or a purchaser.  It was not sufficient to show that the introduction was a causa sine qua non.  It was necessary to show that the introduction was an efficient cause in bringing about the letting or the sale.”  That was because “[t]he owner is offering to the agent a reward if the agent’s activity helps to bring about an actual sale”: Luxor (Eastbourne), Limited v Cooper.[39]
+
+75.  In Foxtons Ltd v Pelkey Bicknell,[40] Mrs Bicknell, the vendor, agreed to terms with Foxtons which provided for a commission of 2.25% of  the sale price achieved, on the basis of sole agency, payable if at any time unconditional contracts were exchanged with “a purchaser introduced by us during the period of our sole agency or with whom we have had negotiations about the property during that period; or with a purchaser introduced by or offering via another agent during that period.” Foxtons showed the house to a Mr Low, who was looking for a house on behalf of his former wife. He initially liked it but then lost interest when his former wife viewed it. The sole agency came to an end and Foxtons and Mrs Bicknell agreed a multiple agency agreement at a rate of 3%. Mrs Bicknell also appointed Hamptons on a multiple agency basis. Mr and Mrs Low visited the property some months later and Mrs Low purchased it. Mrs Bicknell paid Hamptons their commission. Foxtons then claimed theirs on the basis that contracts were exchanged with “a purchaser introduced by” them. The Court of Appeal decided that Foxtons were not entitled to the commission because, among other reasons (per Lord Neuberger of Abbotsbury): (1) the court will readily imply a term that the agent is not entitled to commission on a contract unless his services were the effective cause of the transaction being brought about, especially in the context of a residential consumer, unless the provisions of the particular contract or the facts of the case negative it; (2) the main reason for the implication of such a term is to minimise the risk of the seller having to pay two commissions; (3) the expression “a purchaser” in the phrase “a purchaser introduced by us” did not mean “a person who at some time in the future becomes a purchaser” regardless of whether his purchase or the interest which gave rise to it owed anything to Foxtons, but it meant “a person who becomes a purchaser as a result of our introduction”; and (4) the latter interpretation accorded better with the principles to be extracted from the cases, in particular the normal notion that an agent can only recover if he introduces someone who becomes a purchaser as a result of his introduction, and such an interpretation would also make it unlikely that the client would be liable for two commissions.
+
+76.  But the authorities make it clear that, although they lean towards the application of the “effective cause” principle either by interpretation of the express terms or by implication of a term to that effect, the principle will be displaced by language which points in a different direction: eg Brian Cooper & Co v Fairview Estates (Investments) Limited,[41] (“We confirm that we are pleased to offer a full scale letting fee to your company should you introduce a tenant by whom you are unable to be retained, and with whom we have not been in previous communication and who subsequently completes a lease”): “I can see no necessity in this case to imply a term. On the contrary, I regard the relevant language as being inconsistent with implication of a term imposing an additional implied requirement that the estate agent must be at least an effective cause of the lease being granted” (per Woolf LJ (as he then was)); The County Homesearch Co (Thames & Chilterns) Ltd v Cowham,[42] (deeming provision to the effect that a property was “introduced” if the defendant had either received particulars of the property from County Homesearch, directly or indirectly, or from any estate agent with which County Homesearch had regular contact): “express terms of the contract are inconsistent with any implied requirement that the agent be an effective cause of the transaction.” (per Longmore LJ).
+
+77.  By contrast, in MSM Consulting Limited v United Republic of Tanzania,[43] MSM was retained by Tanzania to search for new premises for its High Commission.  A fee was “payable by the Client upon completion of the purchase of a property which we have introduced to the client or representative of the Client.” Christopher Clarke J applied Foxtons and held that MSM was not entitled to the fee because it had not been the effective cause of the transaction: the implication of an “effective cause” term arises as a result of the nature of the transaction; and where an agent is engaged upon terms that his commission is not payable unless a contract is concluded between his client and a purchaser and the commission is to be a percentage of the price, the nature of the transaction and the requirements of business efficiency will usually (subject to any special terms or other indications in the contract of agency) dictate that the agent should be remunerated if, but not unless, it is his efforts that have brought about the transaction in question.
+
+78.  In cases in which the transactions are closer to the present case, it has been held that the terms of the contract were inconsistent with an interpretation of the language, or the use of an implied term, to require the agent or adviser to have been the effective cause of the transaction. Thus in Watersheds v Christopher Simms,[44] a businessman who had entered into a seven-year contract with a company providing corporate services to help him finance, purchase, develop and then sell a business was liable to pay the company its agreed percentage of the sale proceeds even though the company had not done any work in connection with the sale. The contract was not analogous to an estate agent’s contract with a seller and it would be inconsistent with the purpose of the contract to construe it as containing an implied term allowing the company to be paid only if its work had been an effective cause of the sale.
+
+79.  In two cases involving a “tail gunner clause”, an adviser was held entitled to fees on transactions which were completed after termination of the advisory contract and which the adviser did not bring about.
+
+80.  In Seymour Pierce Limited v Grandtop International Holdings Limited,[45] a financial adviser gave advice to a company pursuant to a letter of engagement in connection with the acquisition of a football club and claimed a success fee. The contract provided that “in the event the engagement pursuant to this letter of engagement is terminated by the Company and an Offer for the Target is declared or becomes wholly unconditional as the result of any offer made by or in association with the Company within a period of 12 months after the effective date of termination the Company shall pay to Seymour Pierce the Success Fee in full.” One of the defences to the claim was that the adviser should not be able to recover the fee because it was not involved in the ultimate acquisition. Eady J held that there was no need to imply an effective cause term as a matter of business efficacy. The clause was entirely comprehensible without any such implication.
+
+81.  So also in Edmond de Rothschild Securities (UK) Ltd v Exillon Energy plc,[46] the defendant agreed that “[Rothschild] has the exclusive right to act as its financial advisor in connection with the Transaction. If, notwithstanding the termination of this agreement, the Company completes the Transaction within a period of eighteen months from the date of such termination, the appropriate fee ... shall be payable to [Rothschild].”  It was held that a term that the success fee was payable in certain events was clear and that there was no need to imply a term.  The natural meaning was supported by the consideration (inter alia) that it would generally be difficult for Rothschild to prove that its work constituted an effective cause of a sale.
+
+82.  On the other hand in Cavendish Corporate Finance LLP v KIMS Property Co Ltd,[47] (“In the event of a successful fundraising from the Cavendish exercise, a fee of 3.5 per cent of new monies raised (‘success fee’) from the investor ...”) the judge interpreted the expression to mean that the success fee was payable only if Cavendish’s work was an effective cause of the deal that was done.
+
+83.  Both parties relied on United States cases. Eminent cited five cases from the Southern District of New York (applying New York law) in which major investment banks sued successfully for fees notwithstanding that the client alleged that the financing envisaged under the agreement was not obtained through the investment bank.
+
+84.  In each of these cases, the court found that the language of the financing agreement clearly had the result that the investment bank was entitled to payment: PaineWebber Inc v Campeau Corp,[48] (“... there is nothing ambiguous .... The bonus payment ... is conditioned upon the occurrence of a well-defined event, that is, an Acquisition of Allied. There is nothing on the face of the agreement that suggests PaineWebber would have to perform additional services in order to receive the bonus payment of $5.75 million”); Chase Manhattan Bank NA v Remington Products Inc,[49] (“... Engagement Agreement provided that if a Transaction (or an agreement leading to a Transaction) was in place by the end of a one year ‘tail period’ …, Chase would receive a fee under the same terms and in the same manner as during the term of the Agreement ... Nor does [the Agreement] condition Chase’s receipt of a fee on its bringing about a Transaction or on the consummation of any particular type of Transaction. The sole prerequisite to payment listed ... is the consummation of a Transaction (or the signing of an agreement that results in a Transaction)”; Lazard Freres & Co v Crown Sterling Management[50] (“The Agreement specifically provided that Lazard would be entitled to its fees upon the occurrence of certain events, ‘regardless of whether [Lazard] is responsible for arranging said events.’”); CIBC World Markets Corp v TechTrader, Inc,[51] (“This clause creates an unambiguous duty on the part of TT to pay the fee if the stipulated Transaction occurs”).
+
+85.  In the most recent of the decisions cited by Eminent, Deutsche Bank Securities Inc v Rhodes,[52] (“During the Exclusivity Period, the Company agrees that DBSI shall have the right, but not the obligation, to act as sole book-running manager, and DBSI has the right but not the obligation, to act as exclusive underwriter, initial purchaser, placement agent or syndication agent in connection with any bank or loan financing consisting of institutional and/or pro rata loans of, the Company or its subsidiaries during the term of this Agreement on a best efforts basis”) the District Court referred to those four  cases, and said (at 668-669):
+
+“... it is not uncommon in the investment banking field for investment banks to be contractually entitled to fees even when they do not arrange or facilitate the transactions.
+
+…
+
+The cases are different, as they involve different contracts and different language. But the concepts are the same. In these cases, the language of the agreements and the totality of the circumstances showed unambiguously that the investment banks were entitled to fees, under exclusivity provisions, even if the clients obtained financing through others. Comparable language and circumstances exist here.”
+
+86.  DIO does not accept that financial advisers are a well-established and specialised category of service providers, and says that in the United States authorities the clauses were wholly different from Clause 3 i), are not authority for any general proposition of industry practice of financial advisers in general, or in Hong Kong in particular.
+
+87.  Instead, DIO relies on two cases from the Third Circuit Court of Appeals (applying New Jersey law) in which it was re-affirmed that under New Jersey law there is a presumption that when a brokerage contract is silent as to the service required to earn a commission from a seller or buyer, a commission will be earned only if the broker was the “efficient producing cause” of the sale: Inventive Music Ltd v Cohen[53] (agent for sale of the defendant’s record company); Vanguard Telecommunications, Inc. v Southern New England Tel Co.[54]  In the latter case (agent for the sale of the defendant’s fibre optic systems), the court said (at 651):
+
+New Jersey common law ... presumes that when a brokerage contract is silent as to the service required to earn a commission from a seller or buyer, a commission will be earned only if the broker was the “efficient producing cause” of the sale ... This presumption is based on public policy intended to effectuate justice between the parties and is not intended to rewrite an agreement which the parties deliberately executed ...
+
+To overcome this presumption, an agreement must contain language which explicitly negatives the presumption. The contract language presented must be “without qualification, and … emphatic and specific in statement” [citing an earlier case] ... Absent language which specifically abrogates the common law presumption, that presumption prevails; commissions will only be awarded to a broker who was the efficient cause of the sale.
+
+88.  The decisions in the Southern District of New York are in line with the English authorities in making it clear that the question is solely one of interpretation. It is plain from the language of presumption and the invocation of public policy that the principle applied in New Jersey does not represent the law in Hong Kong.
+
+89.  Outside the sphere of estate agents, where (especially in the residential consumer context) there is a common understanding of the agent’s duties and the consequences of the absence of a presumption or of an implied term, there is little to be said for a presumption, and nothing to be said for an implied term.  All will depend on the construction of the term in question in the context of the agreement as a whole and the purpose of the transaction.
+
+H.9   Grey areas and an “effective cause”
+
+90.  A requirement that the financial adviser’s contribution be an “effective cause” of the transaction may possibly arise in a different but related context.  Where parties agree to a “tail gunner clause”, they inevitably run the risk of creating grey areas which may give rise to controversy.  Thus, the financial adviser may have gone beyond merely introducing the client to the potential investor and done a significant amount of work in promoting the deal which is eventually completed after termination of the FAA but within the run-off period.  The client (or a replacement financial adviser) might however have taken up the running and made substantial contributions essential to achieving that completion.  It may thus be arguable whether, on particular facts, the financial adviser has done enough to be entitled to the fee.  Unless the agreement deals explicitly with that question, the issue would arise as to what the proper criterion is for determining the answer. 
+
+91.  This issue does not presently arise since, on the Judge’s findings, Eminent did not introduce or contribute anything at all to the transaction entered into between DIO and Dentsply and announced on 9 December 2010.  We simply mention that where such a grey area does arise, a possible approach might be to construe the contract as recognising an entitlement to a success fee where the financial adviser’s advice and assistance is found to be an “effective cause” of the transaction’s completion, a criterion adopted in some of the decided cases.  Once again, all will depend on the interpretation of the agreement.
+
+I.     Conclusion
+
+92.  For the foregoing reasons, in agreement with the Court of Appeal, we consider the meaning of Clause 3 i) on its true construction to be clear.  There is no need to consider implication of any term into the FAA for present purposes.  Eminent’s entitlement to the Transaction Fee claimed requires it to have introduced DIO to the completed transaction which was announced on 9 December 2010.  It was insufficient for Eminent simply to have introduced DIO to Dentsply in April 2009. 
+
+93.  There was accordingly no entitlement to payment under Clause 3 i) and we therefore dismissed this Appeal with costs.
+
+Mr Justice Fok PJ:
+
+94.  I agree with the joint Reasons for Judgment of Mr Justice Ribeiro PJ and Lord Collins of Mapesbury NPJ.
+
+Mr Justice Cheung PJ:
+
+95.  I agree with the joint Reasons for Judgment of Mr Justice Ribeiro PJ and Lord Collins of Mapesbury NPJ.
+
+Chief Justice Ma:
+
+96.  For the above-mentioned Reasons, the appeal was unanimously dismissed with costs.
+
+ 
+
+ 
+
+(Geoffrey Ma)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+(Andrew Cheung)	(Lord Collins of Mapesbury)
+Permanent Judge	Non-Permanent Judge
+  
+
+Mr Wong Yan Lung SC and Mr Jenkin Suen SC, instructed by Tang & So, for the Plaintiff (Appellant)
+
+Mr Charles Sussex SC and Mr Richard Zimmern, instructed by DLA Piper Hong Kong, for the Defendant (Respondent)
+
+[1] Korean Securities Dealers Automated Quotations board of the Korea Exchange, the Korean equivalent of the NASDAQ, the National Association of Securities Dealers Automated Quotations exchange, in the US.
+
+[2] HCA 1292/2011 (23 September 2016) at §229.
+
+[3] Ibid §50. Pleaded guilty on 28 April 2011.
+
+[4] Ibid §256.
+
+[5] Ibid §§253-254.
+
+[6] Ibid §33.
+
+[7] Ibid §257.
+
+[8] Clause 1).
+
+[9] The expression is used in financial circles in relation to fees for transactions which complete after the termination of an adviser’s engagement: see Kilometre Capital Management Cayman v Shanda Games Limited HCA 2009/2014 (13 July 2015), §9.
+
+[10] Paragraph 1 of the Addendum makes it clear that its sub-paragraphs, including a, b and d, are “an addendum to the existing ‘ENGAGEMENT & FEE STRUCTURE’, Section 2 on page two of the [FAA]”.
+
+[11] Appearing with Mr Jenkin Suen SC.
+
+[12] Eminent Written Case §58.
+
+[13] Ibid §66(6).
+
+[14] Ibid §71.
+
+[15] Ibid §13.
+
+[16] Ibid §§34-38.
+
+[17] Ibid §§40-41.
+
+[18] Appearing with Mr Richard Zimmern.
+
+[19] DIO Written Case §61.
+
+[20] Ibid.  Article 57 of Peter Watts and F M B Reynolds, Bowstead & Reynolds on Agency (2018) 21st Ed, §7-027 is cited in support of the “general rule”, discussed below in Section H.7 of these Reasons.
+
+[21] CFI §257.
+
+[22] DIO Written Case §§71-78.
+
+[23] Summarised at CFI §§212-218.
+
+[24] Kwan VP, Cheung and Au JJA [2019] HKCA 606 at §§7.5-7.10.
+
+[25] CA§§7.1-7.4.
+
+[26] Ibid §§7.8-7.9.
+
+[27]   Including Prenn v Simmonds [1971] 1 WLR 1381; Investors Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 WLR 896; Jumbo King Ltd v Faithful Properties Ltd (1999) 2 HKCFAR 279; Bank of Credit and Commerce International SA v Ali [2002] 1 AC 251; River Trade Terminal Co Ltd v Secretary for Justice (2005) 8 HKCFAR 95; Re Sigma Finance Corp (in administrative receivership) [2009] UKSC 2, [2010] 1 All ER 571; Rainy Sky SA v Kookmin Bank [2011] UKSC 50, [2011] 1 WLR 2900; New World Harbourview Hotel Co Ltd v ACE Insurance Ltd (2012) 15 HKCFAR 120; Fully Profit (Asia) Ltd v Secretary for Justice (2013) 16 HKCFAR 351; Sinoearn International Ltd v Hyundai-CCECC Joint Venture (2013) 16 HKCFAR 632; Arnold v Britton [2015] UKSC 36, [2015] AC 1619; Wood v Capita Insurance Services Ltd [2017] UKSC 24, [2017] AC 1173.
+
+[28] (2013) 16 HKCFAR 351 at §15.
+
+[29]   [2017] AC 1173.
+
+[30] CA§7.4.
+
+[31] [2017] AC 1173 at §13.
+
+[32] “... including but not limited to Secondary Listings in an overseas stock market, backdoor listings, Public Placements, Private Placements, Mergers & Acquisitions (‘M&A’), Management Buy-outs (‘MBO’), Leverage [sic] Buy-outs (‘LBO’) in one or series of Transaction(s) in any form including and not limited to loans, bonds, common stock, preferred stock, convertible securities or equity linked debt instruments of any kind conducted by the Company and its subsidiaries and affiliates directly or from any registered shareholder(s) of the Company.”
+
+[33] “... [A] transaction including and not limited to an [sic] secondary listing or fund raising with any third parties or receive funds from a financing source introduced by the Financial Advisor”.
+
+[34] Eminent Written Case §71.
+
+[35] Eminent Written Case §66(5).
+
+[36] Peter Watts and F M B Reynolds, (2018) 21st Ed, §7-027.
+
+[37] Ibid,Article 56, §7-013.
+
+[38] (1903) 19 TLR 575.
+
+[39] [1941] AC 108 (HL), 117 (Viscount Simon LC).
+
+[40] [2008] EWCA Civ 419, [2008] 2 EGLR 23 (CA).
+
+[41] [1987] 1 EGLR 18 (CA).
+
+[42] [2008] EWCA Civ 26, [2008] 1 WLR 909 (CA).
+
+[43] [2009] EWHC 121 (QB) (Christopher Clarke J).
+
+[44] [2009] EWHC 713 (QB) (Burnett J).
+
+[45] [2010] EWHC 676 (QB) (Eady J).
+
+[46] [2014] EWHC 2165 (Comm) (Males J).
+
+[47] [2014] EWHC 1282 (Ch) (Mark Anderson QC).
+
+[48] 670 F Supp 100 (SDNY 1987), at 105.
+
+[49] 865 F Supp 194 (SDNY 1994), at 197 and 199.
+
+[50] 901 F Supp 133 (SDNY 1995), at 137.
+
+[51] 183 F Supp 2d 605 (SDNY 2001), at 611.
+
+[52] 578 F Supp 2d 652 (SDNY 2008), at 657.
+
+[53] 617 F 2d 29, 32 (3d Cir 1980).
+
+[54] 900 F 2d 645 (3d Cir 1990).
+
+  

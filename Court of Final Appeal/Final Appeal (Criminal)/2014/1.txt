@@ -1,0 +1,381 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No. 1 of 2014
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 1 OF 2014 (CRIMINAL)
+
+(ON APPEAL FROM HCMA NO. 110 OF 2012)
+
+____________________
+
+BETWEEN
+
+ 	HKSAR
+Appellant
+ 	- and -	
+ 	FUGRO GEOTECHNICAL SERVICES LIMITED	Respondent
+____________________
+
+Before:	Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Tang PJ, Mr Justice Fok PJ and Mr Justice Spigelman NPJ
+Date of Hearing and Judgment:	20 October 2014
+Date of Reasons for Judgment:	7 November 2014
+___________________________
+
+REASONS FOR JUDGMENT
+
+___________________________
+
+Mr Justice Fok PJ:
+
+1. It is self-evident that undertaking certain activities in the proximity of electricity supply cables, be they overhead or underground, is inherently dangerous and poses risks of personal injury or death, damage to property and disruption of the electricity supply.  In this case, employees of the respondent company hammered iron rods into the ground and, in doing so, damaged an underground 132kV electricity cable.  The respondent was charged with breaching the Electricity Supply Lines (Protection) Regulation[1] and this appeal, arising from the Judge’s quashing of the respondent’s conviction by the Magistrate, raised questions of statutory construction of certain provisions in the Regulation.
+
+2. At the conclusion of the hearing, the Court allowed the appeal and made costs orders as set out below, indicating that our reasons would be handed down in due course.  These are our reasons.
+
+A. The facts
+
+3. The respondent was engaged by the MTR Corporation Limited (MTR) under a contract to perform “Ground Investigation for Slope Improvement Works” at a site adjacent to the East Rail Line near Tai Po Tau.  Before beginning the work under the contract, the respondent wrote to CLP Power Hong Kong Limited (CLP) who replied enclosing a scale drawing of the locations of their underground electricity cables in the area where the work was to be carried out.
+
+4. On 10 January 2011, work commenced with the setting up of a boundary for the works site prior to the commencement of underground electricity cable detection work by a competent person[2] which was due to take place the following day.  To establish this boundary, which ran alongside the railway track, two workers of the respondent drove iron rods into the ground around the designated area to which orange nets were then attached.  They did so manually using hammers but without the use of machinery of any kind.  Each of the rods was between 1 to 2 metres long and was driven into the ground to a depth of about one foot (200-300 mm).  The area to be enclosed was about 100 metres long on each side.  On the day in question, the concrete cover protecting an underground electricity cable and the 132kV cable itself, which was buried 500 to 600 mm below ground, were damaged by one of the iron rods driven into the ground by the respondent’s workers.  As a result of the damage caused to the underground cable, there was a voltage drop of 96% in the supply of electricity at 2.26pm on 10 January 2011.  There was evidence, on inspection, of burn marks on the cable and its concrete cover.  Fortunately, no one was injured.
+
+B. The proceedings below
+
+5. As a result of the incident, the respondent was charged with the offence of “carrying out works below ground level in the vicinity of an underground electricity cable without having taken all reasonable steps to ascertain its existence”, contrary to sections 10(1)(a) and 17(3) of the Regulation.[3] The particulars of the offence read as follows:
+
+“Information has been laid THAT YOU on or about 10/1/2011, at the location of a works site at the slope of MTR East Rail Line opposite to Tai Po Tau pumping station, Tai Po Road-Tai Wo Section, New Territories, carried out works in the vicinity of an underground electricity cable which were below ground level and, before the works were begun failed to take all reasonable steps to ascertain the existence within the proposed works site and its vicinity of any such underground electricity cable and its alignment and depth.”
+
+6. On 19 January 2012, after trial,[4] the Magistrate[5] convicted the respondent of the offence charged.  He addressed the issue of whether the act of the respondent fell within the definition of “ramming” in section 2 of the Regulation[6] and concluded that it did.[7]  He then addressed the issue of whether the act of the respondent was work necessary to ascertain the alignment and depth of an underground electricity cable, and thus excluded work under section 2 of the Regulation, and concluded that it was not.[8]  After addressing certain other issues not relevant to this appeal, the Magistrate found the respondent guilty of the offence and imposed a fine of HK$7,500.
+
+7. The respondent appealed against the conviction.[9] By her judgment dated 20 May 2013, the Judge[10] allowed the appeal and quashed the respondent’s conviction and set aside the sentence.  She held that (i) hammering by hand was not within the definition of works, specifically “ramming”, in section 2 of the Regulation,[11] and (ii) that the respondent’s conduct fell within the exclusion in the definition of works in section 2 of the Regulation.[12]
+
+C. The certified questions
+
+8. By Notice of Motion dated 28 May 2013, the prosecution applied to the Judge for a certificate that two points of law of great and general importance were involved in the appeal.  That application was refused by the Judge on 7 June 2013 and an application for leave to appeal was therefore made to the Appeal Committee of this Court which, on 28 January 2014, granted leave to appeal on the following two points of law of great and general importance, namely:
+
+“First question:
+
+Whether or not the word ‘ramming’ in section 2(a)(vi) of the Electricity Supply Lines (Protection) Regulation, Cap.406H, should be construed as ‘ramming involving at least the use of machinery’ and ‘excluding the act of hammering by hand’?
+
+Second question:
+
+What types of works fall within the exemption of ‘works necessary to ascertain the alignment and depth of an underground electricity cable’ as provided by section 2 of the Electricity Supply Lines (Protection) Regulation, Cap.406H – in particular, whether or not works that are preparatory in nature and not being part of the actual works to ascertain the alignment and depth of an underground electricity cable fall within the said exemption?”
+
+D. The statutory provisions
+
+9. The Regulation was made under section 59 of the Electricity Ordinance[13].
+
+10. Section 10 of the Regulation, under the heading “Works in Vicinity of Electricity Supply Lines”, provides:
+
+“10. Requirements relating to works in vicinity of electricity supply lines
+
+(1) A person shall not –
+
+(a) carry out or cause or permit another to carry out in the vicinity of an underground electricity cable any works which are below ground level; or
+
+(b) carry out or cause or permit another to carry out in the vicinity of an overhead electricity line works of any kind,
+
+unless before the works are begun all reasonable steps have been taken to ascertain the existence within the proposed works site and its vicinity of any such underground electricity cable and its alignment and depth or of any such overhead electricity line and its alignment, distance from the ground and voltage, as the case may be.”
+
+11. Subject to the exemption provided for, section 10(1)(a) prohibits the carrying out of any works which are below ground level in the vicinity of an underground electricity cable[14] and section 10(1)(b) prohibits the carrying out of works of any kind in the vicinity of an overhead electricity line.[15]  The exemption applies when, before the works are begun, all reasonable steps have been taken to ascertain the existence within the proposed works site and its vicinity either of any such underground electricity cable and its alignment and depth, or of any such overhead electricity line and its alignment, distance from the ground and voltage.
+
+12. In relation to the taking of reasonable steps in relation to works in the vicinity of an underground electricity cable, section 10(3) of the Regulation provides that these:
+
+“…shall not be regarded as having been taken unless a competent person has undertaken an investigation for the purpose of ascertaining the existence within the proposed works site and its vicinity of any such underground electricity cable and its alignment and depth and has provided a written report of his findings as to those matters.”
+
+13. By section 10(4), the taking of all reasonable steps will be deemed where there has been compliance with the provisions of a code of practice for any of the requirements of sections 10(1)(a) or (b) approved by the Director of Electrical and Mechanical Services.[16] The Director has issued a Code of Practice on Working near Electricity Supply Lines,[17] which provides, among other things, a table defining the distance within which works below ground level will be considered to be “works in the vicinity of U/G cables”.[18]
+
+14. Section 17(3) of the Regulation provides that a person who contravenes any requirement of section 10(1)(a) or (b) commits an offence and is liable to a fine at level 4 and to imprisonment for 6 months.
+
+15. Section 2 of the Regulation defines “works site” as meaning “any area in which works are being carried out” and, crucially for this appeal, “works” as meaning:
+
+“(a) any kind of works involving or in connection with –
+
+(i) building works within the meaning assigned to that term in section 2(1) of the Buildings Ordinance (Cap 123), and for the purposes of this subparagraph reference in that section to ‘ground investigation in the scheduled areas’ shall be read as a reference to ‘ground investigation’;
+
+(ii) the laying out, construction, alteration or repair of any road (whether or not at ground level), footpath, cycle track, pedestrian subway, footbridge, tunnel, airport runway, canal, reservoir, pipeline, railway or tramway;
+
+(iii) trench works, including –
+
+(A) water mains, storm water drains and sewers; and
+
+(B) such works when carried out by or for any public utility;
+
+(iv) the extraction of material from land or the seabed;
+
+(v) landfill works, river training works, slope works or reclamation works; or
+
+(vi) levelling, piling, ramming, dredging, boring, tunnelling or blasting works;
+
+(b) the use of any crane or hoist (within the meaning assigned to those terms in regulation 2(1) of the Construction Sites (Safety) Regulations (Cap 59 sub. leg. I)) or other equipment for the purpose of lifting objects;
+
+(c) the use of any heavy machinery or other equipment for the purpose of earth moving,
+
+but does not include works necessary to ascertain the alignment and depth of an underground electricity cable, nor any electrical work carried out by a registered electrical worker or registered electrical contractor;”.
+
+E. The issues in this appeal
+
+16. As will be apparent from the certified questions of law set out above, the issues in this appeal concern the proper construction of:
+
+(1) the word “ramming” in section 2(a)(vi) of the Regulation (Issue 1); and
+
+(2) the exclusion in section 2 of the Regulation relating to works “necessary to ascertain the alignment and depth of an underground electricity cable” (Issue 2).
+
+17. No issue arises in the present case regarding the exemption in section 10(1)(a), namely that, before the works were begun, all reasonable steps had been taken to ascertain the existence within the proposed works site and its vicinity of any underground electricity cable and its alignment and depth. In other cases under section 10(1) of the Regulation, however, that defence may be raised and, in that event, compliance with the Code of Practice, shall be deemed to constitute the taking of all reasonable steps for the purposes of that requirement.[19] Chapter 3 of the Code of Practice, the introduction to which summarises its contents[20], sets out the reasonable steps for working near underground electricity cables.
+
+18. In the present case, it was never the case of the respondent that it had taken all reasonable steps to ascertain the existence within the proposed works site and its vicinity of any underground electricity cable and its alignment and depth before the iron rods were hammered into the ground.  On the evidence, the provisions of section 10(3) of the Regulation plainly could not be shown to have been complied with.  Indeed, a competent person had yet to be appointed and the establishment of the boundary of the works was done as a precursor to cable detection work due to take place the following day, so cable detection was not even to begin until after the carrying out of the work subject to the charge in this case.  There could therefore be no basis for suggesting that there was compliance with section 10(3) of the Regulation or the Code of Practice by the taking of all reasonable steps as required.
+
+19. As to the approach to statutory construction, it is common ground that the Court should adopt a purposive approach, construing the statutory language having regard to its context and purpose.[21]
+
+F. Issue 1: the proper construction of “ramming”
+
+20. For the appellant, Mr William Tam[22] contended that the respondent’s act of hammering by means of a hand-held tool fell within the definition of “ramming” and the use of machinery is not necessary for the act of hammering to fall within that definition.  The appellant supported the Magistrate’s construction and contended that the Judge was in error in her construction.
+
+21. For the respondent, Mr Clive Grossman SC[23] contended that, considering the purpose of the legislation and the context of the word, “ramming” involves at least the use of machinery and excludes the act of hammering by hand.  The respondent therefore sought to support the Judge’s construction overturning the conclusion of the Magistrate on this issue.
+
+(a) The natural and ordinary meaning of “ramming”
+
+22. When it is said that context is the starting point, together with purpose, in statutory interpretation,[24] that is not to say that one puts the words being construed to one side.  On the contrary, since contextual and purposive construction is a tool or aid to assist a court in arriving at an interpretation that gives effect to the legislative intention, one must always have regard to the particular words used by the legislature in expressing its will.  A court cannot attribute to a statutory provision a meaning which the language of the statute, understood in the light of its context and the statutory purpose, is incapable of bearing.[25]  For that reason, one must necessarily look to the statutory language to see what meaning or meanings it is capable of bearing.
+
+23. In the present case, the word “ramming” is one which does not, on its own, provide an indication as to whether it is to be read as requiring the use of machinery or not.  It is a general word and its dictionary meaning[26] includes: “To force or drive down or in by heavy blows; to drive (piles, etc.) into the soil in this way”.  It also means “To cram, stuff, thrust (a person or thing) into something” and, in this sense, it may be used literally, to refer to a physical act of pushing or thrusting, or figuratively, to refer to a non-physical act of pressing or emphasising (e.g. “ramming a point down someone’s throat”).  Therefore, little assistance is to be derived in construing the word “ramming” from what may be said to be its natural or ordinary meaning.
+
+24. That resort to the dictionary meaning of the word is of limited assistance is illustrated by the evidence given by the respondent’s expert witness at trial that, as an engineer, he would regard “ramming” as involving the hoisting of an object by heavy machinery so as to enable it to hit against another object for the purpose of ground penetration and that he believed this meant that heavy machinery of a large scale was inevitable in ramming.  The appellant takes issue with the suggestion that “ramming” has a technical meaning but the debate itself demonstrates that one cannot derive an answer to this particular construction issue by reference to the natural or ordinary meaning of “ramming”.
+
+25. What one can conclude from the natural or ordinary meaning is that “ramming” can be an act of forcing or driving an object into something else by means of a tool, such as a hammer.  One must then look to context and purpose to determine if the act requires the hammering to be by machine or whether it can be performed by hand.
+
+26. The respondent did not suggest that the word “ramming” be given its natural or ordinary meaning but that, instead, it should be given its technical meaning in the context of construction or engineering practices.  As indicated above, reliance is placed on the evidence of its expert witness at trial. However, the Magistrate’s analysis of the respondent’s expert’s evidence at trial[27] indicates that the expert’s conclusion that ramming involved the use of machinery was in the nature of a personal opinion and not supported by any authoritative scientific or other materials.  More importantly, the conclusions reached by reference to the contextual and purposive construction of “ramming”, discussed below, do not support a conclusion that the word is used in a technical sense as contended by the respondent and so the expert evidence would not, in any event, be admissible on this issue.
+
+(b) The contextual meaning of “ramming”
+
+27. The definition of “works” within the Regulation provides the immediate context of the word “ramming”.  An examination of that definition reveals the following significant features that bear on the meaning of the word.
+
+28. First, the definition of “works” is wide and embraces a multitude of different concepts.  Paragraph (a) of the definition begins by providing that “works” means “any kind of works involving or in connection with” various matters so the definition is wider than just the specific items identified in sub-paragraphs (i) to (vi) but extends to embrace additional or ancillary acts which are involved or in connection with them.  There is nothing to suggest that these additional or ancillary acts have to be mechanical acts or require the use of machinery.
+
+29. Secondly, of the items identified in sub-paragraphs (i) to (vi), at least five are projects or specific tasks or ends of work rather than the means or processes by which those ends are achieved.  Thus, sub-paragraph (i) refers to works involving or in connection with “building works” specifically as defined in the Buildings Ordinance.[28] Sub-paragraph (ii) refers to works involving or in connection with the laying out (etc.) of any of various types of route or way.  Sub-paragraph (iii) refers to works involving or in connection with trench works, (iv) to extractions from the land or seabed, and (v) to landfill works, river training works, slope works or reclamation works.  All these matters are projects or specific tasks or ends of work and, as such, “any kind of works” which involve or are in connection with those projects must, by definition, include a very wide range of possible activities some of which need not involve the use of machinery.  Indeed, the reference to “building works” exemplifies this.  As defined in the Buildings Ordinance, “building works” include “any kind of building construction, … repairs, demolition, alteration, addition and every kind of building operation, and includes drainage works”.  The latter, “drainage works”, is further defined to include “any work connected with the construction, repair, alteration, disconnexion, trapping and ventilation of drains or sewers”.
+
+30. Thirdly, although the acts identified in sub-paragraph (vi) (“levelling, piling, ramming, dredging, boring, tunnelling or blasting works”) are, in contrast, all specific processes or means by which various projects or ends may be achieved, “any kind of works involving or in connection with” those processes is within the definition of “works”.  This again suggests a very wide range of possible activities which may fall within the definition.  More importantly, though, the various processes listed in sub-paragraph (vi) include means of work which do not necessarily require the use of machinery of any kind.  Levelling and tunnelling works, and certainly works in connection with those processes, can be done by hand and blasting works do not necessarily require machinery.
+
+31. Fourthly, paragraphs (b) and (c) of the definition of “works” expressly refer to “the use of any crane or hoist … or other equipment” and “the use of any heavy machinery or other equipment” respectively for the two processes there referred to, namely “lifting objects” and “earth moving”.  This demonstrates that where the use of machinery is required for works to come within the definition, the Regulation makes express reference to such machinery.  By contrast, in sub-paragraph (vi), there is no express reference to any machinery and this provides a strong indication, as a matter of context, that it is not a necessary part of the processes there enumerated.
+
+32. The respondent contended that the items in sub-paragraph (vi) provide a genus of works, all of which are works of a large magnitude or scale, destructive in nature or involving major disruption to the earth and thus requiring the use of machinery.  However, even if some of those processes may involve the use of machinery, it is equally clear that some of them, for example levelling, tunnelling or blasting works, may be carried out without machinery.  This undermines the argument that ramming must therefore be construed consistently to mean an act done by machinery.  There is simply no relevant genus with which to be consistent.
+
+33. A further contextual point of relevance is the fact that, in Hong Kong, underground electricity cables are not necessarily buried so deeply underground that they cannot be interfered with by the use of hand-held tools or, as a corollary, that only ramming by the use of a machine might interfere with them.  Table 2 of the Code of Practice provides information on typical buried depths of underground cables in Hong Kong and these depths range in some cases[29] from as shallow as 450 mm.  That being the case, there is all the more reason to include non-mechanical ramming within the definition of “works” since even such ramming could result in contact with underground electricity cables at such shallow depths.
+
+(c) The purposive meaning of “ramming”
+
+34. As indicated in the opening paragraph of this judgment, carrying out work in the vicinity of electricity cables is inherently dangerous and may be potentially highly disruptive.  It is therefore of little surprise that the long title of the Ordinance includes as one of its objectives “… to provide for measures designed to ensure that activities carried out in the vicinity of electricity supply lines do not prejudice safety or the continuity of the electricity supply”.
+
+35. To this end, section 59(1) of the Ordinance provides that the Chief Executive in Council may make regulations “for the general purposes of this Ordinance including regulations for all or any of the following matters”, including:
+
+“(ia) measures designed to ensure that activities performed in the vicinity of electricity supply lines are performed in a manner that minimizes causing an electrical accident or interruption to the supply of electricity;”.
+
+36. The Regulation having been made pursuant to section 59 of the Ordinance, it is abundantly clear that its legislative purpose is safety and the prevention of interruption to the electricity supply.  The following aspects of the Regulation firmly reinforce this.
+
+(1) The title of the Regulation itself refers to the “protection” of electricity supply lines. 
+
+(2) The Regulation provides a detailed scheme for the grant by the Director of approval to a person as “a competent person for the purposes of this Regulation”.[30] This involves the person attending and passing a course in locating underground electricity cables, not less than 6 months’ practical experience in locating such cables and competence in locating them.[31]  As already pointed out, section 10 of the Regulation sets out requirements relating to works in the vicinity of supply lines.  For the purposes of demonstrating that reasonable steps have been taken for the purposes of the exemption in section 10(1), it is necessary that a competent person “has undertaken an investigation for the purpose of ascertaining the existence within the proposed works site and its vicinity of any such underground electricity cable and its alignment and depth and has provided a written report of his findings as to those matters.”[32]  In doing so, the competent person is required to “carry out the investigation in a manner that does not cause damage to, or impair the operation of, the underground electricity cable”.[33] 
+
+(3) The Director is empowered, if he thinks a contravention of a requirement under the Regulation gives rise to “an undue risk of an electrical accident or an interruption to the supply of electricity”, to issue a remedial notice containing instructions as to measures to be taken to remedy the contravention.[34] The Director is also given powers of entry and inspection to premises or places in which works are being undertaken in the vicinity of an electricity supply line “in the interests of safety or of ensuring the continuity of supply of electricity”.[35]
+
+37. The Director is also empowered to approve and issue codes of practice for the purpose of providing practical guidance in respect of any requirement under the Regulation.[36] Reference to the Code of Practice further reinforces the purposes of the legislative provisions of the Regulation.  It states, in its Introduction, that:
+
+“Incidents involving damage to electricity supply lines can have serious consequences for workers and adversely impact on the community. Various types of works have the potential to cause such damage but adequate precautions can dramatically reduce the risk of an incident. This Code outlines the dangers and provides advice on how to reduce risk.
+
+…
+
+It deals specifically with risks to persons carrying out works and the necessary precautions needed to reduce the risk of accidents due to damage and unsafe practices.”[37]
+
+38. Given the abundantly clear legislative purpose of the Regulation as a whole and the requirements relating to works in the vicinity of electricity supply lines prescribed in section 10 of the Regulation, the word “ramming” should, so far as permissible as a matter of language, be construed consistently with that purpose and in a manner which will best achieve that purpose.
+
+(d) The proper construction of “ramming” in the light of its context and purpose
+
+39. In the light of the above context and legislative purpose of sections 2 and 10(1)(a) of the Regulation, “ramming” should be construed to include penetration of the ground by an object by means of force applied by any means, including a hammer, and not just by means of machinery.  It is the penetration of the ground that poses the risk of contact of the penetrating object with an underground electricity cable and it is that activity which, purposively construed, the word “ramming” is intended to regulate.
+
+40. The Judge, however, held:
+
+“12. Taking into account the provision of regulation 2 and the nature of the works enumerated therein, I find that “ramming works” mean works involving at least the use of machinery (whether heavy or not).  The use of machinery would without doubt likely to cause damage to cables.  The purpose of the Regulation was to ensure that activities carried out in the vicinity of electricity supply lines do not prejudice safety or the continuity of the electricity supply.
+
+13. However the act of hammering is obviously different from the use of machinery.  Generally speaking, if the works are carried out merely by hammering, the depth of penetration would be limited (in this case about 1 foot or 200-300 mm) and the likelihood of causing damage to underground cables (according to the Code of Practice, buried depth of 132kV cables should be no less than 1 metre) would be relatively low.  On the whole, I do not consider the act of hammering iron rods into the ground constitutes “ramming” under the Regulation.”
+
+41. This reasoning cannot, with respect, be accepted. Given the Judge’s acknowledgment of the purpose of the Regulation, there is no good reason to think that the likelihood of damage to electricity cables from ramming works would be limited to such works involving the use of machinery.  It is plain that a penetrative object could be forced into the ground by hand or by the use of a non-mechanical tool to a depth at which it could come into contact with an underground electricity cable (as happened here).  Although hammering by hand is different from the use of a machine, we do not consider that there is a proper basis for the Judge’s conclusion that, if works are carried out by hammering (by hand), the depth of penetration would be limited and the likelihood of causing damage to underground cables would be relatively low.  The fact the iron rods in this case were to be hammered into the ground to a depth of between 200 to 300mm does not preclude their being hammered deeper into the ground either by inadvertence or over-enthusiasm on the part of the workers.  Equally, the fact that the guide depth for 132kV cables is 1000mm does not preclude their being found at a shallower depth, as was in fact the case here.  In our view, the risk of a hand-hammered iron rod coming into contact with an underground electricity cable is not properly to be characterised as “relatively low”.
+
+42. The respondent contended that it could not have been the legislative intent to apply a meaning to “ramming” which includes any act of piercing the ground by hand-held means.  It submitted that this would catch even the most mundane and everyday tasks, such as gardening or pitching a tent, and this absurdity should favour its contrary construction.[38]
+
+43. However, a conclusion that “ramming” means penetration of the ground by an object by means of force, which force may be applied by any type of hammering and not just hammering by means of a machine, is not to be equated with mere gardening or a recreational pursuit such as pitching a tent.  Those examples are extreme ones and, depending on the specific facts of any particular case, would most likely be held[39] to fall outside the statutory prohibition in section 10(1)(a) of the Regulation.
+
+44. The legislative intent of the word “ramming” being clear, there is no basis for the respondent’s submission that the presumption against doubtful penalisation[40] should operate to favour its construction of the word.
+
+45. On Issue 1, therefore, we would, with respect, differ from the Judge and answer the certified question in the negative.
+
+G. Issue 2: whether the works were excluded works
+
+46. It was the appellant’s case that the erection of the iron rods and setting up the safety nets to form the boundary of the works site did not fall within the exclusion in the definition of “works” in section 2 of the Regulation, namely “works necessary to ascertain the alignment and depth of an underground electricity cable”.  The appellant supported the Magistrate’s construction of this exclusion and contended that the Judge was in error in her construction.
+
+47. For its part, the respondent contended that the delineation of the area of work was absolutely necessary for the ascertainment of the alignment and depth of underground electricity cables and so the work was excluded and not subject to the offence under section 10 of the Regulation.  The respondent therefore sought to support the Judge’s construction of the exclusion, reversing the Magistrate on this issue.
+
+(a) The proper construction of the exclusion
+
+48. The critical word in the exclusion is “necessary”.  There is no dispute between the parties that the usual dictionary meaning of this word is “indispensable, requisite, essential, needful; that cannot be done without …”.[41]
+
+49. As a matter of both context and purpose, the threshold test of necessity for ascertaining the alignment and depth of an underground electricity cable is a high one.  The clear legislative intention of the definition of “works” in section 2 of the Regulation is to cast a wide net over activities that may be prohibited or regulated by section 10 of the Regulation.
+
+50. In addition to the need to focus on the word “necessary” in the exclusion, it is also critical to focus on what the work sought to be excluded must be necessary for.  It must be work necessary to ascertain the alignment and depth of an underground electricity cable.  Work which is not necessary for that purpose is not excluded.
+
+51. The appellant also referred, as part of the context of the exclusion, to the strictness of the requirement in section 10(5) of the Regulation, which imposes on a competent person who is undertaking an investigation to ascertain the existence, alignment and depth of an underground electricity cable a requirement to “carry out the investigation in a manner that does not cause damage to, or impair the operation of, the underground electricity cable”.[42] A competent person, when carrying out an investigation, should therefore not do anything that might risk damage to an underground electricity cable.  As a matter of context, this supports a restrictive construction of the exclusion and a narrow interpretation as to what may fall within the ambit of works necessary to ascertain the alignment and depth of an underground electricity cable.
+
+52. On this footing, works which are purely preparatory and not part of the ascertainment of the alignment and depth of an underground electricity cable would not fall within the exclusion.  However, to answer the fact-sensitive specific part of the second certified question in this appeal, one must have regard to the particular facts and to the respondent’s case as to why the ramming work was being done.
+
+(b) Was the work in the present case within the exclusion?
+
+53. In the present case, the respondent’s case was that putting up the enclosure nets was done at the request of the MTR to mark the delineation of the works site.  The orange net was to be positioned at least 1.8 metres away from the railway tracks.  It was to assist in preventing materials, plant or tools from being placed outside the works site and misplaced so that they might fall onto the tracks, and also to prevent workers and other people from straying onto the tracks.  This would also reduce the risk of disruption to train services, damage to MTR property and harm to the well-being of workers and train passengers.  Without the delineation of the works site, it was suggested that even the competent person would be at risk of harm when conducting the cable inspection.  All this, it was said by the respondent, was necessary because of the location of the works area adjacent to the railway track.
+
+54. It cannot be doubted that the location of the works site adjacent to the railway track was an element adding to the risk of the works themselves and that the works site had to be carefully delineated.  But it remains necessary to ask whether the ramming work in question was necessary to ascertain the alignment and depth of an underground electricity cable.
+
+55. Clearly the ramming work was not in fact part of the ascertainment of the alignment and depth of an underground electricity cable.  It was not the method by which that information was to be gathered.  It has not been suggested, nor could it sensibly be suggested, that hammering iron bars into the ground until they come into contact with an underground electricity cable is a proper way to ascertain the alignment and depth of an underground electricity cable.  One could hardly imagine a less safe way of doing so.  Could the works site, though, be properly delineated by some other method that did not involve the risky act of penetrating the ground in the vicinity of an underground electricity cable with an iron bar?
+
+56. In the present case, the Judge thought it could not.  She held:
+
+“15. Taking into account all circumstances of the case, I agree with Mr Poon that the process of hanging up the net by erection of iron rods was a pre-construction survey for works necessary to ascertain the alignment and depth of an underground electricity cable. Of course, it is true, as the prosecution expert witness said, that both active and passive underground cable detection did not include the act of erection of iron rods, nor was erection of iron rods a necessary step in cable detection. However, on works sites involving railway tracks, if the site area had not been enclosed by hanging up nets, the safety of workers might be jeopardized and the operation of trains obstructed. Therefore I consider the erection of enclosure a necessary step for the works site in this case. The representative of the Appellant company had also testified that the cable detection would be conducted on the next day after the erection of iron rods and safety net. This was not disputed by the prosecution.
+
+16. I notice that the magistrate said in his statement of findings that the Appellant company should have appointed a competent person for cable detection before erecting iron rods.  This would imply that persons engaged in the detection had to work on a railway site without any enclosing net.  In other words, the safety of the persons who carry out the cable detection would not be safeguarded.  In case anything happened, the operation of trains would also be affected.  Therefore taking into account the circumstances of the case, I am of the opinion that the erection of iron rods for enclosure was a necessary safety precaution to be taken before the commencement of detection work and a necessary working process in preparation for the detection work to be carried out.  It was so closely related to and connected with detection work and therefore should be regarded as ‘work necessary to ascertain the alignment and depth of an underground electricity cable’.  The act is exempted works under regulation 2 of the Regulation.”
+
+57. Again, with respect, the Judge’s reasoning cannot be accepted.  The delineation of the boundary of the works site was not necessary to the ascertainment of the alignment and depth of an underground electricity cable.
+
+58. In any event, even on the footing that delineation of the works site was necessary, there is no good reason why this could not be done by some method other than the risky act of hammering iron rods into the ground in the vicinity of an underground electricity cable.  The appellant referred in its printed case to the use of mills barriers, i.e. a free-standing non-penetrative form of barrier used to demarcate or close off an area, as shown in the Code of Practice.[43] The respondent countered that such barriers could be moved and would not have the permanence necessary to afford proper protection.  That is a risk but it is not suggested that there is no risk that a boundary consisting of iron bars and orange netting might not also be moved or otherwise breached.  Certainly, as between the competing risk of mills barriers being moved and the risk of electrocution from an iron bar driven into the ground striking an underground electricity cable, the risk of the latter is, in our view, far more significant than the former.
+
+59. This conclusion does not present insuperable difficulties for contractors, even if unprepared to take the risk of mills barriers being moved.  As the appellant pointed out, the Code of Practice indicates the vicinity of an underground electricity cable as being within 3 metres for the purpose of trench works or vertical penetration.[44] By means of passive cable detection, using a hand-held device, the contractor could identify an underground electricity cable and then erect iron rods 3 metres away from the cable.  At that distance, on the basis of the Code of Practice, the contractor would not risk breaching section 10(1)(a) of the Regulation.  At the same time, more importantly, the contractor would not risk the health and safety of its workers or the supply of electricity.
+
+60. On Issue 2, therefore, we would, with respect, again differ from the Judge and, in answer to the certified question, hold that, in the present case, the preparatory acts of hammering iron rods into the ground in order to set up nets to delineate the boundary of the works site did not fall within the exclusion in the definition of “works” in section 2 of the Regulation.
+
+H. An alternative basis for liability on the facts
+
+61. On the basis of the conclusions reached above, it followed that the appeal must be allowed and the respondent’s conviction and sentence restored.
+
+62. Nevertheless, even if the appellant’s case failed on Issue 1, there would have been an alternative (and straight forward) basis for holding, subject to Issue 2, that the works in the present case fell within section 2 of the Regulation.
+
+63. That alternative basis derives from the definition in section 2(a)(v) of the Regulation, specifically “slope works”.  As will be recalled, the respondent was engaged under a contract to perform ground investigation for slope improvement works.  Given the wide and inclusive definition of “works” in section 2(a) of the Regulation, especially the words “any kind of works involving or in connection with” the items specified in sub-paragraphs (i) to (vi), it would follow that the hammering of the iron rods into the ground, which was work done pursuant to the respondent’s contract, was a kind of work in connection with slope work and therefore subject to the requirements of section 10(1)(a) of the Regulation.  Mr Grossman realistically accepted that this was correct.  On this straight forward basis, the debate as to the meaning of “ramming” need not have been gone into.
+
+64. However, had the respondent prevailed on Issue 1, it would not have been appropriate to restore the respondent’s conviction on this alternative basis. Since the prosecution case was based on the contention that the relevant work carried out by the respondent in the vicinity of an underground electricity cable was “ramming” within section 2(a)(vi), it would not have been fair to the respondent to permit criminal liability to attach when that case was never put for it to answer in the courts below.
+
+I. Conclusion
+
+65. For these reasons, we allowed the appeal, restoring the respondent’s conviction and the sentence imposed by the Magistrate.
+
+66. As to costs, the Court ordered that:
+
+(1) The costs order imposed by the Court of First Instance be quashed;
+
+(2) The appellant be awarded the costs of the appeal in this Court, including the costs of the application for leave to appeal;
+
+(3) The appellant be awarded the costs of its application to the Court of First Instance for a certificate of points of law of great and general importance.
+
+ 
+
+ 
+
+(Geoffrey Ma)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Robert Tang)
+Permanent Judge
+ 
+
+(Joseph Fok)	(James Spigelman)
+Permanent Judge	Non-Permanent Judge
+ 
+
+Mr William Tam DDPP and Mr Franco Kuan SPP, of the Department of Justice, for the Appellant
+
+Mr Clive Grossman SC and Mr Jose d'Almada Remedios, instructed by Ng, Au Yeung & Partners, for the Respondent
+
+
+[1] Cap.406H (“the Regulation”)
+
+[2] Defined in section 2 of the Regulation as “a person approved as a competent person under section 3”
+
+[3] See below
+
+[4] In FLS 8174/2011
+
+[5] Eric Cheung Kwan-ming, Esq.
+
+[6] See below
+
+[7] Statement of Findings §§69 to 80
+
+[8] Statement of Findings §§81 to 93
+
+[9] In HCMA 110/2012
+
+[10] Deputy Judge A. Pang (as she then was)
+
+[11] Judgment §§11 to 13
+
+[12] Judgment §§14 to 16
+
+[13] Cap.406 (“the Ordinance”)
+
+[14] Defined in section 2 of the Regulation as “an electricity supply line located below ground level”
+
+[15] Defined in section 2 of the Regulation as “an electricity supply line located at or above ground level”
+
+[16] Hereinafter referred to as “the Director”
+
+[17] 2005 Edition (“the Code of Practice”), approved by the Director of Electrical and Mechanical Services and issued in accordance with the provisions of section 15 of the Regulation
+
+[18] Code of Practice, §1.3.2.5, Table 1
+
+[19] Regulation, section 10(4)
+
+[20] This introduction reads: “The reasonable steps to a safe system of work for works near U/G cables begin at the design stage and involve the early participation of the electricity supplier.  Once cable plans have been received from the supplier, a competent person is appointed to detect the alignment of the U/G cables and propose trial hole locations.  Working closely with site personnel, the competent person helps to open trial holes and expose cables to allow their alignment and depth to be accurately ascertained.  He then prepares the ‘Competent Person Written Report’ and clearly marks up cable alignment and depth on site.”
+
+[21] See, HKSAR v Cheung Kwun-yin (2009) 12 HKCFAR 568 at §§11-14; HKSAR v Lam Kwong Wai (2006) 9 HKCFAR 574 at §63; and Fully Profit (Asia) Ltd v Secretary for Justice (2013) 16 HKCFAR 351 at §15.
+
+[22] DDPP, leading Mr Franco Kuan SPP
+
+[23] Leading Mr Jose d’Almada Remedios
+
+[24] Fully Profit (Asia) Ltd v Secretary for Justice (supra.) at §15; Vallejos v Commissioner of Registration (2013) 16 HKCFAR 45 at §§74-77; HKSAR v Lam Kwong Wai (2006) 9 HKCFAR 574 at §63
+
+[25] China Field Ltd v Appeal Tribunal (Buildings) (No.2) (2009) 12 HKCFAR 342 at §36
+
+[26] The Oxford English Dictionary, 2nd Ed., Vol.XIII, p.151
+
+[27] Statement of Findings §§48 to 50 and 70 to 74
+
+[28] Cap.123
+
+[29] By way of example, 380/220V cables are typically at buried depths between 450-900 mm.  The Table also notes that it indicates approximate information only.
+
+[30] Regulation, section 3(1)
+
+[31] Regulation, section 3(3)
+
+[32] Regulation, section 10(3)
+
+[33] Regulation, section 10(5)(c)
+
+[34] Regulation, section 11(3)
+
+[35] Regulation, section 14(1)(a)
+
+[36] Regulation, section 15(1)
+
+[37] Code of Practice, paras. 1 & 1.1.2
+
+[38] The respondent relies, in this regard, on: R v Skeen (1859) 28 LJMC 91 at 94 per Lord Campbell CJ; Hatzl v XL Insurance Co Ltd [2009] 3 All ER 617 at 629F-G per Jacob LJ; and R (on the application of Noone) v Governor of HMP Drake Hall [2010] 4 All ER 463 at 476 per Lord Saville SCJ.
+
+[39] Applying the maxim de minimis non curat lex (“the law does not concern itself with trifles”)
+
+[40] Bennion on Statutory Interpretation, 6th Ed., Section 271, p.749
+
+[41] The Oxford English Dictionary, Vol.VII, p.60
+
+[42] Regulation, section 10(5)(c)
+
+[43] Ibid. at pp.16, 19, 20 & 21
+
+[44] Code of Practice, §1.3.2.5

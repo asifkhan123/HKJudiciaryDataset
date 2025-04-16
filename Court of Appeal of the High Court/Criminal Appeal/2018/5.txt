@@ -1,0 +1,644 @@
+CACC 5 /2018
+
+[2022] HKCA 387
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CRIMINAL APPEAL NO 5 OF 2018
+
+(ON APPEAL FROM HCCC NO 437 OF 2015)
+
+________________________
+
+BETWEEN	 	 
+ 	HKSAR	Respondent
+ 	and	
+ 	Mak Wan Ling (D3) (麥允齡)	Applicant
+________________________
+
+Before:	Hon Macrae VP, Zervos JA and A Pang JA in Court
+Date of Hearing:	27 October 2021
+Date of Judgment:	9 March 2022
+ 
+
+____________________
+
+J U D G M E N T
+
+____________________
+
+Hon Macrae VP (giving the Judgment of the Court):
+
+A. Introduction
+
+1.  The applicant, a registered medical practitioner, was originally indicted and stood trial together with Chow Heung Wing, Stephen (“D1”) and Chan Kwun Chung (“D2”) before Barnes J (“the judge”) and a jury.  She faced a single count of manslaughter by gross negligence, contrary to common law and punishable under section 7 of the Offences against the Person Ordinance, Cap 212 (Count 3).  Although the jury convicted D1 and D2 of the individual counts of manslaughter by gross negligence against them (Counts 1 and 2 respectively) on 12 December 2017, they were unable to reach a verdict in relation to the applicant.  Accordingly, the jury were discharged from returning a verdict and the applicant was in due course retried before the same judge and another jury of nine on 16 October 2020.  The applicant was, on this occasion, unanimously convicted of the offence on 1 December 2020. 
+
+2.  The applicant sought leave to appeal against her conviction only.  Both parties were represented by their respective counsel at trial; the applicant, by Mr Peter Duncan SC, with him Ms Deanna Law; the respondent, by Mr Andrew Bruce SC, with him Ms Margaret Lau and Mr David Cheung.  On 27 October 2021, we reserved judgment and said we would hand down our decision in due course, which we now do.
+
+B.  The prosecution case
+
+3.  Madam Chan Yuen-lam (“the deceased”) was one of a number of customers who had undergone a cellular procedure, known as Cytokines Induced Killer cells (“CIK”) therapy or treatment, launched by the DR Group, of which D1 was the owner and the person in effective control of the various companies in the Group.  CIK treatment involved the extraction of blood from a person’s body, followed by a culturing process of the blood in a laboratory, and finally an infusion of the cultured blood back into the same body.  As a registered medical practitioner employed to work for the DR Group, the applicant was alleged to have variously breached her duty of care towards the deceased, thereby causing the infusion of contaminated blood into the deceased’s body on 3 October 2012, which resulted in her death on 10 October 2012.
+
+C.  The indictment
+
+4.  By reference to Ground 3 (and, at one time, Ground 4) of the perfected grounds of appeal against conviction, it is relevant to note that, having heard submissions from both parties on 1 and 9 September 2020, the judge handed down a lengthy, written judgment on 17 September 2020[1], granting the prosecution’s application to amend the particulars of the indictment[2]. The additions (and deletions), which form that part particularised at (2)(c) and (d) of the count on the indictment, were as follows:
+
+“Mak Wan-ling, on the 10th day of October, 2012, in Hong Kong, together with Chow Heung-wing, Stephen and Chan Kwun-chung, unlawfully killed Chan Yuen-lam also known as Chan Oi-lin, (‘the said Chan Yuen-lam’) by gross negligence in that -
+
+(1) Being a properly registered Doctor responsible for administering to the said Chan Yuen-lam a product known as CIK/AI therapy on behalf of the DR Esthetic Centre (Causeway Bay) Limited and/or Hong Kong Mesotherapy Centre Limited, both companies being part of the ‘DR Group’, owed a duty of care to the said Chan Yuen-lam;
+
+(2) In breach of that duty of care, in the knowledge that the said CIK/AI therapy was based on experimental process for the treatment of cancer and which involved the extraction, manipulation in a laboratory and reintroduction of blood taken from the said Chan Yuen-lam (“the said blood product”), failed to take reasonable care for the safety of the said Chan Yuen-lam by -
+
+(a) Failing to ensure that a properly qualified person or a properly accredited laboratory was responsible for preparing and producing the said blood product.
+
+(b) Failing to ensure that all necessary bacteria tests had been carried out on the said blood product and that such had been documented prior to administering it to the said Chan Yuen-lam so as to ensure the said blood product was free of contamination.
+
+(c) Failing to ensure that the said Chan Yuen-lam was fully informed of the risks involved in the administration of the said CIK/AI therapy;
+
+[Administering the CIK/AI therapy to the said Chan Yuen-lam without first having obtained a proper consent from the said Chan Yuen-lam by reason of her failure to properly inform and advise the latter that:
+
+(i) CIK/AI therapy was still undergoing clinical trial as a means of treatment for cancer and, in that regard the efficacy of CIK/AI treatment was unproven and uncertain;
+
+(ii) there was no scientifically proven benefit to be derived from the use of CIK/AI therapy on healthy persons or non-cancer patients such as the said Chan Yuen-lam;
+
+(iii) the preparation of CIK/AI therapy involved culturing of blood cells in a medium exposed to open air over a duration of time thus it carried a risk of infection or contamination of the patient on whom it was administered;
+
+(v) there were various safe and non-invasive alternative means for enhancing or improving immunity in human bodies and the use of CIK/AI therapy for such purpose was not necessary or medically indicated;
+
+(d) Failing to give any or any sufficient regard for the fact the intended use of CIK/AI therapy on the said Chan Yuen-lam ought not have been carried out in the circumstances.]
+
+(3) Her aforesaid breach of duty amounted to gross negligence on her part; and
+
+(4) Her aforesaid negligence was a substantial cause of the death of the said Chan Yuen-lam.”
+
+D.  The relevant expert evidence
+
+5.  In order to address the arguments in Grounds 5 and 6 of the perfected grounds of appeal, it is necessary to highlight three aspects of the expert evidence adduced by the prosecution at trial.  Firstly, in respect of the duty of the administering doctor to ensure that the CIK product was prepared by a qualified person, or a properly accredited laboratory, the following evidence is relevant:
+
+(1)  Professor Yuen Kwok Yung (“Professor Yuen”), a specialist in the field of Infectious Diseases and Clinical Microbiology, stated[3]:
+
+“In the case of DC-CIK therapy, the administrating doctor should only accept processed blood cells generated from accredited haematology laboratory supervised by (a) qualified specialist who is called a clinical haematologist.”
+
+(2)  Dr Godfrey Chan, whose research interest concerned stem cell biology and immunotherapy, was of the opinion that a medical doctor had to make a judgment call as to whether the blood product, if not from the Hong Kong Red Cross Blood Transfusion Centre (“the Red Cross”), was from an otherwise trustworthy laboratory; and that such trust had to be premised on evidence rather than mere blind acceptance[4]. It was further his evidence[5]:
+
+“In ex vivo expansion of cellular products, several additional precautions have to be looked out for such as possible contamination and growth of microorganisms; change in behaviour and character of the cells being expanded; alter(ed) functional integrity of the cells after ex vivo expansion, genetic changes to the cell after ex vivo expansion, etc.  Quality assurance process has to be stringently observed.  There is no regulation for the person who incubates the CIK cells in laboratory or administers the final blood products onto clients/patients at the moment, a trained and qualified medical technologist or equivalent usually can perform the task.  CIK therapy, just like any other blood products, is a form of medical treatments and should not be offered as an “over the counter therapy” in the beauty or cosmetic industry.  It carries potential risk of infection such as what has been happened to the patients receiving the CIK in DR.  Current data does not suggest clear clinical benefit of this form of treatment, either as a therapy or prevention.  It remains as experimental approach and should be conducted under strict clinical trial format.”
+
+(3)  Professor William Chui (“Professor Chui”), who was a registered pharmacist, said[6]:
+
+“In relation to aseptic technique, the technique competence of the personnel is particularly crucial to product safety and efficacy”.
+
+6.  Secondly, there was relevant evidence concerning the duty of the administering doctor to ensure that sterility tests (including bacterial tests) had been carried out on the CIK product and documented prior to its administration to patients:
+
+(1)  Professor Yuen noted[7]:
+
+“APSC is not an accredited laboratory for handling ex vivo expanded cell therapy”,
+
+before commenting[8]
+
+“It should also be a very basic and elementary understanding of every medical doctor that any material (such as blood cells) injected or infused into patients must be free of microbes and toxins. Hence, medical doctors should only inject (infuse) into patients with medications/intravenous fluids obtained from a trusted entity such as pharmaceutical companies supervised or regulated by the Department of Health; blood products from Hong Kong Red Cross Blood Transfusion Centre…”
+
+(2)  Professor Li Chi Kong (“Professor Li”), whose research field is concerned with haematology, oncology and stem cell transplants, was of the view[9]:
+
+“If the product is not provided by a licensed source, such as Red Cross Blood Transfusion Service or a registered drug company, the staff must pay extreme caution on the safety of the product. The staff should inquire how this product is prepared, and is there any risk during preparation. Say if this is a blood product that involves manipulation in a laboratory, sterility check should have been performed and this should be checked before the infusion of the blood product to a human subject. There is always risk of bacterial contamination during the manipulation process. In the bone marrow transplantation settling, which also requires laboratory manipulation, bacteria culture (sterility check) is part of the standard operation procedure, ie sterility test after blood product manipulation is a must. Before releasing the blood product to the patient for administration, the laboratory should issue a report including sterility pass”;
+
+and[10]
+
+“We have to make sure that this product is safe from microbiological aspect. That means they are free from bacteria, free from fungus, and free from mycoplasma. There are potential contaminants during the processing of these cellular products.”
+
+7.  Thirdly, as to the allegation regarding the lack of proper consent, the following evidence is relevant:
+
+(1)  Professor Li stated[11]:
+
+“Normally, medical staff will only administer licensed product to an individual, i.e. drugs with registration in Department of Health, or blood products supplied from Red Cross. Except under special medical indications, administrating of unlicensed products should be under a clinical trial as research. To conduct a research study, there should be a clear protocol on the details of the procedure, obtaining ethical approval from a recognised body, informed consent from the research subject who understands the purpose and risk of such research, clinical trial certificate from Department of Health if this involve(s) any medication.”
+
+Professor Li was further of the opinion that, despite the fact that the deceased had signed a consent form[12] and a note about the injection[13], the information provided to the customers of the DR Group (including the deceased) concerning CIK treatment was insufficient and misleading[14] for a number of reasons, inter alia[15]:
+
+“There was no information about manipulation of the cells in a laboratory with addition of cytokines and other reagents, and also culture and expansion of cells in a sterile environment”;
+
+and[16]
+
+“[The applicant] did not give [the deceased] any information on potential serious side effects of this experimental treatment”;
+
+and[17]
+
+“My comment: CIK cell infusion in this particular setting is experimental and did not have any evidence supporting its medical value. If the doctor wants to study an experimental therapy, it should be performed in the setting of clinical research with proper approval. The possible side effects, including common, uncommon and rare, should be elaborated in the consent form. Patients must be protected from being harm[sic.] during the research, e.g. close monitoring of patients with immediate intervention if necessary. We could not ask the research subjects to take the responsibility of research related complications. The ‘consent form’ for this CIK cell infusion is below the standard of a formal medical treatment. Patients must be provided with sufficient information to make a decision of accepting the treatment or not, otherwise the consent will not be valid.”
+
+(2)  Dr Albert Lie, a specialist in haematology and haematopoietic stem cell transplantation, testified[18]:
+
+“(a) … To the best of my knowledge, CIK therapy is a form of experimental cellular immunotherapy largely studied for anti-cancer treatment. There is no convincing scientific evidence to support CIK therapy has any anti-aging effect.
+
+(b) Such experimental therapy should only be performed in (a) well-recognized medical institution under the supervision of relevant qualified specialist(s) according to clinical protocol that is approved by the institution review board or ethics committee. Participants should be informed of the nature, indication, procedure, possible benefit and risk of treatment.  It was not clear from the documents provided such information was provided to the participants so that they could make a valid informed consent.”
+
+(3)  During cross-examination of Dr Godfrey Chan, in response to a question that there was no reason to alert the patient to the risk of contamination if the blood product came from the Red Cross, the witness answered[19]:
+
+“Wrong. Because we have to sign a consent, and the consent contain all the potential risks. This is a standard procedure before we give the product to a patient. So we have to ask the patient to sign the consent for transfusion, and in that particular consent it lists down all the potential side effects.”
+
+E.  The defence case
+
+8.  The applicant, who gave evidence at trial, accepted that as a registered general medical practitioner she owed a duty of care to the deceased, but denied breaching that duty[20]. She had visited Guangzhou in February 2012 to learn about CIK treatment, at which time she understood from a Professor Xiao that sterility tests were required to be conducted in a laboratory setting; nevertheless, she denied having a duty to ensure that APSC was an accredited laboratory, or that the personnel preparing the CIK product were suitably qualified[21].  She relied on the fact that two other doctors[22] had similarly infused the CIK product into their patients without encountering any problems.  The two doctors concerned also confirmed that the CIK product did not come with a sterility test certificate[23].  There was likewise never any documentation or certification for blood products from the Red Cross.  Accordingly, the applicant said there was no duty to look for such a certificate[24]. 
+
+9.  Whilst she admitted that she did not advise the deceased of the five matters particularised at (2)(c) of the indictment[25], she believed that CIK treatment was beneficial to the patient after conducting a risk/benefit analysis.  The risk was a fever, a chill or flu-like symptoms and general discomfort: the benefit was the boosting of the body’s immunity[26].  Furthermore, it did not occur to her at the time that the adverse conditions of other patients, who had received their infusions before the deceased, was a “red flag” warning against infusing CIK into the deceased; although she accepted that it might have been the case with the benefit of hindsight[27].
+
+F.  The summing-up
+
+10.  At the beginning of her summing-up, the judge directed the jury that there were five ingredients, or elements, of the offence of manslaughter by gross negligence, namely[28]:
+
+“(1) the defendant owed a duty of care to the deceased. (2) The defendant negligently breached that duty of care. (3) It was reasonably foreseeable that the breach of that duty gave rise to a serious and obvious risk of death. (4) The breach of that duty caused the death of the deceased. (5) The circumstances of the breach were truly exceptionally bad and so reprehensible as to justify the conclusion that it amounted to gross negligence and required criminal sanction.”
+
+11.  Pausing here, we note that no specific complaint is levelled by the applicant against the summing-up in respect of ingredients (1), (3) and (4).  We are, therefore, more concerned in this appeal with ingredients (2) and (5), the consideration of the former, as the judge pointed out, being relevant to an assessment of the latter[29]:
+
+“So if you are not sure that the breach of the duty caused the death of the deceased then, again, of course, that is the end of the matter, you do not have to consider any more, you can -- you must acquit the defendant. But if you are sure, if you are sure that the breach of the duty caused the death of the deceased then you have to consider the fifth ingredient, the last ingredient, whether the circumstance -- circumstances of the breach were truly exceptionally bad and so reprehensible as to justify the conclusion that it amounted to gross negligence and required criminal sanction.
+
+So in this respect, the prosecution must show you that in all circumstances -- in all the circumstances, the defendant’s conduct fell so far short of what could reasonably be expected of her that such conduct required criminal punishment as opposed to disciplinary action or a civil claim for compensation.”  
+
+We will further explain the interaction of ingredients (2) and (5) when we address Ground 1 of the perfected grounds of appeal[30].
+
+F.1.  The second ingredient - breach of duty
+
+F.1.1.Particular (2)(a) – Failing to ensure that a properly qualified person or accredited laboratory was engaged
+
+12.  In respect of particular (2)(a), the judge instructed the jury that, as at 2012, it was not illegal to operate or run a laboratory without accreditation[31]; nor was there any legal requirement that those involved in the processing of cellular products had to have any specific qualification[32].  She also directed them[33]:
+
+“…at the time in 2012, there was no regulation for the person who incubates the CIK cells in the laboratory or administers the final blood product onto a client or trained qualified medical technologist equivalent -- a trained and qualified medical technologist or equivalent usually can perform the task.”
+
+13.  On the other hand, the judge reminded the jury of the applicant’s evidence as to how she trusted APSC and why[34].  In particular, the applicant had been given to understand that APSC’s personnel had “high qualifications”[35]; that there had never been any accident in the more than 3,000 invasive procedures she had performed on her own[36]; and that, whilst she received the blood products from APSC without documentation or a test certificate in respect of sterility, she had not been trained to look for or expect such a certificate[37].  In respect of the evidence of Dr Edward Chan and Dr Tsui Ka Chun, both of whom had administered the CIK product before, the judge said of them[38]:
+
+“…they both confirmed that the CIK product, the blood product, did not come with any certificate of a sterility test and that there was never any problem with the CIK infusate they infused into patients.”
+
+14.  In light of the argument in Ground 5 infra, we should perhaps highlight the following direction in respect of particular (2)(a) of the count on the indictment[39]:
+
+“… you have to consider whether it is the duty of the doctor to make sure that the person preparing the CIK cells had to be a qualified person.  Whether there was such a duty, first.  In other words, whether the duty of a doctor to a patient extends to covering what is happening at the laboratory.  Right.  So you will have to decide.  Of course, you have the prosecution evidence from the experts saying, “Yes, the doctor has to.” But you will have to consider whether you accept that evidence.  So whether there is a duty first or the duty extends to that, to the laboratory first, and the person working there. 
+
+So if you say, “No, no, no, it is not the doctor’s duty to the patient”, then that is the end, no need to go any further.  But if you think at the end of the day -- agree with the experts who say, “Yes, there is a duty, the doctor had the duty to ensure that the person who was responsible for preparing the CIK cells had to be a qualified person”, then you, of course, have to consider whether the defendant was in breach and then you have to consider the defendant’s evidence of how all these people were qualified.  Of course, the division of labour as well.”
+
+F.1.2. Particular (2)(b) – Failing to ensure the blood product was free from contamination
+
+15.  In respect of particular (2)(b) of the indictment, the judge reminded the jury of the evidence of Professor Li[40] and Professor Yuen.  Using the latter as an example, the judge told the jury[41]:
+
+“This is what I want to remind you.
+
+‘... they [i.e. the medical doctors] should have ensured that the blood cells were free of contaminating microbes by requesting for laboratory reports of microbial culture tests done just a few days before the infusion and preferably the report of a Gram stain test of the product just before the infusion. Unfortunately, there is no record of indication that they had done the above.’
+
+So you can see what was Professor Yuen’s opinion as to the need of a report certifying that bacterial tests had taken place.”
+
+16.  The judge also reminded the jury of the applicant’s evidence concerning sterility testing[42]:
+
+“She had no reason to doubt that the test had been carried out. She assumed tests had been done because it is common sense that for the product to be infused into blood, it should have passed a sterility test. It is a very basic step to be conducted in the preparation of CIK infusate.”
+
+Although it would appear to have been a deliberate act on the part of APSC not to subject the CIK cells to sterility tests[43], it was the applicant’s defence that she believed the test had in fact been done[44].
+
+17.  In respect of the applicant’s belief, the judge directed the jury in these terms[45]:
+
+“Was the defendant justified in placing her trust in APSC? Nothing ever happened before. She had done infusions and injections and minor operations thousands of times and nothing ever happened. She had received all these products from APSC before, nothing happened, including CIK. She had infused CIK before, nothing happened until October. So she had all the trust. She said, basically, that APSC had a good track record. Do you accept her evidence of her trust, the basis of her trust?
+
+Now, then you have to decide, after you consider whether you believe her evidence, whether you accept her evidence as the basis of trusting APSC, then you will have to decide on the evidence before you, do you find that a reasonably competent medical practitioner, objectively look at it, a reasonably competent doctor when receiving blood products which he or she knew would be infused directly into the bloodstream of a patient owed a duty of care to that patient to ensure all necessary bacterial tests had been carried out on the said blood product and that such had been documented prior to administering to the patient?  Does a reasonably competent doctor owe that duty?”
+
+F.1.3. Particular (2)(c) – Failing to obtain a proper consent from the deceased
+
+18.  Whilst the applicant’s failure to obtain a “proper consent” was the term used in particular (2)(c) of the indictment, it was also averred that there had been a “failure to properly inform and advise” on her part; hence, the terms “proper informed consent”[46] and “informed consent” were used interchangeably by the judge in her summing-up[47].
+
+19.  In respect of four of the sub-particulars under particular (2)(c) of the indictment, the judge respectively invited the jury to consider the following matters:
+
+As to particular (c)(i)[48]:
+
+“So if you do accept the prosecution’s experts’ opinion on this about the CIK treatment for cancer patients is still -- the efficacy is still unproven, uncertain, if you accept that, then you will have to decide and consider whether it is the duty of the doctor administering CIK treatment to his or her patient to tell the patient that?  Right.  A doctor about to administer or before administering talking about the CIK treatment with the patient, trying to get the informed consent of a patient before the actual administering, is it the duty of the doctor to tell the patient, “Hey, look, this CIK treatment is for cancer patients and even for cancer patients it has not been proved to be effective.  I have to tell you that.  Even though you are not a cancer patient, we are not doing this for cancer.  But for cancer patients it has not been proven to be effective.”  Does the doctor owe the patient that duty to let the patient know exactly what she is putting herself under?  So this is (i) that you have to consider.”
+
+As to particular (c)(ii)[49]:
+
+“If you think that a reasonably competent doctor would have come to the conclusion that there is no scientifically proven benefit to be derived from the CIK treatment on healthy persons or non-cancer patients such as Chan Yuen-lam, do you think it is the duty of this doctor to inform Chan Yuen-lam before she signed any consent form or before she gave her consent to have the treatment and say, “Hey, look, there is no scientifically proved benefit at all with this treatment.”  Do you find that the defendant was in breach of her duty in failing to tell Chan Yuen-lam that there was no scientifically based benefit of this treatment on a healthy person like her?”
+
+As to particular (c)(iii)[50]:
+
+“Should a reasonably competent doctor have told the patient such, even though the side effects may not happen, even though the chance of these side effects happening is remote, you have to decide.”
+
+As to particular (c)(iv)[51]:
+
+“Now, you will have to decide. Do you accept the opinion of the experts that there is no medical indication for a patient to have CIK treatment? This is for a healthy person to have CIK treatment. That after conducting a risk and benefit analysis there is no basis for a reasonably competent doctor to recommend CIK treatment to a healthy person to improve that person’s immunity. Do you accept that? The opinion of the prosecution experts?”
+
+20.  For the purpose of addressing the argument in Ground 2, it is relevant to note how the judge, after discussions with counsel for both parties during the currency of the summing-up, directed the jury to consider the lengthy and multiple particulars in particular (2) of the indictment[52]:
+
+“There are four particulars of breach mentioned in the indictment under paragraph (2), (2)(a), (2)(b), (2)(c) and (2)(d).
+
+So if you are considering this third ingredient, you would have already found that some or all of the four particulars of breach proved, otherwise, you will not be looking at the third ingredient. So under this third ingredient you have to decide whether it was reasonably foreseeable, objective test, from the viewpoint of a reasonably competent doctor, and whether it was reasonably foreseeable that that breach, the breach of that duty you find proved, gave rise to a serious and obvious risk of death.
+
+Now, I directed you yesterday that you could look at each particular of breach you find proved individually and together with other breaches that you find proved, and I gave you the example of (2)(a) and (2)(b). Now, upon reflection, that is incorrect. Incorrect. So you are to consider each breach you find proved individually -- separately -- not together with other particular breach that you may also find proved. So look at (2)(a) by itself, (2)(b) by itself, (2)(c) by itself, and (2)(d) by itself.
+
+Now, I will just give an example. In other words, if you find, say, (2)(a) proved, then you have to consider was it reasonably foreseeable that this particular breach gave rise to a serious and obvious risk of death, and you can only consider (2)(a) on its own and not together with any other particulars of breach you find proved. Now, you may find more than one particular breach proved. I do not know. You will have to decide more than one of the four, (a), (b), (c), (d), that you may find that it reasonably foreseeable that each of those that you find proved on its own gave rise to a serious and obvious risk of death. Right. It could happen separately (2)(a) by itself you say, “Yes.” (2)(b) by itself, “Yes.” (2)(c) by itself, “Yes.” (2)(d) by itself, “Yes.” It is possible. Just make sure that you do not add (2)(a) and (2)(b) together to consider or (b) and (c) together to consider. Make sure that you consider each one of whichever particulars of breach you find proved individually. All right. So that is all I want to say about this particular ingredient.
+
+21.  In response to a subsequent question raised by the jury concerning particular (2)(c), namely “In statement of offence should we consider each point individually or some of them?”, the judge directed the jury, again after discussion with counsel for both sides, in these terms[53]:
+
+“The short answer is you consider (i) to (v) individually. All right? Because look at the particulars again, (2)(c), because it is:
+
+‘Administering the CIK/AI therapy to the said Chan Yuen-lam without first...(reads) of her failure to properly inform and advise the latter that (i) to (v).’
+
+So the first step you do is consider each one of them, (i) to (v). Are you satisfied that the prosecution have proved that there was a breach? All right. So after you have considered all the five, assuming you find none, then there is no breach, none at all of (2)(c). Now, assuming you find one or two or three or four, or all five, then the next step you have to look at is the first part of the breach is, “The administering the said CIK therapy to the said Chan Yuen-lam without first having obtained a proper consent.” So you will then have to consider and decide whether the breach of whatever you find proved amounts to without first having obtained from her a proper consent. So these two steps…”
+
+F.2.  The fifth ingredient – Truly exceptionally bad conduct
+
+22.  When dealing with the fifth ingredient, the judge directed the jury[54]:
+
+“…you will, no doubt, take into account the reasonable standard expected of a medical practitioner, a GP, as a yardstick, so that you can decide whether the defendant’s conduct fell so far short of what could reasonably be expected of her so as to justify criminal sanction. So it is for you to decide whether the factual matrix, having regard to the risk of death involved, showed that the defendant’s conduct was so truly exceptionally bad and reprehensible and that in all the circumstances it amounted to a criminal act.”
+
+23.  On the issue of the reasonable standard expected of a medical practitioner, the judge instructed the jury[55]:
+
+“...you have to consider what breach you find proved first and then look at what happened, how she came to be in breach, and then decide whether what she did, her breach was so -- had fallen so low, so far below what you will say is to be expected of a competent GP that you would say would be expected of her that you said ‘No, no, no.’”;
+
+and[56]
+
+“…if it is your view that a competent -- reasonably competent doctor would not have come to the conclusion that it is of benefit -- the treatment is of benefit to a patient, particularly, after balancing the risk and the benefit analysis would not have come to that conclusion. Then, of course, that will also go into your decision of how bad was her breach. What was her conduct? Was it so bad? Was it far below what was to be expected of her?”
+
+G.  Perfected grounds of appeal
+
+24.  By his perfected grounds of appeal against conviction filed on 7 April 2021, Mr Duncan originally advanced six grounds of appeal, which may be summarised as follows:
+
+(1)  The judge did not provide a fair and balanced summing-up in respect of the fifth element of the offence.
+
+(2)  The judge failed to give the jury a Kevin Brown direction.
+
+(3)  The judge unfairly allowed the prosecution’s application to amend the indictment.
+
+(4)  Particular (2)(c) of the indictment was unduly complicated and unsupported by evidence as to what amounted to proper consent.
+
+(5)  The judge wrongly directed the jury that there was expert evidence to substantiate the allegation that the administering doctor had a duty to ensure the matters pleaded under particular (2)(a) of the indictment.
+
+(6)  The judge failed to direct the jury that there was no evidence to show that the administering doctor had a duty to ensure the matters pleaded under particulars (2)(a) and (b) of the indictment.
+
+However, at the hearing before us, Mr Duncan announced that he was not pursuing Ground 4.
+
+25.  By letter of 18 January 2021, the Court queried certain matters arising from the above grounds of appeal, at which the applicant’s solicitors, by letter of 19 April 2021, clarified the following:
+
+“2.  The matters raised in Grounds 1-2 and 5-6 of the Perfected Grounds of Appeal dated 7 April 2021 (“PGA”) were not argued before the trial Judge.
+
+3.  Ground 3 of the PGA was argued before the trial judge on 1 September 2020 (10:00 am to around 11:00 am) and 9 September 2020 (9:30 am to around 10:15 am).
+
+4.  Ground 4 of the PGA was partially argued at the aforementioned hearing dates and time, save the issue as to the lack of evidence as to what amounted to “proper consent” (which only emerged after the retrial).”
+
+G.1.  Ground 1 (unfair summing-up in respect of the fifth ingredient)
+
+G.1.1. The applicant’s submissions
+
+26.  Mr Duncan submitted that, whilst the fifth ingredient formed a major part of the defence case in respect of each of the breaches of duty, the judge failed to highlight the following matters for the jury when addressing this element, emphasis on which had been placed in the defence closing speech:
+
+(1)  No particular qualification was required of the person responsible for preparing and producing the CIK product, nor was any particular form of accreditation required for the laboratory responsible for the same;
+
+(2)  The applicant had no reason to doubt the qualifications (or quality) of the persons (or laboratory) responsible for preparing and producing the CIK product;
+
+(3)  It was not the lack of qualification or accreditation in (1) above, but the deliberate defiance of the fundamental requirement of a sterility test, that caused the death of the deceased;
+
+(4)  The applicant did not have blind faith in the quality of the laboratory, and her reasoning therefor;
+
+(5)  The applicant understood the necessity for bacterial tests but believed that the tests had been conducted;
+
+(6)  The necessity for bacterial tests was explicitly mentioned by Professor Xiao on the Guangzhou visit, at which D2, the laboratory technician responsible for preparing the CIK product, had also been present;
+
+(7)  D1 had sent an email to D2[57] stating that bacterial tests were to be conducted on all laboratory products, including the CIK product;
+
+(8)  There was a CIK protocol[58], which referred to the conducting of sterility tests at steps 12 and 13 therein;
+
+(9)  By the time the deceased was infused, the applicant had done some 22 extractions of blood and 10 re-infusions without incident;
+
+(10)  It was the applicant’s understanding from various sources that the CIK treatment could boost the immunity of a healthy person;
+
+(11)  The applicant had already conducted a risk/benefit analysis before deciding whether to administer the CIK treatment to the deceased; and
+
+(12)  None of the other doctors conducting the CIK treatment in the DR Group had brought the risk of blood contamination to the attention of their patients.
+
+G.1.2. The respondent’s submissions
+
+27.  Mr Bruce submitted that the judge had pointed to the above matters during the earlier part of her summing-up (in particular, during her directions in respect of the second ingredient of the offence).  When the summing-up was read in its proper context, the judge had effectively directed the jury to consider the fifth ingredient of the offence in the light of the factual matrix including the matters in question. 
+
+G.2.  Ground 2 (Kevin Brown direction not given); Ground 3 (unfair amendments to indictment)
+
+G.2.1. The applicant’s submissions
+
+28.  These two grounds concern the indictment and its construction and may for present purposes be regarded together.  By Ground 3, Mr Duncan argued that the prosecution only sought to amend the indictment after the lapse of some 2½ years; having done so, the amendments to particulars (2)(c) and (d) were not merely a remoulding of the prosecution case, but an attempt to patch it up.  As a result, not only was an unfair and unnecessary burden placed on the jury, the defence were unfairly prejudiced.
+
+29.  By Ground 2, Mr Duncan argued that, despite the prosecution case that any single particular under (2)(a), (b), (c) and (d) was sufficient to establish a breach of duty; and that any single sub-particular under (2)(c)(i), (ii), (iii) and (iv) was sufficient to establish the allegation in 2(c), the judge failed to give a Kevin Brown direction in accordance with the legal principles approved by the Court of Final Appeal in HKSAR v Chen Keen and Others[59]. It was submitted that such failure amounted to a material irregularity, resulting in the real risk of an individual juror finding that one particular matter had been proved, without a sufficient number of jurors agreeing as to which particular matter had been proved.
+
+G.2.2. The respondent’s submissions
+
+30.  Mr Bruce submitted that the amendments to the indictment only aimed to provide the jury with better particulars regarding the applicant’s breach of duty.  The allegations under particular (2)(c) were part of the prosecution case in the first trial and not the subject of any complaint by the defence on that occasion; no additional evidence was thereafter elicited by the prosecution in respect of the same allegations.  Mr Bruce pointed out that the applicant’s objections to the amendments had been raised, and considered, by the judge who properly exercised her discretion to allow the prosecution to amend the indictment. 
+
+31.  In respect of the Kevin Brown argument in Ground 2, Mr Bruce submitted that the necessity for such a direction had been raised for the first time at this appeal.  Given that neither party at trial saw the necessity of a Kevin Brown direction from the judge in respect of the indictment, the applicant’s complaint is now an afterthought which is more apparent than real.
+
+G.3.  Grounds 5 and 6 (erroneous direction on the applicant’s duty to ensure that a qualified person was engaged, and sterility tests were conducted)
+
+G.3.1. The applicant’s submissions
+
+32.  Ground 5 and 6 may conveniently be dealt with together.  By Ground 5, Mr Duncan submitted that, absent any expert evidence from the prosecution that the doctor administering the CIK treatment had a duty to ensure that the person responsible for preparing the CIK product was properly qualified, the judge had been wrong to direct the jury that such evidence existed.  By Ground 6, Mr Duncan submitted that the judge failed to direct the jury that there was in fact no evidence to show that the administrating doctor had the duty averred in Ground 5 or that he/she had any duty to ensure sterility tests had been carried out on the CIK product and documented prior to administering it to the patients.
+
+G.3.2. The respondent’s submissions
+
+33.  Mr Bruce submitted that, contrary to the applicant’s assertions, the evidence substantiating particular (2)(a) came from Professor Yuen, Dr Godfrey Chan and Professor Chui; while the evidence substantiating particular (2)(b) came from Professor Yuen and Professor Li.  In any event, it was a question of fact for the jury to decide whether the applicant had such a duty and had breached that duty.  The judge had fairly directed that, if the jury did not think the applicant had the duty to make sure that the person preparing the CIK product was a qualified person, that was the end of the matter. 
+
+H.  Discussion
+
+H.1.  Ground 2
+
+34.  We shall deal first with Ground 2 (the Kevin Brown point), since it essentially concerns a question of law which, if it has merit, could well be definitive of the appeal.  Mr Duncan has properly acknowledged that he did not canvass the question of a Kevin Brown direction with the judge before, during or after the summing-up.  Although his failure to do so should not disadvantage the applicant if the argument is correct as a matter of law, it is nevertheless worth commenting that neither leading counsel nor a highly experienced judge thought it necessary to address this argument at any stage of the trial, which says much about how relevant and applicable they would have thought it was at that time.
+
+35.  However, in considering the argument now on appeal, it is important to read and understand the scheme and structure of the summing-up as a whole.  When that is done, it becomes entirely clear that the risk envisaged by Mr Duncan, and which the Kevin Brown direction is designed to obviate, could not have materialised in the present case (assuming this was even a case to which the Kevin Brown principles applied). 
+
+36.  The judge began by asking the jury to consider whether the applicant owed a duty of care to the deceased as particularised in (1) of the count on the indictment.  Clearly, as a medical practitioner conducting a blood infusion on the deceased who was her patient, she did owe such a duty: indeed, the applicant accepted as much.  The judge then dealt with how the duty may have been breached as particularised in (2)[60]:
+
+“If you are sure she owed an existing duty of care to the deceased, you then have to consider whether you are sure that the defendant negligently breached any or all of the particulars of breach mentioned in the indictment; (2)(a), (b), (c), (d), any or all of them, you have to decide.
+
+…
+
+Now, if you are not sure that the defendant was in breach of any of them, you are not sure, not sure (a), (b) or (c) or (d), if you are not sure then that is the end of the matter; you must acquit the defendant because she was not in breach. All right? Now, if you are sure that she was in breach of some, some of them or all of them, then you will have to go on to consider the next ingredient. Now, I raise “some or all” because you may very well find that, “Oh, all right, yes, … (2)(b), not (2)(a), not (2) whatever. So if you find some of them proved, then you have two then consider the next stage on those you have found proved because that is the breach of the duty. Do you understand? Then the next stage is then for those you have found proved -- now, if all of them then, of course, you consider all of them. If you find that, no, not all of them, only some of them, then based on those some, whatever they are that you find proved, then you consider whether it was reasonably foreseeable that the breach of that duty, those that you found proved, gave rise to a serious and obvious risk of death.”
+
+37.  A little later, she emphasised the need for the jury to find all five ingredients, or elements, of the offence of manslaughter by gross negligence proved[61]:
+
+“I hope you follow that the prosecution had to prove (1), (2), (3), (4) and (5). All five ingredients. You have to be sure of every single one of them before you can find the defendant guilty. Missing any one of them is not good enough.”
+
+38.  Having dealt with other legal directions as well as certain evidence, the judge returned to particular (2) of the indictment[62]:
+
+“So all this evidence is relevant as to whether the defendant is in breach. What happened at APSC, what was APSC like, whether the contamination took place during processing of the CIK cells at APSC, these are all relevant to your decision later when you examine the evidence, whether the prosecution succeed in proving that the defendant was in breach of (2)(a), (b), (c), (d), or any of them.”
+
+The judge then addressed at length the respective evidence on each of the four matters under particular (2), before returning to what should be the jury’s approach to them[63]:
+
+“So that is all I want to say to you about the evidence for the prosecution and the defence and what you have to decide, how you have to decide, how you decide on (2)(a), (2)(b), (2)(c) and (2)(d). These are all to do with the breach.
+
+…..
+
+Now, I emphasise again: the breach of the duty you find proved.  If after careful consideration you come to the conclusion that the defendant was not in breach of (a), (b), (c) or (d), any of the particulars then that is the end of the matter.  You do not even have to consider the third ingredient anymore.  It is only after you find, if you do, that all of them, all (a), (b), (c), (d), or some of (a), (b), (c), (d) proved, then you find that, right, the defendant was in breach of her duty.  Then depending on which of the ones you find proved, or all of it, or some of it. Then you then have to consider whether a reasonably competent doctor looking at those breaches that you find proved that doctor would have foreseen the breach of the duty that gave rise to a serious and obvious risk of death.”
+
+39.  The clear instruction from the judge at this stage was that having found proved the particular breach, whichever breach it was or however many breaches they found proved, the jury then had to decide whether that breach (or those breaches) led to the third ingredient, or element.  This process of reasoning the judge then illustrated[64]:
+
+“Say, for instance you find (2)(b) and (2)(c) proved, then both of them together they are the breaches. A reasonably competent doctor -- would that reasonably competent doctor foresee that the breaches of (b) and (c) together gave rise to a serious and obvious risk of death, not just injury, but death.”
+
+40.  Mr Duncan was evidently concerned about this latter direction from the judge for, at the close of proceedings on that particular day of the summing-up, he raised a matter with the judge in the absence of the jury[65]:
+
+“Respectfully, our understanding was that each of these duties had to be looked at individually. It may well be that if it’s (2)(a), (2)(b), they are both reached, of course, you will look at them together. But let’s say you have a situation where (2)(a) is not breached and (2)(b) is, there is no need to add (2)(a) and (2)(b) together.”
+
+He later explained[66]:
+
+“… our understanding is that each of the breaches would have to be looked at individually. You can’t combine them. Let’s say (2)(a) there was a breach…(2)(b) there is a breach… But in respect of (2)(a) it is not reasonably foreseeable that the breach gave rise to a serious and obvious risk of death, and the same for (2)(b). You couldn’t then look at them together and say, ‘Ah, together they give rise to a reasonable foreseeability of risk of death’.”
+
+41.  The court then broke for the day and on the following morning, this exchange between Mr Bruce for the prosecution and the judge took place[67]:
+
+“MR BRUCE: … After careful consideration and trawling through the authorities, the prosecution has come to the view that at least for this indictment the appropriate thing is to have an individual basis for…
+
+COURT: I thought so too because the way the indictment is set out…
+
+MR BRUCE: Precisely.
+
+COURT:  … I think each and every one of them. So when I talk about that duty, it has to be that particular duty that the jury found proved, either (2)(a) or (2)(b) or (2)(c) and not together.  I agree with that.”
+
+The jury then returned to court, whereupon the judge re-directed them in the terms we have earlier set out[68].
+
+42.  It seems to us that Mr Duncan’s concern, although it was not quite the Kevin Brown point, nor was it articulated or identified by anybody as such, effectively sought to counter the same mischief. For, if he was concerned that the jury, having found two different particulars breached but neither breach could in itself give rise to a reasonable foreseeability of causing death, should not combine the two breaches together to find the third ingredient proved, then he was effectively asking the jury to be directed that they could only find foreseeability proved on the basis of the particular breach of duty they all (or a sufficient majority of them) had found proved.  And that is precisely what the judge said, when she directed the jury[69]:
+
+“So under this third ingredient you have to decide whether it was reasonably foreseeable…that that breach, the breach of that duty you find proved, gave rise to a serious and obvious risk of death.” (Emphasis supplied)
+
+43.  In our judgment, the actual problem envisaged in Kevin Brown (if it were to be applied to the case before us) of five jurors finding, for example, particular (2)(a) proved and four jurors finding particular (2)(b) proved, but all nine jurors combining to find particular (3) proved, could not on these directions have occurred: the judge made clear and explicit that they could only advance to, and find proved, particular (3) if they first found a single particular of (2) proved.  We must assume that the jury did as they were instructed. 
+
+44.  It should be remembered that, unlike the position in Kevin Brown, where the jury had posed two questions, the second one indicating that individual members of the jury could only agree on different parts of the count concerned, there were no such questions in this case suggestive of disagreement on a given particular: moreover, the verdict was unanimous.  The scope for a Kevin Brown concern, even assuming it was relevant to this indictment, which we should make clear we do not in fact accept, was negligible.  The judge’s directions made it non-existent.  There is no merit in this ground of appeal.
+
+H.2.  Ground 3
+
+45.  We shall deal next with the complaint that the indictment was unfairly amended, thereby creating an overloaded allegation and amounting to a re-moulding and/or patching up of the prosecution case (Ground 3).  The first point we must emphasise is that the original trial of the applicant had not resulted in any verdict against her leading to an appeal: the jury were simply unable to return a verdict and were consequently discharged.  The present trial had not, therefore, come about as a result of a successful appeal to an appellate court and the consequent ordering by that court of a re-trial.  We appreciate that there could be circumstances where it might be unfair to allow the prosecution to present a completely different case at a new trial ordered by an appellate court, which has, for example, the effect of undoing or rendering nugatory a defence that had made significant inroads into the way the prosecution originally presented its case at the first trial.  However, that was nothing like the position in the present case.
+
+46.  Secondly, this particular composition of the Court has had the advantage recently of reading a voluminous transcript of the evidence, submissions and summing-up at the original trial of D1, D2 and the applicant, in order to deal with the separate appeals of D1 and D2, who were convicted at that trial[70]. Mr Duncan and Ms Law would also be familiar with the entirety of that trial since they had represented the applicant throughout those proceedings.  But more importantly, so would the judge, since she was also the judge at both trials.  For our part, we do not see any significant difference between the case presented against the applicant at this and the original trial, save, of course, that the focus at this trial was necessarily and exclusively on the applicant rather than the other two (already convicted) defendants.  As the judge held, in a full and carefully reasoned written judgment[71], when addressing the complaint made by Mr Duncan at trial concerning particular (2)(c) on the indictment[72]:
+
+“In relation to the deletion of the original 2(c) and the addition of the new 2(c) …, I find that the amendments properly reflect, and accord with, the evidence already adduced in the first trial (which will be called again in the retrial).  Such particulars will assist the jury to address their minds as to the “particulars” of the various alleged breaches on the part of the defendant.  I do not find the amendments unnecessarily complicated the issues or overloaded the indictment.”
+
+47.  Of the complaint concerning the amendment to particular (2)(d) on the indictment, the judge said[73]:
+
+“By allowing the amendment to the new 2(d), it will just have the effect of making sure that the indictment accords with the evidence already adduced and to be adduced, or to put it another way, this amendment is necessary to meet the circumstances of the case. I do not accept that the amendment amounts to a “patching up” of the prosecution case by way of “reconstruction or supplementation”, as submitted by the defence. The defendant would not be asked to meet a significantly different case during the retrial.”
+
+She concluded[74]:
+
+“I do not accept that the addition of the new 2(d) will be unfair or will cause injustice to the defendant. The prosecution has not changed its case against the defendant at all. The case against the defendant is exactly the same. The only difference now is that the particulars will accord with the evidence to be adduced during the retrial.”
+
+Finally, she did not accept that the defence were caught by surprise ‘at the eleventh hour’, particularly in a trial that was scheduled to last a significant time.
+
+48.  We entirely agree with the judge, who, as the presiding judge at the original trial, was in the best position to decide whether the applicant’s re-trial would be prejudiced or rendered unfair by these amendments.  This ground of appeal is not reasonably arguable.
+
+H.3.  Ground 5
+
+49.  Ground 4 having been abandoned, we turn to Ground 5.  With respect to the applicant’s argument, we do not think that the averment in this ground derives from a correct interpretation of the evidence, particularly given the testimony of Professor Yuen, Dr Godfrey Chan and Professor Chui, to which we have earlier referred[75].  In any event, we agree with Mr Bruce that whether or not the applicant had a duty to ensure that the person responsible for the CIK product was properly qualified was ultimately a matter for the jury.  There was clear expert evidence that a doctor should only accept blood processed in a qualified laboratory by qualified personnel. Having fully reminded the jury of the applicant’s position on this issue[76], the judge specifically invited the jury to consider whether it was the duty of the applicant to make sure that the person preparing CIK was properly qualified and if the jury did not think there was such a duty, that was the end of the matter[77].
+
+50.  We do not consider that there is any valid complaint about the judge’s directions on this matter.
+
+H.4.  Ground 6
+
+51.  As the argument under this ground developed before us, Mr Duncan’s complaint really became one of emphasis.  Whilst accepting the common sense proposition, which we put to him, that a doctor does not simply infuse a blood product which comes into his possession without knowing its provenance and integrity, Mr Duncan nevertheless argued that the indictment as framed by particulars (2)(a) and (2)(b) imposed a positive duty to ensure that the CIK product was from a properly accredited laboratory, when there was no such duty in law; a matter that the judge should have made clear.
+
+52.  With respect, we cannot accept that this issue was not well-understood by the jury as a matter for them ultimately also to determine.  Having referred to the evidence of Professor Yuen, which we have earlier outlined together with that of Professor Li[78], the judge had said:[79]
+
+“Is it your finding that that there is such a duty or if the product does – did not come from an accredited laboratory to make a judgment call with proper evidence to support such as track record? So was there such a duty to do it first?
+
+If you are not sure that the defendant owed such a duty to the deceased, as a doctor you have to ensure that the laboratory is of quality, accredited or not accredited, of the quality to produce and prepare the blood product? If there is no duty then, of course, that is the end of the matter. So first of all, you have to decide was it her duty, first. Right? Because she said it is not her duty. She said, “Division of labour. That is not my job. My job is at the clinic. I expect them to do their job. Why is it my duty to make sure that they have the – that the lab is a proper lab?” So first of all, whether it is her duty.”
+
+53.  We do not consider this ground to be reasonably arguable.
+
+H.5.  Ground 1
+
+54.  In arguing that the summing-up was unfair and unbalanced, Mr Duncan accepted before us that the matters which fell for consideration in relation to the fifth ingredient of the offence, namely whether the breach or breaches were so exceptionally bad and reprehensible as to amount to criminal negligence, were in fact referred to in the judge’s summing-up, but in the earlier context of the applicant’s duty and whether there was a breach of that duty rather than specifically the fifth ingredient, which, he contended, was the most important part of the defence case.  This unfairness, however, was then accentuated because when the judge identified the factors which the jury should consider in determining how bad the breaches were, most if not all of the matters she mentioned were adverse to the interests of the applicant.  The position adopted by Mr Duncan in oral argument was that the judge, over the course of directing the jury as to their evaluation of the fifth ingredient, “was emphasising the bad but not the other side of the ledger, the good”.  It is in this way that the summing-up is said to be unbalanced and unfair.
+
+55.  There is, however, a fundamental misconception underlying this argument.  By the time the jury came to consider the fifth ingredient of the offence, which on the judge’s directions they would never have reached unless they were sure of the other four ingredients of the offence, the question was not whether or not the applicant’s conduct was “good” or “bad”, but the more relative question of whether it was bad enough to warrant criminal sanction.  The judge concluded her remarks in respect of the fifth ingredient by saying[80]:
+
+“So if you are sure, at the end of the day, that the circumstances of the breach that you found proved what truly exceptionally bad and reprehensible and so reprehensible so as to justify the conclusion that it amounted to gross negligence and required criminal punishment, criminal sanction, then you must find the defendant guilty of manslaughter by gross negligence. But if you are not sure of this fifth ingredient, if you say that, ‘Well, it is bad, but not that bad, not so exceptional, not truly exceptionally bad, not so reprehensible or her conduct was not so far below that was to be reasonably to be expected of her,’ then not guilty.”
+
+Thus, the fifth and final ingredient assumed that the applicant owed a duty of care to the deceased; that she was in breach of that duty; that it was reasonably foreseeable that such breach gave rise to a serious and obvious risk of death; and that the breach had in fact caused the death of the deceased.  In directing the jury as to the making of those determinations, no complaint is made that the judge’s summing-up was not fair and balanced (aside from the implications of the Kevin Brown argument). However, the fifth ingredient presupposed that the jury had already been through the process of balancing the various factors for and against the applicant, particularly as to the negligence of her breach, because the last question was whether her conduct was so bad as to warrant conviction.
+
+56.  Accordingly, the jury had already been directed by the judge to consider the “good” and the “bad”, as Mr Duncan accepted they had been when determining the questions of whether there was a duty and whether that duty was negligently breached.  By the time the jury came to assess the fifth ingredient, they would already have resolved the questions of the duty and the negligence of the breach against the applicant.  Thus, the fifth and final ingredient was a qualitative assessment by the jury of whether the circumstances of the breach were “bad” enough to warrant conviction.
+
+57.  In any event, in reading the judge’s directions as to the fifth ingredient of the offence and the questions the jury should ask themselves in addressing it, we are of the view that the directions cannot be said to be unfair and unbalanced.  Moreover, a summing-up falls to be read as a whole and when that is done, we do not accept that it was other than entirely fair and balanced throughout.  As we have earlier noted[81], Mr Duncan raised no concern with the judge, during or after her summing-up, that this area of her directions was unbalanced or unfair to the defence; yet, as we have also observed[82], the defence were perfectly capable of challenging aspects of the summing-up which they did not think were fair or correct during the course of its delivery.  We do not consider this ground to be reasonably arguable.
+
+I.  Conclusion
+
+58.  For the above reasons, we refuse leave to appeal where leave is required and otherwise dismiss the appeal.
+
+ 
+
+ 
+
+(Andrew Macrae)
+Vice President	(Kevin Zervos)
+Justice of Appeal	(Anthea Pang)
+Justice of Appeal
+Mr Andrew Bruce SC, counsel on fiat, Ms Margaret Lau SPP and Mr David Cheung, counsel on fiat, of the Department of Justice, for the Respondent
+Mr Peter Duncan SC and Ms Deanna Law, instructed by Howse Williams, for the Applicant
+
+ 
+
+ 
+
+ 
+
+
+[1]     HKSAR v Mak Wan-ling [2020] HKCFI 2424, 17 September 2020.
+
+[2]     The Amended indictment used for the first trial (Appeal Bundle (“AB”), pp A1(1)-A1(19)) was accordingly superseded by the Re-amended indictment (AB, pp A1-A14).  The Re-amended indictment is hereinafter referred to as “the indictment”.
+
+[3]     Witness statement of Professor Yuen, dated 24 July 2014 (Exhibit P443), at [9(c)]: AB, p A323.
+
+[4]     AB, p A87I-K.
+
+[5]     Witness statement of Dr Godfrey Chan, undated (Exhibit P438), at [11]: AB, pp A374-A375.
+
+[6]     AB, p A89Q-R.
+
+[7]     Witness statement of Professor Yuen, dated 24 July 2014 (Exhibit P443), at [3(g)]: AB, p A317.
+
+[8]     Witness statement of Professor Yuen, dated 24 July 2014 (Exhibit P443), at [9(c)]: AB, p A323.
+
+[9]     Transcript of evidence of Professor Li (Day 15, p 5, line 24-p 6, line 17): AB, p A458.
+
+[10]   Transcript of evidence of Professor Li (Day 15, p 32, lines 19-23): AB, p A464.
+
+[11]   Witness statement of Professor Li, dated 23 July 2014 (Exhibit P481), at [9]: AB, p A354.
+
+[12]   Exhibit P43 (English translation): AB, p A296; which states that:
+
+“I understand that the Vitalizing Injection contains many ingredients, namely antioxidants and nutrients, which have whitening and anti-aging effects, and is applied through 30-minute intravenous injection.  Doctor has informed me of the possible side effects including discomfort in the stomach and bowels and dizziness.  I am willing to assume the responsibility and costs.  I invite the doctor to give me the injection.
+
+        I am not suffering from any disease which is unfavourable to the high intake of Vitamin C or allergic to Vitamin C, nor am I suffering from other diseases such as cancer, heart disease, blood vessels disease, diabetes, renal disease, renal stone, pregnant or menstruation.  I also understand that I have to disclose my medication and allergy record to the doctor.”
+
+[13]   Exhibit P278 (English translation): AB, p A298, which states that:
+
+        “I understand that a CIK cell is a lymphocyte induced cytokine.  Its function is to kill bad cells in the body.  I hereby invite the doctor to extract about 100cc of my blood in order to nourish CIK cell in it and that transfuse it into my body.  I wish to eliminate the bad cells in my body as soon as possible if they do exist.  I am certainly aware that it is a novel treatment without any evidence of health effect.  I am not going for any medical effect either.  The doctor is prepared to explain to me the treatment’s potential side effects including the most common case of developing a fever within 48 hours.  I understand that there may be other side effects unknown to the doctor since it is a new treatment.  Nevertheless, I am willing to try it and will of my own volition assume all possible side effects and responsibilities.  I hereby pledge that I will not pursue any liabilities from the doctor or Hong Kong Mesotherapy Centre Limited.” 
+
+[14]   Witness statement of Professor Li dated 9 October 2020 (Exhibit P482) at [5]: AB, p A366.
+
+[15]   Ibid., at [3(c)]: AB, p A365.
+
+[16]   Ibid., at [3(d)]: AB, p A365.
+
+[17]   Ibid., at [4]: A366.
+
+[18]   Witness statement of Dr Albert Lie, dated 18 July 2014 (Exhibit P440); AB, p A385, at [a]-[b].
+
+[19]   AB, p A486, p 42, lines 5-10.
+
+[20]  AB, pp A40T-A41B.
+
+[21]   AB, pp A104P-A105C.
+
+[22]   Dr Edward Chan and Dr Tsui Ka Chun.
+
+[23]   AB, p A105H-J.
+
+[24]   AB, p A96K-L.
+
+[25]   AB, p A141T-U.
+
+[26]   AB, p A137H-I.
+
+[27]   AB, pp A142M-A149M.
+
+[28]   AB, p A53D-K.
+
+[29]   AB, p A56D-I.
+
+[30]   At [54]-[56] infra.
+
+[31]   AB, p A85T-U.
+
+[32]   AB, p A88M-N.
+
+[33]   AB, p A92Q-S.
+
+[34]   AB, p A94L-T.
+
+[35]   AB, p A94P-T.
+
+[36]   AB, p A96C-E.
+
+[37]   AB, p A96J-L.
+
+[38]   AB, p A105H-J.
+
+[39]   AB, p A98C-K.
+
+[40]   AB, p A102B-L.
+
+[41]   AB, pp A103Q-A104B.
+
+[42]   AB, p A105A-C.
+
+[43]   AB, pp A80I-J; A106B-G.
+
+[44]   AB, pp A104S-A105B.
+
+[45]   AB, pp A106M-A107A.
+
+[46]   AB, pp A49B-C; A107U.
+
+[47]   AB, pp A111U, A161C-D and E-F.
+
+[48]   AB, pp A111R-A112D.
+
+[49]   AB, pp A123R-A124B.
+
+[50]   AB, pp A132T-A133A.
+
+[51]   AB, p A141C-F.
+
+[52]   AB, pp A163Q-A164M.
+
+[53]   AB, p A189A-I.
+
+[54]   AB, p A167M-P.
+
+[55]   AB, p A170R-T.
+
+[56]   AB, p A171E-H.
+
+[57]   The email is dated 19 May 2012.
+
+[58]   Exhibit P78 (English translation): AB, pp A305-A310.  It was a two-page document entitled “Flow of DC-CIK culture” regarding the processing of CIK cells handed out by Professor Xiao during the Guangzhou trip.
+
+[59]   HKSAR v Chen Keen & Ors (2019) 22 HKCFAR 248.
+
+[60]   AB, pp A54T-A55O.
+
+[61]   AB, p A56L-M.
+
+[62]   AB, p A85F-I.
+
+[63]   AB, pp A152Q-A153H.
+
+[64]   AB, p A153S-U.
+
+[65]   AB, p A158J-L.
+
+[66]   AB, p A159H-N.
+
+[67]   AB, p A162C-H.
+
+[68]   At [20] supra.
+
+[69]   AB, pp A163S-A164A.
+
+[70]   See HKSAR v Chow Heung Wing Stephen [2021] HKCA 1655.
+
+[71]   HKSAR v Mak Wan-ling [2020] HKCFI 2424, 17 September 2020.
+
+[72]   Ibid., at [48].
+
+[73]   Ibid., at [54].
+
+[74]   Ibid., at [55].
+
+[75]   At [5] supra.
+
+[76]   AB, pp 93T-96S; p A98L-O.
+
+[77]   AB, p A98C-K.
+
+[78]   At [6] supra.
+
+[79]   AB, p A97A-H.
+
+[80]   AB, p A173P-T.
+
+[81]   At [25] supra.
+
+[82]   At [40] supra.

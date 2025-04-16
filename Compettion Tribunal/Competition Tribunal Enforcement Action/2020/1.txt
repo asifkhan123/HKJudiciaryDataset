@@ -1,0 +1,346 @@
+CTEA 1/2020
+
+[2020] HKCT 10
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ENFORCEMENT ACTION NO 1 OF 2020
+
+________________________
+
+BETWEEN
+
+ 	COMPETITION COMMISSION	Applicant
+ 	and	 
+ 	QUANTR LIMITED	1st Respondent
+ 	CHEUNG MAN KIT	2nd Respondent
+________________________
+
+Before:	Hon Linda Chan J
+Date of Judgment:	3 November 2020
+________________________
+
+J U D G M E N T
+
+________________________
+
+1.  There is before the Tribunal a joint application[1] made by the Applicant, the Competition Commission (“Commission”), and the 1st and 2nd Respondents, Quantr Limited and Cheung Man Kit, pursuant to rule 39 of the Competition Tribunal Rules (Cap 619D) (“CTR”) for the following Order:
+
+“1.  It is declared that the 1st Respondent has contravened the First Conduct Rule under s.6 of the Competition Ordinance (Cap. 619) (the “Ordinance”).
+
+2.  It is declared that the 2nd Respondent is a person involved in the 1st Respondent’s contravention under s.91 of the Ordinance.
+
+3.  The 1st Respondent do pay to the Government a pecuniary penalty in the amount of HK$37,702.26.
+
+4.  All further proceedings in this action, in particular, the Applicant’s claim against:
+
+(i)  The 1st Respondent for an order under s.94(1) and paragraphs 1(a) and 1(c) of Schedule 3 of the Ordinance as set out in paragraph 59 of the Originating Notice of Application (“ONA”);
+
+(ii)  The 2nd Respondent for:
+
+(a)  a pecuniary penalty under s.93 of the Ordinance as set out in paragraph 61 of the ONA; and
+
+(b)  a director disqualification order under s.101 of the Ordinance as set out in paragraphs 62 – 63 of the ONA; and
+
+(iii)  The 1st and 2nd Respondents for an order under s.96(1) of the Ordinance as set out in paragraph 61.2 of the ONA.
+
+be stayed upon the terms set out in the Schedule to this Order with liberty to apply as to carrying such terms into effect.  For the avoidance of doubt, there be also a liberty to restore the stayed proceedings in the event of any non-compliance of the terms as set out in the Schedule to this Order.
+
+5.  The Respondents do pay the Applicant’s costs of and incidental to these proceedings on a joint and several liability basis.  Such costs are to be taxed if not agreed.”
+
+2.  The Schedule referred to in §4 of the proposed Order is reproduced in Appendix 1 to this Judgment.  In short, it sets out (1) the actions required to be taken by the 1st Respondent to ensure that all its current and future staff will have sufficient knowledge of, and will comply with, the competition law in future; and (2) the obligations of the 2nd Respondent to guarantee and oversee the 1st Respondent’s implementation of the same. 
+
+3.  The proceedings were commenced by the Commission against (1) the 1st Respondent in respect of an alleged contravention of the First Conduct Rule pursuant to section 6 of the Competition Ordinance (Cap 619) (“Ordinance”); and (2) the 2nd Respondent in respect of his involvement in the 1st Respondent’s contravention under section 91 of the Ordinance. 
+
+4.  The background of the proceedings and the factual bases for seeking the proposed Order are stated out in the Statement of Agreed Facts prepared pursuant to rule 39 of CTR and §72 of the Competition Tribunal Practice Direction No 1.  The Statement of Agreed Facts, with confidential information replaced by abbreviations, is in Appendix 2 to this Judgment. 
+
+5.  The juridical basis and the justifications for adopting the Carecraft procedure to dispose of enforcement proceedings commenced by the Commission against respondents who admit liability has been fully considered by Harris J in Competition Commission v Kam Kwong Engineering Company Limited & ors [2020] 4 HKLRD 61, at §§6-17.  For present purposes, the following principles are relevant:
+
+(1)  The justifications for adopting the Carecraft procedure, which found its genesis in an application made by the Official Receiver in the UK for an order to disqualify certain persons as directors under the Company Directors Disqualification Act 1986, apply equally to proceedings under the Ordinance. 
+
+(2)  The Tribunal must be satisfied that it has the power to make the orders proposed and that the orders are appropriate.  Once satisfied, the Tribunal should exercise a degree of restraint when scrutinizing the proposed settlement terms, particularly when both parties are legally represented and are able to evaluate the desirability of settlement.
+
+(3)  In deciding whether the agreed order conforms with legal principle, the Tribunal is entitled to treat the consent of the respondent as an admission of all facts necessary to the granting of relief sought against it.  The same applies to declarations sought by consent.
+
+6.  Section 94(1) of the Ordinance provides that:
+
+“If the Tribunal is satisfied that a person has contravened, or been involved in a contravention of a competition rule, it may (whether or not it makes make any order under section 93 imposing a pecuniary penalty), either of its own motion or on application made for this purpose, make any order it considers appropriate against that person, including all or any of the orders specified in Schedule 3.”
+
+7.  The range of orders which may be made by the Tribunal, as specified in Schedule 3, include a declaration of contravention, an order restraining conduct that constitutes contravention, an order requiring the disposition of operations, assets or shares of any undertaking, an order declaring an agreement to be void or voidable or requiring the parties to modify or terminate it, and an order requiring any person who has contravened or been involved in the contravention to do or refrain from doing anything specified in the order. 
+
+8.  As stated in the Statement of Agreed Facts, the contravention of the First Conduct Rule involved the 1st Respondent (acting by the 2nd Respondent) engaged in communications with, and eventually made and given effect to an agreement or engaged in concerted practice with another company (“X”) whereby they exchanged details of their respective quotations (including price sensitive information) and coordinated their return bids pursuant to a request for quotation exercise undertaken by Ocean Park Corporation (“Ocean Park”) to carry out a workflow automation project through a Nintex software (“Project”). The agreement and concerted practice between the 1st Respondent and X had the object of preventing, restricting, or distorting competition in relation to the quotation exercise undertaken by Ocean Park and constituted price fixing, which is one of the “serious anti-competitive conducts” as defined in section 2(1) of the Ordinance. 
+
+9.  I am satisfied that on the facts as admitted by the 1st and 2nd Respondents in the Statement of Agreed Facts, the 1st Respondent contravened the First Conduct Rule and the 2nd Respondent was involved in such contravention.  It is appropriate to make the declarations sought in §§1-2 of the proposed Order.
+
+10.  As regards §3 of the proposed Order, the power to impose a pecuniary penalty is conferred by section 93(1) of the Ordinance which provides as follows:
+
+“If the Tribunal is satisfied, on application by the Commission under section 92, that a person has contravened or been involved in a contravention of a competition rule, it may order that person to pay to the Government a pecuniary penalty of any amount it considers appropriate.”
+
+11.  The approach of the Tribunal in determining the amount of penalty has been stated by Godfrey Lam J in Competition Commission v W. Hing Construction Company Limited & ors [2020] 2 HKLRD 1229 at §§46-74.  In short, the Tribunal adopts a structured methodological approach which involves 4 main steps:
+
+(1)  Step 1: determining the “Base Amount”.  This involves identifying the value of the undertaking’s sales directly or indirectly related to the contravention within Hong Kong in the financial year in question (“Value of Sales”) and applies a “Gravity Percentage” of 15% to 30% and multiplied by the number of years of the undertaking’s participation in the contravention.
+
+(2)  Step 2: making adjustments for aggravating, mitigating and other factors. 
+
+(3)  Step 3: applying the statutory cap.   
+
+(4)  Step 4: applying cooperation reduction and considering plea of inability to pay, if any.
+
+12.  The proposed pecuniary penalty of HK$37,702.26 is appropriate and proportionate to the contravention by the 1st Respondent, taking into account the following facts and matters:
+
+(1)  The Value of Sales directly related to the contravention was less than HK$150,000 and the contravention took place within a few months. 
+
+(2)  The 1st Respondent has agreed to undertake steps to ensure genuine compliance with the Ordinance in future. 
+
+(3)  The amount of pecuniary penalty is less than 10% of the turnover of the 1st Respondent in the year of infringement.
+
+(4)  The 1st Respondent has been cooperative with the Commission and has admitted the facts stated in the Statement of Agreed Facts shortly after the commencement of the proceedings. 
+
+13.  I am also satisfied that it is appropriate to make an order in terms of §4 of the proposed Order, so as to give effect to the terms of settlement reached between the parties.
+
+14.  As to costs, the 1st and 2nd Respondents agreed to pay the costs of the proceedings on a joint and several basis.  This is consistent with the usual order disposed of through the Carecraft procedure.   
+
+ 
+
+ 
+
+ 	(Linda Chan)
+ 	Judge of the Court of First Instance
+High Court
+  
+
+MinterEllison LLP, solicitors for the applicant
+
+Humphrey & Associates, solicitors for the 1st and 2nd respondents
+
+
+Appendix 1
+
+Schedule
+
+A. Circulation of Commission Materials
+
+1.  The 1st Respondent shall within 7 working days of this order to circulate by email copies of the following documents published on the Applicant's website (“Commission Materials”) to all current staff and to indicate to such staff that such documents be studied carefully:
+
+(1)  “The Competition Ordinance and SMEs” brochure;
+
+(2)  “Combat Market Sharing” brochure;
+
+(3)  “Fighting Bid-rigging” brochure;
+
+(4)  “How to comply with the Competition Ordinance Practical Compliance Tools for Small and Medium-sized Enterprises” brochure; and
+
+(5)  “Guideline on the First Conduct Rule”.
+
+2.  In respect of all new staff recruited by the 1st Respondent within a period of 3 years after the date of the order to be made herein, the 1st Respondent shall within 7 working days of the commencement date of their employment circulate by email copies of the Commission Materials to such new staff and indicate to such new staff that such documents be studied carefully.
+
+3.  The 1st Respondent shall provide a copy of the email referred to in paragraph 1 to the Applicant within 14 working days of the order to be made herein, and any emails circulated pursuant to paragraph 2 within 3 working days upon receipt of the Applicant's request for a period of 3 years from the date of the order to be made herein.
+
+B. Competition compliance policy
+
+4.  The 1st Respondent shall adopt a competition compliance policy, in the form of a written statement signed by the 1st Respondent’s director(s), which shall at least indicate the personal commitment of the 1st Respondent’s director(s) to compliance with competition law and that competition law compliance is the responsibility of all staff (“Policy”).
+
+5.  The 1st Respondent shall, prior to the adoption of the Policy, first submit its draft Policy for the Applicant’s review within 14 working days from the date of the order to be made herein.
+
+6.  Within 7 working days from the date of receiving the Applicant’s approval, the 1st Respondent shall adopt the Policy as approved by the Applicant and promulgate the Policy to all current and future staff, and procure that each staff member signs a statement acknowledging their receipt and understanding of the Policy.
+
+7.  For a period of 3 years from the date of the order to be made herein, the 1st Respondent shall keep a record of the staff acknowledgements referred to in paragraph 6 and provide them for the Applicant’s inspection within 3 working days upon receipt of the Applicant’s request from time to time.
+
+C. Attendance at the Applicant’s training
+
+8.  The 1st Respondent shall procure all current staff to attend one of the Applicant’s public seminars or workshops on competition law within 12 months of the order to be made herein.
+
+9.  In respect of all new staff recruited by the 1st Respondent within a period of 3 years after the date of the order to be made herein, the 1st Respondent shall procure that they attend one of the Applicant’s public seminars or workshops on competition law within 12 months from the commencement date of their employment.
+
+10. For a period of 3 years from the date of the order to be made herein, the 1st Respondent shall keep proper training records recording each staff’s name, the date and venue of the seminar or workshop attended, and provide a copy of the records for the Applicant’s inspection within 3 working days upon receipt of the Applicant's request from time to time.
+
+D. The 2nd Respondent’s Obligations
+
+11.  The 2nd Respondent shall guarantee and oversee the 1st Respondent’s implementation of the above and, to the extent applicable, shall personally complete the implementation of the above.
+
+12.  The 2nd Respondent shall ensure the 1st Respondent is equipped with sufficient funds to enable the latter to meet any of its monetary liabilities set out in the Tribunal’s orders, including any pecuniary penalty ordered against it.
+
+
+Appendix 2
+
+STATEMENT OF AGREED FACTS
+
+INTRODUCTION
+
+1.  On 22 January 2020, the Competition Commission (“Commission”) issued proceedings pursuant to ss. 92, 94, 96, and 101 of the Competition Ordinance, Cap. 619 (“Ordinance”) against the 1st and 2nd Respondents, seeking:
+
+(a)  a declaration that the 1st Respondent has contravened the First Conduct Rule under s.6 of the Ordinance and that the 2nd Respondent has been involved in the 1st Respondent’s contravention under s.91 of the Ordinance;
+
+(b)  a pecuniary penalty against each of the Respondents in respect of their contravention of the First Conduct Rule or involvement in the contravention, and orders requiring them to pay the Commission’s costs arising from the investigation and the proceedings;
+
+(c)  an order requiring the 1st Respondent to undertake certain compliance measures;
+
+(d)  a disqualification order against the 2nd Respondent; and
+
+(e)  such further and/or other relief as the Competition Tribunal (“Tribunal”) may consider appropriate.
+
+2.  Subject to the approval of the Tribunal, the Commission and the 1st and 2nd Respondents agree to dispose of these proceedings by way of the summary procedure as provided for in Rule 39 CTR and §72 CTPD1.  The procedure as envisaged by the parties is that sanctioned by the High Court in England and Wales in the case of Re Carecraft Construction Co Ltd [1994] 1 WLR 172 and clarified by the English Court of Appeal in Secretary of State for Trade and Industry v Rogers [1996] 1 WLR 1569, and as adopted in Hong Kong for proceedings under s.214 of the Securities and Futures Ordinance, Cap.571 and s.168H of the former Companies Ordinance, Cap.32.
+
+3.  This Statement of Agreed Facts (“Statement”) is submitted pursuant to Rule 39 CTR and §72 CTPD1 for the purpose of setting out the factual basis upon which the Tribunal is asked to make the orders sought.
+
+4.  For the purpose of resolving these proceedings summarily, by reference to the facts as set out below, which the 1st and 2nd Respondents admit and accept:
+
+(a)  The Commission contends and the 1st Respondent admits that it has contravened the First Conduct Rule under s.6 of the Ordinance by having made and given effect to an agreement or engaged in a concerted practice with B Co whereby they exchanged future price sensitive information (“Information Exchange”) and/or coordinated their return bids to a request for quotation exercise (“Bidding Exercise”); and
+
+(b)  The Commission contends and the 2nd Respondent admits that, by his personal involvement in the facts stated in this Statement, he is liable under s.91 of the Ordinance for counseling or procuring the 1st Respondent’s contravention, and/or being directly and knowingly concerned in or a party to the contravention. 
+
+5.  The facts as set out in this Statement is agreed by the parties and is filed before the Tribunal to support the joint application by the Applicant and the Respondents for an order to be made under Rule 39 CTR (“Joint Application”).
+
+6.  For the avoidance of doubt, the agreed facts as set out in this Statement shall remain binding on the Respondents regardless of the Tribunal’s decision on the Joint Application. This includes for all purposes connected with or ancillary to these proceedings including, but not limited to, the prosecution of any proceedings that are stayed against the 1st and 2nd Respondent pursuant to the terms of the draft order that was submitted together with the Joint Application on August 2020. 
+
+7.  The Applicant shall also be at liberty to disclose this Statement to any third party where it considers proper to do so in the interests of the public.
+
+ 
+
+AGREED FACTS
+
+A  The Relevant Parties
+
+8.  The Applicant is the Competition Commission established under s.129 of the Ordinance.   
+
+9.  The 1st Respondent was at all material times, and still is:
+
+(a)  a limited liability company incorporated on 25 August 2016 in Hong Kong whose registered office is RM1305, Prosper Commercial Building, No. 9 Yin Chong Street, Mong Kok, Kowloon, Hong Kong; and
+
+(b)  engaged in the business of, among other things, reselling IT software and providing necessary IT solutions to end-users.
+
+10.  The 2nd Respondent was at all material times, and still is, the sole director and sole shareholder of the 1st Respondent.
+
+11.  B Co was at all material times, and still is, a limited liability company registered in Hong Kong engaged in the business of, among other things, reselling IT software and providing necessary IT solutions to end-users.
+
+12.  Nintex Pty Limited (“Nintex”) was at all material times, and still is:
+
+(a)  a limited liability company incorporated in Australia; and
+
+(b)  part of a multinational undertaking specializing in the development of workflow automation technologies and supplying relevant software products by the brand name of “Nintex”.
+
+13.  H at all material times represented and acted for Nintex as its “Territory Manager – North Asia” based in Hong Kong.
+
+B  The Workflow Automation Project
+
+14.  In or about early 2017, Ocean Park Corporation (“Ocean Park”) planned to carry out a workflow automation project (“Project”) to replace its existing manual process in preparing IT account application forms. The Project aimed to automate the manual process through software that adopted the Microsoft SharePoint platform.  Ocean Park identified a piece of Nintex software (“Software”) as the suitable software for the Project.
+
+15.  H initially introduced T, director of B Co, to Ocean Park for the purpose of providing Ocean Park with an online demonstration of the proposed solution using the Software.
+
+16.  In or around April to May 2017, Ocean Park began the process of procuring the Software and relevant IT services.  The Project’s estimated budget was HK$250,000.
+
+17.  Since Nintex did not deal directly with end-users in Hong Kong, H recommended to Ocean Park a number of Nintex’s local resale partners that offered the Software and relevant IT services (the “Resellers”), including the 1st Respondent and B Co who were, at all material times, competitors in the market for the resale of IT solutions to end-users in Hong Kong.
+
+C  Invitations for Quotation
+
+18.  On 9 June 2017, Ocean Park, by email, invited the Resellers to submit a quotation for the Project.  The emails attached certain documents relating to the specifications for the Project, and requested interested Resellers to return completed versions of the attached Compliance Form and Quotation Form to Ocean Park by 3:30 pm on 15 June 2017. 
+
+19.  The Quotation Form requested the Resellers to provide quotations in respect of:
+
+(a)  two mandatory items, being: (1) the license fee for the Software for the first year, and (2) the accompanying development and installation services (titled ‘Workflow Development for IT Services Application’) (“Item (2)”); and
+
+(b)  certain optional items.
+
+D  The Agreement / Concerted Practice
+
+20.  Shortly after Ocean Park sent out the invitations to submit a quotation for the Project, on 9 June 2017, between 18:28 and 21:36, WhatsApp messages were exchanged among H (of Nintex), the 2nd Respondent, and T (of B Co).  The following, inter alia, were exchanged:
+
+  
+
+Table 1: Messages between H (of Nintex) and the 2nd Respondent
+
+Time	Messages from H
+(of Nintex)	Messages from the 2nd Respondent
+18:28	Please manage the ocean park RFQ immediately	
+收到[2]
+21:29	Please coordinate with T about the ocean park tender.   What shall he propose?  What shall you propose?  Who is going to win it?  Of course, he will let you implement if he win the case, etc.  Please do talk to him	
+21:29/ 21:30		Ok
+he told me the ocean park ask him to quo lesser man day [3]
+if same man day and price, who will win?
+let me ask him tuesday
+21:31	Please ask him today or tomorrow.  We need to submit all those proposal and quotation in early next week.  Otherwise, insufficient time for ocean park to award the tender and place the order to me	
+
+
+
+Table 2: Messages between the 2nd Respondent and T (of B Co)
+
+Time	Messages from the 2nd Respondent	Messages from T (of B Co)
+21:31	H ask me what is the arrangement of ocean park	
+u want to get the deal?	
+i am ok to anything	
+Yes, share me your effort estimation and I will check against mine
+21:32		Then we can discuss the arrangement.
+I quoted x man days and $x each day, so total x	
+21:33		Haha, you quoted more expensive than mine on manday rate
+smiling face (Emoji)	
+21:35		I only quote $x after they removed the SAP integration part
+21:36	okok	
+
+
+
+Table 3: Messages between H (of Nintex) and the 2nd Respondent
+
+Time	Messages from H
+(of Nintex)	Messages from the 2nd Respondent
+21:35		同T講咗，佢應該自己做返[4]
+What the hell	
+[Cheung then sent H a screen capture showing the WhatsApp conversation between T and Cheung as follows:
+Cheung: H ask me what is the arrangement of ocean park.   u want to get the deal?  i am ok to anything.
+T: Yes, share me your effort estimation and I will check against mine.  Then we can discuss the arrangement.
+Cheung: i quoted x man days and $x each day, so total x
+T: Haha, you quoted more expensive than mine on manday rate.  I only quote $x after they removed the SAP integration part.]
+21.  With regards to the communications as set out at Tables 1-3 above, H referred to in the above is H, i.e. H; T referred to in the above is T, i.e. T.  The figures of $x and $x referred to above relate to Item (2) of the two mandatory items in Ocean Park’s Quotation Form, that is, the price for the development and installation of the Nintex software.  At this point in time, neither the 1st Respondent nor B Co had submitted their quotations to Ocean Park.
+
+22.  The 1st Respondent submitted its quotation to Ocean Park by the deadline of 3:30 pm on 15 June 2017, quoting HK$x for Item (2) on the Quotation Form.
+
+23.  Ocean Park eventually awarded the Project to the 1st Respondent and issued a purchase order in the amount of HK$x to the 1st Respondent on 28 June 2017.
+
+24.  The 1st Respondent completed the Project in about two months’ time.
+
+E  The Contravention
+
+25.  The communications between the 1st Respondent (via the 2nd Respondent) and B Co (via T) and the Information Exchange as set out at Table 2 in in §20 above constituted the making and giving effect to an agreement and/or engaging in a concerted practice between the 1st Respondent and B Co to:
+
+(a)  exchange future price sensitive information in the Bidding Exercise (i.e., the Information Exchange); and/or
+
+(b)  discuss who would win the Bidding Exercise.
+
+26.  The 1st Respondent acted on the Information Exchange by lowering its quotation for Item (2) from HK$x to HK$x, i.e. the price planned to be submitted by B Co, in the quotation it submitted to Ocean Park following the Information Exchange with B Co. 
+
+27.  The said agreement or concerted practice between the 1st Respondent and B Co had the object of preventing, restricting, or distorting competition in relation to the Bidding Exercise and is one that involves serious anti-competitive conduct (i.e. price-fixing) for the purpose of s.2(1) of the Ordinance.
+
+28.  By his personal involvement as particularized below, the 2nd Respondent has been involved in a contravention of a competition rule under s.91 of the Ordinance:
+
+(a)  At the material times, the 2nd Respondent was the sole director and sole shareholder of the 1st Respondent;
+
+(b)  The 2nd Respondent, on behalf of the 1st Respondent, was the individual directly agreeing with Nintex (via H) that he would discuss with B Co (via T) their respective proposed quotations and coordinate in the Bidding Exercise.  The 2nd Respondent was also the individual that directly initiated the Information Exchange with B Co (via T) as set out in Table 2 above;
+
+(c)  The 2nd Respondent, at all material times, possessed actual knowledge of all the undisputed facts stated above; and
+
+(d)  The 2nd Respondent acted on the Information Exchange by lowering the 1st Respondent’s quotation for Item (2) from HK$x to HK$x, i.e. the price planned to be submitted by B Co, in the quotation it submitted to Ocean Park following the Information Exchange with B Co (via T).
+
+F  The 1st Respondent’s Financial Information
+
+29.  The following financial information about the 1st Respondent is relevant to the calculation of the recommended pecuniary penalty, the amount and underlying methodology of which is agreed by the parties:
+
+(a)  Ocean Park paid a total amount of HK$x to the 1st Respondent for the completion of the Project, including a license fee of HK$x for the Software, and a service fee of HK$x (comprising HK$x for Item (2) and HK$x for an optional item);
+
+(b)  The 1st Respondent’s contravention took place during its first financial year starting from 25 August 2016 and ending on 31 December 2017.  Based on the method stipulated in s.2(1) of the Competition (Turnover) Regulation, Cap.619C, the 1st Respondent’s turnover for the relevant financial year is HK$x, being its total gross revenue of HK$x after deducting taxes of HK$x directly related to the revenues; and
+
+(c)  In the same financial year and other than the Project, the 1st Respondent did not make any other sales from reselling Nintex workflow automation software or provided related services.
+
+30.  Using the above information, and based on the proper approach for the determination of the pecuniary penalty for an undertaking that has contravened a competition rule as established by the Tribunal in its judgment in Competition Commission v W. Hing Construction Co Ltd & Ors [2020] HKCT 1 and as reflected in the Commission’s Policy on Recommended Pecuniary Penalties, the Commission recommends, and the 1st Respondent agrees to jointly apply, that the Tribunal imposes a pecuniary penalty in the amount of HK$37,702.26 on the 1st Respondent in light of its admission of a contravention of the First Conduct Rule under s.6 of the Ordinance. 
+
+
+[1]  By way of a consent summons dated 11 August 2020
+
+[2]  Translates to “Noted.” in English.
+
+[3]  The term “man day” is a reference to the number of billable working days which the Reseller is quoting to Ocean Park as its service fee in addition to the Software licence fee.
+
+[4]  Translates to “Spoken with T, he should be doing the Project himself.” in English.
+
+ 
+

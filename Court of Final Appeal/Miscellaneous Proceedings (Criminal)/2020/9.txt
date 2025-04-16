@@ -1,0 +1,162 @@
+FAMC No. 26 of 2020
+
+[2021] HKCFA 35
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 26 OF 2020 (CRIMINAL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL FROM
+
+HCMA NO. 364 OF 2019)
+
+________________________
+
+BETWEEN	 	 
+HKSAR	Respondent
+and	
+LAU VICTOR (劉偉德)	Applicant
+________________________
+
+Appeal Committee:	Mr Justice Ribeiro PJ, Mr Justice Fok PJ and Mr Justice Lam PJ
+Date of Hearing and Determination:	24 September 2021
+Date of Reasons for Determination:	30 September 2021
+__________________________________________
+
+REASONS FOR DETERMINATION
+
+__________________________________________
+
+Mr Justice Ribeiro PJ:
+
+1.  At the hearing we dismissed this leave application for reasons which we now provide.
+
+2.  An automatic camera recorded a car running a red light, constituting the offence of failing to comply with a traffic signal.  The vehicle bore a licence plate indicating that the applicant was its registered owner.  Accordingly, pursuant to section 63 of the Road Traffic Ordinance (“RTO”),[1] the police issued a notice to the applicant in a specified form and sent it to him by ordinary post.  The notice required the applicant to complete and sign the form, furnishing, within 21 days of its date, the name, address and driving licence number of the car’s driver at the time of the offence and to return the form to a named issuing officer.  An envelope was provided to facilitate such return and a telephone number was given to deal with any queries regarding the form.
+
+3.  The applicant did not return the form but sent an e-mail addressed to the named officer purporting to provide the requested information.  He was told that his e-mail response was not acceptable and that he was required to complete, sign and return the form provided.  The applicant, however, insisted that he was entitled to reply by e‑mail on the basis of sections 5, 6 and 7 of the Electronic Transactions Ordinance (“ETO”),[2] claiming that he had provided a digital signature on his e-mail.  The officer sent him a second copy of the notice, but the applicant remained adamant that he had already complied with the notice.
+
+4.  RTO s 63(1) creates an obligation to provide the information requested on demand and, by RTO s 63(6), failure to comply is an offence punishable by a fine at level 3 and to imprisonment for 6 months.  The applicant was charged with that offence and convicted after trial before the Magistrate,[3] resulting in his being fined $3,000.  His appeal to the Court of First Instance was dismissed.[4]
+
+5.  RTO s 63(1) relevantly provides as follows:
+
+(1)  Where the driver of a vehicle is suspected of having committed an offence under this Ordinance ... , any person, including both the registered owner and the person suspected of being the driver of the vehicle, shall on demand made within 6 months after the date of the alleged offence or accident give to a police officer in the manner prescribed in this section the name, address and driving licence number—
+
+(a) in the case of an alleged offence, of the driver of the vehicle at the time of the alleged offence; ...
+
+and his relationship, if any, to any such driver.
+
+6.  RTO s 63(2) states that such a demand may be made “orally or by means of a notice served personally or by post on the person on whom it is made”.  If made by a notice, RTO s 63(4) provides for its form and content:
+
+(4)  A notice served under subsection (2) shall require the person to whom it is addressed—
+
+(a) to furnish, within 21 days after the date of the notice, to a police officer specified therein, a written statement, in such form as may be specified in the notice, giving the name, address and driving licence number—
+
+(i) in the case of an alleged offence, of the driver of the vehicle at the time of the alleged offence; ...
+
+and his relationship, if any, to any such driver; and
+
+(b) to sign the said statement.
+
+7.  It should be noted that the obligation is not just to provide the required information but to do so “in the manner prescribed in this section”.[5] Where, as in the present case, the demand is made by a notice sent to the person concerned, the manner of providing the information prescribed is by furnishing “a written statement, in such form as may be specified in the notice”.[6] Thus the notice must be examined to see what form it specifies for the written statement.  Section 63(4)(b) requires “the said statement” to be signed by the addressee of the notice.
+
+8.  The notice specified that the applicant had to provide the required information by filling in the document set out in the lower part of the notice, signing it and returning it to the issuing officer indicated.  Completion of the form required filling in the driver’s name, address and driving licence number and ticking off the relevant box stating the owner’s relationship with the driver.  A space was provided for the signature over the applicant’s name.
+
+9.  RTO s 64 gives a statutory status as admissible evidence to certain forms completed as required by RTO s 63:
+
+Section 64  Proof in summary proceedings of identity of driver
+
+If, in any summary proceedings for an offence under this Ordinance, there is produced to the court a statement which—
+
+(a)  purports to have been signed by the defendant;
+
+(b)  was furnished in accordance with a notice served on him under section 63(2); and
+
+(c)  states that the defendant was the driver of the vehicle at the time of the offence,
+
+the court shall admit the statement as prima facie evidence that the defendant was the driver of the vehicle at the time of the offence.
+
+10.  If one confines oneself to the aforesaid RTO sections, the applicant was undoubtedly in contravention of RTO s 63(1).  He had failed to furnish the information required “in the manner prescribed in [the] section”, in particular, by not completing, signing and returning the form specified in the notice served on him, as required by RTO s 63(4).
+
+11.  However, the applicant has sought to contend that he is deemed to have complied with RTO s 63(1) by virtue of the ETO.  He relied particularly on ETO ss 5, 6 and 7, arguing that those provisions require his reply by e‑mail to be treated as sufficient compliance in that it supplied in electronic form the written statement and signature required by RTO s 63.  Those ETO sections relevantly provide as follows:
+
+Section 5  Requirement for writing
+
+(1)          If a rule of law requires information to be or given in writing or provides for certain consequences if it is not, an electronic record satisfies the requirement if the information contained in the electronic record is accessible so as to be usable for subsequent reference.
+
+Section 6  Electronic signatures, digital signatures, etc.
+
+(1A)     Where—
+
+(a)  a rule of law requires the signature of a person on a document or provides for certain consequences if the document is not signed by the person; and
+
+(b)  either or both of the person mentioned in paragraph (a) and the person to whom the signature is to be given is or are or is or are acting on behalf of a government entity or government entities,
+
+a digital signature of the person mentioned in paragraph (a) satisfies the requirement if the digital signature is—
+
+(c)  supported by a recognized certificate;
+
+(d)  generated within the validity of that certificate; and
+
+(e)  used in accordance with the terms of that certificate.
+
+Section 7  Presentation or retention of information in its original form
+
+(1)  Where a rule of law requires that certain information be presented or retained in its original form, the requirement is satisfied by presenting or retaining the information in the form of electronic records if—
+
+(a)  there exists a reliable assurance as to the integrity of the information from the time when it was first generated in its final form; and
+
+(b)  where it is required that information be presented, the information is capable of being displayed in a legible form to the person to whom it is to be presented.
+
+12.  The applicant’s contention is not reasonably arguable.  Sections 5, 6 and 7 are found in Part III of the ETO and s 10 thereof provides that those provisions must be construed subject to Part IV.  They must therefore be construed subject to ETO ss 13 and 16 which are in Part IV.  The effect of the latter two provisions is to make ETO ss 5, 6 and 7 inapplicable for the purposes of complying with RTO s 63.
+
+13.  It is convenient to consider ETO s 16 first.  It materially provides as follows:
+
+Section 16  Sections 5, 6, 7 and 8 not to have effect if their operation affects other statutory requirements
+
+(1)  If the effect of section 5 on a requirement or permission in an Ordinance for information to be or given in writing (requirement for writing) is such that any other requirement in that Ordinance or a related Ordinance (that is a requirement other than the requirement for writing) cannot be complied with due to the operation of that section, section 5 does not apply to the requirement for writing.
+
+(2)  If the effect of section 6 on a requirement in an Ordinance for the signature of a person is such that any other requirement in that Ordinance or a related Ordinance (that is a requirement other than the requirement for the signature of a person) cannot be complied with due to the operation of that section, section 6 does not apply to the requirement for the signature of a person.
+
+(3)  If the effect of section 7 on a requirement in an Ordinance for information to be presented or retained in its original form (requirement for original form) is such that any other requirement in that Ordinance or a related Ordinance (that is a requirement other than the requirement for original form) cannot be complied with due to the operation of that section, section 7 does not apply to the requirement for original form. ...
+
+14.  As we have seen, RTO s 63 requires the stated information to be furnished in the manner prescribed, ie, by completing, signing and returning the written statement contained in the notice served on the addressee.  Compliance requires using and signing that particular form. The Ordinance thus lays down requirements “other than” simply requirements for writing, signature or information in its original form not tied to any particular document.  Accordingly, ETO s 16(1), (2) and (3) exclude the operation of ETO ss 5, 6 and 7 for RTO s 63 purposes.  Even if the applicant’s e-mail was capable of being regarded as a record in electronic or digital form within those ETO sections (which is unclear and was not explored below) it was not compliant with the statutory requirements of RTO s 63. 
+
+15.  The Courts below also correctly relied on ETO s 13 which relevantly states:
+
+Section 13  Rules of court or procedure only to apply where relevant authority provides for application
+
+(1)  Section 5, 5A, 6, 7 or 8 does not apply in relation to information given, presented or retained, documents served or signatures required for the purposes of any proceedings set out in Schedule 2, unless any rule of law relating to those proceedings provide for its application. ...
+
+16.  ETO s 13(1) makes sections 5, 6 and 7 inapplicable since the information given in the prescribed manner pursuant to RTO s 63 is required for the purposes of proceedings set out in Schedule 2 (namely, proceedings in a magistrates’ court).  This is so because, in the light of RTO s 64, a duly completed, signed and returned form may serve in summary proceedings as admissible prima facie evidence that the defendant was the driver of the vehicle at the time of the offence.  No such legal consequence attaches to the applicant’s e-mail, highlighting its essential difference from a written statement returned in accordance with RTO s 63.
+
+17.  Viewed contextually and purposively, RTO s 63 pursues sensible law enforcement and administrative objectives.  Where there are grounds for suspecting commission of a traffic offence implicating an identified vehicle, it is legitimate to require its registered owner to supply information as to the identity of the driver at the time, in aid of investigating the offence.  As numerous simple traffic cases are likely to be involved, it is also legitimate to require the response to be given in a standardised form, enabling such information to be efficiently and consistently processed and, if RTO s 64 is applicable, making the signed written statement admissible prima facie evidence likely to simplify or eliminate the need for court procedures.  If persons to whom such notices are addressed were free to respond using whatever non-standardised form and wording they might choose, the police would have to process each individual response with whatever idiosyncrasies such responses might exhibit to extract the needed information and decide whether they were compliant with the statutory requirements.  The ETO provisions relied on by the applicant are clearly not intended to override or displace the RTO scheme, as is made clear by ETO ss 13 and 16. The applicant was rightly convicted, the contrary not being reasonably arguable.  Accordingly, leave to appeal was refused. 
+
+ 
+
+ 
+
+(R A V Ribeiro)	(Joseph Fok)	(M H Lam)
+Permanent Judge	Permanent Judge	Permanent Judge
+ 
+
+The Applicant, appeared in person
+
+Mr Derek Lau, SPP, of the Department of Justice, for the Respondent
+
+
+[1] Cap 374.
+
+[2] Cap 553.
+
+[3] Deputy Magistrate Ms Maria So (KCS 36102/2018) 27 June 2019.
+
+[4] Deputy High Court Judge Yiu [2020] HKCFI 1353 (14 July 2020).
+
+[5] RTO s 63(1).
+
+[6] RTO s 63(4)(a).
+
+ 
+

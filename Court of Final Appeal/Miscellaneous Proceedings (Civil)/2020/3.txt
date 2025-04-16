@@ -1,0 +1,160 @@
+FAMV No. 34 of 2020
+
+[2020] HKCFA 24
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 34 OF 2020 (CIVIL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL
+
+FROM CACV NO. 102 OF 2019)
+
+___________________________
+
+BETWEEN	 	 
+BRIGHT SHIPPING LIMITED	Plaintiff
+(Respondent)
+and	
+CHANGHONG GROUP (HK) LIMITED	Defendant
+(Applicant)
+___________________________
+
+Appeal Committee: Chief Justice Ma, Mr Justice Fok PJ and Mr Justice Cheung PJ
+
+Date of Hearing and Determination: 13 July 2020
+
+Date of Reasons for Determination: 16 July 2020
+
+________________________
+
+REASONS FOR DETERMINATION
+
+________________________
+
+Mr Justice Fok PJ:
+
+1.  After hearing counsel for the applicant, we dismissed this application for leave to appeal and indicated we would hand down our reasons for doing so in due course.  These are our reasons.
+
+Introduction and background
+
+2.  On 6 January 2018, a maritime collision occurred between a Hong Kong flag cargo vessel (Crystal) owned by the applicant (defendant) and a Panamanian flag tanker (Sanchi) owned by the respondent (plaintiff) in international waters in the East China Sea.  Sanchi exploded and caught fire and eventually sank.  The collision resulted in pollution in the form of spilled bunkers and natural gas condensate.
+
+3.  This in personam collision action was commenced in Hong Kong by the respondent against the applicant as of right by service of the writ on the applicant, a company incorporated in Hong Kong, at its registered address here.  The action has now reached an advanced stage, with the trial due to commence before a judge of the Court of First Instance on 14 October 2020.  The main issue to be determined in this action is the extent to which each vessel was to blame for the collision and also the quantum of any damages to be awarded.
+
+4.  Other actions have also been commenced arising out of the collision.
+
+(1)  In Hong Kong, another action commenced by parties interested in cargo on the Sanchi will be proceeding to trial in this jurisdiction, an application by the applicant (also defendant in that action) to stay the action on the ground of forum non conveniens having been dismissed.[1]
+
+(2)  In the Shanghai Maritime Court:
+
+(a)  the applicant has applied to establish limitation funds in respect of personal injury and property claims respectively;
+
+(b)  the applicant has also commenced an action in that court against the company which managed the Sanchi in respect of the collision; and
+
+(c)  the insurers of the cargo on board the Crystal have brought an action against the applicant, the respondent and the manager of the Sanchi in respect of the loss of that cargo; and
+
+(d)  there are also cargo claims against the applicant as well as emergency response and pollution related claims, two of which involve the respondent.
+
+(3)  It is noteworthy that the respondent had not, when this matter was before the courts below, submitted to the jurisdiction of the Shanghai Maritime Court in any of the above proceedings in which it is involved.[2]
+
+The application for a stay of this action
+
+5.  The applicant applied by summons for a stay of this Hong Kong action on the ground of forum non conveniens.  That application was refused by the Admiralty Judge (Anthony Chan J)[3] and an appeal against his refusal of a stay was dismissed by the Court of Appeal.[4] 
+
+6.  In approaching the applicant’s application for a stay of this action in favour of the Shanghai Maritime Court, the judge applied the well-known test applicable to applications to stay proceedings on the ground of forum non conveniens laid down in the House of Lords’ seminal decision in The Spiliada [1987] 1 AC 460.  The test, approved and adopted by the Court of Final Appeal in SPH v SA (2014) 17 HKCFAR 364 at [51], is as follows:
+
+“1. The single question to be decided is whether there is some other available forum, having competent jurisdiction, which is the appropriate forum for the trial of an action i.e. in which the action may be tried more suitably for the interests of all the parties and the ends of justice?
+
+2. In order to answer this question, the applicant for the stay has to establish that first, Hong Kong is not the natural or appropriate forum (‘appropriate’ in this context means the forum has the most real and substantial connection with the action) and second, there is another available forum which is clearly or distinctly more appropriate than Hong Kong. Failure by the applicant to establish these two matters at this stage is fatal.
+
+3. If the applicant is able to establish both of these two matters, then the plaintiff in the Hong Kong proceedings has to show that he will be deprived of a legitimate personal or juridical advantage if the action is tried in a forum other than Hong Kong.
+
+4. If the plaintiff is able to establish this, the court will have to balance the advantages of the alternative forum with the disadvantages that the plaintiff may suffer. Deprivation of one or more personal advantages will not necessarily be fatal to the applicant for the stay if he is able to establish to the court’s satisfaction that substantial justice will be done in the available appropriate forum.”
+
+7.  In the present case, the judge, after weighing up the various factors for and against the competing jurisdictions in terms of the trial of the action between the parties, concluded (at [55]) that the applicant failed to establish that the Shanghai Maritime Court is clearly and distinctly more appropriate than the Hong Kong court to determine the issues in this action.  The Court of Appeal agreed with this conclusion (at [63]).  Thus, the application failed below at the first stage of the forum non conveniens test (Stage 1) without reference to whether the respondent could show the absence of a legitimate personal or juridical advantage if the action were tried in a forum other than Hong Kong (Stage 2).  However, the judge was of the view that the lower tonnage limitation in the Shanghai Maritime Court as compared with Hong Kong was an important juridical disadvantage for the respondent, as was the fact the time limit for bringing a claim in the PRC had already expired, so that an inter-ship action by the respondent brought in Shanghai would not provide an effective remedy.  He concluded (at [58]) that substantial justice would not be done in Shanghai, a conclusion with which the Court of Appeal agreed (at [72]).
+
+The application for leave to appeal
+
+8.  The applicant’s application for leave to appeal to the Court of Final Appeal having been refused by the Court of Appeal,[5] the applicant renewed its application for such leave to the Appeal Committee by Notice of Application dated 6 May 2020.  The applicant’s Notice of Application seeks leave to appeal on the ground that the case raises three questions of great general or public importance and on the “or otherwise” basis.
+
+9.  The first question concerns the relevance of pending proceedings in another jurisdiction (lis alibi pendens) in the context of an application to stay proceedings on the ground of forum non conveniens.  The question proceeds on the premise that the test in such cases boils down to a choice between what the applicant has described as “the Nan Tung test”,[6] on the one hand, and “the Abidin Daver test”, on the other.[7] It is suggested by the applicant that there is a divergence between the two tests and that final appellate guidance is necessary to clarify the applicable test.
+
+10.  We are satisfied that the applicant’s first question proceeds on the false premise that either “the Nan Tung test” or “the Abidin Daver test”, as defined by the applicant, is the applicable test for a stay application in the case of lis alibi pendens.  Neither of those tests, as defined by the applicant, is applicable to that situation nor were they applied by the courts below in this case.  The relevance of lis alibi pendens is clearly established, and consistently applied in a number of court decisions,[8] to be one of the relevant factors that a court will take into account when addressing the Stage 1 question of whether an applicant for a stay has demonstrated that another jurisdiction is clearly or distinctly more appropriate than Hong Kong.  That was the approach of the judge in the present case,[9] endorsed by the Court of Appeal.[10]
+
+11.  This is also the approach that applies in England and Wales, where the leading textbook Dicey, Morris & Collins on The Conflict of Laws[11] summarises the position as follows:
+
+“Although it was once thought that there were special factors in cases of lis alibi pendens, presumably because litispendence has always been more widely accepted as a ground for jurisdictional relief, it is now clear that the existence of simultaneous proceedings is no more than a factor relevant to the determination of the appropriate forum.”
+
+12.  In any event, the passage from The Abidin Daver[12] which the applicant relies upon does not support what it has defined as “the Abidin Daver test”.  The context of Lord Diplock’s remarks at pp.411H to 412A of his speech is clearly a reference to proceedings taking place in a jurisdiction which is the natural and appropriate forum for the resolution of the dispute in question.  In other words, his remarks are directed to a case where Stage 1 has already been decided in favour of the applicant for the stay and the court is looking to see whether, at Stage 2, the plaintiff who has brought the proceedings sought to be stayed will be deprived of a legitimate personal or juridical advantage if a stay is granted.    At the Stage 1 inquiry, as explained in de Dampierre v de Dampierre,[13] a decision on an application for a stay of proceedings decided after The Spiliada where there was a lis alibi pendens between the parties, the existence of other proceedings already pending in the alternative forum is simply a relevant factor which may or may not have particular weight depending on the facts.
+
+13.  As already explained (at [7] above), the Stage 2 inquiry was never reached in this case because the judge concluded that, even taking into account the parallel proceedings in the Shanghai Maritime Court, which in any event are not strictly parallel proceedings to the present collision action in Hong Kong,[14] that court was not shown to be clearly and distinctly more appropriate than Hong Kong in relation to the inter-ship action arising out of the collision.
+
+14.  The second question of law for which the applicant seeks leave to appeal concerns the relevance of the PRC’s exclusive economic zone (“EEZ”).  Two separate arguments are sought to be raised.  First, it is suggested that the fact that the collision occurred in the PRC’s EEZ distinguishes this case from a collision occurring in international waters outside an EEZ, where it may properly be said there is no natural or appropriate forum.  Secondly, it is sought to argue that the principle in The Albaforth,[15] namely that the jurisdiction in which a tort has been committed is prima facie the natural forum for the determination of the dispute, applies to make the PRC EEZ the (or a) natural or appropriate forum for determining disputes arising from the collision.
+
+15.  The first argument does not justify the grant of leave since it is an academic debate to consider the position as if the collision had occurred in international waters outside an EEZ, which it did not.
+
+16.  The second argument is a new point raised by the applicant.  Even assuming the point is open to the applicant, we are satisfied that it is not reasonably arguable and that its resolution would not lead to a different result.  It is well established that the place of a collision at sea is a matter that may be quite fortuitous and in respect of which there may be no obvious or natural forum for the resolution of disputes.[16] The commencement of pollution claims in the Shanghai Maritime Court in respect of a collision that occurred within the PRC’s EEZ does not make that court the natural or appropriate forum for the determination of this inter-ship dispute which seeks to apportion liability for the collision between the vessels involved.  The analysis of the Full Court of the Federal Court of Australia in The Chou Shan[17] at [89] to [92] is, in our view, applicable to the present situation.  In any event, it is to be noted that the collision occurred within the EEZ of not just the PRC but also of Korea and Japan and that claims have been asserted against the respondent in respect of the clean-up operations in Japan.  In short, the weight to be attached to the fact of the collision having occurred within the PRC’s EEZ and the pollution claims in the Shanghai Maritime Court was a matter for the judge, again to be tested against other factors going to the question whether the Shanghai Maritime Court was clearly or distinctly more appropriate than Hong Kong.
+
+17.  The third question of law for which leave to appeal is sought concerns the relevance of limitation.  The applicant’s argument is that, having constituted a limitation fund in the Shanghai Maritime Court, that should be the natural or appropriate forum for this action to be tried.  However, the question (which is split into three parts) proceeds on an overall assumption which is circular, namely that because limitation proceedings happened to commence there, the Shanghai Maritime Court is the natural or appropriate forum.  While the applicant was free to commence a limitation action wherever it chose, this cannot be given undue weight by itself.[18] It also proceeds on a factual assumption that “that jurisdiction is the only jurisdiction where the shipowner is likely to be or has been sued and may limit its liability” (emphasis in original) which is not warranted.  We were not satisfied that the applicant’s proposition, namely that, where a limitation action has been commenced in a particular jurisdiction, it will require exceptional factors to displace that jurisdiction for the purposes of forum non conveniens, is reasonably arguable.  The weight to be accorded to the limitation proceedings commenced by the applicant in the Shanghai Maritime Court was a matter for the judge in the exercise of his discretion at Stage 1 of the Spiliada test.  It was open to him to conclude that, notwithstanding the existence of those proceedings, the applicant had not demonstrated that the Shanghai Maritime Court is clearly or distinctly more appropriate than Hong Kong for the trial of this action.  Given that the issues in the limitation action are different to those in this collision action,[19] there is nothing surprising in his conclusion.
+
+18.  Furthermore, two of the sub-questions (questions 3(2) and 3(3)) are only relevant at Stage 2 of the Spiliada test and, since that stage is not reached in this case, the questions are academic and provide no proper basis for the grant of leave to appeal to the Court of Final Appeal.
+
+19.  The applicant also seeks leave on the “or otherwise” basis, relying on the same matters in support of the application for leave to appeal on the basis that questions of law of the requisite public importance are involved.  This is not an appropriate case for the grant of leave on the “or otherwise” basis.  The present action was commenced by the respondent in Hong Kong against the applicant as of right in respect of a collision at sea.  It has proceeded to an advanced stage and is due to be tried in just over three months’ time.  This contrasts with the inter-ship proceedings in the Shanghai Maritime Court, which are only at a preliminary stage.  If either party is to be described as “forum shopping”, the applicant’s desire to litigate the dispute in the Shanghai Maritime Court, where the limitation amount is lower than that in Hong Kong, is more appropriately so characterised, rather than the respondent by bringing this collision action in Hong Kong where the applicant is incorporated.
+
+19.  For these reasons, we dismissed the application for leave to appeal with costs.
+
+ 
+
+ 
+
+(Geoffrey Ma)	 (Joseph Fok)	 (Andrew Cheung)
+Chief Justice	Permanent Judge	Permanent Judge
+
+Mr Charles Sussex SC and Mr Nick Luxton, instructed by Holman Fenwick Willan, for the Plaintiff (Respondent)
+
+Mr Edward Alder, instructed by Reed Smith Richards Butler, for the Defendant (Applicant)
+
+
+[1]  HCAJ 6/2018: see [2019] HKCA 1061, CAMP 197/2019, Judgment dated 20 September 2019, refusing leave to appeal to the Court of Appeal from the Admiralty Judge’s refusal of a stay of the action in favour of the Shanghai Maritime Court.
+
+[2]  On 8 July 2020, the applicant issued a summons to introduce an affirmation from its lawyer in the Shanghai Maritime Court proceedings.  This suggested that on 30 June 2020, the respondent had submitted to that court’s jurisdiction in the inter-ship action.  By reason of its lateness, the summons was dismissed.  In any event, it was apparent from the submissions of counsel for the applicant that the inter-ship proceedings in Shanghai were only at a preliminary stage and so the evidence was of limited relevance and weight in view of the advanced stage of this action in Hong Kong.
+
+[3]  [2018] HKCFI 2474, HCAJ 3/2018, Decision dated 15 November 2018 (“CFI Judgment”).
+
+[4]  [2019] HKCA 1062, CACV 102/2019 (Kwan VP and Barma JA), Judgment dated 20 September 2019 (“CA Judgment”).
+
+[5]  [2020] HKCA 162, CACV 102/2019 (Kwan VP, Cheung & Barma JJA), Judgment dated 18 March 2020.
+
+[6]   Nan Tung Bank Ltd, Zhu Hai v Wangfoong Transportation Ltd [1999] 2 HKC 606.
+
+[7]   The Abidin Daver [1984] 1 AC 398.
+
+[8]   LN v SCCM, CACV 62/2013, Judgment dated 4 June 2013 at [20]; China Construction Bank (Asia) Corp Ltd v Shanghai Pudong Development Bank Co Ltd, CACV 14/2016, Judgment dated 3 February 2017 at [5.2]; The Peng Yan [2009] 1 HKLRD 144 at [23] and [31].
+
+[9]  CFI Judgment at [53].
+
+[10]  CA Judgment at [34].
+
+[11]  (2012, 15th Ed.) at [12-043].
+
+[12]  [1984] 1 AC 398 at pp.411H-412A.
+
+[13]  [1988] 1 AC 92 per Lord Goff at p.108B-D.
+
+[14]  It should be noted that whatever stage has been reached in the Shanghai Maritime Court proceedings as between the applicant and the respondent, by comparison, the proceedings in Hong Kong are at a very advanced stage.  The judge was, in these circumstances, justified in not regarding this factor as being a significant one favouring the applicant. Moreover, the issues in a collision action (as in the Hong Kong proceedings) and those involved in a limitation action (as in the proceedings in the Shanghai Maritime Court) are likely to be different.
+
+[15]  [1984] 2 Lloyd’s Rep 91 per Ackner LJ at p.94.
+
+[16]  See: The Coral Isis [1986] 1 Lloyd’s Rep 413 at p.416; The Spiliada [1987] 1 AC 460 at p.477C-D; The Planeta, unrep., HCAJ 384/1991, Decision dated 18 January 1993 at [26]; The Peng Yan [2009] 1 HKLRD 144 at [24]-[28]; The Al Khattiya [2018] 2 Lloyd’s Rep 243 at [37]-[42].
+
+[17]  [2014] FCAFC 90, (2014) 311 ALR 234 at p.253.
+
+[18]  See The Peng Yan (supra) at [42].
+
+[19]  The issues in these types of proceedings often are: see The Volvox Hollandia [1988] 2 Lloyd’s Rep 361 at pp.363, col.1, and 371, col.1; Bouygues Offshore SA v Caspian Shipping Co & Others [1998] 2 Lloyd’s Rep 461 at p.474, col.2.
+
+ 
+

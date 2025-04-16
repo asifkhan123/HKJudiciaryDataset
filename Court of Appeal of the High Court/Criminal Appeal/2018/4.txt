@@ -1,0 +1,1485 @@
+CACC 5 /2018
+
+[2021] HKCA 1655
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CRIMINAL APPEAL NO 5 OF 2018
+
+(ON APPEAL FROM HCCC NO 437 OF 2015)
+
+________________________
+
+BETWEEN	 	 
+ 	HKSAR	Respondent
+ 	and	
+ 	Chow Heung Wing, Stephen (周向榮) (D1)	1st Applicant
+ 	Chan Kwun Chung (陳冠忠) (D2)	2nd Applicant
+________________________
+
+Before:	Hon Macrae VP, Zervos JA and A Pang JA in Court
+Dates of Hearing:	6, 7, 8, 9 and 12 October 2020
+Date of Judgment:	4 November 2021
+____________________
+
+J U D G M E N T
+
+____________________
+
+Hon Macrae VP (giving the Judgment of the Court):
+
+A. Introduction
+
+1.  The two applicants, Chow Heung Wing, Stephen (“D1”) and Chan Kwun Chung, also known as Billy Chan (“D2”), and a third defendant, Mak Wan Ling (“D3”), were tried together on an indictment before Barnes J (“the judge”) and a jury of nine in the High Court.  Each defendant faced an individual count of manslaughter by gross negligence, contrary to Common Law, and punishable under section 7 of the Offences against the Person Ordinance, Cap 212, to which respective counts they pleaded not guilty.  On 12 December 2017, following a trial lasting 101 days, D1 was unanimously convicted on Count 1, while D2 was convicted by a majority of 7:2 on Count 2.  The jury were unable to reach a verdict in respect of D3 on Count 3.  On 18 December 2017, the judge sentenced D1 to 12 years’ imprisonment; and D2 to 10 years’ imprisonment.  D3 was meanwhile ordered to be tried again before another jury on a fresh indictment.
+
+2.  By Notices of Application for leave to appeal, filed on 8 January 2018 (D1) and 9 January 2018 (D2), the applicants sought leave to appeal against both their convictions and sentences.  Since D1 and D2 are appealing against both conviction and sentence, while D3 does not form part of this appeal, although it will be necessary on occasion to refer to her, we shall refer to all three by their trial designations.
+
+3.  Given the large number of witnesses called at the trial, and the voluminous evidence and documents produced, this Court granted an extended period of time for the applicants and the respondent to agree on the transcript and documents necessary for the purposes of the appeal[1]. Following the filing of original perfected grounds of appeal, and having regard to the somewhat unusual facts of the case, the number of applicants, and the diversity of the grounds of appeal[2], some of which involved a question of law alone (for which leave was not required), while others involved questions of fact or mixed law and fact (for which leave was required), the Court directed on 5 November 2019 that the applications for leave to appeal should be heard at the same time as the hearing of the appeals before the full Court; lest the appeal be further delayed and judicial resources unnecessarily deployed and wasted.
+
+B.   The background to the offences
+
+4.  In February 2012, the “DR[3] Group” launched a cellular therapy treatment, known as “CIK” or “AI” or “CIK/AI” treatment, whereby blood was to be extracted from a human body and taken to a laboratory, Asia Pacific Stem Cell Science Ltd (“APSC”), to undergo a particular process of culturing[4], after which it would be transfused back into the same human body.  The letters “CIK” technically derive from the Cytokine Induced Killer cells, which were to be reintroduced into the human body, while “AI” stands for Adoptive Immunotherapy.  However, for the most part throughout the trial and this appeal, the treatment was referred to as “CIK treatment” or “CIK therapy”.  We shall refer to it as “CIK treatment” or, simply, “CIK”. 
+
+5.  The CIK treatment was received by various customers[5], including Madam Chan Yuen-lam (“the deceased”), who had her blood drawn on 12 September 2012 at a clinic of the DR Group known as the Mesotherapy Clinic (“Mesotherapy”)[6], which was then processed at APSC.  Unfortunately, her blood became contaminated during the processing stage before it was infused back into her body on 3 October 2012, as a result of which bacteria were introduced into her bloodstream.  She was subsequently admitted to the Intensive Care Unit of Ruttonjee Hospital on 4 October 2012 for emergency treatment, but tragically died on 10 October 2012; the cause of death being “multi-organ failure”, caused by mycobacterium abscessus septicaemia[7].
+
+6.  The prosecution alleged that CIK treatment was experimental in nature (for trial in cancer patients only) and, accordingly, wholly inappropriate and unnecessary for administration to a healthy human being such as the deceased[8]. The treatment was tantamount to a trial of a new medical procedure which, if conducted as such, should have been compliant with ethical medical principles and the medical Code of Professional Conduct[9].  The medical procedures involved fell short of the standards prescribed by Good Manufacturing Practice (“GMP”) and the requirements for cellular treatment under the American Association of Blood Banks protocol (“AABB”).  Despite its nature and the risks involved, CIK treatment was nevertheless marketed by the DR Group through DR Esthetic, the blood was cultured at APSC and the resulting blood product administered to its customers at Mesotherapy, for commercial gain.  Accordingly, the prosecution alleged that D1, as the person in charge of the DR Group (who also happened to be a medical practitioner himself) which offered the treatment; D2, the person in charge of APSC[10] who processed the blood in question; and D3, the doctor who transfused the contaminated blood back into the body of the deceased, were all criminally liable for the offence of manslaughter by gross negligence.
+
+C.   The indictment
+
+7.  Since this appeal is concerned with D1 and D2 alone, we shall only set out the Particulars of Offence in respect of the individual count, which each of them faced:
+
+C.1.  Count 1 (against D1)
+
+8.  It was alleged that D1 unlawfully killed the deceased by gross negligence in that -
+
+(i) Being the owner and person in effective control of a number of companies held out as the ‘DR group’, including DR Esthetic Centre (Causeway Bay) Limited, Hong Kong Mesotherapy Centre Limited and Asia Pacific Stem Cell Science Limited which marketed, prepared and administered to the said Chan Yuen-lam a product known as CIK/AI therapy owed a duty of care to the said Chan Yuen-lam;
+
+(ii) In breach of that duty of care, in the knowledge that the said CIK/AI therapy was based on experimental process for the treatment of cancer and which involved the extraction, manipulation in a laboratory and reintroduction of blood taken from the said Chan Yuen-lam (“the said blood product”), failed to take reasonable care for the safety of the said Chan Yuen-lam by -
+
+(a) Failing to ensure that a properly qualified person was responsible for preparing and producing the said blood product.
+
+(b) Failing to devise, institute, enforce and maintain a properly documented protocol for the preparation in the laboratory of the said blood product which included viral and bacteria testing.
+
+(c) Failing to ensure that the said blood product had, prior to leaving the laboratory where it had been prepared, undergone viral and bacteria testing and that such had been documented.
+
+(d) Failing to devise, institute, enforce and maintain a safe system requiring [D3] to have satisfied herself that such viral and bacteria testing had been carried out prior to administration of the said blood product to the said Chan Yuen-lam, so as to ensure the same was free of contamination.
+
+(e) Failing to ensure that the said Chan Yuen-lam was fully informed of the risks involved in the administration of the said CIK/AI therapy;
+
+(iii) His aforesaid breach of duty amounted to gross negligence on his part; and
+
+(iv) His aforesaid negligence was a substantial cause of the death of the said Chan Yuen-lam.
+
+C.2.  Count 2 (against D2)
+
+9.  It was alleged that D2 unlawfully killed the deceased by gross negligence in that -
+
+(i) Being the person responsible for the preparation of a product known as CIK/AI therapy on behalf of Asia Pacific Stem Cell Science Limited, which the said CIK/AI therapy was administered to the said Chan Yuen-lam, owed her a duty of care;
+
+(ii) In breach of that duty of care, in the knowledge that the said CIK/AI therapy was based on experimental process for the treatment of cancer and which involved the extraction, manipulation in a laboratory and reintroduction of blood taken from the said Chan Yuen-lam (“the said blood product”), failed to take reasonable care for the safety of the said Chan Yuen-lam by -
+
+(a) Failing to ensure that he was fully qualified to undertake the preparation and production of the said blood product.
+
+(b) Failing to devise, institute, enforce and maintain a properly documented protocol for the preparation in the laboratory of the said blood product which included viral and bacteria testing;
+
+(c) Failing to ensure that the said blood product had, prior to leaving the laboratory where it had been prepared and produced, undergone viral and bacteria testing and that such had been documented so as to ensure the said blood product was free of contamination.
+
+(d) Failing to devise, institute, enforce and maintain a safe system documenting the carrying out of all necessary viral and bacteria tests to accompany the said blood product when it left the laboratory;
+
+(iii) His aforesaid breach of duty amounted to gross negligence on his part; and
+
+(iv) His aforesaid negligence was a substantial cause of the death of the said Chan Yuen-lam.
+
+D.   The facts relevant to the offence
+
+10.  The evidence in this case was extensive and voluminous[11]. The facts we now recite are necessarily limited, so as to focus on the specific arguments of the parties to the appeal[12].  That we have not recited other facts should not diminish their relevance.  For the sake of convenience, we should make clear that any reference to an email sent either to, or from, D1 is merely a collective, generic reference to those emails sent not only to, or from, him directly, but to, or from, his assistant, “DR” or whomsoever was acting on his behalf.
+
+11.  On 2 March 2011, D2 sent an email to D1 with the heading “NK Cell (Killer Cells) a little content”, in which he canvassed the possibility that if killer cells could be “drawn from a healthy body, proliferated, injected regularly for health care purpose, it may be a treatment in the future”.  He also postulated that “regular injection of NK may be a kind of anti-aging treatment in the future”[13].
+
+12.  On 22 April 2011, in an email headed “Fw[2]: NK cell expansion – easier than ever”, D1 asked D2 (and another scientist, Anthea To) to “check and think about if there are any commercial values for NK cell proliferation and storage”[14].
+
+13.  On 23 April 2011, D2 sent a further email to D1 headed “Regarding the Storage of NK Cell”, in which he informed D1 that the proliferation of NK cells had been approved for treatment by the American FDA; and that “[t]here are already people in the mainland China and Taiwan secretly producing NK cells, injecting every half year, for anti-aging purpose”.  D2 suggested that “[w]ith the number of DR members, it is a good stable source of income”, before going on to consider several technical matters that needed to be resolved before the procedure might become a “selling point”[15].
+
+14.  On 9 September 2011, D1 sent an email to the Department of Health to inquire whether the infusion of a person’s own processed blood was covered by any regulation[16]. D1 subsequently acknowledged, on 18 October 2011, that whilst such infusion was not illegal, provided no medicinal claims were made in any promotional material[17], advertisements were “prohibited”[18].
+
+15.  On 14 September 2011, by another email headed “Lee Kwong Fai NK Cell Technology Authorization Conditions”, D2 informed D1 that he had attempted to arrange a technology transfer of NK cells from Taiwan, but the costs incurred would be “more than $10 million.”[19] On 15 September 2011, D1 received a proposal for similar technology transfer from a Professor Oda in Japan[20].
+
+16.  In an email to Mico Lee, the head nurse at Mesotherapy and a defence witness for D1 at trial, dated 25 October 2011[21], which email was copied to D2, D1 said he thought that Mico Lee had misunderstood the dosage of the daily injections: the correct dosage should have been 10 mg per day, 5 mg in the morning and 5 mg at night, for which D1 quoted research done by the Chinese University of Hong Kong.
+
+17.  By an email from D1 to various scientists, including D2, dated 9 November 2011, D1 said he was unhappy about the quotation for consultation fees from the Productivity Council for GMP (Good Manufacturing Practice) compliance.  He concluded, “[a]fter seeing the quotation, I totally cannot estimate how much I need to pay at last to get the GMP”[22].
+
+18.  By an employment contract, which took effect on 3 January 2012, one Michael Wah was employed as the laboratory director, although he was not the holder of a doctorate degree, nor had he received any medical training[23]. One of his duties was “to assist the Employer in applying for medical laboratory registration with the Department of Health in Hong Kong”. His employment was to be on a part-time basis for three months from 3 January 2012 to 1 April 2012; and on a full-time basis for three years from 2 April 2012 until 1 April 2015[24].
+
+19.  On 7 February 2012, D1, D2 and D3, together with several others, visited the Hospital of Guangzhou Military Command on the Mainland to learn about CIK treatment; D2 was also able to observe the technique of CIK processing[25]. D1, D2 and D3 returned to Hong Kong on the following day. 
+
+20.  On the very same day of their return, namely, 8 February 2012, Winsor (Hong Kong) Limited (“Winsor”)[26] issued a Staff Notice[27] announcing that CIK cell therapy would be launched in mid-March 2012.  It was stated in the Notice that “[a]t present our company is the first company providing this kind of service in Hong Kong.  However, I have received news that ‘Yeung’ X Hospital will provide NK cell treatment service at the end of the year”.  The cost was stipulated as $59,500 for each infusion, including a physical examination, with a discount of 10% for three infusions.  The treatment was to be offered to known, regular customers.  We should observe that the deceased was one such customer, who had in fact spent more than $1 million on various products and services provided by the DR Group[28].
+
+21.  By an email dated 8 February 2012 at 22:49 hours[29], D1 directed two documents to D2, one entitled “Equipment and Reagents for NK Cell Culture”; and the other “Flow of DC-CIK culture”.  The two-page document entitled “Flow of DC-CIK culture” was said to be the protocol for processing CIK cells, which had been handed out by Professor Xiao during the Guangzhou trip, but which D2 had not brought back with him to Hong Kong.  It may be noted that, according to D1, he subsequently received another protocol concerning CIK cell production[30].
+
+22.  On 22 February 2012, on the instructions of D1, D2 attended the Hospital of Guangzhou Military Command again, for the purpose of observing the preparation and infusion of CIK[31].
+
+23.  On 27 February 2012, D2 sent an email to D1 offering to have his own blood taken for a CIK experiment[32].
+
+24.  On 8 March 2012, following various emails sent by another scientist, Tim Huang, to D1[33], some of which discussed the side-effects of the treatment, Tim Huang further sent to D1 a table[34] summarising, inter alia, the benefits and side-effects of CIK treatment.
+
+25.  By an internal notice dated 2 April 2012[35], Winsor furnished its staff with a disclaimer to be signed by customers before receiving the treatment.  The disclaimer, which was also signed by the deceased[36], read:
+
+                        Notice for Injection of Autologous CIK cell
+
+           I know that CIK cell is a lymphocyte and its growth is induced by cytokine.  Its function is to destroy undesirable cells in the body.  I hereby invite the doctor to extract about 100cc of blood from me in order to culture the CIK cell in the blood and then transfuse it back into my body through a drip injection.  I wish to eliminate the undesirable cells in the body as soon as possible if they do exist.  I am certainly aware that it is a new treatment without any evidence of health effect.  I am not going for any medical effect either.  The doctor is willing to explain to me the possible side effects including the most common case of developing a fever within 48 hours.  I also know that it is a new treatment and there may be other side-effects unknown to the doctor.  However, I am willing to try and will of my own volition bear all possible side effects and responsibilities. I hereby pledge that I will not pursue any liabilities from the doctor of the Hong Kong Mesotherapy Centre Limited.
+
+Signature of Client: _______________
+
+Name of Client: _______________
+
+       Date: ______________
+
+26.  By another internal notice dated 3 April 2012[37], Winsor stated that each customer who received the treatment should sign a further undertaking as follows:
+
+    UNDERTAKING
+
+I agree that all the beauty treatments recommended to me by the staff of the DR Group and to be performed entirely by a doctor, because they will be performed by the doctor, and the DR Group or its staff has no ability to control the treatments, therefore they should not bear any responsibility for the consequences of any of the treatments, and I undertake not to pursue any complaints against the DR Group. (Original emphasis)
+
+Signature of customer: _______________
+
+Name of customer: _______________
+
+       Date: ______________
+
+The deceased signed such an undertaking on 18 May 2012[38].
+
+27.  On 23 April 2012, D1 sent an email to Mico Lee, D2 and Barbara Chan[39], giving instructions to Mico Lee about certain technical and administrative matters relating to the re-infusion of blood, and reminding her that she should “constantly calculate the 16th day from the date of drawing of blood and on which the client has to get injection”, and that on “the 14th day the blood has to be taken for karyotyping.” 
+
+28.  By an email, dated 19 May 2012 from Ceci Wong of APSC to D2[40], headed “Examination standard package (also apply on AI)”, D1 detailed ten tests to be applied to the treatment, the eighth test being “Sterility”.  It may be noted at this stage that it was the evidence of Carol Yip King-hung, a research assistant at APSC, that when she noticed that sterility tests were not being done, she asked D2 why not.  D2 told her that due to the short lifespan of the CIK cells, there was no time to do sterility tests[41].
+
+29.  On 23 May 2012, D1 sent an email to D2 and two other scientists[42], asking all three to “check if CIK Cell does not require the process of Karytotine (sic) for the following reasons: 1.  It is a differentiated cell with a limited lifespan of just 28 days; 2.  They do not do it in General Hospital; of Chinese Military Command”.  On 6 June 2012, D2 was subsequently informed by email[43], “[a]ccording to the instruction of DR, no need to do karyotyping for AI commencing June 1”.
+
+30.  On 24 July 2012, D1 sent an email to D2 and other scientists[44], requesting them to conduct “research on DC CIK cell and culture tumour cell”.
+
+31.  On 22 August 2012, AABB sent a letter to Michael Wah at APSC[45], confirming that APSC’s self-assessment report had been reviewed and found to be acceptable.  It was recommended that APSC proceed to the on-site assessment phase of the accreditation process.
+
+32.  In the evening of 3 October 2012, D1 was informed that three customers (namely, the deceased, Wong Ching-bor and Wong Fung-kwan) had fallen ill.  D1’s evidence was that he then made a telephone call to D2, who assured him that bacterial tests had been conducted on the three customers and the relevant reports would be sent to him the next day[46]. In this connection, it was the prosecution case that D2 had then produced false reports backdated to 26 September 2012.  We shall discuss these reports in due course.
+
+33.  On 6 October 2012, D1 held a press conference[47] and explained how the treatment had been conducted.  Amongst other matters, he acknowledged it had not been proved whether CIK treatment actually worked[48]; or if it was an effective treatment for cancer[49].  He claimed that he was merely an “investor”[50] in the DR Group, which referred clients to medical practitioners[51]; and that other medical practitioners were also doing this kind of treatment in Hong Kong[52].
+
+E.   The defence case
+
+34.  D1 (and D3) elected to give evidence: D2 chose to remain silent.  D1 additionally called two defence witnesses: Ivy Sin[53], one of the managers in the central management team of the DR Group; and Mico Lee. D2 called Wu Sin Ting, his former (but now late) wife, as his defence witness[54].
+
+E.1.  D1’s defence
+
+35.  D1 was a registered medical practitioner, having been registered continuously in Hong Kong since 10 July 1980[55].  He was, at all material times, the owner of the DR Group of companies[56].  His principal defence may be summarised as follows.  CIK treatment was based on the theory that it could eliminate cancer cells, if they existed[57]. He said he controlled the DR Group of companies, but not Mesotherapy[58], nor APSC[59]. In respect of his involvement with DR Esthetic, he said it was not his decision to launch and market the treatment, and he further denied having any effective control of matters relating to such treatment[60].
+
+36.  D1 said that he relied on D2, whom he trusted as an expert in culturing stem cells, and who had told him that sterility tests had been carried out on the blood concerned[61]. He had employed D2 to assist him in obtaining accreditation for APSC[62]. He believed that CIK treatment met the requisite standards, and that its side-effects were minimal[63]. In any event, he relied on the attending doctors, whose duty it was to advise the customer whether or not he/she was fit for the treatment[64].  D1 placed considerable emphasis on the fact that, on 29 September 2012, the treatment had also been administered to his own sister, who was at the time suffering from cancer.  Given the argument under D1’s Ground 6 that the summing-up was unfair and unbalanced, it is perhaps worth noting that the judge gave considerable emphasis to this point, as did Mr Harris SC on behalf of D1[65]:
+
+“D1 told you that he would not have subjected his own blood sister to receive the CIK therapy had he known that sterility tests had not been conducted. But you may consider that there is some truth in that because after all, it’s your own sister. If you had known that there is no sterility tests done, would you subject your sister to it?”
+
+E.2.  D2’s defence
+
+37.  D2 held a Master’s degree in Biochemistry and Biomedicine, although he was not a registered Medical Laboratory Technologist.  He had previously worked as a stem cell technician before joining APSC in 2009[66].
+
+38.  D2 had made two statements to the police on 18 and 25 October 2012, which were admitted into evidence as part of the prosecution case.  In the first statement, D2 was specifically asked whether any “contamination test” had been done on the blood products, to which he answered[67]:
+
+“I am not (a) chem(ist), this is not my duty. The company does not require me to take this step either. I also do not possess such professional qualification. Therefore I did not do it”[68].
+
+Later, in the same interview, he was asked whether a culture test for bacteria was required for cultured human blood before transfusing it into the human body.  He claimed that he did not know[69].
+
+39.  It was perhaps as a result of these admissions in his first statement that it was conceded on his behalf by his counsel at trial that D2 was, indeed, in breach of particulars (ii)(b),(c) and (d) of Count 2[70]. However, it was contended that the breach of such duties was not truly exceptionally bad so as to make him criminally liable for the death of the deceased.
+
+40.  D2’s principal defence was that he was a diligent employee, who was very keen to please his boss[71], and who was simply carrying out what D1 had instructed him to do.  He denied knowingly putting customers at risk and emphasised that he himself had volunteered to be the first recipient of the treatment[72].
+
+F.   The sympathetic views of Professor Yuen
+
+41.  Although Professor Yuen was called as a prosecution witness, he considered that it was “unfair” to burden D2, who was not medically trained, with the responsibility of preparing blood products without any supervision.  For the purpose of addressing the argument in Ground 4B of D2’s appeal, in relation to the judge’s allegedly unfair intervention during the cross-examination of Professor Yuen (and, perhaps, his ground of appeal against sentence as well), it is relevant to refer to an excerpt of the transcript, showing the context of the judge’s intervention[73]:
+
+“Mr Cheung[74]: … Now, in this case, we know that Billy Chan, he is not a medical doctor, and we know he is not a medical laboratory technologist. Earlier, you have told us that it should be such an onerous burden put on him —
+
+Court: That will be a jury question now.
+
+Mr Cheung: Very well.
+
+Court: You have gone beyond what the doctor is capable of saying. He can give the general picture of saying who should do what, but if you want to ask any further, which is a jury question – they decide whether your client should be responsible or not.
+
+…
+
+Mr Cheung: Professor, can I just trouble you to read the CVs of Billy Chan[75] to yourself?
+
+A: Yes. Finished, yes.
+
+Q: Now that you know his role at the laboratory and you are aware of his CV, does it change your opinion of what you earlier said?
+
+A: No.”
+
+G.   The summing-up
+
+42.  The judge delivered her summing-up on 5, 6, 7, 8 and 11 December 2017.  She set out what she termed the “ingredients” of the offence of gross negligence manslaughter, having directed the jury as to the burden and standard of proof[76].  She then told the jury there were five ingredients of the offence that were necessary for the prosecution to prove, namely[77]:
+
+“(1), the defendant owed a duty of care to the deceased; (2), the defendant was in breach of that duty of care; (3), the defendant was aware that the breach of that duty gave rise to a serious and obvious risk of death and not merely injury, even serious injury; (4), the breach of that duty caused or was the substantial cause of the death of the deceased; and (5), the breach of that duty in all the circumstances were truly exceptionally bad and so reprehensible as to justify the conclusion that it amounted to gross negligence and required criminal sanction.”
+
+The judge directed the jury to consider each particular of breach, and once they were sure of a particular breach (or breaches), they should move on to consider the next ingredient of the offence[78].
+
+G.1.  The first ingredient – Duty of care
+
+43.  In respect of D1, the judge instructed the jury that if they were sure he was the person in effective control, or a “hands-on” boss[79], of the DR Group of companies, including DR Esthetic, APSC and Mesotherapy, then he owed a duty of care towards the deceased in law.  The judge then asked[80]:
+
+“So on the evidence, can you be sure that D1’s admitted control over the DR Group … in fact included him having control over any decision made by the central management team, in particular, in relation to the CIK therapy?  In other words, he is in effective control even though the central management team may have some input, may have some decision making, he was the final person, the person in effective control to say the word “Go”.  Does the evidence show that or not?  It’s for you to decide.
+
+On the evidence before you, can you be sure that D1 was not just an investor who took no effective control on the business of Mesotherapy or on APSC as D1 told you in the witness-box, but that he was a hands-on boss who was in effective control of Mesotherapy and APSC as well; in other words, he was in effective control of all the three companies under the DR Group?
+
+If you are sure that D1 was a person in effective control of the DR Group of companies including all three, the DR Esthetic, Mesotherapy and APSC; and on the evidence before you, the CIK therapy was marketed, prepared and administered to the deceased by companies within the DR Group; and that the CIK treatment admittedly involved a procedure whereby a quantity of blood is drawn from the deceased for processing outside her body and then manipulated blood product was infused back into the deceased, then in law, D1 owed a duty of care to the deceased who received such a treatment that the blood product would be safe and free from contamination.”
+
+The judge, however, emphasised that “it was DR Esthetic through its beauty centres which launched and marketed the CIK therapy to the customers”[81]. Accordingly, the jury were also directed that “if you’re not sure that he was in effective control of Esthetic, he owes no duty”[82].
+
+44.  In respect of D2, the judge alluded to the evidence[83] which might point to him being the person with sole responsibility for preparing CIK cells.  She also referred the jury to an email[84], in which D2 claimed to be the supervisor of APSC.
+
+G.2.  The second ingredient – Breach of duty
+
+G.2.1. Particular (ii)(a) – Whether D2 was a qualified person
+
+45.  The judge directed the jury generally that the requirements under GMP and AABB were relevant to their assessment of whether any defendant had breached any of the duties particularised in the count, emphasising that there was no need to find every particularised breach proved[85]. She also summarised the expert evidence regarding the importance of a standard operating procedure (“SOP”)[86], whilst reminding the jury that “none of the experts called by the prosecution have personally or actually been involved in CIK treatment at all[87].”
+
+46.  As to whether D2 had failed to ensure that he was fully qualified to undertake the preparation and production of the blood products in question, the judge said that whilst one might not doubt D2’s “impressive” qualification and education level[88], the question was whether the jury could be satisfied on the evidence that he also possessed sufficient, relevant training and experience.  On this question, the judge reminded the jury of their role as the ultimate arbiters of fact, and that they should not be affected by any sympathy which Professor Yuen may have expressed towards D2[89]:
+
+“Professor Yuen is of the view that the person who cultures the CIK cells should be medically trained. Having read about that Billy Chan was called a Research Associate and having seen his CV, Professor Yuen would not change his view as to what he said. You remember he did say it at the time. He said that it was unfair for someone who is not medically trained to do the culturing of the CIK cells. He said it was unfair to put D2 in that position.
+
+No doubt, when Professor Yuen commented that it was unfair, he indicated that he was sympathetic towards the 2nd defendant; it’s unfair to put him in that position.  But I must remind you that not only you’re not to be affected by any sympathy expressed by Professor Yuen towards D2, it’s your job, not Professor Yuen’s job, to decide whether D2 was qualified to be responsible for the preparation of the blood product.  They can give you their view saying, ‘I think this person is qualified’ or ‘I think this person is not qualified’; but it’s your decision whether you accept the opinion, whether you find that the person is qualified or not qualified.” 
+
+47.  The judge asked the jury to consider whether D2 was properly qualified to be responsible for the preparation of CIK cells at APSC; at the same time reminding them of D1’s evidence that he considered D2 to be “well‑qualified” to prepare CIK cells, since he had already spent one year doing research, had four years’ experience culturing cells and attended clinical trials in Taiwan, and had previously worked at a GMP and AABB accredited laboratory, so would have known of the necessary requirements[90].
+
+G.2.2. Particular (ii) (b) – Whether a protocol existed
+
+48.  As we have already noted, it was conceded by D2’s counsel at trial that if D2 owed a duty of care to the deceased, he would be in breach of particulars (ii)(b), (c) and (d) of Count 2.  Accordingly, we shall focus on how the judge directed the jury on the question of whether D1 breached particulars (ii)(b), (c) or (d) of Count 1.
+
+49.  As to the existence (or non-existence) of a relevant protocol, the judge reminded the jury of the two-page document entitled “Flow of DC-CIK culture”, which was said to be the “protocol” for processing CIK cells provided by Professor Xiao[91].  As to whether that particular two-page document could serve as the protocol, the judge drew attention to an email from D2 to D1, dated 6 April 2012[92], and said[93]:
+
+“What may be of importance is that D2 mentioned the culture method for CIK in the latter part of the email, the bottom part; CIK culture process, 1, 2, 3, 4, 5, all the way to 9, next page. You may think if the two-page document sent to D2 on 8 February was already the protocol, why did D2 tell D1 the method of culture? He already had the protocol. He’s supposed to follow that protocol. What is this? Why is he telling D1 this is the method of getting the cells? It’s a matter for you.”
+
+50.  The judge also referred to the expert evidence: firstly, on the issue of whether the two-page document could amount to a validated SOP[94], assuming it was the protocol in place[95]; secondly, whether the two-page document was consistent with what D2 had explained was the actual procedure[96]. In relation to the second matter, she gave a warning in explicit terms[97]:
+
+“So in deciding there was a breach on the part of the 1st defendant, D1, in failing to ensure that there was a properly documented protocol or properly documented sterility test, you cannot take into account what D2 has said to the various experts when they visited APSC; you can’t. So regarding D1’s case, forget what D2 said to the experts during their visits.”
+
+51.  The judge further invited the jury to consider whether it was sufficient for D1 solely to rely on a verbal assurance given by his employee, of the existence of a suitable protocol, without personally checking[98]. That issue would, as the judge directed, be dependent on the jury’s finding as to whether D1 was in effective control of APSC[99].
+
+G.2.3. Particulars (ii) (c) and (d) – Duty to conduct sterility tests and ensure the blood was not contaminated
+
+52.  The judge reminded the jury of D1’s evidence that he had been told by D2 that the culture process was compliant with the requirements of GMP and AABB; that D1 had seen some progress reports and sterility reports for stem cells during his visits to APSC[100]; and that D1 had repeatedly asked D2 whether sterility tests were done on CIK products and was assured that they had been[101].
+
+53.  In view of the lack of evidence to show that sterility tests had in fact been conducted (which gave rise to the question of whether D2 had created fake sterility reports), the judge told the jury[102]:
+
+“So as far as D1 is concerned, there is just no evidence that tests had been done. There were no reports, the police didn’t find any reports to say that the CIK products had done bacterial tests.
+
+In the case against D1, you can’t consider what D2 said either in the statement or to the experts.  Just forget what D2 has said about the tests.” 
+
+54.  The judge also warned the jury that there was no direct evidence to support the prosecution case that D1 had instructed D2 not to conduct sterility tests, whilst reminding the jury of an email sent by D1[103], in which he had said to D2 that, although a 0.22 micron filter would be able to filter out bacteria, to be on the safe side sterility tests had to be done[104].
+
+G.2.4. Particular (ii)(e) – Informed risk (against D1 only)
+
+55.  In respect of this particular, the judge summarised D1’s evidence as to why he thought the deceased had been sufficiently informed of the risks, and that sufficient information in this regard had already been given to customers by way of notices; why he believed there was no need to inform them of the risk of bacterial contamination; and why he considered the attending doctor was in the best position to advise on a customer’s fitness for the treatment[105].
+
+56.  For the purpose of addressing the complaint in D1’s Ground 4, it is relevant to cite the impugned directions from the judge[106]:
+
+“If you are sure that Chan Yuen-lam would have declined, she would have said no if she had been informed there was such a risk of bacterial contamination leading to sepsis, she wouldn’t have agreed to undergo the treatment; if you are sure that she would have declined to do it, then the failure on the part of D1 to ensure that Chan Yuen-lam was fully informed of the risk involved in the administration of the CIK therapy was a substantial cause of her death; because if she would have declined, she wouldn't have the bacteria, she wouldn't have sepsis, she wouldn't have septicaemia; she wouldn’t die as a result. But what was the major cause? It would not be the only cause, but it would have been a substantial cause of her death if you believe, if you find you’re sure that she wouldn't have accepted the treatment.”
+
+G.3.  The third ingredient – Awareness of serious and obvious risk of death
+
+57.  In terms of the third ingredient, the judge told the jury that whether D1 knew that sterility tests had been conducted was beside the point: the issue was whether he was aware, apart from his own medical knowledge, that the breach of duty would give rise to a serious and obvious risk of death.  She explained, by way of example, that the breach of a particular duty might not give rise to the awareness in question and different breaches might call for different considerations[107]; also reminding the jury that D1’s awareness should be assessed as at the time of the breach[108].
+
+58.  In respect of D2, the judge invited the jury to consider the matter from his perspective, given “his academic qualification in science, his practical experience dealing with stem cells, including preparing SOP for the culture of stems cells from umbilical cords, his knowledge about GMP and AABB requirement, (and) his actual dealing with CIK cells.”[109]
+
+G.4.  The fourth ingredient – Causation
+
+59.  The judge directed the jury that this ingredient had to be looked at together with the medical evidence concerning the deceased[110], some of which was admitted under section 65B of the Criminal Procedure Ordinance, Cap 221.  She went on to summarise the medical evidence at length.
+
+60.  In respect of D1, the judge said that whilst a breach of particular (ii)(a) of Count 1 alone would not be sufficient to establish causation, if the jury found there was a breach of particulars (ii)(b), (c), (d) or (e), they “should have no difficulty in finding that the breach of that duty caused or was a substantial cause of the death of [the deceased]” and that the combined effect of multiple breaches of particulars (ii)(b), (c) and (d) could only lead to such a conclusion[111].
+
+61.  In respect of D2, the judge similarly directed the jury that whilst a breach of particular (ii)(a) of Count 2 alone would not be sufficient to establish causation[112], they should have no difficulty in finding that his admitted breach of particulars (ii)(b), (c) and (d) was the cause or substantial cause of the death of the deceased[113].
+
+G.5.  The fifth ingredient – Truly exceptionally bad conduct
+
+62.  The judge said it was unnecessary for her to explain the meaning of the words “truly exceptionally bad” because they were simple English words; although she went on to define “reprehensible” as “deserving of reprimand, rebuke” [114]. She said that the jury should consider this element of the offence by applying it to the particular (or particulars) of breach they found proved[115].
+
+63.  In respect of D1, the judge comprehensively summarised the evidence[116] as to how the treatment was launched by the DR Group and marketed to its customers (including, inter alia, the internal sales commission and prize-awards system, the pre-arrangements with credit card companies to enable customers to pay by instalments, and the targeting of only wealthy customers), as well as what D1 had said during the press conference and in court, in order to assist them in deciding whether the prosecution had proved that D1 had no basis to believe that the treatment could be used for healthcare purposes[117], and that it was launched in “indecent haste”.[118]  The judge nevertheless expressly asked the jury to disregard certain irrelevant facts, including what D1 might have failed to do after the deceased had had her infusion of the blood product[119]; and the fact that the treatment was not done in a hospital setting[120].  The suggestion that the treatment should not have been done in a clinic or beauty centre was not part of the breaches alleged in the count.
+
+64.  Noting D1’s evidence that he genuinely believed that sterility tests had been carried out, the judge directed the jury in the following terms[121]:
+
+“If you believe what D1 had told you is true or may be true, that may impact on your decision whether the breach of duty by D1 which you found proved were in all circumstances truly exceptionally bad and so reprehensible so as to justify the conclusion that it amounted to gross negligence and required criminal sanction.”
+
+65.  In respect of D2, the judge said that it was his right not to give evidence, or to explain why he had dispensed with sterility testing[122]. If the jury found that he was in breach of duty, it was relevant to consider whether “his desire or ambition to do well at APSC to gain promotion or even increase in salary”, in other words “for personal gain”, had caused him to breach his duty[123]. It was also pertinent to consider the shortcomings of his actions in handling the cultured CIK cells[124], in deciding[125]:
+
+“whether in all circumstances the breach of that duty you found D2 admitted that he was in breach, (b), (c), (d); and if you found that he was in breach of (b), (c), (d), in all circumstances the breach of duty were truly exceptionally bad and so reprehensible as to warrant criminal sanction.”
+
+66.  Following subsequent exchanges with counsel, the judge repeated for the jury the criminal standard of proof required for the offence of manslaughter by gross negligence, and further acceded to the invitation of leading counsel for D1 to use the words of Lord Hewart CJ in R v Bateman[126], as applied by the House of Lords in R v Adomako[127]:
+
+“[i]n order to establish criminal liability the facts must be such that, in the opinion of the jury, the negligence of the accused went beyond a mere matter of compensation between subjects and showed such disregard for the life and safety of others as to amount to a crime against the State and conduct deserving punishment.”
+
+This the judge did[128].
+
+G.6.  Warnings in respect of expert evidence
+
+67.  In relation to how to deal with the expert evidence, the judge instructed the jury in these terms[129]:
+
+“You’ll recall that none of the experts called by the prosecution have personally or actually been involved in CIK treatment at all. I’ll remind you what these experts said about their experience and expertise for you to decide whether you can accept their evidence concerning CIK treatment.”
+
+The judge further directed them[130]:
+
+“But you should bear in mind that if having given the matter careful consideration, you do not accept the evidence of any of these experts, you do not have to act upon it. You don’t have to accept it. You should remember this evidence relates only to part of the case; and while it is of assistance to you in reaching your verdict, you have to reach your verdict after considering all the evidence in this case.”
+
+And later in her summing-up[131]:
+
+“Bear in mind that expert witnesses are called to provide you with scientific information and opinions which is within the witnesses’ expertise. You don’t have to act upon the opinion of any expert if after careful consideration you do not accept the evidence. You should also be alert to the possibility of an expert witness giving his or her opinion with the benefit of hindsight.” (Emphasis supplied)
+
+It should be noted that the parts in italics are identical to the terms of Specimen Direction 32, promulgated by the Hong Kong Judicial Institute.
+
+68.  The judge warned the jury that expert evidence should be treated carefully because it might be given with the benefit of hindsight[132]:
+
+“…I must again remind you to guard against the possibility of any of these experts viewing the incident with the benefit of hindsight because it’s very easy to do. Things already happened; you look back, it’s much easier to say what you should have done and so on.”
+
+G.7.  Whether D2 produced fake reports
+
+69.  In light of the argument under D2’s Ground 5, it is necessary to refer to the judge’s approach to this issue.  The judge directed the jury, over some 8 pages of transcript[133], in respect of the allegation by the prosecution that D2 had engineered fake reports.  To put her directions in their factual context, three customers had fallen ill, when D2 made an overseas telephone call in the morning of 4 October 2012[134] to the staff at APSC instructing them to procure three vials or tubes from the pass box and conduct endotoxin and mycoplasma tests.  Following a chain of emails showing D2’s instructions and their onward transmission[135], the test results of the three customers were created and sent to D1 by an email of the same date at 19:46 hours[136].  The processing date for the tests was nevertheless backdated to 26 September 2012[137].  Against this background, the judge told the jury[138]:
+
+“The evidence before you indicated that D2 engineered fake reports on the three patients; Chan Yuen-lam, Wong Ching-bor and Wong Fung-kwan…. If you accept that evidence, if you accept that he was the one who engineered these reports and these reports are fake, then this evidence would indicate that he knew tests should have been done and was trying to cover up the fact that no tests had been done before the cultured cells left APSC. That would include the blood product of Chan Yuen-lam in this case”.
+
+70.  The judge then directed the jury on the drawing of inferences in respect of this issue[139]:
+
+“Is the only reasonable irresistible inference to be drawn … that D2 was engineering fake reports on the three patients to indicate tests had been carried out when in fact they had not? Do you think the action of D2 indicated that he was aware of the need to have sterility tests, that he knew none was done, so that’s why he arranged for Manton Cheung to do the tests on some plain saline solution to fake a report showing negative results for all three patients, endotoxin and mycoplasma are of course virus tests.”
+
+Finally, the judge said[140]:
+
+So, is it for the purpose to generate test results for these patients making a fake report?  It is a matter for you.  Again, I will remind you that you can only draw inferences on facts either admitted or you found proved.  If there is (sic) no facts to support, you cannot draw the inference, any inference; you can’t speculate.”
+
+G.8.  Specific directions on the jury’s questions
+
+71.  For the purpose of addressing the arguments of D2 under Grounds 4A and 4B, it is relevant to set out two of the questions asked by the jury concerning D2.  The first question related to D2’s educational background: the second, to the fifth ingredient in respect of D2.  The first question read:
+
+“From [D2’s] education, training and on-the-job experience were: (1) usage of antibiotics, (2) aseptic technique involved including risk and benefit towards human? Could his education curriculum details be supplied?”
+
+72.  In relation to this question, the judge directed that “there is simply no evidence”; and that the only evidence before the jury was that D2 had told other experts that he had used antibiotics in the CIK processing[141]. Pausing here, the use of antibiotics might be relevant to whether a SOP was in place, in light of the evidence that a different antibiotic[142], which was a stronger antibiotic[143] than the one prescribed in the two-page document, was used in the culturing process. 
+
+73.  The more important question was perhaps the second question, which read:
+
+“For reasonable doubt of D2 was acting according to boss instruction, please guide the gauging towards whether it is exceptionally bad.”
+
+In response to this second question, the judge gave the jury the following directions[144]:
+
+“Now, this is the answer: when you say “for reasonable doubt of D2 acting according to boss instruction”, I take it you mean what if you give D2 the benefit of the doubt that he might be acting in accordance with instruction of his boss?  If that is what you find, how should you gauge whether that breach was truly exceptionally bad and so reprehensible as to warrant criminal sanction?
+
+Now, if you give D2 the benefit of the doubt that he might be acting in accordance with instruction of his boss, it is for you to decide, using your life experience and wisdom, whether the breach in all circumstances were truly exceptionally (bad?) and so reprehensible as to warrant criminal sanction.
+
+Now, I will remind you again, in order to establish criminal liability, the facts must be such that in your opinion the negligence of the defendant, that is D2, went beyond a mere matter of compensation between subjects, and showed such disregard for the life and safety of others so as to amount to a crime against the government and conduct deserving punishment.
+
+So, on the facts you found proved, was the breach by D2, even though he might be acting in accordance with the instruction of his boss, went beyond a mere matter of compensation between subjects, went beyond a civil claim from which the family of the deceased, Chan Yuen-lam, could claim damages against him, but showed such disregard for the life and safety of Chan Yuen-lam as to amount to a crime deserving punishment?
+
+Now, I must again remind you, even if you do give D2 the benefit of the doubt that he might be acting in accordance with the instruction of his boss when considering the case of D2, when you consider the case of D1, if you were to find that D1 did give instruction to D2 to dispense with the sterility test, that finding must be the only reasonable inference to be drawn from facts you found proved as there is no direct evidence of that against D1 at all.”
+
+H.   Sentencing
+
+74.  The judge was specifically referred by counsel to the English authority of R v Zaman[145], which concerned an appeal against a sentence of 6 years’ imprisonment following a conviction for gross negligence manslaughter.  Nevertheless, the judge took the view that the case was not very helpful in gauging the starting point, its circumstances being very different from the present case.
+
+75.  In addressing D1’s sentence, the judge said she did not sentence him on the basis that he had instructed D2 not to carry out the necessary bacterial tests[146], but identified a number of aggravating features concerning the circumstances in which the DR Group launched, and how its staff were told to advertise, CIK treatment.  The judge found that its prior arrangements with some credit card companies amounted to an “appalling and totally irresponsible” sales practice[147], saying that “D1 was making the most use of the loophole or lacuna in the law governing the beauty business at the time for personal gain”[148].  The judge also noted that D1 had breached his duties for a continuous period of time[149].
+
+76.  The judge considered that a starting point of 12 years was appropriate to reflect the “disgust and abhorrence felt by the society”[150]. Whilst acknowledging (i) D1’s clear record; (ii) the civil negligence claims that would inevitably follow ((i) and (ii) also applied in the case of D2); and (iii) the refunding of over $2.8 million to CIK customers, the judge considered that none of these factors could amount to mitigation in D1’s case[151]. Accordingly, the sentence she passed on D1 was one of 12 years’ imprisonment.
+
+77.  As for D2, the judge noted that his position and culpability were different.  Nevertheless, she said that “the act of D2 following orders from his boss does not distract from the fact that D2 was in total disregard of the life and safety of [the deceased]”[152].  She found that “D2 took a deliberate and conscious decision not to have sterility test conducted”, for which there might be certain benefits including continuing to make a good impression to his boss or the company, and a steady increase of salary[153]. She said that “D2 must be punished severely to show the shock and disgust felt by the society”[154].
+
+78.  In the result, the judge adopted 10 years as the starting point for Count 2.  She was not persuaded that there were any valid mitigating factors.  Accordingly, the sentence she passed on D2 was one of 10 years’ imprisonment.
+
+I.   Perfected Grounds of Appeal
+
+I.1.  Perfected grounds of appeal against conviction
+
+I.1.1.  D1’s grounds of appeal
+
+79.  By his perfected grounds of appeal against conviction and sentence, filed on 23 August 2018, Mr Graham Harris SC, with him Ms Yasmine Zahir, has advanced six grounds of appeal against conviction.
+
+80.  The first limb of Ground 1 alleged an error in law.  Mr Harris argued that it was erroneous to direct that D1 would owe a personal duty of care to the deceased if found to be in “effective control”, or a “hands-on boss”, of the DR Group.  He submitted that the judge should have directed the jury to consider whether D1 had assumed responsibility for the DR Group’s customers including the deceased, citing Robinson v Chief Constable of West Yorkshire Police[155] for the circumstances in which the omissions principle in the law of negligence would apply.  Mr Harris also submitted that[156], absent any evidence of positive action on the part of D1 resulting in the contamination of blood products, or evidence showing that he had created, or contributed to, a state of affairs which he knew, or ought reasonably to have known, was life-threatening, as in the case of R v Evans[157], a duty of care was not established in the circumstances of the instant case.
+
+81.  The second limb of Ground 1 alleged an error involving both law and fact.  Mr Harris first asserted that there was insufficient prima facie evidence in order to establish a duty of care.  Accordingly, the judge ought to have ruled ‘no case to answer’. Then, it was said that the judge did not define the term ‘effective control’, so as to enable the jury to properly consider how a duty of care might be established.  Nor did she sufficiently explain how she came to her apparent conclusion that a duty of care could be established on the evidence.
+
+82.  By Ground 2, Mr Harris alleged the judge had wrongly directed the jury that the scope of D1’s duty depended on whether he was in effective control of the relevant companies; rather, the jury should have been directed that whether or not a duty was reasonably required of him should be considered in the light of his role and responsibilities in each of the companies.  It was argued that, based on the evidence, none of the breaches alleged in the indictment could be established against D1, because it was not within the scope, or part, of D1’s duty to discharge the responsibilities alleged by the prosecution.  In particular, D1 could safely rely on D2 and D3 in relation to matters on which they had specialised and professional experience, which D1 did not have.
+
+83.  Ground 3 averred that the judge’s directions on the question on foreseeability were also wrong in law, and that the jury should have been told to be sure that D1 had a prospective knowledge of a clear and unambiguous risk of death, as distinct from a risk that might become apparent only upon further investigation, or with further information.  For this proposition, he cited the English authorities of R v Rudling[158], R v Rose (Honey)[159]and R v Kuddus[160].  Mr Harris placed particular emphasis on D1’s belief at the time that D2 would conduct, or had conducted, sterility tests.
+
+84.  By Ground 4, Mr Harris took issue with the direction that, if the jury found D1 had breached the duties under particulars (ii)(b), (c), (d) and (e) of Count 1, they “should have no difficulties” in finding that the breaches caused the death, or were a substantial cause of the death.  Mr Harris submitted that the latter finding involved the drawing of appropriate inferences, and relied on the English authority of R v Pagett[161]. A further complaint under this ground was that the judge unfairly invited the jury to speculate whether the deceased would have declined the therapy, had she been informed of the risks associated with it.
+
+85.  Under Ground 5, Mr Harris submitted that the jury was deprived of any useful guidance as to how they could identify the line separating a very serious mistake or lapse from truly exceptionally bad criminal conduct, as a result of which the jury might have been given the false impression that they could convict D1 on any of his wide range of conduct that was the subject of criticism.  He complained that the jury might have been further confused, when the summing-up also encompassed matters which might not sufficiently constitute a vital breach of duty.  Relying on the English case of R v Sellu[162], Mr Harris submitted that the judge had failed to direct the jury on how they should deal with expert opinion, and to remind them that such evidence should not supplant their own evaluation. 
+
+86.  By his final Ground 6, Mr Harris complained that the judge’s summing-up was unfair and unbalanced in two specific respects. First, the judge did not sufficiently direct the jury on the significance of the email of 19 May 2012 (see paragraph 28 supra), which was highly relevant to D1’s state of belief that sterility tests were being conducted at APSC.  Secondly, the judge placed undue emphasis on irrelevant matters, such as the questionable sales techniques deployed by the staff of the DR Group.
+
+I.1.2.  D2’s grounds of appeal
+
+87.  By his amended perfected grounds of appeal against conviction and sentence, dated 9 March 2020, Mr Robert Pang SC, with him Mr Joseph Lee and Ms Phyllis Lee, on behalf of D2 at this appeal but not the trial, pursued only Grounds 1, 4A and 4B, and 5 (we shall retain this numbering), whilst withdrawing two grounds of appeal, namely Grounds 2 and 3, which had been advanced by his predecessor. 
+
+88.  By Ground 1, Mr Pang argued that the judge’s summing-up was unfair and unbalanced overall, rendering an unfair impression that the judge had sided with the prosecution.  In particular, Mr Pang criticised the judge for inviting the jury to speculate that D2’s negligence was driven by his own ambition or motive to earn a higher salary; and for failing to deal with Professor Yuen’s views in a fair manner (this part of the argument overlaps with that part of Ground 4B).
+
+89.  By Ground 4A, Mr Pang first complained that, when faced with the present case, the circumstances of which were extremely complex, the judge failed to direct the jury sufficiently on the fifth ingredient of the offence.  He submitted that the jury’s difficulty was evidenced by the fact that, despite having received a comprehensive and comprehensible summing-up, they nevertheless raised a question as to how the fifth ingredient could be established.  However, the judge merely repeated her earlier directions, which were obviously unhelpful to the jury.  Secondly, he criticised the judge’s summing-up in respect of how expert opinions should be treated by the jury.  His criticism to some extent overlapped with the argument advanced by Mr Harris under D1’s Ground 5, and was again mounted on the basis of the English authority of Sellu.
+
+90.  By Ground 4B, Mr Pang submitted that there was a material irregularity in the conduct of the trial when the judge refused to allow D2’s trial counsel to cross-examine Professor Yuen effectively on his opinion that it was unfair to have placed such a heavy responsibility on D2. This prompted the jury to raise a question about D2’s educational background which was relevant in assessing his knowledge.  Mr Pang submitted that Professor Yuen’s opinion was crucial to the case of D2, yet the judge unfairly told them not to be sympathetic to D2 as a result of such opinion. 
+
+91.  By Ground 5, Mr Pang submitted that the judge had failed to give a lies direction in respect of D2, yet effectively told the jury that he had engineered fake reports.
+
+I.2.  Perfected grounds of appeal against sentence
+
+I.2.1.  D1’s grounds of appeal
+
+92.  Mr Harris submitted that the judge had unfairly taken into account the breach of every particular in the indictment when sentencing D1, although it was unclear whether the jury had indeed found all particulars proved.  She had also placed undue emphasis on the aggravating features, whilst rejecting the mitigating factors advanced on his behalf.  Mr Harris submitted that the starting point of 12 years’ imprisonment was excessively high, citing Zaman, and relying on local authorities including HKSAR v Lai Sai Ming[163], Secretary for Justice v Law Siu Kuen[164] and HKSAR v Lam Wai Shu & Anor[165]; as well as the English authorities including R v Bawa-Garba[166], Sellu, R v Bala Kovvali[167] and R v Sudhanshu Garg[168].
+
+I.2.2.  D2’s grounds of appeal
+
+93.  For the purpose of his sentencing appeal, D2 applied to adduce, by way of fresh evidence, an Affidavit sworn on 28 April 2020 with an exhibit attached thereto.  By that affidavit, D2 stated that his former wife had, on 24 March 2018, died in tragic circumstances after burning charcoal at home, leaving himself as the only remaining parent of a young daughter born on 10 June 2017.  On the basis of a plea ad misericordiam, Mr Pang invited the Court to reduce D2’s sentence.
+
+94.  He further submitted that the sentence of 10 years’ imprisonment was manifestly excessive, for four principal reasons. First, D2 was acting under instructions from a more experienced and qualified superior. Secondly, the judge was wrong to disregard the comparable considerations in Zaman. Thirdly, the tangible gains allegedly made by D2 were without evidential basis.  Finally, the judge never considered the views of Professor Yuen properly in the sentencing process.
+
+J.   Respondent’s submissions
+
+J.1.  Respondent’s submissions on D1’s conviction
+
+95.  In response to the arguments advanced on behalf of D1, Mr Raymond Leung SC, with him Ms Margaret Lau and Mr Eric Tsoi, all of whom appeared for the respondent both at the appeal and the trial, submitted that the complaint under the first limb of Ground 1 was misconceived, since D1 was not prosecuted on the basis of his assumed liability qua owner or director of the companies concerned[169], but rather his effective control of the activities of the DR Group in relation to the treatment concerned.  Citing Phelps v Hillingdon LBC[170], Mr Leung said there was no assumed duty of care.  As regards the second limb of Ground 1, Mr Leung said that D1 was clearly not a stranger to those activities and the ruling of a case to answer could not be impugned[171].  He contended that the judge had fairly and extensively set out the evidence pointing to D1’s active involvement in the affairs of each company (especially those in APSC) as well as the CIK treatment itself, and it was beyond argument that D1 owed a personal duty of care towards the deceased.
+
+96.  In relation to D1’s Ground 2, Mr Leung submitted that there was ample evidence to show D1’s effective control of the three companies in the indictment and his conduct clearly fell short of the standard of care expected of him.  Again, he argued that the judge had fairly summarised the relevant evidence against D1 in her summing-up.
+
+97.  Concerning D1’s Ground 3, Mr Leung submitted that the judge had given the most favourable direction on the matter by directing the jury that the issue was whether D1 was himself aware that the breach of duty they found proved gave rise to a serious and obvious risk of death, whereas an objective standard ought to have been applied, as was recently affirmed by the Court of Final Appeal in HKSAR v Man Wan Ling (No 2)[172]. In terms of bacterial infection, it was submitted that the judge had correctly directed the jury on the significance of maintaining a validated SOP.  Whilst accepting that the risk of death did not arise from non‑documentation per se, he submitted that the lack of documentation and cross-checking had heightened the serious and obvious risk of death.
+
+98.  In relation to D1’s Ground 4, Mr Leung contended that the judge’s directions on causation were consistent with those in Specimen Direction 20 of the Specimen Directions in Jury Trials approved by the Hong Kong Judicial Institute.  The judge’s expression “you should have no difficulties” should be read in its proper context, which was to invite the jury to apply their common sense.  Furthermore, it was proper for the judge to ask the jury to consider how the deceased would have proceeded had she been informed of the risk; that was not inviting speculation.
+
+99.  In response to D1’s Ground 5, Mr Leung submitted that since the treatment was an experimental one for cancer patients, the grossness of D1’s negligence could not be dissociated from the obvious aggravating feature that D1 was engaging himself in a scheme of profiteering at the expense of plainly healthy individuals.  It was contended that the judge’s summing-up in respect of the fifth ingredient of the offence was in fact more favourable than D1 could have expected.  In her summing-up, the judge had also reminded the jury that they were entitled to reject the expert evidence.
+
+100.  As for D1’s Ground 6, Mr Leung emphasised that the judge was entitled to express her views on the evidence in the summing-up. Whilst accepting that no specific reference was made to the email dated 19 May 2012 (see [28] supra), Mr Leung pointed to the judge’s direction that there was no direct evidence to show that D1 had condoned the dispensation of sterility tests.  Of the other impugned matters referred to by the judge in her summing-up, Mr Leung contended that these were all relevant to D1’s credibility and frame of mind at the material time.
+
+J.2.  Respondent’s submissions on D2’s conviction
+
+101.  In response to the contention in D2’s Ground 1 that the summing-up was one-sided, Mr Leung submitted that the summing-up had to be considered in light of the very strong prosecution case against him, and his decision not to testify. 
+
+102.  In respect of D2’s Ground 4A, Mr Leung submitted that the judge’s original direction on the fifth ingredient of the offence was in similar terms to Specimen Direction 63A, which the Court of Appeal in HKSAR v Lai Chun Ho[173] had held should be followed.  He also pointed to the further direction, which had been requested by leading counsel for D1, that “the facts must be such that … the negligence of the defendant went beyond a mere matter of compensation between subjects and showed such disregard for the life and safety of others as to amount to a crime against the Hong Kong Government and conduct deserving punishment…”[174]. Ultimately, in response to the jury’s note, the judge asked the jury to use their wisdom and experience of life in considering the matter.  Accordingly, Mr Leung submitted that the judge’s directions were both favourable to D2 and consistent with the jury’s evaluative function at trial. 
+
+103.  As for D2’s Ground 4B, Mr Leung submitted that the judge was correct to restrict further cross-examination of Professor Yuen, and subsequently to warn the jury not to be affected by any emotive views he may have expressed.  Such a warning was also consistent with her direction that the jury was not bound to accept any expert evidence but should make their own evaluation. 
+
+104.  In response to D2’s Ground 5, Mr Leung submitted that the judge’s directions on the burden and standard of proof were sufficient. He also pointed out that a lies direction in respect of D2 was neither sought at trial, nor was it necessary, since it was D2’s contention that the sterility reports were genuine.
+
+J.3.  Respondent’s submissions on sentence
+
+105.  Mr Leung submitted that a defendant had a higher level of culpability where the gross negligence manslaughter involved the administration of drugs, referring to R v Parfeni[175] where the English Court of Appeal had substituted a sentence of 10 years’ imprisonment involving manslaughter by injection of drugs.  He submitted that a starting point of 10 years was appropriate in the instant case and the sentences received by D1 and D2 both fell within the applicable range. 
+
+K.   Discussion on D1’s conviction
+
+106.  Before we deal with the issues advanced by Mr Harris in support of D1’s appeal, we would like to address two matters, which are relevant to our determination of the primary contention that D1 was not responsible for D2’s failure to sterilise the deceased’s blood; which failure was contrary to D1’s instructions and without his knowledge.  It was this failure, which is said by Mr Harris to be the only realistic basis, according to the framing of the particulars of Count 1 on the indictment, for a finding that D1 owed a duty of care to the deceased, the breach of which led to the death of the deceased.
+
+107.  The first matter we should address is this.  Mr Harris began his submissions by distinguishing between DR Esthetic on the one hand, and APSC and Mesotherapy on the other.  Since the case had been put on the basis that a duty of care had been triggered by D1’s effective control of all three companies, it was submitted that the evidence required particularly careful analysis in respect of APSC, for which, it was contended, D1 did not exercise effective control at the material time; thereby reducing his knowledge of, and distancing his responsibility for, whatever should have been done, but was not done, at APSC in relation to the preparation of the blood product.
+
+108.  However, when we examined the summing-up as a whole, it became clear that she had effectively (and repeatedly) directed the jury that they could only consider one of the breaches in (ii)(a), (b), (c) and (d) of Count 1, if they found that D1 owed a duty of care by virtue of his effective control of the three companies concerned, in particular APSC and Mesotherapy[176]:
+
+“So, the main question you have to decide is whether the prosecution succeed in proving, in making you sure that D1 was a person in effective control of the DR Group of companies including the DR Esthetic, including Mesotherapy, and including APSC.”
+
+And later[177]:
+
+“If you are sure that he is in effective control of the DR Group including these three companies, he owes a duty of care to the deceased. So, if you are sure that he is a person in effective control of the DR Group of companies including these three companies, he owed a duty to the deceased, Chan Yuen-lam, then you will have then to go on to consider the second ingredient, the particulars of breach of duty.”
+
+109.  Although she did also say that if the jury were to find that D1 was in effective control of DR Esthetic, but not APSC or Mesotherapy, he would still owe a “much smaller” duty[178], whose scope would have been “much less”[179], she effectively went on to tell them that the breaches which occurred at APSC and Mesotherapy, namely particulars (ii)(a), (b), (c) and (d) of Count 1, would not in those circumstances be made out.
+
+110.  Dealing first with particular (ii)(a) of Count 1, the judge told the jury[180]:
+
+“I would of course add here that I’ve already mentioned yesterday for D1, it would depend on how far you find that he was the person in effective control of the three companies. So if at the end of the day, you find that he’s not the person responsible at all, he’s not the person in effective control of any of the companies, then of course you don’t even have to consider any of these any more.
+
+But if you find that because D1 had admitted, and on the evidence you say that he’s the hands-on boss for the DR Esthetic but not say APSC, then any person being qualified or not qualified to do work in APSC cannot be his duty.  So, he could not be in breach of that.”
+
+She then addressed particulars (ii)(b), (c) and (d) of Count 1[181]:
+
+“Now, let’s come to the alleged breach against D1 in respect of the protocol and the test. Again, look at the particulars in (b), (c) and (d). First count, I won't read them out now; before I refer to the evidence relevant to this issue, I must remind you again that when you consider the particulars of breach against D1, you have to relate the alleged breach to the duty of care you found existed in the case of D1. For example, if you find that it is his duty of care towards the deceased was as the person in effective control of DR Esthetic and not Mesotherapy or APSC, then any allegation of breach which occurred at APSC or Mesotherapy is not relevant in his case as he was not the person in effective control of those two limited companies. If you found that he owed a duty of care towards the deceased in the capacity as a person in effective control of the DR Group of companies including all three companies, DR Esthetic, Mesotherapy and APSC, then of course you will consider all the particulars of breach mentioned in the indictment as they are all relevant. So, that's very important. Remember what is your finding as to the first ingredient. Then consider that duty of care to the particulars of breach that you have to consider”.
+
+111.  The effect of these directions and the evidence which she recited on the issue was that the case against D1 depended upon the jury finding that he was in effective control of all three companies within the DR Group, and essentially APSC (in respect of particulars (ii)(a), (b) and (c) of Count 1) and Mesotherapy (in respect of particular (ii)(d) of Count 1). In respect of particular (ii)(e) of Count 1, we think it inconceivable that the jury would have found this duty proved on its own, unless they had also found the breaches of duty in (ii)(a), (b), (c) and/or (d) proved as well.
+
+112.  It was for this reason that at the end of the first day of the appeal hearing, we asked Mr Harris whether, in view of the way the judge had directed the jury, we were entitled to proceed on the basis that the jury must have found that D1 was effectively in control of at least APSC. Mr Harris duly considered the matter overnight and informed us at the commencement of the second day of the hearing that it was his considered view that “for the purposes of this appeal, we must assume that the jury concluded that the first applicant (D1) was in effective control of APSC”.  We think, with respect, that his concession was properly made both as a necessary implication of the scheme and construction of the summing-up and as a matter of overwhelming evidence, and we are grateful to Mr Harris for his realistic assessment of the position, with which we entirely agree.  Such concession did not, of course, rob him of the argument that ‘effective control’ was not the proper test for triggering D1’s duty of care, and we shall turn to a consideration of that matter shortly.  However, it did streamline the argument and obviate the necessity of dwelling in any great detail on the mass of evidence which plainly showed that D1 was in effective control of at least APSC, with which breaches (ii)(a), (b) and (c) of Count 1 were concerned.
+
+113.  The second matter we should address is this. The judge’s summing-up was delivered over five days between 5 and 11 December 2017. As a result of what she had said in her summing-up, as well as her preliminary ruling in another unrelated gross negligence manslaughter case which had yet to be tried before her[182], a Question of Law was reserved for the consideration of the Court of Appeal under section 81(1) of the Criminal Procedure Ordinance, Cap 221.  On 16 November 2018, this Court subsequently determined, in HKSAR v Lai Chun Ho[183], that, contrary to the judge’s directions in this particular case, the characterisation of a defendant’s breach of duty as grossly negligent and thereby a crime was to be judged by the application of the objective reasonable man test; and that the prosecution were not required to prove that the defendant was subjectively aware of the obvious and serious risk of death to the deceased.
+
+114.  More definitively, the Court of Final Appeal, on appeal from this Court’s decision, held in HKSAR v Mak Wan Ling (No 2)[184]:
+
+“In the offence of manslaughter by gross negligence, the element of gross negligence referred to in the last element of the offence as enunciated in R v Adomako [1995] 1 AC 171, is proved by application of the objective standard of reasonableness, there being no additional requirement that the prosecution must also prove that the defendant was subjectively aware of an obvious and serious risk of death to the deceased. Such awareness, if proved, is relevant to liability but not a necessary ingredient of the offence.”
+
+115.  However, the judge in the present case had given D1 and D2 (and D3) a very favourable direction at the outset of her summing-up to the effect that the prosecution had to prove that “each defendant was aware that the breach of that duty gave rise to a serious and obvious risk of death and not merely injury, even serious injury”[185].  Later, she re-iterated the matter in respect of the case against D1[186]:
+
+“So, you will have to decide on the basis of which particular breach you found proved; whether at the time of that duty, D1 was aware of the serious and obvious risk of death”;
+
+and[187]:
+
+“So, was (D1) aware that the breach of which particular duty or a combination of those breaches gave rise a serious and obvious risk of death? So, the issue is not whether he knew there was no sterility tests done. But the issue was whether he was aware that the breach of the duty you found proved gave rise to a serious and obvious risk of death”;
+
+and[188]:
+
+“So for example, you find that D1 was in breach of particulars (ii)(b) and (c). So was he aware that his failure to devise, institute, enforce and maintain a properly documented protocol for the preparation in the laboratory of the said blood product which included viral and bacteria testing, and his failure to ensure that the said blood product had prior to leaving the laboratory where it had been prepared undergone viral and bacteria testing and that such had been documented gave rise to a serious and obvious risk of death?
+
+Again, for example, if you found that D1 was in breach of particular (ii)(d), in that he failed to devise, institute, enforce and maintain a safe system requiring the doctor, (D3), to have satisfied herself that such viral and bacterial testing had been carried out prior to administration of the said blood product to the said Chan Yuen-lam so as to ensure the same was free of contamination, was D1 aware that the breach of that duty gave rise to a serious and obvious risk of death?
+
+You will have to consider what was D1’s knowledge. What was his awareness at the time, apart from his medical knowledge?”;
+
+culminating in this direction[189]:
+
+“Are these the knowledge in D1’s mind, that he knew if there is no safe system, no proper SOP, no proper validated SOP, no steps provided for check, then any contamination is not being picked up because there is no tests and nobody knew there was no tests? …
+
+If you are sure that D1 was in breach of his duty in relation to the SOP in relation to the tests, did that breach give rise to this obvious serious risk of death? It is for you to decide whether you are sure that he was aware that the breach of that duty, whether it was one or more than one that you found proved, gave rise to a serious and obvious risk of death.” (Emphasis supplied)
+
+116.  The judge gave similar directions in respect of the need for the prosecution to prove D2’s knowledge[190].
+
+117.  Although there is a difference between D1’s knowledge of the breach and his knowledge of an obvious and serious risk of death resulting from such breach, we wonder if the jury would have been preoccupied with such a subtle distinction in the context of the evidence and directions in this case; for, if the jury determined, following these directions, that D1 knew that the infusion of a blood product which had not been sterilised would result in an obvious and serious risk of death, they would almost certainly have already concluded that he knew the blood had not been sterilised in the first place.  Similarly, if they determined that D1 knew that an unsafe system to deal with the preparation and production of a blood product would result in an obvious and serious risk of death, they would almost certainly have already concluded that he, as the person in effective control of APSC, would have known of the unsafe system in the first place.  Indeed, the judge said of D1’s awareness of the risk of a serious and obvious risk of death[191]:
+
+“Now if you are considering this element, you must have found that D1 was in breach of either all or some of the particulars of breach pleaded in the indictment against him.”
+
+118.  Mr Harris acknowledged the force of the argument in the wake of the decisions of this Court and the Court of Final Appeal, but nevertheless responded that if the jury did conclude that D1 knew that an unsafe system was in operation resulting in the preparation of unsterilised blood products, such findings would have been against the weight of the evidence.  However, the weight of evidence showed that it would have been a manifestly unsafe system if the preparation and production of the blood product was not subject to a strict regime preventing contamination, including bacterial and sterility tests. 
+
+119.  It was, of course, D1’s case that he did not know that the blood product was not being sterilised, or that an unsafe system was being employed at APSC and Mesotherapy.  Yet on this matter, it is well to observe how the judge instructed the jury in respect of D1’s evidence.  She gave the following directions[192]:
+
+“In this case, when D1 gave evidence in court, not only did he tell you that he was not personally responsible for the CIK project, that he was not in breach of duty of care towards the deceased, he also told you that he had confirmed with D2, who was responsible for the CIK project and in charge of the culturing of the CIK cells, that the processing procedure of CIK cells had fully complied with the AABB requirement and that sterility tests had been performed before the CIK products left APSC.
+
+D1 said that he did not know that D2 had not written up new SOP for CIK, or that D2 had not carried out any sterility tests before the products were sent from APSC to the Mesotherapy in Causeway Bay for infusion.  So, what you jury members must always bear in mind about such evidence is that if such evidence leave(s) you not sure as to the guilt of D1 who gave such evidence in his own favour, then he must be acquitted.”
+
+120.  It may be noted that when, following conviction, the judge was in due course faced with a plea in mitigation from D1’s leading counsel, she said[193]:
+
+“Before I deal with the particular circumstances surrounding this case, I will make it known that in my view, the evidence given by D1 in court cannot be relied on for the purpose of mitigation. If the jury has found that D1’s evidence as to his belief and what he had done were true, or may be true, I do not see how the jury would have found D1 guilty of gross negligence manslaughter – even when D1 was in breach of his duty.”
+
+121.  It cannot sensibly be said that the judge did not recapitulate the evidence fully in relation to D1’s case on this issue, which was that[194]:
+
+“… from what was said to him by D2, he believed that sterility tests, including bacterial tests and viral tests, had been conducted prior to products leaving APSC. He had no reason to doubt D2’s words. In short D1’s case is that he was under no duty to the deceased as he was not the person in effective control of the DR Group of companies, including the Mesotherapy Centre and APSC. Even though he said he was in control of (DR) Esthetic, but he said that he didn’t make the decisions; the decision of launching and marketing the CIK therapy was done by the central management team. So basically, he is saying that he’s not in effective control of anything to do with the CIK therapy. He said he was not in breach of any of the duties particularized in the indictment against him.
+
+Further, at the material time, he was not aware of a serious and obvious risk of death to the deceased, Chan Yuen-lam, because he believed sterility tests had already been done to ensure that the CIK product infused into her was free of bacterial contamination.”
+
+122.  As we have just said, if the jury found that D1 was aware of a serious and obvious risk of death to the deceased, as they must have done by their verdict following the judge’s very favourable directions as to the requirement of a subjective element, they could not have accepted his evidence that he believed sterility tests had already been done.
+
+123.  In any event, the judge’s directions, which have subsequently and authoritatively been held to have gone too far, inasmuch as they required the jury to make findings as to D1’s (and D2’s) subjective knowledge of the consequences of the breach, were extremely favourable to all three defendants.
+
+124.  None of these observations, however, detract from Mr Harris’s main point that ‘effective control’ was not the correct test in law, and it is to that issue we now turn.
+
+K.1.  Grounds 1 and 2 (Personal duty of care/effective control)
+
+125.  Mr Harris does not take issue with the fact that the companies in question owed a duty of care to the deceased.  His complaint is that D1, albeit the owner of the companies concerned, did not owe a personal duty of care to her.  Even if he exercised effective control over those companies, which was disputed at trial so far as APSC and Mesotherapy were concerned, that was not the proper test to trigger D1’s personal liability. The correct test was whether or not it could be shown that D1 had “assumed responsibility” for the care of the deceased.  Yet, this was not how the judge had directed the jury.
+
+126.  One of the obstacles facing Mr Harris, though not an insuperable one if he is correct as a matter of law, is that ‘assumption of responsibility’, as opposed to ‘effective control’, was not the test proposed and developed before the judge in the court below by D1’s then leading counsel.  That is not perhaps surprising, since the relevant Specimen Direction on gross negligence manslaughter, approved by the Hong Kong Judicial Institute (Specimen Direction 63A), makes no mention of it either. 
+
+127.  It seems to us that one must be cautious before applying civil law concepts of negligence to the criminal law of gross negligence manslaughter; particularly those which are concerned with economic loss caused by negligent misstatement.  Most, if not all, of the authorities to which Mr Harris took us were cases which had built upon, or refined, principles of tortious liability for negligent misstatement under the extended principle of assumption of responsibility in Hedley Byrne & Co Ltd v Heller & Partners Ltd[195].  But, as Lord Steyn made clear, on behalf of the House of Lords in Williams v Natural Life Health Foods Ltd[196]:
+
+“… in Henderson’s[197] case it was settled that the assumption of responsibility principle enunciated in Hedley Byrne & Co Ltd v Heller & Partners Ltd [1964] AC 465 is not confined to statements but may apply to any assumption of responsibility for the provision of services. The extended Hedley Byrne principle is the rationalisation or technique adopted by English law to provide a remedy for the recovery of damage in respect of economic loss caused by the negligent performance of services.” (Emphasis supplied)
+
+128.  In identifying different duties of care which may arise in the field of negligence, Lord Bridge of Harwich pointed out in the House of Lords decision of Caparo Industries Plc v Dickman[198]:
+
+“One of the most important distinctions always to be observed lies in the law’s essentially different approach to the different kinds of damage which one party may have suffered in consequence of the acts or omissions of another. It is one thing to owe a duty of care to avoid causing injury to the person or property of others. It is quite another to avoid causing others to suffer purely economic loss.” (Emphasis supplied)
+
+129.  Lord Bridge went on to cite[199] Lord Fraser of Tullybelton’s judgment on behalf of the Privy Council in Candlewood Navigation Corporation Ltd v Mitsui OSK Lines Ltd[200]:
+
+“Their Lordships consider that some limit or control mechanism has to be imposed upon the liability of a wrongdoer towards those who have suffered economic damage in consequence of his negligence.  The need for such a limit has been repeatedly asserted in the cases, from Cattle’s case, LR 10 QB 453, to Caltex Oil (Australia) Pty Ltd v Dredge “Willemstad” (1976) 136 CLR 529, and their Lordships are not aware that a view to the contrary has ever been judicially expressed.”
+
+130.  These authorities are all concerned with negligence causing economic loss.  Obviously, there must be some finality and limit to the liability of those who issue negligent accounts, audit reports and other statements, upon which a succession of different people may rely in their financial affairs.  Thus, in Charlesworth & Percy on Negligence (14th Ed), the learned authors state, at 2-59:
+
+“A further distinction is that between acts and statements. Actions in respect of negligent words are treated differently according to whether the words cause financial or physical damage. Negligent misstatements causing financial damage tend to raise the fear of indeterminate liability, and a consequent need to impose strict limits on the existence or ambit of any duty.”
+
+131.  With due respect to Mr Harris’s submissions, we regard the assumption of responsibility argument as something of a ‘red herring’.  We agree with Mr Leung that it is not necessary to go beyond the venerable principles established in Donoghue v Stevenson[201].  Indeed, to make perhaps a crude analogy with that case, the injury caused to Mrs Donoghue by the consumption of a bottle of ginger beer bought by her friend, which had been contaminated by a decomposed snail through the negligent manufacturing of Mr Stevenson’s company, was little different, save as to the enormity of the act and its consequence, from the consumption of a blood product by the deceased, which had been contaminated by bacteria through its negligent system of processing by D1 and D2.  We shall of course come to the question of whether D1 (as distinct from D2) owed the deceased a duty of care, or whether he was too removed from the functions of APSC to owe her such a duty.  But, for present purposes, this was a classic case of negligence under established principles and has nothing to do with notions of assumption of responsibility.
+
+132.  The question whether D1 owed a personal duty of care to the deceased separate from the duty owed by his companies is a question of both fact and law.  The judge made it quite clear that a personal duty of care did not arise by virtue of D1’s ownership of the companies concerned[202]:
+
+“The mere fact that D1 was an owner, even a 100 per cent owner of the DR Group of companies, which are all limited companies, if he is not in effective control of the activities of the group of companies, his ownership by itself does not impose on him a duty of care towards the deceased. It’s the limited company that owed a duty of care to the deceased.”
+
+133.  The issue was, therefore, whether he was in effective control of those companies.  We have no quarrel with the statement of the English Court of Appeal in C Evans & Sons v Spritebrand Ltd[203], upon which Mr Harris placed reliance, as it applies to the civil law:
+
+“The authorities, as I have already indicated, clearly show that a director of a company is not automatically to be identified with his company for the purposes of the law of tort, however small the company may be and however powerful his control over its affairs. Commercial enterprise and adventure is not to be discouraged by subjecting a director to such onerous potential liabilities. In every case where it is sought to make him liable for his company’s torts, it is necessary to examine with care what part he played personally in regard to the act or acts complained of.”
+
+134.  We are, however, here dealing with the criminal offence of gross negligence manslaughter, which is qualitatively rather different.  Moreover, when we examine the part D1 played in the companies concerned, which marketed, prepared and administered the CIK treatment, it becomes obvious that he was involved intimately and personally with them at almost every level of their functions.  He was, on the evidence, truly a “hands-on” boss in every respect; and, moreover, on a persistent, regular basis.  We note that in the original ‘Application for Technology Qualification’[204] and the ‘Application for Site Selection and Leasing’[205] by APSC for admission to Science Park, both signed and dated by D1 on 28 April 2009 and 13 July 2009 respectively, D1 described his designation within the company as “CEO”, which, as the terms suggests, connotes executive responsibility.
+
+135.  In the House of Lords decision in R v Chargot Ltd (trading as Contract Services)[206], Lord Hope of Craighead held, in respect of a conviction under section 37 of the Health and Safety at Work etc Act, 1974[207]:
+
+“Here too the circumstances will vary from case to case. So no fixed rule can be laid down as to what the prosecution must identify and prove in order to establish that the officer’s state of mind was such as to amount to consent, connivance or neglect. In some cases, as where the officer’s place of activity was remote from the workplace or what was done there was not under his immediate direction and control, this may require the leading of quite detailed evidence of which fair notice may have to be given. In others, where the officer was in day to day contact with what was done there, very little more may be needed. In Wotherspoon v HM Advocate 1978 JC 74, 78, Lord Justice-General Emslie said the section is concerned primarily to provide a penal sanction against those persons charged with functions of management who can be shown to have been responsible for the commission of the offence by a body corporate, and that the functions of the office which he holds will be a highly relevant consideration. In R v P Ltd [2008] ICR 96 Latham LJ endorsed the Lord Justice-General’s observation that the question, in the end of the day, will always be whether the officer in question should have been put on enquiry so as to have taken steps to determine whether or not the appropriate safety procedures were in place. I would too.”
+
+136.  One must, of course, be cautious in applying a test or reasoning, which may be applicable to a statutory regime, to the common law offence of gross negligence manslaughter.  Nevertheless, the distinction between activities not under the immediate direction and control of the owner of a company and those where the owner is in day to day contact with what is going on in the company is an obvious one, which hardly needs authority to support it, let alone one which was endorsed by three then, or future, non-permanent members of the Court of Final Appeal. 
+
+137.  It was D1’s case that he assumed everything was being carried out correctly.  But any educated or moderately intelligent person would know, let alone one who is a registered medical practitioner, that one must be exceedingly careful with a blood product so as to ensure it is not contaminated, and to set in place a system designed to ensure its integrity and sterility.  Yet APSC had no records, it had no system of checking and cross-checking, there was no SOP designed for the culturing of the CIK blood product in circumstances where D1 acknowledged that the treatment was still experimental: in short, there was no safe system in operation at all.  And D1, who was intimately concerned with the marketing, preparation and administration of CIK treatment must have known that.  Assumptions that everything is in order are of little relevance where a blood product is concerned; and they are wholly beside the point where there is no safe system employed to deal with it.
+
+138.  It was the evidence of Professor Yuen, in paragraph 9 of his expert report produced before the jury (Exhibit P 443) under the provisions of section 65B of the Criminal Procedure Ordinance, Cap 221 and included in their bundles:
+
+“(c) It should also be a very basic and elementary understanding of every medical doctor that any material (such as blood cells) injected or infused into patients must be free of microbes and toxins.
+
+…
+
+(d) The medical doctors involved in this incident should know well that the processed blood cells had been taken out from patients for many days or even weeks for laboratory manipulation before the infusion back into patients. They should be well aware of the obvious risk of microbial (including any bacterial, fungal or mycobacterial) contamination to the processed blood cells which could lead to serious injury or death of a patient receiving infusion. They should therefore only have accepted processed blood cells generated from accredited haematology laboratory supervised by qualified specialist (clinical haematologist). They should also have ensured that the blood cells were free of contaminating microbes by requesting for laboratory reports of microbial culture test done just a few days before the infusion and preferably the report of the gram stain test of the product just before the infusion. Unfortunately, there is no record or indication that they had done the above.” (Emphasis supplied)
+
+This evidence was read to the jury, and adopted, by Professor Yuen as part of his examination-in-chief[208].  It is hardly surprising that the italicised parts of the above passages were never challenged by counsel for either D1, D2 or D3.
+
+139.  On the matter of D1’s contention that he had no reason to believe that there was any defect in the system in operation at APSC, the judge directed the jury as follows[209]:
+
+“You will have to consider what was D1’s knowledge. What was his awareness at the time, apart from his medical knowledge? D1 knew the blood culture had been in incubation for a period of time, at least 12 days, 12 to 15 days, under a temperature similar to a human body’s temperature, 37 degrees Celsius. He must be aware that 37 degrees Celsius would provide an ideal environment for bacteria to grow and multiply should there be any contamination.
+
+Remember Professor Raymond Liang told you that from his experience in cellular therapy, the culture process would amplify the number of bacteria to millions if there is any contamination because of the period needed to do the culture. The longer the time, the more would be the bacteria if contamination had taken place and not (been) checked.
+
+So the failure in providing proper validated SOP was in place for the culturing of CIK cells, which would include sterility tests, would allow the failure to conduct tests, whether it’s on purpose or whether due to human error, to go undetected. Because you have no safe system to ensure that the tests have been done; and if it’s not done, you checked it, and somebody knew it has not been done.
+
+One of the purposes of a properly validated SOP was to ensure there were checks and traceability should there be any step being missed out or not done correctly.  The failure to ensure sterility tests having been conducted would have resulted in the contamination of bacteria not being checked, and the contaminated blood product would be injected directly into the bloodstream of a patient, as in the case of Chan Yuen-lam.”
+
+140.  In our judgment, the judge employed the right test.  The words “effective control” were ones which would have been well understood and applied by any jury; supplemented, as they were, by the common expression “hands-on boss”, which it seems was used by everyone at trial as a supplementary and rather graphic description, and which arguably took the element of control even further.  These descriptions conveyed the image of someone authoritatively and intimately dealing on a regular basis with the activities and functioning of a company, rather than simply controlling it legally as an owner, director or shareholder.  It would be difficult to think of a description which made the alleged function of D1’s role in these companies any clearer, or was more appropriate to the issue under consideration.
+
+141.  Inasmuch as these grounds engage issues of both fact and law, we refuse leave to appeal on Grounds 1 and 2 and dismiss the appeal.
+
+K.2.  Ground 3 (Foreseeability of obvious and serious risk of death)
+
+142.  As originally pleaded, Ground 3 averred that none of the breaches alleged in the indictment against D1 gave rise to an obvious and serious risk of death of which D1 was subjectively aware; and that consequently, the case should have been withdrawn from the jury at the conclusion of the prosecution case.  As we pointed out at the outset of our consideration of D1’s appeal, such a complaint has been rather overtaken by events, in particular the resolution of this Court and the Court of Final Appeal that the test is objective, and not subjective. Nevertheless, Mr Harris relied upon a line of English Court of Appeal authority, including R v Rudling[210], R v Sellu[211] and R v Rose (Honey)[212] to support the proposition that, objectively and prospectively, there must be “an obvious risk of death: an obvious risk is a present risk which is clear and unambiguous, not one which might become apparent on further investigation”[213].
+
+143.  With respect, we find no comparison with the circumstances engaged in the English cases, all of which concerned genuine medical procedures or treatment by professionals, where an assessment by the defendant of the patient’s condition might have revealed something life-threatening, if he or she had looked for it.  In Rose (Honey), Sir Brian Leveson P, who it may be noted gave the decision of the Court in all three cases, held in his conclusion[214]:
+
+“… that, in assessing reasonable foreseeability of serious and obvious risk of death in cases of gross negligence manslaughter, it is not appropriate to take into account what the defendant would have known but for his or her breach of duty.  Were the answer otherwise, this would fundamentally undermine the established legal test of foreseeability in gross negligence manslaughter which requires proof of a “serious and obvious risk of death” at the time of the breach.  The implications for medical and other professionals would be serious because people would be guilty of gross negligence manslaughter by reason of negligent omissions to carry out routine eye, blood and other tests which in fact would have revealed fatal conditions notwithstanding that the circumstances were such that it was not reasonably foreseeable that failure to carry out such tests would carry an obvious and serious risk of death.”  (Emphasis supplied)
+
+144.  D1 (and D2) were not engaged in the genuine medical treatment of a ‘patient’ who was ill at all: CIK was an experimental therapy involving blood, which had not been proved to be effective, which had no approved protocol or SOP, where they had themselves created the serious and obvious risk and where there was no system at all in place to protect the safety of the ‘customer’ from that risk.  As the Court made clear in Rose (Honey)[215]: “the factual matrix is critical”.  In our judgment, this series of English cases has no application to the factual matrix in the present case.
+
+145.  Tucked away in Ground 3 was a complaint that came to achieve rather greater attention from Mr Harris in his oral submissions, and concerned the question of inferences.  The matter had arisen in this way.  During cross-examination of D1 by D2’s counsel at trial, it was put to D1 that he had instructed D2 that there was no need to conduct sterility tests, to which D1 responded[216]:
+
+“A: Absolutely disagree. No doctor would inject things into (a) human body without conducting the test, especially in the case of my elder sister. She was in a frail state, and she had received chemotherapy. I would not have those things injected into her without doing the test…”
+
+146.  D2 did not ultimately testify on his own behalf, although he called his former wife as a witness.  In his closing address to the jury, counsel for D2 at trial was plainly aware that D1 had tried in his evidence, and by his counsel’s closing address, to ‘point the finger’ at D2.  He nevertheless accepted before the jury that D2 “was at APSC culturing the CIK cells, but to suggest that he was in charge of the whole CIK project, that is simply pure fantasy”[217]. Describing D1 as the person at the “top of the Christmas tree”[218], he went through certain evidence of witnesses, as well as email exchanges, to exemplify his contention that D1 was the one who had arranged which staff were to go to Guangzhou for training[219]; who had overseen marketing strategies and the determination of the price for CIK treatment[220]; and who had given D2 specific instructions relating to various scientific aspects of CIK production, including the decision to discontinue with karyotyping[221] and how to perform cell culture[222].  He then submitted[223]:
+
+“Just because Billy did not go into the witness box to point fingers at the 1st defendant, I’m sure you can put the puzzle together and work out who was in fact in charge of the manufacturing of the CIK product.
+
+I suggest it was not the 2nd defendant, it was not Billy, for the simple reason that he was not in control. Instead, we have seen evidence – emails don’t lie – that he was being controlled, he was told what to do, and he had to report what he did, he had to report the test results, back to the person in control.
+
+On that basis, I urge you not to hold Billy responsible for owing a duty of care to the customers.”
+
+147.  D2’s counsel then turned to the fact that no sterility testing had taken place, notwithstanding an email instruction from D1 that they should be done[224]:
+
+“However, your enquiry cannot simply end there. You must be thinking about the natural question which follows. Why did Billy not follow his boss’s instructions? Really, there are only two possibilities. (1) Billy simply decide(d) to ignore his boss. (2) 1st defendant changed his mind and there was consensus between the 1st defendant and Billy that testing would not be done. There is simply no other explanation.
+
+It is your duty to determine which scenario took place.  Whether Billy had decided to ignore his boss, or whether they reached consensus that no testing would be done.”
+
+148.  Counsel then argued that the first scenario was “not likely”[225], and that[226]:
+
+“…if Billy did not in fact ignore what D1 has said, only one possibility remains. That is, after the standard package email, the 1st defendant changed his mind, and there was consensus that testing would not be done. I suggest this is the only reasonable explanation.”
+
+He concluded[227]:
+
+“Ladies and gentlemen of the jury, what happens after the customers fell sick confirms the theory that D1 changed his mind.
+
+If the tests in the standard package had to be done before CIK infusion, D1 would have realised that Billy had been ignoring his instructions all along. In the standard package email sterility tests had to be done, mycoplasma test had to be done, endotoxin tests had to be done. But it must have been absolutely clear after the patients fell ill, that none of those test(s) had been done. There was simply no test reports for each of the 40 occasions, for each of the 40 occasions CIK was given to the customers.
+
+So where was the email from the 1st defendant to Billy, “Why have you not been following my instructions all these months? Why have you lied to me”? Why didn’t D1 fire Billy? He didn’t even suspend him from work. And the 1st defendant confirmed that it was in fact in March 2013 that Billy left D1’s employment when Billy resigned.
+
+You have seen the video that we have seen in court where Billy demonstrated to D1 the steps he took in respect of the CIK cells.  D1 never asked him, “When would testing be performed?”
+
+The only inference to be drawn is this. The only reason for D1’s lack of reaction, lack of actions after his customer fell ill is that D1 knew that Billy had all along been following his instructions. And I suggest to you that you should have no difficulty to find that Billy did not perform bacterial tests because he was following the instructions of the 1st defendant.
+
+Does this amount to negligence so reprehensible that you should find Billy guilty of manslaughter?”
+
+149.  Thus, it becomes clear that D2’s case at trial, based on the available evidence and as a matter of inferential common sense, was that he had done (or not done) something at the behest of a “hands-on boss”, namely D1, which would have included dispensing with sterility tests. And it seems to have been his role qua employee that prompted the jury to ask a question after their retirement[228], which the judge interpreted (without demur from counsel or the jury) in the following way[229]:
+
+“… I take it you mean what if you give D2 the benefit of the doubt that he might be acting in accordance with instruction of his boss? If that is what you find, how should you gauge whether that breach was truly exceptionally bad and so reprehensible as to warrant criminal conviction?”
+
+150.  Mr Harris’s argument is that this very question from the jury obviously indicated that they had inferred, in the absence of any direct evidence from D2 or anyone or anywhere else, that D1 had instructed D2 to dispense with bacterial testing at APSC.  This, he says, was such an obviously impermissible line of reasoning derived from non-existent evidence that the judge should have moved to “withdraw the issue” from the jury.  Having failed to do so, there was every risk the jury had indeed inferred that what had been put to D1 by D2’s counsel was in fact the truth, thus rendering the verdict against D1 unsafe and unsatisfactory.
+
+151.  We cannot agree.  The judge gave the jury, during her original summing-up, a perfectly proper set of directions in respect of inferences, about which no complaint is made, and dealt specifically with the impugned suggestion of defence counsel that D1 had instructed D2 not to conduct sterility tests.  It is necessary to set out her directions in full, in order to understand the careful way in which the judge dealt with the point. It is not, with respect, helpful to extract a few lines out of context.  The judge was at the time dealing with D1’s evidence[230]:
+
+“All products were subject to viral tests and bacterial tests; and there must be proper documentation, meaning test reports and SOP, before APSC is eligible for AABB and GMP accreditation. Well, this is what D2 had told D1. D1 referred to an email about having to perform up to the level like transplantation; the level had to be like doing a transplant. That is in V, item 33; if you want to have a look at that, it is there.
+
+So D1 told you that although in that email, this is about transplantation, the word “bacterial test” was not used, such tests was the foundation, it was something basic that must be done since 2009. Products could only be released with test reports. D1 told you that he had repeatedly asked D2 whether sterility tests were done on the CIK products, and D2 assured him that it was done. D1 told you that he would not have subjected his own blood sister to receive the CIK therapy had he known that sterility tests had not been conducted. But you may consider that there is some truth in that because after all, it's your own sister. If you had known that there is no sterility tests done, would you subject your sister to it?
+
+There is no evidence that sterility tests had been performed regarding the blood product of the deceased prior to leaving APSC for an infusion on 3 October 2012. This is in relation to D1; because D2 had admitted that it wasn't done, but you can’t use that evidence against D1. So as far as D1 is concerned, there is just no evidence that tests had been done. There were no reports, the police didn't find any reports to say that the CIK products had done bacterial tests.
+
+In the case against D1, you can’t consider what D2 said either in the statement or to the experts. Just forget what D2 has said about the tests. You can only consider the evidence independently from the evidence you hear in this court. So he believed tests had been done, he believed what D2 had told him. What did the police find? The police went in and searched all sorts of documents. There wasn’t any document showing that sterility tests had been done. Now, D1 told you that he didn't know that no tests had been done; he didn't know about that. He already said that if he had known, he wouldn't have subjected his sister to have the CIK.
+
+You will recall that during the cross-examination by D2’s counsel of D1, it was put to him that D2 had said to him CIK cells must be injected and infused quickly otherwise the cells would die; and it was D1’s decision that say ‘No need to do the tests as things are clean in the lab anyway.’ You remember that was put to D1 by D2, and D1 denied that allegation. He didn’t agree that ‘I have said no need to do the tests, the lab is clean anyway.’ He didn’t say that. Now because D2 did not give evidence, which of course is his right, he didn’t come up to give evidence to say, ‘Yes, D1, you say to me no need to do tests’; there was just no evidence of such in front of you at all.
+
+You will recall that Mr Cheung, during the closing speech, suggest to you that the only reasonable inference for you to draw is that D1 must have instructed him to do it. He is an employee, why would he not do it? You remember that. So the basis of Mr Cheung’s suggestion to you that the only inference, only reasonable inference to be drawn is that D1 must have given this instruction. Because there was a clear instruction in the package about tests, so why would D2 not do the tests since there is a clear instruction? So the only reasonable inference to be drawn is that D1 must have told him not to do it; that is what is being suggested to you.
+
+Further, Mr Cheung said that if D1 didn’t tell him to do it, it would mean that D2 was being disobedient, ignore what the boss said. So comparing these inferences, the only reasonable inference is that he must have done it because D1 had told him. That's being suggested to you.
+
+Now, I will remind you there is no direct evidence before you that D1 had instructed D2 not to do the test. If D2 had come into the witness-box and say so, then there will be direct evidence. Whether you believe him or not is another matter; there will be direct evidence. But there’s no direct evidence because he didn’t come up to say that in the witness-box.
+
+So when there is no direct evidence before you, why it wasn’t done, if it wasn’t done at all? D2 you knew had admitted before various people why he did not do the tests, saying to Carol Yip not enough time. But whatever was his reason, he exercised his right and he didn’t come up into the witness-box to tell you.
+
+So, you do not know what exactly was his reason for not doing the tests. So when you are drawing inference, you can only base on facts that you found proved or from the admitted facts. It must be the only reasonable, only irresistible inference to be drawn against D1. So if you can draw other inferences, you can’t use it against D1.
+
+I’m just explaining to you what to do when you are asked to draw inferences. There is no direct evidence before you that D1 had given any instruction to D2, say to him ‘Don't do any tests.’ If you were to draw the influence that ‘Ah, D1 must have given that instruction’, it has to be the only reasonable inference that you can draw from the facts in this case; not speculation, not when there is another inference to be drawn.
+
+You will also recall in this respect that when the prosecution, Mr Leung, opened his case, Mr Leung never suggested that D1 has instructed D2 not to do the sterility tests. That wasn’t the prosecution’s case. It was only after D2’s counsel had put that case to D1, which D1 denied, then Mr Leung in the cross‑examination also suggest to D1, ‘You instructed D2 not to do the test because the cleanroom was good enough, bacteria can't go through a certain micron’ and so on.
+
+You will recall that in his closing speech, Mr Leung referred to the email from D1, that is in bundle V 34, about the filter being able to screen out bacteria and viruses; and suggested to you that D1 had either instructed D2 to suspend with the sterility tests or condoned D2’s act because bacteria would have been filtered out. That was what Mr Leung suggested to you.
+
+Quite apart from the fact that D1 was not cross-examined on that particular email, about the issue that Mr Leung had referred, I think you better look at that one, 34, if you still have volume V 34. This is the one about using things from one’s own body.  Let’s see, I don’t have the English translation here. I’ll just read out the Chinese, I think it's easier.  “因為自己的東西用在自己身上，當然要驗過冇菌，但經過0.22 micron filter就不應有細菌了，經過100個kDa或50kDa都不應有病毒，沒有病毒是這麼小的，不過小心起見，就做足化驗報告.”
+
+This email was relied upon by the prosecution to say that because bacteria could be filtered out, so there is no need to do the tests. Either D1 gave instruction to D2 no need to do the test; or knowing that D2 had not done the test, he condoned it, he accepted it. He didn’t do anything about it. This particular email was not put to the 1st defendant when he was being cross‑examined. He wasn’t cross-examined on this basis to say that ‘Look, you said that after the filter, there won’t be any bacteria. So you gave instruction to D2 no need to do the tests.’ So, this particular email was not put to D1 during the cross‑examination.
+
+In any event, you would have thought that what D1 said in this email was not to do without tests. He actually said, according to what is written here, even though that the filter would be able to filter out bacteria, but to be on the safe side, tests had to be done. So this email, you may think, doesn’t support the suggestion that say D1 said there’s no need to do any tests.
+
+Now because D1 was not cross-examined on this particular email, he didn’t have a chance to explain his stance. So it would be unfair for you to draw any inference from this particular email when I’ve already mentioned to you that from the document itself, it didn’t say to do without tests. It actually said to be on the safe side, tests better be done.
+
+So, just bear in mind that there is no direct evidence before you that D1 had instructed D2 not to conduct the sterility tests. There is also no direct evidence that D1 relied on the filtering process to screen out bacteria for CIK products. There is just no such direct evidence at all. Any inference you wish to draw must be based on facts proved or admitted; and must be the only reasonable, only irresistible inference to be drawn if you’re using the inference against D1. Facts proved means admitted facts or facts that you accept; those are already facts proved.
+
+I will just remind you because this, I think it is quite important.  I’ll remind you there is no direct evidence that D1 either instructed or dispensed with the sterility tests for CIK product due to the short lifespan of CIK cells.  There is no direct evidence that he had either instructed or dispensed with the sterility tests for CIK because of the short lifespan of CIK cells, only 28 days.”
+
+152.  After the jury had retired and asked their question, the judge warned them again about the drawing of inferences[231]:
+
+“Now, I must again remind you, even if you do give D2 the benefit of the doubt that he might be acting in accordance with the instruction of his boss when considering the case of D2, when you consider the case of D1, if you were to find that D1 did give instruction to D2 to dispense with the sterility test, that finding must be the only reasonable inference to be drawn from facts you found proved as there is no direct evidence of that against D1 at all.”
+
+153.  It would have been a bold judge indeed who decided to direct the jury that under no circumstances could they infer that D1 had instructed D2 in all matters relating to APSC, including the dispensing with sterility tests, when that was D2’s very defence, based not on an assertion by counsel but on circumstantial evidence, which D2’s counsel at trial had set out in his closing address.  Had she done so, we daresay that would have been Ground 1 of D2’s appeal.  We do not accept that there was no such circumstantial evidence from which the jury could draw such an inference when determining either D1 or D2’s case, but the judge was extremely careful to make sure that the jury did not in any way use the assertion of counsel in cross-examination to support such an inference against D1.
+
+154.  We note that in Zaman, a case relied upon by both D1 and D2 in their appeals against sentence, the appellant, who owned a number of Indian restaurants, had never worked in the kitchen concerned and had had nothing to do with the preparation of the deceased’s meal, which contained the peanuts that killed him.  In its determination of the appeal against conviction, the Court held[232]:
+
+“The judge said, with some force, that either the staff were instructed to tell such customers that their meals would be peanut free, or, at least, the appellant’s systems were so appallingly lax that they were able to tell customers that their meals would be free of peanut even when they were not. In the appellant’s favour, the judge proceeded on the latter basis.”
+
+155.  This alternative of direct instruction or permitting a lax system sounds not unlike the one discussed in the speech of D2’s counsel to the jury and it likewise derived from the circumstances at play.  And, as a matter of interest, the judge when sentencing D1 proceeded on the same basis upon which the judge in Zaman had proceeded, when she said[233]:
+
+“…I will not sentence D1 on the basis that D2’s failure to carry out the necessary bacterial test was as a result of an instruction from him. I will proceed on the basis that D1 had failed to put in place a proper and safe system, which allowed D2’s failure to conduct bacterial test went unnoticed and unchecked.”
+
+156.  We do not think the judge can be faulted for the way she handled this issue: her directions were both careful and correct in law.  In any event, we do not accept that the jury would have adopted an impermissible line of reasoning on this issue, given the overwhelming nature of the evidence against D1 as a “hands-on boss” in respect of almost every detail of the CIK treatment.  We refuse leave to appeal on Ground 3.
+
+K.3.  Ground 4 (Causation)
+
+157.  We may deal as shortly with Ground 4 as Mr Harris did with it in his oral submissions.  When the judge said that if the jury found proved the breaches in Count 1(ii)(b), (c), (d) and (e), they should have no difficulty in finding that the breach of those duties were a cause, or a substantial cause, of the death of the deceased, she was stating the obvious.  Realistically, causation was not the issue here, which may explain why none of the defendants’ counsel took this matter up with the judge before, during or after her summing-up.
+
+K.4.  Ground 6 (Unfair and unbalanced summing-up)
+
+158.  We can deal equally shortly with Ground 6, which alleges an unfair and unbalanced summing-up for the reasons identified in the perfected grounds of appeal and the written submissions in support thereof.  In his oral submissions, Mr Harris indicated that the main kernel of Ground 6 was now the inference point, which we have already dealt with extensively under Ground 3.  Apart from that matter, the other complaints under this ground were not developed in any depth before us.  Nevertheless, we unreservedly reject the assertion of an unfair and unbalanced summing-up in this case.  This was not an easy case for the judge to sum up, either in terms of the facts or law.  Yet the judge achieved it, over the course of five days, with her characteristic thoroughness, helpful approach to, and compartmentalisation of, the issues, simplicity of language and, above all, fairness to all parties.  The suggestion of an unfair and unbalanced summing-up, when the summing-up is read as a whole is not, with respect, a complaint which should have been advanced in this particular case.  Leave to appeal on Grounds 4 and 6 is refused.
+
+K.5.  Ground 5 (Grossness)
+
+159.  Finally, we come to Ground 5.  Mr Harris makes no complaint of the judge’s general directions as to how to approach the question of ‘grossness’, in which she emphasised that “the prosecution had to prove … the breach of that duty in all the circumstances were truly exceptionally bad and so reprehensible as to justify the conclusion that it amounted to gross negligence and required criminal sanction”[234].  The essence of his complaint under this ground is that the judge failed to confine the ‘circumstances’ which the jury could consider when assessing the grossness of D1’s negligence to the breach itself.  By referring, for example, to the income obtained from the storage of cord blood and the stem cells from umbilical cords, namely $145 million, despite D1’s claims that APSC was making a loss, and by asking the jury to consider whether D1 was exploiting government initiatives in relation to Science Park for his own personal gain, she had effectively painted D1 as a “crook”[235]. Mr Harris took no issue with the original eliciting of such evidence before the jury, since it was evidence, at least from the prosecution’s point of view, revealing D1’s substantial financial interest in APSC, which in turn might have indicated the degree of his involvement and interest in its activities; and it could also have gone to the issue of his general creditworthiness as a witness.  His complaint was the context in which it was raised.
+
+160.  However, the background was surely relevant to an assessment of the element of grossness:  for example, the fact that the treatment was experimental and unproven, yet was very expensive; the ways in which it was marketed and developed, focusing on particular customers; the “indecent haste”[236] with which it was launched in order to beat a well-known hospital, which was believed to be about to launch CIK treatment itself[237]; and the fact that APSC was being used commercially to generate enormous sums of money for D1 when the government’s initiative and true intention behind the use of Science Park was scientific research, were all matters that were part of the background against which to judge whether D1’s negligence (which by this stage the jury must have found) was gross.  Most evidence called by the prosecution is by its nature prejudicial to an accused person: that does not make it inadmissible.  In our judgment, the background was relevant, notwithstanding that the incidents of failure to take reasonable care for the safety of the deceased were in themselves quite appalling, and certainly bad enough to satisfy the test of grossness.
+
+161.  Finally, as part of this ground, Mr Harris averred that whether any negligence was gross enough was ultimately an evaluation for the jury, not a matter of expert evidence.  We agree.  But we see nothing in the summing-up to suggest that the jury might have thought otherwise.  The authority of Sellu, on which reliance is placed, was a rather different case, in which a consultant surgeon was convicted essentially on the basis of expert witnesses who had described his conduct as, inter alia, “very bad practice”, which “no reasonable surgeon” could have undertaken, “grossly incompetent”, and even gone so far as to suggest that his overall performance amounted to “recklessness”, as well, indeed, as “gross negligence”[238]. The danger, of course, with any expert describing a defendant’s conduct as “gross negligence” is that the term has a rather different meaning and emphasis in the context of professional conduct than it does in the criminal law.  That a doctor may be considered to have fallen well short of the standards expected of him by his fellow professionals is very different from being guilty of the crime of manslaughter by gross negligence, which is the ultimate qualitative evaluation for the jury.  It was against that expert evidence that the judge’s directions on gross negligence in Sellu fell to be considered and were found wanting.
+
+162.  None of the expert evidence in the present case went that far.  Moreover, the judge gave the standard Specimen Direction on expert evidence[239], about whose correctness no complaint is made, and, in our view, there was no danger of this case being a trial by expert.  There is nothing in this point.  We refuse leave to appeal on Ground 5. 
+
+163.  Accordingly, D1’s appeal against conviction on all grounds of appeal is dismissed.  We now turn to a consideration of the application for leave to appeal against conviction by D2.
+
+L.   Discussion on D2’s conviction
+
+164.  As Mr Pang rightly conceded, the only real issue at this appeal, so far as D2 is concerned, is whether his negligence could be said to be gross enough to warrant criminal sanction.  It will be remembered that D2’s counsel at trial had made the concession that if the jury found that he owed a duty of care, which Mr Pang sensibly recognised was a “foregone conclusion”, then particulars (ii)(b), (c) and (d) of Count 2 would be proved.  Mr Pang’s submissions, therefore, were only concerned with the fifth element of the offence, namely grossness.
+
+L.1.  Grounds 4A and 4B (Expert evidence and Professor Yuen)
+
+165.  We should like to begin by considering Grounds 4A and 4B, since part of the complaint overlaps with the point concerning expert evidence which we have just made in addressing Ground 5 of D1’s appeal.
+
+166.  We do not accept that the judge failed to explain to the jury the danger of allowing the opinions of experts to supplant their own evaluation (Ground 4A).  That is precisely what the Specimen Direction on expert evidence is designed to tell the jury, and what the judge in fact told them[240]:
+
+“You are entitled, and would no doubt wish, to have regard to this evidence and to the opinions expressed by the experts when coming to your own conclusion about this aspect of the case. You should bear in mind that if having given the matter careful consideration, you do not accept the evidence of the experts, you do not have to act upon it. In other words, it is not the case just because the experts come along to say something you have to accept it, no. They are just telling you their opinion. It is still up to you to decide whether you accept the opinion or not.
+
+So, if having given the matter careful consideration, you do not accept the evidence of experts, you don’t have to act upon it.  You should remember this evidence relates only to part of the case; and that whilst it may be of assistance to you to reach a verdict, you must reach the verdict having considered all the evidence.”
+
+167.  Nor do we think, for the reasons we have given, that this was a case where the more emphatic terms of the Sellu directions needed to be given.  Furthermore, we found Mr Pang’s position on the judge’s treatment of Professor Yuen (Ground 4B) somewhat difficult to reconcile with his acceptance that it was for the jury, not an expert, to determine what was grossly negligent about D2’s conduct.  We have set out the impugned exchange between the judge and D2’s counsel at trial during his cross-examination of Professor Yuen earlier in this judgment[241].  However, it should be noted that earlier in cross-examination, Professor Yuen had already given the evidence on which Mr Pang seeks to rely, without any intervention from anyone[242]:
+
+“A: I think it is very important for us to understand that if a person has not been medically trained, even they have read from books, they won’t appreciate the gravity of the matter, sepsis. So I think it is actually a little bit unfair to put such an onerous responsibility on a person who is (sic) medically trained, like the master of biochemistry, to –
+
+COURT: You mean a person who is not medically trained?
+
+A: Yes, a person who is not medically trained; they won’t understand the gravity of the matter. And so, the laboratory, the one who sets up the laboratory, has a very important responsibility to ensure that they really have employed a trained personnel who knows the gravity of the matter, knows how serious it is, to make sure that every step is being properly done. That is what I want to say.
+
+MR CHEUNG: Yes, Professor, when you said it’s a bit unfair to put such an onerous responsibility on the person who was not medically trained, like someone who only has a master of biochemistry, did you have any particular person in mind when you gave that answer?
+
+A: Well, I say this merely because I know that the 2nd defendant is actually not medically trained. And I think, for a young man, he should work under supervision. He should not be given sufficient – it’s actually quite unfair to put such a responsibility to a young man who has not really been trained in the field.
+
+Q: Because he wouldn’t –
+
+COURT: So really what you are saying is that so far as you are concerned, as an expert in this field, a person who is responsible for, say, culturing the cells, should be someone who is medically trained, right?
+
+A: Yes.
+
+COURT: Right, thank you.”
+
+168.  Unfortunately, and perhaps a little unwisely in view of what followed, defence counsel returned to this evidence sometime later in his cross-examination, prompting the subsequent exchange with the judge about which complaint is now made.  We do not know what question defence counsel was going to ask, since one might think he had already got the evidence he wanted earlier in cross-examination, but it would seem that the only question left to ask was, “In the light of what you have said earlier, do you think D2 should be held responsible for the death of the deceased?”  On this matter we are left to make an educated guess because we have not heard from defence counsel at trial, nor has Mr Pang asked his predecessor what the question he wanted to ask but was prevented from asking was, in accordance with the guidance of this Court in HKSAR v Apelete (No 1)[243]. But if that, or something like it, is what counsel wanted to ask, going further than that which he had earlier elicited, the judge was entirely right to step in and prevent it.
+
+169.  In any event, we fail to see what conceivable prejudice there was by not permitting counsel to ask a question, whatever it was, which he did not pursue or seek to justify, either in the presence or absence of the jury.  The time and place for arguing the merits of a proposed question was there and then at the trial before the judge, not years later before an appellate court.  Moreover, the fact is that the judge did remind the jury of the evidence which Professor Yuen had given[244]:
+
+“Professor Yuen is of the view that the person who cultures the CIK cells should be medically trained. Having read … that Billy Chan was called a Research Associate and having seen his CV, Professor Yuen would not change his view as to what he said. You remember he did say it at the time. He said that it was unfair for someone who is not medically trained to do the culturing of the CIK cells. He said it was unfair to put D2 in that position.
+
+No doubt, when Professor Yuen commented that it was unfair, he indicated that he was sympathetic towards the 2nd defendant; it’s unfair to put him in that position.  But I must remind you that not only you’re not to be affected by any sympathy expressed by Professor Yuen towards D2, it’s your job, not Professor Yuen’s job, to decide whether D2 was qualified to be responsible for the preparation of the blood product.  They can give you their view saying, ‘I think this person is qualified’ or ‘I think this person is not qualified’; but it’s your decision whether you accept the opinion, whether you find that the person is qualified or not qualified.”
+
+170.  We respectfully agree with the judge.  There may be a thin line between what is permissible and what is not, as so often with expert witnesses, who can in certain cases come very close to giving an opinion on the ultimate issue in a criminal case, but it was one thing to say whether someone in D2’s position and with his qualifications should have been in charge of culturing CIK cells in a laboratory: it was another to express the view that it was unfair for him to have been placed in that position, (by necessary implication) by D1.
+
+171.  Furthermore, we have some difficulty ourselves in accepting Professor Yuen’s opinion that D2 would not have known the “gravity” of sepsis.  With great respect, any educated person, let alone someone with a master’s degree in biochemistry and biomedicine, would know from their common experience of life the extreme danger which blood contamination poses, especially when it is to be infused into someone’s body after a period of time, whether they were medically trained or not.  It was the unchallenged evidence of Tse Chi-sum, Sammy (“PW52”), a molecular genetic scientist, who was primarily concerned with the storage of cord blood and the culturing of umbilical cord stem cells at APSC[245], that he had been instructed to assist D2 in the preparation of CIK blood products[246]. However, he refused to do the work and told D2 in terms that he did not want to do such work, since “there would be risk as it would be injected into the body of the customer”[247]. Accordingly, PW52 ceased working at APSC in October 2012[248].
+
+172.  We do not agree that the judge in the impugned passage withdrew a point that was in favour of D2, because she actually repeated Professor Yuen’s testimony in her review of the evidence.  She merely reminded the jury that they should not be affected by sympathetic views as to the position in which D2 was placed or found himself.  We do not accept the complaint in Ground 4B and refuse leave to appeal. 
+
+173.  Nor do we accept that the judge erred in her directions to the jury on the issue of gross negligence insofar as it related to D2.  Mr Pang sought to make a point that despite the judge’s original directions, the jury posed a question, as we have seen, which was concerned with the issue of the grossness of D2’s conduct, if they were to give him the benefit of the doubt that he was acting on D1’s instructions.  When the judge told D2’s counsel at trial how she proposed to answer the question, counsel responded twice, “I am happy with that, my Lady”[249]. Accordingly, she directed as she had indicated.  We are now in familiar territory where fresh counsel on appeal, who was not, with respect, conversant with the real issues and dynamics of a very long trial, considers that the answer was inadequate.  We note that this ground of appeal was not advanced by D2’s trial counsel when he settled initial grounds of appeal against conviction and sentence on 9 January 2018.  Nor was it advanced when the same counsel applied for bail pending appeal before a single judge of the Court of Appeal on 27 April 2018[250].
+
+174.  We find nothing in Ground 4A and, likewise, refuse leave to appeal.
+
+L.2.  Ground 1 (Unfair and unbalanced summing-up)
+
+175.  It is then alleged by Ground 1 that the judge’s summing-up was unfair and unbalanced.  Inasmuch as this ground avers that the judge failed to deal with the favourable evidence of Professor Yuen, we have already dealt with this point in addressing Ground 4B.  We have seen that the judge did summarise the evidence of Professor Yuen, but put it in its proper perspective. 
+
+176.  Then it is said that the judge speculated as to the motive of D2 that he had wanted to satisfy his own ambitions, or to please D1, so that he could earn a higher salary.  We have read the passages relied upon in context and do not think they are as sinister as Mr Pang suggested. The judge was not suggesting anything but, rather, raising questions that the jury should ask themselves in addressing the question of grossness.
+
+177.  It should be remembered that D2 did not give evidence.  Even so, perhaps more so in those circumstances, it was right for the judge to raise the sort of issues and questions the jury should consider. Of course, without his evidence, there was nothing from him to answer them. Nevertheless, read as a whole, we do not consider the summing-up at all unfair and unbalanced.  It was perfectly proper for the judge to pose relevant considerations and, where necessary, comment on the evidence.  She had made it very clear, at the outset of her summing-up[251]:
+
+“If I, when I am doing my review of the evidence to you, if I appear to express my view concerning the facts or emphasise a particular aspect of the evidence, do not adopt those views unless you agree with them. So, even if I say this piece of evidence may point to this, may point to that, if you don’t agree with me, you don’t have to follow what I say because the facts are your responsibility. I’m just here to help you, to bring out the prominent features of the case.”
+
+178.  There is no merit whatsoever in Ground 1 and we refuse leave to appeal.
+
+L.3.  Ground 5 (Lies direction)
+
+179.  Finally, it is argued that the judge should have given a lies direction in view of the evidence of the fake reports (Ground 5). To be fair to Mr Pang, he accepted that by itself, this ground would not lead to the allowing of the appeal; nevertheless, it formed part of the general complaint against the summing-up.  The problem with the argument is that after a trial that had lasted some 6 months, D2’s counsel at that trial did not request a lies direction from the judge and one can well understand why.  His case was that the reports were not fake.  However, if they were fake, the only realistic conclusion to draw was that he knew bacterial tests should have been, but were not, performed, and that there was no safe system in force at APSC dealing with the blood products.  The only remaining issue was whether his negligence was gross enough to warrant criminal conviction.  That is the issue upon which D2’s appeal has been presented and it is not realistically affected by whether or not a lies direction was given.
+
+180.  In any event, it should be remembered that the judge had directed the jury in the context of the burden and standard of proof as to what they were to do if they did not believe D2’s defence[252]:
+
+“But even if you reject the account by the 2nd defendant or his counsel, that by itself would not relieve the prosecution of the burden of making you sure that the 2nd defendant is guilty by the evidence, because the burden is always on the prosecution. So, even though you say, ‘I don’t believe you, 2nd defendant’, you still have to consider whether the prosecution had made you sure that the 2nd defendant is guilty.”
+
+181.  We find no merit in this ground of appeal and refuse leave to appeal.  Since we have refused leave to appeal on all the grounds of appeal put forward by D2, we dismiss his appeal against conviction.
+
+M.   Discussion on sentence
+
+182.  We come to the question of sentence.  In this branch of the criminal law, there are no guidelines and the permutations of gross negligence cases are infinitely variable.  In the context of medical negligence cases, Lord Judge CJ said in Sudhanshu Garg[253]:
+
+“…beyond broad general observations, this is not a guideline decision which purports to encompass the full ambit of sentencing in cases of manslaughter by gross medical negligence. Our decision reflects specific individual features of the case. Even in cases of medical gross negligence manslaughter, where the consequences of the harm in every case is identical, that is, the death of a patient, the level of culpability of the defendant will vary considerably.”
+
+183.  The recent decision in HKSAR v Ngai Hon Kwong (No 2)[254], which concerned the conviction following trial of a defendant who, in an illicit drug-fuelled state following a quarrel, had created a life threatening situation inside the unit of a residential building in Kowloon City by splashing isopropyl alcohol onto the victim, and then set light to it, is of some utility.  In the ensuing conflagration, the victim sustained horrific burns to 70% of his body, from which he died two weeks later.  This Court held[255]:
+
+“The causing of a fire by way of gross negligence inside the unit of a residential building poses obvious and extreme dangers for anyone else who may happen to be in that unit or, indeed, in the rest of the building. There must be a significant element of deterrence for those who create such dangers in any building, let alone a residential one.”
+
+The Court, having allowed the appeal against conviction for murder, substituted a sentence of 12 years’ imprisonment for manslaughter by gross negligence.  We cite this case, not for its factual similarities, but to indicate the sort of facts where 12 years’ imprisonment after trial has recently been imposed by this Court for this very offence.
+
+184.  The judge, who had heard all the evidence, having presided over the case for 101 days gave a lengthy, considered set of written reasons for her sentence, which this Court must necessarily pay considerable deference to.  In respect of D1, the judge said[256]:
+
+“49. When I consider the appropriate sentence, I take into account the circumstances of how the DR Group came to launch the CIK Therapy and how the staff of DR Group were told to market the CIK Therapy, which for me, are aggravating features, making this case much worse than one involving simply the issue of product liability.
+
+50. The evidence before the court showed that it was D2 who had brought the idea of NK cells being used for healthcare to D1 back in March 2011. D1 clearly had embraced D2’s suggestion of using CIK Therapy on the customers of the beauty centre under the DR Group as a “source of steady income”.
+
+51. The evidence clearly showed that at all material times, CIK Therapy was used on cancer patients and was still under clinical trial with mixed results. CIK Therapy for cancer patients had not been proven and D1 knew about that: as indicated by what D1 had said during the press conference on 6 October 2012.
+
+52. D1 decided to launch CIK Therapy for healthy persons when the evidence showed that the DR Group of companies were not ready to do so (quite apart from the consideration whether such a treatment should have been introduced to healthy persons in the first place): the group including D2 had just returned from Guangzhou after a two-day trip to learn about CIK Therapy from a Professor Xiao (such a brief visit could hardly be called a proper training session); D2 was sent back to Guangzhou a second time after the announcement of the launch on 8 February 2012; Patrick Tang was later asked to go to find out from a “Supervisor Li” at the hospital in Guangzhou the “trick” in CIK culturing; D2 was still experimenting with CIK processing after the first sale was already made to a customer on 14 February 2012; there was no proper validated protocol and D2 had to ask a supplier (a company called Life Tech) to give him a copy of someone else’s protocol in April 2012; there was no properly validated SOP for the CIK processing and D2, who does not possess any knowledge on CIK cells by reason of education, training or working experience, was left to his own devices to figure out how to culture the CIK cells; and D1 was still discussing with D2 the number of cells to be proliferated after the announcement of the launch; D1 was still asking the scientist employed by the DR Group of companies to do research on CIK Therapy.
+
+53. Yet, despite the fact that the DR Group of companies was not ready to launch the CIK Therapy, CIK Therapy was already marketed and sold to customers of the DR beauty centres.
+
+54. One of the internal notices to the staff demonstrated what D1’s mind set was about the launch of the CIK Therapy before it was ready: there was a reference to having received news that the “Yeung X hospital” (which clearly referred to the Hong Kong Sanatorium & Hospital) would provide NK cell treatment at the end of the year (meaning end of 2012) (Notice dated 8 February 2012, para 3, Bundle C75).
+
+55. It is clear that there was indeed an indecent haste to launch and market the CIK Therapy so as to beat any potential competitor.
+
+56. As to how D1 encouraged his staff to sell products or services of the DR Group of companies to customers, including CIK Therapy, that can also be gauged from the contents of various internal notices to their staff.
+
+57. The sales staff were encouraged to seek out customers. They were told “[n]ot to believe customers when they say they live in public housing or rented premises, but to talk to customers so that they think you care for them so as to understand their actual background” (Notice dated 1 March 2012, Bundle C82). There were references to “MGM” (meaning member get member) ‒ to encourage members to bring “missiles” along, with a suggestion of cash reward of 10% to 20% for the member who had brought along customers to spend more than $100,000 and $200,000 on the first day (Notice dated 14 February 2012, Bundle C78). There was a reference “the best customers were the MGM customers, most of the friends of wealthy persons are wealthy themselves. MGM introduced by ‘missiles’ are mostly of quality ....” (Notice dated 1 March 2012, para 10, Bundle C82). Managers of beauty centres were encouraged to teach their staff to call more customers, including “Golden Goose” (Notice dated 19 March 2012, para 7, Bundle C86).
+
+58. And there was a system of having overt sales (明數人) and covert sales (暗數人). There was also a system of calculating the commission on the sales of CIK Therapy (Notice dated 23 March 2012).
+
+59. There was a system in which prior arrangements had been made with credit card companies so that customers did not have to apply separately to the credit card company and would automatically be able to make repayment by instalments. The staff were encouraged to get customers to apply for such credit cards, with a prize of $3,000 for the manager of the centre that had the most applications for new cards (Notice dated 14 February 2012). I must say that I find this practice appalling and totally irresponsible.
+
+60. The sales staff who made the most sales had their names appeared on the internal notices and had prizes given to them during the monthly meetings as encouragement.
+
+61. As to how successful such tactics were, one only has to look at the three victims involved in this case.
+
+62. Evidence showed that after Chan Yuen Lam had tragically passed away, her family found out that she had spent HK$1 million on products and services provided by the DR Group.
+
+63. Wong Fung Kwan, who earned $7,000 per month working as a cleaner, ended up paying $70,000 for the CIK treatment. Wong Fung Kwan's evidence was that she was told the CIK treatment would boost her immunity and improve her eczema condition. She was also told that the treatment cost $180,000 but a 50% discount was offered to her, and to her alone.
+
+64. In the case of Wong Ching Bor, she told this Court that while she resisted the promotion by the DR beauty consultants on treatments such as Botox, hyaluronic injections, but when the DR representatives talked to her about CIK treatment involving using her own blood to boost up her health, she decided to take part because she needed good health to look after her two sons and to make mortgage payments for her flat.
+
+65. So one can see how the tactics of “befriending” the customers and getting to know them as suggested in the internal notices actually worked.
+
+66. Evidence also showed that beauty consultants get paid for obtaining letters of appreciations from customers.
+
+67. The information about CIK Therapy imparted to the staff of DR beauty centres via the internal notices included the following: that CIK could eliminate bad cells from the body such as tumour, virus or bacteria infected cells and that CIK cells are one’s own cells therefore there will not be incompatibility or allergy (Notice dated 8 February). Staff were told that the leaflet from Guangzhou could be shown to customers and the managers were urged to train the staff to sell CIK to customers (Notice dated 9 February 2012).
+
+68. Staff were told to explain to customers that CIK (they called it AI at the DR centre) was very safe generally, “that the hospital in Guangzhou had performed more than 10,000 case per year and about 5-10% customers developed fever which subsided within 2 days. However, as those who received treatment were cancer patients, that may be why they suffered from fever. Normal person may not develop fever. Other side effects were unheard of, so it is difficult to guarantee anything....” (Notice dated 11 March 2012). In the same notice, staff were told that the customers must sign the “Points to note about CIK cell treatment” attached to the notice, saying that the “disclaimer” saved them, ie the company, from “many unreasonable requests by nasty penniless customers for refund or compensation”. Staff were also encouraged to secretly make audio and video clips if any customer is unreasonable.
+
+69. Dr Godfrey Chan, an expert called by the prosecution, was of opinion that the information in the leaflet from the Guangzhou Hospital was misleading, yet the sales staff were encouraged to sell CIK Therapy to their customers while imparting misleading information to them.
+
+70. Staff were told not to sell to strangers, and not to anyone who had patronized the company for less than 3 treatments (Notice dated 8 February 2012).
+
+71. In the face of such clear evidence of how D1, who was in effective control of the DR Group of companies, instigated or allowed such encouragement to the staff to seek out customers, and to impart such misleading information to them to market the CIK Therapy, it is hard to accept the picture painted by D1’s family, friends and ex-staff that D1 was not a money-hungry individual. It could well be that D1’s family, friend and ex-staff viewed him under rather different circumstances and under different light. D1 may well be a filial son to his parents, a loving husband to his wife, a caring and devoted father to his children, a selfless brother to his siblings, a generous employer to his staff and someone who would help those in need, however, the evidence before this Court clearly points to D1 being an ambitious empire-building and money-grabbing individual, who paid scant regard to the life and safety to those customers who had agreed to receive the CIK Therapy, including the deceased Chan Yuen Lam.
+
+…
+
+77. After decid(ing) to launch and market the CIK Therapy when D2 was still experimenting with the CIK processing and the scientists were still doing research, D1 failed to ensure there was properly validated protocol for the processing, he failed to ensure proper sterility test had been conducted on the blood product before it was sent out of APSC to the Mesotherapy Centre for infusion into Chan Yuen Lam, thus causing or allowing the abundant presence of Mycobacterium Abscessus to be undetected and the contaminated blood product was infused directly into the blood stream of Chan Yuen Lam, causing her death. Dl’s negligence showed a total disregard for the life and safety of Chan Yuen Lam. D1 was only concerned with empire‑building and profit-making. The fact that D1 did not inform Science Park, from which APSC obtained premises at a very favourable rate, that APSC was not merely doing “Rapid multiplication of CIK Cells” as a Research and Development (R & D) project, but that the CIK was a money-making project, strikes me that D1 and his group of companies exploited the Hong Kong government’s initiative relating to the Science Park to make money for personal gain, using R & D as a guise.
+
+78. Further, the gross negligence of D1 did not relate to a single incident of momentary lapse, but that the breach of his duty was over a period of time.
+
+79. In my view, what D1 had done and failed to do in this case were so truly exceptionally bad, and reprehensible that a long term of imprisonment must be imposed on him to show the disgust and abhorrence felt by the society.  I am of the view that a starting point of 12 years is appropriate.”
+
+185.  In respect of D2, the judge had this to say[257]:
+
+“86. In the case of D2, he was an employee of the DR Group and on the evidence, a high flyer within the group. It was he who had brought to the attention of DI the idea of using NK cells for healthcare, suggesting that it would have a “selling point” after certain technical issues were resolved.  It was also D2 who suggested that with the number of customers of the DR Group such a therapy would bring in a steady income.
+
+87. Whilst there is nothing wrong to be innovative, there is a difference between experimenting on something new and actually delivering something which one is not competent to do.  It is clear from the evidence that D2 was still experimenting with CIK processing and he did not even have a properly validated protocol by April 2012.  There was also no SOP for the processing, so there was no system of check and balance, so that D2 was allowed or permitted to do whatever he wished without anyone pulling him up.
+
+88. It would appear that the jury might have given D2 the benefit of the doubt, even though D2 elected not to give evidence, that he might have dispensed with the sterility test on the instruction of Dl.  Even if that be the case, the jury clearly has found, and rightly so, that under the circumstances, the act of D2 following orders from his boss does not distract from the fact that D2 was in total disregard of the life and safety of Chan Yuen Lam, thus warranting criminal sanction.
+
+89. I do not accept the failure by D2 to ensure sterility test was being carried out amount to an “error of judgment” as submitted by his counsel.  D2 took a deliberate and conscious decision not to have sterility test conducted when he was aware of the serious and obvious risk of death posed by any bacterial contamination.  Though there might not be any immediate tangible benefit to D2, his desire to remain in the good books of his boss D1; to continue to have steady increase of salary; and to do well in the company might well have been some of the reasons why he had decided to take such a course of action.
+
+90. As a result of his failure to ensure there was properly validated protocol, his failure to ensure sterility tests were conducted on the blood product of Chan Yuen Lam before it left APSC; his failure to have a safe system to ensure sterility test was done and documented; his conscious decision not to conduct any sterility test on the blood product of Chan Yuen Lam, including the bacterial test, the heavily contaminated blood product remained undetected and was injected directly into the blood stream of Chan Yuen Lam, causing her death.
+
+91. D2 must be punished severely to show the shock and disgust felt by the society.
+
+92. As D2 was an employee, his position was not the same as that of D1.  D1 was clearly the one in charge, the one calling the shots.  Further, the benefits to D2 would not be comparable to those to D1, who was the 100% owner of all the limited companies under the DR Group.  D2’s culpability is therefore not as high as that of D1’s.  That being the case, I am of the view that a starting point of 10 years is appropriate in the case of D2.
+
+93. I appreciate D2 was a man of clear record before this incident.  I also appreciate the hardship faced by D2 and his family, particularly his young 6 months’ old daughter, when D2 is sent to jail.  However, I have to bear in mind the pain and suffering of Chan Yuen Lam’s family as well.
+
+94. I have no doubt that D2 was a hard-working man who was helpful to others, as indicated by his former colleagues.  He was also willing to perform volunteer work at his church.  I also accept that he will have to live with the regret of causing the death of Chan Yuen Lam for the rest of his life and he will face civil claims arising out of the incident.  I am afraid none of these amount to any mitigating circumstances for me to reduce the starting point of 10 years ‒ particularly when D2 did not plead guilty and was convicted after trial.”
+
+186.  As the judge plainly found, there were significant aggravating features in this case.  Submissions were made before her, and repeated before us, comparing the present case with certain English authorities, such as Zaman.  However, it has to be remembered that the present case concerned medical procedures involving the extraction and reinfusion of blood or blood products.  As we remarked several times to both leading counsel during argument, there is a considerable difference between the failure of a system in a restaurant (despite warnings, which were ignored) to ensure that peanuts are not given to those with potentially life-threatening allergies, and the extraction and re-infusion of blood, which demands absolute standards of professionalism and care, the dangers of falling short of which would be obvious to any moderately intelligent person.  It was no answer to say of D2, who was acting without proper supervision in a laboratory where there was no system at all to check and counter-check what he was doing or not doing, that he could and “should have done better”, as Mr Pang at one stage put it.  Nor would it have been any consolation to a customer to know that someone who was unqualified to culture blood was “doing his best” without proper supervision.
+
+187.  Like the judge, we do not find very much assistance in the case of Zaman, where the appellant there had at least conceded, unlike D1 and D2 in the present trial, that he owed a duty of care in the first place[258]. As has been said by this Court in Lai Chun Ho[259]:
+
+“In modern society, and certainly in a city in which people live and go about their business in close proximity to one another, the need for deterrence of grossly negligent behaviour may be said to be obvious. As Silke VP said of an offence of manslaughter by an unlawful and dangerous act in R v Lo Bing Sun[260]:
+
+‘Our circumstances and conditions are very dissimilar to those pertaining in England.  These courts do not see the ‘pub row’ type offence for that is not prevalent in Hong Kong.  But this city is a very crowded and tense environment and the unlawful and dangerous act constituted by a blow such the one here must be deterred.’”
+
+188.  It should also be noted that the Court in Zaman held that 6 years’ imprisonment after trial for a man of good character was not even excessive, let alone manifestly excessive[261].  We would go further, with respect, and suggest that the sentence in Zaman, following a contested trial, was a very lenient one, given the aggravating features present.
+
+189.  Having said that, and giving the judge due deference for her views in relation to the culpability and relative culpability of D1 and D2, whilst bearing in mind the aggravating features which she highlighted, we nevertheless find that the sentences adopted in respect of each applicant were too high.  Strictly speaking, the appalling injuries which were caused to the other two unfortunate customers, although part of the background to the case, evidencing as they did the highly unsafe system in place for the processing of a blood product, were not part of the count on which D1 stood convicted.  The focus of the case and, indeed, this appeal has been on the failure to have a safe system in place to protect the sterility and integrity of the blood product.  It was that failure, which created the serious and obvious risk of death, and which in fact caused the death of the deceased.  In the circumstances, we consider that the appropriate sentence on D1 should have been one of 10 years’ imprisonment.
+
+190.  For the reasons she set out, the judge assessed D2’s culpability as lower than that of D1 and settled upon a sentence that was one sixth less than his.  Were we to adopt the same differential with D1’s reduced sentence, the sentence on D2 would become 8 years and 4 months’ imprisonment.  However, we cannot ignore the death in tragic circumstances of D2’s former wife, with whom he was living until his sentence despite going through a divorce precipitated by his involvement in this case, and which has clearly blighted the lives of D2 and his now young 4-year-old child, who has lost her mother, is separated from her father and is now living with her grandparents.  We can well appreciate the anguish of responsibility that D2 may feel for this tragedy. 
+
+191.  D2’s plea ad misericordiam has not fallen on deaf ears, but at the same time, we cannot forget the appalling criminal negligence of which he has been found guilty, and which resulted in the death of an unfortunate and entirely blameless person.  We do not, in the circumstances, feel that we can reduce the sentence for this factor to less than 8 years’ imprisonment.
+
+192.  Accordingly, the applications for leave to appeal against sentence by both applicants are granted, their appeals are allowed and their sentences are reduced, in the case of D1, to 10 years’ imprisonment; and, in the case of D2, to 8 years’ imprisonment.
+
+N.   Postscript
+
+193.  We would like to thank all leading counsel and their juniors for the detailed preparation and presentation of this appeal and the quality of their submissions, both written and oral.  All three members of this Court found Mr Harris’s opening of the appeal and his presentation of the arguments (as, indeed, with Mr Pang and Mr Leung) to be of the highest quality, which greatly assisted the Court in understanding, reviewing and addressing the arguments advanced in a case involving very intricate facts and unusual legal issues.
+
+194.  Finally, it is a matter of considerable regret to this Court that this judgment has taken a year to hand down.  We hope it will be understood that the last 15 months have been unprecedented in terms of the backlog of appeals caused by the General Adjourned Period arising from the Covid-19 pandemic, which resulted in the suspension of the sitting of the Court of Appeal for three months in the first half of last year.  Moreover, the backlog necessitated precedence being given, when the Court did resume, to those applicants who were coming to the end of much shorter sentences than the ones with which we are concerned, or where the outcome of the appeal was likely to result in a retrial if the appeal were allowed. 
+
+195.  Furthermore, the sheer volume of material in this case, running to 32 box files of evidence and transcript, has at times made it exceedingly difficult, against the constraints imposed by that backlog, to convene all members of this Court together to discuss the various aspects of the case which arose for its determination.
+
+ 
+
+ 
+
+(Andrew Macrae)
+Vice President	(Kevin Zervos)
+Justice of Appeal  	(Anthea Pang)
+Justice of Appeal
+ 
+
+Mr Raymond Leung SC, counsel on fiat, Ms Margaret Lau SPP and Mr Eric Tsoi, counsel on fiat, of the Department of Justice, for the Respondent
+
+Mr Graham Harris SC and Ms Yasmine Zahir, instructed by Yu Sun Yau Mak & Lawyers, for the 1st Applicant
+
+Mr Robert Pang SC, Mr Joseph Lee and Ms Phyllis Lee, instructed by F Zimmern & Co, assigned by the Director of Legal Aid, for the 2nd Applicant
+
+[1] As early as 28.8.2018, the Court directed the parties to agree on the transcripts and documents necessary for the appeal within 6 weeks thereof.  That said, extensions of time to comply with such directions were sought on no less than five occasions.  The deadline was accordingly extended from 9.10.2018 until 20.11.2018, and thereafter until 5.3.2019, 31.5.2019, 26.6.2019 and 25.10.2019 respectively.  No further extension was granted thereafter.
+
+[2] Some grounds of appeal were subsequently not pursued by D2 following a change of counsel representing him: see [87] infra.
+
+[3] It will be observed that much of the correspondence adduced at trial was either sent to or received from “DR”.  Whilst the prosecution contended that DR stood for D1, D1 himself claimed that it was a reference to the brand name of Derma Rejuventator only.  The judge referred to this issue in her summing-up: Appeal Bundle (“AB”) (A1), p 119M-N.
+
+[4] Professor Raymond Liang, a specialist in Haematology and Haematological Oncology at the Department of Medicine of Hong Kong Sanatorium Hospital, testified that the culture process would amplify the number of bacteria to millions if there was any contamination.  Accordingly, the blood product had to be completely sterile and clean: AB (A2), p 255L-Q.
+
+[5] See also CIK Customers List of the DR Group: AB (D1), Tab 21, pp 214-218.
+
+[6] Amended Admitted Facts: AB (A1), p 23, at [7].
+
+[7] Amended Admitted Facts: AB (A1), pp 24-25, at [12].
+
+[8] As summarised by the judge, Professor Raymond Liang was unaware that the treatment could be used in beauty or anti-aging therapies (AB (A1), p 150E-F); Professor Li Chi Kong, Chief Consultant Paediatrician at the Department of Paediatrics at Prince of Wales Hospital, said he could not think of any beneficial effects of the treatment for healthy individuals (p 150M-N) and hence it should not be given to them (p 253M-N); Dr Albert Lie, Professor of Haematology and Haematopoietic Stem Cell Transplantation at Queen Mary Hospital, did not see any convincing evidence of the treatment being used for anti-aging (p 150O-P); Professor Yuen Kwok Yung, Chair Professor of the Department of Microbiology at the University of Hong Kong and Chief of Service at Queen Mary Hospital microbiology laboratory (“Professor Yuen”), described the treatment as inappropriate for healthy persons (p 151A-B); and Professor Kenneth Lee, Professor of the Stem Cell and Regeneration Thematic Research programme at the Chinese University, said the treatment was dangerous and could cause death (p 151D-F). 
+
+[9] The Code of Professional Conduct, published by the Medical Council of Hong Kong: AB (D6), Tab 194; which stated (at [22.2]) that, “New medical procedures should be conducted in accordance with the ethical principle.”
+
+[10] D2’s position in APSC may be considered in the light of an email sent from him to D1 as a result of D2 feeling upset by his work and colleagues, whereupon he asked D1 to give his “in-charge position” to another person: AB (E5), Tab 40.
+
+[11] There were 32 box files of evidence produced at the appeal, six of which boxes of transcript incorporated four pages of evidence to a single page.
+
+[12] For more comprehensive facts, reference may be made to the Chronology (or the Amended Chronology) given to the jury: AB (D1), Tab 8.
+
+[13] Email from D2 to D1, dated 2.3.2011: AB (E1), Tab 5; Summing-up: AB (A1), p 128J-K.
+
+[14] Email from D1 to D2 and Anthea To, dated 22.4.2011: AB (F), Tab 38, p 307.
+
+[15] Email from D2 to D1, dated 23.4.2011: AB (E1), Tab 6.
+
+[16] Chronology: AB (D1), Tab 8.
+
+[17] Email from Edmond of Winsor (Hong Kong) Ltd to D1, dated 18.10.2011, the subject for which read “Pharmacy & Poisons Ordinance, the Human Organ Transplant Regulations”: AB (E1), Tab 1.
+
+[18] Note from D1, dated 21.10.2011: AB (D7), Tab 209.
+
+[19] Email from D2 to D1, dated 14.9.2011: AB (E1), Tab 8.
+
+[20] Email from Japan ODA Clinic to D1, dated 15.9.2011, attaching a draft collaboration proposal: AB (E1), Tab 4.
+
+[21] Email from D1 to Mico Lee, BBC and D2, dated 25.10.2011: AB (D7), Tab 216.  This email was referred to in the summing-up: AB (A1), p 124D-E.
+
+[22] Email from Kami of Winsor (D1’s assistant) to various scientists including D2, dated 9.11.2011: AB (F), Tab 22.  This email was referred to in the summing-up: AB (A1), p 122O-P.
+
+[23] The significance of Michael Wah’s qualifications was referred to in the summing-up: AB (A1), pp 185 K-N, and 187A-B.
+
+[24] Employment contract of Michael Wah: AB (F), Tab 8.
+
+[25] Chronology: AB (D1), Tab 8.
+
+[26] D2 was employed by Winsor: see the Employment Contract entered between Winsor and D2 dated 30.7.2009 (albeit it was stated to have taken effect on 20.7.2009): AB (D3), Tab 71.
+
+[27] AB (D3), Tab 75.
+
+[28] AB (A2), p 362A-B.
+
+[29] AB (D4), Tab 112.
+
+[30] Two facsimile documents to D1 dated 12.12,2012, the contents of which were similar and both entitled “Flow of Preparation of CIK Cells: AB (E6), Tabs 45 and 46. See also the judge’s summing-up in respect of the two facsimile documents: AB (A1), p 205L-T.
+
+[31] Chronology: AB (D1), Tab 8.
+
+[32] AB (E1), Tab 13; (A2) p 366T-U.
+
+[33] Various emails from Tim Huang to D1, dated 27.2.2012, 28.2.2012, 29.2.2012, 6.3.2012, 20.3.2012 respectively: AB (E6), Tab 59.
+
+[34] CIK related table (concerning usage treatment effect and side effects) and CIK related charts: AB (E1), Tab 15.
+
+[35] Winsor Staff Notice, dated 2.4.2012, with Form A548: AB (D3), Tab 94.
+
+[36] The notice signed by the deceased (undated): AB (D1), Tab 26.
+
+[37] Winsor Staff Notice, dated 3.4.2012, with Form A550: AB (D3), Tab 95.
+
+[38] The undertaking signed by the deceased: AB (D1), Tab 29.
+
+[39] Email from D1 to Mico Lee, D2 and Barbara Chu, dated 23.04.2012: AB (F), Tab 44.  This email was referred to in the summing-up: AB (A1), p 123 O-P.
+
+[40] Email from Ceci Wong of APSC to D2, dated 19.5.2012: AB (D4), Tab 120.
+
+[41] AB (A2), p 373C-D.
+
+[42] Email from D1 to D2, dated 23.5.2012: AB (D4), Tab 121, p 1165.
+
+[43] Email from Ceci Wong to D2, dated 6.6.2012: AB (D4), Tab 121, p 1183.
+
+[44] Email from D1 to D2 and others, dated 24.7.2012: AB (F), Tab 46.
+
+[45] Letter from AABB to Michael Wah of APSC, dated 22.8.2012: AB (E1), Tab 20.
+
+[46] AB (A1), p 233P-U.
+
+[47] AB (D8), Tab 229.
+
+[48] Ibid., counter 356.
+
+[49] Ibid., counter 259.
+
+[50] Ibid., counters 93; 185.
+
+[51] Ibid., counter 23 (said by D1’s solicitor).
+
+[52] Ibid., counters 8; 178; 253.
+
+[53] Her evidence included, inter alia, that the editorial section of the DR Group was responsible for publishing the advertisement notices: AB (A1), p 126G-I.
+
+[54] This defence witness may be relevant to a small point arising from D1’s evidence, namely, whether D2 had travelled to Taiwan for six months and spoke fair Putonghua: AB (A1), p 100G-H.
+
+[55] Amended Admitted Facts: AB (A1), p 27, at [26].
+
+[56] Amended Admitted Facts: AB (A1), p 27, at [27].
+
+[57] AB (A1), p 262I-J.
+
+[58] Of which D1 was the boss but not the director: AB (A1), p 123A-B.  D1 claimed he was not in active control of Mesotherapy.
+
+[59] In which he ceased to be a director since 2012, but remained an investor with 100% shareholding: AB (A1), p 120E-F.
+
+[60] AB (A1), p 90H-K.
+
+[61] AB (A1), p 90D-F.
+
+[62] AB (A1), p 89T.
+
+[63] AB (A1), p 89N-O.
+
+[64] AB (A2), p 262Q-R.
+
+[65] AB (A1), p 213C-F.
+
+[66] Statement of D2 taken by the police, dated 18.10.2012, at [1]: AB (D1), Tab 19, p 160.
+
+[67] Ibid., Question and Answer 2: AB (D1), Tab 19, p 170.
+
+[68] Ibid., Question 2: AB (D1), Tab 19, p 170.
+
+[69] Ibid., Question and Answer 17: AB (D1), Tab 19, p 173.
+
+[70] D2’s closing speech: AB (B), Tab 7, p 322 (page 55, line 24 and page 56, lines 6-7).
+
+[71] D2’s closing speech: AB (B), Tab 7, p 323 (page 60, lines 15-16).
+
+[72] D2’s closing speech: AB (B), Tab 7, p 322 (page 54, line3 13-15); p325 (page 67, lines 21-24).
+
+[73] Professor Yuen’s evidence: AB (C3), Tab 40, p 986 (pages 25-26).
+
+[74] Counsel for D2 at the trial below.
+
+[75] D2’s CV: AB (E1), Tab 16.
+
+[76] AB (A1), p 98G-U.
+
+[77] AB (A1), p 110A-G.  Specimen Direction 63A provides as follows:
+
+“Before you may convict the defendant of the offence of manslaughter by reason of gross negligence in respect of [the count] of the indictment you must be satisfied so that you are sure of the following ingredients:
+
+(1) That the defendant owed a duty of care to the victim;
+
+(2) That the defendant was in breach of that duty of care;
+
+(3) That the breach of duty of care caused the death of the victim; and
+
+(4) That the breach of the duty of care constituted gross negligence, in that the circumstances were such that a reasonably prudent person would have foreseen a serious and obvious risk not merely of injury, even serious injury, but of death so that you, the jury, consider the defendant’s actions justify a criminal sanction.”
+
+[78] AB (A2), p 277D-L.
+
+[79] The description of D1 being the “hands-on” boss was used in evidence by, inter alios, Michael Wah (AB (C1), Tab 15, p 375 (page 59, lines 1-9).
+
+[80] AB (A1), pp 134S-135L.
+
+[81] AB (A1), p 136C-D.
+
+[82] AB (A1), p 136T-U.
+
+[83] AB (A1), pp 138A-140D.
+
+[84] AB (E5), Tab 40.
+
+[85] AB (A1), p 110O-P.
+
+[86] AB (A1), pp 195Q-199A.
+
+[87] AB (A1), p 142G-I.
+
+[88] AB (A1), p 187N.
+
+[89] AB (A1), pp 190R-191H.
+
+[90] AB (A1), p 189B-G.
+
+[91] AB (A1), p 132N-O.
+
+[92] AB (E7), Tab 72.
+
+[93] AB (A1), p 205A-E.
+
+[94] AB (A1), pp 229R-230E.
+
+[95] It was noted that, according to the evidence of Professor Kenneth Lee, he was informed by D2 that there was no written SOP in place and the SOP was all “in his head”: AB (C3), Tab 28, p 759 (page 30, lines 21-22).
+
+[96] AB (A1), p 229L-M.
+
+[97] AB (A1), p 209D-G.
+
+[98] AB (A1), p 210R-S.
+
+[99] AB (A1), p 211B-E.
+
+[100] AB (A1), p 204E-I.
+
+[101] AB (A1), p 213B-C.
+
+[102] AB (A1), p 213I-L.
+
+[103] Email from D1 to D2, inter alios, dated 6.9.2011: AB (E5), Tab 30.
+
+[104] AB (A1), p 216G-H.
+
+[105] AB (A2), pp 258P-263Q.
+
+[106] AB (A2), pp 351Q-352D.
+
+[107] AB (A2), pp 281E-284K.
+
+[108] AB (A2), p 298C.
+
+[109] AB (A2), p 286N-P.  As a side note, the judge did not accede to counsel’s request to emphasise to the jury, along the aforesaid directions, that D2 had wanted to be the first person having the CIK testing: AB (A2), pp 290L-293G.
+
+[110] AB (A2), p 302M-N.
+
+[111] AB (A2), pp 343J-344H, 351Q-352D and 353F-M.
+
+[112] AB (A2), p 344K-L.
+
+[113] AB (A2), p 345B-D.
+
+[114] AB (A2), p 354I-J.
+
+[115] AB (A2), p 354P.
+
+[116] AB (A2), pp 354O-371U.
+
+[117] AB (A2), p 360K-L.
+
+[118] AB (A2), p 365C.
+
+[119] AB (A2), pp 369S-370A.
+
+[120] AB (A2), p 371J-N.
+
+[121] AB (A2), pp 396T-397B.
+
+[122] AB (A2), p 373D-F.
+
+[123] AB (A2), p 373R-S.
+
+[124] AB (A2), pp 374U-375E.
+
+[125] AB (A2), p 375E-H.
+
+[126] R v Bateman (1925) 19 Cr App R 8, at pp 11-12.
+
+[127] R v Adomako [1995] 1 AC 171, at 184D-E.
+
+[128] AB (A2), p 397G-M.
+
+[129] AB (A1), p 142G-I.
+
+[130] AB (A1), p 153A-D.
+
+[131] AB (A2), p 399H-L.
+
+[132] AB (A2), p 258M-O.
+
+[133] AB (A1), pp 233-240.
+
+[134] See email from D2, dated 4.10.2012 at 0948 hours, the subject of which was “ask hoyan to call me”, and the content of which was D2’s telephone number overseas: AB (D3), Tab 105.
+
+[135] By way of examples, in an email, dated 4.10.2012 at 14:31 hours, D2 instructed that the testing item mycoplasma be added to the testing results (AB (D4), Tab 122, p 1195), and a further email, of the same date at 16:28 hrs, in which D2 said “put the endotoxin result in too and let Peggy sign” (AB (D4), Tab 123, p 4098).  See also the Endosafe Test Records of the three customers: AB (D4), Tab 139.
+
+[136] Email from Candy Wu (the clerk at APSC) to D1, dated 4.10.2012 at 19:46 hours: AB (D3), Tab 107.
+
+[137] Ibid, Mycoplasma Testing Worksheet attached thereto, p 1038 (customer Wong Ching-bor), p 1045 (customer Wong Fung-kwan), p 1052 (the deceased).
+
+[138] AB (A1), p 233J-O.
+
+[139] AB (A1), p 239P-T.
+
+[140] AB (A1), p 240M-P.
+
+[141] AB (A2), p 416H-N.
+
+[142] Namely, penicillin and streptomycin, in lieu of gentamicin.  See the evidence of Professor Chui, Honorary Associate Professor of Department of Pharmacology and Pharmacy of the University of Hong Kong, Clinical Stream coordinator of the Hospital Authority in Hong Kong West Cluster and President of the Society of Hospital Pharmacists of Hong Kong: AB (C3), Tab 37, p 901 (page 62, lines 21-22).
+
+[143] Evidence of Michael Wah: AB (C1), Tab 15, p 380 (page 78, lines 15-16).
+
+[144] AB (A2), pp 416T-417O.
+
+[145] R v Zaman [2018] 1 Cr App R (S) 26
+
+[146] AB (A2), pp 491-492, at [48].
+
+[147] AB (A2), p 495, at [59].
+
+[148] AB (A2), pp 498-499, at [74].
+
+[149] AB (A2), p 500, at [78].
+
+[150] AB (A2), p 500, at [79].
+
+[151] AB (A2), p 501, at [80]-[82].
+
+[152] AB (A2), pp 502-503, at [88].
+
+[153] AB (A2), p 503, at [89].
+
+[154] AB (A2), p 503, at [91].
+
+[155] Robinson v Chief Constable of West Yorkshire Police [2018] AC 736.
+
+[156] D1’s written submissions in reply, at [11].
+
+[157] R v Evans [2009] 1 WLR 1999.
+
+[158] R v Rudling [2016] EWCA Crim 741.
+
+[159] R v Rose (Honey) [2017] 2 Cr App R 28.
+
+[160] R v Kuddus [2019] 1 WLR 5199.
+
+[161] R v Pagett (1983) 76 Cr App R 279.
+
+[162] R v Sellu [2017] 1 Cr App R 24.
+
+[163] HKSAR v Lai Sai Ming (Unrep., CACC 77/2015, 12.11.2015).
+
+[164] Secretary for Justice v Law Siu Kuen [2011] 1 HKLRD 1022.
+
+[165] HKSAR v Lam Wai Shu and Anor (Unrep., CACC 283/2006, 5.10.2007).
+
+[166] R v Bawa-Garba (Hadiza) [2016] EWCA Crim 1841.
+
+[167] R v Bala Kovvali [2014] 1 Cr App R (S) 33.
+
+[168] R v Sudhanshu Garg [2012] EWCA Crim 2520.
+
+[169] Respondent’s written submissions, at [23].
+
+[170] Phelps v Hillingdon LBC [2001] 2 AC 619 (HL).
+
+[171] Respondent’s written submissions, at [29].
+
+[172] HKSAR v Mak Wan Ling (No 2) (2019) 22 HKCFAR 321.
+
+[173] HKSAR v Lai Chun Ho [2019] 1 HKLRD 4.
+
+[174] AB (A2), p 397G-J.
+
+[175] R v Parfeni [2003] 2 Cr App R (S) 61.
+
+[176] AB (A1), p 118B-E.
+
+[177] AB (A1), p 135M-Q.
+
+[178] AB (A1), p 137A-E.
+
+[179] AB (A1), p 136J-K.
+
+[180] AB (A1), p 193L-S.
+
+[181] AB (A1), pp 200Q-201H.
+
+[182] HKSAR v Lai Chun Ho HCCC 213/2016.
+
+[183] HKSAR v Lai Chun Ho [2019] 1 HKLRD 4.  It should be noted that the appeal in the Court of Appeal, sub nomine Lai Chun Ho,in fact concerned two separate cases, only the second of which, namely HKSAR v Mak Wan Ling (No 2), was subsequently dealt with by the Court of Final Appeal.
+
+[184] HKSAR v Mak Wan Ling (No 2) (2019) 22 HKCFAR 321, at [56].
+
+[185] AB (A1), p 88G-I.
+
+[186] AB (A2), p 282C-E.
+
+[187] AB (A2), p 282N-Q.
+
+[188] AB (A2), pp 282R-283H.
+
+[189] AB (A2), p 284C-K.
+
+[190] AB (A2), p 284N-P.
+
+[191] AB (A2), p 282B-C.
+
+[192] AB (A1), pp 103R-104F.
+
+[193] AB (A2), pp 490Q-491C.
+
+[194] AB (A1), p 90D-N.
+
+[195] Hedley Byrne & Co Ltd v Heller & Partners Ltd [1964] AC 465.
+
+[196] Williams v Natural Life Health Foods Ltd [1998] 1 WLR 830, at 834E-F.
+
+[197] Henderson v Merrett Syndicates Ltd [1995] 2 AC 145.
+
+[198] Caparo Industries Plc v Dickman [1990] 2 AC 605, at 618E-F.
+
+[199] Ibid., at 618G-619B.
+
+[200] Candlewood Navigation Corporation Ltd v Mitsui OSK Lines Ltd [1986] AC 1, at 25.
+
+[201] Donoghue v Stevenson [1932] AC 562.
+
+[202] AB (A1), pp 117S-118B.
+
+[203] C Evans & Sons v Spritebrand Ltd [1985] 1 WLR 317, at 329A-C.
+
+[204] AB (D4), p 1276-1278.
+
+[205] AB (D4), p 1283-1285.
+
+[206] R v Chargot Ltd (trading as Contract Services) [2009] 1 WLR 1.
+
+[207] Ibid., at [33].
+
+[208] AB (C3), p 958 (page 66, line 15 – page 69, line 4).
+
+[209] AB (A2), pp 283H-284C.
+
+[210] R v Rudling [2016] EWCA Crim 741.
+
+[211] R v Sellu [2017] 4 WLR 64.
+
+[212] R v Rose (Honey) [2018] QB 328.
+
+[213] Ibid., at [77], citing Rudling, at [40].
+
+[214] Rose (Honey), at [94].
+
+[215] Ibid., at [85].
+
+[216] AB (C4), p 1210 (page 88, lines 2-8).
+
+[217] AB (B), p 320 (page 48, lines 14-16).
+
+[218] AB (B), p 319 (page 44, line 15).
+
+[219] AB (B), p 320 (page 47, lines 2-14).
+
+[220] AB (B), p 320 (page 47, line 15 – page 48, line 2).
+
+[221] AB (B), p 321 (page 49, line 20 – page 50, line 19).
+
+[222] AB (B), p 321 (page 50, line 22 – page 51, line 1).
+
+[223] AB (B), p 321 (page 52, lines 2-13).
+
+[224] AB (B), p 323 (page 59, line 20 – page 60, line 7).
+
+[225] AB (B), p 324 (page 61, lines 23-24).
+
+[226] AB (B), p 324 (page 61, line 25 – page 62, line 5).
+
+[227] AB (B), pp 324-325 (page 63, line 25 – page 65, line 7).
+
+[228]   At [73] supra.
+
+[229] AB (A2), pp 416T-417B.
+
+[230] AB (A1), pp 212P-217B.
+
+[231] AB (A2), p 417L-O.
+
+[232] Zaman, at [77].
+
+[233] AB (A2), p 492A-D.
+
+[234] AB (A2), p 353Q-T.
+
+[235] AB (A2), pp 358H-359U.
+
+[236] AB (A2), p 494A.
+
+[237] AB (D3), pp 809-810.
+
+[238] Sellu, at [139]-[140].
+
+[239] See [166] infra.
+
+[240] AB (A1), pp 106N-107E.
+
+[241] Supra at [41].
+
+[242] AB (C3), pp 983 (page 15, line 17) – 984 (page 17, line 1).
+
+[243] HKSAR v Apelete (No 1) [2019] 5 HKLRD 574.
+
+[244] AB (A1), pp 190Q-191H.
+
+[245] AB (C2), p 604 (page 59, line 25 – page 60, line 2).
+
+[246] AB (C2), p 609 (page 77, lines 4-6).
+
+[247] AB (C2), p 609 (page 77, lines 8-24).
+
+[248] AB (C2), p 609 (page 78, lines 5-7).
+
+[249] AB (A2), p 406O; p 407A.
+
+[250] HKSAR v Chan Kwun Chung (Unrep., [2018] HKCA 261, 9 May 2018).
+
+[251] AB (A1), p 9M-Q.
+
+[252] AB (A1), p 100N-R.
+
+[253] Sudhanshu Garg, at [6].
+
+[254] HKSAR v Ngai Hon Kwong (No 2) [2021] 2 HKLRD 596.
+
+[255] Ibid., at [20].
+
+[256] AB (A2), pp 492F-500S.
+
+[257] AB (A2), pp 502I-504O.
+
+[258] Zaman, at [25].
+
+[259] Lai Chun Ho, at [31].
+
+[260] R v Lo Bing Sun (Unrep., CACC 660/1993, 23 May 1994), [1994] HKLY 423.
+
+[261] Zaman, at [81].
+
+ 

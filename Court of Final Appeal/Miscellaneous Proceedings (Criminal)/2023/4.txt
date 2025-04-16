@@ -1,0 +1,185 @@
+FAMC No. 10 of 2023
+
+[2023] HKCFA 8
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 10 OF 2023 (CRIMINAL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL FROM
+
+CACC NO. 266 OF 2018)
+
+________________________
+
+BETWEEN
+
+HKSAR	Respondent
+and	
+WONG FUNG (王豐)	Applicant
+________________________
+
+Appeal Committee:	Mr Justice Ribeiro PJ, Mr Justice Fok PJ and
+Mr Justice Bokhary NPJ
+Date of Hearing and Determination:	17 April 2023
+Date of Reasons for Determination:	20 April 2023
+     
+
+_________________________________
+
+REASONS FOR DETERMINATION
+
+_________________________________
+
+Mr Justice Ribeiro PJ:
+
+1.  At the hearing, we dismissed this leave application for the reasons which we now provide.
+
+A.     The proceedings below and the ground of appeal
+
+2.  After trial before Anthea Pang J and a jury,[1] the applicant was convicted on a unanimous verdict of murdering his wife.  He had admitted the unlawful killing but denied murder, offering to plead guilty to manslaughter by reason of provocation.  Represented by Ms Charlotte Draycott SC, his case was entirely conducted with a view to establishing that partial defence. In convicting him of murder, the jury rejected provocation.
+
+3.  In the Court of Appeal where Mr Eric Cheung appeared for the applicant, it was argued that in the light of a cautioned statement made by the applicant (to which I shall come), the Judge had erred in failing to direct the jury on the availability of an alternative verdict of unlawful and dangerous act manslaughter.  The Court of Appeal[2] rejected that argument and dismissed the appeal.
+
+4.  Mr Andrew Bruce SC, appearing for the applicant on the present application, sought leave to appeal on the “substantial and grave injustice” basis.  He accepted that the Judge’s summing-up on murder and provocation was impeccable.  He also accepted that the cautioned statement relied on is capable of being interpreted as a statement consistent with the applicant’s provocation defence.  However, he sought to contend that those words could also bear a different interpretation which involved a denial of the mens rea of murder.  Accordingly, he submitted, the Judge should have left that possible interpretation of the words to the jury, directing them that if it was accepted, an alternative verdict of manslaughter by unlawful and dangerous act instead of murder was available.  Failure to do so, he contended, constituted a substantial and grave injustice.
+
+B.     When the court must direct on alternative verdicts
+
+5.  The leading authority on when the Judge has a duty to direct a jury on a possible alternative verdict is HKSAR v Chau Yui Ming.[3] That decision developed the law from the way it had been stated in Ho Hoi Shing v HKSAR,[4] as the Appeal Committee noted in HKSAR v Lai Kam Fung.[5] It has since been consistently applied by the Court of Appeal[6]including in the Court below.[7]
+
+6.  While the duty to direct on an alternative verdict is capable of arising when the defence has not advanced a case for such a verdict and even when the basis for such a verdict may be inconsistent with the defence case, the test, as stated by Ma CJ (with whom the rest of the Court agreed) is as follows:
+
+“The answer to the question in what circumstances it would be incumbent on a Judge to direct a jury as to the alternative options open to it is, I believe, to ask further whether there is an obvious alternative verdict which is supported by the evidence of that alternative.” (Emphasis in the original)[8]
+
+7.  Ma CJ added:
+
+“The way that the defence case is run on the facts is obviously relevant in determining whether there is sufficient evidence in support of an obvious alternative verdict. If a factual alternative does not arise in the way the defence has dealt with the facts and presented the case on the evidence (as opposed to the legal approach) this will in most cases be decisive.”[9]
+
+8.  As was stressed in Chau Yui Ming,[10] the duty to direct on an alternative not run by the defence but obviously available on the evidence, is generally confined to cases where the alternative involves a lesser offence, the court’s objective being to avoid over-convicting and under-convicting a defendant.  As Lord Bingham explained:
+
+“The interests of justice are not served if a defendant who has committed a lesser offence is either convicted of a greater offence, exposing him to greater punishment than his crime deserves, or acquitted altogether, enabling him to escape the measure of punishment which his crime deserves. The objective must be that defendants are neither over-convicted nor under-convicted, nor acquitted when they have committed a lesser offence of the type charged.”[11]
+
+9.  So the question which arises on the present application is whether it is reasonably arguable that, on the evidence, a verdict of manslaughter by unlawful and dangerous act was an obvious alternative to the possible verdicts of murder or manslaughter by reason of provocation, so that the Judge’s failure to direct on that alternative constituted a substantial and grave injustice. 
+
+C.     Applied in the present case
+
+C.1   The evidence relied on by the applicant
+
+10.  After killing his wife, the applicant, accompanied by his then legal representatives, surrendered himself at Tuen Mun police station, reporting that he had killed his wife at their home.  His case for leave to appeal rests entirely on a cautioned statement he had made.  It was recorded in Chinese in a police constable’s notebook.  Partially translated, that statement (responding to the caution) was in these terms:
+
+“I understand. Around 6:00 am on 12 September 2014 I quarrelled with my wife, Wong Lei, over her extramarital affair. 我一時錯手將太太打暈. I then left home. This afternoon I consulted my lawyer. Then I immediately came to the police station to surrender myself.”
+
+11.  Initially, the English translation of the abovementioned Chinese words was “I accidentally knocked my wife unconscious”. However, there was disagreement over the translation of the characters “錯手” (cho sáu). As the Court of Appeal recorded:
+
+“Ms Charlotte Draycott, SC, counsel for the applicant at trial, took issue with the word ‘accidentally’. She contended that the term ‘chor sau’ meant ‘mistake’ and what the applicant was saying was that he did not intend or mean it. She submitted that the applicant did not tell the police he killed his wife by accident because that would be ridiculous and he would not be guilty. The defence took this position because the applicant’s case was that he unlawfully killed his wife and was guilty of manslaughter by reason of provocation.”[12]
+
+12.  Consequently, it was agreed:
+
+“... that the applicant’s caution statement be an admitted fact with the Chinese characters included in the body of the statement and that the English translation in the police officer’s notebook be amended to read ‘I chor sau (transliteration) knocked my wife unconscious, and then I left home.’”[13]
+
+C.2   The applicant’s argument
+
+13.  Mr Bruce SC put the applicant’s argument succinctly as follows:
+
+“The Court of Appeal characterised the words as capable of supporting provocation. That is right. However, it is submitted that the words were capable of another meaning consistent with unlawful and dangerous act manslaughter. That was never left to the jury and, put simply, the case for the Applicant is that such word [sic] should have been put to the jury.”[14]
+
+14.  That argument has no reasonable prospects of being accepted.  The cautioned statement is an admitted fact and the evidence as to what was said is not in dispute.  The applicant’s argument turns on its meaning: What meaning was the applicant seeking to convey in his cautioned statement?  Such meaning always depends on the context in which the words are used.  It is never merely a question of debating the meanings of individual words or phrases in the abstract. 
+
+15.  When placed in its proper context, the cautioned statement is overwhelmingly to be understood as part of the applicant’s avowed case of provocation.  It provides no reasonable basis for contending that the Judge was bound to direct the jury on an obvious alternative verdict based on manslaughter by unlawful and dangerous act.
+
+C.3   Context
+
+16.  The circumstances in which the cautioned statement came to be made furnish the first context in which those words are to be understood.  As we have noted, it was made in the course of the applicant surrendering himself to the police.  His solicitor, giving evidence as a defence witness:
+
+“... testified about meeting with the applicant after the killing and accompanying him together with counsel to report the matter to the police. He said the applicant had told him that he had killed his wife in the course of an argument over her having had an affair with another man and that she told him that she was more sexually satisfied by this man which caused him to lose his self-control and kill her.”[15]
+
+17.  The applicant was therefore surrendering himself to the police and seeking to explain, with the help of his lawyers, that he had killed his wife as a result of her provocation.  That provides the first context in which the cautioned statement should be understood.
+
+18.  Secondly, the meaning of the disputed words – in particular “錯手” (cho sáu) – must be examined in the context of the paragraph in which they occur.  As noted above, it was agreed to leave those two characters untranslated, so that the debated sentence was rendered in partial translation as: “I chor sau (transliteration) knocked my wife unconscious, and then I left home”.[16] But that sentence does not exist in isolation.  It is immediately preceded by the applicant saying “I quarrelled with my wife, Wong Lei, over her extramarital affair.”  The applicant ought therefore to be understood to be saying in the sentence which follows, that it was in the course of, or as a result of, that quarrel that he knocked his wife unconscious, whatever the exact adverbial translation – such as “accidentally” or “mistakenly” – of “錯手” might be.  The statement goes on in the next sentence to relate that the applicant then left home and saw his lawyer, whose testimony as to what the applicant told him has just been noted.  In the context of that paragraph, the disputed sentence is wholly consistent with the applicant confessing to killing his wife under provocation and does not point to any obvious alternative form of manslaughter.
+
+19.  This is reinforced by the submissions made on the applicant’s behalf by Ms Draycott SC.  She strongly objected to the original translation stating that the applicant was saying that he had “accidentally” knocked his wife unconscious.  That, Counsel suggested, would be “ridiculous” (given the evidence of the extensive injuries that had been inflicted on the deceased).  Counsel was anxious that the defence case of provocation should not be undermined by an unrealistic or “ridiculous” suggestion of accident.  She submitted:
+
+“… he came into the police station to tell them that he’d killed his wife and he didn’t mean to. He didn’t tell it -- come in to tell them that he’d done it by accident. That would be ridiculous. If he’d done it by accident, he’d be not guilty because he’s coming in to hand himself in. He has never suggested that it was accident, and he has never suggested that he wasn’t guilty.
+
+I mean if it’s left as it is, the jury may think he was trying to get out of it. He certainly wasn’t doing that. …”[17]
+
+20.  Thirdly, the meaning of the cautioned statement should be considered in the context of how the applicant’s defence was conducted at the trial.  Thus, at the arraignment, the applicant said: “I plead not guilty to murder, but manslaughter, because I was seriously provoked at that time and I was out of control.”[18]  And in her opening speech, Ms Draycott SC put her client’s case thus:
+
+“... this is a man who loved his wife and who was pushed beyond endurance to do something that he would never ordinarily have done, ... he was pushed to lose his control, and ... he killed his wife, the person he loved the most, in the agony of the moment. This is not a calculated killing”.
+
+21.  In Counsel’s closing submissions, she specifically addressed the cautioned statement and the words “錯手”, placing them squarely in the context of his case on provocation:
+
+“I would suggest that everything that you have heard points to that, to a loss of control by somebody in the throes of a breakup of a long marriage who is being taunted by the woman he still loves. So did he plan it and think about it and intend her death when his mind was clear or did she push him too far so that he 錯手, and we’ve left that in Chinese because there’s no proper equivalent in English. But I would suggest it means that he was trying to say he did not intend it, it wasn’t what he meant to do. It was something he had done in the extremes of his hurt.
+
+So what you have to decide is did he do it when his emotions ran so high he could not control himself and hit out in the agony of that moment of the loss of his wife, of the insult he suffered, of her preference for someone else, loss and humiliation. In that moment he threw things at her that made up the ordinary fabric of their lives, through anything that came to hand, not knowing how it would end. …
+
+  … it is only if you are sure that he was not provoked, that his wife did not say something unforgivable to him that drove him to behave as he did when his actions were beyond control that you can convict him of murder.  You do not have to find that is what happened.  You have merely to find that might have been what happened.  And how can you ever exclude that as a possibility when you look at the state of that room, of the injuries that were inflicted, of the means by which they were inflicted.  This was not a calculated killing.”[19]
+
+22.  As the Court of Appeal noted, that was Counsel’s theme throughout.  She contended that “this was a clear case of someone losing their self-control, emphasising that this was not a ‘planned attack’ but a ‘frenzied outburst’”.[20] Accordingly, the sole issue was whether or not the applicant had been provoked.  That was how the Judge summed up for the jury.[21]  The Court of Appeal observed: “It is quite telling that no complaint was ever made by Ms Draycott about the judge’s directions as is now being complained before us.”[22]  The same is true of the similar complaint sought to be made on this leave application.
+
+23.  The Court of Appeal was plainly right to hold that there was no sufficient evidential foundation to require the jury to be directed on the suggested alternative verdict.[23] The court must tread carefully before taking it upon itself to raise a possible alternative verdict which has not been mentioned by the defence and which may tend to undermine or dilute the defence case being developed.  This is particularly so where the proposed alternative relates to a different form of manslaughter and not to a lesser offence. 
+
+24.  In the present instance, Ms Draycott SC was alive to the dangers of undermining her client’s essential defence of provocation.  She had vigorously resisted any suggestion that the applicant might be translated as saying that the killing was accidental.  Raising the possibility of an alternative verdict in such circumstances – especially regarding a different variety of manslaughter not mentioned by counsel on either side – may also confuse and unnecessarily burden the jury.  It is with such considerations in mind that the Court in HKSAR v Chau Yui Ming[24] made it clear that a complaint of non-direction regarding an alternative verdict is only realistic where, on the evidence, that alternative is “obvious”.  In the present case, there is no basis for suggesting that the postulated alternative form of manslaughter was obvious.
+
+ 
+
+ 
+
+(R A V Ribeiro)	(Joseph Fok)	(Kemal Bokhary)
+Permanent Judge	Permanent Judge	Non-Permanent Judge
+ 
+
+Mr Andrew Bruce SC and Mr Martin Li, instructed by Tse Yuen Ting Wong, assigned by the Director of Legal Aid, for the Applicant
+
+Ms Christal Chan, ADPP, of the Department of Justice, for the Respondent
+
+[1] HCCC 423/2017 (27 August 2018).
+
+[2] Hon Poon CJHC, Zervos JA and Barnes J [2022] HKCA 1163 (31 October 2022), Zervos JA giving the judgment of the Court.
+
+[3] (2019) 22 HKCFAR 368. 
+
+[4] (2008) 11 HKCFAR 354.
+
+[5] Per Fok PJ [2021] HKCFA 13 (1 April 2021).
+
+[6] HKSAR v Chow Ching Yin [2021] HKCA 157 at §47; HKSAR v Ngan Wing Chau [2021] 1 HKLRD 488 at §§67-69; HKSAR v Chan Man Sum Ivan (No 2)[2021] 3 HKLRD 94 at §§103-104.
+
+[7] CA at §§57-58.
+
+[8] HKSAR v Chau Yui Ming (supra) at §32; citing in support Lord Bingham in R v Coutts　[2006] 1 WLR 2154 at §23.
+
+[9] HKSAR v Chau Yui Ming (supra) at §35.
+
+[10] Ibid at §§22, 28, 32, 33 and 35, citing R v Coutts [2006] 1 WLR 2154 at §§12 and 23; Ho Hoi Shing v HKSAR (2008)11 HKCFAR 354 at §13; and R v Fairbanks [1986] 1 WLR 1202 at 1205F - 1206B.
+
+[11] R v Coutts [2006] 1 WLR 2154 at §12.   
+
+[12] CA at §6.
+
+[13] CA at §7.
+
+[14] Form B Application for leave to appeal, §30.
+
+[15] CA at §15.  This was reiterated at CA at §55.
+
+[16] CA at §7.
+
+[17] Quoted by CA at §54.
+
+[18] CA at §12.
+
+[19] Quoted by CA at §15.
+
+[20] CA at §16.
+
+[21] CA at §§20-27.
+
+[22] CA at §48.
+
+[23] CA at §60.
+
+[24] (2019) 22 HKCFAR 368. 
+

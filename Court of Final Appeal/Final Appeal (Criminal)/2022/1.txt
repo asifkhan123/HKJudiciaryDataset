@@ -1,0 +1,604 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No 1 of 2022
+
+[2022] HKCFA 15
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO 1 OF 2022 (CRIMINAL)
+
+(ON APPEAL FROM HCMA NO 242 OF 2020)
+
+________________________
+
+BETWEEN	 	 
+HKSAR	Respondent
+and	
+CHAN CHUN KIT (陳俊傑)	Appellant
+________________________
+
+Before:	Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ and Mr Justice Gleeson NPJ
+Date of Hearing:	17 June 2022
+Date of Judgment:	15 July 2022
+________________________
+
+J U D G M E N T
+
+________________________
+
+Chief Justice Cheung:
+
+1.  This appeal concerns the proper interpretation of section 17 of the Summary Offences Ordinance[1], involving the application of the ejusdem generis rule and the resolution of apparent differences in meaning between the English and Chinese texts of the provision. 
+
+Facts
+
+2.  The facts giving rise to this criminal appeal are straightforward.  On 2 November 2019, police officers were deployed in Causeway Bay to disperse an unauthorised assembly.  After the dispersal, a person was seen hurling insults at the police. He was subdued by some police officers at the scene while a group of onlookers stood around.  The appellant, wearing a black outfit, a black face scarf and a pair of gloves and carrying a black backpack, was amongst the onlookers.  He was intercepted by a police officer and upon search, a respirator, a helmet, a pair of knuckle gloves, and a bag containing 48 pieces of 6-inch plastic cable ties were found inside his backpack. 
+
+Before the magistrate
+
+3.  The appellant was convicted after trial[2] before the magistrate[3] of one count of possession of an instrument fit for unlawful purposes, contrary to section 17 of the Ordinance, namely the bag containing 48 pieces of 6-inch plastic cable ties.
+
+4.  Section 17 of the Ordinance reads :
+
+“Any person who has in his possession any wrist restraint or other instrument or article manufactured for the purpose of physically restraining a person, any handcuffs or thumbcuffs, any offensive weapon, or any crowbar, picklock, skeleton-key or other instrument fit for unlawful purposes, with intent to use the same for any unlawful purpose, shall be liable to a fine at level 2 or to imprisonment for 2 years.”
+
+5.  Holding that the “unlawful purposes” for which an instrument is fit must be related to physically restraining or injuring a person[4], or housebreaking, the magistrate found that the plastic cable ties possessed by the appellant could be easily linked together and used to physically restrain a person, and were therefore within the meaning of “other instrument fit for unlawful purposes” in section 17.[5] The magistrate also took the view that the “unlawful purpose” for which a defendant intended to use the offending instrument in the section could be any unlawful purpose and need not be related to physically restraining or injuring a person or housebreaking.  On the facts, he found that the appellant had intended to use the cable ties to bind detached metal railings or other objects on the road to form barricades or other large structures for use in armed confrontations, fights, inflicting injuries or obstructing or blocking the road or traffic, which was an “unlawful purpose” within the meaning of the section[6].  The magistrate convicted the appellant accordingly and sentenced him to five months and two weeks’ imprisonment. 
+
+In the Court of Appeal
+
+6.  The Court of Appeal[7] dismissed the appellant’s appeal[8] against conviction and sentence[9].  In doing so, the court departed from some previous case law which, applying the ejusdem generis rule, had placed a restrictive interpretation on section 17, on the grounds that it had since undergone amendments.  Instead, placing emphasis on the subsequent Chinese version of the section which came into existence in 1993, the Court of Appeal held that the “unlawful purposes” for which an instrument is fit and the “unlawful purpose” for which a defendant intends to use the instrument are not restricted to any specific purposes.  On the magistrate’s findings, the court held, the appellant was rightly convicted. 
+
+7.  The Chinese text of section 17 on which the Court of Appeal placed substantial reliance reads :
+
+“任何人管有任何腕銬或其他為束縛人身而製造的工具或物件，或管有任何手銬、指銬、攻擊性武器、撬棍、撬鎖工具、百合匙或其他適合作非法用途的工具，意圖將其作任何非法用途使用，可處第2級罰款或監禁2年。”
+
+Leave to appeal
+
+8.  Upon the appellant’s application, the Court of Appeal certified four points of law of great and general importance :
+
+“(1) On the true construction of the Chinese and English texts of section 17 of the Summary Offences Ordinance (Cap 228), whether the expression ‘other instrument fit for unlawful purposes’ in that section is subject to the ejusdem generis rule?
+
+(2) If the answer to Question 1 is in the affirmative, whether the expression ‘unlawful purposes’ is confined to purposes similar to those crowbars, picklocks and skeleton-keys are fit for?
+
+(3) On the true construction of the Chinese and English texts of section 17 of the Summary Offences Ordinance (Cap 228), whether the expression ‘with intent to use the same for any unlawful purpose’ in that section is subject to the ejusdem generis rule?
+
+(4) If the answer to Question 3 is in the affirmative, whether the expression ‘any unlawful purpose’ is confined to unlawful purposes similar to those the instruments or objects referred to in section 17 are fit for?”[10]
+
+9.  On 25 February 2022, the Appeal Committee[11] granted leave to appeal in respect of the four questions of law certified by the Court of Appeal.  In addition, leave to appeal was also granted on the basis that it was reasonably arguable that there had been a material departure from accepted norms, that is, when departing from earlier decisions, the Court of Appeal failed to apply the principle that any ambiguity in penal statutes should be resolved in favour of the accused, and failed properly to give effect to section 10B(3) of the Interpretation and General Clauses Ordinance[12] where a difference may exist between two versions of the text in bilingual legislation[13]. 
+
+Principles of statutory interpretation
+
+10.  The rules of statutory construction are well established.  Words are construed in their context and purpose.  They are given their natural and ordinary meaning with context and purpose to be considered alongside the expressed wording from the start, and not merely at some later stage when an ambiguity is thought to arise.  A purposive and contextual interpretation does not mean that one can disregard the actual words used in a statute.  Rather, the court is to ascertain the intention of the legislature as expressed in the language of the statute.  As has been repeatedly pointed out, one cannot give a provision a meaning which the language of the statute, understood in the light of its context and purpose, cannot bear[14].
+
+11.  Context here is to be taken in its widest sense and includes other statutory provisions and the general law.  The purpose of a statutory provision may be evident from the provision itself, the recommendation of a report such as that published by the Law Reform Commission, the explanatory memorandum to the relevant bill or a statement by the responsible official of the government in relation to that bill in the Legislative Council[15]. It may also be relevant in any given case to look at the history of the provision concerned[16].
+
+The ejusdem generis rule
+
+12.  The ejusdem generis rule has been described by Lord Diplock in Quazi v Quazi[17]as follows :
+
+“As the latin words of the label attached to it suggest, the rule applies to cut down the generality of the expression ‘other’ only where it is preceded by a list of two or more expressions having more specific meanings and sharing some common characteristics from which it is possible to recognise them as being species belonging to a single genus and to identify what the essential characteristics of that genus are. The presumption then is that the draftsman’s mind was directed only to that genus and that he did not, by his addition of the word ‘other’ to the list, intend to stray beyond its boundaries, but merely to bring within the ambit of the enacting words those species which complete the genus but have been omitted from the preceding list either inadvertently or in the interests of brevity.”
+
+13.  Bennion, Bailey and Norbury on Statutory Interpretation[18] explains the rule more fully this way :
+
+“23.2 Ejusdem generis principle: description
+
+(1) The ejusdem generis principle is a principle of construction whereby wide words associated in the text with more limited words are taken to be restricted by implication to matters of the same limited character.
+
+(2) The principle may apply whatever the form of the association, but the most usual form is where a list of specific terms is followed by general words that are construed as being confined to things of the same kind as those specified ...
+
+Comment
+
+The ejusdem generis principle is a particular application of the principle noscitur a sociis ... It arises from the linguistic implication by which words having literally a wide meaning (when taken in isolation) are treated as reduced in scope by the verbal context. It may be regarded as an instance of ellipsis, or reliance on implication. The principle is presumed to apply unless there is some contrary indication.
+
+…
+
+Principle not tied to any particular formula
+
+The ejusdem generis principle is not tied to any particular formula.  As the above examples show, it does not, as has been suggested, apply only where there is a string of terms that form a class followed by wide residuary or sweeping-up words (though this is a common example of its application).  Thus, for example, the wider words may merely follow on from the generic words.”
+
+14.  Several observations about the rule which are relevant to the present appeal can be made :
+
+(1)   The ejusdem generis rule is a general rule of construction.  When it is applicable, it gives rise to a presumption.  It is an aid to construction, and can be dis-applied by a contrary intention.
+
+(2)   The rule only operates when there is a common genus to which the items on the list belong.  By definition, it has no application when there is only one item.  When there is more than one item, it can only apply if a common element or genus can be identified.
+
+(3)   The application of the rule does not depend on any particular formulation of the words.  Whilst, usually, it applies when specific items are followed by a general description, that is not necessary or essential.  The use of the word “other” in the residuary phrase is common, but not critical.  What is essential is a list of items belonging to a common genus.
+
+(4)   The wording and sentence structure of the provision are nonetheless important in that the rule does not apply if there is no such list, or, where there is more than one list, the items in question belong to different, separate lists.
+
+Section 17
+
+15.  The origin of section 17 can be traced to 1844.  In its present form, it is rather poorly drafted.  To a significant extent, this is the result of the several amendments that it has undergone over the years.  The Chinese text of section 17 came into being in 1993. As a matter of language, it reads better than its English counterpart. Ironically, as will be seen, this is where the problem lies.  In any event, it should be noted that prior to 1993, the only version of the section was in English, and the English version had been subjected to important judicial interpretation.
+
+16.  The court’s task in this appeal is of course to construe the section in its present form. However, the long and rather convoluted history of the section, the previous case law on the earlier English version, and the circumstances under which the Chinese text came into being in the early 1990s, all form an important part of the context in which the section in its modern form (in English and Chinese) should be construed.  This is particularly significant given that a lot of emphasis has been placed by the Court of Appeal on the Chinese text and the amendments made to the section when departing from the earlier case law and arriving at a much wider construction.  I would therefore approach the task of construction in the present appeal by tracing the origin and evolution of the section into its current form.  In the course of doing so, I will, where appropriate, deal with the parties’ arguments and the Court of Appeal’s reasoning. 
+
+Origin and early evolution
+
+17.  Section 17 had its origin in Ordinance No 5 of 1844[19], an ordinance “for the preservation of good order and cleanliness” in Hong Kong.  The Ordinance provided, among many other things, that :
+
+“if any person… shall have in his possession any spear, bludgeon, or other offensive weapon, or any crowbar, picklock, skeleton key, or other instrument fit for unlawful purposes, with intent to use the same for such unlawful purpose, …”
+
+the person so offending shall be liable to a fine.
+
+18.  The 1844 Ordinance was repealed and replaced by Ordinance No 14 of 1845[20].  A new basis for founding liability, as an alternative to proving an intention to use the offending article or instrument for unlawful purposes, was added, namely the defendant’s inability to give a satisfactory account of his possession of the article or instrument.  Section 12 of the latter Ordinance provided :
+
+“And be it further enacted and ordained, that every person who shall have in his possession any spear, bludgeon, or other offensive weapon, or any crowbar, picklock, skeleton-key, or other instrument fit for unlawful purposes, with intent to use the same for any such unlawful purpose, or who shall be unable to give a satisfactory account of his possession thereof, shall be liable to a penalty of not more than ten pounds, or, in the discretion of the presiding Magistrate, to be imprisoned for any term not exceeding fourteen days.”
+
+19.  It is quite plain from both the original version and the slightly modified version in the two Ordinances that as a matter of sentence structure and use of language, the predecessor of section 17 essentially covered the possession of two categories of articles or instruments :
+
+(1)     “any spear, bludgeon, or other offensive weapon”; and
+
+(2)     “any crowbar, picklock, skeleton-key, or other instrument fit for unlawful purposes”.
+
+Both categories started with the word “any”, and the two were separated by a comma and the word “or” after “offensive weapon” and before “any crowbar…”.  Within each category, the word “any” only appeared before the first item and the word “or” only before the last item in the category.
+
+20.  Importantly, the phrase “other instrument fit for unlawful purposes” was there in the statutory provision from day one.  It was the last item included in the second category.  It was preceded by the word “or”.  The phrase covered “other” instruments fit for unlawful purposes, that is, other instruments besides “crowbar, picklock, [and] skeleton-key”.  This has an important bearing when I come to the Chinese text which seems to suggest otherwise.
+
+21.  Although there were subsequent amendments[21], the provision remained essentially unchanged in content until 1975.  By then, the section had become section 17 of the Summary Offences Ordinance[22].
+
+Early case law
+
+22.  Before 1975, the then section 17 had already been the subject matter of important judicial interpretation. 
+
+23.  In The Attorney General v Li Chu[23], a magistracy appeal, the court had to consider whether a penknife fell within the meaning of “other instrument fit for unlawful purposes” in section 17.  The magistrate below[24] had held that the section applied to two categories of articles – offensive weapons and housebreaking implements, and “or other instrument fit for unlawful purposes” covered only housebreaking implements as those words had to be read “sui generis (sic)”[25] with the preceding words “any crowbar, picklock, skeleton-key”[26].  On appeal, Mills-Owens J essentially agreed with this construction and rejected the argument that “other instrument fit for unlawful purposes” constituted a free-standing, third category, having an unrestricted meaning of its own :
+
+“As I see it the section envisages two categories of article, viz. (A) any spear, bludgeon or other offensive weapon; (B) any crowbar, picklock, skeleton-key or other instrument fit for unlawful purposes. I say this because each category ends with the similar phrase ‘or other etc’, thus following a pattern of expression as it were in which specific articles are first enumerated followed by the more general expression ‘or other (offensive weapon) (instrument fit etc)’; I say this also because of the presence of a comma after ‘weapon’ and the absence of a comma both after ‘bludgeon’ and after ‘skeleton key’, and because two broadly dissimilar classes of articles are in contemplation.”[27]
+
+24.  In the course of construing the section, the judge also observed the word “such” in “with intent to use the same for such unlawful purposes” was “otiose or meaningless” :
+
+“… ‘such unlawful purposes’ is an expression which has no meaning unless a particular kind of unlawful purpose has previously been specified (to which ‘such’ can be related), which the section does not do.”[28]
+
+25.  Mills-Owens J’s construction of section 17 was endorsed by the Full Court six months later in Tang Chi-ming v R[29]. At issue was whether the defendant could be charged with possession of an instrument fit for unlawful purposes contrary to section 17 when he was found to have had half a razor blade secured to his hand by adhesive tape and to have touched the rear pockets of persons boarding a public bus.  Rigby SPJ[30] agreed with Mills-Owens J that the section envisaged two, and not three, separate and distinct categories of weapons or instruments.  He also agreed with the view expressed by the magistrate in the earlier case that the ejusdem generis rule applied to the construction of the second category :
+
+“But I would agree with the learned magistrate, Mr Power, that the words ‘or other instrument fit for unlawful purposes’ ought to be read, sui generis (sic)[31], as bearing some connotation or relationship to the particular words ‘crowbar, picklock, skeleton-key’ immediately preceding them, and read in conjunction with the words ‘any such unlawful purpose’ almost immediately following, should be construed to mean and intend possessing an instrument fit for an unlawful purpose of a kind such as one might expect a ‘crowbar, picklock, skeleton-key’ to be so unlawfully used. The learned magistrate, Mr Power, restricted the unlawful possession of any such instrument to its use for housebreaking purposes; that may be placing too narrow a restriction upon the meaning and intention to be attributed to the words ‘or other instrument fit for unlawful purposes’, and I would be disposed to agree with the rather wider restriction placed upon those words by my Lord the President in this case, namely, possession of such an instrument for the purpose of securing unlawful access to a building or enclosed space or object as, for example, a stationary motor-car or the boot of such a vehicle.”[32]
+
+26.          Hogan CJ was of the same view :
+
+“If the expression ‘fit for unlawful purposes’ is confined, as I am inclined to think it should be, to unlawful purposes similar to those served by crowbars, picklocks and skeleton-keys, which might briefly be described as the purpose of securing unlawful access to a building, a receptacle or an enclosed space, the charge can still be expressed in this way. It will be for the prosecution to prove that the instrument which they have specified in their charge is one which can be properly described as fit for such an unlawful purpose when in the possession of the accused.”[33]
+
+27.  Likewise, the Chief Justice took the view that as far as the mens rea requirement on the intended use of the offending instrument was concerned, the expression “unlawful purpose” should also be restricted by the ejusdem generis rule to the purpose of “securing unlawful access to something in the nature of a house, a container or an enclosed space”.[34]
+
+28.  Pausing here, I respectfully agree with the learned judges in these two cases on the construction of the then section 17.  As explained, on a plain reading of the section, it covered only two, not three categories of articles or instruments. Secondly, the ejusdem generis rule obviously applied to limit “other instrument fit for unlawful purposes” to instruments fit for gaining unlawful access.  The words “any crowbar, picklock, skeleton-key” followed by “or other instrument fit for unlawful purposes” plainly signified a genus consisting of articles or instruments fit for offences which involved gaining unlawful access to premises, vehicles or other private objects or spaces.
+
+29.  As for the mens rea requirement, I share Hogan CJ’s doubt as to whether the word “such” really served no real purpose as suggested by Mills-Owens J[35].  More importantly, I also take the view that “with intent to use the same for such unlawful purpose” should likewise be restrictively read to tie in with the categories of articles or instruments covered by the section.  This will be more fully explained in a later part of this judgment.
+
+The 1975 amendment
+
+30.  In 1975, by the Summary Offences (Amendment) Ordinance of that year[36], the words “spear, bludgeon, or other” were removed from section 17.  The first category, after that amendment, covered “any offensive weapon” only.  The amendment was wholly understandable, given that by the 1970s, spears and bludgeons had become rather obsolete weapons in a modern society, and in any event, they were covered by the remaining phrase “any offensive weapon”.
+
+Tsoi Shun-hing v R
+
+31.  The significance of this amendment, however, perhaps lay in the fact that it was the first time the legislature had the occasion to look at section 17 after the two court decisions discussed above.  Notably, the legislature did not take the opportunity to make any substantive changes to the section apart from deleting the words “spear, bludgeon, or other” from it.  There is no need in this appeal to go into the question of whether the doctrine of “tacit legislation” exists as to which there are different views[37]. Suffice it to say, the inaction of the legislature was pointed out by the Court of Appeal as the first reason for rejecting an attempt based on the (now repealed) definition of “or”[38] in section 3 of the Interpretation and General Clauses Ordinance to revisit the number of categories of articles or instruments covered by section 17 in its decision in Tsoi Shun-hing v R[39]in 1977.  That case concerned the possession of a pair of handcuffs.  Rejecting the renewed argument that the word “or” in section 17 should be construed disjunctively so that the section actually covered three categories of articles or instruments, including a third, open-ended category covering “other instrument fit for unlawful purposes”, the Court of Appeal said :
+
+“We are unable to accept this submission for the following reasons. First, and perhaps most important, the amending Ordinance of 1975 did not introduce any alteration which could affect the number of categories of articles covered and it must be assumed that the Legislature was aware of the interpretation which had been placed upon the section by the Full Court : if that interpretation did not accord with the actual legislative intention no doubt an attempt would have been made to put the matter right. Secondly, we think the wording of the section, obscure though it is, does favour a ‘two category interpretation’ and we bear in mind that s. 3 of the Interpretation and General Clauses Ordinance is always subject to s. 2 and applies only where the context of that Ordinance or of some other Ordinance or instrument does not otherwise require. In our view the context of s. 17 of the Summary Offences Ordinance does exclude a disjunctive interpretation and the ejusdem generis rule does apply.”[40]
+
+The Court of Appeal concluded that the pair of handcuffs was not an instrument fit for unlawful purposes within the meaning of section 17. 
+
+The 1984 amendments
+
+32.  But the matter did not stop there.  Not only did the legislature not introduce any changes to section 17 in 1975 in the light of the construction placed on it by the courts, it also made amendments to the section in 1984 which were obviously premised on the correctness of that construction.  By the Summary Offences (Amendment) Ordinance 1984[41], the words “any wrist restraint or other instrument or article manufactured for the purpose of physically restraining a person, any handcuffs or thumbcuffs” were added to section 17.  Moreover, the word “such” was removed from the phrase “with intent to use the same for any such unlawful purposes”.  With these amendments, section 17 began to resemble its modern form :
+
+“Any person who has in his possession any wrist restraint or other instrument or article manufactured for the purpose of physically restraining a person, any handcuffs or thumbcuffs, any offensive weapon, or any crowbar, picklock, skeleton-key or other instrument fit for unlawful purposes, with intent to use the same for any unlawful purpose, or being unable to give satisfactory account of his possession thereof, shall be liable to a fine of $5,000 or to imprisonment for 2 years.”
+
+33.  There is no doubt that the drafting of the 1984 addition left much to be desired.  Fortunately, the reasons for the 1984 changes were fully documented.  In the Memorandum for the Executive Council’s discussion held on 6 December 1983, members of the Council were clearly told the reasons and purpose for the amendments :
+
+“… The purpose of this Bill is to facilitate prosecutions in cases where persons are found in possession of handcuffs or similar articles for an unlawful purpose, by including handcuffs and similar articles in the list of instruments contained in section 17 of the Summary Offences Ordinance.
+
+Background
+
+2. Statistics indicate an increasing use of handcuffs in the commission of crime; 10 cases in the first six months of 1982, 30 in the second six months of 1982 and 17 cases in the first six months of 1983. If an actual crime is committed, a prosecution can follow, but difficulty arises when the police stop a person in suspicious circumstances, search him, and find him to be in possession of handcuffs for which he cannot give a satisfactory explanation. In the case of Reg. v. TSOI Shun-hing, (1979 HKLR 408) the Court of Appeal held that section 17 of the Summary Offences Ordinance only extends to offensive weapons and instruments fit for house-breaking and does not extend to handcuffs or other instruments which do not fall into either of those categories. This ruling means that no prosecution under section 17 is possible for the possession of handcuffs, even if they are intended to be used for an unlawful purpose, such as robbery or kidnapping. It is therefore proposed that handcuffs should be included in the list of instruments in section 17 of the Summary Offences Ordinance.
+
+3. The police have pointed out that although there are no precise statistics, other instruments or articles of restraint are also used for similar criminal purposes. In particular they refer to thumbcuffs and wrist restraints. There do not appear to be any legitimate reasons for the possession of such articles. Handcuffs and thumbcuffs are clearly identifiable and equally clearly intended for the purposes of restraint. Wrist restraints and other articles of restraint may not be so clearly identifiable and could also possibly consist of items designed for other purposes. To exclude such other items it is considered that in this context only items manufactured for the purpose of physical restraint should be brought within the scope of section 17. Proof of the purpose of manufacture in practice could prove a major burden, but is considered a necessary safeguard. It is proposed, therefore, that handcuffs and thumbcuffs as such, together with wrist restraints and any other articles manufactured for the purpose of physical restraint, should be included in section 17. This should enable prosecution of those cases where such items, and indeed any other novel articles manufactured for the purpose of physical restraint, are found in unexplained possession.
+
+…
+
+5.     The effect of the inclusion of handcuffs et cetera in section 17 will be that a person found in possession of these can be required to give a satisfactory account of his possession of them failing which he will be liable to prosecution.  In order to clarify the meaning of the subsection, the opportunity has also been taken to remove the word ‘such’ which has been judicially held to be redundant (Attorney General v. Li Chu (1968) HKLR 242).”
+
+34.  In the second reading of the Bill before the Legislative Council, the Attorney General again explained the rationale behind the amendments and the mischief targeted :
+
+“The purpose of the Bill is to make an amendment to the Summary Offences Ordinance which is intended to assist the police in their fight against crime.
+
+In recent years in Hong Kong there have been several instances of people being found by the police in suspicious circumstances, carrying articles which could be used to immobilize or restrain a victim while he is robbed or kidnapped or his home burgled. It is thought desirable that the police should have power to arrest and charge a person found in possession of such articles without lawful excuse.
+
+If section 17 of the Summary Offences Ordinance is amended as proposed, it will mean that any person who has in his possession any wrist restraint or other instrument or article manufactured for the purpose of physically restraining another person, or in possession of handcuffs or thumbcuffs, intending to use such article for an unlawful purpose or being unable to give satisfactory account of his possession of it, will be guilty of an offence and liable to a fine of $5,000 or to imprisonment for two years.
+
+Handcuffs have been used in the course of some 57 crimes committed in 1982 and the first half of 1983 so honourable Members may well be disposed to agree that there should be some prohibition on the possession of handcuffs without lawful excuse. Thumbcuffs are a modern variation of an ancient device which have no conceivable use except for restraint. It is difficult to envisage any lawful excuse for their possession. Possession of other forms of wrist restraint will be similarly unlawful where they have been specially manufactured for the purpose.
+
+Sir, care has been taken to ensure that the amendment is not too widely drawn. Possession of a handkerchief or a piece of string has been excluded (laughter), although of course they are capable of being used for restraint. The amendments are solely directed to articles manufactured for restraint. Nor are the police required to prove the purpose of possession, which is notoriously difficult.”[42]
+
+35.  Several observations can be immediately made.  First, the government and the legislature were obviously aware of the case law concerning the scope of application of section 17.  Indeed, the purpose of the 1984 amendments was to enlarge its scope to cover additional items.  Like the pre-existing articles or instruments which fell within two separate categories respectively, the newly introduced items, although arranged in a confusing order, all fell within a category of their own, ie articles or instruments manufactured for the purpose of physically restraining a person.  Indeed, both handcuffs and thumbcuffs fell within this description of “instrument or article manufactured for the purpose of physically restraining a person”.
+
+36.  Secondly, the addition was obviously premised on the construction of section 17 placed on it by the courts that the section did not contain an independent, third category covering “other instrument fit for unlawful purposes” as such.  Had there been such a category, “wrist restraint or other instrument or article manufactured for the purpose of physically restraining a person, handcuffs or thumbcuffs”, being obviously articles or instruments which are fit for unlawful purposes, would have already been covered by this third category.  And the reasons for introducing the amendment would have been to put right the incorrect construction placed on section 17 by the courts.  However, that was not the explanation given to the Executive Council or the Legislative Council at all. Rather, the amendment, as explained in the Memorandum and by the Attorney General, was introduced to meet a newly encountered need of the police in the fight against crime which was not met by the pre-existing law.
+
+37.  The deletion of the word “such” from section 17 was, according to the Memorandum[43], done solely in response to the comment by Mills-Owens J in Li Chu that the word was “otiose or meaningless”[44]. This simply reinforced the point that the legislature was fully aware of the relevant case law starting with Li Chu.  There was no suggestion whatsoever that the deletion of the word “such” was meant to widen the scope of the mens rea requirement to any unrestricted unlawful purpose, unrelated to the offending article or instrument in question covered by section 17.  The contrary submission by the respondent is therefore rejected.
+
+38.  Summarising the position immediately after the amendments in 1984, section 17 now covered three categories of articles or instruments :
+
+(1)     “any wrist restraint or other instrument or article manufactured for the purpose of physically restraining a person, any handcuffs or thumbcuffs”;
+
+(2)     “any offensive weapon”; and
+
+(3)   “any crowbar, picklock, skeleton-key or other instrument fit for unlawful purposes”, that is, an instrument fit for the purpose of gaining unlawful access.
+
+Possession of an article or instrument falling within any of these three categories would amount to an offence if it was coupled with an intent “to use the same for any unlawful purpose” of physically restraining a person in the case of a category (1) article or instrument, of physically injuring a person for a category (2) weapon, or of gaining unlawful access for a category (3) instrument, as the case might be.  Alternatively, such possession would amount to an offence if the defendant was unable to give a satisfactory account of his or her possession of the offending article or instrument.
+
+39.  Up to that point in time, the construction of section 17, as summarised above, was directly against the contention that an unrestricted interpretation should be given to the words “unlawful purpose(s)” in the section.  Indeed, on a fair reading of its judgment, the Court of Appeal did not really dispute that up to 1984, the above summary represented the correct interpretation of section 17 as it then was.  I now move on to deal with what happened after the 1984 amendments which led the Court of Appeal and the respondent to say that the proper construction of section 17 now should be different. 
+
+Bilingualism and the Chinese translation
+
+40.  In short, there were three developments.  First, the development of bilingualism in the law.  As early as 1974, the Official Languages Ordinance[45] was enacted to provide for the use of Chinese in court proceedings in the magistracies.  In 1987, section 4B was added to the Official Languages Ordinance :
+
+“(1) Where an Ordinance has been enacted in one official language, the Governor in Council may, by order in the Gazette made after consultation with the Bilingual Laws Advisory Committee, declare that the authentic text of that Ordinance in the other official language shall be as specified in the order.
+
+(2) Where under subsection (1) the Governor in Council has declared a text to be an authentic text of an Ordinance and it appears to him that there is any manifest error, omission or inaccuracy in that text, he may, by order in the Gazette, correct that error, omission or inaccuracy; and any such correction shall be deemed to have been incorporated in the text at the time when it was declared to be the authentic text.[46]
+
+(3) The Attorney General may, by order in the Gazette, make formal alterations to the text of an Ordinance enacted in one official language, without affecting the meaning thereof, in order to achieve harmony of expression with a text declared under subsection (1) to be the authentic text of that Ordinance in the other official language.[47]
+
+(4)   No order shall be made under this section unless a draft of it has been laid before and approved by resolution of the Legislative Council, and section 34 of the Interpretation and General Clauses Ordinance (Cap 1) shall not apply in relation to any such order[48].”
+
+41.  From 1989, new legislation was enacted in both English and Chinese, and at the same time, an enormous task was undertaken by the government, in consultation with the Bilingual Law Advisory Committee, to translate all existing legislation into Chinese.  It was an immense exercise involving hundreds of pieces of legislation, and took several years to complete.  All this was done as Hong Kong moved towards 1997.
+
+42.  The translation of the Summary Offences Ordinance was completed in 1992.  By the Official Languages (Authentic Chinese Text) (Summary Offences Ordinance) Order dated 26 October 1993, the Chinese text set out in the Annex to the Order was declared to be the authentic text in the Chinese language of the Ordinance as at 13 November 1992, pursuant to section 4B(1) of the Official Languages Ordinance.  Section 17 was translated in the Chinese text as follows :
+
+“任何人管有任何腕銬或其他為束縛人身而製造的工具或物件，或管有任何手銬、指銬、攻擊性武器、撬棍、撬鎖工具、百合匙或其他適合作非法用途的工具，意圖將其作任何非法用途使用，或管有上述工具或物件而無法作出滿意的解釋，可處罰款$5,000或監禁2年。”
+
+43.  A close comparison between the English version and the Chinese one of the section would disclose differences material to the issues in the present appeal.   The Chinese version, when literally translated back to English, is as follows :
+
+“Any person who has in his possession any wrist restraint or other instrument or article manufactured for the purpose of physically restraining a person, or has in his possession any handcuffs, thumbcuffs, offensive weapon, crowbar, picklock, skeleton-key or other instrument fit for unlawful purposes, with intent to use the same for any unlawful purpose, or is unable to give a satisfactory account of his possession thereof, shall be liable to a fine of $5000 or to imprisonment for 2 years.”
+
+44.  The first thing to note about the Chinese text is that a new phrase “or has in his possession”[49] is added to the section after the original phrase “in his possession”[50].  As a matter of sentence structure, the two phrases in the Chinese text separate the articles or instruments covered by the section into two categories : (1) any wrist restraint or other instrument or article manufactured for the purpose of physically restraining a person; and (2) any handcuffs, thumbcuffs, offensive weapon, crowbar, picklock, skeleton-key or other instrument fit for unlawful purposes. Whilst the first category corresponds to the first half of the items in the first category discussed above on the basis of the English text, the second category under the Chinese text is essentially a mixed bag of the remaining half of the items in the first category, together with the items in the second and third categories under the English text. 
+
+45.  Moreover, the word “or” between “handcuffs” and “thumbcuffs” (which now come under the second category), and, more importantly, the one between “any offensive weapon” and “any crowbar [etc]” in the English text are both missing.  Furthermore, the word “any” before “offensive weapon” and before “crowbar” is also missing from the Chinese text.  The combined effect of these differences is that in the Chinese text, handcuffs, thumbcuffs, offensive weapon, crowbar, picklock, skeleton-key and “other instrument fit for unlawful purposes” are all placed on the same footing without any distinction, and grouped under category (2).   
+
+46.  No doubt, these changes render the Chinese text of section 17 more readable.  Much more relevant for our purpose, however, is that based on the Chinese text, there is no longer any place for the application of the ejusdem generis rule under category (2).  For under that category, there is simply no genus to which the articles or instruments so grouped together commonly belong. 
+
+47.  Indeed, as the Court of Appeal quite rightly pointed out[51], for a reader of the Chinese text, it is quite impossible to come to the conclusion that “other instrument fit for unlawful purposes” can and should be read ejusdem generis to mean only those instruments that are fit for gaining unlawful access, as the phrase had been interpreted to mean under the previous case law prior to 1993.  Understandably, this is heavily relied on by the respondent in support of its unrestricted interpretation of the phrase.
+
+The alternative basis and the 1995 amendment
+
+48.  The second material development has to do with the alternative basis for establishing liability under section 17.  Under the original section 17, a person would be convicted if the prosecution could prove that he possessed the offending article or instrument in question “with intent to use the same for any unlawful purpose”. Alternatively, he would also be convicted if he was “unable to give satisfactory account of his possession” of the offending item.  This reversal of the burden of proof was not uncommon and was indeed quite acceptable before the advent of human rights law in Hong Kong.  But things changed with the enactment of the Hong Kong Bill of Rights Ordinance[52] in 1991.  In R v Chong Ah Choi[53], the Court of Appeal held that the second basis of liability in section 17, ie “being unable to give satisfactory account of his possession thereof” was inconsistent with the Hong Kong Bill of Rights for placing the onus on the accused to give an explanation as to the innocent possession of the article or instrument in question, and considered that it had already been repealed by section 3(2) of the Hong Kong Bill of Rights Ordinance when it was enacted in 1991.  This prompted the Legislative Council to enact section 48 of the Administration of Justice (Miscellaneous Provisions) (No 2) Ordinance 1995[54] in the following year which simply said that section 17 was amended by repealing “or being unable to give satisfactory account of his possession thereof,”.
+
+49.  This development, however, has led the Court of Appeal to believe[55], and the respondent to argue, that given the enhanced protection given to an accused now that there is no onus on him to prove innocent possession and it is for the prosecution to prove intent to secure a conviction, there is no longer any good reason to place a restrictive interpretation on the phrase “other instrument fit for unlawful purposes” or the remaining mens rea requirement of an intention “to use the same for any unlawful purpose”. 
+
+Later case law
+
+50.  The third development starting from the 1980s was that notwithstanding the previous case law on the proper interpretation of section 17 based on the then English text, the courts started to understand “other instrument fit for unlawful purposes” differently and give the phrase an expansive construction[56].
+
+51.  Notably, in R v Ho Ka On[57], at issue was a roll of adhesive tape.  The Court of Appeal observed that the tape was the normal small domestic variety of tape which was customarily used as either an item of stationery or to effect minor repairs in a domestic context.  It went on to say :
+
+“It would be difficult to contend that it was an ‘instrument or article manufactured for the purpose of restraining a person’ or equally that it was ‘an instrument fit for unlawful purposes’.
+
+Indeed it would be surprising if it was thought that the tape could be effective in restraining a person’s hands or arms if they were secured with the tape. It would not require much force to break the tape if one’s hands were bound by it.”[58] (emphasis added)
+
+52.  This seems to suggest, at least on one reading, that the court did not have the restrictive meaning given to “other instrument fit for unlawful purposes” by the previous case law in mind.  The adhesive tape was not an instrument fit for unlawful purposes, the Court of Appeal seems to be saying, not because it had nothing to do with obtaining unlawful access as per the previous case law, but because it could hardly be used to effectively restrain a person’s hands or arms in a robbery – the unlawful purpose at issue in that case.  In any event, the court went on to say that Tang Chi-ming did not offer much assistance, and observed that when the case was decided the section was framed slightly differently[59].
+
+53.  Likewise, in quite a few other cases, the courts, particularly those which heard the cases before them in Chinese, tended to give the phrase “instrument fit for unlawful purposes” a wide meaning.  The Court of Appeal summarised the position in the past decades as follows[60] :
+
+“59. In sum, since the 1960s and 1970s, the Hong Kong courts seemed not to have adopted the interpretation of ‘unlawful purposes A’[61] in Tang Chi-ming. Taking the above three cases from the 1980s and 1990s to the 2000s as examples, the presiding judges were all judges of the Court of First Instance or above, and their judgments were not per incuriam, i.e. they were not made when there was a lack of due regard to Tang Chi-ming, but the results were all inconsistent with that case. In fact, based on the experience of the three judges in this Court, modern Hong Kong courts, especially courts responsible for first instance trials, have all been giving an extremely liberal interpretation to ‘unlawful purposes A’. Looking at the recent past, the so-called ‘anti-amendment bill’ cases handled with this approach are numerous. Even the defence would accept that without hesitation, and no one has ever challenged that even on appeal. Of course, while the above situation has remained the same for several decades, it does not mean that the relevant approach is correct. However, this situation shows that: firstly, section 17 per se may give rise to different interpretations; secondly, interpreting section 17 afresh would not create confusion …”
+
+ 
+
+
+
+The Chinese text
+
+54.  I do not believe any of these developments affect the true construction of section 17.
+
+55.  First, the Chinese translation of the original English text of section 17, although given an official authentic status under section 10B(1) of the Interpretation and General Clauses Ordinance, cannot affect the correct interpretation of the section. I accept that under the Chinese text, there is little scope for the application of the ejusdem generis rule.  However, a prior question here is whether the Chinese text, having its existence as a translation of the original English text, represents a correct and faithful translation of the latter.  If it is not, it does not provide a basis for changing or otherwise affecting the construction of the section under the original English text. 
+
+56.  In this regard, there is no material before us to suggest that by the 1993 Official Languages (Authentic Chinese Text) (Summary Offences Ordinance) Order made pursuant to section 4B(1) of the Official Languages Ordinance, the legislature intended to effect a substantial widening of the scope of application of section 17.  Apart from the tabling of the Chinese text before the Legislative Council for approval by resolution which was duly made, there was no debate in the legislature concerning section 17, nor any proposal by the government to introduce any change in meaning or scope of application of the section by the Chinese text.  There was no legislative or other government paper to indicate that any such change was intended, or what the reason behind any such change was. 
+
+57.  This brings me to a more general question arising from this appeal.  Section 10B(1) of the Interpretation and General Clauses Ordinance provides that both the English and Chinese texts of an Ordinance shall be “equally authentic”, and the Ordinance “shall be construed accordingly”.  Subsection (2) stipulates that the provisions of an Ordinance are “presumed to have the same meaning in each authentic text”.  Subsection (3) then says that where a comparison of the authentic texts discloses a difference of meaning which the rules of statutory interpretation ordinarily applicable do not resolve, “the meaning which best reconciles the texts, having regard to the object and purposes of the Ordinance, shall be adopted”.
+
+58.  For a piece of legislation enacted in both English and Chinese, when a difference or an apparent difference in meaning between the English and Chinese texts appears, section 10B(3) provides the methodology to resolve the difference and arrive at the correct interpretation of the provision in question.  Whether that task is straightforward or hard, of course, depends on the legislation in individual cases[62].
+
+59.  Where, however, a piece of legislation was originally enacted in English only, and a Chinese translation in the form of an authenticated Chinese text came into being pursuant to section 4B(1) of the Official Languages Ordinance at a subsequent stage, the application of section 10B(3) of the Interpretation and General Clauses Ordinance to resolve any difference or apparent difference in meaning between the two authentic texts requires particular care.  When applying the methodology mandated by section 10B(3), the court must bear in mind, as part of the relevant context, that the Chinese text is a later translation of the original English text.  Moreover, one cannot ascribe to the legislature an intention to effect any change in meaning of the original English text merely by reason of the Chinese translation[63].  The translation is, after all, a translation only, and mistakes in translation are bound to be made when one is concerned with translating hundreds of pieces of legislation, despite best efforts.  Indeed, until its repeal in 2011[64], section 4B(2) of the Official Languages Ordinance specifically provided that the Chief Executive in Council might, by order in the Gazette, correct any manifest error, omission, or inaccuracy in the translated text, and any such correction should be deemed to have been incorporated in the translated text at the time when it was declared to be the authentic text.  All these considerations must inform the application of section 10B(3) in resolving any differences in meaning between the original English text and the subsequent translated text.
+
+60.  Where, as here, the difference in meaning between the two texts is the result of inaccuracies in translation, the original English text must be taken as better reflecting the object and purposes of the provision under construction, and the difference in meaning be resolved or otherwise reconciled accordingly.
+
+61.  Similar views were expressed by Cheung J[65] in Chan Fung Lan v Lai Wai Chuen[66] :
+
+“When the court comes to the view that the authenticated Chinese text contains inaccuracies then it should not give effect to that text but should instead rely on the original legislation. This approach is justified because under s 4B of the Official Languages Ordinance (Cap 5) where the Governor in Council has declared a text to be an authenticated text of an ordinance and it appears to him that there is any manifest error, omission or inaccuracy in that text, he may by order in the gazette correct that error and any such correction shall be deemed to have been incorporated in the text at the time when it was declared to be the authenticated text. One must bear in mind that the authenticated Chinese text started life simply as a translation of the original legislation and if there are errors in the translation, which are bound to arise in such a mammoth undertaking, such errors should not be given effect simply because under s 10B of the Interpretation Ordinance the two texts are said to be equally authentic.”
+
+62.  In HKSAR v Lau San Ching[67], Lugar-Mawson J adopted the same approach when applying section 10B(3) :
+
+“Section 10B(3) provides for a two-step approach; firstly there must be an attempt to resolve the difference of meaning by applying the rules of statutory interpretation. If this fails then the interpreter has to adopt the meaning which best reconciles the texts with regard to the object and purposes of the legislation. From that it necessarily follows that if the ordinance was initially enacted in English, the English text was the original official text from which the Chinese text was subsequently prepared and declared authentic. In ascertaining the ordinance’s legal meaning, the English text should be taken as more accurately reflecting the Legislature’s intent at the time it was originally enacted. In this case, the meaning borne by the original official English text, which was already in existence as early as 1932, should take precedence over the Chinese authentic text. The Magistrate was correct to rely on the English text.”
+
+ 
+
+
+
+63.  In the case of section 17, the Chinese text no doubt reads better than the English one.  But that is not the point.  As explained, it contains inaccuracies in translation which are highly material to the task of construction at hand.  The English text is therefore preferred as better reflecting the object and purposes of the provision, which must be construed accordingly.
+
+Repeal of the alternative basis
+
+64.  As to the second development – the repeal of the alternative basis for founding liability under section 17 (“being unable to give satisfactory account of his possession thereof”), given the circumstances under which it came to be considered by the Court of Appeal in Chong Ah Choi[68] and then repealed by the legislature, one cannot discern any legislative intent beyond giving specific effect to the Court of Appeal’s view on the alternative basis.  There was no material to suggest that this was meant to widen the scope of application of section 17.  If anything, the Court of Appeal observed in that case:
+
+“As to the application in future of s. 17 as it now stands, our decision in this case, properly applied, will not result in any failure to charge anyone who ought to be charged under the section. Rather, it will lead to cases being investigated, presented and tried with enhanced care and an enhanced sense of relevance - which is conducive to protecting the public from criminals while at the same time protecting law-abiding people from being wrongly treated as if they were criminals.”[69]
+
+Given this sentiment, there is simply no warrant to give section 17 a sweeping meaning on the basis of the legislature’s repeal of the alternative basis following the Court of Appeal’s decision. 
+
+Significance of the later case law
+
+65.  Thirdly, as regards the later case law, it is quite plain that in none of these more recent cases was there any detailed discussion of the proper interpretation of section 17 (in its modern form), or why the reasoning leading to the previous interpretation of that section should no longer be followed, apart from the fact that it had undergone amendments.  Possibly, Ho Ka On, a Court of Appeal decision, has been read as casting doubt on the correctness or continued relevance of the previous restrictive interpretation.  What also appears to have happened, particularly in relation to those cases heard in Chinese, was that the courts simply focused on the Chinese text and concluded that the reference to “other instrument fit for unlawful purposes” was not restricted to any type of article or instrument[70]. That was understandable for, as explained, the ejusdem generis rule simply could not apply given the way the original English text had been rendered in the Chinese translation.  I would not attach any weight to these more recent authorities. 
+
+The “always speaking” principle
+
+66.  In its judgment, the Court of Appeal relied on the “always speaking” rule of construction in support of its conclusion that section 17 should now be given an updated, unrestricted interpretation[71]. The respondent made a similar submission.
+
+67.  Bennion has described the rule of construction this way[72] :
+
+“Updating construction:
+
+(1)     Acts are usually regarded as ‘always speaking’.  Here, it is presumed that the legislature intends the court to apply a construction that allows for changes that have occurred since the Act was initially framed (an ‘updating construction’).
+
+(2)     Exceptionally, an Act may be intended to be applied in the same way whatever changes might occur after its passing.  An updating construction is not therefore applied to it.
+
+…
+
+Each generation lives under the law it inherits.  Constant formal updating is not practicable, so an Act takes on a life of its own …
+
+The legislature may be taken to intend that an enactment (other than one whose meaning and application are, exceptionally, fixed in time) should be applied at any future time in such a way as to give effect to its original intention, making allowances for any relevant changes that have occurred since the Act’s passing.
+
+The changes that may give rise to the question of whether an updating construction is appropriate include the creation of new institutions or other bodies (eg devolved legislatures and administrations), technological or scientific developments, new natural phenomena or diseases, changes in social conditions or in the way that society views particular matters, and changes in the territory for which an Act is law.  However, the categories of changes that might be relevant are not fixed.”
+
+68.  The Court of Appeal set out its reasons for adopting an updated construction of section 17 as follows :
+
+“70. The wording and structure of section 17 have been extensively discussed by this Court above. As for the original intent of the legislation, this Court believes that it cannot be clearer. Put simply, it is to punish the act of possessing instruments for criminal purposes, and the act is at the core of the offence. As the offence is preventive in nature and clearly aimed at cases involving less harm, it is therefore included in the basket of summary offences (while serious cases are covered by other ordinances). Of course, the articles and their categories listed in section 17 range from specific (such as wrist cuffs, handcuffs), relatively neutral (such as crowbars, skeleton-keys), to general in nature (other instruments fit for unlawful purposes), but it does not affect the provision’s original intent to punish possession of instruments for criminal purposes. The title of section 17 in the Summary Offences Ordinance is precisely ‘Possession of offensive weapon etc., with intent’.
+
+71. Considering the matter from the above perspective, this Court is of the view that there is nothing wrong with applying the ‘always speaking’ construction to interpret ‘unlawful purposes A’, which can effectively deal with criminals using various or even newly invented instruments to commit crimes. Yet, if that course is taken, the interpretation of ‘unlawful purpose(s) B’ must at the same time be opened up. Otherwise, the two would not be compatible, and that would hinder the implementation of the legislative intent of section 17. That is naturally so and self-evident. Taking the baseball bat as an example, it can be used in both fights and vandalism. Gloves can be used to prevent slipping and avoid leaving fingerprints. Therefore, they are common instruments for armed attacks and burglaries. As for knives and cutters, they are weapons which robbers and sexual offenders often use to threaten their victims. There are countless other similar examples. The fact is that any instrument fit for an unlawful purpose can be used to commit more than one type of offence. Even those articles expressly referred to in section 17 are no exception. Handcuffs used for the purpose of impersonating a police officer is a good example mentioned by both the case authorities and the trial magistrate.”
+
+69.   With respect, I am not convinced that any of these propositions provide a reason for giving section 17 a liberal, open-ended interpretation on the basis of the “always speaking” rule of construction.  In Royal College of Nursing v DHSS[73], Lord Wilberforce explained when it would not be appropriate to give an updated construction to a provision :
+
+“In interpreting an Act of Parliament it is proper, and indeed necessary, to have regard to the state of affairs existing, and known by Parliament to be existing, at the time. It is a fair presumption that Parliament's policy or intention is directed to that state of affairs. Leaving aside cases of omission by inadvertence, this being not such a case, when a new state of affairs, or a fresh set of facts bearing on policy, comes into existence, the courts have to consider whether they fall within the Parliamentary intention. They may be held to do so, if they fall within the same genus of facts as those to which the expressed policy has been formulated. They may also be held to do so if there can be detected a clear purpose in the legislation which can only be fulfilled if the extension is made. How liberally these principles may be applied must depend upon the nature of the enactment, and the strictness or otherwise of the words in which it has been expressed. The courts should be less willing to extend expressed meanings if it is clear that the Act in question was designed to be restrictive or circumscribed in its operation rather than liberal or permissive. They will be much less willing to do so where the subject matter is different in kind or dimension from that for which the legislation was passed. In any event there is one course which the courts cannot take, under the law of this country; they cannot fill gaps; they cannot by asking the question ‘What would Parliament have done in this current case – not being one in contemplation – if the facts had been before it?’ attempt themselves to supply the answer, if the answer is not to be found in the terms of the Act itself.” (emphasis added)
+
+70.  In HKSAR v Yuong Ho Cheung[74], Fok PJ, when applying the “always speaking” principle to the construction issue in that appeal, observed that a penal law may be applied to circumstances unforeseen at the time of its enactment, “so long as the case is fairly brought within its language” [75]. In other words, any updated construction must be constrained by the wording of the provision.  It must not give the provision a meaning its language cannot bear.
+
+71.  In the case of section 17, granted that there may well be a need in society for punishing the possession of instruments other than those covered by the section (as restrictively interpreted) in the prevention of crime particularly in recent years – and the offence may be described as “preventive” in nature targeting possession before any substantive crime is attempted or committed[76], the doctrine simply does not allow the court to ignore the language of the statutory provision and give it a blanket interpretation that totally disregards an applicable rule of construction (the ejusdem generis rule).
+
+72.  As explained, despite its deficiencies in drafting, section 17 provides a classic example of the application of the ejusdem generis rule.  The suggested unrestricted construction under the “always speaking” principle would, however, do violence to the language when read ejusdem generis.
+
+73.  Indeed, given this unrestricted construction of “other instrument fit for unlawful purposes”, there is no need to spell out any specific articles or instruments in the section.  It simply eclipses all the specific articles or instruments mentioned in section 17 and renders them redundant.  Moreover, the scope of application of the section would be extremely wide, covering many if not most items in daily use which can also be said to be fit for unlawful purposes.  Coupled with the equally unrestricted meaning given to the mens rea requirement(an intent to use the instrument for any unlawful purpose), this would give section 17 the widest possible scope of application.
+
+74.  In particular, it should be noted that unlike section 33 of the Public Order Ordinance[77] which makes it an offence for any person, without lawful authority or reasonable excuse, to have with him in any public place any offensive weapon, section 17 covers possession even in private, and this makes the construction given to section 17 by the Court of Appeal and contended for by the respondent even more far-reaching in scope and impact. 
+
+75.  In Tang Chi-ming, the Full Court saidthe section was not a convenient method of seeking to obtain a conviction against a suspect when there was insufficient evidence to charge him with an attempt to commit a crime[78].  The wider construction placed on section 17 by the Court of Appeal in this case would go far beyond using the offence in that way.  For under this construction, almost all articles or instruments can be considered as fit for some unlawful purposes so that the actus reus requirement is essentially non-existent.  In other words, under this construction, section 17 is in reality a thought crime, depending on what a defendant’s intent was at the material time (subject to proof).  There is simply no warrant to suggest that this was the legislative intent.
+
+76.  Quite the contrary, from the legislative history and evolution of section 17, it can be clearly seen that when the legislature wanted to update and enlarge the scope of section 17 to cover new articles or instruments, it would do so by a specific amendment to the Ordinance, and the class of new articles or instruments to be added would be carefully defined and supported by justification.  Restraint was exercised to ensure that the amendment would not cover articles or instruments not intended to be covered.  Thus, in the 1984 amendment, the newly added articles or instruments were either specifically identified or when described generally, restricted by reference to the purpose of manufacture, so as not to cover other articles such as a handkerchief or a piece of string, as the Attorney General unequivocally assured the legislature.
+
+77.  To now give, as the Court of Appeal did, the section a wide meaning and scope of application, on the supposed basis of the “always speaking” doctrine and the presumed intention of the legislature, would go contrary to what had happened in the past in the evolution of section 17, and the restrained, incremental approach of the legislature.  Such an “updating” would not be giving effect to the legislative intent.
+
+Overseas legislation
+
+78.  The respondent has drawn our attention to how broadly similar offences have been created in overseas jurisdictions, with a view to supporting its sweeping construction of section 17.  With respect, there are no doubt different ways to enact a possession offence like section 17.  What is important is to focus on section 17 and consider how best to interpret it in the light of its object, purpose, history and language.
+
+Respondent’s fallback construction
+
+79.  The respondent argues, as a fallback position, that “other instrument fit for unlawful purposes” should be read ejusdem generis to cover instruments “of a violating nature against person, property or place”.[79]
+
+80.  This construction must be rejected as it is wholly inconsistent with the English text of section 17 which covers three separate categories, and “other instrument fit for unlawful purposes” belongs to the third category only.  Nor is it supported by the Chinese text as there is simply no common genus to which the various articles and instruments grouped under the second category in the Chinese text belong.
+
+The specific mens rea requirement
+
+81.  As regards the specific mens rea requirement in section 17, ie “with intent to use the same for any unlawful purpose”, as explained, the early case law has placed a restrictive construction on the requirement, so that the intended unlawful purpose must correspond with the category of article or instrument in question. 
+
+82.  Section 17 refers to possession of the specific article or instrument “with intent to use the same for any unlawful purpose”.  The reference to intended use is important.  It occurs in section 17 after definition of the three categories of articles or instruments, each of which is defined by use or purpose.  Thus, in the restraint category, the genus of the articles or instruments is defined as “instrument or article manufactured for the purpose of physically restraining a person”, that is, an instrument or article manufactured for such intended use.  For the offensive weapon category, absent a statutory definition in the Summary Offences Ordinance, the commonly accepted definition of the term is found in section 2 of the Public Order Ordinance, that is, “any article made, or adapted for use, or suitable, for causing injury to the person, or intended by the person having it in his possession or under his control for such use”.  Offensive weapons are therefore defined by reference to use for causing personal injury.  Finally, in relation to the unlawful access category, the articles or instruments referred to are “fit for unlawful purposes”, meaning fit to be used for some form of gaining unlawful access.
+
+83.  Accordingly, the words “with intent to use the same for any unlawful purpose” should, as a matter of construction, take the meaning from the context of the uses and purposes set out in the earlier part of section 17.  It lays down the mens rea of intended use corresponding to the actus reus of the intended uses of the articles and instruments. 
+
+84.  For these reasons, the words “with intent to use the same for any unlawful purpose” must be understood to refer to an intent to use the offending article or instrument in a manner reflecting the stated use or purpose under the section. In other words, for an instrument or article falling within the restraint category, there must be an intent to use it for restraining a person.  For an offensive weapon, the defendant must intend to use it to inflict physical injury on another person, or intend to use it to threaten physical harm to another.  For an instrument or article falling within the unlawful access category, the intention must be to use it for obtaining unlawful access.  A mismatch between the stated use or purpose of an article or instrument falling within section 17 and the intended use of the same by the defendant would be fatal to a prosecution under the section.
+
+The present case
+
+85.  In the present case, the 6-inch plastic cable ties do not fall within the first category of “any wrist restraint or other instrument or article manufactured for the purpose of physically restraining a person”.  They were simply not manufactured for the purpose of physically restraining a person[80].  Plainly, they are not offensive weapons.  Nor are they instruments fit for gaining unlawful access.  They fall outside section 17.
+
+86.  For these reasons, the appellant’s possession of the bag of plastic cable ties was not caught by section 17, and he should not have been convicted under that section.
+
+Disposition
+
+87.  I would therefore allow the appeal and set aside the conviction and sentence. 
+
+Mr Justice Ribeiro PJ:
+
+88.  I agree with the judgment of the Chief Justice.
+
+Mr Justice Fok PJ:
+
+89.  I agree with the judgment of the Chief Justice.
+
+Mr Justice Lam PJ:
+
+90.  I agree with the judgment of the Chief Justice.
+
+Mr Justice Gleeson NPJ:
+
+91.  I agree with the judgment of the Chief Justice.
+
+Chief Justice Cheung:
+
+92.  Accordingly, the court unanimously allows the appeal and sets aside the conviction and sentence.
+
+ 
+
+ 
+
+(Andrew Cheung)	(R A V Ribeiro)	(Joseph Fok)
+Chief Justice	Permanent Judge	Permanent Judge
+  
+
+  
+
+(M H Lam)	(Murray Gleeson)
+Permanent Judge	Non-Permanent Judge
+  
+
+Mr Steven Kwan and Ms Charlotte OT Chan, instructed by O Tse & Co., for the appellant
+
+Mr Anthony Chau, DDPP (Ag) and Mr Wayne Lee, PP (attendance excused), of the Department of Justice, for the respondent
+
+[1] Cap 228.
+
+[2] ESCC 677/2020.
+
+[3] Mr Cheang Kei Hong.
+
+[4] Following 香港特別行政區 訴 梁有勝 (HKSAR v Leung Yau Sing) HCMA 293/2000, 6 May 2000, To DHCJ.
+
+[5] Reasons for findings dated 11 September 2020, [37] (iii)(c) and (d), [41].
+
+[6] Reasons for findings, [36], [51].
+
+[7] Poon CJHC, Derek Pang and Anthea Pang JJA.
+
+[8] HCMA 242/2020.
+
+[9] [2021] HKCA 1493.
+
+[10] [2022] HKCA 34, [5]-[6].
+
+[11] Ribeiro, Fok and Lam PJJ.
+
+[12] Cap 1.
+
+[13] [2022] HKCFA 5.
+
+[14] Chan Ka Lam v Country and Marine Parks Authority (2020) 23 HKCFAR 414, [26]-[27].
+
+[15] HKSAR v Cheung Kwun Yin (2009) 12 HKCFAR 568, [13]-[14].
+
+[16] Town Planning Board v Town Planning Appeal Board (2017) 20 HKCFAR 196, [29] (2).
+
+[17] [1980] AC 744, 807G - 808B.
+
+[18] 8th ed., pp 678 - 679.
+
+[19] Good Order and Cleanliness Ordinance 1844.
+
+[20] Good Order and Cleanliness Ordinance 1845.
+
+[21] The Good Order and Cleanliness Ordinance 1845 was re-structured to become the Summary Offences Ordinance 1845, and section 12 of the former became section 22 of the latter with no material change.  It was placed under the Chapter “Offences against good order”.  In 1933, the Summary Offences Ordinance 1933 was enacted to amend and consolidate the existing law and the former section 22 became section 16 of the 1933 Ordinance.
+
+[22] The Ordinance covered miscellaneous summary offences of all sorts – nuisances, trespasses, offences by carriers of nightsoil and pigwash, street cries, photography in court, smuggling by altering vessels, solicitation for immoral purpose, possession and importation of imitation firearms, riotous behavior, unlawful wearing of uniform, resistance or obstruction of public officer, fortune telling, loitering, drunkenness and smoking, amongst other things.
+
+[23] [1968] HKLR 242.
+
+[24] Mr Noel Power, later Power NPJ.
+
+[25] The magistrate must have meant “ejusdem generis” in the context, as “sui generis” means “of its own kind”.
+
+[26] pp 244 - 245.
+
+[27] p 247.
+
+[28] p 247.
+
+[29] [1968] HKLR 716.
+
+[30] Later Rigby CJ.
+
+[31] See footnote 25.
+
+[32] p 723.
+
+[33] p 731.
+
+[34] p 735.
+
+[35] pp 730 - 731.
+
+[36] Ordinance No 21 of 1975.
+
+[37] See Bennion, pp 773 - 774.
+
+[38] “ ‘Or’… shall be construed disjunctively and not as implying similarity, unless the word ‘similar’ or some other word of like meaning is added”.
+
+[39] [1977] HKLR 408.
+
+[40] p 411.
+
+[41] Ordinance No 2 of 1984.
+
+[42] Hansard (Official Report of Proceedings), 21 December 1983, 355.
+
+[43] [5].
+
+[44] p 247.
+
+[45] Cap 5.
+
+[46] Repealed by section 34 of the Legislation Publication Ordinance (Cap 614) which gives the Secretary for Justice editorial and revision powers to make amendments to legislation.
+
+[47] Repealed by section 34 of the Legislation Publication Ordinance.
+
+[48] Repealed : Ordinance No 46 of 1994, s 2.  Section 34 of the Interpretation and General Clauses Ordinance governs negative vetting of subsidiary legislation.
+
+[49] “或管有”.
+
+[50] “管有”.
+
+[51] [60].
+
+[52] Cap 383.
+
+[53] [1994] 2 HKCLR 263.
+
+[54] Ordinance No 68 of 1995.
+
+[55] [52]-[53], [73].
+
+[56] For instance, A-G v Ip Pui Leung [1989] 1 HKC 498, Michael Wong J; R v Ho Ka On [1996] 1 HKC 69, CA; HKSAR v Leung Wah Chai [1999] 4 HKC 556, Woo J; 香港特別行政區 訴 梁有勝; 香港特別行政區 訴 葉耀民[2021] HKCFI 1100, M Poon J; 香港特別行政區 訴 黃俊廸[2021] HKCFI 1319, Alex Lee J; HKSAR v Chan Tung Shing [2021] HKCFI 1669,Barnes J.
+
+[57] [1996] 1 HKC 69.
+
+[58] p 71B.
+
+[59] p 71E.
+
+[60] The court’s judgment was written in Chinese.  The extracts in this judgment are taken from its certified English translation.
+
+[61] That is, “unlawful purposes” in the phrase “other instrument fit for unlawful purposes”.
+
+[62] Re Madam L [2004] 4 HKC 115 provides an example of how difficult it could be to apply section 10B(3) in a given case : [29]-[41].
+
+[63] In HKSAR v Tam Yuk Ha [1997] HKLRD 1031, 1035F, Liu JA observed : “The Chinese language text could not have been intended to be remedial of the English language text.  Any rectification would have to be effected by an amendment, not by the other language text.”
+
+[64] See footnote 46.
+
+[65] As Cheung JA then was.
+
+[66] [1997] 1 HKC 1, 8H - 9B.
+
+[67] [2004] 1 HKLRD 683, [55].
+
+[68] See [48] above.
+
+[69] pp 271-272.
+
+[70] See the Court of Appeal’s judgment, [65].
+
+[71] [66]-[72].
+
+[72] pp 503 - 504.
+
+[73] [1981] AC 800, 822B-E.
+
+[74] (2020) 23 HKCFAR 311.
+
+[75] [55], quoting from Joyce v Director of Public Prosecutions [1946] AC 347, 366, per Lord Jowitt LC.
+
+[76] Court of Appeal judgment, [70].
+
+[77] Cap 245.
+
+[78] p 728.
+
+[79] Respondent’s Case, [18](d), [108].  This construction is similar to that reached in 香港特別行政區訴梁有勝 (HKSAR v Leung Yau Sing) where the court purported to construe “other instrument fit for unlawful purposes” ejusdem generis in accordance with the Chinese text to meanthose instruments that are fit for effecting bodily restraint, inflicting physical harm or housebreaking purposes (p 5).
+
+[80] I say nothing about those much longer plastic cable zip ties which are sometimes seen to be used by law enforcement agents for restraining persons, or their purpose of manufacture.
+
+ 

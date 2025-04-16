@@ -1,0 +1,316 @@
+CTEA 2/2022
+
+[2022] HKCT 4
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ENFORCEMENT ACTION NO 2 OF 2022
+
+________________
+
+BETWEEN
+
+ 	COMPETITION COMMISSION	Applicant
+and
+
+ 	ATAL BUILDING SERVICES ENGINEERING LIMITED	1st Respondent
+ 	ANALOGUE HOLDINGS LIMITED	2nd Respondent
+ 	SHUN HING ENGINEERING CONTRACTING COMPANY LIMITED	3rd Respondent
+ 	SHUN HING HOLDINGS COMPANY LIMITED	4th Respondent
+ 	SER KA WAI	5th Respondent
+ 	CHENG KIT SHUN	6th Respondent
+ 	KWAN SIU KIN	7th Respondent
+________________
+
+Before: Hon Harris J, President of the Competition Tribunal in Chambers
+
+Dates of Hearing: 26 July 2022
+
+Date of Decision: 31 August 2022
+
+________________
+
+D E C I S I O N
+
+________________
+
+
+Introduction
+
+1.  This is the first case management conference for proceedings commenced by the Competition Commission (“Commission”) by Originating Notice on 16 June 2022. The directions for the progress of the proceedings until close of pleadings have been agreed by the Parties. The 3rd, 4th and 7th Respondents (“3,4,7 Respondents”) have issued an application to strike out parts of the Originating Notice, which I have listed for hearing on 1 to 2 December 2022, although the Commission proposes to amend the Originating Notice to address their complaints, which may render the hearing unnecessary.
+
+2.  What has been contentious today has been the orders dealing with redaction of information in the Originating Notice and the terms of an order to establish a confidentiality ring to which disclosed documents believed by a party to justify limited circulation will be produced. The Respondents do not object to the redaction of information in the Originating Notice; but then they have no reason to do so. I have, however, declined to order redaction of the Originating Notice today and adjourned the application in order that it can be presented again when the problems I consider exist with the currently proposed redactions can be addressed. I will explain these in the following paragraphs. They are also relevant to the formulation of the confidentiality ring order.
+
+Confidentiality: the Statutory Scheme
+
+3.  The Competition Ordinance, Cap 619 (“Ordinance”) is concerned with conduct that prevents, restricts or distorts competition in Hong Kong. It also prohibits mergers that lessen competition in Hong Kong. The present proceedings concern the former. The Ordinance established a Commission, which is required to investigate possible breaches of the First and Second Conduct Rules. The Ordinance gives the Commission powers to require persons to provide it with information. The provider of the information may legitimately consider it confidential. Some of it maybe information that the Commission itself considers should not be made public because to do so may have an anti-competitive effect by virtue of it providing to competitors of a commercial party who produced it detailed information about the pricing of goods or services, which allows other participants in the market to adjust their prices in a manner which distorts competition. To address these potential issues the Ordinance contains in Part 8 a regime for the Commission or other person to seek an order from the Tribunal, which restricts distribution of information the Commission is satisfied it is undesirable should either be made public or provided to respondents to proceedings.
+
+4.  Section 123 of the Ordinance defines what constitutes confidential information for the purposes of the Ordinance:
+
+“Confidential information
+
+(1) In this Part—
+
+confidential information (機密資料) means—
+
+(a) information that has been provided to or obtained by the Commission in the course of, or in connection with, the performance of its functions under this Ordinance, that relates to—
+
+(i) the private affairs of a natural person;
+
+(ii) the commercial activities of any person that are of a confidential nature; or
+
+(iii) the identity of any person who has given information to the Commission;
+
+(b) information that has been given to the Commission on terms that or in circumstances that require it to be held in confidence; or
+
+(c) information given to the Commission that has been identified as confidential information in accordance with subsection (2).
+
+(2) If a person—
+
+(a) identifies information that the person has given to the Commission as confidential; and
+
+(b) provides a statement in writing setting out the reasons why, in that person’s opinion, the information is confidential,
+
+the information is also to be regarded as confidential information under this Part.”
+
+5.  Section 124 imposes on the Commission a duty to establish procedural safeguards to prevent unauthorised disclosure of information. The Ordinance also imposes an obligation on specified categories of persons (specified person, defined in s122) not to disclose confidential information obtained from the Commission or from a specified person.
+
+6.  Section 151 empowers the Tribunal to order a person not to publish or otherwise disclose any material the Tribunal receives.
+
+7.  Although the Ordinance, does not expressly address restrictions on the circulation and use of confidential information in proceedings commenced before the Tribunal in my view it is implicit in the provisions that I have explained that restrictions might be placed by the Tribunal on the use of confidential information adduced in proceedings before it. Section 158 of the Ordinance provides that the Chief Judge may, after consultation with the President of the Tribunal, make rules regulating the practice and procedure of the Tribunal. Consistent with it being implicit in the Ordinance that restrictions may be placed on the use of confidential information in proceedings before the Tribunal, Rules 24 and 37(1) of the Competition Tribunal Rules (Cap 619D) (“Rules”) provide:
+
+“24. Discovery and inspection of documents
+
+(1) A party may apply to the Tribunal for an order for discovery and production of a document relating to the proceedings from a person for inspection.
+
+(2) The application may be determined by the Tribunal with or without a hearing.
+
+(3) The Tribunal may make or refuse to make an order for discovery and production of a document having regard to all the circumstances of the case, including—
+
+(a) the need to secure the furtherance of the purposes of the Ordinance as a whole;
+
+(b) whether the information contained in the document sought to be discovered or produced is confidential;
+
+(c) the balance between the interests of the parties and other persons; and
+
+(d) the extent to which the document sought to be discovered or produced is necessary for the fair disposal of the proceedings.
+
+(4) Order 24 (except rules 1, 2, 3, 4 and 6) of the RHC applies to the discovery and production of documents in any proceedings.”
+
+“37. Confidential treatment of information
+
+(1) A party (the applicant) may apply for an order to treat the whole or part of the following document as confidential—
+
+(a) a document (other than an originating document) filed in connection with any proceedings; or
+
+(b) a document (including an originating document) intended to be filed, served or otherwise disclosed in connection with any proceedings.”
+
+8.  Rule 37(1) allows the Commission to make an application to the Tribunal, as it has done in the present case, for an originating notice, or part of it, to be redacted on grounds of confidentiality if it is “intended to be filed, served or otherwise disclosed…..”. This sub-rule envisages and enables the Commission to apply for an order that an originating notice be redacted prior to issues. Sub-rule (1)(a) provides that such an application cannot be made under the Rule after the originating notice has been filed. This would appear to conflict with [11] of Competition Tribunal Practice Direction No. 2 (Confidential Information), which provides a procedure to be followed by the Commission if it wishes information in the originating document (which the Commission accepts includes an originating notice of application, which was the originating process used in the present case) to be redacted from the version, which the public can obtain on payment of a fee (see Rule 56). For completeness I set out both [11] of the Practice Direction and Rule 56:
+
+(1) [11] of the Practice Direction:
+
+“An originating document filed in the Tribunal is open to inspection by the public upon payment of a fee. Where a party wishes to keep confidential any information in such a document, he should:
+
+(1) file in the Tribunal the full, unredacted version of the originating document with the words ‘Confidential Treatment Claimed" prominently marked at the top left corner on the first page and contained in an envelope marked "Confidential Treatment Claimed’;
+
+(2) file in the Tribunal in addition a redacted non-confidential version of the originating document, which is open to inspection by the public;
+
+(3) apply to the Tribunal in writing before or at the time of filing, specifying the information for which confidential treatment is requested and providing full justification.
+
+For samples showing how to mark an originating document, see Annex 2 to this Practice Direction.”
+
+(2) Rule 56:
+
+“Right of persons (other than parties) to inspect, etc. certain documents filed in Tribunal
+
+(1) A person (other than a party to the proceedings concerned) may, on payment of the prescribed fee, search for, inspect and obtain a copy of any of the following documents—
+
+(a) the copy of an originating document filed in respect of the proceedings;
+
+(b) any judgment given or order made by the Tribunal or the copy of that judgment or order;
+
+(c) with the leave of the Tribunal, any other document filed in respect of the proceedings.
+
+(2) An application for the leave under subrule (1)(c) may be made ex parte.
+
+(3) The person may search for, inspect and obtain a copy of the documents during the hours that the Registrar may direct.”
+
+9.  Rule 37(1) requires an application for confidential treatment of an originating notice to be made to the Tribunal before the proceedings are issued, not, as [11] necessarily assumes at the time it is issued. If the Tribunal has not issued an order that part of an originating process should be redacted a member of the public can pursuant to Rule 56 seek a copy of the unredacted version. The Rules take precedence to the Practice Direction. Thought needs to be given by the Tribunal to amending the Practice Direction. In the meantime the Commission should apply in writing to the President of the Tribunal in writing before proceedings are commenced for an order treating part of an originating notice or such other originating document as may be relevant, as confidential and to be redacted in versions available to the public. Rule 6(1) and (2) provide:
+
+“6. Effect of non-compliance with these Rules
+
+(1) Non-compliance with any of these Rules, or with any rule of practice that is in force, does not render any proceedings void unless the Tribunal so directs.
+
+(2) However, the Tribunal may—
+
+(a) set aside the proceedings, either wholly or in part, as irregular; or
+
+(b) amend, or otherwise deal with, the proceedings in the manner and on the terms that the Tribunal thinks fit.”
+
+10.  In my view sub-rule (2)(a) is sufficiently widely worded to allow me to waive the irregularity constituted by the Commission applying for a confidentiality order in respect of the present Originating Notice, and I shall so waive it. As I have already mentioned the application for a confidentiality order has been adjourned. This is in order that the Commission can consider further whether it is necessary for all the information of which it has sought redaction to be treated as confidential (which includes all the names of individuals referred to in the Originating Notice other than the 5th, 6th and 7th Respondents) and file further evidence; the necessity for the latter is explained in [25] below.
+
+Hong Kong Authorities—The Principles relevant to redaction of confidential information and confidentiality circles
+
+11.  I have already explained the sections of the Ordinance and Rules which are relevant. There are two authorities of the Tribunal that deal with applications for redaction and confidentiality rings. The first is the decision of G Lam J in March 2017 in Competition Commission v Nutanix Hong Kong Ltd, & others[1], at which time he was the President of the Tribunal. This is a short decision in which Lam J was satisfied, at least on an ex parte basis, that the following information contained in the originating notice should be kept confidential as against the public: (1) prices submitted in two tenders; (2) the identities of the individuals employed or formerly employed by YWCA and the five respondents referred to in the originating notice of application; and (3) the identity of the complainant.
+
+12.  Au-Yeung J gave a more extensive decision discussing the principles, which guide the Tribunal in making confidentiality orders in Taching Petroleum Company Ltd v Meyer Aluminium Ltd; Shell Hong Kong Ltd v Meyer Aluminium Ltd[2]. Taching was an unusual case because it was a writ action brought by Taching and Shell to recover a debt and Meyer’s defence was that Taching and Shell had breached the First Conduct Rule. At the second case management conference Shell sought an order that permitted it to redact part of its points of reply and Meyer sought to add two non-legal representatives to the confidentiality ring that had been proposed by Shell and Taching, but not agreed by Meyer. The parties agreed that the Tribunal had the power under section 143(1)(b) of the Ordinance which deals with production and inspection of documents to order a confidentiality ring.
+
+13.  In considering the principles that guide the Tribunal in determining whether or not to order a confidentiality ring, and, if one is to be ordered, on what terms, Au-Yeung J held the following.
+
+(1) “Under r.24(4) of the Competition Tribunal Rules (Cap.619D, Sub.Leg.), the Tribunal may make an order for discovery having regard to, amongst others, the confidential nature of the information, the balance between the interests of the parties and other persons, and the extent to which the discovery is necessary for the fair disposal of the proceedings.”
+
+(2) The starting point in any civil proceedings is that it is the party who will be affected by a decision, not their advisers to decide how to advance or respond to a case: [12]. Discovery is made to a party not their solicitors: [13]. This allows the parties to litigate on equal footing and is a principle of natural justice: [14]. There is a difference between discovery and inspection: [15].
+
+(3) It would be exceptional to prevent a party from having access to information, which would play a substantial part in a case: [16]. A balance needs to be struck between the need to preserve confidentiality and the principle of natural justice: [17].
+
+(4) Care must be taken to distinguish between cases involving private litigants and those involving a regulator such as the Commission: [18]. The issue is not a matter of ensuring that parties to commercial litigation are placed on an equal footing. The question is how much confidential information provided to the regulator by third party for the purpose of the regulatory function should be disclosed to the applicant: [18].
+
+(5) Mere confidentiality is not enough to justify restricting its inspection. Confidentiality and sensitivity of information is to be proved by evidence: [19] and [20]. The onus is on the party seeking to show that the case is sufficiently exceptional to justify restrictions on disclosure to the other party, notwithstanding undertakings as to confidentiality, rather than on the party who is prime facie entitled to see the document: [21].
+
+(6) It is recognised in competition law that one man’s market advantage is invariably another’s market disadvantage. It is difficult for the recipient of confidential information to unlearn information once it is received: [22]. So the starting point mentioned in (2) above, may be modified and derogated from to take account of the confidential nature of the information by the use of confidentiality rings: [23]. However this is the exception rather than the rule: [24].
+
+(7) A staged approach to the use of confidentiality rings is necessary. As issues crystallise and lawyers are able to make more informed decisions about the relevance of documents, they can form a view on whether individuals from clients not in the confidentiality ring need to see documents: [25]–[29].
+
+(8) Au-Yeung J gives an examples in [30]–[36] of how in practice confidentiality rings can be used. I have not been taken to the cases to which Au-Yeung J refers, but from my reading of them after the hearing it would appear that all the cases (Roussel Uclaf v ICI[3] ; IPCOM GmbH v HTC Europe Co. Ltd & others[4] and TQ Delta LLC v Zyxel Communications UK Ltd[5]) are patent cases and the controversy arose from a party requiring limitations to be imposed on the representatives of the other party, who were part of a confidentiality ring and were to have access to confidential documents. Rather than address in a regulatory context what principles govern confidentiality they serve more as illustrations of how confidentiality is to be understood and managed in cases in which the confidential information (intellectual property) is the subject matter of the dispute. In a competition case in which the subject matter is an alleged contravention of the First Conduct Rule, the confidential information has a less central role to that in a patent case, it being evidence relevant to the determination of whether a contravention has taken place.
+
+14.  The Commission was not represented in Taching, but I did not understand Mr Nip who appeared for the Commission to suggest that Au-Yeung J’s analysis was incorrect or needed material supplementation. Having said that, I recognise that the Commission may wish to address the principles further when the application is brought on again. It may be helpful if at this stage if I identify matters, which in my view require further consideration.
+
+15.  The 5th, 6th and 7th Respondents are individuals. The Commission seeks against each of them pecuniary penalties. G Lam J explains in Competition Commission v Nutanix Hong Kong Limited & others[6] that as the Tribunal was invited to impose penalties, the proceedings involved, as the Commission accepted, the determination of a criminal charge. Lam J says this in [50]:
+
+“50. The Commission accepts, in my view correctly, having regard to the well-known Engel criteria[7] and the pecuniary penalties that the Tribunal is invited to impose, that these proceedings involve the determination of a criminal charge within the meaning of Arts. 10 and 11 of the Bill of Rights.[8] The parties are in dispute, however, as to whether the standard of proof to be applied in these proceedings is the criminal standard of proof beyond reasonable doubt or the civil standard of proof on the balance of probabilities.”
+
+16.  In my view the Commission’s suggestion that at the commencement of proceedings individual respondents, who have no representatives other than their lawyers, should be excluded from the confidentiality ring is unsustainable. Self-evidently, the individual respondents need to know the contents of documentary evidence before they can give instructions. Excluding the individual respondents from the confidentiality circle at the outset only serves to delay a substantive decision about whether they should be included in the circle. The Commission has not in my view demonstrated at this stage a legitimate reason for preventing them having access to information, which they clearly need in order to defend themselves against serious allegations of misconduct, which as Lam J explains in Nutanix is properly characterised as a criminal charge. In these circumstances in my view they should be included in the confidentiality ring.
+
+17.  The same also applies in my view to the boards of directors of the corporate respondents. A company makes important decisions about its affairs by resolutions passed by its board; it cannot do so if some directors are deprived of relevant information. If the Commission wishes to argue that limitations be imposed on the information available to some of the directors the Commission must adduce credible evidence supporting whatever concerns the Commission suggests it has about all information being made available to all board members. It may be, for example, that the Commission proposes that the directors have to sign express undertakings to the Tribunal only to use the information they receive for limited purposes. Something more than the general concerns advanced by Ms Charlotte Ho, who is the Head (Investigations II) at the Commission is required. As Ms Ho’s evidence is brief I will quote it in full to demonstrate how vague are the Commission’s reasons for seeking redactions. No evidence has been filed directed specifically to the scope of the proposed confidentiality ring.
+
+“21. With respect to all of the Relevant Information, the Commission wishes to seek confidential treatment against the public at large for the following reasons:
+
+(a) in relation to the Requester Prices and the Cover Prices, the Commission considers that this information is competitively and/or commercially sensitive information and should be kept confidential as against the public. Were such information to be disclosed to the public, competitors of ATAL and Shun Hing Engineering may potentially take such information into account when bidding against ATAL and Shun Hing Engineering in future. This applies to both the Requester Prices and the Cover Prices (which were usually set using the Requester Prices as reference); and
+
+(b) in relation to the Identities and Job Titles of Individuals Not Pursued, the disclosure of the same to the public at least before the trial of this case might significantly harm their interests, including by subjecting them unnecessarily to public scrutiny, the consequences of which may be embarrassing or damaging to both their personal and professional reputations. The Commission therefore takes the view that it would not be in the interests of justice or indeed the public interest to unnecessarily expose them to the risks mentioned above before the trial of this case.”
+
+The right of the Respondents to a fair and public hearing
+
+18.  Open justice is a central feature of our legal system. Article 10 of the Hong Kong Bill of Rights, Cap 383, provides:
+
+“Equality before courts and right to fair and public hearing
+
+All persons shall be equal before the courts and tribunals. In the determination of any criminal charge against him, or of his rights and obligations in a suit at law, everyone shall be entitled to a fair and public hearing by a competent, independent and impartial tribunal established by law. The press and the public may be excluded from all or part of a trial for reasons of morals, public order (ordre public) or national security in a democratic society, or when the interest of the private lives of the parties so requires, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice; but any judgment rendered in a criminal case or in a suit at law shall be made public except where the interest of juvenile persons otherwise requires or the proceedings concern matrimonial disputes or the guardianship of children.”
+
+19.  In the criminal law context the English House of Lords in R v Davis[9] considered the practice of a court authorising witness anonymity. The House of Lords held that such a practice was irreconcilable with the common law rule that subject to recognised exceptions and statutory qualifications a defendant in criminal proceedings should be confronted by his accusers so he might cross-examine them and challenge their evidence. Changes to this rule was a matter for the legislature not the court and such a practice was inconsistent with Article 6(3)(d) of the European Convention of Human Rights, which provides:
+
+“1. In the determination of his civil rights and obligations or of any criminal charge against him, everyone is entitled to a fair and public hearing within a reasonable time by an independent and impartial tribunal established by law. Judgment shall be pronounced publicly but the press and public may be excluded from all or part of the trial in the interests of morals, public order or national security in a democratic society, where the interests of juveniles or the protection of the private life of the parties so require, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice.
+
+2. Everyone charged with a criminal offence shall be presumed innocent until proved guilty according to law.
+
+3. Everyone charged with a criminal offence has the following minimum rights:
+
+…
+
+(d) to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him.”
+
+20.  The judgment led to the prompt passing of the Criminal Evidence (Witness Anonymity) Act 2008, which introduced a new procedure for witness anonymity orders. The new statutory regime was comprehensively analysed by the Court of Appeal in R v Mayers, R v Glasgow, R v Bahmanzadeh, R v P[10]. Section 11 of the Act provides:
+
+“(1) This section applies where—
+
+(a) an appeal court is considering an appeal against a conviction in criminal proceedings in a case where the trial ended before commencement, and
+
+(b) the court from which the appeal lies (“the trial court”) made a pre-commencement anonymity order in relation to a witness at the trial.
+
+(2) The appeal court—
+
+(a) may not treat the conviction as unsafe solely on the ground that the trial court had no power at common law to make the order mentioned in subsection (1)(b), but
+
+(b) must treat the conviction as unsafe if it considers—
+
+(i) that the order was not one that the trial court could have made if this Act had been in force at the material time, and
+
+(ii) that, as a result of the order, the defendant did not receive a fair trial.”
+
+21.  Lord Judge CJ explains the new Act in [5]–[7] of his judgment:
+
+“5. Section 1 creates the new rules which apply to witness anonymity in criminal proceedings. The section continues:
+
+‘(2) The common law rules relating to the power of a court to make an order for securing that the identity of a witness in criminal proceedings is withheld from the defendant (or, on a defence application, from other defendants) are abolished.
+
+(3) Nothing in this Act a›ects the common law rules as to the withholding of information on the grounds of public interest immunity.’
+
+Notwithstanding the abolition of the common law rules, it is abundantly clear from the provisions of the Act as a whole that, save in the exceptional circumstances permitted by the Act, the ancient principle that the defendant is entitled to know the identity of witnesses who incriminate him is maintained.
+
+6. The Act simultaneously seeks to address the provisions of the European Convention for the Protection of Human Rights and Fundamental Freedoms and the relevant jurisprudence of the European Court of Human Rights, by seeking to preserve the delicate balance between the rights of the defendant, including his entitlement to a fair trial and public hearing, and to examine or have the witnesses who inculpate him properly examined, (article 6) and the witness’s right to life (article 2) and physical security (article 3) and indeed the right to respect for his or her private life (article 8). The need for this balance has been addressed in a number of decisions of the European court, including Kostovski v The Netherlands (1989) 12 EHRR 434; Doorson v The Netherlands (1996) 22 EHRR 330 and Van Mechelen v The Netherlands (1997) 25 EHRR 647.
+
+7. In his commentary on R v Davis [2008] AC 1128 in the House of Lords Professor Andrew Ashworth [2008] Crim LR 917 highlighted a point of contrast between the approach of the House of Lords in R v Davis, which focused significantly on the protection of the interests of defendants, and R v G (Secretary of State for the Home Department intervening) [2008] 1 WLR 1379, which appears to have concentrated more closely on the rights of witnesses. The Act must be taken to reflect Parliament’s view of how best to address the countervailing interests which arise in every criminal trial, those of the defendant, the witnesses and victims, as well as the public interest in a fair trial process which protects the interests of both, and so far as possible, secures the conviction of those who are guilty and the acquittal of those who are not. It provides a comprehensive statutory structure to deal with the many potentially conflicting problems to which witness anonymity may give rise. It does so in the context of numerous other provisions which address the fairness of the trial process as well as the protection of witnesses and the preservation of their rights, whether they are to be found in statute, the common law or in the jurisprudence of the European court.”
+
+22.  In [16]–[17] Lord Judge CJ explains the preconditions which must be satisfied before a witness anonymity order may be made:
+
+“16. Section 4 identifies the express preconditions which must be established before a witness anonymity order may be made. It provides:
+
+‘(1) This section applies where an application is made for a witness anonymity order to be made in relation to a witness in criminal proceedings.
+
+(2) The court may make such an order only if it is satisfied that conditions A to C below are met.
+
+(3) Condition A is that the measures to be specified in the order are necessary—(a) in order to protect the safety of the witness or another person or to prevent any serious damage to property, or (b) in order to prevent real harm to the public interest (whether affecting the carrying on of any activities in the public interest or the safety of a person involved in carrying on such activities, or otherwise).
+
+(4) Condition B is that, having regard to all the circumstances, the taking of those measures would be consistent with the defendant receiving a fair trial.
+
+(5) Condition C is that it is necessary to make the order in the interests of justice by reason of the fact that it appears to the court that—(a) it is important that the witness should testify, and (b) the witness would not testify if the order were not made.
+
+(6) In determining whether the measures to be specified in the order are necessary for the purpose mentioned in subsection (3)(a), the court must have regard (in particular) to any reasonable fear on the part of the witness—(a) that the witness or another person would suffer death or injury, or (b) that there would be serious damage to property, if the witness were to be identified.’
+
+17. We immediately emphasise that all three conditions, A, B and C, must be met before the jurisdiction to make a witness anonymity order arises. Each is mandatory. Each is distinct. However clearly two of the three conditions are met, the jurisdiction to make an order does not arise unless the third condition is also satisfied. When all three conditions are met, but not until they are met, the jurisdiction to make a witness anonymity order arises. We shall defer attention to these conditions until we have addressed the statutory considerations which bear on the decision.”
+
+23.  In [37] he addresses the burden of proof:
+
+“The court must be satisfied that the conditions are met. There was some discussion about the burden and standard of proof, but in the context of the witness anonymity process as established by the Act, the topic proved arid. The short answer is found in the language of the conditions A to C itself. The use of the word ‘necessary’ requires that the court must be satisfied to the highest standard. ‘Probably’ necessary will not do. Even if the ‘necessity’ foundations for conditions A and C are established, the order cannot be made unless the court is also satisfied that the forthcoming trial, or the current trial, would be, or continues to be fair.”
+
+24.  What emerges from these two English decisions, which is relevant is (1) the strong presumption that all evidence should be available to a person, who has to defend a criminal charge; (2) rendering evidence anonymous whether by hiding the identity of a witness from a defendant (or in the present case a respondent) is exceptional; and (3) a party seeking anonymity must adduce evidence that establishes that it is necessary, not that it is probably necessary.
+
+25.  This, as one would expect, is broadly consistent with the principles discussed by Au-Yeung J in her judgment in Taching, in particular that the need to redact information, and it seems to me that generally it does not matter whether it is the identity of a prospective witness or information, must be proved by evidence and that such orders will be exceptional. In my view the fact that the proceedings are commenced by a regulator (as opposed to, for example, a party attempting to protect intellectual property rights) is not of itself a significant consideration. What is relevant is how evidence has been obtained, the character of the proceedings and the case the respondent has to meet. What are likely to be important considerations are, first, the wish of a third party, who had been compelled to provide to the Commission information it legitimately considers confidential, that the information is kept confidential and secondly, the Commission’s concern that information is not made public if the consequences of it being made public are to facilitate anti-competitive practices. These are considerations to be taken into account when assessing an application and balancing them against the rights of a respondent. As I have emphasised, applications to keep information confidential must be supported by evidence capable of demonstrating that the restrictions sought are necessary. Ms Ho’s evidence in my view falls far short of satisfying this criterion. If Ms Ho’s evidence is the best the Commission can do it probably means the application is misconceived.
+
+26.  These principles and how they apply to competition cases can be considered further when the application comes back before the Tribunal. It is desirable that they are clarified as soon as possible. My impression is that the Commission has erroneously assumed that obtaining confidentiality orders is routine and easy. For example in the present case the Commission proposes that the names of all individual mentioned in the Originating Notice other than the Respondents is redacted. Not attempt has been made to distinguish between them. This approach is wrong and needs to be reconsidered.
+
+The Confidentiality Ring
+
+27.  I will make an order in the terms as agreed by the Parties subject to my decision in respect of the inclusion of the individual respondents and the directors of the corporate respondents. They will be included in the confidentiality ring.
+
+ 
+
+ 
+
+ 	(Jonathan Harris)
+ 	President of the Competition Tribunal
+ 
+
+Mr Norman Nip SC and Ms Leticia Tang, instructed by Dentons Hong Kong LLP, for the applicant
+
+Mr Abraham Chan SC and Mr Joshua Chan, instructed by Deacons, for the 1st and 2nd respondents
+
+Ms Catrina Lam and Ms Tinny Chan, instructed by William Lam & Co, for the 3rd, 4th and 7th respondents
+
+Mr Patrick Siu, instructed by Morley Chow Szeto, for the 5th and 6th respondents
+
+
+[1]   CTEA 1/2017, 28 March 2017.
+
+[2]   [2019] 6 HKC 553; [2019] HKCT 1.
+
+[3]   [1990] RPC 45 TQ.
+
+[4]   [2013] EWHC 52 (Pat).
+
+[5]   [2018] EWHC 1515 (Ch); [2018] FSR 34.
+
+[6]   CTEA 1/2017, 17 May 2019; [2019] HKCT 2.
+
+[7]   See Engel v The Netherlands (No 1) (1976) 1 EHRR 647 for the criteria, namely, (1) the classification of the offence under domestic law; (2) the nature of the offence; and (3) the nature and severity of the potential sanction.
+
+[8]   Section 8 of the Hong Kong Bill of Rights Ordinance (Cap 383).
+
+[9]   [2008] UKHL 36, [2008] 1 AC 1128.
+
+[10]   [2008] EWCA Crim 2989, [2009] 2 All ER 145.
+
+ 
+

@@ -1,0 +1,126 @@
+FAMC No. 27 of 2021
+
+[2021] HKCFA 39
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 27 OF 2021 (CRIMINAL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL
+
+FROM HCMA NO. 209 OF 2019)
+
+___________________________
+
+BETWEEN	 	 
+HKSAR	Respondent
+and	
+TSO TING KAI (曹挺楷) (D1)	1st Applicant
+ 	WONG WAI PANG (黃偉鵬) (D2)	2nd Applicant
+ 	CHEUNG PAK LUN (張柏倫) (D3)	3rd Applicant
+___________________________
+
+Appeal Committee: Mr Justice Fok PJ, Mr Justice Lam PJ and Mr Justice Chan NPJ
+
+Date of Hearing and Determination:  1 November 2021
+
+Date of Reasons for Determination:  5 November 2021
+
+________________________________
+
+REASONS FOR DETERMINATION
+
+________________________________
+
+Mr Justice Fok PJ:
+
+1.  At the hearing, after hearing counsel for the applicants, we dismissed this application for leave to appeal to the Court of Final Appeal, indicating that we would provide our reasons in due course.  These are those reasons.
+
+2.  The three applicants were each convicted, after trial, of the offence of failing to comply with a requirement made by an occupational safety officer, contrary to sections 4(1)(e) and 10(3)(a) of the Factories and Industrial Undertakings Ordinance (Cap.59) (“the Ordinance”).[1]
+
+3.  So far as material, these sections provide respectively:
+
+“4. Powers of officers
+
+(1) An occupational safety officer may exercise the following powers –
+
+…
+
+(e)  to examine, either alone or in the presence of any other person, as he thinks fit, respecting matters under this Ordinance, any person whom he finds in any industrial undertaking, or whom he has reasonable cause to believe has been within the preceding 2 months employed in any industrial undertaking, or require any such person to be so examined and to sign a declaration of the truth of the matters respecting which he has been so examined; …”
+
+“10. Offences and penalties
+
+(3) Any person who –
+
+(a) fails to comply with a requirement made by any officer under section 4(1); or
+
+(b) wilfully or recklessly gives false information or withholds information as to any of the matters in respect of which information is required to be given under section 4(1); or
+
+(c) obstructs or delays any officer in the exercise of any of the powers conferred upon him by section 4,
+
+shall be guilty of an offence and shall be liable to a fine at level 5.”
+
+4.  The applicants’ prosecution arose out of a fatal industrial accident on a construction site at Tung Chung, of which their employer, Able Engineering Company Limited, was the main contractor.  After the accident, Mr Lee Chi Ming, an occupational safety officer, who testified at trial as PW1, issued letters to each of the three applicants requiring them to attend examinations by PW1 to provide information about the accident and sign a declaration of truth to verify any information provided.  The applicants did not attend their examinations.  Instead, they sought a series of postponements until eventually they were prosecuted.
+
+5.  At trial, [2] the magistrate: (1) found that the three applicants did not attend any of the scheduled examinations; (2) accepted that the parties’ joint submission that the requirement of mens rea for the offence had been displaced and the offence was to be regarded as falling within the second alternative in Kulemesin v HKSAR (2013) 16 HKCFAR 195 was correct; and (3) found that the three applicants could not have had an honest and reasonable belief that the Labour Department would allow the indefinite postponement of their examinations.
+
+6.  On appeal,[3] the applicants resiled from the position adopted at trial and contended that the magistrate was wrong to hold that the presumption of mens rea for the offence had been displaced.  The deputy judge rejected this ground of appeal.  He also rejected the other grounds of appeal advanced by the applicants and dismissed their appeals against conviction.
+
+7.  The applicants sought certification from the judge of a point of law.[4]  The deputy judge refused to grant the same as he was not satisfied the point of law sought to be raised was of great and general importance or that it was reasonably arguable.
+
+8.  Before us, the applicants sought to renew their application for leave to appeal on the basis that the appeal involves a point of law of the sufficient importance to justify the grant of leave to appeal, namely:
+
+“In proving an offence under Section 4(1)(e) and 10(3)(a) of the Factories and Industrial Undertakings Ordinance, Cap.59 (‘the Offence’), does the Prosecution need to prove mens rea on the part of the Accused.”
+
+9.  Whilst this is a question of law of general application, since it relates to a statutory offence generally applicable, we were not satisfied that the question is one which satisfies the threshold for the grant of leave to appeal to the Court of Final Appeal.
+
+10.  The question of whether, in respect of any statutory offence, mens rea has been displaced is one of construction and, as reformulated in Kulemesin, there are five constructional choices that present themselves when asking, in tandem, the questions of whether the presumption of mens rea has been displaced and, if so, by what: HKSAR v Leung Chung Hang Sixtus [2021] HKCFA 24 at [9]-[13].
+
+11.  In his judgment at [43] to [60], the deputy judge approached the question of construction of sections 4(1)(e) and 10(3)(a) of the Ordinance in accordance with the principles set out in Kulemesin and rejected the applicants’ ground of appeal that the presumption of mens rea had not been displaced, and held that the offence was one falling in the second alternative of the constructional choices presented.
+
+12.  We were satisfied it is not reasonably arguable that the deputy judge’s conclusion was wrong.  The contrast between the statutory language of section 10(3)(b), which requires the defendant to have given false information or withheld information “wilfully or recklessly”, with section 10(3)(a) which contains no such language in relation to the failure to comply with a requirement, points strongly in favour of the displacement of a full mens rea requirement for that element of the latter offence.  This conclusion is not affected by the exercise, undertaken in the applicants’ written submissions, of comparing other statutory offences penalising a failure to comply with the requirements of investigative bodies which expressly incorporate a defence of “without reasonable excuse”.  Those offences fall to be construed on their own language and in the light of the context and purpose of those particular statutory provisions.
+
+13.  Insofar as the deputy judge spoke of the offence being “a strict liability offence”, however, we would observe that section 10(3)(a) necessarily requires the defendant to be aware of the requirement of the occupational safety officer under section 4(1)(e) before he can be guilty of the offence of failing to comply with that requirement.  As such, it is not a truly strict or absolute liability offence in the nature of a wholly regulatory offence.  Care should be taken not to overuse that description of an offence as it is capable of leading to confusion: cf. HKSAR v Leung Chung Hang Sixtus at [45].
+
+14.  Furthermore, we were informed by the respondent that the Labour Department has confirmed that no prosecution has been brought in the past 20 years for the offence under sections 4(1)(e) and 10(3)(a) of the Ordinance and there is no pending prosecution thereunder.  If so, this would be a further reason to decline to grant leave to appeal, since the question would not be of great and general importance.  However, it is not necessary to rest the determination of this application on that basis.
+
+15.  The applicants also sought leave to appeal on the basis of substantial and grave injustice.  It was said the deputy judge departed from accepted norms in upholding the magistrate’s findings that: (1) the applicants had committed the actus reus of the offence; (2) the presumption of mens rea for the offence had been displaced and the offence was in the second alternative under Kulemesin; and (3) the applicants cannot have held honest and reasonable beliefs so as to satisfy the requirements of the common law defence under that second alternative.
+
+16.  The alleged substantial and grave injustice based on the appropriate mens rea of the offence falls away in light of the conclusion reached on the point of law ground.
+
+17.  So far as the other two bases of alleged substantial and grave injustice are concerned, we were satisfied that the applicants’ arguments were nothing more than an attempt to re-argue factual disputes already determined against them below.  Thus, in their written submissions, the applicants contended that “the Magistrate had committed a number of errors, mistakes or irregularities exceeding a certain margin so as to render the convictions unsafe”.[5]  This is not the correct approach since it is not the task of the Court of Final Appeal to operate as a second appellate tier: see Kosar Mahmood v HKSAR, unreported, FAMC 31/2012, 16 October 2012 at [5]; HKSAR v Sham Man Wai (2014) 17 HKCFAR 825 at [7]-[8].
+
+18.  In any event, we were satisfied it was open to the magistrate to conclude that the actus reus of the offence was made out against each applicant and that none of them had an honest and reasonable belief that they were not required to comply with the relevant request to attend for examination on the dates in question. On the evidence presented at trial, there was plainly a proper basis for the findings made by the magistrate and upheld by the deputy judge.  As the deputy judge pointed out,[6] the applicants did not even request a change of date of the examinations stipulated in the last letters in the series of letters sent to each of them.  As such, we were not persuaded it was reasonably arguable that the deputy judge was wrong in concluding[7] that he could draw the inference from their conduct that they deliberately did not attend for examination and did not comply with the relevant requirements of PW1.
+
+19.  For these reasons, we dismissed the application for leave to appeal.
+
+ 
+
+ 
+
+  (Joseph Fok)	 (M H Lam)	 (Patrick Chan)
+Permanent Judge	Permanent Judge	Non-Permanent Judge
+ 
+
+Mr Eric Kwok SC, Mr Tony C.Y. Li and Mr Charles H.L. Kwok, instructed by Simon C.W. Yung & Co., for the 1st to 3rd Defendants (Applicants)
+
+Mr Ira Lui ADPP, of the Department of Justice, for the Respondent
+
+[1] The 2nd applicant was also charged with the additional offence of obstruction or delay of the exercise of powers by an occupational safety officer but was acquitted of that offence.
+
+[2] WKS 6071, 6073, 6074, 6076, 6077/2018, Deputy Magistrate Jessica WY Chan, Statement of Findings dated 30 April 2019.
+
+[3] HCMA 209/2019, [2021] HKCFI 29, Deputy High Court Judge Tam, Judgment dated 8 January 2021.
+
+[4] HCMA 209/2019, [2021] HKCFI 411, Decision dated 17 February 2021.
+
+[5] Skeleton for A1 to A3 at [11].
+
+[6] [2021] HKCFI 29 at [27]-[28].
+
+[7] Ibid. at [54].
+
+ 
+

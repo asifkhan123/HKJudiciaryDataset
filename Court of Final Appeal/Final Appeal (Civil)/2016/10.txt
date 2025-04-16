@@ -1,0 +1,721 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 8 of 2016
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 8 OF 2016 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 25 OF 2014)
+
+_____________________
+
+BETWEEN
+ 	TOWN PLANNING BOARD	Applicant
+(Respondent)
+ 	and	
+ 	TOWN PLANNING APPEAL BOARD	Respondent
+ 	NAM SANG WAI DEVELOPMENT COMPANY LIMITED and
+KLEENER INVESTMENT LIMITED	Interested Parties
+(Appellants)
+_____________________
+
+Before: Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Tang PJ, Mr Justice Fok PJ and Lord Millett NPJ
+Date of Hearing: 5 January 2017
+Date of Judgment: 16 February 2017
+______________________________________
+
+J U D G M E N T
+
+________________________________________
+
+
+Chief Justice Ma:
+
+A.   INTRODUCTION
+
+1.  A discrete, but important, point of statutory construction arises for determination.  The relevant provision is s 17(1) of the Town Planning Ordinance Cap 131 (the TPO).[1] The judgments of the lower courts[2] dealt with that provision as it stood prior to the amendments made to the Ordinance in 2004.[3]  I shall presently explain the reason for looking at the former provisions of the Ordinance although it will also be necessary in this appeal to look at the effect of current provisions of the Ordinance.  The importance of the question in this appeal lies in determining the limits of the jurisdiction of the Town Planning Board (the TPB) (the respondent in the appeal) under s 17 of the Ordinance to review decisions it has made under s 16.
+
+2.  The background facts should first be set out.  They derive mainly from the judgments of the courts below. In 1992, the appellants[4] (Nam Sang Wai Development Company Limited and Kleener Investment Limited, both part of the Henderson Land Group), who were land developers, proposed to develop certain areas in Nam Sang Wai and Lut Chau in the northwest New Territories.  These areas were at the time covered by a draft plan for the layout of the relevant areas.[5] Under this draft plan, there were certain areas in which residential or recreational uses were not permitted as of right but where permission could be sought from the TPB for such uses.  The appellants accordingly sought permission in August 1992 from the TPB under s 16 of the TPO for a development which included an 18‑hole golf course, residential units and a nature reserve (the relevant areas are close to the Mai Po Nature Reserve).  The TPB refused permission and on a review (under s 17 of the TPO), the initial refusal was upheld.  This was in June 1993.  The appellants then appealed to the TPAB.[6]  The Appeal Board allowed the appeal and granted planning permission subject to certain conditions set out in the Appendix to its Decision dated 26 August 1994.
+
+3.  These planning conditions imposed by the Appeal Board (which in fact were proposed by the appellants) included the submission and implementation by the appellants of a master layout plan :-
+
+“(c) Submission and implementation of a detailed master layout plan including phasing/programming of development, schedule of housing type and parking spaces to the satisfaction of the Director of Planning or of the Board”.
+
+I shall refer to this condition as “condition (c)”.
+
+4.  Another of the conditions was that the permission given to the appellants to commence the development would cease to have effect five years from the date of the giving of the permission, unless extended.
+
+5.  Following the allowing of the appeal, the TPB whose initial refusal of permission had been reversed, applied for the TPAB’s determination to be judicially reviewed.  These proceedings were eventually dismissed by the Judicial Committee of the Privy Council in December 1996 by a majority decision of three to two.[7]
+
+6.  After that, for reasons which are not necessary to go into, the matter dragged on.  The appellants submitted plans and other documents to various Government departments to satisfy the planning conditions but these were not accepted.  Extensions for permission to develop were sought and obtained.  There have been four extensions altogether. In September 2010, in a bid to satisfy condition (c), the appellants submitted a master layout plan to the Planning Department.  In December 2010, the Planning Department refused to consider it (and therefore was not satisfied) on the basis that the proposals deviated substantially from the approved scheme of development.
+
+7.  Thereupon, the appellants applied to the TPB seeking its indication that it was satisfied with the master layout plan.  It will be recalled that under condition (c), any master layout plan had to satisfy either the Director of Planning or the TPB.
+
+8.  At a meeting held on 17 December 2010, the TPB decided that the master layout plan submitted by the appellants involved such major changes that a fresh planning application (under s 16 of the Ordinance) would be required.  The appellants were duly notified of this decision that condition (c) had not been complied with.  Obviously, the TPB had not been satisfied within the meaning of condition (c).
+
+9.  On 27 January 2011, the appellants through their solicitors applied under s 17 of the Ordinance for a review of this decision.  On 8 April 2011, the TPB refused to entertain the application on the basis that, on the wording of s 17(1), they had no jurisdiction to do so.  The appellants appealed to the TPAB.  In a decision made on 30 October 2012 (followed by a written decision dated 11 December 2012), the Appeal Board reversed the TPB’s ruling on jurisdiction, holding instead that the Board did have jurisdiction under s 17 to review its decision that condition (c) had not been complied with.  It ordered that the TPB should therefore proceed to review its earlier decision.
+
+10.  The TPB applied for this decision on jurisdiction by the TPAB to be judicially reviewed and these are the present proceedings.  In these proceedings, the TPB is the applicant, the TPAB the respondent and the appellants were joined as interested parties.
+
+11.  Before setting out the relevant statutory provisions and identifying the issue arising in this appeal, I should just add for the sake of completeness that the five year time limit for development[8] was extended a number of times, culminating in a final extension given by the TPB until 18 December 2010.  The appellants applied on 10 December 2010 for a review of that decision and this review has apparently been deferred pending the outcome of the present proceedings.[9]
+
+B.   THE RELEVANT STATUTORY PROVISIONS
+
+12.  It will be necessary to touch on the history of the TPO later in this judgment in order to set out the context when construing the relevant statutory provisions.  For the time being, the provisions should first be set out.  I mentioned at the outset that the relevant provision to be construed is s 17(1) of the version of the TPO prior to the amendments made in 2004.  That provision in turn refers to s 16 of the Ordinance.
+
+13.  Prior to the 2004 amendments, ss 16 and 17 were in the following terms :-
+
+“Applications for permission in respect of plans
+
+16. (1) Where a draft plan or approved plan, whether prepared or approved before or after the commencement of the Town Planning (Amendment and Validation) Ordinance 1974 (59 of 1974), provides for the grant of permission for any purpose, an application for the grant of such permission shall be made to the Board.
+
+(2) Any such application shall be addressed in writing to the secretary to the Board and shall be in such form and include such particulars as the Board thinks fit.
+
+(3) The Board shall within 2 months of the receipt of the application, consider the same in the absence of the applicant and, subject to subsection (4), may grant or refuse to grant the permission applied for.
+
+(4) The Board may grant permission under subsection (3) only to the extent shown or provided for or specified in the plan.
+
+(5) Any permission granted under subsection (3) may be subject to such conditions as the Board thinks fit.
+
+(6) The secretary to the Board shall notify the applicant in writing of the Board’s decision on an application under this section, and where the Board refused to grant permission shall also notify the applicant of his right to a review under section 17.
+
+(7) For the purposes of section 16(1)(d) and (da) of the Buildings Ordinance (Cap 123), anything permitted by the Board under this section shall not be a contravention of any approved plan or draft plan prepared under this Ordinance.
+
+Right of review
+
+17. (1) Where an applicant is aggrieved by a decision of the Board under section 16, the applicant may, within 21 days of being notified of the decision of the Board, apply in writing to the secretary to the Board for a review of the Board’s decision.
+
+(2) On receipt of an application under subsection (1), the secretary to the Board shall fix a time and place for the review, which shall be a day not more than 3 months of the receipt of the application, and shall give 14 days’ notice thereof to the applicant.
+
+(3) On a review under this section the applicant or his authorized representative may attend before the Board and shall be given an opportunity to make representations.
+
+(4) If the applicant or an authorized representative does not attend at the time and place fixed for the review, the Board may proceed with the review or adjourn it.
+
+(5) On a review under this section the Board shall consider any written representations submitted by the applicant.
+
+(6) On a review under this section, the Board may, subject to section 16(4), grant or refuse to grant the permission applied for and may exercise the powers conferred by section 16(5).”
+
+14.  When the 2004 amendments came into effect, there were transitional provisions governing whether certain pre‑2004 amendmentprovisions would continue to apply.  Section 28(3) and (4) expressly provided that the amendments made to ss 16 and 17 of the TPO under the 2004 amendments did not apply to any case in which an application for the grant of permission had been made to the TPO under s 16(1) of the pre‑amended Ordinance.  In the present case, the relevant application for the grant of permission had been made in August 1992[10] under the previous version of the Ordinance; therefore the provisions of the pre‑amended ss 16 and 17 continue to apply. Godfrey Lam J dealt with this point[11] and there was no appeal on this to the Court of Appeal.  The Court of Appeal also dealt with the matter on the basis of the Ordinance as it stood prior to the 2004 amendments.[12]
+
+15.  However, despite this and although in their written Case, the appellants proceeded on the basis of the pre‑2004 version of the Ordinance, in his oral arguments Mr Neoh SC relied on one provision in the current (post 2004 amendments) version of the Ordinance. This was s 17(6) of the Ordinance.  The pre‑2004 version is set out above. The current version of s 17(6) is in the following terms :-
+
+“On a review under this section, the Board may confirm or reverse the decision in question, or substitute for the decision in question any decision it could have made under section 16 or 16A, as the case may be.”
+
+16.  Even though it was never really explained just why this version of s 17(6) could be applicable in the present case, I shall nevertheless in due course deal with it.  The respondent[13] did not object to this reliance on the present s 17(6) by Mr Neoh.
+
+C.   THE ISSUE IN THE APPEAL
+
+C.1   The issue
+
+17.  The issue is to determine the ambit of the jurisdiction of the TPB to review its own decisions under s 17(1) of the TPO.  Specifically, what is meant by the words in that provision “a decision of the Board under section 16 ....”?
+
+C.2   The parties’ respective positions
+
+18.  The appellants’ position is straightforward.  On a literal reading of these words, they are said to cover any decision made by the TPB in connection with s 16.  The relevant words contain no limiting words; “a decision” simply means any decision. Mr Neoh submits it would be incongruous for any distinction to be drawn between different types of decision which may be made under s 16.  As can be seen from the pre‑2004 version of s 16[14], the following are the types of decision that are expressly referred to :-
+
+(1)   A decision as to the form in which an application for permission can be made : s 16(2).
+
+(2)   A decision to grant the permission sought : s 16(3).
+
+(3)   A decision to grant the permission sought but with conditions attached : s 16(5).
+
+(4)   A decision to refuse permission : s 16(3).
+
+19.  These types of decision can be said to be expressly referred to in s 16.  However, Mr Neoh goes further.  Although it is accepted that the relevant decision in the present case[15] is not of the type expressly mentioned in s 16, it is submitted that it was, however, one that was obviously connected with that provision.  In this context, the appellants rely on s 40(1) of the Interpretation and General Clauses Ordinance Cap 1[16] as well as the common law principle that all express statutory powers must carry with them incidental or consequential powers.[17]
+
+20.  The appellants submit that s 16 should properly be regarded as a continuing process which covers the initial application for permission under s 16 and includes any decision as to whether conditions attaching to any permission have been satisfied.  Thus analysed, the review mechanism in s 16 ought to cover every decision in this continuing process, particularly one which may have important consequences. Ultimately, the appellants submit that it is only fair that a merits‑based review under s 16 should be permitted and such review in turn would lead to a merits‑based appeal before the TPAB.[18]
+
+21.  For its part, the respondent in the appeal contends that the words “a decision of the Board under section 16” cannot be construed in the way advanced by the appellants.  Once context and purpose are considered, the meaning of the provision becomes clear.  The inevitable conclusion, it was contended, was that a s 17 review is confined only to the following decisions made under s 16 : a decision refusing permission and a decision granting permission but with conditions.  Obviously, no applicant would seek a review of a decision granting permission under s 16.
+
+22.  Before us, Mr Litton did not dispute that the relevant decision in the present case had some connection with s 16.  Godfrey Lam J had appeared to express some doubt as to whether this decision could be regarded as one coming under s 16.[19] The reason for this doubt was that the source of the power allowing the Board to determine whether or not condition (c) had been satisfied, stemmed not from anything expressed in s 16 but instead from the TPB’s own internal guidelines.[20]
+
+23.  In view of the respondent’s stance, however, it is not necessary to determine this point about the source of the Board’s power in this appeal.  It can be assumed then that the relevant decision is connected with s 16.  According to the appellants, this is sufficient to enable them to succeed.  The respondent argues, on the contrary, that it is not just any decision under s 16 that comes within the definition of “a decision of the Board under section 16”; only that restricted class of decisions earlier identified does.
+
+C.3   The decisions below
+
+24.  Both courts below held in favour of the respondent.  Godfrey Lam J and the Court of Appeal (which essentially upheld the reasoning of the judgment at First Instance) were of the view that having regard to context and purpose, the s 17 review mechanism was confined to decisions under s 16 either refusing permission altogether or granting permission subject to conditions.  Accordingly, the relevant decision made on 17 December 2010 was not a decision which could be reviewed.
+
+25.  The following orders were made by Godfrey Lam J :-
+
+(1)   Declarations to the effect that :-
+
+(a)   The decision of the TPB made on 17 December 2010 was not a decision taken under s 16 of the TPO within the meaning of s 17 of the Ordinance; and
+
+(b)   The TPB therefore had no power to review the 17 December 2010 decision under s 17 of the Ordinance and that the TPB was right so to hold on 8 April 2011; and
+
+(2)   The decision of the TPAB dated 30 October 2012 (with the written decision dated 11 December 2012) were quashed.[21]
+
+26.  This order was upheld by the Court of Appeal in dismissing the developers’ appeal.
+
+C.4   The certified question
+
+27.  On 27 May 2016, the Appeal Committee of this court[22] granted leave to appeal on the following question of law :-
+
+“Whether any decisions by the Town Planning Board other than a decision either refusing or granting permission under section 16(3) of the Town Planning Ordinance, Cap 131 or one granting planning permission with conditions under section 16(5) are capable of constituting ‘a decision of the Board under section 16’ reviewable under section 17(1).”
+
+D.   DETERMINATION OF APPEAL
+
+D.1   Determination
+
+28.  As I mentioned earlier, the point for consideration in this appeal is one of statutory construction. Applying well known principles of statutory construction, for the reasons which appear below, I am of the view that the appeal should be dismissed and the said Orders of Godfrey Lam J be upheld.  I agree with the conclusion reached by the lower courts that s 17(1) of the TPO should be read as confining the review mechanism only to decisions of the TPB made under s 16 whereby an application for permission is refused (s 16(3)) or in which conditions have been imposed (s 16(5)).
+
+D.2   Principles of statutory construction
+
+29.  No issue arises between the parties as to the applicable principles regarding the construction of statutes.  They are well known and I need not refer to them in any detail save to emphasise the following for the purposes of the present case :-
+
+(1)   In construing statutory provisions, the court does not merely look at the relevant words.  It construes the relevant words having regard to their context and purpose.[23]
+
+(2)   The context of the relevant statutory provision should be taken in its widest sense and will of course include the other provisions of the statute.[24]  It may also be relevant in any given case to look at the history of the relevant provisions.
+
+(3)   Ascertaining the purpose of the statutory provision is obviously relevant, not only to help provide the relevant context, but to give meaning to the words used.  In this latter respect, it is to be observed that often the meaning of words by themselves will not be clear unless regard is paid to context and purpose.  Words have to be construed but they must not be construed in a vacuum.[25]
+
+(4)   In ascertaining the purpose of a statutory provision, the court adopts a flexible and open‑minded approach.  The purpose may be clear from the provision itself or it may be necessary to look at the Explanatory Memorandum to the bill introducing the provision or a ministerial or official statement may be utilised for this purpose.[26]
+
+D.3   Purpose
+
+30.  As Godfrey Lam J observed, the TPO was originally enacted in 1939.  Then, the Long Title of the Ordinance was in the following terms :-
+
+“To promote the health, safety, convenience and general welfare of the community by making provision for the systematic preparation and approval of plans for the future lay‑out of existing and potential urban areas as well as for the types of building suitable for erection therein.”
+
+31.  This stated purpose of the preparation and approval of plans was reflected in the Ordinance by the provisions dealing with the functions of the TPB in the preparation of draft plans[27] and approval by the Government.[28]
+
+32.  Until the decision of the High Court in Singway Ltd v Attorney General,[29] there had been no challenge made to the validity of the practice of annexing notes to draft plans prepared by the TPB.  The significance of such notes for present purposes lay in the fact that they often made provision for the necessity of seeking permission to do certain things under the draft plan (such as condition (c) in the present case).  The relevant part of the judgment of Leonard J in Singway is where reference was made, in upholding the objection to the validity of the said practice, to the uncertainty in the operation of the system of seeking permission.  Doubts were expressed as to how such permission or approval was to be granted and by whom.[30]
+
+33.  Directly as a result of these doubts, amendments were  made to the Ordinance in 1974 introducing for the first time statutory provisions regarding applications for permission in respect of plans and the right of review of a decision refusing to grant permission.[31]  The new provisions were ss 16 and 17 and these sections were the origins of the provisions to be construed in the present appeal.  Godfrey Lam J described ss 16 and 17 as forming a “scheme”.[32]  I agree it is appropriate to describe them as such.
+
+34.  The scheme was to deal with applications for permission in respect of plans.  The importance of applications for permission is clearly stated in the Long Title of the present version of the Town Planning Ordinance[33] :-
+
+“To promote the health, safety, convenience and general welfare of the community by making provision for the systematic preparation and approval of plans for the lay-out of areas of Hong Kong as well as for the types of building suitable for erection therein and for the preparation and approval of plans for areas within which permission is required for development.”
+
+(Emphasis added)
+
+35.  The scheme of s 16 was clearly to deal with applications for permission.  Indeed, the margin notes to that provision in the 1974 amendments (and this is now the heading of s 16 as it currently stands as well as before the 2004 amendments[34]) state “Applications for permission in respect of plans”.
+
+36.  Section 17, introduced at the same time as s 16, was clearly intended to be parasitic on s 16 in that it deals with the right of review of a decision made under s 16.  It is therefore important to appreciate just what s 16 was dealing with.  And what that provision dealt with were applications for permission : what these applications were, how such applications would be processed and the decisions of the TPB in relation thereto.  Seen in this light, it is extremely difficult to see how a decision made “under s 16” can be said to include decisions of whatever nature which merely have a connection with that section.
+
+37.  It is useful in this context to look at the wording of s 17(1) prior to the wording of the provision which has to be construed in the present case.  While the wording of the provision we have to construe begins “Where an applicant is aggrieved by a decision of the Board under section 16 ....”, the previous version was “Where the Board refused to grant permission under section 16”.  This wording made it quite clear the s 17 review was a narrow one.
+
+38.  However, by amendments introduced in 1991, the wording of s 17(1) changed.  Latching on to the change in wording, the appellants submit that this had the effect of considerably widening the ambit of a s 17(1) review to include now every decision connected with s 16 (thus covering the relevant decision in the present case).
+
+39.  In my view, the 1991 change did not have the effect as contended by the appellants at all :-
+
+(1)   It did not change the scheme of ss 16 and 17 as described earlier.  Section 17 remained a review of a s 16 decision and s 16 remained a provision dealing with applications for permission in respect of plans.  The side notes to s 16 remained the same.
+
+(2)   The reason for the change was to cover one type of decision under s 16 that could be made by the TPB on an application for permission, namely, a grant of permission with conditions (s 16(5)).  On the wording of the previous s 17(1), this type of decision was not covered.  That this was the purpose of the amendment to s 17(1) (that is, to deal with a perceived lacuna), can be seen by the statement made by the Secretary for Planning, Environment and Lands to the Legislative Council in moving the 1991 amendments.[35] Godfrey Lam J quoted the relevant part of the statement[36] :-
+
+“The Administration, however, agreed that a new independent appeals body for appeals against the Board’s decision on planning applications under section 17(7) could be introduced ahead of the overall review. The Bill introduced today sets out the establishment, powers, membership and procedures of that appeals body. In addition, it provides for a further right of review in respect of conditions imposed on planning permission, which is currently not provided for in the existing Ordinance, as an applicant can only ask the Board to review its decision of refusal of planning permission.
+
+The amendments contained in the Bill will make the following changes to the Ordinance. They will :
+
+(a) provide a right of review in respect of conditions imposed on the planning permission;
+
+(b) provide for an independent Appeal Board to be substituted for the Governor in Council under section 17(7);
+
+(c) ...;
+
+(d) ...;
+
+(e) ...
+
+The basic approach is to substitute the Appeal Board for the Governor in Council as the independent channel of appeal against the Board’s decision on a review under section 17, extended to include the right to review of an applicant aggrieved by the conditions the Board imposed on a planning permission.
+
+See Hansard for 8 May 1991 at pp 1913 & 1914 (emphasis added).”
+
+40.  Finally, to complete the discussion on the scheme of ss 16 and 17, I ought just to refer to the position of the TPAB.  It hears appeals from an applicant aggrieved by a decision of the TPB on a review under s 17[37].  The TPAB was set up under provisions introduced by amendments to the TPO in 1991.  Prior to these amendments, an applicant who was aggrieved by a decision of the Board on review could appeal to the Governor‑in‑Council.
+
+41.  In the respondent’s Case, emphasis is laid on the consequences of the appellants’ argument succeeding. This would mean that all decisions made by the TPB having some connection with s 16 (even if such decisions were purely administrative) would be both reviewable (under s 16) and appealable (under s 17).  Reliance was placed on the observations of Godfrey Lam J[38] :-
+
+“On the developers’ argument, all such “decisions” are subject to review by the Board under s. 17, with the decision on review subject to appeal to the Appeal Board under s. 17B.  Multiple reviews and appeals could be generated in the course of a single application for permission, with the prospect of judicial review of each decision of the Appeal Board.  I doubt very much that the Legislature had intended to create such a potentially lengthy and cumbersome procedure.”
+
+42.  I agree.  I cannot imagine it could have been the purpose or intention of the Ordinance to expect the TPAB (and before its establishment, the Governor‑in‑Council) to be involved in every decision of whatever nature as long as it was somehow connected with s 16.  Such a result would, in my view, only be possible if the wording of the relevant provisions compelled it.  It is now time therefore to examine more closely relevant provisions of the TPO.
+
+D.4   Relevant provisions in the TPO
+
+43.  The relevant words to be construed (“a decision of the Board under section 16”) of course begs the important question : just what is a decision of the TPB under section 16 of the Ordinance?  Does it mean any decision that is in relation to or in connection with s 16 (the appellants’ position) or does it have a narrower meaning (the respondent’s position)?
+
+44.  It is first to be observed that the actual words are “a decision .... under section 16”.  The focus is therefore on what s 16 deals with.  If it had been intended to convey a wider meaning (such as “in relation to” or “in connection with”), one would expect such phraseology to be used.[39]
+
+45.  In my view, in the context alone of the provisions of ss 16 and 17 of the pre‑2004 amendments version of the TPO,[40] it is clear that the type of decisions which can be reviewed under s 17 can only be the two decisions earlier referred to (either refusing permission or granting permission subject to conditions being imposed) :-
+
+(1)   As observed earlier, s 16 is headed “Applications for permission in respect of plans” and that section deals with how such applications are processed and determined by the TPB.  For the purposes of s 17(1), therefore, as a matter of plain language, the relevant decision “under section 16” must be the decision of the TPB on applications for permission.  Here, there are only three decisions that can be made :-
+
+(a)   A decision refusing the permission sought (s 16(3));
+
+(b)   A decision granting permission (s 16(3)); or
+
+(c)   A decision granting permission subject to conditions (s 16(5)).
+
+(2)   Section 16(6) is also relevant.  It directly refers to the right of review under s 17 only in relation to a refusal to grant permission, and no other decision.  In the Court of First Instance, Godfrey Lam J queried why this provision was not amended in 1991 at least to include the decision where approval was granted but subject to conditions.[41]  Whatever the reason for this omission, this provision (which still stands today) is a strong indication of the restrictive ambit of a s 17 review.
+
+(3)   Section 17(6) is important.  This provision sets out the powers of the TPB on a review.  Reference is made specifically here to the power to refuse or grant permission, or grant permission subject to conditions, thus reinforcing again the point that the relevant decision under s 16 relates to applications for permission. Section 17(6) was regarded by Godfrey Lam J as being of considerable significance.[42]  I agree.  However, as indicated earlier,[43] this provision was amended by the 2004 amendments and the appellants rely on the wording of the amended provision.  I deal with this point now.
+
+D.5   The TPO as amended by the 2004 amendments
+
+46.  Although the courts below regarded the relevant provisions to be construed as the version of ss 16 and 17 prior to the 2004 amendments, as I have indicated, Mr Neoh SC in the course of his oral submissions placed reliance on one provision of the present version of the Ordinance, namely, s 17(6).[44]  It is easy to see why the appellants have done so, that is, in order to deal with the effect of the previous s 17(6) of the Ordinance, which substantially supports the construction contended for by the respondent in this appeal.[45]
+
+47.  It is argued by Mr Neoh that the change of wording in s 17(6) is important in that in widening the words used, the provision now supports the contention that every decision that can be made under s 16 will be covered in a review : in a review, the TPB can now “confirm or reverse the [original] decision in question, or substitute for the decision in question any decision it could have made under section 16 ....”.  The previous version, it will be recalled, confined what the Board could do after a review to granting or refusing to grant the permission sought, or imposing conditions if permission were granted.
+
+48.  I am unable to agree with the appellants’ submissions :-
+
+(1)   It would mean a quite radical change to what had all along been the position : from a restrictive view of the effect of ss 16 and 17[46] to one in which all decisions in connection with s 16 would be susceptible to a review.  For my part, I see nothing in the materials to justify concluding that such a dramatic change was intended.  As a matter of statutory construction, there is a reluctance in the courts to attribute to the legislature an intention to make radical changes by way of a side‑wind.[47]  Certainly, there is no hint of any change that was intended when one looks at the Explanatory Memorandum to the amendments introduced in 2004 and the relevant extracts from Hansard.[48]
+
+(2)   Notwithstanding the changes made by the 2004 amendments, the purpose and scheme of the Ordinance remain as analysed above and the points regarding context made in relation to the wording of the relevant provisions also remain valid.[49]
+
+(3)   Further, if the appellants’ submissions were correct, a number of incongruous consequences would follow. These were articulated by Godfrey Lam J in the following passages,[50] with which I fully agree :-
+
+“67. The developers’ contention, with all its simplicity, would in my opinion lead to incongruous and anomalous results under the post-2004 version of the legislation. First, where materials such as plans and reports are submitted for the Board’s approval pursuant to the conditions subject to which planning permission has been granted, no public consultation would be required under s. 16. The procedures for public inspection and comment laid down by s. 16(2C)-(2L) apply only to an application under s. 16(1), that is to say, the initial application for planning permission. In contrast, on the basis of the developers’ contention, if the Board is not satisfied with the submission and that decision is subject to review under s. 17, the review would have to go through the elaborate procedures for public consultation under s. 17(2A)-(2J). It is difficult to see why there should be such disparity between the original process and the review.
+
+68. Secondly, the Board may make various “decisions” (in the broad sense) in the course of processing an application made under s. 16(1). Thus, for example, it may under s. 16(2A) require the applicant to verify any matter or particulars in the application; it may under s. 16(2B) refuse to consider an application where it is not in the prescribed form or does not include requisite particulars, or where the applicant has not taken sufficient steps to obtain the consent of the current land owners; it has under s. 16(2L) a discretion to exempt further information supplied by the applicant from the process of public consultation. On the developers’ argument, all such “decisions” are subject to review by the Board under s. 17, with the decision on review subject to appeal to the Appeal Board under s. 17B. Multiple reviews and appeals could be generated in the course of a single application for permission, with the prospect of judicial review of each decision of the Appeal Board. I doubt very much that the Legislature had intended to create such a potentially lengthy and cumbersome procedure.
+
+69. Thirdly, on the developers’ argument, the applicant could seek a review where the Board had under s. 16(2L) refused to exempt further information from the requirement of public consultation. Yet such public involvement would be mandatorily required in the review process: see s. 17(2A)-(2J). Further, the Board is required to consider the application for planning permission within 2 months of receipt of the further information (see s. 16(2K)(c)(ii) and 16(3)). It follows that the review (which under s. 17(2) requires 14 days’ notice and may take place within 3 months of the request for review) and the process of public consultation if the refusal of exemption is maintained on review, would all have to take place within the 2 months prescribed by s. 16(3).
+
+70. These anomalies in my view militate against the construction advanced by the developers.”
+
+(4)   Mr Neoh did not address these points on incongruous consequences.  I would add this in relation to the first of the three observations made by Godfrey Lam J.  As can readily be seen in every version of the TPO since it was introduced in 1939, the public consultation aspect in the preparation and any amendment of draft plans is a critical part of the operation of the Ordinance.  Over the years, provisions for increased public consultation in town planning matters have been added by amendment.  In relation to the 2004 amendments themselves, I have earlier referred to one of their main purposes as being the enhancement of public involvement in the town planning process.[51]  These amendments included the addition of ss 16(2C)‑(2L) and 17(2A)‑(2J), and these provisions were expressly referred to by Godfrey Lam J.[52]  It would have been astonishing if the legislature had intended the incongruity identified by the judge.  The correct view is simply that “the decision of the Board under section 16” can only be a reference to a decision relating to an application for permission in respect of plans, and not to any other decision.  And, in the context of ss 16(1) and 17(1) as earlier discussed, the relevant decision that can be reviewed is either a decision refusing permission or a decision only granting permission with conditions.  This would then be entirely consistent with the public consultation scheme of the Ordinance : just as there should be public consultation for applications for permission (s 16), so there should similarly be public consultation in relation to reviews of adverse decisions in relation to such applications (s 17).
+
+49.  Accordingly, it can be seen that the position regarding the limited nature of reviews has always been consistent, whether before the 1991 amendments, before the 2004 amendments and the position now.
+
+D.6   Other arguments
+
+50.  I have earlier referred to the appellants’ arguments based on s 16 being a continuing process, and the desirability of the availability of a merits‑based review and appeal.[53]  These matters cannot be seen in isolation and must be seen in proper light.  The exercise before the court is one of statutory construction.  The actual words used in the relevant statutory provisions must be construed taking into account their context and purpose.
+
+51.  I should finally just make the point that in case it is thought that no remedy exists to challenge the type of decision made in the present case, this is not right.  Decisions of the TPB are subject to the court’s judicial review jurisdiction.  The issue in the present appeal is whether a right of review is possible under s 17 of the TPO and this issue, as I have said, is a matter of statutory construction.  The fact that the review mechanism is unavailable does not mean that the court’s judicial review powers are unavailable in the type of decision with which this appeal is concerned, or indeed in any other type of decision (of whatever degree of importance) contained in the TPO for which there is no right of review.
+
+E.   Conclusion
+
+52.  For the above reasons, this appeal should be dismissed.  I would also make an order nisi that the appellants should pay to the respondent the costs of this appeal, such costs to be taxed if not agreed.  If any party wishes to have a different order as to costs, written submissions should be served on the other party and lodged with the Registrar of the Court of Final Appeal within 14 days of the handing down of this judgment, with liberty on the other party to serve and lodge written submissions in reply within 14 days thereafter.  In the absence of such written submissions, the order nisi will stand absolute at the expiry of the time limited for such submissions.
+
+Mr Justice Ribeiro PJ, Mr Justice Fok PJ and Lord Millett NPJ :
+
+53.  We have had the advantage of reading in draft the judgment of the Chief Justice.  We respectfully agree with his reasoning and conclusion as to the construction of the words “a decision of the Board under section 16 ...” in section 17(1) of the Town Planning Ordinance (Cap 131) and would therefore likewise dismiss the appeal. We are unable, with respect, to agree with the judgment of Mr Justice Tang PJ, which we have also read in draft, reaching a contrary conclusion.  In our view, construing the relevant words in the light of both their context and purpose, which are fully addressed by the Chief Justice, the proper construction of those words is that set out in para 28 above, namely that the review mechanism under the Ordinance is confined only to decisions of the Town Planning Board made under section 16 whereby an application for permission is refused (section 16(3)) or in which conditions have been imposed (section 16(5)).
+
+ 
+
+Mr Justice Tang PJ :
+
+Introduction
+
+54.  When the Town Planning Ordinance was enacted in 1939, it was solely concerned with the systematic preparation and approval of plans.  In 1974, power to grant planning permissions was given to the Town Planning Board[54] (“the Board”) on an application made under s 16 of the Ordinance (“s 16 applications”), together with, under s 17(1) a right to a review by the Board[55] in the event permission was refused.  In 1991, the Ordinance was further amended[56] to broaden the right to a review under s 17(1) and to provide by s 17B, for an appeal to the Town Planning Appeal Board (“the Appeal Board”) against a decision of the Board on a review. The Appeal Board was established by the 1991 Ordinance to provide an independent arbiter[57] between the Board and those whose interests were affected by the Board’s decisions.  This appeal is concerned with the width of the right to a review under s 17(1).
+
+Background
+
+55.  In August 1992, the interested parties, Nam Sang Wai Development Company Limited and Kleener Investment Limited (“the developers”), by their agent, Henderson Real Estate Agency Ltd. (“the appellant”) applied for permission under the Draft Nam Sang Wai Development Permission Area Plan No DPA/YL-NSW-1 (“the DLP Plan”) to undertake a massive development in areas covered by the DLP Plan, comprising an 18-hole golf course, 2,550 residential units and a nature reserve.[58]
+
+56.  The application was made to the Board under s 16(1) of the Ordinance[59] which provided that:
+
+“Where a draft plan ... provides for the grant of permission for any purpose, an application for the grant of such permission shall be made to the Board.”
+
+57.  The Board was entitled to grant or refuse the application under s 16(3) or grant such permissions “subject to such conditions as the Board thinks fit.” [Section 16(5)].  The application was unsuccessful and the appellant applied for a review to the Board under s 17(1) of the Ordinance, which provided:
+
+“Where an applicant is aggrieved by a decision of the Board under section 16 ..., the applicant may ... apply ... for a review of the Board’s decision.”
+
+58.  The Review was also unsuccessful and the appellant appealed to the Town Planning Appeal Board under s 17B which provided:
+
+“An applicant who is aggrieved by a decision of the Board on a review under section 17 may appeal ... [to the Town Planning Appeal Board].”[60]
+
+59.  The appellant’s appeal to the Appeal Board was successful and planning permission was granted subject to conditions in 1994.[61]  Those conditions[62] included the submission of “a detailed master layout plan (“MLP”) ... to the satisfaction of the Director of Planning or of the Board.”  The present proceedings arose out of the decision of the Board over the satisfaction of these conditions.  Briefly stated, by letter dated 20 September 2010, the appellant’s consultants submitted various plans, including a MLP, for the stated “purpose of discharging planning conditions imposed on the planning permission ... .”[63]  The Planning Department was not satisfied and in their letter of 1 December 2010 said:
+
+“... [the modified MLP] deviates substantially from the approved development scheme and therefore cannot be considered in the context of fulfilment of condition (c) of the planning permission ...”[64]
+
+60.  Accordingly, other submissions which were based on the modified MLP could also not be considered.  The appellant asked the Board for an extension of the permission so that they could try to resolve the matter with the Planning Department.  Extension was refused and the matter was referred to the Board for consideration pursuant to, for example, planning condition (c).[65]  By letter dated 10 January 2011, the Board notified the appellant the “conditions (c), (d), and (f) to (w) could not be regarded as satisfactorily complied with” (“the Decision”).
+
+61.  Against the Decision,[66] the appellant applied for a review under s 17(1).  The Board took the view that s 17(1) was not applicable.  The appellant appealed to the Appeal Board which took a different view which led to an application by the Board for judicial review of the Appeal Board’s decision.  Godfrey Lam J overturned the decision of the Appeal Board and held that there was no right to a review under s 17(1).  The appellant’s appeal was dismissed by the Court of Appeal.  On 26 May 2016, the Appeal Committee granted leave to appeal on this question of law:
+
+“Whether any decisions by the Town Planning Board other than a decision either refusing or granting permission under section 16(3) of the Town Planning Ordinance, Cap 131 or one granting planning permission with conditions under section 16(5) are capable of constituting ‘a decision of the Board under section 16’ reviewable under section 17(1).”
+
+The Legislation
+
+62.  Sections 16 and 17 were first introduced in 1974 and given their importance, the events leading up to the enactment of the 1974 Ordinance should be noted.  The 1974 Ordinance was enacted as a matter of urgencyas a result of Singway Co Ltd v The Attorney General [1974] HKLR 275 a decision of Leonard J, as he then was, which effectively declared all approved plans to be invalid, void and of no effect.  As Leonard J explained between 1939 when the Town Planning Ordinance was first enacted and 1959 when s 9B(1)I of the Buildings (Amendment) Ordinance 1959 was enacted, approved town plans were just “standards for guidance for public officers”[67]. Thereafter, building plans could be and were disapproved for contravention of approved town plans.  Singway’s building plans were disapproved for contravention of the Wanchai Outline Zoning Plan which led to proceedings to challenge the legality of the Wanchai Outline Zoning Plans.  At that time approved plans contained notes which were approved by the Governor-in-Council as part of the approved town plans.  Those notes permitted certain developments which were not strictly conforming to a town plan, however, they did not say “from whom or by what means the permission is to be obtained.”[68] Leonard J said the system adopted by the Town Planning Board was “not a permission system but if I may coin a phrase ‘control by consultation’”.[69]  His lordship held that the notes were ultra vires the Town Planning Ordinance and were uncertain and that the Wanchai Outline Zoning Plan, which was the plan relevant to the proceedings was declared to be “invalid, void and of no effect” at 312.  Naturally, Singway affected other approved plans which had similar notes.  Hence the 1974 Bill was introduced as a matter of urgency[70] to validate retrospectively all existing approved plans and decisions of the Building Authority made under them.
+
+63.  It was under such circumstances that s 16 was introduced to replace the previous practice of reliance on the notes as the Attorney General said at 1080:
+
+“Sir, one ground on which the court held some of the notes to be uncertain is that they say that certain developments, not strictly conforming to a town plan, may be permitted, without saying from whom or by what means the permission is to be obtained. This bill introduces a procedure for obtaining permission in such cases. The permission required will be that of the Town Planning Board. It is intended that applications for permission for development proposals involving a departure from a town plan will be considered by the Board initially in the absence of the applicant. This is thought to be in everyone’s interest in that many applications can be granted without difficulty and there is no need for the applicant to attend to argue his case. Where, however, an application is refused, the applicant will be entitled to require the Board to re-consider its decision, when he must be given an opportunity to appear. This procedure follows the procedure which has long been in force for dealing with objections to draft town plans.”
+
+64.  So the intention was that applications should be considered on papers by the Board and then on review before the Board where an applicant would have an opportunity to be heard.  We were not told whether at that time the initial decision would have been made by a Committee of the Board.  However, it appears that since at least the 1991 Ordinance, s 16 applications would be considered by one of two Committees of the Board and s 17 reviews by what was sometimes referred to as “the full Board”.[71]  The Town Planning (Amendment) Ordinance 2004 (“the 2004 Ordinance”), formalized the position and conferred express power on the Board to delegate decisions under s 16(1) to a Committee of the Board, which should “consist of not less than 5 members at least 3 of whom are not public officers”.  [Sections 2(5) and 2A(2)].  However s 17 reviews must be considered by the full Board which would be comprised overwhelmingly of non public officers.[72]
+
+65.  When ss 16 and 17 were first enacted, s 16 enabled an application for planning permission to be made to the Board [s 16(1)], which it “ ... may grant or refuse to grant ...” [s 16(3)].  And “Any permission granted ... may be subject to such conditions as the Board thinks fit.” [s 16(5)].  Also, “The secretary to the Board shall notify the applicant in writing of the Board’s decision on an application under this section, and where the Board refused to grant permission shall also notify the applicant of his right to a review under section 17.” [s 16(6)].  Unlike a review under s 17, there was no right to a hearing.
+
+66.  Section 17(1) permitted a review “[w]here the Board refused to grant permission under section 16”.  Section 17(3) gave the applicant or his representatives an opportunity to make representations before the Board. “On a review under this section, the Board may ... grant or refuse to grant the permission applied for and may exercise the powers conferred by section 16(5).” [s 17(6)].  Then, there was an “appeal by way of petition to the Governor in Council whose decision on such appeal [was] final” [s 17(7)].
+
+67.  There was no express right to a review of conditional permissions.  I doubt if it was intended that there should be no review of conditional permissions.  Given the cordial working relationship between the Government and landed interests in Hong Kong at the time, a deliberate exclusion of such an important right seemed unlikely. Moreover, what the Attorney General said when moving the 1974 Bill quoted above,[73] namely, that it was considered in everyone’s interest, that applications should be considered by the board initially in the absence of the applicant because there was “no need for the applicant to attend to argue his case” would not apply where the board decides to impose conditions.  The “omission” was not rectified until 1991 but it does not appear that there was any pressure for it.  Now, I turn to the history of the 1991 Ordinance which is illuminating.  The 1991 Ordinance was precipitated by the uproar caused by the Town Planning (Amendment) Bill 1990 (“the 1990 Bill”).  By the 1990 Bill, Government proposed the extension of the Town Planning Ordinance to the New Territories as well as creating the offence of unauthorized development.[74]  The 1990 Bill was prompted by wide-spread use of agricultural land for the purpose of, for example, storage. Not surprisingly, the 1990 Bill attracted substantial objections from landowners and developers, especially from those who had interests in the New Territories.[75]  At the second reading of the 1991 Bill which took place on 8 May 1991 less than 4 months after the second reading of the 1990 Bill, the Secretary for Planning, Environment and Lands (“SPEL”) said:
+
+“During public consultation on the Town Planning (Amendment) Bill 1990 in the latter part of last year, a number of professional bodies, as well as Members of this Council, commented that the Town Planning Ordinance needed improvement because it provided for the Board to hear objections to its own plans, and to conduct its own reviews of its refusals of planning applications. While recognizing the importance of an appeals body which could serve as an arbiter between the Board and those whose interests were affected by those decisions, the Administration explained that changes to the existing procedures for objections to town plans under section 6 of the Ordinance would require a radical re-appraisal of the entire plan-making and approval system and considered that it should best be addressed in the overall review of the Ordinance to be conducted in mid-1991.”
+
+68.  This should be considered together with what SPEL said during the second reading of the 1990 Bill:[76]
+
+“Another major area of concern is the present appeals system under the Town Planning Ordinance. The current Ordinance has been critized because it provides for the Board to hear objections to its own plans and to conduct its own reviews of its refusals of planning applications. The administration accepts as a matter of principle the need for a hearing which is not just fair but seen to be fair for persons aggrieved by the Town Planning Board’s decisions. We recognize the importance of an appeals body which can serve as an arbiter between the Board and those whose interests are affected by those decisions. Changes to the existing section 6 objection procedure for the preparation of plans would however require a radical reappraisal of the entire plan-making and approval system and it has been agreed with the ad hoc group that this should best be addressed in the overall review of the Ordinance. On the other hand, the early establishment of an independent body to replace the Governor in Council’s role under section 17(7) as the final appeals body to deal with refusals of planning permission is practicable. Accordingly the Government has agreed in principle to introduce in this legislative Session, ahead of the overall review, a separate amendment Bill to provide for a new independent appeals body for section 17(7) appeals. The powers, composition, membership and procedures of the appeals body will be examined further in the drafting of the separate Bill.” (My emphasis)
+
+69.  The 1991 amendments are important because the present appeal is concerned with the 1991 Ordinance.  As a result of the 1991 amendments, the 1974 version “the Board refused to grant permission” became “an applicant is aggrieved by a decision of the Board”[77] so that  the relevant words in s 17(1) read:
+
+“Where an applicant is aggrieved by a decision of the Board under section 16 ...”
+
+70.  The appellant’s contention was that the Decision was a decision made under s 16 and therefore there was a right to review under s 17(1) and thereafter a right of appeal to the independent Appeal Board.  The respondent’s case is that read in its context and having regard to the mischief against which the amendment to s 17(1) was enacted, the words “a decision of the Board under s 16” should be confined to review against the refusal of planning permission under s 16(3) or the imposition of conditions under s 16(5).  In other words, a decision that any condition imposed was not satisfied even if made under s 16 would not be subject to review under s 17(1).
+
+71.  In 2004, substantial amendments were made by the Town Planning (Amendment) Ordinance 2004 (“the 2004 Ordinance”).  Here, although the Decision was made as late as 10 January 2011 and the request for a review was only made on 27 January 2011, I agree, with respect, with Godfrey Lam J[78] and the Court of Appeal[79] that as a result of transitional provisions in the 2004 Ordinance, the right to a review has to be determined in accordance with the 1991 Ordinance.  Godfrey Lam J pointed out that it was common ground that the meaning of s 17(1) is relevantly the same before and after the 2004 amendments.[80]  Maybe for that reason the learned judge’s construction of the 1991 version appeared to have been influenced by his view that:
+
+“67. The developer’s contention, with all its simplicity, would in my opinion lead to incongruous and anomalous results under the post-2004 version of the legislation.”
+
+72.  Jeremy Poon J, as he then was, said[81] the learned judge:
+
+“identified three anomalies arising from the Developers’ contention under the post-2004 version of the legislation which militates against their construction.”[82]
+
+73.  However, the Court of Appeal focused on the 1991 version and based their decision on it.  With respect, I agree with the approach of the Court of Appeal.
+
+74.  I will say at once that in my view, on the proper construction of the 1991 version of s 17(1) the appellant was entitled to a review of the Decision.  I will first consider the 1991 version without the benefit of hind-sight.  Then, I will consider whether following the 2004 amendments a different interpretation should be given to the expression “a decision of the Board under section 16” in s 17(1) and if so whether such interpretation should inform the interpretation of the 1991 Ordinance.
+
+Construction
+
+75.  As Jeremy Poon J said in the Court of Appeal the correct approach to interpretation was summarized by Li CJ in HKSAR v Cheung Kwun Yin[83] and for the present purpose, I bear in mind that:
+
+“12. The modern approach is to adopt a purposive interpretation. The statutory language is construed, having regard to its context and purpose. Words are given their natural and ordinary meaning unless the context or purpose points to a different meaning. Context and purpose are considered when interpreting the words used and not only when an ambiguity may be thought to arise. In HKSAR v Lam Kwong Wai (2006) 9 HKCFAR 574 at 606E, Sir Anthony Mason NPJ stated:
+
+‘The modern approach to statutory interpretation insists that context and purpose be considered in the first instance, especially in the case of general words, and not merely at some later stage when ambiguity may be thought to arise.’”
+
+76.  The words “a decision of the Board under section 16” are straightforward.  Before considering whether the context or purpose of the amendment require a different meaning to be given to these words, the words “a decision of the Board under section 16” literally would include decisions whether conditions imposed under s 16(5) have been satisfied which is ancillary or incidental to its power to impose conditions.  Indeed, the Court of Appeal regarded such decisions as incidental decisions:
+
+“[made] in the discharge of (the Board’s) function under section 16(5) to determine if a planning condition imposed is satisfied.”[84]
+
+77.  Mr John Litton appearing for the Town Planning Board, the respondent, was willing to accept that such decisions were incidental or ancillary to the Board’s power to impose conditions under s 16(5) although he submitted “a decision of the Board under section 16” in s 17(1) “is not a reference to any decision taken under section 16 but to the primary decisions that the Board may take on an application made under section 16(1) in respect of which an applicant may be aggrieved by.”[85] I think it is plain that the Board who has power to impose conditions must have ancillary or incidental power to decide whether the conditions have been satisfied.  Such power is spelt out in s 40 of the Interpretation and General Clauses Ordinance Cap 1.[86]  It makes no difference that in this case the conditions were imposed by the Appeal Board,under s 16(5) which they were entitled to do.  That it was expected that the Board should determine whether any condition imposed under s 16 had been satisfied was envisaged by “Town Planning Board Guidelines for Class A and Class B Amendments to Approved Development proposals” (“the Guidelines”) quoted by Jeremy Poon J at para 17, the relevant passage in the guidelines reads:
+
+“8. Under section 16(5) of the Ordinance, the Board may grant planning permission subject to such conditions as the Board thinks fit. In general, the applicant is required to fulfil an approval condition to the satisfaction of the Government department concerned or of the Board. No separate planning application under section 16A(2) will be required for amendments made to the approved development proposal as a result of fulfilling the approval conditions of the planning permission specified by the Board. Should there be disagreement over the fulfilment of the approval conditions between the applicant and the Government departments concerned ... , the matter will be submitted to the Board for consideration. ... Besides, in complying with the approval conditions, there should not be major changes to the original approved development proposal. A fresh planning application under section 16 will be required if major changes to the approved development proposal are involved.”[87]
+
+78.  The matter could be tested in this way, suppose the applicant were to challenge the Decision on the basis that it was ultra vires the Board, I don’t believe it could succeed. Nor is it an answer to say that the Board’s power to require to be satisfied is derived from the conditions imposed.  The conditions were imposed pursuant to s 16(5).  It is also not an answer to say that the conditions imposed might not require the Board to be satisfied. One can envisage cases in which, for example, a condition was that the Fire Services Department must be satisfied, or that the building plans must be approved by the Buildings Department to require the Board’s approval would be superfluous because these departments have their own statutory duties to perform. Other conditions, such as that any building must not exceed 6 storeys would not require any further decision.  Even if, which I do not decide, theoretically, in relation to some planning conditions the Board could delegate the ultimate decision to a third party, say the Director of Planning, it is doubtful if the Board would ever do so.  The Guidelines cited above suggests not.  If such powers should be exercised in order to deprive an applicant of a review, its legality is questionable.
+
+79.  Godfrey Lam J said:
+
+“64. Moreover, it is not just any decision of the Board, but a decision of the Board under s. 16, that is subject to review. The word ‘under’ is another chameleonic word whose meaning is affected by its context. The conclusion of the Board in this case that it was not satisfied by the further plans and reports submitted is, in my view, more properly characterised as a decision pursuant to the terms of the conditions imposed by the Appeal Board under s. 16(5) ...”
+
+80.  With respect, I cannot agree. Suppose a straightforward case where permission was granted subject to conditions imposed by the Board itself, in that case it is artificial and inappropriate to say that the power to determine whether the conditions were satisfied were “pursuant to the terms of the conditions imposed by the Appeal Committee under s 16(5).”
+
+81.  There may be a simpler explanation for the expression “under section 16”, namely, so that it should not be supposed that there was a right of review or appeal in respect of a decision of the Board under any other section, for example, the important power to make plans under s 6, with its impact on the use and thus value of land.
+
+82.  Like the learned judge I would construe s 17(1) having regard to its context and purpose.  Godfrey Lam J highlighted ss 16(6) and 17(6) in particular.  As the learned judge pointed out s 16(6):
+
+“58. ... was not also amended in 1991 together with s. 17(1) when the latter was amended to expand the range of circumstances in which a review was available ... I can see no rational reason for this omission, which must have been unintended.”
+
+83.  I might add s 17(6) was not amended either.  I question the usefulness of s 16(6) as an aid to the construction of the new wording in s 17(1).  I find it difficult to accept that although s 16(6) was not amended at the same time to fall in line with the new language of s 17(1), the legislature intended that the words used in the new s 17(1) should be read subject to the no longer appropriate language of s 16(6). As for s 17(6), the learned judge said:
+
+“59. S. 17(6) then specifies that upon a review under s. 17, the Board ‘may ... grant or refuse to grant the permission applied for ... and may exercise the powers conferred by section 16(5)’ (emphasis added). This wording, especially the juxtaposition of the words ‘or’ and ‘and’, seems to me to presuppose that on a review, the Board will of necessity either grant or refuse to grant planning permission. Where the Board grants planning permission, it may in addition exercise the powers conferred by s. 16(5) to impose conditions. This in turn suggests that the review is supposed to be concerned with the application for planning permission itself, and not some standalone ancillary question. The developers argue that the power to decide whether further materials have been submitted pursuant to planning conditions imposed is an implied ancillary power that flows from the power to impose conditions under s. 16(5) and that therefore it is also an act that the Board may do on review under s. 17(6). This argument in my view misses the point and fails to give weight to the structure of s. 17(6).”
+
+84.  With respect, since it is clear that owing to an oversight, s 17(6) was also not amended in 1991, I question the relevance of a careful syntactic analysis of its language.  No doubt, ss 16(6) and 17(6) were drafted in 1974 with the then language of s 17(1) in mind.  Section 17(1) was amended in 1991.  Sections 16(6) and 17(6) were not amended.  I believe ss 16(6) and 17(6) should be read subject to the new language of s 17(1) and not so as to restrict the meaning of s 17(1).  Indeed, that was what the learned judge did since he regarded the expression “a decision under section 16” to include a decision regarding conditions imposed under s 16(5), notwithstanding the language of ss 16(6) and 17(6).
+
+85.  The learned judge was of the view that there was much force in Mr John Litton’s submission[88] that “the decision ... under section 16” referred to in s 17(1) is the “decision on an application under this section” referred to in s 16(6).
+
+“59. ... This in turn suggests that the review is supposed to be concerned with the application for planning permission itself, and not some standalone ancillary question.”
+
+86.  I will set out s 16(6) in full:
+
+“The secretary to the Board shall notify the applicant in writing of the Board’s decision on an application under this section, and where the Board refused to grant permission shall also notify the applicant of his right to a review under section 17”.
+
+87.  Presumably, the judge would read it after 1991 as if it had been amended to say “The secretary to the Board shall notify the applicant in writing of the Board’s decision on an application under this section and shall also notify the applicant of his right to a review under section 17”.  (My emphasis) But the words emphasized do not help unless one assumes that which has to be established, namely, that an ancillary decision under s 16(5) is not a decision under s 16.
+
+88.  Moreover, the establishment of the Appeal Board and its function are part of the context.  As a result of the establishment of the Appeal Board, the Board no longer had the final say on planning matters in respect of s 16 applications.  I ignore for this purpose, the possibility of interference by the court on judicial review as well as the former right to petition the Governor‑in‑Council.  The function of the court on judicial review would normally not include a review of the merits of the decision. On appeal to the Appeal Board, the Appeal Board is entitled to and regularly makes planning decisions under s 16 de novo, assisted by expert evidence which would be subject to cross-examination, if necessary.[89]  Therefore in an appeal against refusal of permission or the conditions imposed, the Appeal Board would exercise its own independent judgment on the appropriateness of the refusal or the conditions.  Since on a s 16 application, the Board does not have the final say on the merits of the application or the conditions imposed, if any, I see no good reason why in respect of the satisfaction of conditions, when a planning judgment may be involved why it was thought to be intended that the Board should have the final say on the merits. Here, at the heart of the dispute between the parties is the question whether the modified MLP had deviated substantially from the approved development,[90] which is essentially a planning decision.  On the Board’s case they (presumably a committee of the Board) have the final say and are not liable to review or appeal under the Ordinance.  I don’t understand why that should be so and would not impute to the legislature such intention unless such intention is clearly revealed in the legislation.
+
+89.  The Court of Appeal considered s 17(1) in context and said that:
+
+“51. Within the statutory scheme, in determining an application for planning permission, the Board may make three primary decisions under section 16:
+
+(1) grant the application for planning permission without conditions;
+
+(2) refuse the application for planning permission; or
+
+(3) grant the application for planning permission with conditions.
+
+Once the Board arrives at any of the three primary decisions in disposing of the application, the secretary for the Board is mandated by section 16(6) to inform the applicant of the same.  Where the primary decision is either a refusal or granting the permission with conditions, and if the applicant is aggrieved, he may apply for a review of that primary decision under section 17(1).  For the purpose of section 17(1) ‘a decision made by the Board under section 16’ embraces such a primary decision only.  It does not include any incidental decision that the Board may make in the discharge of its functions under section 16, irrespective of whether the underlying power to do so is derived from any statutory provision, be it section 16(5) or section 40 of [the Interpretation and General Clauses Ordinance], or from the common law. On the facts of this case, it does not include any incidental decision made in the discharge of its function under section 16(5) to determine if a planning condition imposed is satisfied.”
+
+90.  This approach relied heavily on the language of s 16(6) and I will not repeat what I have said above.  The Court of Appeal divided decisions under s 16 into primary and incidental decisions presumably based on their view of their importance and confined the right to review (and an appeal to an independent body) to the more important primary decisions.  But looking at the matter from the perspective of an applicant the important decisions by the Board in the case of a conditional permission must be the Board’s decision on what conditions to impose and their decision on the satisfaction of those conditions.  Satisfaction of the conditions is the last hurdle in a s 16 application.  Unless it is overcome, the permission is meaningless.  So I cannot regard this decision as unimportant or less important.  No doubt in the majority of cases, satisfaction of conditions would be a matter of routine.  In such cases, there would be no review, nor need of one.  But where it matters, as apparently it is thought it does in this appeal, I don’t understand why there shouldn’t be a right to review under s 17(1) and appeal under s 17B.  Nor can I see any reason why such rights should have been deliberately excluded.  There is nothing in the language, context or purpose of s 17(1) to require the exclusion of so-called ancillary or incidental decisions under s 16(5).
+
+91.  Even if there were no clear provisions in the 1991 Ordinance giving a right of review in respect of such decisions, the language used had not clearly excluded a right of review.  The purpose of the 1991 amendment was to provide an arbiter so that resolution of disputes between the Board and an applicant should not only be fair but seen to be fair.  It would give effect to such purpose to read s 17(1) to include decisions over satisfaction of conditions as decisions in respect of which there was a right of review and then appeal.
+
+92.  At the second reading of the 1991 Bill, SPEL said:
+
+“ ... The Administration, however, agreed that a new independent appeals body for appeals against the Board’s decision or planning applications under section 17(7) could be introduced ahead of the overall review. The Bill introduced today sets out the establishment, powers, membership and procedures of that appeals body. In addition, it provides for a further right of review in respect of conditions imposed on planning permission, which is currently not provided for in the existing Ordinance, as an applicant can only ask the Board to review its decision of refusal of planning permission.
+
+The amendments contained in the Bill will make the following changes to the Ordinance. They will:
+
+(a) provide a right of review in respect of conditions imposed on the planning permission;
+
+(b) provide for an independent Appeal Board to be substituted for the Governor in Council under section 17(7);
+
+(c) set out the establishment, membership, powers and procedure of the Appeal Board;
+
+(d) provide for regulations prescribing the procedures to be followed in making an appeal, and in the hearing and determination of an appeal; and
+
+(e) provide for the registration of notices served under section 23(1), (2) and (3).
+
+   The basic approach is to substitute the Appeal Board for the Governor in Council as the independent channel of appeal against the Board’s decision on a review under section 17, extended to include the right of review of an applicant aggrieved by the conditions the Board imposed on a planning permission.”
+
+93.  Godfrey Lam J found this statement helpful to his construction of s 17(1). With respect, the words underlined by him[91], repeated above show that the amendment was intended to provide a review “in respect of conditions imposed on planning permission”.  However, if it was intended to confine the right to review to dissatisfaction with the imposition of conditions, s 17(1) could have been amended to read “Where the Board refused to grant permission or where permission was granted subject to conditions under section 16, the applicant may ... apply ... for a review ...”  As the learned judge rightly pointed out:
+
+“53. ... Whether the Legislature intended to do so cannot in my view be answered by reference solely to the ministerial statement but must be ascertained from the language of the statute as a whole.”
+
+94.  I also bear in mind what Lord Millett NPJ said in Director of Lands v Yin Shuen Enterprises Ltd (2003) 6 HKCFAR 1, 15 F-G:
+
+“22. Such evidence is admissible for a limited purpose only, to enable the Court to understand the factual context in which the statute was enacted and the mischief at which it was aimed. This is not the same as treating the statements of the executive about the meaning and effect of the statutory language as reflecting the will of the legislature.”
+
+95.  I have already explained the history behind the 1991 Bill.  The 1991 Bill was mainly concerned with the establishment of an independent Appeal Board which as I have said made the Appeal Board the ultimate decision maker on s 16 applications.  Section 17(1) should be read in such context.  Given “control by consultation” it seems to me highly unlikely that before 1974 an applicant could not ask the full Board to re-consider conditions imposed under s 16(5) or to be given an opportunity to address them.  Nor do I think likely he would have been told that after the 1974 Ordinance, he could no longer do so.  In any event, the language chosen for s 17(1) was not expressly confined to an appeal against the imposition of conditions which could easily be stated if that was all that was intended.  The language used gave a right to review “if an applicant is aggrieved by a decision of the Board”.  I don’t think the broadness of the language was unintended or would have escaped notice.  I acknowledge that SPEL spoke of “a further right of review in respect of conditions imposed on planning permission” and that his words carry some weight in the construction.  But, the expression “in respect of conditions imposed” is wide enough to cover the Board’s decisions regarding the compliance of these conditions.  As the learned judge said, though in the context of s 28 of the 2004 Ordinance, the phrase “in respect of” has a very wide meaning.[92]
+
+96.  I go on to consider whether there were any policy reasons why there should be no right of review regarding the satisfaction of conditions imposed.  I accept that in a typical case, the satisfaction of such conditions are concerned with technical matters and often are governed by, for example, the Buildings Ordinance.  Obvious examples are the calculation of plot ratios and site coverage.  I also accept that s 17 review or s 17B appeals regarding the satisfaction of conditions would be rare.  But in some cases, it may be important.  The present may be such a case.  I must emphasize we are not concerned with the merits, if any, of the appellant’s review and express no view. I see no policy reason why a review and the all important appeal should be denied.  Nor is the possibility of a new application a sufficient reason because an applicant would lose the benefit of the earlier permission which might no longer be given because of changes in planning law or practice.
+
+97.  Now, I will deal briefly with the learned judge’s view on why he thought the 2004 amendments militate against the appellant’s contention.  I regard the 2004 amendments irrelevant to the construction of the 1991 Ordinance and with respect I do not agree with the learned judge that the 2004 amendments militate against the appellant’s construction.
+
+98.  In the 2004, s 17(6) was also amended to provide:
+
+“ ... the Board may confirm or reverse the decision in question, or substitute for the decision in question any decision it could have made under section 16 or 16A, as the case may be.” (My emphasis)
+
+99.  If with respect, the legislature had intended to limit the right to review to decisions refusing permission or decisions imposing conditions under s 16(5), the language chosen was inapt.  As it is, the language of the 2004 version of s 17(6) is wide and would include any decision made by the Board under ss 16 and 16A.[93] Nor would the 2004 version of s 17(6) require a narrow meaning to be given to s 17(1), even if, which I do not accept, the language of the 1991 version of s 17(6) supported a narrow reading.  So, the 2004 version of s 17(6) does not militate against the appellant’s contention.
+
+100.  Under the 2004 Ordinance, the learned judge pointed out, the Board could make:
+
+“68. ... various ‘decisions’ (in the broad sense) in the course of processing an application made under s. 16(1). Thus, for example, it may under s. 16(2A) require the applicant to verify any matter or particulars in the application; it may under s. 16(2B) refuse to consider an application where it is not in the prescribed form or does not include requisite particulars, or where the applicant has not taken sufficient steps to obtain the consent of the current land owners; it has under s. 16(2L) a discretion to exempt further information supplied by the applicant from the process of public consultation. On the developers’ argument, all such ‘decisions’ are subject to review by the Board under s. 17, with the decision on review subject to appeal to the Appeal Board under s. 17B. Multiple reviews and appeals could be generated in the course of a single application for permission, with the prospect of judicial review of each decision of the Appeal Board. I doubt very much that the Legislature had intended to create such a potentially lengthy and cumbersome procedure.”
+
+101.  I recognize the force of the learned judge’s point that under the 2004 Ordinance, many decisions could be made under s 16 so potentially there could be many reviews or appeals.  But I regard the fear of many and presumably frivolous appeals unreal.  First, I think one may proceed on the basis that developers are rational beings and they would not review or appeal unless there are good commercial reasons to do so. It is common sense that timing is important in land development and s 16 applications are often made to catch the public mood which can be fickle.  So, it is highly unlikely that an applicant will court delay.  Nor is the fact that a right of review or appeal capable of abuse, a good reason to deny a right to do so when there is no abuse.  Moreover, in the event of actual and persistent abuse, the solution would be to tighten up the legislation to eliminate abuse and not to throw out the good with the bad.  Nor is it right to regard appeals against decision made under as s 16(2A) or (2B) as necessarily trivial.
+
+102.  Section 16(2A) provides:
+
+“where an application is made under subsection (1), the Board may require the applicant to verify any matter or particulars set out or included in the application, whether by statutory declaration or otherwise.”
+
+103.  Section 16(2B) provides:
+
+“... The Board may refuse to consider an application made under subsection (1) where –
+
+(a) the application does not comply with any of the requirements specified in or made under subsection (2); or
+
+(b) the Board is not satisfied that the applicant has within a reasonable period before the application is made –
+
+(i) obtained the consent in writing of each person (other than the applicant) who is a current land owner in respect of the application, or notified such person in writing of the application; or
+
+(ii)   taken such reasonable steps as the Board requires in order to obtain the consent of such person in respect of the application, or to give notification to such person in respect of the application.”
+
+104.  In some cases, whether or when a valid application has been made could mean the difference between being able to make an application or not at all.  In such event, a decision under ss 16(2A) and 16(2B) can be important.  Our recent decision in Real Estate Developers Association of Hong Kong v Building Authority (2016) 19 HKCFAR 243 showed that the question whether the Building Authority could disapprove plans on the basis that the applicant could not demonstrate when building plans were submitted for approval that it owned or had a realistic prospect of controlling the site of the proposed development was considered so important that it had spawned many proceedings and was only settled by our decision.  So, I would not regard a rejection of a s 16 application under ss 16(2A) or (2B) as necessarily unimportant or any application for review or appeal as a result necessarily frivolous.  More importantly, one should not be overly influenced by the possibility of frivolous appeals.  I would not construe s 17(1) so as to exclude serious reviews or appeals because they could be abused.
+
+105.  An incongruity identified by Godfrey Lam J and mentioned by the Chief Justice at para.48(3) above is that under the 2004 Ordinance, no public consultation was required regarding plans and materials submitted pursuant to conditions imposed under section 16(5).  This is a serious omission but I would respectfully draw a different conclusion.  In a straightforward case, public consultation should arouse no interest, but in a controversial case, such as the present case[94], the need for public consultation is obvious.  Suppose, in a similarly controversial case, the Board approved a modified MLP without any public consultation that would be plainly unsatisfactory.  So the “solution” is not to give a restrictive interpretation to section 17(1) but to remedy this omission by amendment.
+
+106.  For the above reasons, I would answer the certified question by saying a decision of the Board that conditions imposed under s 16(5) have not been satisfied is a decision made under s 16 such that the appellant was entitled to a review under s 17(1).
+
+ 
+
+Chief Justice Ma :
+
+107.  By a majority (Mr Justice Tang PJ dissenting), the appeal is dismissed.  There will also be a costs order nisi in the terms as set out in para 52 above.
+
+ 
+
+ 
+
+(Geoffrey Ma)
+Chief Justice	(R.A.V. Ribeiro)
+Permanent Judge	(Robert Tang)
+Permanent Judge
+ 
+
+ 
+
+(Joseph Fok)
+Permanent Judge	(Lord Millett)
+Non-Permanent Judge
+  
+
+Mr Anthony Neoh SC, Mr Anthony Ismail and Mr Justin Ismail, instructed by Lo & Lo, for the Interested parties (Appellants)
+
+Mr John Litton, instructed by the Department of Justice, for the Applicant (Respondent)
+
+The Respondent, Town Planning Appeal Board, attendance excused
+
+
+[1] This provision is set out in para 13 below.
+
+[2] Judgments of Godfrey Lam J dated 16 January 2014 (reported in [2014] 1 HKLRD 1056) (the CFI Judgment) and of the Court of Appeal (Lam VP, Kwan JA and Jeremy Poon J) dated 18 June 2015 (reported in [2015] 3 HKLRD 490) (the CA Judgment).
+
+[3] The amendments were effected by the Town Planning (Amendment) Ordinance 2004.  Although these amendments took effect from 10 June 2005, it is convenient to refer to them as “the 2004 amendments”.  These amendments resulted in the form the TPO now largely takes.
+
+[4] The appellantswere joined as interested parties in the present proceedings and were represented throughout.  Before us, they were represented by Mr Anthony Neoh SC, Mr Anthony Ismail and Mr Justin Ismail.  They and the respondent, the TPB, are the relevant parties to the present proceedings.  The Town Planning Appeal Board (the TPAB), although the named respondent in the judicial review proceedings, has not taken an active part.
+
+[5] This was the Draft Nam Sang Wai Development Permission Area Plan No. DPA/YL-NSW-1.  Such draft plans are prepared by the TPB as one of its main functions under the TPO.  The importance of such draft plans lies in the fact that they make provision (as the Long Title to the Ordinance states) for the future layout of areas in Hong Kong and also for the types of building suitable for erection thereon.  Although always called draft plans (in that they are subject to ultimate approval by the Government), these plans have an important status.  For example, it is on the basis of such draft plans that applications for permission are sought under s 16 of the TPO.
+
+[6] This is the Appeal Board panel set up under s 17A of the TPO.
+
+[7] Henderson Real Estate Agency Limited v Lo Chai Wan [1997] HKLRD 258.
+
+[8] Para 4 above.
+
+[9] See para 10 of the CFI Judgment.
+
+[10] See para 2 above.
+
+[11] At paras 40 to 45 of the CFI Judgment.
+
+[12] Para 41 of the CA Judgment (judgment of Jeremy Poon J (now Poon JA), who gave the judgment of the court).
+
+[13] The respondent was represented in this appeal by Mr John Litton.
+
+[14] Set out in para 13 above.
+
+[15] Whether the Board was satisfied that condition (c) had been complied with : see para 8 above.
+
+[16] Section 40(1) states :-
+
+   “Where any Ordinance confers upon any person power to do or enforce the doing of any act or thing, all such powers shall be deemed to be also conferred as are reasonably necessary to enable the person to do or enforce the doing of the act or thing.”
+
+[17] This principle is contained in cases like Attorney General v Great Eastern Railway (1880) 5 App. Cas. 473.
+
+[18] Appeals to the TPAB are under s 17B(1) of the TPO.  This provision was introduced in 1991 by the Town Planning (Amendment) (No. 2) Ordinance 1991.  Prior to this, an appeal lay only by petition to the Governor‑in‑Council.
+
+[19] See para 64 of the CFI Judgment.
+
+[20] Town Planning Board Guidelines on Compliance of Approval Conditions (TPB PG-No. 20) dated May 1999.
+
+[21] This automatically followed, as the jurisdiction of the TPAB under s 17B of the TPO is only to hear appeals from decisions of the TPB under s 16.
+
+[22] Mr Justice Ribeiro PJ, Mr Justice Tang PJ and Mr Justice Fok PJ.
+
+[23] See, for example. T v Commissioner of Police (2014) 17 HKCFAR 593, at para 194 (per Fok PJ).
+
+[24] T v Commissioner of Police at para 194.
+
+[25] See T v Commissioner of Police at para 4.
+
+[26] See T v Commissioner of Police at para 194; HKSAR v Cheung Kwun Yin (2009) 12 HKCFAR 568, at para 14.
+
+[27] Although the exact wording of this provision has changed over the years, this function is essentially contained in s 3 of the Ordinance.
+
+[28] The present Ordinance refers to the approving authority being the Chief Executive‑in‑Council (s 9); prior to 1 July 1997, this was the Governor‑in‑Council.
+
+[29] [1974] HKLR 275.
+
+[30] At 296, 300.
+
+[31] This reason appears in the Explanatory Memorandum to the Bill introducing the amendments, as well as in the statement made by the Attorney General to the Legislative Council : see Hong Kong Hansard dated 31 July 1974 at 1080-81.
+
+[32] At para 54 of the CFI Judgment.
+
+[33] Amendments were made to the Long Title in 1991.
+
+[34] Para 13 above.
+
+[35] See Hong Kong Hansard dated 8 May 1991 at 1913, 1914.
+
+[36] At para 50 of the CFI Judgment.  This was also quoted in the CA Judgment at para 26.
+
+[37] See s 17B(1) of the TPO.
+
+[38] At para 68 of the CFI Judgment.
+
+[39] Such as in s 12A(1) of the current TPO, which reads :-
+
+   “Subject to subsection (2), any person may apply to the Board for consideration of any proposal in relation to an original approved plan for the purposes of this section.”
+
+[40] Para 13 above.
+
+[41] Godfrey Lam J regarded this omission to have been unintended : see para 58 of the CFI Judgment.
+
+[42] See para 59 of the CFI Judgment.
+
+[43] Para 15 above.
+
+[44] See paras 14 and 15 above.
+
+[45] See para 45(3) above.
+
+[46] See paras 30 to 45 above.
+
+[47] See Medical Council of Hong Kong v Chow Siu Shek (2000) 3 HKCFAR 144, at 158D (Bokhary PJ).
+
+[48] The Explanatory Memorandum (and Hansard) state the main purpose of the amendments was to “streamline the town planning procedures while enhancing public involvement in the town planning process ....”.
+
+[49] See sections D.3 and D.4 above.
+
+[50] In the section of the CFI Judgment headed “Consequences of the developers’ interpretation”.
+
+[51] See sub-para (1) above.
+
+[52] In para 67 of the CFI Judgment, set out in sub‑para (3) above.
+
+[53] Para 20 above.
+
+[54] By the Town Planning (Amendment and Validation) Ordinance 1974 (59 of 1974)(“1974 Ordinance”).
+
+[55] Section 17.
+
+[56] By the Town Planning (Amendment)(No 2) Ordinance (101 of 1991)(“1991 Ordinance”).  Section 17B.
+
+[57] Extract of the Hansard of the Town Planning (Amendment)(No 2) Bill 1991.
+
+[58] CFI Judgment at para 5.
+
+[59] As amended by the 1991 Ordinance, which as explained at para 71 below is the version of the Ordinance applicable to this appeal.
+
+[60] Prior to the 1991 Ordinance, s 76(7) provided for an appeal by way of petition to the Governor-in-Council whose decision was final.
+
+[61] Initially for a period of five years but it had been extended from time to time ultimately to 18 December 2010. CFI judgment at para 9.  Godfrey Lam J said: “16. ... on 10 December 2010, [the Board] refused to renew the validity of the permission, ...”.
+
+[62] Conditions (c), (d) and (f) to (w), of these, (c) which concerns the MLP is   the most important because other plans and provisions were based on the MLP.
+
+[63] CFI Judgment at para 11.
+
+[64] CFI Judgment at para 12.
+
+[65] CFI Judgment at para 15.
+
+[66] The main dispute between the appellant and the Board is over the question whether the plans submitted involved major changes such that a fresh application was required.  That is essentially a planning question.  A review followed by a possible appeal to the Appeal Board would provide an applicant with the opportunity of an examination of the decision omits merit.  A new application would be governed by the practice or legislation current at the time of the application.
+
+[67] At p 286-287.
+
+[68] Hansard 31 July 1974 the Attorney General on moving the second reading of the Town Planning (Amendment and Validation) Bill, 1974 (“the 1974 Bill”).
+
+[69] At p 290 although as the Attorney General explained at the second reading of the 1974 Bill “the position has always been well understood by developers and their advisers.”
+
+[70] Date of judgment on 20 June 1974.  First reading on 31 July 1974, enacted on 15 August 1974.
+
+[71] See Planning Applications in the Development Control System of Hong Kong (Thesis) by Cheng Tak-yiu, Eureka, Workshop Report August 1993. See also Change in Use of Land by Lawrence Wai-chung Lai, Daniel Chi-wing Ho and Hing-fung Leung.  Hong Kong University Press at 63.
+
+[72] For example, as of 1 April 2016, there were 7 official members and 30 non official members.
+
+[73] Para 63.
+
+[74] Now s 21.
+
+[75] The speech of the Hon Mr McGregor at the second reading of the 1990 Bill gives a hint: “During my long working life in Hong Kong, I have always found that almost nothing gets done without compromise. This Bill is no exception and many, many hours of discussion were spent in seeking to establish acceptable compromises. We have listen to agonized protests and appeals from those who thought that their legitimate and vital interests were being denied or removed. We listened to many appellants who demanded that they be allowed to continue to use their agricultural land for such storage purposes as they wished or, alternatively, that they be compensated for any additional legal restriction that might be applied, through this legislation, on the uses to which their land areas might be put.  Others were deeply concerned that the Government seemed to be moving into comprehensive land planning for the entire New Territories under the pretext of dealing with environmental damage. Anxiety has been expressed over the legal and administrative procedures under which appeals can be made by those affected by land planning and land use decisions made under this legislation. And so on and so on ad infinitum.” Reading the Hansard one could see the high passion aroused by the 1990 Bill. An Ad hoc group was appointed and there were many amendments to the 1990 Bill. Out of this came the Town Planning (Amendment)(No 2) Bill of 1991, which became the 1991 Ordinance.
+
+[76] 23 January 1991.
+
+[77] Section 3 of the Town Planning (Amendment)(No 2) Ordinance 1991 (101 of 1991).
+
+[78] CFI Judgment at para 44.
+
+[79] Lam VP, Kwan JA and Jeremy Poon J, [2015] 3 HKLRD 490 at para 41.
+
+[80] CFI Judgment at para 45.
+
+[81] Giving the judgment of the Court of Appeal.
+
+[82] Court of Appeal Judgment at para 31.
+
+[83] (2009) 12 HKCFAR 568.
+
+[84] Para 51.  As will be dealt with below, the Court of Appeal thought that the right to review under s 17(1) was restricted to three “primary decisions” available to the Board under s 16, namely, grant the application without conditions, refuse the application or grant the application with conditions.
+
+[85] Para 51, respondent’s written case.
+
+[86] “Where any Ordinance confers upon any person power to do or enforce the doing of any act or thing, all such powers shall be deemed to be also conferred as are reasonably necessary to enable the person to do or enforce the doing of the act or thing.”
+
+[87] The Guidelines postdated the 1991 Ordinance.  But we were not referred to any earlier guidelines.  Presumably, the Guidelines reflected the practice of the Board throughout.
+
+[88] CFI Judgment at para 60.
+
+[89] Section 17B(6).
+
+[90] See para 59 above.
+
+[91] CFI Judgment at para 50.
+
+[92] CFI Judgment at para 44.
+
+[93] We are not directly concerned with s 16A and in the interest of time, I will not deal with it.
+
+[94] The present case is not affected  by the 2004 amendments but this discussion is directed to the ‘incongruity’ of construing ‘a decision under section 16’ in section 17(1) after the 2004 amendments to include decision regarding the satisfaction of conditions imposed under section 16(5).

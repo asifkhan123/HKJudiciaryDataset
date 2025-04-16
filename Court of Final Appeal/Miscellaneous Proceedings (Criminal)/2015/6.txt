@@ -1,0 +1,108 @@
+FAMC No. 25 of 2015
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 25 OF 2015 (CRIMINAL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL
+FROM CACC NO. 51 OF 2011)
+
+____________________
+
+BETWEEN
+
+ 	HKSAR	Respondent
+ 	and	
+ 	HUNG WAI YIP
+Applicant
+____________________
+
+Appeal Committee: Mr Justice Ribeiro PJ, Mr Justice Tang PJ and Mr Justice Fok PJ
+Date of Hearing and Determination: 30 March 2016
+Date of Reasons for Determination: 5 April 2016
+_________________________________
+
+REASONS FOR DETERMINATION
+
+_________________________________
+
+Mr Justice Ribeiro PJ:
+
+1.  At the hearing, we dismissed this application for leave to appeal and now provide our reasons for doing so.
+
+2.  The applicant sought leave on the basis of the following question of law:
+
+“Should an out of Court confession which exculpates Co-Defendant A made by a former Co-Defendant B who has previously pleaded guilty, absconded, or for any other reason is not in charge of the jury or tribunal of fact be admissible at the trial of A without calling B.”
+
+3.  The applicant was indicted together with Yuen Kin San (“Yuen”), for trafficking in cocaine.[1] In a police interview, Yuen made statements which exonerated the applicant of any knowledge of the drugs or participation in trafficking.  Yuen then pleaded guilty to trafficking on arraignment and was not a co-defendant at the applicant’s trial.
+
+4.  The applicant was convicted[2] and his appeal was dismissed by the Court of Appeal.[3]  The relevant ground of appeal advanced in the Court of Appeal was that the applicant had been deprived of a fair trial because his counsel had conducted the case in a flagrantly incompetent manner, in particular, by failing to adduce into evidence Yuen’s exculpatory statements.
+
+5.  This was rejected by the Court of Appeal which held that it was an argument resting on the untenable premise that Yuen’s statements which were, on their face, hearsay statements, would nevertheless have been admissible as evidence of the applicant’s non-involvement. 
+
+6.  Mr McGowan, appearing for the applicant, submitted that admissibility of Yuen’s statement was a logical extension to the House of Lords’ decision R v Myers.[4] However, Myers was a case concerned with a very different situation.  It involved the joint trial of two defendants where one of them wished to adduce evidence of a voluntary confession by the other, which confession could not be adduced by the prosecution as it had been obtained in breach of a relevant Code of Practice.  The defendant who had made the confession objected, thus requiring the Court to decide whether evidence which was highly relevant and exculpatory vis-à-vis one defendant but incriminating and prejudicial to the other should be placed before the jury.
+
+7.  As Lord Slynn and Lord Hope both noted,[5] the crucial feature of the case was that the defendants were being jointly tried.  They recognized that any such statements by third parties, that is, by persons who are not being jointly tried as co-defendants, do not pose similar problems and are simply treated as inadmissible hearsay.  One reason why in Myers, unlike cases involving third parties, the co-defendant was allowed to adduce evidence of the confession was that: “There was no other way of eliciting this evidence because the maker of the statements was not a compellable witness for the co-defendant”.[6]
+
+8.  In the present case, Yuen had pleaded guilty and was not a co-defendant at the applicant’s trial.  As Lunn JA (writing for the Court) pointed out, Yuen was a compellable witness who was available to be called.[7] His out-of-court statements were inadmissible hearsay and the Myers principle was not engaged.  This was recognized by the applicant’s trial counsel who affirmed that he considered that Yuen’s statements made “... outwith the presence of the applicant was not evidence of the truth of those statements”. [8]
+
+9.  The applicant’s legal advisers were well aware that it was open to them to call Yuen to testify directly.  Giving evidence to meet the charge of flagrant incompetence, they explained that they had discussed this possibility with the applicant and that he had accepted their advice against calling Yuen. It was therefore a conscious decision not to call Yuen and it does not lie in the applicant’s mouth to complain about the unavailability of Yuen’s evidence because his out-of-court statements were inadmissible.  Counsel’s advice not to call Yuen was held by the Court of Appeal to be within the proper ambit of his professional judgment.[9]
+
+10.  The suggestion by Mr McGowan that excluding such hearsay statements was unfair because Yuen might have turned hostile if called to testify is wholly unmeritorious.  As Lunn JA pointed out:
+
+“It was not permissible to seek to avoid the risks of cross-examination of Yuen Kin San by seeking to elicit his exculpatory out-of-court statements by cross-examination of the police officer. That evidence was hearsay and was not the subject of any exception to that rule. The only purpose of cross-examining the police officer in respect of Yuen Kin San’s out-of-court statement was to adduce it as evidence of the truth. It was inadmissible for that purpose. [10]”
+
+11.  As to Mr McGowan’s invitation to this Court to change the law, Mr William Tam SC[11] rightly cited Wong Wai Man v HKSAR,[12] where any such suggestion was excluded.  This Court adopted the approach in Myers v DPP,[13] where a majority in the House of Lords held that any new exceptions to the hearsay rule would require legislation, that being a case which was described in R v Blastland,[14] as having “established the principle, never since challenged, that it is for the legislature, not the judiciary, to create new exceptions to the hearsay rule.”  Also cited was authority from the High Court of Australia[15] to like effect.
+
+12.  Another difficulty faced by the applicant arises from the fact that the Court of Appeal rejected the submission that failure to adduce Yuen’s statement amounted to flagrant incompetence.  Given that view of the law as it stood, even if leave were given and the Court saw fit to change the law on hearsay, the appeal would be academic since there would be no basis for reversing the Court of Appeal’s rejection of incompetence.
+
+13.  Leave was also sought on the “substantial and grave injustice” ground but those arguments added nothing of substance.
+
+14.  It was therefore our view that the applicant’s case was not reasonably arguable.
+
+ 
+
+ 
+
+(R A V Ribeiro)
+Permanent Judge	(Robert Tang)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+Mr James H M McGOWAN, instructed by Tang, Wong & Cheung, assigned by the Director of Legal Aid, for the Applicant
+
+Mr William Tam SC, DDPP, and Mr Ivan Cheung, PP, of the Department of Justice, for the Respondent
+
+[1] And one other person.  They were acquitted of manufacturing the drug.
+
+[2] Before Beeson J and a jury on 19 January 2011.
+
+[3] Stock VP, Lunn JA and McWalters J, CACC 51/2011 (8 November 2013).
+
+[4] R v Myers [1998] AC 124.
+
+[5] At 133 and 136.
+
+[6] Myers at 142, Court of Appeal §70.
+
+[7] Court of Appeal §71.
+
+[8] Court of Appeal §51.
+
+[9] Court of Appeal §72.
+
+[10] Court of Appeal §71.
+
+[11] Appearing with Mr Ivan Cheung for the respondent.
+
+[12] (2000) 3 HKCFAR 322 at 327-328.
+
+[13] [1965] AC 1001 at 1028 and 1034.
+
+[14] [1986] AC 41 at 52.
+
+[15] Bannon v R (1995) 185 CLR 1 at 12.
+

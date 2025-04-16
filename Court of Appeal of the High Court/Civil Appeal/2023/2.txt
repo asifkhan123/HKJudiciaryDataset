@@ -1,0 +1,404 @@
+CACV 4/2023, [2024] HKCA 1083
+
+On Appeal From [2022] HKCFI 3693
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO 4 OF 2023
+
+(ON APPEAL FROM HCSD NO 48 OF 2021)
+
+________________________
+
+BETWEEN
+
+ 	GAO YANLING	Applicant
+ 	and	 
+ 	CREDIT SUISSE AG, HONG KONG BRANCH	Respondent
+________________________
+
+(By original action)
+
+BETWEEN
+
+ 	GAO YANLING	Applicant
+ 	and	 
+ 	UBS AG, HONG KONG BRANCH	Respondent
+________________________
+
+(By carry on order dated 26 June 2024)
+
+Before: 	Hon Kwan VP, Chu VP and Au JA in Court
+Date of Hearing: 	11 September 2023
+Date of Judgment: 	20 November 2024
+________________________
+
+J U D G M E N T
+
+________________________
+
+Hon Chu VP (giving the Judgment of the Court):
+
+A. INTRODUCTION
+
+1.  This is the applicant’s appeal against the judgment of Deputy High Court Judge Leung (“the Judge”)  given on 13 December 2022[1] dismissing her application to set aside a statutory demand dated 18 August 2021 (“the Statutory Demand”)  served on her by the respondent with costs and authorising the respondent to present a bankruptcy petition against her.
+
+2.  The Statutory Demand requires the applicant to pay three sums in the amount of HK$3,109,843.92, US$428,237.45 and CHF96,722.52 (collectively “the Debt”)  which are made up of the following:
+
+(1)  A debt in the amount of HK$3,048,516.87, US$423,075.75 and CHF96,443.93 incurred and arising from credit facilities made available by the respondent to the applicant pursuant to an Application for Credit Facilities dated 16 December 2014 and a Credit Facilities Confirmation dated 11 August 2016 which the applicant has failed to repay pursuant to a demand issued by the respondent’s solicitors on 21 July 2021;
+
+(2)  Interest that has accrued since the issuance of the demand letter in the amount of HK$6,731.32, US$947.20 and CHF278.59; and
+
+(3)  Fees, costs and expenses (including legal fees)  payable under the Account Opening Terms and Conditions in the amount of HK$54,595.73 and US$4,214.50.
+
+3.  The core issue in the appeal is whether the Judge was correct in holding that the applicant failed to establish a bona fide dispute on substantial grounds in respect of her dispute on the quantification of the Debt.
+
+B.  BACKGROUND
+
+4.  The circumstances leading to the issue of the Statutory Demand can be briefly stated as below.
+
+5.  The applicant and her husband Mr Li Kai Ning (“Li”)  owned substantial business interests in Hong Kong and the Mainland across fields of finance and securities, mining, precious metals, textile and property development.  In 2013, they came to know Ms Chu Hiu Kwan (“Chu”), who was then working for another bank.  In around late 2014 or early 2015 after Chu had joined the respondent, the applicant opened a personal investment account with the respondent (No. CIF 17111, “the Personal Investment Account”).  Subsequently, the applicant and Li also opened other investment accounts with the respondent in the name of other investment vehicles and through a family trust beneficially owned by them.  Chu was the customer relationship manager in respect of their investment accounts held with the respondent.
+
+6.  By a general power of attorney dated 13 February 2015, the applicant appointed Li as her attorney and gave him full authority to operate the Personal Investment Account.
+
+7.  At the time of the opening of the Personal Investment Account and pursuant to an Application for Credit Facilities dated 16 December 2014, the applicant also obtained from the respondent margin trading credit to facilitate her leveraged trading of financial products through the Personal Investment Account.  On 11 August 2016, the applicant and the respondent entered into the last credit facilities confirmation letter pursuant to which the credit limit in respect of the Personal Investment Account was adjusted to US$5 million (“the Facilities”).
+
+8.  The relationship between the applicant and the respondent is governed by the terms in the Account Opening Terms and Conditions (last updated in August 2016, “AOTC”)  as well as the terms of the Facilities.  Clause 1.5, Part B of the AOTC provided that the applicant was responsible for making investment and trading decisions and the respondent would only execute the transaction upon confirmation of instruction, though at its recommendation.  The relationship between the applicant and the respondent as regard the Personal Investment Account was therefore one of “execution only”, and the respondent did not act as the investment adviser or manager of the applicant or Li.
+
+9.  At [6] of the judgment, the Judge set out the salient terms of the AOTC as follows:
+
+“6. The AOTCs contain various provisions in relation to the maintenance of the margin requirement and the Bank’s right of demand for additional collateral to maintain margin levels. They included:
+
+(1)  the Bank’s power to withdraw the Facilities and to demand repayment if the margin requirement determined by the Bank is not met or upon the occurrence of an event of default (the Application Form; Part F, clauses 13.5 to 13.7 of the AOTC);
+
+(2)  the availability of the Facilities being subject entirely to the Bank’s discretion (Part F, Clause 2.1-2.2 of the AOTC);
+
+(3)  the remedies open to the Bank upon the occurrence of default, including termination of transactions and liquidation of margins (Part E, Clause 8.1 of the AOTC);
+
+(4)  the right of the Bank to demand for deposit of additional margin forthwith, failing which the Bank is entitled forthwith to set off its margin call with other funds or assets credited to the client’s account and/or to close out the position (Part E, Clause 5.3 of the AOTC); and
+
+(5)  the right of the Bank to charge interest in respect of the Facilities at such rate and calculated and compounded on such basis as the Bank may in its absolute discretion determine from time to time (Part F, Clause 8.1 of the AOTC).”
+
+10.  Additionally, under clause 10, Part E of the AOTC, if the respondent wishes to exercise its discretion under clause 8 of Part E to early terminate a transaction, and for all terminated transactions, the respondent will calculate the Early Close-Out Amount (which is referred to in these proceedings as the termination fee)  in accordance with clause 11 of Part E.  Clause 11, Part E provides that the termination fee is to be determined by the respondent in a manner consistent with the ordinary conduct of its business. In particular, clauses 11.1 and 11.3 provide that:
+
+“11. Early Close-Out Amount
+
+11.1 The Early Close-Out Amount in respect of terminated Transactions is, as determined by the Bank in a manner consistent with the ordinary conduct of its business: -
+
+(a)  the Termination Currency Equivalent of the net amount of losses or costs of the Bank that are or would be incurred (expressed as a positive number)  or net gains of the Bank (expressed as a negative number), in each case as determined by the Bank in its discretion, in relation to those terminated Transactions, and including any loss of bargain, cost of funding, loss or cost incurred as a result of the Bank terminating, liquidating, obtaining or re-establishing any hedge or related trading position (or any gain resulting from any of them), and any losses or costs (or gains)  in respect of any payment or delivery required to have been made (assuming satisfaction of any application condition precedent)  on or before the Early Termination Date and not made; less
+
+(b)  if the amount determined under paragraph (a)  above is a positive number, the Termination Currency Equivalent of any Margin which the Bank wishes to apply against such losses or costs to the Bank.”
+
+“11.3 The Bank and the Client agree that any Early Close-Out Amount is a reasonable pre-estimate of loss and not a penalty, and such amount is payable for the loss of bargain and the loss of protection against future risks and, except as otherwise provided in the Agreement, the Client will not be entitled to recover any additional damage as a consequence of such losses.”
+
+11.  Throughout the years, there had been active trading in the Personal Investment Account.  There had been ups and downs and on occasions significant volatility.  The three transactions immediately prior to the difficulty faced by the account that gave rise to the present dispute were executed in the period from 19 to 25 February 2020 (collectively “the Relevant Transactions”).  They were:
+
+(1)  A 78-week XAG (Silver)/USD Target Redemption Pivot Forward executed on 19 February 2020;
+
+(2)  A 24-month XAG (Silver)/USD Ratio Knock-Out Forward with Partial KO executed on 24 February 2020; and
+
+(3)  A 104-week XAU (Gold)/USD Target Redemption Forward executed on 25 February 2020.
+
+12.  The Relevant Transactions were entered into by Li on behalf of the applicant.  These were essentially accumulator type of financial products which required the customer to purchase or sell precious metals in periodic transactions over the contractual period.  Prior to their execution, the respondent had sent offer emails and documentation to Li, setting out the details and features of the product, the terms of the structure, the investment benefits and risks including the “worst case scenario” and exposure risk.  The respondent’s emails also explained that the Relevant Transactions would be financed by leverage under the Facilities.  As stated in the offer emails, the respondent only proceeded with the Relevant Transactions after receiving Li’s reply emails confirming the execution of the transactions through the Personal Investment Account.
+
+13.  It is a term of the Relevant Transactions that the applicant could not terminate before the expiry of the contractual period without the respondent’s consent, and if consent was given the applicant would be required to pay the break costs which could be substantial.
+
+14.  After the execution of the Relevant Transactions and during the second and third week of March 2020, the global gold and silver markets experienced significant drops. The applicant was obliged to purchase a large quantity of gold and silver at pre-agreed prices notwithstanding the drops, resulting in significant losses to the Personal Investment Account.
+
+15.  On 16 March 2020, the respondent issued a top-up notice (“the Top-Up Notice”)  requiring the applicant to deposit an additional collateral of US$762,000 into the Personal Investment Account.  Although the deadline given was 5:00 pm on 18 March 2020, the Top-Up Notice expressly stated that this was subject to the respondent’s right to take earlier action to close out the account if the collateral value continued to drop and reached a level below the exposure level of the respondent.
+
+16.  On 17 March 2020, the market continued to drop.  At around 5:26 pm on the day, the respondent took action to close out the Personal Investment Account and all trading positions under it.
+
+17.  On 18 March 2020, the respondent issued to the applicant a close-out notice in respect of the Personal Investment Account (“the Close-Out Notice”).  By then the applicant had yet to comply with the Top-Up Notice.  The Close-Out Notice informed the applicant that the aggregate close out threshold of the security in her account had dropped below the exposure level of the respondent, obliging the respondent to close out her account and all trading positions and to liquidate all the assets in discharge of the applicant’s liabilities to the respondent under the Facilities.
+
+18.  On 12 June 2020, the respondent issued a letter of demand (“the 1st Notice of Demand”)  informing the applicant that despite the close-out and the liquidation of all the assets in the Personal Investment Account, they were insufficient to cover her liabilities under the Facilities, and the outstanding amounts due and payable to the respondent were in the sum of HK$2,946,468.46, US$408,498.23 and CHF92,665.28.  The applicant was required to make repayment by 19 June 2020.  This was followed by a second and third notice of demand issued on 21 August 2020 and 15 January 2021.
+
+19.  On 24 February 2021, the respondent through its former solicitors issued another written demand to the applicant demanding settlement of the outstanding amount by 3 March 2021.  The applicant responded by letter dated 23 April 2021 to request for time to deal with the matter.  Further written demands were issued in May and June 2021.
+
+20.  On 21 July 2021, the respondent’s solicitors issued the last written demand to the applicant.  As at that day, the outstanding liabilities under the Facilities stood at HK$3,048,516.87, US$423,075.75 and CHF96,443.93.
+
+21.  On 18 August 2021, the respondent issued the Statutory Demand.
+
+22.  On 8 October 2021, the applicant took out the application to set aside the Statutory Demand pursuant to rule 47 of the Bankruptcy Rules, Cap 6A.  The application was supported by the applicant’s affirmation and an unsigned affirmation of Li[2].
+
+C.  THE APPLICANT’S CASE
+
+C1.  The grounds in the supporting affirmations
+
+23.  In the affirmations made by the applicant and Li in support of the setting aside application, the Debt was disputed on the grounds that: (a)  the two of them were not familiar with the financial products involved in the Relevant Transactions and Chu had misrepresented to them the risks involved; (b)  Chu disregarded their instructions to close the Personal Investment Account or to terminate the Relevant Transactions, but for which the losses could have been avoided; (c)  Li acted on Chu’s wrong advice to sell the gold and silver in the Personal Investment Account and to buy a XAG/USD “call spread option” on or about 3 March 2020; and (d)  the respondent failed to allow the applicant to terminate the Relevant Transactions within the “cooling-off” period.
+
+C2.  The additional grounds in the reply affirmation
+
+24.  In her 2nd affirmation[3] filed in reply to Chu’s affirmation in opposition[4], the applicant put forward three additional grounds.  First, she disputed the quantification of the Debt, complaining that the respondent failed to set out precisely how the amounts in the Statutory Demand were arrived at.  Second, she sought to rely on the Unconscionable Contracts Ordinance, Cap 458 (“UCO”).  Third, she also claimed there was a breach of the Code of Conduct for Persons Licensed by or Registered with the Securities and Futures Commission (“the Code”).
+
+25.  All the grounds in the supporting affirmations and the last of the additional ground relating to the Code are no longer pursued in this appeal.
+
+D.  THE RESPONDENT’S RESPONSE
+
+26.  The respondent’s response to the grounds in the affirmations in support of the application was that: (a)  the applicant and Li were not inexperienced investors, having regard to their background as shown in the due diligence carried out by Chu and the information contained in the applicant’s investment profile questionnaire which indicated a “high” risk tolerance; and (b)  under the terms of the AOTC, the respondent was contractually entitled to take actions to protect its interests, including the termination of any transaction and liquidation of the positions in the Personal Investment Accounts.
+
+27.  Chu’s affirmation also revealed that the applicant had made complaints of fraud and misconduct against Chu personally and also the respondent to the Securities and Futures Commission (“SFC”)  and the Hong Kong Monetary Authority (“HKMA”), and the complaints were substantially similar to what was raised in the supporting affirmations of the applicant and Li.  Chu further pointed out that the respondent had provided written responses to the complaints in June, August and September 2020.  No actions had been taken by the authorities.
+
+28.  In respect of the additional grounds raised in the applicant’s reply affirmation, the respondent could only deal with them in its submissions.  On the dispute about the quantification of the Debt, the respondent essentially relied on the express provisions in the AOTC that governed the conclusiveness of the content of the monthly statements and reports, and also notices and demands issued by the respondent, and how objections to them may be raised.  The respondent also referred to its discretion under the AOTC to charge a termination fee upon premature closure and to determine the amount as an agreed reasonable pre-estimate of the respondent’s loss.  It was further argued by the respondent that even if there was an over-statement of the debt in the statutory demand, it would not per se entitle the debtor to have it set aside and it must be shown that injustice would be occasioned to the debtor by allowing the statutory demand to stand.
+
+29.  As to the remaining additional grounds, the respondent’s case was that the UCO had no application as the applicant and Li did not come within the ambit and coverage of the ordinance, and any breach of the Code could not affect or negate the applicant’s contractual liability to the respondent.
+
+E.  THE JUDGES’ DECISION
+
+30.  By his judgment handed down on 13 December 2022, the Judge held that the applicant failed to satisfy the requisite burden of demonstrating a bona fide dispute of the Debt on substantial grounds and dismissed the application.
+
+E1.  The original grounds
+
+31.  The Judge firstly did not accept that the applicant and Li were unsophisticated and inexperienced investors or that they would have just blindly followed the alleged representation by Chu on the infallibility of the financial products[5]. The Judge reached this conclusion after considering (a)  their background, their positions in their respective investment companies and the evidence showing Li had made his own technical analysis of the precious metal market at the relevant time; (b)  the repeated confirmation to the respondent since the opening of the Personal Investment Account that they had the requisite derivative knowledge and experience to enter into the Relevant Transactions; and (c)  the applicant’s confirmation in a signed declaration (accompanied by a Chinese translation)  of her understanding and agreement to the AOTC which contained detailed and extensive disclosure of the risks involved in the various investments and the implications of leveraged trading, including the risk that the applicant might be called upon to provide supplement collateral at short notice, the closing-out of her position, and the high exit costs and losses in the event of early termination.
+
+32.  Secondly, the Judge rejected the defence that Chu failed to follow instructions to close the Personal Investment Account or to terminate the Relevant Transactions before the losses were incurred[6]. The Judge had regard to (a)  the contemporaneous evidence which did not show any clear instructions from the applicant to close the account since August 2019 or to terminate the transactions thereafter, and the fact that the applicant and Li continued trading through the Personal Investment Account and entered into the Relevant Transactions in February 2020; and (b)  the fact that termination of the Relevant Transactions was subject to terms in that the structure was bound for its entire term and might not be terminated before expiry without the respondent’s consent, and that if consent was given, the break costs to be paid by the applicant could be substantial.
+
+33.  Thirdly, the Judge rejected the complaint that the respondent had given wrong advice to Li.[7] The Judge had regard to (a)  the express terms of the AOTC and the fact that the respondent never acted as the investment adviser or manager of the applicant or Li; (b)  the evidence which showed Li made the decision to sell silver by the end of February 2020 on his own accord and upon his own technical analysis of the downward tendency in the precious metal market.  In any event, the absence of any supplemental collateral to make up the deficit in the margin levels would entail a sale of the precious metal in the account in light of the market situation at that time; and (c)  the fact that the purchase of the one-month call spread option on about 3 March 2020 was transacted under another investment account of the applicant and Li and after the execution of the Relevant Transactions, and there was nothing to show that the purchase could be attributed to the wrongful advice of Chu or had caused losses to the applicant.
+
+34.  Fourthly, the Judge rejected the complaint that the applicant was not allowed to exit the Relevant Transactions during the cooling-off period.[8]  The Judge held that (a)  the cooling-off period was not available to the applicant as she was not a retail customer; (b)  there was no provision about cooling-off period in the AOTC and the transaction documentation governing the Relevant Transactions; and (c)  the suggestion of a cooling-off period was contrary to the express terms of the Relevant Transactions which were long term binding obligations that could not be terminated by the applicant at will without the respondent’s consent.
+
+E2.  The applicant’s reply affirmation
+
+35.  The Judge pointed out that the applicant’s reply affirmation had shifted the focus of her case, raising new grounds and issues.  While agreeing with the respondent’s counsel that this was outside the legitimate scope of a reply affirmation and that rule 47(4)(b)  of the Bankruptcy Rules required the grounds relied upon to set aside a statutory demand to be stated in the supporting affidavit, the Judge nevertheless proceeded to consider the additional grounds in the applicant’s reply affirmation primarily because the respondent’s counsel, despite advancing an objection, was ready to deal with them.  The Judge, however, considered that the manner in which the issues were raised by the applicant would be relevant when considering whether a bona fide dispute had been made out.
+
+E3.  Quantification of the Debt
+
+36.  The Judge noted that the applicant disputed not only the quantification of the Debt but also all other positions and liquidation of the assets in the Personal Investment Account.  He held the burden was on the applicant to point out in her evidence what were the specific errors in the quantification and it was not permissible to mount a blanket challenge[9]. In any event, the applicant’s challenge to the quantification and quantum of the various positions and balances in the Personal Investment Account was subject to the provisions in the AOTC[10].
+
+37.  These included, firstly, clause 8.2, Part B of the AOTC which provided that the statements issued by the respondent were conclusively approved and accepted by the applicant as true and accurate, unless she objected in writing within the period specified by the respondent which was 90 days[11]. The monthly statements issued to the applicant invariably also contained a statement to similar effect.  Such a clause was binding on the applicant[12]. The Judge did not accept the applicant’s assertion that she had made a written objection dated 24 April 2020.  No such written objection could be found in the hearing bundle.  Although the respondent’s letter to the applicant dated 12 June 2020 had referred to an email from Li dated 24 April 2020, it did not appear from the respondent’s letter that Li’s email had raised a complaint about quantum.  The Judge also pointed out that when the applicant made complaints to the authorities about the losses under the Relevant Transactions, she in fact relied on the quantum in the statements issued to her, instead of challenging them.
+
+38.  Secondly, clause 5.5, Part B and clause 15.4, Part F of the AOTC stipulated that notices and demands issued by the respondent in respect of the amount due and owing by the applicant were deemed conclusive and binding on the applicant save for “obvious and manifest errors”.  The Judge held that this was a reference to errors that are obvious and easily demonstrable without extensive investigation[13], and it was for the applicant to identify the errors and to demonstrate that they were on the face obvious errors.  The Judge rejected the applicant’s arguments based on the March 2020 monthly statement, holding that the amounts stated in the Statutory Demand were the end result of the respondent exercising its contractual rights to terminate all the transactions and liquidate all the assets in the Personal Investment Account. The Judge held that the respondent had no obligation to disclose the basis or methodology for the calculation of the minimum maintenance margins of open positions, as per clause 8(a)  and (b)  of the confirmation of the Facilities, and that in any event the quantification and figures shown in the April 2020 monthly statement demonstrably accorded with the various demand letters and the Statutory Demand.  The Judge further considered that the applicant had at the outset been put on notice of the risks of the investments, her exposure and the respondent’s power to liquidate the collateral and to close out the open positions when the collateral was insufficient to cover the outstanding amount in the account, and that she would remain liable to the respondent for the full discharge of the outstanding amount.
+
+39.  Thirdly, clauses 10 and 11, Part E of the AOTC gave the respondent a discretion to determine the termination fee consequent upon the applicant’s breach of the terms of the Relevant Transactions as an agreed reasonable pre-estimate of the respondent’s loss. The exercise of the discretion was subject to an implied term that it would not be exercised in an arbitrary, capricious, perverse or irrational manner[14], which is analogous to the Wednesbury reasonableness requirement[15]. The burden was on the applicant to show such unreasonableness by sufficient evidence.  The Judge held that in light of the extensive disclosure of potential risks and exposure to the applicant through Li and Li’s acknowledgement of the risks, the respondent’s exercise of contractual discretion in circumstances envisaged by the parties’ contract and its determination of the quantum of the termination fees could not be said to be capricious or irrational in the Wednesbury sense.  The Judge rejected the applicant’s attempt to rely on the rise in the market prices after the termination date to show that the quantification of the termination fee was irrational or erroneous, holding that hindsight had no place and that the relevant time for the determination of the termination fee was the date of the termination (i.e. about 18 March 2020)  when the gold and silver markets were experiencing high volatility over a span of days. Further, even if it were open to the applicant to mount the challenge, the burden would be on her to adduce evidence to substantiate her approach of taking into account post-termination market price movement in fixing the termination fees.  However, such evidence was lacking.
+
+40.  The Judge rejected the applicant’s attempt to raise a new issue as to whether the termination fees and charges were reasonable pre-estimate of loss or penalty. The Judge held that: (a)  the respondent obviously had a legitimate interest that warranted protection in light of the applicant’s high risk investment portfolio by way of leveraged trading and the margin credit facilities granted to her; (b)  the applicant had failed to meet the evidential burden required to make good her argument that the termination fees were a penalty; and (c)  the issue was only raised in the applicant’s written submissions lodged shortly before the hearing, which unfairly deprived the respondent of a reasonable opportunity to address it.
+
+41.  Finally, the Judge agreed with the respondent that even if there was an over-statement of the debt in the Statutory Demand, that in itself would not entitle the applicant to have it set aside.  The applicant’s case was that she was not liable at all and there was no evidence or suggestion that she was prepared to pay the debt had the actual sum owed been smaller than what was stated in the Statutory Demand.  No injustice would arise since she could not show by evidence that she was able to pay the correct amount[16].
+
+E4.  UCO and the Code
+
+42.  As for the arguments on the UCO, the Judge had regard to section 5 of the UCO, the legal principles and the evidence and held that the ordinance had no application.  Among other things, the Judge found that it was not readily, if at all, apparent that the applicant and Li had been taken advantage of as vulnerable parties with weak bargaining power as compared with that of the respondent at the relevant time and throughout the duration of their relationship[17].
+
+43.  Lastly, on the alleged breach of the Code, the Judge considered that the Code did not have the force of law and could not override express contractual provisions[18] such that the alleged breach could not negate the applicant’s contractual liability to the respondent.  The Judge further noted that the authorities had taken no action on the applicant’s complaints made in June 2020 against Chu and the respondent.
+
+44.  The Judge accordingly dismissed the setting aside application with costs against the applicant, and further authorised the respondent to present a bankruptcy petition against the applicant within 14 days.
+
+F.  THE GROUNDS OF APPEAL
+
+45.  The appeal is primarily only concerned with the dispute as to the quantification of the Debt.  The Notice of Appeal encompasses five main grounds of appeal with a number of sub-grounds which may be summarized as follows:
+
+(1)  Ground 1: The Judge erred in holding that the applicant did not particularize her dispute or failed to discharge her burden to dispute the Debt in that the respondent has never disclosed the arithmetic by which the Debt was arrived at, despite knowing that the applicant disputed the Debt in its entirety, and the applicant’s reply affirmation had demonstrated that she could not have owed any debt or any debt owed by her should be in a much smaller amount.
+
+(2)  Ground 2: The Judge erred in finding that the quantification issue did not amount to a bona fide dispute over the Debt in that the issue was based on objective facts such that, even if it was raised late, there could not be any question of lack of bona fide or any question of a benefit of doubt.
+
+(3)  Ground 3: The Judge erred in accepting the respondent’s changed case, namely the Debt was the termination fee which the respondent could in its discretion determine and that it was an agreed reasonable pre-estimate of the respondent’s loss.
+
+(4)  Ground 4: The Judge erred in accepting that even if there was an overstatement in the amount of the Debt in the Statutory Demand, there was no injustice to the applicant as there was no suggestion that she would be prepared to pay the correct amount.
+
+(5)  Ground 5: The Judge erred in holding that the applicant was barred by the conclusive evidence clause in clause 8.2, Part B of the AOTC from raising objection to the figures in the monthly statements and other documents issued by the respondent.
+
+G.  OUR REASONS FOR DECISION
+
+G1.  Ground 1
+
+46.  There are seven sub-grounds under Ground 1 which raise two principal complaints:
+
+(1)  The respondent never explained how the debts in the Statutory Demand came about, despite her written objection on 24 April 2020 and her repeated requests for their justification.
+
+(2)  The applicant could not have owed the respondent any debt because according to the Investment Report of March 2020 (“the March Investment Report”), the opening balance of the Personal Investment Account (i.e. US$2,976,290)  was sufficient to cover the losses under the Relevant Transactions (i.e. US$409,000 + US$628,226 + US$429,000 = US$1,466,226).
+
+G1.1  Failure to explain how the Debt came about
+
+47.  In our view, it is important to recognize at the outset that the Statutory Demand expressly described the debts as: (a)  the amount due and payable under the Facilities granted to the applicant pursuant to the confirmation dated 11 August 2016[19], which she has failed to repay pursuant to the demand letter dated 21 July 2021; (b)  the interest accrued since the demand letter; and (c)  the fees, costs and expenses payable under clauses 8 and 12, Part F and clause 25, Part B of the AOTC.  While it is true that the Facilities were extended to the applicant for the leveraged trading in her Personal Investment Account, the Statutory Demand is not seeking repayment of the losses under the Relevant Transactions.
+
+48.  There is no merit in the first complaint that the respondent has not explained how the Debt was arrived at.  It can be seen from the 1st Notice of Demand that the amount of indebtedness stated in it was taken from the closing balances of the HKD, USD and CHF accounts in the Personal Investment Account as appeared in the April 2020 monthly statements.  The subsequent demand letters further show that interest have accrued since the 1st Notice of Demand (i.e. 12 June 2020).  The Judge was correct to find that the quantification and figures shown in the April 2020 monthly statement demonstrably accorded with the demand letters and ultimately the Statutory Demand.
+
+49.  The applicant argued that as early as 24 April 2020 she had already made a written objection.  The Judge had considered this argument but rejected it.  The written objection was not in evidence before the Judge.  The closest that the Judge could find was a reference in the respondent’s letter dated 12 June 2020 to an email from Li on 24 April 2020.  The Judge found it could not be discerned from the content of this letter that a complaint or objection about quantum had been raised.  In the light of this finding of the Judge, which we see no basis to disturb, the applicant’s contention that she had raised an objection in April 2020 cannot stand.  We also agree with the Judge, for the reasons given in [73] - [89] of the judgment, that in the absence of any objection to the monthly statements, notices and demands issued by the respondent, they were conclusively binding on the applicant pursuant to the terms of the AOTC.
+
+G1.2  The applicant could not have owed any debt
+
+50.  There is also no merit in the applicant’s second complaint that she could not have owed any debt to the respondent as the losses under the Relevant Transactions were adequately covered by the opening balance in the Personal Investment Account. As we have pointed out above, the Debt is not in respect of or limited to the losses under the Relevant Transactions.  The Personal Investment Account had other trading positions and transactions with gains and losses.  The Relevant Transactions were just the three products executed immediately prior to the close-out[20]. When the Personal Investment Account was closed out, all the trading positions in the account, not only those of the Relevant Transactions, would be closed out.  This is clear from the contemporaneous evidence adduced by the respondent.
+
+51.  The Judge had observed that the debts stated in the Statutory Demand represented the end-result of the respondent exercising its contractual right to terminate all the transactions in the Personal Investment Account and to liquidate all the assets in the account.  The right to close out was triggered when the aggregate close out security fell below the exposure level of the respondent and this could happen (and in fact did happen)  before the deadline for complying with the Top-Up Notice[21]. We therefore do not agree with the applicant’s submission that it was the respondent’s case that the debts arose solely from the losses sustained under the Relevant Transactions.  Nor do we accept that there has been a change in the respondent’s case or that the applicant has advanced different cases.  For the same reason, we also reject the submission that the Statutory Demand failed to state the correct basis of the Debt.
+
+52.  The applicant argues that the Judge should not have relied on the April 2020 monthly statement because the statement could not possibly justify the applicant’s loss and the debts given that the account was already closed out on 17 March 2020.  This argument has ignored the fact that after the account was closed out, there had to be liquidation of the assets in the account to reduce the outstanding liabilities under the Facilities, and this had been explained in the 1st Notice of Demand.
+
+53.  The applicant further seeks to put forward some arithmetic calculations using the 104-233ks XAU/USD Target Redemption Forward transaction as an example to demonstrate that she could not have owed the debts stated in the Statutory Demand.  For the reasons that will be discussed under Ground 3, these attempts are misplaced.
+
+54.  The applicant also argues that as the Judge had acknowledged[22] that the calculation of the losses under the Relevant Transactions required expert evidence, it could not be said that the applicant failed to raise a bona fide dispute.  In our view, the Judge’s comment on the need for expert evidence has to be read in context.  At [84] of the judgment, the Judge rejected the applicant’s attempt to challenge the amount of the termination fees as being irrational or erroneous by reference to the market prices after the termination date, and went on to comment that even if it were open to the applicant to mount a challenge to the correctness of the termination fees, she bore the burden of substantiating the approach advocated by her and this might involve expert evidence.  The Judge then pointed out that what was suggested by the applicant and her counsel could only serve to raise an issue but they failed to substantiate it as a bona fide dispute.  Properly read, the Judge’s comment about expert evidence does not support the applicant’s argument.
+
+55.  For these reasons, Ground 1 fails.
+
+G3.  Ground 2
+
+56.  Ground 2 is directed at [70] of the judgment where the Judge after allowing the new issues raised in the applicant’s reply affirmation to be argued, pointed out that the manner in which the issues were raised was relevant as to whether the dispute was bona fide and that the benefit of any doubt arising out of the manner in which the issues were raised would not go to the applicant.  The applicant argues that even if it can be said that the issues were raised late there is no question of lack of fide.  Nor is there any question of benefit of doubt given that her case is based on objective evidence.  The applicant complains that the Judge failed to consider her difficulty in giving instruction due to the pandemic and her repeated demands to the respondent to justify the Debt. In his written submissions, Mr Li SC, together with Mr Tang for the applicant, while acknowledging that the applicant might not have raised the dispute in a concrete manner early in the proceedings, asserted that she had objected to the termination fees at the first opportunity.
+
+57.  We do not accept these submissions.  Firstly, it is indisputable that the dispute on the quantification of the Debt, an issue that the applicant has attached so much emphasis, was only raised in the applicant’s reply affirmation.  The Judge is justified in taking the view that the dispute was raised late in the day. Secondly, apart from this dispute, a number of new points were also introduced for the first time in the applicant’s reply affirmation.  The manner in which the applicant set out the grounds of her application is plainly unsatisfactory in light of rule 47(4)(b)  of the Bankruptcy Rules which requires the supporting affidavit to set out the grounds on which an applicant claims that the statutory demand should be set aside.  Thirdly, the Judge had nevertheless allowed the additional grounds to be argued and given thorough consideration to the relevant evidence, arguments and the applicable law.  He had also given detailed reasons for his findings and rejection of the applicant’s various challenges, including her challenge to the various positions and balances in the Personal Investment Account[23].  The arguments under this ground cannot advance the applicant’s appeal when there is no basis to interfere with the Judge’s evaluative findings on the facts and his assessment on the credibility of the evidence.  Ground 2 therefore fails.
+
+G3.  Ground 3
+
+58.  Ground 3 concerns the dispute over the termination fees.  There are a total of ten sub-grounds which make three broad complaints:
+
+(1)  The Judge erred in permitting the respondent to change its case and to argue that the Debt arose from the closure of the Personal Investment Account and the charge of termination fees.
+
+(2)  The Judge’ s findings on the dispute over the termination fees are erroneous.
+
+(3)  Even if the respondent has unbridled powers to determine the termination fees, the Judge erred in concluding that the UCO did not apply.
+
+G3.1  The respondent has changed its case?
+
+59.  The complaint that the respondent has changed its case can be disposed of shortly.  The applicant argues that whereas Chu’s affirmation in opposition stated that the debts in the Statutory Demand arose from the Relevant Transactions, the respondent’s written submissions before the Judge changed to assert that the debts arose from the discretionary termination fees.  We have pointed out under Ground 1 that it is clear from the Statutory Demand that the debts are the outstanding sums under the Facilities extended to the applicant for her leveraged trading in the Personal Investment Account.  We have also rejected the applicant’s argument that the debts arose solely from the losses sustained under the Relevant Transactions.
+
+60.  It should further be borne in mind that when Chu’s affirmation was filed, the applicant’s challenge as appeared by her supporting affirmation was focused on the Relevant Transactions.  It was in the reply affirmation that the quantification of the Debt was disputed such that the respondent had to deal with the dispute in the submissions.  It was in the context of addressing the dispute over the quantum and the quantification of the Debt that the respondent made the submissions that termination fees were payable as a result of the premature termination of the Relevant Transactions and pointed out that it was not open to the applicant to dispute the quantum in light of the provisions in the AOTC.  There is nothing in the respondent’s written submissions to show that the respondent was advancing a case that the debts in the Statutory Demand arose only from the termination fees, whether it was the termination fees of the Relevant Transactions (i.e. US$1,466,226)  or the total amount of termination fees (i.e. US$3,951,100).
+
+G3.2  Erroneous findings on the terminations fees?
+
+61.  The second complaint concerns the Judge’s findings on the applicant’s arguments on the termination fees.  The applicant firstly challenges the respondent’s entitlement to charge the termination fees.  It is argued that (a)  the termination letters did not set out any calculation and only asserted an agreement to terminate the transactions at 16 different amounts, which “likely formed” the basis of the Debt, but there was no agreement between the applicant and the respondent with regard to termination fees; and (b)  there was no event of default as defined in clause 8.1, Part E of the AOTC to trigger the operation of clauses 10 and 11, Part E of the AOTC.
+
+62.  These arguments are untenable in light of the binding contractual provisions.  Under clauses 10 and 11, Part E of the AOTC, the respondent has a discretion to determine the close-out amount for the premature termination of a transaction which is consistent with the ordinary conduct of its business, taking into account factors that include the loss of bargain and the costs of termination and re-establishing any hedge or related trading position.  As the Judge found at [81] of the judgment, the respondent’s contractual right to determine the termination fees was not up to further agreement or negotiation between the parties.  It is futile to contend that it is inexplicable how a total sum of US$3.9 million could have gone from the Personal Investment Account by way of termination fees.  It is also immaterial whether the termination letters had made express reference to the AOTC.  We further agree with the respondent that there is nothing wrong in the characterisation of the termination fees in the termination letters as having been agreed.
+
+63.  The applicant argues that Li had raised an objection to the termination fees in his conversations with Chu on 16 and 17 March 2020 as documented in the call reports.  However, what Li was referring to as appeared by the call reports is the unwind cost of the structured products concerned, which, as pointed out by the respondent in the call reports, was not determined by the respondent but by external factors such as market fluctuation, market sentiment and market liquidity.
+
+64.  Apart from the AOTC, the terms of the Relevant Transactions on termination are also binding on the applicant.  The offer emails and product documentations had expressly put the applicant on notice that she could not terminate the transactions without the consent of the respondent.  The offer emails from the respondent also referred to the contents of the accompanying document entitled “Important Notice to Investors” in which investors were expressly reminded to review the terms and conditions for the transactions and the AOTC governing the account with the respondent.
+
+65.  The applicant argues that no event of default as defined under clause 8.1, Part E of the AOTC had occurred.  Her point is that by pointing out that the March Investment Report showed a positive balance of around US$2.9 million in the Personal Investment Account, she has disputed the occurrence of a default and it is therefore up to the respondent to show otherwise.  However, the default (which occurred on 17 March 2020)  was recorded in the call report on 17 March 2020 at 5:26 pm, and this led to the Close-Out Notice on the following day.  The reliance on the opening balance in the account at the beginning of March 2020 to contend there was no occurrence of an event of default is just inapt.
+
+66.  Another aspect of the applicant’s challenge concerns the calculations.  It is said that the Judge failed to make coherent findings on how the indebtedness came about and that he should have concluded that she was not indebted to the respondent at all.  The applicant resorts to what is termed the actual working of the Relevant Transactions based on their product sheets to show that she could not have sustained the huge loss, given that the Relevant Transactions were accumulators with no actual sale or purchase of silver or gold and no premium was payable by the applicant for entering into the transactions with the respondent as the counterparty.  The applicant attempts to illustrate arithmetically that taking the most unfavourable price of any one of the Relevant Transactions at any fixing date before the closing out of the account, the loss would still be far less than that alleged to have been incurred.
+
+67.  These arguments are wholly misplaced.  In the first place, before each of the Relevant Transactions was executed, the terms and conditions, benefits and risks were clearly set out and brought to the attention of Li (and in turn the applicant)  in the offer emails, term sheets and documents and Li had given acknowledgement and agreement to proceed with the transaction based on the offered terms. These terms, which are binding on the applicant, provide that the Relevant Transactions were held for their entire term and that any consent from the respondent to terminate the transactions could entail substantial break costs. Importantly, it is a term in the offer documentation that the respondent is responsible for performing the determinations and calculations in relation to the transaction[24]. It is therefore not up to the applicant to come up with her own calculation of the close-out amount or to assume the role of the respondent’s calculation agent to determine the close-out amount of these structured derivative transactions.
+
+68.  Further, the applicant’s approach of taking the most unfavourable price of the Relevant Transactions at any fixing date before the closing-out of the account does not accord with the nature of the structured derivative transactions in question. Under clauses 11.1 and 11.3, Part E of the AOTC, when working out the net losses, costs or net gains of the respondent for the purpose of determining the early close-out amount, the respondent will include any loss of bargain, cost of funding or loss incurred in liquidating or hedging the trading position.  Hence, the amount of loss incurred will include the respondent’s loss of bargain for the remainder period of the term of the structure, that is, after the closing-out of the account until the end of the contractual period in respect of each of the Relevant Transactions.
+
+69.  Moreover, there were other trading positions and transactions under the Personal Investment Account in addition to those of the Relevant Transactions.  Those other trading positions and transactions were also affected when the entire account was closed out and its assets were liquidated and realised[25].  It is therefore incorrect to assume that the final liability was just the difference between the opening balance and the losses incurred under the Relevant Transactions or the total termination fees charged by the respondent.
+
+70.  The third aspect of the applicant’s complaint relates to the validity of clause 11, Part E of the AOTC.  It is argued that the Judge was wrong to rely on Cavendish Square Holdings BV v Makdessi [2016] AC 1172 and Law Ting Pong v Secondary School v Chen Wai Wah [2021] 3 HKLRD 185 and to find that the termination fee provided for under clause 11 was a genuine pre-estimate of loss arising from the closing-out of the Personal Investment Account.  The applicant submits that these cases have no application when clause 11 gives the respondent a unilateral and arbitrary power to fix damages after the contract was made without stipulating a formula or mechanism for calculating the amount of damages.  It is also submitted that without an ascertainable stipulation, it is not possible to judge at the time of the contract whether the clause is proportionate.  It is further said that whether clause 11 is a penalty clause is a grave issue to be tried and cannot be resolved in the setting aside application.
+
+71.  These submissions were premised on a misunderstanding of the Judge’s reasoning.  The applicant seems to think that the Judge had made a finding that the termination fee was a genuine pre-estimate of loss and not a penalty.  There is, however, no such finding.  At [86] - [88] of the judgment, the Judge pointed out that the issue of whether the termination fees were a reasonable pre-estimate of loss or a penalty was a new issue that was only raised in the applicant’s submissions.  He considered that it would be problematic for the applicant to raise this new issue in view of the legal principles in Cavendish Square Holdings BV v Makdessi and Law Ting Pong v Secondary School v Chen Wai Wah, which require an assessment of whether the provision is out of all proportion to the innocent party’s legitimate interest, and given the lack of evidence from the applicant to substantiate this issue.
+
+72.  Although the Judge observed that the legitimate interest of the respondent in this high risk investment warrants protection[26], this was said in the context of highlighting the need for the applicant to adduce evidence to show a bona fide defence on substantial grounds that the termination fees were out of proportion to the respondent’s legitimate interest.  The Judge felt hampered by the lack of evidence to come to any determination on this issue.  The applicant’s submissions on whether clause 11 is in truth a liquidated damages provision and a genuine pre-estimate of loss are therefore misplaced and do not engage with the Judge’s reasoning.  We would further observe that in seeking to dispute the validity of clause 11, it would be incumbent upon the applicant to first demonstrate that the issue of penalty is engaged.  The applicant would have to show that clause 11 concerns a secondary obligation arising from the breach of contract, as opposed to a primary obligation of performance[27]. It is not necessary for us to express a definitive view on the point, but it would seem to us that clause 11, read in the light of the other provisions, is primarily providing for the manner in which the transaction may be terminated early before the expiry of its term.
+
+73.  The applicant’s submissions also take issue with the Judge’s reliance on the cases of Habib Bank, supra, at [65] and Socimer International Bank, supra, at [66], arguing that these two cases are not decisions in the context of penalty or liquidated damages.  However, when the Judge referred to these cases (at [82] of the judgment), he was not dealing with the penalty issue.  The Judge was reciting the respondent’s submissions and acceptance that the respondent’s exercise of the contractual discretion was subject to the implied term that it would be exercised in a manner analogous to Wednesbury reasonableness.
+
+G3.3  Is the UCO applicable?
+
+74.  As to the third complaint, the applicant argues that the UCO is prima facie applicable, having regard to the onerous and unilateral nature of the clauses on termination fees and the undisputed fact that the applicant and Li do not hold a university degree and are illiterate in English.  This is plainly unarguable in light of the Judge’s rejection of the applicant’s case that she and Li were unsophisticated and inexperienced customers, and the findings on their financial background and experience, coupled with the applicant’s signed declaration (accompanied by a Chinese translation)  confirming she had read, fully understood and agreed to the AOTC and would obtain or had already received independent legal or professional advice and also the repeated confirmations and acknowledgements given by her and Li as to their knowledge and experience to enter into the Relevant Transactions and the risks and exposures involved[28].  The Judge also found that Li, who was the applicant’s appointed attorney with full authority to operate the Personal Investment Account, is evidently an experienced investor.  There is no appeal against any of these findings.  In the circumstances, the Judge’s holding that the two of them do not fall within the coverage of consumer dealings governed by the UCO cannot be faulted.
+
+75.  For the above reasons, Ground 3 fails.
+
+G4.  Ground 4
+
+76.  Ground 4 is directed at the Judge’s acceptance of the respondent’s submission that an over-statement of the debts in the statutory demand per se would not entitle the debtor to have the statutory demand set aside and that in this case there would be no injustice to uphold the Statutory Demand given that the applicant’s case was that she was not liable to the respondent at all and she had not suggested that she was prepared to pay the correct amount, relying on Chan WS, supra, at [23] - [26] and [35]; Ong Siu Sin Kevin, supra, at [74].  The applicant contends that it is unjust and illogical to expect the applicant to come up with a figure that she is willing and able to pay when it is never her case that the Debt is over-stated or there is another correct amount.
+
+77.  This ground is not arguable.  The Judge was well aware that the applicant’s case is that she is not liable for any part of the Debt.  All that the Judge did at [88] and [89] of his judgment was to point out an obstacle faced by the applicant in seeking to dispute the quantification of the Debt.  The Judge’s statement of the law is plainly right.  So is his observation on the problem faced by the applicant.
+
+G5.  Ground 5
+
+78.  Ground 5 challenges the Judge’s finding that the applicant was barred from raising objection to the figures in the monthly statements and other documents as they were deemed conclusive and accurate in the absence of written objection from the applicant within 90 days.  The applicant’s arguments are twofold.  First, she argues that written objection had been given, first, by email on 24 April 2020 and then by her written complaints to the SFC and the HKMA in June 2020, hence the requirement under clause 8.2, Part B of the AOTC is satisfied.  Second, she contends there are obvious and manifest errors in the reports, statements, notices and demands issued by the respondent and she can rely on such errors despite the lapse of the 90-day limit.
+
+79.  The first argument had been considered and rejected by the Judge with reasons given at [75] and [76] of the judgment.  The applicant merely repeats her arguments but has not shown that the Judge was plainly wrong in his analysis and findings of fact. The applicant does not dispute that the 24 April 2020 email was not in the evidence before the Judge.  In fact, the applicant acknowledges that this email was not expressly referred to in the March Investment Report or any specific statement.  The Judge could only resort to the respondent’s 12 June 2020 letter, which appeared to have documented the matters raised in the 24 April 2020 email from Li.  The Judge, however, found that no complaint about quantum could be discerned from the letter which set out the applicant’s other complaints and the respondent’s response to them.
+
+80.  Second, we do not accept the argument that any objection as to liability should suffice for the purpose of clause 8.2, Part B of the AOTC and the Judge was wrong to confine the requirement to an objection to quantum.  The applicant’s contention does not accord with the nature of the information that clause 8.2 is meant to uphold.  Clause 8.2 provides that:
+
+“The Client shall examine all statements of account, bank statements or any other statements, advices, printed forms, deposit slips, credit advices notes, Confirmations, transaction advices and other documents and whether provided to the Client by hand or sent to the Client via e-mail, fax, post, Internet Banking or any other form of communication (collectively a statement)  supplied by the Bank verifying the Bank’s receipt of instructions, or setting out or recording Client Transactions on any of the Accounts. The Client acknowledges and agrees that, unless it objects in writing to any of the matters contained in such statement within the period specified in the relevant Supplement (or such other time period agreed by the Bank or specified in such statement), the Client shall, subject to Applicable Laws, be treated as conclusively having approved and accepted, as true and accurate in all respects, all the matters contained in such statement (including all entries contained, as well as any reservations mentioned, in the statement)  which shall be conclusive and binding against the Client. However, the Bank may at its discretion at any time correct any statement to rectify an error.”
+
+81.  It can be seen that the “statement” envisaged by clause 8.2 relates to objective records verifying the transactions entered into by or upon the instructions of the client.  Clause 8.2 provides that they shall be conclusive and binding on the client unless objection was raised within the time stipulated, which was 90 days[29]. As understood by the applicant[30], the 90-day limit is to ensure that the respondent is notified of any dispute as soon as possible so that it could preserve the records without delay.  Plainly, it will not serve the purpose for the applicant to raise a blanket objection as to liability without identifying specifically which entry or transaction in the statement was being objected to.  The Judge is correct to reject the applicant’s argument that a single utterance in the 24 April 2020 email questioning the situation will be sufficient for the purpose of raising an objection under clause 8.2.
+
+82.  The applicant also argues that her complaints to the SFC and HKMA had been brought to the respondent’s attention.  We fail to see how her complaints to the regulatory authorities can be taken to be an objection for the purpose of clause 8.2, Part B of the AOTC, bearing also in mind that the party supposedly to be responsible for rectifying any alleged error is the respondent.  Importantly, as the Judge correctly observed, the applicant had in her complaints to the authorities relied on the transactions stated in the statements to quantify her losses and had not challenged the content of the statements.
+
+83.  As to the second argument, the applicant acknowledges that the “manifest errors” should be “obvious or easily demonstrable without extensive investigation”[31]. She has, however, not pointed to any obvious or manifest errors in the March Investment Report, the Top-Up Notice, the Close-Up Notice and other consequential documents.  The applicant seeks to rely on her arguments under Ground 1.  We do not think the arguments assist her because as part of her effort to show a substantial dispute to the debt, the applicant has relied on the figures and quantification in the March Investment Report to show that she could not have owed any debt to the respondent[32]. We are also not persuaded by the submissions that the termination fees were the result of fraud or negligence on the respondent’s part for the reasons we gave when discussing the parties’ contractual agreement on the exercise of the respondent’s discretion to charge the Termination Fees.
+
+84.  Although the Notice of Appeal had also referred to section 5 of the Control of Exemption Clauses Ordinance, Cap 71[33], Mr Li stated in his reply submissions that he needed not resort to the ordinance in light of the case law on the conclusive evidence clause[34]. In our view, this point is in any event not open to the applicant on appeal as it was not properly raised below in that the applicant’s written submissions before the Judge only asserted that the conclusive evidence clause “may also trigger” the Control of Exemption Clauses Ordinance, with no specific submission being advanced and no specific provision being relied upon.  Ground 5 therefore fails.
+
+H.  CONCLUSION AND COSTS
+
+85.  For the above reasons, none of the grounds of appeal are made out.  Accordingly, we dismiss the appeal.
+
+86.  Counsel agree that costs should follow the event.  We therefore order that the applicant pays the respondent the costs of this appeal, to be taxed if not agreed.
+
+ 
+
+ 
+
+(Susan Kwan)	(Carlye Chu)	(Thomas Au)
+Vice-President	Vice-President	Justice of Appeal
+ 
+
+Mr C Y Li SC and Mr David Tang, instructed by Tso Au Yim & Yeung, for the applicant
+
+Mr Val Chow, instructed by Ashurst Hong Kong, for the respondent
+
+
+[1]  [2022] HKCFI 3693
+
+[2]  The signed affirmation of Li was filed on 2 September 2022.
+
+[3]  Filed on 14 June 2022.
+
+[4]  Filed on 21 January 2022.
+
+[5]  Judgment, [30] - [46]
+
+[6]  Judgment, [47] - [50]
+
+[7]  Judgment, [51] - [57]
+
+[8]  Judgment, [58] - [61]
+
+[9]  Judgment, [71]
+
+[10]  Judgment, [73] - [89]
+
+[11]  As specified in clause 2.1 of the “Hong Kong Supplement” to the AOTC: Appeal Bundle C/564.
+
+[12]  Habib Bank Zurich (Hong Kong)  Limited v Creation Castle Limited [2020] HKCFI 1062 at [35] - [36]; MWB Business Exchange Centres Ltd v Rock Advertising Ltd [2019] AC 119
+
+[13]  Habib Bank, supra,at [36]
+
+[14]  Habib Bank, supra, at [65]
+
+[15]  Socimer International Bank Ltd (in liquidation)  v Standard Bank London Ltd [2008] Bus LR 1304, at [66]
+
+[16]  Chan WS v CC Bank [2022] HKCA 1037 at [23] - [26]; Ong Siu Sin Kevin v Lee Tsz Ying [2021] HKCFI 2336 at [74]
+
+[17]  Judgment, [90] - [92]
+
+[18]  Yuanta Securities (Hong Kong)  Company Limited v Ng Yin Lam [2021] HKCFI 435 at [76]
+
+[19]  There is a typo in the Statutory Demand when describing the credit facilities extended to the applicant.  The credit amount was erroneously stated to be US$50,000,000 when it should be US$5 million: see Appeal Bundle B/378.  No issue was taken on this both before the Judge and in this appeal.
+
+[20]  Judgment, [7]
+
+[21]  Judgment, [78]
+
+[22]  Judgment, [85]
+
+[23]  Judgement, [72] - [89]
+
+[24]  See, for example, under “Important Notice to Investors” at Appeal Bundle C/648, 675, 699
+
+[25]  See Appeal Bundle B/253-254, 257-261
+
+[26]  Judgment, [88]
+
+[27]  See Law Ting Pong Secondary School v Chen Wai Wah, [73] and [74]
+
+[28]  Judgment, [27] - [42]
+
+[29]  See clause 2.1 of the Hong Kong Supplement: Appeal Bundle C/564
+
+[30]  Applicant’s reply submissions, [16(1)]
+
+[31]  The applicant’s skeleton submissions, [50]
+
+[32]  Notice of Appeal, [1(4)] - [1(7)]
+
+[33]  Notice of Appeal, [5(2)]
+
+[34]  Applicant’s reply submissions, [18]
+
+ 
+

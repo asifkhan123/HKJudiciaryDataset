@@ -1,0 +1,197 @@
+CACC 7/2020
+
+[2020] HKCA 746
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CRIMINAL APPEAL NO 7 OF 2020
+
+(ON APPEAL FROM DCCC NO 416 OF 2019)
+
+_______________
+
+ 	HKSAR	Respondent
+ 	v	 
+ 	KO WAI SHING (高威誠)	Applicant
+_______________
+
+Before:	Hon Zervos JA in Court
+Date of Hearing:	4 September 2020
+Date of Judgment:	4 September 2020
+Date of Reasons for Judgment:	14 September 2020
+__________________________________
+
+REASONS FOR JUDGMENT
+
+__________________________________
+
+Introduction
+
+1.  The applicant (D1) and his co-defendant (D2) were jointly charged with the following four offences, which all took place on 1 June 2018, at the residence where they both lived:
+
+(i)      trafficking in a dangerous drug, namely 2,910 millimetres of a liquid containing 3.26 kilogrammes of gamma butyrolactone (commonly known as GBL),contrary to section 4(1)(a) and (3) of the Dangerous Drugs Ordinance, Cap 134, (the DDO) (Charge 1);
+
+(ii)     possession of dangerous drugs, namely 34 millilitres of a liquid containing 36.6 grammes of GBL and 34 millilitres of a liquid, weighing 0.08 gramme upon drying, containing methamphetamine (commonly known as Ice), contrary to section 8(1)(a) and (2) of the DDO (Charge 2);
+
+(iii)    possession of apparatus fit and intended for the inhalation or injection of a dangerous drugs, , namely one inhaling device, 7 tubes, 2 droppers, 3 straws and 2 syringes fit and intended for the inhalation of a dangerous drug, namely methamphetamine, contrary to section 36(1) and (2) of the DDO (Charge 3); and
+
+(iv)    possession of a Part I poison, namely 20 tablets containing sildenafil, otherwise than in accordance with the provisions of the Pharmacy and Poisons Ordinance, Cap 138 (the PPO), contrary to sections 23(1), 33(1) and 34 of the PPO (Charge 4). 
+
+2.  D1 and D2 stood trial before District Court Judge Lin (the Judge).  D1 pleaded not guilty to Charges 1 to 3, but guilty to Charge 4, while D2 pleaded not guilty to all four charges.  On 29 November 2019, at the conclusion of the trial, the Judge found D1 guilty of Charges 1 to 3, and D2 not guilty of Charges 2 to 4, having dismissed Charge 1 against D2 after the prosecution conceded in its closing address there was insufficient evidence against him.  On 19 December 2019, the Judge sentenced D1 to a total of 3 years and 10 months’ imprisonment. 
+
+3.  On 14 January 2020, D1 filed an application for leave to appeal against sentence.  However, in the accompanying written submission from D1 dated 7 January 2020, he stated that he applying for leave to appeal against his conviction on Charges 1 and 2.  He further stated he was innocent of these offences, claiming, as he did at trial, that he believed the dangerous drug in question to be a cleaning agent which he was entitled to purchase from an overseas website for delivery to him in Hong Kong.
+
+4.  On 20 March 2020, D1 filed an application for leave to appeal against conviction out of time.  In the accompanying affirmation dated 19 March 2020, he stated that he was not satisfied with his conviction for Charges 1 and 2 and relied on his earlier submission that accompanied his application for leave to appeal against sentence. 
+
+5.  It would appear that in his original notice for leave to appeal, D1 conveyed the clear intention that he was applying for leave to appeal against conviction and sentence, even though he did not tick the box for conviction.  Accordingly, I treated this leave application as having been made within the prescribed period in respect of both conviction and sentence.
+
+6.  D1 applied for legal aid but it was refused on 15 June 2020.  He then sought assistance from the Clinical Legal Education Office at Hong Kong University.  On 31 August 2020, Mr Eric TM Cheung submitted a written submission on D1’s behalf, expressing concern over the Judge’s dealing with the concept of “possession” in respect of Charges 2 and 3 and the enhancement to the sentence on account of the international element.
+
+The facts
+
+7.  Most of the facts of the case were not in dispute and adduced into evidence by agreement of the parties.  On 31 May 2018, Customs officers intercepted a parcel from Lithuania addressed to D1.  Upon inspection, they found it contained three bottles of liquid with a total volume of 2,910 millilitres containing 3.26 kilogrammes of GBL.  In the morning of the next day, Customs officers, posing as postal workers, delivered the parcel to a flat in Sham Shui Po.  D1 acknowledged that the parcel was addressed to him and accepted receipt of it.  He was arrested and upon being cautioned admitted that he had ordered the substance in the parcel online.  He said he intended to use the substance as a cleaning agent for his car.  In support of his claim, he provided the website of an online shop from which he purchased the substance. The website advertised a product called Topcleaner, consisting of GBL, in which it was stated that it was to be used for “legal and industrial usage only, such as research and development, paint and rust remover or an additive for a paint stripper”.  It was further stated that “We only want to serve clients, who use this harmful chemical in an appropriate way.”
+
+8.  D1 and D2 are a gay couple, who lived together in a unit inside the flat.  D2 was present at the time the Customs officers delivered the parcel.  He was also arrested and upon being cautioned he said the substance was a “popper” and he had asked D1 to buy it.  He explained that this substance would be inhaled and would make a person feel more comfortable.
+
+9.  The Customs officers searched the unit, which basically consisted of a bed and some furniture.  They found on a desk next to the bed and in a drawer of a bedside cabinet the various items used for the consumption of the drugs, which included an inhaling device, as particularised in Charge 3; in the inhaling device was some liquid containing Ice and in the drawer of the bedside cabinet were 2 bottles of GBL, as particularised in Charge 2; and in the drawer of the bedside cabinet were 2 small bottles containing 20 tablets of sildenafil, as particularised in Charge 4.
+
+10.  D1 said that the 20 tablets of sildenafil were a sexual enhancement drug, which he and D2 would use.  He explained that the 2 bottles of GBL were intended to be used as a cleaning agent for his car and the inhaling device belonged to D2 for consumption of Ice.  D2 on the other hand denied knowledge of the substances and items in Charges 2 to 4.
+
+11.  The prosecution case was relatively straightforward.  Customs officers gave evidence in respect of the delivery of the parcel and the finding of the substances and items in the unit.  In addition, the prosecution called Dr Chan Chi Keung (PW4), an expert in clinical toxicology.[1] His evidence was not challenged.  He explained that GBL was a solvent and reagent in industrial chemistry, which was used either as an intermediate for manufacturing industrial chemicals or as a solvent in cleaning products.  He said that GBL was also a prodrug for gamma hydroxybutyric acid (GHB), which after ingestion by human beings would be converted into GHB, commonly known as a date rape drug.  He said depending on the dosage and the metabolism of the individual, GHB would cause symptoms, such as confusion; euphoria; memory loss; drowsiness; deep coma; respiratory depression; apnoea; and cerebral hypoxia.  He explained that the confusion and euphoria associated with GBL use increased the chance of risky behaviour and accidental injuries, similar to the effect of alcoholic intoxication.  He further explained that the victims of GBL intoxication tended to suffer from anterograde amnesia, making it difficult for them to recall events precipitating recreational use or alleged drug facilitated sexual assault.  He noted that it had been reported that GBL was used specifically in recreational settings, such as bars and clubs, and that there was high use of GBH/GBL amongst homosexual men.  He said there was no data about its prevalence in Hong Kong, but a typical dosage would be about 1.13 grammes of GBL.
+
+12.  In cross-examination, Dr Chan said that a “popper” was an alkyl nitrite, which could be inhaled and used as a relaxant for anal intercourse.  He said that it was a totally different drug in its propensities and method of consumption to GBL.  It was conceded by the prosecution that alkyl nitrate was neither a dangerous drug nor a Part 1 poison.[2]
+
+The defence case
+
+13.  Neither D1 nor D2 gave evidence, or called witnesses on their behalf.  They essentially relied on their statements under caution.
+
+14.  D1’s defence was that he did not know the substance he imported into Hong Kong and possessed at home was a dangerous drug.  He relied on his explanation that he intended to use the substance for cleaning purposes and on the website of the seller of the substance where it was explained how the substance was to be used for cleaning purposes and how it was harmful if swallowed.  He claimed that the Ice and the drug consumption items found in the unit belonged to D2.
+
+15.  D2’s defence was that he had asked D1 to buy the substance for “snorting” and that he knew it was a “popper”.  He denied knowledge of any of the other substances or items found in the unit.
+
+Reasons for verdict
+
+16.  In respect of Charge 1, the Judge found that as D1 had admitted to knowing the content of the parcel and that he had been instrumental in arranging for it to be shipped to Hong Kong, it was enough on these facts alone to establish that he had imported a dangerous drug into Hong Kong.
+
+17.  The Judge rejected D1’s explanation that the GBL was for cleaning purposes, which he found was not supported by the evidence.  He noted that the chemical composition of the GBL had been clearly spelt out on the website advertising its sale.  He asked rhetorically why would someone spend about $1,000 to have a substance shipped from Lithuania to Hong Kong for industrial use and why was GBL needed when there were other legal cleaning agents freely available in hardware stores in Hong Kong.  He questioned why would D1 have two small bottles of GBL in a drawer next to his bed when it was for industrial use.  He reasoned that in the circumstances the only possibly inference to draw was that D1 knew GBL was some kind of dangerous drug which he imported into Hong Kong. 
+
+18.  In respect of Charges 2 and 3, in determining whether D1 was in possession of the substances and items as particularised, the Judge found that D1 knew of their presence in the unit, and therefore the only logical conclusion was that he had the ability to control and use them as he desired. 
+
+19.  The Judge found D1 guilty of Charges 1, 2 and 3.
+
+20.  The Judge noted D2’s admission that he asked D1 to order the substance to be used as a “popper” which was a different chemical not listed as a dangerous drug.  He also noted that GBL is consumed by ingestion, while a “popper” is inhaled.  It was on this basis that the evidence against D2 was not sufficient to prove that he was aware of the substance that D1 had actually ordered and therefore the prosecution conceded there was no case against D2 on Charge 1. 
+
+21.  In respect of Charges 2, 3 and 4, the Judge noted that D2 had made no admission as to knowledge or possession of the substances and items, and that “mere presence” could not indicate that he knew of the existence of them.[3] He accordingly found him not guilty of these charges.
+
+Reasons for sentence
+
+22.  The Judge called for a Drug Addiction Treatment Centre (DATC) report and a background report on D1.  At the time of sentence D1 was 41 years of age.  He had a previous drug related conviction on 19 March 2018 for which he was sentenced to 2 months’ imprisonment which was suspended for 18 months.[4] Hence, at the time of conviction for the present offences he was in breach of his suspended sentence.
+
+23.  The Judge found D1 showed a total lack of remorse by insisting the GBL was to be used as a cleaning agent and lying to the probation officer about not taking any drugs when it was found he tested positive for the presence of Ice in his urine sample taken on 30 November 2019.  The DATC report recommended that D1 be admitted to a mandatory programme at a DATC.  However, the Judge, in view of the seriousness of Charge 1, coupled with D1’s lack of remorse, found that a DATC order was not suitable. 
+
+24.  The Judge found that the only point in D1’s favour was that he had been in gainful employment throughout the years, although he had some recent health issues.  Nevertheless, he considered this was insignificant in light of the seriousness of Charge 1, and the possibility of the GBL being used to prey on vulnerable people. 
+
+25.  In relation to Charge 1, the Judge noted that no sentencing guidelines had been laid down for GBL by the Court of Appeal and he therefore relied on the decisions of Barnes J in HKSAR v Lam Chi Tak, unrep., HCCC 76/2018 and HKSAR v Jin Bin, unrep., HCCC 223/2018.  The Judge, following the approach taken in those cases, adopted a starting point of 3 years’ imprisonment treating the drugs as if they were diazepam.  He reduced that figure by one third to 2 years’ imprisonment, which he then increased  by 50% to arrive at a final figure of 3 years’ imprisonment.[5]  He enhanced the sentence by 6 months for the international element to 3 years and 6 months’ imprisonment. 
+
+26.  In relation to Charges 2, 3 and 4, the Judge erroneously sentenced D1 on the basis that he pleaded guilty to these charges when in fact he had only pleaded guilty to Charge 4.  He noted that there were no clear sentencing guidelines, but that sentencing for possession could range from a fine to a term of imprisonment of 12 months.[6]  It appears he adopted a starting point on each charge of 6 months’ imprisonment, which he reduced by one third for the guilty plea to 4 months’ imprisonment.  He ordered that the sentences on Charges 2, 3 and 4 run concurrently with each other, 2 months of which was to run consecutively to the sentence on Charge 1.[7]  He then activated the suspended sentence of 2 months’ imprisonment imposed upon the applicant in 2018, thus making a total sentence of 3 years and 10 months’ imprisonment.
+
+The applicant’s submissions
+
+27.  In his homemade grounds of appeal, D1 advanced two principal areas of complaint in relation to Charges 1 and 2.  First, the GBL he had ordered was to be used for cleaning and he did not know it was a dangerous drug.  His knowledge of the substance of the dangerous drug having come solely from the website.  Secondly, the Drug Addiction Treatment Centre Report, for which a drug test was done, only revealed the presence of Ice, with no positive result for GBL. 
+
+28.  In his written submission, Mr Cheung raised a further complaint about the Judge’s direction on the issue of possession.  He argued that the Judge failed to give himself a clear warning that an ability to control was to be distinguished from the actual exercise of control and that something more than knowledge and acquiescence was required before he could find that the exercise of control of the substances and items was proved against D1. 
+
+29.  In respect of sentence, D1 generally complained that the sentence imposed on him was excessive.  Whereas, Mr Cheung raised a specific complaint about the level of enhancement for the international element, which he submitted was disproportionate for the culpability involved.
+
+The respondent’s submissions
+
+30.  Ms Samantha Chiu, for the respondent, submitted the Judge was correct to have drawn the inference that D1 was not going to use GBL as a cleaning agent and rightly convicted him of Charge 1.  She also submitted that the Judge rightly convicted D1 of Charge 2 in respect of the GBL.
+
+31.  Ms Chiu conceded, however, that there may be an issue in respect of the Judge’s analysis as to whether D1 was in possession of the Ice in Charge 2 and the items in Charge 3.  This was because the case against D1 and D2 was one of joint possession.  The Ice and the items were not found on D1 but rather in a room where D1 and D2 cohabitated.  As such, there was no evidence at trial that D1 intended to do or had done anything with either the Ice or the items.  She questioned whether D1’s knowledge of the Ice and the items and his permission or acquiescence in their storage was enough to infer the exercise of control or possession of them on his part. 
+
+32.  In respect of sentence, Ms Chui conceded that D1 was sentenced by the Judge on an erroneous basis on Charges 2 and 3, although this may have been to his advantage because the Judge approached sentencing of these charges as if D1 had pleaded guilty to them.  Otherwise, she submitted that the sentences on Charges 1 and 4, as well as the activation of the suspended sentence, were correct.
+
+Discussion on conviction
+
+33.  It was incontrovertible that D1 imported into Hong Kong the 3 bottles of GBL, which he had purchased online from a seller in Lithuania.  D1’s explanation under caution was that the substance he purchased was “for cleaning the rim of wheels”, and a “cleaning agent, to wet and wipe dirty things”.  He said that the 2 bottles of GBL found in a drawer of the bedside cabinet were for “own use” as a “cleaning agent for me to wash vehicle”.[8] 
+
+34.  The Judge rejected D1’s explanation that he imported the GBL into Hong Kong, believing it was a cleaning agent.  He found that there was no evidence to support the contention that the GBL was to be used for cleaning purposes.  He questioned why D1 purchased from overseas a cleaning agent that was an illegal drug when legal cleaning agents could be purchased in Hong Kong.  It was not in dispute that GBL was a dangerous drug that was commonly used as a drug of abuse for recreational purposes.  D1 purchased the 3 bottles of Topcleaner, consisting of GBL, from a website in Lithuania and arranged for the product to be delivered to him in Hong Kong.  The Topcleaner website stated that their product was gamma butyrolactone, with 99.99% purity, and that it was sold for legal and industrial usage only.  D1 had 2 small bottles of GBL in a drawer next to his bed. 
+
+35.  In light of the evidence before the Judge, it was open to him to conclude that D1 knowingly imported a dangerous drug into Hong Kong.  I am not persuaded that there is a reasonable argument on which D1 can challenge his conviction on Charge 1. 
+
+36.  There is a reasonable argument in relation to the Judge’s approach to the concept of possession on Charges 2 and 3.  When addressing this issue, the Judge said:
+
+“42.  Possession itself is not defined in the ordinance, but a lot of case law had been evolved to explain this concept.  In essence, possession involved custody and control, and ownership is not an essential element.  Physical control was in the sense of the ability to use it, as may be desired, within the parameters of practicality and the law, and to exclude others, and of the intention to exercise such control. 
+
+43.   Once possession is proved, the ability and intention to retain them can be readily inferred and, to explain it simply, a person is in possession of something if he has knowledge of its presence and has some control over it: see the discussion and summary of the law at paragraph 29 to 39 of Archbold Hong Kong 2019.
+
+44.   The mere contention that the items were his boyfriend’s is neither here nor there, as ownership is not an essential element in possession.  Even if I were to accept D1’s contention that those items (is the dangerous drugs, the apparatus, the Part I poisons) did not belong to him, the facts are quite clear:  he knew of their presence, he knew of their nature and he lived in the same small unit.  The only logical conclusion therefore is that he had the ability to control and use them as he desired.”  (Emphasis added)
+
+37.  As already noted, D1 and D2 were jointly charged with all four offences and the Judge did not reject D1’s contention that the items belonged to D2.  Mr Cheung in his written submission argued that in such circumstances there could be an issue of joint possession and the question arose as to whether the Judge had correctly directed himself on what he must find. 
+
+38.  Mr Cheung referred to HKSAR v Li Jin [2010] 4 HKLRD 614, which concerned a case of drug trafficking where the husband and wife had been jointly charged for the offence.  The wife denied possession of the drugs in question, arguing that they belonged to her husband and she had not intended or done anything with the drugs.  It was complained that the Judge’s directions did not adequately spell out that something more than acquiescence in the storage of the drugs was required before the jury could find she possessed them.  The Court of Appeal held that in such circumstances something more than knowledge and acquiescence was required, and that the necessary control to be proved was control of the drugs themselves and that an ability to control was to be distinguished from the actual exercise of control.[9]  The Court expressed concern that the jury may have been left with the impression that proof of the appellant’s knowledge of the presence of the drugs and her permission or acquiescence in their storage inevitably put her in possession of the drugs.[10]  The Court went on to explain:
+
+“18. We would suggest that judges in cases where joint possession is an issue add to the standard directions that ability to control is not the same as exercising control and that proof of the exercise of control requires proof of more than knowledge and acquiescence. In practical terms it must be pointed out that someone in the position of, as in this case, a wife must be proved to have done something to advance or promote or encourage her husband’s possession if she is to be found in joint possession.”
+
+39.  It was noted by Mr Cheung that the Judge did not give himself a direction in these terms and may have embarked upon an impermissible line of reasoning that D1 was in possession of the drugs and items in Charges 2 and 3, bearing in mind his defence was that the Ice and the items belonged to D2.  This argument may have less bearing on the quantity of GBL in the 2 bottles, the Judge having found that D1 admitted that he had possession of the 2 bottles of GBL.[11] It would appear he relied on D1’s admission that the 2 bottles of GBL were for his “own use”.[12] 
+
+40.  I was satisfied that there was a reasonably arguable ground on the issue of possession in relation to Charges 2 and 3, but with the qualification that I have noted in relation to the 2 bottles of GBL.  In any event, it will be a matter for the Court of Appeal whether the Judge has misdirected himself, and if he has, whether he did so to such an extent that the conviction is unsafe or unsatisfactory.
+
+Discussion on sentence
+
+41.  There are no sentencing guidelines from the Court of Appeal for trafficking in GBL.  In Lam Chi Tak, Barnes J held that the starting point for benzodiazepines should also be used for GBL whilst making an upward adjustment of 50%.  See Attorney General v Chan Chi-man [1987] HKLR 221.
+
+42.  A very helpful overview of the pharmacology and toxicology of GBL has been set out by Barnes J in Lam Chi Tak and Jin Bin.  In both cases, Dr Chan Chi-keung gave expert opinion evidence, which appears to have been repeated in the present case.  However, any update or further information about the drug as well as its prevalence and use should be adduced as evidence before the Court of Appeal in order to properly address the question of sentencing guidelines for trafficking of GBL.
+
+43.  The Judge enhanced the sentence by 6 months for the international element.  I was satisfied it was reasonably arguable whether this was an appropriate enhancement in respect of this narcotic and the quantity involved.  See HKSAR v Chung Ping Kun [2014] 6 HKC 106; and HKSAR v Chan Ka Yu and Ors [2018] 4 HKC 591.
+
+Conclusion
+
+44.  At the conclusion of the hearing, I granted D1 leave to appeal against conviction in relation to Charges 2 and 3 and against sentence in relation to all four charges.  I refused D1 leave to appeal against conviction in relation to Charge 1.  In respect of the matters on which leave was given, I granted D1 an Appeal Aid Certificate for his appeal, under Rule 12(3) of the Legal Aid in Criminal Cases Rules, Cap 221.
+
+45.  One of the principal reasons why leave was granted to D1 to appeal against his sentence was the lack of sentencing guidelines for trafficking in GBL.  For the Court of Appeal to properly determine appropriate sentencing guidelines for GBL, it will be necessary to have before it relevant evidence as to its nature and use as a drug of abuse, and the harmful effects it has on users.
+
+46.  As I had refused D1 leave to appeal his conviction in relation to Charge 1, I reminded him of his right to renew his application before the Court of Appeal and also reminded him that should he do so, and should the Court of Appeal find no merit in his renewed application, the Court of Appeal has the power to order loss of time under section 83W(1) of the Criminal Procedure Ordinance, Cap 221.
+
+ 
+
+ 
+
+ 	  (Kevin Zervos)
+ 	Justice of Appeal
+ 
+
+Ms Samantha Chiu, SPP of the Department of Justice, for the respondent
+
+The applicant appeared in person
+
+
+[1] Appeal Bundle, 105-124.  See also Reasons for Verdict, paras 14-21.
+
+[2] Reasons for Verdict, para 21.
+
+[3] Reasons for Verdict, para 47.
+
+[4] D1’s previous convictions included: Possession of a dangerous drug, contrary to section 8(1)(a) and 2, Cap 134; possession of pipe / equipment fit and intended for smoking / injecting / inhaling dangerous drugs, contrary to section 36(1), Cap 134; possession of a Part I poison, contrary to section 23(1), 33(1) and 34, Cap 138. 
+
+[5] Appeal Bundle, 43, at para 12. 
+
+[6] Appeal Bundle, 44, at paras 14 and 15. 
+
+[7] Appeal Bundle, 44, at para 16.
+
+[8] Appeal Bundle, 62-71.
+
+[9] Li Jin, para 10.
+
+[10] Ibid., paras 11 and 12.
+
+[11] Reasons for Verdict, para 7.
+
+[12] Appeal Bundle, 69.
+
+ 

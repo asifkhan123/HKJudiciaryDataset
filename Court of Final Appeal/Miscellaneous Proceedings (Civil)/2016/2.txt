@@ -1,0 +1,106 @@
+FAMV No. 11 of 2016
+
+IN THE COURT OF FINAL APPEAL OF THE
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 11 OF 2016 (CIVIL)
+(ON APPLICATION FOR LEAVE TO APPEAL FROM CACV 131 OF 2014)
+
+_______________________
+
+BETWEEN	 	 
+GUO JIANJUN	1st Plaintiff/
+1st Respondent
+MIDWAY INTERNATIONAL CONSULTANTS LIMITED	2nd Plaintiff/
+2nd Respondent
+and	
+DRAGON FAME INVESTMENT LIMITED	Defendant/Applicant
+_______________________
+
+Appeal Committee: Mr Justice Ribeiro PJ, Mr Justice Tang PJ and Mr Justice Fok PJ
+Date of Hearing and Determination: 4 July 2016
+Date of Reasons for Determination: 8 July 2016
+____________________________________
+
+REASONS FOR DETERMINATION
+
+____________________________________
+
+
+Mr Justice Ribeiro PJ:
+
+1.  At the hearing, we dismissed this application for leave to appeal for reasons which we now provide.
+
+2.  The respondent purchasers (P) contracted on 20 October 2011 to purchase from the applicant vendor (V) four office units for HK$219,360,719.  A 10% deposit was paid by P and completion was due on 30 March 2012, time being of the essence.  No hour of day was specified and it was common ground that the “midnight rule” applied so that the deadline for completion was midnight on 30 March.[1]
+
+3.  The four units had previously been laid out as five units but had been re-partitioned.  Clause 5 of the agreement, which gave rise to the dispute, required V to provide P “with a certificate issued by an Authorised Person toprovethat [sic]thelegalityof the current re-partitioning ... and that the same does not constituteabreachofanybuilding ordinances” (“the certificate”). The clause went on to provide that P would accept the certificate as “the final document on the legality and validity of the current re-partitioning” and exempted V from providing any additional documents or answering requisitions, queries or objections as to title on this point. 
+
+4.  The contract did not specify when the certificate had to be provided.  The Judge[2] held that there was an implied obligation on V to deliver it to P “within a reasonable time before completion so that their solicitors could consider whether it could have satisfied the requirements in clause 5”.  The Court of Appeal agreed[3] and Mr Benjamin Yu SC,[4] acknowledged that it is no longer in dispute that V was subject to this implied obligation.  The issue was whether the certificate had in fact been supplied within such reasonable time.
+
+5.  On 30 March 2012, the day for completion, at 2:30 pm, P wrote to V pointing out that the certificate had not been provided and stating that V had failed to show and prove good title. At 6:07 pm, V sent the certificate to the offices of P’s solicitors.  P refused to accept this as performance, treated V as having repudiated the contract and demanded the return of the deposit.  V declared the deposit forfeited.  This led to the present action by P to recover their deposit, with V counterclaiming damages for losses on a subsequent sale.  P’s action succeeded with both Courts below holding that V had failed to provide the certificate within a reasonable time by tendering it at 6:07 pm since this did not afford P’s solicitors adequate time (especially since this was after office hours) to verify that the person signing the certificate was a duly registered Authorized Person in compliance with clause 5.[5]
+
+6.  The Court of Appeal rejected V’s application for leave to appeal[6] and V applied for leave from the Appeal Committee submitting that two questions of great general or public importance arise. 
+
+7.  Question 1 is as follows:
+
+1. “In determining whether there has been a breach of an implied term that a certain act should be performed within a reasonable time (as opposed to whether such a term should be implied and the meaning to be given to such implied term):-
+
+(1) is the court confined to considering only matters that existed at the time of the making of the contract, as held by the Court of Appeal in paragraph 49 of the Judgment relying on Kensland Realty Limited v Whale View Investment Limited & Anor (2001) 4 HKCFAR 381, §70; or
+
+(2) is it entitled to adopt a broad consideration, with the benefit of hindsight, and viewed from the time at which one party contends that a reasonable time for performance has been exceeded, of what would, in all the circumstances which are by then known to have happened, have been a reasonable time for performance: Summit Link Ltd v Sunlink Group (HK) Co Ltd [2000] 2 HKLRD 724, 732G-I, 735I-736B; Peregrine Systems Ltd v Steria Ltd [2005] EWCA Civ 239, §15; Chitty on Contracts, 31st ed., Vol. 1, §21-021; Lewison, The Interpretation of Contracts, 5th ed., §6.16?”
+
+8.  Since V now accepts that it was under an implied obligation to provide the certificate affording P’s solicitors a reasonable time to verify its compliance with Clause 5, there is no need to examine the process of implication which the Court in Kensland was addressing when stating[7] that the Court confines itself to taking into account the matters of which the parties were, or could objectively be taken to have been, aware of at the time of making the contract. The only question is whether the applicant should be granted leave to argue on appeal that the Courts below were wrong to hold that delivery of the certificate at 6:07 pm on the day of completion was a breach of that obligation.
+
+9.  On its face, that is a question of fact: did V’s provision of the certificate at that time afford P’s solicitors a reasonable opportunity before expiry of the time for completion to verify the identity and status of the person signing the certificate?  However, Mr Yu SC sought to argue that the Court of Appeal erred in law in adopting the wrong approach to determining that question of fact by confining itself to matters which were in existence only at the time of the making of the contract.
+
+10.  That contention is not reasonably arguable. Between §§33 and 43, the Judge carefully set out the arguments advanced on V’s behalf by Mr Paul Lam SC, as to why, in the events that occurred, delivery of the certificate at 6:07 pm was in good time.  They included submissions concerning the relevance of office hours; of the sense of despatch of the parties themselves; of the ability of P to check the identity of the person issuing the certificate on line either before 30 March or after 6:07 pm on that day; of P’s failure to ask for the certificate earlier; of the absence of evidence as to the financing arrangements.  Having set out these submissions, the Judge proceeded between §§44 and 55 to analyse and reject them.  He concluded (at §49) that, reflecting the implied obligation undertaken by V:
+
+“... the certificate should have been provided to the plaintiffs’ solicitors within a reasonable time before the end of the office hours 30 March. The reasonable time should be long enough to afford the plaintiffs’ solicitors a reasonable opportunity to conduct the checks which are reasonably necessary and to do so in the normal course of business ...”
+
+11.  This finding was endorsed by the Court of Appeal (at §46) in the following terms:
+
+“It is clear from the judgment that the Judge concluded on the facts that the Certificate was not provided within a reasonable time because it was provided after office hours. He adverted to the difficulties in verifying the professional status of the person who issued the Certificate, and the unreasonableness of requiring the solicitors to stay behind after office hours. Though he referred to other matters, what he said at paragraph 49 was, in our respectful view, the right test...”
+
+12.  While Question 1 is presented as a question of law of great general or public importance, it seeks in reality to challenge the case-specific findings of breach by the Judge and the Court of Appeal.  It does not justify leave to appeal.
+
+13.  The second question proposed by the applicant was as follows:
+
+2. “... in the context of conveyancing transactions in Hong Kong, whether Kensland Realty Limited v Whale View Investment Limited & Anor (2001) 4 HKCFAR 381 imposes a general assumption that purchasers will rely on mortgage financing (paragraph 50 of the Judgment), and if so, where the ‘midnight rule’ applies, does that invariably mean that any reasonable time to be implied must invariably be before the end of office hours.”
+
+14.  This question is misdirected.  In addressing the implied obligation to act within a reasonable time, it was held in Kensland at §70 that the court takes account of all relevant matters including matters “which both parties ... may objectively be taken to be... aware of at the time of making the contract”.  One such circumstance was the involvement of mortgage finance so that a reasonable time had to be allowed for bankers and solicitors to do their duties in respect of the mortgage’s redemption.  The judgment states at §71 that, given the prevalence of mortgage finance, subject to there being good reason to the contrary, the court is likely to regard the circumstance that the purchaser is relying on such finance as a matter that both parties may be taken to have been aware of, even if the vendor does not know of the purchaser’s financing arrangements as a fact.
+
+15.  There is no basis for thinking that the Kensland decision suggests that “any reasonable time to be implied must invariably be before the end of office hours”.  Nor is there any basis for thinking that either of the Courts below adopted any such view of Kensland’s effect. 
+
+16.  Neither do any of the matters mentioned in support of leave to appeal on the “or otherwise” ground provide a reason for the grant of leave.
+
+17.  We accordingly dismissed the application with costs.  We also directed that all monies in court including interest be released forthwith to the respondents.
+
+
+
+(R A V Ribeiro)
+Permanent Judge	(Robert Tang)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+Mr Benjamin Yu, SC and Ms Eva Sit, instructed by Hart Giles, for the applicant
+
+Mr Edward Chan, SC and Mr Lee Yee Hung, instructed by King & Wood Mallesons, for the respondents
+
+
+[1] Camberra Investment Ltd v Chan Wai Tak [1989] 1 HKLR 568.
+
+[2] L Chan J, HCMP 318/2013 (6 June 2014) at §32.
+
+[3] Lam VP, Yuen and Poon JJA, CACV 131/2014 (23 September 2015) at §41.
+
+[4] Appearing with Ms Eva Sit for V.
+
+[5] The Judge at §§44-55.  Court of Appeal at §§42-52.
+
+[6] CACV 131/2014 (19 January 2016).
+
+[7] At §70.
+
+ 
+

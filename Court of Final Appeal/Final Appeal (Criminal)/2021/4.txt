@@ -1,0 +1,805 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No. 4 of 2022,
+FACV No. 12 of 2022,
+FACC No. 1 of 2023 and
+FACV No. 2 of 2023
+
+[2023] HKCFA 7
+
+FACC No. 4 of 2022
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 4 OF 2022 (CRIMINAL)
+
+(ON APPEAL FROM CACV NO. 103 OF 2022)
+
+________________________
+
+BETWEEN
+
+ 	THE SECRETARY FOR JUSTICE	Appellant
+ 	and	 
+ 	TAM KIT-I	Respondent
+________________________
+
+FACV No. 12 of 2022
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 12 OF 2022 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 103 OF 2022)
+
+________________________
+
+BETWEEN
+
+ 	THE SECRETARY FOR JUSTICE	Appellant
+ 	and	 
+ 	TAM KIT-I	Respondent
+________________________
+
+FACC No. 1 of 2023
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 1 OF 2023 (CRIMINAL)
+
+(ON APPEAL FROM HCMP NO. 54 OF 2011)
+
+________________________
+
+BETWEEN
+
+ 	SECRETARY FOR JUSTICE	Respondent
+ 	and	 
+ 	TAM KIT-I	Appellant
+________________________
+
+FACV No. 2 of 2023
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 2 OF 2023 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 103 OF 2022)
+
+________________________
+
+BETWEEN
+
+ 	THE SECRETARY FOR JUSTICE	Appellant
+ 	and	 
+ 	TAM KIT-I	Respondent
+________________________
+
+(Heard together)
+
+Before:	Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ and Mr Justice French NPJ
+Date of Hearing:	28 February 2023
+Date of Judgment:	29 March 2023
+__________________________________________
+
+JUDGMENT
+
+__________________________________________
+
+Chief Justice Cheung:
+
+1.  I agree with the judgment of Mr Justice Ribeiro PJ on Question 1 and with that of Mr Justice Lam PJ on Question 2.
+
+Mr Justice Ribeiro PJ:
+
+2.  The first question which arises on these appeals is whether a restraint order (“RO”) freezing certain assets made under the Organized and Serious Crimes Ordinance[1] (“OSCO”) falls to be discharged as a matter of law where the court decides not to grant an application for a confiscation order (“CO”). The second question is whether an appeal relating to the discharge of such an RO is to be characterised for procedural and jurisdictional appellate purposes as civil or criminal.
+
+3.  Leave to appeal was granted by the Appeal Committee[2] on those two questions formulated as follows:
+
+“What on the true construction of the provisions of [OSCO] referred to herein, was the consequence of the Judge’s decision in HCMP 1207/2014 (dated 10 August 2016) not to make a confiscation order on the basis of her conclusion that the respondent had not ‘absconded’ within the meaning of section 8(1)(a)(ii)(B)? In particular, did this in law result in the application for a confiscation order being ‘concluded’ within the meaning of section 2(16A)(a) with the consequence that the restraint order dated 30 March 2011 was discharged by operation of section 15(5)(b)?” (Question 1)
+
+“Where a person against whom proceedings under OSCO have been instituted seeks to bring an appeal against a Judge’s refusal to discharge a restraint order, is that appeal criminal or civil in nature for jurisdictional and procedural purposes?” (Question 2)
+
+4.  This judgment deals with Question 1, while Mr Justice Lam PJ deals in his judgment with Question 2. I have had the advantage of reading that judgment in draft and respectfully agree with his reasoning and conclusion.
+
+A.  The transactions giving rise to this case
+
+5.  The present matter is connected with the case of Ao Man-long (“Ao”), formerly Secretary for Transport and Public Works in Macau, who was convicted there on 90 counts of corruption, money laundering and related offences, ultimately resulting in a sentence of 29 years’ imprisonment.
+
+6.  The respondent is Madam Tam Kit-I (“Tam”), who was employed as financial controller of a group of companies in Macau owned by Mr Ng Fok, a works contractor who had frequent business dealings with Ao. Tam became the focus of attention because of transfers between her account with the Wing Hang Bank in Hong Kong which she had opened on 1 March 2006 (“the Wing Hang Account”) and certain accounts maintained or controlled by Ao, the allegation being that the funds transferred were the proceeds of corrupt transactions involving Ao.
+
+(a)  Thus, on 21 March 2006, Tam transferred $25 million from her account with Banco Weng Hang SA in Macau to the Wing Hang Account, and that sum was further transferred on 17 June 2006 to an account with Hang Seng Bank held by Ao’s father, of which Ao was the sole authorised signatory. Those funds were eventually confiscated as a result of proceedings brought in Hong Kong by the Macau government.
+
+(b)  Then between 18 and 25 August 2006, a total of $25 million was transferred to Tam’s Wing Hang Account from an account held in the name of Ecoline Property Limited at ICBC (Asia) Ltd, Hong Kong, of which Ao was an authorised signatory.
+
+(c)  Of that sum, on 4 December 2006, $2.6 million was transferred to the account of Best Choice Ltd with Hang Seng Bank, Hong Kong, of which Ao was the sole authorised signatory. A balance of $22,400,000 thus remained in the Wing Hang Account. Two days later, Ao was arrested and in his safe were found pre-signed cheques totalling $22,400,000 drawn on the Wing Hang Account.
+
+(d)  Restraint on dealings with and confiscation of that $22.4 million balance are the subject-matter of Question 1.
+
+B.  The procedural history
+
+B.1  Contemplated POBO proceedings
+
+7.  After Ao was arrested, the authorities in Hong Kong initially contemplated proceedings against Tam under the Prevention of Bribery Ordinance[3] (“POBO”). On 13 February 2007, they obtained an ex parte restraining order from V Bokhary J under section 14C of that Ordinance freezing the aforesaid balance in the Wing Hang Account. That order was served by ICAC officers on Tam in Macau on 23 February 2007.
+
+8.  POBO section 14C empowers the court to make an RO in relation to property in the possession or under the control of or due to a person who is “the subject of an investigation in respect of an offence alleged or suspected to have been committed by him under” the POBO.[4] The person whose property is subject to such an order may be outside Hong Kong[5] and it is provided that the RO shall continue in force for 12 months but, on application by the Commissioner, may be extended by the court “for periods of 12 months at a time”.[6]
+
+9.  The RO against Tam was extended three times, with each fresh order being served on Tam by ICAC officers who visited her in Macau. After the first extended RO was served on Tam on 4 February 2008, she visited Hong Kong on 6 June 2008 and returned to Macau on the same day. She was placed on the Hong Kong Immigration Department’s stop list on 11 July 2008.
+
+10.  On 4 February 2009 and again on 5 June 2009, ICAC officers invited Tam to come to Hong Kong to be interviewed regarding offences concerning the Wing Hang Account but, unsurprisingly, she declined.
+
+B.2  A shift to proceedings under OSCO
+
+11.  Having been advised that there was insufficient evidence to charge Tam under POBO but that a viable case existed under OSCO, on 12 January 2011, prosecutors obtained a warrant from the magistrate for Tam’s arrest for money laundering contrary to OSCO section 25.[7] In the paragraphs of my judgment which follow, unless otherwise indicated, references to sections are to provisions in OSCO. Section 2(15) provides that the issue of such a warrant is one means by which proceedings for an offence under that Ordinance are “instituted”.
+
+12.  Two days later, on 14 January 2011, on the application of the Secretary for Justice (“SJ”), V Bokhary J issued an RO under section 15[8] freezing the Wing Hang Account. On 30 March 2011, her Ladyship extended that Order, providing that it would “remain in force unless it is varied or discharged by a further order of the Court”. These appeals focus on that RO.
+
+13.  An OSCO RO which is issued after proceedings have been instituted is not subject to any expiry period. Nor is it necessary to apply for extensions. The power to issue an RO and its continued validity are premised on the prosecution proceedings or the application for a confiscation order not having been concluded.[9]
+
+C.  The confiscation application and the Judge’s decision
+
+14.  Some three years later, on 20 May 2014, the SJ applied under section 8(1)(a)(ii)(B) for the Wing Hang Account funds to be confiscated on the basis that Tam had absconded. Sections 8(1)(a)(ii) and 8(1)(b) materially provide:
+
+“Where ... proceedings for one or more specified offences have been instituted against a person but have not been concluded because the person (A) has died; or (B) has absconded; and … an application is made by or on behalf of the Secretary for Justice for a confiscation order, the Court of First Instance ... shall act as follows.”
+
+Sections 8(3) to 11 then go on to prescribe that the court “shall act” by making certain inquiries and determinations in deciding whether to grant the application.
+
+15.  On 10 August 2016, Campbell-Moffat J[10] rejected the SJ’s application for a CO, holding that Tam had not been shown to have absconded and that section 8(1)(a)(ii)(B) was not applicable. On that basis, she did not embark upon the prescribed process of inquiry and determination. However, she held that “the [RO] made under HCMP 54/2011 remains extant”.[11]
+
+16.  The Judge’s decision was not subject to any appeal. However, since the question of whether a person has “absconded” for the purposes of section 8(1)(a)(ii)(B) has some relevance to the disposition of these appeals, her decision is reviewed in Section K of this judgment.
+
+D.  The application to discharge the RO
+
+17.  Tam waited some two-and-a-half years before applying on 31 January 2019 to discharge the RO, the matter again coming before Campbell-Moffat J. Tam’s contention was that upon the Judge’s rejection of the SJ’s application for confiscation, the RO was automatically discharged.
+
+18.  The argument ran as follows:
+
+(a)  Section 15(5)(b) provides that an RO “shall be discharged on the conclusion of the proceedings or application concerned”. The “application concerned” is the SJ’s application for a CO.
+
+(b)  Section 2(16A)(a) states that “An application for a confiscation order made in respect of a defendant where section 8(1)(a)(ii) or (7A) is applicable is concluded ... if the Court of First Instance ... decides not to make such an order, when it makes that decision.”
+
+(c)  Since the Judge had decided in 2016 not to make the CO sought, the relevant application was thereupon concluded. Thus, it was argued, by virtue of section 15(5)(b), the RO was automatically discharged.
+
+19.  Campbell-Moffat J rejected that argument.[12] She held that section 2(16A) relates only to an application for a confiscation order made in respect of a defendant “where section 8(1)(a)(ii) ... is applicable”, in other words, in respect of a defendant found to have absconded (or to have died). Since she had decided in 2016 that Tam had not been shown to have absconded, she held that section 8(1)(a)(ii) was not applicable, so that section 2(16A) did not operate and neither the proceedings nor the confiscation application were “concluded” for the purposes of discharging the RO pursuant to section 15(5)(b).
+
+E.  The Court of Appeal’s decision
+
+20.  The Court of Appeal[13] allowed Tam’s appeal and discharged the RO on the sole ground[14] that the Judge’s refusal of the confiscation order automatically led to its discharge. The Court’s reasoning is adopted by Tam in its entirety on the present appeals.
+
+21.  Citing section 19(2)[15] and SJ v Tan Lam Chuan,[16]Chow JA pointed out that an RO is a temporary measure designed to freeze assets until a CO is made and is not intended to apply indefinitely.[17] He noted that the Judge had decided that Tam was not an absconder within the meaning of section 8(1)(a)(ii)(B), but he reasoned that this merely meant that a necessary precondition for the grant of a CO had not been met. The fact remained that she had decided not to make the CO so that, Chow JA held, by virtue of section 2(16A) the relevant application had “concluded”. Consequently, the RO was discharged by virtue of section 15(5)(b).[18]
+
+22.  His Lordship stated:
+
+“In our view, it does not follow from the fact that the condition in 8(1)(a)(ii)(B) was not satisfied, or, in the Judge’s words, ‘section 8(1)(a)(ii)(B) was not applicable’, that the Confiscation Application was not concluded. It does not seem to us to matter what may be the reason why the Confiscation Application failed. The fact remains that the Judge decided not to make the confiscation order sought by the Secretary for Justice, thereby concluding the application. There was no appeal against the 2016 Decision of the Judge. We consider it to be clear that there was ‘conclusion’ of the Confiscation Application and, by the operation of s 15(5)(b), the OSCO Restraint Order was accordingly discharged.”[19]
+
+F.  The true construction of the relevant OSCO provisions
+
+23.  I am, with respect, unable to agree with the Court of Appeal. Their Lordships’ judgment rests on their construction of section 2(16A) in combination with section 15(5) which state as follows:
+
+Section 2(16A)
+
+“An application for a confiscation order made in respect of a defendant where section 8(1)(a)(ii) or (7A) is applicable is concluded—
+
+(a) if the Court of First Instance or the District Court decides not to make such an order, when it makes that decision; or
+
+(b) if such an order is made as a result of that application, when the order is satisfied.”
+
+Section 15(5)
+
+“A restraint order—
+
+(a) may be discharged or varied in relation to any property; and
+
+(b) shall be discharged on the conclusion of the proceedings or application concerned.”
+
+24.  It was not in dispute that the “application concerned” was the SJ’s application for a CO. Crucially the Court of Appeal held that the fact that the Judge had decided not to make the CO was itself sufficient to conclude the application and to trigger discharge of the RO and that the reason for the Judge reaching her decision was immaterial.
+
+25.  In my view, that conclusion was erroneous. For the reasons developed below, on a proper contextual and purposive construction of section 2(16A), such an application is concluded and the RO consequently discharged only when the purpose of the RO is spent. Thus, it is essential to consider the basis and consequences of the judge’s decision not to make the order. The purpose of the RO may, for instance, be exhausted (subject to any appeal) when the court completes the process prescribed by sections 8(3) to 11 and either decides to refuse the application or decides to make the CO and the CO is then satisfied.[20] In either case, there would no longer be any extant or prospective CO and thus no point in continuing to freeze the affected assets with a view to making them available for enforcement of such an order.
+
+F.1  The power to confiscate the proceeds of crime
+
+26.  A central objective of OSCO is to authorise the confiscation of property representing the value of the proceeds of crimes which are “specified offences” or “organized crimes”.[21] The persons targeted are those who benefited from such crimes by receiving payment or some other reward in connection with the commission of such offences.[22] COs confiscating such persons’ property are issued to implement that objective and ROs are made in support of existing or prospective COs. The provisions which govern the making and discharge of COs set the context in which the provisions governing the making and discharge of ROs fall to be construed.
+
+F.2  The provisions governing the making of COs
+
+27.  Section 8(1) provides as follows:
+
+“(1) Where—
+
+(a) either—
+
+(i) in proceedings before the Court of First Instance or the District Court a person is to be sentenced in respect of one or more specified offences and has not previously been sentenced in respect of his conviction for the offence or, as the case may be, any of the offences concerned; or
+
+(ii) proceedings for one or more specified offences have been instituted against a person but have not been concluded because the person—
+
+(A) has died; or
+
+(B) has absconded; and
+
+(b) an application is made by or on behalf of the Secretary for Justice for a confiscation order,
+
+the Court of First Instance or the District Court, as the case may be, shall act as follows.”
+
+28.  Sections 8(3) to 11 then detail how the court “shall act”, setting out the inquiries and determinations that the court must make in deciding whether to make or refuse the CO applied for. The “application” therefore comprises that process and concludes when that process ends and the court disposes of the application. This bears directly on the meaning of the phrase “the conclusion of the ... application concerned” in section 15(5)(b).
+
+29.  Section 8(1)(b) enables the SJ to apply for a CO in two situations: (i) where a defendant has been convicted of a specified offence and is about to be sentenced for it;[23] and (ii) where proceedings for a specified offence have been instituted against a person but have not been concluded because the person has died or has absconded.
+
+30.  In cases where the defendant has been convicted of the specified offence, the court “shall act” as follows. First, the defendant should be sentenced.[24] The court should then determine whether he or she benefited from that offence[25] before deciding whether to make a CO. If it decides to make an order, it then decides upon the quantum of recovery.
+
+31.  Additional steps have to be taken by the court where proceedings have been instituted but have not run their course because the person has died or absconded as provided by section 8(1)(a)(ii). The person in question will not be before the court, so the court must first be satisfied that he or she has indeed died[26] or absconded.[27] Where the person is said to have absconded, the court must moreover be satisfied that at least 6 months have elapsed since the putative date of absconding.[28] Since the court will not be able to rely on an actual conviction, it must be satisfied on the basis of specified categories of evidence[29] that the person concerned could have been convicted if he or she had not died or absconded.[30] It must also be satisfied that such person has benefited from the putative crime to an extent exceeding $100,000.[31] Due process concerns must also be taken into account in absconding cases. Reasonable efforts must have been made to bring the person in question before the court and sufficient notice of the proceedings given to enable them to be defended.[32] In death cases, the personal representative of the deceased person is given standing to resist a CO.[33]
+
+32.  Where the required steps have been taken and the court decides to make a CO, it determines the amount which the person should be ordered to pay, reflecting the value of the defendant’s proceeds of the offence.[34] Enforcement procedures may then follow with the court inter alia fixing the time for payment and setting a term of imprisonment in default.[35]
+
+33.  The statutory scheme therefore only permits confiscation of a person’s property after the aforesaid process of inquiry and determination. It establishes the context for addressing the question whether, as a matter of construction, the application concerned was “concluded” within the meaning of section 2(16A) and the RO consequentially discharged by virtue of section 15(5)(b).
+
+F.3  The power to make ROs and their purpose
+
+34.  The power to make an RO is conferred by section 15(1) which states:
+
+“The Court of First Instance may by order (referred to in this Ordinance as a restraint order) prohibit any person from dealing with any realisable property, subject to such conditions and exceptions as may be specified in the order.”
+
+35.  For present purposes, by section 14, that power is exercisable where proceedings have been instituted in Hong Kong against the defendant for a specified offence;[36] where the proceedings have not been concluded;[37] and where the court is satisfied that there is reasonable cause to believe that the defendant has benefited from that specified offence.[38]
+
+36.  Section 19 spells out the purpose of an RO, stating:
+
+“(1) This section applies to the powers conferred on the Court of First Instance by [section 15] ...
+
+(2) Subject to subsections (3), (4), (5) and (6) [not presently relevant], the powers shall be exercised with a view to making available for satisfying the confiscation order or, as the case may be, any confiscation order that may be made in the defendant’s case the value for the time being of realisable property held by any person by the realisation of such property.”
+
+37.  ROs are therefore made in aid of COs, securing property with a view to making it available to satisfy such orders should they eventually be made. The statutory intent is evidently for an RO to continue in vigour so long as a CO may prospectively be made in respect of the seized assets.
+
+F.4  The provisions regarding the discharge of ROs
+
+38.  The pertinent provisions governing discharge of ROs consist of section 15(5)(b), read together with sections 2(16) and 2(16A). They relevantly state as follows:
+
+Section 15(5)(b)
+
+“A restraint order ... shall be discharged on the conclusion of the proceedings or application concerned.”
+
+Section 2(16)
+
+“Proceedings for an offence are concluded on the occurrence of one of the following events—
+
+(a) the discontinuance of the proceedings whether by entry of a nolle prosequi or otherwise;
+
+(b) an order or verdict acquitting the defendant, not being an order or verdict which is subject to appeal or review within the meaning of subsection (17);
+
+(c) the quashing of his conviction for the offence except where, under section 83E of the Criminal Procedure Ordinance (Cap. 221), an order is made that he be retried;
+
+(d) the grant of the Chief Executive’s pardon in respect of the conviction for the offence;
+
+(e) the court or magistrate sentencing or otherwise dealing with him in respect of his conviction for the offence where the Secretary for Justice either does not apply for a confiscation order, or applies for a confiscation order and the order is not made; or
+
+(f) the satisfaction of a confiscation order made in the proceedings (whether by payment of the amount due under the order or by the defendant serving imprisonment in default).”
+
+Section 2(16A)
+
+“An application for a confiscation order made in respect of a defendant where section 8(1)(a)(ii) ... is applicable is concluded—
+
+(a) if the Court of First Instance or the District Court decides not to make such an order, when it makes that decision; or
+
+(b) if such an order is made as a result of that application, when the order is satisfied.”
+
+F.5  Discharge on conclusion of the proceedings
+
+39.  As we have seen, where the prosecution results in the defendant’s conviction for a specified offence, the court proceeds to sentence the offender and then determines whether he or she benefited from the offence in question and if so, the value of the property to be confiscated.[39] It may be noted that even where the court decides to issue a CO after making the requisite determinations, the proceedings are not yet “concluded” for the purposes of triggering section 15(5)(b). Section 2(16)(f) stipulates that the proceedings are only concluded for that purpose upon “the satisfaction of a confiscation order made in the proceedings (whether by payment of the amount due under the order or by the defendant serving imprisonment in default)”. Until that occurs, the RO is not discharged and retains its purpose of securing the assets against which the CO may eventually be enforced.
+
+40.  That statutory purpose is reinforced by the other provisions of section 2(16). The instances enumerating when proceedings for an offence are concluded all involve situations where there is no longer any prospect of a CO being made, either because the defendant has essentially been acquitted or he or she has been convicted and there is no longer any justification for continuing to restrain dealings with the affected assets.
+
+41.  Thus, paragraphs (a) to (d) in section 2(16) deem proceedings to be concluded where they are discontinued by a nolle prosequi or otherwise; where the defendant is acquitted and the acquittal is not subject to appeal or review; where the conviction is quashed on appeal without any order for a retrial, or where the defendant has been pardoned. In all these instances, the defendant has “got off” and there is no prospect of a CO being made as part of a sentence. Paragraphs (e) and (f) cover cases where the defendant is convicted and either a CO is not sought or the order is made and has been satisfied. The purpose of the RO is exhausted in all these cases and the order is discharged as provided for by section 15(5)(b).
+
+F.6  Discharge on conclusion of the application for a CO
+
+42.  How the court “shall act” upon the SJ’s applying for a CO has previously been noted.[40] It is only at the conclusion of the prescribed process that the court decides either to make or refuse a CO. It is against that background that section 2(16A), which is at the heart of these appeals, falls to be construed. As we have seen, it provides as follows:
+
+Section 2(16A)
+
+“An application for a confiscation order made in respect of a defendant where section 8(1)(a)(ii) or (7A) is applicable is concluded—
+
+(a) if the Court of First Instance or the District Court decides not to make such an order, when it makes that decision; or
+
+(b) if such an order is made as a result of that application, when the order is satisfied.”
+
+43.  Section 2(16A) thus specifies that the application for a CO concludes, first where the court decides not to make the order and secondly, where it does decide to issue the CO. Read in the context of the provisions discussed above, the court’s decision either way must be understood to be a decision on the merits of the application, taken at the culmination of the prescribed process of inquiry and determination. Until that process has been gone through, the RO continues to perform its function of securing the frozen assets and the application cannot be regarded as concluded so as to trigger the RO’s discharge. This is reflected in section 2(16A)(b) which, mirroring section 2(16)(f) in respect of concluded proceedings, stipulates that the application is concluded in cases where the CO is made only when the order is satisfied, ie, at the end of the prescribed process and when the purpose of the RO is spent.
+
+G.  The provisions applied in the present case
+
+44.  In the present case, the Judge appears to have decided not to embark at all upon the prescribed process since she held that section 8(1)(a)(ii) was not applicable on the basis of her finding that Tam had not absconded. That gave rise to a somewhat odd situation. If a defendant has not absconded, one might generally expect that to mean that he or she is susceptible to arrest and prosecution within the jurisdiction, so that the possible grant of a CO is deferred to await substantive proceedings and the RO meanwhile remains in place. But that was obviously not the position in the present case. Nevertheless, although declining to make a CO, her Ladyship expressly held that “the [RO] made under HCMP 54/2011 remains extant”.[41] Her decision thus did not result in the elimination of any prospect of the making of a CO and she evidently recognised that the purpose of the RO was not spent. Furthermore, under section 8(1)(a)(ii)(A), it still remains open to the SJ to apply for a CO on the basis that Tam has died, should that eventuality arise.
+
+45.  Contrary to the Court of Appeal’s view, the reason or basis for the court’s decision not to grant the application for a CO and the consequences of that decision are important. The following illustrations may be considered. Suppose that the SJ applies for a CO alleging that the defendant has absconded but that person then turns up at the hearing. The Judge would no doubt refuse the SJ’s application on the basis that section 8(1)(a)(ii)(B) is not applicable, ie, that this is not in fact an “absconding” case. Prosecution proceedings are likely then to be taken up against the defendant and the [RO] would remain in place since it would continue to play its role of securing the frozen property pending their conclusion. The SJ’s application, which has not been decided on its merits in accordance with the prescribed statutory regime, is not concluded and discharge of the RO is not triggered. Since the process has not begun, it is inapt to speak of it being “concluded”. A similar illustration might involve an application for a CO being launched on the basis that the defendant has died, which allegation is disproved by that person showing up at the hearing.
+
+46.  To take a further example, suppose that the court is not satisfied that the defendant was given notice sufficient to enable the proceedings to be defended. The court might therefore decide not to make the CO sought, either adjourning the application to a later date or dismissing it without prejudice to a further application being made after proper notice is given to the defendant. Again, the merits of the application would not have been considered and the court’s decision plainly would not justify an automatic discharge of the RO. The mere fact that the court decided not to make the CO on the SJ’s application is not of itself sufficient to trigger discharge of the RO.
+
+H.  The SJ’s argument
+
+47.  Mr William Tam SC, appearing for the SJ, while also advocating a contextual and purposive construction, proposed a simple argument for disposing of these appeals.
+
+48.  That argument runs as follows:
+
+(a)  In the present case, the RO would only be discharged under section 15(5)(b) on the conclusion of the SJ’s application for a CO.
+
+(b)  That application is only deemed concluded if section 2(16A) applies. And that provision only applies “where section 8(1)(a)(ii) ... is applicable”.
+
+(c)  Since the Judge held that section 8(1)(a)(ii) was not applicable, section 2(16A) is not engaged and the SJ’s application is not “concluded” so that discharge under section 15(5)(b) is not triggered.
+
+49.  While it has the attraction of simplicity, I am unable to accept that argument as conveying the true construction of the relevant provisions. Section 2(16A) must be construed together with section 2(16) which it immediately follows. They refer respectively to (i) the conclusion of proceedings (section 2(16)) and (ii) the conclusion of an application for a CO (section 2(16A)). In other words, they identify two categories of matters being “concluded” for the purposes of triggering discharge of an RO under section 15(5)(b).
+
+50.  When section 2(16A) refers to an application for a CO being concluded “where section 8(1)(a)(ii) ... is applicable”, it is making it clear that it is addressing the second category of “conclusion”, in contradistinction to the first. It is not concerned with examining how the judge actually dealt with any particular application, eg, as to whether, on the facts, the defendant was shown to have absconded. On its true construction, section 2(16A) is engaged where the SJ’s application is made under section 8(1)(a)(ii). The question which remains is what the phrase “decides not to make such an order” in section 2(16A)(a) means. As explained in the foregoing sections of this judgment, that meaning is to be ascertained by construing that phrase contextually and purposively in connection with the question when discharge of an RO under section 15(5)(b) is triggered.
+
+I.  Answer to Question 1
+
+51.  For the foregoing reasons, I would answer Question 1 as follows: On the true construction of the relevant OSCO provisions, the Judge’s decision not to make a CO on the basis of her conclusion that Tam had not absconded did not result in the application for a CO being concluded within the meaning of section 2(16A)(a) and did not carry the consequence of discharging the RO dated 30 March 2011 by operation of section 15(5)(b).
+
+52.  With respect, the Court of Appeal fell into error in holding that the reason for a court’s decision not to make a CO does not matter. If such a decision is taken for a reason which does not involve the court determining the merits of the application and without eliminating the prospect of a CO eventually being made, the RO retains its intended purpose and remains in place.
+
+J.  Abuse of process
+
+53.  Mr Nigel Kat SC, appearing for Tam, advanced an additional argument (in several guises) submitting that retaining the RO amounts to an abuse of process. He was at pains to argue that an RO is intended to be a temporary measure and that obtaining such an order when there is no prospect of Tam coming to Hong Kong to be tried in substantive criminal proceedings means that the order is intended to operate abusively, not as a temporary measure, but indefinitely with a confiscatory effect. Attorney General v Blake (Jonathan Cape Ltd Third Party)[42] was cited in support.[43] Mr Kat SC also sought to rely on section 14, submitting that its provisions show that the statutory intent is for ROs to be of a limited duration, militating against indefinite or long-term orders freezing assets.
+
+54.  He submitted that:
+
+“... if the person is a foreigner, the RO continues unless and until he or she chooses voluntarily to come to Hong Kong to be tried in criminal proceedings, irrespective of whether those criminal proceedings relate to an extraditable offence or whether he or she is extraditable in law. If the foreigner does not come to Hong Kong to be tried, then the restraint of his or her assets (often worldwide) can continue until death when the SJ can apply for confiscation under s.8.”[44]
+
+55.  In other words, he argued, “It is an abuse to operate these provisions extra-territorially to force a person who is foreign either to come to HK to defend those proceedings or eventually, on death, to lose the property”.[45]
+
+56.  The essence of the abuse argument is therefore that: (1) there are no prospects of Tam voluntarily coming to Hong Kong to stand trial; (2) thus no proceedings will ever be pending to justify the RO’s freezing of her assets; (3) to maintain the RO in such circumstances is to use the RO abusively as an indefinite restraint which would operate as a confiscatory measure instead of a temporary measure pending the outcome of the proceedings; (4) moreover, an aspect of the abuse is that it seeks to force Tam to submit to the criminal jurisdiction as the price of challenging the RO.
+
+57.  That argument must be rejected. Points (3) and (4) above are unfounded. The SJ did not seek to keep the RO in place indefinitely. On the contrary, an application for a CO was made on 20 May 2014. If that application had run its course, the RO would have been brought to an end one way or the other: either upon the CO being refused on its merits or being granted and satisfied by recourse to the frozen bank funds. As it turned out, the Judge declined to embark upon the prescribed statutory process on the basis of her finding that Tam had not “absconded”.
+
+58.  Nor is there any question of Tam being forced to submit to the criminal jurisdiction as the price of challenging the RO. OSCO section 15(6) caters for persons affected to mount such a challenge. Tam did so with success in the Court of Appeal, without having to come to stand trial.
+
+59.  In practice, the SJ cannot abuse the process with impunity by keeping an RO in place indefinitely. A person affected by an RO does not have to sit by passively but is entitled under section 15(6) to apply for a discharge or variation of that order. It might, for instance, be contended that the SJ cannot show on the balance of probabilities that the person affected could have been convicted or did in fact benefit from the offence and that there is accordingly no realistic possibility of a CO eventually being made. In other words, a person affected by an RO could precipitate an inquiry along the lines set out in sections 8(3) to 11 to bring the matter to a conclusion. Other possible grounds for challenge may also exist.
+
+60.  Attorney General v Blake is not a relevant authority. It concerns the propriety of granting an interlocutory injunction freezing assets where no substantive adjudication is anticipated. Mr Kat SC relied[46] on the propositions stated in part of the headnote to the report which reads as follows:
+
+“[Held] that, although the injunction restraining the defendant from receiving royalties was interlocutory in character and was expressed to freeze rather than to extinguish the defendant's title to the royalties, there was, in the absence of a private law claim, and in the absence of any realistic prospect of the defendant returning to the United Kingdom to face criminal proceedings, no event pending which that money was to be held; that, therefore, the injunction was in substance a confiscatory order in that it was envisaged that the defendant would be deprived indefinitely of his unpaid royalties; that the making of confiscatory orders was strictly controlled by statute, and the court had no common law power to confiscate property without compensation; that on the facts of the defendant's case there was no statutory power to confiscate his property; and that, accordingly, the court had acted outside its jurisdiction in granting the injunction.”
+
+61.  The position under OSCO is obviously different. We are not concerned with an interlocutory injunction freezing assets when there is no event pending which that money is to be held. OSCO expressly authorises the confiscation of property representing the proceeds of certain offences and ROs are authorised to be made in support of COs. The making of those orders is not dependent on the owner of the assets facing pending proceedings as in Attorney General v Blake. Section 8(1)(a)(ii) expressly caters for such orders to be made where there will be no concluded proceedings because the person concerned has died or absconded, that being the basis of the SJ’s application in the present case.
+
+62.  Neither does section 14 assist the abuse argument. Section 14 sets out the requirements for the making of ROs, which requirements vary in certain cases. The present case involves an RO made on the footing that proceedings had been instituted in Hong Kong against Tam for a specified offence;[47] those proceedings had not been concluded;[48] and the court was satisfied that there was reasonable cause to believe that Tam had benefited from that specified offence.[49] Those are the only qualifying conditions for issuing the RO in the present case. There is nothing in those conditions that suggests any time limit on the RO so obtained.
+
+63.  Mr Kat SC referred to other subsections of section 14 which do lay down time limits on the operation of an RO but which have no application to this case. Thus, section 14(1A) is concerned with an RO obtained under section 14(1)(ba) which refers back to section 2(15)(aa) and which therefore addresses the situation where a person has been arrested and released on bail or has refused bail but an RO has been issued on the basis that there is reasonable cause to believe that the defendant may be charged with the offence after further investigation is carried out. Section 14(1A) provides that in such a case, the RO is to expire after giving the time reasonably necessary for the investigation to take place, with an outside limit (subject to applications for extension[50]) of 6 months.
+
+64.  Similarly, section 14(4) (referring back to section 14(2)) provides for the discharge of an RO “if proceedings in respect of the offence are not instituted with such time as the [court] considers reasonable”. This caters for a situation where the RO is granted before the institution of proceedings but in the expectation that “whether by the laying of an information or otherwise a person is to be charged”. Thus, if proceedings are not in fact instituted within a reasonable time, the RO is liable to be discharged. Again, this deals with a special situation and no such time limit applies in a case like the present, where proceedings have been instituted and have not been concluded and where the court is satisfied that there is reasonable cause to believe that the person has benefited from the specified offence.
+
+K.  The Judge’s ruling on “absconding”
+
+65.  As noted above, Campbell-Moffat J[51] rejected the SJ’s application for a CO, holding that Tam had not been shown to have absconded and accordingly that section 8(1)(a)(ii)(B) was not applicable. That ruling was not the subject of appeal and strictly does not now arise for consideration. However, her Ladyship’s decision not to make the CO gave rise to the issues canvassed on these appeals. It is also relevant to the argument that continuation of the RO after that decision constitutes an abuse of process. It furthermore bears on the fate of the RO upon disposal of these appeals. As serious doubts exist as to the correctness of the Judge’s approach to “absconding”, it is appropriate that her reasoning should be reviewed for future reference.
+
+66.  The SJ’s application for a CO was brought on the basis that Tam had “absconded” making section 8(1)(a)(ii)(B) applicable. Section 2(1) states:
+
+“absconded, in relation to a person, includes absconded for any reason whatsoever, and whether or not, before absconding, the person had been (a) taken into custody; or (b) released on bail”.
+
+67.  The Judge fell into error first by holding that that provision compels the conclusion that a person can only be held to have absconded if he or she did so after being arrested or charged. Her Ladyship stated:
+
+“Ms Chan [for the SJ] submits that it is not necessary that an absconder be charged (and therefore remanded or bailed), before she is regarded as absconding. I do not agree. A simple reading of the plain language of section 2 indicates that proceedings have commenced because they refer to custody or bail, both of which can only happen after arrest or charge. Ms Chan’s interpretation of that section suggests that it was intended to cover situations where neither custody nor bail were in place i.e. no steps of prosecution have been taken. My reading of the section suggests that it is not necessary that the absconder be in custody, she could also abscond if on bail. In other words, some steps towards prosecution must have taken place even if those steps are only at the stage of police bail rather than court bail.”[52]
+
+68.  Section 2(1) does indeed “refer to custody or bail”, but with a meaning and effect which is the opposite of the reading adopted by the Judge. Section 2(1) says that a person may be found to have absconded “whether or not, before absconding, the person had been (a) taken into custody; or (b) released on bail”. Thus, as counsel had submitted and contrary to the Judge’s understanding, one may have “absconded” even where one has not been taken into custody or released on bail.
+
+69.  Secondly, the Judge held that proceedings had to have been instituted against Tam before 6 June 2008, which was when she might be taken to have absconded. That was the date of Tam’s last visit to Hong Kong, returning to Macau on the same day. The Judge relied on section 8(1)(a)(ii) in support, stating:
+
+“... section 8 requires that proceedings have been instituted at section 8(1)(a)(ii). I do not read that requirement to mean ‘have been instituted’ at the time of the application for confiscation rather than at the time of the absconding. There was no warrant issued on 6 June 2008.”[53]
+
+70.  But section 8(1)(a)(ii) addresses the making of a CO application by the SJ and the steps which the court must then take in deciding such application in cases of death or absconding. It provides that such an application can only be made where proceedings have been instituted (as defined by section 2(15)). There is nothing in section 8(1)(a)(ii) to suggest that proceedings must have been instituted prior to the person’s act of absconding.
+
+71.  It is hard to see any sensible reason for requiring proceedings to have been instituted before the defendant absconded. There will frequently be cases where a person absconds before the authorities manage to arrest or charge or otherwise institute proceedings against him or her.[54] The objective of an RO and an eventual CO is to deprive a person who absconds, but who the court finds (after due inquiry) could have been convicted, of the benefits of the offence which may be susceptible to seizure in Hong Kong. The policy is not to permit the absconder free access to such assets simply because he or she managed to abscond before the issue of an arrest warrant or charge.
+
+72.  Thirdly, the Judge adopted a dictionary definition of “absconding” to the effect that it means “to go away suddenly and secretly, especially in order to avoid arrest”. She held also that it was necessary to show that Tam had left in anticipation of imminent arrest and that there was no basis for such a finding:
+
+“... the [SJ] would still need to show that the respondent went away ‘suddenly and secretly’ in anticipation of imminent action by the prosecuting authorities. Was that the situation on 6 June 2008? I think not. Hong Kong is not the respondent’s place of residence. She travelled here for the day. She did not spend the night here. We do not know why she travelled here at that time but we know she arrived and later she left. There is no evidence that anything occurred during that time which would put the respondent on notice of imminent arrest as opposed to her state of mind at any other later time of which there is some evidence before the court.”[55]
+
+73.  As we have not heard argument on the proper construction of “absconding”, it would not be appropriate to attempt to define that term in this judgment. I would however observe that there is no obvious reason for requiring “abscond” to involve an act which is sudden and secretive.[56] The definition of “absconded” in section 2(1) invites a broad approach to that term, stating that it “includes absconded for any reason whatsoever, and whether or not, before absconding, the person had been (a) taken into custody; or (b) released on bail”. Considered contextually and purposively, it seems to me that the essence of “absconded” in section 8(1)(a)(ii) involves the evasion of apprehension to face criminal proceedings for the offence concerned.
+
+74.  In any case, even on the Judge’s approach, requiring it to be shown that “the respondent went away ‘suddenly and secretly’ in anticipation of imminent action by the prosecuting authorities”, her Ladyship appears to have taken an untenable view of Tam’s position. The Wing Hang Account was first frozen on 13 February 2007, the RO being served on Tam in Macau on 23 February 2007. That order stated that Tam and Ao were “the subjects of an investigation in respect of offences alleged or suspected to have been committed by them” under POBO and froze the Wing Hang Account. Ao was convicted of corruption and money laundering in Macau on 30 January 2008 and two days later, on 1 February 2008, the POBO RO was extended for 12 months. It was served on Tam on 4 February 2008. It was against that background that Tam visited Hong Kong on 6 June 2008 and returned to Macau without staying overnight. She then declined invitations to come to Hong Kong and did not challenge the RO in respect of the Wing Hang Account until 31 January 2019, 12 years after the funds were first frozen. On those facts, it is hard to avoid the conclusion that Tam well knew that she was subject to imminent arrest if she remained in Hong Kong and had absconded in order to evade such arrest and thereafter avoided coming here, so that she came within section 8(1)(a)(ii)(B) for the purposes of justifying an RO and entertaining a CO application.
+
+75.  The Judge’s reasoning in her 2016 judgment[57] refusing a CO stands in sharp contrast with her reasoning in the 2019 judgment[58] in which she sustained the RO, stating:
+
+“There is, in fact, overwhelming evidence to suggest that these funds were and are the proceeds of crime and that a crime has been committed in the jurisdiction of Hong Kong. ... It is a matter for the respondent if she wishes to submit to the jurisdiction or not, but it certainly is not to be to her advantage that she chooses not to do so where these monies are concerned.”[59]
+
+Her Ladyship added:
+
+“There came a point in time, after 6 June 2008, when she no longer wished to cooperate, albeit there has been continued contact through her legal representatives. Proceedings are not instituted based upon the whim of the alleged offender. They are instituted when there is cogent evidence to indicate an offence has taken place within the jurisdiction, as was the case here. There has been no misuse or abuse of the system in the manner by which these proceedings were instigated or maintained. The fact that they cannot move forward at present because of the stance taken by the respondent, should not be seen to indicate that the proceedings are automatically drawn to a close or, as in this case, discharged. lf there is a lacuna in the law in this regard, it will be for the legislature to close it.”[60]
+
+76.  That is an approach more consonant with a finding that Tam was an absconder. If the errors referred to above had been avoided, her Ladyship might well have reached a different conclusion on whether Tam had “absconded”.
+
+L.  Conclusion
+
+77.  For the foregoing reasons, I would allow the appeal and set aside the Court of Appeal’s order discharging the RO. If disposal of the SJ’s application for a CO had not miscarried as indicated above and had instead been pursued on its merits, its outcome would have determined the fate of the RO, one way or the other. That would have been a more normal course of events. In the circumstances which have occurred, the alternative basis upon which an application for a CO may prospectively be made rests on section 8(1)(a)(ii)(A) which depends on the SJ alleging that the person concerned has died. That is of course not something one wishes upon that person as, quite apart from the legal merits, one would generally be disposed to wish everyone a long and fruitful life. Nonetheless, in the events which have happened, as a matter of law, the RO retains its purpose of securing the frozen assets against a prospective CO made pursuant to an application under section 8(1)(a)(ii)(A). It does not fall to be discharged.
+
+Mr Justice Fok PJ:
+
+78.  I agree with the judgment of Mr Justice Ribeiro PJ on Question 1 and with that of Mr Justice Lam PJ on Question 2.
+
+Mr Justice Lam PJ:
+
+79.  I agree with the judgment of Mr Justice Ribeiro PJ on Question 1. In the following judgment, I shall address Question 2.
+
+80.  At the time when the SJ sought leave to appeal from the Appeal Committee, two applications for leave were made[61]: one following the civil route and the other one following the criminal route. Apart from the procedural avenues for bringing an appeal to this Court, there are other more fundamental implications arising from the nature of the proceedings. If the matter was criminal in nature, the judgment of the Court of Appeal of 24 March 2022 would be a nullity because:
+
+(a)  The appeal did not fall within the scope of Section 13(3) of the High Court Ordinance (Cap 4) (“HCO”) which circumscribes the jurisdiction of the Court of Appeal in entertaining criminal appeals;
+
+(b)  Section 34B(2) of the HCO requires a criminal appeal to be heard by not less than three judges whilst the appeal was processed at the court below on the papers and the judgment of 24 March 2022 was delivered by two judges.
+
+81.  These concerns were canvassed at the leave hearing and Question 2 was formulated to enable this Court to give a definitive ruling on the nature of appeals brought in respect of decisions made under the OSCO.
+
+82.  In the meantime, the parties took the following steps since the grant of leave on 16 September 2022[62] to cater for different scenarios:
+
+(a)  To guard against the contingency that the judgment of the Court of Appeal was a nullity due to the criminal nature of the appeal, Tam sought a certification of Question 1 from Campbell-Moffat J (“the Judge”) on 8 December 2022. Based on such certification, the Appeal Committee granted leave to Tam to appeal against the judgment of the Judge of 2 December 2019. Pursuant to such leave, she brought a fresh criminal appeal[63];
+
+(b)  To guard against the contingency that the judgment of the Court of Appeal was a nullity due to the composition of the court in giving the judgment of 24 March 2022, the parties adopted the procedure suggested by this Court in Hip Hing Timber Co Ltd v Tang Man Kit[64]and invited the Court of Appeal to consider the redelivery of the judgment de bene esse after they filed a consent in accordance with Section 34B(4)(c) of the HCO. The Court of Appeal acceded to that request and re-issued its judgment on 12 December 2022. The Appeal Committee granted leave to the SJ to appeal against the re-issued judgment and the SJ brought such appeal as a fresh civil appeal[65].
+
+The civil and criminal jurisdiction of the Court of Appeal
+
+83.  In Hong Kong, the Court of Appeal was first established under the Supreme Court Ordinance 1975[66]. Though the title of the ordinance was changed to the HCO in 1998, the civil jurisdiction of the Court of Appeal continues to be governed by Section 13(2). For present purposes, the relevant provision is Section 13(2)(a) which reads:
+
+“The civil jurisdiction of the Court of Appeal shall consist of appeals from any judgment or order of the Court of First Instance in any civil cause or matter.”[67]
+
+84.  The criminal jurisdiction of the Court of Appeal is governed by Section 13(3) which primarily cross-references the appeal avenues under the Criminal Procedure Ordinance (Cap 221) (“CPO”). Under the CPO, subject to some exceptions which are not relevant for present purposes[68], appeals are restricted to appeals against convictions and sentences. The restriction reflects a policy against the fragmentation of the criminal process, see HKSAR v Chen Keen (No 2)[69].
+
+85.  Though it is acknowledged in Sections 13(2)(c) and 13(3)(e) that the Court of Appeal also has jurisdiction conferred on it by other statutes, there is no special provision for appeals in the OSCO except Section 8(8A) (“Subsection (8A)”) of that ordinance. That subsection deems a confiscation order made against a person (including a confiscation order made against an absconded person or a deceased person) to be a sentence passed on that person for the purposes of any ordinance conferring rights of appeal in criminal cases. Reading this subsection together with Section 83G of the CPO, an appeal against a confiscation order falls under the criminal jurisdiction of the Court of Appeal under Section 13(3)(a).
+
+86.  However, the deeming effect of Subsection (8A) has no application in respect of other decisions made under the OSCO (including the decision of the Judge which is the subject matter of these appeals).
+
+Civil or criminal cause or matter
+
+87.  Notwithstanding the differences in the relevant statutory provisions governing appeals, Hong Kong courts have referred to the UK authorities in determining whether our Court of Appeal has jurisdiction to entertain an appeal as a civil cause or matter[70]. Prior to George Tan Soon-gin v His Honour Judge Cameron[71]there were conflicting decisions in Hong Kong on the approach to be adopted[72]. George Tan was an appeal in respect of an application for judicial review of a refusal by a District Judge to grant a stay of criminal proceedings in the District Court. Barnett J dismissed the judicial review application in the High Court. When the matter came before the Court of Appeal, it was held that the matter in question was criminal in nature and therefore the court did not have jurisdiction to entertain the appeal. The court drew a dichotomy between civil and criminal causes or matters by reference to the guidance of Lord Wright in Amand v Home Secretary and Minister of Defence of Royal Netherlands Government[73].
+
+88.  The approach of the Court of Appeal was upheld in the Privy Council. Lord Mustill made the following general observations[74]:
+
+“The language of the Ordinance directs attention, not to the proceedings which led to the order from which the appeal is brought, but to the nature of the cause or matter ‘in’ which the appeal is brought. If the cause or matter is properly characterised as criminal, it cannot lose that character simply because at one stage it is carried forward by techniques which closely resemble those employed in civil matters, or which lead to relief often granted in civil matters, or which are available in civil or criminal matters alike; any more than, having gained this new character by the employment of such techniques, it would revert to its former status when the deployment of the techniques came to an end.”
+
+89.  Reverting to the subject matter of that appeal, Lord Mustill was able to determine the character of the cause or matter by a simple analysis[75]:
+
+“Nobody could doubt that the applications made by the applicant to the district judge were applications in a criminal cause, for their purpose was to determine the way in which the prosecution should proceed. The purpose of the judicial review was to dispose of the district judge’s order so as to permit the substitution by the reviewing court of a different order, still directed to the way in which the matter should proceed. … everything happening in the present case has been no more than one stage in a continuing contest between the prosecutor and the applicant in a matter which from the outset has been exclusively criminal in nature.” (my emphases)
+
+90.  After George Tan, the law in Hong Kong was changed as the legislature deemed it unsatisfactory that no appeal could be brought to the Court of Appeal in respect of a judicial review relating to a criminal cause or matter. Subsection (3)(aa) was added to Section 13 and a new Section 14A was added to the Supreme Court Ordinance in 1993 to confer criminal jurisdiction on our Court of Appeal to hear an appeal from a judgment or order of the Court of First Instance (then known as the High Court) given or made in the exercise of the powers conferred on it under Sections 21I(1) and 21K “relating to a criminal cause or matter”[76].
+
+So Wing Keung v Sing Tao Ltd
+
+91.  The enactment of these provisions did not resolve all issues regarding the jurisdiction of the Court of Appeal relating to a criminal cause or matter. In 2005, the Court of Appeal had to examine this question in So Wing Keung v Sing Tao Ltd[77]. The appeal in that case was brought against the decision of Hartmann J who set aside an ex parte order granted by Stone J to issue search warrants under Part XII of the Interpretation and General Clauses Ordinance (Cap 1) in respect of journalistic material. Since the proceedings were not brought by way of an application for judicial review, Sections 13(3)(aa) and 14A were not applicable.
+
+92.  Ma CJHC (as he then was) gave the leading judgment of the Court of Appeal. His Lordship came to the conclusion that the cause or matter was criminal in nature and the Court of Appeal had no jurisdiction to entertain that appeal. The primary reasons of His Lordship can be found at [31], in particular [31](7) to (13). After alluding to Amand and George Tan, His Lordship said at [31](8):
+
+“The above statement of the principles … do not, however, answer the fundamental question … as to how one is to determine whether the ‘nature’ of a cause or matter is civil or criminal.”
+
+93.  Guided by the decision of the English Court of Appeal in Carr v Atkins[78], the Chief Judge held that the matter was criminal in nature. Even though criminal proceedings had not yet begun, His Lordship emphasized that the whole point of the exercise was to further investigations into criminal offences.
+
+94.  Carr v Atkins was a case on the production of “special procedure material” under the Police and Criminal Evidence Act 1984 for a criminal investigation and the judgment was given by Sir John Donaldson MR who subsequently also penned the judgment in In re O[79]which I discuss below. In the course of his judgment, the Master of the Rolls considered an earlier Court of Appeal decision in R v Southampton Justices, Ex parte Green[80] and distinguished it as follows:
+
+“[It] is really a decision that questions of the estreatment of bail are so collateral to a criminal trial that they do not themselves constitute a criminal cause or matter.”[81] (my emphasis)
+
+95.  A similar criterion was adopted by His Lordship in In re O. Subsequently the English Court of Appeal[82] as well as the Supreme Court[83] alluded to this criterion in drawing the distinction between civil and criminal causes or matters.
+
+The nature of the cause or matter which underlies the making of restraint order
+
+96.  In the present case, the decision of the Judge was given in a set of proceedings brought under the OSCO instead of an application for judicial review. Her Ladyship exercised an original jurisdiction under the statute. Hence, as in So Wing Keung, Sections 13(3)(aa) and 14A of the HCO cannot be relied upon to confer jurisdiction on the Court of Appeal to entertain appeals from the decision. The only statutory provision which Mr Kat SC relies upon is Section 13(2)(a) which governs civil appeals. The relevant question is whether the decision of the Judge was made in a civil cause or matter.
+
+97.  Though appeals in respect of restraint orders under OSCO and other similar statutory schemes[84] in Hong Kong have always been processed through the civil route, the nature of the underlying causes or matters has never been addressed in the judgments[85]. Whilst the Court of Appeal had addressed this question in Secretary for Justice v Lin Xin Nian[86], the subject matter in question was a forfeiture order made under Section 24D of the Drug Trafficking (Recovery of Proceeds) Ordinance (Cap 405)[87] which is different in nature from a confiscation order and a restraint order. Understandably, Mr Kat referred this Court to English authorities on similar statutory regimes to support his contention that the cause or matter is civil in nature.
+
+98.  The provisions of the OSCO when it was first enacted in 1994 were largely modelled on similar provisions under Part VI of the Criminal Justice Act 1988 in England (“1988 Act”). Under the 1988 Act, the powers in relation to restraint orders were vested in the High Court whilst the power to make a confiscation order was vested in the Crown Court and the magistrates’ courts hearing criminal trials. As the making of a confiscation order was regarded as part of the sentencing process, naturally an appeal against such order was held to be criminal in nature, see R v Benjafield[88], R v Zinga[89].
+
+99.  But this did not preclude the English courts from concluding that decisions relating to restraint orders were made in civil causes or matters. Recently, in R (Belhaj) v Director of Public Prosecutions (No 1)[90] Lord Sumption JSC held that the approach of Lord Wright in Amand had its limits and that one needed to distinguish between a decision which was an integral part of the criminal process (and was thus made in a criminal cause or matter) and an application collateral to the exercise of criminal jurisdiction (which could itself be a decision made in a civil cause or matter). As observed by the English Court of Appeal in R (McAtee) v Secretary of State for Justice[91]:
+
+“It certainly is not the law that just because the underlying proceedings are criminal in nature then any decision or step thereafter taken which has some sort of connection with those criminal proceedings is necessarily of itself a criminal cause or matter.”[92]
+
+100.  It depends on whether the decision bears a sufficiently close connection with the criminal process to treat it as being part and parcel of that process. This test is consistent with the approach of Lord Mustill in George Tan. It also accords with the limits set by Lord Sales JSC in In re McGuinness[93] on criminal cause or matter by examining if the order in question is directly consequential upon the outcome of the criminal process.
+
+101.  Mr Kat invited this Court to adopt the reasoning in two cases decided under the 1988 Act, In re O[94]and Government of the United States of America v Montgomery[95].
+
+102.  In re O was an appeal in respect of an order for disclosure in the context of an application for variation of a restraint order. Lord Donaldson of Lymington MR drew the distinction between a judgment in a criminal cause or matter and a judgment collateral to a criminal cause or matter[96]. His Lordship cited Gooch v Ewing[97](which concerned the enforcement of a compensation order made in criminal proceedings) as an example of the latter having a civil character. Alluding to the clear dichotomy in the 1988 Act between the jurisdiction to make confiscation orders and the jurisdiction to make restraint orders and charging orders as enforcement procedures[98], His Lordship held that the enforcement procedures were wholly collateral to the criminal regime and they were civil in character[99]. His Lordship was mindful that if it were held otherwise, third parties such as banks and alleged donees of gifts would have no avenue of appeal[100].
+
+103.  Subsequently, in Montgomery, the House of Lords endorsed this approach. It was an appeal against the discharge of a restraint order which had been made under the 1988 Act to facilitate the enforcement of a confiscation order made in criminal proceedings in the United States. Lord Hoffmann held that the nature of the proceedings in which the confiscation order was made did not necessarily render the machinery of enforcement through the courts a criminal cause or matter[101]. His Lordship went on to observe:
+
+“Modern legislation … confers powers upon criminal courts to make orders which may affect rights of property, create civil debts or disqualify people from pursuing occupations or holding office. Such orders may affect the property or obligations not only of the person against whom they are made but of third parties as well. Thus the consequences of an order in criminal proceedings may be a claim or dispute which is essentially civil in character. There is no reason why the nature of the order which gave rise to the claim or dispute should necessarily determine the nature of the proceedings in which the claim is enforced or the dispute determined.”
+
+104.  Like Lord Donaldson in In re O, Lord Hoffmann also attached significance to the unlikelihood of Parliament depriving the persons affected (including the prosecution and the defendant) any right of appeal[102].
+
+105.  According to the analysis in these authorities, the underlying cause or matter for a decision relating to a restraint order is the regime for the enforcement of a confiscation order. Notwithstanding the criminal nature of a confiscation order, the enforcement process under the statutory regime is collateral to the criminal process and it is civil in character due to the issues that may arise and the parties potentially affected.
+
+106.  In Hong Kong, the power to make restraint orders is vested in the Court of First Instance whilst the power to make confiscation orders is vested in the Court of First Instance and the District Court. Amendments were made to the OSCO in 1995 empowering the court to make a confiscation order in respect of a person who has died or absconded. As mentioned, Subsection (8A) was added to deem a confiscation order to be a sentence passed on a person for the purposes of any statute conferring rights of appeal in criminal cases. These features did not appear in the 1988 Act[103].
+
+107.  Notwithstanding the differences between the 1988 Act and the OSCO, the UK authorities discussed above are highly persuasive. In my view, they provide valuable insights for present purposes. Subsection (8A) does not affect the character of the cause or matter in which a decision concerning a restraint order is made. The cause or matter underlying a restraint order is not the criminal proceeding which underlies a confiscation order. As discussed above, the underlying cause or matter of a restraint order is the civil regime for the enforcement of a confiscation order.
+
+108.  There is no conflict between this analysis and the judgments in George Tan and So Wing Keung. As we have seen, in the latter case Ma CJHC had been guided by Carr v Atkins in which the distinction between proceedings collateral to the criminal process and those in a criminal cause or matter was drawn. Soon after the delivery of the judgment in So Wing Keung, the learned judge heard an appeal in Secretary for Justice v Tan Lam Chuan[104] concerning the variation of a restraint order for funds to pay legal expenses incurred in criminal proceedings. In the latter case, His Lordship did not doubt the court’s jurisdiction to hear the appeal as a civil cause or matter notwithstanding the criminal nature of the pending proceedings against the defendants.
+
+109.  The SJ accepted that a restraint order and proceedings for the same are civil in nature[105]. It was also accepted that orders made at the enforcement stage are civil in nature[106]. However, Mr Tam SC submitted that as the Judge’s refusal to grant an automatic discharge in the present case depended upon Her Ladyship’s rejection of the application for a confiscation order, the relevant cause or matter was to be determined by the nature of the proceedings for a confiscation order which is a criminal cause or matter[107].
+
+110.  I do not accept this submission. The nature and character of a cause or matter in which a decision was given has to be determined generically. It is unhelpful to draw a distinction by reference to the issue that the court has to address in a particular application. The authority cited by Mr Tam, Secretary for Justice v Cheung Kai Yin[108], provides no support to such an approach.
+
+111.  In light of Subsection (8A), proceedings for a confiscation order are statutorily identified as criminal in nature. The underlying matter is the proceedings for the criminal conviction or notional conviction of a defendant. Since the decision on the applicability of Section 8(1)(a)(ii)(B) is made in such proceedings, it is also a decision in a criminal cause or matter.
+
+112.  On the other hand, proceedings related to a restraint order are distinct from the proceedings for a confiscation order. As discussed above, the making of a restraint order and other decisions to be made under the enforcement regime in Part IV of the OSCO are decisions made in a civil cause or matter. This would include the decision of the Judge refusing to discharge the restraint order in the present case.
+
+The importance of access to justice at the appellate level
+
+113.  Since the answer to Question 2 depends on the construction of Section 13(2) and (3) of the HCO which set out the jurisdiction of the Court of Appeal, the rights of appeal under our legal system are part of the relevant context. Under Section 13, there is a general avenue of appeal to the Court of Appeal in civil causes or matters whilst the right is more circumscribed in criminal causes or matters consistent with the policy against fragmentation. The rectification of errors at first instance in individual cases arising from a trial should be addressed by an appeal against conviction and/or sentence pursuant to Sections 82 and 83G of the CPO.
+
+114.  Further, with the enactment of Sections 13(3)(aa) and 14A of the HCO, there is a general right of appeal to the Court of Appeal in applications for judicial review related to a criminal cause or matter. In this respect, Hong Kong’s appellate regime is more generous than the regime in the UK. Notwithstanding this, there are cases (including decisions made under the OSCO) that fall outside the scope of these sections which have some connections with the criminal process. The viability of appealing to the Court of Appeal in those cases depends on the meaning of “civil cause or matter” in Section 13(2)(a).
+
+115.  Moreover, this Court has no jurisdiction to hear any appeal from a decision of the Court of First Instance under Section 31(b) of the Hong Kong Court of Final Appeal Ordinance (Cap 484) which is not final in nature, see HKSAR v Chen Keen (No 2)[109]. Since a restraint order is not a final order[110], there is no avenue of appeal under the Hong Kong regime if an appeal in respect of a decision concerning a restraint order is characterized as a decision in a criminal cause or matter[111].
+
+116.  In In re McGuinness[112], the Supreme Court had to address the nature of the cause or matter in issue in an appeal from Northern Ireland because the parties proceeded on the basis that it was an appeal against a judicial review decision in a criminal cause or matter. Under the relevant statutory regime, like that in England and Wales, such appeal could not be brought to the Court of Appeal of Northern Ireland. Lord Sales JSC made the forceful observation that an overly expansive interpretation of the phrase “criminal cause or matter” would unacceptably reduce access to justice at appellate level[113] and that any restriction on such access beyond the paradigm type of criminal proceedings had to be justified[114].
+
+117.  These observations are equally apposite in the present context. As mentioned, Lord Donaldson and Lord Hoffmann also attached great weight to access to appellate justice by those affected by the enforcement regime under the 1988 Act.
+
+118.  I respectfully agree with the sentiment expressed by Lord Hoffmann in Montgomery:
+
+“… it seems to me very improbable that Parliament intended that there should be no right of appeal from orders made in the High Court under Part VI. … It seems clear to me that Parliament made no special provision for appeals because it considered that there was an appeal under the general jurisdiction of the Court of Appeal to hear appeals from the High Court. Of course Parliament may have been under a misapprehension, but this conclusion would produce such an unfortunate result that I would not accept it unless I felt compelled to do so.”[115]
+
+119.  I can find nothing in the legislative materials and the text of the OSCO indicating an intention on the part of our legislature to forestall appeals to the Court of Appeal in respect of orders made under Part IV of the OSCO for the enforcement of a confiscation order. In light of the generous appellate regime for judicial review relating to criminal causes or matters in Hong Kong, I cannot see any justification for treating persons affected by a restraint order differently by depriving them of the potential means of seeking judicial redress through appellate avenues. Since proceedings on restraint orders have a different character and are separate from the criminal trial, the availability of appeals would not disrupt the criminal process and the policy against fragmentation which justifies the restriction on appeals in criminal causes or matters is not engaged.
+
+Answer to Question 2
+
+120.  My answer to Question 2 is that an appeal against a judge’s refusal to discharge a restraint order under the OSCO is an appeal against a decision in a civil cause or matter. The Court of Appeal has jurisdiction to entertain the same under Section 13(2)(a) of the HCO. As it was an appeal against an interlocutory decision, it could be heard by a two-member court. In giving the judgment of 24 March 2022, the Court of Appeal was properly constituted. It follows that this Court should decide Question 1 in the context of the appeal in FACV 12/2022 and there is no need to make any order in the other appeals referred to above.
+
+Mr Justice French NPJ:
+
+121.  I agree with the judgment of Mr Justice Ribeiro PJ on Question 1 and with that of Mr Justice Lam PJ on Question 2.
+
+Chief Justice Cheung:
+
+122.  The appeal in FACV 12/2022 is accordingly unanimously allowed and the Court of Appeal’s Order discharging the RO is set aside. The Court makes an order nisi that the costs of this appeal and the proceedings below be paid by Tam to the Secretary for Justice. Absent an application to vary, the order nisi shall become absolute after the lapse of 14 days from the date hereof.
+
+123.  The appeals in FACC 4/2022, FACC 1/2023 and FACV 2/2023 are dismissed with no order as to costs.
+
+ 
+
+   
+
+(Andrew Cheung)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+  
+
+(M H Lam)
+Permanent Judge	(Robert French)
+Non-Permanent Judge
+ 
+
+Mr William Tam SC, DDPP, Ms Denise Chan, SADPP and Mr Douglas Lau, PP, of the Department of Justice, for the Appellant in FACC 4/2022, FACV 12/2022 and FACV 2/2023
+
+Mr Nigel Kat SC and Mr Benson Tsoi, instructed by H M Tsang & Co, for the Appellant in FACC 1/2023
+
+
+[1]  Cap 455.
+
+[2]  Ribeiro and Lam PJJ and Tang NPJ [2022] HKCFA 19 (16 September 2022).
+
+[3]  Cap 201.
+
+[4]  POBO section 14C(1)(a).
+
+[5]  POBO section 14C(3).
+
+[6]  POBO section 14C(4)(a).
+
+[7]  OSCO section 25(1) provides: “Subject to section 25A, a person commits an offence if, knowing or having reasonable grounds to believe that any property in whole or in part directly or indirectly represents any person’s proceeds of an indictable offence, he deals with that property.”
+
+[8]  OSCO section 15(1) provides: “The Court of First Instance may by order (referred to in this Ordinance as a restraint order) prohibit any person from dealing with any realisable property, subject to such conditions and exceptions as may be specified in the order.”
+
+[9]  Sections 14(1)(a) and (b) and 15(5)(b).
+
+[10]  HCMP 1207/2014.
+
+[11]  Ibid at §18.
+
+[12]  [2019] HKCFI 2931 (2 December 2019).
+
+[13]  Cheung and Chow JJA [2022] HKCA 454 (24 March 2022), Chow JA writing for the Court.
+
+[14]  Considering it unnecessary to deal with other arguments advanced.
+
+[15]  Section 19(2) is set out in Section F.3 of this judgment.
+
+[16]  [2005] 3 HKC 545 at §15.
+
+[17]  [2022] HKCA 454 at §§25-27.
+
+[18]  Ibid at §32.
+
+[19]  Ibid.
+
+[20]  Section 2(16A)(b).
+
+[21]  Section 2(1) and Schedules 1 and 2. An offence contrary to section 25 of OSCO is one such listed offence.
+
+[22]  Section 2(8).
+
+[23]  Section 8(1)(a)(i).
+
+[24]  Section 8(3)(a)(ii).
+
+[25]  Section 8(4)(a).
+
+[26]  Sections 8(1)(a)(ii)(A) and 8(3).
+
+[27]  Sections 8(1)(a)(ii)(B) and 8(3).
+
+[28]  Section 8(3)(c)(i)(A).
+
+[29]  Sections 8(8), 8(9) and 10.
+
+[30]  Sections 8(3)(b)(i)(B) and 8(3)(c)(i)(C).
+
+[31]  Section 8(4)(b).
+
+[32]  Section 8(3)(c)(i)(B).
+
+[33]  Section 8(8D).
+
+[34]  Sections 8(6), 8(7), 9 and 11(1).
+
+[35]  Section 13.
+
+[36]  Section 14(1)(a). By section 2(15) one means by which proceedings are instituted involves the issue by a magistrate of an arrest warrant under section 72 of the Magistrates Ordinance (Cap 227) as occurred in respect of Tam on 12 January 2011.
+
+[37]  Section 14(1)(b).
+
+[38]  Section 14(1)(c)(ii).
+
+[39]  Section 8(4)(a).
+
+[40]  In Section F.2 above.
+
+[41]  HCMP 1207/2014 at §18.
+
+[42]  [2001] 1 AC 268 (HL).
+
+[43]  Respondent’s case at §§36-38.
+
+[44]  Ibid at §48(6). Italics in the original.
+
+[45]  Ibid at §49.
+
+[46]  Respondent’s case at §37.
+
+[47]  Section 14(1)(a). Section 2(15) provides that the issue of an arrest warrant is one means by which proceedings for an offence under that Ordinance are “instituted” as occurred here.
+
+[48]  Section 14(1)(b).
+
+[49]  Section 14(1)(c)(ii).
+
+[50]  Section 14(1B).
+
+[51]  HCMP 1207/2014 (10 August 2016).
+
+[52]  Ibid at §11.
+
+[53]  Ibid.
+
+[54]  The SJ states in his written submissions (at §18) that in 2020, 70.8% and in 2021, 58.9% of CO applications involved “absconder” cases.
+
+[55]  HCMP 1207/2014 at §12.
+
+[56]  The Shorter Oxford English Dictionary gives a number of meanings: “Hide (oneself); leave hurriedly and secretly; flee from justice.”
+
+[57]  HCMP 1207/2014 (10 August 2016).
+
+[58]  [2019] HKCFI 2931 (2 December 2019).
+
+[59]  Ibid at §11.
+
+[60]  Ibid at §15.
+
+[61]  FAMC 13/2022 and FAMV 367/2022.
+
+[62]  For the criminal appeal in FACC 4/2022 and the civil appeal in FACV 12/2022.
+
+[63]  In FACC 1/2023.
+
+[64]  (2004) 7 HKCFAR 212 at [27].
+
+[65]  In FACV 2/2023.
+
+[66]  Ordinance No 92 of 1975.
+
+[67]  Since its enactment in 1975, this subsection has not been changed except that the reference to the High Court was amended to the Court of First Instance due to the change in nomenclature of the court.
+
+[68]  Section 81E provides for SJ’s appeal against a discharge under Section 16 or 79G of the CPO or Section 22 of the Complex Commercial Crimes Ordinance (Cap 394). Section 81F provides for SJ’s appeal against an order quashing an indictment. Section 83J provides for appeal by the defendant against a verdict of not guilty by reason of insanity. Section 83M provides for appeal by the defendant against a finding of disability. There are also provisions for reservation or reference of question of law to the Court of Appeal under Sections 81 and 81D and provisions for review of sentence by the SJ under Sections 81A to 81C.
+
+[69]  (2022) 25 HKCFAR 34 at [17].
+
+[70]  The relevant statutory provisions discussed in the UK authorities are Section 18(1) of the Senior Courts Act 1981 and its equivalent which provide that no appeal shall lie to the Court of Appeal from any judgment of the High Court in “any criminal cause or matter”. The discussion in the authorities focused on whether a decision of the lower court was made in a criminal cause or matter.
+
+[71]  [1992] 1 HKLR 149 (CA) and [1992] 2 AC 205 (PC).
+
+[72]  In an application by the Attorney General for orders of certiorari and mandamus [1972] HKLR 336; In re an application for judicial review by a firm of Solicitors [1990] 2 HKLR 146; Attorney General v Alick, Au Shui-yuen [1992] 1 HKLR 88.
+
+[73]  [1943] AC 147. The relevant part of Lord Wright’s judgment was cited by Yang CJ in [1992] 1 HKLR 149 at p.153. See also the judgment of Silke V-P at p.171.
+
+[74]  [1992] 2 AC 205 at p.221.
+
+[75]  Ibid.
+
+[76]  In this respect, the position in England is different. An appeal against a decision of the Divisional Court in a judicial review concerning a criminal cause or matter is subject to stringent criteria and has to be brought directly to the Supreme Court, see Section 1(1)(a) of the Administration of Justice Act 1960. See also [42] of the Court of Appeal’s judgment in R (McAtee) v Secretary of State for Justice [2019] 1 WLR 3766 which was expressly endorsed by Lord Sales JSC in In re McGuinness (Attorney General for Northern Ireland and others intervening) [2021] AC 392 at [90].
+
+[77]  [2005] 2 HKLRD 11. Previously, the Court of Appeal in Apple Daily Ltd v Commissioner of the Independent Commission Against Corruption (No 2) [2000] 1 HKLRD 647 had proceeded on the basis that an application pertaining to a search warrant issued under Cap 1 was civil in nature notwithstanding that there were underlying criminal investigations. However, notwithstanding a tentative view expressed in that regard at p.658, Keith JA ultimately chose to dispose of the case on the merits without reaching a final conclusion on the nature of the cause or matter. Hence, his view was obiter and Ma CJHC in So Wing Keung was entitled to depart from such view in light of fuller arguments in the latter case, see [2005] 2 HKLRD 11 at [31](14).
+
+[78]  [1987] 1 QB 963.
+
+[79]  [1991] 2 QB 520.
+
+[80]  [1976] 1 QB 11 in which the court held that an order estreating the recognizance provided by a third party was not criminal in nature. Although this was challenged in a subsequent case, the House of Lords did not hold it to be incorrect as to its outcome, see In re Smalley [1985] 1 AC 622 at p.634.
+
+[81]  [1987] 1 QB 963 at p.970G. The view was first expressed by Sir John Donaldson MR in Day v Grant (Note) [1987] 1 QB 972 at p.976H after due consideration of Amand.
+
+[82]  R (Guardian News & Media Ltd) v City of Westminster Magistrates’ Court [2011] 1 WLR 3253 at [29] and [36].
+
+[83]  In re McGuinness [2021] AC 392 at [75].
+
+[84]  Drug Trafficking (Recovery of Proceeds) Ordinance (Cap 405); Mutual Legal Assistance in Criminal Matters Ordinance (Cap 525).
+
+[85]  Secretary for Justice v Guardecade Ltd (CACV 47/2004, 25 May 2004); Secretary for Justice v Tan Lam Chuan [2005] 3 HKC 545; Secretary for Justice v Hui Yat Fai (CACV 187/2004, 8 February 2005); Secretary for Justice v Zhang Hongbao (CACV 120/2008, 24 December 2010); Secretary for Justice v Wu Li Hui [2009] 1 HKLRD 78; Secretary for Justice v Zhenly Ye Gon [2012] 2 HKC 523; Re Yeung Ka Sing Carson [2012] 3 HKLRD 491; Secretary for Justice v Male Ye Zhiqiang (CACV 195/2012, 12 July 2013); Ortmann v Secretary for Justice [2015] 1 HKLRD 240; Re Kim Dotcom (CAMP 123/2019, 6 November 2019).
+
+[86]  [2001] 2 HKLRD 851.
+
+[87]  It is well settled in Hong Kong that forfeiture proceedings have a civil character, see Wong Hon Sun v HKSAR (2009) 12 HKCFAR 877. The issue in that case was whether articles 10 and 11(1) of the Hong Kong Bill of Rights were engaged in such proceedings. This Court held that the proceedings did not comprise the determination of a criminal charge and therefore those articles were not engaged.
+
+[88]  [2003] 1 AC 1099.
+
+[89]  [2014] 1 WLR 2228.
+
+[90]  [2019] AC 593 at p.633A to D.
+
+[91]  [2019] 1 WLR 3766 at [41].
+
+[92]  See also R (Guardian News & Media Ltd) v City of Westminster Magistrates’ Court [2011] 1 WLR 3253 and R v Southampton Justices, Ex parte Green [1976] QB 11 where the underlying criminal proceedings were not determinative of the nature of the cause or matter in question.
+
+[93]  [2021] AC 392 at [76].
+
+[94]  [1991] 2 QB 520.
+
+[95]  [2001] 1 WLR 196.
+
+[96]  [1991] 2 QB 520 at p.527B.
+
+[97]  [1986] 1 QB 791.
+
+[98]  [1991] 2 QB 520 at p.527H to 528B.
+
+[99]  Ibid at p.528B.
+
+[100]  Ibid at p.528C.
+
+[101]  [2001] 1 WLR 196 at [19].
+
+[102]  Ibid at [23].
+
+[103]  The regime under Part VI of the 1988 Act was replaced in the UK by the Proceeds of Crime Act in 2002. Whilst the 2002 Act has provisions for the making of confiscation orders against absconded or deceased persons, it also contains express provisions for appeals (including appeals in respect of restraint orders) to be brought to the criminal division of the Court of Appeal in England, see the Proceeds of Crime Act 2002 (Appeals under Part 2) Order 2003 and the Criminal Procedure Rules 2020 Part 42. In light of that, the position under the 2002 Act is not germane for our purposes.
+
+[104]  [2005] 3 HKC 545.
+
+[105]  SJ’s Supplemental Case at para 3.
+
+[106]  SJ’s Supplemental Case at para 6.
+
+[107]  SJ’s Supplemental Case at paras 8 and 9.
+
+[108]  [2016] 4 HKLRD 367.
+
+[109]  (2022) 25 HKCFAR 34.
+
+[110]  Ortmann v Secretary for Justice [2015] 1 HKLRD 240.
+
+[111]  In the UK, an appeal from any decision of the High Court in a criminal cause or matter shall be brought to the Supreme Court, thus not confining to a “final decision”, see Section 41(1) of the Judicature (Northern Ireland) Act 1978 and Section 1(1)(a) of the Administration of Justice Act 1960.
+
+[112]  [2021] AC 392.
+
+[113]  Ibid at [68].
+
+[114]  Ibid at [45].
+
+[115]  [2001] 1 WLR 196 at [23]. A similar sentiment was expressed by Lord Bridge of Harwich in In re Smalley [1985] 1 AC 622 at p.643A to C in the construction of Sections 28(1) and 29(3) of the Supreme Court Act 1981 which precluded judicial review of a judgment or decision of the Crown Court relating to trial on indictment.
+
+  

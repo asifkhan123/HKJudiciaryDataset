@@ -1,0 +1,412 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV Nos 2, 3, 4 & 5 of 2016
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NOS2, 3, 4 AND 5 OF 2016 (CIVIL)
+
+(ON APPEAL FROM CACV NOS 34 AND 124 OF 2014)
+
+_____________________
+
+BETWEEN
+ 	BEIJING TONG GANG DA SHENG TRADE CO LTD
+北京通港達盛商貿有限公司
+(as assignee of Greater Beijing Region Expressways Limited)	Plaintiff
+(Respondent)
+ 	– and –	
+ 	ALLEN & OVERY (a firm)	1st Defendant
+(Appellant in
+FACV 4 & 5/2016)
+ 	NIGEL ALEXANDER CARLISLE AIKEN	2nd Defendant
+(Appellant in
+FACV 2 & 3/2016)
+_____________________
+
+Before:Chief Justice Ma, Mr Justice Tang PJ, Mr Justice Chan NPJ, Mr Justice Stock NPJ and Lord Hoffmann NPJ
+Date of Hearing and Judgment: 24 November 2016
+Date of Reasons for Judgment: 16 December 2016
+_____________________________________
+
+REASONS FOR JUDGMENT
+
+_____________________________________
+
+Chief Justice Ma:
+
+1.  I agree with the judgments of Mr Justice Tang PJ and Lord Hoffmann NPJ.
+
+ 
+
+Mr Justice Tang PJ:
+
+Introduction
+
+2.  By a generally endorsed writ issued on 1 September 2011, Greater Beijing Region Expressways Limited (“GBRE”), claimed damages against the 1st and 2nd defendants for professional negligence as solicitors and barrister respectively between 2005or 2006.  By a Deed of Assignment dated 18 January 2012 GBRE’s causes of action against the defendants were assigned to Beijing Tong Gang Da Sheng Trade Co Ltd.  A notice of the Assignment was given to the defendants on 16 August 2012.  The writ which had not been served was then amended on 17 August 2012 and Beijing Tong Gang became the plaintiff (“the Plaintiff”) in place of GBRE which ceased to be a party.  The statement of claim was served on 14 November 2012.[1]
+
+3.  In March 2013, both the 1st and 2nd defendants, by separate summonses, applied to strike out the Plaintiff’s claim, essentially on the ground that the Assignment was champertous and void.  Shortly before the commencement of the hearing of these summonses, the Plaintiff applied for leave to add GBRE as a plaintiff (“the joinder application”)[2].  The joinder application was made on the basis of RHCOrder 15 rules 6 and 7, Order 20 rule 5 and under the inherent jurisdiction of the court.[3] Although it was not possible to state precisely when the limitation periods in respect of the causes of action covered by the writ had expired, the application was made on the basis that they had expired by the date of the joinder application such that if GBRE were to issue a new writ on that date it would have been met with a successful limitation defence.
+
+4.  The strike out summonses were heard before Deputy High Court Judge Le Pichon on 28 January 2014.  At the conclusion of the hearing, the learned Deputy Judge struck out the writ and the statement of claim on the ground that the Assignment was champertous and void but that the order was drawn up until after the hearing of the joinder application.
+
+5.  The joinder application was heard on 25 April 2014 and on 12 May 2014, the learned Deputy Judge dismissed the application.  Her Ladyship said:
+
+“As the limitation period expired in 2011/2012, it is now too late.”[4]
+
+6.  The Plaintiff appealed against the decision to strike out as well as the dismissal of the joinder application.  On 22 May 2015, the Court of Appeal[5] affirmed the decision to strike out the writ and the statement of claim[6] but allowed the appeal against the dismissal of the joinder application. The Court of Appeal followed Asia-Pac Infrastructure Development Ltd v Shearman & Sterling (a firm) [2012] 3 HKLRD 321, and held that since the joinder application did not involve a new cause of action, no issue of limitation arose and:
+
+“Order 20 rules 5(2) to (5) do not apply and it is not necessary to deal with the alternative submission of Mr Carolan[7] under Order 20 rule 5(3).” [8]
+
+7.  Against that decision, on 3 February 2016 the Appeal Committee[9] granted leave to the 1st and 2nd defendants to appeal so that this Court could consider whether the issue of limitation was fatal to the joinder application[10] and if so whether, as the Plaintiff contended, we should affirm the decision because leave should be granted under Order 20 rule 5(3) to permit joinder.
+
+8.  At the conclusion of the hearing, we allowed the defendants’ appeals.  These are my reasons.
+
+Limitation
+
+9.  Under s 4 of the Limitation Ordinance Cap 347 (“the Ordinance”), no actions founded on simple contract or tort may be brought after the expiration of six years from the date on which the cause of action accrued.  It is not disputed that by the time of the joinder application it was too late for a new action to be brought against the defendants.  However in respect of actions which had been commenced within time, s 35 of the Ordinance (“s 35”)[11] permits new claims to be made in a pending action if certain conditions are satisfied.  Section 35(1)(b) provides for relation back such that any new claim made in the course of any action is deemed to have been commenced on the same date as the original action.  The issues in these appeals are (a) whether the joinder application involved a new claim which would be caught by limitation;(b) how section 35 applies, and (c) whether the requirements of Order 20 rule 5(3) are satisfied.
+
+10.  A new claim is defined by s 35(2):
+
+“In this section a new claim means any claim ... involving either –
+
+(a) the addition or substitution of a new cause of action; or
+
+(b) the addition or substitution of a new party, ...”
+
+11.  Section 35(3) states the general position regarding new claims and limitation:
+
+“Except as provided by ... rules of court, the court shall not allow a new claim ... , to be made in the course of any action after the expiry of any time limit under this Ordinance which would affect a new action to enforce that claim.”
+
+12.  Mr Victor Dawes SC with Mr James Man who appeared for the defendants submitted that the addition of GBRE or the substitution of the plaintiff by GBRE falls plainly within the definition of new claim and the joinder fell outside Order 20 rule 5(3).
+
+13.  Mr SussexSC leading Mr Paul Carolan submitted that s 35 did not apply because the joinder did not involve a new cause of action, that GBRE wasin any event not a new party and if those arguments fail, the joinder which was in effect an application to correct the name of a party could be permitted under Order 20 rule 5(3) :
+
+“... if the Court is satisfied that the mistake sought to be corrected was a genuine mistake and was not misleading or such as to cause any reasonable doubt as to the identity of the person intending to sue or, as the case may be, intended to be sued.”
+
+Section 35ofthe Ordinance
+
+14.  Mr Sussex relied on the remarks of Millett LJ, as he then was, in Yorkshire Regional Health Authority v Fairclough Building Ltd [1996] 1 WLR 210 at 218 E-F that the equivalent of s 35(2) of the Ordinance “cannot be construed literally” and that:
+
+“The first limb must therefore be confined to claims which involve a new cause of action but which do not involve the addition or substitution of a new party. Claims which involve the addition or substitution of a new party as well as a new cause of action fall within the second limb. The question is whether the second limb also includes claims which involve the addition or substitution of a new party but which do not involve a new cause of action. In my opinion it does not.”
+
+15.  Relying on such remarks, the plaintiff submitted that the joinder would not give rise to a new claim within the meaning of s 35 because it did not involve a new cause of action; accordingly the limitation provisions of s 35 did not apply and the Court of Appeal was right to grant leave under Order 20 rule 5(1) to permit the joinder.  I shall proceed on the assumption that the joinder did not involve a new cause of action and take the causes of action as they appeared on the writ.
+
+16.  Yorkshire Regional Health Authority was concerned with an application to substitute a plaintiff under Order 15 rule 7.[12]  The substitution was necessary because the cause of action[13] had become vested in a National Health Service trust which was established to assume responsibility for the authority.  It was argued on behalf of the defendants in that case that the substitution of National Health Service trust came within the definition of a new claim under s 35(2) and should only be allowed if the conditions imposed by s 35 were satisfied,[14]thus, the amendment could not be made after the expiration of the limitation period unless it was permitted by s 35, or by rules of court.[15] It was further argued that since Order 15 rule 6 and Order 20 rule 5 formed anexhaustive code governing amendments after the expiration of the limitation period (and since Order 15 rule 7 was not a part of this code) limitation was fatal to the application in that case. 
+
+17.  It is necessary to look at some other provisions of s 35:
+
+“(5) Rules of court may provide for allowing a new claim to which
+
+subsection (3) applies to be made as there mentioned, but only if the conditions specified in subsection (6) are satisfied, and subject to any further restrictions the rules may impose.
+(6) The conditions referred to in subsection (5) are –
+
+(a) in the case of a claim involving a new cause of action, if the new cause of action arises out of the same facts or substantially the same facts as a cause of action in respect of which relief has already been claimed in the action by the party applying for leave to make the amendment; and
+
+(b) in the case of a claim involving a new party, if the addition or substitution of the new party is necessary for the determination of the original action.
+
+(7) The addition or substitution of a new party shall not be regarded for the purposes of subsection (6)(b) as necessary for the determination of the original action unless either –
+
+(a) the new party is substituted for a party whose name was given in any claim made in the original action in mistake for the new party's name; or
+
+(b) any claim already made in the original action cannot be maintained by or against an existing party unless the new party is joined or substituted as plaintiff or defendant in that action.
+
+(8) Subject to subsection (5), rules of court may provide for allowing a party to any action to claim relief in a new capacity in respect of a new cause of action notwithstanding that he had no title to make that claim at the date of commencement of the action.
+
+(9) Subsection (8) shall not be taken as prejudicing the power of rules of court to provide for allowing a party to claim relief in a new capacity without adding or substituting a new cause of action.”
+
+18.  A similar submission to that made by the defendants in Yorkshire Regional Health Authoritywas rejected by Mance J, as he then was, in The Choko Star [1996] 1 WLR 774.  Mance J said Order 15 rule 7:
+
+“... deals with the most basic and obvious situation where a person should be allowed to continue to conduct litigation properly commenced by or against another.”[16]
+
+19.  Order 15 rule 7 provides:
+
+“(1) Where a party to an action dies or becomes bankrupt but the cause of action survives, the action shall not abate by reason of the death or bankruptcy.
+
+(2)   Where at any stage of the proceedings in any cause or matter the interest or liability of any party is assigned or transmitted to or devolves upon some other person, the Court may, if it thinks it necessary in order to ensure that all matters in dispute in the cause or matter may be effectually and completely determined and adjudicated upon, order that other person to be made a party to the cause or matter and the proceedings to be carried on as if he had been substituted for the first mentioned party.”
+
+20.  Mance J said:
+
+“Returning to the scheme of the rulesofcourt, I conclude that the type of situation covered by Ord. 15, r. 7, is one for which the rules would naturally be expected to cater, and that in this context it should be irrelevant whether or not the limitation period had expired prior to the assignment, transmission or devolution in question. All that should matter is that the original litigation was commenced in time. In my view the wording of Ord. 15, r. 7 is in these respects expressed in precisely the way that one would expect. It is apt to cover any change necessary as a result of any such assignment, transmission or devolution at any stage in proceedings. Not only is there no restriction in this language, read literally. Any restriction by reference to the limitation makes absolutely no sense and would lead to major absurdities, as in the present and many other cases which can be envisaged.”[17]
+
+“The absence of any reference to limitation in Ord. 15, r. 7, compared with both Ord. 20, r. 5 and Ord. 15, r. 6, is explained, as I have indicated, by the different subject matter on which each focuses. Ord. 15, r. 7 deals with a situation where the proceedings as originally constituted were in perfect order and subsequent changes require to be catered for: it is self-evident that limitation must be irrelevant. The other rules focus on situations where the proceedings as originally constituted were in some way defective or inadequate, and therefore it might be said that their correction or amendment worked an injustice in exposing a defendant to some new claim which could and should have been put forward properly within the limitation period.”[18]
+
+21.  Mance J then concluded that Order 15 rule 7 reflected precisely the criteria under the equivalent ofs 35(6)(b) of the Ordinance that “the addition or substitution of the new party is necessary for the determination of the original action” because:
+
+“ ... (b) any claim already made in the original action cannot be maintained by or against an existing party unless the new party is joined or substituted as plaintiff or defendant in that action.”[19]
+
+22.  It is noteworthy that apart from the analysis of the effect of s35(2) set out in para 10 above, MillettLJ also approved of this part of Mance J’s judgment:
+
+“The substitution of a new party who has succeeded to the interest or liability of a former party to existing proceedings plainly satisfies the condition specified in section35(6)(b) and therefore the condition specified in section35(5)(b); and this is enough.”[20]
+
+23.  With respect, I agree.  In my view, an application to add or substitute a party would result in a new claim as defined in s 35(2) and that if the application is made after the expiration of the limitation period current at the time of the commencement of the action, in order for the addition or substitution not to fall foul of limitation, it must come within rules of court as envisaged under s 35(3) &(5).  Order 15 rule 7 is such a rule, being referable to s35(6)(b), and (7)(b).  Other rules include Order 15 rules 6(5)and(6), and Order 20 rule 5.
+
+24.  As for Order 15 rule 6(4) - (6), Mance J said they were clearly designed to cover under s 35(6) of the Act of 1980, the five situations for which the Law Reform Committee in its 21stReport [Final Report on Limitation of Actions (1977) Cmnd. 6923] had recommended that provision should be made.[21]
+
+25.  Order 15 rule 6 :
+
+“(1) No cause or matter shall be defeated by reason of the misjoinder or nonjoinder of any party; and the Court may in any cause or matter determine the issues or questions in dispute so far as they affect the rights and interests of the persons who are parties to the cause or matter.
+
+...
+
+(5) No person shall be added or substituted as a party after the expiry of any relevant period of limitation unless either –
+
+(a) the relevant period was current at the date when proceedings were commenced and it is necessary for the determination of the action that the new party should be added, or substituted, or ...
+
+(6) The addition or substitution of a new party shall be treated as necessary for the purposes of paragraph (5)(a) if, and only if, the Court is satisfied that –
+
+(a) the new party is a necessary party to the action in that property is vested in him at law or in equity and the plaintiff’s claim in respect of an equitable interest in that property is liable to be defeated unless the new party is joined, or
+
+(b) the relevant cause of action is vested in the new party and the plaintiff jointly but not severally, or
+
+(c) the new party is the Secretary for Justice and the proceedings should have been brought by relator proceedings in his name, or
+
+(d) the new party is a company in which the plaintiff is a shareholder and on whose behalf the plaintiff is suing to enforce a right vested in the company, or
+
+(e)   the new party is sued jointly with the defendant and is not also liable severally with him and failure to join the new party might render the claim unenforceable.”
+
+26.  As for Order 20 rule 5, Mance J noted that Hobhouse J, as he then was had said :
+
+“... Ord. 20, r. 5[22] must now be read with the [1980] Act and as implicitly (but inelegantly) giving effect to the first alternative, (a), in section 35(6). The result is that the rule relevant to the present case, Ord. 20, r. 5, must be construed as being made both under the general power to regulate procedure and under the more specific power given for the purposes of that Act by section 35 of the Act of 1980.”[23]
+
+27.  Thus, it can be seen how these rules of court – Order15 rules 6 and 7, and Order20 rule 5 – fitinto the scheme of s35. The Plaintiff’s submissions, however, seek to rely on that passage in the judgment of Millett LJ in Yorkshire Regional Health Authority earlier set out[24] for the proposition that only where the addition or substitution of a new party also involves the addition of a new cause of action will this constitute a new claim for the purposes ofs35(2)(b) of the Ordinance and thereby be subject to the bar in s35(3).
+
+28.  Evans LJ agreed with the judgment of Millett LJ adding some further observations of his own.  The third member of the Court of Appeal, NeillLJ, agreed with both judgments.
+
+29.  The Choko Star and Yorkshire Regional Health Authority were referred to by Lord Walker of Gestingthorpe JSC in the Supreme Court in Roberts v Gill & Co [2011] AC 240.  Lord Walker, after stating that he had no doubt the Court of Appeal in Yorkshire Regional Health Authority was right in rejecting the argument that Order 15 rule 6 and Order 20 rule 5 formed a comprehensive code governing amendments after the expiration of the limitation period, however,added:
+
+“I am not sure that I agree with (or indeed understand) the refinements of Millett LJ’s reasoning at p 218.”[25]
+
+30.  It may be that this passage is a reference to the reasoning in that part of MillettLJ’s judgment relied on by the Plaintiff in the present case and casts doubt on it.  If so, I share this doubt.
+
+31.  However, this reasoning appears to have been adopted in Hong Kong.  In Asia-Pac, four plaintiffs sued the defendants for professional negligence.  In the course of the proceedings, three of the plaintiffs assigned their causes of action against the defendants to the 1st plaintiff. The 1st plaintiff applied for leave to amend under Order 15 rule 7 which was refused for reasons which do not concern us.  The Court of Appeal allowed his appeal.  In his judgment,[26] Cheung CJHC examined the judgments of Mance J in The Choko Star, Millett LJ and Evans LJ in Yorkshire Regional Health Authority and Lord Walker in Roberts.[27]  His Lordship concluded that on these authorities, the appeal must be allowed. Cheung CJHC said that in The Choko Star Mance J:
+
+“concluded that the merger and automatic succession by the new company gave rise to no new cause of action and thus the limitation point was wholly irrelevant.”[28]
+
+32.  Cheung CJHC then cited the passage from Mance J’s judgment  which I have quoted above.[29] Mance J proceeded on the basis the substitution of a new party under Order 15 rule 7 was permitted under Order 15 rule 7 because Order 15 rule 7 was a rule covered by s 35(5) because it reflected s35(6)(b) of the 1980 Act.  What Mance J thought distinguished Order 15 rule 7 from Order 15 rule 6 and Order 20 rule 5 was that Order 15 rule 7 was concerned with proceedings which as originally constituted was in perfect order and subsequent vicissitudes of life, such as death, bankruptcy or nationalization, or such like, had to be catered for.
+
+33.  Cheung CJHC then cited the following passages from the judgments of Millett LJ and Evans LJ.  Millett LJ:
+
+“Ord 15, r. 7 does not contain, and none of its predecessors ever has contained, any reference to limitation. This is as it should be, since the circumstances in which the rule may be invoked do not give rise to any question of limitation. Even though the rule permits a new party to be substituted for an original party, this does not involve a new cause of action; the new party is substituted because he has succeeded to a claim or liability already represented in the action and sues or is sued in respect of the existing cause of action. The substitution of the successor does not deprive the defendant of an accrued limitation defence. There is no good reason why the substitution should not be made at any stage of the proceedings and whether a relevant period of limitation has expired or not; the expiry of the limitation period is completely irrelevant.”[30]
+
+Evans LJ at 221 B/C-E:
+
+“ ... When a litigant dies, or becomes bankrupt, the litigation does not cease, unless the cause of action is personal to him. It may be carried on by his personal representatives, or his trustee in bankruptcy, in their own names. There is, not surprisingly, provision in the Rules of the Supreme Court for the change in the identity of the party to be duly made: R.S.C., Ord. 15, r. 7. A corporate plaintiff does not die, but it may cease to exist. A particular example is when the corporation, which is a creature of statute, is terminated by statute and its rights and liabilities are transferred to some other person. When that occurs, the new person may become a party to pending proceedings in place of the old.
+
+Although the identity of the party changes, the nature of the claim does not.  It is, in legal terms, the same cause of action as it was before.  There is no question of a new claim or cause of action being asserted, even though in the particular circumstances the claim is being made by a different person. Because it is the same cause of action, there is no scope for a limitation defence. The defendant cannot say that the time for bringing proceedings has expired when the new claimant replaces the old, because the essential point is that no new claim is being put forward.”
+
+34.  These remarks by Millett LJ and Evans LJ supported the apparent conclusion that s35(2) and(3)would, as far as new parties were concerned, only bite if there was also a new cause of action.  This was a conclusion that underlies the decision of the Court of Appeal and Asia-Pac: see the section of the judgment headed “Assignments did not create new causes of action”.
+
+35.  With respect, I do not agree with this view. One starts with the basics.  Section 35(1) covers “any new claim” as defined in s 35(2).  Section 35(2)(a) is straight-forward, a new claim is any claim involving the addition or  substitution of a new cause of action.  Section 35(2)(b) is also straight-forward: a new claim is one which involves “the addition or substitution of a new party”.  But where limitation becomes relevant, s35(3) states the general position.  The particular situations in which limitation will not be a bar are then set out in s35(4) to (12).  Section 35(2) should be construed in the context of s 35 as a whole.  Section 35 clearly distinguishes and keeps separate the addition or substitution of a new cause of action from the addition or substitution of a new party.  For example, s 35(6)(a) in respect of the addition or substitution of a new cause of action, and s 35(6)(b) and (7)(a) or (b) in the case of the addition or substitution of a new party.[31] A new claim under s 35(2)(b) must satisfy the conditions of  s 35(6)(b) and (7).  New claims under s 35(2)(a) have to come within s 35(6)(a).  Moreover, s 35(7)(b) sits uncomfortably with Millett LJ’s construction since s 35(7)(b) clearly envisages the maintenance of the “claim already made in the original action”.  Furthermore, if the result of Millett LJ’s construction was intended,s 35(2) could simply define a new claim as one which involves the addition or substitution of a new cause of action.  Section 35 could then go on to provide that a new action has to satisfy s 35(6)(a) unless where the addition or the substitution of a new party was also involved in which case the provisions of  s 35(6)(b) and s 35(7)(a) or (b) have to be satisfied too.  
+
+36.  In Asia-Pac, Cheung CJHC also cited the following passage from Lord Walker at para 104:
+
+“In the ordinary case of a simple assignment or transmission of a cause of action after proceedings have been commenced, no question of limitation arises. ...”
+
+37.  With respect, this statement does not throw light on the correct interpretation of s35(2).  It is correct that in the factual situations covered under Order15 rule7, there is already a pre-existing claim in the action that is sought to be assigned, transmitted or to devolve to the new party and that as Mance J explained Order 15 rule 7 is concerned with situations “where the proceedings as originally constituted were in perfect order”.[32]  Order 15 rule 7 long preceded   the 1980 Act and Mance J concluded there was no reason why “why it should not continue to fulfil the same role for the purposes of the Act of 1980”.[33] It is in this sense only that no question of limitation arises. [34]  However, the fact that Order 15 rule 7 does not involve a new cause of action does not mean that the limitation bar in s 35 only applies to an amendment to add or substitute a new party if the amendment also involves a new cause of action. One does not follow from the other.
+
+38.  It follows that, with respect, I cannot agree with the Court of Appeal in the present case which purported to followAsia-Pac, that because no new cause of action was involved in the joinder application, s 35 did not apply.  Mr Sussex accepted that he could not succeed on this submission unless we agree with the construction of s 35(2) by the English Court of Appeal in Yorkshire Regional Health Authority which was adopted in Asia-Pac.
+
+39.  As I have said Mr Sussex accepted that Order 15 rule 7 did not apply to the joinder application so I now turn to his submission that GBRE was not a new party or that Order 20 rule 5(3) applies because there was a genuine mistake.
+
+New Party
+
+40.  Mr Sussex also submitted that s 35 did not apply because GBRE was not a new party because the writ was originally issued in its name.  For this reason it was said GBRE could not be regarded as a new party.  I do not believe the fact that GBRE was once a party made any difference.  As a result of the amendment on 17 August 2012, GBRE had ceased to be a party.  By the joinder application it was sought to join GBRE as a party.  GBRE was as much a new party as if the original writ was issued in the Plaintiff’s name after the impugned assignment. 
+
+Order 20 rule 5
+
+41.  Lastly, Mr Sussex submitted that leave to amend should be granted under Order 20 rule 5(3).  It is necessary to consider the provisions Order 20 rule 5 in some detail:
+
+“(1) Subject to Order 15, rules 6, 7 and 8 and the following provisions of this rule, the Court may at any stage of the proceedings allow the plaintiff to amend his writ, or any party to amend his pleadings, on such terms as to costs or otherwise as may be just and in such manner (if any) as it may direct.
+
+(2) Where an application to the Court for leave to make the amendment mentioned in paragraph (3), (4) or (5) is made after any relevant period of limitation current at the date of issue of the writ has expired, the Court may nevertheless grant such leave in the circumstances mentioned in that paragraph if it thinks it just to do so.
+
+(3) An amendment to correct the name of a party may be allowed under paragraph (2) notwithstanding that it is alleged that the effect of the amendment will be to substitute a new party if the Court is satisfied that the mistake sought to be corrected was a genuine mistake and was not misleading or such as to cause any reasonable doubt as to the identity of the person intending to sue or, as the case may be, intended to be sued.
+
+(4) An amendment to alter the capacity in which a party sues may be allowed under paragraph (2) if the new capacity is one which that party had at the date of the commencement of the proceedings or has since acquired.
+
+(5) An amendment may be allowed under paragraph (2) notwithstanding that the effect of the amendment will be to add or substitute a new cause of action if the new cause of action arises out of the same facts or substantially the same facts as a cause of action in respect of which relief has already been claimed in the action by the party applying for leave to make the amendment.”
+
+42.  I note first that Order 20 rule 5(1) is subject to the other provisions of Order 20 rule 5.  Order 20 rule 5(2) enables a party to be joined or substituted by an application made “after any relevant period of limitation current at the date of issue of the writ has expired” if it comes within Order 20 rule 5(3) which in the present case requires that there was a genuine mistake in the name. Neither rule 5(2) or (3) was concerned with the addition or substitution of a new cause of action. If a new cause of action was involved that would fall under rule 5(5).  Mr Sussex relies on Order 20 rule 5(1) and the Court of Appeal granted leave under Order 20 rule 5(1) because it was of the view that no question of limitation was involved because the cause of action remained the same.  But, whether Order 20 rule 5(3) is triggered depended on whether the application was made “after any relevant period of limitation current at the date of issue of the writ had expired” and not whether a new cause of action was involved.  It is not disputed that, here, the application was made after the relevant period of action current at the date of the writ had expired.  
+
+43.  That being so, in my view, the Plaintiff has to show that “the mistake sought to be corrected was a genuine mistake”.  It is not suggested that the defendants had been misled in any way so we are not concerned with the other requirements of Order 20 rule 5(3).  The authorities are clear, the mistake has to be a mistake as to the name rather than the identity of the party or as to legal rights.  Indeed, s 35(7)(a) says so expressly:
+
+“the new party is substituted for a party whose name was given in any claim made in the original action in mistake for the new party’s name; ...”[35]
+
+44.  In Adelson v Associated Newspapers Ltd [2008] 1 WLR 585, in the English Court of Appeal,[36] Lord Phillips of Worth Matravers CJ delivering the judgment of the court said, that under Order 20 rule 5:
+
+“31. ... The mistake envisaged in relation to the name of the claimant is one under which the name used for the claimant is not the name of the person wishing to sue. ...
+
+...
+
+33. ... the mistake that the rule envisages is one of nomenclature, not of identification.  ...” 
+
+45.  He explained that:
+
+“29. ... An error of identification will occur where a claimant identifies an individual as the person who has caused him an injury, intends to sue that person, describes him in the pleadings by the correct name, but then discovers that he has identified the wrong person as the person who has injured him. An error of nomenclature occurs where the claimant identifies the correct person as having caused him the injury, but describes him in the pleadings by the wrong name.”
+
+46.  Here, there was no mistake in the relevant sense, the Plaintiff wished to sue as the assignee, sued as such and was correctly named.  The mistake was the belief that the assignment was valid and effective.
+
+47.  The Aiolos [1983] 2 Lloyd’s Rep 25 is directly in point.  There, the plaintiff insurers sued in its own name relying on rights of subrogation under policies of insurance in respect of certain cargoes.  After the expiration of the limitation periods, the plaintiff sought leave to amend, inter alia, relying on Order 20 rule 5(3) to add the names of the cargo buyers.  The application was refused.  Oliver LJ, as he then was, said it was:
+
+“... a case of an erroneous belief that the plaintiff, because he was in fact what he was thought to be, that is, the insurer, had as a result of that certain legal rights which he did not in fact have. There was therefore no error either as to the name or as to the identity of the party which fell to be corrected, but simply an error of law as to the rights possessed by the correctly identified party. Order 20, r. 5(3) simply does not extend to this sort of error and the application under this rule must, therefore, fail.”[37]
+
+48.  Here, the Plaintiff had made a mistake but it was not a mistake in the name and Order 20 rule 5(3) did not apply.
+
+
+Mr Justice Chan NPJ:
+
+49.  I agree with the judgment of Mr Justice Tang PJ and the judgment of Lord Hoffmann NPJ.
+
+ 
+
+Mr Justice Stock NPJ:
+
+50.  I agree with the judgments of Mr Justice Tang PJ and Lord Hoffmann NPJ.
+
+ 
+
+Lord Hoffmann NPJ:
+
+51.  I agreed after the hearing that this appeal should be allowed and the order of Deputy Judge Le Pichon refusing the application to amend restored.  As we are differing from a unanimous Court of Appeal, I shall state my own reasons and in particular explain why in my opinion the authorities relied upon by the Court of Appeal do not support its conclusion.  For this purpose I gratefully adopt the statement of the facts in the judgment of Tang PJ.
+
+52.  Section 35(3) of the Limitation Ordinance Cap 347 (“the Ordinance”) reproduces section 35(3) of the English Limitation Act 1980.  It provides that “[e]xcept as provided by section 30 or by rules of court” the court shall not allow a “new claim” to be made “after the expiry of any time limit under this Ordinance which would affect a new action to enforce that claim.”  The equivalent English provision was a codification, with some changes recommended by the Law Reform Committee, of a long standing rule of practice that the court would not allow an amendment which would deprive a party of a limitation defence: see Weldon v. Neal(1887) 19 Q.B.D. 394.
+
+53.  Until the Limitation Act 1980, no one thought there was any inconsistency between this rule of practice and the power of the court, whether before or after the limitation period, to substitute as plaintiff a person who had succeeded to the interest of a party to the litigation.  In 1980 this power was embodied in a rule of court (RSC Ord 15, r. 7, the equivalent of RHC Ord 15 r. 7 in Hong Kong) which went back at least to the Common Law Procedure Act 1852.  Examples of its use were to substitute a personal representative who had succeeded to a deceased party or a company which had acquired the interest of another company by universal succession.
+
+54.  The reason why there was no inconsistency was because the substitution of the new party did not deprive the defendant of a limitation defence.  He was in exactly the same position as he was before the substitution, namely, that he was defendant to proceedings on the same cause of action which had been started before the expiry of the limitation period.  The cause of action might be good or bad, but it would not have been improved by the substitution.
+
+55.  The language of the 1980 Act, however, caused a problem.  Section 35(3) says that the court should not allow a “new claim” to be made after the expiry of the limitation period.  It defined a “new claim” to include a claim which involves the “substitution” of a new party.  If one read this literally to include a new party who had succeeded to the interest of an existing party, it would mean, for example, that an executor could not be substituted for an existing party who died after the limitation period had expired, even though he had commenced the proceedings in good time.  That would obviously have been an extraordinary result.
+
+56.  It was however the conclusion reached by His Honour Judge Diamond in Toprak Enerji Sanayi A.S. v. Sale Tilney Technology Plc [1994] 1 WLR 840.  But soon afterwards, in The Choko Star [1996] 1 WLR 774, Mance J disagreed and held that section 35 could not have been intended to cut down the long-standing power of amendment under RSC Ord 15, r. 7.  It is not easy to summarise his lengthy judgement but he appears to have started by accepting that the substitution involved a “new claim” as defined, by virtue of it involving the substitution of a party: see p. 778C.  He held nevertheless that RSC Ord 15, r. 7 survived intact as an exception to the prohibition in section 35(3).
+
+57.  The present case is very different.  Mr Sussex SC accepted that he did not come within RHC Ord 15, r. 7. The rule applies where “the interest...of any party is assigned or transmitted to or devolves upon some other person”. But the plaintiff had no interest which it could transmit to GBRE.  It had no interest at all.  The invalidity of the assignment from GBRE to the plaintiff meant that the plaintiff might as well have been a complete stranger.
+
+58.  Furthermore an amendment to substitute GBRE would have fallen foul of the old rule of practice.  The effect would have been to deprive the defendants of a limitation defence. Before the amendment, they were being sued by a party who had no cause of action.  Its action was liable to be struck out.  The amendment would have substituted a party who could at any rate assert a cause of action, whatever its merits might turn out to be. And that party would be allowed to take up the proceedings after the limitation period had expired.
+
+59.  The peculiarity of this case is that GBRE was at an earlier stage a party to the proceedings.  It commenced the proceedings within the limitation period. But then it dropped out – as it happens, even before service of the writ – removed itself from the action and substituted the plaintiff.  So Mr Sussex submits, and the Court of Appeal accepted, that it should be allowed to come back in the action to pursue the same cause of action as that with which it began.
+
+60.  In my opinion, however, it does not matter that it was once a party to the proceedings.  One has to look at the position as it was when the application to amend was made.  At that time, GBRE was a stranger to the proceedings.  It had substituted the name of the plaintiff on the basis of the purported assignment but the champertous nature of the transaction meant that the plaintiff did not acquire GBRE’s cause of action.  The only effective act was that it dropped out of the action.
+
+61.  Mr Sussex was inclined to accept that if GBRE had simply discontinued, it could not have started another action after the limitation period had expired. But, like the judge, I cannot see the difference between this and having oneself removed from the proceedings without leaving anyone entitled to carry it on.  In the Court of Appeal, Kwan JA said (at para 63) that GBRE had not “abandoned the action” because “one way or other, either the assignor or the assignee would want to proceed with the action”.  The defendants were not “lulled into a false sense of security”.  But the Limitation Ordinance is not concerned with the parties’ states of mind or whether a defendant is lulled into a false sense of security.  A party who starts or seeks to join proceedings after the expiry of the limitation period is barred simply because he is too late.  If GBRE wanted to preserve the option of prosecuting the action, it should have remained a party.  Of course it would then have been liable for costs if the action failed. This might have defeated the object of the obscure forensic manoeuvres by which the plaintiff had been put forward to prosecute the claim.
+
+62.  The Court of Appeal relied upon the judgment of Millett LJ in Yorkshire Regional Health Authority v Fairclough Building Ltd [1996] 1 WLR 210, which involved the same point as had come before Mance J in The Choko Star, namely a universal succession to a corporate body which had been carrying on the action.  However, Millett LJ did not approach the question in the same way as Mance J.  He did not accept that the substitution involved a “new claim” within the meaning of section 35.  The reasoning is not easy to follow (in Roberts v Gill & Co. [2011] 1 AC 240, 272H Lord Walker of Gestingthorpe confessed to not understanding it) but it produced the conclusion that “a claim involving the...substitution of a new party” meant the substitution of a new party which also involves a new cause of action.  So Mr Sussex says that the amendment did not involve a new cause of action.  It was the same cause of action as that which GBRE had asserted when it commenced the proceedings.
+
+63.  In my view, it all depends on what you mean by “the same cause of action”.  If it means the same cause of action as that of the party for whom the new party is being substituted, then I agree.  That is precisely the position covered by RSC Ord 15, r. 7.  On the other hand, if it means a cause of action which was at some past stage being asserted by a party to the action and from which he then dropped out without effectually passing on the cause of action to someone else, then I do not agree.  Furthermore, I do not think Millett LJ had the present highly unusual situation in mind.  The way he put it was (at p 218G):
+
+“The question is whether the second limb [of section 35(2)] also includes claims which involve the addition or substitution of a new party but which do not involve a new cause of action. In my opinion it does not. As I have already pointed out, there are two entirely different kinds of substitution provided for by the rules, one where the party substituted has succeeded to a claim or liability already represented in the action, and one where he has not. It would be outside the scope of the Act of 1980 to alter the law relating to the former kind of substitution, which involves no question of limitation.”
+
+64.  It is clear from this passage that what Millett LJ had in mind was a substitution for a party who had a cause of action “already represented in the action.”  That is to say, the situation covered by RSC Ord 15, r. 7.
+
+65.  Evans LJ, who gave the other judgment in the Yorkshire Regional Health Authority v Fairclough Building Ltd case, also thought that a substitution within RSC Ord 15, r. 7 was not a “new claim” within the meaning of section 35, although for the slightly different reason that it was not a “substitution” for the purposes of the Act.  He went on to say (at p. 222H):
+
+“The Limitation Act 1980 simply does not apply when one party is substituted for another in order to proceed with the same claim or cause of action as before.”
+
+66.  It seems to me clear that by “as before”, Evans LJ meant “as before the substitution” and not “at some time in the past”.
+
+67.  I agree that a case within RSC Ord. 15, r. 7 falls outside section 35.  Whether this is because, as a matter of construction of section 35, it falls outside the definition of a new claim (as Millett and Evans LJJ thought) or whether it is a sanctioned exception (as Mance J thought), does not seem to me to matter. Either way, I have no doubt that the power of the court under RSC Ord 15, r. 7 can be exercised whether the limitation period has expired or not.  But I do not think that this extends to the substitution of a new party outside RSC Ord 15. r. 7 and I do not think that Millett LJ or Evans LJ had such a claim in mind.
+
+68.  These cases were followed by the Hong Kong Court of Appeal in Asia-Pac Infrastructure Development Ltd v Shearman and Sterling (a firm) [2012] 3 HKLRD 321, in which three of the plaintiffs assigned their causes of action to the fourth plaintiff.  This was a straightforward Ord 15, r. 7 case in which the substitution of the assignees to pursue the same causes of action did not deprive the defendant of a limitation defence.  Mr Justice Cheung CJHC rightly said that the assignments did not create new causes of action.  They were the same causes of action as the four parties had been suing upon before.  The difference from the present case is that the cause of action upon which GBRE proposes to sue is not the cause of action which the plaintiff had been suing on before.  Before the amendment application, no one had been suing on that cause of action.  It is the cause of action upon which GBRE had been suing eighteen months earlier, but that is not the same thing.
+
+69.  The proposed amendment was therefore prohibited by section 35(3) unless it could be brought within one of the exceptions.  The only exception relied upon by Mr Sussex, and that not very enthusiastically, was RHC Ord. 20, r. 5(3), which allows an amendment to “correct the name of a party” where there has been a “genuine mistake”.  In this case, however, there had been no mistake about the name of a party.  The mistake was about the validity of the assignment from GBRE to the plaintiff.
+
+70.  For these reasons, I think the judge was right to reject the application to amend.  She had no power to grant it and it is therefore unnecessary to consider the discretionary grounds on which she would in any case have refused it.
+
+ 
+
+ 
+
+(Geoffrey Ma)
+Chief Justice	(Robert Tang)
+Permanent Judge	(Patrick Chan)
+Non-Permanent Judge
+(Frank Stock)
+Non-Permanent Judge	(Lord Hoffmann)
+Non-Permanent Judge
+ 
+
+Mr Victor Dawes SC and Mr James Man, instructed by Deacons, for the appellant in FACV 4 & 5
+
+Mr Victor Dawes SC and Mr James Man, instructed by Kennedys, for the appellant in FACV 2 & 3
+
+Mr Charles Sussex SC and Mr Paul Carolan, instructed by Cheng, Yeung & Co, for the respondent
+
+
+[1] The Deed of Assignment and the notice of assignment were pleaded in para 2.
+
+[2] Although the application was for GBRE to be added as a party, after the striking out of the Plaintiff, it became effectively, an application to substitute GBRE.
+
+[3] However, at Court of First Instance, in the Court of Appeal and before us, the Plaintiff relied on Order 20 rule 5(1) and (3) only.
+
+[4] CFI judgment dated 12 May 2014, para 24.
+
+[5] Cheung CJHC, Lam VP and Kwan JA.
+
+[6] There is no appeal from that concurrent decision.
+
+[7] Counsel for the plaintiff below, who with Mr Charles Sussex SC appeared for the plaintiff before us.
+
+[8] With the concurrence of Cheung CJHC and Lam VP.
+
+[9] Tang PJ, Chan NPJ and Stock NPJ.
+
+[10] Leave was also granted on the or otherwise basis, but in view of our decision it is unnecessary to deal with it. 
+
+[11] Section 35 of the Ordinance is based on s 35 of the English Limitation Act 1980 (“the Act”).  They are for practical purposes identical.  The numbering of the sub-sections differs from sub-section (5) onwards.
+
+[12] The English rules are identical to the Hong Kong rules.
+
+[13] For breach of contract against contractors and architects.
+
+[14] 217D.
+
+[15] Section 35(3) see para 11 above.
+
+[16] 783D.
+
+[17] 785G.
+
+[18] 786B.
+
+[19] 787A.
+
+[20] 220A
+
+[21] 780E.
+
+[22] Although as Mance J pointed out Order 20 rule 5 predated the 1980 Act at 781E.
+
+[23] Hobhouse J, Payabi v Armstel Shipping Corporation[1992] 1 QB 907 at p 924.
+
+[24] Para14 above.
+
+[25] At p 272,  para 104.  
+
+[26] With the agreement of Yuen JA and Bharwaney J.
+
+[27] Paras 8-12.
+
+[28] 324.
+
+[29] First passage at para 20.
+
+[30] 215C-E.
+
+[31] See also the language of Order 20 rule 5(3) and (5) where the same dichotomy is maintained.
+
+[32] 786B.
+
+[33] 785H.
+
+[34] See paras 21-23 above.
+
+[35] As the quotation from Hobhouse J, para 26 above, shows, Order 20 rule 5 must be read with the 1980 Act.
+
+[36] Lord Phillips of Worth Matravers CJ, Jacob and Moses LJJ.
+
+[37] P. 30.
+
+ 

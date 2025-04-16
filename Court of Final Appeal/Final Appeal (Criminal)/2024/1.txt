@@ -1,0 +1,403 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No. 1 of 2024
+
+[2024] HKCFA 14
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 1 OF 2024 (CRIMINAL)
+
+(ON APPEAL FROM CACC NO. 153 OF 2021)
+
+_____________________
+
+BETWEEN
+
+ 	HKSAR	Respondent
+ 	and	 
+ 	TSIM SUM KIT, ADA	Appellant
+_____________________
+
+Before:	Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ and Mr Justice Gummow NPJ
+Date of Hearing:	8 May 2024
+Date of Judgment:	12 June 2024
+___________________
+
+J U D G M E N T
+
+___________________
+
+Chief Justice Cheung and Mr Justice Fok PJ:
+
+A.  Introduction
+
+1.  This appeal raises the following important question of law:
+
+“Does section 3(2) of the Homicide Ordinance (Cap.339) unjustifiably derogate from the [appellant]’s right of presumption of innocence under Article 87(2) of the Basic Law and Article 11(1) of the Hong Kong Bill of Rights, and if so, should section 3(2) be read down as imposing only an evidential burden?”
+
+2.  Although framed specifically in terms of the statutory provision (see below) concerning criminal liability for the killing of another by a person suffering from a relevant abnormality of mind, it raises the more general question of how courts should approach the question of whether the constitutionally protected presumption of innocence is engaged in relation to provisions which place a burden of proof on a defendant. It also provides the opportunity, as will be seen, for this Court to consider the proportionality of the particular reverse onus provision in the present case.
+
+3.  The background facts of the case and the proceedings below can be shortly stated.
+
+4.  The appellant was convicted of two counts of murder[1] and two counts of shooting with intent to cause grievous bodily harm.[2]  The charges arose from an incident after the appellant attended a family lunch arranged to discuss the division of her late grandmother’s estate on 26 June 2018. After the meal, the appellant invited various family members to go for a walk in a nearby park to continue their discussion. During that walk, without any warning, the appellant withdrew a pistol and started shooting at her family members. She killed two of them and wounded two others. The appellant fled into a nearby shopping centre where she was apprehended, disarmed and taken into custody.
+
+5.  At her trial before M Poon JA (sitting as an additional judge of the Court of First Instance) and a jury, the appellant offered to plead guilty to manslaughter by reason of diminished responsibility in respect of the two counts of murder. The prosecution did not accept that offer and the trial proceeded accordingly with the prosecution and the defence each adducing evidence from respective psychiatric experts in respect of the appellant’s mental condition. On 15 July 2021, the appellant was found guilty of all four counts and sentenced to life imprisonment on the two counts of murder and to an aggregate of 18 years’ imprisonment on the two shooting counts.
+
+6.  The appellant applied for leave to appeal against conviction. Two grounds of appeal against conviction were advanced, of which the first was that the legal burden imposed on a defendant under s.3(2) of the Homicide Ordinance (Cap.339) (“the Ordinance”) unjustifiably derogated from the presumption of innocence and was therefore unconstitutional. On this ground of appeal, the Court of Appeal concluded that the legal burden under s.3(2) of the Ordinance did not engage the right to be presumed innocent and that, if it had, it constituted a justifiable derogation from that right. The other ground of appeal was also rejected by the Court of Appeal and so the appeal was dismissed.[3]
+
+7.  Leave to appeal to this Court was granted by the Appeal Committee in respect of the question of law set out at [1] above.[4]
+
+B.  The application of s.3(2) of the Ordinance below
+
+8.  As mentioned above, at her trial, on the two counts of murder, the appellant offered to plead guilty to manslaughter by reason of diminished responsibility, in reliance on s.3 of the Ordinance. That section is headed “Persons suffering from diminished responsibility” and provides as follows:
+
+“(1) Where a person kills or is a party to the killing of another, he shall not be convicted of murder if he was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury) as substantially impaired his mental responsibility for his acts and omissions in doing or being a party to the killing.
+
+(2) On a charge of murder, it shall be for the defence to prove that the person charged is by virtue of this section not liable to be convicted of murder.
+
+(3) A person who but for this section would be liable, whether as principal or as accessory, to be convicted of murder shall be liable instead to be convicted of manslaughter.
+
+(4) The fact that one party to a killing is by virtue of this section not liable to be convicted of murder shall not affect the question whether the killing amounted to murder in the case of any other party to it.”
+
+9.  Defence counsel at the trial[5] did not raise any challenge to s.3 of the Ordinance and acknowledged that s.3(2) placed a legal burden on the appellant to establish, on a balance of probabilities, that she was suffering from diminished responsibility.[6]  The trial judge directed the jury to this effect and it was accepted in the Court of Appeal,[7] and before us, that this was consistent with the common law interpretation of s.3(2) of the Ordinance.
+
+10.  On this interpretation, s.3(2) requires a defendant to prove on a balance of probabilities that he was suffering from a relevant abnormality of mind at the time of the killing in order to be relieved of liability to be convicted of murder and instead be liable to be convicted of manslaughter. It is a partial defence because establishment of diminished responsibility does not result in a full acquittal but rather a conviction for the lesser offence of manslaughter. In practical terms, the difference is significant since a conviction for murder requires the imposition of a mandatory life sentence of imprisonment,[8] whereas manslaughter is punishable with the more flexible maximum sentence of life imprisonment[9] and therefore subject to the sentencing judge’s discretion as to the actual sentence to be imposed.
+
+11.  At the trial, both the prosecution and defence adduced expert evidence from psychiatrists in relation to the contention that the appellant was suffering from diminished responsibility at the time of the killings.
+
+12.  The defence had initially consulted a psychiatric expert who had produced a report in respect of the appellant but her trial counsel informed the judge that it was not disclosed as it might have compromised the appellant’s interests. The defence instead ultimately called Dr Wong Yee-him. Dr Wong had conducted a three-hour interview with the appellant on 12 May 2021 prior to preparing his report. He testified that the materials available to him suggested three possible diagnoses, namely (i) Major Depressive Disorder (“MDD”), (ii) schizophrenia, and (iii) methamphetamine intoxication. As regards (i), Dr Wong testified that if the appellant had MDD it would have been a mild form with mild or insignificant impairment in functioning that would be unlikely to have substantially impaired the appellant’s mental responsibility. As regards (ii), Dr Wong concluded the appellant did not suffer from schizophrenia. Instead, based on the appellant’s account, Dr Wong opined that she was suffering from methamphetamine intoxication at the time of the killings. However, the appellant’s use of methamphetamine was not induced by illness but was voluntary. Dr Wong concluded there was no sign the appellant had any impairment in orientation, concentration and memory before the shootings and did not think her ability to understand at the material time was impaired substantially by her stimulant intoxication.
+
+13.  The prosecution called Dr Lui Sing-heung, who was a visiting psychiatrist at Siu Lam Psychiatric Centre. He had examined the appellant on 3 July 2018 and thereafter every two to four weeks until 10 August 2020, in a total of over 70 interviews. Dr Lui concluded that the appellant was not suffering a disease of the mind and was in control of her mental faculties at the time.
+
+14.  In closing submissions, counsel for the appellant submitted that the jury should assess the totality of the evidence, not limited to the medical evidence, in determining whether the appellant was suffering from diminished responsibility at the time of the killings so that she should be found guilty of manslaughter rather than murder. By their verdict of guilty on the counts of murder, the jury was clearly not persuaded by this submission on behalf of the appellant.
+
+15.  It was only in the Court of Appeal that the appellant, then represented by Mr Simon Young, who also represented the appellant in this Court, raised a challenge to the legal burden being on a defendant to prove diminished responsibility.
+
+C.  The appellant’s contentions on this appeal
+
+16.  Mr Young maintains, on behalf of the appellant, as he did in the Court of Appeal, the contention that the legal burden on a defendant under s.3(2) of the Ordinance to prove diminished responsibility is unfair and infringes on the defendant’s right to a fair trial and the presumption of innocence.
+
+17.  The right to a fair trial and the presumption of innocence are, of course, fundamental aspects of the rule of law. The presumption of innocence is “deeply rooted in the common law”[10] and “is the basis of the central rule of the criminal law which requires the prosecution to prove the defendant’s guilt of the offence charged beyond reasonable doubt”.[11] Moreover, these rights are constitutionally guaranteed under the Basic Law and through the Hong Kong Bill of Rights (“HKBOR”).
+
+18.  The right to a fair trial and presumption of innocence are expressly recognised by Article 87(2) of the Basic Law of the Hong Kong Special Administration Region which provides as follows:
+
+“Anyone who is lawfully arrested shall have the right to a fair trial by the judicial organs without delay and shall be presumed innocent until convicted by the judicial organs.”
+
+19.  The right to a fair trial and the presumption of innocence are also expressly protected under the HKBOR by Articles 11(1)[12] and 10[13] respectively. Through these HKBOR rights, the like provisions of Article 14 of the International Covenant on Civil and Political Rights are given domestic effect and, further, under Article 39(2) of the Basic Law, they are given constitutional effect.[14]
+
+20.  On this appeal, Mr Young contends that s.3(2) of the Ordinance should be read down to impose instead an evidential burden only. That is to say, instead of requiring a defendant to prove diminished responsibility on a balance of probabilities, as a legal burden would require him to, it should be sufficient for the defendant to disclose and proffer evidence to support the issue of diminished responsibility, thereafter requiring the prosecution to disprove the issue to the criminal standard of proof, viz. beyond reasonable doubt.
+
+21.  Acceptance of the appellant’s argument would be novel. Other common law jurisdictions have considered and rejected it. No other jurisdiction has read down a similar statutory provision relating to diminished responsibility from imposing a legal burden on a defendant to an evidential burden. Nevertheless, it is Mr Young’s contention that, under Hong Kong law, a more rigorous approach is applied to the constitutional review of reverse burdens and that overseas authorities on this issue should not be followed in Hong Kong.
+
+22.  Accordingly, it is contended on behalf of the appellant that the question of law for which leave to appeal was granted should be answered in the affirmative. That is to say, s.3(2) of the Ordinance does unjustifiably derogate from the appellant’s right of presumption of innocence and should be read down as imposing only an evidential burden. It is contended that the appellant’s convictions for murder should consequently be quashed and a retrial on those counts ordered.
+
+D.  Is the presumption of innocence engaged?
+
+D.1  The applicable principles
+
+23.  A statutory provision which reverses the onus of proof and places it on the accused on a particular matter may derogate from the presumption of innocence. Determining whether it does derogate from the presumption involves two separate tasks: see Lee To Nei v HKSAR.[15]  The first task is to construe the impugned provision to determine whether it does reverse the onus. That question is often uncontroversial, as in the present appeal, since it is common ground[16] that s.3(2) of the Ordinance expressly requires the defendant to prove the conditions entitling him to be convicted of the lesser offence. The next task is to ascertain whether such reversal of the onus engages and derogates from the presumption of innocence. That is the main question raised in this appeal to which we now turn.
+
+24.  The presumption of innocence, given constitutional effect as noted above, reflects the fundamental common law rule that it is the prosecution which must prove the accused’s guilt of the offence charged beyond reasonable doubt.[17] This rule, described as the  “golden thread” of the criminal law, is subject to the exception relating to the defence of insanity and other statutory modifications and is the basis for the proposition that the accused is presumed innocent of the offence charged unless and until proven guilty.[18]
+
+25.  Since the presumption of innocence is directed at the offence charged, the constituent elements of the offence that one would normally expect the prosecution to prove to establish guilt naturally provide the logical starting point, and indeed focus, of an analysis of whether the presumption is engaged, and derogated from, in any given case. If the impugned rule relieves the prosecution of the usual burden of proving all the elements of the offence beyond reasonable doubt and places the onus instead on the defendant to disprove one or more of its constituent elements, it follows that the defendant is to that extent not presumed innocent but shoulders the burden of disproving guilt in relevant respects.
+
+26.  As noted in Lee To Nei v HKSAR,[19] the principles applicable when statutory reverse onus provisions encroach on the presumption of innocence are “well-established” and the leading decisions in this jurisdiction are HKSAR v Lam Kwong Wai,[20] HKSAR v Hung Chan Wa & Another[21] and HKSAR v Ng Po On.[22]  The authorities have treated the key question to be whether the impugned rule reverses the onus in relation to an essential element of the offence which one would normally have expected the prosecution to have to prove.
+
+27.  HKSAR v Lam Kwong Wai involved the offence of unlawful possession of an imitation firearm contrary to the Firearms and Ammunition Ordinance (Cap.238). The relevant section (s.20(3)) provided that the defendant “does not commit an offence …” if he “satisfies the magistrate that … (c) he was not in possession of the imitation firearm for a purpose dangerous to the public peace, or of committing an offence, or in circumstances likely to lead to: (i) the commission of an offence; or (ii) the possession of the imitation firearm for a purpose dangerous to the public peace, by himself or any other person.”
+
+28.  Sir Anthony Mason NPJ noted that the Court of Appeal had found the presumption engaged in concluding that “the legislature intended to criminalize more than mere possession, namely possession plus criminal intent, and that the burden s.20(3)(c) imposes upon defendants is a burden which goes to an essential element of the offence.  In other words, the Court considered that blameworthy conduct, being possession for an unlawful purpose as identified by s.20(3)(c) was an essential element of the conduct to be penalized.”[23] His Lordship endorsed that view and concluded that the impugned section derogated from the presumption, holding that “… the substance of the offence is being in possession of the imitation firearm for an unlawful purpose, a reverse onus being placed on the defendant in relation to the critical element of the offence.”[24]
+
+29.  HKSAR v Hung Chan Wa & Another was a dangerous drugs case involving a statutory presumption, in s.47 of the Dangerous Drugs Ordinance (Cap.134), of knowledge of the presence of drugs in a container in the defendant’s possession and of his or her knowledge of the nature of the drugs. It was held that there was a derogation from the presumption of innocence, Sir Anthony Mason NPJ stating that “the reverse onus under s.47(2) relates to a critical aspect of the offence, involving what is blameworthy conduct on the part of the defendant, namely his knowledge that he is in possession of a dangerous drug.”[25]
+
+30.  As already noted, the key question is whether the impugned provision reverses the onus in respect of an essential element of the offence. What is an essential element of an offence in this context has been variously described in the authorities. The presumption has been held to be engaged where the reverse onus relates to an element of the offence which involves blameworthy conduct reflecting the substance of the offence; or which represents a critical aspect of the offence, involving the blameworthy conduct criminalised; or which places the burden on the defence to disprove an ultimate fact which is necessary to the determination of his guilt or innocence.[26]  In substance, these are all references to an essential ingredient of the offence.
+
+31.  Whether the reverse onus relates to such an aspect of the offence is a matter of construction and room may exist in some cases for arguing whether the element in question relates to establishing prima facie guilt normally required to be proved by the prosecution (thereby engaging the presumption of innocence) or to a subsequent matter of defence (thereby not engaging the presumption). As Lord Hughes observed in R v Foye:
+
+“Some reverse onus provisions very clearly require a defendant to prove that he has not committed the component elements of the offence. … Other reverse onus provisions are clearly designed to provide exceptional defences or excuses even where the elements of the offence are made out.”[27]
+
+32.  In HKSAR v Ng Po On, Ribeiro PJ pointed out that since the subject-matter of the reverse onus may be variously expressed, its linguistic characterisation matters less than an evaluation of its substantive effect, derogation from the presumption being a matter of substance and not of form:
+
+“… in determining whether an impugned provision has this effect, the Court looks at the substance and reality of the enactment rather than its form. Thus, it does not matter whether the ultimate fact which the defendant is required to prove involves an element which may be characterized as an essential ingredient of the offence or a matter of defence. Its substantive effect is what counts: does the enactment expose the defendant to a conviction even though there may be a reasonable doubt regarding some matter determinative of his criminal liability?”[28]
+
+33.  A defendant is exposed to such risk in cases where the prosecution is relieved of proving the relevant elements of the offence beyond reasonable doubt. In other words, it is a risk which arises in relation to the burden of proving an element of the offence beyond reasonable doubt which, because of its centrality to the criminality targeted, one would otherwise have expected to rest on the prosecution.
+
+34.  This approach was applied in Lee To Nei v HKSAR, where the subject-matter of the reverse onus reflected the “gravamen of the offence” and so gave rise to the objectionable risk referred to above. In that case, Ribeiro PJ explained:
+
+“The gravamen of the offence is that the accused possesses the offending goods knowing, or having reason to suspect that they bear forged trade marks or in circumstances where, using reasonable diligence, he could have ascertained that the marks are false.”[29]
+
+35.  The essence of the criminal conduct targeted was thus not merely possession of goods bearing forged trademarks, but possessing them with one of the above-mentioned mental states. Where, as a matter of construction, the onus was reversed so as to require the defendant to negate all three conditions on the balance of probabilities, the prosecution was relieved of its expected usual burden and the consequence was prima facie objectionable. As Ribeiro PJ further stated:
+
+“If at the end of the day, the court is not satisfied that the accused has successfully negated all three conditions on the balance of probabilities, the defence fails and (assuming that the prosecution has proved the necessary possession) conviction follows. This is so even if the court accepts that it may be (but not that it probably is) the case that all three conditions are absent. Thus, conviction would follow even if a reasonable doubt exists as to whether the accused knew, had reason to suspect or could with reasonable diligence have ascertained that the marks were forged. The possibility of a conviction in such circumstances is the hallmark of a derogation from the presumption of innocence.”[30]
+
+D.2  Applying the principles to s.3(2) of the Ordinance
+
+36.  Turning to s.3(2) of the Ordinance, this provides, as already noted above, that a defendant who seeks to rely on the partial defence of diminished responsibility has a persuasive burden to prove that he or she was suffering from an abnormality of mind, arising out of the specified causes, with consequent impairment of mental responsibility (or what we have referred to elsewhere in this judgment, for brevity, as a relevant abnormality of the mind).
+
+37.  It is important to note that this is a defence only available on a charge of murder and, pursuant to s.3(3) of the Ordinance, is applicable to “[a] person who but for this section would be liable, whether as principal or as accessory, to be convicted of murder” (emphasis added), reducing his or her liability to a conviction of manslaughter.
+
+38.  In our view, applying the principles identified above, the s.3(2) onus does not engage or derogate from the presumption of innocence. A defendant who seeks to raise diminished responsibility is ex hypothesi liable to be convicted of murder if that defence fails. That is to say, the prosecution will already have done enough to prove the elements of murder beyond reasonable doubt. The defendant is not therefore someone presumed innocent at the point of invoking the partial defence. He or she will already have had the benefit of the presumption of innocence requiring the prosecution to prove the actus reus and mens rea of murder before seeking to establish the elements of the diminished responsibility defence.
+
+39.  This conclusion is supported by decisions in other jurisdictions which have considered the same issue. Thus, in R v Lambert, Ali and Jordan, Lord Woolf CJ stated:
+
+“[Counsel] on behalf of the defendants bravely contended that in some way the alternative provided for by section 2 of the 1957 Act becomes an ingredient of the offence at common law of murder. Neither as a matter of form or substance is this correct. If the defendant does not seek to rely on the section he will not be required to prove anything.”[31]
+
+40.  In R v Foye, Lord Hughes held:
+
+“The question of diminished responsibility does not arise at all until the Crown has made the jury sure that the defendant killed unlawfully and had the requisite intent. … Accordingly, the better view is that s.2(2) does not impact upon the presumption of innocence at all.”[32]
+
+41.  In R v Wilcocks, Hallett LJ agreed with Lord Hughes and similarly stated:
+
+“We are satisfied, as the court in R v Foye was satisfied, that there is nothing arbitrary or unreasonable about the legal burden (to the civil standard of proof) being placed on a defendant who wishes to assert the partial defence of diminished responsibility. He is not required in any way to prove the elements of the offence or murder.”[33]
+
+42.  The Supreme Court of Ireland considered this issue in The People (Director of Public Prosecutions) v Heffernan and concluded that the onus placed on a defendant invoking diminished responsibility did not engage the presumption of innocence. [34] O’Malley J, with whom the other members of the court concurred, stated:
+
+“The successful raising of the defence of diminished responsibility does not depend on negation of any element of the prosecution case, nor on proving any essential aspect of the offence. The long-established elements of murder remain as they were, and are for the prosecution to prove beyond reasonable doubt. … [Diminished responsibility] … creates a new, mitigatory defence that reduces the consequences of a proven offence. It is therefore incorrect to suggest that the imposition of a burden of proof could require an accused to prove either the actus reus or the mens rea, since these are matters that must be proven by the prosecution beyond reasonable doubt before the question of diminished responsibility can arise.”[35]
+
+43.  The historical origin of diminished responsibility is summarised in Lord Hughes’ judgment in R v Foye:[36] it was originally a doctrine adopted by Scottish common law as a means of avoiding, in an appropriate case, the mandatory death sentence for murder and was imported into English law by the Homicide Act 1957 for the same reason. Both Scottish common law and the Homicide Act 1957 in England placed a legal burden on the defendant to establish the partial defence on a balance of probabilities. The historical origin of the plea of diminished responsibility reinforces the conclusion that the partial defence does not affect the constituent elements of murder but instead is an extenuating mitigating circumstance that operates to reduce the otherwise mandatory sentence for murder (previously death, now life imprisonment) to a discretionary sentence with a maximum of life imprisonment.
+
+44.  On the above analysis, in agreement with the Court of Appeal, we would hold that s.3(2) of the Ordinance does not engage, or derogate from, the presumption of innocence. However, the appellant challenges this conclusion and invites this Court to hold otherwise. We therefore now turn to consider that argument.
+
+D.3  The appellant’s argument that s.3(2) engages the presumption
+
+45.  It was contended, on behalf of the appellant, that in holding that the presumption of innocence was not engaged the Court of Appeal erred in adopting an approach that was at variance with this Court’s decision in HKSAR v Ng Po On. Mr Young prayed in aid the passage in Ribeiro PJ’s judgment in that case at [39] which reads “… it does not matter whether the ultimate fact which the defendant is require to prove involves an element which may be characterized as an essential ingredient of the offence or a matter of defence” (emphasis added).
+
+46.  Mr Young noted that Ribeiro PJ’s judgment went on (at [40]), following that passage, to cite R v Whyte, a decision of the Supreme Court of Canada, where Dickson CJC stated:
+
+“The short answer to this argument is that the distinction between elements of the offence and other aspects of the charge is irrelevant to the s.11(d) inquiry. The real concern is not whether the accused must disprove an element or prove an excuse, but that an accused may be convicted while a reasonable doubt exists. When that possibility exists, there is a breach of the presumption of innocence.”[37]
+
+47.  This, it was contended, was the case here. A defendant might fail to discharge the legal burden of establishing a relevant abnormality of mind to succeed in raising the defence of diminished responsibility yet might have raised a reasonable doubt on the issue. This therefore exposed him to the risk of conviction even though the prosecution had not discharged its burden of proof beyond reasonable doubt.
+
+48.  As already analysed above, however, the partial defence of diminished responsibility does not in any way reduce the burden on the prosecution to prove the elements of the offence of murder. It is only when a defendant is prima facie guilty of murder that the plea of diminished responsibility becomes relevant. If the prosecution has not already discharged the onus of proving the actus reus and mens rea of murder, the defendant will be entitled to an outright acquittal on the charge of murder and the plea of diminished responsibility will have no further relevance.
+
+49.  In further support of his argument, Mr Young drew attention to the decision of G Lam J (as he then was) in Competition Commission v W Hing Construction Co Ltd (No.2).[38]  That case involved consideration of the burden cast on a defendant to establish the efficiency defence in section 1 of Schedule 1 to the Competition Ordinance (Cap.619).
+
+50.  G Lam J held that, applying this Court’s decision in HKSAR v Ng Po On, this did engage the presumption of innocence. His Lordship considered that the approach in R v Foye and other earlier Hong Kong cases ran counter to the approach that has been adopted by this Court in subsequent cases, in particular citing [39] of Ribeiro PJ’s judgment in HKSAR v Ng Po On, viz. “… it does not matter whether the ultimate fact which the defendant is require to prove involves an element which may be characterized as an essential ingredient of the offence or a matter of defence.”  This led to G Lam J’s conclusion that:
+
+“On this basis, it matters not how one characterises the matter that the defendant is required to prove. There is a derogation from the presumption of innocence whether the defendant has to prove an essential component of the charge or an element of what one would normally characterise as a defence.”[39]
+
+51.  We do not, with respect, agree with the view expressed by G Lam J that the approach in HKSAR v Ng Po On represented any change in approach from the earlier decisions of HKSAR v Lam Kwong Wai or HKSAR v Hung Chan Wa as regards the presumption of innocence only being engaged where the reverse onus related to an essential ingredient of the offence. For our part, we do not discern any intention in the judgment of Ribeiro PJ to depart from the earlier cases. It is true that at [39] in his judgment in HKSAR v Ng Po On, Ribeiro PJ referred to “an essential ingredient of the offence or a matter of defence” but we do not think he thereby intended to distinguish between the two, so that proof of a matter of defence that was not an ingredient of the offence would also necessarily engage the presumption of innocence. His Lordship obviously had in mind the type of statutory defence like the one found in HKSAR v Lam Kwong Wai, an authority he heavily relied on for his discussion of the relevant principles, which cast an essential ingredient of the offence as a defence issue, when he referred to matters of defence in [39]. As we have already indicated at [32] to [35], what matters is the substantive effect of the reverse onus rather than its linguistic characterisation.
+
+52.  That this is the case is supported by Ribeiro PJ’s citation (at [41]), immediately after his reference to R v Whyte, to the speech of Lord Steyn in R v Lambert where he stated:
+
+“The distinction between constituent elements of the crime and defensive issues will sometimes be unprincipled and arbitrary. After all, it is sometimes simply a matter of which drafting technique is adopted: a true constituent element can be removed from the definition of the crime and cast as a defensive issue whereas any definition of an offence can be reformulated so as to include all possible defences within it. It is necessary to concentrate not on technicalities and niceties of language but rather on matters of substance.”[40]
+
+53.  It is also supported by the fact that, in the subsequent case of Lee To Nei v HKSAR, Ribeiro PJ referred to the applicable principles being well-established in the trilogy of cases referred to.[41] There is no suggestion that his Lordship intended to extend the test for determining engagement of the presumption of innocence to include matters of defence which did not go to the substance of the defendant’s guilt or innocence of the underlying offence charged, as is implicit in the appellant’s contention before us.
+
+54.  Ultimately, therefore, the true test as to whether a burden placed on a defendant in relation to some matter engages the presumption of innocence is one of substance rather than form. In other words, it does not matter whether the essential ingredient is contained in the definition of the offence or is cast as a defence issue. It is where – but only where – the reverse burden provision requires the defendant to prove an essential ingredient of the offence with which he is charged, relieving the prosecution of the burden of proving that ingredient beyond reasonable doubt, that the presumption of innocence is engaged.
+
+55.  Here, for the reasons already explained, proof of a relevant abnormality of mind is not an ingredient of the offence of murder. The burden placed on a defendant to establish the defence of diminished responsibility only arises when the prosecution has satisfied the burden of proving beyond reasonable doubt that the defendant is otherwise guilty of murder.
+
+56.  We would accordingly reject the appellant’s argument that the presumption of innocence is engaged by the operation of s.3(2) of the Ordinance.
+
+E.  If engaged, s.3(2) proportionate and therefore justified
+
+57.  Having concluded that the presumption of innocence is not engaged (Section D above), it is strictly unnecessary to consider whether, on a contrary assumption, s.3(2) of the Ordinance is justified. We shall, however, proceed to address this issue briefly as it was fully argued on this appeal.
+
+58.  The test for justification is not in dispute, being the four-step proportionality analysis set out in Hysan Development Co Ltd v Town Planning Board.[42] This asks, first, whether the restriction or limitation of the relevant rights pursues a legitimate aim; secondly, whether that restriction or limitation is rationally connected to that legitimate aim; thirdly, whether the restriction is proportionate in the sense of being no more than necessary to accomplish that legitimate aim; and, finally, whether the provision strikes a reasonable balance between the societal benefits of the encroachment and the inroads made to the constitutionally protected rights of the individual.
+
+59.  As to the first step of the analysis, the Court of Appeal held that “s.3(2) pursues a legitimate aim by placing on an accused the burden to prove he or she suffered from diminished responsibility in order to reduce a conviction for murder to manslaughter”.[43]  In the Court of Appeal’s judgment refusing to certify a question of law for this Court, it was further explained that “the aim of the section was to prove that the accused was suffering from diminished responsibility in order to reduce a conviction for murder to manslaughter”.[44]
+
+60.  Neither the appellant nor the respondent advanced either of these particular formulations as the legitimate aim of the provision. This is not surprising since, with respect, the way the Court of Appeal expressed the legitimate aim of s.3(2) of the Ordinance may be read as constituting a circular justification for the restriction in question. It was understood that way by the appellant, who contended that it is erroneous in taking the means of achieving the aim as the aim itself.[45] As such, the legitimate aim does not permit a meaningful proportionality analysis to be performed, since by definition expressing the legitimate aim in this way will necessarily satisfy the rationality and proportionality (i.e. the second and third) steps of the four-step test.
+
+61.  In our view, a better formulation of the legitimate aim of s.3(2) of the Ordinance, and one which we consider reflects the legislative intent of the provision, is that its objective in placing a legal burden on the accused to establish that he was suffering from a relevant abnormality of mind is to alleviate the prosecution from an unworkable burden arising from the practical difficulties of proving a matter so personal to the accused.
+
+62.  So stating the legitimate aim of s.3(2) of the Ordinance is consistent with the way in which it has been expressed in other jurisdictions.
+
+63.  Thus, in R v Foye,[46] Lord Hughes noted at [35] that “a simple but fundamental reason why the reverse onus is essential to the working of the law of diminished responsibility” is that “the issue depends on the inner workings of the defendant’s mind at the time of the offence”. He held:
+
+“It would be a practical impossibility in many cases for the Crown to disprove (beyond reasonable doubt) an assertion that he was insane or suffering from diminished responsibility. Of course, if there were a bare assertion, or one supported only by poor evidence, it would be open to the Crown to invite the jury to reject it, but, if the onus lies on the Crown to disprove the condition beyond reasonable doubt, this would not be enough. It would have to adduce evidence of the absence of abnormality in the defendant’s mental state. But the defendant is under no obligation to submit to a medical examination and may well refuse. If he does formally submit, he may simply fail to co-operate. He may refuse, lawfully, to make available past medical or other records which are necessary to a report on his condition.”
+
+64.  This legitimate aim as the basis of justification of the reverse onus in relation to diminished responsibility was also identified by:
+
+(1)  Lord Woolf in R v Lambert, Ali and Jordan; [47]
+
+(2)  the Northern Ireland Court of Appeal in R v McQuade;[48] and
+
+(3)  the Supreme Court of Ireland in The People (Director of Public Prosecutions) v Heffernan.[49]
+
+65.  It is also to be noted that in R v Chaulk,[50] the majority of the court considered the placing on the accused of the statutory burden to establish a defence of insanity, although infringing the presumption of innocence, nevertheless pursued a legitimate aim of relieving the prosecution of “the tremendous difficulty of proving an accused’s sanity in order to secure a conviction” which was also described as “an unworkable burden”.[51]
+
+66.  As the Supreme Court of Ireland held, in Heffernan:
+
+“… the policy factors that justify the same onus of proof as in the case of insanity are also clear. The same difficulties that the prosecution would face in proving beyond reasonable doubt that an accused is sane would arise in an attempt to prove that the responsibility of the accused was not diminished by reason of mental disorder. If the prosecution bore such a burden it would have to prove this positively – inviting the jury to reject dubious evidence from the defence would not suffice. The problem stems from the intrinsically subjective nature of the defence; from the fact that mental disorders and their effects are not necessarily the subject of ordinary life experience or knowledge and will generally require some level of expert assistance to the jury or court; and from the fact that an accused cannot be compelled to participate in any form of medical examination by the prosecution. For those reasons the defence of insanity has always imposed a burden of proof on the accused. The same considerations arise with diminished responsibility.”[52]
+
+67.  We would add that impracticality of proof of an abnormality of mind is acknowledged by Professor Andrew Ashworth QC in his commentary on R v Foye as being justification for making an exception to the presumption of innocence in relation to diminished responsibility.[53]
+
+68.  In contending that an evidential burden would be sufficient to achieve the suggested legitimate aim of s.3(2) of the Ordinance, Mr Young identified that aim as being “to ensure that the Court has a sufficient body of evidence for the proper and just determination of the defence of diminished responsibility”.[54] We do not consider this formulation of the aim is sufficient. The purpose of s.3(2) is not simply to ensure evidence is placed before the trial court but to redress the practical difficulties faced by the prosecution if required to disprove an accused’s alleged abnormality of the mind beyond reasonable doubt.
+
+69.  As regards the second step of the proportionality analysis, the appellant accepted there was a rational connection between the legitimate aim of s.3(2) of the Ordinance and the restriction imposed, albeit the appellant’s legitimate aim was expressed slightly differently. We do not think that difference impacts on the question of rational connection, which is clearly satisfied here.
+
+70.  As to the third and fourth steps of the proportionality analysis, we are satisfied that placing a legal burden on the accused to prove a relevant abnormality of the mind is proportionate and strikes a fair balance between the individual’s right to be presumed innocent and the societal benefits of the restriction. As noted above, the prosecution would bear an unworkable burden were it required to disprove diminished responsibility beyond reasonable doubt. In contrast, as other courts have observed,[55] and experience shows, there is no inherent difficulty in a defendant establishing the relevant abnormality of mind through appropriate expert evidence.
+
+71.  The factors identified by the Supreme Court of Ireland in Heffernan (see above) are all applicable in this context and support the conclusion that the restriction in the form of a legal rather than evidential burden on the accused is proportionate and fair. These factors are: the intrinsically subjective nature of the defence; the fact mental disorders and their effects are not part of ordinary life experience as would be understood by a jury; and the fact an accused cannot be compelled to be subject to medical examination by the prosecution.[56] To this list, one can add the disparity in the respective disclosure obligations on the prosecution and defence. Unlike the prosecution, the defence is not obliged to disclose medical reports that will not be used at trial. This is illustrated in the present case, where, as already mentioned above, the appellant had consulted a previous medical expert who produced a report which was not disclosed because, as her trial counsel indicated, that report might have compromised the appellant’s interests.
+
+72.  We would add that our conclusion on proportionality is further supported by the fact that both the Law Commission of England and Wales and the Law Commission of Scotland have recommended the retention of the imposition of a legal burden on an accused to establish the defence of diminished responsibility.[57] In Scotland, this led to the enactment of s.168 of the Criminal Justice and Licensing (Scotland) Act 2010 (inserting s.51B(4) of the Criminal Procedure (Scotland) Act 1995),[58] enshrining the previous common law position.
+
+F.  Answer to the question of law posed
+
+73.  For the reasons set out above, the answer to the question of law posed in this appeal is no.
+
+G.  Disposition
+
+74.  We would accordingly dismiss the appellant’s appeal.
+
+Mr Justice Ribeiro PJ:
+
+75.  I agree with the joint judgment of the Chief Justice and Mr Justice Fok PJ.
+
+Mr Justice Lam PJ:
+
+76.  I agree with the joint judgment of the Chief Justice and Mr Justice Fok PJ.
+
+Mr Justice Gummow NPJ:
+
+77.  I agree with the joint judgment of the Chief Justice and Mr Justice Fok PJ.
+
+Chief Justice Cheung:
+
+78.  The appeal is accordingly unanimously dismissed.
+
+ 
+
+ 
+
+(Andrew Cheung)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+ 
+
+(M H Lam)
+Permanent Judge	(William Gummow)
+Non-Permanent Judge
+ 
+
+Mr Simon NM Young and Mr Anson Wong Yu Yat, instructed by GT Lawyers, assigned by the Director of Legal Aid, for the Appellant
+
+Mr William Tam SC, DDPP and Mr Michael Ma SPP, of the Department of Justice, for the Respondent
+
+
+[1]  Contrary to the common law and punishable under s.2 of the Offences against the Person Ordinance (Cap.212).
+
+[2]  Contrary to s.17(b) of the Offences against the Person Ordinance (Cap.212).
+
+[3]  [2023] HKLRD 496 (“CA Judgment”).
+
+[4]  [2023] HKCFA 45, FAMC 38/2023, 18 December 2023.
+
+[5]  Not Mr Simon Young or Mr Anson Wong Yu Yat, who appeared for the appellant in this Court.
+
+[6]  CA Judgment at [30].
+
+[7]  Ibid. at [26].
+
+[8]  Offences against the Person Ordinance (Cap.212) s.2.
+
+[9]  Ibid. s.7.
+
+[10]  Yeung Chung Ming v Commissioner of Police (2008) 11 HKCFAR 513 at [19].
+
+[11]  HKSAR v Lam Kwong Wai & Another (2006) 9 HKCFAR 574 at [23].
+
+[12]  Art.11(1) provides: “Everyone charged with a criminal offence shall have the right to be presumed innocent until proved guilty according to law.”
+
+[13]  Art.10 provides: “In the determination of any criminal charge against him … everyone shall be entitled to a fair … hearing.”
+
+[14]  Comilang Milagros Tecson v Director of Immigration (2019) 22 HKCFAR 59 at [24].
+
+[15]  (2012) 15 HKCFAR 162 at [15] and [16].
+
+[16]  Case for the Appellant at [26]; Respondent’s Printed Case at [13].
+
+[17]  HKSAR v Lam Kwong Wai (2006) 9 HKCFAR 574 at [23], citing Woolmington v DPP [1935] AC 462 per Viscount Sankey LC at 481.
+
+[18]  Woolmington v DPP (supra); R v Lambert, Ali and Jordan [2002] QB 1112 per Lord Woolf CJ at [8]-[9].
+
+[19]  (2012) 15 HKCFAR 162 at [13].
+
+[20]  (2006) 9 HKCFAR 574.
+
+[21]  (2006) 9 HKCFAR 614.
+
+[22]  (2008) 11 HKCFAR 91.
+
+[23]  Ibid. at [15] (emphasis added).
+
+[24]  Ibid. at [41] (emphasis added).
+
+[25]  (2006) 9 HKCFAR 614 at [74] (emphasis added).
+
+[26]  HKSAR v Ng Po On (2008) 11 HKCFAR 91 at [38].
+
+[27]  (2013) 177 JP 449 at [29].
+
+[28]  (2008) 11 HKCFAR 91 at [39] (footnote omitted).
+
+[29]  (2012) 15 HKCFAR 162 at [18].
+
+[30]  Ibid. at [19].
+
+[31]  [2002] QB 1112 at [17].
+
+[32]  (2013) 177 JP 449 at [31]-[32].
+
+[33]  [2017] 4 WLR 39 at [36].
+
+[34]  [2017] 1 I.R. 82 at [89].
+
+[35]  Ibid. at [88].
+
+[36]  (2013) 177 JP 449 at [16].
+
+[37]  (1988) 51 DLR (4th) 481 at 493.
+
+[38]  [2019] 3 HKLRD 46.
+
+[39]  Ibid. at [185].
+
+[40]  [2002] 2 AC 545 at [35].
+
+[41]  (2012) 15 HKCFAR 162 at [13].
+
+[42]  (2016) 19 HKCFAR 372 at [52]-[53] and [134]-[135].
+
+[43]  CA Judgment at [78].
+
+[44]  [2023] HKCA 927, CACC 153/2021, Judgment dated 30 August 2023 at [18].
+
+[45]  Case for the Appellant at [44].
+
+[46]  (2013) 177 JP 449.
+
+[47]  [2002] QB 1112 at [18].
+
+[48]  [2005] NI 331 per Sir Brian Kerr LCJ (as Lord Kerr of Tonaghmore then was) at [28].
+
+[49]  [2017] 1 I.R. 82 at [90].
+
+[50]  [1990] 3 SCR 1303.
+
+[51]  Ibid. per Lamer CJ at 1337 and 1345.
+
+[52]  [2017] 1 I.R. 82 at [90].
+
+[53]  R v Foye (Lee Robert) [2013] Crim LR 839 at 843-844.
+
+[54]  Case for the Appellant at [42].
+
+[55]  See the minority judgment of McLachlin J (as McLachlin CJ then was) in R v Chaulk [1990] 3 SCR 1303 at 1405.
+
+[56]  See also R v Foye (2013) 177 JP 449 at [35] and R v Lambert, Ali and Jordan [2002] QB 1112 at [18].
+
+[57]  See the discussion in R v Foye (2013) 177 JP 449 at [40] in relation to the Law Commission of England and Wales and at [37] in relation to the Law Commission of Scotland.
+
+[58]  Scot LC 195 at [5.17]-[5.28].
+
+ 

@@ -1,0 +1,177 @@
+FAMV No. 29 of 2017
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 29 OF 2017 (CIVIL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL
+
+FROM CACV NO. 114 OF 2016)
+
+____________________
+
+BETWEEN
+
+ 	YANFULL INVESTMENTS LIMITED
+Plaintiff
+(Applicant)
+ 	and	
+ 	DATUK OOI KEE LIANG
+Defendant
+(Respondent)
+____________________
+
+Appeal Committee: Mr Justice Ribeiro PJ, Mr Justice Tang PJ and Mr Justice Fok PJ
+Date of Hearing and Determination: 26 October 2017
+Date of Reasons for Determination: 31 October 2017
+_____________________________________
+
+REASONS FOR DETERMINATION
+
+_____________________________________
+
+Mr Justice Ribeiro PJ:
+
+1.  At the hearing, we dismissed this application for leave to appeal with costs, reserving our reasons which we now provide.
+
+A. The parties
+
+2.  The applicant Yanfull is a Hong Kong company owned by Golden Plus Holdings Berhad (“Golden Plus”), a listed Malaysian company.[1] Yanfull in turn wholly owned Yanfull (Shanghai) Co Ltd (“Yanfull Shanghai”) which was, with a Hong Kong company called China Idea Development Ltd (“CIDL”), engaged in a property development in Shanghai.
+
+3.  Pembangunan Qualicare Sdn Bhd (“PQSB”) and Indian Corridor Sdn Bhd (“ICSB”) were Malaysian companies owned and controlled by Datuk Ooi Kee Liang (“Ooi”) who acted as CEO of each of them. Between August and December 2007, Ooi caused them together to acquire a total of 19.745% of the shares in Golden Plus, 100% funded by loans from Kuwait Finance House (Malaysia) Bhd (“Kuwait Finance”) which was granted a debenture over those shares.  ICSB and PQSB had no other assets.
+
+B. Yanfull’s case against Ooi
+
+4.  Yanfull pleaded that, aiming to seize control of Golden Plus, Ooi caused ICSB and PQSB to requisition an EGM to replace the existing directors with his nominees. To discredit the existing board and thus in the hope of attracting support for his EGM motion, he caused ICSB and PQSB to launch bogus derivative actions purportedly on behalf of Golden Plus both in Malaysia and in Hong Kong, accusing Yanfull and CIDL of misappropriating Golden Plus assets.  They obtained ex parte Mareva injunctions freezing very substantial monies in the hands of Yanfull and its subsidiary.  The Hong Kong injunctions were granted on 31 December 2007 and the writ was issued on 2 January 2008.  Yanfull alleges that Ooi never meant those actions to go to trial and intended, once control of the Golden Plus board had been seized, to discontinue them.  Control was not achieved since the EGM notice was held by the Malaysian court to be invalid and a later resolution was voted down.
+
+5.  Yanfull alleges that when obtaining the injunctions, Ooi offered undertakings in damages from ICSB and PQSB, falsely representing that they were substantial companies able to honour those undertakings, well knowing that they had no assets, their Golden Plus shares having been fully mortgaged to Kuwait Finance.  On 31 January 2008, the day before ICSB and PQSB were due to provide HK$8 million by way of fortification ordered by Reyes J, they served notice of discontinuation of the actions.  On 4 February 2008, DHCJ Carlson discharged the Marevas, ordered an inquiry as to damages and granted ICSB and PQSB leave to discontinue the actions.
+
+6.  On 20 April 2009, the first day of the inquiry as to damages, ICSB and PQSB agreed to settle the claim, resulting in a Consent Order that they pay Yanfull HK$35m damages plus HK$5m costs.  However, no payment was ever made.
+
+7.  On 28 June 2010 and 4 April 2013 respectively, ICSB and PQSB were wound up in proceedings which Yanfull says were collusively arranged by Ooi.  Yanfull filed a proof in ICSB’s winding-up, but Kuwait Finance intervened as a secured creditor owed debts far exceeding the value of ICSB’s assets.
+
+8.  On 30 March 2015, Yanfull issued a writ in Hong Kong alleging that, in orchestrating the events described above, Ooi had committed the torts of (i) malicious prosecution; (ii) abuse of civil process; and (iii) deceit.  On 15 May 2015, Yanfull obtained leave to serve a concurrent writ on Ooi in Malaysia.
+
+C. The decisions below
+
+9.  L Chan J[2] held that the deceit claim did not raise a serious question to be tried and that the malicious prosecution and abuse of civil process claims were time-barred.  He set aside service and dismissed the action.  He said that he would otherwise have stayed the action on the basis of forum non conveniens.  The Court of Appeal[3]  upheld the Judge and dismissed the appeal.  Leave to appeal to this Court was refused.
+
+D. This leave application
+
+10.  Yanfull seeks leave to appeal on the following questions said to be of the requisite importance:
+
+(1) Within an HKSAR Action based on deceit:
+
+(a) is the fraudulent misrepresentation ingredient incapable of taking the form of an undertaking in damages disingenuously provided by a foreign plaintiff in order to obtain a world-wide interlocutory injunction against a resident defendant by reasons of either the “special status” of such an undertaking (as an undertaking to the court only) or of the “witness immunity” rule?
+
+(b) Is the Court of First Instance entitled, of its own motion and without notice to the plaintiff, to dismiss an Action upon the Court’s perception, formed independently of the plaintiff’s pleaded case, of the probable lack of detrimental reliance by the plaintiff?
+
+(2) Within HKSAR civil proceedings which give rise to causes of action based upon the torts of abuse of civil proceedings and/or malicious prosecution of civil proceedings:
+
+(a) are antecedent proceedings brought by a foreign plaintiff against a resident defendant conclusively finally determined in favour of the defendant by an order that there be an enquiry as to whether or not an abusively-obtained interlocutory injunction has caused the defendant to incur damages?
+
+(b) Within a subsequent Action invoking those causes of action in respect of the conduct of the antecedent Action, can the HKSAR Court be forum non conveniens?
+
+Leave is also sought on the “or otherwise” basis.
+
+D.1 Question 1(a): Deceit
+
+11.  Yanfull relies on two sets of misrepresentations referred to as the “Undertakings Representations” and the “Consent Judgment Representations” made by Ooi, knowing them to be false. 
+
+D.1a The Undertakings Representations
+
+12.  By the Undertakings Representations, Ooi is alleged to have asserted that ICSB “were companies of financial substance, with substantial unencumbered assets which, if required, could be made available to fortify their undertakings in damages or to pay any damages pursuant to their undertakings in damages”.[4] Yanfull pleads that DHCJ To relied on those misrepresentations in granting the Mareva injunction and accepting the undertakings in damages[5]; and that Yanfull itself relied on them in complying with the injunction and suspending the Yanfull Shanghai operations.[6]
+
+13.  L Chan J held that this was not reasonably arguable: the representations were made to the court and not to Yanfull and, in any event, it was clear that Yanfull did not rely on them regarding the financial standing of ICSB and PQSB.[7] He pointed out that at a hearing on 18 January 2008:
+
+“Yanfull produced the share charges executed by IC and Qualicare to show that these representations were false. It also sought and was given an order of fortification of undertaking by Reyes J which required IC and Qualicare to pay HK$8 million into court on 31 January 2008 to fortify their undertakings.”[8]
+
+14.  The Court of Appeal affirmed the Judge, endorsing the view that the undertakings were given to the Court and not to Yanfull, and applying Wingames Investments Ltd v Mascot Land (No 2)[9] where Fok JA held that it is well established that an undertaking in damages does not found any cause of action.
+
+15.  We do not think it reasonably arguable that the Judge and the Court of Appeal were wrong.  As the authorities cited by Fok JA show, the cross-undertaking as to damages is given to the court, not to any opposite party and no action, set-off or counterclaim can be founded upon it. Where a party is injured by an injunction which should not have been granted, the only remedy is enforcement of the undertaking which is subject to the court’s discretion.  That is of course what Yanfull actually did, leading to the Consent Judgment.  In any event, Mr Barlow SC[10] had no answer to the fact that there had plainly been no reliance on the alleged Undertakings Representations.
+
+D.1b The Consent Judgment Representations
+
+16.  Yanfull pleads that the Consent Judgment Representations were made by Ooi in causing ICSB and PQSB to enter into the settlement agreement incorporated in the Consent Judgment dated 20 April 2009. He thereby represented that ICSB and PQSB “could and would perform their joint and several contracts to pay the agreed sum of HK$40m to Yanfull” when he well knew that ICSB and PQSB could not pay.[11] The loss complained of is constituted by ICSB and PQSB defaulting on their contract.
+
+17.  The Judge held that Yanfull’s failure to recover from ICSB and PQSB was not due to reliance on the Consent Judgment Representations but to the fact that ICSB and PQSB were impecunious.  If there had been no reliance and no settlement agreement so that the inquiry as to damages proceeded to a judgment, there would still have been no recovery.[12]  The Court of Appeal agreed.[13] We do not think that it is reasonably arguable that that was wrong. 
+
+D.2 Question 1(b)
+
+18.  This involves the complaint that the action was dismissed without any application for dismissal and without prior notice to Yanfull (CA§§30, 35-37).   The Court of Appeal held that the limitation issue was clearly raised and that Yanfull had had an adequate opportunity to respond.[14]  Upon the Judge being satisfied that because of the time-bar there was no serious question to be tried, he could of his own motion strike out the suit as an abuse of process.[15]  We agree.  This in any event raises a fact-specific question that does not qualify for leave to appeal.
+
+D.3 Question 2(a)
+
+19.  This seeks to challenge the time-bar ruling by calling into question the time when the causes of action for malicious prosecution and abuse of civil process accrued and the period of limitation started running. 
+
+20.  As the Court of Appeal noted, the gravamen of those claims lay in the bringing of the 2008 Action and the obtaining of the Mareva injunctions maliciously, without reasonable cause, and for an ulterior and improper purpose.[16]  Three possible starting dates were considered: (i) 31 December 2007 when the injunction was granted; (ii) 4 February 2008 when the action was discontinued; and (iii) 20 April 2009 (the date championed by Yanfull) when the parties agreed to the Consent Judgment. 
+
+21.  The Judge and Court of Appeal held that time started running when the action was discontinued on 4 February 2008 so that the claims were barred when the writ was issued on 30 March 2015, well after 4 February 2014.  The Consent Judgment issued on 20 April 2009 merely quantified the loss flowing from causes of action that had already accrued.  In so holding, they applied Kensland Realty Ltd v Tai, Tang & Chong[17] and we do not consider it reasonably arguable that they were wrong on this point. 
+
+D.4 Question 2(b) and “or otherwise”
+
+22.  Yanfull seeks to contend that on a claim like the present, alleging that the Hong Kong court’s procedure has been abused, the Hong Kong court cannot be forum non conveniens, relying also on various factors connecting the case to Hong Kong.[18] The Court of Appeal held that, in seeking leave to serve outside the jurisdiction, Yanfull has the burden of showing that Hong Kong is clearly the more appropriate forum and that, looking at all relevant factors, that burden had not been discharged.[19]  As the Court of Appeal pointed out, its remarks concerning the appropriate forum were obiter.  They do not provide any basis for granting leave on the exceptional “or otherwise” basis.  We do not accept Mr Barlow SC’s suggestion that this leaves the law on forum non conveniens in disarray.  In SPH v SA,[20]this Court recently endorsed a restatement of the relevant principles by the Court of Appeal in DGC v SLC (née C).[21]
+
+23.  The application was accordingly dismissed.
+
+ 
+
+ 
+
+ (R A V Ribeiro)
+Permanent Judge	(Robert Tang)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+Mr Barrie Barlow SC and Mr David Chen, instructed by Hogan Lovells, for the Plaintiff (Applicant)
+
+Mr Kenny C.P. Lin and Mr Lincoln Cheung, instructed by YTL & Co., for the Defendant (Respondent)
+
+
+[1] It was apparently de-listed in Malaysia on 19 April 2016 for failure to issue outstanding financial statements: J §3.
+
+[2] HCA 687/2015 (15 April 2016).
+
+[3] Lam VP, Kwan JA and Macrae JA, CACV 114/2016 (15 March 2017).
+
+[4] Statement of claim (“SOC”) §14.
+
+[5] SOC §16.
+
+[6] SOC § 27.
+
+[7] J §§39-40.
+
+[8] J §39.
+
+[9] [2013] 1 HKLRD 1186 at §§22-23 citing Prosperous Tone Ltd v Pearl Fame Development Ltd [2002] 3 HKC 578 at §5, applying Cheltenham & Gloucester Building Society v Ricketts [1993] 1 WLR 1545 at 1551E; and CT Bowring & Co (Insurance) Ltd v Corsi & Partners Ltd [1994] BCC 713 at p 729-731.
+
+[10] Appearing with Mr David Chen for the applicant.
+
+[11] SOC §§38-39.
+
+[12] J §§41-42.
+
+[13] CA §73.
+
+[14] CA §§44-45.
+
+[15] CA §41.
+
+[16] CA §52.
+
+[17] (2008) 11 HKCFAR 237: see §§51, 157 and 160.
+
+[18] CA §§80-81.
+
+[19] CA§§82-83.
+
+[20] (2014) 17 HKCFAR 364 at §50.
+
+[21] [2005] 2 HKC 293.
+
+ 
+

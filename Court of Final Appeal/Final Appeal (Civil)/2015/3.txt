@@ -1,0 +1,630 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 3 of 2015
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 3 OF 2015 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 200 OF 2013)
+
+_______________
+
+BETWEEN	 	 
+ 	TAN CHENG GAY	1st Plaintiff
+ 	TAN YOK KOON	2nd Plaintiff
+ 	TAN CHOO PIN	3rd Plaintiff
+ 	TAN CHIN HOON	4th Plaintiff
+(Appellants)
+ 	and	 
+ 	TAN CHOO SUAN	1st Defendant
+(1st Respondent)
+ 	SECRETARY FOR JUSTICE
+2nd Defendant
+(2nd Respondent)
+_______________
+
+Before : Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Tang PJ, Mr Justice Fok PJ and Lord Neuberger of Abbotsbury NPJ
+
+Date of Hearing: 29 September 2015
+
+Date of Judgment: 5 November 2015
+
+_______________
+
+J U D G M E N T
+
+_______________
+
+Chief Justice Ma:
+
+1.  I agree with the judgment of Mr Justice Ribeiro PJ.
+
+  
+
+Mr Justice Ribeiro PJ:
+
+2.  This appeal concerns the proper construction of a will and in particular, the question whether certain parcels of shares were intended to pass under the will or whether they fall to be dealt with on a partial intestacy.  It requires consideration of whether the will’s true interpretation can be arrived at by applying ordinary principles of construction or whether extrinsic evidence should be admitted pursuant to section 23B of the Wills Ordinance[1] to assist in its interpretation.
+
+A.   The Will and the persons and principal assets involved
+
+3.  The will in question is that of Mr Tan Kiam Toen (“the testator”) dated 6 February 2008 (“the Will”), made in the form of a joint will with his wife (and now his widow) Madam Ng Giok Oh (“Madam Ng”).  Such a joint will operates as the separate will of each of the persons making his or her will in the single instrument.[2]  Thus, the Will contains clauses which are equally applicable to the testator and to Madam Ng, using language expressed in the plural form.  But each such clause must be read and understood for present purposes as a provision in the testator’s will operating separately.  The Will is set out in full in its English translation (having been written in Chinese) in Annex A to this judgment.  A codicil dated 8 May 2008 (“the Codicil”) is set out in translation in Annex B.  
+
+4.  The testator was born in 1919 and died on 15 November 2008, domiciled in Hong Kong.  He is survived by Madam Ng (who was born in 1922) and by three sons and two daughters, as well as certain grandchildren. 
+
+5.  The testator’s five children (now aged in their fifties and sixties) are the parties to this litigation.  The sons, Mr Tan Cheng Gay, Mr Tan Yok Koon and Mr Tan Chin Hoon, and the daughter, Ms Tan Choo Pin brought these proceedings as plaintiffs and are now the 1st, 2nd, 4th and 3rd appellants respectively.  His other daughter, Ms Tan Choo Suan, the sole executrix and trustee of the Will, was sued as the 1st defendant and is now the 1st respondent.  The Secretary for Justice is named as 2nd respondent because of the interest that charities have in the outcome.  However, as he has played no substantive role in the litigation, it will be convenient to refer to the 1st respondent simply as “the respondent”.  Madam Ng is in the respondent’s camp.
+
+6.  The testator had very modest origins and went to work in Indonesia as a labourer at the age of 17.  However, he prospered greatly and, in 1961, he founded Afro-Asia Shipping Company (Private) Ltd (“AAS”) a Singapore company which traded in tin, tea, coffee, rice, rubber and cement. The evidence is that both at the time when he made the Will and at the time of his death, the registered owners of the issued shares in AAS were (as to 52.22% comprising 2,779,110 shares) Madam Ng and (as to 47.78% comprising 2,542,590 shares) the respondent. I shall refer to the AAS shares in the respondent’s registered ownership as “the AAS shares”.
+
+7.  The principal assets of AAS consist, and have throughout consisted, of a parcel of 15,674,500 shares constituting a 13.37% interest in a Singapore listed company called EnGro Corporation Limited (“EnGro”) and a commercial building known as the Afro-Asia Building in Robinson Road, Singapore.
+
+8.  The testator also caused to be formed a Hong Kong company called Afro-Asia International Enterprises Pte Limited (“AAIE”) to serve as a vehicle for holding additional shares in EnGro.  A third party owns 30% of AAIE but the remaining 70% of its shares are registered in the names of the two daughters, namely, the respondent and the 3rd appellant, each holding a parcel of 1,750,000 AAIE shares together constituting a 35% interest in AAIE (the daughters’ combined interest referred to as “the AAIE shares”). 
+
+9.  The Court was informed of the existence (but few of the details) of proceedings before the Singapore courts regarding the beneficial ownership of the AAS and AAIE shares.  However, for the purposes of the present proceedings, everyone has proceeded on the footing that the AAS shares held by the respondent, and the AAIE shares held by the respondent and the 3rd appellant are acknowledged by them to be held as trustees for the testator and his estate.
+
+10.  Financed by funds lent by AAS to the respondent[3] and on-lent by the respondent to AAIE, AAIE acquired further EnGro shares.  70% of the shares acquired, amounting to 31,124,100 shares, reflect the estate’s 70% interest in AAIE and constitute the principal asset held by the estate through AAIE.  The evidence is that the closing price of EnGro shares on 14 November 2008, the day before the testator died, was S$0.66 per share.
+
+11.  Additionally, the testator’s estate consists of a very valuable collection of artworks and antiques owned by the testator and kept at his residence in a flat which he owned with Madam Ng in Bowen Road, Hong Kong (“the Bowen Road property”).   Further artworks and antiques were also owned by the testator and kept by him at two addresses in Singapore. I shall refer to all these artworks together as “the art collection”.
+
+12.  Minor assets of the estate include about HK$2 million in balances in bank accounts held either solely by the testator or jointly by him and Madam Ng, plus one share in his name in a British Virgin Islands company called Balmain Industries Ltd (“Balmain”), the only other shareholders being Madam Ng and the respondent, each also holding one share.  Balmain’s only asset is US$4.5 million cash in a bank account. 
+
+B.   The events leading up to and following upon the testator’s death
+
+B.1 The 2006 Will and 2006 Undertaking
+
+13.  On 21 April 2006, the testator executed a will (“the 2006 Will”) drafted by a Singapore lawyer.[4]  It appointed his two daughters as executrices and trustees of the will and did not make any gift to charity but left “all [his] properties moveable and immovable, whatsoever and wheresoever situate ...” to Madam Ng (50%) and his five children (10% each).  It stated in its Clause 6:
+
+“For the avoidance of doubt, I declare that I have no assets which are held by my daughters or by any other person in trust for me and that all the assets previously belong [sic] to me or financed by me which are currently held by my daughters are not held in trust for me and I further declare that the shares in [AAS ] which are registered under my name belong absolutely to my daughter [the respondent] and I had executed a Trust Deed in favour of [her] accordingly.”[5]
+
+14.  Clause 6 therefore excluded the AAS and AAIE shares from the testator’s estate.  However, some seven months later, on the testator’s instruction,[6] the two daughters wrote jointly to their parents in a letter dated 21 December 2006, giving what has been referred to as “the 2006 Undertaking”, stating:
+
+“.... even though we are the beneficial owners of 3,500,000 ordinary shares in .... [AAIE] ... which in turn owns 29,641,700 shares in [EnGro] ... we have promised you that when father is not around, we will give some AAIE shares to our mother and our brothers. If AAIE is liquidated, we will still give the shares in EnGro which we received from AAIE to our mother and brothers.”
+
+There followed a distribution list whereby the 1st appellant was to get 700,000 shares in AAIE and everyone else (Madam Ng and the other siblings) was to get 560,000 shares.[7]
+
+B.2 The 2007 Will
+
+15.  Less than a year later, the 2006 Will was revoked when the testator executed his will dated 30 March 2007 (“the 2007 Will”) prepared by a Hong Kong solicitor, Mr Bruce Fu Chi Kai, from the firm of Hastings & Co.  The 2006 Will appointed the respondent his sole executrix and trustee of the will and made a gift to Madam Ng (in translation) in the following terms:
+
+“.... I give as a gift all the properties under my name in Hong Kong and any other places (including movable properties and immovable properties) (hereinafter called ‘my remaining properties’) to my wife, Ng Giok Oh...”
+
+The italicised words[8] may be compared with the words in the Will, particularly the words “under my name” (“名下”), which are at the heart of the present appeal, as discussed below.
+
+16.  After proceeding to make gifts of all his “remaining properties” as defined to charity in the event of Madam Ng pre-deceasing him, the testator declared (as he does similarly in Clause 11 of the Will) that, his children having been adequately taken care of, he did “not intend to give any portion of [his] remaining properties to them as a gift”.
+
+B.3 The 2008 statutory declaration
+
+17.  Then on 31 January 2008, the testator made a statutory declaration upon which witnesses were examined in the Singapore court, but a copy of which has not been produced in these Hong Kong proceedings.  Extracts from the transcript of evidence in the Singapore court referring to the statutory declaration have been relied on by the appellants to show that less than a week before making the Will, the testator was making it clear that he wished to distribute the AAIE shares and the underlying EnGro shares to members of the family and did not envisage such shares going to charity. 
+
+B.4 The Will
+
+18.  As previously noted, on 6 February 2008, the testator executed the Will which is the subject matter of this appeal, revoking all prior wills.  Its provisions will require close scrutiny but, in outline, the Will provides (in Clause 2) that it governs and deals with “all the properties under [the testator’s] name (wheresoever situate worldwide)”; and (in Clause 5) that Madam Ng, who survives the testator, is to “enjoy during her lifetime the income derived from the estate of” the testator; and that upon her death, the entire residue is to pass to specified charities, the testator declaring (in Clause 11) that he does not intend to give any portion of his residuary estate to his children, stating that they have received adequate and appropriate care during their parents’ lifetime. 
+
+B.5 The Codicil
+
+19.  Three months after the Will was executed, the testator executed[9] the Codicil dated 8 May 2008.  It deals with a property in Australia and the Bowen Road Property, both of which were owned by the testator and Madam Ng as joint tenants, declaring that the respondent had been made the third joint tenant (and therefore enjoyed the right of survivorship) in respect of the Australian property and that, on the death of both the testator and Madam Ng, the Bowen Road Property was to pass to the respondent.
+
+B.6 The Parents’ Letter
+
+20.  By a letter dated 16 August 2008 addressed to their children, the testator and Madam Ng noted that the children were aware that their parents “would donate most of the properties to charitable and Buddhist organisations in Singapore, Hong Kong and Mainland China, and would leave the Engro shares held through AAIE to you people.” Proposals were put forward as to how those AAIE shares should be freed from existing debt and distributed to the children, the parents stressing however, that they were to keep for themselves the AAS shares.  They emphasised that they wished to avoid disputes among their children and would be instructing a lawyer to draft a Deed of Family Arrangement which the children were required to sign before the proposed distribution of AAIE shares as would be set out in a schedule was to be implemented.
+
+B.7 The sons’ response
+
+21.  The sons did not agree with their parents’ proposal.  Instead, by letter dated 12 October 2008, they sought to persuade them to include the EnGro shares held through AAS to be distributed to the family, offering an undertaking as to how the dividends should be dealt with.
+
+22.  Some further discussions involving Hastings & Co ensued on 28 October 2008, but the proposed inter vivos distribution of the AAIE shares was not achieved when the testator died on 15 November 2008.
+
+B.8 Madam Ng’s attempts to implement the testator’s wishes
+
+23.  Between November 2008 and August 2009, Madam Ng, assisted by Hastings & Co and counsel, sought to find a means of implementing her testator husband’s wishes by providing the children with a parcel of EnGro shares from her own resources.  This progressed to the stage of a Deed of Family Arrangement being prepared and sent to the appellants for execution.  But the Deed was never executed and instead, proceedings were instituted by the appellants in Singapore and also in Hong Kong.
+
+C.   The present proceedings
+
+C.1 The grant of probate
+
+24.  The respondent, as executrix and trustee of the testator’s will obtained a grant of probate from the Hong Kong Court on 6 May 2009.  The annexed Schedule of Assets and Liabilities of the Testator[10] listed as the testator’s assets in Hong Kong (i) cash at bank totalling HK$1,981,200.06; (ii) the AAIE shares (listed as two parcels of 1,750,000 shares each held by the respondent and the 3rd appellant respectively in trust for the testator); and (iii) “various pieces of antiques, paintings and works of art”.
+
+25.  The grant was re-sealed on the respondent’s application by the Singapore Court on 15 November 2010, annexing a statement that the testator died possessed of property in Singapore comprising (i) the AAS shares (stated to be 2,542,590 shares in AAS held by the respondent as nominee for the testator) and (ii) various pieces of art works, antiques, porcelain vases, furniture, etc located at two Singapore addresses.
+
+C.2 The originating summons
+
+26.  On 4 February 2013, the appellants issued proceedings which (as amended[11]) sought the Court’s determination as to:
+
+“... whether upon the true construction of the [Will and Codicil, those documents] shall govern only the administration and disposition of assets and/or properties of the Testator which are held under or in the name of the Testator or held by the Testator personally wherever situated and shall not govern the administration and disposition of assets and/or properties of the Testator which are held in the name of or by others but beneficially and on trust for the Testator.”
+
+27.  If the question were affirmatively answered, consequential orders were sought for rectification of the Grant of Probate and the attached Schedule of Assets to exclude the AAIE shares from the testator’s estate.  It may be noted in passing that no consequential relief is sought regarding the AAS shares held by the respondent as trustee for the testator and his estate.
+
+28.  The dispute therefore pivots around the wording of Clause 2 of the Will which states that the Will “shall govern and deal with all the properties under [the testator’s name] (wheresoever situate worldwide).”  Does this exclude properties, such as the AAIE shares whose registered owners are the respondent and the 3rd appellant, even though it is acknowledged that they are held for the testator beneficially?
+
+C.3 The decisions of the Courts below
+
+29.  At first instance,[12] Deputy High Court Judge Chu (as B Chu J then was) concluded that such property is not excluded.  Looking at the Will as a whole, her Ladyship held that the relevant words:
+
+“ ‘名下所有(不論在世界任何地方)的財産’ can be all embracing and are entirely apt to cover all the assets of the Father and the Mother and to include assets beneficially belonging to them or either of them but held on trust on his/her behalf by another, and not only restricted to assets held or in the personal name of the Father or the Mother.”[13]
+
+30.  The Judge held that since the meaning of the relevant provisions was clear, it was unnecessary to consider section 23B of the Wills Ordinance which only operates in case of ambiguity.  She added however, that particularly in the light of the evidence given in the Singapore proceedings by Mr Fu, the solicitor who had prepared the Will, and by Madam Ng on affirmation, even if her Ladyship had taken the extrinsic evidence into account, the outcome would have been the same.[14]
+
+31.  The Court of Appeal[15] upheld the Judge.  It held that “名下” is an ordinary term without any technical meaning and admits of no ambiguity. In its dictionary meaning, when used in connection with assets “it means assets ‘belonging’ (屬) to the person concerned.  It is not limited to those assets which are held under or in the name of that person alone.”[16]
+
+32.  Construing Clause 2 in the light of the other Clauses in the Will, the Court considered the meaning “crystal clear”:
+
+‘It means ‘all the properties belonging to us’. It embraces all assets beneficially belonging to the Testator and Madam Ng.”[17]
+
+D.   The principles applicable to construction of the Will
+
+D.1 The common law principles
+
+33.  We have the benefit of the authoritative exposition of the principles applicable to the construction of wills provided by Lord Walker of Gestingthorpe NPJ in the recent decision of this Court in Chinachem Charitable Foundation Ltd v The Secretary for Justice,[18] a decision drawing substantially upon the judgment of Lord Neuberger of Abbotsbury in Marley v Rawlings.[19]
+
+34.  As Lord Walker NPJ points out, wills have as two important features (i) the fact that they are unilaterally created documents and (ii) that they have an ambulatory character, that is, that they are intended to take effect from the time of the testator’s or testatrix’s death, which may be some time after the will was executed.[20] These features must be borne in mind when construing a will.
+
+35.  Against that background, it is now established that, subject to statutory regulation, one adopts the same approach to interpreting wills as one does to interpreting contracts and other legal documents: “... the aim is to identify the intention of the party or parties to the document by interpreting the words used in their documentary, factual and commercial context”.[21]
+
+36.  In other words, subject to statute:
+
+“...the court is concerned to find the intention of the party or parties, and it does this by identifying the meaning of the relevant words, (a) in the light of (i) the natural and ordinary meaning of those words, (ii) the overall purpose of the document, (iii) any other provisions of the document, (iv) the facts known or assumed by the parties at the time that the document was executed, and (v) common sense, but (b) ignoring subjective evidence of any party's intentions.”[22]
+
+37.  This approach is consistent with the well-known “arm-chair” principle, save that it must be kept in mind that that principle looks to context as at the time the will is made whereas the will speaks from the time of death regarding any general description of property.[23]
+
+38.  Lord Walker NPJ’s summary of the “two all-important principles of construction” are of particular present relevance, namely “that the words must be read and understood in their context, and that the will must be read as a whole”.[24] This requires the Court to adopt an “iterative” process, checking each of the rival meanings against the other provisions of the document and investigating its practical consequences,[25] and:
+
+“It may require the court to go forwards and backwards painstakingly between the various words and phrases, occurring in different parts of the document, which give rise to the problem.”[26]
+
+D.2 Section 23B of the Wills Ordinance
+
+39.  Section 23B[27] provides:
+
+(1) This section applied [applies[28]] to a will-
+
+(a) in so far as any part of it is meaningless;
+
+(b) in so far as the language used in any part of it is ambiguous on the face of it;
+
+(c) in so far as evidence, other than evidence of the testator's intention, shows that the language used in any part of it is ambiguous in the light of surrounding circumstances.
+
+(2) In so far as this section applies to a will extrinsic evidence, including evidence of the testator's intention, may be admitted to assist in its interpretation.
+
+40.  As we have seen, Deputy High Court Judge Chu did not consider it necessary to resort to section 23B but held that even if extrinsic evidence was taken into account, it would not have altered her decision.  The Court of Appeal thought it unnecessary to consider any extrinsic evidence.
+
+41.  In this appeal, the respondent submits that the Court should adopt a position similar to that adopted below, whereas the appellants argue that extrinsic evidence is both admissible in the light of ambiguity in Clause 2 of the Will and highly supportive of the narrow construction of the words “名下” (excluding assets held on trust) urged by them.  I shall first endeavour to construe the Will adopting the common law principles identified above before considering the possible applicability and relevance and section 23B.
+
+E.   Construction of the Will
+
+42.  Clause 2 states:
+
+“We hereby declare that this Will shall govern and deal with all the properties under our names (wheresoever situate worldwide).”
+
+In the original Chinese, it states:
+
+“我們謹此聲明這份囑書將管轄及處理我們名下所有(不論在世界任何地方)的財産”.
+
+43.  The central question is whether, by using the words “under our names” or “名下” (transposing those words to “under my name” since we are viewing the testator’s will separately) has the effect, as the appellants contend, of confining the property intended to pass under the will to property which is in some way registered or officially recorded to be property held by the testator referred to by name, and thus excluding property held in the names of others, albeit held by them in trust for the testator (“the narrower construction”). The respondent submits that this is an unwarranted construction which is inconsistent with the ordinary meaning of the words used and inconsistent with the purpose and the other provisions of the Will in the light of the assets constituting the estate.  The respondent submits that the words were intended merely to mean “belonging to the person concerned (ie, the testator)”, encompassing property held on trust for him or her (“the wider construction”).
+
+E.1 “名下” as a matter of ordinary language
+
+44.  Adopting an iterative approach, the rival meanings given by the parties to the words “名下” may be considered, before checking each of those meanings against the other provisions of the Will and examining the practical consequences.
+
+45.  The four judges who decided this case at first instance and in the Court of Appeal are native Chinese speakers and, in my view, great weight must be given to their unanimous conclusion that the words used in Clause 2 are capable of bearing a meaning embracing the whole of the testator’s property and do not confine the assets disposed of to property expressly recorded in some way to be the property of the testator by name.
+
+46.  Thus, Deputy High Court Judge Chu stated:
+
+“Having considered the whole of the Joint Will, I am of the view that Clause 2 should not be construed in such a narrow sense. I accept Mr Chow’s submission that the words “名下所有(不論在世界任何地方)的財産” can be all embracing and are entirely apt to cover all the assets of the Father and the Mother and to include assets beneficially belonging to them or either of them but held on trust on his/her behalf by another, and not only restricted to assets held or in the personal name of the Father or the Mother.”[29]
+
+47.  And Poon J, writing for the Court of Appeal, stated:
+
+“38. Mr Ho, SC, for the plaintiffs, submitted that in its natural, plain and ordinary meaning, ‘名下’ means ‘under/in the name of” somebody. It follows that only assets under/in the name of the Testator were covered by the Joint Will. It does not include those held under/in the name of some ... others on trust for him. Mr Chow, SC, for the 1st defendant submitted that the words ‘名下所有…的財產’ are entirely apt to cover or include assets beneficially belonging to a person but held on trust for his benefit by another person. With respect, we agree with Mr Chow.
+
+39. As rightly accepted by the parties, ‘名下’ is an ordinary term without any technical meaning.   It must be understood in its plain and ordinary usage in Chinese.  ... The dictionary meaning of ‘名下’ in its plain and ordinary Chinese usage is beyond doubt and admits no ambiguity.  When it is used in connection with assets, it means assets ‘belonging’ (屬) to the person concerned.  It is not limited to those assets which are held under or in the name of that person alone.
+
+40. ‘名下’ is used in Clause 2 in the phrase ‘我們名下所有…財產’ to describe the assets to be covered by the Joint Will.  Read with the plain and ordinary meaning of ‘名下’ in mind, the testamentary intention as expressed in that phrase is crystal clear.  It means ‘all the properties belonging to us’.  It embraces all assets beneficially belonging to the Testator and Madam Ng.”
+
+48.  It is significant that the appellants accept that the wider construction (“belonging to”) is an available meaning of “名下”.  This is put as follows in their printed case:
+
+“The term ‘名下’ (‘under the name’), if the Court should come to the view that it is not clear enough, is capable of bearing more than one ordinary meaning,
+
+(1) one meaning, i.e. ‘屬於某人’ (‘belonging to some person’), would be apt to include properties beneficially owned by a person irrespective of whether those properties are held under the name of that person or not, so that the phrase ‘我們名下所有的財產’ (‘all the properties under our names’) can be construed as meaning ‘all the properties belonging to us’;
+
+(2) another meaning, i.e. ‘某人名義之下’ (‘under the name of some person’), would be apt to include only those properties beneficially owned by and held under the name of a person, but not properties held under the name of somebody else, so that the phrase ‘我們名下所有的財產’ (‘all the properties under our names’) can be construed as meaning ‘all the properties held under our names and owned by us’.”
+
+E.2 What assets would be left to pass under the Will on the narrower construction?
+
+49.  As noted in Section C.1 of this judgment, in the Schedules to the Grant of Probate issued in Hong Kong and re-sealed in Singapore, the respondent listed as the testator’s assets, apart from relatively small bank balances, the AAIE shares held by the respondent and the 3rd appellant in trust for the testator; the AAS shares held by the respondent as nominee for the testator; and the art collection.
+
+50.  If the appellants’ narrower construction were to be accepted, it would mean that the AAIE and AAS shares would plainly be excluded from passing under the Will: they were not held under the testator’s names but under the names of the respondent and the 3rd appellant on trust for the testator.  It would, in my view, also mean that the art collection would be excluded.  While one would readily accept that each item of the art collection might be said to “belong to” the testator (where for instance, evidence of his having purchased or otherwise having acquired the object existed), it is hard to see how, as a matter of language, it would be appropriate to say that the object in question was held “under his name” unless those words were given the wider construction. 
+
+51.  It seems likely that those responsible for drafting the originating summons were conscious of this difficulty since, as noted in Section C.2 above, the question formulated for the determination of the Court is:
+
+“... whether upon the true construction of the [Will and Codicil], those documents] shall govern only the administration and disposition of assets and/or properties of the Testator which are held under or in the name of the Testator or held by the Testator personally wherever situated...”
+
+52.  The words I have italicised implicitly acknowledge the difficulty of fitting the ownership of chattels such as items in the art collection within the phrase “held under ... the name of the Testator” if given the narrower construction.  Thus the need was evidently felt to add “or held by the Testator personally” as a way of encompassing the art collection.  But if that extension is accepted as coming within the meaning of the words “held under the name of the testator”, it is hard to see why other property “belonging personally to” but not “held under the name of” the testator should be excluded from the Will.  Could shares to which the testator was beneficially entitled not be said to “belong personally to him”?
+
+53.  In the argument before the Court, the “held personally” extension referred to in the originating summons was not advanced. Instead, the construction urged by the appellants was the strict, narrower construction, put in their printed case as follows:
+
+“The term ‘名下’ (‘under the name’) should be taken as being inserted specifically on purpose, so that the phrase ‘我們名下所有 … 的財產’ (‘all the properties under our names’) should be given its plain and ordinary meaning to embrace properties owned by and held under the names of the Testator and/or Madam Ng, but not properties which were/are beneficially owned by them or either of them but held under the name of others on trust for them or either of them.”[30]
+
+54.  But if such a narrow construction is adopted, little would be left from among the testator’s known assets to pass under the will.  The only property that Mr Patrick Fung SC[31] could point to as held under the testator’s name is the single share in Balmain, a company whose only asset is US$4.5 million cash in a bank account, there being two other shareholders, namely Madam Ng and the respondent, and there being nothing known of any liabilities.
+
+55.  The narrower construction urged by the appellants would therefore cause the Will to attach only to an insignificant part of the testator’s known assets.  This calls into question the validity of such an interpretation.  It is implausible to suggest that the testator went to the trouble of making a will to provide for how his property should be dealt with after his death but chose to exclude his main assets from that testamentary exercise.  Why should he have taken the trouble of making a will only to leave his most valuable assets to be dealt with on a partial intestacy? 
+
+56.  This is reflected in Williams[32] where the learned authors state:
+
+“A testator may well intend to die partly intestate; and, when he makes a will, he is testate only so far as he has expressed himself in his will. Where, however, the construction of the will is doubtful, the court acts on the presumption that the testator did not intend to die either totally or partly intestate, provided that on a fair and reasonable construction there is no ground for a contrary conclusion.”
+
+57.  In support, Re Harrison, Turner v Hellard[33] is cited, where Lord Esher MR made the point in colourful terms:
+
+“There is one rule of construction, which to my mind is a golden rule, viz, that when a testator has executed a will in solemn form you must assume that he did not intend to make it a solemn farce – that he did not intend to die intestate when he has gone through the form of making a will. You ought, if possible, to read the will so as to lead to a testatcy, not any intestacy. This is a golden rule. I do not deny that this will may be read in two ways, or that it requires that a blank should be filled up. But it may be read in such a way as not to amount to a solemn farce.”
+
+E.3 The Australian and Bowen Road properties
+
+58.  Might it be suggested that the Australian and Bowen Road properties were the assets held “under his name” contemplated to pass under the Will given the narrower construction?  At the time of making the Will, the testator had not made provision for those properties and it was only three months later that they received specific mention in the Codicil.
+
+59.  In my view, the Australian property plainly cannot be regarded as an asset intended to pass under the Will as property “held under the name of the testator”.  It was originally held by the testator and Madam Ng as joint tenants and, as the Codicil makes clear, on 24 May 2003 they arranged for the respondent to become the third joint tenant.  Her parents acknowledged the legal consequences in the Codicil as follows:
+
+“We are aware and also understand that as one of the joint tenants of the property, after both of us have passed away, according to the legal principle of right of survivorship, Choo Suan will automatically become the sole owner of the Australia Sydney Property.”
+
+60.  It was therefore intended, by arrangements made almost five years before the Will was executed, that the Australian property should pass from the testator and Madam Ng to the respondent, not by operation of any will, but by virtue of her survivorship right as joint tenant.  The Australian property is thus not an asset passing under or relevant to the construction of the Will.
+
+61.  Similar considerations apply to the Bowen Road property.  Although no arrangements favouring the respondent had been made prior to execution of the Codicil, the Bowen Road property was, at the time when the Will was executed, held by the testator and Madam Ng as joint tenants.  In other words, viewed from the perspective of the testator’s separate Will, upon his predeceasing Madam Ng, she would become, by virtue of the joint tenancy, automatically entitled to ownership of the property.  It was not an asset which would pass in accordance with the Will whereby Madam Ng would merely enjoy a life interest in income with the residue passing to the specified charities.  It would pass to her absolutely as the surviving joint tenant.  Conversely, if Madam Ng had predeceased the testator, the Bowen Road property would automatically have passed to the testator by virtue of his survivorship right and not pursuant to Madam Ng’s will.
+
+62.  The effect of a joint tenancy in such a context is noted in Williams as follows:
+
+“Before speaking of joint wills it is perhaps necessary to say that so far as English law is concerned, they have nothing whatsoever to do with joint property, ie property held by beneficial joint tenants. Such property (provided always that the joint tenancy is subsisting at death and has not been severed) cannot be subject to any will but passes automatically to the survivor or surviving joint tenants.”[34]
+
+63.  By the Codicil, the respondent’s parents stipulated that the survivor of the two of them thereby bequeathed the Bowen Road property to the respondent.  Madam Ng survived the testator and automatically became owner of the Bowen Road property.  No interest in that property would vest in the respondent unless and until Madam Ng predeceases her and the property passes to her in accordance with the Codicil.  It is thus plain that the gift of the Bowen Road property was not a gift of property “under the name of the testator” intended to pass under the Will.
+
+E.4  Clause 5 and income-earning assets
+
+64.  Since, on the appellants’ narrower construction, the AAS and AAIE shares and their underlying EnGro shares, as well as the Australian and Bowen Road properties are not property “under the name of the testator” passing under the Will, it is difficult to see how, on that construction, Clause 5, which makes a gift of income for life, could have any meaningful effect.
+
+65.  Clause 5 states:
+
+“We mutually undertake to each other that in the event one of us predeceases the other, subject to the payment of all the necessary expenses ..., the survivor of us can enjoy during his/her lifetime the income derived from the estate of the first-deceased of us.”
+
+66.  The EnGro shares held through AAS and AAIE are the assets of the testator’s estate (being “the estate of the first-deceased of us”) that represent the natural source of income envisaged under Clause 5. Eliminating them from the Will on the appellants’ narrower construction makes it hard to see any other income-producing source.  The Australian and Bowen Road properties have also been eliminated for the reasons just discussed and the art collection, even if not eliminated on the basis mentioned above, does not produce income.  It follows that the central gift to Madam Ng under the Will – the gift of the income of the testator’s estate for life – could have little effect if the appellants’ narrower construction is adopted since it excludes the only obvious income-earning assets from the operation of the Will.  Whatever income the relatively small cash balances might be able to produce cannot provide the rationale for Clause 5. 
+
+67.  Thus, considering the Will as a whole and checking the rival meanings against Clause 5 of the Will and against the implausible practical consequences of the narrower construction discussed above, the wider construction strongly commends itself.  For the foregoing reasons, I conclude that on its true construction, unaided by any extrinsic evidence but taking into account the assets which the testator was seeking to dispose of, the operation of the Will is not confined to properties held in some formal or officially recorded sense “under the name of the testator” but applies to all properties belonging to him, including properties held on trust for him and to which he was beneficially entitled.  So construed, I do not consider there to be any ambiguity in the words used since the alternative meanings put forward appear to me to be less than reasonably arguable in the context of the Will read as a whole.  I therefore respectfully agree with the decisions arrived at by the trial Judge and the Court of Appeal and would dismiss this appeal. 
+
+68.  It is strictly unnecessary and indeed, given my finding of an absence of ambiguity, not strictly permissible to proceed to examine the effect of any potentially relevant extrinsic evidence for section 23B purposes.  However, since it has been argued at some length, it may be desirable for me to touch briefly on such evidence to explain why, in my view, it would not have led to a different outcome.
+
+F.   Extrinsic evidence
+
+69.  The events outlined in Section B above undoubtedly show that both before and after he executed the Will, the testator wished to make an inter vivos gift of the AAIE shares and therefore of the Engro shares held by AAIE to Madam Ng and the children.  He was, however, anxious that there should not be disputes or litigation with regard to that gift and so insisted on a Deed of Family Arrangement being signed to settle all the details before the proposed gift could take effect.  The gift failed because the sons did not agree to the arrangement but sought to persuade the testator to add the AAS shares to the gift, and the testator died before the inter vivos gift could be accomplished. The evidence also shows that after his death, Madam Ng sought to implement the testator’s intention to make an inter vivos gift of EnGro shares from her own resources but that this was not achieved and the litigation ensued.
+
+70.  Assuming that the extrinsic evidence (referred to in Section B above) were admissible, the question is whether it throws any light on the testator’s testamentary intentions.  It is one thing to say that the evidence clearly establishes that the testator wanted at some stage to make an inter vivos gift to the family of the relevant shares (which he obviously regarded as his own to dispose of as he pleased).  But it is quite another to say that such evidence helps us to ascertain the scope of the property he intended to dispose of by his Will in the event that the inter vivos gift was not accomplished.  Failure of the intended inter vivos gift does not necessarily mean that the property in question falls outside the scope of the Will so as to pass on a partial intestacy.  Whether that was the intention requires the Will to be construed as a whole, as has been done in the foregoing parts of this judgment. 
+
+71.  Mr Patrick Fung SC sought to rely on the extrinsic evidence for the negative proposition that the testator did not intend the AAIE shares to go to charity but to the family instead.  That proposition is true as far as it goes, but with respect, it does not go far enough.  The testator’s intention was that the AAIE shares should go to the family only upon the terms of the proposed inter vivos gift and not otherwise.  Indeed, he made it clear in Clause 11 of the Will that his intention was that the children should not take any portion of his assets passing under the Will.  Extrinsic evidence establishing an intention to make an inter vivos gift (which does not eventuate) does not, at any rate without more, throw light on the question of what, on its true construction, the Will means when it refers to property “under the testator’s name”. 
+
+72.  I have held that, properly construed, the Will applies to the AAIE shares and other property belonging to the testator.  Failure of the proposed inter vivos gift merely means that those shares, not having been removed from the estate by the making of such gift, remain to be dealt with in accordance with the Will.  This is unaffected by any of the extrinsic evidence sought to be relied on.
+
+73.  Accordingly, for the reasons developed above, I have concluded that the AAIE shares were intended to be covered by the Will on its true construction and that the failure of the intended inter vivos gift means that those shares remain to be dealt with under the Will and not under a partial intestacy. 
+
+G.   Conclusion
+
+74.  I would therefore dismiss this appeal and make an order nisi requiring the appellants to pay to the respondent the costs of and occasioned by this appeal.  I would not make any order in relation to the Secretary for Justice who has not taken an active part.  I would grant the parties liberty to make written submissions as to costs to be lodged within 14 days from the date of this judgment, in default of which I would direct this order as to costs to stand as an order absolute without further direction.
+
+ 
+
+Mr Justice Tang PJ:
+
+75.  Mr Tan Kiam Toeh (“the testator”) was a self-made man who died on 15 November 2008 aged about 90.  He was survived by his wife, Madam Ng Giok Oh (“Madam Ng”), and their three sons, Cheng Gay, Yok Koon and Chin Hoon, (1st, 2nd and 4th appellants respectively), two daughters, Choo Pin, (3rd appellant) and Choo Suan (“1st respondent”).
+
+76.  On 6 February 2008, the testator and his wife (who was born in 1922) made a joint will in the Chinese language which was prepared by Messrs Hastings (“Hastings”).  This litigation concerns the construction of Clause 2 which reads “我們謹此聲明這份平安囑書將管轄及處理我們名下所有（不論在世界任何地方）的財產。” and as translated “We hereby declare that this Will shall govern and deal with all the properties under our names (wheresoever situate worldwide)”, in particular the expression “名下” “under our names”.  Under the joint will, subject to a life interest in the income in favour of the survivor, the residuary estate would go to charities, for that reason, the Secretary for Justice has also been made a respondent.[35]
+
+77.  The appellants’ primary contention was that since the will was drafted by solicitors practising common law in Hong Kong, the plain and ordinary meaning of these words covered only “properties owned by and held under the names of ‘the deceased or Madam Ng’, but not properties which were/are beneficially owned by them or either of them but held under the name of others on trust for them or either of them.”
+
+78.  Alternatively, the appellants relied on s 23B of the Wills Ordinance, in particular, that because the expression is “ambiguous on the face of it”, “extrinsic evidence, including evidence of the testator’s intention, may be admitted to assist in its interpretation.”  Under s 23B, such evidence is also admissible “in so far as evidence, other than evidence of the testator’s intention, shows that the language used in any part of it is ambiguous in the light of surrounding circumstances.”  Mr Fung submitted that the extrinsic evidence supported the above construction.
+
+79.  The 1st respondent’s case was that the expression “properties under our names” was not ambiguous and it covered all properties belonging to the testator.[36]
+
+80.  At first instance, Deputy Judge Bebe Chu (as she then was)   concluded that as a matter of construction, it was clear that the testator had intended the will to cover all his assets whether they were held in his name or not.[37]  She further concluded that had she been of the view that there was ambiguity, after taking into account extrinsic evidence on the testator’s subjective intention, she would have reached the same conclusion.
+
+81.  The Court of Appeal[38] regarded the will as clear and unambiguous and did not find it necessary to consider any extrinsic evidence.
+
+82.  On 4 February 2015, the appeal committee[39] granted leave to appeal on the basis “that the true construction of the will poses particular difficulties and raises issues as to the proper scope and application of section 23B of the Wills Ordinance.”
+
+83.  I have had the advantage of reading the judgment of Ribeiro PJ in draft and like his lordship I have come to the conclusion that on the proper construction of the will, the expression “all properties under our names” covered all properties belonging to the testator, whether or not they were held under his name.  I also note that in the courts below, four bilingual judges concluded that the expression was clear and unambiguous.  With respect, although I am also bilingual, when I read the papers for the first time when considering whether the application for leave to appeal should be dismissed without a hearing[40], I was troubled by the fact that, given the highly unusual circumstances of this case, a solicitor in Hong Kong had seen fit to use the expression “all the properties under our names” instead of the more common and direct expression “all our properties”.  Mr Wong Yan Lung SC for the 1st respondent, in the course of his submission, said that the Chinese expression “名下” “under my name” was recorded to have been first used in the 11th century by a famous poet to denote “properties belonging to me”, a usage which predated the first development of the Law of Uses in the 12th century in England.  It is pertinent to mention that traditional China never developed Uses or Trusts so that one would have little, if any, reason at all to distinguish between “my properties” and “properties under my name”.  As Ribeiro PJ pointed out at para 48, Mr Patrick Fung, accepted, and rightly so in my view, one of the meanings of “名下” “under my name” is “belonging to me.”  I accept that, in a homemade will, a Chinese testator, who was not aware of the niceties of ownership under the common law or the rules of equity, might use such an expression “我名下所有…的財產” “all properties under my name” to denote all his properties, although I would expect a modern testator to use the simpler, more direct, and more modern expression “我所有的財產” “all my properties” instead.  Be that as it may, I would not expect a bilingual lawyer, trained in the common law, to use the expression “all the properties under our names” when as here there were substantial assets which were not held under the testator’s name, and as Ribeiro PJ’s judgment will have shown, at one time, the testator had stated unequivocally that he was not the beneficial owner of such assets.  In the circumstances of this case, I am not at all surprised that the expression has given rise to these proceedings.   If the simple and modern Chinese expression “all our properties” had been used in the 2008 will, I do not believe any construction issue would have arisen at all.  Certainly not one which would reach this court.
+
+84.  This is why I feel I should examine the extrinsic evidence relied on by Mr Fung and explain in my own words why notwithstanding such evidence and my own misgiving over the use of the expression, I have come to the conclusion that the expression “properties under my[41] name” properly understood, covered all properties belonging to the testator whether or not they were held under his name.
+
+85.  Ribeiro PJ has set out in some detail the various assets which belonged to the testator.  Amongst such assets were a controlling interest in EnGro Corporation Limited (“EnGro”), a Singaporean listed company.  Such controlling interests are held by two companies, namely, Afro-Asia International Enterprises PTE Limited (“AAIE”) a Hong Kong company and Afro-Asia Shipping Company (“AAS”), a Singapore company.
+
+86.  The testator did not hold any shares in AAIE or AAS in his name.  Of the 3,500,000 shares in AAIE said to be beneficially owned by him, 1,750,000 were registered in the name of each of his daughters.  AAIE in turn held shares in EnGro[42], and on such basis, in these proceedings, the testator was regarded as the owners of 70% of these shares in EnGro, namely, 31,124,100 shares[43].  As for AAS, similarly, the testator was said to be the beneficial owner of 2,542,590 shares with the remaining 2,779,110 shares said to be beneficially owned by Madam Ng.  The 2,542,590 shares were registered in the name of the 1st respondent.  AAS in turn owned 15,674,500 shares in EnGro, constituting about 13.37% of the issued shares on EnGro.  Apart from other assets, AAS also owned the Afro-Asia building, at 63, Robinson Road, Singapore, a very valuable property.[44]
+
+87.  The beneficial ownership of these shares[45] is under litigation in Singapore, where, I believe, the appellants claimed that they were the beneficiaries of some of these shares and the 1st respondent claimed that these shares were held in trust for the father.
+
+88.  We assume for the purpose of the present proceedings that these shares were beneficially owned by the testator.  It follows that if the appellants are right and these shares had not been disposed of by the 2008 will, they would devolve as on intestacy.
+
+89.  I turn to consider the extrinsic evidence relied on by Mr Fung. Since, in my view, they do affect the outcome, I shall be as brief as I can, and I will not pause to examine their admissibility or relevance, I shall take them all into consideration in the construction of the 2008 will.
+
+90.  The testator and Madam Ng had made two earlier wills.  On 21 April 2006, the testator executed a will (“2006 will”) in English drafted by a Singapore lawyer.  The testator appointed his two daughters as executrices and trustees of the will and did not make any gift to charity but left “all (his properties) movable and immovable, whatsoever and wheresoever situate (including any property over which I may have a general power of appointment or disposition by will)” to Madam Ng as to 50% thereof and his five children 10% each.  Clause 6 is highly unusual and provided:
+
+“For the avoidance of doubt, I declare that I have no assets which are held by my daughters or by any other person in trust for me and that all the assets previously belonged to me or financed by me which are currently held by my daughters are not held in trust for me.”
+
+91.  On the same day, Madam Ng executed a will which was the mirror image of the 2006 will.  However, Clause 6 in Madam Ng’s will went on to say that shares in AAS which were registered “under my name belonged absolutely to my daughter, (the 1st respondent) and I had executed a trust deed in favour of (the 1st respondent) accordingly”.
+
+92.  On the same day, the testator and Madam Ng made a joint statement (“the parents’ statement”), witnessed by the Singapore lawyer who had witnessed their wills, which read:
+
+“We, (the deceased) and(Madam Ng), husband-and-wife, wish to state that we have no assets which are held by our daughters or by any other person in trust for either or both of us. We wish to further state that all the assets previously belonged to any or both of us or financed by any or both of us which are currently held by our daughters are beneficially owned by our daughters and are not held in trust for anyone or both of us.
+
+I, (Madam Ng), wish also to put on record that the shares in (AAS) which are registered under my name belonged absolutely to my daughter, (1st respondent) and I had executed a trust deed in favour of my daughter, (1st respondent) accordingly.
+
+We make this statement in order to avoid any doubt that our other family members may have as regards the assets currently owned or held by our daughters.”
+
+93.  Leaving aside consideration of the legal effect, if any, of Clause 6 of the 2006 will or the parents’ statement, it seems clear that the shares in AAIE or in AAS, now said to be owned beneficially by the testator were not then regarded by the testator as part of his estate nor were they meant to devolve under the 2006 will.[46]  However, if the testator was, notwithstanding Clause 6 and the joint statement, in fact the beneficial owner of these shares, the language, (“all his properties”)[47] of the 2006 will was wide enough to cover them such that they would devolve as part of his estate.
+
+94.  On 21 December 2006, the two daughters wrote a joint letter (“the joint undertaking”) to their parents which was signed and sealed by them in the presence of the same Singapore solicitor who had witnessed the 2006 wills.  In  the joint undertaking the daughters stated that although they were the beneficial owners of 3,500,000 ordinary shares in AAIE, they undertook that “when   father is not around”, to give some[48] of the AAIE shares[49] to their mother and brothers in the manner stated in the letter.  The joint undertaking was said to have been made at the request of the testator.  If it was meant to have legal effect, it might be enforceable.[50]  There was no mention of the 2,542,590 shares in AAS held in the name of the 1st respondent. 
+
+95.  On 30 March 2007, the testator made a new will in Hong Kong in the Chinese language[51], prepared by Hastings, a long established firm in Hong Kong.  The 1st respondent was appointed the sole executrix and trustee.  Under the 2007 will, subject to payment of debts etc, the testator:
+
+“(give) as a gift all the properties under my name in Hong Kong and any other places (including movable properties and immovable properties)(hereinafter called “my remaining properties”) to my wife, … for her to inherit alone, and to fully possess and enjoy.” 
+
+However, should Madam Ng not survive the testator by at least 30 days, all his remaining properties would be devoted to charitable uses.  Clause (VI) of the 2007 will provided:
+
+“I hereby declare, all my children and descendants have received adequate and appropriate care during my lifetime; I hope that they can be self-reliant, and do good to the society and mankind. Therefore, I do not intend to give any portion of my remaining properties to them as a gift. I also hope that all my children and descendants can get along harmoniously, and (they) shall not rashly commence any lawsuits or dispute over my remaining properties.”
+
+Madam Ng also made a mirror image will on the same day.
+
+96.  The 2007 will, as one would expect, expressly revoked the 2006 will.  However, we were left in the dark about the testator’s attitude over Clause 6 of the 2006 will, or the parents’ statement of 21 April 2006.  It is not clear whether the AAS or AAIE shares held in the names of one or more of his daughters were then regarded or understood by the testator to be part of the “remaining property” disposed of under the 2007 will.  The use of the expression “all the properties under my name” in this context, is not illuminating.  We do not know why Clause 6 of the 2006 will was not repeated.  The testator sitting in his arm-chair would have been aware that he had said in Clause 6 of the 2006 will and in the parents’ statement that these shares were not beneficially owned by him.  He would also know that in the joint undertaking made at his request, his daughters stated that they were the beneficial owners of the 3,500,000 shares in AAIE.  Unfortunately, the solicitors’ notes in connection to the 2007 will have not been produced.  I believe one may fairly proceed on the basis that the solicitors must have been aware of the content of the 2006 will and the existence of the parents’ statement and the joint undertaking.  It is a mystery why no illumination was provided in the 2007 will or at all.  In such context, the simple language chosen, viz. “all the properties under my name” is puzzling. Madam Ng’s 2007 will also used the expression “all the properties under my name”, given that she had admitted that she held the AAS shares on trust for the 1st respondent, if that was true, no beneficial interest in the AAS shares could pass under her will. But since we are not concerned with her will, nor were any submissions made in regard to her will, I will say no more.
+
+97.  The next will was made on 6 February 2008 and this is the will in suit.
+
+98.  This is the joint will[52] of the testator and Madam Ng but we are only concerned with the testator’s part of the will.  It is in Chinese and drafted by Hastings with the 1st respondent as the sole executrix and trustee.  It revoked all previous wills.  Clause (II) stated “We hereby declare that this Will shall govern and deal with all the properties under our names (wheresoever situate worldwide).”  In this respect, there is no difference in substance from the 2007 will. However, it differed importantly from the 2007 will in that instead of leaving the residuary estate to the survivor absolutely, the survivor was given a life interest in the income (Clause V) with a gift over to charities.  Some details were provided, for example, HK$100,000,000 to different charitable uses in Hong Kong, and a similar amount to charitable uses in their native village in the Mainland.  There were also other charitable uses, in respect of which no specific amount was stated but in relation to which substantial sums were likely to be required, for example, a donation to Singapore Buddhist Lodge for study and research, scholarships for two universities in Singapore as well as ten top universities in the world.
+
+99.  There is a Clause (XI) which is similar in effect to the Clause (VI) of the 2007 will.
+
+100.  In the construction of the 2008 will, I have not found it necessary to resort to either Clause (V) which gave the survivor a life interest in the income or Clause (XI).  Clause (V) is a clause which one would expect to find in a will which provided for a life interest.  On the available evidence it does not appear to me that any such income was necessary for the livelihood of the testator or Madam Ng.  Clause (XI) is common in a will where no provision is made for persons for whom one would normally provide.  My view on the proper construction of the 2008 will does not depend on such standard clauses.
+
+101.  However, the generous provisions made for charities in the 2008 will are important because they show that, rightly or wrongly, the testators thought their estates were substantial.  However, if Mr Fung is correct, as Ribeiro PJ’s judgment explains[53], the assets in the estates would have been quite inadequate.[54] 
+
+102.  A document much relied on by Mr Fung which postdated the 2008 will is the letter dated 16 August 2008 addressed to their children by the testator and Madam Ng.  Ribeiro PJ dealt with them in paras 20 and 21 of his judgment.  I do not believe this letter helps Mr Fung at all.  It is true that the letter showed that the testator had intended to give the AAIE shares to Madam Ng and the children.[55]  The letter showed that, rightly or wrongly, the testator regarded the shares as being at his disposal.  Whether that was because he was their beneficial owners or because of his moral authority over his children is not for me to decide.  Nor was Mr Fung content to stop at the AAIE shares.  He argued that the testator had intended to make a gift of the AAS shares or at least AAS’s holding in EnGro to the appellants or some of them.  I must confess that here, Mr Fung has an impossible task.  Far from supporting Mr Fung’s contention, the letter clearly contradicts it.  The parents were clear that their other assets, i.e. other than the AAIE shares should go to charities.  Nor does the letter assist in the construction of the expression “under our names”. Mr Fung suggested that when the testator used the expression “under our names”, he intended to exclude from his will properties owned by him which were not held in his name.  He submitted that the testator had intended to deal with such properties during his lifetime, but since unfortunately, he had failed to dispose of them inter vivos, there was an intestacy in relation to them. I can readily accept that as the letter of 16 August 2008 made clear the testator and Madam Ng intended to deal with the AAIE shares and the AAS shares in a deed of family arrangement to be drafted by solicitors “to avoid family members having any arguments or disputes amongst themselves in future”, I cannot accept that the testator intended by the use of the expression “all the properties under our names” to indicate that failing disposition inter vivos they should devolve as on intestacy. That flies in the face of his intention to benefit the various charities so clearly stated in the 2008 will as well as in the letter.  If it was the testator’s conscious decision to exclude properties beneficially owned by him but not held in his name from his will, I do not believe he would have chosen to communicate his intention so obliquely[56]. Indeed, at the making of the 2008 will, either the deceased regarded the shares as beneficially owned by him or he did not.  If he did and he intended to exclude them, I believe he would have said so clearly in the will.[57]  If he did not regard them as beneficially his, then the expression “all our properties” could not have been chosen with the exclusion of those assets in mind.  Ribeiro PJ in his judgment has highlighted other difficulties with Mr Fung’s construction, for example, the possible exclusion of valuable properties such as paintings and antiques.  I regret to say, since no inter vivos disposition was made, the AAIE shares, if they were beneficially owned by the testator, would devolve under the will.
+
+103.  Since, as Mr Fung accepted, as he must, that one of the meanings of “我們名下…的財產” “properties under our names” is “properties belonging to us”, I am of the view that properly construed in the light of all the circumstances highlighted above, the testator intended by the expression “all the properties under our names” to cover all properties belonging to him.
+
+104.  For the above reasons, I agree that the appeal must be dismissed.  It is a matter of regret that notwithstanding Madam Ng’s admirable effort[58] to give effect to the wishes of the testator[59], the parties were unable to settle their dispute amicably.  I can only say that even now, with the co-operation of Madam Ng, a settlement may still be achieved.
+
+ 
+
+Mr Justice Fok PJ:
+
+105.  I agree with the judgment of Mr Justice Ribeiro PJ.
+
+ 
+
+Lord Neuberger of Abbotsbury NPJ:
+
+106.  I agree with the judgment of Mr Justice Ribeiro PJ.
+
+ 
+
+Chief Justice Ma:
+
+107.  The Court unanimously dismisses the appeal and makes the orders as to costs set out in the final paragraph of the judgment of Mr Justice Ribeiro PJ.
+
+ 
+
+ 
+
+(Geoffrey Ma)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Robert Tang)
+Permanent Judge
+ 
+
+ 
+
+(Joseph Fok)
+Permanent Judge
+
+(Lord Neuberger of Abbotsbury)
+Non-Permanent Judge
+
+ 
+
+Mr Patrick Fung SC and Mr Johnny Ma, instructed by Fairbairn Catley Low & Kong, for the 1st to 4th Plaintiffs (Appellants)
+
+Mr Wong Yan Lung SC and Mr Derek Hu, instructed by ONC Lawyers, for the 1st Defendant (1st Respondent)
+
+Ms Agnes CM Chan SGC, of the Department of Justice, on watching brief for the 2nd Defendant (2nd Respondent)
+
+ 
+
+Annex A
+
+Joint Will of
+TAN Kiam Toen
+NG Giok Oh
+
+I, TAN Kiam Ton, holder of Hong Kong Permanent Resident Identity Card Number [XXX], and I, NG Giok Oh, holder of Hong Kong Identity Card Number [XXX], currently residing at [XXX], Bowen Road, Hong Kong, now make this our Will and the contents are as follows :
+
+(I) We hereby revoke all our previous wills and testamentary dispositions heretofore made by us and declare that this to be our last Will.
+
+(II) We hereby declare that this Will shall govern and deal with all the properties under our names (wheresoever situate worldwide).
+
+(III) We are both permanent residents of Hong Kong Special Administrative Region, and Hong Kong is our place of domicile.  We hereby declare that the interpretation and execution of this Will shall be in accordance with the laws of Hong Kong.
+
+(IV) We hereby appoint our daughter, TAN Choo Suan, holder of Hong Kong Identity Card Number [XXX], to be the sole Executrix and Trustee of this our Will (hereinafter referred to as “our Trustee”).
+
+(V) We mutually undertake to each other that in the event one of us predeceases the other, subject to the payment of all the necessary expenses (such as payment of debts, payment of funeral expenses and payment of the requisite testamentary expenses, and also payment of government taxes, et cetera), the survivor of us can enjoy during his/her lifetime the income derived from the estate of the first-deceased of us.
+
+(VI) When the survivor of us has also passed away, we handover all our properties to our Trustee for her to make the judgment/s based on the actual circumstances and needs, and to exercise her power to sell, resell, lease, mortgage, convert into cash our properties or any portion thereof.  Our Trustee shall also have the power to revise, amend, (or) cancel the aforesaid act, or retain the said properties and maintain the status quo.  However, she shall not be liable for any loss that may arise from the sale or from a delay in the sale of our properties.  And subject to the payment of all the necessary expenses (such as payment of debts, payment of funeral expenses and payment of the requisite testamentary expenses, and also payment of government taxes, et cetera), our Trustee shall hold our residuary estate on trust and shall make the following arrangements.
+
+(VII) Our Trustee is required to allocate a sum of Hong Kong dollars one hundred million (HK$100,000,000) from our residuary estate and donate it to organizations, bodies, or units in Hong Kong to be used for charity, medical, education, elderly care, and help for the young and the poor.  As for the decision on the specific beneficiary organizations, bodies or units, the amount to donate, and the form of donation, it shall be for our Trustee to exercise her absolute discretion.  The receipts issued by the persons in charge of the beneficiary organizations, bodies or units, (such as the chairman, director, administrative secretary, manager or other authorized personnel) shall be valid, and can discharge our Trustee of her responsibilities.
+
+(VIII) Our Trustee is required to allocate a sum of Hong Kong dollars one hundred million (HK$100,000,000) from our residuary estate and donate it to the organizations, bodies, or units in our home town – Shanting Village, Maxiang Town, Xiang’an District, Fujian Province, China – and in Xiamen to be used for charity, medical, education, elderly care, and help for the young and the poor.  As for the decision on the specific beneficiary organization, bodies or units, the amount to donate, and the form of donation, it shall be for our Trustee to exercise her absolute discretion.  The receipts issued by the persons in charge of the beneficiary organisations, bodies or units, (such as the chairman, director, administrative secretary, manager or other authorized personnel) shall be valid, and can discharge our Trustee of her responsibilities.
+
+(IX) Our Trustee is required to use our residuary estate for the following purposes :
+
+1. Donate a sum of money to Singapore Buddhist Lodge to be used for setting up a school for Buddhist studies.  As for the decision on the amount to donate and the form of donation, it shall be for our Trustee to exercise her absolute discretion.
+
+2. Donate a sum of money to National University of Singapore.  As for the decision on the amount to donate and the form of donation, it shall be for our Trustee to exercise her absolute discretion.
+
+3. Set up a permanent scholarship, to encourage and reward Chinese students who could gain admission into National University of Singapore, Nanyang Technological University of Singapore, and the top ten institutions of higher learning in the world to pursue a bachelor’s degree course.  As for the decision on the list of students to be awarded the scholarship, the amount and number of scholarships to be awarded, and which universities are “the top ten institutions of higher learning in the world”, our Trustee may exercise her absolute discretion.
+
+4. Donate monies to organizations, bodies or units in need, to be used for the care of the aged, for medical and other social charitable services in the Republic of Singapore.  As for the decision on the specific beneficiary organizations, bodies or units, the amount to donate, and the form of donation, it shall be for our Trustee to exercise her absolute discretion.
+
+The receipts issued by the persons in charge of the beneficiary organizations, bodies or units, (such as the chairman, director, administrative secretary, manager or other authorized personnel) shall be valid, and can discharge our Trustee of her responsibilities.
+
+We hope that the donations for the foregoing Item No.(IX) could be executed and operated through a charitable trust fund set up in our names in the Republic of Singapore.
+
+(X) We hereby direct that during the lifetime of our Trustee, based on the actual circumstances and needs, she can decided whether it is necessary to appoint other person/s or organization/s to replace her as executor of this Will or to be the joint executor of this Will with her.  In the event the executor of this Will is a professional or is an organization, the said executor can enjoy the usual remunerations a professional/organization is entitled to in administering our estate and in conducting the businesses in connection with the trust (including some acts that could also be carried out by non-professional persons or organizations).
+
+(XI) We hereby declare, all our children and descendents have received adequate and appropriate care during our lifetime.  We hope that they can be self-reliant, and do good for society and mankind.  As such, we do not intend to give any portion of our residuary estate to them.  We also hope that all our children and descendents can get along harmoniously, and (they) must not commence any lawsuits or disputes indiscriminately over our residuary estate.
+
+We, TAN Kiam Toen and NG Giok Oh, signed this Will as our last Will on 6 February 2008 in the presence of the undersigned witnesses; the witnesses have at the request of the testators signed as witnesses at the same time, and when signing as witnesses, the testators and the witnesses were all present at the same time, attesting for each other. 
+
+Signed (Testator)
+
+Signed (Witness)
+
+
+Annex B
+
+CODICIL
+
+I, TAN Kiam Toen, holder of Hong Kong Permanent Resident Identity Card Number [XXX], and I, NG Giok Oh, holder of Hong Kong Identity Card Number [XXX], currently residing at [XXX], Bowen Road, Hong Kong, hereby declare this to be a First Codicil to our Joint Will made on 6 February 2008.
+
+We hereby make the following additions to our Joint Will made on 6 February 2008 : -
+
+(1) In Australia we own a real estate property located at [XXX], Castle Cove, NSW 2069, Australia, as joint tenants (hereinafter referred to as the “Australia Sydney Property”).
+
+(2) On 24 May 2003, we arranged for our eldest daughter, TAN Choo Suan, (Hong Kong Identity Card Number [XXX]) to become the third joint tenant for our Australia Sydney Property, to own the said Australia Sydney Property jointly with us.
+
+(3) In Hong Kong we also own a real estate property located at [XXX] Bowen Road, Hong Kong, as joint tenants (hereinafter referred to as the “Hong Kong Bowen Mansion Property”).
+
+(4) As all along Choo Suan is not married and (she) has no children, during our old age she has also resigned from an ideal job in America and returned to Hong Kong, and she has all along been keeping us company and taking care of us, as such, our wish is that after both of us have passed away, Choo Suan will solely inherit and wholly own and enjoy the use of our Australia Sydney Property and Hong Kong Bowen Mansion Property.
+
+(5) We are award and also understand that as one of the joint tenants of the property, after both of us have passed away, according to the legal principle of right of survivorship, Choo Suan will automatically become the sole owner of the Australia Sydney Property.
+
+(6) As for the Hong Kong Bowen Mansion Property, we now direct that after both of us have passed away, Choo Suan will solely inherit and wholly own and enjoy the use of (the property).
+
+(7) In the event during our lifetime (or during the lifetime of the survivor of us), the Hong Kong Bowen Mansion Property is sold and another new property is purchased to be used as (our) residence, then the directions in paragraph (6) shall apply to the newly purchased property.  In other words, the Principle of Ademption shall not apply to the Hong Kong Bowen Mansion Property.
+
+(8) Other than the foregoing additions/amendments, we confirm that the other contents of the “Joint Will” we made on 6 February 2008 are correct, and are still valid.
+
+We, TAN Kiam Toen and NG Giok Oh, signed this instrument on 8 May 2008 to be a First Codicil to our Joint Will made on 6 February 2008 in the presence of the undersigned witnesses; the witnesses, at the request of the testators, have signed as witnesses at the same time, and when signing as witnesses, the testators and the witnesses were all present at the same time, attesting for each other.
+
+Signed (Testator)
+
+Signed (Witness)
+
+[1] Cap 30.
+
+[2] See Williams on Wills (Lexis Nexis, 10th Ed), para 2.2.
+
+[3] The details of this transaction may be subject to dispute in the Singapore proceedings, but are accepted as stated above for the purposes of the Hong Kong proceedings.
+
+[4] On the same day, Madam Ng executed a will which was the mirror image of the 2006 Will.
+
+[5] This was also stated in a signed and witnessed statement of the same date.
+
+[6] DHCJ Chu (see below) at §8(11).
+
+[7] If AAIE were wound up, the EnGro shares were to be distributed along the same lines.
+
+[8] In Chinese: “名下所有在香港以及其它任何地方的財産(包括動産及不動産)”. 
+
+[9] Again jointly with Madam Ng.
+
+[10] As amended by additions made on 9 June 2011 and 18 March 2013.
+
+[11] On 11 July 2013.
+
+[12] HCMP 246/2013 (6 September 2013).
+
+[13] Judgment §40 and §42.
+
+[14] Judgment §§48-50.
+
+[15] CACV 200/2013 (23 May 2014) Hon Lam VP, Kwan JA and Poon J, Poon J giving the Judgment of the Court.
+
+[16] Court of Appeal §39
+
+[17] Court of Appeal §40.
+
+[18] (2015) 18 HKCFAR 169.
+
+[19] [2015] AC 129.
+
+[20] Chinachem Charitable Foundation at §27. 
+
+[21] Chinachem Charitable Foundation at §29, citing Marley at §20.
+
+[22] Chinachem Charitable Foundation at §29 citing Marley at §19.
+
+[23] As Lord Walker NPJ points out (Chinachem Charitable Foundation at §30), section 19 of the Wills Ordinance provides that: “Every will shall, with reference to the property comprised in it, be construed to speak and take effect as if it had been executed immediately before the death of the testator, unless a contrary intention appears from the will”, the same applying equally to any general description of a class of beneficiaries.
+
+[24] Chinachem Charitable Foundation at §31.
+
+[25] Chinachem Charitable Foundation at §31 citing Lord Mance in Re Sigma Finance Corporation [2010] 1 All ER 571 at §12.
+
+[26] Chinachem Charitable Foundation at §31.
+
+[27] Which is based on and identical to section 21 of the English Administration of Justice Act 1982.
+
+[28] “Applied” appears to be a typographical error.
+
+[29] Judgment §40.
+
+[30] Appellants’ printed case, §10.  See also §36.
+
+[31] Appearing with Mr Johnny Ma for the appellants.
+
+[32] Williams on Wills (Lexis Nexis, 10th Ed), para 51.1.
+
+[33] (1885) 30 Ch D 390 at 393.
+
+[34] Williams on Wills (Lexis Nexis, 10th Ed), para 2.1.
+
+[35] The Secretary for Justice, however, has not taken any active part in the proceedings.
+
+[36] We are not concerned with Madam Ng, who, happily, is still with us.
+
+[37] Para 42.
+
+[38] Lam VP, Kwan JA and Poon J.
+
+[39] Ribeiro, Tang and Fok PJJ.
+
+[40] Pursuant to Rule 7 HKCFA rules Cap 484.
+
+[41] We are not concerned with Madam Ng.
+
+[42] A 70% interest in EnGro.
+
+[43] The closing price of these shares was S$0.66 on 14 Nov 2008, the day before the testator died.
+
+[44] This was given an open market value of $65,000,000 as at 26 May 2009.  
+
+[45] Namely, 3,500,000 shares in AAIE and 2,542,590 shares in AAS.
+
+[46] The same might be said of Madam Ng’s holding of AAS shares in regard to her 2006 will.
+
+[47] See para 90 above.
+
+[48] Some only in the sense that they would retain some of the shares for themselves.
+
+[49] In the event of the liquidation of AAIE, shares in EnGro.
+
+[50] Beswick v Beswick[1968] AC58.
+
+[51] I shall use the English translation of the 2007 will and the 2008 will unless it is necessary to consider the Chinese original.
+
+[52] There is a codicil dated 8 May 2008, see para 19, Ribeiro PJ’s judgment above.
+
+[53] In sections E.2 and E.3.
+
+[54] I have not ignored Madam Ng’s shares in AAS but it is reasonably clear that the testator’s estate was the more substantial.
+
+[55] But they would share them differently from what was stated in the joint undertaking.
+
+[56] And if he had communicated such intention to his solicitors (as one would expect), I believe such intention would have been clearly spelt out in the will.
+
+[57] One example is Clause 6 of the 2006 will.  Though if the testator was wrong in thinking that they were not beneficially his, they would nevertheless pass under his will if the expression “under our names” properly construed meant “belonging to us”.
+
+[58] Apparently with the agreement of the 1st respondent.
+
+[59] Para 23, Ribeiro PJ’s judgment above.

@@ -1,0 +1,223 @@
+FAMV No. 251 of 2023
+
+[2023] HKCFA 29
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 251 OF 2023 (CIVIL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL FROM
+
+CACV NO. 384 OF 2022)
+
+________________________
+
+BETWEEN
+
+ 	CHINA METAL RECYCLING (HOLDINGS) LIMITED (IN LIQUIDATION)	1st Plaintiff
+(1st Respondent)
+ 	COSIMO BORRELLI AND CHI LAI MAN JOCELYN
+IN THEIR CAPACITY AS THE JOINT AND
+SEVERAL LIQUIDATORS OF CHINA METAL
+RECYCLING (HOLDINGS) LIMITED	2nd Plaintiff
+(2nd Respondent)
+ 	and	 
+ 	UBS AG	1st Defendant
+(Applicant)
+ 	UBS EUROPE SE (FORMERLY TRADING AS UBS LIMITED)	2nd Defendant
+________________________
+
+Appeal Committee:	Mr Justice Ribeiro Acting CJ, Mr Justice Lam PJ and Mr Justice Bokhary NPJ
+Date of Hearing and Determination:	30 August 2023
+Date of Reasons for Determination:	5 September 2023
+__________________________________
+
+REASONS FOR DETERMINATION
+
+__________________________________
+
+Mr Justice Ribeiro Ag CJ:
+
+1.  At the hearing, this application for leave to appeal was dismissed with costs for reasons which we now provide.
+
+A.  The background
+
+2.  China Metal Recycling (Holdings) Limited (“CMR”) was listed on the Hong Kong Stock Exchange (“HKEX”) on 22 June 2009, raising HK$1.7Bn on its Initial Public Offering (“IPO”). Mr Chun Chi Wai (“Chun”) was a director, its Chairman and CEO. UBS AG was one of the joint sponsors, the sole global coordinator, sole lead manager and sole bookrunner for that IPO. UBS AG had provided financial advice to CMR prior to the listing and had acted as the exclusive placement agent in connection with certain notes and warrants issued by CMR. UBS Europe SE, a wholly-owned subsidiary of UBS AG, had subscribed for some of those notes and warrants, and on the successful IPO, reaped substantial profits from those instruments either for itself or for UBS AG.
+
+3.  Some four years after the listing, on 26 July 2013, the Securities and Futures Commission petitioned to wind up CMR and the 2nd Plaintiffs (“Ps”) were appointed as provisional liquidators. CMR was wound up on 26 February 2015 on the ground that large-scale fraud had been perpetrated by Chun on HKEX and investors. Ps were appointed Liquidators on 14 May 2015.
+
+4.  They issued the writ on 25 July 2019 and served it on UBS AG in Hong Kong on 23 June 2020. UBS Europe SE was served in Germany as a necessary or proper party to the Hong Kong action against UBS AG. In this application, we are concerned only with the action against UBS AG.
+
+5.  Ps allege that UBS AG had acted dishonestly by permitting or procuring Chun to make representations to HKEX and potential investors in the listing application which overstated CMR’s revenues and profits and which UBS knew or suspected were false, and by continuing to assist CMR in that application without making the necessary investigations, enquiries or disclosures.[1]
+
+6.  Ps’ claim against UBS AG is framed in terms of dishonest assistance and knowing receipt in connection with Chun’s breaches of fiduciary duty. They claim that UBS AG is liable to disgorge fees and commissions received and the sums of HK$79M and HK$244M representing the proceeds of the notes and warrants. Ps’ further or alternative claim is for fraudulent trading under section 275 of the Companies (Winding-up and Miscellaneous Provisions) Ordinance[2] (“CO s 275” and “the Ordinance”), alleging that UBS AG was knowingly a party to Chun’s carrying on of the business of CMR with intent to defraud the company’s creditors and/or for a fraudulent purpose. Ps claim that UBS AG is liable under CO s 275 for all or any of the debts or other liabilities of CMR.[3]
+
+B.  The procedural history
+
+7.  The writ containing the fraudulent trading claim under CO s 275 (issued on 25 July 2019) was served on UBS AG on 23 June 2020. UBS AG at that stage took no objection to the form of the proceedings and proceeded to defend the action:
+
+“It sought and obtained from the plaintiffs documents referred to in the pleading of, inter alia, the fraudulent trading claim. It sought security for the costs of defending the action including the fraudulent trading claim. It filed and served its defence on 24 December 2020, denying the allegations comprised in the fraudulent trading claim and raising no objection to the form of the claim. On 5 May 2021, it filed and served further and better particulars of its defence.”[4]
+
+8.  On any view, the writ was served in time and limitation was not pleaded in UBS AG’s defence.[5] However, in the light of two judgments of Ng J in a different liquidation (in which Ps’ firm were Liquidators)[6] Ps became aware of a potential objection to the CO s 275 claim having been commenced by writ instead of by a misfeasance summons in the winding-up as required by rule 58(1) of the Companies Winding-up Rules (“WU r 58(1)”) which relevantly provides:
+
+“An application under any of the following provisions ... (b) section 275(1), (2) or (4) of the Ordinance; ... shall be made by a summons returnable in the first instance in chambers, in which summons shall be stated the nature of the declaration or order for which application is made, and the grounds of the application, and which summons, unless otherwise ordered by the court, shall be served, in the manner in which an originating summons is required by the Rules of the High Court (Cap. 4 sub. leg. A) …”
+
+9.  Thus, as a precautionary measure,[7] Ps issued a summons in the winding-up claiming essentially the same relief for fraudulent trading under CO s 275 and served it on UBS AG on 28 May 2021, seeking directions that such summons and the action begun by writ should be consolidated.
+
+10.  It was at this point that UBS AG raised the originating process objection. It sought to strike out the writ as having been issued in breach of WU r 58(1).[8] As the argument developed, UBS AG also sought to contend that the claim initiated by the misfeasance summons is time-barred.[9] The question of limitation is very much in dispute. But if UBS AG’s arguments were to succeed, it would rid itself of the entire claim, the writ being set aside as a nullity and the remaining summons being time-barred.
+
+C.  The Judge’s decision
+
+11.  The striking out application succeeded before the Judge[10] who held that WU r 58(1) imposed a mandatory requirement so that commencing a CO s 275 claim by writ was not allowed. He held that claim was therefore a nullity.[11] His Lordship held that it could not be saved by O 2 r 1(3)[12] and O 2 r 2(1)[13] of the Rules of the High Court (“RHC”) for several reasons, the most relevant being that “by virtue of Order 1 rule 2(2),[14] the RHC do not apply to winding up proceedings”[15].
+
+12.  Ps also sought to rely on WU r 209(1) which is pivotally important in the present application. It provides:
+
+“No proceedings under the Ordinance or the rules shall be invalidated by any formal defect or by any irregularity, unless the court is of opinion that substantial injustice has been caused by the defect or irregularity, and that the injustice cannot be remedied by any order of the court.”
+
+13.  The Judge, however, held that they could not rely on that rule apparently for the simple reason that they had sought to bring their CO s 275 claim by writ instead of by summons under WU r 58(1):
+
+“I do not believe that the Plaintiffs can rely upon Rule 209(1) to cure the defect in their s 275 Claim when they relied upon the inapplicable regime under the RHC to make that Claim. Had they relied upon Rule 58 to make their claim, then Rule 209(1) may be invoked in the event of defect.”[16]
+
+D.  The Court of Appeal’s judgment and UBS AG’s arguments
+
+14.  In our view, for reasons corresponding to those provided by the Court of Appeal, the appeal was rightly allowed and UBS AG’s striking out summons rightly dismissed. The contrary is not reasonably arguable.
+
+15.  It is not in dispute that under WU r 58(1), a CO s 275 fraudulent trading claim made in the course of a winding-up “shall be made” by summons in the winding-up and that, by commencing the proceedings by writ, Ps failed to comply with that rule.
+
+16.  We would also accept that the RHC’s curative provisions (O 2 r 1(3) and O 2 r 2(1)) regarding adoption of an incorrect originating process are not applicable because proceedings relating to the winding-up of companies are excluded by O 1 r 2(2). However, it is important to note that the reason why O 1 r 2(2) excludes such winding-up proceedings is that they are “proceedings in respect of which rules may be made under the enactments specified in the second column of that Table”, ie, the Winding-up Rules. In other words, in cases of incorrect originating process, curative relief is to be sought in the winding-up rules relevant to the appropriate proceedings.
+
+17.  Although not applicable, the RHC statutory scheme is instructive. It expressly provides[17] that use of a wrong originating process “shall be treated as an irregularity and shall not nullify the proceedings, any step taken in the proceedings, or any document, judgment or order therein.” Moreover, any challenge to such non-compliance must be “made within a reasonable time and before the party applying has taken any fresh step after becoming aware of the irregularity”, showing that non-compliance can be waived. It is therefore clear that such defects are treated as purely procedural and curable, usually on terms as to costs with any other appropriate directions. Non-compliance does not mean nullity.
+
+18.  WU r 209(1) is similarly curative. It provides that “no proceedings under the Ordinance [ie, Cap 32] or the rules shall be invalidated by any formal defect or by any irregularity, unless the court is of opinion that substantial injustice has been caused by the defect or irregularity, and that the injustice cannot be remedied by any order of the court.”
+
+19.  With respect, the Judge’s decision that WU r 209(1) was inapplicable simply because Ps had relied on “the inapplicable regime under the RHC to make that Claim”[18] begs the very question at hand: Is the admitted non-compliance by issue of a writ merely a “formal defect or irregularity” coming within WU r 209(1) and therefore curable?
+
+20.  Mr Jat Sew-tong SC, appearing for UBS AG, similarly evaded the issue whether WU r 209(1) is applicable by contending, as the premise of his argument, that non-compliance with WU r 58(1) rendered the writ a nullity so that there was nothing capable of being cured by WU r 209(1). That is a question-begging premise that flies in the face of the content, purpose and effect of that rule and is unsustainable.
+
+21.  The Court of Appeal’s analysis demonstrates that WU r 209(1) is plainly applicable:
+
+(a)  The “proceedings” in which the CO s 275 claim is made are “proceedings under the Ordinance”, defined by WU r 2 as “the proceedings in the winding up of a company”; brought under Cap 32 before the right court by liquidators who are given standing under CO s 275.
+
+(b)  The substantive claim is “under the Ordinance” being a claim for fraudulent trading under CO s 275 made “in the course of the winding up”.
+
+(c)  The Court of Appeal concluded, and we agree, that commencing the claim by writ instead of by summons is a “formal defect” or “irregularity”.[19] In Phillips v McGregor-Paterson,[20] Henderson J so held in relation to the equivalent UK rule. There is no difference in the substance between the fraudulent trading claim initiated by writ and that contained in the later summons, merely a difference in the form of the originating process.
+
+(d)  It follows that, unless the court is satisfied that “substantial injustice has been caused by the defect or irregularity, and that the injustice cannot be remedied by any order of the court”, the writ should not be invalidated and the proper approach would be to give appropriate directions for the continuation of the case.
+
+22.  UBS AG also sought to argue that “substantial injustice” exists so as to exclude WU r 209(1) principally because granting Ps such relief, would mean that UBS AG is deprived of an accrued limitation defence.[21]
+
+23.  That is quite untenable:
+
+(a)  First, there is no “accrued limitation defence”. The writ was issued in good time and UBS AG has not pleaded limitation in its defence. The striking out application was brought, not on the basis that the claim was time-barred, but for non-compliance with WU r 58(1).[22]
+
+(b)  Since issuing the claim by writ instead of a summons is a formal defect, application of WU r 209(1) to cure that defect does not defeat any “accrued limitation defence”. It cures a formal defect where no limitation defence exists. It does not cause UBS AG any injustice. Indeed, UBS AG’s argument has it the wrong way around. If a curative order under WU r 209(1) were refused, UBS AG would possibly gain a previously non-existent limitation defence and deprive Ps of a claim which was brought in time, albeit with a formal defect. Refusing the curative relief would cause substantial injustice to the company in liquidation, not to UBS AG.
+
+(c)  Secondly, even on the (rejected) argument that one should treat the writ as a “nullity”, it is by no means clear that UBS AG has an accrued limitation defence in respect of the misfeasance summons. Relevant dates are as follows:
+
+26.2.15	Date of winding-up order. UBS AG says limitation period starts here, runs out in 6 years’ time, so claim is time-barred on 26.2.21.
+ 
+14.5.15	Ps were appointed Liquidators. Ps say limitation period starts here, so claim is prima facie time-barred on 14.5.21.
+ 
+25.7.19	Writ issued, within time on any view.
+ 
+12.5.21	Winding-up s 275 summons issued. Out of time per UBS AG. Within time per Ps.
+ 
+(d)  The Court of Appeal was content to assume that both positions were arguable and so did not accept that UBS AG had an accrued limitation defence.[23] There is also a potential issue as to the applicability (factually and as a matter of law) of section 26(1) of the Limitation Ordinance[24] regarding postponement of the limitation period in case of fraud, concealment or mistake, again raising potential issues of fact and law that can only be dealt with at trial.
+
+24.  The other complaint made by UBS AG is that Ps deliberately and knowingly chose the wrong originating process and should, for that reason, be refused relief under WU r 209(1). While the Court of Appeal expressed surprise that Ps had not changed tack sooner (after becoming aware of the point arising in China Medical Technologies, Inc v Wu Xiaodong[25]), it took into account the overall conduct of the proceedings (including UBS AG’s active participation for many months without any WU r 58 objection) and decided that “it would be a disproportionate response to strike out the claim on the ground of the formal defect, in circumstances where the subsequent section 275 summons is arguably time-barred and the application to strike out was issued even later”.[26]
+
+E.  The leave application
+
+25.  The Court of Appeal refused leave to appeal sought on the same grounds as are now being advanced.[27] UBS AG seeks leave, proposing the following Questions:
+
+Question 1:
+
+Whether a purported claim for fraudulent trading pursuant to s.275 of the Companies (Winding Up and Miscellaneous Provisions) Ordinance, Cap 32 (“Ordinance”) brought by writ of summons in deliberate and knowing breach of rule 58(1) of the Companies (Winding Up) Rules, Cap 32H (“WU Rules”) is or can be regarded as “proceedings under the Ordinance” within the meaning of rule 209 of the WU Rules (Judgment §22), or is it a nullity by reason of the breach of the mandatory provision of rule 58(1) (i.e., the position adopted by Anthony Chan J (“Judge”) in the CFI Judgment dated 20.7.2022 ([2022] HKCFI 2215; “CFI Judgment”)).
+
+Question 2:
+
+Does rule 209, being a provision in subsidiary legislation, empower the Court to deprive a defendant of an accrued substantive right to rely on a valid limitation defence under the Limitation Ordinance, Cap 347 (‘LO’').
+
+Question 3:
+
+In the alternative to Question 2, does ‘substantial injustice’ within rule 209 include the deprivation of a valid limitation defence? See Judgment §29, Re Continental Assurance Co of London plc (in liq) (No 2) [1998] 1 BCLC 583 per Evans-Lombe J at 587h, Re Taunton Logs Ltd [2020] EWHC 3480 (Ch) at §45.2; but cf Allen v Mittal [2022] EWHC 762 (Ch) per Deputy ICC Judge Agnello QC at §72, Re SMU Investments Ltd [2020] EWHC 875 (Ch) per ICC Judge Prentis §49, Re Baillies Ltd (in liq) [2012] BCC 554 per HH Judge Purle QC at §22.
+
+26.  For the reasons given above, we do not consider any of those questions reasonably arguable. As to Question 1, the case plainly falls within WU r 209(1) and the proposition that non-compliance with WU r 58(1) rendered the writ an incurable nullity is indefensible. Questions 2 and 3 are both premised on UBS AG having an accrued limitation defence and that granting curative relief would deprive it of the same – which cannot be made out.
+
+27.  Leave is also sought on the “or otherwise” ground based on the criticism that Ps knowingly and deliberately failed to comply with WU r 58(1). The Court of Appeal duly considered this and exercised its discretion to permit reliance on WU r 209(1) taking account of the overall conduct of the proceedings. There is no basis for interfering with that exercise of discretion.
+
+28.  In essence, UBS AG seeks to reinstate a decision striking out Ps’ claim on the ground of non-compliance with a rule that ought to have been treated as straightforwardly curable. We accordingly dismissed the application with costs on the basis that none of the points sought to be raised is reasonably arguable.
+
+ 
+
+ 
+
+(R A V Ribeiro)
+Acting Chief Justice	(M H Lam)
+Permanent Judge	(Kemal Bokhary)
+Non-Permanent Judge
+  
+
+Mr Jat Sew Tong SC and Ms Elizabeth Cheung, instructed by Herbert Smith Freehills, for the 1st Defendant (Applicant)
+
+Mr Charles Sussex SC, instructed by, and Mr Kevin Kee (Solicitor Advocate) of, Karas So LLP, for the 1st & 2nd Plaintiffs (1st & 2nd Respondents)
+
+
+[1]  Court of Appeal: CA §8.
+
+[2]  Cap 32. CO s 275 provides: “If in the course of the winding up of a company it appears that any business of the company has been carried on with intent to defraud creditors of the company or creditors of any other person or for any fraudulent purpose, the court, on the application of the Official Receiver, or the liquidator or any creditor or contributory of the company, may, if it thinks proper so to do, declare that any persons who were knowingly parties to the carrying on of the business in manner aforesaid shall be personally responsible, without any limitation of liability, for all or any of the debts or other liabilities of the company as the court may direct.”
+
+[3]  CA §§8-9.
+
+[4]  CA §33.
+
+[5]  CA §§28-29.
+
+[6]  China Medical Technologies, Inc v Wu Xiaodong [2020] 1 HKLRD 342; and China Medical Technologies, Inc v Bank of China (Hong Kong) Limited [2021] HKCFI 3042.
+
+[7]  CA §34.
+
+[8]  Summons issued on 27 January 2022.
+
+[9]  Letter from Herbert Smith Freehills to Karas LLP dated 9 September 2021.
+
+[10]  Anthony Chan J [2022] HKCFI 2215 (“Decision”).
+
+[11]  Decision §27.
+
+[12]  Order 2 r 1(3) provides: “The Court shall not wholly set aside any proceedings or the writ or other originating process by which they were begun on the ground that the proceedings ought to have begun by an originating process other than the one employed, but shall instead give directions for the continuation of the proceedings in an appropriate manner.”
+
+[13]  Order 2 r 2(1) provides: “An application to set aside for irregularity any proceedings, any step taken in any proceedings or any document, judgment or order therein shall not be allowed unless it is made within a reasonable time and before the party applying has taken any fresh step after becoming aware of the irregularity.”
+
+[14]  Order 1 r 2(2) provides: “These rules shall not have effect in relation to proceedings of the kinds specified in the first column of the following Table (being proceedings in respect of which rules may be made under the enactments specified in the second column of that Table) – ... Proceeding relating to the winding-up of companies – Companies (Winding Up and Miscellaneous Provisions) Ordinance (Cap 32), section 296.”
+
+[15]  CA §15.
+
+[16]  Decision §16.
+
+[17]  O 2 r 1(1)-(3).
+
+[18]  Decision §16.
+
+[19]  CA §23.
+
+[20]  [2010] 1 BCLC 72. Insolvency Rules 1986, r 7.55: “No insolvency proceedings shall be invalidated by any formal defect or by any irregularity unless the court before which objection is made considers that substantial injustice has been caused by the defect or irregularity and that the injustice cannot be remedied by any order of the court.”
+
+[21]  UBS AG skeleton argument §§4, 8(3).
+
+[22]  4th Affidavit of Gareth Huw Thomas, filed on behalf of UBS AG, dated 27 January 2022 at §5; CA §29; CA Leave §9.
+
+[23]  CA §28.
+
+[24]  Cap 347. Letter Karas LLP to Herbert Smith Freehills dated 12 October 2021.
+
+[25]  [2020] 1 HKLRD 342; CA §32.
+
+[26]  CA §35.
+
+[27]  G Lam and Chow JJA and S T Poon J [2023] HKCA 738.
+
+ 
+

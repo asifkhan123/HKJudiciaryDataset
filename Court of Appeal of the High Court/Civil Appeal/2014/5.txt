@@ -1,0 +1,384 @@
+CACV 5/2016
+[2018] HKCA 32
+
+香港特別行政區
+
+高等法院上訴法庭
+
+民事司法管轄權
+
+民事上訴
+
+民事上訴案件2016年第5號
+
+（原憲法及行政訴訟2015年第30號）
+
+__________________
+
+有關	 	 
+申請人	鄧淑珍	 
+ 	及	 
+答辯人	食物環境衛生署署長	 
+__________________CACV 4/2014
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO. 4 OF 2014
+
+(ON APPEAL FROM HCA NO. 581 OF 2012)
+
+________________________
+
+BETWEEN		
+ 	DAWN JADE LIMITED	1st Plaintiff
+ 	GAO FU HOLDINGS LIMITED	2nd Plaintiff
+ 	and	
+ 	HIMANSHU GIRDHAR DUA	Defendant
+________________________
+
+Before: Hon Kwan, Chu and McWalters JJA in Court
+Date of Hearing: 12 December 2014
+Date of Judgment: 13 January 2015
+________________________
+
+J U D G M E N T
+
+ ________________________
+
+ 
+
+Hon Kwan JA (giving the judgment of the Court):
+
+1.  This is an appeal of the defendant, Himanshu Girdhar Dua, against the refusal to set aside a default judgment entered on 10 July 2012, in which it was adjudged that he is liable to pay the 1st plaintiff, Dawn Jade Limited, US$400,000 and the 2nd plaintiff, Gao Fu Holdings Limited, US$600,000. His application was dismissed by Master De Souza on 29 August 2013. His appeal against the master’s decision was dismissed by Chung J on 10 December 2013.
+
+Background
+
+2.  The relevant background matters for present purpose may be stated as follows.
+
+3.  The plaintiffs are investment companies incorporated in the British Virgin Islands and they are related to The Maxdo Group Limited, which is engaged in the business of financial investment, resources development, industrial, agricultural and forestry investment in the PRC and Asia.
+
+4.  Towards the end of 2010, the defendant approached the Maxdo Group to sell to it his interests, and to procure the transfer of the interests of all the other shareholders, in GreenAir Limited (“GreenAir”) and Dua Forestal SRL (“Dua Forestal”).  The defendant was a 90% shareholder of the shares in Dua Forestal and was in a position to procure the sale of all the shares in GreenAir.
+
+5.  GreenAir’s sole business activity was the operation of a project to reduce emissions from deforestation and degradation in Bolivia (the “REDD Project”), pursuant to which it had entered into REDD agreements with up to 183 indigenous communities and had acquired the rights to act as the exclusive agent of these communities to negotiate and sell carbon credit units generated in respect of an area of about 11.9 million hectares.  Dua Forestal’s sole asset was its logging contracts with 21 indigenous communities in Bolivia, by which it acquired exclusive forestry rights in respect of an area of about 661,503 hectares.
+
+6.  On 27 January 2011, two sale and purchase agreements for the transfer of all the shares in GreenAir and Dua Forestal were entered into.  The defendant signed both agreements as the vendor, the 1st plaintiff signed the agreement relating to the shares in GreenAir (the “GreenAir Agreement”) as the purchaser, and the 2nd plaintiff signed the agreement relating to the shares in Dua Forestal (the “Dua Forestal Agreement”) as the purchaser.  GreenAir and Dua Forestal also signed the agreement relating to its shares as a party.
+
+7.  The purchase price for all the shares in GreenAir was US$7 million and the price for all the shares in Dua Forestal was US$9 million.  On 9 February 2011, the 1st plaintiff paid US$400,000 as the deposit pursuant to the GreenAir Agreement and the 2nd plaintiff paid US$600,000 as the deposit pursuant to the Dua Forestal Agreement.
+
+8.  The material provisions in both agreements are largely identical.  The description given below relates to the GreenAir Agreement.  Where there is material difference in the Dua Forestal Agreement, this will be set out.
+
+9.  Clause 3 was headed “Conditions” and clause 3.1 provided that “completion of sale and purchase of the Sale Shares shall be subject to and conditional upon the following conditions (“Conditions”) being satisfied (or waived by the Purchaser in its absolute discretion) on or before the Conditions Fulfillment Date”.  Conditions Fulfillment Date was defined in the interpretation clause in clause 1.1 as meaning “the date on which the Conditions are fulfilled (or waived by the Purchaser) but in any event no later than 15 June 2011 or such other later date as the Parties may agree in writing”.
+
+10.  Under clause 3.1 of the GreenAir Agreement, the Conditions were numbered from (a) to (n), of which clause 3.1(b) read as follows:
+
+“(b) Land and Property Titles. The Purchaser being satisfied in its reasonable discretion that [GreenAir] having lawfully acquired Exclusive Rights in respect of the REDD Project Area free from any encumbrance and having substantiated the indigenous communities that executed the REDD Agreements are lawful owners of all Land and Property Titles in respect of the REDD Project Land.”
+
+11.  Clause 3.1 of the Dua Forestal Agreement set out the Conditions numbered from (a) to (n) and clause 3.1(c) was as follows:
+
+“(c) Forestry Inventory Count. Results of forestry inventory count in respect of the Logging Area being, in the sole and absolute opinion of the Purchaser, reasonably satisfactory to the Purchaser in all respects.”
+
+12.  Clause 3.1 (n) of the GreenAir Agreement stipulated the 1st plaintiff’s satisfaction that the acquisition of the entire issued capital of Dua Forestal would be completed simultaneously on completion of the sale of the entire issued capital of GreenAir is a Condition. Similarly, clause 3.1(n) of the Dua Forestal Agreement provided that the 2nd plaintiff’s satisfaction that the acquisition of the entire issued capital of GreenAir would be completed simultaneously on completion of the sale of the entire issued capital of Dua Forestal is a Condition.
+
+13.  By clause 3.2, the vendor undertook to the purchaser “he will use his best endeavours to procure the fulfilment of the Conditions as soon as reasonably practicable and in any event on or before the Conditions Fulfillment Date”.
+
+14.  Clause 3.4 provided for the consequence of non-satisfaction of the Conditions and read as follows:
+
+“(i) If any Condition is not satisfied (other than Condition 3.1(b) which shall be dealt with as per Clause 3.4(ii) below) on or before the Conditions Fulfillment Date, this Agreement shall immediately terminate upon which the Vendor shall forthwith fully refund the Deposit to the Purchaser and other than this obligation on the Vendor’s part, no party hereto shall have any further obligations to any of the other parties hereto in respect of the sale and transfer of the Sale Shares save for antecedent breaches.
+
+(ii) If Condition 3.1(b) is not satisfied on or before the Conditions Fulfillment Date, this Agreement shall immediately terminate and the Deposit shall be forfeited by the Purchaser, upon termination of this Agreement pursuant to this Clause 3.4(ii), no party hereto shall have any further obligations to any of the other parties hereto in respect of the sale and transfer of the Sale Shares save for antecedent breaches.”
+
+15.  Clause 3.4 of the Dua Forestal Agreement is the same save that the Condition in clause 3.1(c) was mentioned in place of clause 3.1(b).
+
+16.  Clause 5.1 provided that “subject to the satisfaction (or the Purchaser’s waiver) of the Conditions”, completion shall take place in Bolivia at the office of the purchaser’s solicitors “within seven business days after the Conditions have been satisfied or waived (or such other date as the Parties may agree in writing)”, and “unless otherwise agreed in writing by the Vendor and the Purchaser”, completion shall not be later than 30 June 2011.
+
+17.  It is common ground that not all of the Conditions in respect of each agreement were satisfied by 15 June 2011, although the responsibility for doing so and the cause for not doing so are disputed.  The parties did not proceed with completion under the agreements.
+
+18.  The plaintiffs relied on clause 3.4(i) in each agreement in support of their case that in the event of non-satisfaction of any Condition (other than clause 3.1(b) in respect of the GreenAir Agreement, and other than clause 3.1(c) of the Dua Forestal Agreement), each agreement would “immediately terminate upon which the Vendor shall forthwith fully refund the Deposit to the Purchaser”.  They brought this action against the defendant on 11 April 2012 for the refund of the deposits. Judgment in default of notice of intention to defend was entered on 10 July 2012.
+
+19.  About two weeks or so after the service of the writ upon delivery to the address of the defendant’s process agent as provided for in clause 13.3(a) of each agreement, the defendant’s solicitors informed the plaintiffs’ solicitors that the writ had been brought to the defendant’s attention.  However, the defendant did not apply to set aside the default judgment until March 2013.
+
+The grounds for setting aside the default judgment
+
+20.  The summons to set aside the default judgment mentioned three grounds: (1) the judgment was irregular due to irregularity of service of the writ; (2) the judgment was irregular as it was obtained by fraud; and (3) the defendant had a meritorious defence as “all the conditions required to be satisfied under cl 3.1” were completed or satisfied by the Conditions Fulfillment Date, with the exception of clause 3.1(b) for the GreenAir Agreement because the 1st plaintiff refused to inspect title documents, and clause 3.1(c) for the Dua Forestal Agreement because the 2nd plaintiff failed to complete a Forestry Inventory Count; thus the Agreements were immediately terminated and the deposits were forfeited to the defendant.
+
+21.  None of these grounds were relied on before this court.  The contention that all the Conditions were fulfilled, except for clause 3.1(b) in the GreenAir Agreement and clause 3.1(c) in the Dua Forestal Agreement, which was repeated in the defendant’s first affidavit at §8(a)(i), was plainly incorrect, as it was accepted by the defendant in its skeleton argument before the judge that by the Conditions Fulfillment Date on 15 June 2011, some of the Conditions had not been satisfied[1].
+
+22.  Before the judge, the defendant had pursued an argument that on the proper construction of clause 3.4, clause 3.4(ii) should take precedence over clause 3.4(i), which was rejected by the judge[2].  Ms Ismail, SC, who appeared for the defendant in this appeal[3], did not pursue the construction argument in this appeal but reserved her position to run this argument if the default judgment should be set aside and there should be a trial.  It is not necessary for us to deal with this argument.
+
+23.  Ms Ismail contended before us that for the purpose of this appeal the defendant has a meritorious defence on these grounds:
+
+(1) The plaintiffs are estopped from asserting that the agreements were automatically terminated on 15 June 2011 in that although the agreements provided for the satisfaction of the Conditions by that date, the parties had agreed that the Conditions Fulfillment Date would have to be extended (albeit that no new date was agreed so as to amount to a binding variation of the agreements) and the plaintiffs represented, alternatively the plaintiffs and the defendant mutually accepted, that the agreements remained on foot.  On that basis, the defendant continued to work with the plaintiffs towards completion of the sale and purchase, to his detriment.  This gave rise to estoppel by representation of fact, alternatively estoppel by convention, and the plaintiffs are estopped from asserting that the agreements had automatically terminated on 15 June 2011[4].
+
+(2) In the further alternative, by electing to treat the agreements as being on foot despite the non-fulfilment of the Conditions, the plaintiffs had waived their right to immediate termination under clause 3.4(i) and had affirmed the agreements.  As the election to affirm had been communicated to the defendant, the waiver by election or affirmation had become irrevocable[5].
+
+(3) The plaintiffs were in repudiatory breach of the agreements.  Both before and after the Conditions Fulfillment Date, unknown to the defendant, the plaintiffs had negotiated directly with the defendant’s own agents to terminate the interests of the defendant which he was to sell to the plaintiffs under the agreements, in order to acquire the interest concerned without the defendant’s involvement.  The plaintiffs were in repudiatory breach of the agreements, alternatively in anticipatory breach, and are unable to reclaim the deposits paid[6].
+
+(4) The plaintiffs were in breach of clauses 10 and 11 of the agreements and of an implied term to perform their obligations thereunder in good faith and for the purpose of carrying out the agreements, defined respectively as “the Duty to Perform”, “the Duty of Confidentiality” and “the Duty of Good Faith” in the draft defence.  By reason of these breaches, and/or by reason of the repudiatory breach of the agreements in (3), the defendant was entitled to and did terminate each agreement by the letter of his solicitors dated 4 January 2012[7].
+
+24.  To set aside a regular judgment obtained in default on the ground of a meritorious defence, the defendant would need to show a defence that is not merely arguable justifying leave to defend under an application for summary judgment, but one with a real prospect of success (Hong Kong Civil Procedure 2015, vol 1, §13/9/14).  Bare assertions are not sufficient for this purpose.  This court would need to form a provisional view on the merits.  We would therefore consider each of the grounds of defence relied on for this appeal to see if it has a real prospect of success.
+
+Affirmation
+
+25.  We propose to deal with this first as this ground of defence is clearly misconceived.  It was not a defence dealt with by the judge.
+
+26.  As submitted by Mr Wong Yan Lung, SC[8] for the plaintiffs, it was provided in clause 3.4(i) that “if any Condition is not satisfied (other than Condition 3.1(b) …) on or before the Conditions Fulfillment Date, this Agreement shall immediately terminate …”.  In other words, upon the non-fulfilment of any Condition on or before 15 June 2011, other than clause 3.1(b), automatic termination of the agreement is mandated by clause 3.4(i).  Termination is not dependent on the plaintiffs’ acceptance of the non-fulfilment of a Condition or upon giving notice to the defendant to terminate.  This is not the kind of situation in which an innocent party is entitled to elect whether to treat the contract as continuing or to accept the repudiation and treat the contract as discharged.  The non-fulfilment of any of the Conditions in clause 3.1 gives no right of action for breach, as the Conditions are not “promissory” conditions but “contingent” conditions.  The Conditions are in the nature of conditions subsequent in that the obligations of the parties are made subject to a condition that the agreement is to be immediately binding, but if any of the Conditions are not satisfied on or before the Conditions Fulfillment Date, the agreement is to terminate immediately and cease to bind (Chitty on Contracts (31st ed), vol 1, §§12-027 and 12-030; Total Gas Marketing Ltd v Arco British Ltd [1998] 2 Lloyd’s Rep 209 at 214 to 215).
+
+27.  There is therefore no question of a waiver by election or affirmation.  Ms Ismail abandoned this ground of defence in the course of her arguments.
+
+Estoppel by convention
+
+28.  In a lucid submission, Ms Ismail set out the acts and conduct of the plaintiffs from 7 June 2011 to 10 January 2012[9] relied on as evidence of estoppel and submitted that representations of fact or shared assumptions of fact may be implied from such acts and conduct as they constituted evidence that the parties had conducted themselves as working towards the completion of the agreements.  She contended these representations or shared assumptions may be implied: that the Conditions Fulfillment Date would be extended to a date after 15 June 2011, that the plaintiffs would not insist on fulfilment of the Conditions by 15 June 2011, that the plaintiffs were not treating the agreements as terminated on 15 June 2011, and that the plaintiffs were treating the agreements as still on foot after 15 June 2011.
+
+29.  Most of the acts and conduct relied on by the defendant as evidence of estoppel was contained in email exchanges between the plaintiffs and the defendant.  There is no dispute as to the contents of the email exchanges.  What is in dispute is how they should be interpreted and the inferences sought to be drawn from them.  The only oral communications relied on as conduct for this purpose were those in a meeting between the defendant and the plaintiffs’ representatives on 20 October 2011 and the telephone calls between the defendant and a director of the plaintiffs, Edmund Kwan, on 26 October and 7 November 2011.  The defendant has produced his handwritten notes of the October meeting and the telephone calls, which were subjected to a detailed analysis by Mr Wong and will be discussed in the latter part of this judgment.
+
+30.  The judge did not deal with estoppel by convention in his judgment.  We agree with Mr Wong this defence must fail for a number of reasons.
+
+31.  Firstly, there was no shared assumption even on the defendant’s assertion and this is fatal.  For there to be an estoppel by convention, the assumption at issue must be shared, which, although not a contract, must be “something very close to it” (Republic of India v India Steamship Co Ltd (“The Indian Endurance”) (No 2) [1998] AC 878 at 891D to E, per Staughton LJ; Wilkin & Ghaly, The Law of Waiver, Variation and Estoppel (3rd ed), §10.09).
+
+32.  What happened between the parties after 15 June 2011 was that they were in negotiation to see if a new agreement could be reached to extend the Conditions Fulfillment Date to 30 November 2011.  For that purpose, the plaintiffs and the defendant exchanged various draft supplemental deeds[10].  It is not the defendant’s case that an oral agreement was reached but not reduced in writing.
+
+33.  By an email dated 24 June 2011, the plaintiffs sent to the defendant two draft supplemental deeds, one for each agreement.  It was stated in the email that as the Conditions “have not yet been fulfilled to Purchaser’s satisfaction, Closing will inevitably have to be deferred”.  The only response made by the defendant to the draft supplemental deeds was by an email dated 2 July 2011, in which he marked up the changes he proposed to the drafts.  He proposed to insert a new provision and this is to the effect that notwithstanding the changes of the Conditions Fulfillment Date to 30 November 2011and the date of completion to 31 December 2011, the “Balance Payment Date” would be 31 December 2011.  The original Balance Payment Date under clause 4.1(c) of the agreements was “within 6 months after Completion”.
+
+34.  It is not in dispute that the plaintiffs never responded to the counter-proposal of the defendant and no supplemental deed was ever signed.  And it is clear from the provisions of each of the agreements (clauses 1.1 and 12.2) that an agreement in writing must be made for any variation to be made to the Conditions Fulfillment Date.
+
+35.  That the parties were merely negotiating could be seen in this email of the defendant to Andrew White (“Mr White”)[11] dated 31 August 2011, which was in reply to a message of Mr White to the defendant on the same date.  As the earlier message was relied on by Ms Ismail as indicating that the plaintiffs were asserting some kind of interest in complaining about the harvest logging activities and hence suggesting that they regarded the agreements as continuing, we will quote the relevant parts of both exchanges to set things in their proper context.
+
+36.  The earlier message from Mr White to the defendant of 31 August 2011 read as follows:
+
+“We have become aware that physical harvesting activities and sales are occurring in the forest area in communities we have been assessing as a part of the Bolivian harvesting project.
+
+When discussed previously I suggested that we were generally supportive of such activity as a way to verify our financial study and to supply logs to support local industry, but only after details of such a transaction were fully disclosed to us and understood.
+
+Until that time we withhold consent.
+
+We have no understanding of what you are doing – can you please advise me of what your company is undertaking and the full nature of such activity? Also why was this not disclosed previously?
+
+Please respond in writing.”
+
+37.  Pausing here, we are not able to discern any right of substance asserted by the plaintiffs over the harvesting activities.  And it was not understood by the defendant in that light as made clear in the defendant’s reply.
+
+38.  In the defendant’s reply, he asserted that no logging activities had been commenced in any areas whatsoever, that some of the forestry management plans (defined in the Dua Forestal Agreement as “PGMF”) commenced in 2007/2008 so there might already have been logging occurring and he would speak to his team in Bolivia to ascertain the situation. He then continued as follows:
+
+“Please also be aware that Dr Chung[12] has indicated many times in the past 2 meetings that the deal may not proceed and that he is unhappy with the current terms. Also, I have not received any extension of the previous contract. Despite this, GreenAir Ltd and Dua Forestal SRL are assuming that the contract currently “remains on foot”.
+
+Until further discussions we are proceeding in accordance with the contract between [the 2nd plaintiff] and Dua Forestal and [the 1st plaintiff] and GreenAir Ltd.” (Emphasis supplied)
+
+39.  Thus, it is apparent in the defendant’s own words the assumption that the agreements remained on foot was unilateral, and it was made despite the many indications to the contrary of Dr Chung and the defendant not having received any extension of the previous contract.  It was not shared or acquiesced in by the plaintiffs who had “indicated many times … that the deal may not proceed” and that the plaintiffs were “unhappy with the current terms”.  The defendant’s reference to the fact that he had not received “any extension of the previous contract” as a further matter against his assumption that the agreements remained on foot confirmed his understanding that it was necessary to have an agreement in writing.
+
+40.  Secondly, the fact that negotiations are on foot makes it unlikely that there will be a common assumption sufficient to found an estoppel by convention, particularly when the parties, as in this case, proceeded on the basis that a written agreement was necessary to effect any binding change (Wilkin & Ghaly, op cit, §10.09).  In Cobbe v Yeoman’s Row Management Ltd [2008] 1 WLR 1752 at §81, Lord Walker stated that no case cited had “cast doubt on the general principle that the court should be very slow to introduce uncertainty into commercial transactions by over-ready use of equitable concepts such as fiduciary obligations and equitable estoppel”.
+
+41.  Thirdly, even though there is no explicit requirement of an unequivocal (bilateral) representation to found an estoppel by convention, the certainty of terms necessary for a consensus is nonetheless required (Spencer Bower, Estoppel by Representation (4th ed), §VIII.4.1).  We will discuss this requirement of unequivocality together with the same requirement for estoppel by representation of fact.
+
+42.  Leaving aside the requirement of unequivocality for the time being, it does not appear to us estoppel by convention is a viable defence here.
+
+Estoppel by representation of fact
+
+43.  This line of defence was considered by the judge who rejected it for three reasons[13]:
+
+(1) there was no clear and unequivocal representation on which estoppel can rest;
+
+(2) in any event, there is no evidence that the defendant had been in a position to fulfil the conditions not earlier fulfilled; and
+
+(3) it is not the defendant’s case that the alleged estoppel amounted to the waiver of the unfulfilled conditions; it was at most an estoppel relating to the time extension to fulfil conditions.
+
+44.  As to (1), Ms Ismail submitted that the judge was in error in failing to recognise that on the available evidence, there was at least a real prospect of success that there was a clear and unequivocal representation by words and/or conduct, alternatively, a mutual assumption, to give rise to estoppel by representation of fact or estoppel by convention that the Conditions Fulfillment Date would be extended and the agreements remained on foot.  In respect of (2) and (3), she argued that to found an estoppel, it was not relevant to establish that the defendant had been in a position to fulfil the Conditions at a later date.
+
+45.  Mr Wong sought to support the above reasons given by the judge but were not elaborated upon in the judgment, and advanced further reasons why the defence of estoppel by representation of fact must fail.
+
+46.  We will deal with the requirement of unequivocality first.
+
+47.  For the representation to meet the requirement that it must be clear and unequivocal, it must not be open to more than one reasonable interpretation; or, if it is a reasonable interpretation but not the only reasonable interpretation, that it was reasonable for the representee to interpret it as he did without seeking clarification (Spencer Bower, op cit, at §§IV.2.1, 2.2 and 2.9).  Mr Wong submitted that in assessing whether the matters alleged by the defendant could give rise to a shared assumption close to having an agreement, or a clear and unequivocal representation that the Conditions Fulfillment Date had been changed and the agreements were still on foot, it is relevant to take into account these matters: (1) the defendant’s admission that the parties were in negotiation and a written agreement was yet to be executed; (2) it could not be in dispute that the parties did not reach consensus on the terms of the new agreement; (3) there was mutual understanding that a written agreement was necessary to create a binding obligation; and (4) the email of 31 August 2011which showed that the defendant’s assumption that the agreements remained on foot was unilateral.
+
+48.  Further, the matters relied on by defendant to found an estoppel pleaded in §26 of the draft defence cannot constitute the only reasonable interpretation (and hence, clear and unequivocal representation) that the agreements remained on foot, as opposed to the interpretation that the parties were merely in negotiation.  Examples of such acts and conduct are the plaintiffs’ visits to Bolivia to “progress the projects”, continuing with the forest inventory counts at the plaintiffs’ own expense, querying about the logging activities, seeking an update on the progress of obtaining the forestry management plans for the concessions, requesting access to the defendant’s electronic data, submitting a due diligence checklist to the defendant, indicating a wish to amend the underlying agreements with the indigenous communities.
+
+49.  We agree with the above submissions of Mr Wong.
+
+50.  Heavy reliance was placed by the defendant on the utterances of Ms Anita Chan, the legal director of the Maxdo Group, at the meeting of the defendant with the plaintiffs’ representatives on 20 October 2011.  According to the defendant’s notes of the meeting, the following exchanges took place after Dr Chung left the meeting:
+
+“Defendant: So make a counter offer?
+
+Edmund Kwan: Dr Chung said $4 million
+
+Defendant: No he didn’t he just said $4.5 to $5 million 2 minutes ago when he was in the meeting. Why should I accept that when I have a contract for $11.7 million?
+
+Andrew White: Well there is no contract
+
+Anita Chan: There is a contract
+
+Defendant: Did it expire on June 30 you sent me a contract extension, I marked it up but you never returned it, so we don’t?
+
+Anita Chan: Yes we do, there is no expiry date, you should read the contract”.
+
+51.  Assuming Anita Chan did make the utterances, when what she said was considered with what was said by all the other representatives of the plaintiffs and the defendant at the meeting, we do not think her words alone could be regarded as clear and unequivocal representations of the plaintiffs that the agreements remained on foot and were binding.  It would be very odd indeed for her to assert on behalf of the plaintiffs in such clear terms, when the Chairman of the group had just told the defendant that the consideration for the agreements would have to be reduced and another director Edmund Kwan had also said the same thing in her presence.  The discussions between the parties at the meeting of 20 October 2011 showed that they were negotiating and bargaining, making offer and counter-offer to one another.  The plaintiffs offered $4 million and the defendant counter-offered $11 million to be paid before 15 November 2011.  Their conduct was wholly inconsistent with a representation having been made by the plaintiffs which justified the defendant into believing that the agreements were subsisting and binding.  It seems to us Anita Chan’s words were merely capitalised upon by the defendant on subsequent occasions when it suited his purpose to do so.
+
+52.  Moreover, the defendant did not act upon the words of Anita Chan, as it was asserted by him in the letters of his solicitors to the plaintiffs dated 4 January 2012 that Dr Chung and Mr Kwan had informed him without justification the plaintiffs were no longer ready and willing to perform the agreements and wanted to renegotiate the agreed price and these amounted to acts of repudiation.
+
+53.  The defendant merely repeated Anita Chan’s words in the telephone calls he had with Edmund Kwan subsequently on 26 October and 7 November 2011.  We do not think they add anything of substance to his case.
+
+54.  We do not think the matters pleaded in §29 of the draft defence could amount to detriment suffered by the defendant in reliance upon the alleged representations.  The monetary expenditure of US$375,000 in excess of the Extension Fund allegedly incurred to extend the logging contracts would appear to have been incurred before the Conditions Fulfillment Date of 15 June 2011, as it was pleaded in §18(d) to (e) of the draft defence that the defendant had fulfilled all his obligations and extended the terms of all the logging contracts before that date.  As for the other matters pleaded in §29, as submitted by Mr Wong, they are equally consistent with the steps taken by the defendant in negotiation with a view to see if a new agreement could be reached.
+
+55.  For the above reasons, we reject Ms Ismail’s submission that there is a real prospect of success there was a clear and unequivocal representation, alternatively a shared assumption, to give rise to estoppel by representation of fact or estoppel by convention.
+
+56.  We turn to the arguments on the non-fulfilment of the Conditions.
+
+57.  The date for satisfying the Conditions could not have been left at large by the estoppel, as it is not the defendant’s case that the alleged estoppel amounted to a complete waiver of the Conditions that had not been fulfilled by the Conditions Fulfillment Date of 15 June 2011.  So at the highest, the alleged estoppel would only extend the Conditions Fulfillment Date to 30 November 2011, being the proposed extended date in the draft supplemental deeds which were not signed.  We reject Ms Ismail’s submission that it was irrelevant to consider whether the defendant was in a position to fulfil the Conditions at a subsequent date.
+
+58.  Mr Wong has given two examples from the defendant’s own evidence showing that some of the Conditions had not been fulfilled prior to 15 June 2011.  One example is the Condition in clause 3.1(c) of the GreenAir Agreement, which provided for ratification and modification for the REDD agreements.  Under Schedule 3 of that agreement, the REDD agreements comprised a total of 11,901,039 hectares of REDD Project Land.  According to a table compiled by the defendant listing the documents which were completed and available to the plaintiffs prior to 15 June 2011 and which went to satisfy the Conditions, clause 3.1(c) was complied with only in respect of 6,964,687 hectares.
+
+59.  The other example is under clause 3.1(e) of the GreenAir Agreement, by which the defendant was required to produce a number of documents including those in relation to the Land and Property Titles listed in Schedule 5 to the plaintiffs’ solicitors and that the contents were satisfied by the 1st plaintiff as specified by its solicitors.  According to the same table of the defendant, the Condition in this clause was not complied with in relation to the land parcels bearing these names: Itenez, Adafei, Urubicha and El Encanto.
+
+60.  Mr Wong also drew our attention to an email of the defendant on 3 August 2011 showing that as at that date, GreenAir only managed to “re-sign 7.492 m hectares out of a target of approximately 11.3 m hectares” and for the Dua Forestal Agreement, there were outstanding PGMF resolutions for 9 of the 21 tribes.
+
+61.  The defendant has adduced no or no credible evidence, but merely bare assertions, to show that he had satisfied these or any other Conditions that had not been met by the Conditions Fulfillment Date on or before 30 November 2011 or even on 4 January 2012, when the defendant purported to exercise his right to terminate the agreements pursuant to clause 3.4(ii) and to forfeit the deposits.  So even if the plaintiffs were estopped from asserting that the Conditions Fulfillment Date had been extended and that the agreements remained on foot on 30 November 2011 or even 4 January 2012, the defendant would still have no viable defence to the plaintiffs’ claim for refund of the deposits pursuant to clause 3.4(i), as there was non-satisfaction of any Condition, other than clause 3.1(b) in respect of the GreenAir Agreement and clause 3.1(c) in respect of the Dua Forestal Agreement.  That is another reason why the defence of estoppel must fail.
+
+Repudiatory breach
+
+62.  This line of defence was pleaded in §§30 and 31 of the draft defence.  It was dealt with by the judge in §§11(a), 16 to 18 and 26 of the judgment.
+
+63.  The conduct complained of was that the plaintiffs sought to go behind the defendant, GreenAir and Dua Forestal to cause the REDD agreements and logging contracts to be cancelled so that the same could be diverted to the plaintiffs without the defendant’s involvement (“the Alternate Deal”)[14].  Particular reliance was placed on these matters: (1) the plaintiffs’ email to the defendant’s agents Mr Olle and Mr Rockholt on 31 August 2011 enclosing a draft Memorandum of Understanding (“MOU”) offering them each US$1 million to ensure termination of the existing REDD agreements and logging contracts between the indigenous tribes and GreenAir and Dua Forestal and to facilitate new agreements between the plaintiffs’ nominees and the local communities; (2) emails between Mr White and Mr Olle between 11 and 13 October 2011 in respect of concluding their MOU[15] and, regarding Dua Forestal, how to protect themselves from the defendant including filling the company with debts so if the defendant tried to claim the company or the contracts, he would have to assume a huge debt or liquidate the company by which time the local communities would have to sign new agreements with the plaintiffs’ nominees.
+
+64.  The plaintiffs did not address these matters in their affirmations in opposition, asserting that they were of no relevance and had no bearing on the merits of the defence.
+
+65.  Ms Ismail submitted that the judge should have found as a matter of fact it was at least arguable that the plaintiffs’ conduct in pursuing the Alternate Deal, which began prior to 15 June 2011, was of such a nature to amount to repudiatory breach of clause 10[16] , or of the implied term not to prevent performance of the agreements, or to evince an intention not to perform the agreements and was an anticipatory breach.  The agreements made no provision as to the return or forfeiture of the deposits in the event the plaintiffs acted so as to repudiate the agreements.  The judge should have found as a matter of law that in those circumstances, the plaintiffs would not be entitled to the return of their deposits, citing Howe v Smith (1884) 27 Ch D 89 at 95, 97 to 98 and 101.  Further, it is not relevant that the defendant did not know of the alleged breaches when they happened and had only discovered them in late November to December 2011.  The defendant had terminated the agreements by the letters from his solicitors to the plaintiffs dated 4 January 2012.
+
+66.  Ms Ismail cited Dalkia Utilities Services Plc v Celtech International Ltd [2006] 1 Lloyd’s Rep 599 in support of her contention that in the letters of the defendant’s solicitors dated 4 January 2012, the defendant was clearly relying on both the right to terminate pursuant to a contractual clause and his acceptance of a repudiation by the plaintiffs.  She particularly relied on these passages in the judgment of Christopher Clarke J at §§143 and 144:
+
+“143. … “Termination” is capable of meaning both a termination pursuant to a contractual clause and the acceptance of a repudiation: Aktieselskabet Dampskibsselskabet Svendborg v Mobil North Sea Ltd [2001] 2 Lloyd’s Rep 127 . Even if he refers to a particular clause upon which he relies, that would not inevitably mean that he was only relying on that clause. If that were so an innocent party who, in the face of a repudiatory breach, terminated the contract by reference to a clause which was in fact inapplicable, might, on that account, find himself disentitled to terminate at all.
+
+144. The fact that service of a contractual notice of termination is not inconsistent with the acceptance of a repudiation does not, however, mean that in all cases such a notice amounts to such an acceptance. If the notice makes explicit reference to a particular contractual clause, and nothing else, that may, in context, show that the giver of the notice was not intending to accept the repudiation and was only relying on the contractual clause; for instance if the claim made under the notice of termination is inconsistent with, and not simply less than, that which arises on acceptance of a repudiation: United Dominions Trust (Commercial) Ltd v Ennis [1968] 1 QB 54, 65, 68. …”
+
+67.  Regarding the direct approaches the plaintiffs made to the defendant’s agents, Mr Wong’s answer was twofold.
+
+68.  Firstly, the only act before 15 June 2011 relied on by the defendant for this purpose was an alleged meeting between the plaintiffs’ representatives and the defendant’s agents on 18 May 2011 pleaded in §30(2) of the draft defence, in which the plaintiffs suggested the Alternate Deal to the agents and provided them with copies of the GreenAir and Dua Forestal Agreements.  Mr Wong submitted that this hearsay allegation and bare assertion is not credible.  We are inclined to agree.  There was no mention of this alleged incident in any of the email exchanges supplied by Mr Olle to the defendant in January 2012, or in the letters of the defendant’s solicitors to the plaintiffs dated 4 January 2012 alleging acts of repudiation by the plaintiffs, notwithstanding that according to the defendant Mr Olle had informed him in December 2011 the plaintiffs had been dealing with the agents and showed him copies of the agreements they were given by the plaintiffs in May 2011[17]. To the contrary, it was stated in that letter that it was “from on or about August 2011 to now” that the plaintiffs’ representatives had approached and been negotiating with the defendant’s agents.
+
+69.  Secondly, as for the approaches to and dealings with the agents after 15 June 2011, the GreenAir and Dua Forestal Agreements were terminated automatically on that date upon the non-fulfilment of any Condition (other than clause 3.1(b) of the GreenAir Agreement and clause 3.1(c) of the Dua Forestal Agreement), as mandated by clause 3.4(i) of these agreements.  After that date, the plaintiffs were under no contractual obligation to refrain from approaching the agents directly in order to explore alternatives and take the projects further, when they were negotiating with the defendant at the same time.  We think that must be correct.
+
+70.  It is also doubtful whether the defendant had accepted the alleged repudiation of the plaintiffs by the letters of his solicitors dated 4 January 2012, as by those letters the defendant had purported to exercise his right under clause 3.4(ii) of the agreements and forfeited the deposits, and expressly “reserves all of his rights against [the 1st/2nd plaintiff] in relation to the repudiation and termination of the [GreenAir/Dua Forestal Agreement], including his entitlement to damages suffered as a result.”  The letters were no more than a decision to terminate by invoking clause 3.4(ii).  An unaccepted repudiation confers no legal rights of any kind.  We note that the defendant had maintained the same stance of purporting to exercise the right to terminate the agreements under clause 3.4(ii) as a ground to set aside the default judgment in his summons.
+
+71.  Further, we do not think it is correct to characterise the present situation as one in which the agreements made no provision for the return or forfeiture of deposit in the event of repudiatory breach.  There were express provisions in clauses 3.4(i) and (ii) of each agreement dealing with the refund and forfeiture of the deposit.  The only basis for the deposits to be forfeited to the defendant was when clause 3.1(b) of the GreenAir Agreement and clause 3.1(c) of the Dua Forestal Agreement were not met; if any other Condition was unmet, the deposits must be refunded to the plaintiffs.  There was also an entire agreement clause in clause 12.1 of each agreement.  We do not think there are real prospects of success to argue that a term should be implied that the deposits may be forfeited to the defendant in the event of his acceptance of repudiation by the plaintiffs.
+
+72.  As for the contention that the plaintiffs were in breach of clause 10, we agree with Mr Wong that that the reliance on this provision was misconceived.  This provision of “Further Assurance” was just the standard provision to cater for further documents or acts that the other party may require and had nothing to do with the acts of repudiation alleged by the defendant.
+
+73.  The implied term not to prevent performance of the agreements was not pleaded in the draft defence and was raised for the first time in Ms Ismail’s submissions.  It was not supported by any factual matters justifying such an implied term.  The only implied term pleaded in the draft defence was in §13 that “the Plaintiffs would perform their obligations in good faith and for the purpose of carrying out the provisions of the Agreements”, referred to as the “Duty of Good Faith” in the pleadings.  The judge rightly rejected this duty of good faith as there is no general principle of “good faith and fair dealing” in contract law in performance of a contract[18].  As submitted by Mr Wong, the fact that only a duty of good faith was pleaded underlines the fact that the defendant has never alleged or adduced any evidence that the plaintiffs or the defendant’s agents had done anything which prevented the defendant from satisfying any of the Conditions which had not been performed.
+
+74.  As for Dalkia Utilities v Celtech, we do not think this would assist the defendant.  The question considered in that case was whether an innocent party, faced with default by the other party which might both amount to repudiation and entitle the innocent party to invoke a contractual determination clause, can hedge his position so as to avail himself of both opportunities (at §136).  The relevant contractual provision in that case (clause 14.4) provided that “in the event of [Celtech] being in material breach of its obligations to pay the charges [Dalkia] shall have the right to terminate this agreement immediately”.  So in §143, Christopher Clarke J prefaced his discussion with “the same conduct may be such as to give rise to a contractual right to terminate and a common law entitlement to accept a repudiatory breach” (emphasis supplied).
+
+75.  The relevant contractual provisions in the present situation are very different.  Clauses 3.4(i) and (ii) of each agreement provided for the agreement to be immediately terminated where the Conditions are not satisfied on or before the Conditions Fulfillment Date.  As mentioned earlier, the Conditions are not in the nature of promissory conditions but are contingent conditions.  The non-fulfilment of Conditions was not a repudiatory event.  We are not dealing with the situation in which the same conduct may give rise to a contractual right to terminate and a common law entitlement to accept a repudiatory breach.  This is also apparent from the letters of the defendant’s solicitors dated 4 January 2012.  The solicitors have put “termination” and “repudiation” in different sections, and plainly relied on different matters in each section.
+
+76.  For the above reasons, we are of the view that the defendant is unable to establish real prospect of success in his defence based on repudiatory breach.
+
+Other breaches
+
+77.  The only other breaches alleged by the defendant relate to clause 11.1 which is the confidentiality provision and this may be dealt with shortly.
+
+78.  In the letter of the defendant’s solicitors dated 4 January 2012, it was alleged that in breach of clause 11.1 of the GreenAir Agreement, the 1st plaintiff had included information regarding the assets of GreenAir in the representations made by the 1st plaintiff’s related company, International Forestry Limited, to third parties.
+
+79.  No particulars were given about this allegation.  Nor was this pleaded in the draft defence.  It was refuted by the 1st plaintiff in its letter of reply dated 10 January 2012.  We need say no more about this.
+
+Conclusion and costs
+
+80.  We affirm the judge’s decision dismissing the defendant’s appeal from the decision of the master rejecting the defendant’s application to set aside the default judgment.  Costs should follow the event.  We make an order nisi that the defendant should pay the plaintiffs’ costs of this appeal, with a certificate for two counsel.
+
+ 
+
+ 
+
+(Susan Kwan)	(Carlye Chu)	(Ian McWalters)
+Justice of Appeal	Justice of Appeal	Justice of Appeal
+ 
+
+Mr Wong Yan Lung SC and Mr Jonathan Wong, instructed by Reed Smith Richards Butler, for the Plaintiffs (Respondents)
+
+Ms Roxanne Ismail SC and Ms Bianca Yu, instructed by Baker & McKenzie, for the Defendant (Appellant)
+
+[1] Judgment of Chung J, §12
+
+[2] Draft defence of the defendant in May 2013, §14; judgment of Chung J, §§23 to 25
+
+[3] With Ms Bianca Yu
+
+[4] Draft defence, §§26 to 29
+
+[5] Draft defence, §§27, 34(b)
+
+[6] Draft defence, §§30, 31
+
+[7] Draft defence, §§30, 33
+
+[8] Appearing with Mr Jonathan Wong
+
+[9] Defendant’s skeleton submissions, §14; and Chronology annexed to the submissions, all the relevant entries were printed in blue.
+
+[10] Defendant’s 1st affidavit filed on 27 March 2013, §40
+
+[11] The Chief Executive Officer of the 2nd plaintiff and International Forestry Limited, a related company of the plaintiffs
+
+[12] Chung Hon Dak, previously known as Chung Kin Kwok, chairman of the Maxdo Group
+
+[13] Judgment, §27(4)
+
+[14] Defendant’s skeleton submissions, §16; and Chronology annexed to the submissions, all the relevant entries were printed in red.
+
+[15] The MOU was never signed. The plaintiffs’ negotiations with the defendant’s agents fell through.
+
+[16] This was headed “Further assurance” and read: “Each of the parties shall execute such documents and perform such further acts as the other(s) of them may require (a) to vest effectively in the Purchaser the legal and beneficial ownership of the Sale Shares free from all charges, liens, encumbrances, equities and other adverse claims and interests and with all rights now and hereafter attaching thereto and (b) to carry out all provisions herein into effect as contemplated in this Agreement.”
+
+[17] Defendant’s 1st affidavit, §44; Defendant’s 2nd affidavit, §43
+
+[18] Judgment, §19
+
+
+
+主審法官：	高等法院上訴法庭副庭長林文瀚
+ 	高等法院上訴法庭法官袁家寧
+ 	高等法院上訴法庭法官關淑馨
+申請人書面陳詞日期：	2017年12月19日
+答辯人書面陳詞日期：	2018年1月2日
+判案書日期：	2018年1月22日
+
+判案書
+
+上訴法庭法官袁家寧頒發上訴法庭判案書：
+
+1.  鄧淑珍女士在2017年12月8日存檔了一份提出動議通知書，申請許可，針對本庭2017年11月17日的判案(「上述判案」) 向終審法院提出上訴。
+
+背景
+
+2.  鄧女士針對原訟法庭法官陳江耀2015年11月17日有關司法覆核申請的判決，在2017年11月8日在本庭前提出上訴，當時鄧女士沒有律師代表。
+
+3.  在2017年11月17日的判案書，本庭已詳細說明本庭駁回上訴的理據，這裡不會重複。需要注意的，是本庭在討論上訴的是非曲直時，無需援引任何案例。
+
+本申請
+
+4.  現鄧女士要求許可上訴至終審法院，她列出了一些理由，並提供了書面陳詞。
+
+5.  申請許可上訴至終審法院，必須符合《香港法例》第484章《香港終審法院條例》第22條，即擬提出的上訴所涉及的問題具有重大廣泛的或關乎公眾的重要性，或因其他理由，以致應交由終審法院裁決。
+
+6.  本庭已考慮了鄧女士所列出的理由，與及雙方提供的書面陳詞。
+
+7.  本庭認為她的申請不符合上述的法定要求。「上述判案」純屬2014年8月期間，在長洲巿場，單一個案中，所發生的事情。這不涉及具有重大廣泛的或關乎公眾的重要性的問題。
+
+8.  至於有沒有其他理由，以致應交由終審法院裁決，鄧女士不滿的事項 (例如，本庭撤銷她申請法援而引致聆訊的擱置，及她不獲准許引入新證據)，本庭已在判案書中，把理據解釋清楚。另外，鄧女士說，上訴聆訊時，對方沒有提供案例的中文翻譯，所以她遭到不公。但從本庭的判案書可見，本庭的裁決並沒有取決於任何案例。
+
+9.  基於以上理由，鄧女士的申請不符合上述法定要求，所以本庭不批准許可。
+
+命令
+
+10.  本庭撤銷申請人的申請，並命令她需支付答辯人反對申請的訟費，本庭循簡易程序，評估為$18,946。
+
+ 
+
+ 
+
+（林文瀚）	（袁家寧）	（關淑馨）
+高等法院上訴法庭副庭長	高等法院上訴法庭法官	高等法院上訴法庭法官
+ 
+
+申請人： 無律師代表，親自行事。
+
+答辯人： 由律政司委派政府律師曹喬茵代表。
+

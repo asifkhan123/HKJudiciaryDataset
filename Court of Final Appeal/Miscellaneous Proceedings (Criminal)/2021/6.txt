@@ -1,0 +1,158 @@
+FAMC No 25 of 2021
+
+[2021] HKCFA 33
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO 25 OF 2021 (CRIMINAL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL FROM
+
+CACC NO 118 OF 2019)
+
+________________________
+
+BETWEEN	 	 
+ 	HKSAR	Respondent
+ 	and	 
+WONG CHUN YAU (黃竣佑)	Applicant
+________________________
+
+Appeal Committee: Mr Justice Ribeiro PJ, Mr Justice Fok PJ and Mr Justice Lam PJ
+
+Date of Hearing and Determination: 17 September 2021
+
+Date of Reasons for Determination: 27 September 2021
+
+________________________________
+
+REASONS FOR DETERMINATION
+
+________________________________
+
+Mr Justice Lam PJ:
+
+1.  The applicant was convicted in the High Court of trafficking in a dangerous drug.  His appeal to the Court of Appeal[1] was dismissed.  He applied on 19 July 2021 to the Appeal Committee for leave to appeal out of time.  After hearing submissions, we dismissed the application.  These are the reasons for our determination.
+
+2.  The drug in question was contained in 12 different resealable plastic bags packed within a cigarette packet.  The cigarette packet was found by the police in the pocket under the door handle next to the driver’s seat in a vehicle at about 2:30 am in the morning of 18 September 2016.  The applicant was in the driver’s seat of the vehicle which was then parked in a restricted zone.
+
+3.  At the trial, the applicant gave evidence denying knowledge of the contents of the cigarette packet.  He said the packet belonged to his friend (“Mok”).  At the request of Mok, he had driven him to Tai Wo Estate to collect some money.  After Mok had alighted from the vehicle, he found the cigarette packet on the floor at the rear seat and he placed it in the pocket of the door near the driver’s seat with the intention of returning the same to Mok later.
+
+4.  The applicant advanced his application on the basis that there was substantial and grave injustice.  As has repeatedly been said, this Court does not function as an ordinary second appellate tier for assessing the facts or reviewing whether convictions are safe and satisfactory, see HKSAR v Sham Man Wai[2] and HKSAR v Finan Boris Anthony[3].  To obtain leave on such basis, an applicant has to show a reasonably arguable ground for contending that there has been such a serious departure from an accepted norm that justice demands an enquiry by way of a final criminal appeal.
+
+5.  In the present case, the applicant submitted that there were serious departures from accepted norms in the following respects:
+
+(a) The trial judge erred in allowing a case of joint enterprise, which was not open on the Indictment, to be run under the label of joint possession (“the Impermissible Joint Enterprise ground”);
+
+(b) The trial judge materially misdirected the jury on joint possession (“the Misdirection ground”);
+
+(c) The trial judge erred in not leaving the alternative verdict of simple possession of a dangerous drug to the jury (“the Alternative Verdict ground”).
+
+6.  The involvement of Mok was introduced at the trial by the applicant in his defence[4] after the prosecution had closed its case.  A consensus was reached by counsel that directions on joint or successive possession should be given but not on joint enterprise.  The trial judge therefore directed the jury accordingly.
+
+7.  Liability for joint possession is conceptually different from liability for joint enterprise.  For joint possession, the prosecution needed to prove that the applicant was in joint possession of the packet with Mok.  But it did not need to prove that the applicant had agreed to participate in a joint enterprise with Mok and that he had played his part in it.  In contrast, for joint enterprise, it would not matter if the applicant had not been in possession at all.  If the prosecution proved that he had agreed to participate in a joint enterprise with Mok that night, the applicant would be liable for the possession of the packet by Mok as an act in furtherance of the such joint enterprise, see [40] to [42] in the judgment of HKSAR v Chan Kam Shing[5].
+
+8.  The jury had not been directed to consider any issues related to joint enterprise.  The Judge clearly directed the jury that they could only convict the applicant if they were sure that the prosecution had proved:
+
+(a) The applicant was in possession of the drug;
+
+(b) He knew that the things inside the cigarette packet were a kind of dangerous drug;
+
+(c) He possessed the drug for the purpose of trafficking[6].
+
+9.  The trial judge also clearly directed the jury to concentrate on the case of the applicant alone in deciding his guilt notwithstanding the guilty plea of Mok[7].
+
+10.  There is no basis to suggest that the jury had improperly found the applicant guilty on account of an unpleaded case of joint enterprise or, as Mr Cheung put it[8], “joint mens rea”.  Since the jury had not been directed to consider any case on joint enterprise, there is also no foundation for Mr Cheung’s submission that the jury could not appreciate the fine distinction between joint possession and joint enterprise.  In the circumstances, the Impermissible Joint Enterprise ground is not reasonably arguable.
+
+11.  Equally, the Misdirection ground has no merit as the trial judge adequately directed the jury that mere presence in the vicinity of the packet and knowledge of its content were not enough to constitute possession and that there had to be physical custody with the intention to exercise control[9]. Unlike what happened in HKSAR v Li Jin[10], the trial judge did not direct the jury to consider possession on the basis that the applicant could have disposed of the packet after Mok had left the vehicle.  To the contrary, he gave specific direction on joint or successive possession[11] requiring the prosecution to prove on either basis that the applicant had exercised control over the packet.
+
+12.  Further, it was the applicant’s own case that he had taken the packet from the back seat to the front pocket whilst there was no-one else in the car.  In so doing, he exercised sufficient control over it for the purpose of establishing possession on his part.
+
+13.  The Alternative Verdict ground is likewise not reasonably arguable.  The proper approach on the giving of direction on alternative verdict was set out by Ma CJ in HKSAR v Chau Yui Ming[12].  As Fok PJ recently held in HKSAR v Lai Kam Fung[13], the earlier approach in Ho Hoi Shing v HKSAR[14] should now be understood and applied in light of Chau Yui Ming.  Hence, cases which applied Ho Hoi Shing before Chau Yui Ming[15] should also be read in the same manner. 
+
+14.  In Chau Yui Ming, Ma CJ alluded to the real potential for confusion to the jury if a direction for an alternative verdict is given on the basis of the vague notion of “possible alternatives”, “possible scenarios”, “alternative defence scenarios” or “secondary defence scenarios”:
+
+“… Apart from being imprecise and uncertain, it can give rise to considerable practical difficulties in application because it can lead to a real potential for confusion on the part of the jury. Where, for instance, the defence’s evidence and approach to the evidence is contrary to such alternative or possible or secondary factual scenarios, it would be confusing and wrong for a judge to have to direct a jury on those alternative factual scenarios …”[16]
+
+15.  Therefore, direction for alternative verdict should only be given when it was obviously raised by the evidence:
+
+“… by that I refer to alternatives which should suggest themselves to the mind of any ordinarily knowledgeable and alert criminal judge, excluding alternatives which ingenious counsel may identify through diligent research after the trial.”[17]
+
+16.  At the trial, the applicant’s case was that the drug in question did not belong to him and there was no suggestion that he had it for his own consumption.  In light of that, it would have been plainly wrong to give a direction to the jury to consider an alternative verdict based on self-consumption. 
+
+17.  Before us, Mr Cheung sought to run a new argument which had not been advanced at the courts below.  Based on the evidence of the applicant that he intended to return the packet to Mok, Mr Cheung submitted that his possession of the packet was only by way of “transitory custody”.  Relying on the dissenting judgment of Lord Goff of Chieveley in R v Maginnis[18] andsome Australian authorities subscribing to that view[19], Mr Cheung submitted that a person who keeps a packet of drugs as “transitory custodian” should not be regarded as possession for the purpose of trafficking.
+
+18.  In R v Maginnis, the House of Lordswas concerned with the meaning of the word “supply” under section 5(3) of the Misuse of Drugs Act 1971.  The majority of the House of Lords decided that a person in unlawful possession of a controlled drug which has been deposited with him for safe keeping has the intent to “supply” that drug to another if his intention is to return the drug to the person who deposited it with him.  Lord Keith of Kinkel (with whom Lord Brandon, Lord Mackay and Lord Oliver agreed) analysed the situation of a temporary custodier as follows:
+
+“One who deposits controlled drugs of which he is in unlawful possession with a temporary custodier has no legal right to require the drugs to be handed back to him. Indeed it is the duty of the custodier not to hand them back but to destroy them or to deliver them to a police officer so that they may be destroyed. The custodier in choosing to return the drugs to the depositor does something which he is not only not obliged to do, but which he has a duty not to do. Any analogy with bailment is false in a situation where the depositor has no right to ownership which the law would recognise and certainly none to immediate possession.”[20]
+
+19.  In a dissenting judgment, whilst agreeing that a depositor who had been in unlawful possession of drugs had no enforceable right for the return of the drugs against the temporary custodian[21]and the custodian had a duty to hand the drugs over to the authorities[22], Lord Goff held that the ordinary and natural meaning of the word “supply” connotes the idea of making goods available to another from resources other than those of the recipient and the redelivery of goods by a depositee to a depositor could not be described as supplying the goods[23].
+
+20.  In Hong Kong, the scope of the offence of trafficking is not confined to the supply of a dangerous drug.  It is plain from section 2 of the Dangerous Drugs Ordinance Cap 134 (“the Ordinance”) that the concept of trafficking under the Ordinance is much wider than “supplying”.  It encompasses the “otherwise dealing in or with” a dangerous drug. In the Chinese version, this expression is rendered as “以其他形式經營或處理”.  Thus, “dealing in” and “dealing with” are two different forms of trafficking.  Whilst “dealing in” drugs may carry with it the connotation of trading, or in Mr Cheung’s description, the “pushing of drugs”, “dealing with” drugs does not have such a connotation.  
+
+21.  Lord Goff’s reservations on the meaning of “supplying” have no bearing on the meaning of “dealing with” in the context of the offence of trafficking under section 4 of the Ordinance.  So analysed, the new argument of Mr Cheung could not be a valid ground for suggesting that the trial judge erred in not directing the jury to consider an alternative verdict of simple possession.
+
+22.  For these reasons, the application for leave to appeal was dismissed.        
+
+ 
+
+ 
+
+(R A V Ribeiro)	   (Joseph Fok)	(M H Lam)
+Permanent Judge	Permanent Judge	Permanent Judge
+  
+
+Mr Eric TM Cheung, Solicitor Advocate, of ONC Lawyers and Mr Jason Kung, instructed by ONC Lawyers, both assigned by the Director of Legal Aid, for the applicant
+
+Mr Raymond Cheng SADPP and Mr Derek Wong SPP, of the Department of Justice, for the respondent
+
+[1] Chu, Zervos JJA and M Poon J (as she then was).
+
+[2] (2014) 17 HKCFAR 825.
+
+[3] (2020) 23 HKCFAR 220.
+
+[4] Though initially the prosecution intended to run a case of joint enterprise between the applicant and Mok and adduced as part of its case the guilty plea of Mok, after queries raised by the trial judge counsel for the prosecution accepted that the plea could not be supported on the evidence against the applicant.  Before the prosecution opened its case at the trial, counsel for the applicant said that she did not intend to adduce evidence from Mok though she would refer to the co-operation of the applicant for the arrest of Mok.  The prosecution made no mention of Mok in its evidence.
+
+[5] (2016) 19 HKCFAR 640.
+
+[6] Hearing Bundle p.46L to R.
+
+[7] CA Judgment [2021] HKCA 120 at [38], Hearing Bundle at p.55Q to 56I.
+
+[8] Para 23 of the applicant’s Form B.
+
+[9] Hearing Bundle p.47R to 48H.
+
+[10] [2010] 4 HKLRD 614.
+
+[11] Hearing Bundle p.48O to S.
+
+[12] (2019) 22 HKCFAR 368.
+
+[13] [2021] HKCFA 13.
+
+[14] (2008) 11 HKCFAR 354.
+
+[15] Mr Cheung cited before us HKSAR v Chau Peter CACC 398/2009, unreported, 12 Aug 2010; HKSAR v Chong Wing Hoi CACC 245/2011, unreported, 7 May 2013.
+
+[16] (2019) 22 HKCFAR 368 at [31].
+
+[17] Per Lord Bingham of Cornhill in R v Coutts [2006] 1 WLR 2154, cited by Ma CJ in Chau Yui Ming at [32].
+
+[18] [1987] 1 AC 303.
+
+[19] R v Carey (1990) 50 A Crim R 163; Alliston v The Queen (2011) 217 A Crim R 323.  Both cases concerned an offence of supply of a prohibited drug under section 25 of the Drug Misuse and Trafficking Act of New South Wales.
+
+[20] [1987] 1 AC 303 at p.312H to 313A.
+
+[21] Ibid, p.315F.
+
+[22] Ibid, p.315H to 316A.
+
+[23] Ibid, p.314D and F to G.
+
+ 
+

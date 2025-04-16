@@ -1,0 +1,470 @@
+CACV 10/2014
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO. 10 OF 2014
+
+(ON APPEAL FROM HCA NO. 3291 OF 2003)
+
+________________________
+
+BETWEEN	 	 
+ 	WADDINGTON LIMITED
+(Suing on behalf of itself and all other shareholders in
+PLAYMATES HOLDINGS LIMITED (except the 1st and 2nd Defendants), PLAYMATES INTERNATIONAL LIMITED and PROFIT POINT LIMITED)
+Plaintiff
+ 	And	
+ 	CHAN CHUN HOO THOMAS (陳俊豪)	1st Defendant
+ 	TGC INVESTMENTS LIMITED
+(formerly known as CHANSAM INVESTMENTS LIMITED)
+2nd Defendant
+ 	PLAYMATES HOLDINGS LIMITED
+(彩星集團有限公司)
+(formerly known as PLAYMATES INTERACTIVE ENTERTAINMENT LIMITED)
+3rd Defendant
+ 	PLAYMATES INTERNATIONAL LIMITED
+4th Defendant
+ 	PROFIT POINT LIMITED	5th Defendant
+________________________
+
+
+Before: Hon Lam VP, Kwan JA and Barma JA in Court
+Dates of Hearing: 5 and 6 January 2016
+Date of Judgment: 20 May 2016
+________________________
+
+J U D G M E N T
+
+________________________
+
+
+Hon Lam VP, Kwan JA and Barma JA:
+
+A. INTRODUCTION
+
+A1.   Background
+
+1.  This is an appeal brought by the 1st defendant, Chan Chun Hoo Thomas (“D1”) against the judgment of Recorder P Fung, SC given on 18 December 2013 after a twelve-day trial in July and August 2013.  Judgment was given in favour of the 5th defendant, Profit Point Limited (“Profit Point”) for $33,511,220.32.
+
+2.  The plaintiff, Waddington Limited (“Waddington”), is beneficially owned and controlled by D1’s elder brother, Chan Chun Wai Albert.  Waddington is a minority shareholder of the 3rd defendant, Playmates Holdings Limited (“Playmates”), holding 18.08% of its issued shares at the material time in 2000.  The largest shareholder in Playmates is the 2nd defendant, TGC Investments Limited, formerly known as Chansam Investments Limited (“Chansam”), holding 46.4% of the issued shares of Playmate in May 2000.  Playmates was incorporated in Bermuda and its shares are listed on the Stock Exchange of Hong Kong.
+
+3.  Chansam is owned as to over 85% of the issued shares by a company controlled by a discretionary trust for the benefit of D1 and his family.  The other shareholders of Chansam are the father of D1 and Albert Chan, and a company controlled by a discretionary trust for the benefit of one of their sisters and her family.  Chansam has not taken part in the proceedings.
+
+4.  Profit Point was incorporated in the British Virgin Islands (“the BVI”).  It was directly owned as to 100% by Playmates prior to April 2001 and indirectly wholly owned by Playmates after April 2001 (via the 4th defendant, Playmates International Limited; “Playmates International”).  Prior to the period between 22 and 24 May 2000, Profit Point held 34,156,338 shares in Prestige Properties Holdings Limited (“Prestige”), equivalent to 4.28% of its then issued share capital.  Prestige was incorporated in Bermuda and its shares are listed on the Hong Kong Stock Exchange.  Prestige is a properties holding company and owned, among other properties, a commercial building in Canton Road, Tsimshatsui, which was used as the headquarters of the Playmates group and a factory building in Tuen Mun which was also used by the Playmates group.
+
+5.  As in May 2000, Chansam held a controlling stake of over 312 million shares in Prestige, which was equivalent to 39.2% of its then issued shares.
+
+6.  From 22 to 24 May 2000, D1 caused the sale by Profit Point of all its shares in Prestige (“the Sale Shares”) in the market at prices of $0.60 to $0.70 per share.
+
+7.  About two months later, on 28 July 2000, a formal agreement was entered into between Chansam as the vendor, Funrise Limited (“Funrise”) as the purchaser, Yugang International Limited (“Yugang”) and D1 as the guarantor, by which Chansam sold almost all of its shares in Prestige, namely, 34.25%, to Funrise at $2.20 per share (“the Yugang Agreement”).  Funrise is the wholly owned subsidiary of Yugang, a listed company in Hong Kong with Cheung Chung Kiu (“Mr Cheung”) as its controlling shareholder.  The Yugang Agreement was completed on 28 September 2000.  Prior to completion, and on 14 September 2000, Chansam disposed of its remaining shareholding in Prestige (4.95%) in the market pursuant to one of the conditions in the Yugang Agreement.  The significance of the percentage of the shareholding agreed to be sold was so that the trigger point at that time of 35% prescribed by the Code on Takeovers and Mergers (“the Takeovers Code”) for a general offer by the purchaser to buy the shares of all the shareholders of Prestige would not be reached.
+
+8.  This action was brought by Waddington as a multiple derivative action (“MDA”) on behalf of Profit Point, alleging that D1 had breached his fiduciary duty to Profit Point as he was under a conflict of interest and the sale of Profit Point’s shares in Prestige was not made in the bona fide interests of Profit Point but was for the purpose of facilitating the Yugang transaction for the benefit of D1 and/or Chansam.
+
+9.  The writ of summons was issued in 2003.  At the time, Profit Point was not joined as a defendant and the action was in the form of a single derivative action.  D1 applied to strike out the action.  Barma J (as he then was) held that Waddington’s claim regarding the Sale Shares was merely reflective of the losses of Playmates’ subsidiary Profit Point and liable to be struck out in its present form.  He held that an MDA on behalf of Profit Point was available to Waddington in principle and that a prima facie case had been made out in respect of the transaction concerning the Sale Shares[1].  He therefore granted leave to amend the pleading.  The statement of claim was re-amended by adding Playmates International and Profit Point as the 4th and 5th defendants and the action was reconstituted as an MDA in March 2007, after D1’s appeal was dismissed by the Court of Appeal.
+
+10.  D1 took his appeal to the Court of Final Appeal.  His appeal was dismissed in September 2008 ((2008) 11 HKCFAR 370).  The court held that an MDA is available at common law in Hong Kong and that the proceedings may continue as an MDA on behalf of Profit Point but not as a derivative action on behalf of Playmates to recover damages for reflective loss.
+
+A2.   Judgment below
+
+11.  Waddington’s primary case was that an inference should be drawn that prior to the selling of the Sale Shares in May 2000, D1 and Chansam had already entered into negotiation or had arrived at an understanding or agreement with Yugang for the sale by Chansam of 34.25% of its shareholding in Prestige.  Waddington contended in the alternative that the selling of the Sale Shares was caused by D1 in contemplation of either the sale to Yugang or a similar transaction, well knowing the requirements of the Takeovers Code.  In the further alternative, Waddington alleged that D1 was seeking to avoid a conflict situation that he might enter into if both Profit Point and Chansam continued to hold shares in Prestige and his causing Profit Point to dispose of its shares was not in the best interest of Profit Point.
+
+12.  D1 denied the allegation that he had agreed or negotiated with Yugang to sell Chansam’s shares in Prestige at the time the Sale Shares were sold.  He asserted it was only in June 2000 that Mr Cheung approached him for the first time for the sale of his controlling stake in Prestige up to just below 35% of the issued shares.  D1 was the only witness on fact to testify for the defence.
+
+13.  The judge made these findings in §75 of the judgment:
+
+(1)   At the time of the sale of the Sale Shares from 22 to 24 May 2000, D1 and Mr Cheung had been well into the negotiations or had even arrived at an understanding or agreement in principle regarding what eventually became the Yugang transaction.
+
+(2)   D1 was at all material times the person in control of Playmates, Playmates International, Profit Point and Chansam.  He caused Profit Point to sell the Sale Shares from 22 to 24 May 2000 for the sole or main purpose of preparing for the implementation of what eventually became the Yugang transaction, so that the trigger point of 35% for a general offer would not be reached.
+
+(3)   The sale of the Sale Shares was to the disadvantage of Profit Point and indirectly of Playmates International and Playmates, and to the benefit of D1 and Chansam.
+
+(4)   D1 should have included Profit Point in getting the benefit of selling the Sale Shares at $2.20 per share instead of between $0.60 and $0.70 per share, even by arranging for Chansam to sell a smaller quantity of its own shares to Yugang and Funrise.
+
+(5)   In the circumstances, D1 has been in breach of his fiduciary duty owed to Profit Point, Playmates International and Playmates and should compensate Profit Point for its loss.
+
+14.  The judge did not find it necessary to make any finding regarding the lesser alternative cases of Waddington (§76).  In any event, he rejected D1’s submission that Waddington cannot rely on the alternative cases as they have not been pleaded in the re-amended statement of claim, holding that the greater includes the lesser and no prejudice would have been caused to D1 in the circumstances to permit reliance on the alternative cases (§81).
+
+15.  The judge based his factual findings on these matters, which have been helpfully summarised in the submission of Mr Yu, SC for Waddington[2]:
+
+(1)   The Sale Shares were purchased by Profit Point in 1994 at $2.29 per share on average.  None of them had been sold until 22 May 2000.  The books of Profit Point and Playmates and the annual reports of Playmates consistently referred to the Sale Shares as a long term investment (§§36(i) to (iv) of the judgment).
+
+(2)   D1 gave three different versions regarding the reason for the sale of the Sale Shares, none of which were mentioned in his witness statement (§§40 to 44).
+
+(3)   In any event, D1’s explanation cannot stand because (i) an average investor would not think it an opportune time to dump over 34 million Prestige shares in the market during the three days between 22 and 24 May 2000, in light of the performance of the Prestige shares in the market (§§45 to 46); and (ii) D1 appeared to be determined right at the beginning to dispose of all the Sale Shares at one go (§47).  The Playmates group was also not in need of cash in May 2000, having just made a substantial profit of $215 million from the sale of its shares in Harbour Ring International Holdings Limited (“the Harbour Ring Shares”) (§§48 to 53).
+
+(4)   D1’s explanation about the start of the negotiations for the Yugang transaction, which was not in his witness statement, was rejected due to (i) its inherent improbabilities (§§56 to 59) and (ii) his evasiveness in the witness box (§§60 to 61).
+
+(5)   The Yugang Agreement made clear that Yugang only wanted to buy 34.24% in Prestige, so D1/Chansam had to dispose of all the remaining shares held by concert parties[3] before completion so that there would be no need for Yugang and Funrise to make a general offer (§§63 to 64).
+
+(6)   Negotiations between D1 and Mr Cheung were on the basis of the net asset value (“NAV”) of Prestige at $2.79 per share as at the end of 1999 (“the old NAV”), not $2.41 per share as from March 2000 (“the adjusted NAV”) due to a placement at that time of 132,800,000 new ordinary shares of Prestige to independent investors.  D1 could not offer any satisfactory explanation as to why, if the negotiations really began in June 2000 as alleged, the adjusted NAV did not form the basis of the negotiations or was not even referred to by the parties in negotiation.  The old NAV and the adjusted NAV appeared in the chairman’s statement by D1 dated 23 March 2000 in the annual report of Prestige for the year 1999 (§§65 to 70).
+
+(7)   The burden of proof was on Waddington to prove wrongdoing by D1 and Chansam.  Once it has established a prima facie case, the evidential burden shifts onto the defendants (§71).
+
+(8)   Adverse inferences were drawn against D1 in view of his inadequate discovery of documents relating to due diligence and the negotiations, which would give an idea as to how and when the entire process of negotiation began; and his failure to call other witnesses, such as his father, any of his co-directors on the boards of Playmates and Profit Point, his lawyers or accountants involved in the Yugang transaction (§§72 to 74).
+
+A3.  Issues on appeal and cross-appeal
+
+16.  In D1’s appeal, he raised four broad contentions:
+
+(1)   The judge erred in finding that at the time the Sale Shares were sold, the Yugang transaction was already being negotiated, or that there was already an agreement or understanding for the same.
+
+(2)   In any event, D1 owed no duty to Profit Point to include the Sale Shares in the sale of shares in Prestige to Yugang.
+
+(3)   Waddington has failed to show that D1’s breach of duty (if any) had caused any loss to Profit Point.
+
+(4)   Since Profit Point is a BVI company, BVI law governs Waddington’s claim and an MDA is not permitted under BVI law.
+
+17.  Waddington raised these contentions in its cross-appeal:
+
+(1)   The judgment sum being the loss and damage suffered by Profit Point should be varied to $53,918,106.04, on the basis that D1 should have included all of the Sale Shares in the Yugang transaction, instead of $33,511,220.32 as ordered by the judge, which was on the basis that D1 should have included the Sale Shares in the Yugang transaction on a pro rata basis (§§130 to 131 of the judgment).
+
+(2)   The judge was wrong to hold that Waddington has not made out its case against Chansam and to dismiss its claim against Chansam (§§126 to 129 of the judgment).
+
+(3)   The judge ruled in a separate ruling on 10 March 2014 ([2014] 4 HKC 356) that the pre-judgment interest on the judgment sum should be 2.5% per annum (§§10 to 17 of the ruling).  He should have adopted the conventional formula of 1% above prime rate.
+
+(4)   The judge was in error in declining to award compound interest with monthly rests on the judgment sum and awarded instead simple interest (§§22 to 24 of the ruling).
+
+18.  The contentions in the appeal and cross-appeal will be considered in the order set out above.
+
+B.   CHALLENGE TO FACTUAL FINDING ON THE TIMING OF NEGOTIATIONS
+
+B1.   Applicable principles
+
+19.  The applicable principles, which are well established, have been stated comprehensively in several recent judgments of the Court of Appeal (China Gold Finance Ltd v CIL Holdings Ltd, CACV 11/2005, 27 November 2015, §§14 to 25; Singh Harjit v Determination Business Ltd, CACV 68/2015, 24 November 2015, §§6 to 11; Hoptai Sharkfins Co Ltd v Productos Pesqueros Gallegos SL, CACV 240/2014, 7 December 2015, §§18 to 22).  For the purpose of the present appeal, we would emphasise the following matters.
+
+20.  The appeal of D1 seeks to challenge a finding of primary facts by the trial judge where the credibility of D1 as a witness was critical.  He has to show that the judge’s finding was plainly wrong.  The appeal court would only overturn a conclusion of fact where there is a palpable error which calls for intervention.  In this regard, a “plainly wrong” finding means one there was no evidence to support, or was based on a misunderstanding of the evidence, or one which no reasonable judge could have reached.
+
+21.  “Plainly wrong” in this context does not refer to the degree of confidence felt by the appeal court that it would not have reached the same conclusion as the trial judge.  It does not matter, with whatever degree of certainty, that the appeal court considers it would have reached a different conclusion.  What matters is whether the decision is one that no reasonable judge could have reached.  The rationale for this goes beyond the recognition of the advantage of the primary judge in seeing and hearing the witness.  It is also based on the public interest.  The major role of the primary judge is the evaluation of evidence and making findings of fact.  As he has sat through the entire case, his judgment would have reflected his total familiarity of the evidence.  Specific findings of fact are inherently incomplete statements of the impression of the evidence made upon the primary judge.  The appellate system is not intended to allow the litigant to have another shot at persuading the appeal court that the facts should be found in a different way.
+
+B2.   The arguments on NAV
+
+22.  Mr Jat, SC[4] sought to challenge the judge’s finding that the negotiations of the Yugang transaction started before the sale of the Sale Shares on the bases that (1) it was premised on a misunderstanding of the evidence as to when the old NAV and the adjusted NAV were available; and (2) the judge had overlooked material evidence that in a joint public announcement dated 1 August 2000, the parties to the Yugang transaction still referred to the old NAV, notwithstanding that the adjusted NAV had already become available.
+
+23.  His argument ran along these lines.  The judge’s finding at §75(ii) that at the time the Sale Shares were sold between 22 and 24 May 2000, D1 and Mr Cheung had been well into negotiations or had even arrived at an understanding or agreement in principle regarding what eventually became the Yugang transaction was based in particular on the fact that in that transaction, the parties plainly made it known that the basis of their negotiation for the price was the old NAV as opposed to the adjusted NAV, which was published on 23 March 2000.  The judge’s logic would seem to be that if the parties had only started their negotiations after the adjusted NAV was available, they would not have used the old NAV.  In support of this, Mr Jat pointed to §§69 and 70 of the judgment, which read as follows:
+
+“ 69. Under cross-examination, Thomas [D1] was simply unable to offer any satisfactory explanation as to why, if the negotiations really began in June 2000 as he has alleged, the adjusted NAV figure of $2.41 per share did not form the basis of the negotiations or was even referred to.
+
+70. I find it inconceivable that Mr. Cheung, being the Chairman of a listed company, Yugang, and who must have been advised by lawyers and accountants before making an offer to take over another listed company, Prestige, would not have been aware of and relied on the lower NAV figure [the adjusted NAV] published on 23 March 2000 in his negotiations with Thomas, if he had made the approach in as late as June 2000.”
+
+24.  Mr Jat made the point there is no evidence that the old NAV and the adjusted NAV were made public at any time earlier than when the results of Prestige were published in its 1999 annual report dated 23 March 2000, which contained both figures for the old and adjusted NAV.  Nor is there evidence that either of these figures came to Mr Cheung’s knowledge at a different time.  Thus, the fact that D1 and Mr Cheung used the old NAV instead of the adjusted NAV cannot logically have any bearing on the timing of the negotiations.  He submitted that the judge had plainly overlooked or had failed to appreciate that the old NAV and the adjusted NAV were made public at the same time and had reasoned from the wrong premise that if the parties had only started their negotiations after the adjusted NAV was available, they would not have used the old NAV.
+
+25.  He further submitted that in any event, it is wrong to say that once the adjusted NAV was published, there would no longer be any reason to refer to the old NAV.  In the joint announcement dated 1 August 2000, the old NAV was still referred to in respect of the purchase price of the shares in the Yugang transaction, in calculating the discount and the premium.  By that time, regardless of when the negotiations had started, the parties would have known about the placement of shares in March 2000 and the adjusted NAV.  Mr Jat submitted there was good reason to refer to the old NAV as it was the last figure shown in the published audited financial statements of Prestige, whereas the adjusted NAV was not an audited figure.  Further, there is nothing unreasonable in D1’s explanation about using the old NAV in negotiations, just as a reference point to kick off negotiations.
+
+26.  He contended that upon demonstrating that the judge had erred in his analysis of the NAV figures, there was nothing else which could justify drawing an adverse inference against D1 or making a finding against his evidence that negotiations of the Yugang transaction had preceded the sale of the Sale Shares.
+
+27.  We are not persuaded by Mr Jat’s submissions.
+
+28.  One must not lose sight of the judge’s finding in §69 that under cross-examination, D1 was unable to offer any satisfactory explanation as to why, if the negotiations had started in June 2000 as he alleged, the adjusted NAV did not form the basis of the negotiations or was not even referred to.  It is pertinent to note from the passages of the transcript set out in §55 of the judgment that according to D1, it was mentioned in the first meeting that the NAV was $2.79 (the old NAV) and D1 did say to Mr Cheung if the latter would offer a price close to the NAV of last year (the old NAV), he would consider.  But Mr Cheung offered $2 at the second meeting and D1 found it too low.  Apart from those passages, we were referred by Mr Yu to these relevant passages of D1’s evidence and it is pertinent to see how he had responded when he was asked specifically more than once to explain why the adjusted NAV had not been mentioned in the negotiations:
+
+“ Q. In the evidence you gave this morning you said that the negotiation with Mr Cheung Chung Kiu of Yugang was on the basis of a net asset value of $2.79, which is the net asset value as at the end of December 1999. You remember?
+
+A. This is correct. It was at around the end of June when the first occasion took place.
+
+Q. I suggest to you that this date cannot be correct, the date of end of June cannot be correct because if you had been negotiating with Cheung Chung Kiu at the end of June ---
+
+A. (In English) Around end of June.
+
+Q. --- or around end of June, it made no commercial sense for you and Cheung Chung Kiu to be using the NAV as at the end of December when there had been a placement in March of the shares and the NAV by March had been reduced to $2.41. You remember?
+
+A. In the negotiation I did not check, well, in any commercial negotiation each party would throw out a price and I think the one I adopt, namely the NAV as quoted in the annual report in 1999 was the best one.
+
+…
+
+Q. Turn to the chairman’s statement. That’s of course you, your statement. You see that under the “adjusted net asset value” --- it talks about the placement in March 2000 and at the bottom it says:
+
+“The adjusted net asset value per share would be $2.41.”
+
+If you had been discussing with Mr Cheung Chung Kiu, negotiating for the sale of shares of an NAV after March, there would be no reason why you would not be talking about $2.41 and instead talked of $2.79. Right?
+
+A. This is not a yes and no answer. Being a business person, maybe I notice that there was the value --- the figure of $2.79. Maybe I did not see the other figures thereafter. Being a business person and doing a negotiation, there is no harm for me to throw out a higher figure. This often happened in commercial world. I ---
+
+Q. The reason why Mr Cheung was negotiating with you on the basis of an NAV of $2.79 was because your negotiation took place before the publication of this annual report; it that right?
+
+A. I disagree.
+
+Q. If the annual report was available to Mr Cheung he would not have negotiated with you on the basis that the NAV was $2.79.
+
+A. And that’s why he refused to pay $2.79.
+
+Q. You see, Mr Chan, what you said about negotiating on the basis of the NAV at the end of December 1999 was actually in the joint announcement … Joint announcement by Prestige and Yugang.
+
+…
+
+Q. … You see that the consideration is explained to the reader as follows:
+
+“Pursuant to the agreement, Funrise has agreed to purchase from Chansam the sale shares, representing approximately 34.25 per cent of the issued share capital of Prestige, for a total cash consideration of HK$600,600,000 (or HK$2.20 per sale share). The purchase price per sale share had been arrived at after arm’s length negotiation between the parties with reference to the consolidated net tangible asset value of the Prestige Group as at 31 December 1999 after some in-house preliminary valuation on the properties as mentioned below.”
+
+And the figure there quoted was approximately $2.78 per share in brackets, do you see that? So the negotiation could not have taken place as late as June 2000. It was negotiated --- you negotiated with Cheung Chung Kiu before May of 2000.
+
+A. Well, what you have just said carries no truth at all. That paragraph you quoted to me just now, well, as far as the negotiation is concerned, there was only the two occasions I have mentioned earlier on. When I talked to him, he looked as if he was not a serious person so I just gave him a price, quote a price to him, to see how he would respond.
+
+Mr Yu: My Lord, I have finished.
+
+A. This is only a figure I throw at him, so it doesn’t matter what price I said I would sell the shares at, just to see whether he would be willing to buy or not. Maybe he would respond by saying that, “I’m only going to offer you $1”, and then to see how I would react.
+
+Mr Yu: Mr Chan, I have no more questions for you.”[5] (Emphasis supplied)
+
+29.  We do not think the judge could have overlooked the fact that the old and adjusted NAV figures were published together in the chairman’s statement by D1 in the annual report of Prestige dated 23 March 2000.  The two relevant paragraphs in the chairman’s statement dealing with the old NAV and the adjusted NAV appeared right after one another, and were set out in full in §67 of the judgment in the section dealing with the NAV of Prestige.  But more importantly, when D1 was specifically asked several times to explain why the adjusted NAV was not used in the negotiations, the fact that the old NAV and the adjusted NAV were published together on 23 March 2000 was not mentioned in the various explanations he put forward and simply could not be taken to have any bearing to his explanations.
+
+30.  Mr Jat did not conduct the trial for D1.  His proposition that as the old and adjusted NAVs were published together in March 2000, the fact that the adjusted NAV was not used in the negotiations could not logically have any bearing on the timing of the negotiations was not explored in the evidence at the trial.  D1 certainly did not regard this as a material factor when ample opportunity was given to him to explain in cross-examination why the adjusted NAV was not referred to at all.  As Lam VP had emphasised in Hoptai Sharkfins Co Ltd at §1, where the dispute is primarily factual in nature, the primary focus in the conduct of the litigation should be put on the trial and our system of appeals is not designed to allow disappointed litigants to have a second round of the trial.  D1 is bound by what had transpired at the trial and the way he had responded to specific questions.  The proposition now advanced by his counsel on appeal cannot remedy what had not been explored at the trial.  Based on the evidence before the court, the judge is fully entitled to find that D1’s explanation was wholly unsatisfactory and it is entirely proper to draw an adverse inference against him that as negotiations had started on the basis of the old NAV, that was a strong pointer that the negotiations had commenced prior to the time when the adjusted NAV became available.
+
+31.  As to Mr Jat’s submission that the adjusted NAV was not an audited figure and so there was good reason to continue to refer to the audited figure of the old NAV, we do not think this is a point of substance.  D1 never gave evidence there was no good reason to refer to the adjusted NAV in the negotiations because it was not an audited figure when he was specifically asked to explain why the adjusted NAV was not mentioned in negotiations.  Besides, we do not think it could fairly be said that the adjusted NAV should be regarded as having no importance to the parties in negotiating the price, because the old NAV was only adjusted by taking into account the net proceeds from the placement of shares and the enlarged number of shares in issue immediately after the placement.
+
+32.  Nor do we think there is substance in the contention that the judge had overlooked the joint announcement dated 1 August 2000 in which the parties still referred to the old NAV notwithstanding that the adjusted NAV had been published in March 2000.  The relevant paragraph in the joint announcement was set out in full in §68 of the judgment.  As appeared from the passages in the transcript quoted earlier, D1 was cross-examined on this paragraph and asked specifically why no reference was made to the adjusted NAV.  He did not give evidence along the line as now suggested by Mr Jat.
+
+33.  In short, the contentions put forward by Mr Jat are afterthoughts of D1’s new legal team.  Not only did they not feature in his evidence, they could not be squared with the answers he actually gave.  There is no basis to interfere with the judge’s finding of primary fact that at the time the Sale Shares were sold, the Yugang transaction was already being negotiated, or there was already an agreement or understanding for the same.
+
+B3.   Other matters supporting the inference on the timing of negotiations
+
+34.  Mr Jat submitted that once the pillar to the finding in §75(ii) of the judgment was demonstrated to be unsound by his NAV arguments and left out of account, the other matters relied on by the judge as supporting his inference on the timing of the negotiations cannot stand.  Even though we do not accept his arguments on the NAV for the reasons given above, we would still consider if there is substance in any of the other challenges he made to the judge’s finding of fact.
+
+35.  Mr Jat made two broad contentions.  Firstly, he submitted that even if D1’s explanation for the sale of the Sale Shares was rejected, this does not go to prove Waddington’s case that the Sale Shares were sold in the market to facilitate the Yugang transaction.  Secondly, he submitted that the judge was wrong to draw adverse inferences against D1 in view of his inadequate discovery of documents and the failure to call other witnesses.
+
+36.  In support of his first contention, Mr Jat relied on the dicta of Scrutton LJ in Hobbs v Tinling (CT) & Co Ltd [1929] 2 KB 1 at 21, which had been adopted by our courts in Sukit Pachimsawat v Hongkong and Shanghai Banking Corp [1981] 1 HKC 137 at 148E to H; and Chan Ka Lim v Chow Wai Kin [2008] 5 HKLRD 881 at §§23 to 26.  The short point he made is that by destroying D1’s evidence in cross-examination, the effect is that there is simply no evidence on the subject, so the rejection of D1’s evidence does not prove the opposite case contended by Waddington.
+
+37.  We do not accept this submission.  As pointed out by Mr Yu, this is not a situation where there is no evidence to establish a positive case for Waddington so that when D1’s evidence is discredited, there is no basis at all upon which the judge may properly draw inferences or make findings.  Even at the stage of striking out, it was held[6] that Waddington had made out a prima facie case that the Sale Shares were sold to facilitate the Yugang transaction for the benefit of D1 and/or Chansam based on inter alia the following matters: (1) the absence of any clear reasons or commercial justification for the sale of the Sale Shares, which were classified as a long term investment in the group accounts of Playmates; (2) the absence of any discussion or resolution for the sale of the Sale Shares either at the Profit Point or Playmates level; (3) the close proximity in time of the sale of the Sale Shares with the conclusion of the Yugang Agreement; (4) the terms of the Yugang Agreement designed to ensure that Funrise and Yugang would not be required to make a general offer for the shares in Prestige.
+
+38.  The judge was correct in holding in §71 that once Waddington has established a prima facie case that D1 was in breach of his fiduciary duty in causing the Sale Shares to be sold in the market at the material time, the evidential burden shifts onto the defendants to demonstrate the propriety of the transaction, although the substantive burden remains with Waddington to prove that the transaction was improper and not made in the interests of Profit Point.  This is amply supported by the cases cited by Mr Yu (Bishopsgate Investment Management Ltd (in liq) v Maxwell (No 2) [1993] BCLC 1282 at 1286D to E; Brocks Mount Ltd v Beasant [2003] EWHC 1063 (Ch) at §25; Erlanger v The New Sombrero Phosphate Company (1878) LR 3 App Cas 1218 at 1230; Ratiu v Conway [2006] 1 EGLR 125 at §121; Re Idessa (UK) (in liq) [2012] 1 BCLC 80 at §§24 to 28).
+
+39.  Mr Jat submitted that as the party bearing the substantive burden, Waddington is required to adduce evidence of “sufficient cogency” to raise a prima facie case before any adverse inferences may properly be drawn against D1, especially as serious allegations are involved, citing Nina Kung v Wong Din Shin (2005) 8 HKCFAR 387 at §369.  But it was held at the striking out stage that a prima facie case was established, whilst fully recognising that the allegations are serious ones, and that holding was not appealed.
+
+40.  We turn to Mr Jat’s criticisms regarding the drawing of adverse inferences owing to D1’s inadequate discovery and his failure to call other witnesses.
+
+41.  He drew attention to the fact that Waddington had subpoenaed various witnesses including Mr Cheung and the handling solicitor acting for both Chansam and Yugang in the Yugang transaction but Waddington chose to release the subpoenas on the first day of trial.  When D1 tried to adduce letters and statements by these witnesses as hearsay evidence, this was opposed by Waddington and the judge ruled in Waddington’s favour.  He submitted that in light of these matters, the judge should not have inferred that D1 did not call these witnesses because of any concern that their evidence would not support his case.  Further, there was no cross-examination why D1 did not call any particular witness.
+
+42.  As for the failure to give discovery, Mr Jat took issue with the phrase “a great quantity of documents” in §72 of the judgment.  He said the judge did not make clear what “great quantity of documents” there would be that could shed light on the timing of negotiations.  He submitted that D1’s evidence there were no documents before the lawyers were involved[7] is entirely plausible and documents relating to due diligence would be irrelevant as due diligence could only take place after the signing of the Yugang Agreement as provided by its terms.
+
+43.  On the failure to call other witnesses, the judge took into account in §73 of the judgment that D1 had not called any of his co-directors on the boards of Playmates and Profit Point, any of his lawyers or accountants involved in the Yugang transaction, or his father.  The professional advisers would have been able to throw some light on the process of the negotiations and the co-directors and his father would have been able to give evidence on the decision to sell the Sale Shares.  That D1 was not cross-examined about his failure to call any particular witness is neither here nor there.  The fact remains that there was not just one witness or two but there were quite a number of witnesses he might reasonably be expected to have called.  The judge is entitled to draw an adverse inference against D1 that his failure to call any of these witnesses must be for the reason that their evidence would have an adverse impact on his case.  The fact that Waddington decided to withdraw its subpoenas against Mr Cheung and the handling solicitor of the Yugang transaction on the first day of trial is wholly irrelevant.
+
+44.  D1 did not even attempt to look for documents when he prepared his witness statement[8].  The judge is entitled not to accept his bare assertion there were no documents before the lawyers were involved and took the view in §72 of the judgment that there would have been documents relevant to due diligence investigation and the negotiations that would give an idea as to how and when the entire process of negotiation began.  We do not think the judge could rightly be criticised for drawing an adverse inference against D1 for his failure to give necessary discovery.
+
+B4.   Other alleged factual errors
+
+45.  Mr Jat’s submission is along the same line that once it was shown the judge was in error due to the NAV arguments, there would be nothing to justify the inference that the Sale Shares were sold to facilitate the Yugang transaction.  As before, we would examine the other challenges he mounted to the findings even though we do not accept his NAV arguments.
+
+46.  Mr Jat argued the fact that the Sale Shares were sold in the market turned out to be convenient to Chansam does not logically mean that the sale was a pre-conceived plan arranged by Chansam.  He submitted that the trigger point of 35% under the Takeovers Code and the provisions in the Yugang Agreement relating to that could have no bearing on the timing of the negotiations, as there was no evidence that clause 11(A) (by which the vendor gave an undertaking to the purchaser to procure the sale to independent third parties at least seven days prior to completion of all the shares, other than the shares of the vendor to be sold under the agreement, held by the vendor or any parties acting in concert with the vendor) was contemplated from the start of the negotiations, and surmised that this clause could have been raised at a later stage by the lawyers.  He also contended it is not at all apparent that the Takeovers Code would require the inclusion of clause 11(A).
+
+47.  We are not persuaded the judge was wrong, let alone plainly wrong, in §61 of the judgment in holding that on the evidence D1 was very well aware of the great significance of the trigger point of 35% under the Takeovers Code, or that he was wrong to attach significance to the terms of the Yugang Agreement which showed clearly that Yugang and Funrise would only want to buy 34.24% of the issued shares.  There is no palpable error which calls for intervention of the appeal court.
+
+48.  Next, Mr Jat submitted that the judge was wrong to reject D1’s evidence regarding the reason for the disposal of the Sale Shares in the market, taking the view that D1 had given three different versions of the decision to sell (§§40 to 43 of the judgment).  Mr Jat contended it was wrong to treat D1 as having given three different versions.  Rather, D1’s evidence should be understood as merely describing different stages of the decision to sell and that he had not given inconsistent evidence or changed his evidence.
+
+49.  We reject this argument without hesitation.  We have gone through the relevant parts of the transcript[9].  On a fair reading of the transcript, the judge is clearly entitled to take the view that D1 had given three different versions when he was asked about the reason for the sale of the Sale Shares and that his evidence was inconsistent and contradictory.
+
+50.  Mr Jat made other criticisms about the judgment, all of which are rather minor so we will deal with them succinctly.
+
+51.  He contended that the judge’s reasoning in §§45 to 46 of the judgment for rejecting D1’s case that the Sale Shares were sold due to a temporary market rebound was flawed.  He pointed to the movement in the price of the Prestige shares from March to June 2000 and submitted that this bore out D1’s evidence that the price in the shares had risen a great deal in early 2000 and had risen again during the three days when the Sale Shares were sold.
+
+52.  The judge had considered the movement in the share price during the relevant period, and had noted that the share price was steady and trading was rather thin.  He is fully entitled to the view that in light of the performance of the Prestige shares over the relevant period, there would be no reason for an average investor to think it would be an opportune time to sell all the 34 million Sale Shares in the market within a short period.
+
+53.  Mr Jat criticised the judge for saying that all the 34 million Sale Shares were “dumped” in the market “at one go” in §§46 and 47 of the judgment.  He submitted that they were actually sold in small lots and this would tend to suggest that the seller was testing the market and acting reasonably.  The judge could not have been unaware of the way the Sale Shares were sold in the market, as the actual quantities of each lot of shares sold over the three days and the price of each transaction were set out in appendix B to the judgment.  The fact remains that all the 34 million shares held by Profit Point were disposed of, within just three days.  This could hardly be regarded as disposing of the shares gradually or for the purpose of testing the market.
+
+54.  Lastly, Mr Jat contended the fact that the Sale Shares were classified as “long term investments” should not mean they would never be sold, just as the Harbour Ring Shares, also stated in the group accounts as long term investments, were sold round about the same period in the first half of 2000.  He submitted there was nothing uncommercial about the decision to sell the Sale Shares in the market, even though the sale was at a loss compared to the average acquisition cost.  But the sale of the Harbour Ring Shares was hardly comparable.  They were disposed of at the very substantial profit of $215 million, taking advantage of a vast increase in the share price when a contemplated takeover eventually materialised.
+
+55.  We see no basis to interfere with the inference and finding of the judge that the sale of the Sale Shares in the market was done for the sole or main purpose to facilitate the Yugang transaction.
+
+B5.   P’s alternative case
+
+56.  That being the judge’s finding on Waddington’s main case, he did not find it necessary to make any finding of fact on the lesser alternative cases advanced by Waddington (that the Sale Shares were sold in the market in contemplation of the sale to Yugang or a similar transaction, knowing full well the trigger off point under the Takeovers Code; alternatively that D1 was seeking to avoid a conflict situation he might enter into if both Profit Point and Chansam continued to hold shares in Prestige).  As we are in agreement with the judge on his finding on the main case, we do not propose to make any finding on the lesser alternative cases.
+
+C.  CHALLENGE TO THE HOLDING THAT D1 HAD A DUTY TO INCLUDE PROFIT POINT IN THE YUGANG SALE
+
+C1.   The “no conflict” duty and the “no profit” duty
+
+57.  Mr Jat emphasised the distinction between the “no conflict” duty and the “no profit” duty owed by a fiduciary.  The first refers to the duty not to place oneself in a position where his interests would or may conflict with those of the beneficiary.  The latter refers to the duty not to make a profit deriving from his fiduciary position without the informed consent of the beneficiary.  Even though there is an obvious overlap between the two duties, they are not always conterminous and each has distinct features (Kao Lee & Yip v Koo Hoi Yan [2003] 3 HKLRD 296 at §§50, 63).  The often cited test for the no conflict duty is the statement of Lord Upjohn in Boardman v Phipps [1967] 2 AC 46 at 124A to C: whether “the reasonable man looking at the relevant facts and circumstances of the particular case would think that there was a real sensible possibility of conflict”.
+
+58.  Mr Jat complained that in holding D1 had been in breach of his fiduciary duty in failing to include Profit Point in the Yugang sale (§§75(v) and (vi) of the judgment), the judge did not carry out a factual or legal analysis as to why D1 had such a duty to do so.  He submitted that had the judge carried out a proper analysis, he should have found that neither the no profit duty nor the no conflict duty was engaged.
+
+59.  His arguments were founded on these premises.  Firstly, on D1’s evidence, the offer of Yugang was to acquire a stake slightly less than 35%, and only Chansam had such a stake to sell.  Secondly, Yugang’s offer was made to D1 as the director or representative of Chansam.  It was not made to D1 for him to amass a sufficient quantity of Prestige shares to make up a stake of slightly less than 35% from whatever source.  There was no suggestion that Yugang was aware Profit Point also held shares in Prestige, or that Yugang was approaching D1 to purchase Profit Point’s shares in Prestige.
+
+60.  Mr Jat argued that when D1 was exploiting the opportunity to sell Chansam’s shares, he did not make a profit deriving from his position as a fiduciary of Profit Point.  The Yugang offer came to him as the representative of Chansam.  Hence, the no profit duty was not engaged.
+
+61.  The no conflict duty was also not engaged on these arguments.  Yugang’s approach was to Chansam alone and only Chansam had a controlling stake of shares to sell.  There was no “real sensible possibility of conflict” in this situation.  It was not investigated at trial that the offer from Yugang was to buy around 35% shares in Prestige from any source, as that was not the case pleaded by Waddington.  In the situation where the beneficiary could not exploit the opportunity, there could not be any breach of the no conflict duty.  It is only where a no profit duty arises that it would be no answer to say that the beneficiary could not have obtained the benefit or opportunity.  On that basis, Mr Jat sought to distinguish Industrial Development Consultants Ltd v Cooley [1972] 2 All ER 162 and Bhullar v Bhullar [2003] 2 BCLC 241, contending that they are cases where the no profit duty was engaged and that the opportunity had come to the fiduciary as a fiduciary for the plaintiff.
+
+C2.   Analysis
+
+62.  Waddington’s case is that the no conflict duty was engaged.  The judge held that D1 was under a duty to include Profit Point in the Yugang transaction, if D1 had not wrongfully disposed of the Share Sales in advance.  As the application of the no conflict duty is entirely fact sensitive, we should first examine the factual basis to test whether a reasonable man would think there was a “real sensible possibility of conflict” in the circumstances here.
+
+63.  In support of Waddington’s case, Mr Yu relied on the following matters:
+
+(1)   The Sale Shares were held by Profit Point since their acquisition five years ago as long term investment.  As a director of Profit Point, D1 was under a duty to act in the best interests of Profit Point to reap the greatest return in a sale of the Sale Shares.
+
+(2)   There was an offer from Mr Cheung to D1 for the purchase from Chansam of a controlling stake in Prestige of about 35% of the issued shares, at a substantial premium to the market price.
+
+(3)   It would be of substantial benefit to Profit Point if the Sale Shares could be included in the 35% of Prestige shares to be purchased by Mr Cheung.
+
+(4)   Under cross-examination, D1 agreed that if he was holding one block of Prestige shares of over 35% through Chansam and another block of shares of 4 to 5% through Profit Point, and “if someone were to offer $2.20 for paying up[10] to 35 per cent of the Prestige shares”, “there is a conflict of interest”.  He went on to say if that happened, he would certainly report the matter to the board of Profit Point and let the other directors decide independently, in his absence, whether they wanted to buy, sell or hold the Sale Shares.  And if Profit Point were to decide to sell, he would approach the buyer and tell the buyer that Profit Point would sell 4.28% of the Prestige shares and the remaining part of the shares would come from Chansam, to see if that proposal was agreeable to the buyer[11].
+
+64.  Insofar as Mr Jat submitted no significance should be attached to D1’s answers in cross-examination as mentioned above, we do not agree with him.  D1’s evidence showed he was clearly alive to there being a conflict of interest situation.
+
+65.  We turn to consider the factual basis with regard to the arguments made by Mr Jat mentioned earlier.
+
+66.  Mr Jat contended that the offer of Mr Cheung was made to D1 as the representative of Chansam.  We agree with Mr Yu’s submission the capacity in which D1 received the offer should have no bearing on whether a reasonable man would have thought there was a “real sensible possibility of conflict” in this situation, and the examples cited by Mr Yu in Bhullar v Bhullar and IDC v Cooley are directly on point.
+
+67.  In Bhullar, the appellant directors were held bound by the conflict of interest rule.  They discovered by chance a property on the market next to the company’s property and purchased it for themselves notwithstanding that they recognised it would have been worthwhile for the company to acquire the adjacent property.  The opportunity to acquire the adjacent property did not come to these directors in their capacity as fiduciaries of the company.  In Cooley, the defendant managing director of the plaintiffs was held to be in breach of his fiduciary duty in putting his personal interests as a potential contracting party with the gas board in direct conflict with his duty as the managing director of the plaintiffs.  The offer was made by the gas board to the defendant not in his capacity as a fiduciary of the plaintiffs.  In fact, the gas board had made clear to the defendant they were only interested in employing the defendant and did not wish to deal with the plaintiffs in any capacity.
+
+68.  Mr Jat emphasised the fact that the defendants in Bhullar (at §41) and Cooley (at 173h to 174a) had only one capacity in which they were carrying on business at the material time, unlike the present situation in which D1 was in a fiduciary relationship with a number of principals – Playmates, Playmates International, Profit Point and Chansam.  He submitted there was no duty on D1 to subordinate Chansam’s interest to Profit Point in the Yugang transaction.  We do not think the mere fact that D1 was in a fiduciary relationship with more than one principal should prevent the no conflict duty from arising.  There is all the more reason D1 should not put himself in a conflict of interest situation in light of his different capacities.
+
+69.  Next, Mr Jat contended that Yugang’s offer was not available to Profit Profit, there being no evidence the offer was to purchase a controlling stake of Prestige shares from any source.  He submitted it is only where the no profit duty arises one can invoke the equitable principle that it would be no answer for a fiduciary to say that the beneficiary could not have obtained the benefit or opportunity.
+
+70.  We agree with Mr Yu that the above proposition is contrary to principle and is not supported by authority.  There is no reason why the equitable principle should only have application to the no profit duty but not the no conflict duty, nor has Mr Jat identified any reason for this.  To the contrary, the equitable principle was expressly applied in the context of the no conflict duty in IDC v Cooley, at 175c to 176e.  See also Kao Lee & Yip v Koo Hoi Yan at §§51 to 52 and 55; and Bhullar v Bhullar at §41, in which Jonathan Parker LJ stated as follows: “Whether the company could or would have taken that opportunity, had it been made aware of it, is not to the point: the existence of the opportunity was information which it was relevant for the company to know, and it follows that the appellants were under a duty to communicate it to the company”.
+
+71.  We reject Mr Jat’s contention that the equitable principle is confined to the no profit duty.
+
+72.  Nor do we think that the case of UDL Holdings Ltd & Anr v Leung Yuet Keung & Anr [2008] 6 HKC 127 cited by Mr Jat would provide support for his proposition there would be no breach of the no conflict duty where the beneficiary could not exploit the opportunity.  That case was concerned with the judicial sale of a vessel and on the very particular circumstances the court held that there was no conflict of interest and no breach of fiduciary duty because there was nothing that could have been done by the plaintiff companies in respect of the court-ordered sale and no duties were owed by the defendants as directors to the plaintiffs in relation to the judicial sale (at §§84 to 86).
+
+73.  Mr Jat also made the point that the question put to D1 in cross-examination was someone making an offer to buy up to 35% of the shares and it was not made clear in the question whether the offer was to buy up to 35% from any source or from just one source.  We do not think this is a matter of any moment.  Commercial impossibility or the unwillingness of the third party to deal with the beneficiary is not a defence.  Even if the beneficiary lacks the resources to exploit the opportunity, the duty is on the fiduciary to seek to overcome the beneficiary’s commercial inability.  And if the third party is unwilling to deal with the beneficiary, the duty is on the fiduciary to persuade the third party to deal.  See the article “The Corporate Opportunity Doctrine” by D D Prentice and Jenny Payne in (2004) 120 LQR 198 at 201, citing in support the cases of Regal (Hastings) Ltd v Gulliver [1967] 2 AC 134 and IDC v Cooley.  Alternatively, the fiduciary should declare the conflict to the board of the beneficiary and refrain from taking part in any decision of the beneficiary which may affect the course of event.
+
+74.  We are satisfied that on the factual basis here, a reasonable man would have thought there was a “real sensible possibility of conflict” in this situation and D1 had breached the no conflict duty.  We uphold the judge’s finding that D1 was in breach of his fiduciary duty to Profit Point in causing the Sale Shares to be sold in the market to facilitate the Yugang transaction and thereby not including Profit Point in the Yugang transaction to get the benefit of the sale of Prestige shares at a much higher price.
+
+D.   CAUSATION OF LOSS
+
+D1.  If the point may be raised on appeal
+
+75.  Mr Jat raised the argument that Waddington has failed to show that D1’s breach of fiduciary duty had caused any loss to Profit Point.  Mr Yu made a preliminary objection that it is not open to D1 to raise this on appeal as causation was not argued by D1 at trial and this is not even a ground in the Notice of Appeal.
+
+76.  It would appear from the written closing submission Mr Jat referred us to that causation was argued by D1 at §§179 to 181.  It was contended that as the corporate opportunity was not available to Profit Point, it was not entitled to damages and, in any event, Waddington had not adduced evidence to prove that Yugang would acquire any Prestige shares from Profit Point at $2.20 per share, given that Profit Point was not a major shareholder in Prestige and would not be able to give extensive warranties in the same way as Chansam in the Yugang Agreement.
+
+77.  We would exercise our discretion to allow D1 to argue causation on appeal even though this is not covered in the Notice of Appeal.
+
+D2.   Was the requisite causal link established
+
+78.  It is not in dispute that a claim for equitable compensation is only available in respect of loss shown to have been caused by the breach of fiduciary duty.  The basic test for causation is the “but for” test and the court takes a common sense view of causation with the full benefit of hindsight (Libertarian Investments Ltd v Hall (2013) 16 HKCFAR 681 at §§76 and 96).
+
+79.  Although a causal connection between the breach of fiduciary duty and the loss to the beneficiary must be shown in every case, the authorities showed that the rules on causation are of varying strictness depending on the type of duty and breach in question.  A discussion of the relevant authorities appeared in the judgment of Ribeiro PJ in Libertarian at sections F4 and F5 from §§73 to 96, in which he agreed with and referred extensively to the judgment of Tipping J in Bank of New Zealand v New Zealand Guardian Trust Co Ltd [1999] 1 NZLR 664.  At 687 lines 17 to 25, Tipping J distinguished three categories of breaches of duty by trustees and other fiduciaries with particular reference to their impact on the trust estate.  For our purpose, the second category of breaches is relevant.  They are “breaches involving an element of infidelity or disloyalty which engage the conscience of the fiduciary”.  In respect of the second category of breaches, Tipping J said this at 687 lines 45 to 51:
+
+“ … once the plaintiff has shown a loss arising out of a transaction to which the breach was material, the plaintiff is entitled to recover unless the defendant fiduciary, upon whom is the onus, shows that the loss or damage would have occurred in any event, ie without any breach on the fiduciary’s part. Questions of foreseeability and remoteness do not arise in this kind of case either. Policy dictates that fiduciaries be allowed only a narrow escape route from liability based on proof that the loss or damage would have occurred even if there had been no breach.”
+
+80.  Mr Jat complained that the judge made no analysis on how D1’s breach of fiduciary duty in §75(vi) had caused the loss and damage he awarded in §130, being the difference in price between the sale price of the Prestige shares to Yugang and the actual sale price of the Sale Shares in the market, on a pro rata basis.  To be fair to the judge, the arguments on causation were made cursorily in D1’s closing submission.  Apparently, they were only developed fully by Mr Jat on appeal.
+
+81.  Mr Jat’s contention is that to establish the requisite causal link, it must be shown that Yugang would have purchased from Profit Point if D1 had acted in the way suggested by Waddington and was not in breach of fiduciary duty.
+
+82.  In support of this contention, Mr Jat referred to D1’s evidence in cross-examination in which he said if the board of Profit Point should decide to join in with Chansam to sell shares to a hypothetical buyer interested in acquiring a controlling stake in Prestige, he would take into account the view of the buyer as that was out of his control and it might be that the buyer would want to buy from one company not from two companies[12].  He referred also to the cross-examination by D1’s counsel of Waddington’s witness, Chan Kwong Ming Johnny, the son of Albert Chan, who said he does not know whether Yugang would prefer to deal with just one seller instead of two and he accepted that from a buyer’s point of view, it would be much more convenient to deal with just one group rather than two[13].
+
+83.  Mr Jat drew attention to the extensive warranties and indemnities given by Chansam and D1 to Funrise as to the business and assets of Prestige in clause 8(A) and Schedule 2 of the Yugang Agreement.  Further, in clause 11B of the agreement, Chansam and D1 gave a partial indemnity in relation to pending litigation over a property sale transaction by Prestige.  D1 gave evidence in his witness statement, which was not challenged, that the deal nearly fell through because Chansam and D1 refused to provide the indemnity at one time.
+
+84.  Based on the above, Mr Jat submitted that it is highly doubtful Yugang would have agreed to buy any Prestige shares from Profit Point.  He argued that Yugang would have preferred to deal with just one party instead of two.  It cannot be assumed that Profit Point would agree to provide the warranties and indemnities similar to those given by Chansam and D1, as, unlike Chansam, Profit Point was just a minority shareholder without involvement in the affairs of Prestige.
+
+85.  Mr Jat submitted that the burden is on Waddington to prove that D1’s breach had caused loss and damage.  In support of this, he cited, among other cases, Swindle v Harrison [1997] 4 All E R 705 at 718f to j (per Evans LJ), 726b to c (Hobhouse LJ) and 733h to j (Mummery LJ).  In the words of Mummery LJ: “There is no equitable by-pass of the need to establish causation”.  Mr Jat cited also Ribeiro PJ in Libertarian at §93 in which he said: “Where the plaintiff provides evidence of loss flowing from the relevant breach of duty, the onus lies on a defaulting fiduciary to disprove the apparent causal connection between the breach of duty and the loss (or particular aspects of the loss) apparently flowing therefrom.”  Mr Jat submitted that as the requisite causal link has not been established, on this basis alone, the judge’s award of loss and damage must be set aside.
+
+86.  We do not agree with Mr Jat’s submissions.
+
+87.  As Mummery LJ had also said in Swindle v Harrison at 734c and j, in questions of causation, it is important to focus on the relevant equitable duty.  The correct starting point is to identify the relevant cause of action, i.e. the relevant wrong.  And that involves identifying the scope of the duty breached and the purpose of the rule imposing the duty.  The relevant wrong of D1 as held by the judge was to cause Profit Point to sell the Sale Shares for the sole or main purpose of preparing for the implementation of what eventually became the Yugang transaction.  The Sale Shares were disposed of in the market at the market price, which was much lower than the price that Yugang eventually agreed to pay to acquire a controlling stake of the Prestige shares.  The no conflict duty was clearly engaged in this situation.  As D1 was a fiduciary of both Chansam and Profit Point and was in control of both companies, he was under a conflict of interest.  The sale of the Sale Shares was not made in the bona fide interests of Profit Point, but was to further the interests of D1 and Chansam.  Profit Point was deprived of the opportunity to take part in the sale of a controlling stake of the Prestige shares to Yugang.
+
+88.  Mr Jat contended that to establish the requisite causal link, it must be shown that Yugang would have purchased from Profit Point but for D1’s breach of fiduciary duty.  We do not agree with this.  Profit Point had lost the opportunity to sell its shares in Prestige to Yugang as a result of D1’s breach of fiduciary duty.  As illustrated by IDC v Cooley, Waddington could opt for an order that D1 should account for all the benefit he had received in the Yugang transaction in breach of his fiduciary duty, or pursue a claim for compensation.  Waddington opted for the latter course.  For loss and damage to be awarded for the loss of an opportunity, it is not necessary to establish that but for the wrong committed, the opportunity would have materialised to the benefit of the plaintiff.  The court could assess the likelihood of the event happening, and make an adjustment to the compensation to be awarded according to its assessment of the degree of how likely it would be for the opportunity to materialise.  In IDC v Cooley (at 176f to j), if the court had not ordered an account of profits, it would have assessed damages as representing a ten per cent chance of the plaintiffs’ loss of the opportunity to get the contract with the gas board.  It was not however D1’s contention before the judge or on appeal that the compensation awarded should be reduced to reflect the chances of Yugang purchasing from Profit Point but for D1’s breach.  His contention on causation was simply an all or nothing approach.
+
+89.  As mentioned earlier, in applying the “but for” test of causation in this kind of situation, the court takes a common sense view with the full benefit of hindsight.  All that is required of the plaintiff is to show that loss or particular aspects of the loss would appear to flow from the breach (Libertarian, §§76, 93 and 96).  The facts here are sufficiently compelling to support the conclusion that plainly and apparently, Profit Point would have suffered a loss in being deprived of the opportunity to offer to sell to Yugang its shares in Prestige as part of the controlling stake that Yugang was interested in acquiring.  There is no credible evidence that Yugang would not have purchased part of the Prestige shares from Profit Point.
+
+90.  Put in another way, but for the disposal of the shares held by Profit Point in the market, it would not have been possible for the Yugang transaction to go ahead in the way it did.  If Profit Point had retained its shares in Prestige, it is likely that it would be the recipient of a general offer by Yugang at $2.20 per share as the trigger point of 35% would be reached.  At the very least, it would be able to extract a price for its shares higher than the market price from one or more of the parties anxious to put through the Yugang transaction.
+
+91.  Once the apparent causal connection is established, the onus lies on the defaulting fiduciary to disprove this.  Applying what Tipping J had said about the second category of breaches, the onus is on D1 to show that even if there had been no breach, Yugang would have declined to purchase any Prestige shares from Profit Point.  D1 has failed to establish this.  The hypothesis put forward by Mr Jat – that Profit Point would not have given the extensive warranties and indemnities provided by Chansam and D1 – is no support for the supposition that Yugang would not have agreed to deal with Profit Point.  As postulated by Mr Yu, one may also ask why Yugang would not be satisfied with the warranties and indemnities given by the majority shareholder Chansam and by D1 personally but would also require Profit Point to give similar warranties and indemnities for a small parcel of shares.
+
+92.  For all the above reasons, we reject D1’s contention that the causal connection of breach and loss was not established.
+
+E.   BVI LAW
+
+93.  D1 contended before the judge that as Profit Point is a BVI company, the availability of MDA should be governed by BVI law, and that BVI law did not permit MDA because section 184C of the Business Companies Act 2004 of BVI did not cater for MDA.
+
+94.  At §§83 to 93 in the judgment below the judge ruled that it was not open to D1 to take this point at trial.  He held that as a matter of common law, the locus standi of a plaintiff to bring a derivative action must be determined as a preliminary issue.  In the present case, this question had been raised in the context of D1’s application to strike out which culminated in the decision of the Court of Final Appeal.  The judge held that D1 should have raised all points affecting the right of Waddington to bring this action on behalf of Profit Point in that application. Applying the principle in Henderson v Henderson (1843) 3 Hare 99, 67 ER 313, the judge considered it to be an abuse of process on the part of D1 to raise the BVI point at a later stage (§84).  He further held that the Court of Final Appeal had made a final determination of Waddington’s authority to proceed with the action and this issue is thus res judicata (§§85 and 92).
+
+95.  By way of alternative, the judge analysed the evidence and contentions on BVI law at §§96 to 124.  He noted at §102 that it was common ground that MDAs were permissible at common law in the BVI.  At §103, he identified the issue to be whether Section 184C had the effect of abrogating the common law MDA in the BVI.  In the subsequent paragraphs, the judge explained why he was of the view that the English authority of Universal Project Management Services Ltd v Fort Gilkicker [2013] Ch 551 would be followed in the BVI.  In that decision, Briggs J (as he then was) held that the English equivalent of section 184C did not abrogate common law MDA in England.  The judge rejected the expert opinion of Mr Webster QC to the contrary and accepted the opinion of Mr Millett QC in support of that view.  He found as a fact that the BVI courts would probably hold as a matter of BVI law, common law MDA had not been abrogated by Section 184C (§124).
+
+E1.   The application to adduce fresh evidence
+
+96.  By a summons of 10 October 2015, D1 applied for leave to adduce additional evidence on BVI law in the form of an expert report of Mr Dennis QC of 1 October 2015.
+
+97.  At the beginning of the hearing of the appeal, we indicated that we were minded to allow counsel to refer to the judgment of the Court of Appeal of the Eastern Caribbean Supreme Court in Microsoft Corporation v Vadem Ltd BVIHCVAP 2013/0007, 8 August 2013.  However, we were not minded to allow the use of the report of Mr Dennis QC.  Mr Jat accepted this course on behalf of D1.  On the other hand, Mr Yu submitted that whilst he could not oppose reference being made to that judgment as an authority on common law, he objected to the use of that judgment as evidence of BVI law.  He contended that D1 did not satisfy the requirements of Ladd v Marshall and did not give any satisfactory explanation for the lateness in making the application.  Further, he also submitted that D1 having made a deliberate decision not to refer this judgment to the judge before he reached his decision below, this court should not permit this evidence to be adduced on appeal.
+
+98.  There is no need to refer to that judgment as an authority on the common law on multiple derivative action.  We are bound by the decision of the Court of Final Appeal in the instant case on that point.  The only possible relevance of the Microsoft appeal judgment in our appeal is in respect of BVI law.
+
+99.  There is much force in Mr Yu’s submissions on deliberate election on the part of D1 and the lateness of the application.  But for the exceptional feature in the present appeal mentioned below, we would have rejected the fresh evidence altogether.  The considerations urged upon us by Mr Yu were very much on our mind when we indicated we would not admit the report of Mr Dennis as evidence.  Unlike the court of appeal judgment, the opinion of Mr Dennis is controversial and Mr Yu was correct in pointing out that it should not be admitted without cross-examination.
+
+100.  As we shall explain below, in the end we do not find BVI law to be relevant in this appeal because we agree with the judge that it was an abuse of process to raise BVI law at the trial when it had not been raised at the earlier stage when the standing of Waddington was challenged all the way up to the Court of Final Appeal.
+
+101.  At the same time, as the judge had also considered the position of BVI law and made findings on it and counsel had advanced full submissions on the findings, we shall, for the sake of completeness discuss the same in this judgment.  As the first instance judgment of Microsoft Corporation v Vadem Ltd had been referred to the judge at the trial, though he did not allude to it in his judgment, we would have to consider it in our judgment.  Given that there was an appeal in that case and the judgment of the court of appeal was different from that of the first instance judge, it would not be satisfactory if we do not take it into account.  Even without the assistance of any further expert opinions, we find ourselves able, by reading that judgment, to come to a conclusion on the challenge against the finding of the judge in this respect.  It is within this very narrow compass and under such exceptional circumstances that we shall have regard to that court of appeal judgment.
+
+E2.   Abuse of process and issue estoppel
+
+102.  As mentioned, D1 had challenged the standing of Waddington to sue on behalf of Profit Point all the way up to the Court of Final Appeal.  Though the challenge was by way of an application to strike-out and the arguments focused on whether MDA is permissible as a matter of Hong Kong law, it is indisputable (and we do not understand Mr Man SC, who argued this part of the appeal on behalf of the 1st Defendant, as disputing this) that the BVI law point could have been taken in the course of that challenge.  It has been established as a matter of case law that whether a derivative action is available is a question of substantive law governed by the law of the place of incorporation: Konamaneni v Rolls Royce (India) Ltd [2002] 1 WLR 1269 at p.1284; Base Metal Trading Ltd v Shamurin [2005] 1 WLR 1157 at p.1176.
+
+103.  The relevant chronology relating to the application to strike out up to the decision of the Court of Final Appeal is as follows.  The writ in this action was issued on 2 September 2003 and the complaints of Waddington were in respect of events in 2000.  The summons to strike out was issued on 20 October 2003.  The application was heard by Barma J (as he then was) in 2004 and His Lordship handed down his judgment on 29 April 2005.  In the meantime, the BVI Business Companies Act 2004, containing section 184C, came into force on 1 January 2005.  Though Barma J struck out the statement of claim as it was, His Lordship considered that Waddington might be able to salvage the action by way of an MDA.  Thus, the action was not struck out.
+
+104.  D1 appealed against that decision, contending that the action should be struck out altogether.  The appeal (CACV 220 of 2005) was heard before Rogers V-P and Le Pichon JA from 16 to 17 May 2006.  Judgment was handed down on 30 May 2006.  Since Section 184C had already come into force, the contention that common law MDA had been abrogated by that section could have been made in that appeal, albeit by way of a fresh point, to challenge the locus standi of Waddington to sue on behalf of Profit Point.  D1 did not take that point and the Court of Appeal dismissed the appeal by D1 though it differed from Barma J on whether it was necessary for Waddington to show a prima facie case to establish its locus standi to pursue an MDA.
+
+105.  In the meantime, there were applications by Waddington for amendment of the statement of claim, which culminated in the grant of leave by the Court of Appeal on 23 March 2007 to amend the same.  The amended statement of claim was filed on 27 March 2007.  Profit Point was joined as a nominal defendant at that stage.
+
+106.  D1 did not amend his defence (which was dated 6 November 2006) in response to the amended statement of claim until 9 March 2011. D1 further appealed to the Court of Final Appeal against the judgment of the Court of Appeal in CACV 220 of 2005.  The Court of Final Appeal heard the appeal (FACV 15 of 2007) on 30 June and 2-3 July 2008 and judgment was handed down on 8 September 2008.
+
+107.  Again, D1 did not take the BVI law point in that appeal.  Instead, the arguments in the appeal focused on whether MDA exists as a matter of Hong Kong common law.  The Court of Final Appeal dismissed the appeal.
+
+108.  The Court of Final Appeal also reversed the Court of Appeal in respect of the latter’s holding that there was no need for a plaintiff in a derivative action to show a prima facie case.  In considering whether the BVI point should have been run in the context of the strike out application, the reasons of the Court of Final Appeal in overturning the Court of Appeal in that respect are relevant.  In the main judgment delivered by Lord Millett NPJ, His Lordship traced the historical development of derivative action in England at §§47 to 54.  After referring to the problems arising from the lack of a filtering mechanism as highlighted by what happened in Prudential Assurance Co Ltd v Newman Industries Ltd (No 2) [1982] Ch 204, Lord Millett adverted to the solution adopted in that case: requiring a plaintiff, at either a trial of preliminary issue or an application to strike out, to establish a prima facie case both in respect of the company’s entitlement to the relief claimed and the plaintiff’s entitlement to bring the claim by way of a derivative action with an option to adjourn the proceedings to ascertain the view of the independent shareholders.  This solution was followed in Smith v Croft (No 2) [1988] Ch 114 (a decision in the context of a striking out application).  It subsequently led to the leave requirement under the English provision in O 15 r12A.
+
+109.  Though Hong Kong did not follow suit in having a similar provision as the English O15 r12A, the substantive requirement of showing a prima facie case before a plaintiff could have the locus standi to pursue a derivative action is the same, see Ribeiro PJ at §§13 to 20.  At §14, His Lordship observed that the issue of standing could arise in different procedural contexts: trial of preliminary issue, striking out application or amendment of pleadings.  Irrespective of the procedural routes adopted, the court shall apply the same substantive principle in deciding whether a derivative action is maintainable by a plaintiff.  At §§20 to 21, Ribeiro PJ emphasized the difference between a striking out challenging the standing of a plaintiff to pursue a derivative action and the ordinary striking out application based on lack of reasonable cause of action.
+
+110.  Lord Millett also perceived the issue before the court as a question of standing (viz locus standi).  Thus, in the discussion on MDA under common law, he said at §70:
+
+“ The action is a single action on behalf of the company in which the cause of action is vested. The only question is whether the action, which may be brought by a member of the company, may be brought by a member of its parent or ultimate holding company. This is simply a question of locus standi.”
+
+111.  See also §74.  And the conclusion he reached in the present case was at §89:
+
+“ I would dismiss the appeal so that the proceedings may continue as a multiple derivative action on behalf of Profit Point …”
+
+112.  On the above analysis, we think Mr Yu was correct in his submission that the Court of Final Appeal had actually determined the question of locus standi of Waddington to bring this action on behalf of Profit Point instead of merely holding that Waddington arguably had such standing.
+
+113.  Further, given that the real question is a question of Waddington’s standing to sue on behalf of Profit Point, the principles discussed in Liquidation Committee of Foshan Hongda Development v East Legend Investment Ltd [2009] 1 HKLRD 169 are engaged.  In that case, another division of this court held at §18,
+
+“ The principles concerning the challenge on the lack of standing by a plaintiff to commence an action is well established and they are:
+
+1) The challenge cannot be raised by way of defence.
+
+2) It must be raised at the outset or when it comes to the attention of the court or of the defence in the course of the proceedings.
+
+3) Once the issue has been raised it must be decided.
+
+4) It would be wrong to allow the action to go on without deciding the issue of standing : this is because the defendant will not have a further chance to challenge the issue.
+
+5) Once it is clear that the action was improperly constituted it must be brought to an end either by way of dismissal, striking out or stay.
+
+See the House of Lords decision of Russian Commercial and Industrial Bank v.  Le Comptoir d’Escompte de Mulhouse [1925] AC 112 and applied in Airways Ltd v. Bowen and Another [1985] BCLC 355.  The principles were also applied by Andrew Cheung J in Kammy Town Limited v. Super Glory Corporation Limited (HCA No. 3524 of 2003).”
+
+114.  That was a case where an action was commenced in the name of a PRC company.  The company was liquidated due to non-compliance with the relevant PRC law.  The issue of standing arose in the context of a striking out application by the defendant.  The liquidation committee was substituted as the plaintiff by consent and the application to strike out was withdrawn.  At trial, the defendant again challenged the liquidation committee’s standing to sue.  It was held by the Court of Appeal that such a challenge could not be mounted.  In view of what had happened at the strike-out stage, Cheung JA (with whom other members of the court agreed) said at §19:
+
+“ … In such circumstances, in the absence of other evidence, the only reasonable conclusion one may draw is that the defendant had accepted the standing of the plaintiff to sue. There was no other evidence to contradict this conclusion. This being the case it clearly was an abuse by the defendant to raise this issue again at the beginning of the trial in the guise of a preliminary issue when as a matter of law it could not have raised this issue by way of defence.”
+
+115.  Mr Man referred us to Chu Wai Chun Jackie v Lam Siu Kei HCAP 3 of 2009, 9 June 2010, and submitted that the principles in Foshan Hongda are not of universal application.  That was a probate action in which the plaintiff sought to dispute a will.  The defendant contested the plaintiff’s status as daughter of the deceased and made an application for the trial of the parentage issue as a preliminary issue on the basis that it was an issue relating to the plaintiff’s standing in the probate action.  After reviewing the relevant authorities, Lam J (as he then was) held in that case the principles were not applicable in that context.  At §§14 and 15, the following was said:
+
+“ 14.   Mr Shieh submitted that Foshan Hongda extended that principle to other scenarios where the locus of a plaintiff is being challenged.  I do not agree.  In my view, on true analysis, Foshan Hongda was also a case concerning the authority to pursue a claim of the company.  The only difference is that instead of suing in the name of the company (which initially was the case), by the consent of the parties (which led to a bar against the defendant from reviving any challenge to the authority of the Liquidation Committee) and no doubt in the light of the expert evidence on PRC law (as set out in para.12 of the judgment), the action was continued in the name of the Liquidation Committee.  It was not suggested that the Liquidation Committee was pursuing a claim otherwise than a claim of the company.  The use of the expression “standing to sue” in the judgment should be understood in that light.  And it was on that basis that the Court of Appeal held that the challenge to the Liquidation Committee’s authority to pursue the company’s claim could not be raised by way of defence.
+
+15.   Properly understood, I do not think Foshan Hongda laid down a general proposition that whenever the locus standi of a plaintiff is in dispute, the point cannot be raised by way of defence and instead it has to be determined either by way of a strike out application or a determination of preliminary issue.”
+
+116.  At §18, it was further observed that a challenge to parentage is not a challenge on the authority of the plaintiff to sue and as such not covered by those principles.
+
+117.  In our judgment, whether Waddington had standing to bring a derivative action on behalf of Profit Point is a question concerning the authority of Waddington.  The court asks itself whether a minority shareholder has the authority to pursue a claim on behalf of the company whose right was allegedly infringed by a wrongdoer in control.  As Lord Millett observed at §70, the cause of action is vested in the company (Profit Point) and the minority shareholder only pursued it on behalf of the company.  Viewed thus, Chu Wai Chun Jackie v Lam Siu Kei, supra, could not assist Mr Man and the present case comes squarely and fairly within the principles in Foshan Hongda.
+
+118.  Mr Man also referred us to the judgment of Godfrey JA in Tan Eng Guan v Southland Company Limited [1996] 2 HKLR 117 at p.121.  In the context of an application for summary judgment in a derivative action, the court held that such an application was inappropriate.  After referring to the unsatisfactory state of affairs in that case where days were spent in the Court of Appeal in arguments on whether derivative action could be maintained in that case, Godfrey JA said:
+
+“ This was profoundly unsatisfactory. Such questions are best dealt with, as has now been recognized in England and Wales, by the trial of a preliminary issue whether the plaintiffs ought to be allowed to maintain a derivative action at all; failing that, it is only at the trial of the action that that issue can properly be considered.”
+
+119.  Relying on the last part of this dictum, Mr Man submitted that it was open to a defendant to leave the question of the standing of a plaintiff to maintain a derivative action to the trial.
+
+120.  Mr Man further submitted that the present situation was akin to a case where a defendant only chose to take some points in a striking out application whilst reserving some other lines of defence for trial.  Counsel said the BVI law point involved expert evidence which could not be properly assessed summarily.  In that connection, counsel submitted that there is a difference between the point being raised in the context of a striking out application and a trial of preliminary issue.  The point was raised as a defence: it was added by way of re-amendment to the defence on 3 October 2011.  The requisite expert evidence was before the court at the trial. Counsel submitted that in the circumstances, adopting a liberal and flexible approach in assessing whether D1 was barred from taking the point on the basis of Henderson v Henderson abuse of process, this court should hold that the point could be taken at trial.
+
+121.  In our judgment, we should indeed adopt a liberal approach in deciding whether a litigant is barred from taking a point on the basis of Henderson v Henderson abuse of process, see Johnson v Gore Wood [2002] 2 AC 1; Ko Hon Yue v Chiu Pik Yuk (2012) 15 HKCFAR 72.  The question is to be answered by a broad merits-based assessment taking account of all the public and private interests involved.  The fact that a point could have been taken does not necessarily mean that it should have been taken.  In the latter case, the Chief Justice identified the usual form of abuse as the other party being “vexed” by the subsequent challenge.  In an appeal regarding that question, the Court of Appeal must give due weight to the judge’s assessment in the balancing exercise, Total Lubricants HK Ltd v De Chanterac (No 2)[2013] 2 HKLRD 838 at §32.
+
+122.  With respect, we are of the view that Mr Man’s submissions did not pay sufficient regard to the nature of the determination by the Court of Final Appeal.  As submitted by Mr Yu, even though it was an application for striking out instead of a trial of preliminary issue, the application was brought to challenge the standing of Waddington to bring the action on behalf of Profit Point.  As held by Ribeiro PJ, the substantive test for standing to bring a derivative action is the same irrespective of the procedural route by which the question was brought before the court.  Once the question had been raised, it had to be determined once and for all.  In this connection, in light of Ribeiro PJ’s observations on the special feature of a striking out challenging the standing of a plaintiff to bring a derivative action (in contrast with the ordinary striking out based on lack of reasonable cause of action), we do not accept Mr Man’s submission that the refusal to strike out is not a final determination of the question of standing.
+
+123.  In our judgment, the Court of Final Appeal had finally determined that question in the instant case, see the judgment of Lord Millett at §§70 and 89.
+
+124.  In this connection, with the benefit of the analysis on the true nature of a derivative action by the Court of Final Appeal and the discussion in Foshan Hongda, we respectfully disagree with the dicta of Godfrey JA in Tan Eng Guan v Southland Company Limited, supra, insofar as it suggested that the question of standing to bring a derivative action could be reserved to trial even if it had been raised in an interlocutory context.
+
+125.  In the present appeal, as D1 had challenged the standing of Waddington by his application for striking out, strictly speaking we do not need to consider what would be the position if the point had not been raised in the context of any interlocutory application.  However, there is compelling logic in the application of the Foshan Hongda principles to a challenge to a plaintiff’s standing in bringing a derivative action.  Those principles are consistent with Ribeiro PJ’s observation on the requirement to be satisfied by such a plaintiff substantively: meaning that once the plaintiff satisfies such requirements, which only require satisfaction on a prima facie standard, the standing of the plaintiff is established.  As Mr Yu submitted there is no point for the trial judge to consider whether there is any prima facie case on wrongdoing when the trial is to resolve whether there is such wrongdoing as a matter of fact.  We also do not see any cogent reason why a trial judge should still be concerned with determining whether there is a prima facie case on wrongdoer in control when the action is in substance an action by the company.
+
+126.  At the same time, we have reminded ourselves the judgment of Tang ACJHC (as he then was) in East Asia Satellite Television v New Cotai LLC [2011] 3 HKLRD at §§36 to 49 to the effect that the right to bring a derivative action is an incident of the legal ownership and as such it is to be governed by the substantive law of the place of incorporation.  In particular, the following was said at §37,
+
+“ …It is true that the cause of action asserted is the company’s. But a stranger to the company would not have the right to bring an action in the name of the company. Nor a beneficial owner (as opposed to a legal owner) of shares. The right to bring a derivative action is an incident of the legal ownership.”
+
+127.  Before us, counsel did not advance submission on whether such analysis would affect the reasoning based on the Foshan Hongda principles and, if these principles are not applicable in full and the issue of standing could still be raised at trial, whether the substantive requirements would have to be decided on a standard other than the prima facie standard.
+

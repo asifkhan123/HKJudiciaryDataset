@@ -1,0 +1,157 @@
+CAMP 4/2020
+
+[2020] HKCA 147
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+MISCELLANEOUS PROCEEDINGS NO 4 OF 2020
+
+(ON AN INTENDED APPEAL FROM HCIA NO 4 OF 2019)
+
+___________________
+
+BETWEEN      
+
+HEATH BRIAN ZARIN	Appellant
+and	
+THE COMMISSIONER OF INLAND REVENUE	Respondent
+___________________
+
+Before: Hon Yuen JA in Court
+Date of the Appellant’s Written Submissions: 7 January 2020
+Date of the Respondent’s Written Submissions:22 January 2020
+Date of Judgment: 11 March 2020
+____________________
+
+JUDGMENT
+
+____________________
+
+Hon Yuen JA:
+
+1.1. This is an application for leave to appeal the decision of the Inland Revenue Board of Review (“the Board”) dated 23 August 2019 (“the Decision”) in respect of one ground (“Ground 2"). Leave to appeal in respect of that ground was refused by Coleman J (“the judge”) in a Judgment dated 24 December 2019 (“the Judgment”), but the judge gave leave to appeal in respect of another ground (“Ground 3”).
+
+1.2.     Under s.69(5)(c) Inland Revenue Ordinance Cap.112, a single judge of the Court of Appeal can determine the application on written submissions only.     
+
+Background
+
+2.1.     Essentially, Mr Zarin (“the Taxpayer”) had been employed by a bank (“the Company”) on terms in a contract (“the Employment Contract”) which included eligibility to participate in a discretionary bonus scheme, under which the Company may, in its discretion, award a bonus which might take the form of cash, or shares, or a combination of both.  As is usual with shares awarded under these schemes, the vesting of the shares would take place over a number of years.
+
+2.2.     As part of the discretionary bonus for the performance year 2011, on 12 March 2012 the Company awarded the Taxpayer a number of shares (“the 2012 Shares”), to be vested as to:
+
+-     33% on 12 March 2013,
+
+-     another 33% on 12 March 2014 (from which “Sum B2” is derived), and
+
+-     the balance of 34% on 12 March 2015 (from which “Sum C” is derived).
+
+Termination of employment
+
+3.1.     However on 21 January 2013, the Taxpayer’s employment was terminated for redundancy. In a letter of the same day, the Company set out certain terms in full and final settlement of the termination1. These included a term that the vesting of all unvested shares would be conditional on his compliance with the terms in the letter, one of the terms being that the Taxpayer would assist the Company in relation to litigation in India and Singapore regarding the Employer’s investment in a company which I shall call A Ltd. 
+
+3.2.     The Taxpayer did not accept the terms in that letter.  On 28 January 2013, he made a counter-offer2, in which he demanded3 that all shares awarded should continue to vest on the scheduled vesting dates unconditionally.  He expressed reservations regarding his personal safety in relation to providing assistance in the A Ltd litigation.  The Board accepted his evidence4 that a security assessment conducted had suggested that it would not be safe for him to travel to India, and robust security arrangements had to be made to protect him5.    
+
+“Termination Agreement”
+
+4.  After negotiations between their respective legal representatives, on 20 June 2013, the Company and the Taxpayer entered into an agreement (called the “Termination Agreement” in the Decision), under which it was agreed (among other things)6 that the remaining unvested 2012 Shares would vest on the same terms, but subject to their release being conditional on the Taxpayer having not committed a breach of any of the terms in the Termination Agreement, one of the terms being that he provides assistance in the A Ltd litigation (including but not limited to his performing various specific activities)7.
+
+The Board’s Decision
+
+5.  Subsequently, the Assessor of the Revenue raised three additional assessments to salaries tax against the Taxpayer.  The Taxpayer’s objection was rejected by the Deputy Commissioner, and this led to his appeal to the Board. 
+
+6.1.     At the hearing, the Board considered individual sums related to the shares which were called Sums “A”, “B1”, “B2” and “C”8.  Sum “B2” related to shares released on 12 March 2014, and Sum “C” related to those released on 12 March 2015.  There was also a Sum “D” which related to payment of the agreed daily rate of compensation payable by the Company to the Taxpayer for time spent in relation to the A Ltd litigation9.   
+
+6.2.     The Board dismissed the Taxpayer’s appeal for reasons set out in its Decision.  In relation to Sum B2 and Sum C, which were derived from the 2012 Shares, it found that these were not contractual entitlements under the Employment Contract, but represented the value of shares released to the Taxpayer pursuant to the Termination Agreement10. However, after considering that there was no apparent prospect of litigation between the Company and the Taxpayer11, and that the Company had informed the Revenue that it had determined the number of shares after taking into consideration factors including the Taxpayer’s performance12, the Board held that the release of the shares was “in return for acting or being an employee” or as a “reward for past services”13, and thus assessable to salaries tax. 
+
+6.3.     The Board also held that Sum D was assessable14. 
+
+The judge’s Judgment
+
+7.1.     The Taxpayer applied to the High Court for leave to appeal.  The Taxpayer advanced three grounds.  Ground 1 can be ignored as it is no longer pursued.   
+
+7.2.     Ground 2 related to Sum B2 and Sum C.  In brief, the contention was that since the Board had found that Sum B2 and Sum C represented the value of shares released to the Taxpayer pursuant to the Termination Agreement, it was this Agreement, not the Employment Contract, which was the source of payment.  These sums were thus income from the Termination Agreement, which was not assessable to salaries tax. 
+
+7.3.     Ground 3 related to Sum D, the compensation for time spent in relation to the A Ltd litigation.
+
+8.1.     The judge gave leave to appeal for Ground 3, finding it reasonably arguable that the source of the payment of Sum D was the Termination Agreement, for the Taxpayer was not compelled under his prior employment to assist the Company in the way that he agreed to as part of the Termination Agreement15.  
+
+8.2.     However, for Ground 2, the judge declined to give leave as he was of the view that it was not reasonably arguable16. Although the Board had found that the Sum B2 and Sum C shares were released pursuant to the Termination Agreement, the judge referred to the Board’s finding that the purpose for which the Company made that payment was “in return for acting or being an employee” or as a “reward for past services”17.  The judge cited as support the provisions in the discretionary bonus plan which “specifically envisaged that if, as became the fact, the Taxpayer left as a good leaver his awards would vest so long as, albeit not until, he complied with any termination agreement entered into”18.
+
+Application for leave to appeal
+
+9.  The Taxpayer applied to this court for leave to appeal in relation to Ground 2. The ground has been articulated in a slightly different way than before the judge, but no objection to this has been taken by those representing the Revenue.    
+
+Discussion
+
+10.1.     At this stage of the proceedings, it is only necessary for this court to consider whether the appeal raises a proper question of law which is reasonably arguable.  With respect to the Board and the judge, I think that a question of law has been raised which is reasonably arguable. 
+
+10.2.     The Board found that Sum B2 and Sum C were derived from the Termination Agreement. It was therefore important to see what was the substance of this Agreement. The Board considered the prospect of litigation between the Taxpayer and the Company, but apparently failed to consider the Taxpayer’s submissions19 that his undertaking to assist in the A Ltd litigation was “good consideration” for a “fresh bargain” between himself and the Company.  And yet the Company’s requirement that the Taxpayer provide positive, specific acts of assistance for up to five years20 in relation to the A Ltd litigation, including attendance in India and Singapore and other jurisdictions, featured prominently in the Termination Agreement, and the judge has held, in giving leave for Ground 3, that the Taxpayer was not obliged under his prior employment to assist the Company in this way21. 
+
+10.3.     In other words, the Taxpayer’s undertaking to perform future acts ofassistance to the Company in the A Ltd litigation, pursuant to the Termination Agreement, was extraneous to his past service as an employee, and in a different capacity.  It is reasonably arguable that his obligation to perform these acts was (at least primarily) the quid pro quo for the release of the Sum B2 and Sum C shares in the Termination Agreement.  The Company’s focus on assistance in the A Ltd litigation as a condition of vesting was evident from the very start, ie the letter of termination.  If the Taxpayer had refused to perform those future acts of assistance (which he was not obliged to do), the Company’s stand was that the shares would not be vested.  Indeed, the Termination Agreement specified that “any release of the 2012 Shares will be conditional on [the Taxpayer] having not committed a breach of any of the terms of this letter ...” and if he did commit a breach of any term, then “(i) any unvested 2012 Shares will be immediately forfeited and (ii) he will repay to the [Employer] the cash value ... of any shares that have vested in the period from the termination of [the Taxpayer]’s employment with the [Employer] and the date of the breach”22. Thus, whilst the number of shares awarded23 may have been considered with reference to his performance in the past24, it is reasonably arguable that the vesting of those shares was in substance the result of the bargain contained in the Termination Agreement, in which his undertaking to assist in the A Ltd litigation for the next five years featured prominently.
+
+Order
+
+11.  For the reasons set out above, I think Ground 2 is reasonably arguable and I would give leave to appeal accordingly, with costs of the application to be in the cause of the appeal before the judge.  Directions for the conduct of the appeal should be left to the judge as he considers appropriate.
+
+ 
+
+     
+
+ 	(Maria Yuen)
+Justice of Appeal
+Deacons, for the Appellant
+
+Mr Wilson Leung, instructed by Department of Justice, for the Respondent
+
+1 Decision, §8(3).
+
+2 Decision, §8(4).
+
+3 Among other things. 
+
+4 Decision, §32.
+
+5 Decision, §28.
+
+6 Judgment, §16.
+
+7 On terms of compensation for time, expenses, and legal and security support.
+
+8 Decision, §8(7). 
+
+9 Decision, §8(15)(c).
+
+10 Decision, §50.
+
+11 Decision, §53.
+
+12 Decision, §55.
+
+13 Decision, §57.
+
+14 Decision, §§59-61.
+
+15 Judgment, §65.
+
+16 The judge did not hold that no question of law arose. 
+
+17 Judgment, §54.
+
+18 Judgment, §55.
+
+19 Decision, §34(l).
+
+20 Clause 2.1(b).
+
+21 Judgment, §65.
+
+22 Clause 1.1(b) and (c).
+
+23 Back in March 2012.
+
+24 Decision, §55.
+

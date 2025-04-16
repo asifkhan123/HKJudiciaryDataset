@@ -1,0 +1,344 @@
+FCMP 167 / 2021
+
+[2022] HKFC 153
+
+IN THE DISTRICT COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FAMILY COURT
+
+MISCELLANEOUS PROCEEDINGS NO. 167 of 2021
+
+----------------------------
+
+ 	IN THE MATTER of the children of the Applicant and the Respondent, namely CRZ, a minor, and CRH, a minor
+ 	and
+ 	IN THE MATTER of the Guardianship of Minors Ordinance (Cap. 13) (ss.3&10)
+ 	and
+ 	IN THE MATTER of the Domestic and Cohabitation Relationships Violence Ordinance (Cap. 189) (s.3B)
+----------------------------
+
+BETWEEN
+
+ 	CXW	Applicant
+ 	and	 
+ 	WY	Respondent
+----------------------------
+
+Coram:	Deputy District Judge Theresa Chow in Chambers (By paper disposal)
+Date of the Applicant’s Submissions:	4 July 2022
+Date of the Respondent’s Submissions:	18 July 2022
+Date of Judgment:	29 July 2022
+----------------------------------------------------------
+
+D E C I S I O N
+(Leave to Appeal and Stay of Execution)
+
+----------------------------------------------------------
+
+A.  Introduction
+
+1.  On 20 June 2022, this Court made an order for (i) interim access arrangement of the 2 Children (defined below) and (ii) case management, including to call for a social welfare report to be provided 14 days before the next directions hearing fixed on 28 September 2022 (“Order”).
+
+2.  On 4 July 2022, the Applicant (“Father”) issued a summons (“Father’s Summons”) seeking:
+
+(1)  Leave to appeal the Order; and
+
+(2)  pending determination of the appeal, execution of Order §§1-2 be stayed (“Stay Application”).
+
+3.  The draft Notice of Appeal attached to the Father’s Summons sets out 2 grounds of appeal as follows:
+
+(1)  this Court erred in refusing to direct a Fact-Finding Hearing pursuant to PDSL10.1 §8 and order a Single Joint Clinical Psychologist Expert Report (“CP Report”) (“Ground 1”);
+
+(2)  this Court erred in directing the interim access arrangement which granted the Mother excessive access (“Ground 2”).
+
+4.  A third paragraph was also included in the draft Notice Appeal, to which the Father’s skeleton for leave dated 4 July 2022 simply stated it arose from the first 2 grounds. It is dealt with in the round in my decision below.
+
+5.  The Father filed a 3rd affidavit on 4 July 2022 in support of his Stay Application (“CXW3”). The Respondent (“Mother”) filed a 3rd affirmation on 18 July 2022 in opposition (“WY3”). I am prepared to consider these two affirmations to the extent that they pertain to the Stay Application and the issue of cost as elaborated below.
+
+B.  Background
+
+6.  The Father and Mother are unmarried. Two boys were born to them, CRZ on 15 December 2017 (now 4 years old) (“ZZ”) and CRH on 9 August 2019 (now 2 years old) (“HH”)(together, the “Children”).
+
+7.  These proceedings were commenced by the Father’s originating summons dated 28 July 2021 (“Originating Summons”), seeking inter alia:
+
+(1)  Sole custody, care and control of the Children;
+
+(2)  Defined access to be granted to the Mother, with supervision of a social worker;
+
+(3)  an injunction against the Mother (whether acting by herself, her agent or otherwise), prohibiting her from assaulting, intimidating, molesting, harassing or otherwise interfering with the Father and the Children.
+
+8.  The Originating Summons first came before DDJ M Lam on 1 September 2021 off the back of an ex parte (on notice) application taken out by the Mother on 31 August 2021. On even date, the Learned Judge made an order for, inter alia:
+
+(1)  Interim defined day access to the Mother on a 2-week rotation basis, where she is to have access on Monday, Wednesday, Friday and Sunday on week 1, and Tuesday, Thursday and Saturday on week 2;
+
+(2)  Such interim access do take place under the supervision of “Rent-a-Mum” (“RAM”), upon the Father’s undertaking that he will pay RAM’s cost.
+
+9.  The parties managed to reach settlement on both child care arrangement and financial matters as encapsulated in a consent summons dated 30 September 2021. This became the consent order granted by DDJ J Lee on 7 October 2021 (“Consent Order”) with salient terms as follows:
+
+(1)  The parties to have joint custody and shared care and control of the Children;
+
+(2)  The Children’s care arrangement is as follows:
+
+(a)  Week 1: Sunday 10am until Friday morning before school, both Children are to be in the Mother’s care; Friday after school until Monday before school, the Children are to be in the Father’s care;
+
+(b)  Week 2: Monday after school until Thursday morning before school, both Children are to be in the Mother’s care; Thursday after school until Sunday 10am, the Children are to be in the Father’s care;
+
+(c)  Week 1 and Week 2 arrangements are to be alternating.
+
+10.  On 22 April 2022, the Father filed a summons seeking to vary the Consent Order (“Variation Summons”) as follows:
+
+(1)  Sole custody, care and control of the Children be granted to the Father;
+
+(2)  The Mother be granted defined access in accordance with recommendation of a clinical psychologist and under the supervision of a social worker or an independent third party; if the Mother is willing, the Father is prepared to attend the Mother’s access;
+
+(3)  Pending final determination, interim order be made in terms of (1) & (2) above;
+
+(4)  Further directions as the Court sees fit, including but not limited to calling a social welfare report and/or clinical psychologist report.
+
+11.  The Variation Summons is supported by the Father’s 2nd affidavit dated 22 April 2022 (“CXW2”). The Mother has filed a 2nd affirmation dated 25 May 2022 in opposition (“WY2”).
+
+12.  The Variation Summons was listed before this Court on 20 June 2022 for directions with 30 minutes reserved (“Hearing”). On that occasion, the Father was represented by Mr. Eugene Yim (appearing with Ms. Lily Yu) and the Mother was represented by Mr. Jeffrey Li. The Order was made after an approximately 2.5-hour hearing, including a short adjournment where the matter was stood down for the parties to attempt an agreement.
+
+13.  In respect of the Father’s Summons for leave to appeal and stay of execution, the Father is represented by Ms. Anita Yip SC leading Ms. Lily Yu and the Mother is represented by Ms. Audrey Eu SC leading Mr. Jeffrey Li.
+
+C.  Legal Principles
+
+14.  Section 63(A) of the District Court Ordinance (Cap. 336) provides that leave to appeal shall not be granted unless the court is satisfied that (a) the appeal has a reasonable prospect of success, or (b) there is some other reason in the interests of justice that the appeal should be heard.
+
+15.  The Order is in the nature of an interim access order (§§1-2) and case management decision (§§3-7). The Court of Appeal in NPYJ v. SMRC [2020] HKCA 832 has laid down the following guidance in respect of appeals against orders of such nature at §§22-24 per Chu JA:
+
+“22. First, as pointed out by the Judge and Mother, the decision to adjourn the Interim Access Application to 18 November 2020 is an interim order and a case management decision. In general, appeals against interim orders are not to be encouraged as they tend to distract rather than focus parties’ attention on the real issues of the case, apart from incurring additional and, in most instances, unnecessary costs and time. In the specific context of interim orders made in proceedings relating to children, it has been noted in Rayden and Jackson: Relationship Breakdown, Finances and Children at [49.55] that:
+
+“Where the court makes an interim order appeals are actively discouraged as the usual remedy will be to invite the same court to review the provisions of that order at a later hearing. Necessarily, interim orders often call for difficult decisions to be made by and the lower court should endeavor to make such orders in a way which causes the least amount of harm to a child in that interim period. The court on appeal will be slow to interfere in decisions which are only intended to last for a relatively short period of time.”
+
+23. It is also well established that case management is pre-eminently within the province of the trial judge and the appellant court will only interfere in very exceptional circumstances: Cheung Yee-mong v So Kwok-yan [1996] 2 HKLR 48, 51. This Court has consistently held that an appellant faces a high hurdle in showing that the first instance judge had gone clearly wrong and made orders which clearly involved an injustice or an inability for the trial court to carry out its task or had erred in principle or that his order was irrational: see Lee Tak Yee v Chen Park Kuen [2001] 1 HKLRD 401; Kan Miu Wah v Aeroflot Russian International Airlines (unreported) CACV 142/2006; and Wong Kar Gee Mimi v Severn Villa Ltd [2012] 1 HKLRD 887.
+
+24. In the present case, the application before the Judge is an access application. Even though it only seeks interim access pending the determination of the Variation Application, it is nevertheless an access application affecting two young children. The paramount concern of the court in adjudicating on the application is the welfare and best interests of the Children.” (emphasis supplied)
+
+16.  I also accept Ms Eu SC’s summary of the applicable principles in her skeleton dated 18 July 2022 opposing the Father’s Summons as follows:
+
+“3…[Case management decisions] are “only subject to appeal in rare circumstances”; and there is a “very high hurdle”. It is incumbent on [the Father] to demonstrate that the decision was “clearly wrong” in the sense that this Court had erred in principle, or that the Order was irrational: Wong Kar Gee Mimi v Severn Villa Ltd [2012] 1 HKLRD 887 (CA), at p. 897. Similarly, exercises of discretion are only subject to challenge only where “the decision exceeds the generous ambit within which reasonable disagreement is possible, and is in fact plainly wrong, that an appeal court is entitled to interfere”: RK v YS HCMP 1969/2012 (unrep., 1 November 2012) at §6 per Kwan JA (as Kwan VP then was).
+
+…
+
+7. …It is further trite that the appellate court will not interfere with the exercise of a discretion in child cases “unless it can be shown that the discretion was not exercised at all, or that the Judge had made some error of law in its exercise, or that the decision was plainly wrong”: TAC v VDC HCMP 2198/2012 (unrep., 5 December 2012) at §7 per Fok JA (as Fok PJ then was).
+
+8. … “there are often two or more possible decisions, any one of which might reasonably be thought to be the best, and any one of which therefore a judge may make without being held to be wrong…”: G v G [1985] 1 WLR 647, 651 per Lord Fraser.”
+
+D.  Ground 1 - Failure to Direct Fact Finding Hearing
+
+17.  The Father alleged that the Mother has occasioned psychological abuse on the Children, a vice which falls within the broad umbrella of domestic violence for which PDSL 10.1 is engaged. It is his case that this Court has erred in failing to direct a Fact Finding Hearing under PDSL 10.1 at the Hearing and therefore causing delay to resolution of these proceedings.
+
+18.  Even accepting the general proposition that psychological abuse can be a form of domestic violence, I do not agree that a Fact-Finding Hearing (with 5 days reserved as suggested in Mr. Yim’s skeleton dated 15 June 2022) has to be immediately directed for at the first call-over hearing of the Variation Summons.
+
+19.  PDSL 10.1 §3(c) reads as follows:
+
+“if necessary, give directions for a fact finding hearing (“Fact Finding Hearing”) to be conducted as expeditiously as possible. The court should only direct a Fact Finding Hearing to be conducted if there is sufficient prima facie evidence of domestic violence, and that it is in the best interests of the child for such a hearing to be conducted notwithstanding any delay and costs which may result in the proceedings. But if the issue of domestic violence is only raised at a very late stage, the court may exercise its discretion in resolving those issues only at the final hearing.” (emphasis supplied)
+
+20.  The purposes of a Fact Finding Hearing is set out at PDSL 10.1 §8, that “the Court shall, wherever practicable, make findings of fact as to the nature and degree of the domestic violence if any and its effect on the child, the parties and any other relevant third parties”.
+
+21.  A Fact-Finding Hearing should only be directed if necessary. This Court did not consider it necessary to give such a direction at the Hearing for the following reasons:
+
+(1)  insufficient prima facie evidence of domestic violence;
+
+(2)  potential significant delay and costs, contrary to the Children’s best interest.
+
+22.  Firstly, the Father’s main complaint against the Mother relates to the video clips she sent him on 12-15 April 2022 (“April Incident”). The Mother does not dispute their content, a summary of which has been transcribed in the summary of evidence annexed to the Father’s Summons (“Summary of Evidence”). They are recordings which the Mother had made of the elder son, ZZ, who was repeatedly saying words and phrases to denigrate the Father mostly in respect of his private life and intimate association with female(s) other than the Mother. The Summary of Evidence also contained short transcribed clips sent by the Mother to the Father between 13 October 2021 to 3 November 2021 and 7 March 2022 of similar nature but lesser frequency or intensity. It is the Father’s case that ZZ was coached by the Mother to say the offending words and phrases beyond his age. Save for one clip taken on 7 March 2022 of the younger son (HH) crying, the others featured the elder son, ZZ.
+
+23.  While the Mother did not deny the fact of the videos being sent nor their content, she explained in WY2 that after the Consent Order was made, the Father and her resumed their relationship as a couple and the Father also said to her that he would consider residing at the Mother’s home with the Children from July 2022 onwards. It is her case that ZZ was only pretending to be upset in the April videos as he was laughing afterwards, but she deliberately edited the clips to send to the Father in order to provoke him regarding his indiscretion in what she thought was a committed relationship and her other disappointments[1].
+
+24.  The parties had been observing the care arrangement laid down in the Consent Order up until the April Incident during which the Children were in the Mother’s care. It is not disputed that since the Children returned to the Father on 17 April 2022, Consent Order §2 was no longer observed and the Children remained in the care of the Father. The Father only arranged 9 day time access to the Mother in the 2 months between 17 April 2022 and 20 June 2022 ranging from 1.5 hours to 7 hours each time[2]. All such access were conducted in the company of others such as himself and his domestic helper.
+
+25.  No further complaint was raised by the Father of the Mother’s behaviour subsequent to the April Incident. Indeed the Father accepted that the Mother is generally a good carer in CXW2:
+
+“46…我認爲她有時控制不了自己對孩子的利用，因爲她大部分時間也是對孩子很好的。
+
+…
+
+110.平心而論，答辯人並不是一直對兩名兒子這麽差，她在正常的時候對兩名兒子特別好。…”
+
+26.  Given the gravamen of the Father’s complaint lies with the April Incident, I do not consider there is “sufficient prima facie evidence of domestic violence” for purposes of immediately directing that a Fact Finding Hearing be held.
+
+27.  In this regard, I bear in mind that under the “Protecting Children from Maltreatment Procedural Guide for Multi-disciplinary Co-operation” (Revised 2020), child maltreatment includes any act that endangers or impairs a child’s psychological heath and development. Further, “psychological harm/ abuse” is defined at §2.10(4) to mean “a repeated pattern of behaviour and/or an interaction between carer and child, or an extreme incident that endanger(s) or impair(s) the child’s physical and psychological health (including emotional, cognitive, social and physical development)” (emphasis supplied).
+
+28.  In the absence of any input from the Social Welfare Officer, I am unable to conclude at the Hearing that there is prima facie evidence of a “repeated pattern of behaviour” or “an extreme incident” which endangered or impaired the Children’s physical and psychological health that was tantamount to domestic violence. Further, it is not obvious that the younger son, HH, was involved in the clips relied on by the Father, save for one taken on 7 March 2022.
+
+29.  Secondly, the Father has not demonstrated how the significant delay and costs which would likely arise from a Fact Finding Hearing is in the Children’s best interest:
+
+(1)  In the absence of dispute that the April Incident and other clips referred to in the Summary of Evidence did occur, it is unclear why it is necessary to fix a 5-day Fact Finding Hearing to make findings of fact;
+
+(2)  As this Court has intimated at the Hearing, allegations of abuse can be considered in the round in disposal of the Variation Summons. This approach can save time and cost of adjudicating a Fact Finding Hearing as a preliminary issue ahead of a trial of the Variation Summons, particularly in light of limited judicial resources and the busy diaries of Counsel;
+
+(3)  Indeed this “wrapped up” approach would better comply with what is described as a key principle forming the “bedrock of family law” as Ms Yip SC emphasized in her skeleton for leave, namely to avoid delay especially in children matters, citing J (children) (contract orders: procedure) [2018] EWCA Civ 115 at §48;
+
+(4)  I also bear in mind the importance of necessity and proportionality in the allocation of court resources in deciding whether to direct a Fact Finding Hearing. See the decision of the English Court of Appeal in Re H-N and Others (Children) (Domestic Abuse: Finding of Fact Hearings) [2021] 2 FLR 1116 §§36-37, making references to the “overriding objective” of the Family Procedure Rules 2010 and the English PD 12J which Ms Yip SC also asks that this Court consider.
+
+30.  I am unable to accept the Father’s submissions that in deciding not to direct a Fact Finding Hearing at the Hearing, this Court acted in clear contravention of PDSL 10.4 which laid down time tabling requirements for new cases filed on or after 1 September 2021 for the following reasons:
+
+(1)  these proceedings were commenced by the Originating Summons dated 28 July 2021 and therefore not a “new case” to which the PSDL 10.4 is applicable;
+
+(2)  further, PDSL 10.4 §12 provides that “In the case of Children Proceedings not within the context of matrimonial proceedings, the target time tabling procedure will only be initiated by the AJ at the CMH.” These proceedings are taken out under the Guardianship of Minors Ordinance (Cap. 13) and the Domestic and Cohabitation Relationships Violence Ordinance (Cap. 189), neither of which are considered as “matrimonial proceedings” in PD 15.12;
+
+(3)  but in any event, for reasons set out in the paragraph above, it is not obvious that directing a Fact Finding Hearing would result in any saving of time and cost. In fact, the converse may well be true, which would detract from the spirit of speedy resolution underlying PDSL 10.4.
+
+31.  Also, I do not accept the Father’s assertion at paragraph 3 of his Notice of Appeal that by reason of this Court directing supervised interim access and accepting a number of undertakings from the Mother, this Court must have accepted “the severity of the Mother’s psychological abuse on the [Children]” and has therefore erred in not directing a Fact Finding Hearing and to order a SJE CP Report immediately. As explained below, the parties in fact consented to supervision of interim access by RAM at the Hearing. This Court has not made any finding on the Father’s allegation of psychological abuse at the Hearing. Indeed it is this Court’s view that input from the Social Welfare Officer is required to provide the Court with more information at the adjourned hearing before further case management and interim directions can be made (Order §3).
+
+32.  For the reasons stated above, I do not accept that the Father has satisfied the very high hurdle requiring exceptional circumstances, irrationality or obvious error in seeking leave to appeal against this Court’s case management decision at Order §4 to adjourn the Variation Summons to a further directions hearing.
+
+33.  Notwithstanding the above considerations, this Court has not dismissed the notion of a Fact Finding Hearing outright nor tied the hands of the Court at the adjourned hearing. Hopefully, the Court will be in a better position to consider whether a Fact Finding Hearing is indeed necessary with the benefit of the Social Welfare Report which should be available 14 days prior to the adjourned hearing (Order §3).
+
+E.  Ground 1 - Failure to Order a CP Report
+
+34.  This Court has not made an immediate order for a CP Report to be adduced before the next hearing, but directed at Order §3 that a Social Welfare Report be provided to, inter alia:
+
+(1)  make a recommendation on whether calling a CP Report is in the best interest of the Children; and
+
+(2)  share observations on the Father’s allegations of abuse / molestation effected by the Mother on the Children.
+
+35.  Again, I am unable to accede to the Father’s submission that the decision not to call a SJE CP Report at the Hearing was plainly wrong:
+
+(1)  The Children are very young, only 4 and 2 years old. As stated above, the main focus of the Father’s complaint was the April Incident, which involved the elder son, ZZ, only;
+
+(2)  It is not disputed that the Children’s welfare is of paramount importance. I consider their best interest require, and indeed it would be prudent, to have the Social Welfare Officer’s input and observation on the issue of CP Report in light of:
+
+(a)  HH’s limited involvement;
+
+(b)  The lack of information on the utility of a CP Report on such young children, and mainly in respect of certain acts occurring a couple of months ago which were not repeated;
+
+(c)  the question as to whether it is in young children’s interest to go through the assessment of a clinical psychologist, which is a disruption to their daily life and routine in itself, in addition to interviews with the Social Welfare Officer;
+
+(3)  the Social Welfare Officer has also been directed to make observations on the Father’s allegations of abuse suffered by the Children, as possible effects may present themselves in a behaviourial or physical (e.g. psychosomatic) manner. Such observation is usually made with the benefit of input from third parties, e.g. school teachers and other carers. The Social Welfare Report is expected to assist the Court with assessing the relevance or severity of the alleged psychological abuse in further case management decisions;
+
+(4)  as elaborated below, I consider sufficient safeguards have been put in place to support the interim access order. As such, it is unnecessary to have the benefit of a CP Report before making the interim order. This is in line with CXW2 §115, in which the Father suggested that for purposes of future long term arrangement only (“至於日後長期的安排”), it would be appropriate to obtain and be guided by a CP Report on the Children and/or the Mother.
+
+36.  As this Court has explored with Mr. Yim at the Hearing, the Father is at liberty to take the Children to a child psychologist/ psychiatrist for treatment and assessment if he is truly concerned about the alleged psychological abuse. However, there is no evidence that he has done so, despite the Children having effectively been in his sole care since 17 April 2022. It is not obvious to this Court why the Father is focusing on a CP Report for litigation purposes rather than seeking therapeutic treatment if it is his belief that the Children had suffered harm.
+
+37.  Whether and when to call for a CP Report is a case management decision which can be reviewed at the adjourned hearing on 28 September 2022 with the benefit of the Social Welfare Report. For reasons stated above, I do not consider this Ground of Appeal has any reasonable prospect of success.
+
+F.  Ground 2 – Interim Access Arrangement
+
+38.  The Father seeks leave to appeal against the interim supervised access arrangement as per Order §§1-2 on the ground that it is excessive in light of his concerns of psychological harm caused by the Mother. It is now suggested in Ms Yip SC’s skeleton for leave that supervision is “logistically difficult”, “costly” and “confusing” to the Children, none of which had been raised at the Hearing.
+
+39.  In J (children) (contract orders: procedure), the English Court of Appeal emphasized at §48 that the presumption in favour of a child maintaining contact with his or her parent have long been part of the bedrock of family law. Likewise, in JMHK v BRG (unrep.) FCMP 96/2010 dated 17 January 2014 cited by Ms Yip SC, HHJ Melloy emphasized at §25 that:
+
+“There are no other specific provisions in the legislation that relate to access. Access or contact is generally said to be the right of the child, as opposed to the parent. In other words S has the right to see and to have a relationship with both of her parents. The court is primarily concerned with the best interests of S and not the relative rights of each of the adults with respect to her.” (emphasis supplied)
+
+40.  Even if PDSL10.1 were to apply on the Father’s case, the Court is tasked with ensuring that any interim orders are in the best interests of the child and if deemed appropriate that consideration be given to the possibility of supervised or supported access (§3(d)).
+
+41.  In light of the Father’s allegation of abuse, this Court has accepted the following undertakings from the Mother to ensure safeguards are put in place for the interim access arrangement:
+
+(1)  undertaking not to bad-mouth or denigrate the Father in front of the Children, whether by herself or acting through others;
+
+(2)  undertaking not to molest, harass, assault, disturb, threaten or in any manner interfere with the Father and the Children whether by herself or acting through others (noting this is the relief sought in Originating Summons §5);
+
+(3)  undertaking to attend and complete co-parenting course before the next hearing.
+
+42.  Further at the Hearing, the Mother consented to having RAM supervise the interim access. This Court therefore acceded to the Father’s specific requests for supervised access by RAM. See:
+
+(1)  Variation Summons §2(b) seeking an order that interim access be granted to the Mother in under the supervision of a social worker or an independent third party;
+
+(2)  CXW 2 §114, specifically identifying RAM as the independent third party to provide supervision and that the Father is prepared to pay their costs:
+
+“…我建議恢復本案開始的做法，讓答辯人的探視在RAM在場的情況下進行，我也願意支付RAM的費用。”
+
+(3)  The Father also confirmed through Mr. Yim at the Hearing that he is prepared to pay RAM’s costs.
+
+43.  It should be noted that by DDJ M Lam’s order dated 1 September 2021, the Mother’s access was to be supervised by RAM, and the Father undertook to pay their fees. Reports of the supervised day access which took place on 4, 6 and 8 September 2021 were prepared by RAM and exhibited at CXW-2.1 (“September Reports”). Given such prior experience of all parties (including the Children) with RAM’s service, there is no reason to suppose RAM’s supervision would be “logistically difficult”, “costly” and “confusing to the Children” as now alleged in the Father’s skeleton for leave.
+
+44.  Indeed in light of the Father’s allegations of abuse, balanced against the Children’s right to quality access and contact with the Mother, this Court considered it prudent for all interim access for the 3 months until the next hearing to be supervised by RAM, given their professional training as well as the provision of daily reports:
+
+(1)  Such supervision and daily reports should give added incentive to the Mother to comply with her undertakings;
+
+(2)  If unfortunately anything untoward should happen during access such as a breach of undertaking, the Father would be notified and can seek advice on enforcement and/or next step; and
+
+(3)  the parties may also consider referring to RAM’s reports as a piece of evidence relevant to the issue of custody, care and control, and more specifically, whether the Mother is a suitable carer.
+
+45.  As to the access schedule, the Father suggested 3 day access in a week after the short adjournment during the Hearing, whereas the Mother asked for restoration of the Consent Order with RAM supervision. Given the various safeguards put in place in the form of the Mother’s undertakings and RAM’s presence, I consider Order §§1 & 2 appropriate for the following reasons:
+
+(1)  As stated in Order §1, the access schedule is to be based on Consent Order §2 which was arrived at by both parties’ consent and with the benefit of legal representation from specialist law firms. It reflected both parties’ intention for each of them to have substantial access (including overnight access) to the Children on alternating weekly basis;
+
+(2)  The parties followed that schedule without difficulty until the change effected by the Father from 17 April 2022 onwards, resulting in a significant reduction of the time the Children were able to spend with the Mother. It is not known whether such change would result in any adverse impact on the young children, as it is not disputed the Mother is their primary carer for most of their lives;
+
+(3)  As stated above, the Father accepted that the Mother is generally a good carer at CXW2 §§46 & 110. The safeguards should be sufficient to ensure that she carry on in the same manner pending the next hearing;
+
+(4)  Bearing in mind that the Children may need some time to adjust to a change in their living arrangement since 17 April 2022, I have acceded to the Father’s suggestion of day access only for the first 2 weeks after the Hearing as set out in Order §§1A & 1B, and to restore the Consent Order §2 access schedule thereafter as per Order §1C on the basis that it be supervised;
+
+(5)  This 2-week phasing in period should also provide the parties with sufficient time to make enquiries and arrangements with RAM on future supervised access until the adjourned hearing, including overnight staying access.
+
+46.  Ms Yip SC’s skeleton for leave pointed to the fact that supervised staying access is unusual, although it is accepted that is possible (citing JMHK v BRG). However, the Father’s ground of leave to appeal maintained that such access is excessive. In addition to the reasons set out above, I am of the view that an interim order with staying access is appropriate in this case for the following reasons:
+
+(1)  As stated in Order §1, the default position is that all interim access (including staying access) is to be conducted under the supervision of RAM as a form of safeguard;
+
+(2)  Given the absence of evidence (save from the Bar table) that RAM would be able to supervise overnight staying access, Order §2 provides for the alternative option for the Father’s domestic helper to attend staying access if the Father is willing to make such arrangements. This option caters for the possibility where RAM is not available for overnight staying access, or where the Father is prepared to facilitate a lower level of supervision during sleep hours when less activities are expected;
+
+(3)  It is made clear at Order §2 that staying access would not go unsupervised in the interim. The importance of supervision has been explained at paragraph 44 above. Although the Father’s domestic helper is not expected to be professionally trained as RAM would be, I am of the view that she can suffice for night time purposes. If neither RAM nor the Father’s domestic helper is available, then the Mother would only be granted day time access supervised by RAM as per Order §§1A & 1B;
+
+(4)  I do not accept this arrangement would be “emotionally consuming and confusing” for the Children or that it is not in their best interest given both RAM and the Father’s domestic helper have attended access before as reflected in the September Reports which went well;
+
+(5)  It is my view that this arrangement is in the Children’s best interest as it causes the least amount of harm to them in the interim period: NPYJ v. SMRC §22. It restores the earlier schedule achieved by the Consent Order with additional safeguards, thereby enabling the Children to enjoy quality and safe access to both parents.
+
+47.  Lastly, it should be noted that where an interim measure is made with the view of the matter coming shortly before the Court again for further order and/or adjustment, the Court of Appeal would not consider there is reasonable prospect of success of an intended appeal. See WKI also known as IWKV v. CKW also known as WCKW [2022] HKCA 889 at §§6-7 per Cheung JA; NPYJ v. SMRC §22.
+
+48.  In the circumstances, I do not consider this Ground of Appeal has any reasonable prospect of success. I have also specifically directed the Social Welfare Officer to give a recommendation on supervised access with the benefit of seeing it in action. Further adjustment can be made at the adjourned hearing in light of the Social Welfare Report, if appropriate.
+
+G.  Conclusion on Leave to Appeal
+
+49.  Due to the matters aforesaid, I conclude that there is no reasonable prospect of success in any of the grounds of the intended appeal of the Father. He has not shown that there is some other reason in the interests of justice that the appeal should be heard either. Hence, I refuse to grant leave to appeal as sought in the Father’s Summons §1.
+
+H.  Stay Application
+
+50.  Since the Father’s application for leave to appeal is rejected, it follows that the issue of his Stay Application does not arise, and thus Father’s Summons §2 should be dismissed.
+
+51.  For completeness, I do not accept the Father’s assertion at CXW3 §§11-14 that the Mother has agreed to a revised access schedule proposed by the Father pending appeal with the effect of compromising her opposition to the Stay Application. The Mother’s stance was clearly stated in the letter dated 23 June 2022 from her legal representative[3] as confirmed in WY3, that she was prepared to have access to the Children at the times the Father offered, although that is less than pursuant to the Order, because she would not be able to see the Children at all otherwise. However, this is expressly stated to be “without prejudice to [the Mother’s] position on [the Father’s] intended appeal, on the basis that RAM will be present at the access”.
+
+52.  In the absence of a consent summons varying or “staying” the Order made, the Stay Application is dismissed.
+
+I.  Order
+
+53.  For all the matters set out above, I now make the following order in respect of the Father’s Summons:
+
+(1)  The Father’s summons filed on 4 July 2022 be dismissed;
+
+(2)  The Father do bear the Mother’s costs of and occasioned by the aforesaid summons, summarily assessed at HK$575,000.
+
+54.  For completeness, the Mother has sought costs on indemnity basis, referring to (i) the Father’s refusal to comply with the Order for interim access (thus suggesting he is in contempt of Court), and (ii) his underlying motives in bringing the Variation Summons, namely to “correct” [矯正] and “educate” [教育] the Mother[4], and that it was not so much to obtain sole custody, but to change the Mother so she would learn her methods are wrong.[5] It is also alleged that the Father’s underlying motive to bring the Stay Application was so that he need not comply with the interim access order because he was later unwilling to pay RAM’s cost[6] despite his earlier stance at the Hearing.
+
+55.  While I am sympathetic to the Mother’s predicament, I do not consider cost should be awarded on indemnity basis for purposes of the Father’s Summons:
+
+(1)  Difficulties over enforcement and/or contempt on the Father’s part as alleged is not the focus of the present application;
+
+(2)  the Mother’s case on the Father’s underlying motive in litigating the Variation Summons is better dealt with upon determination of that application;
+
+(3)  the issue of his Stay Application does not in fact arise given the Father’s application for leave to appeal is refused. It is also trite that there is no stay pending leave to appeal and therefore non-compliance with the Order would be a matter for enforcement. In any event, the application for stay flows from the application for leave to appeal, in respect of which I am not prepared on this occasion to find that it is “scandalous or vexatious, or had been initiated or prosecuted maliciously or for an ulterior motive or in an oppressive manner” to invite cost on indemnity basis: Hong Kong Civil Procedure 2022 [62/28/2].
+
+56.  Lastly, I thank Counsel for their helpful assistance.
+
+ 
+
+ 
+
+ 	( Theresa Chow )
+Deputy District Judge
+ 
+
+Ms Anita Yip SC leading Ms Lily Yu instructed by Chaine, Chow & Barbara Hung for the Applicant
+
+Ms Audrey Eu SC leading Mr Jeffrey Li instructed by Rita Ku & Ser for the Respondent
+
+
+[1]  WY2 §47
+
+[2]  Annex 1 to Father’s skeleton dated 15 June 2022; WY2 §48
+
+[3]  CXW-3.1
+
+[4]  WY2 §16; WY2-3
+
+[5]  WY3 §23; WY3-4
+
+[6]  WY3 §12; WY3-2
+
+  
+

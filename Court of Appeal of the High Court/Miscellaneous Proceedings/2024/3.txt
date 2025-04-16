@@ -1,0 +1,542 @@
+CACV 95/2022, CACV 96/2022 &
+
+CAMP 5/2024
+
+[2024] HKCA 302
+
+On Appeal From [2022] HKCFI 308
+
+CACV 95/2022
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CIVIL APPEAL NO 95 OF 2022
+
+(ON APPEAL FROM HCA NO 624 OF 2019)
+
+____________________
+
+BETWEEN	 	 
+ 	ZHANG JIZHI ( 張繼志)	Plaintiff
+(Respondent)
+ 	HONG KONG TV INTERNATIONAL MEDIA GROUP LIMITED
+(香港衛視國際傳媒集團有限公司)	1st Defendant
+ 	and	 
+ 	KO HONG SING (高宏興) (formerly known as GAO HONGXING (高洪星))	2nd Defendant
+(2nd Appellant)
+____________________
+
+AND
+
+CACV 96/2022
+
+    IN THE HIGH COURT OF THE
+
+    HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+    CIVIL APPEAL NO 96 OF 2022
+
+  (ON APPEAL FROM HCA NO 624 OF 2019)
+
+____________________
+
+BETWEEN	 	 
+ 	ZHANG JIZHI ( 張繼志)	Plaintiff
+(Respondent)
+ 	and	
+ 	HONG KONG TV INTERNATIONAL MEDIA GROUP LIMITED
+(香港衛視國際傳媒集團有限公司)	1st Defendant
+(1st Appellant)
+ 	KO HONG SING (高宏興) (formerly known as GAO HONGXING (高洪星))	2nd Defendant
+________________________
+
+AND
+
+CAMP 5/2024
+
+    IN THE HIGH COURT OF THE
+
+    HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+   MISCELLANEOUS PROCEEDINGS NO 5 OF 2024
+
+  (ON AN INTENDED APPEAL FROM HCA NO 624 OF 2019)
+
+____________________
+
+BETWEEN	 	 
+ 	ZHANG JIZHI ( 張繼志)	Plaintiff
+(Respondent)
+ 	and	
+ 	HONG KONG TV INTERNATIONAL MEDIA GROUP LIMITED
+(香港衛視國際傳媒集團有限公司)	1st Defendant
+(Applicant)
+ 	KO HONG SING (高宏興) (formerly known as GAO HONGXING (高洪星))	2nd Defendant
+_____________________
+
+   (Heard together)
+
+                                          
+
+Before:	Hon Chu VP, Cheung and Chow JJA in Court
+Date of Hearing:	9 January 2024
+Date of Judgment:	9 January 2024
+Date of Reasons for Judgment:	12 April 2024
+________________________
+
+REASONS FOR JUDGMENT
+
+________________________
+
+Hon Chow JA (giving the Reasons for Judgment of the Court):
+
+INTRODUCTION
+
+1.  On 3 August 2020, Master Sabrina Ho gave summary judgment for the Plaintiff against the 1st and 2nd Defendants, ordering (i) the 1st and 2nd Defendants to jointly and severally pay the Plaintiff damages for breach of contract in the sum of HK$11,904,754; or (ii) alternatively, the 1st Defendant to make restitution to the Plaintiff by paying the sum of HK$11,904,754 on the ground of unjust enrichment.  The Master also made an order dismissing the 1st Defendant’s summons dated 23 July 2020 (“New Evidence Summons”) to file the affirmation of Wong Chi Man affirmed on 21 July 2020 (“Wong’s Affirmation”).  Exhibited to Wong’s Affirmation was the 3rd affirmation of Yang Zhang (“Yang 3”), the secretary to the board of directors of the 1st Defendant, which the 1st Defendant intended to rely upon to resist the Plaintiff’s summary judgment application.  The 1st and 2nd Defendants were not satisfied with the judgment and order made by the Master and appealed to a judge in Chambers.
+
+2.  On 28 January 2022, Marlene Ng J gave judgment (“the Judgment”) dismissing:
+
+(1)  the 1st Defendant’s appeal against the summary judgment given by the Master;
+
+(2)  the 1st Defendant’s appeal against the Master’s order dismissing the New Evidence Summons;
+
+(3)  the 1st Defendant’s application by summons dated 30 June 2021 (“D1’s Amendment Summons”) to amend its Defence dated 26 June 2019 (“D1’s Defence”);
+
+(4)  the 2nd Defendant’s appeal against the summary judgment given by the Master; and
+
+(5)  the 2nd Defendant’s application by summons dated 13 January 2021 (“D2’s Amendment Summons”) to amend his Defence dated 24 July 2019 (“D2’s Defence”).
+
+3.  By 2 notices of appeal both dated 25 February 2022 (“D1’s NOA” and “D2’s NOA” respectively), the 1st and 2nd Defendants appealed against the Judgment to the Court of Appeal.
+
+4.  By a summons dated 3 January 2024 (“the Leave Summons”), the 1st Defendant further applied to the Court of Appeal for leave to appeal against the Judge’s order (“the New Evidence Order”) dismissing its appeal against the Master’s order dismissing the New Evidence Summons.
+
+5.  At the conclusion of the hearing on 9 January 2024, this Court dismissed D1’s NOA, D2’s NOA and the Leave Summons with costs to the Plaintiff, with reasons to be given later, which we now do.
+
+BRIEF BACKGROUND FACTS
+
+6.  The 1st Defendant, Hong Kong TV International Media Group Limited (香港衛視國際傳媒集團有限公司),incorporated in Hong Kong on 19 December 2008, is a licensed broadcasting non-domestic television programme service provider in Hong Kong.
+
+7.  Between 18 November 2009 and 25 August 2018, the 2nd Defendant was a director and the Chairman of the 1st Defendant.  He was also a substantial shareholder, holding 23.12% of all the issued capital, of the 1st Defendant.  In 2018, he changed his name from Gao Hongxing (高洪星) to Ko Hong Sing (高宏興).
+
+8.  The Plaintiff was an intended investor in the shares of the 1st Defendant.
+
+9.  By a written agreement in Chinese titled 投資入股協議書 (Share Investment Agreement) dated 19 April 2016 (“the Agreement”) made between:
+
+(1)  “香港衛視國際傳媒集團有限公司 Hong Kong TV International Media Group Ltd (以下簡稱 ‘香港衛視’) 股東代表並董事局主席高洪星先生”, as 甲方 (Party A); and
+
+(2)  the Plaintiff, as 乙方 (Party B),
+
+the Plaintiff agreed to acquire 4,632,200 shares (“the Shares”) in the 1st Defendant at the consideration of HK$11,904,754 (HK$2.57 per share).
+
+10.  There is no dispute that the Plaintiff was the 乙方 (Party B) to the Agreement.  One of the main issues dividing the parties is who was the 甲方 (Party A) to the Agreement.  The Agreement was executed by 甲方 in the following manner:
+
+“甲方: 香港衛視國際傳媒集有限公司 (蓋章)
+
+[company chop of D1]
+
+股東代表: (簽字) [D2’s signature]”
+
+11.  The Agreement contained, inter alia, the following express terms:
+
+(1)  Recital Preamble - 香港衛視國際傳媒集團有限公司是一家由香港特區政府2008年12月19日批准的國際衛視電視臺 (簡稱香港衛視)…
+
+(2)  Recital 1 - 香港衛視是以經營電視傳媒為主和進行其他文化傳媒產業投資及經營文化產業基金的大型傳媒集團，註冊資本為壹拾億元港幣。為增強香港衛視實力，儘快做大做強，經2012年度香港衛視第1次股東會決議，通過了授權董事局處理股權變動事宜的決議.
+
+(3)  Recital 2 - 乙方同意按照本合同約定的條款和條件通過股權投資的方式入股.
+
+(4)  Clause 1(2) - 現在乙方投資入股香港衛視，認購肆佰陸拾叁萬貳仟貳佰股股份 (此部分股份從原股東轉讓或增資), 按照原每股價格2.57元港幣，以現金出資港幣壹仟壹佰玖拾萬肆仟柒佰伍拾肆元整，按2016年4月19日匯率0.8400折合人民幣壹仟萬元整.
+
+(5)  Clause 2(2) - 甲方有義務在乙方轉讓款到達指定帳戶的五個工作日內向香港政府相關機構報送有關法律手續，及時完成有關股權變更手續，以確保乙方的利益.
+
+(6)  Clause 2(5) - 在股權轉讓過程中涉及的厘印稅費 (按千分之二計) 由甲乙雙方各負擔百分之五十.
+
+(7)  Clause 2(7) - 如香港衛視後續進行增資擴股或上市時，乙方享有對新股東而言的原始股東的一切權利與義務.
+
+(8)  Clause 2(9) - 回購協議：若甲方主體或其關聯子公司兩年内未能上市，按照香港銀行公佈的同期存款利率計算回購股份.
+
+(9)  Clause 3 - 乙方保證在合約簽訂後十日內將50%投資港幣伍佰玖拾伍萬貳仟叁佰柒拾柒元整，折合人民幣伍佰萬元整匯入香港衛視賬戶或其委託收款的銀行賬戶；餘下50%投資款港幣伍佰玖拾伍萬貳仟叁佰柒拾柒元整，折合人民幣伍佰萬元整於2016年5月15日之前匯入香港衛視賬戶或其委託收款的銀行賬戶…
+
+(10)  Clause 4(1) - 本合同任何一方向本合同其他各方陳述如下：(1) 其有完全的民事權利能力和民事行為能力參與、訂立及執行本同，或具有簽署與履行本合同所需的一切必要權力與授權，並且直至本合同所述股權轉讓擴股完成，仍將持續具有充分履行其在本合同項下各項義務的一切必要權力與授權.
+
+(11)  Clause 9 - 本合同作為解釋香港衛視股東之間權利和義務的依據，長期有效，除非各方達成書面合同修改；本合同在不與香港衛視章程明文衝突的情況下，視為對香港衛視股東權利和義務的解釋並具有最高效力.
+
+12.  By a series of 12 payments made between 28 April 2016 and 18 May 2016, the Plaintiff paid the full consideration in the total sum of HK$11,904,754 (“the Sum”) to the 1st Defendant for the acquisition of the Shares under the Agreement.  On 18 May 2016, the 1st Defendant issued a receipt to the Plaintiff for the Sum.  The receipt described the relevant payments as being for 股權投資款 (share investment sum).
+
+13.  According to the Plaintiff, although he had paid the full consideration for the Shares, the 1st and the 2nd Defendants failed, in breach of the Agreement, to allot or transfer the Shares to him.
+
+14.  There is evidence that, in or about September 2017, the 2nd Defendant as transferor and the Plaintiff as transferee signed an undated Instrument of Transfer and undated Bought and Sold Notes in respect of 4,632,200 shares in the 1st Defendant (collectively “the Undated Documents”).  However, no transfer of shares pursuant to the Undated Documents has ever been registered in the register of members of the 1st Defendant.
+
+15.  On 8 January 2019, Zhong Lun Law Firm (the Plaintiff’s former solicitors) served a statutory demand on the 1st Defendant seeking repayment of the sum of HK$11,904,754.  By a letter from LCP (the 1st Defendant’s former solicitors) to Zhong Lun Law Firm dated 23 January 2019, the 1st Defendant denied its liability to repay the sum on the ground that it was not a party to the Agreement.
+
+16.  By a letter from Deacons (the Plaintiff’s current solicitors) to the 1st Defendant and the 2nd Defendant dated 5 March 2019, the Plaintiff accepted their wrongful repudiation of, and terminated, the Agreement, and demanded for the return of the Sum.  Neither the 1st Defendant nor the 2nd Defendant acceded to the Plaintiff’s demand.
+
+17.  On 9 April 2019, the Plaintiff commenced the present action against the 1st and 2nd Defendants claiming, inter alia, (i) damages for breach of contract, and (ii) repayment of the Sum on the ground of unjust enrichment.  There was also a claim based on constructive/resulting trust, but it was not relied upon in the summary judgment application, and does not require further consideration in the present appeal.
+
+18.  In D1’s Defence, the 1st Defendant raises the following grounds of defence to the Plaintiff’s claims:
+
+(1)  It is not a party to the Agreement.  The parties to the Agreement are the 2nd Defendant, being the representative of the then existing shareholders of “HKTV” (ie the 1st Defendant) as Party A, and the Plaintiff as Party B.
+
+(2)  The 1st Defendant received payments in the total sum of HK$11,904,754 from the Plaintiff on behalf of the 2nd Defendant and/or the then existing shareholders of HKTV, and the Sum was subsequently transferred by the 1st Defendant to Zheng Hao Yun (“Zheng”), being the 2nd Defendant’s assistant/agent/servant, without knowledge of any breach of contract or wrongdoing on the part of the 2nd Defendant or any other parties.  The 1st Defendant changed its position bona fide by transferring the Sum to Zheng on behalf of the 2nd Defendant from 17 May 2016 to 11 July 2016, and it is inequitable to require the 1st Defendant to make restitution to the Plaintiff.
+
+19.  In D2’s Defence, the 2nd Defendant raises the following grounds of defence to the Plaintiff’s claims:
+
+(1)  He is not a party to the Agreement.  The parties to the Agreement are the 1st Defendant as Party A and the Plaintiff as Party B.
+
+(2)  The Sum was paid by the Plaintiff to the 1st Defendant.  At no time was the 2nd Defendant in receipt of the Sum.  He was never enriched in respect of the Sum, and thus should not be held liable to make restitution to the Plaintiff.
+
+THE MASTER’S JUDGMENT
+
+20.  The Plaintiff’s application for summary judgment against the 1st and 2nd Defendants, and the 1st Defendant’s New Evidence Summons, were heard by the Master on 3 August 2020.  On the same date, she gave summary judgment for the Plaintiff against the 1st and 2nd Defendants, and dismissed the New Evidence Summons.
+
+THE JUDGMENT
+
+21.  The 1st and 2nd Defendants appealed against the summary judgment given by the Master.  The 1st Defendant also appealed against the order made by the Master dismissing the New Evidence Summons.
+
+22.  In addition, both the 1st and 2nd Defendants sought leave to amend their respective Defences.
+
+23.  In the version of the 1st Defendant’s draft Amended Defence handed up to the Judge at the hearing on 19 July 2021 (“the Draft D1 AD”), the 1st Defendant raises the following additional contentions[1]:
+
+(1)  If the Agreement was a tripartite agreement between the Plaintiff, the 1st Defendant and the 2nd Defendant: (i) the Plaintiff had the right to elect between either allotment of new shares or transfer of shares from existing shareholder(s), which were two inconsistent rights available to the Plaintiff, and (ii) it was an implied term or condition of the Agreement that the Plaintiff should give reasonable notice to the 1st and/or 2nd Defendants on whether he would opt for allotment of new shares or transfer from existing shareholder(s) for the purpose of his intended acquisition of the Shares.
+
+(2)  In or around September 2017, the 2nd Defendant as transferor and the Plaintiff as transferee executed the Undated Documents for the transfer of the Shares to the Plaintiff.
+
+(3)  Upon the execution of the Undated Documents, the beneficial interests in the Shares passed from the 2nd Defendant to the Plaintiff, and the 2nd Defendant held the Shares on trust for the Plaintiff pending completion of the transfer of the Shares.
+
+(4)  Neither the 2nd Defendant as transferor nor the Plaintiff as transferee lodged the Undated Documents with the 1st Defendant for registration pursuant to s 151 of the Companies Ordinance (Cap 622).  Hence, the intended transfer of shares was not registered.  The 1st Defendant was otherwise ready, willing and able to cause the intended transfer of the Shares to be registered.
+
+(5)  Further, the 1st Defendant never received any request from the Plaintiff for the allotment of new shares. 
+
+(6)  By reason of the above matters, the Plaintiff had exercised the right of election for his intended acquisition of the Shares to be effected by the transfer of existing shares from the 2nd Defendant as opposed to the allotment of new shares by the 1st Defendant, thereby waiving his right to ask for the latter.
+
+(7)  Alternatively, it was the common understanding and assumption between the Plaintiff, the 1st Defendant and the 2nd Defendant that the Plaintiff’s intended acquisition of the Shares would be effected by the transfer of the Shares from the 2nd Defendant, and the 1st Defendant would not be required to allot new shares or cause new shares to be allotted to the Plaintiff under the Agreement.  The 1st Defendant proceeded on the basis that the Plaintiff had elected for the transfer of existing shares, thereby waiving his right to seek allotment of new shares by the 1st Defendant.  Accordingly, it would be unjust to permit the Plaintiff now to elect for his rights against the 1st Defendant, and the Plaintiff is estopped from asserting or exercising his rights against the 1st Defendant under the Agreement.
+
+(8)  Also, by reason of the matters aforesaid, the Plaintiff is not entitled to claim restitution against the 1st Defendant.
+
+24.  In the 2nd Defendant’s draft Amended Defence and Counterclaim (“the Draft D2 AD&C”), the 2nd Defendant raises the following additional contentions:
+
+(1)  During the pre-contractual negotiation between the Plaintiff and the 2nd Defendant leading to the Agreement, the clear understanding throughout was that he was acting on behalf of the 1st Defendant and not in his personal capacity.  Particulars of the pre-contractual negotiation relied upon are set out at §6(f-1) of the Draft D2 AD&C.
+
+(2)  If, upon the true construction of the Agreement, the parties to it are not just the Plaintiff and the 1st Defendant but also include the 2nd Defendant, the Agreement should be rectified to reflect the true agreement and common intention that the Agreement “would be made between, and would provide for the rights and duties of, the Plaintiff and the [1st Defendant] only”.
+
+25.  The Judge heard the 1st and 2nd Defendants’ appeals and applications mentioned above on 19 July 2021.
+
+26.  On 28 January 2022, the Judge gave the Judgment. We do not propose to summarise the Judgment here, but shall refer to the relevant parts of the Judgment in our discussion of the grounds of appeal advanced by the 1st and/or 2nd Defendants below.
+
+D1’S NOA AND LEAVE SUMMONS
+
+27.  In D1’s NOA, the 1st Defendant raises the following grounds of appeal against the Judgment:
+
+(1)  Ground 1: the Judge erred in finding that the election defence had no merits.  She should have found that the election defence raised triable issues having regarding to, inter alia, §§151 to 156 of the Judgment relating to the facts and interpretation of the terms of the Agreement.
+
+(2)  Ground 2: the Judge erred in finding that the 1st Defendant had no arguable/triable defence to the Plaintiff’s claim for restitution based on unjust enrichment.  She should have found that there were triable issues given, inter alia, the factual disputes set out at §§173 to 174 of the Judgment.
+
+(3)  Ground 3: in the event that there are triable issues raised by the 1st Defendant based on the election defence and/or the unjust enrichment defence, D1’s Amendment Summons should be allowed.
+
+(4)  Grounds 4 and 5: the learned Judge erred in finding that Party A to the Agreement comprised both the 1st and 2nd Defendants.  The Judge should have found that there were triable issues on the identity of Party A to the Agreement.
+
+(5)  Grounds 6 and 7: the Judge should have found that there were triable issues on whether there had been a partial repayment of RMB 3,000,000 by the 2nd Defendant to the Plaintiff based on the facts and matters raised in Yang 3.  Hence, the Judge should have allowed the 1st Defendant’s appeal against the Master’s dismissal of the New Evidence Summons.
+
+(6)  Ground 8: the Judge erred in conducting a mini-trial on the factual issues and interpretation of the terms of the Agreement in a summary judgment application.
+
+28.  In respect the 1st Defendant’s contention mentioned at §27(5) above, it is not in dispute that leave to appeal against the New Evidence Order was required by the 1st Defendant, but no leave to appeal had been sought or obtained.  On 3 January 2024, the 1st Defendant issued the Leave Summons to seek leave to appeal against the New Evidence Order out of time.
+
+D2’S NOA
+
+29.  In D2’s NOA, the 2nd Defendant raises the following grounds of appeal against the Judgment:
+
+(1)  Ground 1: the Judge erred in law in failing to appreciate that parol evidence (including evidence as to the pre-contractual context) pertaining to the identity of a contracting party was always admissible.
+
+(2)  Ground 2: the Judge erred in law and in fact in rejecting the 2nd Defendant’s capacity defence and rectification defence and/or in failing to find that there were triable issues with regard to the same.
+
+(3)  Ground 3: the Judge erred in fact in finding that Party A to the Agreement included the 2nd Defendant in his personal capacity.
+
+(4)  Ground 4: the Judge erred in law and in fact in failing to appreciate that the proposed amendments in the Draft D2 AD&C were necessary for disposing fairly of the cause or matter in the present case.
+
+THE ISSUE CONCERNING THE IDENTITY OF PARTY A TO THE AGREEMENT
+
+30.  We shall first deal with the issue concerning the identity of Party A to the Agreement, which is relevant to Ground 4 and 5 of D1’s NOA and Grounds 1, 2 and 3 of D2’s NOA.
+
+31.  The Plaintiff’s case is that Party A to the Agreement comprises both the 1st and 2nd Defendants.  The 1st Defendant’s case is that Party A comprises the 2nd Defendant only, while the 2nd Defendant’s case is that Party A comprises the 1st Defendant only.  In other words, the 1st and 2nd Defendants are each seeking to shift the responsibility to the other.
+
+32.  The Judge, having studied the Agreement “by reference to its object and the whole of its terms (ie without dwelling too much upon individual words/clauses to the neglect of the contract as a whole), and giving the language used their natural and ordinary meaning in the context of its nature, quality and drafting”, held that “the inevitable objective conclusion (ie disregarding the subjective evidence of the parties’ intentions) is that Party A comprised both [the 1st Defendant] and [the 2nd Defendant] whether on the existing pleadings/evidence or on the de bene esse materials[2]”[3]. In coming to this view, the Judge took into account the object, purpose and terms of the Agreement (endeavouring to place the clauses in the context of the Agreement as a whole)[4], as well as the fact that the Agreement was negotiated at the Shenzhen Office of the 1st Defendant’s subsidiary and via WeChat communications, prepared by the 1st Defendant’s administrative staff based on a template generally used by the 1st Defendant for subscription of shares, and signed in the Shenzhen Office (and thus the Agreement necessarily had a flavour of linguistic and contractual style found in Mainland China)[5].  In relation to the object and purpose of the Agreement, the Judge considered that it concerned the Plaintiff’s investment in the 1st Defendant through the acquisition of its shares, and the “true bargain” or “nub” of the Agreement was for the Plaintiff to become the owner of and to obtain title to the Shares so that he, as a new shareholder of the 1st Defendant, would be able to exercise rights and discharge obligations as such[6].  In relation to the terms of the Agreement, the Judge referred to and relied upon, inter alia, the description of Party A at the beginning of the Agreement, the Recital Preamble, Recital 1, Recital 2, and Clauses 1(2), 2(1), 2(2), 2(4), 2(9), 3, and 4(1)(1) thereto, the fact that the 1st Defendant’s company chop was affixed across the margin of each page of the Agreement, as well as the manner of execution of the Agreement, viz the 1st Defendant’s company chop was affixed on top of the printed words 香港衛視國際傳媒有限公司 (蓋章) and D2’s signature was appended against the printed words 股東代表 (簽字)[7].
+
+33.  We agree with the Judge’s analysis that, having regard to the object and purpose of the Agreement and reading the terms of the Agreement in its proper context and as a whole, it is clear that Party A comprises both the 1st and 2nd Defendants, and not just either the 1st Defendant or the 2nd Defendant.  The following provisions or features of the Agreement are, in our view, telling:
+
+(1)  Provisions or features indicating that Party A comprises both the 1st and 2nd Defendants –
+
+(a)  The description of Party A refers to both the 1st Defendant (香港衛視國際傳媒集團有限公司 Hong Kong TV International Media Group Ltd) and the 2nd Defendant in his twin capacities as the shareholders’ representative and Chairman of the board of the 1st Defendant (股東代表並董事局主席高洪星先生), although, as pointed out by the Master, “ideally, the two names stated in the name of the parties should be separated by a comma or linked by a word ‘及’”.
+
+(i)   If Party A comprises only the 1st Defendant (as contended by the 2nd Defendant), there would have been no reason or purpose to refer to the 2nd Defendant in the description of Party A, or mention his capacity as the shareholders’ representative.
+
+(ii)  On the other hand, if Party A comprises only the 2nd Defendant (as contended by the 1st Defendant), there would have been no reason or purpose to refer to the 1st Defendant in the description of Party A.
+
+(b)  Under Clause 1(2) of the Agreement, the Shares to be acquired by the Plaintiff would either be existing shares to be transferred from the original shareholders of the 1st Defendant, or new shares to be allotted by the 1st Defendant.  The former mode of performance could not be effected by the 1st Defendant, while the latter could not be effected by the 2nd Defendant.  That the Agreement contemplates that its performance may involve either a transfer or allotment of shares is reinforced by Clause 4(1) of the Agreement, under which the parties undertake to each other that they have the requisite powers or capacity to enter into and perform the Agreement up to the time of completion of the transfer or allotment of shares pursuant to the Agreement (直至本合同所述股權轉讓擴股完成).  While both the 1st and 2nd Defendants promise or undertake to the Plaintiff that he would receive the Shares under the Agreement, it is a matter for them to decide how those Shares are to be sourced.
+
+(c)  The Agreement was executed by both the 1st and 2nd Defendants.  In the case of the 1st Defendant, it was done by affixing the company chop of the 1st Defendant over the printed words 香港衛視國際傳媒集有限公司 (蓋章), and in the case of the 2nd Defendant, it was done by his signing next to the printed words 股東代表: (簽字).
+
+(2)  Provisions or features indicating that Party A includes the 1st Defendant, or is not just the 2nd Defendant (as contended by the 1st Defendant) –
+
+(a)  The chop of the 1st Defendant was affixed across the margin of each page of the Agreement.
+
+(b)  Clause 2(9) of the Agreement states: “回購協議：若甲方主體或其關聯子公司兩年内未能上市，按照香港銀行公佈的同期存款利率計算回購股份”.  This clause clearly shows that Party A includes a corporate entity, and cannot be just the 2nd Defendant only.
+
+(3)  Provisions or features indicating that Party A includes the 2nd Defendant, or is not just the 1st Defendant (as contended by the 2nd Defendant) –
+
+(a)  Clause 2(5) of the Agreement provides that Party A and Party B should each be responsible for 50% of the stamp duty incurred for the transfer of shares (0.2%).  Stamp duty would be payable in the case of a transfer, but not upon an allotment, of shares.  This clause would be quite meaningless if Party A does not include the 2nd Defendant but comprises only the 1st Defendant.
+
+(b)  Clause 9 of the Agreement evidences the parties’ intention that the Agreement should be regarded as forming the basis for explaining or interpreting the mutual rights and obligations of the shareholders of the 1st Defendant.  The clause reads “本合同作為解釋香港衛視股東之間權利和義務的依據，長期有效，除非各方達成書面合同修改；本合同在不與香港衛視章程明文衝突的情況下，視為對香港衛視股東權利和義務的解釋並具有最高效力”, and supports the view that the 2nd Defendant (as the representative of the shareholders of the 1st Defendant) is a party to the Agreement.
+
+(c)  The 1st Defendant is given an acronym (“香港衛視”) in the description of Party A (甲方) and in the Recital Preamble to the Agreement, while the Agreement refers to 香港衛視 and 甲方in various places, clearly distinguishing between the two.  If Party A comprises only the 1st Defendant, it would not be necessary to give the 1st Defendant the acronym, and it would have been sufficient to refer to Party A only in the Agreement. 
+
+34.  We shall now deal with the major points raised by Mr Forest Fong on behalf of the 1st Defendant and by Mr Michael Lok (together with him, Ms Sakinah Sat) on behalf of the 2nd Defendant to contend that the Judge was wrong to find that Party A to the Agreement comprised both the 1st and 2nd Defendants.
+
+The 1st Defendant’s arguments
+
+35.  In support of the 1st Defendant’s case that it was not a party to the Agreement:
+
+(1)  Mr Fong refers to the definition of Party A as “香港衛視國際傳媒集團有限公司 Hong Kong TV International Media Group Ltd (以下簡稱 ‘香港衛視’) 股東代表並董事局主席高洪星先生”, and points out that the 1st Defendant is specifically defined as  “香港衛視” and referred to by this name, instead of Party A, throughout the Agreement.  He also refers to the fact that the Recital Preamble states that Party A and Party B have agreed, on a voluntary, fair and just basis, in relation to the matter of investing in “香港衛視”[8]. We do not see how these provisions can assist Mr Fong’s argument that Party A does not include the 1st Defendant.  While the fact that (i) the 1st Defendant is specifically given the acronym “香港衛視”, and (ii) “香港衛視” is referred to in various clauses of the Agreement, supports the view that the 1st Defendant is not the same as Party A, it does not indicate or show that the 1st Defendant is not included within Party A.
+
+(2)  Mr Fong says that Clause 9 of the Agreement provides that the purpose of the Agreement is to set out and explain the rights and obligations amongst the shareholders of the 1st Defendant, and argues that the Agreement is “a shareholders’ agreement and/or transfer of shares agreement entered into between the then existing shareholders through [the 2nd Defendant] being their representative on the one hand, and [the Plaintiff] being the intended new shareholder on the other hand”[9].  In our view, although Clause 9 of the Agreement provides that it shall form the basis and has the “highest authority” (並具有最高效力) for explaining or interpreting the mutual rights and obligations of the shareholders of the 1st Defendant, it is clear from the totality of terms of the Agreement that its main purpose or object, or at least one of its main purposes or objects, is to provide for the acquisition of shares in the 1st Defendant by the Plaintiff.  We do not see that the only purpose of the Agreement is to set out and explain the rights and obligations amongst the shareholders of the 1st Defendant.  Neither do we accept Mr Fong’s argument that the Agreement is a shareholders’ agreement, or a mere agreement between the then existing shareholders (through the 2nd Defendant) and the Plaintiff for the transfer of shares in the 1st Defendant.
+
+(3)  Mr Fong accepts that, for the transfer of shares from existing shareholders, the obligation must fall on the 2nd Defendant, as the 1st Defendant is not in a position to transfer any shares to the Plaintiff.  However, he argues that, insofar as “capital increase” (or share allotment) is concerned, the obligation to secure the same also falls on the shareholders (not the 1st Defendant or its directors) pursuant to ss 140-141 of the Companies Ordinance[10].  We do not accept this argument.  Under s 140(1)(a) of the Ordinance, the directors of a company must not exercise any power to allot shares in the company except in accordance with s 141, and s 141(1)(a) provided that the directors of a company may exercise a power to allot shares in the company if the company gives approval in advance by resolution of the company.  In other words, the power of the directors of a company to allot shares in the company is subject to shareholders’ approval.  There is, however, nothing in those provisions which prohibits a company from entering into a contract with an outside investor to allot shares to him/her.  Whether the company can obtain the necessary approval from its shareholders for the proposed allotment is an internal matter between the directors and the shareholders, but does not limit the company’s capacity to enter into the contract or affect the contract’s validity.
+
+(4)  Mr Fong argues that the Judge erred in omitting to take into account the “Transfer Documents”[11] (ie the Undated Documents) when considering the 1st Defendant’s capacity defence[12].  The Judge considered (correctly, in our view) that a transfer of shares by the 2nd Defendant to the Plaintiff is only one of two alternative modes of performance by Party A of its obligations to provide the Shares to the Plaintiff under the Agreement, the other being direct allotment of shares by the 1st Defendant.  We do not see that the execution of the Undated Documents by the Plaintiff and the 2nd Defendant points to the 1st Defendant being excluded from being a constituent part of Party A.
+
+The 2nd Defendant’s arguments
+
+36.  Under Ground 1 of D2’s NOA, the 2nd Defendant contends that the Judge erred in law in failing to appreciate that parol evidence (including evidence as to the pre-contractual context) pertaining to the identity of a contracting party was always admissible, and the Judge incorrectly held that it was only “in a suitable case [that] extrinsic evidence may be relied upon to identify the contracting parties where any of them have been inadequately or ambiguously described in the contract”[13].
+
+37.  In support of the argument that parol evidence may always be admitted for the purpose of identifying the part(ies) to a contract even when the parties are not inadequately or ambiguously described (in other words, where there is no ambiguity or doubt concerning the identity of the parties on the face of a written contract), Mr Lok relies upon the following statement of Lord Parker of Waddington in Fung Ping Shan v Tong Shun [1918] AC 403 (at 406), a decision of the Privy Council on appeal from Hong Kong –
+
+“There can be no doubt that parol evidence as to the identity of a party is always admissible, but in considering such evidence it is of paramount importance to bear in mind the indicia of identity afforded by the deed itself. In the present case these indicia are as follows: the person to be looked for is a person who (1.) is named as Tong Shun; (2.) resides at Victoria in the Colony of Hong Kong; (3.) is a trader; (4.) has paid the vendor 25,600 dollars; and (5.) enters into a covenant with the vendor by signing, sealing, and delivering the indenture itself ……”
+
+38.  Mr Lok submits that various other authorities referred to by the Judge[14], including Homburg Houtimport BV & ors v Agrosin Private Ltd [2004] 1 AC 715, Hamid v Francis Bradshaw Partnership [2013] EWCA Civ 470, Fairstate Limited v General Enterprise & Management Limited [2010] EWHC 3072 (QB), Shogun Finance Ltd v Hudson [2004] 1 AC 919, OTV Birwelco Ltd v Technical and General Guarantee Co Ltd [2002] 14 All ER 668, and China Finance & Assets Management Limited v Lafe Properties (Hong Kong) Limited (HCA 526/2010, unreported, 18 February 2015), are consistent with the approach advocated by him.
+
+39.  The Judge carefully reviewed the above-mentioned authorities and considered that “there is no conflict or difference between Fung Ping Shan and the later English and Hong Kong authorities as to the approach of the courts for ascertaining the identity of a party to a written contract”.  She stated that those authorities sat well with the following summary in Bowstead & Reynold on Agency (22nd ed), §§9-039 and 9-040 –
+
+“Where it is clear from the terms of a written contract made by an agent that the agent is contracting personally, extrinsic evidence is not admissible to show that, notwithstanding the terms of the contract, it was the intention of the parties that the agent should not be personally liable on it, because such evidence would be contradictory to the written contract.”
+
+“It is sometimes said that parol or other extrinsic evidence may not be admitted to add to, vary or contradict a deed or written contract. …… this reasoning is only appropriate where the contract is exclusively contained in a document or documents ……”[15]
+
+40.  The Judge also referred to the judgment of Lord Hobhouse of Woodborough in Shogun Finance Ltd (at §49), who explained the rationale for the exclusion of parol evidence where the identity of a party is clear[16]:
+
+“… It is argued that other evidence is always admissible to show who the parties to an agreement are. Thus, if the contents of the document are, without more, insufficient unequivocally to identify the actual individual referred to or if the identification of the party is non-specific, evidence can be given to fill any gap. Where the person signing is also acting as the agent of another, evidence can be adduced of that fact. None of this involves the contradiction of the document: Young v Schuler (1883) 11 QBD 651, which was a case of an equivocal agency signature and it was held that evidence was admissible that the signature was also a personal signature –‘evidence that he intended to sign in both capacities ... does not contradict the document, and is admissible’: per Cotton LJ, at p 655. But it is different where the party is, as here, specifically identified in the document: oral or other extrinsic evidence is not admissible. Further, the rogue was no one’s agent (nor did he ever purport to be). The rule that other evidence may not be adduced to contradict the provisions of a contract contained in a written document is fundamental to the mercantile law of this country; the bargain is the document; the certainty of the contract depends on it …
+
+This rule is one of the great strengths of English commercial law and is one of the main reasons for the international success of English law in preference to laxer systems which do not provide the same certainty. Hector v Lyons 58 P & CR 156 is simply an application of this basic and long established principle. The father was claiming to be able to enforce a contract of sale of land. The father had conducted the negotiations. Woolf LJ said, at pp 160-161:
+
+‘In this case there is no dispute as to who, according to the written contract, are the parties. The son was described in the contract as one of the parties. He does exist and, in so far as there was a contract at all, it was between him and the other party identified in the contract, Mrs Pamela Doris Lyons.’
+
+Sir Nicolas Browne-Wilkinson V-C delivered a judgment to the same effect. He referred, at p 159, to the cases ‘entirely concerned with transactions between two individuals face to face entering into oral agreement’, saying:
+
+‘In my judgment the principle there enunciated has no application to a case such as the present where there is a contract and wholly in writing. There the identity of the vendor and of the purchaser is established by the names of the parties included in the written contract.’”
+
+41.  For the purpose of disposing of the present appeal, it is not necessary for us to come to a final view on whether there is an absolute rule as contended by Mr Lok to the effect that parol (or extrinsic) evidence may always be admitted for the purpose of identifying the part(ies) to a contract even when they are not inadequately or ambiguously described in the contract.  This is because the Judge did consider the parol (or extrinsic) evidence relied upon by the 2nd Defendant, including the so-called “pre-contractual context”, and came to the conclusion that –
+
+“there were no arguable or triable merits to the D1/D2 Capacity Defences and the Rectification Defence, whether on the basis of the existing affirmation evidence and/or on the de bene esse materials. The indicia of identity and the surrounding circumstances (assuming that they would be taken into account) strongly pointed to D1 and D2 being Party A, which also accorded with commercial or business logic, and the suggestion that either D1 or D2 was Party A suffered from difficulties that were impossible to explain away.”[17]
+
+42.  Mr Lok himself recognizes that Ground 1 of D2’s NOA is not critical to the outcome of the present appeal.  He accepts that for the 2nd Defendant to succeed in the appeal, he has to show that the Judge erred in rejecting that there were triable issues raised on the identity of the parties to the Agreement and concluding that Party A included the 2nd Defendant in his personal capacity[18]. In support of his argument that the Judge erred in finding that Party A included the 2nd Defendant, Mr Lok relies on various “extrinsic/pre-contractual matters”, which he calls the “Pre-Contractual Context”[19], and contends that:
+
+(1)  The Judge failed to give sufficient weight to the evidence of the 2nd Defendant that he was acting in his capacity as chairman and representative of the 1st Defendant and the clear and uncontroverted evidence that the Agreement was based on a template prepared by the 1st Defendant’s administrative staff and used by the 1st Defendant generally for subscription of shares[20].
+
+(2)  The Judge erred in failing to find the fact that the 2nd Defendant signed on top of the 1st Defendant’s company chop on the signature page of the Agreement and did not sign in any separate signature block in any personal capacity was an indication that the 1st Defendant alone was Party A[21].
+
+(3)  The Judge erred in finding that a share transfer could only be effected by the 2nd Defendant and “therefore D2 was Party A / a member of Party A”.  In so finding, the Judge failed to (i) pay due regard to the “undisputed evidence on the Pre-Contractual Context”, namely, that “as explained to P at the time of execution of the Agreement, D1 could (and was intended to) have effected the transfer of shares from existing shareholders, with D2 merely acting as its middleman to facilitate such transfer on its instructions”, and (ii) appreciate that, on a proper interpretation, Clause 2(5) of the Agreement provided for an agreed contractual allocation of liability between the Plaintiff and the 1st Defendant for the payment of stamp duty arising from a transfer of shares to the Plaintiff under the above scenario[22].
+
+(4)  The Judge failed to appreciate that Clause 2(9) of the Agreement, which referred to the listing of “the main body of Party A and its subsidiaries”, pointed to “D1 as Party A, as the 2nd Defendant (a natural person) cannot list and has no corporate ‘main body’ nor ‘subsidiaries’”[23].
+
+(5)  The Judge erred in failing to appreciate that Clause 3 of the Agreement, which provided that the Plaintiff was to pay the purchase price to the bank account of, or designated by, the 1st Defendant, pointed to “D1 as Party A and counterparty, and that D2 did not benefit under the Agreement, particularly taking into account the evidence that D2 never benefited from and was never personally enriched by such funds”[24].
+
+(6)  The Judge failed to give sufficient weight to the lack of any evidence that any shareholders’ agreement had ever been entered into by the shareholders of the 1st Defendant.  Thus, she erred in concluding that “Clauses 2(7), 2(8) and 9 of the Agreement made the Agreement a shareholders’ agreement between P as the new shareholder and the existing shareholders (via D2)”[25].
+
+(7)  The Judge failed to give sufficient weight to the fact that the Agreement had been drafted by lay people and could not be expected to contain the precision of language that might be seen in professional drafting.  This, it is said, “permeated also into her fixation on the use of the words ‘股東代表’ (whether in the body of the Agreement or in the signature block)”[26].
+
+43.  We are not persuaded that the above matters, whether considered singly or cumulatively, are sufficient to raise any triable issue on whether the 2nd Defendant was a party to the Agreement.
+
+44.  In respect of §42(1) above, the 2nd Defendant’s case or evidence that he entered into or signed the Agreement in his capacity as the chairman and representative of the 1st Defendant only is a bare assertion.  As earlier mentioned, we consider it to be clear that the 2nd Defendant entered into or signed the Agreement in a personal capacity as the representative of the shareholders of the 1st Defendant (including himself).  That the Agreement was prepared by the 1st Defendant’s administrative staff based on a template used by the 1st Defendant generally for subscription of shares was a matter which the Judge was well aware of.  According to the 2nd Defendant, he provided a draft subscription agreement to the Plaintiff for review following a meeting in February 2016, there were subsequent discussions on the Plaintiff’s intended investment and amendments to the draft agreement after the meeting, and the Agreement was eventually signed on 19 April 2016[27].  The 2nd Defendant has not produced the original draft agreement that was given to the Plaintiff following the meeting in February 2016, or explained how the description of Party A (which referred to him as being, inter alia, the shareholders’ representative) to the Agreement came about, or given any credible explanation as to why it was expressly provided in Clause 1(2) of the Agreement that the Plaintiff’s intended acquisition of the Shares was to be effected either by way of a transfer of shares from the existing shareholders of the 1st Defendant, or upon a capital increase, if Party A comprised the 1st Defendant only.  The former mode of performance seems to us to be wholly inconsistent with the 2nd Defendant’s case that the Agreement was a subscription agreement between the Plaintiff and the 1st Defendant only.  We do not see how the fact that the Agreement was based on a template used by the 1st Defendant for subscription of shares shows that the 2nd Defendant is not a party to the Agreement, when there is no dispute that there were subsequent amendments made to the draft agreement.
+
+45.  In respect of §42(2) above, the 1st Defendant’s company chop was placed above the printed words “香港衛視國際傳媒集有限公司 (蓋章)”, while 2nd Defendant’s signature was appended next to the printed words “股東代表: (簽字)”.  It so happened that the 1st Defendant’s company chop and the 2nd Defendant’s signature overlapped to an extent.  It is incorrect to say that the 2nd Defendant did not sign in any separate signature block.  More importantly, it is clear that he signed in a personal capacity as the representative of the shareholders of the 1st Defendant (including himself).  In our view, the manner of execution of the Agreement by the 2nd Defendant, far from indicating that Party A comprises the 1st Defendant alone, indicates that Party A includes both the 1st and 2nd Defendants.
+
+46.  In respect of §42(3) above, the Judge was correct to hold that a transfer of shares of the 1st Defendant to the Plaintiff could only be effected by the existing shareholders of the 1st Defendant, but not by the 1st Defendant.  In order to get around this obvious answer to the 2nd Defendant’s case, Mr Lok relies on §10(c)(iii) of the 2nd Defendant’s 1st Affirmation filed on 16 January 2020, where the 2nd Defendant alleged that at the meeting held at the office of the 1st Defendant’s subsidiary in Shenzhen in February 2016, he had explained to the Plaintiff, inter alia, “[t]hat the Company was now undergoing a second round investment and refinancing exercise, and therefore the Plaintiff’s shares would either be newly allotted shares by the Company, or from shares repurchased by the Company from existing shareholders (which the Company may arrange to be transferred from existing shareholders)”.  There was, however, no mention or suggestion of any share repurchase by the 1st Defendant in Clause 1(2) of the Agreement, which simply provided that the Shares to be acquired by the Plaintiff were either to be transferred from the existing shareholders or based on a capital increase (股份從原股東轉讓或增資). 
+
+47.  Mr Lok has also failed to explain how shares repurchased (or brought back) by the 1st Defendant could in law be transferred to the Plaintiff.  As correctly pointed out by Mr Lau, shares brought back by a company are regarded as cancelled (see s 269(1) of the Companies Ordinance, Cap 622).  Thus, any shares repurchased by the 1st Defendant from its shareholders would no longer be available for transfer to the Plaintiff.  Insofar as the 2nd Defendant is saying that the so-called “repurchase” of shares was notional only and that, instead of a genuine repurchase of shares, the intention was that the 1st Defendant would arrange for direct transfer of shares from the existing shareholders to the Plaintiff in place of an allotment of new shares to the Plaintiff, as pointed out by the Judge, (i) this convoluted arrangement was never specifically mentioned in the 2nd Defendant’s 1st Affirmation, and (ii) there would also be no business sense for the Plaintiff to agree to bear 50% of the stamp duty for such transfer of shares under Clause 2(5) of the Agreement when (on the 2nd Defendant’s argument) the whole exercise was carried out “to avoid the inconvenience [to the 1st Defendant] arising from the various administrative steps necessary for [the 1st Defendant] to repurchase its own shares from existing shareholders, and to then allot new shares to [the Plaintiff]”[28].
+
+48.  In all, the 2nd Defendant’s suggestion that one of the methods by which the 1st Defendant intended to satisfy its obligation to provide the Shares to the Plaintiff under the Agreement was through a “repurchase” of its own shares from the existing shareholders is not viable as a matter of law, and the suggestion that this method of sourcing the shares had been explained to the Plaintiff at the meeting in February 2016 is not credible or believable.  In any event, even if there was some discussion of this possibility at the meeting, it had clearly been overtaken by the time the parties entered into the written Agreement on 19 April 2016.
+
+49.  In respect of §42(4) above, while Clause 2(9) shows that Party A includes a corporate entity (ie the 1st Defendant), it does not indicate that the 2nd Defendant is excluded from being a constituent part of Party A.
+
+50.  In respect of §42(5) above, Clause 3 of the Agreement provides that the Plaintiff should pay the consideration for the acquisition of the Shares into a bank account of the 1st Defendant or a bank account designated by the 1st Defendant.  It seems to us that that the identity of the bank account used to receive the consideration is a matter between the 1st and 2nd Defendants, and has little relevance to the question of whether Party A includes the 2nd Defendant.
+
+51.  In respect of §42(6) above, we do not see how the fact that there was no existing shareholders’ agreement of the 1st Defendant as at the date of the Agreement can support the argument that Party A does not include the 2nd Defendant.  As for the contention that the Judge erred, at §§277-278 and 282 of the Judgment, in concluding that Clauses 2(7), 2(8) and 9 of the Agreement made it a shareholders’ agreement between the Plaintiff as a new shareholder and the existing shareholders (via the 2nd Defendant), what the Judge said was this –
+
+“[277] Clause 2(6)-(8) spelled out various rights that Party B would have as a shareholder in D1 upon acquisition of the Shares. In my view, these sub-clauses read as a whole did not point to only D1 or only D2 (as Mr Chain and Mr Khaw SC respectively contended), but rather they pointed towards both D1 as company (eg 乙方有權對香港衛視的經營情況進行瞭解和監督, 並按香港公司條例的規定享有股東的權利與義務 in Clause 2(6)) and D2 as shareholder (eg 乙方享有對新股東而言的原始股東的一切權利與義務 in Clause 2(7) and 乙方享有合作項目的股東優先權 in Clause 2(8)).
+
+[278] Mr Chain submitted that Clause 2(7) insofar as it could be read to refer to pre-existing rights/duties of shareholders must be read in context of (a) there being no shareholders’ agreement signed by the shareholders of D1 and (b) the relationship among such shareholders was governed merely by D1’s articles of association. But apart from such averments in paragraph 6(e) of the Draft D2 AD&C (see paragraph 90 above), there was no affirmation evidence to such effect in support of such contention. In any event, I am not persuaded Clause 2(7) referred to pre-existing rights/duties of shareholders. Rather, such sub-clause provided that if D1/HKTV were to subsequently 增資擴股或上市, then Party B who was the then new shareholder would at such future time have the same rights and obligations as those of the original shareholders. This dealt with Party B’s prospective and not pre-existing rights and obligations, and in a nutshell the agreement was that even though there might be future new shareholders if D1/HKTV were to subsequently 增資擴股或上市, P who was the then new shareholder would in that future scenario be treated as one of the original shareholders (with rights/ obligations as such) vis-à-vis the future new shareholders. This sub-clause pointed towards D2 being 股東代表 as member of Party A.
+
+[282]  Clause 9 provided that 本合同作為解釋香港衛視股東之間權利和義務的依據, 長期有效, 除非各方達成書面合同修改; 本合同在不與香港衛視章程明文衝突的情況下, 視為對香港衛視股東權利和義務的解釋並具有最高效力. In my view, the parties by such clause plainly intended to deal with matters as among shareholders (ie shareholders’ rights and obligations insofar as they did not conflict with the provisions of D1’s articles of association) and not vis-à-vis D1 as company.”
+
+In the above passages, the Judge explained why (i) she did not accept that Clauses 2(6) to (8) of the Agreement only related to the 1st Defendant (as contended by the 2nd Defendant) or 2nd Defendant (as contended by the 1st Defendant), (ii) she did not accept that Clause 2(7) referred to the “pre-existing rights/duties” of the shareholders of the 1st Defendant, as opposed to the Plaintiff’s prospective rights and obligations, and (iii) she considered that Clause 9 was intended to deal with matters among shareholders insofar as they did not conflict with the provisions of the 1st Defendant’s articles of association, and not vis-à-vis the 1st Defendant as company.  We do not see that the Judge made any finding or reached any conclusion that the Agreement constituted a shareholders’ agreement between the Plaintiff and the existing shareholders in the above passages of the Judgment, properly read.  On the contrary, the Judge said the following at §284 of the Judgment –
+
+“Mr Khaw SC submitted this showed that the Agreement was a shareholders’ agreement and/or transfer of shares agreement between the existing shareholders through D2 as their representative and P as the intended new shareholder (see paragraph 254(a) above). I disagree for such contention flied against the various provisions in the recital and other operative clauses discussed above that pointed towards D1 as a member of Party A. Further, Clause 9 did not state that 本合同 was a shareholders’ agreement or transfer of shares agreement; rather it referred to the Agreement as 依據 for considering rights and obligations among D1’s shareholders inter se, and 視為 highest authority for interpretation of such rights and obligations if there was no conflict with the articles of association.”
+
+52.  In respect of §42(7) above, the fact that the Agreement was drafted by lay people and thus could not be expected to contain the precision of language seen in a professionally drafted document is, in our view, a neutral factor.  There is no basis for Mr Lok’s contention that the Judge was fixated “on the use of the words ‘股東代表’ (whether in the body of the Agreement or in the signature block)”.  As clearly stated in the Judgment, the Judge reached her conclusion on the issue of the identity of Party A to the Agreement by reference to “its object and the whole of its terms (ie without dwelling too much upon individual words/clauses to the neglect of the contract as a whole), and giving the language used their natural and ordinary meaning in the context of its nature, quality and drafting”[29].
+
+53.  For the above reasons, Grounds 4 and 5 of D1’s NOA, and Grounds 1, 2 and 3 of D2’s NOA, are rejected.
+
+THE ELECTION/ESTOPPEL DEFENCE
+
+54.  The election/estoppel defence is relevant to Grounds 1 and 3 of D1’s NOA.  This defence is premised upon two underlying assumptions, neither of which is well-founded.
+
+55.  First, the election/estoppel defence is based on the assumption that the Agreement is a “tripartite” agreement between the Plaintiff, the 1st Defendant and the 2nd Defendant[30].  However, as held by the Judge, the Agreement should properly be characterized as a bilateral (or bipartite) agreement between Party A (comprising both the 1st and 2nd Defendants) and Party B (comprising the Plaintiff)[31]. We agree with the Judge’s view regarding the proper characterization of the Agreement.
+
+56.  Second, the election/estoppel defence is based on the assumption that, upon the true construction of the Agreement, it provided for the Plaintiff to make an election between two alternative modes of performance, namely (i) allotment of shares by the 1st Defendant, or (ii) transfer of shares by the existing shareholders. However, the Judge found, correctly in our view, that the “true bargain” or “nub of the deal” was for the Plaintiff to acquire ownership of and title to the Shares, whether by way of a transfer of existing shares or by way of allotment of new shares in the 1st Defendant, and there was no express or implied provision in the Agreement that required the Plaintiff to elect between transfer or allotment in respect of his acquisition of the Shares[32]. That being the true construction of the Agreement, there was no question of election by the Plaintiff.  It mattered not to the Plaintiff whether the Shares he bought would came from a transfer of shares by the existing shareholders, or an allotment of new shares by the 1st Defendant, or indeed a combination of both[33]. On the other hand, it was a matter between the 1st and 2nd Defendants how they discharged their obligation to provide the Shares to the Plaintiff under the Agreement.  These having been said, in whichever way they chose to perform their side of the bargain, the 1st and 2nd Defendants (as Party A) were under an obligation under Clause 2(2) of the Agreement to complete the relevant procedures for change of shareholding so that the Plaintiff’s rights as a new shareholder of the 1st Defendant would be assured or protected  (甲方有義務在乙方轉讓款到達指定帳戶的五個工作日內向香港政府相關機構報送有關法律手續，及時完成有關股權變更手續，以確保乙方的利益).
+
+57.  For the above reasons, the election/estoppel defence has no merits, and the Judge is correct to find that it does not give rise to any triable defence to the Plaintiff’s claim.
+
+THE ISSUE OF UNJUST ENRICHMENT
+
+58.  This issue is relevant to Grounds 2 and 3 of D1’s NOA.  Mr Fong argues that the 1st Defendant has an arguable defence to, or has raised some triable issue(s) in respect of, the Plaintiff’s claim for restitution based on unjust enrichment for the following reasons: (i) there was no total failure of consideration, and/or (ii) the 1st Defendant had changed its position by parting with the Sum received from the Plaintiff without knowledge of any wrongdoings on the part of the 1st Defendant, 2nd Defendant or any other party.
+
+59.  In respect of the issue of total failure of consideration, Mr Fong argues that upon the execution of the Undated Documents, the beneficial interest in the Shares passed from the 2nd Defendant to the Plaintiff, and the 2nd Defendant held the Shares on trust for the Plaintiff pending completion of the transaction (by registration).  Hence, there was no total failure of consideration.
+
+60.  We do not accept this argument.  As a matter of fact, neither the 1st Defendant, nor the 2nd Defendant, has given any relevant evidence concerning the circumstances in which the Undated Documents came into being.  The 2nd Defendant places no reliance at all on the Undated Documents to resist the Plaintiff’s claim, while the 1st Defendant originally relied on them in support of its capacity defence only[34]. The evidence before the court concerning the circumstances under which the Undated Documents were executed came from the Plaintiff.  According to the Plaintiff, despite his payment of the purchase consideration, no shares in the 1st Defendant were allotted or transferred to him.  After repeated demands, a meeting was held between the Plaintiff and the 2nd Defendant in around September 2017 when the Undated Documents were signed whereby, according to the 2nd Defendant, he would become the owner of 4,632,200 shares in the 1st Defendant[35].  However, notwithstanding the execution of the Undated Documents, the Plaintiff has never been registered as a member of the 1st Defendant.
+
+61.  As held by the Judge, the true bargain under the Agreement was for the Plaintiff to become the owner of, and acquire title, to the Shares, which as a matter of law entailed registration of the Plaintiff as a member in the 1st Defendant’s register of members[36].  The Judge applied the principle stated in Goff & Jones, The Law of Unjust Enrichment (9th Ed), at §13-36 that “[where] the parties have envisaged that title will be transferred in exchange for a payment, a failure to transfer title will typically be regarded as a total failure of the basis for retaining that payment”[37]. At §171 of the Judgment, the Judge went on as follows:
+
+“Goff & Jones, The Law of Unjust Enrichment, also reminded that ‘where a transfer may have more than one basis, …… total failure of any one of those bases is sufficient to give rise to a claim. The best examples are provided by situation where the basis for the transfer has been expressed in terms of the achievement of certain legal effects (such as the conferral of certain legal rights), and, although there has been physical performance, the envisaged legal consequences have not been realised’. This echoed what Recorder Eugene Fung SC said in Zief Incorporated, ie ‘consideration’ for the purpose of the law of unjust enrichment does not mean the quid pro quo for there to be a binding contract as it is used in the law of contract (see paragraph 169 above). Bearing in mind that the Shares (or any part thereof) had not been allotted or transferred to P (and consequently had not been registered in P’s name in D1’s share register), and given the nature of the ‘true bargain’ or the ‘nub of the deal’ under the Agreement and the legal effect/consequences thereof (see paragraphs 150-156 above), I am not persuaded D1’s contentions that P had beneficial interest in the shares in D1, which shares were the subject matter of the Transfer Documents (see paragraph 163 above), would be any arguably sufficient answer. As the Master explained in her oral reasons for the O14 Judgment (see paragraph 94 above), once D1’s contentions under the Performance Defence (ie the signing of the Transfer Documents equated to performance of the Agreement) were rejected (as I also did in paragraph 156 above), there would necessarily be an ‘unjust’ element in P’s payment of the Sum to Party A, so D1’s contentions would not have amounted to any arguable/triable answer to P’s claim for unjust enrichment based on total failure of consideration.”
+
+Mr Fong has not been able to advance any effective answer to this analysis of the Judge.
+
+62.  The 1st Defendant contends that neither the Plaintiff nor the 2nd Defendant lodged the Undated Documents with it for registration, and it was otherwise ready, willing and able to cause the intended transfer of the Shares to the Plaintiff to be registered.  We do not see how this contention can assist the 1st Defendant.  Under Clause 2(2) of the Agreement, Party A was under an express contractual obligation to complete the necessary procedures for the transfer of shares to the Plaintiff.  Plainly, this included the obligation to register the transfer in the 1st Defendant’s register of members.  Both the 1st and 2nd Defendants constituted Party A, and thus the 1st Defendant was contractually obliged to see to it that the transfer of shares was properly registered.  It has not been suggested that the 1st Defendant was unaware of the existence of the Undated Documents at about the time of their execution.  As a matter of fact, it was the 1st Defendant who first produced the Undated Documents in this action in support of its capacity defence.  Also, when the 1st Defendant was first demanded to repay the Sum, its position was not that it was not liable because the Plaintiff had elected to look to the 2nd Defendant for performance of the Agreement, or had obtained a transfer of the relevant shares from the 2nd Defendant.  The 1st Defendant’s position was that it was not a party to the Agreement and both liability and quantum were disputed, and thus it was not liable to repay the Sum.  We do not consider that it is a valid excuse for the 1st Defendant’s failure to register the transfer of shares under the Undated Documents by putting the blame on the Plaintiff (or the 2nd Defendant) for not lodging the documents with it for registration.
+
+63.  In respect of the defence of change of position, it is based on the assumption that Party A comprised the 2nd Defendant only and the 1st Defendant received the Sum on behalf of the 2nd Defendant (ie as his agent)[38].  However, if, as we consider it to be the true position, Party A comprised both the 1st and 2nd Defendants, the Plaintiff paid the Sum into the 1st Defendant’s bank account to discharge his payment obligation to Party A, and the 1st Defendant received the Sum in that capacity (and not as agent for the 2nd Defendant), under the Agreement.  It was a matter entirely between the 1st and 2nd Defendants as to how the Sum received from the Plaintiff was to be dealt with.  The 1st Defendant was also aware of the fact that Party A failed to perform its side of the bargain to the Plaintiff, namely, conferring title and ownership of the Shares on him, under the Agreement.  The defence of change of position has plainly no merits.
+
+64.  In passing, we should mention that even if the 1st Defendant succeeds in raising a triable defence to the Plaintiff’s claim for restitution based on unjust enrichment, the substantial outcome of this action would not be any different.  This is because the primary relief granted by the Master, and upheld by the Judge, was an award of damages against the 1st Defendant (and the 2nd Defendant) for breach of contract in the same amount of HK$11,904,754.  In our view, it is clear on the materials before the Court that the 1st Defendant was in breach of the Agreement.  Also, the 1st Defendant has not appealed against the assessment of damages made by the Master/Judge.
+
+THE ISSUE OF PARTIAL REPAYMENT
+
+65.  The issue of partial repayment, which is relevant to Grounds 6 and 7 of D1’s NOA, can be disposed of briefly. Quite apart from the fact that this defence is not even raised in either D1’s Defence or the Draft D1 AD, it is apparent, on the face of the “instant message” from the 2nd Defendant relied upon by the 1st Defendant, that the sum of RMB 3,000,000 was a loan lent by the 2nd Defendant’s friend to the Plaintiff (是的，去年他急用，我朋友借給他三百萬), and not any partial repayment of the consideration paid by the Plaintiff under the Agreement[39].  The loan note (借據) dated 30 May 2018 produced by the Plaintiff likewise described the payment of RMB 2,000,000[40] as money borrowed (借到) from one Mr Shao, and stated that the Plaintiff should repay (還款) the sum within 3 days after he had received the repurchase money of the shares in HKTV.  In our view, the defence of partial repayment has no substance.
+
+66.  In any event, the Judge’s decision to reject the New Evidence Summons involved an exercise of judicial discretion.  In making her decision, the Judge took into account the lateness of the application, the prejudice that would be suffered by the Plaintiff were the 1st Defendant to be allowed to rely on Wong’s Affirmation/Yang 3, the fact that the partial repayment defence was not raised even in the Draft D1 AD, and the lack of merits of the defence[41].  The Judge did not make any error of law or err in her approach, and her decision was one which was well open to her in light of the facts and circumstances of the present case.  In our view, there is no proper basis for this Court to interfere in the Judge’s exercise of discretion to reject the New Evidence Summons.
+
+67.  For the above reasons, Grounds 6 and 7 of D1’s NOA are rejected.  It follows that the Leave Summons should likewise be rejected.
+
+OTHER GROUNDS OF APPEAL
+
+68.  Ground 4 of D2’s NOA contends, without particulars, that “the Judge erred in law and in fact in failing to appreciate that the proposed amendments in the Draft D2 AD&C are necessary for disposing fairly of the cause or matter”.  This general contention does not give rise to any valid ground of appeal.  Insofar as this ground is dependent on the other grounds of appeal raised by the 2nd Defendant in D2’s NOA, it is rejected together with those other grounds of appeal.
+
+69.  Ground 8 of D1’s NOA contends that the Judge “erred in conducting a mini-trial on the factual issues and interpretation of the terms of the Agreement, which is inappropriate in a summary judgment application”.  The Judgment contains a detailed recitation of the procedural history of the proceedings below, the evidence filed by the parties, the submissions made by counsel, as well as the Judge’s analysis of the various issues raised by the parties.  The amount of details included in the Judgment is largely a reflection of the personal style of the Judge.  We do not accept the 1st Defendant’s contention that the Judge has conducted a mini-trial on the factual issues and interpretation of the terms of the Agreement.  We agree with the Judge that the 1st and 2nd Defendants have failed to raise any triable issues concerning the Plaintiff’s claims for damages for breach of the Agreement and/or unjust enrichment.  We have also come to the view that all other grounds of appeal raised by the 1st and 2nd Defendants have no merits.  Ground 8 of D1’s NOA has no substance, and falls to be rejected along with the rejection of the other grounds of appeal raised by the 1st Defendant.
+
+DISPOSITION
+
+70.  For the above reasons, D1’s NOA, D2’s NOA and the Leave Summons are dismissed with costs to the Plaintiff, to be taxed if not agreed.
+
+71.  Mr Lau submits that the Plaintiff’s costs in respect of D1’s NOA and Leave Summons should be taxed on an indemnity basis. In respect of the appeal, Mr Lau relies on the 1st Defendant’s failure to lodge and serve its skeleton submissions by 12 December 2023 in accordance with the timeframe laid down in Practice Direction 4.1 without any explanation for its delay, and its failure to prosecute the appeal expeditiously.  In respect of the Leave Summons, Mr Lau relies on the lateness of the application, as well as the 1st Defendant’s failure to comply with §8 of Practice Direction 4.1.  Whilst Mr Lau’s criticisms of the 1st Defendant’s conduct are valid, we do not consider the circumstances to be grave enough to warrant an order for taxation of the Plaintiff’s costs on an indemnity basis. Accordingly, we order that the Plaintiff’s costs, if not agreed, shall be taxed on a party and party basis.
+
+ 
+
+ 
+
+(Carlye Chu)
+Vice President	(Peter Cheung)
+Justice of Appeal	(Anderson Chow)
+Justice of Appeal
+  
+
+Mr Lau Ka Kin, instructed by Deacons, for the Plaintiff (Respondent)
+
+Mr Forest Fong, instructed by Benjamin Au & Billy Chan, Solicitors for the 1st Defendant (1st Appellant)
+
+Mr Michael Lok and Ms Sakinah Sat, instructed by C.L. Chow & Macksion Chan, for the 2nd Defendant (2nd Appellant)
+
+[1] See §§87-88 of the Judgment.
+
+[2] The de bene esse materials considered by the Judge included the Wong Affirmation, Yang 3, the Draft D1 AD, and the Draft D2 AD&C (see §38 of the Judgment).
+
+[3] §253 of the Judgment.
+
+[4] §255 of the Judgment.
+
+[5] §256 of the Judgment.
+
+[6] §§258-259 of the Judgment.
+
+[7] See §§260-287 of the Judgment.
+
+[8] See §12(a)-(c) of Skeleton Submissions of D1 dated 28 December 2023.
+
+[9] See §§12(d) and 14 of Skeleton Submissions of D1.
+
+[10] See §12(e) of Skeleton Submissions of D1.
+
+[11] In §5 of the 1st Defendant’s Notice of Appeal, the execution of the Undated Documents by the Plaintiff and the 2nd Defendant is referred to as “post-contractual conduct” which Mr Fong submits is relevant and admissible for the purpose of determining the identity of a contracting party.
+
+[12] See §§14-15 of Skeleton Submissions of D1.
+
+[13] See §203 of the Judgment.
+
+[14] See §§196-197, 204, 206-207, 209, and 212 of the Judgment.
+
+[15] See §208 of the Judgment.
+
+[16] See §209 of the Judgment.
+
+[17] See §298 of the Judgment.
+
+[18] See §§3(a)-(b) and 4 of the Skeleton Submissions of D2 dated 12 December 2023.
+
+[19] See §5(d) of the Skeleton Submissions of D2.
+
+[20] See §15 of the Skeleton Submissions of D2.
+
+[21] See §16 of the Skeleton Submissions of D2.
+
+[22] See §17 of the Skeleton Submissions of D2.
+
+[23] See §18 of the Skeleton Submissions of D2.
+
+[24] See §19 of the Skeleton Submissions of D2.
+
+[25] See §20 of the Skeleton Submissions of D2.
+
+[26] See §21 of the Skeleton Submissions of D2.
+
+[27] See §§10 and 11 of the 2nd Defendant’s 1st Affirmation filed on 16 January 2020.
+
+[28] See §§251(e) and 296 of the Judgment.
+
+[29] See §253 of the Judgment.
+
+[30] See §9a, b and c of the Draft D1 AD set out at §87 of the Judgment, and §§20 and 22 of the Skeleton Submissions of D1.
+
+[31] See §121 of the Judgment.
+
+[32] See §152 of the Judgment.
+
+[33] See §153 of the Judgment.
+
+[34] See §6 of the 2nd Affirmation of Yang Zhang filed on 9 January 2020.
+
+[35] See §22 of the 2nd Affirmation of the Plaintiff affirmed on 13 February 2020.
+
+[36] See §§152 and 170 of the Judgment.
+
+[37] See §170 of the Judgment.
+
+[38] See §17 of the Draft D1 AD.
+
+[39] See §77 of the Judgment.
+
+[40] The Plaintiff has also produced 2 other bank payment records each for RMB 500,000 dated 27 July 2018 and 31 July 2018 respectively.
+
+[41] See §§312-317 of the Judgment.
+
+  
+

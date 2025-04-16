@@ -1,0 +1,270 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 1 of 2019
+
+[2019] HKCFA 38
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO.1 OF 2019 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 94 OF 2016)
+
+____________________
+
+BETWEEN
+
+ 	COMMISSIONER OF INLAND REVENUE	Appellant
+ 	and	
+ 	POON CHO-MING, JOHN	Respondent
+____________________
+
+Before:	Mr Justice Ribeiro PJ, Mr Justice Fok PJ,
+Mr Justice Cheung PJ, Mr Justice Bokhary NPJ and Lord Neuberger of Abbotsbury NPJ
+Date of Hearing:	17 October 2019
+Date of Judgment:	14 November 2019
+____________________
+
+JUDGMENT
+
+____________________
+
+Mr Justice Ribeiro PJ:
+
+1.  I agree with the judgment of Mr Justice Bokhary NPJ.
+
+Mr Justice Fok PJ:
+
+2.  I agree with the judgment of Mr Justice Bokhary NPJ.
+
+Mr Justice Cheung PJ:
+
+3.  I agree with the judgment of Mr Justice Bokhary NPJ.
+
+Mr Justice Bokhary NPJ:
+
+4.  This is an appeal by the Commissioner of Inland Revenue (“the Commissioner”) from a decision of the Court of Appeal (Macrae VP, Yuen and Kwan JJA).  They granted him leave to appeal so that he may seek from us an unqualified affirmative answer to a question of law, he having failed to obtain such an answer from them.
+
+Question on leave to appeal was granted
+
+5.  In the order granting such leave, the question is formulated thus.  It begins by postulating the situation “[w]here a contract of employment is terminated by the employer, and the employer agrees at termination to pay to or confer on the employee (1) payment or benefit to eliminate or settle any threatened claim by the employee for, and the payment or benefit is paid or conferred in lieu of, a payment or benefit which if made had the contract of employment not been terminated would be chargeable to salaries tax; [and] (2) a benefit being the entitlement to exercise a right to acquire shares contingently conferred on the taxpayer as the holder of an office in or an employee of the employer”.  And it then asks: “is the payment or benefit, or any gain from the exercise of any such benefit, so paid or conferred at termination chargeable to salaries tax under the Inland Revenue Ordinance (Cap 112)?”
+
+6.  But are the facts really as postulated in that question?  Let us see.
+
+Sum D received and Share Option Gain made
+
+7.  Immediately prior to 20 July 2008 the respondent Mr John Poon (“the Taxpayer”) was in employment in Hong Kong as the Group Chief Financial Officer and an executive director of a company (“the Employer”) incorporated in Bermuda and listed on the Hong Kong Stock Exchange.  On that date the Taxpayer’s employment by the Employer was terminated pursuant to a “Separation Agreement” under which the Taxpayer received certain sums and benefits from the Employer in respect of all claims and rights of actions.
+
+8.  One of those sums was a sum of €500,000 paid under clause 4.1.4 of the Separation Agreement “in lieu of a discretionary bonus” for the financial year ended 30 June 2008.  This sum of €500,000 has hitherto been - and will in this judgment continue to be - called “Sum D”.
+
+9.  As to benefits, clause 5 of the Separation Agreement provided that, despite the cessation of his employment, the Taxpayer was entitled to exercise his stock options set out in Annexure 2 of that agreement.  He exercised those options by a number of tranches (which have hitherto been - and will in this judgment continue to be - identified by reference to letters of the alphabet).  On 19 August 2008 the Taxpayer subscribed for 360,000 shares in the Employer at $24.20 per share (under “Tranche A”) and 720,000 shares in the Employer at $42.58 per share (under “Tranches B and C”).  Those 1,080,000 shares were allotted to him on the following day.  Their closing prices on 19th and 20th of that month were $73.15 and $76.50 respectively. The notional gain thus derived has been - and will in this judgment continue to be - referred to as “the Share Option Gain”.
+
+Challenge to assessment to salaries tax of that sum and that gain
+
+10.  In the 2008/2009 year of assessment, the total on which the Taxpayer was assessed to salaries tax for 2008/2009 included (i) the €500,000 which forms Sum D and (ii) the Share Option Gain which gain was calculated at $43,250,400.  He appealed to the Board of Review against their inclusion.  The issues in that appeal were these.  (1) Is Sum D taxable? (2)  Is the Share Option Gain taxable?  (3) If the Share Option Gain is taxable, is the date for its computation 19 August 2008 when the share options were exercised (“the Exercise Date”) or 20 August 2008 when the shares were allotted (“the Allotment Date”)?
+
+11.  The Commissioner contended that both Sum D and the Share Option Gain are taxable and that computation should be as at the Allotment Date.  Disagreeing, the Taxpayer contended that neither Sum D nor the Share Option Gain is taxable but that if the latter is taxable then computation should be as at the Exercise Date.
+
+Succeeded on appeal to the Court of Appeal
+
+12.  Dismissing the Taxpayer’s appeal, the Board of Review, agreeing with the Commissioner, held that both Sum D and the Share Option Gain are taxable and that computation should be as at the Allotment Date.  The Taxpayer then appealed against the Board of Review’s decision.  Agreeing with that decision, the Court of First Instance (Anthony Chan J) dismissed the Taxpayer’s appeal, whereupon the Taxpayer appealed against the Court of First Instance’s judgment.  The Court of Appeal (by Yuen JA’s judgment with which the other members of the panel agreed) allowed the Taxpayer’s appeal, holding that neither Sum D nor the Share Option Gain is taxable.
+
+Relevant statutory provisions
+
+13.  Under section 8(1) of the Inland Revenue Ordinance (“the Ordinance”), “income arising in or derived from Hong Kong” from various specified sources is chargeable to salaries tax.  One of those sources, being the one specified in item (a) of that subsection, is “any office or employment of profit”. The expression “income from any office or employment” is defined by section 9 of the Ordinance to include various things including those specified in items (a) and (d) of that subsection.  Item (a) specifies “any wages, salary, leave pay, fee, commission, bonus, gratuity, perquisite, or allowance, whether derived from the employer or others”.  And item (d) specifies “any gain realized by the exercise of… a right to acquire shares or stock in a corporation obtained by a person as the holder of an office in or an employee of that… corporation”.
+
+Fuchs analysis
+
+14.  As relevant to what we have to decide in the present case, what we held in Fuchs v Commissioner of Inland Revenue (2011) 14 HKCFAR 74 is as follows.  Income chargeable to salaries tax under section 8(1) of the Ordinance is not confined to income earned in the course of employment.  It includes payments made in return for acting as or being an employee.  In other words, it includes rewards for past services.  It also includes payments made by way of inducement to enter into employment and provide future services.  If a payment, viewed as a matter of substance and not merely of form and without being blinded by some formulae which the parties may have used, is found to be derived from a taxpayer’s employment in the foregoing sense, it is chargeable to salaries tax. That analysis provides guidance on the operation of the relevant statutory words without supplanting or even modifying those words.  Payments which are for something else do not come within the analysis, and are not chargeable to salaries tax.  All of that appears at paragraphs 17 and 18 of the judgment which was given by Mr Justice Ribeiro PJ and agreed with by all the other members of the panel.
+
+Fuchs’s case itself
+
+15.  Before going further into the facts of the present case and applying the Fuchs analysis to them, let us examine how that analysis operated in the factual circumstances of Fuchs’s case itself.  Mr Fuchs entered the employ of a German bank in 1976.  After working for it in Germany and then in Singapore, he was seconded to its Hong Kong branch in July 2003.  On 18 November 2003 he entered into a contract of employment to work for the bank at that branch for a three-year period commencing on 1 January 2004 as its Managing Director and CEO Asia.  Within that three-year period, the following things happened. In November 2005 the bank was taken over by an Italian banking group.  As part of the re-organization resulting from the takeover, it was decided that Mr Fuchs’s employment with the bank would be terminated.  There were negotiations over the terms of such termination.  The terms agreed upon were set out in an agreement dated 17 October 2005.  It was provided in this agreement that Mr Fuchs’s employment was to end by 31 December 2005.  That date, it will be observed, would be the last day of the second year of the three-year period for which he was employed.  It was also agreed that the bank would pay him “a one-time compensation for the loss of his position due to the termination of the employment relationship for operational reasons” in the total sum of $18,276,667.
+
+16.  A breakdown of this total sum into three component sums was provided in the agreement.  The first component sum was of $3,120,000.  It was equivalent to Mr Fuchs’s salary for the remaining year of the three-year period for which he was employed.  The second component sum was of $6,240,000 expressed to represent “two annual salaries for the duration of service with” the bank.  The third component sum was of $8,916,667.  It was expressed to represent “the average amount of the bonuses paid in the 3 previous years”.
+
+17.  Mr Fuchs contended that none of the total sum was taxable.  The revenue accepted that the first component sum was not taxable.  But it maintained that the second and third component sums were chargeable to salaries tax.  Mr Fuchs’s employment contract provided for termination by either party without cause upon expiry of the initial term or termination at any time by the bank for any of a number of specified causes.  And it provided that if the bank terminated or purported to terminate Mr Fuchs’s employment on any other grounds, it would pay him as agreed compensation or liquidated damages two annual salaries and an average amount of the bonuses paid in the three previous years of his employment with the bank.  Those two annual salaries and that average sum are, it will be noticed, precisely what the second and third component sums respectively represent.  So the second and third component sums were paid in satisfaction of rights which had accrued to Mr Fuchs under his contract of employment.  That meant that they were derived from his employment and were chargeable to salaries tax. We so held.
+
+Both held by the Court of Appeal to be for something else
+
+18.  In the present case, on the issue of whether Sum D and the Taxpayer’s stock options entitlement under clause 5 of the Separation Agreement were for something within the Fuchs analysis or were for something else, the Court of Appeal held that both were for something else, so that neither Sum D nor the Share Option Gain was chargeable to salaries tax.  That conclusion is now attacked by the Commissioner while the Taxpayer defends it.
+
+A closer look at Sum D
+
+19.  Sum D consists of, it will be remembered, €500,000 said to be in lieu of a discretionary bonus for the financial year ended 30 June 2008.  Under the heading “The true nature of Sum D”, the Board of Review, found the following facts. The Taxpayer’s employment with the Employer was under a service agreement (“the Service Agreement”). Clause 4.3 of the Service Agreement provided that in addition to his salary the Taxpayer “will be eligible to participate in [an annual bonus scheme] on such terms and at such level as [the Employer’s board of directors] may from time to time determine”.  The financial year of the Employer was from 1 July to 30 June.  After the Employer’s auditors had prepared its audited accounts, the Employer’s executives would look at the audited results and make suggestions to a remuneration committee, probably in August each year.  This committee would then make a recommendation further up to the Employer’s board of directors.
+
+20.  In his witness statement, the Taxpayer, whom the Board of Review found to be a “truthful witness”, said that the figure of €500,000 which Sum D represented was “arbitrarily arrived at by negotiations”.  What negotiations were these?  The Board of Review said that “[o]ne may say” that what the Taxpayer received under the Separation Agreement was “consideration to make [him] go away quietly.”  The Taxpayer also described Sum D as “a figure, arbitrarily arrived at by negotiations, intended to eliminate any possible claim and lawsuit I might advance against the company for depriving me of the opportunity to be considered for discretionary bonus.”
+
+21.  Like the Taxpayer, his solicitor was found by the Board of Review to be a “truthful witness”.  From the evidence of these two witnesses the following picture emerges.  The Taxpayer had expected to succeed the then Chairman of the Employer’s board of directors.  In the afternoon on Friday 18 July 2008, the Chairman informed him that the Employer was preparing to terminate his employment immediately and remove him from the offices which he was holding.  He was taken aback.  His mood was combative.  And he refused to go quietly. Instead he proposed to challenge the plan to remove him from the board.  This was to have been done by bringing the matter before the shareholders, he believing that he would have had their support.  His remaining on the board, indeed even any delay in his departure from it, was contrary to the wishes of the Chairman and the majority of the other directors.  He also disputed the validity of the restraint of trade provisions in the Service Agreement.  And he was prepared to take his claims to court.  This would have attracted media interest and consequential market reaction. The relationship between the Taxpayer and the Employer was acrimonious.
+
+22.  There was a weekend of negotiations involving lawyers on both sides.  These negotiations resulted in the Separation Agreement which was entered into on Sunday 20 July 2008.
+
+23.  The Employer told the revenue: (i) that the Taxpayer was not awarded any bonus for the financial year ended 30 June 2008; (ii) that Sum D was an “entirely arbitrary amount mutually agreed by [the Taxpayer] and [the Chairman]”; and (iii) that it was paid “to eliminate any claim for unpaid bonus”.
+
+And a closer look at the stock options entitlement
+
+24.  That closer look at Sum D having been taken, it is now time to take a closer look at the other thing which the Taxpayer received under the Separation Agreement, namely the stock options entitlement thereunder.
+
+25.  In 2001 the Employer adopted a written share option scheme (“the Share Option Scheme”).  By three letters dated 26 November 2003, 27 November 2004 and 7 February 2007 respectively (which have hitherto been referred to as - and will in this judgment continue to be referred to as - “the Grant Letters”), the Employer offered the Taxpayer options to subscribe for its shares subject to the terms of that scheme.  He accepted those offers by signing those letters.
+
+26.  Under the 2003 Grant Letter, the subscription price was $24.20 per share.  A total of 1,800,000 shares was provided for.  And the vesting dates, each in respect of 360,000 shares, were 26 November of 2004, 2005, 2006, 2007 and 2008 respectively.  The 360,000 shares at $24.20 per share which the Taxpayer subscribed for and was allotted under Tranche A were those for which the vesting date under this Grant Letter was 26 November 2008.
+
+27.  We come now to the 2004 Grant Letter.  The subscription price thereunder was $42.58 per share.  A total of 1,800,000 shares was provided for. And the vesting dates, each in respect of 360,000 shares, were 27 November of 2005, 2006, 2007, 2008 and 2009 respectively.  Of the total of 720,000 shares at $42.58 per share which the Taxpayer subscribed for and was allotted under Tranches B and C, 360,000 shares were those for which the vesting date under this Grant Letter was 27 November 2008 and 360,000 shares were those for which the vesting date thereunder was 27 November 2009.
+
+28.  Finally we come to the 2007 Grant Letter.  The subscription price thereunder was $83.00 per share.  A total of 800,000 shares was provided for.  And the vesting dates, each in respect of 160,000 shares, were 7 February of 2008, 2009, 2010, 2011 and 2012 respectively.  By a tranche (which has hitherto been identified by - and will in this judgment continue to be identified by - the letter “D”), the Taxpayer subscribed for and was allotted 160,000 shares at $83.00 per share, they being the shares for which the vesting date under this Grant Letter was 7 February 2008.
+
+29.  As at the date of the Separation Agreement, the stock option entitlements in respect of the shares subscribed for and allotted under Tranches A, B and C had not yet vested, but the stock options entitlement to which Tranche D relates had vested.  Nothing under Tranche D forms any part of the Stock Option Gain.
+
+30.  The 2003 and 2004 Grant Letters each contained a term and condition by which this was said to the Taxpayer: “Unless otherwise agreed by the Board in its absolute discretion (and approved by independent non-executive directors of the Company) the Option will only be granted to you in your capacity as Group Chief Financial Officer in the Group (‘the Position’) and may lapse if you cease to be in the Position”.  As to the use there of the words “may” in the expression “may lapse”, Yuen JA made two observations.  The first is that the expression was used to “cater for the possibility of acceleration”.  And the second is that “[i]t was only as a result of the Employer’s decision to accelerate the vesting dates to the Separation Date that the Taxpayer was able to take the benefit of [Tranches A, B and C]”. Although nothing under Tranche D forms any part of the Stock Option Gain, it should be said for the sake of completeness that the 2007 Grant Letter contained a term and condition similar to the one in the 2003 and 2004 Grant Letters set out above.
+
+31.  There is a provision in the Grant Letters under which, in the event of the Taxpayer’s employment being terminated and salary being paid in lieu of notice, the Employer’s board may in its absolute discretion accelerate the vesting period by allowing the Taxpayer to exercise part or all of any unvested option that would have vested during the notice period.
+
+32.  In a written question posed on 21 January 2011 by the revenue to the Employer, two sets of fact were referred to.  The first was that “the vesting dates of the 1,080,000 share options set out in Annexure 2 of the Separation Agreement were accelerated from 26 November 2008, 27 November 2008 or 27 November 2009”.  And the second was that “[t]he first two dates were within 6 months from 20 July 2008 whilst the latter date was beyond 6 months from 20 July 2008 (6 months being the notice period prescribed in the Service Agreement)”.  The question then continued thus: “In this connection, advise with documentary support (if any): (a) Why the vesting dates of the share options were allowed to be accelerated. (b) The basis on which the 1,080,000 share options were determined. (c) The reasons and justifications for allowing [the Taxpayer] to exercise the share options within the accelerated vesting period.”
+
+33.  The Employer’s answers were dated 18 March 2011.  On point (a), the Employer’s answer was: “[The Employer] agreed to allow [the Taxpayer] to exercise the share options immediately on the signing of the Separation Agreement as part of the terms of the cessation of [his] employment.”  The Employer’s answer on point (b) was “The number of share options with accelerated vesting was an entirely arbitrary number.  No specific basis was adopted in determining such number.” And the Employer’s answer on point (c) was: “[The Employer] allowed an acceleration of vesting of the share options so with a view to settling all outstanding matters upon the cessation of [the Taxpayer’s] employment.”
+
+34.  From the Employer’s answers, it will be noticed that the settlement did not differentiate between, on the one hand, the dates which were within the notice period and, on the other hand, the date which was beyond that period.
+
+Nub of the Court of Appeal’s reasoning
+
+35.  The nub of the reasoning by which Yuen JA concluded that Sum D was not chargeable to salaries tax is to be found in paragraph 34.3 of her judgment.  At the end of that paragraph, she said that Sum D “was not income ‘from’ the Taxpayer’s employment, but a payment he obtained from the challenges he posed to the Employer which led to negotiations culminating in the Separation Agreement.  It was the antithesis to a reward for his services under the contract of employment.”
+
+36.  As for the nub of the reasoning by which Yuen JA concluded that the Stock Option Gain was not chargeable to salaries tax, it is to be found in paragraph 36 of her judgment.  In that paragraph she said this: “[T]he acceleration of vesting leading to the Stock Option Gain was also not a benefit given for the purpose of rewarding the Taxpayer for services past[,] present or future, but for another reason, viz. it was consideration for him to drop his proposed two-pronged course of action, and to agree to present a united front with the Employer (both internally and to the public) on the reasons for his departure (as set out in the annexes to the Separation Agreement), amongst other additional covenants set out in that Agreement.”
+
+Reason why the Court of Appeal granted leave to appeal to us
+
+37.  The Court of Appeal’s formal order granting the Commissioner leave to appeal to us says that such leave was granted on the ground that the question which he put forward is of great general or public importance.  But the reason which the Court of Appeal gave for granting such leave was only that it may be helpful for us to follow up our decision in Fuchs’s case (where the payment was made under the provisions of the contract of employment) with a decision on the facts of the present case (where the payment was not so made).
+
+Commissioner’s arguments
+
+38.  Let us now turn to the Commissioner’s arguments in the present appeal.  He begins by saying that one must focus on the words of the relevant statutory provisions and that judicial pronouncements do not replace, although they may clarify or explain, such words.  That is so.  But it does not provide any basis for criticizing the approach taken by the Court of Appeal.  They merely applied the Fuchs analysis which clarifies and explains, but in no way operates to replace, the relevant statutory words.
+
+39.  It will be remembered that clause 4.1.4 of the Separation Agreement speaks of Sum D as being paid “in lieu of a discretionary bonus”.  The Commissioner stresses the words “in lieu”.  But as has already been pointed out, questions of taxability or otherwise turn on substance rather than mere form, and in answering them the courts will not be blinded by some formulae which the parties may have used.  The Commissioner contends that Sum D was a reward for past services. But was it?
+
+40.  Under paragraph 4.1 of the Separation Agreement, the Employer agreed, without admission of liability, to pay the Taxpayer five sums as compensation in respect of possible claims of the type referred to as “Settlement and Waiver” in clause 6 of that agreement.  Those five sums are: (i) €500,000 in lieu of notice; (ii) $129,533 statutory long service pay; (iii) €30,137 in lieu of 11 days’ accrued but unused annual leave; (iv) Sum D; and (v) €1,500,000 in consideration of covenants given by the Taxpayer under clause 10 of that agreement, including a covenant not to challenge the restraint of trade clauses in the Service Agreement.  Clearly the first three sums were rewards for past services while the fifth sum was not a reward for past services.
+
+41.  As has already been mentioned, the Board of Review found as a fact that Sum D was part of what was paid to the Taxpayer to make him “go away quietly”.  That is clearly so. On the evidence which the Board of Review found to be truthful, the Chairman and the other directors wanted the Taxpayer to leave the board without delay.  Unless he could be persuaded to leave, he might have been able not merely to delay his departure from the board but even to stave it off altogether.  And in this connection, even his efforts, let alone his success, would have generated publicity and market reaction of the kind which the Employer wished to avoid.  So would have the claims which he was prepared to take to court.
+
+42.  The Commissioner contends that in paying the Taxpayer Sum D the Employer was, rather than denying his right to be considered for a discretionary bonus and the efforts that earned him that right, recognising them.  This contention runs counter to the established facts which were, as has just been noted, that Sum D was part of what the Employer paid to make the Taxpayer go quietly.  And, having been so paid, he did go quietly.  There is simply no evidence, let alone any finding, that Sum D was paid to reward the Taxpayer for past services.  On the established facts, Sum D was indeed, as Yuen JA said, “the antithesis to a reward”.
+
+43.  Now for the taxability or otherwise of the Share Option Gain.
+
+44.  The Commissioner contends that the Share Option Gain is “a gain realized by the exercise of… a right to acquire shares or stock in a corporation obtained by a person as the holder of an office in or as an employee of that… corporation” within the meaning of item (d) of section 9(1) of the Inland Revenue Ordinance.
+
+45.  With a view to making good that contention, the Commissioner has put forward the following arguments.  The answer to the question of whether or not the Share Option Gain is taxable cannot be affected by the fact that it was only because of the acceleration provided for by clause 5 of the Separation Agreement that the Taxpayer was able to exercise the right to acquire the shares.  It is clear that the right to acquire shares was obtained by the Taxpayer as an employee.  The contingency i.e. the vesting only concerns the exercise, but not the obtaining, of the right to acquire shares as an employee.  The acceleration provided by clause 5 of the Separation Agreement did not grant the Taxpayer any right to acquire shares.  It only provided that he might exercise the right to acquire shares which he had already obtained as an employee.  The only benefit it granted to him was acceleration.  It did not grant him any right to acquire shares.
+
+46.  It is apparent from clause 1.1 of the Share Option Scheme, the Commissioner says, that the analysis contained in this argument of his is how the parties objectively understood the options exercised under Tranches A, B and C (“the Relevant Options”) i.e. that the vesting only defined when the Relevant Options could be exercised.
+
+47.  The Commissioner points to these definitions contained in clause 1.1 of the Share Option Scheme. “Option - a right to subscribe for Shares granted pursuant to this Scheme, including both Vested Option and Unvested Option”.  “Unvested Option - an Option that is not exerceisable [sic] pursuant to the terms of the 2001 Share Option Scheme and the terms on which the Option is granted”.  “Vested Option - an Option that is exerciseable [sic] pursuant to the terms of the 2001 Share Option Scheme and the terms on which the Option is granted”.  “Vesting Period - such period of time, as may be determined by the Board in its absolute discretion and set out in the terms of the grant of the Option, during which the right to exercise the Option in respect of all or some of the Shares to which the Option relates will vest subject to and in accordance with the terms and conditions of the grant of the Option.”
+
+48.  Reverting to the Commissioner’s arguments, they continue as follows.  It is immaterial that the Relevant Options were contingent at the time when they were granted in the sense that the Taxpayer’s right to exercise them was contingent on vesting.  The language of section 9(1)(d) of the Inland Revenue Ordinance does not preclude it from applying to contingent rights to acquire shares.  There is no reason why it should be so precluded, since its purpose is to identify whether a gain has the requisite connection to the employee’s employment.
+
+49.  The Commissioner’s arguments then proceed to pose the example of an option to purchase shares say five years later (i.e. contingent on the satisfaction of the five-year period), and continues thus.  There can be no doubt that when that period elapses, the employee does not receive a new option.  He merely exercises the option which he had obtained five years before as an employee.  Likewise, on a purposive interpretation of section 9(1)(d), if one were to ask what should be the relevant event to analyse in order to decide whether or not the option has the requisite connection to the employee’s employment, the clear answer is that one should look at the grant of the option (with the contingency), and not at the satisfaction of the contingency.  The only difference between the present case (at least in regard to Tranches A and B) and that example is the complexities of the contingencies, but the nature of the contingencies should not make a difference to the legislation’s application. Further, no difference arises from a variation of the contingencies (as in regard to Tranche C).
+
+50.  Finally, the Commissioner’s arguments proceed to deal with what he says the position would nevertheless be if, contrary to what he has been arguing up to this point, the Court of Appeal were correct to conclude that the Taxpayer obtained the right to acquire shares only upon acceleration of the vesting of the Relevant Options. Even then, the Commissioner argues, the Share Option Gain would still have been realised from the exercise of a right to acquire shares obtained by the Taxpayer as an employee.  The Commissioner argues that given that the Taxpayer obtained a right to acquire shares, from the exercise of which he made the Share Option Gain, the only question would be whether he obtained that right as an employee even though he only obtained the same under the Separation Agreement.  And the Commissioner argues that the answer would be in the affirmative for the following reasons.
+
+51.  That the stated objective for which the Employer accelerated the Relevant Options was the settlement of all outstanding matters upon the cessation of the Taxpayer’s employment is not determinative.  It is necessary to look further to see why the Taxpayer obtained such a right under the Separation Agreement, and to decide whether he obtained it as an employee or otherwise.
+
+52.  It was to address the various actions which the Taxpayer threatened that the Employer agreed to, among other things, let him keep and benefit from the Unvested Option which the Taxpayer obtained as an employee.  Even on the assumption that the right to acquire shares was only obtained under the Separation Agreement, the Employer did not grant the right from nowhere.  All it did was to complete the final step (namely vesting) of a process which the Taxpayer was allowed to access as an employee.  Thus the obtaining of the right to acquire shares was as an employee, and the Share Option Gain falls within section 9(1)(d).
+
+53.  The present case cannot be treated in the same way as a situation in which the Taxpayer never had even a contingent entitlement to any share options, and had managed to negotiate the share options purely upon termination, out of nothing.  It was only because he had already been granted something, namely the Unvested Option, as an employee that the Taxpayer was in a position to demand the acceleration of the Relevant Options as part of the Separation Agreement.  Such acceleration could therefore only have been, and certainly was sufficiently substantially, “from” the Taxpayer’s employment and received by him as an employee.  He was able to demand and be given something vis-à-vis the Relevant Options because he was granted the Relevant Options as an employee for the employment services which he had given or was to give.  This is confirmed by the evidence from the Taxpayer’s solicitor who said that in exchange for the Taxpayer going quietly and agreeing to various ongoing obligations, such as non-disparagement and not challenging the restraint of trade clauses, the Employer was prepared to “make concessions on matters such as compensating [the Taxpayer] for ... the loss of share options that had not vested”. So the right to acquire shares, even if obtained only by the Taxpayer under the Separation Agreement, was obtained by him as an employee.
+
+54.  Pausing in this recital of the Commissioner’s arguments, it is to be noted that the Taxpayer’s solicitor did indeed say what he says that she said. But her use of the expression “such as” is to be noticed.  So is the fact that clause 6 of the Separation Agreement referred to full and final settlement of “all claims and rights of action (whether under statute, common law or otherwise)”.  As to claims and rights of action under statute, there was the possibility of a remedy available to the Taxpayer under the Employment Ordinance (Cap 57) if there was no valid reason for his termination.
+
+55.  Pointing to what Yuen JA said in paragraph 32.2 of her judgment, the Commissioner says that the reliance which the Court of Appeal placed on the decision of the House of Lords in Hunter v Dewhurst (1932) 16 TC 605 was “misplaced”.  But what Yuen JA said in paragraph 32.2 of her judgment is no more or less than this: “Indeed the present case is similar to the payment in Hunter v Dewhurst where the sum in question was paid for the [employer] ‘to obtain a release from its contingent liability’.  That sum was held by the House of Lords to be not chargeable to salaries tax.”  There is no inaccuracy in that statement of what happened in Hunter v Dewhurst.  And Yuen JA’s view that what the Taxpayer received is similar to the payment to Commander Dewhurst and likewise not taxable was reached by applying the Fuchs analysis to her appreciation of the facts of the present case.  It was not reached on any misapplication of Hunter v Dewhurst.
+
+56.  From what Lord Woolf said in Mairs v Haughey [1994] 1 AC 303, the Commissioner seeks to extract what he calls a “substitution test”.  What does the Commissioner say is that “test”?  He says (taking it from how he puts it in paragraph 56 of his written case) that it is that “[t]he payment of a sum in true substitution of another is an acknowledgment and takes the place of, and has the same nature as, the latter.”  The use of the word “true” to qualify the word “substitution” is appropriate and telling.  It alerts one to the necessity of asking in each case what is and what is not truly a substitution.  In any event, it is necessary to look at this statement by Lord Woolf (at p 319D): “It is inevitable that if a payment is made in substitution for a payment which might, subject to a contingency, have been payable that the nature of the payment which is made in lieu will be affected by the nature of the payment which might otherwise have been made.  There will usually be no legitimate reason for treating the two payments in a different way.”  So even if there is such a substitution, there may be a legitimate reason for treating the two payments differently.
+
+Both were considered in Fuchs’s case
+
+57.  The Commissioner points to Chadwick LJ’s remark in EMI Group Electronics Ltd v Coldicott [2000] 1 WLR 540 at p 556B that the decision in Hunter v Dewhurst was, as it seemed to him, difficult to reconcile with the substitution test.  As to that, it is to be mentioned that the EMI case was looked at by us in Fuchs’s case. More importantly, it is to be stressed that both Hunter v Dewhurst and Mairs v Haughey were considered in Fuchs’s case, and we did not regard them to be inconsistent with each other.  As was noted in Fuchs’s case at paragraph 16(d), Lord Woolf stressed in Mairs v Haughey that each case ultimately involves applying the statutory language to the facts.  What actually happened in Mairs v Haughey was this.  Upon the privatisation of a shipyard, the taxpayer received a payment which had two elements.  One element was compensation for abrogation of his rights under a pre-existing redundancy scheme. Such compensation was held to be not taxable.  The other element was compensation for the taxpayer accepting a new contract with the privatised owners.  Such compensation was held to be taxable.
+
+Sum D was not from the Taxpayer’s employment
+
+58.  Was Sum D from the Taxpayer’s employment?  The question is to be answered by looking at substance.  As a matter of form, it was described in clause 4.1.4 of the Separation Agreement as being “in lieu of a discretionary bonus” for the financial year ended 30 June 2008.  But was it, as a matter of substance, made in substitution, in the Mairs v Haughey sense, for a discretionary bonus which the Taxpayer might have received under the Service Agreement?  The Commissioner says that Sum D could not be called a “discretionary bonus” because the bonus decision process had not been completed.  Actually that process had not even begun.
+
+59.  And of course the process was directed to matters of substance.  In that regard, Yuen JA said this (in paragraph 30 of her judgment): “There was no evidence that the Group’s results for that financial year had been considered for the purpose of deciding whether a bonus should be awarded to any of its staff. Nor was there evidence that the Taxpayer’s performance during that financial year had been considered for the purpose of deciding whether a bonus should be awarded to him. There was no evidence that the quantum of Sum D was decided even on a ‘guesstimate’ of what he might have received if a bonus were to be awarded to him.” (Emphasis in the original.)
+
+60.  Where bonuses are concerned, an employer’s results and an employee’s performance are both matters of substance.  As a matter of substance, Sum D, which was in an arbitrary amount, was of a wholly different nature from any discretionary bonus under the Service Agreement.  There is a legitimate reason, indeed a compelling reason, for treating the two differently.
+
+61.  There is no - nor could there possibly be any - suggestion that Sum D was paid to induce the Taxpayer to provide future services.  Was it paid to reward him for past services?  Plainly not. It was paid for something else, namely to make him go away quietly.  It was, as Yuen JA said, the “antithesis” to a reward for past services.
+
+62.  All of the Commissioner’s arguments on Sum D were presented with skill, but none of them are capable of prevailing. As the Court of Appeal correctly held, Sum D is not taxable.
+
+Nor was the Share Option Gain
+
+63.  What about the Share Option Gain?  There is no - nor could there possibly be any - suggestion that the acceleration of vesting leading to the Share Option Gain was given to induce the Taxpayer to provide future services.  The issue is whether that acceleration was given to reward him for past services or was given for something else.
+
+64.  Lord Atkin said in Hunter v Dewhurst at p 645 that “a sum of money paid to obtain a release from a contingent liability under a contract of employment cannot be said to be received ‘under’ the contract of employment, is not remuneration for services rendered or to be rendered under the contract of employment, and is not received ‘from’ the contract of employment.”  The Commissioner is not unaware of the difficulty in which that statement places him in the present case, and has questioned its correctness.  But in doing so he is confronted by an obstacle consisting of that statement having been cited without question in Fuchs’s case at paragraph 21(a).
+
+65.  In any event, the Commissioner would still be in difficulty even if one were to say the opposite of what Lord Atkin said, saying instead that a sum of money paid to obtain a release from a contingent liability under a contract of employment can be said to be received “under” the contract of employment and is received “from” the contract of employment. This is because the Employer was not under any liability to accelerate any vesting and the Taxpayer had no right to any acceleration of vesting.
+
+66.  Here it is worth saying a word about Commissioner of Inland Revenue v Elliott [2007] 1 HKLRD 297.  That case involved an incentive compensation plan (“the ICP”) consisting of units which would yield an income stream.  Mr Elliott’s remuneration package included the immediate allotment to him of 5 million units with a promise that further units would be credited to him depending on the progress of certain projects.  Less than five months into his employment, Mr Elliott was asked to resign.  A termination agreement was entered into. Under that agreement, Mr Elloitt was paid US$ 11 million in consideration of the cancellation of his participation in the ICP scheme. The revenue accepted that such part of this sum as was attributable to the abrogation of Mr Elliott’s contingent right to be credited with ICP units in the future was not taxable.  But the revenue maintained that the existing units had been allotted to Mr Elliott as an inducement to take up the employment so that such part of the US$ 11 million as was paid in substitution for the income that he was entitled to under the existing units was income from his employment.  That was accepted by the Board of Review and the Court of First Instance.  But it was rejected by the Court of Appeal on the basis that on a correct understanding of the ICP scheme, the rights under the existing units were contingent on Mr Elliott remaining in the employment for at least five years and were not enforceable after cessation of the employment.
+
+67.  In Fuchs’s case we did not question the correctness of the Court of Appeal’s decision in Elliott’s case.  We distinguished it on the basis that while Mr Elliott could not have sued for those rights under his contract of service, what Mr Fuchs received were sums for which he could have sued under his contract of service. In that regard, the Taxpayer’s position was like Mr Elliott’s rather than Mr Fuchs.
+
+68.  The following approach was adopted in some of the cases.  Sometimes what an employee received was in satisfaction of his rights under his contract of service and is therefore taxable.  At other times what an employee received was in abrogation of his rights under his contract of service and is therefore not taxable.  Elliott’s case provides an example of payments falling on the non-taxability side of the line. Fuchs’s case, on the other hand, provides an example of payments falling on the taxability side of the line.  The view which I take of Elliott’s case now is, I would underline, exactly the same as the view taken of it in Fuchs’s case.
+
+69.  Hunter v Dewhurst involved situations on either side of the line.  The payment to Commander Dewhurst was made to obtain a release from a contingent liability to him under his contract of employment.  So it was not “from” that contract, and was not taxable.  The payments to two other directors of the same company were in accordance with its articles of compensation for loss of office.  They were not made to abrogate any rights under their contracts of employment. So they were from their contracts of employment, and were taxable.
+
+70.  Mairs v Haughey, too, included, as we have already seen, sums on either side of the line.
+
+71.  Henley v Murray (1950) 31 TC 351 and Dale v de Soissons [1950] 2 All ER 460 are cases decided by the Court of Appeal in England at about the same time.  They illustrate payments falling on different sides of the line.  The payment in Henley v Murray fell on the non-taxability side of the line.  That was because it was not provided for in the contract of service, and was consideration paid to the employee for the total abrogation of that contract.  On the other hand, the payment in Dale v de Soissons fell on the taxability side of the line.  That was because the employee surrendered no rights, and got exactly what he was entitled to under his contract of service.
+
+72.  In Comptroller-General of Inland Revenue v Knight [1973] AC 428, which was decided by the Privy Council, the payment to the employee who was made redundant fell on the non-taxability side of the line because it was made to compensate him for the abrogation of his contract of service.
+
+73.  In addition to the statements of principle cited above, it is of course possible to cite other statements to similar effect.  But the statements already cited provide sufficient understanding of the principles to be applied.  Likewise, it is of course possible to give further examples of payments falling on either side of the taxability/non-taxability line.  But the examples already given provide sufficient illustration of the correct approach.
+
+74.  Coming back now to the circumstances of the present case, it is to be borne in mind that the acceleration in question was not acceleration of the time when the Taxpayer would receive something which he would receive, albeit later, even without any acceleration.  It was acceleration without which he would never have received that thing at all.  On the evidence and the facts found, it is plain that the acceleration of vesting leading to the Share Option Gain was not given to reward the Taxpayer for past services.  It was, on the evidence and the facts found, plainly given for something else, being part of what was given to make him go away quietly.  In so far as it may be appropriate to approach the present case by reference to abrogation, it is to be observed that the Separation Agreement abrogated whatever rights the Taxpayer may have had under his contract of employment and that he acquiesced in such abrogation in return for what was given to him to make him go away quietly.  That applies equally to Sum D and to what led to the Stock Option Gain.
+
+75.  Counsel for the Commissioner said that making the Taxpayer go away quietly was merely the Employer’s motive for giving the Taxpayer Sum D and for giving him what led to the Stock Option Gain. “Purpose” rather than “motive” is the appropriate word here. In any event, whatever word one uses, it would go to the question under the Fuchs analysis of whether those things were given to the Taxpayer to reward him for past services or for something else. The Court of Appeal were entitled to conclude that they were given for something else. That conclusion -  as we have seen and is worth repeating - does not rest only on that matter of purpose but rests also on the nature of each of those two things.
+
+76.  Like his arguments on Sum D, the Commissioner’s arguments on the Stock Option Gain were presented with skill but are incapable of prevailing.  Just as the Court of Appeal were correct to hold that Sum D is not taxable, so were they correct to hold that the Stock Option Gain is not taxable. 
+
+A last minute suggestion
+
+77.  At the very end of the hearing before us, when counsel for the Commissioner was addressing us in reply, it was suggested on the Commissioner’s behalf that the Court of Appeal had not identified any error of law on the part of the Board of Review or the Court of First Instance such as would justify intervention by the Court of Appeal. That was the first time that any such suggestion was raised. No such suggestion is covered by the basis on which the Commissioner obtained leave to appeal to us. Nor does any suggestion appear in the Commissioner’s written case.
+
+78.  In any event, quite simply, the Court of Appeal’s decision proceeds on an approach to the law different from that applied by the Board of Review and the Court of First Instance.  The Court of Appeal was entitled to entertain the appeal. They themselves proceeded on a correct appreciation of the law.  And there is nothing to warrant interference by us with the result which they reached by applying the law to the facts.
+
+Answer to question on which leave to appeal was granted
+
+79.  As for the question on which leave to appeal to us was granted to the Commissioner by the Court of Appeal, the answer to it cannot be more than as follows.  Whether such a payment or the gain derived from such a benefit is chargeable to salaries tax depends on whether it is caught by the words of section 8(1) of the Inland Revenue Ordinance.  Guidance on how to decide that is to be found in Fuchs’s case.  That case illustrates an instance of chargeability. The present case illustrates an instance of non-chargeability.
+
+80.  That answer satisfies the reason which the Court of Appeal gave for granting the Commissioner leave to appeal to us. As noted above, the Court of Appeal said that they granted such leave because they took the view that it may be helpful for us to follow up our decision in Fuchs’s case (where the payment was paid under the provisions of the contract) with a decision on the facts of the present case (where the payment was not so paid).
+
+Result
+
+81.  For the foregoing reasons, with an expression of thanks to counsel on both sides, I would dismiss this appeal with an order nisi awarding costs, to be taxed if not agreed, here and below to the Taxpayer, such order to become absolute unless within 21 days of today the Commissioner lodges with the Court and serves on the Taxpayer written submissions seeking some other order as to costs, the Taxpayer to file written submissions in opposition within 21 days of such service (if any).
+
+Lord Neuberger of Abbotsbury NPJ:
+
+82.  I agree with the judgment of Mr Justice Bokhary NPJ.
+
+Mr Justice Ribeiro PJ:
+
+83.  The Court unanimously dismisses the appeal and makes orders referred to by Mr Justice Bokhary NPJ at paragraph 81 above.
+
+ 
+
+ 
+
+(R A V Ribeiro)	(Joseph Fok)	(Andrew Cheung)
+Permanent Judge	Permanent Judge	Permanent Judge
+  
+
+  
+
+(Kemal Bokhary)	(Lord Neuberger of Abbotsbury)
+Non-Permanent Judge	Non-Permanent Judge
+  
+
+Mr Stewart Wong SC and Mr Julian Lam, instructed by the Department of Justice, for the Appellant
+
+Mr Adrian Huggins SC, instructed by King & Wood Mallesons, for the Respondent
+
+ 

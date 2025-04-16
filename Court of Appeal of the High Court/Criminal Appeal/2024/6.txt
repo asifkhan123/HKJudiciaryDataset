@@ -1,0 +1,273 @@
+CACC 31 & 32/2024, [2025] HKCA 275
+
+On Appeal From [2024] HKDC 95
+
+(Heard together)
+
+IN THE HIGH COURT OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COURT OF APPEAL
+
+CRIMINAL APPEAL NOS 31 & 32 OF 2024
+
+(ON APPEAL FROM DCCC NOS 1079 OF 2022 & 709 OF 2023
+(CONSOLIDATED) AND DCCC NOS 21 & 497 OF 2023
+(CONSOLIDATED))
+
+________________________
+
+BETWEEN
+
+ 	HKSAR	Respondent
+ 	and	 
+ 	Wong Ming Chun (黃明駿)	Appellant
+________________________
+
+Before:	Hon Macrae Acting CJHC and Zervos JA in Court
+Date of Hearing:	7 March 2025
+Date of Judgment:	7 March 2025
+Date of Reasons for Judgment:	14 March 2025
+_______________________________________
+
+REASONS FOR JUDGMENT
+
+_______________________________________
+
+Hon Macrae Acting CJHC (giving the Reasons for Judgment of the Court):
+
+1.  On 19 December 2023, the appellant pleaded guilty to nine charges in two separate cases, which were heard together before Deputy Judge Colin Wong (“the judge”) in the District Court, namely: two charges of theft relating to an ATM card and an identity card[1] (Charges 1 and 2 respectively), one charge of using an identity card relating to another person[2] (Charge 3), three charges of conspiracy to defraud[3] (Charges 4, 5 and 7), and one charge of handling stolen goods[4] (Charge 6) in DCCC 1079/2022 & 709/2023 (“Case 1”); and one charge of handling stolen goods (Charge 4) and one charge of conspiracy to defraud (Charge 5) in DCCC 21 & 497/2023 (“Case 2”).
+
+2.  On 15 January 2024, he was sentenced to an overall term of 5 years’ imprisonment.
+
+3.  By way of two Form XI Notices filed on 7 February 2024, the appellant applied for leave to appeal against sentence, which was granted by the Single Judge on 11 September 2024[5]. An appeal aid certificate was also granted to the appellant, lest assistance from the Bar Free Legal Service Scheme was not extended to cover the substantive appeal.
+
+4.  On 7 March, after hearing from the parties, we dismissed the appeal and indicated that we would hand down the reasons for our decision in due course. These are our reasons.
+
+Facts and sentence
+
+5.  The relevant factual and sentencing background to the two cases have been set out at length in the leave judgment[6]. Since neither the charges nor the two sets of proceedings are in any chronological order, which has risked wholly unnecessary confusion to anyone approaching these papers for the first time, we shall substantially adopt the same factual framework at [7]-[25] infra, save that the applicant has now become the appellant.
+
+The facts admitted
+
+6.  In pleading guilty to all of the charges, the appellant admitted two sets of facts detailing the background and evidence relevant to each case. The facts which constituted the individual charges arose chronologically in this way.
+
+(Charge 5 in Case 2)
+
+7.  On 3 March 2022, a Mr Chan (“Chan”) posted a handbag for sale on Facebook for HK$36,500. On 4 March 2022, Chan was contacted by a purported buyer and subsequently met with the appellant, who claimed to be the purported buyer’s boyfriend. Chan then checked through his online banking application and noted that two cheques, both in the sum of HK$36,500, had been deposited into his account. The appellant then told Chan that an extra HK$36,500 had been mistakenly deposited into his account and asked for reimbursement in cash. However, Chan was unable to make any reimbursement because of inadequate funds in his account at the time. The appellant hurriedly left the scene with the handbag. The two cheques were later dishonoured.
+
+(Charge 4 in Case 2)
+
+8.  On 14 March 2022, a Mr Luk (“Luk”) posted a watch (“the 3rd watch”) for sale on Facebook for HK$207,000. On 28 March 2022, a purported buyer contacted Luk to arrange a purchase. When Luk met with an unknown man, he checked through his online banking application that two cheque deposits, for a total amount of HK$207,000, had been made to his account and he duly handed over the 3rd watch to the man. The appellant subsequently pawned the 3rd watch at Lee Tai Pawnshop (“the pawnshop”) for HK$150,000. Later, the two cheques were dishonoured.
+
+(Charge 4 in Case 1)
+
+9.  At the end of March 2022, a Mr Wong (“Wong”) posted a Rolex watch (“the 1st watch”) for sale on Facebook for HK$250,500. On 29 March 2022, Wong was contacted by a Facebook user named Chi Lung Lo to arrange the purchase. Upon the purported buyer’s request, Wong provided his mother’s bank account to receive payment. On 31 March 2022, Wong met with the appellant who claimed to have transferred HK$250,500 to his mother’s account by showing a screen capture of the bank transfer. Wong duly passed the 1st watch to the appellant.
+
+(Charge 5 in Case 1)
+
+10.  Later on 31 March 2022, Wong received a WhatsApp message from the buyer claiming that an extra $250,500 had been transferred to his mother’s account and requesting that reimbursement be made to a recipient named Tai Ka Kui (with a telephone number and bank account held by another person named Chung Fuk Chow). On 1 April 2022, the two cheques deposited into the mother’s bank account were dishonoured. They had been issued in the name of ‘Café 6 Limited’, which had earlier reported the loss of its cheque books in a burglary in June 2020.
+
+(Charge 6 in Case 1)
+
+11.  On 31 March 2022, the appellant visited the pawnshop with two unknown men, during which the appellant waited outside while one of the men pawned the 1st watch for HK$160,000 using an identity card in the name of Ho Kam Wo. The identity card had been reported lost in December 2020. On 2 April 2022, another unknown man redeemed the 1st watch from the pawnshop; accordingly, it was never recovered by the police.
+
+(Charge 7 in Case 1)
+
+12.  On 6 April 2022, a Mr Ho (“Ho”) posted a Rolex watch (with its case, certificate and receipt) (“the 2nd watch”) for sale on Facebook. A purported buyer named Karry Leung contacted Ho and agreed to buy the 2nd watch for HK$181,000. Ho provided his bank account and met the appellant, who claimed that HK$181,000 had been transferred to the account. On checking his online banking application that there had been a cheque deposit of the sum in question, Ho passed the 2nd watch to the appellant. The cheque was subsequently returned, whereupon Ho tried to contact the appellant, but in vain. On the same day, the appellant and two unknown men visited the pawnshop (with the appellant waiting outside). The 2nd watch was subsequently recovered by the police, who found that it had been pawned for HK$150,000.
+
+(Charges 1 to 3 in Case 1)
+
+13.  On 6 April 2022, the appellant was arrested inside the Ind Hotel in Kwun Tong in respect of Case 1. In a hotel room, of which he was a registered tenant, one ATM card in the name of Tsang Tsz Chung (“the ATM card”) and one identity card in the name of Ningleku Limbu Jaya (“the identity card”), which had been reported lost in August 2020[7], were found.
+
+14.  Upon arrest, and in his two subsequent video recorded interviews under caution, the appellant said the following, inter alia, in relation to Case 1[8]:
+
+(i)  In respect of the 1st watch, he had run out of money, so he deceived the victim on 31 March 2022, having seen the post on Facebook. He subsequently took the 1st watch to an unknown person, who gave him HK$3,000 as a reward.
+
+(ii)  In respect of the 2nd watch, he came to know someone called “Ah Keung” on Facebook, although he had never met him. Having spoken on the telephone, he purchased the 2nd watch and passed it to an unknown person on Ah Keung’s instructions, who then pawned the watch. He had not received the promised reward of HK$3,000 for this transaction.
+
+(iii)  As for the ATM card and the identity card, he claimed he had picked them up at Morse Park in Kowloon the year before but forgot why he kept them and did not know their respective owners. He had never used the ATM card but had used the identity card when checking into the said hotel room in late March 2022.
+
+15.  On 21 July 2022, the appellant was arrested in respect of Case 2 but remained silent under caution.
+
+The sentencing hearing
+
+16.  The prosecution applied under section 27(2) of the Organized and Serious Crimes Ordinance (“OSCO”), Cap 455, to enhance the appellant’s sentences for conspiracy to defraud on the basis of “the prevalence of the specified offence and the nature and extent of any harm, whether direct or indirect, caused to the community by recent occurrences of the specified offence”[9] (“the OSCO application”). For the purposes of the application, the prosecution submitted that the present cases fell into the category of “e-Shopping fraud” and relied on statistics showing a rising trend in the number of such cases and the quantum of total losses involved in recent years[10].
+
+17.  The appellant was 36 years of age at the time of sentence, and was separated from his wife. He lived with two daughters of the union, then aged 9 and 10, in a public housing unit in Lam Tin, Kowloon. It was said that he was the provider for the family and had worked as a skilled technician, earning about HK$33,000 per month until becoming unemployed in early 2021 because of the Covid pandemic. He was still owed 6 months’ pay and had been driven to commit the offences through acute financial pressures. He had been promised a reward of HK$3,000 for each fraud, although he had never actually received anything in respect of the last fraud perpetrated. He claimed he had received a total of HK$9,000.
+
+18.  Amongst the appellant’s 13 previous convictions, three were dishonesty-related (the latest being in 2017), nine were for drug-related offences and three were for gambling-related offences. The appellant’s most serious conviction was for trafficking in dangerous drugs in June 2018, for which he was sentenced to 28 months’ imprisonment by the District Court.
+
+19.  It was submitted that the appellant was not the mastermind behind the frauds. He had deposited the cheques and handled the goods, purely on the instructions of others. Given that the frauds were similar in nature, and committed over a short time period, the court was urged to impose concurrent sentences on all charges.
+
+Reasons for sentence
+
+20.  In passing sentence, the judge observed that there were no specific guidelines for the theft of ATM or identity cards, nor for the conspiracy to defraud offences. However, in relation to using an identity card relating to another person, the judge referred to two appellate decisions[11] and found that the appellant had used another’s identity card “for the purpose of booking a hotel room, so his true identity would not be revealed when committing illegal acts”[12]. In respect of Charge 3 in Case 1, the judge considered the sentences approved in HKSAR v Li Chang Li[13].
+
+21.  As for the fraud offences, the judge referred to HKSAR v Leung Yiu Fai[14], remarking that the frauds practised on the general public were “ruthless … and despicable”, for which a starting point in the range of 3 to 4 years’ imprisonment, even for those with clear records, could be adopted in order to serve as a deterrence[15].
+
+22.  The judge adopted starting points of 3½ years’ imprisonment for the respective internet fraud charges (Charges 4, 5 and 7 of Case 1 and Charge 4 of Case 2). These sentences he increased by 3 months’ imprisonment for the fact they had all been committed within one month, before allowing the appellant a full one-third discount. The judge was satisfied with the propriety of the OSCO application (save for the statistics in relation to dishonoured cheque fraud). Accordingly, he enhanced the sentences on Charges 4 and 7 of Case 1 and Charge 5 of Case 2 by 20%, noting that any enhancement should relate to the prevalence and the nature or extent of the harm of the deception, not the role of the appellant.
+
+23.  The judge found no mitigating factors save for the timely pleas of guilty, for which he accorded the appellant a one-third discount from the stipulated starting point for each charge.
+
+24.  In considering totality, the judge found that there were in total four transactions[16] and ordered:
+
+(i)  (In respect of Case 1), the sentences on Charges 1, 2, 3, 7 were to run concurrently with each other; the sentences on Charges 4 to 6 were also to run concurrently with each other but 12 months were to run consecutively to the sentences on Charges 1, 2, 3 and 7, resulting in a total of 4 years’ imprisonment; and
+
+(ii)  (In respect of Case 2), 6 months of the sentence on Charge 5 was to run consecutively to that of Charge 4, resulting in 3 years’ imprisonment.
+
+25.  The judge then ordered 1 year of the 3 years’ imprisonment in Case 2 to run consecutively to the 4 years’ imprisonment in Case 1, thus resulting in a total term of 5 years’ imprisonment.
+
+Grounds of appeal against sentence
+
+26.  Mr Dick Lee, on behalf of the appellant, sought to adopt substantially the grounds of appeal advanced by counsel then acting for the appellant at the leave stage. Ground 1 argued that the starting points of 3½ years’ and 3 years’ imprisonment adopted by the judge for the fraud and handling charges respectively were manifestly excessive. Grounds 2 and 3 (Ground 4 was withdrawn at the leave hearing) alleged that the judge’s application of the totality principle was wrong, resulting in the overall sentence being manifestly excessive. Ground 5 averred that the judge erred in adopting the sentence of 15 months’ imprisonment in Li Chang Li for the “use of identity card” charge, which was manifestly excessive. Ground 6 (which had been conceded by the respondent to be reasonably arguable at the leave hearing) complained that it was wrong in principle for the judge to regard the commission of the fraud and handling charges within a month as an aggravating factor, thus resulting in an enhancement of 3 months’ imprisonment on each of the individual sentences.
+
+27.  In respect of Ground 1, Mr Lee contended that the overall culpability of the appellant was less than, or at most similar to, that of the applicant in Leung Yiu Fai and the defendant in HKSAR v Chow Chun Yiu & Anor[17], bearing in mind the similar modus operandi used in the present case; namely, online platforms and telephone numbers for communication with the victims, dishonoured cheque and others’ bank accounts for receiving defrauded money, as well as a lost identity card for concealing identity.
+
+28.  Having referred to the decision of Chow Chun Yiu & Anor, where a global approach of 30 months’ imprisonment was taken for 10 online fraud charges (involving 10 victims sustaining a net loss of nearly HK$800,000 within 3 months, and the use of an identity card by the defendant to conceal his identity from the hotel), Mr Lee argued that a similar starting point of 30 months’ imprisonment should have be adopted for Charges 4 to 7 in Case 1 and Charge 4 in Case 2.
+
+29.  In respect of Grounds 2 and 3, Mr Lee complained that the judge had failed to apply properly the principle of totality. He submitted that Charges 4 to 7 in Case 1, and Charges 4 and 5 in Case 2, effectively arose out of a single episode or transaction within one month, for which the ‘one transaction’ rule[18] should apply. Even taking into account the enhancement under OSCO, the resulting individual sentences for the six charges should not have exceeded 24 months’ imprisonment and should have run wholly concurrently with each other.
+
+30.  In any event, it was argued that the total sentence of 5 years’ imprisonment (equivalent to a notional starting point of 7½ years’ imprisonment) was manifestly excessive, bearing in mind the 7 years’ jurisdictional limit of the District Court and the need to provide a meaningful discount for the appellant’s guilty pleas: HKSAR v Lee Kin Chuen & Others[19]and HKSAR v Li Yan[20].
+
+31.  As for Ground 5, Mr Lee argued that the basis on which the identity card was used in Li Chang Li (for seeking illegal employment or extending an unlawful stay) was distinguishable from the present case (for booking a hotel room), and the starting point of 22½ months’ imprisonment (or the sentence of 15 months’ imprisonment after plea as affirmed by the Court of Appeal in Li Chang Li) was wrongly adopted by the judge.
+
+32.  Mr Lee invited the Court to substitute an overall sentence of no more than 30 months’ imprisonment for all nine charges.
+
+The respondent’s position
+
+33.  Ms Gladys Chan, on behalf of the respondent, submitted that the overall sentence of 5 years’ imprisonment could not be said to be manifestly excessive. She maintained that the starting points adopted by the judge were appropriate for the charges in question, which were proportionate to the quantum of losses involved and within the acceptable range of sentences for crimes of this nature. She contended that the judge had correctly considered Leung Yiu Fai and highlighted the following features which called for the imposition of a deterrent sentence in the present case:
+
+(i)  A criminal organization was involved, with fraudsters targeting innocent members of the general public in completely bogus transactions concerning luxury goods;
+
+(ii)  The modus operandi of the fraud involved detailed planning and preparation, with the use of multiple Facebook accounts and telephone numbers for communication, other parties’ bank accounts for receiving defrauded funds, and various personal items, which had been reported lost, for concealing identities and covering tracks;
+
+(iii)  The appellant, by falsely representing that an extra sum of money had been deposited and requesting reimbursement, had not only preyed on the victims’ good faith and inexperience in trading online, but had also taken advantage of a “loophole” in the e-banking system whereby the deposit of a subsequently dishonoured cheque could generate a purported credit, albeit temporarily, into the victims’ account balance;
+
+(iv)  The offences lasted for about one month and the total amount of unrecovered loss was HK$744,500, with one victim sustaining a loss of some HK$500,000.
+
+34.  Ms Chan further emphasised that the overriding consideration of the ‘one transaction’ rule is whether the sentence adequately reflected the true culpability of the offender. She argued that the ultimate sentence of 5 years’ imprisonment did reflect the appellant’s overall criminality, which derived from multiple charges arising out of four distinct episodes. Each episode involved a separate transaction with a new victim, taking place on a different date and utilising different tools and identities. Citing the judgment of this Court in Secretary for Justice v Kong Chi Kiu[21], Ms Chan pointed out that the gravity of the present offences lay in the appellant conspiring with multiple individuals, the number and identities of whom were only known to himself.
+
+35.  Ms Chan further submitted that the imposition of a wholly concurrent sentence on Charges 4 to 7 in Case 1 and both charges in Case 2, simply because they were of similar nature and used a similar modus operandi, would not have resulted in proper sentence. She contended that, in accordance with the Court’s remarks in Li Yan[22], the judge did not err in failing to give a meaningful discount to the appellant in light of the maximum jurisdiction of the District Court.
+
+36.  As for Ground 5, the respondent argued that 22½ months’ imprisonment would be an appropriate starting point for Charge 3 in Case 1 and was consistent with the starting points in Li Chang Li, which had been affirmed by the Court in other authorities[23] to be equally applicable to offenders who were Hong Kong permanent residents.
+
+37.  Despite the concession made by the respondent at the leave hearing in relation to Ground 6, Ms Chan referred to Secretary for Justice v Tsang Wai Ling[24] where this Court found that the commission of multiple similar offences in a short period of time and in conjunction with an unknown number of accomplices constituted an aggravating factor.
+
+38.  She submitted that the judge had correctly considered the short duration of the appellant’s commission of the fraud and handling charges as an aggravating factor, since it reflected his level of participation and persistence in the offending. Given the seizure of an identity card and an ATM card belonging to two different individuals, as well as six different SIM cards, there was no reason to believe that the appellant would not have continued to commit further similar offences had he not been arrested.
+
+Discussion
+
+39.  The ultimate question in this appeal is whether an overall sentence of 5 years’ imprisonment on a plea of guilty, extrapolated to a starting point of 7½ years’ imprisonment before a one-third discount was applied, was manifestly excessive and/or wrong in principle for the criminality involved.
+
+40.  There are a number of very serious features concerning the crimes in question in this case. Firstly, there were four different victims, in two sets of proceedings, who each lost luxury items of substantial value. The total amount stolen was HK$925,000 and the unrecovered loss to the victims was HK$744,500. Secondly, four different Facebook accounts were used by the culprits and a number of mobile telephone numbers were used. When the appellant was arrested inside a hotel room, six SIM cards were found in his possession. Clearly this was a well-organised operation. Thirdly, the appellant, who was at the time of the offences unemployed and living in a public housing unit, had hired the hotel room using a stolen identity card in the name of another person in order to facilitate his crimes. He also had HK$70,041 in cash on his person. Fourthly, all of these facts clearly pointed to four conspiracies involving a number of unidentified people in which, as Ms Chan aptly put it, the appellant was “not a one-man band”, nor was he “just a cog in the wheel”. This was an organized, syndicated crime, in which the appellant played an essential, and prominent, role in the deceptions resulting in serious online shopping fraud. This last factor in turn led, fifthly, to the engagement of the provisions of the OSCO and the enhancement by 20% of three of the conspiracy charges. No specific complaint is made by the appellant about the fact or the quantum of enhancement under OSCO.
+
+41.  The judge rightly said of this case and these factors[25]:
+
+“In gist, there is a criminal organization which defrauds potential sellers on the internet. The criminal organization aims at high value goods, for example watches and handbags. The [appellant] knew the fraudulent nature of the transactions. He assisted to further the criminal conspiracy by collecting the stolen goods, showing the payment confirmation to the victim, collecting cash or pawning stolen goods. The [appellant] also used the stolen identity card to book a hotel room. The [appellant] committed these fraud offences within one month.”
+
+42.  The final serious feature of the case is that the appellant has a bad criminal record involving 13 previous court appearances over 20 years for a variety of criminal offences, some involving dishonesty. There has been no attempt at restitution, nor has the appellant assisted the authorities in respect of the others involved in the conspiracies.
+
+43.  In our judgment, the judge gave very detailed consideration to these factors and the relevant authorities which bore on the facts of the case. It is true that the notional overall starting point of 7½ years’ imprisonment was outside the jurisdictional limit of the District Court, but that has long been recognised as an acceptable course in appropriate cases, provided that the judge gave a meaningful discount for the pleas with the resultant sentence within the jurisdictional limit. One should also bear in mind that, but for the application of OSCO and the ensuing enhancement, the overall starting point would have been within the jurisdictional limit.
+
+44.  These were very serious offences of conspiracy to defraud and related offences using the internet. Even though they were all committed within one month, there were essentially four separate crimes involving four different victims, who lost property of considerable value. As the judge said[26]:
+
+“Any fraud linked to the use of the internet is viewed as a serious matter due to the ease with which it is carried out, and the negative impact on internet trading platforms in affecting the integrity and honesty of sellers and buyers.”
+
+He went on to highlight, in such crimes[27]:
+
+“…the difficulty in tracking down the perpetrators and inability to recover the stolen money or goods.”
+
+We respectfully agree with the judge’s comments.
+
+45.  The appellant may not have been the mastermind of the outfit, but he was certainly central to the success of each operation. That he should have hired a hotel room using a stolen identity card speaks to the confidence and sophistication of the organization, as well as the rewards the conspirators anticipated from their activities.
+
+46.  In deference to Mr Lee’s arguments under Ground 1, we do not regard the sentences passed on the defendants at first instance in the District Court in Chow Chun Yiu & Anor at all persuasive: indeed, given the facts and the losses of almost HK$800,000, the sentences there seem to us to be unduly lenient. In any event, those sentences did not attract enhancements under OSCO.
+
+47.  Nor do we think the Court of Appeal’s decision in Leung Yiu Fai assists the appellant at all. The Court there dismissed the appeal and found that the starting point of 30 months’ imprisonment adopted by the judge in respect of one charge of fraud (not conspiracy to defraud), in which 36 victims had been scammed out of a total of HK$63,180, was not manifestly excessive[28], nor was the enhancement of the sentence by one-third unreasonable. Indeed, the Court observed, back in 2016, that if such cases were to grow in prevalence, which clearly on the evidence they have done, the enhancement could be greater than one-third[29]. In Leung Yiu Fai, the victims had been scammed out of relatively small amounts ranging between HK$650 and HK$6,340, in circumstances described as “not very sophisticated”[30]; which is a far cry from four victims being cunningly fleeced of HK$950,000 in valuable luxury property by an organized conspiracy. It should be remembered that the Court in Leung Yiu Fai indicated that a starting point of between 3 and 4 years’ imprisonment would be appropriate for such offences, even for someone of good character[31]. In the case before us, the starting points for the four conspiracy to defraud charges were 3 years and 6 months’ imprisonment and the enhancement for three of those charges was 20%. These sentences are unimpeachable.
+
+48.  In relation to the complaint under Ground 5 concerning the appropriate starting point for Charge 3, the argument is redundant, since the sentence was made wholly concurrent with the sentences on Charges 1, 2 and 7. As for the argument under Ground 6, it is arguable that an increase of 3 months’ imprisonment for each one of Charges 4, 5 and 7 of Case 1, and 4 and 5 of Case 2, making notional sentences after trial of 3 years and 9 months’ imprisonment, was not warranted in respect of each individual offence. However, committing multiple similar offences within a month is a very serious matter in itself and far more serious than committing one offence on a single occasion. Both Ground 6 and Grounds 2 and 3 are really arguments about totality and, in answering that complaint, we must look at the whole picture and the appellant’s overall criminality and culpability when deciding whether the ultimate sentence was either manifestly excessive and/or wrong in principle.
+
+49.  When we looked at the whole picture and the ultimate sentence passed, we did not consider that 5 years’ imprisonment in the circumstances of these serious and multiple criminal offences was manifestly excessive or wrong in principle. Indeed, with respect to the judge, we regarded his sentencing exercise as carefully considered by reference to relevant authority, and his ultimate sentence to be entirely correct. For these reasons, the appeal was dismissed.
+
+ 
+
+ 
+
+(Andrew Macrae)
+Acting Chief Judge
+of the High Court	(Kevin Zervos)
+Justice of Appeal
+ 
+
+Ms Gladys Chan SPP, of the Department of Justice, for the Respondent
+
+Mr Dick Lee, instructed by Alvin Cheng & Rosaline Choy, assigned by the Director of Legal Aid, for the Appellant
+
+
+[1]  Contrary to section 9 of the Theft Ordinance, Cap 210.
+
+[2]  Contrary to section 7A(1A) of the Registration of Persons Ordinance, Cap 177.
+
+[3]  Contrary to Common Law and punishable under section 159C(6) of the Crimes Ordinance, Cap 200.
+
+[4]  Contrary to section 24 of the Theft Ordinance, Cap 210.
+
+[5]  HKSAR v Wong Ming Chun [2024] HKCA 871, per Macrae VP.
+
+[6]  Ibid., at [3]-[26].
+
+[7]  This identity card was different from the one used by the unknown man for pawning the 1st watch. (Appeal Bundle of CACC 31/2024, p 17 at [24]-[25]).
+
+[8]  Reasons for sentence, at [11]-[12] and [22].
+
+[9]  Reasons for sentence, at [35].
+
+[10]  Reasons for sentence, at [37].
+
+[11]  HKSAR v Fan King Lam (Unrep., CACC 220/2010, 30 September 2011) and HKSAR v Lau Kwok Wo (Unrep., CACC 181/2008, 10 September 2021), at [20].
+
+[12]  Reasons for sentence, at [69].
+
+[13]  HKSAR v Li Chang Li [2005] 1 HKLRD 864, at [40]-[41].
+
+[14]  HKSAR v Leung Yiu Fai (Unrep., CACC 100/2014, 1 November 2016), at [44].
+
+[15]  Reasons for sentence, at [70].
+
+[16]  Charges 1, 2, 3 and 7 in Case 1 were related to the 2nd watch; Charges 4 to 6 in Case 1 were related to the same transaction but involved two separate stolen properties, namely the 1st watch and HK$250,500 cash; and Charges 4 and 5 in Case 2 were two separate transactions. (Reasons for sentence, at [78])
+
+[17]  HKSAR v Chow Chun Yiu & Anor (Unrep., DCCC 269/2021, 15 December 2021).
+
+[18]  HKSAR v Ngai Yiu Ching [2011] 5 HKLRD 690, at [18]-[23].
+
+[19]  HKSAR v Lee Kin Chuen & Others (Unrep., CACC 436/2003, 30 June 2004), at [135].
+
+[20]  HKSAR v Li Yan [1998] 4 HKC 12, 15B-D.
+
+[21]  Secretary for Justice v Kong Chi Kiu [2023] 1 HKLRD 72.
+
+[22]  HKSAR v Li Yan [1998] 4 HKC 12, 14H-15D.
+
+[23]  Lau Kwok Wo, at [20]; Fan King Lam, at [17]; and Secretary for Justice v Wong Che Ping [2020] 5 HKLRD 220, at [34].
+
+[24]  Secretary for Justice v Tsang Wai Ling [2020] 4 HKLRD 208, at [37]-[38].
+
+[25]  Reasons for sentence, at [72].
+
+[26]  Reasons for sentence, at [46].
+
+[27]  Ibid., at [46].
+
+[28]  Leung Yiu Fai, at [50].
+
+[29]  Ibid., at [57].
+
+[30]  Ibid., at [36].
+
+[31]  Ibid., at [44].
+
+ 
+
+ 

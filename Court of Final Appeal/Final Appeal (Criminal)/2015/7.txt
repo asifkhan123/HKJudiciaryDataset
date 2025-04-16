@@ -1,0 +1,413 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No. 7 of 2015
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 7 OF 2015 (CRIMINAL)
+
+(ON APPEAL FROM HCMA NO. 280 OF 2014)
+
+____________________
+
+BETWEEN	 	 
+ 	HKSAR	Appellant
+ 	and	
+ 	HO LOY (何來)	Respondent
+____________________
+
+Before: Chief Justice Ma, Mr Justice Ribeiro PJ,Mr Justice Tang PJ, Mr Justice Fok PJ and Mr Justice Spigelman NPJ
+Date of Hearing and Judgment: 4 March 2016
+Date of Reasons for Judgment: 23 March 2016
+___________________________
+
+REASONS FOR JUDGMENT
+
+___________________________
+
+Mr Justice Fok PJ:
+
+1.  This appeal arises out of the prosecution of the respondent cyclist for the offence of failing to comply with a requirement indicated by a traffic sign.  Her conviction by the magistrate[1] was quashed on intermediate appeal to the Court of First Instance.[2]  The Appeal Committee[3] granted the prosecution leave to appeal to this court on the basis that the following points of law of great and general importance were involved in the decision of the Court of First Instance, namely:
+
+“In the context of the regulatory regime under the Road Traffic Ordinance Cap. 374 and its regulations governing road traffic offences and, in particular, in relation to the offence of failing to comply with a requirement indicated by a traffic sign contrary to Regulations 50(2) and 61(2) of the Road Traffic (Traffic Control) Regulations Cap. 374G (“the Regulations”):-
+
+(1) How does the principle of legal certainty operate and what is the extent of its requirements?
+
+(2) Whether or not misunderstanding or ignorance of the legal requirement as indicated by a traffic sign - when such requirement is expressly set out in the Regulations and the Road Users’ Code - can give rise to a reasonable excuse under Regulation 61(2) of the Regulations?”
+
+2.  As will be seen, it was not sought to be argued that the offence infringes the principle of legal certainty.  Rather the focus of the appeal was instead on the nature and scope of the offence of failing to comply with the requirements of a traffic sign and the limits of the statutory defence of reasonable excuse.  Specifically, does the meaning of a traffic sign depend on the cyclist’s subjective interpretation and, if not, does her mistaken belief in its meaning constitute a reasonable excuse for failure to comply with the requirement indicated by it?
+
+3.  At the conclusion of the hearing, the court allowed the appeal and made the orders set out in Section G below, indicating that our reasons for doing so would be handed down in due course.  These are our reasons.
+
+A. Background
+
+A.1 The charge, location of the alleged offence and the applicable traffic signs
+
+4.  The charge was that, on 13 May 2013 at 10.12 am at Yu Tung Road Cycling Track near lamp post AC 1509, the respondent being a person riding a bicycle on a road did, without reasonable excuse, fail to comply with the requirement indicated by a traffic sign of the type shown in Figure No. 155 in Schedule 1 of the Regulations.  Figure No. 155 (addressed in greater detail below) is a cycling restriction sign and indicates that cycling is prohibited beyond the sign and that cyclists must dismount and push their bicycle if they wish to proceed beyond the point of the sign.
+
+5.  Yu Tung Road in Lantau runs alongside the rear of the Lantau District Police Headquarters and Lantau North Police Station. Between the road and the police station there is a cycleway.  The cycleway is intersected by a driveway which leads to the rear of the police station.  At the time of the alleged offence, facing a cyclist in each direction on the cycleway, just before the point where the cycleway intersects the driveway, there is a road sign of the Figure No. 155 type and a road marking on the cycleway of the Figure No. 619 type with the word “End” in English and the words “終止” in Chinese.  On the other side of the driveway, where the cycleway resumes, there is a road sign of the Figure No. 156 type and another road marking of the Figure No. 619 type.[4]
+
+6.  The forms, dimensions, requirements and information of the types of traffic signs (Figure Nos. 155 and 156) and road markings (Figure No. 619) referred to above are depicted in Annex I to this judgment and will be addressed further below.  The actual traffic signs in the form of Figure Nos. 155 and 156 are shown in Annex II to this judgment.
+
+7.  The alleged offence took place beyond the Figure No. 155 sign which is next to lamp post AC 1509 which is situated alongside the cycleway just before the intersecting driveway.  The respondent was stopped by a police sergeant (PW1) when she failed to dismount from her bicycle beyond that sign and continued to ride her bicycle into the driveway and before she had reached the continuation of the cycleway and the Figure No. 156 sign. 
+
+A.2  The respondent’s conviction by the magistrate
+
+8.  The magistrate accepted PW1’s evidence that the traffic sign in question was not covered by leaves or otherwise obscured from sight at the time.  The respondent admitted that she failed to dismount from her bicycle when she reached the traffic sign.  She accepted in cross-examination that the traffic sign was visible and that she was aware that it was always there.  It was her defence that she was honestly and reasonably confused by the sign and thought that it meant cycling was permitted.
+
+9.  The magistrate did not accept that the respondent had a reasonable excuse for failing to comply with the requirement to dismount from her bicycle.  He was not satisfied that a reasonable person would be honestly and reasonably confused by the traffic sign.[5]  He did not find it reasonable for the respondent to make an assumption from the surrounding circumstances of the location as to what the sign meant, rather than by ascertaining its clear meaning from the Road Users’ Code (“the Code”).[6] The magistrate went further and, in effect, disbelieved her defence that she was honestly and reasonably confused by the traffic sign, finding instead that she “willfully neglected” the sign.[7]
+
+10.  Accordingly, the magistrate was not satisfied that the evidence adduced by the respondent could constitute evidence capable of raising a reasonable doubt that she acted in the honest and reasonable belief that the circumstances of her conduct were such that, if true, liability would not attach.[8] He therefore found that the prosecution had proved beyond reasonable doubt that the respondent, without reasonable excuse, failed to comply with the requirement indicated by the traffic sign in question and so convicted the respondent.[9]   By way of sentence, the magistrate imposed a fine of $500.[10]
+
+A.3  The basis on which the conviction was quashed by the judge
+
+11.  The judge approached the case differently to the magistrate.  He began by identifying the two principal issues in the appeal before him as being: (1) whether the traffic sign in question (i.e. the Figure No. 155 sign) was ambiguous, unclear or confusing; and (2) whether a road user, including the respondent, was obliged in law to know the meaning of traffic signs.[11]
+
+12.  Before dealing with the first issue, in his review of the evidence at trial, the judge referred to a defence application, which the magistrate refused, to call an expert witness (Mr Steven Coward) on the issue of whether the design of the sign was ambiguous, unclear or confusing.[12]  He also referred to evidence from which he concluded that it was acknowledged by both PW1 and the respondent that the sign was not generally understood by members of public.[13]  Whilst upholding the magistrate’s decision to refuse to admit evidence that other road users were confused by the Figure No. 155 sign, the judge considered that part of the expert evidence of Mr Coward on the regulation of cyclists in Hong Kong and abroad would have been of assistance to the court.[14]
+
+13.  The judge then considered a complaint by the respondent that certain material,[15] in which it was noted that some traffic signs alongside cycle tracks might be quite confusing and might convey misleading information to cyclists and that traffic signs of the Figure Nos. 155 and 156 types were commonly misinterpreted as meaning the opposite of what they are intended to convey, was not disclosed by the prosecution.  The judge held that the failure to disclose the Atkins China Report was a material irregularity since it was relevant material that might well have provided a train of inquiry to admissible evidence.  He also held that, whilst not published at the time of trial, it might have been that there was information in the Audit Commission Report available in relation to its findings about the sign that could and should have been disclosed.  He concluded that there had been material non-disclosure and that on this ground alone the conviction should be quashed.[16] 
+
+14.  In light of the non-disclosed materials, the judge considered that Mr Coward’s opinions on cycling regulation in Hong Kong and abroad to be of assistance to the court and admitted his expert opinion on those specific matters into evidence on the appeal.[17]
+
+15.  The judge then returned to address the first principal issue he had identified, namely whether traffic signs of the Figure Nos. 155 and 156 types were confusing.  He proceeded to consider what he thought the signs indicated to him and considered that road users might be in a state of confusion over the signs.  He held, applying MacLeod v Hamilton[18] and R (Oxfordshire County Council) v Bus Lane Adjudicator,[19] that traffic signs should convey a clear and simple message in order to provide adequate information or notice to a road user to enable him appropriately to regulate his conduct. [20]  He therefore concluded:
+
+“55. I find Figures 155 and 156 to be ambiguous, unclear and confusing. The depictions in the signs are confusing and would benefit by being accompanied with clear language indicating that a cyclist should dismount or resume cycling as the case may be. This has been the practice in other jurisdictions to which Mr Coward has provided various examples.”
+
+16.  Having so held, the judge then examined[21] whether the Figure No. 155 sign was sufficiently clear and precise to satisfy the principle of legal certainty laid down in Sunday Times v United Kingdom,[22] applied by this court in Shum Kwok Sher v HKSAR[23] and Winnie Lo v HKSAR.[24]  Although he noted he had not been addressed on the principle of legal certainty by the parties, he held that:
+
+“58. The principle of legal certainty applies with equal force with a sign that results in an offence being committed if disobeyed. If the sign which is solely graphical does not with sufficient precision convey to the road user what it is that he can or cannot do, then a fundamental requirement of legal certainty is not satisfied.
+
+…
+
+62. Whilst the present case is concerned with whether the sign itself is ambiguous or confusing, which I have held it is, then the [respondent] avoids conviction of any contravention for want of legal certainty of the sign.”
+
+17.  Finally, the judge addressed the question of whether the respondent had a reasonable excuse for disobeying the sign.  He found that it was not reasonable to expect the respondent to find out the meaning of the sign either by being familiar with or accessing the Code on the matter.[25]  He thus concluded:
+
+“72. The key issue in this case was that the sign was ambiguous and confusing and this was also confirmed by reports of the Transport Department. This would not be corrected by what is stated in the Code for the sign remains ambiguous and confusing. It therefore in my view offended the principle of legal certainty and also gave the basis for the [respondent] to have a reasonable excuse for not obeying it.”
+
+18.  Accordingly, he quashed the respondent’s conviction and set aside her sentence.
+
+19.  In his decision refusing to certify a point of law of great and general importance, the judge expanded on the application of the principle of legal certainty to the sign in question.[26]  He said:
+
+“10. The primary consideration is what the sign says. If there is no transference of a clear or understood meaning then the sign may offend the principles of legal certainty. See R (Oxfordshire County Council) v Bus Lane Adjudicator [2010] EWHC 894 (Admin) at paras 62 and 65. This is a contextual matter. A regulatory sign to a certain extent is different from a regulatory statutory provision. A traffic sign is immediate and a person is required at the time to comply with what is depicted visually by the sign at the place where it is erected. It is not an answer to say that an explanation of the sign is provided elsewhere because that does not cure the inherent defectiveness of the sign itself. Otherwise, a traffic sign could depict any form of graphics, even one unrelated to the subject matter it seeks to indicate which would still be valid, according to the respondent’s submission, as long as there was an accessible explanation of it elsewhere.”
+
+B. The legislative regime
+
+B.1  The context of the statutory offence
+
+20.  The statutory provisions relevant to this appeal are addressed in Section B.2 below.  It is important, as a starting point, to bear in mind that the context of those provisions is the regulation of road traffic.  The Regulations are made under the Road Traffic Ordinance,[27] the long title of which provides that it is “[t]o provide for the regulation of road traffic and the use of vehicles and roads (including private roads) and for other purposes connected therewith.”  It is self-evident that the statutory context and purpose of the Ordinance and the Regulations made thereunder is the effective regulation of the use of vehicles and roads for the avoidance or minimisation of the risk of potentially fatal accidents and of injuries and damage to persons and property.  It is stating the obvious that one of the principal purposes of traffic signs and road markings is to make use of the road as safe as reasonably practicable.  There is an important public interest in this statutory context and purpose.[28]
+
+B.2  The relevant statutory provisions
+
+21.  Section 11 of the Ordinance provides:
+
+“The Secretary [of Transport and Housing] may make regulations to provide for –
+
+(a) the classification, design, colour, erection, placing, operation, maintenance, alteration and removal of permanent, temporary and variable traffic signs and road markings;
+
+…
+
+(b) prohibiting, controlling and restricting vehicular and pedestrian movements by or in relation to traffic signs or road markings;
+
+…”.
+
+22.  Under section 15:
+
+“Any regulation made under section 6, 7, 8, 9, 10, 11, 12, 12A, 121 or 131 may provide that a contravention thereof shall be an offence, and may provide penalties for such offence not exceeding a fine of $15,000 and imprisonment for 9 months.”
+
+23.  The Regulations are the regulations made by the Secretary pursuant to his power under section 11 of the Ordinance.  A “prescribed traffic sign” is defined in regulation 2 as meaning “a traffic sign of the size, colour and type prescribed in Schedule 1, 3 or 4” and under regulation 3(1):
+
+“The Commissioner [for Transport] may cause or, by permit in writing (which permit shall be subject to such conditions as the Commissioner thinks fit and are specified therein), permit to be erected or placed on or near any road a traffic sign, and in the case of a prescribed traffic sign the meaning of that sign shall be in accordance with its content and the note relating to the Figure of that sign in Schedule 1, 3 or 4.”
+
+24.  Regulation 50(2) provides:
+
+“A person riding a bicycle or tricycle on a road shall comply with the requirement indicated by a traffic sign of the type shown in any of the Figure Nos. 126, 127, 137, 138, 154, 155, 156 or 159 in Schedule 1.”
+
+25.  Regulation 61(2) creates an offence in the following terms:
+
+“Any person who without reasonable excuse contravenes any of the provisions of, or any requirement under, regulation 10(1), 10A(1), 12(1), 14(5), (6) or (7), 20(4) or (5), 21(4), 23(2), 33(6), 34(2), 36, 39, 41A, 42, 43, 44, 45, 46, 50 or 51 commits an offence and is liable to a fine of $2,000.”
+
+26.  Schedule 1 of the Regulations sets out express provisions concerning traffic signs and road markings and includes the dimensions, form and contents of those signs and markings together with a description in words of the relevant regulatory or informatory nature of those signs and markings.  Those for Figure Nos. 155, 156 and 619 are reproduced in Annex I to this judgment and the actual signs in the form of Figure Nos. 155 and 156 are shown in Annex II.
+
+27.  Section 109 of the Ordinance addresses the Code and provides, among other things, as follows:
+
+“(1) The Secretary may cause to be prepared a code (in this section referred to as the road users’ code) comprising such directions as appear to him to be proper for the guidance of persons using roads and may from time to time revise the code by revoking, varying, amending or adding to the directions therein in such manner as he thinks fit.
+
+…
+
+(5) A failure on the part of any person to observe any provisions of the road users’ code … shall not of itself render that person liable to criminal proceedings of any kind but any such failure may in any proceedings whether civil or criminal and including proceedings for an offence under this Ordinance be relied upon by any party to the proceedings as tending to establish or negative any liability which is in question in those proceedings.”
+
+B.3  The act constituting the relevant offence
+
+28.  The offence under regulation 61(2) is the contravention, without reasonable excuse, of the provisions of various regulations, including regulation 50(2).  Regulation 50(2) imposes on cyclists a duty to “comply with the requirement indicated by a traffic sign of the type shown in any of the Figure Nos. 126, 127, 137, 138, 154, 155, 156 or 159 in Schedule 1”.  A traffic sign of those types is a prescribed traffic sign and, by regulation 3(1), “the meaning of that sign shall be in accordance with its content and the note relating to the Figure of that sign in Schedule 1”.  The actus reus of the offence is therefore the cyclist’s act of failing to comply with the requirement indicated by the relevant traffic sign and in the case of Figure No. 155 that is the act of failing to dismount when proceeding beyond the point of the sign.
+
+29.  It is important to note that the focus of the statutory offence is on compliance with the requirement indicated by the traffic sign, being a prescribed traffic sign, which requirement is “in accordance with its content and the note relating to the Figure of that sign in [the relevant] Schedule”.  In the case of a traffic sign in the form of Figure No. 155, that requirement is expressly set forth in Schedule 1 of the Regulations and it is in clear and unambiguous terms: if a cyclist wishes to proceed beyond the point of the sign, he must dismount and push his cycle on foot.
+
+30.  The offence is not a failure to comply with a traffic sign but with the requirement that the traffic sign indicates.  The interpretation of the sign is not dependent on the cyclist’s subjective appreciation or non-appreciation of the meaning conveyed by it. Instead, the interpretation of the sign is approached taking in the meaning assigned to it by the Schedule.  It is therefore no part of the offence that the sign alone must be interpreted, either by the cyclist or by a court, in order to determine what it is that the cyclist should or should not do.  For the reasons addressed below (in section D.2), the respondent’s contention that interpretation of the meaning of the sign on its own and without reference to the Schedule is rejected.
+
+B.4  The mental element of the offence
+
+31.  Failure to comply with the requirements of a relevant traffic sign does not inevitably lead to conviction for the offence under regulations 50(2) and 61(2).  The offence is only constituted by the relevant act committed “without reasonable excuse”.  This is a statutory defence expressly provided for within regulation 61(2).
+
+32.  It was not suggested in argument by either the prosecution or the respondent that the presumption of mens rea persists so that the prosecution must prove knowledge, intention and recklessness in relation to the constituent elements of the offence, specifically the cyclist’s failure to comply with the requirement of the relevant traffic sign.  There is no need to prove knowledge of requirement of the traffic sign and intention to disobey that requirement.  As a matter of statutory construction, it is plain that the offence, being a regulatory offence, is one in respect of which the presumption of mens rea has been displaced and is intended to be subject only to the statutory defence expressly provided for.
+
+33.  In the parties’ respective printed cases for the appeal, there was a difference as to whether the appropriate mental requirement of the offence is that falling within the second, third or fourth alternatives set out in this court’s judgments in Hin Lin Yee v HKSAR[29] and Kulemesin v HKSAR.[30]  As will be recalled:-
+
+(1) The second alternative is where there is evidence capable of raising a reasonable doubt that the accused acted or omitted to act in the honest and reasonable belief that the circumstances or likely consequences of his conduct were such that, if true, liability would not attach, in which event the accused must be acquitted unless the prosecution proves beyond reasonable doubt the absence of such exculpatory belief or that there were no reasonable grounds for such belief.[31]
+
+(2) The third alternative is where the accused has a good defence if he can prove on the balance of probabilities that he acted or omitted to act in the honest and reasonable belief that the circumstances or likely consequences of his conduct were such, if true, he would not be guilty of the offence.
+
+(3) The difference between these two alternatives is that, in the second, the prosecution bears the burden (beyond reasonable doubt) of proving the absence of the exculpatory belief whereas, in the third, there is a reverse onus on the accused (the burden being on a balance of probabilities) to prove the exculpatory belief.
+
+(4) The fourth alternative is where the accused is confined to relying on the statutory defence expressly provided for, the existence of such defence being inconsistent with the second and third alternatives.
+
+34.  The statutory defence of reasonable excuse is potentially wider than the halfway house defence of honest and reasonable belief since (as discussed below) a person may have a reasonable excuse for failing to comply with the requirement of a traffic sign, even though he deliberately intends that non-compliance.  For that reason, the appropriate alternative mental requirement of the offence under regulations 50(2) and 61(2) is the fourth alternative.  The onus of establishing a reasonable excuse rests on the accused[32] (the burden being on a balance of probabilities).
+
+35.  In any event, insofar as the appropriate alternative mental requirement of the offence were one of the second or third of the restated Hin Lin Yee alternatives, the appropriate alternative for this offence would be the third alternative, under which the onus of proving the defence of honest and reasonable belief is on the accused.  This is because the offence is not a serious offence carrying severe penalties[33] and a prosecutorial burden to disprove honest and reasonable belief would be inconsistent with the statutory defence of reasonable excuse under which the burden is clearly on the accused.
+
+B.5  The defence of reasonable excuse
+
+36.  The expression “without reasonable excuse” occurs in various statutory contexts.  A consideration of the defence involves looking to three matters.  First, self-evidently, the matters said to constitute reasonable excuse must be identified.  Secondly, the court will then examine whether the excuse is genuine, since the reason asserted for departing from a relevant prescription must be the real reason for doing so.  Thirdly, the court must make an assessment of whether that excuse is reasonable, which the court will do on an objective standard depending on the particular facts of the case.[34]
+
+37.  In determining whether an excuse is reasonable or not, it will be relevant to have regard to the context in which the defence of reasonable excuse arises, since that context may suggest either a narrow or wide range of circumstances that might constitute a reasonable excuse.  For example, the range of circumstances in which there is a reasonable excuse for failing to provide a sample of blood or urine in the context of the laws against driving under the influence of drink has been held to be narrow, since the circumstances giving rise to the offence are always essentially similar so that what might be a reasonable excuse for committing it can be envisaged.[35]  In other contexts, the defence may be construed more widely and the question of whether or not an excuse is reasonable will be determined in the light of the particular facts and circumstances of the individual case.[36]
+
+38.  In the present context, the offence of failing to comply with the requirements of a traffic sign can be committed in a large variety of circumstances and for many different reasons.  There is therefore no reason, as a matter of context, to hold that only a narrow range of circumstances can constitute a reasonable excuse under regulation 61(2). Instead, for the purposes of that regulation, the concept should be regarded as potentially broad.  Thus, a reasonable excuse for failure to comply with the requirement of the Figure No. 155 sign might include where the failure is inadvertent because the sign has become obscured from view by surrounding foliage.  It might also include where the failure is deliberate but has occurred because the cyclist does so to avoid or prevent an accident or to escape an assailant.  These examples are, however, only illustrative and it is not intended to identify an exhaustive list of the circumstances that could constitute a reasonable excuse for failure to comply.
+
+39.  A cyclist’s belief as to the meaning of a prescribed traffic sign may be relevant to the determination of the defence of reasonable excuse.  It will certainly be relevant to the genuineness of an asserted excuse that the cyclist thought that he was in fact complying with the requirement of the traffic sign.  It may also be relevant to the question of whether the asserted excuse was reasonable, although the court may accept the cyclist believed he was complying with the requirement of the traffic sign but nevertheless hold that, objectively, this was unreasonable in all the circumstances.[37]
+
+40.  The reasons for concluding that the excuse relied on by the respondent in the present case was not reasonable are discussed in Section D.3 below.
+
+C. The principle of legal certainty
+
+41.  The principle of legal certainty requires that “[a] criminal offence must be so clearly defined in law that it is accessible and formulated with sufficient precision to enable the citizen to foresee, if need be with appropriate advice, whether his course of conduct is lawful or unlawful”.[38]  The principle is derived from the majority judgment in Sunday Times v United Kingdom[39] and has been considered by this court in a number of cases.[40]
+
+42.  Once it is concluded (see Section B.3 above) that the correct meaning of a prescribed traffic sign is that set out in the relevant Schedule of the Regulations, it is immediately apparent from the statement of the principle in the preceding paragraph that there can be no basis for suggesting that the offence in the present case offends the principle.  It cannot sensibly be contended that, so construed, the law in question is otherwise than adequately accessible and sufficiently precise.  Reference to the Regulations, publicly available as part of the Laws of Hong Kong published in various forms (including print and online versions), provides a clear and unambiguous explanation of the requirement of the prescribed traffic signs, including that of the Figure No. 155 type.  So too does reference to the Code.[41]  The statutory defence of reasonable excuse is well-recognised in the law and, notwithstanding that it must be considered contextually and in the light of all relevant circumstances, clearly sufficiently precise to satisfy the principle of legal certainty.
+
+43.  Contrary to the suggestion in the judge’s decision refusing a certificate (see paragraph 19 above), the judge was, with respect, wrong to suggest that the meaning of the traffic sign (rather than the meaning of the law) must be immediately clear if the principle of legal certainty is not to be infringed.  In any event, the principle of legal certainty does not mean that the content of a legal rule must be immediately apparent, since this would be inconsistent with the concept of adequate accessibility, which recognises that appropriate advice may be required for an individual to be informed of the content of the law in question.
+
+44.  In the circumstances, it is unsurprising that it was common ground between the parties that the application of the principle of legal certainty was not the relevant issue in this case.  Instead, the real issue related to the nature of the offence in question and the ambit of what might or might not constitute a reasonable excuse for non-compliance with the traffic sign in question.
+
+D. The contentions on appeal
+
+D.1 The correct starting point
+
+45.  The correct starting point for a consideration of the offence in question is the legislative scheme, which is addressed in Section B above.  As stated in Section B.3, the interpretation of the sign on its own and without reference to its meaning indicated in the Schedule is not a matter for the cyclist or the court.  However, in the Court of First Instance, the judge identified the first issue before him as being the question of whether the sign was ambiguous, unclear or confusing.  Mr Nigel Kat SC[42] submitted that the judge was correct to have done so and, on that basis, he sought to rely on the judge’s finding that the Figure No. 155 sign is ambiguous, unclear and confusing.
+
+D.2 Not necessary to consider the meaning of the sign separately to its meaning as set out in Schedule 1 of the Regulations
+
+46.  Mr Kat submitted that the judge’s approach was correct as a matter of construction of regulation 3(1) of the Regulations, which is set out above.  He submitted that the requirement of that regulation was that the meaning of a traffic sign shall be in accordance with (i) its content and, separately, (ii) the note relating to it in Schedule 1.  Thus, Mr Kat submitted that it was a matter for the court to determine the meaning of the traffic sign by reference to its content.  If that content is not clear and unambiguous on its own, it is not open to the court to convict a cyclist for failing to comply with it.
+
+47.  We reject that construction of regulation 3(1). Mr Kat’s submission involves reading the words “in Schedule 1, 3 or 4” in the phrase “the meaning of that sign shall be in accordance with its content and the note relating to the Figure of that sign in Schedule 1, 3 or 4” as being solely referable to “the note relating to the Figure of that sign” and not qualifying “its content”.  That is an artificial and strained construction of regulation 3(1).  As a matter of structure, regulation 3(1) does two things: first, it gives power to the Commissioner to erect and place traffic signs; secondly, it provides that “in the case of a prescribed traffic sign” its meaning will be in accordance with “its content and the note relating to the Figure of that sign in Schedule 1, 3 or 4”.  As a matter of language, it is more natural to read “in Schedule 1, 3 or 4” as qualifying both “its content” and “the note relating to the Figure of that sign”, and not merely the latter phrase.
+
+48.  That construction is all the more apparent when one considers regulation 3(1) in context.  Schedule 1 sets out the form and content of various prescribed traffic signs, including their precise dimensions and colours, as well as a description in words of the requirement or restriction thereby indicated.  There are a number of signs specified in Schedule 1, the graphical content of which on their own do not readily indicate their meaning but, when read together with the accompanying note, their meanings are abundantly clear.  For example, Figure No.111 shows the outline of a person in front of the front of a vehicle.  The graphical content of this sign (which is provided for in Schedule 1) is not immediately apparent.  It is only with the benefit of the description in the Schedule, which indicates that the sign denotes the commencement of a “pedestrian priority zone” in which vehicles are to give way to pedestrians, that the meaning becomes clear. Another example is Figure No. 140, which is simply a red cross in a red border with a blue background.  Without reference to the note in Schedule 1, it is not apparent that the sign indicates the requirement “no stopping”.
+
+49.  Mr Kat sought to support his submission of regulation 3(1) by reference to section 110 of the Ordinance, which provides:
+
+“A traffic sign or road marking which is placed on or in a road and is similar to a prescribed traffic sign or prescribed road marking, as the case may be, shall be deemed to be a prescribed traffic sign or prescribed road marking and to have been lawfully so placed unless the contrary is proved, and the fact that a traffic sign or road marking differs slightly in positioning, size, colour or type from a prescribed traffic sign or prescribed road marking shall not prevent such traffic sign or road marking from being a prescribed traffic sign or prescribed road marking, as the case may be, so long as it is visible and the general appearance and meaning of the sign or marking is not thereby materially impaired.”
+
+The argument was that this section requires the court to make a value judgment as to the meaning of a traffic sign since a sign will cease to be a traffic sign if its general appearance and meaning is materially impaired by a variation in its form.  Thus, the importance of the meaning of a sign itself is emphasised in the legislation.
+
+50.  However, this argument misconstrues the purpose and effect of section 110.  That section relates to variations in traffic signs and road markings and its purpose is to deem a sign which is “similar to” a prescribed sign to be a prescribed sign and therefore to have the meaning which is given to it in the Regulations.  One need only have regard to the meaning of the sign conveyed by its content where a variation to a prescribed sign has been used.  In those circumstances, one must ask whether the variation materially impairs its meaning so that it should not be permitted to be deemed to be a prescribed sign with its prescribed meaning.  That inquiry is not engaged in the present case.  But, more importantly, reliance on this section does not afford any support for Mr Kat’s construction of regulation 3(1).
+
+51.  Mr Kat also sought to support his construction of regulation 3(1) by reference to the speech of the Secretary for Transport when moving the Bill which became the RTO in the Legislative Council.  He submitted that the effect of the Secretary’s speech was that, in order to ensure that Hong Kong’s traffic signs would give road users adequate notice of what is required of them, the signs would conform to simple, established and internationally recognised norms and that the system of signage implemented under the Regulations would reflect UK and international practice (subject to necessary variations such as for rickshaws).[43]
+
+52.  It is reading too much into that statement promoting the RTO to treat this as requiring the artificial and strained construction of regulation 3(1) advocated on behalf of the respondent.  The proper construction of regulation 3(1) set out above is clear as a matter of construction of the statutory language in the light of its context and purpose (as to which see paragraph 20 above) and nothing said by the Secretary for Transport suggests that another construction is to be preferred.
+
+D.3 Respondent failed to comply “without reasonable excuse”
+
+53.  It was contended on behalf of the respondent that her failure to comply with the requirement of the Figure No. 155 sign in question was with reasonable excuse because she was confused by the sign.  Her case was therefore that she honestly believed that the sign meant that she could ride her bicycle at the point where she was intercepted by the police sergeant.  Although the magistrate’s finding that the respondent “willfully neglected” the sign might suggest that he did not accept that the respondent honestly so believed, it is questionable whether there was a proper basis for him to reject her evidence in this regard.
+
+54.  Taking the respondent’s excuse, therefore, to be genuine and her belief to be honestly held, the reasonableness of this excuse falls to be assessed in the context of the offence and in the light of the correct answer to the question of whether the meaning of the sign is to be determined by reference to its content alone or also by reference to the note in the Schedule explaining its requirement.  Given that, as already discussed above (in Sections B.3 and D.2), the prescribed meaning of the Figure No. 155 sign is that set out in Schedule 1 and not as determined either by the cyclist or by the court by reference to the sign alone, there is no room, objectively, to conclude that the respondent’s honestly held but mistaken belief as to the meaning of the sign was reasonable.
+
+55.  The judge’s conclusion to the contrary is tainted by his erroneous approach of seeking to interpret the meaning of the traffic sign in question in isolation and without reference to its clear and unambiguous meaning set out in Schedule 1.  This was not a case in which the respondent claimed that she was not aware of the existence of the sign (for example because it was covered by leaves) or that she had good reason to deliberately fail to comply with it (for example because she was fleeing from an assailant).  She simply misunderstood it.
+
+56.  Her misunderstanding was not, however, reasonable.  As already noted, there are a number of traffic signs, the meanings of which are not immediately apparent merely from looking at them. Different people may have different views as to the meaning of those signs.  It would be a recipe for traffic chaos if an honest belief that those signs had different meanings to those set out in the relevant Schedule of the Regulations could constitute a reasonable excuse for not complying with their requirements. In any event, the meaning of a prescribed traffic sign being that set out in the relevant Schedule of the Regulations and reproduced in the Code, it is a simple matter for any cyclist to ascertain the meaning of any applicable traffic sign.  All users of the road have a responsibility to familiarise themselves with the meaning of traffic signs and road markings, since this is important not only in terms of compliance with the Ordinance and Regulations, but also from the perspective of road safety.  This responsibility is also reflected in the treatment of the Code in section 109(5) of the Ordinance.  It is, in these circumstances, unreasonable for a cyclist to rely on a mistaken belief as to the meaning of a particular sign as a reasonable excuse.  This is simply an application of the general principle of law that ignorance of the law is not a defence, which has been applied in the context of the defence of reasonable excuse.[44]
+
+57.  In an argument that ranged over circumstances that included some that were not present in this case, Mr Kat submitted, to the contrary, that the respondent’s mistaken belief was reasonable.  He relied on the fact that other cyclists had not complied with the Figure No. 155 sign, that the judge had found the sign to be “ambiguous, unclear and confusing”, that the driveway intersecting the cycleway where the sign was placed was disused so that the sign was redundant, and that there was no evidence that the respondent posed any risk to any other road user when she cycled beyond the point of the Figure No. 155 sign.  He gave, as an example, a motorist confronted by a traffic light at 3 am which was stuck on red who carefully proceeds after checking that there is no traffic coming against the light.
+
+58.  These matters do not assist the respondent.  The fact that other cyclists may have failed to comply with the requirements of the Figure No. 155 sign at the particular location in question may reflect a deliberate choice on their part to disobey the traffic sign.  Even if it shows that other cyclists were confused, this on its own cannot make the mistaken understanding of the sign reasonable.  The judge’s finding that the sign was “ambiguous, unclear and confusing” is, as already noted, tainted by his erroneous analysis of the statutory scheme and, as will be discussed below, somewhat surprising. It was not the respondent’s evidence at trial that she failed to comply with the traffic sign because she thought it was redundant or that her riding would not pose any risk to any other road user.  In any event, it is not for the court to determine the reasonableness of the placement of the traffic sign, which might be a matter for a judicial review (if proper grounds existed for such a challenge, which was not suggested to be the case here), and the absence of risk to other road users by the commission of the offence is a matter in mitigation of penalty rather than a reasonable excuse for non-compliance.  The traffic light stuck on red at 3am is simply an example of a malfunctioning light, which simply provides another example of a type of circumstance which might constitute a reasonable excuse for non-compliance. 
+
+59.  In support of reasonable excuse on the part of the respondent, Mr Kat relied on the case of R v Murray-Jones Paul.[45]  In that case, the defendant’s conviction for failing to comply with the requirement of a road marking (indicating a bus lane) was quashed on the basis that the relevant road marking was not noticeable because of the conditions prevailing and, furthermore, was inconsistent with road signs placed at the location of his alleged offence which contradicted the road marking.[46]  Although there is no doubt each of these excuses for non-compliance could properly amount to reasonable excuse,[47] neither of these contentions was raised by the respondent in the present case so the decision does not assist the respondent.
+
+60.  Mr Kat also submitted that reference to the Code was not reasonable since a perusal of the section on cycleways (at p.34) indicates that a cyclist will usually have to join or return to the normal road at the end of a cycleway and that a cycle route may cross a road and the cyclist may ride across the road.  The respondent did not suggest these statements in the Code led her to be confused by the traffic sign.  But, in any event, such confusion would not have been reasonable since those statements were not definitive and the requirements of the Figure No. 155 sign are clearly indicated elsewhere in the Code (at pp.30 and 101) which must be read as a whole.  Mr Kat’s submission that cyclists might include those who were illiterate or were of children of young age, who would not therefore read the Code, is simply irrelevant on the facts of this appeal.
+
+61.  Mr Kat relied on an appendix in the evidence of Mr Coward setting out a comparison of various cycling signs in different jurisdictions around the world.  He pointed to the fact that in other jurisdictions, where a sign indicating that cyclists must dismount is depicted by an ideogram (i.e. graphic symbol) it is usually accompanied by words such as “cyclists dismount”.  That may be so, and the conclusion from this is that it may be possible to make a clearer traffic sign, but it does not follow from this that it is reasonable for a cyclist to ignore the prescribed meaning of the Figure No. 155 sign set out in the Schedule.
+
+62.  In sum, the meaning of the Figure No. 155 traffic sign is not for the cyclist to assume and it is not a matter of interpretation by the cyclist of the sign itself divorced from its meaning stipulated in Schedule 1.  A belief, albeit honestly held, that the sign indicates that cycling is permitted, is not a reasonable excuse given the readily available means of ascertaining its meaning from the Schedule and the Code.
+
+E. An analysis of the judge’s reasoning
+
+63.  The basis on which the conviction was set aside by the judge is set out in Section A.3 above.  With respect, he was in error in identifying the first issue in the appeal before him as being whether the traffic sign in question was ambiguous, unclear or confusing.  For the reasons set out above, that was not the correct starting point and it was not a matter for the court to interpret the meaning of the sign rather than to look to its prescribed meaning in Schedule 1.
+
+64.  Although the judge explained his reasons for finding that the sign in question was “ambiguous, unclear and confusing” and that finding is not the subject of this appeal, it is a finding that is tainted by the incorrect approach he adopted.  In any event, it is a finding of fact which, with respect, is somewhat surprising.  It is difficult to see how an ideogram of a person with one hand on the handlebar of a bicycle and the other hand on its seat with the lower limbs in the attitude of a person walking (and not showing the person’s feet on the pedals of the bicycle) could be said to introduce ambiguity or confusion.  But for present purposes it is sufficient to hold that it was not a matter for the judge to determine the meaning of the sign.
+
+65.  For that reason, the judge’s reliance on MacLeod v Hamilton and R (Oxfordshire County Council) v Bus Lane Adjudicator were, with respect, misplaced.  Those cases involved statutory schemes each of which required the court to consider whether the traffic signs in place gave “adequate information as to the effect of the [traffic regulation] order” to road users.  That imposed a duty on the part of the relevant authority to publicise the traffic regulation order by placing signs that provided adequate information as to the effect of the order.  Although there are provisions in the Ordinance that similarly involve a consideration of the adequacy of signage,[48] that is not the legislative scheme here in relation to regulations 50(2) and 61(2).
+
+66.  Whilst the non-disclosed materials might have been relevant to the genuineness of the respondent’s excuse that she was confused by the sign, their actual relevance would have depended on whether the genuineness of that excuse was put in issue by the prosecution.  Since it is not clear that this was conceded by the prosecution, those materials might have been relevant to that extent.  However, they were not relevant to the reasonableness of the asserted excuse since, at most, the non-disclosed materials merely showed that other cyclists entertained the same mistaken belief about the meaning of the sign.  The expert evidence concerning the regulation of cyclists in Hong Kong and abroad might be relevant to the exercise of determining whether other signs might be used to indicate a requirement to dismount but that was not the issue before the judge.
+
+67.  As stated above, the issue of the meaning of the traffic sign not being a matter for the judge, the principle of legal certainty simply did not arise as an issue and the judge erred in holding that it was engaged in the context of the present case.  Neither party had raised this issue before him and, with respect, the judge erred in holding that the principle of legal certainty was not satisfied in relation to the Figure No. 155 sign.
+
+68.  Rather than the meaning of the sign in question, the critical question in this case was whether the respondent had demonstrated a reasonable excuse for failing to comply with the requirements of that sign. Her only asserted excuse was an honest but mistaken belief as to its meaning. For the reasons set out above, this was not a reasonable excuse and the judge was, with respect, wrong to reach a contrary conclusion.
+
+F. Answers to the certified questions
+
+69.  Insofar as necessary, in view of what is set out above, we would answer the certified questions as follows:
+
+(1) As to question (1), see Section C above.  The principle of legal certainty is clearly satisfied in relation to this offence (and other similar offences under the Regulations) because the meanings of the prescribed traffic signs are “adequately accessible and formulated with sufficient precision to enable the citizen to foresee, to a degree that is reasonable in the circumstances, the consequence which a given action may entail so that he may regulate his conduct”.
+
+(2) As to question (2), see Section D.3 above.  A mistaken albeit honest belief as to the meaning of a traffic sign will not, where its meaning is expressly stated in the Regulations and the Schedules thereto and also consistently stated in the Code, constitute a reasonable excuse for failure to comply with the requirement indicated by it.
+
+G. Conclusion and orders
+
+70.  For these reasons, we allowed the appeal.
+
+71.  In the light of this outcome and in view of the minor nature of the offence and the penalty imposed on her, Mr William Tam SC, Deputy Director of Public Prosecutions,[49] sensibly indicated that he did not press for the restoration of the conviction and so we did not order that it be restored.
+
+72.  As to costs, the respondent being legally aided, we made no order as to the costs in this court and in the Court of First Instance. 
+
+73.  As to the costs of the trial, we ordered that any submissions as to why the order in favour of the respondent made by the judge should not be set aside be made in writing.  We now direct the filing of submissions on behalf of the respondent in respect of that matter within 14 days of the date of this judgment, with any reply thereto by the appellant within 14 days thereafter.
+
+ 
+
+ 
+
+(Geoffrey Ma)	(R A V Ribeiro)	(Robert Tang)
+Chief Justice	Permanent Judge	Permanent Judge
+ 	 
+ 	 
+(Joseph Fok)	(James Spigelman)
+Permanent Judge	Non-Permanent Judge
+Mr William Tam SC, DDPP and Mr Ivan Cheung PP, of the Department of Justice, for the Appellant
+
+Mr Nigel Kat SC and Mr Azan Marwah, instructed by Vidler & Co., assigned by the Director of Legal Aid, for the Respondent
+
+    
+
+Annex I
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+AnnexII
+
+ 
+
+Actual sign of Figure No. 155 type:
+
+
+
+Actual sign of Figure No. 156 type:
+
+
+
+[1] In TWS 12847/2013, before Mr Andrew T.C. Mok, Deputy Special Magistrate (Statement of Findings dated 5 May 2014 (“SOF”)).
+
+[2] In HCMA 280/2014, before Zervos J (Judgment dated 20 April 2015 (“CFI Judgment”).
+
+[3] Ma CJ, Ribeiro & Tang PJJ (Determination dated 18 August 2015).
+
+[4] In the respondent’s case, there was reference to previous inconsistent signage at the location in question, namely a Figure No. 155 sign facing cyclists on the other side of the driveway from the end of the cycleway adjacent to lamp post AC 1509.  It was inconsistent in that it suggested a second requirement to dismount just before the resumption of the cycleway.  However, there was no evidence at the trial that the respondent believed that this inconsistent signage was in place at the time of the alleged offence.  In fact, her evidence was that she paid attention to the sign on the other side of the driveway which was the (consistent) Figure No. 156 sign, so the previous inconsistent signage was irrelevant to the appeal.
+
+[5] SOF at [28].
+
+[6] SOF at [32].
+
+[7] SOF at [36].
+
+[8] Ibid. at [39]; this being a reference to the alternative mens rea regime applicable where a statutory offence is silent or ambiguous as to its mental requirements (discussed further below).
+
+[9] Ibid. at [40].
+
+[10] Ibid. at [43].
+
+[11] CFI Judgment at [4].
+
+[12] Ibid. at [19].
+
+[13] Ibid. at [23].
+
+[14] Ibid. at [23] and [24].
+
+[15] Namely a Final Report by Atkins China Ltd dated March 2013 and an Audit Commission Report dated 30 October 2014.
+
+[16] [39]-[40].
+
+[17] Ibid. at [41], [47] and [48].
+
+[18] [1965] SLT 305 per Lord Clyde at 308.
+
+[19] [2010] EWHC 894 (Admin) per Beatson J at [65].
+
+[20] CFI Judgment at [50]-[54].
+
+[21] Ibid. at [56]-[57].
+
+[22] (1979-1980) 2 EHRR 245 at [49].
+
+[23] (2002) 5 HKCFAR 381 per Sir Anthony Mason NPJ at [63].
+
+[24] (2012) 15 HKCFAR 16 per Bokhary PJ at [18]-[21] and per Ribeiro PJ at [71]-[77].
+
+[25] Ibid. at [63] and [69].
+
+[26] HCMA 280/2014 (Decision dated 10 June 2015).
+
+[27] (Cap.374) (“the Ordinance”).
+
+[28] Secretary for Justice v Latker [2009] 2 HKC 100 per Ma CJHC (as Ma CJ then was) at [41].
+
+[29] (2010) 13 HKCFAR 142 (“Hin Lin Yee”).
+
+[30] (2013) 16 HKCFAR 195 (“Kulemesin”).
+
+[31] Hin Lin Yee at [96] and Kulemesin at [41] and [83].
+
+[32] Criminal Procedure Ordinance (Cap.221), s.94A.
+
+[33] See the discussion in Kulemesin at [87]-[89].
+
+[34] HKSAR v Adams Secuforce (International) Ltd [2008] 1 HKLRD 207 at [10]; Securities and Futures Commission v Ernst & Young [2015] 5 HKLRD 293 at [102]-[103].
+
+[35] R v Lennard [1973] 1 WLR 483 at 487G-488B; applied in HKSAR v Poon Kin Bong [2006] 3 HKC 421 at [31], [33]; and discussed in R v G [2010] 1 AC 43 at [81].
+
+[36] R v G (supra) at [81].
+
+[37] See, in a very different context, the case of R v Unah [2012] 1 WLR 545 at [5]-[6].
+
+[38] Mo Yuk Ping v HKSAR (2007) 10 HKCFAR 386 at [61].
+
+[39] (1979-1980) 2 EHRR 245.
+
+[40] Shum Kwok Sher v HKSAR (supra) at [63] (offence of misconduct in public office held not to offend principle); Lau Wai Wo v HKSAR (2003) 6 HKCFAR 624 at [36] (application of principle to bind-over orders); Leung Kwok Hung & Others v HKSAR (2005) 8 HKCFAR 229 at [27] (principle mandated by the expression “prescribed by law”); Mo Yuk Ping v HKSAR (supra) (offence of conspiracy to defraud held not to offend principle); Winnie Lo v HKSAR (supra) at [19]-[21] and [71]-[77] (offences of maintenance and champerty held not to offend principle).
+
+[41] See Chapter 4 at pp.26 and 30, and Chapter 8 at p.101 of the Code (May 2000 Edition), also available online at http://www.td.gov.hk/en/road_safety/road_users_code/index.html.
+
+[42] Appearing, with Mr Azan Marwah, on behalf of the respondent.
+
+[43] Respondent’s Case at [33], referring to Hong Kong Hansard (28 July 1982) at p.1109.
+
+[44] See: Johnson v Youden [1950] 1 KB 544 at 546; and R v Jones [1995] QB 235 at 242.
+
+[45] HCMA 1189/1988, unrep., Hooper J, Judgment dated 10 January 1989.
+
+[46] Ibid. at [27], [36], [41]-[43].
+
+[47] See also, e.g. as to inconsistency between a road marking and a traffic sign, HKSAR v Lai Tai Kwong, HCMA 917/1986, unrep., Hopkinson J, Judgment dated 2 October 1986.
+
+[48] See sections 40(3) and 40(6) of the Ordinance concerning variations of speed limits and the requirement for speed limit signage to “give adequate guidance or notice to drivers” as to the applicable speed limit.
+
+[49] Appearing with Mr Ivan Cheung, PP, on behalf of the appellant.
+
+ 

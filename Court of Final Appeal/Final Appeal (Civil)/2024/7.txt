@@ -1,0 +1,1426 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No. 4 of 2024
+
+[2024] HKCFA 30
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 4 OF 2024 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 558 OF 2020)
+
+________________________
+
+BETWEEN	 	 
+NG HON LAM EDGAR	Applicant
+and
+SECRETARY FOR JUSTICE
+Respondent
+(By Original Action)	
+AND BETWEEN	 	 
+LI YIK HO	Applicant
+(Respondent)
+and
+SECRETARY FOR JUSTICE
+Respondent
+(Appellant)
+(By Order to carry on proceedings dated 8 April 2021 substituting Ng Hon Lam Edgar upon death)
+
+________________________
+
+Before:	Chief Justice Cheung, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Lam PJ and Mr Justice Stock NPJ
+Date of Hearing:	8 October 2024
+Date of Judgment:	26 November 2024
+____________________
+
+JUDGMENT
+
+____________________
+
+Chief Justice Cheung:
+
+1.  I agree with the joint judgment of Mr Justice Ribeiro PJ and Mr Justice Fok PJ and the concurring judgment of Mr Justice Lam PJ. 
+
+2.  In R (Elan-Cane) v Secretary of State for the Home Department, [1] the UK Supreme Court, following Strasbourg jurisprudence,[2] accepted that preserving the “coherence of the administrative and legal practices within the domestic system” can be a legitimate, and even significant consideration in determining whether an impugned measure amounts to a failure by the state to comply with its positive obligation to secure the complainant’s right to respect for private life under Article 8 of the European Convention on Human Rights.[3]  Whether this acceptance may be extended to other contexts involving different fundamental rights, particularly the right to equality, is a distinct issue that does not require final determination in this appeal.  But even if it could be so extended, the existence of the claimed coherence must first be satisfactorily established. Secondly, whilst the weight attributed to such coherence will inevitably depend on the nature of the right at issue, along with other relevant considerations and the specific facts of each case, it is highly doubtful whether coherence alone could ever suffice to justify differential treatment based on an inherently suspect ground in a discrimination challenge.  In the present case, as is fully explained in the joint judgment of Mr Justice Ribeiro PJ and Mr Justice Fok PJ, the coherence asserted by the Secretary for Justice is absent.  The statutory definition of “marriage” differs from ordinance to ordinance depending on the specific legislative purpose to be served.  Moreover, even with respect to the requirement of “heterosexual marriage”, the supposed uniformity in our laws has been punctured by exceptions.  This is completely different from the situation in Elan-Cane, where a uniform approach to gender, based on a binary model, was consistently adopted across the legislative and administrative framework.  Accordingly, the Secretary for Justice’s case on maintaining coherence fails in limine. 
+
+Mr Justice Ribeiro PJ and Mr Justice Fok PJ:
+
+A.  Introduction
+
+3.  This appeal concerns two ordinances, the Intestates’ Estates Ordinance (Cap 73) (“IEO”) and the Inheritance (Provision for Family and Dependants) Ordinance (Cap 481) (“IPO”), and raises issues as to whether the exclusion of spouses in same-sex marriages from certain provisions in those ordinances (identified in Section B) amounts to unlawful discrimination.  The courts below held that they did[4] and, with the leave of the Court of Appeal,[5] the Secretary for Justice (“SJ”) appeals against those judgments to this Court.
+
+4.  The respondent is the late Mr Ng Hon Lam, Edgar. Mr Ng was born in Hong Kong and was a Hong Kong permanent resident.  He was gay and, in 2012, he met Mr Li Yik Ho, another Hong Kong permanent resident.  They entered into a relationship and chose in 2016 to formalise that relationship by entering into a same-sex marriage in January 2017 in England and Wales.  It was Mr Ng and Mr Li’s wish to live together as a family and also to share each other’s property and assets in marriage and after the death of one of them.
+
+5.  In April 2018, Mr Ng purchased a flat under the Housing Authority’s Home Ownership Scheme (“HOS”) to be used as the couple’s matrimonial home.  Under the Housing Authority’s HOS policy, which is separately challenged in related proceedings, Mr Li cannot be either an authorized occupant or a joint owner of the flat because he is not recognised as the spouse of Mr Ng.  It was Mr Ng’s concern that, should he die intestate, his properties and assets, including the HOS flat, would not pass to Mr Li under the IEO.
+
+6.  In June 2019, Mr Ng wrote to the SJ, the appellant in this appeal, requesting clarification as to whether the Government of the Hong Kong Special Administrative Region accepted that same-sex marriages performed according to the laws of foreign jurisdictions would be recognised as marriages for the purpose of probate, inheritance and intestacy.  It was contended, on behalf of Mr Ng, that Mr Li should be regarded as his spouse for the purpose of the IEO and other statutes including the IPO.  The SJ replied in August 2019 declining to provide this clarification, leading to the judicial review proceedings instituted by Mr Ng giving rise to this appeal.
+
+7.  Mr Ng died intestate in Hong Kong on 7 December 2020, after the first instance judgment in the judicial review.  By consent, in April 2021, an order was made to join Mr Li as a party to the proceedings to carry them on in substitution for Mr Ng.
+
+B.  The challenged provisions
+
+8.  The statutory provisions under challenge are those identifying who are married persons for the purposes of the IEO and the IPO.
+
+9.  The IEO was enacted, in 1971, to amend the law relating to the distribution of intestates’ estates.  By s 4, the IEO creates a scheme of statutory trusts in favour of various persons whom it is presumed the intestate would wish to share in his estate after his death.  By s 7, it also provides for a right of the surviving husband or wife of an intestate to acquire the premises in which the surviving husband or wife was residing at the time of the intestate’s death.  However, in the IEO, s 2 defines “husband” and “wife” in relation to a person as meaning “a husband or wife of that person by a valid marriage” and by s 3 of the IEO, it is provided that a “valid marriage” means:
+
+“(a) a marriage celebrated or contracted in accordance with the provisions of the Marriage Ordinance (Cap 181);
+
+(b) a modern marriage validated by the Marriage Reform Ordinance (Cap 178);
+
+(c) a customary marriage declared to be valid by the Marriage Reform Ordinance (Cap 178);
+
+(d) a marriage celebrated or contracted outside Hong Kong in accordance with the law in force at the time and in the place where the marriage was performed.”
+
+10.  The IPO empowers the court to make orders for the making, out of a deceased person’s estate, of provision for certain members of that person’s family and dependants of that person.  Under s 3(1) of the IPO, where a person dies domiciled in Hong Kong or having been ordinarily resident in Hong Kong at any time in the three years immediately preceding death and is survived by any of a list of specified persons, that person may apply to the court for an order under s4 on the ground that the disposition of the deceased’s estate effected by his will or the law relating to intestacy, or the combination of his will and that law, is not such as to make reasonable financial provision for the applicant.  The list of specified persons includes the “wife” or “husband” of the deceased.  However, like the IEO, the IPO, by s 2, defines “husband” and “wife” in relation to a person as meaning “a husband or wife by a valid marriage” and a “valid marriage” as meaning the same four categories as set out in IEO s 3 (see above).
+
+11.  It has been common ground, throughout the course of these proceedings, that as a matter of statutory construction “valid marriage” in s 3 of the IEO and s 2 of the IPO means a heterosexual marriage, i.e. a marriage between an opposite-sex couple, and does not include a homosexual marriage between a same-sex couple.  It has also been common ground that the surviving spouse of a same-sex marriage cannot qualify as a “husband” or “wife” respectively under s 3 of the IEO or s 2 of the IPO for the purposes of entitlements under those two ordinances.[6] As such there is a clear differential of treatment between a same-sex couple married in a jurisdiction where same-sex marriage is valid and a married opposite-sex couple.
+
+12.  Although the surviving spouse of a same-sex marriage cannot qualify as “husband” or “wife” under the IPO, he or she may apply for an order under s 4 of the IPO as being a person within s 3(1)(ix) of the IPO, namely “any person … who immediately before the death of the deceased was being maintained, either wholly or substantially, by the deceased”.  However, as will be apparent, such a person differs from a surviving spouse in that he or she must show the fact of maintenance by the deceased before death.  In addition, a husband or wife applying for an order under s 4 of the IPO is entitled to “such financial provision as it would be reasonable in all the circumstances of the case for such a person to receive, whether or not that provision is required for his or her maintenance” (per IPO s 3(2)(a)).  A surviving spouse of a same-sex marriage, therefore, applying under s 3(1)(ix) of the IPO as a person who was being maintained by the deceased, is only entitled to “such financial provision as it would be reasonable in all the circumstances of the case for the applicant to receive for his maintenance” (per IPO s 3(2)(b)).  This constitutes a further difference in treatment between a spouse in a heterosexual marriage and one in a same-sex marriage.
+
+C.  The constitutional challenges to the provisions
+
+13.  By reason of the different treatment between a married same-sex couple and a married opposite-sex couple under the provisions of the IEO and IPO identified in Section B above, Mr Ng brought judicial review proceedings against the SJ seeking declaratory and other relief.  Mr Ng argued that the challenged provisions were unlawful and unconstitutional on various grounds.  The ground of challenge relevant to this appeal is Mr Ng’s contention that the provisions were unlawful and unconstitutional in that they amounted to unjustified differential treatment on the prohibited ground of sexual orientation in breach of the principle of equality before the law guaranteed by Article 25 of the Basic Law (“BL25”) and Articles 1(1) and 22 of the Hong Kong Bill of Rights (“BOR1(1)” and “BOR22”).[7]
+
+14.  At first instance, Chow J held in favour of Mr Ng and made a declaration that “valid marriage” in s 3 of the IEO and s 2(1) of the IPO should be read by way of remedial interpretation as:
+
+“a marriage celebrated or contracted outside Hong Kong in accordance with the law in force at the time and in the place where the marriage was performed, including any marriage where the persons are of the same sex and such marriage between them would have been a valid marriage under this Ordinance but for the fact only that they are persons of the same sex”.
+
+15.  Chow J also ordered that, for the purposes of the IEO and IPO: references to “husband and wife” should be read as “a married person and his or her spouse”; “husband or wife” should be read as “a married person or his or her spouse”; and “husband” and “wife” in relation to a person should be read as “a spouse of that person by a valid marriage”.
+
+16.  The SJ appealed to the Court of Appeal, raising three grounds of appeal challenging Chow J’s conclusions that: (1) for the purposes of the IEO and IPO, Mr Ng and Mr Li, being a same-sex couple married in a jurisdiction where same-sex marriage is recognised, were in a comparable position to a married opposite-sex couple and were subject to differential treatment by the marriage provisions in those ordinances; (2) treating the aims of the challenged provisions identified by the SJ as legitimate, they were not rationally connected to the differential treatment; and (3) in any event, the differential treatment failed the proportionality test.  The Court of Appeal upheld Chow J and dismissed the SJ’s appeal.
+
+17.  The Court of Appeal granted the SJ leave to appeal to this Court to raise the three questions of law which are addressed in this judgment in the sections that follow.[8]
+
+D.  The structure of this judgment
+
+18.  There is some overlap between the issues in this appeal and in the related appeals concerning policies of the Hong Kong Housing Authority which were heard immediately before this appeal[9] and this judgment should therefore be read together with the Court’s judgment in those other appeals.[10]
+
+19.  As stated in that judgment, when a constitutional challenge is mounted against an impugned measure, whether a legislative provision, some executive or administrative policy or act or decision, the Court will adopt the five-stage approach described in HKSAR v Ng Ngoi Yee Margaret.[11]
+
+20.  Stage 1 of the five-stage approach involves identifying the constitutional right relied on by the complainant and the impugned measure.  In this case, the constitutional right relied upon is the right to equality guaranteed by BL25 and BOR22 and the impugned measures are the matrimonial provisions in the IEO and IPO set out in Section B above.
+
+21.  Stage 2 involves asking whether and on what grounds the impugned measure is said to encroach upon and thus to engage that right. In a case like the present this involves a comparison exercise to determine if there is relevantly differential treatment of the complainant based on a prohibited ground adopting the approach described in QT v Director of Immigration (“QT”)[12] and Leung Chun Kwong v Secretary for the Civil Service (“Leung”).[13]
+
+22.  If there is relevantly differential treatment, it then falls to examine, as Stage 3, if it can be justified adopting the four-step proportionality test for constitutional review (also known as the justification test in cases of alleged unlawful discrimination)[14] as set out in Hysan Development Company Limited v Town Planning Board (“Hysan”).[15]
+
+23.  If the differential treatment cannot be justified, it falls to determine at Stages 4 and 5 how the Court will deal with the impugned measure.
+
+24.  The Questions on which leave to appeal was granted engage issues that arise at Stages 2 and 3 of the Court’s five-stage approach.  Question 1 concerns the issue of comparability as part of the inquiry at Stage 2.  Questions 2 and 3 concern the issue of justification of the impugned measures, arising at Stage 3.  Subsequently, an issue arises under Stage 4.
+
+PART I.  QUESTION 1
+
+25.  Question 1 concerns the issue of comparability and asks as follows:
+
+“Is the status of marriage a distinguishing characteristic in the context of the Marriage Provisions, rendering same-sex married couples and opposite-sex married couples not relevantly comparable in this context, given the interrelationship between the laws of inheritance and matrimony, which also impose expectations and legal obligations that apply to married persons only, namely the Lifetime Marital Maintenance Duty?”
+
+26.  As the Court noted in Leung, whether treatment is relevantly different such as to require justification is always a matter that is dependent on context.[16]
+
+27.  The present case is concerned with intestacy and succession and, in particular, with provisions in ordinances concerned with the scheme for the distribution of an intestate’s estate and ordering reasonable financial provision out of a deceased’s estate.  As the Law Reform Commission of Hong Kong’s Report on the Law of Wills, Intestate Succession and Provision for Deceased Persons’ Families and Dependants explains, the IEO scheme is based upon the presumed intention of a hypothetical testator and “the assumption that people who die intestate would, if they had made a will, have wished to make provision for certain classes of near relations, preferring some of those relations to others”.[17] In the scheme of the IEO, the surviving spouse of an intestate is assumed to be the primary recipient as his nearest relation.  Hence, the surviving spouse is given priority as between the deceased’s other relations for the distribution of the residuary estate of the deceased (under s 4) and for the acquisition of the matrimonial home (under s 7).
+
+28.  The IPO, by s 3, similarly prioritises the surviving spouse in providing he or she may apply for an order under s 4 of that ordinance regardless of whether he or she was being maintained by the deceased at the time of death (s 3(1)(i) cf. s 3(1)(ix)) and may seek reasonable financial provision whether or not that is required for his or her maintenance (s 3(2)).
+
+29.  In the context of these two ordinances, it is unsurprising that priority is accorded to the surviving spouse of the deceased. Under the IEO, such priority flows from the fact that the deceased’s spouse is the person it is presumed the deceased would intend primarily to provide for after his death, a presumption naturally arising from the close inter-personal relationship constituted by marriage.  Similarly, under the IPO, the deceased’s spouse is given preferential treatment in that reasonable financial provision may be provided regardless of whether that is required for maintenance.  For these purposes, as in Leung, there is no obvious reason to regard a couple who have entered into a same-sex marriage valid under the law of the place it was entered into as having any less relevant a close inter-personal relationship as a married opposite-sex couple.
+
+30.  In the case of Mr Ng and Mr Li, their same-sex marriage was one validly entered into in England and Wales as evidenced by the marriage certificate exhibited by Mr Ng.  It had the same characteristics of publicity and exclusivity which distinguish a heterosexual marriage.[18] The characteristic of publicity arises out of the formal and public record of the various particulars pertaining to the entry of their marriage pursuant to the Marriage Act 1949 in their marriage certificate.  The characteristic of exclusivity arises out of the legal consequences of their marriage under the law of England and Wales.[19]
+
+31.  A valid foreign same-sex marriage goes beyond a mere relationship of cohabitation, even one that is widely acknowledged and of long duration.  As noted in Leung, the material fact established by the marriage certificate in this case is that Mr Ng and Mr Li publicly and exclusively entered into a valid same-sex marriage under the laws of England and Wales, where such marriages are lawfully recognised and constituting “a public undertaking, carrying with it a body of rights and obligations of a contractual nature” [20] which are imposed on the relationship by statute.  This is more than a mere relationship of cohabitation and explains why such a relationship would not have the same readily identifiable characteristics of publicity and exclusivity that positively identify a married same-sex couple as being comparable to a married opposite-sex couple.[21]
+
+32.  The SJ nevertheless invites the Court to answer Question 1 in the affirmative and challenges the conclusions of the courts below that Mr Ng and Mr Li, as a married same-sex couple, were in a relevantly analogous situation to that of a married opposite-sex couple for the purposes of the IEO and IPO.  The SJ’s case (“SJC”) in this regard is essentially founded on three principal contentions.[22]
+
+(1)  First, it is contended that same-sex marriage is different from marriage as constitutionally protected in Hong Kong and confers a special status incompatible with the conferment of equivalent rights on same-sex couples under the IEO and IPO.  This may be described as the “status of marriage” argument.
+
+(2)  Secondly, it is contended that the laws of inheritance and matrimony are tightly intertwined and the IEO and IPO adopt the definitions of valid marriage in the Marriage Ordinance (“MO”)[23]  and Marriage Reform Ordinance (“MRO”)[24]and these ordinances should be approached and understood as a coherent package.  This may be described as the “coherence” argument.
+
+(3)  Thirdly, under Hong Kong matrimonial legislation, there are particular expectations and legal obligations that apply to married persons and not others to provide “reasonable maintenance” for their spouse.  This is defined in the SJ’s case as the “Marital Maintenance Duty”, on the basis of which it is contended that a same-sex couple cannot be analogous to married persons for the purposes of the IEO and IPO.  This may be described as the “Marital Maintenance Duty” argument.
+
+33.  For the reasons that follow, we would reject each of the arguments advanced by the SJ as to why a married same-sex couple is not in an analogous situation to a married opposite-sex couple for the purposes of the IEO and IPO.
+
+E.1   The status of marriage argument
+
+34.  The SJ’s status of marriage argument posits that same-sex marriage remains different from marriage.  The SJ points to the fact that, under Hong Kong law, the constitutional right to marry under BL37 is restricted to heterosexual marriage only and the argument that BL25 can be relied upon to assert a right to same-sex marriage or that it is discriminatory not to afford legal recognition to foreign same-sex marriage is precluded: see Sham Tsz Kit v Secretary for Justice (No.1) (“Sham”).[25]  BL37 is the lex specialis on the right to marriage and, it is contended, BL37 confers a special status incompatible with the conferment of equivalent rights on same-sex couples under the IEO and IPO.
+
+35.  The fundamental flaw in this argument is that reliance on the status of marriage as justification for the differential treatment is objectionable as being circular in that it relies on the very ground for that differential treatment as its justification: see QT[26] and Leung.[27]  The vice of such circular reasoning was identified in Baroness Hale’s judgment in Rodriguez v Minister of Housing of Gibraltar,[28] namely it equates the ground for the difference in treatment with the reason for saying the person being treated differently is not in an analogous situation.
+
+36.  It was acknowledged in Leung that it was possible that, depending on the circumstances, the status of marriage itself could be a distinguishing characteristic but its relevance and weight must be taken into account in determining if differential treatment is justified.[29]  However, in both QT and Leung, the relevant contexts did not make the status of marriage relevant.  In QT the context was immigration control and the issue of dependency visas to persons from overseas who were dependent on those admitted to live and work in Hong Kong.  Leung concerned financial spousal benefits in the contexts of employment and taxation conferred on the basis of marriage.  The same-sex couple in each of those cases was held to have been in an analogous situation to a married opposite-sex couple.
+
+37.  Similarly, in the present case, there is no reason to treat the status of marriage as determinative for the purposes of the IEO or IPO.  Since the purpose of the ordinances is to lay down a scheme for the distribution of the deceased’s residuary estate to his relatives, logic would dictate that a surviving same-sex spouse should be included as a beneficiary due to the close inter-personal relationship between a married same-sex couple.  In any event, the presumed intention to benefit relations of the deceased under the IEO and the power to redress a failure to make reasonable provision to family members and dependants under the IPO extend to relations of the deceased other than his surviving spouse[30] and so do not depend on the relationship or status of marriage.
+
+38.  Nor is there any substance in the SJ’s asserted concern that giving a married same-sex couple the equivalent rights as those given to a married heterosexual couple under the IEO and IPO, despite same-sex marriage not being valid under Hong Kong law, would dilute the status of marriage.  Given the context of the IEO and IPO identified above, treating a same-sex couple in a same-sex marriage recognised as being analogous to a married opposite-sex couple for the purposes of the IEO and IPO does not entail recognition of the same-sex couple as having the same status as that of being married under Hong Kong law.
+
+39.  For the same reason, Sham[31] does not assist the SJ on the issue of comparability.  Sham concerned a claim to a constitutional right to same-sex marriage by reason of the right to equality enshrined in BL25 and BOR22, alternatively that the laws of Hong Kong, insofar as they did not recognise foreign same-sex marriages, constituted a violation of the right to equality.[32] To the extent that the claim in Sham was directed towards a constitutional right to marry, BL37 was the lex specialis in the Basic Law that limited that right to heterosexual couples only and the Court held that it would be inconsistent with that specific provision to permit reliance on the more general right to equality in BL25 and BOR22 either to mount a claim for a constitutional right to same-sex marriage or to challenge the application of the common law conflict of laws rule concerning the capacity to enter into a marriage.[33]  In contrast with the claim in Sham, the claim in the present case is not one seeking to achieve the status of marriage for a same-sex couple.
+
+E.2   The coherence argument
+
+40.  The SJ’s coherence argument proceeds from the contention that Hong Kong legislation in respect of inheritance comprises an array of interconnected ordinances.  The IEO and IPO both adopt the definitions of valid marriage in accordance with the definitions in the MO and the MRO.  Those ordinances confine a valid marriage in Hong Kong to a monogamous, heterosexual matrimonial union, formally celebrated.  Hence, the argument continues, confining spouses and marriages in the IEO and IPO to opposite-sex spouses and heterosexual marriage only is consistent with that scheme and is necessary to achieve coherence with the laws of inheritance and matrimony.
+
+41.  In cases alleging unlawful discrimination, the question of comparability as to whether the complainant is in a like position to another for the purposes of demonstrating if there is differential treatment on a prohibited ground will often require consideration of the justification put forward for the allegedly different treatment.  This arises because of the need to ask “why” the complainant is being treated less favourably than another.[34]  As the Court has previously observed,[35] it will be the rare case where the court will be able to answer if there has been unlawful discrimination without any recourse to the issue of justification.
+
+42.  In the present case, the coherence argument is also the principal plank in the SJ’s argument that the differential treatment of the surviving spouse of a same-sex marriage is justified under the four-step proportionality test.  That justification argument is addressed in answering Question 2 in this appeal (see PART II of this judgment below).
+
+43.  For the reasons more fully there set out, the coherence argument is inherently flawed because the definitions of valid marriage in the IEO and IPO differ from those in the MO and Matrimonial Causes Ordinance (“MCO”)[36] and the claimed coherence simply does not exist.  It follows that the coherence argument cannot provide a sound basis for contesting comparability between the surviving spouse of a married same-sex couple and the surviving spouse of a heterosexual marriage for the purposes of the IEO and IPO.
+
+E.3   The Marital Maintenance Duty argument
+
+44.  The Marital Maintenance Duty argument posits that there is no comparability between a married same-sex couple and a married opposite-sex couple for the purposes of the IEO and IPO because, under Hong Kong law, particular expectations and legal obligations apply distinctly to married persons and not others.  The SJ refers to the Matrimonial Proceedings and Property Ordinance[37] s 8 and the Separation and Maintenance Orders Ordinance[38] ss 3 and 5 which impose duties on married persons to provide reasonable maintenance for their spouse.  This is the duty defined by the SJ as “the Marital Maintenance Duty”.[39]
+
+45.  The Court of Appeal rejected this argument as providing any material difference between married same-sex couples and married heterosexual couples.  As the Court of Appeal pointed out, the definition of “valid marriage” in s 3(d) of the IEO includes foreign marriages but does not impose any requirement beyond the fact that it was entered into “in accordance with the law in force at the time and place where the marriage was made” and there is no requirement to show that the foreign law imposed any legal obligation on the deceased to maintain his or her married partner during their lifetime.[40] The Court of Appeal also relied on the fact that both the IEO and IPO include classes of beneficiaries to whom the deceased owed no legal obligation to maintain, such as parents and siblings, to demonstrate inconsistency with the Marital Maintenance Duty relied upon.[41]
+
+46.  Moreover, the IEO and IPO both provide for beneficiaries other than those to whom a deceased owed any legal duty of maintenance.  In the case of the IEO, these include parents, siblings, nephews and nieces, grandparents, uncles and aunts.[42] The IPO also includes, as a category of potential applicant for financial provision, “any person (not being a person included in the foregoing paragraphs of this subsection) who immediately before the death of the deceased was being maintained, either wholly or substantially, by the deceased”.[43]  Any obligation on the part of the deceased to maintain those more distant relations would only be moral rather than legal.
+
+47.  Further, a surviving spouse is entitled under s 3 of the IPO to apply for an order for financial provision under s 4 of the IPO regardless of whether he or she was in fact being maintained by the deceased. The position of a surviving spouse may be contrasted with that of a surviving former spouse who was being maintained by the deceased before his death (IPO s 3(1)(ii)).
+
+48.  We therefore respectfully agree with the Court of Appeal that the inclusion in the scheme of the IEO and IPO of foreign marriages without reference to the need to establish a legal duty of maintenance and of beneficiaries to whom no legal duty of maintenance is owed fundamentally undermines the SJ’s reliance on the Matrimonial Maintenance Duty in this respect.
+
+49.  The SJ nevertheless submits that the Court of Appeal erred in rejecting the proposition that the intestacy scheme under the IEO and IPO is “rooted in the Marital Maintenance Duty” which was described as the primary line of distinction on which the scheme in those ordinances is based.  Thus, it was argued, same-sex married couples are not relevantly comparable in this context because of the clear legislative policy to render the right to inherit as one inextricably linked to that of heterosexual marriage in Hong Kong.[44]
+
+50.  Stripped to its core, the SJ’s Marital Maintenance Duty argument seeks to isolate spouses from all other relatives of a deceased dealt with in the legislation and to identify particular attributes of such spouses as being determinative of comparability in this context.
+
+51.  This approach, however, suffers the same flaw as the SJ’s status of marriage argument in that it is ultimately a circular argument.  The reason it is said same-sex couples are not comparable is that they are not married under Hong Kong law.  It relies on the very ground of the impugned differential treatment as its justification.
+
+52.  More fundamentally, the Marital Maintenance Duty argument mischaracterises the statutory purposes of the IEO and IPO.  Neither of those ordinances is concerned with the provision of maintenance to a spouse during the lifetime of the deceased.  Rather, the IEO and IPO concern respectively the distribution of an intestate’s estate after death and the making of financial provision for various persons related to the deceased to whom reasonable financial provision has not been made either under the deceased’s will or under the law relating to intestacy.  It is simply inapt to limit comparability between spouses ignoring those wider statutory purposes.
+
+53.  The cases of Re P[45] and Volks v Robinson[46](“Volks”) do not assist.  Various passages in those cases were relied upon by the SJ in support of the contention that marriage brings with it legal rights and obligations between a couple which unmarried couples do not have and, in particular, that upon marriage there is an obligation assumed by spouses to maintain one another.[47] Even accepting that proposition, this cannot affect the statutory purposes of the IEO and IPO which are to be ascertained by examining the legislation itself and it is in the context of those statutory purposes that the question of whether a married same-sex couple is analogous to that of a heterosexual married couple must be determined.
+
+54.  In any event, both cases are readily distinguishable. Re P concerned the question of whether being unmarried constituted a status for the purposes of Article 14 of the European Convention on Human Rights and whether restrictions under legislation then in force in Northern Ireland on the applicants’ rights as an unmarried couple to adopt a child were lawful.  The legislation in question was concerned with the best interests of the child and the case involved examining the legislative determination that it was preferable for a child to be brought up by parents who were married to each other rather than those who were not.
+
+55.  Volks concerned the interpretation of South African legislation conferring a right on a surviving spouse to claim maintenance from the estate of the deceased spouse. The claim was brought by the survivor of an opposite-sex couple who had not married and the question arose as to whether in consequence there was unlawful discrimination.  The Constitutional Court of South Africa reversed the High Court’s decision that the exclusion of the surviving partner of a permanent life partnership was unconstitutional.  Various dicta in the leading majority judgment[48] suggest a link between a spousal duty to maintain during life and provision for maintenance from the deceased’s estate after death, so that only a spouse who benefitted from the former should be entitled to the latter.
+
+56.  Volks was, however, dealing with particular South African legislation rather than laying down any rule of law of general application.  It was also concerned with unmarried partners of an opposite-sex couple, who had chosen not to marry, rather than a same-sex couple married overseas who were legally disqualified from marriage under Hong Kong law.  It is therefore plainly distinguishable.  In any event, the correctness of Volks has been called into question in subsequent decisions of the Constitutional Court of South Africa.[49]
+
+E.4   Margin of discretion for comparability
+
+57.  In challenging the issue of comparability in the present case, the SJ has advanced the argument that the Government and the Legislature should be afforded a wide margin of discretion on the question of comparability.
+
+58.  In our judgment, it is inappropriate to apply a margin of discretion in the context of assessing comparability.  No authority supports this proposition and it is rightly described by the respondent as a novel argument.[50] It is, in any event, unclear how such a margin of discretion would operate in the context of comparability, since that is a question of law for the court, not a matter of legislative or policy choice.  It is not a matter on which the court should show deference to any other institution. 
+
+59.  The SJ cited two decisions said to support the recognition of a margin of discretion in the context of comparability. However, on analysis, neither case does so.
+
+60.  Burden v United Kingdom[51] concerned a decision by the Grand Chamber of the European Court of Human Rights that unmarried cohabiting siblings were not in an analogous position to married couples or same-sex civil partners.  The substance of the decision rejecting comparability was the consanguinity between the sisters[52] and not the application of any margin of discretion.
+
+61.  Gillian Bingham v Dean Alexander Guidera[53] concerned a claim by a cohabiting partner of the intestate.  It was there held that, since the relationship of cohabitants and spouses differed, differential treatment could be justified.[54] The passage in the judgment affirming “[t]he state’s margin of appreciation in determining how best to deal with the succession rights of cohabitants as compared to spouses must be fully respected”[55] was not specifically directed to the issue of comparability and is wholly consistent with the approach of taking this into account when considering the proportionality of a measure interfering with a right.
+
+62.  It is correct that comparability may be bound up with the question of justification, as we have noted above, and that it may be necessary to consider whether a margin of discretion is to be taken into account on the question of proportionality of a particular infringement of a right.  The proper place of the margin of discretion is at the stage of determining the intensity of scrutiny on the spectrum of reasonableness, whereby the Court gives the decision-maker latitude “in fashioning the impugned measure which encroaches upon the protected right” and affords latitude in “the acceptable range of reasonable alternatives”.[56]
+
+E.5   Conclusion on comparability
+
+63.  For the reasons set out above, we conclude that a same-sex couple married in a jurisdiction in which same-sex marriage is valid is in a relevantly comparable position to a married opposite-sex couple for the purposes of the IEO and IPO. 
+
+64.  We have reached this conclusion without reference to the Court’s order following the decision in Sham requiring the Government to establish an alternative framework for legal recognition of same-sex partnerships.  We note, however, that the SJ’s case records that, following this Court’s judgment in Sham, “the Government is actively taking forward the relevant work … to establish an alternative framework or legal recognition of same-sex partners in Hong Kong”.[57]
+
+65.  Comparability having been established, it follows that the differential treatment of Mr Li, as Mr Ng’s survivor, being based on sexual orientation, a prohibited ground, must be examined to determine if it can be justified.  That being the subject of Question 2 in this appeal, we now turn to address that question.
+
+PART II.   QUESTION 2
+
+66.  Question 2 is framed as follows:
+
+“Is the legitimate aim of having consistent and coherent definitions of ‘valid marriage’ across legislative schemes which touch on the subject of marriage rationally connected to the difference in treatment between same-sex married couples and opposite-sex married couples, taking into account the Government and the Legislature’s prerogative (and now duty following the judgment of the Court of Final Appeal in Sham Tsz Kit v Secretary for Justice [2023] HKCFA 28) to review Hong Kong’s social, policy and legislative context for the purposes of establishing an alternative framework for legal recognition of same-sex partnerships.”
+
+67.  It arises on the footing that the impugned provisions of the IEO and IPO dispense prima facie discriminatory treatment to survivors of same-sex marriages on account of their sexual orientation and addresses possible justification of such treatment, seeking to identify a legitimate aim to which such differential treatment is rationally connected. 
+
+68.  It should be noted that:
+
+(a)  Question 2 assumes first, that it is a legitimate aim to maintain “consistent and coherent definitions of ‘valid marriage’ across legislative schemes which touch on the subject of marriage”. We shall call this the alleged “coherence aim”.
+
+(b)  Secondly, having made that assumption, its focus is on whether the coherence aim is rationally connected with “the difference in treatment between same-sex married couples and opposite-sex married couples”.
+
+(c)  Thirdly, it suggests that the Government’s and the legislature’s “prerogative [and now duty] ... to review Hong Kong’s social, policy and legislative context for the purposes of establishing an alternative framework for legal recognition of same-sex partnerships” should, in some sense, be taken into account.
+
+F.  Legitimate aim to be assumed?
+
+69.  The assumption that the coherence aim is accepted as a legitimate aim is not well-founded.  It appears to be based on a faulty reading of the Court of Appeal’s judgment.[58]
+
+70.  The Court of Appeal in fact held that the alleged legitimate aim had not been made out and also that no rational connection between the impugned differential treatment and such aim had been established.  As Au JA pointed out:
+
+“The central and underlying plank of the Coherence Aim contention rests fundamentally on showing that the IEO and IPO adopt the same one and consistent meaning of marriage as recognised under the matrimonial laws in Hong Kong. It is through this that the purported administrative efficiency is to be achieved as it is not necessary for various government organs or schemes to have to decide which marriage is to be recognised as valid in different contexts. However, for the above reasons, this is simply not made out. On this basis, it also cannot be shown that there is rational connection between the differential treatment under the IEO and IPO (by excluding only same-sex married spouses from entitlements thereunder) and the Coherence Aim.”[59]
+
+71.  As that passage indicates, the coherence aim as advocated in the Court of Appeal was concerned with ensuring administrative efficiency, whereas, as discussed below, it has been recast in the present appeal as the aim of maintaining conceptual and legal coherence across various statutory provisions.  The respondent has throughout denied that the alleged legitimate aim, premised on the existence of a “coherent package”[60] of relevant legislation and on a “marital maintenance duty”, has been established, much less accepted.[61]
+
+72.  It would thus be wrong to proceed on the basis that the coherence aim is accepted as the legitimate aim of the impugned differential treatment.  The first step in the analysis must therefore involve examining the nature and elements of the alleged coherence aim and its legitimacy, before considering whether any rational connection exists between that aim and the impugned differential treatment under the IEO and IPO.
+
+G.  The coherence aim proposed by the SJ 
+
+73.  As we have seen, Question 2 identifies the legitimate aim as “having consistent and coherent definitions of ‘valid marriage’ across legislative schemes which touch on the subject of marriage”.  The SJ submits that “the law of marriage and inheritance are tightly intertwined and mutually reinforcing”.[62] The concern, he argues, is that adoption of a remedial interpretation of the IEO and IPO which affords the surviving party of a same-sex marriage treatment equivalent to that given to the survivor of an opposite-sex marriage would undermine the coherence which allegedly exists generally regarding legislation touching on marital and family life:
+
+“On any view, [the SJ argues] there are serious governmental and legal policy concerns that arise from proposals to drastically redefine/reconstitute the meaning and scope of ‘marriage’ and associated terms in one context (here, intestacy), while in other legislative contexts, particularly those going to other aspects of marital and family life in Hong Kong, the long-established meanings of those terms remain in place.”[63]
+
+74.  Elaborating, the SJ submits that:
+
+“... the legal framework in Hong Kong with regard to matters of marriage and inheritance comprises an array of interconnected ordinances, which all apply the definitions of ‘valid marriage’, ‘husband’ and ‘wife’ adopted in the IEO and IPO. Examples of these ordinances include provisions of the Matrimonial Causes Ordinance (Cap 179), the Marriage Reform Ordinance (Cap 178), and the Marriage Ordinance (Cap 181). The relevant provisions are referred to at §106 of the CA Judgment.[64] See also the Annex to the Appellant’s Case,[65] setting out the various legislative provisions which apply heterosexual marriage in definitions of ‘valid marriage’ or related terms.”[66]
+
+75.  In the Appendix to this judgment, we have set out statutory provisions, including those mentioned in the passage just cited, which relevantly touch on marriage and family life. 
+
+76.  At the heart of the SJ’s argument is the contention that the general legislative scheme caters only for parties to a “traditional” heterosexual, monogamous and formally celebrated marriage, as defined by MO s 40.[67] Accordingly, so it is submitted, recognition of rights under the IEO and the IPO in favour of a surviving same-sex spouse would do violence to the legal and conceptual coherence of the statutory scheme by undermining the centrality of the aforesaid “traditional” marriage:
+
+“... a consistent thread [runs] through the IEO, IPO, MO, MRO and MCO – ‘marriage’ as heterosexual marriage. Maintaining this central organising concept is governmentally legitimate and rational. To effect changes to some provisions by ‘ad hoc’ court interventions instead of ‘comprehensive review’ risks ‘an incoherent state of the law’...”[68]
+
+77.  The coherence aim accordingly involves (i) the premise that legislation touching on marital and family life in Hong Kong forms a “coherent package” in which a “valid marriage” is consistently defined as heterosexual, monogamous and formal;[69] and (ii) the proposition that such coherence would be undermined if the impugned provisions of the IEO and IPO were to be remedially interpreted so as to include within their ambit the survivor of a same-sex marriage.
+
+H.    Is the “coherent package” premise made out?
+
+78.  The SJ’s Case describes the coherence aim in broad terms, encompassing “legislative schemes which touch on the subject of marriage”, “legislation touching on marital and family life” and “an array of interconnected ordinances” regarding “matters of marriage and inheritance”.[70]  However, the detailed argument proceeds on a much narrower basis, focusing on only five Ordinances. The main contention is that the MO, MRO and MCO (referred to as “examples” of such legislation) “all apply the definitions of ‘valid marriage’, ‘husband’ and ‘wife’ adopted in the IEO and IPO”.
+
+H.1   The definitions in the matrimonial Ordinances
+
+79.  So stated, the statutory provisions are curiously inverted.  It would be more accurate to state that the definition of “marriage” adopted in the MO and the two other matrimonial Ordinances is also adopted as part of the definition of “valid marriage” in the IEO and IPO.
+
+(a)  Thus, MO s 40: defines “marriage” as “a Christian marriage or the civil equivalent of a Christian marriage” which “implies a formal ceremony recognized by the law as involving the voluntary union for life of one man and one woman to the exclusion of all others”. It is, in other words, a monogamous, heterosexual matrimonial union, formally celebrated.  The object of this provision and of the MO as a whole is self-evidently to define what constitutes a valid marriage and how parties acquire the status of husband and wife under Hong Kong law.
+
+(b)  The MRO is an adjunct to the MO.  Its main purpose[71] is to set a date (7 October 1971) after which all marriages in Hong Kong may only be contracted in accordance with the MO, replacing the pre-existing system involving customary marriages and unions of concubinage.  Applying that statute’s definition of “valid marriage”, the MRO is thus also concerned with laying down what constitutes a valid marriage under Hong Kong law as well as a modern marriage.
+
+(c)  The MCO, as its name suggests, legislates for matrimonial causes which may arise as between married couples, whether by way of nullity, divorce, separation or other proceedings seeking dissolution of the marriage and related relief.  It confers jurisdiction on the Hong Kong court[72] only in respect of customary marriages within the MRO and “monogamous marriages”.  The latter are defined as marriages celebrated in Hong Kong in accordance with the MO and validated and registered modern marriages under the MRO.  The phrase “monogamous marriage” is further defined to include foreign marriages valid according to the relevant foreign law, but only if the marriage involves “the voluntary union for life of one man and one woman to the exclusion of all others”,[73] echoing the requirement that the marriage be monogamous and heterosexual as stipulated in the MO s 40 definition.
+
+80.  The question which then arises is whether consistency and coherence in fact exist between the definitions in the aforesaid matrimonial Ordinances and those adopted by the IEO and IPO.  Would a remedial interpretation of the latter provisions to include within their provisions the survivor of a same-sex married couple result in undermining any such pre-existing coherence? 
+
+H.2   The IEO and IPO definitions of “valid marriage”
+
+81.  The IEO defines a “valid marriage” as a marriage celebrated or contracted in accordance with the provisions of the MO[74] but importantly, it goes beyond the MO-based definitions by providing that a “valid marriage” additionally means:
+
+“a marriage celebrated or contracted outside Hong Kong in accordance with the law in force at the time and in the place where the marriage was performed.”[75]
+
+82.  “Husband” and “wife” are defined as a husband or wife “by a valid marriage” so defined.[76]
+
+83.  The definition of “valid marriage” in the IPO is in the same terms, applying to a marriage celebrated abroad in accordance with the foreign law.[77] And “husband” and “wife” are also defined as persons having such status “by a valid marriage”.  Moreover, the IPO departs further from the MO s 40 definition by defining a “husband” or “wife” additionally to include:
+
+“... a person who in good faith entered into a void marriage with the deceased unless either (i) the marriage of the deceased and that person was dissolved or annulled during the lifetime of the deceased and the dissolution or annulment is recognized as valid by the law of Hong Kong; or (ii) that person has during the lifetime of the deceased entered into a later marriage”.[78]
+
+H.3   No “coherence” between the two sets of definitions
+
+84.  Thus the IEO and IPO definitions differ from those adopted in the MO, MRO and MCO by embracing foreign marriages which are not “valid marriages” under Hong Kong law.  The IPO also includes “good faith void marriages” obviously not valid under the MO.
+
+85.  It is notable that while the MCO confines jurisdiction to grant relief in a matrimonial suit in relation to a foreign marriage only to cases involving monogamous marriages[79] that restriction is not imported into the IEO and IPO definitions.  Clearly, a wife[80] who had married the intestate or the deceased in a polygamous marriage outside Hong Kong which was valid according to the applicable foreign law, would qualify for the purpose of seeking relief under the IEO and IPO even though, as a matter of Hong Kong law, that marriage is not valid.
+
+86.  As noted above, it was (correctly) taken to be common ground below[81] that, as a matter of statutory construction (as opposed to remedial interpretation on a constitutional review), the references to valid foreign marriages do not extend to cover same-sex marriages since they refer to “husband” and “wife” and thus maintain the requirement of opposite-sex marriage.
+
+87.  The point for present purposes is that even if one confines the examination to the narrow selection of the five Ordinances mentioned, the definitional differences show that the purported “coherence” on which the coherence aim is premised does not exist. 
+
+H.4   Different statutory purposes
+
+88.  That there should be such differences is unsurprising since the two sets of Ordinances pursue entirely different statutory purposes.  The purpose of the MO, as noted above, is to lay down the requirements of a valid marriage which confers the legal status of husband and wife on the parties under Hong Kong law, with the MRO and MCO operating in the same context. 
+
+89.  But the aims of the IEO and IPO are plainly quite different.  The IEO is concerned with distributing a deceased’s estate upon an intestacy, identifying the eligible beneficiaries and regulating their respective rights.[82] Such eligible persons include the surviving husband or wife (defined as aforesaid) and the couple’s issue; as well as the intestate’s parents and whole- and half-blood siblings, grandparents, uncles and aunts.[83]   
+
+90.  The IPO’s objective is to equip the court with power to order reasonable financial provision out of the deceased’s estate in favour of an applicant on the ground that the disposition of the deceased’s estate effected by his or her will and/or the law relating to intestacy is not such as to make reasonable financial provision for the applicant.[84]  Eligible applicants include the deceased’s surviving husband or wife (defined as mentioned above) and dependants of the deceased including dependants who are not related to the deceased.[85]
+
+91.  The legislature’s policy is therefore that persons who qualify as a spouse for a distribution under the IEO and for reasonable provision under the IPO should not be confined only to persons married in accordance with the MO.  There is no good policy reason to impose such a limitation.  If a couple were validly married abroad under a legal system permitting polygamous marriages and then came to live together as husband and wife, taking Hong Kong as their home, there is surely no good reason to disentitle the surviving spouse on an intestacy because of the polygamous nature of their marriage contracted abroad long ago.  The same applies to a person who entered into a good faith but void marriage for IPO purposes. The statutory objective of making provision for such persons explains the definitional differences.  The coherence on which the coherence aim is premised does not exist and its purported protection is not called for in the aforesaid context.  That undermines the submission that such coherence constitutes the legitimate aim justifying the differential treatment in the present case.
+
+H.5   Disparate statutory purposes versus a “coherence aim”
+
+92.  The coherence aim is even more unconvincing when one surveys legislation touching upon marital and family life generally, as suggested by the SJ.  What clearly emerges is that disparate statutory purposes entail adoption of differing definitions of “marriage”, “husband”, “wife” and cognate terms appropriate for the particular legislative purpose in question. The need for definitions suitable for the statutory purpose overshadows any desideratum for there to be coherence between definitions in such Ordinances generally and those in the above-mentioned matrimonial provisions.
+
+93.  Examples of such other legislation fall into several groups.  Thus, a number of Ordinances, while incorporating the MO s 40 definition, expand their scope (as do the IEO and IPO) so as to apply also to “a marriage celebrated or contracted outside Hong Kong in accordance with the law in force at the time and in the place where the marriage was performed”.  
+
+94.  This occurs, for instance, in Ordinances that provide for married women to have capacity in law to hold and deal with property, etc;[86] for a person born out of wedlock to be legitimated upon the subsequent marriage of his or her parents;[87] for determining who is eligible to be an elector as a spouse of an indigenous inhabitant in rural elections;[88] and for enabling a party to a marriage who has been subjected to criminal and other mistreatment at the hands of the other party to seek appropriate orders for separation, etc, from the court.[89]  In all these cases, marriage is an element of the relevant statutory provision and the legislative policy is not to exclude foreign marriages.
+
+95.  Variants within the above-mentioned group of Ordinances incorporate foreign marriages in their definition of marriage, adding a qualification.  Thus, an Ordinance which permits human organ transplants between spouses, includes spouses who contracted a valid foreign marriage, provided that such marriage has subsisted for not less than 3 years.[90]  Another example is the Inland Revenue Ordinance which embraces parties to a foreign marriage but, while recognising that polygamous marriages are included, adds that its definition of marriage “shall not, in the case of a marriage which is both potentially and actually polygamous, include marriage between a man and any wife other than the principal wife”.[91]
+
+96.  A second group of Ordinances involves those concerned with the provision of pensions to surviving spouses.  The legislative policy in these cases is not merely to include foreign marriages, expressly covering marriages which are polygamous, but also affording pension benefits to persons who cohabited with the deceased as that person’s spouse.  Thus, for instance, the Pension Benefits Ordinance[92] provides benefits for the wife of the deceased officer as defined in the MO, but “where there is no [such] wife ... and polygamy lawfully subsists”, it defines “wife” to mean “the principal wife recognized as such by the personal law of the officer” and “widow shall be construed accordingly”.[93]  The Ordinance furthermore covers cohabitees, defining “spouse” to include “any person who can prove to the satisfaction of the Secretary for the Civil Service that he or she cohabits with the officer as the officer’s spouse”.[94]
+
+97.  Plainly in such cases, the legislative purpose is to regard the principal wife in a polygamous marriage and also a person who lived with the officer as a spouse to be deserving of pension benefits so that they should not be excluded by applying the narrow MO s 40 definition of marriage.  The same approach is adopted in the Pension Benefits (Judicial Officers) Ordinance;[95] the Widows and Orphans Pension Ordinance;[96] and the Surviving Spouses' and Children's Pensions Ordinance,[97] although in the latter two statutes, the cohabitee must also be found to be financially dependent on the deceased.
+
+98.  A similarly expanded and inclusive approach can be found in a third group of Ordinances providing for compensation to spouses and persons cohabiting as spouses in cases where the relevant partner has suffered a fatal accident.  Thus the Employees' Compensation Ordinance,[98] includes a “cohabitee”, defined as “any person who at the time of the accident concerned was living with the employee as the employee’s wife or husband”, as a “member of the family” entitled to compensation.  Likewise, the Fatal Accidents Ordinance,[99] entitles any person who had been living “as the husband or wife of the deceased” in the same household for at least two years before the death to benefit from an action for damages against the wrongdoer.  That Ordinance also includes as a “wife” the “lawful principal wife recognised as such by the personal law of the husband”.[100]  The Law Amendment and Reform (Consolidation) Ordinance,[101] makes similar provision enabling an action for damages for the loss of the injured person’s society to be brought (where there is no spouse) by a person who had been living with the injured person in the same household as the husband or wife of the injured person for at least 2 years before accrual of the cause of action.
+
+99.  Most strikingly, a further group of Ordinances exist whose statutory purposes result in their express application to same-sex cohabitants.  Thus, the Domestic and Cohabitation Relationship Violence Ordinance,[102] which aims to protect persons from violence in domestic and cohabitation relationships, extends such protection to persons in a “cohabitation relationship” defined to mean “a relationship between 2 persons (whether of the same sex or of the opposite sex) who live together as a couple in an intimate relationship”.[103]  It enables a party to such a relationship to apply for a non-molestation injunction[104] and lists matters to be taken into account by the court in deciding whether the parties are in a cohabitation relationship, including the following:
+
+“(a) whether the parties are living together in the same household;
+
+(b) whether the parties share the tasks and duties of their daily lives;
+
+(c) whether there is stability and permanence in the relationship;
+
+(d) the arrangement of sharing of expenses or financial support, and the degree of financial dependence or interdependence, between the parties;
+
+(e) whether there is a sexual relationship between the parties;
+
+(f) whether the parties share the care and support of a specified minor;
+
+(g) the parties’ reasons for living together, and the degree of mutual commitment to a shared life;
+
+(h) whether the parties conduct themselves towards friends, relatives or other persons as parties to a cohabitation relationship, and whether the parties are so treated by their friends and relatives or other persons.”[105]
+
+100.  The aforesaid Ordinance limits the court’s power to grant such an injunction or authorize an arrest “unless the court is satisfied that having regard to the permanence of the cohabitation relationship it is appropriate in all the circumstances to grant that injunction or attach that authorization of arrest.”
+
+101.  While pursuing an entirely different statutory purpose, namely, aiming to ensure “fair dealing” by directors and others, the Companies Ordinance,[106] also recognizes a cohabitation relationship “between 2 persons (whether of the same sex or of the opposite sex) who live together as a couple in an intimate relationship”.[107]  It does so in regulating and prohibiting certain transactions between directors and others with a “connected entity” which is defined to include various entities including a spouse and persons in a cohabitation relationship.[108]
+
+102.  Finally, separate litigation commenced by Mr Li for judicial review against the SJ and the Director of Health,[109] is noteworthy in the present context.  The respondent complained of discrimination in that he was not permitted as his spouse to identify Mr Ng’s body at the public mortuary. Those proceedings were settled, with Chow JA recording the declared position of the Secretary and the Director as follows:
+
+“(1) There is no policy for distinction between opposite-sex couples and same-sex couples for arranging an appointment with the public mortuary for body identification by the police. It is a matter of investigation as to who is in the best interest to be the identifier in the circumstances of each case.
+
+(2) The Forensic Pathology Service does not have a policy of refusing a person to act as an identifier of the deceased or denying that person any service or right on the ground of being the same‑sex spouse of the deceased person.
+
+(3) There is no distinction between same-sex and opposite-sex spouses for the term ‘spouse’ under schedule 2(1) of the Coroners Ordinance.
+
+(4) There is no policy of the Coroner’s Court which denies any rights or gives differential treatment to the same‑sex spouse of the deceased person.
+
+(5) The policy of the Food and Environmental Hygiene Department in respect of services related to cemeteries and crematoria, including services relating to scattering of a deceased’s ashes, does not exclude the right of the same-sex couple of the deceased to handle such arrangements.
+
+(6) There is no policy and internal guideline within the Food and Environmental Hygiene Department which prohibits or restricts in any manner the department from providing services on various after-death arrangements to the same‑sex spouse of the deceased. In particular, there is no restriction that the spouse of the deceased making the application must be one of opposite sex.
+
+(7) Lastly, there is no policy of the Immigration Department which denies a person to apply for a certified copy of an entry in the death register (death certificate) on the ground of being the same‑sex spouse of the deceased person.”
+
+H.6   No coherence in the broad legislative scheme
+
+103.  It is clear from the foregoing survey that legislative policy dictates who should be included as a party to a marriage or to a recognised cohabitation relationship for the particular purposes of each Ordinance.  Where one is only concerned with what constitutes “marriage” under Hong Kong law, a narrow definition, confining “marriage” to monogamous and heterosexual unions, is adopted.  In other contexts, the statutory policy is to extend benefits to surviving spouses whose marriages would not qualify as valid under Hong Kong law but which were valid, even if polygamous or potentially polygamous, in the foreign jurisdictions in which they were celebrated. Legislative policy in many cases goes beyond formal marriages and recognizes de facto relationships akin to that of husband and wife, such as where parties entered into a good faith but void marriage or cohabited as husband and wife. Indeed, it has realistically been accepted in certain contexts, that to achieve the statutory purposes in question, same-sex relationships should be recognized as indistinguishable from opposite-sex marriages.  Such definitional differences pose no conceptual, legal or practical difficulties.  The approach, as always, is to construe each statute contextually and purposively rather than to assume that there is some imperative requiring standardized concepts to be employed.
+
+104.  It follows that the purported legitimate aim of protecting the purported definitional and conceptual coherence said to exist across the legislative board is not made out. 
+
+H.7   Administrative “coherence”
+
+105.  The aim of administrative coherence was also promoted by the SJ as a legitimate aim, although this was not pressed on his behalf by Ms Carrs-Frisk KC.  She was, with respect, right not to do so.
+
+106.  It is apparent from the foregoing survey that many Ordinances confer entitlements on persons in relationships that are not registered or certified, but who may be able to satisfy the relevant authority (such as the Secretary for the Civil Service[110]), of having cohabited with the other person as that person’s spouse.  Some statutes set out the matters to be taken into account in deciding whether such cohabitation is established, as with the Domestic and Cohabitation Relationships Violence Ordinance.[111] Such verification exercises are a commonplace administrative task and pose no inordinate burdens on the government agency concerned.
+
+107.  In the present case, the availability of an official marriage certificate evidencing the same-sex marriage in the United Kingdom makes verification simple.  The documentation required is sometimes specified as it is, for example, in regulation 2A of the Human Organ Transplant Regulation,[112] regarding documents concerning the spousal relationship necessary to permit an organ transplant.  The regulation states:
+
+“2A. Establishment of marriage that has subsisted for not less than 3 years
+
+For the purposes of section 5A of the Ordinance, where a medical practitioner is—
+
+(a) to remove an organ from a living person with the intention of it being transplanted into another person who is, at the time of the transplant, the spouse of the person from whom the organ is to be removed and the marriage has subsisted for not less than 3 years; or
+
+(b) to transplant the organ referred to in paragraph (a) into such spouse of such marriage,
+
+the fact of such relationship shall be established by means of—
+
+(i) any document or documents—
+
+(A) issued under the Marriage Ordinance (Cap 181) or the Marriage Reform Ordinance (Cap 178) which shows or show that the 2 persons are the parties to—
+
+(I) a marriage celebrated or contracted in accordance with the provisions of the Marriage Ordinance (Cap 181);
+
+(II) a modern marriage validated by the Marriage Reform Ordinance (Cap 178); or
+
+(III) a customary marriage declared to be valid by the Marriage Reform Ordinance (Cap 178); or
+
+(B) equivalent to any document or documents issued under the Marriage Ordinance (Cap 181) or the Marriage Reform Ordinance (Cap 178) which shows or show that the 2 persons are the parties to a marriage celebrated or contracted outside Hong Kong in accordance with the law in force at the time and in the place where the marriage was performed; and
+
+(ii) a statutory declaration by either of the 2 persons to the effect that the marriage has subsisted for not less than 3 years.”
+
+H.8   R (Elan-Cane) v Secretary of State for the Home Department[113]
+
+108.  The SJ relies heavily on the United Kingdom Supreme Court’s decision in the above-mentioned Elan-Cane case in support of the proposition that coherence constitutes a legitimate aim capable of justifying the differential treatment in the present case.  We are, as explained above, unable to accept that proposition and are also unable to accept Elan-Cane as the basis for its acceptance.
+
+109.  The circumstances in Elan-Cane are a long way from the situation arising in the present appeal and are readily distinguishable.  The Appellant there was born female.  She felt revulsion at her female body, was diagnosed with gender dysphoria and had a bilateral mastectomy and hysterectomy.  She then identified herself as “non-gendered” but unsuccessfully applied to be issued a passport with “X” as a gender marker. She brought judicial review proceedings to challenge the policy of the UK Passport Office that confined gender markers to “M” and “F”.
+
+110.  Lord Reed PSC noted the limited nature of the issues raised at §36 of the judgment:
+
+“It is ... understandable that the appellant wishes to obtain legal recognition as a non-gendered individual. But that is not the issue in these proceedings, as the appellant's counsel emphasised. Regardless of the outcome of these proceedings, the appellant will continue to be treated as female for legal purposes. These proceedings are concerned solely with HMPO's current policy relating to the issuing of passports. The interest at stake in these proceedings, as far as the appellant is concerned, is therefore the appellant's interest in obtaining an ‘X’ passport.”
+
+111.  At §§37 to 42 which follow, his Lordship discussed the appellant’s complaints and the practical implications of not having an 'X' marker in her passport, reinforcing the point that only a limited issue was involved.  He noted at §41 that:
+
+“... the appellant is free to use any forename, and in fact uses a name which is in use for both men and women. The appellant makes no complaint about the law governing birth certificates. In relation to proof of identity, it has been explained that such evidence is not frequently required, and that the appellant is under no obligation to use a passport for that purpose. Perhaps most importantly, there is not the obvious discrepancy between the appellant's physical appearance and the ‘F’ marker in the appellant's passport that there was between the feminine appearance of the applicant in B v France ((1993) 16 EHRR 1) and her male identity papers.”
+
+112.  Pausing here, one might have thought that no “coherence” issues arose.  Since the UKSC had made it clear that the gender marker challenge did not affect the appellant’s status as a female for legal purposes, her challenge raised a discrete and confined issue.  Whether or not the Court held that the appellant should be entitled to an “X” marker on her passport, for all other legal purposes, she would continue to be treated as a female.
+
+113.  That was also this Court’s approach in Q and Tse Henry Edward v Commissioner of Registration (“Q and Tse”),[114] (a case involving a transexual person’s gender marker in a Hong Kong Identify Card):
+
+“It should be noted that the [ID card] gender marker does not signify recognition of the holder’s sex as a matter of law. It merely operates as an element of an identification document.”[115]
+
+“The present case is not one where the issue of a person’s sexual status for all legal purposes is involved. The challenge to the Policy concerns merely the correction of a gender marker on an identification document which does not affect legal status. The issues in these appeals do not engage the need to have regard to any relevant consensus across different jurisdictions. Nor do they give rise to complications about the relationship of inter-linked legislation across different contexts as would arguably be the case if the appeal concerned the question of gender recognition generally, which was addressed in the consultation paper of the Inter-departmental Working Group on Gender Recognition.[116]
+
+114.  However, despite acknowledging the limited nature of the 'X' marker issue, administrative and legal coherence were introduced by Lord Reed PSC as a legitimate aim on the following basis:
+
+“The third point made by the Secretary of State, and the one to which the courts below attached the greatest weight, returns to the issue of the coherence of the administrative and legal practices within the domestic system. It is argued that to recognise a non-gendered category of individuals in the context of passports would be anomalous, in the context of United Kingdom law and administrative practice, and would therefore undermine the coherence of that system of law and practice. In relation to this point, it should be said at the outset that, although the appellant's challenge is only to the absence of an ‘X’ marker in passports, that does not mean that the Secretary of State is required to treat that matter as a discrete issue, which must be considered separately from the remainder of the legal and administrative system of the United Kingdom.”[117]
+
+115.  With respect, it is not immediately apparent why, in the light of the Court’s conclusion that “[regardless] of the outcome of these proceedings, the appellant will continue to be treated as female for legal purposes”; and that “[these] proceedings are concerned solely with HMPO's current policy relating to the issuing of passports”,[118] the Secretary of State was not expected to treat the matter as a discrete issue.
+
+116.  Nevertheless, the Court in Elan-Cane was evidently concerned about what might be called “general contagion”, so that acceptance of an ungendered category in passport gender markers might lead to general legislative incoherence:
+
+“... there is no legislation in the United Kingdom which recognises a non-gendered category of individuals. On the contrary, legislation across the statute book assumes that all individuals can be categorised as belonging to one of two sexes or genders (terms which have been used interchangeably). Some rights differ according to whether a person is a man or a woman: for example, rights of succession to hereditary titles. There are criminal offences that can only be committed against persons of a particular gender: for example, female genital mutilation. There is a raft of legislation which assumes that only a woman can give birth to, or be the mother of, a child, including legislation relating to maternity rights and benefits, health provision and fertility treatment, and nationality. The legislation governing the registration of births requires the sex of children to be recorded. Legislation relating to marriage and civil partnership (including legislation permitting same sex marriages) assumes that everyone is either a man or a woman. The Gender Recognition Act 2004, enacted following the judgment of the European court in Goodwin v United Kingdom, likewise assumes that all individuals belong to one of two genders, albeit not necessarily the gender recorded at birth. Equality legislation protects people from discrimination if it arises from their being a man or a woman.”[119]
+
+“A binary approach to gender also forms the basis of the provision of a wide variety of public services. The prison estate, for example, is divided into male and female prisons. Hospitals have wards where patients can only be of a single sex. Local authorities may fund rape crisis centres or domestic abuse refuges which offer their services only to women. Many schools only admit pupils of a particular sex. Much of this is underpinned by, or permitted by, legislation.”[120]
+
+“Against this background, it is apparent that the questions whether other gendered categories should be recognised beyond male and female, including a non-gendered category, and if so, on what basis such recognition should be given, raise complex issues with wide implications. Counsel for the appellant argued that the courts below had erred in treating the coherent treatment of individuals in the appellant's position as a significant consideration. On the contrary, the courts were right to conclude that the need for a legally and administratively coherent system for the recognition of gender was an important factor.”[121]
+
+117.  Elan-Cane raised the novel issue of whether, for the purposes of the gender marker in a passport, a non-binary category should be recognized.  However, in our view, deciding a novel issue in a manner which, in the light of specific policy considerations, may result in the creation of an exceptional statutory instance not encountered in other legislative contexts does not involve “incoherence” and does not sow conceptual or doctrinal confusion.  It is easy to understand why the UKSC dismissed the Elan-Cane appeal, finding the arguments against recognition of a non-binary category in the passport context to be strong (as indicated for instance in §41 of the judgment referred to above). It is, however, less apparent why, if the appeal had been decided in favour of the appellant, it would have raised “complex issues with wide implications” affecting such matters as rights of succession to hereditary titles, female genital mutilation, maternity rights and benefits, health provision and fertility treatment, and so forth.  As Lord Reed had made clear at §36, the appellant would have been treated as a female for all the aforesaid purposes, whatever the outcome of the proceedings.
+
+118.  The UKSC no doubt had its own reasons for expressing concern regarding coherence issues in Elan-Cane.  But for the purposes of the present appeal, we do not agree with the SJ’s reliance on that decision as an authority in support of the coherence aim in the present context.  For the reasons developed in the preceding sections of this judgment, we are unconvinced that conceptual and administrative coherence as a legitimate aim is made out.
+
+H.9   Is “coherence” ever a legitimate aim?
+
+119.  In its constitutional jurisprudence, this Court has recognized that particular constitutional provisions should be interpreted so that they harmonise with our constitutional instruments as a coherent whole.  It has been held, for instance, that the immigration reservation contained in s 11 of the Hong Kong Bill of Rights Ordinance,[122] has constitutional effect and thus requires to be interpreted within the scheme of the Basic Law and the Bill of Rights as a coherent whole.[123] Such an approach is of course quite different from the “coherence aim” championed by the SJ which postulates pre-existing definitional consistency and coherence across various pieces of legislation and argues for a need to protect such alleged coherence as a legitimate aim.  We have rejected the existence of such coherence given that disparate statutes adopt different definitions in pursuit of different legislative purposes.  Where a constitutional provision is construed with the constitutional framework as a coherent whole, that coherent whole does not involve disparate purposes but represents a unified constitutional scheme.
+
+120.  At the statutory level, there may be cases where two pieces of legislation, dealing with the same subject-matter are mutually inconsistent, pulling in opposite directions.  In such cases, the court will certainly be anxious to avoid the uncertainty or unworkability that such a conflict is likely to produce.  It would do so as a matter of statutory interpretation, and if the conflict cannot be resolved textually on a contextual and purposive construction, principles of statutory interpretation would be invoked to decide which enactment is given priority.  That may involve, for example, application of the principle of lex specialis, ie, that the specific prevails over the general.[124]  Or the court may invoke the principle lex posterior derogat priori whereby a conflicting legal rule prevails over the earlier rule to the extent of the conflict.[125]  Again, resolution of such inconsistency or incoherence is plainly quite different from the coherence aim proposed by the SJ in the present appeal.
+
+121.  It is possible that after resolving a statutory conflict, the prevailing statute may face a constitutional challenge, including a challenge for discrimination and violation of the equality rights.  That challenge would then be addressed in the usual way, treating the prevailing statute as the impugned measure.  That, however, is a constitutional challenge that would be faced whether or not it was preceded by a statutory inconsistency that required such resolution.
+
+122.  While the cautionary suggestion that one should “never say never” is wise advice, we consider it highly questionable whether the coherence aim proposed by the SJ is ever likely to constitute a legitimate aim capable of justifying prima facie discriminatory differential treatment.
+
+I.      Rational connection and the answer to Question 2
+
+123.  Having held that the suggested legitimate aim of “having consistent and coherent definitions of ‘valid marriage’ across legislative schemes which touch on the subject of marriage” has not been made out, it follows that the differential treatment complained of is not rationally connected with any established legitimate aim and the Government fails to justify the discrimination arising. 
+
+124.  The rest of Question 2 which refers to the Government’s pending review concerning establishment of an alternative framework for legal recognition of same-sex partnerships, does not affect the position.
+
+125.  Accordingly, our answer to Question 2 is “No, the suggested legitimate aim is not made out”.
+
+PART III.    QUESTION 3 and disposition
+
+126.  Question 3 states:
+
+“If the answer to Question 2 above is ‘yes’, whether in all the circumstances the non-inclusion of same-sex married couples in the Marriage Provisions is (a) proportionate; and (b) implements a reasonable balance between societal benefits and individual rights, given inter alia the comparatively limited interference with rights by reason of the availability of alternative means for same-sex married couples to exercise their rights outside of the intestacy scheme under the IEO and IPO.”
+
+127.  Question 3 seeks to raise issues of proportionality but such questions only come into play if it is shown that the impugned measure (here the differential treatment accorded by the IEO and IPO) is rationally connected to a legitimate aim.  As Question 3 correctly recognises, it only arises if the answer to Question 2 is “Yes”.  Since we have held that no legitimate aim has been made out and answered Question 2 in the negative, Question 3 does not arise. 
+
+128.  The Government has therefore failed to justify the differential treatment.  Indeed, the issue of proportionality has not even been reached.  The impugned provisions are therefore discriminatory and unconstitutional.  The Court accordingly proceeds to Stage 4 of the process referred to in HKSAR v Ng Ngoi Yee Margaret,[126] considering “whether any remedial order (such as for severance, reading in, reading down or striking out) should be made to preserve the validity of the impugned measure in whole or in part”.[127]
+
+129.  Addressing that issue, Chow J held that “[the] proper remedy to be granted in the present case is a declaration and remedial interpretation of the expressions ‘valid marriage’, ‘husband’ and ‘wife’ in the IEO and IPO.”[128] After hearing further submissions from the parties, his Lordship made the following Orders, namely, that:
+
+“1. There be a declaration that, consistently with Article 25 of the Basic Law and Articles 1 and 22 of the Hong Kong Bill of Rights:
+
+a. The existing limb (d) of the term ‘valid marriage’ in section 3 of the [IEO] and section 2(1) of the [IPO] shall be read as:
+
+‘a marriage celebrated or contracted outside Hong Kong in accordance with the law in force at the time and in the place where the marriage was performed, including any marriage where the persons are of the same sex and such marriage between them would have been a valid marriage under this Ordinance but for the fact only that they are persons of the same sex’; and
+
+b. For the purposes of the IEO and IPO, references to:
+
+i. ‘husband and wife’ shall be read as ‘a married person and his or her spouse’;
+
+ii. ‘husband or wife’ shall be read as ‘a married person or his or her spouse’; and
+
+iii. ‘husband’ and ‘wife’ in relation to a person, shall be read as ‘a spouse of that person by a valid marriage’.”[129]
+
+130.  Chow J has therefore provided a remedial interpretation of IEO s 3(d) and IPO s 2 which defines “valid marriage” to include “a marriage celebrated or contracted outside Hong Kong in accordance with the law in force at the time and in the place where the marriage was performed”.  The remedial interpretation is thus confined to marriages contracted outside Hong Kong in accordance with the applicable foreign law and deems those provisions to encompass foreign same-sex marriages for the purposes of the IEO and IPO.  It does not have the effect of constituting such marriages valid marriages under Hong Kong law and does not confer the status of marriage upon the parties to such a same-sex marriage.  His Lordship’s Orders were endorsed by the Court of Appeal, dismissing the SJ’s appeal.
+
+131.  We respectfully agree with both Courts below and likewise endorse Chow J’s remedial interpretation.  This appeal should be dismissed. We would make an order nisi that the SJ should bear the costs of and occasioned by this appeal and grant liberty to the parties, if so advised, to lodge written submissions on costs within 14 days of the date of the handing down of this judgment.
+
+Mr Justice Lam PJ:
+
+132.  I respectfully agree with the joint judgment of Mr Justice Ribeiro PJ and Mr Justice Fok PJ and their reasons for dismissing the appeal of the Secretary for Justice (“SJ”). I have the following additional observations in respect of the coherence of the laws.
+
+133.  In an application by a surviving spouse, Section 5(2) of the Inheritance (Provision for Family and Dependants) Ordinance Cap 481 (“IPO”) requires the court to have regard to the provision which an applicant might reasonably have expected to receive if the marriage had been terminated by a decree of divorce on the day on which the deceased died. This is sometimes referred to as the divorce standard for determining the reasonable provision of a spouse of the deceased[130]. I was once concerned that this might have a bearing on the SJ’s coherence argument.
+
+134.  In the end, I am persuaded by the powerful joint judgment of my brethren that the SJ’s coherence argument is unsound. I have also come to the view that notwithstanding the divorce standard the adoption of different definitions of “marriage” in the IPO and the matrimonial statutes would not bring about any incoherence in the laws.
+
+135.  As highlighted in the joint judgment, the definition of “valid marriage” under the IPO does not align with the definitions in the matrimonial statutes, viz the definition of “marriage” under the Marriage Ordinance Cap 181 (“MO”) and the definition of “monogamous marriage” under the Matrimonial Causes Ordinance Cap 179 (“MCO”). Though the Matrimonial Proceedings and Property Ordinance Cap 192 (“MPPO”) contains no definition of “marriage” or “valid marriage”, the power to grant ancillary relief can only be exercised in situations where the court has the power to entertain a suit for divorce, nullity or judicial separation[131]. As such, the court’s jurisdiction is confined to customary marriages[132] and monogamous marriages[133]. In contrast, a foreign polygamous marriage that was valid in accordance with the law in the place where the marriage was performed, comes within sub-paragraph (d) in the definition of “valid marriage” in Section 2(1) of the IPO.
+
+136.  On the other hand, the definition of “valid marriage” in the IPO is the same as that in the Intestates’ Estates Ordinance Cap 73 (“IEO”). This is not surprising since the IPO and the IEO operates in tandem in cases of intestacy to achieve the proper distribution of a deceased’s estate. The IPO provides redress when the distribution under the rules of the IEO does not result in making reasonable provision for a relative or a dependant of the deceased. The need for coherence between these two statutes is obvious.
+
+137.  Notwithstanding cross-references to divorce, nullity and judicial separation (and ancillary relief that may be granted in such proceedings)[134] in the IPO, there is no intrinsic reason for requiring the same definitions of “marriage” or “valid marriage” to be adopted in both the matrimonial regime and the inheritance regime. For the common law meaning of marriage, the case of Hyde v Hyde[135] is often cited as authority for the proposition that marriage has to be heterosexual and monogamous[136]. It was a case decided in the context of matrimonial relief. Lord Penzance stressed that in the context of succession different considerations might apply:
+
+“This Court does not profess to decide upon the rights of succession or legitimacy which it might be proper to accord to the issue of the polygamous unions, nor upon the rights or obligations in relation to third persons which people living under the sanction of such unions may have created for themselves. All that is intended to be here decided is that as between each other they are not entitled to the remedies, the adjudication, or the relief of the matrimonial law of England.”[137]
+
+138.  English courts have not shied away from adopting a wider definition of marriage where the contexts were different, see Baindail (otherwise Lawson) v Baindail[138]; Imam Din v National Assistance Board[139]; In re Sehota, Deceased[140]; Official Solicitor v Yemoh[141]. There was no suggestion in those cases that such departure from the definition adopted in the matrimonial context would create any incoherence in the law. In Yemoh, the learned judge had this observation,
+
+“However, for the reasons previously discussed in relation to authorities that I have cited, it would appear that public policy objections to the recognition of a polygamous marriage valid in accordance with its law of domicile, which used to be applied in the context of matrimonial relief in our courts, would not appear to me of meaningful relevance to the question of succession under the Administration of Estates Act 1925.”[142]
+
+139.  Nor do I see any difficulty arising from the divorce standard embodied in Section 5(2) of the IPO. The subsection sets out a matter which the court shall have regard to in determining if reasonable provision has been made and, if not, how the power under Section 4 is to be exercised. The weight attached to the divorce standard varies in light of the other matters set out in Section 5(1) and the facts of the case.
+
+140.  The divorce standard in Section 5(2) only requires the court to conduct a notional exercise instead of the actual grant of ancillary relief in a matrimonial context. The court does not have jurisdiction to grant any decree of divorce, nullity, judicial separation in respect of a foreign same-sex marriage. Section 61(1) of the MCO precludes the recognition of the foreign divorce when the law of Hong Kong does not recognize the marriage[143]. However, these limitations do not pose any problem for a notional exercise to be carried out in order to ascertain the provision which an applicant might reasonably have expected to receive if on the day on which the deceased died the marriage had been terminated by a decree of divorce.
+
+141.  Counsel for the SJ submitted that difficulty could arise from the inability of a married same-sex couple to get a divorce in Hong Kong. The short answer is that the party can seek a decree of divorce in a foreign jurisdiction. Although such a decree cannot form the basis for seeking ancillary relief in Hong Kong under Part IIA of the MPPO, for the purposes of the IPO the parties would cease to be “married” and they would not be “spouses” to each other under the extended meanings of these expressions set out in the declarations granted by Chow J. Even in cases where the parties did not seek an overseas divorce, given the provisions in Section 5(1) and (2) of the IPO the divorce standard is flexible enough to allow the court to take account of long separation and the ending of a spousal relationship in the exercise of its power.       
+
+Mr Justice Stock NPJ:
+
+142.  Like the Chief Justice and Mr Justice Lam PJ, I too agree with the joint judgment of Mr Justice Ribeiro PJ and Mr Justice Fok PJ.
+
+Chief Justice Cheung:
+
+143.  Accordingly, the Court unanimously dismisses this appeal and makes the Orders referred to in paragraph 131 above.
+
+ 
+
+ 
+
+(Andrew Cheung)	(R A V Ribeiro)	(Joseph Fok)
+Chief Justice	Permanent Judge	Permanent Judge
+(M H Lam)	(Frank Stock)
+Permanent Judge	Non-Permanent Judge
+Ms Monica Carss-Frisk KC, Mr Abraham Chan SC and Ms Denise Souza, instructed by the Department of Justice, for the Respondent (Appellant)
+Mr Timothy Otty KC, Mr Jin Pao SC and Mr Azan Marwah, instructed by Daly & Associates, assigned by the Director of Legal Aid, for the Applicant (Respondent)
+ 
+
+ 
+
+
+APPENDIX
+
+Ordinance Titles in Alphabetical Order
+
+ 
+
+Companies Ordinance (Cap 622), Part 11, ss 484, 486, 666 and 667
+
+484.  Interpretation
+
+(1)  In this Division—
+
+            cohabitation relationship means a relationship between 2 persons (whether of the same sex or of the opposite sex) who live together as a couple in an intimate relationship;
+
+486.  Connected entity
+
+(1)  In this Part, a reference to an entity connected with a director or former director of a company is a reference to—
+
+(a)  a member of the director’s or former director’s family;
+
+(b)  a person who is in a cohabitation relationship with the director or former director;...
+
+666.  Interpretation
+
+In this Part—
+
+cohabitation relationship means a relationship between 2 persons (whether of the same sex or of the opposite sex) who live together as a couple in an intimate relationship;
+
+667.  Associate
+
+(1)  In this Part, a reference to an associate of an offeror or member, is—
+
+(a)  if the offeror or member is a natural person, a reference to—
+
+(i)   the offeror’s or member’s spouse;
+
+(ii)  a person who is in a cohabitation relationship with the offeror or member; ...
+
+Coroners Ordinance (Cap 504), Schedule 2
+
+Properly Interested Persons
+
+1.  Any person who is a parent, spouse, sibling or child of the deceased.
+
+9.  Any other person who, in the opinion of a coroner, should be regarded as a properly interested person by reason of any particular interest in the circumstances surrounding the death of the deceased.
+
+Domestic and Cohabitation Relationships Violence Ordinance (Cap 189), ss 2, 3B and 6
+
+2.  Interpretation and application
+
+(1)  In this Ordinance, unless the context otherwise requires—
+
+cohabitation relationship —
+
+(a)  means a relationship between 2 persons (whether of the same sex or of the opposite sex) who live together as a couple in an intimate relationship; and
+
+(b)  includes such a relationship that has come to an end;
+
+party to a cohabitation relationship does not include a person who is or was the spouse of the other party to that relationship;
+
+ 
+
+3B.      Power of District Court to grant injunction: cohabitants and former cohabitants
+
+(1)  On an application by a party to a cohabitation relationship, the District Court, if it is satisfied that the applicant or a specified minor has been molested by the other party to the cohabitation relationship and subject to section 6, may grant an injunction containing any or all of the following provisions—
+
+(a)  a provision restraining the respondent from molesting the applicant;
+
+           ...
+
+             
+
+(2)  In determining whether 2 persons (the parties) are in a cohabitation relationship, the court shall have regard to all the circumstances of the relationship including but not limited to any of the following factors that may be relevant in the particular case—
+
+(a)  whether the parties are living together in the same household;
+
+(b)  whether the parties share the tasks and duties of their daily lives;
+
+(c)  whether there is stability and permanence in the relationship;
+
+(d)  the arrangement of sharing of expenses or financial support, and the degree of financial dependence or interdependence, between the parties;
+
+(e)  whether there is a sexual relationship between the parties;
+
+(f)  whether the parties share the care and support of a specified minor;
+
+(g)  the parties’ reasons for living together, and the degree of mutual commitment to a shared life;
+
+(h)  whether the parties conduct themselves towards friends, relatives or other persons as parties to a cohabitation relationship, and whether the parties are so treated by their friends and relatives or other persons.  
+
+6.  Limitations as regards injunctions and authorizations of arrest
+
+(3)  Nothing in this Ordinance authorizes a court, on an application by a party to a cohabitation relationship—  
+
+(a)  to grant an injunction ...
+
+unless the court is satisfied that having regard to the permanence of the cohabitation relationship it is appropriate in all the circumstances to grant that injunction ...
+
+Employees' Compensation Ordinance (Cap 282), s 3
+
+3.  Interpretation
+
+(1)  In this Ordinance, unless the context otherwise requires— 
+
+cohabitee, in relation to an employee, means any person who at the time of the accident concerned was living with the employee as the employee’s wife or husband;
+
+member of the family, in relation to an employee, means a person who has any of the following relationships in respect of the employee, whether by blood or an adoption specified in subsection (2)—
+
+(a)  a spouse or cohabitee; ...
+
+Fatal Accidents Ordinance (Cap 22), s 2
+
+2.  Interpretation
+
+(1)  In this Ordinance, unless the context otherwise requires—
+
+dependant, in relation to a deceased person, means—
+
+(a)  the wife, husband, former wife or former husband of the deceased
+
+...
+
+(c)  any person who—
+
+(i)   was living with the deceased in the same household immediately before the date of his death; and
+
+(ii)  had been living with the deceased in the same household for at least 2 years before that date,
+
+as the husband or wife of the deceased;
+
+wife means—
+
+(a)  in the case of a Christian marriage or its civil equivalent, the lawful wife; and
+
+(b)  in the case of any other lawful marriage—
+
+(i)   the lawful wife of such marriage; or
+
+(ii)  if there is more than one lawful wife, the lawful principal wife recognized as such by the personal law of the husband of such marriage, or if there is no lawful principal wife, the lawful wives so recognized.
+
+ 
+
+Human Organ Transplant Ordinance (Cap 465), ss 5 and 5A
+
+5.  Offence in respect of organ transplants between living persons
+
+(1)  Except as provided in section 5A(1), 5B(1) or 5C(1), no person shall carry out a restricted organ removal or a restricted organ transplant.
+
+ 
+
+
+5A.      Organ transplants between spouses or genetically related persons
+
+(1)  A registered medical practitioner may carry out a restricted organ removal or a restricted organ transplant or both if he is satisfied that—
+
+(a)  the recipient of the organ concerned—
+
+(i)   is genetically related to its donor; or
+
+(ii)  is, at the time of the transplant, the spouse of the donor and their marriage has subsisted for not less than 3 years; ...
+
+ 
+
+Human Organ Transplant Regulation (Cap 465A), reg 2A
+
+2A.      Establishment of marriage that has subsisted for not less than 3 years
+
+For the purposes of section 5A of the Ordinance, where a medical practitioner is— 
+
+(a)  to remove an organ from a living person with the intention of it being transplanted into another person who is, at the time of the transplant, the spouse of the person from whom the organ is to be removed and the marriage has subsisted for not less than 3 years; or
+
+(b)  to transplant the organ referred to in paragraph (a) into such spouse of such marriage,
+
+the fact of such relationship shall be established by means of—
+
+(i)   any document or documents—
+
+(A)  issued under the Marriage Ordinance (Cap 181) or the Marriage Reform Ordinance (Cap 178) which shows or show that the 2 persons are the parties to—
+
+(I)  a marriage celebrated or contracted in accordance with the provisions of the Marriage Ordinance (Cap 181); ...
+
+or
+
+(B)  equivalent to any document or documents issued under the Marriage Ordinance (Cap 181) or the Marriage Reform Ordinance (Cap 178) which shows or show that the 2 persons are the parties to a marriage celebrated or contracted outside Hong Kong in accordance with the law in force at the time and in the place where the marriage was performed; and
+
+(ii)  a statutory declaration by either of the 2 persons to the effect that the marriage has subsisted for not less than 3 years.
+
+Intestates’ Estates Ordinance (Cap 73), ss 2,  3,  4 and  7
+
+2.  Interpretation
+
+(1)  In this Ordinance, unless the context otherwise requires—
+
+husband and wife, in relation to a person, mean a husband or wife of that person by a valid marriage;
+
+3.  Valid marriage
+
+For the purposes of this Ordinance, valid marriage means—
+
+(a) a marriage celebrated or contracted in accordance with the provisions of the Marriage Ordinance (Cap 181);
+
+(b) a modern marriage validated by the Marriage Reform Ordinance (Cap 178);
+
+(c) a customary marriage declared to be valid by the Marriage Reform Ordinance (Cap 178);
+
+(d)  a marriage celebrated or contracted outside Hong Kong in accordance with the law in force at the time and in the place where the marriage was performed.
+
+4.  Succession to estate on intestacy
+
+(1)  The residuary estate of an intestate shall be distributed in the manner or be held on the trusts mentioned in this section.
+
+(2)  If the intestate leaves a husband or wife and leaves—
+
+(a)  no issue; and
+
+(b)  no parent, or brother or sister of the whole blood, or issue of a brother or sister of the whole blood,
+
+the residuary estate shall be held in trust for the surviving husband or wife absolutely.
+
+(3)  If the intestate leaves a husband or wife and issue, ...
+
+(4)  If the intestate leaves no issue but does leave a husband or wife and one or more of the following, ...
+
+ 
+
+7.  Right of surviving spouse to acquire residence
+
+Schedule 2 shall have effect for enabling the surviving husband or wife of an intestate to acquire the premises in which the surviving husband or wife was residing at the time of the intestate’s death.
+
+ 
+
+Inheritance (Provision for Family and Dependants) Ordinance (Cap 481), ss 2 and 3
+
+2.  Interpretation
+
+(1)  In this Ordinance—
+
+husband or wife ,in relation to a deceased person, means—
+
+(a)  a husband or wife by a valid marriage; and
+
+(b)  a person who in good faith entered into a void marriage with the deceased unless either—
+
+(i)   the marriage of the deceased and that person was dissolved or annulled during the lifetime of the deceased and the dissolution or annulment is recognized as valid by the law of Hong Kong; or
+
+(ii)  that person has during the lifetime of the deceased entered into a later marriage;
+
+valid marriage means—
+
+(a)  a marriage celebrated or contracted in accordance with the Marriage Ordinance (Cap 181);
+
+(b)  a modern marriage validated by the Marriage Reform Ordinance (Cap 178);
+
+(c)  a customary marriage declared to be valid by the Marriage Reform Ordinance (Cap 178);
+
+(d)  a marriage celebrated or contracted outside Hong Kong in accordance with the law in force at the time and in the place where the marriage was performed;
+
+3.  Application for financial provision from deceased’s estate
+
+(1)  Where after the commencement of this Ordinance a person dies—
+
+... and is survived by any of the following persons—
+
+(i)   the wife or husband of the deceased; ...
+
+that person may apply to the court for an order under section 4 on the ground that the disposition of the deceased’s estate effected by his will or the law relating to intestacy, or the combination of his will and that law, is not such as to make reasonable financial provision for the applicant.
+
+(2)  In this Ordinance, reasonable financial provision—
+
+(a)  in the case of any application made—
+
+(i)    by virtue of subsection (1)(i) by the husband or wife of the deceased ...
+
+means such financial provision as it would be reasonable in all the circumstances of the case for such a person to receive, whether or not that provision is required for his or her maintenance;
+
+(b)  in the case of any other application made by virtue of subsection (1), means such financial provision as it would be reasonable in all the circumstances of the case for the applicant to receive for his maintenance.
+
+ 
+
+Inland Revenue Ordinance (Cap 112), s 2
+
+2.  Interpretation
+
+(1)  In this Ordinance, unless the context otherwise requires—
+
+marriage means—
+
+(a)  any marriage recognized by the law of Hong Kong; or
+
+(b)  any marriage, whether or not so recognized, entered into outside Hong Kong according to the law of the place where it was entered into and between persons having the capacity to do so,
+
+but shall not, in the case of a marriage which is both potentially and actually polygamous, include marriage between a man and any wife other than the principal wife, and married shall be construed accordingly;
+
+spouse means a husband or wife;
+
+ 
+
+Law Amendment and Reform (Consolidation) Ordinance (Cap 23), s 20C
+
+20C.    Actions for loss of society or services
+
+(1)  Where injury is caused to any person by any wrongful act, neglect or default which entitles him to maintain an action and recover damages, and which causes any person referred to in paragraph (a), (b), (c), (d), (e), (f) or (g) to be deprived of his society, the person who is liable to such an action shall, subject to subsection (3), also be liable in damages for the loss of the injured person’s society suffered by such of the following persons as survive 30 days after the date on which the cause of action accrued—
+
+(a)  the husband or wife of the injured person, unless they had been living apart for a continuous period of at least 2 years immediately before the date on which the cause of action accrued; or
+
+(b)  where there is no spouse entitled to recover damages under paragraph (a), any children of the injured person; or
+
+(c)  where there is no person by or for whom a claim can be made under paragraph (a) or (b), any concubine taken by the injured person before 7 October 1971; or
+
+(d)  where there is no person by or for whom a claim can be made under paragraph (a), (b) or (c), any person who—
+
+(i)   was living with the injured person in the same household immediately before the date on which the cause of action accrued; and
+
+(ii)  had been living with the injured person in the same household for at least 2 years before that date,
+
+as the husband or wife of the injured person; ...
+
+(5)  In this section -
+
+dependant, in relation to an injured person, means—
+
+(a)  the wife, husband, former wife or former husband of the injured person and any person whose marriage to the injured person has been annulled or declared void; …
+
+(c)  any person who—
+
+(i)   was living with the injured person in the same household immediately before the date of his injury; and
+
+(ii)  had been living with the injured person in the same household for at least 2 years before that date,
+
+as the husband or wife of the injured person;
+
+wife has the same meaning as in the Fatal Accidents Ordinance (Cap 22),
+
+ 
+
+Legitimacy Ordinance (Cap 184), s 2
+
+2.  Interpretation
+
+In this Ordinance, unless the context otherwise requires—
+
+marriage means—
+
+(a)  a marriage celebrated or contracted in accordance with the provisions of the Marriage Ordinance (Cap 181);
+
+(b)  a modern marriage validated by the Marriage Reform Ordinance (Cap 178);
+
+(c)  a customary marriage declared to be valid by the Marriage Reform Ordinance (Cap 178); or
+
+(d)  a marriage celebrated or contracted outside Hong Kong in accordance with the law in force at the time and in the place where the marriage was performed.
+
+Marriage Ordinance (Cap 181), s 40
+
+40.  Marriages under this Ordinance are Christian or equivalent thereto
+
+(1)  Every marriage under this Ordinance shall be a Christian marriage or the civil equivalent of a Christian marriage. 
+
+(2)  The expression Christian marriage or the civil equivalent of a Christian marriage implies a formal ceremony recognized by the law as involving the voluntary union for life of one man and one woman to the exclusion of all others.
+
+Marriage Reform Ordinance (Cap 178), s 4
+
+4.  Marriages on and after appointed day to be monogamous
+
+Marriages entered into in Hong Kong on or after the appointed day shall imply the voluntary union for life of one man with one woman to the exclusion of all others and may be contracted only in accordance with the Marriage Ordinance (Cap 181).
+
+ 
+
+Married Persons Status Ordinance (Cap 182), s 2
+
+2.  Application
+
+(1)  Save where otherwise appears, this Ordinance applies to persons who are parties to a marriage, whether married before or after the commencement of this Ordinance.
+
+(2)  In subsection (1), marriage means—
+
+(a)  a marriage celebrated or contracted in accordance with the provisions of the Marriage Ordinance (Cap 181);
+
+(b)  a modern marriage validated by the Marriage Reform Ordinance (Cap 178);
+
+(c)  a customary marriage declared to be valid by the Marriage Reform Ordinance (Cap 178); or
+
+(d)  a marriage celebrated or contracted outside Hong Kong in accordance with the law in force at the time and in the place where the marriage was performed.
+
+Matrimonial Causes Ordinance (Cap 179), ss 2 and 9
+
+2.  Interpretation
+
+monogamous marriage means a marriage which was—
+
+(a)  if it took place in Hong Kong—
+
+(i)   celebrated or contracted in accordance with the provisions of the Marriage Ordinance (Cap 181);
+
+(ii)  a modern marriage validated by section 8 of the Marriage Reform Ordinance (Cap 178) and registered under Part IV of that Ordinance; or
+
+(b)  if it took place outside Hong Kong, celebrated or contracted in accordance with the law in force at the time and in the place where the marriage was performed and recognized by such law as involving the voluntary union for life of one man and one woman to the exclusion of all others;
+
+9.  Power to grant relief limited to certain marriages
+
+Nothing in this Ordinance shall authorize the court to pronounce a decree of divorce, nullity, judicial separation or presumption of death and dissolution of marriage or to make any other order unless the marriage to or in respect of which the decree or order relates was a customary marriage celebrated in accordance with section 7 of the Marriage Reform Ordinance (Cap 178) and registered in accordance with Part IV of that Ordinance or was a monogamous marriage.
+
+Matrimonial Proceedings and Property Ordinance (Cap 192), ss 8 and 29AB
+
+8.  Neglect by party to marriage to maintain other party or child of the family
+
+(1)  Either party to a marriage may apply to the court for an order under this section on the ground that the other party to the marriage (in this section referred to as the respondent) has failed—
+
+(a)  to provide reasonable maintenance for the applicant; or
+
+(b)  to provide, or to make proper contribution towards, reasonable maintenance for any child of the family to whom this section applies.
+
+ 
+
+29AB. Applications for financial relief after divorce, etc. outside Hong Kong
+
+(1)  If—
+
+(a)  a marriage has been dissolved or annulled, or the parties to a marriage have been legally separated, by means of judicial or other proceedings in a place outside Hong Kong; and
+
+(b)  the divorce, annulment or legal separation is recognized as valid by the law of Hong Kong,
+
+either of the parties to the marriage may apply to the court in accordance with rules of court for an order for financial relief.
+
+Pension Benefits Ordinance (Cap 99), ss 2 and 19
+
+2.  Interpretation
+
+(1)  In this Ordinance, unless the context otherwise requires—
+
+spouse means the person to whom an officer is, by reason of the form of marriage contracted, lawfully married;
+
+wife, in relation to an officer, means—
+
+(a)  the lawful wife of the officer married to him by a Christian marriage or its civil equivalent; or
+
+(b)  where there is no such wife and the officer is Chinese the kit fat or tin fong wife; or
+
+(c)  where there is no wife under paragraph (a) or (b) and polygamy lawfully subsists, the principal wife recognized as such by the personal law of the officer,
+
+and widow shall be construed accordingly.
+
+19.  Dependant pension
+
+(1)  Subject to subsection (3), where an officer dies as a result of injuries received—
+
+(a)  in the actual discharge of his duty;
+
+(b)  not due to his own serious and wilful misconduct; and
+
+(c)  on account of circumstances specifically attributable to the nature of his duty,
+
+while in service under the Government, the Chief Executive shall grant, in addition to a death gratuity (if any)— 
+
+(i)  if the officer leaves a spouse, a dependant pension to the spouse ...
+
+(7)  For the purposes of this section–
+
+(aa) spouse (without prejudice to paragraph (a) and the definition of spouse in section 2) in relation to an officer includes any person who can prove to the satisfaction of the Secretary for the Civil Service that he or she cohabits with the officer as the officer’s spouse; ...
+
+ 
+
+Pension Benefits (Judicial Officers) Ordinance (Cap 401), ss 2 and 20
+
+2.  Interpretation
+
+(1)  In this Ordinance, unless the context otherwise requires—
+
+spouse means the person to whom an officer is, by reason of the form of marriage contracted, lawfully married;
+
+wife, in relation to an officer, means—
+
+(a)  the lawful wife of the officer married to him by a Christian marriage or its civil equivalent;
+
+(b)  where there is no such wife and the officer is Chinese the kit fat or tin fong wife; or
+
+(c)  where there is no wife under paragraph (a) or (b) and polygamy lawfully subsists, the principal wife recognized as such by the personal law of the officer,
+
+and widow shall be construed accordingly.
+
+20.  Dependant pension
+
+(1)  Subject to subsection (3), where an officer dies as a result of injuries received—
+
+(a)  in the actual discharge of his duty;
+
+(b)  not due to his own serious and wilful misconduct; and
+
+(c)  on account of circumstances specifically attributable to the nature of his duty,
+
+while in service under the Government, the Chief Executive shall grant, in addition to a death gratuity (if any)— 
+
+(i)   if the officer leaves a spouse, a dependant pension to the spouse ...
+
+Rural Representative Election Ordinance (Cap 576), s 2
+
+2.  Interpretation
+
+(1)  In this Ordinance, unless the context otherwise requires—
+
+surviving spouse, in relation to an indigenous inhabitant, means a person who survives the indigenous inhabitant as his spouse at the time of his death and has not since his death entered into—
+
+(a)  a marriage celebrated or contracted in accordance with the provisions of the Marriage Ordinance (Cap 181); or
+
+(b)  a marriage celebrated or contracted outside Hong Kong in accordance with the law in force at the time and in the place where the marriage was performed,
+
+with another person;
+
+Separation and Maintenance Orders Ordinance (Cap 16), ss 2, 3 and 5 
+
+2.  Interpretation
+
+In this Ordinance, unless the context otherwise requires—
+
+wife and married woman mean the wife or partner of a man by—
+
+(a)  a marriage celebrated or contracted in accordance with the provisions of the Marriage Ordinance (Cap 181);
+
+(b)  a modern marriage validated by the Marriage Reform Ordinance (Cap 178);
+
+... or
+
+(f)  a marriage celebrated or contracted outside Hong Kong in accordance with the law in force at the time and in the place where the marriage was performed.
+
+ 
+
+3.  Grounds on which an application for a section 5 order may be made
+
+(1)  Where a married person—
+
+(a)  has been convicted summarily of an assault upon the other party to the marriage which in the opinion of the convicting magistrate is of an aggravated character;
+
+(b)  has been convicted whether on indictment or summarily of an assault upon the other party to the marriage, and sentenced to pay a fine of more than $500 or to a term of imprisonment exceeding 2 months;
+
+(c)  has deserted the other party to the marriage;
+
+(d)  has been guilty of persistent cruelty to the other party to the marriage or that party’s children;
+
+(e)  has failed to provide reasonable maintenance for the other party to the marriage or reasonable maintenance and education for that party’s children whom the married person is legally liable to maintain;
+
+(f)  has, while suffering from a venereal disease, and knowing that he or she was so suffering, insisted on having sexual intercourse with the other party to the marriage;
+
+(g)  has compelled the other party to the marriage to submit to prostitution;
+
+(h)  is a habitual drunkard, or a drug addict,
+
+that other party may apply to the District Court for an order under this Ordinance.
+
+   
+
+5.  Powers of District Court
+
+(1)  On any application under section 3, the District Court may make an order containing all or any of the following provisions—
+
+(a)  that the applicant be no longer bound to cohabit with the other party to the marriage (which provision while in force shall have the effect of a decree of judicial separation on the ground of cruelty); ...
+
+ 
+
+Surviving Spouses' and Children's Pensions Ordinance (Cap 79), s 2
+
+2.  Interpretation
+
+(1)  In this Ordinance, unless the context otherwise requires—
+
+contributor means an officer to whom this Ordinance applies; spouse in relation to a person means, subject to subsection (7), the person to whom the first mentioned person is, by reason of the form of marriage contracted, lawfully married and includes—
+
+(a) in the case of a Chinese person, his kit fat or tin fong wife;
+
+(b) in the case of lawful polygamous marriage, the principal wife recognized as such by the personal law of the husband;
+
+…
+
+(7)  On an application in writing the Directors may in their absolute discretion determine a person who—
+
+(a)  cohabits with a contributor or a former contributor as the spouse of him; and
+
+(b)  is financially dependent on such contributor,
+
+to be the spouse of such contributor for the purposes of this Ordinance and where the Directors so determine, the references to spouse in this Ordinance shall be construed as including references to such person.
+
+ 
+
+Widows and Orphans Pension Ordinance (Cap 94), ss 2 and 7A
+
+2.  Interpretation
+
+(1)  In this Ordinance, unless the context otherwise requires—
+
+wife means the lawful wife of any officer married to him by a Christian marriage or its civil equivalent, or in the case of Chinese the kit fat or tin fong, or in the case of any other Asiatic nation, the principal wife; and widow shall be construed accordingly.
+
+7A.  Directors may determine certain persons to be wives
+
+On an application in writing the Directors may in their absolute discretion determine a person—
+
+(a)  who cohabits with a contributor under this Ordinance or a former contributor as the wife of him; and
+
+(b)  who is financially dependent on such contributor,
+
+to be the wife of such contributor for the purposes of this Ordinance and where the Directors so determine the references to “wife” in this Ordinance shall be construed as including references to such person.
+
+
+[1]   [2023] AC 559.
+
+[2]   [32]-[34], citing Hämäläinen v Finland (2014) 37 BHRC 55, [65]-[67] and other European cases.
+
+[3]   [51]-[54].
+
+[4]   [2020] 4 HKLRD 908 (Chow J) Judgment dated 18 September 2020 (“CFI Judgment”); [2023] 5 HKLRD 608 (Cheung, Yuen & Au JJA) Judgment dated 24 October 2023 (“CA Judgment”).
+
+[5]   [2024] HKCA 184 (Cheung, Yuen & Au JJA) Decision dated 26 February 2024.
+
+[6]   CFI Judgment at §24; CA Judgment at §§33-34.
+
+[7]   The other grounds of unconstitutionality originally advanced by Mr Ng were that the provisions were an unjustified restriction on Mr Ng and Mr Li’s rights (a) to respect for their private and family life without distinction as to sexual orientation under BOR14 read with BOR1(1), and (b) to respect and protection for or of their property rights under BL6 and BL105, read with BL25.  These were not addressed in the judgments of Chow J (see CFI Judgment at §50) or the Court of Appeal and did not form any part of the argument in the appeal to this Court.
+
+[8]   [2024] HKCA 184 (26 February 2024).
+
+[9]   The Hong Kong Housing Authority v Infinger, Nick [2024 HKCFA 29 and The Hong Kong Housing Authority v Ng Hon Lam, Edgar and Li Yik Ho [2024] HKCFA 29.
+
+[10]   [2024] HKCFA 29.
+
+[11]   [2024] HKCFA 24 (12 August 2024) per Cheung CJ and Ribeiro PJ at §§14-19.
+
+[12]   (2018) 21 HKCFAR 324.
+
+[13]   (2019) 22 HKCFAR 127.
+
+[14]   Ibid. at §§21-22.
+
+[15]   (2016) 19 HKCFAR 372.
+
+[16]   (2019) 22 HKCFAR 127 at §38.
+
+[17]   Law Reform Commission of Hong Kong, Report on Law of Wills, Intestate Succession and Provision for Deceased Persons’ Families and Dependants (1990) at §§7.2, 7.3 and 7.6.
+
+[18]   Leung at §§41-44.
+
+[19]    Including the Matrimonial Causes Act 1973 s 27 and the Marriage (Same Sex Couples) Act 2013 s 11.
+
+[20]   Burden v United Kingdom (2008) 47 EHRR 38 at §65, a case concerning the effect of civil partnership under the Civil Partnership Act 2004.
+
+[21]   Ibid. at §45.
+
+[22]   SJC at §13.
+
+[23]   (Cap 181).
+
+[24]   (Cap 178).
+
+[25]   (2023) 26 HKCFAR 385.
+
+[26]   (2018) 21 HKCFAR 324 at §§42-43.
+
+[27]   (2019) 22 HKCFAR 127 at §71.
+
+[28]   [2009] UKPC 52 at §17, cited in QT at §43.
+
+[29]   Leung at §37.
+
+[30]   IEO s 4(2)-(8); IPO s 3(1)(ii)-(ix).
+
+[31]   (2023) 26 HKCFAR 385.
+
+[32]   Ibid. at §84.
+
+[33]   Ibid. at §§96, 107, 112, 120-123.
+
+[34]   QT at §§38 and 44.
+
+[35]   Fok Chun Wa v Hospital Authority (2012) 15 HKCFAR 409 at §58(3); QT at §83.
+
+[36]   (Cap 179).
+
+[37]   (Cap 192).
+
+[38]   (Cap 16).
+
+[39]   SJC at §13(4).
+
+[40]   CA Judgment at §§66-68.
+
+[41]   Ibid. at §§69-71.
+
+[42]   IEO s 4(8).
+
+[43]   IPO s 3(1)(ix).
+
+[44]   SJC at §§9 and 23.
+
+[45]   [2009] 1 AC 173.
+
+[46]   [2005] ZACC 2.
+
+[47]   [2009] 1 AC 173 at §108; Volks at §§57 and 60.
+
+[48]   Cited in the SJC at §14(2).
+
+[49]   Laubscher NO v Duplan [2016] ZACC 44 at §84 of Froneman J’s minority judgment concurring in the result but differing on the reasoning; Bwanya v Master of the High Court, Cape Town [2021] ZACC 51 at §§40-47.
+
+[50]   Respondent’s Case (“RC”) at §55.
+
+[51]   (2008) 47 EHRR 38.
+
+[52]   Ibid. at §62.
+
+[53]   [2001] NI 71.
+
+[54]   Ibid. at 81g.
+
+[55]   Ibid. at 81d.
+
+[56]   Hysan at §§120-121 and 138.
+
+[57]   SJC at §30(3).
+
+[58]   SJC at §26 referring to CA Judgment at §§104 and 107.
+
+[59]   CA Judgment at §108 (italics in original).
+
+[60]   SJC at §13(3).
+
+[61]   Section C.2 of RC.
+
+[62]   SJC at §31(4).
+
+[63]   SJC at §8.
+
+[64]   CA Judgment at §106 refers to MO s 40(1), MRO ss 4 and 8; and MCO s 2.  It also refers to IEO s 3(a)-(d) and IPO ss 2(1)(a)-(c) and s 3(1)(ix); all set out in the Appendix to this judgment.
+
+[65]   That Annex sets out IEO ss 2 and 3; IPO s 2; MCO ss 2 and 20; MRO ss 4 and 8; MO ss 21 and 40 which are also set out in the Appendix to this judgment.
+
+[66]   SJC at §28.
+
+[67]   MO s 40: “Section 40: (1) Every marriage under this Ordinance shall be a Christian marriage or the civil equivalent of a Christian marriage.  (2) The expression Christian marriage or the civil equivalent of a Christian marriage implies a formal ceremony recognized by the law as involving the voluntary union for life of one man and one woman to the exclusion of all others.”
+
+[68]   SJ’s Supplemental Case (“SJSC”) at §21 (citations from the evidence omitted).
+
+[69]   SJC at §13(3), SJSC at §11.
+
+[70]   Question 2, SJC at §§8 and 28.
+
+[71]   MRO ss 2, 4 and 5.
+
+[72]   MCO s 9.
+
+[73]   MCO s 2.
+
+[74]   IEO s 3(a).  It also refers s 3(b) and (c) to marriages validated by the MRO, but these need not detain us.
+
+[75]   IEO s 3(d). 
+
+[76]   IEO s 2.
+
+[77]   IPO s 2.
+
+[78]   IPO s 2.
+
+[79]   MCO s 2.
+
+[80]   The discussion is presently confined to polygamous marriages. We leave open the question whether polyandrous marriages are covered by any of the statutes considered.
+
+[81]   CFI Judgment at §24; CA Judgment at §33.
+
+[82]   IEO s 4(1).
+
+[83]   IEO s 4(2)-(8).
+
+[84]   IPO ss 3 and 4.
+
+[85]   IPO s 3(1)(i)-(ix).
+
+[86]   Married Persons Status Ordinance (Cap 182), s 2(2)(d).
+
+[87]   Legitimacy Ordinance (Cap 184), s 2.
+
+[88]   Rural Representative Election Ordinance (Cap 576), s 2.
+
+[89]   Separation and Maintenance Orders Ordinance (Cap 16), ss 2, 3 and 5. 
+
+[90]   Human Organ Transplant Ordinance (Cap 465), ss 5 and 5A; Human Organ Transplant Regulation (Cap 465A), reg 2A.
+
+[91]   Inland Revenue Ordinance (Cap 112), s 2.  As noted in Leung at §75.
+
+[92]   (Cap 99).
+
+[93]   Section 2.
+
+[94]   Section 19(7)(aa).
+
+[95]   (Cap 401) s 20(7)(a)-(aa).
+
+[96]   (Cap 94) ss 2 and 7A.
+
+[97]   (Cap 79) s 2.
+
+[98]   (Cap 282) ss 3 and 6.
+
+[99]   (Cap 22) ss 2(1)(c) and 3.
+
+[100]  Section 2(1).
+
+[101]  (Cap 23) s 20C.
+
+[102]  (Cap 189) ss 3B and 6.
+
+[103]  Section 2(1).
+
+[104]  Section 3B(1).
+
+[105]  Section 3B(2).
+
+[106]  (Cap 622).
+
+[107]  Section 484(1).
+
+[108]  Part 11.  It similarly includes persons in a same-sex cohabitation relationship who qualify as “associates” of the relevant director and others: ss 666 and 667.
+
+[109]  HCAL 295/2021 (7 October 2021).
+
+[110]  Pension Benefits Ordinance (Cap 99), s 19(7).
+
+[111]  (Cap 189).
+
+[112]  (Cap 465A) reg 2A.
+
+[113]  [2023] AC 559.
+
+[114]  (2023) 26 HKCFAR 25.
+
+[115]  Q and Tse at §3.
+
+[116] Ibid. at §61.
+
+[117] Elan-Cane at §51 (italics supplied).
+
+[118] Ibid. at §36.
+
+[119]  Ibid. at §52.
+
+[120]  Ibid. at §53.
+
+[121]  Ibid. at §54.
+
+[122] (Cap 383).
+
+[123]  Comilang Milagros Tecson v Director of Immigration (2019) 22 HKCFAR 59 at §§30-35; Kwok Cheuk Kin v Director of Lands (No 2) (2021) 24 HKCFAR 349 at §44; Sham at §§9, 91, 96, 98, 107 and 110.
+
+[124]  Kwok Cheuk Kin v Director of Lands (No 2) (2021) 24 HKCFAR 349 at §44; Sham at §§9 and 97-107.
+
+[125]  Incorporated Owners of Po Hang Building v Sam Woo Marine Works Ltd (2017) 20 HKCFAR 240 at §§21-22.
+
+[126]  [2024] HKCFA 24.
+
+[127]  Ibid. at §§17(e), 18 and 47.
+
+[128]  CFI Judgment at §53.
+
+[129] Set out at CA Judgment at §53.
+
+[130] See The Annotated Ordinances of Hong Kong, Inheritance (Provision for Family and Dependants) Ordinance (Cap 481) para 5.05 and the cases cited therein.
+
+[131] There is also a power to grant relief under Section 8 of the MPPO in cases of neglect to maintain but again it is confined to situations where the court would have jurisdiction to entertain proceedings for judicial separation, see Section 8(2).
+
+[132] As defined in the Marriage Reform Ordinance Cap 178. It does not encompass foreign marriages.
+
+[133] Section 9 of the MCO.
+
+[134] In addition to Section 5(2), see also Part V of the IPO.  
+
+[135] (1866) LR 1 P&D 130.
+
+[136] See Suen Toi Lee v Yau Yee Ping (2001) 4 HKCFAR 474 at [6], W v Registrar of Marriages (2013) 16 HKCFAR 112 at [29] and [85] and Sham Tsz Kit v Secretary for Justice (No 1) (2023) 26 HKCFAR 385 at [93] footnote 68.
+
+[137] (1866) LR 1 P&D 130at p.138.
+
+[138] [1946] P 122.
+
+[139] [1967] 2 QB 213.
+
+[140] [1978] 1 WLR 1506. In England and Wales, the law in the matrimonial context was changed by the Matrimonial Proceedings (Polygamous Marriages) Act 1972.
+
+[141] [2011] 1 WLR 1450.
+
+[142] Ibid at [18].
+
+[143] Thus, a same-sex spouse cannot obtain ancillary relief under Part IIA of the MPPO as the requirement of Section 29AB(1)(b) of that ordinance cannot be satisfied.
+
+ 

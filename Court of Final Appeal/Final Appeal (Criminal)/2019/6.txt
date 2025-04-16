@@ -1,0 +1,484 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No. 6 of 2019
+
+[2020] HKCFA 18
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 6 OF 2019 (CRIMINAL)
+
+(ON APPEAL FROM HCMA NO. 119 OF 2018)
+
+________________________
+
+BETWEEN	 	 
+ 	HKSAR	Appellant
+ 	and	 
+ 	CHU ANG (趙鶯)	Respondent
+________________________
+
+Before: Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Chan NPJ and Mr Justice Stock NPJ
+Date of Hearing and Judgment: 1 June 2020
+Date of Reasons for Judgment: 30 June 2020
+________________________
+
+REASONS FOR JUDGMENT
+
+________________________
+
+Chief Justice Ma:
+
+1.  At the hearing, the Court unanimously allowed the appeal with reasons to be provided later.  Those reasons are given in the judgment of Mr Justice Ribeiro PJ, with which I agree.
+
+Mr Justice Ribeiro PJ:
+
+2.  The respondent in this appeal, Ms Chu Ang (“Ms Chu”), was charged with accepting an advantage as an agent contrary to section 9(1)(a) of the Prevention of Bribery Ordinance (“POBO”).[1] The Magistrate, Ms Yim Shun-yee, ruled that Ms Chu had no case to answer, holding that she was not an “agent” for the purposes of that section.[2] On the prosecution’s appeal by way of case stated, that ruling was upheld by DHCJ Gary Lam.[3] Not satisfied with the question certified by his Lordship,[4] the prosecution sought leave to appeal from the Appeal Committee on a reformulated question and on the substantial and grave injustice basis, pointing out that a number of similar cases had arisen with the same outcome, and submitting that guidance was needed as to the proper approach to the status of “agent” in the aforesaid context.  The prosecution conceded that, treating this as a test case, even if successful on appeal, it would not seek an order for the case to be remitted for resumption of the trial before the Magistrate, so that Ms Chu’s verdict of acquittal would stand.  Leave to appeal was granted by the Appeal Committee on the basis that it is reasonably arguable that there has been a substantial and grave injustice in that the law had been misapplied in the decisions below.[5]
+
+A.     Section 9(1)(a) and the charge
+
+3.  POBO section 9(1)(a) materially provides as follows:
+
+“Any agent who, without lawful authority or reasonable excuse, ... accepts any advantage as an inducement to or reward for or otherwise on account of his ... having done ... any act in relation to his principal's affairs or business; ... shall be guilty of an offence.”
+
+4.  Two definitions in POBO section 2 are relevant:
+
+“‘Agent’ includes a public servant and any person employed by or acting for another.”
+
+“‘Principal’ includes—
+
+(a) an employer;
+
+(b) a beneficiary under a trust;
+
+(c) a trust estate as though it were a person;
+
+(d) any person beneficially interested in the estate of a deceased person;
+
+(e) the estate of a deceased person as though it were a person; and
+
+(f) in the case of an employee of a public body, the public body;”
+
+5.  The charge against Ms Chu was drawn as follows:
+
+“CHU Ang, on or about the 11th day of July 2013, in Hong Kong, being an agent, namely a violin teacher engaged by her principal LAW Chi-yin Myrian, without lawful authority or reasonable excuse, accepted from Chairman Instruments Trading Limited an advantage, namely a gift, loan, fee, reward or commission consisting of $20,000 Hong Kong currency, as an inducement to or reward for or otherwise on account of the said CHU Ang, having done an act in relation to her principal’s affairs or business, namely arranging for the said LAW Chi-yin Myrian’s purchase of a violin from the said Chairman Instruments Trading Limited.”
+
+B.     The facts
+
+6.  The facts upon which the no case to answer ruling was based were not in dispute.  Ms Chu had, since about 2009 or 2010, been engaged by Ms LAW Chi-yin Myrian (the first prosecution witness, “PW1”) to give private violin lessons to PW1’s son Sampson Tam Sum-yin (“Sampson”), starting when he was aged 10.  Ms Chu was paid $650 for each one-hour lesson four times per month. 
+
+7.  In May 2013, PW1 told Ms Chu that Sampson wanted a new, Italian-made violin and asked Ms Chu to help find a suitable one.  Ms Chu later informed PW1 that some Italian violins were available and, at PW1’s request, got the shop in question, Chairman Instruments Trading Ltd (“CITL”), to reserve them for a month.  PW1 had not previously heard of CITL.  On 25 June 2013, Ms Chu accompanied PW1 and Sampson to CITL, having arranged for the violins to be made available.  After Sampson, and then Ms Chu, tried out the violins, Ms Chu indicated that one of them was preferable and it was chosen for purchase. 
+
+8.  Its list price was HK$99,000 but Ms Chu took part in the bargaining process and helped PW1 to negotiate the price down to HK$80,000 to include a violin bow.  That was the price PW1 paid.  About two weeks later, CITL paid Ms Chu HK$20,000 which was commission for the purchase made by PW1.  Ms Chu had never told PW1 about such commission.
+
+9.  In her testimony, PW1 said that she had sought Ms Chu’s advice and assistance in the purchase because Ms Chu was her son’s violin teacher and that she would not have bought the instrument if Ms Chu had not recommended it.  She stated that she would not have allowed Ms Chu to receive the rebate.
+
+10.  The second prosecution witness, Ms Wong Mei-wun (“PW2”) was an accounts clerk employed by CITL.  She testified that the violin had a list price of $99,000 and a wholesale price of $58,000 and that, having been purchased by PW1 for $80,000, the sum of $20,000 was rebated to Ms Chu.  This was evidently established practice at CITL, as she explained:
+
+“… CITL would pay back the price difference to a teacher who referred a student to the company to make a purchase. PW2 confirmed that CITL offered different discounts to ‘walk-in customers/students’ and ‘teachers’. If it so happened that a teacher brought a student along to purchase a violin, CITL would pay the teacher the difference between the two discounts. The witness agreed that the higher the discount that the teacher succeeded in negotiating for on behalf of the student, the less price difference the teacher would get.”[6]
+
+11.  The witness statement of the third prosecution witness, Ms Hui Suk-ha (“PW3”), an assistant to PW2 in CITL’s accounts department, was admitted in evidence without cross-examination.  In it, she elaborated upon the system for rebates or commissions:
+
+“PW3 pointed out that the sources of CITL’s customers were mainly walk-in customers and regular customers such as musical instrument teachers, schools and music companies. After negotiating the price with the customer, the salesman would inform PW3 of the category of customer concerned, the model number of the musical instrument sold, the discount and the concessional rate offered (if any). The discounts offered by CITL could be divided into the ‘wholesale price’ and the ‘tutor’s price’. The former was roughly 50% of the ‘retail price’ while the latter was a discount of about 40% on the original price. The wholesale price was often offered to corporate accounts, music companies, and musical instrument tutors with a business registration certificate[s] or those who had been in collaboration with the company for a long time. Any customer purchasing a musical instrument in the capacity of musical instrument tutor would be required to produce his music tutor certificate for verification by CITL. As for walk-in customers, they might be given a discount ranging from about 10% to 20%.
+
+PW3 was aware that some teachers would refer or bring their students to CITL for purchasing musical instruments or the relevant products.   CITL would pay the difference between the actual selling price of the musical instrument and the wholesale price or the teacher’s price to the tutor as a rebate. ...”[7]
+
+12.  Since the proceedings ended with the Magistrate’s ruling of no case to answer, there was no occasion for Ms Chu to give evidence.  However, the Magistrate referred to what Ms Chu had said in her cautioned statement:
+
+“The respondent admitted that she was the violin teacher of PW1’s son. The respondent took PW1 and her son to CITL for the purchase of a violin. The respondent said that she would negotiate with CITL the prices for her students and would probably get a discount of 15-30%. She admitted that after her student had successfully made a purchase, CITL would call her about the commission payable for the transaction. However, she had no idea as to how the commission was calculated. She agreed that her name, telephone number and bank account number were found in the invoice relating to PW1’s purchase of the violin. She believed that the commission for the purchase made by PW1 was deposited into her bank account. The respondent also agreed that she had never told PW1 she would receive a rebate from CITL for PW1’s purchase of the violin but she thought there was nothing wrong for her to receive it since the student or the parent would have paid more if they purchased it from elsewhere. She admitted to receiving the said HK$20,000 from CITL after arranging for PW1 to purchase the violin from it.”[8]
+
+C.     The Magistrate’s ruling of no case to answer and Case Stated   
+
+13.  The Magistrate observed that the prosecution’s evidence was “basically not in dispute” and concluded that it had not “established a prima facie case of any agent-principal relationship between the defendant and the witness for the purposes of the Ordinance”.[9]
+
+14.  In reaching that conclusion, the Magistrate’s focus was on PW1’s contractual relationship with Ms Chu as Sampson’s violin teacher, treating the selection and purchase of the new violin as something quite separate.  The teaching relationship, she held, was “based on an independent contract of services”[10] and assistance given by Ms Chu in the purchase of the violin was purely voluntary and fell outside that contract.[11] 
+
+15.  The Magistrate held that an agent-principal relationship had already to be in existence at the time when an offence was committed under section 9(1)(a) and accordingly, the violin acquisition, being outwith their contractual relationship, Ms Chu was not an “agent” for the purposes of the statutory offence:
+
+“I am of the view that any agent-principal relationship to which Section 9(1)(a) applies must exist at the same time and comply with the interpretations of agent and principal under the Ordinance. The defendant provided violin teaching service to the witness’s son in return for the agreed reward from her in the capacity of an independent contractor. The defendant performed the terms of his service contract in the capacity of a party to the contract, which did not include selecting and purchasing a violin on her behalf. Further, according to the witness’s testimony, their contractual relationship was restricted to the time of teaching. At the time of her accompanying (them) to CITL for the purchase of the musical instrument, the agent-principal relationship between the two parties did not exist at all.”[12]
+
+16.  She went on to hold that even if one were to focus on the purchase transaction as involving Ms Chu acting for PW1, Ms Chu was not an “agent” because she was not in a “special relationship” and did not come under an enforceable duty of trust and loyalty sufficient to constitute PW1 Ms Chu’s “principal”:
+
+“Even if the voluntary act in the matter of purchasing the violin can be deemed as acting for the witness, there was no special relationship between the witness and the defendant which would enable the former to enforce (a duty of) trust and loyalty against the latter. That is, even though the witness took the view that the defendant was required to accompany her to try the violins and offer professional advice upon promising her to do so, all these were assistance rendered by the defendant voluntarily, but not (a duty) that could possibly be enforced. I am of the view that the interpretation of principal does not apply to the witness, and on the evidence of the prosecution, the witness is not the principal for the purposes of the ordinance, either.”[13]
+
+17.  The premise of the Magistrate’s ruling was therefore that, in order to make the defendant an “agent” for section 9(1)(a) purposes, the act charged had to fall within a pre-existing legal relationship, in this case, either the contractual violin teaching relationship or a special relationship giving rise to an enforceable duty of trust and loyalty.  Those themes are reflected in the questions put forward for the opinion of the Judge in the Case Stated as follows:
+
+Question (1)   
+
+I ruled that the teacher and student’s parent relationship between the respondent and PW1 was one based on an independent contract for services. Did I err in the aforesaid ruling?
+
+Question (2)   
+
+Based on the fact that the scope of the independent contract of services between PW1 and the respondent did not cover assistance rendered to PW1 in the selection of a suitable violin, even though there was a teacher and student’s parent relationship between them, such a relationship did not extend to the length of time when PW1 invited the respondent to assist in choosing a violin.  Hence:
+
+(a)     The principal-agent relationship did not exist between the two parties in the matter of selecting and purchasing a violin.  Did I err in law in respect of the aforesaid ruling?
+
+(b)     If no special relationship existed at the time of selecting and purchasing a violin, the respondent could not become a person acting for PW1, and thus an agent of PW1, for rendering assistance voluntarily in the purchase of the violin.   Did I err in law in respect of the aforesaid ruling?
+
+Question (3)
+
+Based on the fact that the scope of the independent contract of services between PW1 and the respondent did not cover assistance offered to PW1 in selecting a suitable violin, I found that the interpretation of “principal” in Section 2 of POBO did not apply to PW1 in the matter of the respondent assisting in the purchase of the violin. There was no special relationship between them.  The respondent did not owe a fiduciary duty to PW1.  Did I err in law in making the aforesaid finding?
+
+Question (4)   
+
+For the correct explanation of “in relation to his principal’s affairs or business” as stated in  Section 9 of POBO, I also based on the fact that the scope of service involved in the independent contract between PW1 and the respondent did not include assisting PW1 in selecting a suitable violin,
+
+(a)     Did I err in law in not considering whether PW1 was prejudiced?
+
+(b)     Did I err in law in not considering and determining whether the respondent’s collection of the rebate had harmed the principal’s interest or damaged the relationship of trust between the principal and the agent?
+
+Question (5)   
+
+Did I err in law in ruling that the respondent had no case to answer?
+
+D.     The Judge’s decision
+
+18.  The appeal was heard by DHCJ Gary Lam on 13 September 2018.  By that date, two highly germane decisions of this Court had been published, namely, HKSAR v Luk Kin Peter Joseph (“the Peter Luk case”)[14] and Secretary for Justice v Chan Chi Wan Stephen (“the Stephen Chan case”),[15] to which I shall return. 
+
+19.  The Judge apparently approved the submission of Counsel for Ms Chu[16] to the effect that the status of “agent” and “principal” arises only in established commercial relationships or at least in relationships where the agent had been given authority, or come under a duty, to act for another:
+
+“Mr Lee pointed out that in the cases that Mr Tam[17] relied on, the ‘agents’ and ‘principals’ had obvious employment or business partnership relationships (e.g. director of an affiliated company); fiduciary obligations; and/or substantial conflict of interest. He submitted that in cases where the existence of agent/principal relationship between the two parties could be proved, the courts were all of the view that some necessary requirements must be fulfilled, and those cases could extend to the following principle: To become an agent, that person must be given some certain authority/duty or possessing continuous authority/duty, and act for another under the above situation, only then could the role of agent arise.”[18]
+
+20.  Continuing to cite Counsel’s argument with approval, his Lordship held that such relationships were to be distinguished from situations where the alleged agent merely offered assistance on a non-commercial, voluntary basis in a “social or friendly” context, falling outside section 9(1)(a):
+
+“Mr Lee considered that, as shown in the related cases, the courts did not find that the agent/principal relationship existed between the two parties because one person undertook to offer assistance to another under a situation which was non-commercial, entirely on a voluntary basis and merely involving social or friendly aspects. ... The position adopted by the appellant was that even if a person was not given any authority or fiduciary relationship did not exist between the two parties, the capacity as agent could still be established (e.g. friend making self-nomination). Mr Lee criticised that the interpretation of section 9 made by Mr Tam was clearly too loose that it toppled the ordinary social ethics and widely accepted social behaviour, thereby raising the assistance offered to others out of good intention and on a voluntary basis to self-exclusive fiduciary duty which could be resulted in one’s own imprisonment. As this was definitely not the legislative intent, what the appellant said could not stand. …”[19]
+
+21.  Commenting that “[the] crux of the issue ... lies in whether the capacity as agent can be established”[20] the Judge held that in the present case:
+
+“Judging from the existing evidence, I consider that in respect of the purchase of the violin, the respondent only provided her ‘services’ (namely arranging for PW1 and Tam SY to choose and buy a violin from CITL; providing opinion on timbre; and allowing them to obtain a discount). She did not do something in the name of PW1, do something on behalf of PW1 or do something in place of PW1. Even if PW1 relied on the respondent’s opinion, that would not have made her PW1’s agent.”[21]
+
+22.  In so holding, the Judge rejected the submission of Mr Tam SC (citing the Peter Luk case)that:
+
+“... it is not necessary for a person to be under any legal, contractual or fiduciary obligation to act in relation to the affairs and business of another in order to be the latter’s ‘agent’. The CFA holds that the acceptance of a request to act may itself create a duty to do so honestly and in good faith. Besides, it is sufficient for a person, by accepting instructions to act or acting voluntarily for another, to come under a fiduciary duty.”[22]
+
+23.  He also rejected the submission that the arrangement for a secret commission subverted the integrity of the agency relationship between Ms Chu and PW1 to the detriment of PW1’s interests. Having decided that Ms Chu was not PW1’s agent in the purchase transaction he thought it unnecessary to take any such detriment into account:
+
+“... in respect of the purchase of a [violin] and for the purpose of Section 9, I do not think that the respondent was PW1’s agent. The court therefore did not need to take into the account whether the respondent had injured the relationship of trust and loyalty between her and PW1 which was hence to the detriment of PW1’s interests.”[23]
+
+24.  Two other features of the judgment may be noted.  First, the Judge appears to have considered the question whether PW1 had suffered economic loss to be relevant:
+
+“… Even if the respondent had not received a commission, the CITL would not have sold the violin at a lower price. Currently, there was no evidence that PW1 had other better choices or that the respondent deliberately recommended CITL to PW1 while knowing full well that the selling prices at the CITL were higher. In other words, PW1 got what she wanted without suffering any economic loss.
+
+... the respondent completed the task successfully according to PW1’s requirements. Without the respondent’s referral, PW1 might not know the channel through which Italian violins could be bought. What was more important is that if it had not been for the respondent, PW1 would not have been given the relevant discount. In my view, the respondent did not deviate from her duty regarding the purchase of a violin.”[24]
+
+25.  Secondly, his Lordship appears to have thought that where a system of commissions could be considered “normal practice”, recipients of the advantage would fall outside section 9(1)(a):
+
+“Even if I was wrong on the issue of whether the respondent was PW1’s agent, one of the purposes of Section 9, in my view, is to prevent businessmen and intermediaries from transferring unnecessary transaction fees to consumers. In the present case, there was no evidence that PW1 paid unnecessary money to buy the [violin]. It is a normal sales / marketing strategy for a store to offer commissions to musical instrument instructors, tour guides, sports coaches, etc. to encourage them to refer customers. The above people, who, in the capacity of personal friends, voluntarily provide their students, tour members, friends and relatives with professional shopping opinion as an aspect of ordinary social interaction, should not be regarded as agents and regulated by Section 9.”[25]
+
+26.  The Judge formally answered all the questions in the Case Stated in the negative and thus upheld the Magistrate’s approach of requiring the impugned act to be performed pursuant to a pre-existing legal relationship.
+
+E.     The Peter Luk case
+
+27.  The Peter Luk case involved a listed company X which had a subsidiary Y, which held the shares of Z, a sub-subsidiary.  Mr Luk and his co-defendant Ms Yu were the directors of Y but had no legal relationship with X.  X wished to sell Z and X’s chief executive, Mr Yeung, asked Mr Luk to find a third party buyer for Z.  Mr Luk put up, as an ostensibly independent purchaser, a company which he beneficially owned.  Mr Luk was a person “connected” with X, so that acquisition of Z by a company beneficially owned by him would require disclosure of a connected transaction to the Stock Exchange, triggering various conditions to be met before acquisition could proceed.  However, Mr Luk and Ms Yu signed a board minute as Y’s directors falsely confirming that “none of the directors of [Y] was interested in the transactions herein contemplated” so that X would notify the Stock Exchange that the purchasing company and its ultimate beneficial owners were independent of both X and its connected persons.  It was alleged that Mr Luk had bribed Miss Yu to co-operate in publishing the false statement by offering her 1.5 million of his shares in X.  They were charged with offering and accepting an advantage as agents of X, contrary to POBO section 9(1) and (2). 
+
+28.  A central facet of the defendants’ defence was the contention “... that they could not be agents of [X] because they were not its directors or employees. They owed it no legal or fiduciary duties.”[26] In other words, that there was no pre-existing legal relationship between themselves and X.  This was rejected by the Court of Appeal which held that they were X’s “agents” because they were persons acting for X in finding a purchaser for Z’s shares.[27] This led to the following question being certified on appeal:
+
+“What is the meaning of ‘agent’ for the purposes of s.9 of the [POBO] and specifically whether a person who is under no legal, contractual or fiduciary obligation to act in relation to the affairs or business of another is that person's ‘agent’ for the purposes of s.9?”
+
+29.  In dealing with that question, Lord Hoffmann NPJ’s judgment[28] directly addresses the issue which is central to the present case.  He held that whether the Judge and the Court of Appeal were right to hold that the appellants were agents of X turned upon the definition of “agent”, which includes “any person … acting for another”.[29] He noted that counsel for the defendants had submitted that:
+
+“... [a] person cannot ... be an agent for the purposes of the Ordinance unless there is a pre-existing contractual or fiduciary relationship which obliges him to act. ‘[M]erely because a person acts in accordance with another's request does not render him an agent of that other unless he is bound to act upon [it]’.”[30]
+
+30.  His Lordship pointed out that this was contrary to a consistent line of authority in Hong Kong which:
+
+“... makes it clear that no pre-existing duty is required. Acceptance of a request to act may itself create a duty to do so honestly and in good faith.”[31]
+
+31.  The authorities cited included R v Chong Chui Ha,[32] the facts of which were summarised by Lord Hoffmann NPJ as follows:
+
+“... a firm of estate agents received an offer of the asking price for a flat which they were marketing. Later, someone else made them a higher offer. An employee of the estate agents told the representative of the first buyer that if he paid her $200,000, she would not pass on the higher offer to the owner. Charged with soliciting a bribe contrary to s.9(1), the defendant submitted, as in this case, that she was not an agent for the purposes of the Ordinance: ‘it is not sufficient for a person merely to act for another person’.”[33]
+
+32.  His Lordship explained why that submission was rejected:
+
+“It is true that she had no power to contract on the owner's behalf. Nor was she obliged to do anything. If she had not lifted a finger to find a buyer, she would not have been in breach of contract. Nor was the owner going to pay for her services. She was hoping to share the commission of the buyer's agent. But Keith J held, rightly if I may respectfully say so, that by accepting instructions she came under a duty, so far as she acted for the owner at all, to do so honestly and in his interest. That made her his agent for the purposes of the Ordinance.”[34]
+
+33.  His Lordship went further:
+
+“It is not even necessary that there should have been a request to act. A person who is in a position to act on behalf of another and voluntarily does so may also thereby assume fiduciary duties.”[35]
+
+34.  This was illustrated by Hung John Terence v HKSAR,[36] where a voting member of the Jockey Club had, without being asked to do so by the Club, proposed someone for full membership, having solicited and accepted a bribe for that purpose.   As Lord Hoffmann NPJ points out:
+
+“Mr Hung was not under any contractual or fiduciary duty to propose members of the Club. He had not even been asked to do so. But, having chosen to recruit a member on behalf of the Club, he came under a duty to do so in good faith and not to exploit his position to obtain a bribe.”[37]
+
+35.  It was held that section 9(1)(a) clearly applied to Mr Luk and Ms Yu:
+
+“Having agreed with Mr [Yeung], acting for [X], that he would find a buyer for [Z], Mr Luk created a reasonable expectation that he would act in the interest of [X] and to the exclusion of his own interest. More specifically, he assumed a duty to act in good faith and not deceive [X] into making a false statement to the Stock Exchange. Miss Yu was aware that this was the basis upon which he was putting forward [the purchaser company] as a buyer and participated in his deception.”[38]
+
+36.  Lord Hoffmann NPJ therefore construed section 9(1)(a) as qualifying a person as an “agent” where he or she was “acting for another”, having agreed or chosen so to act in circumstances giving rise to a reasonable expectation, and hence a duty, to act honestly and in the interests of that other person to the exclusion of his or her own interests, without the need for proving any pre-existing legal relationship between them or even necessarily proving a request by that other person for the agent so to act.  As his Lordship noted,[39] a fiduciary duty often arises in similar circumstances.  There is, however, no need to burden the construction of section 9 by detailed discussion of the law of fiduciaries or other branches of the law.  It is clear, for instance, from the expansive nature of the definition of “principal” set out above,[40] that the section 9 scheme goes well beyond ordinary principles of agency law.
+
+37.  Applying the Peter Luk case to the present, one is led to conclude that:
+
+(a)     The Magistrate and the Judge fell into error in requiring proof that Ms Chu’s act of accepting an advantage occurred pursuant to a pre-existing legal relationship if she was to be treated as an “agent” under section 9(1)(a).
+
+(b)     They erred in focussing on the independent contract for services whereby Ms Chu gave violin lessons to Sampson as the relevant pre-existing relationship.  They ought instead to have concentrated on the role Ms Chu had played regarding purchase of the violin.
+
+(c)     They wrongly held that Ms Chu was not an “agent” in relation to the purchase of the violin because that transaction fell outside the scope of the pre-existing contractual relationship.
+
+(d)     They also erroneously held that even if one were to focus on the violin purchase, Ms Chu was not an “agent” because she was acting voluntarily and did not thereby come under an enforceable duty of trust and loyalty in favour of PW1.
+
+38.  The Court’s judgment in the Peter Luk case had not been published when this case came before the Magistrate.  However, the Judge was referred to, and himself cited, that authority,[41] but it is evident that he did not apply it.  
+
+F.     The Stephen Chan case and POBO section 19
+
+39.  In the Stephen Chan case, it was pointed out[42] that section 9(1)(a) does not require the agent to have been acting in his capacity as an agent within a pre-existing relationship but instead, that the relevant act done (or not done) must be “in relation to his principal’s affairs or business”. [43] It was held that this means that his conduct must be “aimed at the principal’s affairs or business” and that :
+
+“... on a proper construction of s.9 in the light of its mischief, the induced or rewarded conduct ‘aimed at the principal’s business’ has to be conduct which subverts the integrity of the agency relationship to the detriment of the principal’s interests.”[44]
+
+40.  It was emphasised that such detriment does not require the principal to suffer any economic loss:
+
+“... the prejudice to the principal's interests ... does not need to involve immediate or tangible economic loss to the principal or benefit to the agent at the principal's expense. Of course, it will frequently (or indeed, usually) do so, but that is not essential on the true construction of the section. The agent may, for instance, be induced to act prejudicially to the reputation of the principal's business or to divulge confidential information without any immediately palpable loss to the principal. Where the offering, solicitation or acceptance of an advantage is of such a nature as to undermine the integrity of the agency relationship, that is, of such a nature as to injure the relationship of trust and loyalty that a principal is entitled to expect from his agent, this in itself is capable of constituting the necessary detriment.”[45]
+
+41.  Accordingly, it was erroneous for the Judge to suggest that Ms Chu was not caught by section 9(1)(a) because PW1 had not suffered economic loss.  As a matter of fact, the Judge’s suggestion that “if it had not been for the respondent, PW1 would not have been given the relevant discount”[46] appears to run contrary to the evidence of PW2 and PW3 who confirmed that “walk-in customers” would be given discounts ranging from 10% to 20%.[47]  A reduction from the list price of $99,000 to $80,000 is a discount of about 19%.  It is true that a bow was included, but there was no evidence of its cost.  But in any event, as pointed out in the Stephen Chan case, economic loss is not an element of the offence.  Moreover, Ms Chu made a secret profit representing a significant economic gain equivalent (as Mr Tam SC points out[48]) to about 7¾ months’ worth of Sampson’s tuition fees.  The relevant question, applying the Stephen Chan case, was whether, in accepting an advantage consisting of the secret commission, Ms Chu had subverted the integrity of the agency relationship with PW1.
+
+42.  The Judge’s suggestion that a person escapes liability under section 9(1)(a) if he or she accepts an advantage in a situation where commissions might be considered “normal practice”, overlooks POBO section 19 which provides:
+
+“In any proceedings for an offence under this Ordinance, it shall not be a defence to show that any such advantage as is mentioned in this Ordinance is customary in any profession, trade, vocation or calling.”
+
+G.     Applied in the present case
+
+43.  As pointed out above, a person is an “agent” for the purposes of section 9(1)(a) where he or she “acts for another”, having agreed or chosen so to act in circumstances giving rise to a reasonable expectation, and hence a duty, to act honestly and in the interests of that other person to the exclusion of his or her own interests.  There is no need for any pre-existing legal relationship between them.  Acceptance of a request to act may suffice.  Indeed, it may be sufficient for the agent to choose to act for another even without a request to do so.
+
+44.  In the present case, the correct focus is on the purchase of the violin by PW1 from CITL since that is the transaction which gave rise to Ms Chu’s acceptance of the $20,000 rebate from CITL.  Ms Chu agreed to assist PW1 to source a violin.  She made the preliminary arrangements with CITL, accompanied PW1 and Sampson to the shop, helped them to select the violin and took part in negotiating the price eventually paid.  This course of conduct involved Ms Chu acting for PW1 in assisting her to purchase the Italian violin from CITL.  That purchase constituted the relevant “affairs or business” conducted by PW1 as principal.  Ms Chu’s conduct created a reasonable expectation that she would act honestly and in good faith in the interest of PW1, to the exclusion of her own interest in connection with such purchase. 
+
+45.  Ms Chu knew all along that she would be rewarded by CITL by payment of a commission but did not mention this to PW1.  The evidence was that there was in place a system whereby commission was paid to the music tutor who introduces a student-customer making a purchase, representing the difference between the price paid by the customer and CITL’s “wholesale” or “tutor’s” price.  The undisputed evidence also showed that the lower the tutor negotiated the customer’s price, the smaller would have been his or her commission.  Acceptance of such a secret commission while acting for PW1 in the purchase of the violin placed Ms Chu in a conflict of interest situation, which is one example of a case where the integrity of an agency relationship such as existed between Ms Chu and PW1 would be subverted.  Accordingly, the decisions below cannot be supported.
+
+H.     The respondent’s submissions on this appeal
+
+H.1   Need for a pre-existing legal relationship
+
+46.  The submissions of Mr Lee SC sought to perpetuate the fallacy that a pre-existing legal relationship must be proved to constitute someone an “agent” under section 9(1)(a).  Thus, he criticised the prosecution for alleging that Ms Chu was an agent without first establishing an agency relationship, calling this “putting the cart before the horse”.  In contrast, he pointed out that the Magistrate and the Judge had:
+
+“... correctly focused on the ‘horse’ rather than the ‘cart’. Fundamentally, if R was not the agent of PW1, it was not PW1’s (and indeed no one’s) concern whether CITL had paid R any money afterwards.” [49]
+
+47.  Counsel reiterated the propositions which the Courts below had erroneously accepted.  He summarised his submissions as follows:
+
+“Given the nature of R’s part-time employment (which was strictly time-based rather than job-based); PW1’s confirmation that R was free to do anything outside the teaching hours, including taking up jobs that would conflict with PW1’s interests; that no obligation was undertaken by, and expected from, R in arranging the purchase, and that there was no actual ‘reliance’ on the knowledge of R, her assistance was truly ‘voluntary’ and ‘gratuitous’ ... No duty of good faith could arise whether from the employment, or from the uncharged ‘acting for’ basis. The ruling of no case was amply justified, and indeed inevitable.”[50] (Emphasis in the original)
+
+H.2   The argument that the two authorities are irrelevant
+
+48.  The abovementioned submissions obviously cannot stand in the face of this Court’s decision in the Peter Luk case.  However, Mr Lee SC sought to evade the effect of that authority by inviting this Court not to apply it “retrospectively”:
+
+“In so far as the final judgement of this Honourable Court would involve principles in the Luk Kin judgment, which was decided after the trial of R, the final judgment should not be applied retrospectively to the decision of no case to answer...”[51] (Emphasis in the original)
+
+49.  Counsel went further and suggested that both the Peter Luk case and the Stephen Chan case, being “post-trial decisions”, are “relevant to a general discussion of the law on POBO offences, but irrelevant for deciding whether this appeal should be allowed.”[52]
+
+50.  Those propositions are heretical and wholly unsustainable.  The Court was concerned in the two earlier cases, and is presently concerned, with determining, as a matter of law, the true construction of POBO section 9(1)(a) read together with the definition of “agent” in section 2.  As Li CJ pointed out in HKSAR v Hung Chan Wa:[53]
+
+“Under the common law, the well-established position is that a judgment determining a legal question operates retrospectively as well as prospectively.”[54]
+
+51.  The role of a court is to apply the law to facts which will generally have occurred before its decision.  It is not open to a party to invite the court somehow to exempt him or her from application of the law so determined.[55]
+
+H.3   The questions raised in the case stated
+
+52.  Mr Lee SC sought to justify his attempted evasion of the two abovementioned authorities by reliance on The Attorney General v Leung Chi Kin,[56] but that decision is of no possible assistance to his argument.  Huggins J was there concerned to provide guidance regarding the correct form and content of a case stated as a matter of practice and procedure, specifying what it should and should not contain. In the passage relied on by Mr Lee, his Lordship stated:
+
+“A case stated is not to be used as a device for obtaining the opinion of the Court upon questions which did not form the basis of the magistrate's decision, and, even where a point did form part of the basis of his decision, if it was not taken at the trial the Court will not allow it to be argued on appeal unless it is one which no evidence could alter: Kates v. Jeffery [1914] 3 K.B. 160”.[57]
+
+53.  In the present case, the true construction of section 9(1)(a), read together with the definition of “agent” in section 2, is a question of law that has throughout been at the heart of these proceedings.  Indeed, in the light of Ms Chu’s admissions, it has been the sole question in issue.   It formed the basis of the decisions below and obviously arises for decision in the case stated.  The procedural requirements of The Attorney General v Leung Chi Kin have plainly been met and that decision does not in any way justify the attempted circumvention of the two authorities laid down by this Court.
+
+H.4   “Friendly” assistance
+
+54.  Mr Lee SC also urged upon the Court the proposition that the offence should not be construed to be so wide as to penalise persons who merely seek to “give a helping hand” to “friends, colleagues and even strangers”.[58] He put forward at the hearing an example he had given in his Written Case as follows:
+
+“‘C’ ... bought a cup of coffee at shop Y for colleague ‘D’. As a result of that purchase, stamps were collected and C was entitled to a cup of free coffee as a result of that purchase.”[59]
+
+55.  Presumably in this example, C had been requested by D to buy the coffee and provided by D with the money to do so.  As a result, C collects stamps from the coffee-shop, presumably as part of a customer-loyalty programme which entitles C to have a free cup of coffee when sufficient stamps are collected.[60]
+
+56.  Mr Lee SC’s submission was that C, in purchasing the coffee is “acting for” D and thus deemed D’s “agent” and that C’s collected stamp is an advantage obtained as a result of so acting, making C guilty of an offence.  He proffered this as an example showing that such a broad construction of “agent” would lead absurdly to unwarranted criminalisation.
+
+57.  It is often unwise to argue by analogy from a hypothetical example since the applicability of section 9 and the legal issues arising must depend on the particular facts of each case.  Thus, in the coffee example, I think it clear that C would not be guilty of a section 9 offence, but not because of the meaning of “agent”. 
+
+58.  The relevant provisions of section 9(1)(a) are set out in Section A of this judgment.  The “agent” requirement is only one element of the offence.  C may well come within the definition of an “agent” in acting for D in the purchase of the coffee. However, applying the Stephen Chan case,in so far as earning the coffee stamps might be regarded as the “advantage” under section 9(1)(a), it is impossible to see how that could be regarded as conduct by C aimed at D’s business, being conduct which subverts the integrity of the agency relationship in relation to buying the cup of coffee for D.  As Fok PJ pointed out,[61] “[the] section does not ... criminalise any and all payments of money by a third party to an agent made without the principal's knowledge and consent.”  The conduct and the advantage must be aimed at the principal’s affairs or business in the subverting sense explained in the Stephen Chan case.
+
+59.  One can readily agree that the section 9 offence should not be given such a wide ambit that it unacceptably criminalises helpful assistance given to another person honestly and in good faith.  However, in a case like the present, we are concerned with a defendant who places herself in a conflict of interest situation and makes a secret profit out of acting for another, clearly subverting the integrity of the agency relationship. 
+
+60.  A person acting honestly and in good faith can easily avoid POBO liability by disclosing the commission arrangement rather than keeping it secret from the person for whom he or she is acting.  The other person’s prior permission to accept the rebate might be sought.  No doubt some parents in PW1’s position, if informed of the commission, might be content to permit the tutor to accept and keep it out of appreciation for the tutor’s services, or viewing it as a needed part of the tutor’s remuneration, or as payment for the help given in selecting and buying the instrument.  Others, if told, might suggest that the tutor should share the commission with them to reduce the expense of the purchase; or they might suggest that the commission should result in reduced tuition fees, and so forth.  Or they may be unwilling to proceed on the basis of the tutor receiving a rebate.  These would be matters for negotiation and the tutor could deal appropriately with their reactions, acting honestly and in good faith. 
+
+H.5   The particulars of the charge
+
+61.  Much of Mr Lee SC’s submissions involved a complaint that the prosecution was seeking to depart from the way the charge is particularised, his contention being that the charge limits the prosecution to pursuing a case of agency solely based on acts done within the four corners of the violin teaching contract rather than on Ms Chu “acting ... for” PW1 in connection with the violin purchase. 
+
+62.  I do not accept that the charge, read as a whole,[62] conveys such a restricted meaning.  It states that Ms Chu is an agent who is a violin teacher engaged by PW1, but makes it plain that the charge centres on her act “in relation to her principal’s affairs or business” consisting of “arranging for [PW1’s] purchase of a violin from [CITL]”.  It was made clear by prosecution counsel[63] at the trial, that the case against Ms Chu was based on her being an “agent” by “acting for PW1” in the violin purchase, as particularised in the charge.  The Judge dismissed Mr Lee SC’s complaint, holding that the charge and the prosecution’s conduct of the case “did not give rise to unfairness to the respondent”.[64] There was no application for, or grant of, leave to appeal on the basis of a ground concerning the framing of the charge.  This argument is accordingly not open to the respondent and would not in any event be viable.
+
+I.     Disposal of the appeal
+
+63.  For the foregoing reasons, I would allow this appeal and set aside the rulings of no case to answer by the Courts below. 
+
+64.  As the Court indicated at the hearing, in the light of the prosecution’s concession, there will be no order for any remitter to the Magistrate and it is to be directed that Ms Chu’s verdict of acquittal stands.
+
+65.  The Court having indicated that it would be making the aforesaid orders, the parties were given liberty to lodge submissions regarding the orders for costs which had been made in favour of Ms Chu in each of the Courts below.  Their submissions have now been received.
+
+66.  Mr Lee SC seeks to persuade the Court that those costs orders should be maintained on the grounds that: (i) “this appeal is a test case ...”; (ii) Ms Chu was “selected arbitrarily to face trial ...”; (iii) the Magistrate and Judge “found the charge to be ambiguous”; and (iv) if, hypothetically, the case were to proceed to trial, she could ultimately succeed.
+
+67.  None of those grounds has any merit.  It must be borne in mind that the prosecution is not seeking any orders for costs against Ms Chu but only to set aside costs orders that had been made in her favour on the basis of rulings that she had no case to answer which have now been overturned.
+
+68.  The prosecution’s concession flowing from the submission that the Court should determine this appeal as a test case was that there should be no remitter and the verdict of acquittal should stand.  That concession provides no basis for her receiving any award of costs. 
+
+69.  The decision to prosecute Ms Chu was not “arbitrary” but fully justified, which follows from the outcome of this appeal.  It is unsustainable to submit that the charge was, or was thought by the Courts below to be, “ambiguous”.  The hypothesis of ultimate possible success if the case were to proceed to trial is similarly unsupportable.  I would therefore set aside the costs orders made in Ms Chu’s favour.
+
+Mr Justice Fok PJ:
+
+70.  I agree with the judgment of Mr Justice Ribeiro PJ.
+
+Mr Justice Chan NPJ:
+
+71.  I agree with the judgment of Mr Justice Ribeiro PJ.
+
+Mr Justice Stock NPJ:
+
+72.  I agree with the judgment of Mr Justice Ribeiro PJ.
+
+Chief Justice Ma:
+
+73.  The Court unanimously allows the appeal, sets aside the rulings of no case to answer and the orders for costs made in Ms Chu’s favour in the Courts below and, in the light of the appellant’s concession, directs that Ms Chu’s verdict of acquittal stands.
+
+ 
+
+ 
+
+(Geoffrey Ma)	(R A V Ribeiro)	(Joseph Fok)
+Chief Justice	Permanent Judge	Permanent Judge
+  
+
+  
+
+(Patrick Chan)	(Frank Stock)
+Non-Permanent Judge	Non-Permanent Judge
+  
+
+Mr William Tam, SC, DDPP and Ms Karen Yuen, SPP, of the Department of Justice, for the Appellant
+
+Mr Robert S K Lee, SC and Ms Cathy W Y Chan, instructed by LCP, for the Respondent
+
+[1] Cap 201.
+
+[2] TWCC 1031 of 2016 (13 September 2016).  The proceedings below were conducted in Chinese.  Citations in this judgment from the transcript, case stated and the judgments below are from certified English translations.
+
+[3] [2019] HKCFI 1361 (3 June 2019).
+
+[4] [2019] HKCFI 2150 (2 September 2019).  “Is it correct that when someone, purportedly in a private or friendly capacity, provides gratuitous advice, which is based on the special knowledge of that person in a particular field, to another, no fiduciary obligation on the former could arise which would give rise to an agent-principal relationship for the purpose of [POBO section 9]?”
+
+[5] Ribeiro and Fok PJJ and Chan NPJ [2019] HKCFA 42 (15 November 2019).
+
+[6] Case Stated §13.
+
+[7] Case Stated §§15-16.
+
+[8] Case Stated §7.
+
+[9] Transcript p 169.
+
+[10] Transcript p 165.
+
+[11] Transcript p 166.
+
+[12] Transcript pp 167-168.  See also Case Stated §20(b).
+
+[13] Transcript pp 168-169.  See also Case Stated §20(c).
+
+[14] (2016) 19 HKCFAR 619.
+
+[15] (2017) 20 HKCFAR 98.
+
+[16] Mr Robert S K Lee SC, appearing with Ms Cathy W Y Chan for Ms Chu. The Judge stated: “I think the comments made by Mr Lee are not groundless” (Judgment §28).
+
+[17] Mr William Tam SC appearing with Ms Karen Yuen for the prosecution.
+
+[18] Judgment §27.
+
+[19] Judgment §28.
+
+[20] Judgment §29.
+
+[21] Judgment §31.
+
+[22] Judgment §17.
+
+[23] Judgment §39.
+
+[24] Judgment §§36 and 37.
+
+[25] Judgment §40.
+
+[26] Peter Luk case at §21.  They also argued that while they were directors of Y, they had not deceived that company as they were its only directors and must be taken to have consented to Ms Yu accepting the advantage offered by Mr Luk.
+
+[27] Ibid at §22.
+
+[28] With which the other members of the Court agreed.
+
+[29] Peter Luk case at §26.
+
+[30] Ibid at §27.
+
+[31] Ibid at §28.
+
+[32] [1997] 4 HKC 518.
+
+[33] Peter Luk case at §29.
+
+[34] Ibid.
+
+[35] Ibid at §30.
+
+[36] FAMC 85/2010 (22 February 2011).
+
+[37] Peter Luk case at §31.
+
+[38] Ibid at §33.
+
+[39] Ibid at §§32-33.
+
+[40] Section A.
+
+[41] Judgment at §§16-18.
+
+[42] Stephen Chan case at §37.
+
+[43] Citing Commissioner of the Independent Commission Against Corruption v Ch’ng Poh [1997] HKLRD 652 at 656-657.
+
+[44] Stephen Chan case at §53.
+
+[45] Ibid at §54.
+
+[46] Judgment §37.
+
+[47] See Section B above.
+
+[48] AC§26.
+
+[49] RC§§8-9.
+
+[50] RC§18.
+
+[51] RC§58(4).
+
+[52] RC§107.
+
+[53] [2006] 9 HKCFAR 614 at §10. 
+
+[54] Re Spectrum Plus Ltd [2005] 2 AC 680 at §§4-7.
+
+[55] This is not a case involving the overruling of an established line of authority where the issue might arise (left open in Hung Chan Wa) as to the possibility of prospective overruling.
+
+[56] [1974] HKLR 269.
+
+[57] Ibid at p 273.
+
+[58] RC§60.
+
+[59] RC§61(2).
+
+[60] Mr Lee SC provided two other similarly constructed examples at RC§61.
+
+[61] The Stephen Chan case at §142.
+
+[62] Set out in Section A above.
+
+[63] Ms Cannise Chan.
+
+[64] Judgment §14.
+
+ 

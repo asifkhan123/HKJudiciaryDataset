@@ -1,0 +1,532 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV Nos. 1 of 2020 and 2 of 2020
+
+[2020] HKCFA 22
+
+FACV No. 1 of 2020
+
+ 
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 1 OF 2020 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 5 OF 2017)
+
+_________________________
+
+BETWEEN	 	 
+H	Appellant
+and	
+DIRECTOR OF IMMIGRATION	Respondent
+_________________________
+
+FACV No. 2 of 2020
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 2 OF 2020 (CIVIL)
+
+(ON APPEAL FROM HCMP NO. 196 OF 2016)
+
+___________________________
+
+BETWEEN	 	 
+AH	Appellant
+and	
+DIRECTOR OF IMMIGRATION	Respondent
+___________________________
+
+(HEARD TOGETHER)
+
+Before: Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Cheung PJ and Mr Justice Gleeson NPJ
+Date of Hearing: 19 June 2020
+Date of Judgment: 19 June 2020
+Date of Reasons for Judgment: 14 July 2020
+________________________
+
+REASONS FOR JUDGMENT
+
+________________________
+
+Chief Justice Ma:
+
+1.  At the hearing of these appeals, after submissions on the first question of law for which leave to appeal was granted, the Court made the following orders:
+
+(1)  The appeals are allowed to the extent that the appellants had the right to appeal to the Court of Appeal without first obtaining leave under s.14AA(1) of the High Court Ordinance, Cap.4, against the orders of Chow J dated 18 November 2015 (in HCAL 32 of 2015) and 3 November 2016 (in HCAL 172 of 2015) refusing to grant leave to apply for judicial review.  The reasons for judgment will be handed down on a date to be notified.
+
+(2)  The other questions for which leave to appeal to the Court of Final Appeal as sought in FAMV 415 of 2019 and FAMV 3 of 2020 are to be dealt with on a date to be fixed.
+
+2.  The reasons for allowing the appeals are set out in the judgment of Mr Justice Fok PJ.  I agree with those reasons and the direction regarding costs at [56] below.
+
+Mr Justice Ribeiro PJ:
+
+3.  I agree with the judgment of Mr Justice Fok PJ.
+
+Mr Justice Fok PJ:
+
+A.      Introduction
+
+4.  The primary issue in these conjoined appeals is one of jurisdiction of the Court of Appeal to entertain an appeal from the Court of First Instance and, in particular, whether a decision to refuse an extension of time to apply for leave to apply for judicial review is a decision to which section 14AA(1) of the High Court Ordinance (Cap.4) (“HCO”) (set out at [10] below) applies.  In this judgment, I shall refer to this issue as “the Leave Issue”.
+
+5.  If leave is required, a subsequent question arises as to whether the finality provision in section 14AB of the HCO (set out at [12] below), insofar as it relates to judicial review proceedings, is inconsistent with the Court of Final Appeal’s power of final adjudication in Article 82 of the Basic Law.[1] This issue will be referred to as “the Constitutionality Issue”.
+
+6.  The circumstances out of which these appeals arise are as follows.  In FACV 1/2020:
+
+(1)  The appellant in FACV 1/2020 (“the appellant H”) applied to the respondent, the Director of Immigration, for a dependant visa.  The respondent made a decision to refuse the application on 8 October 2013 and confirmed the decision on 11 August 2014.  On 21 August 2015, the appellant H filed a Notice of Application for Leave to Apply for Judicial Review[2] (in HCAL 172/2015) seeking to challenge the respondent’s decision and its confirmation.  Being considerably more than three months after the date of the relevant decision sought to be judicially reviewed, in his Form 86 notice, the appellant H sought an extension of time in which to bring the application.
+
+(2)  Chow J directed that there be what he termed “a rolled up hearing” of (i) the application for an extension of time to commence judicial review proceedings, (ii) the application for leave to apply for judicial review, and (iii) in the event that leave was granted, the substantive judicial review application.[3]
+
+(3)  By his judgment dated 3 November 2016, Chow J refused to grant the extension of time sought and dismissed the application for leave to apply for judicial review.[4]
+
+(4)  The appellant H filed a Notice of Appeal against Chow J’s judgment (in CACV 5/2017). However, applying the judgment of the Court of Appeal in MI & IYW v Permanent Secretary for Security[5] (which I shall address further below), the appellant H was directed by the Registrar of Civil Appeals that, if he was minded to pursue the appeal, he should apply for leave to appeal pursuant to section 14AA of the HCO and seek an extension of time for that purpose.  The appellant H duly did so by summons dated 22 August 2018.
+
+(5)  On 29 October 2018, the Court of Appeal refused to grant leave to appeal to it from Chow J’s judgment and struck out the appeal.[6]
+
+(6)  The appellant H then applied to the Court of Appeal for leave to appeal to the Court of Final Appeal.  By its judgment dated 22 November 2019, the Court of Appeal followed its decision in MI and held that, since it had refused leave to appeal to it pursuant to section 14AA of the HCO, section 14AB of the HCO precluded any further appeal to the Court of Final Appeal and dismissed the application for leave to appeal to this Court.[7]
+
+(7)  The appellant H then applied to this Court for leave to appeal against the Court of Appeal’s judgment striking out his appeal against the judgment of Chow J.[8]
+
+7.  In FACV 2/2020:
+
+(1)  The appellant in FACV 2/2020 (“the appellant AH”) also applied to the respondent for a dependant visa.  The respondent made a decision to refuse that application on 14 August 2012 and confirmed the decision on 1 August 2013.  On 3 March 2015, the appellant AH filed a Notice of Application for Leave to Apply for Judicial Review seeking to challenge the respondent’s decision and its confirmation (in HCAL 32/2015). Being considerably more than three months after the date of the relevant decision sought to be judicially reviewed, in his Form 86 notice, the appellant AH sought an extension of time in which to bring the application.
+
+(2)  Chow J heard (i) an application by the appellant AH for an extension of time to commence judicial review proceedings described as “the Extension Application”, and (ii) an application for leave to apply for judicial review “in the event that the Extension Application is granted”.[9]
+
+(3)  By his judgment dated 18 November 2015, Chow J dismissed the application for the extension of time sought and also dismissed the application for leave to apply for judicial review.[10]
+
+(4)  The appellant AH applied for an extension of time to seek leave to appeal to the Court of Appeal against Chow J’s judgment.  On 23 August 2019, the Court of Appeal dismissed the application,[11] holding:
+
+“For these reasons, we do not see any reasonable prospect of success in the applicant’s arguments based on construction of the [No Record Criterion of the Dependant Visa Policy]. Even taking account of these new arguments, we cannot see any ground for disturbing Chow J’s refusal to grant extension of time for an application for judicial review to be brought.”[12]
+
+(5)  On 1 November 2019, the appellant AH applied by Notice of Motion to the Court of Appeal for leave to appeal to this Court from the CA Judgment in AH (i.e. its judgment dated 23 August 2019).  By letter dated 5 December 2019, the Court of Appeal[13] dismissed the Notice of Motion, directing (inter alia) that:
+
+“For the reasons set out in H v Director of Immigration [2019] HKCA 1302, the decision of this Court on 23 August 2019 is final and the Notice of Motion of 1 November 2019 is incompetent.”
+
+The case referred to (H v Director of Immigration) is the “CA Leave Judgment in H” (see FN7 above) and so this direction was made applying that judgment, namely on the basis that the Court of Appeal had refused leave to appeal to it pursuant to s.14AA of the HCO so that s.14AB of the HCO precluded any further appeal to the Court of Final Appeal.
+
+(6)  The appellant AH then applied to this Court for leave to appeal against the Court of Appeal’s judgment dated 23 August 2019.[14]
+
+8.  The Appeal Committee granted the appellants leave to appeal to this Court on the Leave Issue and the Constitutionality Issue in the following terms:
+
+“1. On the basis that this determination is made without prejudice to the consideration by the Court of Final Appeal of the certified questions, we give leave to appeal on the following questions:-
+
+(1) Where the Court of First Instance does not grant an extension of time to a party to apply for leave to apply for judicial review, particularly when the hearing of the application to extend takes place at the same time as the hearing for leave to apply for judicial review, is leave to appeal to the Court of Appeal required under s 14AA(1) of the High Court Ordinance Cap 4, or is leave not required by reason of s 14AA(2) or otherwise?
+
+(2) If leave to appeal is required, is s 14AB of the High Court Ordinance, insofar as it relates to judicial review proceedings, inconsistent with Article 82 of the Basic Law?
+
+2. Consideration by the Appeal Committee of the other questions sought to be certified by the applicants is to be adjourned until after the determination by the Court of Final Appeal of the two certified questions.”[15]
+
+B.      The requirement of leave to appeal
+
+9.  The default position in relation to civil matters in this jurisdiction is that there is a right of appeal to the Court of Appeal from the Court of First Instance.  The HCO provides, by s.14(1):
+
+“Subject to subsection (3) and section 14AA, an appeal shall lie as of right to the Court of Appeal from every judgment or order of the Court of First Instance in any civil cause or matter.”
+
+10.  That right is qualified by s.14(3) and also s.14AA.  The qualifications under s.14(3) concern specific proceedings and orders with which these appeals are not concerned.  Under s.14AA, leave to appeal is required for interlocutory appeals – see s.14AA(1), which provides:
+
+“Except as provided by rules of court, no appeal lies to the Court of Appeal from an interlocutory judgment or order of the Court of First Instance in any civil cause or matter unless leave to appeal has been granted by the Court of First Instance or the Court of Appeal.”
+
+11.  The rationale for the leave requirement is the avoidance of the major delay and expense likely incurred as a result of satellite litigation on interlocutory matters often of only marginal significance to the outcome of the litigation: see Civil Justice Reform – Final Report, at [643].  The requirement of leave to appeal in interlocutory matters therefore relieves the Court of Appeal from having to hear interlocutory appeals unless meritorious or otherwise deserving of being heard.  To this end, s.14AA(4) provides:
+
+“Leave to appeal for the purpose of subsection (1) shall not be granted unless the court hearing the application for leave is satisfied that –
+
+(a) the appeal has a reasonable prospect of success; or
+
+(b) there is some other reason in the interests of justice why the appeal should be heard.”
+
+12.  In order to ensure that there is finality in a decision as to whether or not leave to appeal should be granted to the Court of Appeal, s.14AB provides:
+
+“No appeal lies from a decision of the Court of Appeal as to whether or not leave to appeal to it should be granted.”
+
+13.  The rules of court which govern civil appeals to the Court of Appeal are contained in Order 59 of the Rules of the High Court (Cap.4A) (“RHC”).
+
+(1)  O.59 r.2B regulates applications for leave to appeal in interlocutory matters.  So far as practicable, such applications are to be made to the judge who made the order sought to be appealed from.  If the first instance judge refuses leave, an application for leave to appeal may be made to the Court of Appeal.
+
+(2)  O.59 r.2A and r.2C regulate applications to the Court of Appeal for leave to appeal.
+
+14.  Recognising that the requirement of leave to appeal to the Court of Appeal in interlocutory matters constitutes a restriction on the right of appeal, O.59 r.21 (derived from s.14AA(2)[16]) qualifies the restriction by providing that a party does not require leave in order to appeal to the Court of Appeal against certain types of order, although interlocutory rather than final.  O.59 r.21(1) thus prefaces a list of such orders with the introductory words:
+
+“Judgments and orders to which section 14AA(1) of the Ordinance (leave to appeal required for interlocutory appeals) does not apply and accordingly an appeal lies as of right from them are the following –…”.
+
+15.  Amongst those exceptions are:
+
+“(a) a judgment or order determining in a summary way the substantive rights of a party to an action;
+
+…
+
+(g) an order under Order 53, rule 3 refusing to grant leave to apply for judicial review;”.
+
+16.  So far as O.59 r.21(1)(a) is concerned, O.59 r.21(2) sets out, but expressly without affecting the generality of O.59 r.21(1)(a), a list of judgments and orders determining in a summary way the substantive rights of a party.
+
+C.      The process for commencing judicial review proceedings
+
+17.  The procedure for judicial review applications is governed by provisions of the HCO and the RHC.  In the HCO, s.21K(1) provides that:
+
+“An application to the Court of First Instance for one or more of the following forms of relief –
+
+(a) an order of mandamus, prohibition or certiorari;
+
+(b) an injunction under section 21J restraining a person not entitled to do so from acting in an office to which that section applies,
+
+shall be made in accordance with rules of court by a procedure to be known as an application for judicial review.”
+
+The rules of court referred to in s.21K(1) are those contained in RHC O.53.
+
+18.  A threshold requirement that leave be obtained for an application for judicial review is contained in s.21K(3), which provides:
+
+“No application for judicial review shall be made unless the leave of the Court of First Instance has been obtained in accordance with rules of court; and the court shall not grant leave to make such an application unless it considers that the applicant has a sufficient interest in the matter to which the application relates.”
+
+The primary statutory leave requirement is reflected in the RHC, O.53 r.3(1) providing:
+
+“No application for judicial review shall be made unless the leave of the Court has been obtained in accordance with this rule.”
+
+19.  The procedure for obtaining leave to apply for judicial review is set out in other provisions of O.53 r.3:
+
+(1)  The application must be made ex parte in the prescribed form (Form 86 in Appendix A), accompanied by an affidavit verifying the facts relied on: O.53 r.3(2);
+
+(2)  The leave application can be determined without a hearing unless an oral hearing is requested in the notice of application: O.53 r.3(3);
+
+(3)  Where leave is refused or granted on terms, the applicant may appeal against the judge’s order within 14 days: O.53 r.3(4);[17]
+
+(4)  The court shall not grant leave unless it considers the applicant has a sufficient interest in the matter: O.53 r.3(7);[18] and
+
+(5)  The requirement for leave to apply for judicial review has been described as “an important filter” and leave will only be granted if the court is persuaded that the arguability test is satisfied by the applicant demonstrating that the case is one which enjoys realistic prospects of success: Po Fun Chan v Winnie Cheung.[19] By this filter, the legislative framework seeks to strike a balance between access to the courts for individuals who may have been affected by public law decisions and the public interest that authorities have certainty over the validity of their decisions.
+
+20.  Although no express time limit for commencing judicial review proceedings is stipulated in s.21K, O.53 r.4 (headed “Delay in applying for relief”) provides:
+
+“(1) An application for leave to apply for judicial review shall be made promptly and in any event within three months from the date when grounds for the application first arose unless the Court considers that there is good reason for extending the period within which the application shall be made.
+
+(2) Where the relief sought is an order of certiorari in respect of any judgment, order, conviction or other proceeding, the date when grounds for the application first arose shall be taken to be the date of that judgment, order, conviction or proceeding.
+
+(3) The preceding paragraphs are without prejudice to any statutory provision which has the effect of limiting the time within which an application for judicial review may be made.”[20]
+
+21.  The terms of O.53 r.4(1) are mandatory (“shall be made”) and the obligation on an applicant for judicial review is to apply “promptly and in any event within three months”.  The key time obligation is to act “promptly”.  So, depending on the context of a particular administrative decision sought to be challenged, it is possible that an applicant who commences proceedings even within three months may be guilty of undue delay for not having acted promptly.[21] But, in any event, there is, subject to extension for “good reason”, a quantified default time limit of three months from the relevant date from which time starts to run.
+
+22.  Undue delay in applying is also referred to in s.21K(6), which sets out the consequences of such delay, providing:
+
+“(6) Where the Court of First Instance considers that there has been undue delay in making an application for judicial review, the Court may refuse to grant –
+
+(a) leave for the making of the application; or
+
+(b) any relief sought on the application,
+
+if it considers that the granting of the relief sought would be likely to cause substantial hardship to, or substantially prejudice the rights of, any person or would be detrimental to good administration.
+
+(7) Subsection (6) is without prejudice to any enactment or rule of court which has the effect of limiting the time within which an application for judicial review may be made.”
+
+The reference to “application for judicial review” in both s.21K(6) and (7) is to be read as also referring, where appropriate, to an application for leave to apply for judicial review: see Reg. v Dairy Tribunal, Ex parte Caswell.[22]
+
+23.  The HCO and RHC provisions governing public law proceedings in Hong Kong, including the leave requirement, are derived from the provisions introduced in 1977 in England and Wales by the Supreme Court Act 1981 and O.53 of the Rules of the Supreme Court (“RSC”).[23]  In that jurisdiction, prior to 1933, an applicant for judicial review by means of the prerogative writs (of certiorari, prohibition or mandamus) would apply for an order (or rule) nisi and it would then be for the respondent to show cause why the order should not be made absolute.[24] In 1933, that two-stage nisi and absolute procedure was replaced by a requirement that an applicant first obtain the leave of the High Court[25] and that leave requirement remained part of the unified procedure of application for judicial review that was introduced in 1977 upon the recommendation of the Law Commission Report (see FN23).  There were time limits for applications for writs of certiorari and mandamus, and latterly for applications for judicial review, under rules which were broadly similar to those found in the SCA 1981 and RSC (in England and Wales) and in HCO s.21K and RHC O.59 (in Hong Kong).
+
+24.  I will return later in this judgment to address what happens when there has been undue delay in the making of an application for leave to apply for judicial review and the court considers either that there is, or there is not, good reason for extending the period.
+
+D.      The Leave Issue
+
+D.1    The appellants’ contentions
+
+25.  The underlying basis of the Court of Appeal’s decisions in both appeals before us is that the appellants each required leave to appeal against Chow J’s respective judgments.  In so deciding, the Court of Appeal followed (as it was bound to do) its earlier decision in MI (as to which see Section D.2 below).
+
+26.  The appellants contend that MI was wrongly decided and that, contrary to its conclusions in that case, the Court of Appeal should instead have concluded that the decision of a first instance judge to refuse an extension of time in which to apply for leave to apply for judicial review:
+
+(1)  determined in a summary way the substantive rights of a party to the action within the meaning of O.59 r.21(1)(a);
+
+(2)  was a refusal of leave to apply for judicial review within the meaning of O.59 r.21(1)(g); and/or
+
+(3)  was final, not interlocutory, for the purposes of s.14AA of the HCO.
+
+On any of the above three bases, the appellants contend, leave to appeal to the Court of Appeal was not required and their respective appeals, being brought as of right, fell to be determined by that court accordingly.  It is convenient to deal first with the argument raised in sub-paragraph (2) above.
+
+D2.    The Court of Appeal decision in MI
+
+27.  The Court of Appeal decision in MI also concerned two separate applications for leave to apply for judicial review, which were made out of time.  The first instance judge refused to grant an extension of time and also dismissed each of the applications for leave to apply for judicial review.  The applicants both appealed to the Court of Appeal and a common preliminary issue was whether, when a judge refuses to grant an extension of time for an application for judicial review to be brought, an appeal lies as of right or can only be brought with leave obtained under O.59 r.2B.  That issue, of course, is the same issue that is before this Court in the present appeals.
+
+28.  In MI, the Court of Appeal held[26] that:
+
+(1)  The decision on an application for extension of time to apply for leave to apply for judicial review is “a discrete application” from the application for leave under O.53 r.3;
+
+(2)  For an application made within time and without delay, the application for leave falls to be considered by reference to the applicant’s interest in the matter and the reasonable arguability test; 
+
+(3)  For an application made within the three-month time limit but not made promptly, an extension of time is not required but the court can refuse to grant leave on discretionary considerations based on hardship, prejudice or detriment to good administration;[27] and
+
+(4)  For an application made outside the three-month time limit, an applicant must obtain an extension of time under O.53 r.4(1) before the application for leave can be entertained.
+
+29.  On this basis, the Court of Appeal in MI went on to hold that s.14AA of the HCO applies to a refusal to extend time to apply for leave to apply for judicial review.[28] It held that none of the exceptions in O.59 r.21 apply to a decision on an extension of time and that the decision should therefore be regarded as interlocutory in nature.[29]  It also held that the refusal of an extension of time under O.53 r.4(1) did not determine the substantive right of an applicant, notwithstanding that it had the collateral effect of preventing an applicant from proceeding further with an application for judicial review.[30]
+
+30.  As noted at [28(1)] above, in MI, the Court of Appeal held that a decision on an application for an extension of time is a discrete application, separate from the application for leave to apply for judicial review.  That holding was based[31] on the Court of Appeal’s construction of O.53 r.4(1) and its understanding of Lord Goff’s speech[32] in Reg. v Dairy Tribunal, Ex parte Caswell and Lord Slynn’s speech[33] in Reg. v Criminal Injuries Compensation Board, Ex parte A.[34]
+
+31.  The crux of the Court of Appeal’s reasoning in MI is set out at [28] of its judgment:
+
+“From these authorities, it is indisputable that the Court cannot proceed with a consideration of a leave application made outside the three-month period without first addressing if an extension of time should be granted for good reason. In other words, the application for extension of time is not simply an aspect in the overall multi-faceted assessment of a leave application. It is a prior step though as a matter of convenience the Court will entertain such application together with the application for leave when they are made at the same time. In substance, these remain to be two discrete steps. The Court cannot simply give leave (say on the basis that there would not be hardship, prejudice or detriment under Section 21K) without asking if there is any good reason to extend time under Rule 4(1). Thus, in Reg v Criminal Injuries Compensation Board, Ex p A, supra, at p.340E, Lord Slynn held that when leave was granted, the judge should be taken as having granted an extension of time as well because ‘otherwise he would have had to rule that the application was out of time and to have refused leave’. It follows, as His Lordship held at p.341E, that the question as to if there is good reason for extension of time cannot be re-opened at the substantive application.”
+
+32.  There is no material distinction between the relevant procedural circumstances of the intended judicial review applications that led to the Court of Appeal’s decision in MI and those giving rise to the present appeals.  The respondent invited the Court to affirm MI and to construe the operation of s.14AA and O.59 r.21(1) in the context of judicial review in the same way the Court of Appeal did there.  To decline to do so, it was submitted, would undermine the purposes underlying the judicial review regime of minimising uncertainty in administrative decisions and ensuring the fair distribution of finite judicial resources.[35]  The question of whether MI was correctly decided is therefore squarely raised in these appeals.
+
+33.  The respondent’s position is that MI was correctly decided by the Court of Appeal contending that, as a matter of statutory interpretation, the provisions of O.53 rr.3 and 4 and s.21K are to be read purposively as imposing a distinction between (i) applications for leave to apply for judicial review which are brought promptly and in any event within three months, for which there is a right of appeal against a refusal of leave by reason of the operation of O.59 r.21(1)(g), and (ii) applications for leave to apply for judicial review which are brought outside that time limit and thus involving undue delay, for which there is a leave to appeal filter under s.14AA of the HCO where an extension of time has not been granted.
+
+D.3    Is a request for an extension of time “a discrete application”?
+
+34.  With great respect to the Court of Appeal, its decision in MI that an application for an extension of time in which to make an application for leave to apply for judicial review is discrete and separate from the decision to grant or refuse leave to apply is wrong, and involves a misunderstanding of the House of Lords’ decisions in Ex parte Caswell and Ex parte A, for the following reasons.
+
+35.  An application for judicial review can only be made when leave to apply has been granted: O.53 r.3(1) and s.21K(3) of the HCO. The application must be made “promptly” and in any event “within three months from the date when grounds for the application first arose”: O.53 r.4(1).  But the court retains a discretion to extend the period within which the application may be made where it considers there is “good reason” to do so: ibid. This discretion is consistent with the principle that, “[w]hen the repository of a power fails to comply with the conditions which govern its exercise, it is the function and duty of the court to quash the purported exercise of the power unless there are substantial grounds warranting the refusal of relief, but the grounds on which relief might be refused when the court finds an excess of power are ‘very narrow’”.[36]
+
+36.  The consequences of dilatoriness in the commencement of judicial review proceedings is not addressed in O.53 r.4 but is partly addressed in s.21K(6) and (7) of the HCO (see [22] above).  The coexistence of the two provisions (O.53 r.4 and s.21K) has been described as “curious”[37] and that of O.53 r.4(3) and s.21K(7) even to have produced a “circulus inextricabilis”.[38]  However, as reflected in a previous judgment of this Court,[39] the relationship between these two provisions has been fully considered by the English Court of Appeal in R v Stratford-on-Avon District Council, Ex parte Jackson[40]and by the House of Lords in Ex parte Caswell.
+
+37.  Properly construed, O.53 r.4(1) and s.21K(6) and (7) can be reconciled[41] and together provide as follows:
+
+(1)  Whenever there is a failure to act either “promptly”, or within three months, there is “undue delay” for the purposes of s.21K(6).  The time limit for judicial review is not expressed as a single fixed period of three months.  Depending on the context, a failure to challenge a particular administrative decision in a shorter period than three months might constitute undue delay for not having been made “promptly”.[42]  But, in any event, an application made outside the three-month period will entail undue delay.[43]
+
+(2)  An applicant commencing judicial review proceedings who has been guilty of undue delay will require an extension of time in which to apply for leave to apply for judicial review.  The request for such an extension should be (and, as a matter of practice, is normally) made in the applicant’s Form 86 notice and the issue of whether to grant the request for an extension of time will always, as a matter of practice, be determined together with the leave application.[44]  To justify an extension, the applicant must show “good reason” for extending the period.  The principles relevant to a determination of whether good reason has been shown are discussed in the judgment of Godfrey Lam J in Re Thomas Lai[45] and the Court of Appeal in AW v Director of Immigration & Anor.[46]  Among the various factors likely to be significant are the merits of the substantive application.
+
+(3)  If the court considers that there is good reason for extending the period, it does not follow that leave to apply will automatically be given.  That argument was rejected in R v Stratford-on-Avon District Council, Ex parte Jackson.[47]  Instead, the court retains a discretion to refuse to grant leave for the making of the application for judicial review: Ex Parte Jackson at p.1325F-G; Ex Parte Caswell at p.747B-C.  The existence of good reason for any undue delay is, therefore, only one facet of the question whether leave to apply should be granted and the grant of leave will also depend on the applicant having a sufficient interest in the matter (see [19(4)] above) and showing that the application satisfies the arguability test (see [19(5)] above).  Leave may also be refused on the basis that the granting of the relief sought would be likely to cause hardship or prejudice (as specified in s.21K(6)) or be detrimental to good administration, although this conclusion might be less likely to be reached at the leave stage as the court may not have the necessary material available.[48]
+
+(4)  Where the court considers that there is no good reason for extending the period, it will refuse leave to apply for judicial review.  That this is the consequence of a refusal to extend the period for making the application is clear from the speech of Lord Goff in Ex parte Caswell at p.747B-C, where he said:
+
+“It follows that, when an application for leave to apply is not made promptly and in any event within three months, the court may refuse leave on the ground of delay unless it considers that there is good reason for extending the period; …” (Emphasis added).
+
+This conclusion is reinforced by reference to Lord Slynn’s speech in Ex parte A at p.340E where he said:
+
+“It seems to me, however, that [the judge’s] intention in giving leave must have been to extend the period, otherwise he would have had to rule that the application was out of time and to have refused leave, …” (Emphasis added).
+
+It is not the case, contrary to MI, that the court refuses the extension of time as a discrete decision and then makes no decision on the question of leave to apply for judicial review, treating this as a separate matter entirely.  If that were so, neither Lord Goff nor Lord Slynn would have expressed themselves in the terms they did in the passages quoted.  The respondent’s contention that Lord Goff was “adopting a shorthand”[49] in explaining the consequence of a refusal to extend time is unrealistic, as is the submission that Lord Slynn’s dictum is to be understood in context as treating a decision to extend time for applying as discrete from the grant of leave to apply.[50]  Judicial review textbooks also refer consistently to a court refusing leave (or permission) to apply for judicial review when not satisfied that there is good reason for undue delay in making the application.[51]
+
+(5)  Even if leave to apply is granted, the issue of undue delay on the part of the applicant may be raised again at the substantive hearing of the judicial review application.[52] At that stage, the court may have further evidence, in particular from the respondent, as to the consequences of the grant of any particular relief sought.  However, this is not a re-opening of the decision whether to grant leave, since leave has already been given.[53]  It is instead a separate consideration of whether, on the substantive hearing, relief should be refused on the basis that the court thinks that relief would be likely to cause substantial hardship or prejudice to the rights of another or be detrimental to good administration (per s.21K(6)).
+
+38.  This construction of O.53 r.4(1) and s.21K(6) and (7) is supported by the decision of the Privy Council in Maharaj v National Energy Corporation of Trinidad and Tobago,[54] to which the appellants referred.  The appeal concerned the interpretation of the Judicial Review Act 2000 of Trinidad and Tobago but in the course of his judgment for the Board, Lord Lloyd-Jones JSC made the following points of relevance to these appeals and consistent with the analysis set out in the preceding paragraph:
+
+(1)  The provisions of RSC O.53 and SCA 1981 s.31(6) governing delay should not be applied in a technical manner.[55]
+
+(2)  The classic exposition of the approach to delay in applications for judicial review in England and Wales remains that in the speech of Lord Goff in Ex parte Caswell and this supports the proposition that, even if there is good reason for extending time, the court may still refuse leave on grounds of prejudice or detriment.[56]
+
+(3)  Ex parte Caswell provides no justification for insulating the threshold issues of delay and extension of time, on the one hand, from those of prejudice and detriment to good administration, on the other.  On the contrary, when issues such as prejudice and detriment to good administration are raised by a respondent in the context of delay, the court may adjourn the question of leave to an inter partes hearing or order a “rolled up” hearing (as to which, see Section F below) at which leave is considered, followed immediately by the substantive application, if leave is granted.  In either event, full consideration is given to the issues of extension of time, prejudice and detriment on the basis of the evidence then filed by the parties.  Even if leave is granted without full consideration of the issues of prejudice and detriment resulting from delay, these may still be relied upon as a bar to relief at the substantive hearing.[57]
+
+39.  Contrary to the Court of Appeal’s conclusion in MI, therefore, whilst a judge cannot proceed with an out of time application for leave to apply for judicial review without considering whether there is good reason to extend time for the making of the application, his decision on that particular issue is not a discrete decision separate to his decision whether or not to grant leave to apply for judicial review.  If he thinks there is no good reason for the undue delay, he will refuse leave to apply for judicial review. If he thinks there is good reason for the undue delay, he may grant leave or he may refuse leave to apply for judicial review.  The combined effect of the relevant statutory provisions and the authorities which analyse them is that the aspect of delay is intrinsically bound up with the question whether leave to apply for judicial review should be granted.  Consistent with this, historically, delay was always regarded as but one factor in the court’s exercise of discretion whether to grant or discharge an order or rule nisi (before 1933) [58] or to grant or refuse leave to apply for one of the prerogative writs or orders (from 1933 to 1977) [59] and any extension of time was not treated as an independent decision to be taken separately.  Furthermore, since the merits of the substantive application is one of the factors relevant to the question of whether there is good reason for extending time to apply (see [37(2)] above), it would be highly artificial to treat a decision on an extension of time application as separate and discrete from the decision to grant or refuse leave to apply.
+
+40.  It is noteworthy that the respondent has not been able to identify a single decision in which a judge has refused a request for an extension of time to make an application for judicial review without also refusing leave to make the application.  The case of R on the application of Melton and others v The School Organisation Committee and Oxford County Council[60] to which the respondent referred is not such a case.  Whilst Jackson J (as he then was) said the court came to two conclusions, first, not to extend time by one day and, secondly, that the claimants would have been in breach of the obligation to proceed promptly even if they had begun their proceedings one day earlier, this does not indicate that the consequence of such refusal was not, in substance, a refusal of leave (or permission) to apply for judicial review.  The two conclusions reflect the fact that the time limit for judicial review is not a fixed period of time and that applications made within three months may nevertheless involve undue delay.  Nor are the case management options discussed by the Court of Appeal in BI v Director of Immigration[61] support for the contention that an extension of time is discrete from the decision on leave, since the Court  of Appeal seem to have regarded the ex parte grant of an extension of time as being coupled with a decision to grant leave to apply for judicial review (see [137]).
+
+41.  Since the refusal of an extension of time leads inexorably to a decision to refuse leave to apply for judicial review, it is a decision that falls within the terms of O.59 r.21(1)(g) and is therefore a decision to which s.14AA(1) of the HCO does not apply and from which an appeal lies as of right.  The conclusion that the refusal of an extension of time in the present cases led to a refusal of leave to make the application for judicial review is confirmed by reference to the formal orders made by Chow J in H’s case (HCAL 172/2015) and AH’s case (HCAL 32/2015).  This has always been the case in practice and, as noted above, the respondent has not identified any case in which the request for an extension of time has been dealt with discretely without a decision on the issue of whether to grant leave to make the application as well.
+
+42.  This conclusion, that the refusal of an extension of time to make the application for leave to apply for judicial review is part and parcel of a refusal to grant leave to apply and so appealable as of right by reason of O.59 r.21(1)(g), is a realistic characterisation of the decision-making process and accords with both commonsense and practice.  As the appellants rightly contend, a court’s decision that leave to apply should be refused because the applicant fails to satisfy the requirement in O.53 r.3(7) of a sufficient interest in the matter is appealable as of right (by reason of O.59 r.21(1)(g)), so it would be inconsistent and anomalous to treat refusal of leave because of undue delay and the refusal of an extension of time under O.53 r.4(1) as not also being subject to an appeal as of right.[62]
+
+D.4    The appellants’ other arguments on the Leave Issue
+
+43.  In view of the conclusion stated above, it is not strictly necessary to address the two alternative arguments advanced by the appellants to challenge the Court of Appeal’s decision in MI.  These were respectively that the refusal of an extension of time to make an application for judicial review: (i) constitutes “a judgment or order determining in a summary way the substantive rights of a party to an action” within O.59 r.21(1)(a); and (ii) is a final judgment and not interlocutory for the purposes of s.14AA of the HCO.
+
+44.  The two arguments each proceed on a different footing.  Argument (i) proceeds on the basis that the refusal of an extension of time is an interlocutory decision that would prima facie require leave to appeal against it, save that it is treated as an exception under O.59 r.21(1) as a judgment or order to which s.14AA does not apply.  Argument (ii), however, proceeds on the basis that the refusal of an extension of time is a final decision and not interlocutory, so therefore falls outside the leave requirement in s.14AA(1) in any event.
+
+D.4a  Is the refusal of an extension of time a final judgment or order?
+
+45.  Whether a judgment or order is final or interlocutory has been described as “a notoriously difficult question”.[63]  The usual test applied to determine if a judgment or order is final or interlocutory is the “application approach”, which asks whether the judgment or order, whatever the outcome of the application on which it was made, is finally determinative of the entire cause or matter: Shell Hong Kong Ltd v Yeung Wai Man Kiu Yip Co Ltd & Another.[64] However, a judgment or order will also be regarded as final if it is finally determinative of a crucial or substantive issue in the cause of the matter.  A broad common-sense approach is adopted and a court will ask if the issue determined is a “substantive part of the final trial” or a “crucial issue” in the case or a point “that goes to the root of the case” or a “dominant feature of the case”.  If so, then even if it does not finally dispose of the whole action, the judgment or order on the issue should be regarded as a final judgment. [65]
+
+46.  Looked at in isolation, it is difficult to see a decision on a request for an extension of time to apply for leave to make an application for judicial review as satisfying the test laid down in Shell Hong Kong Ltd v Yeung Wai Man Kiu Yip Co Ltd & Another for a final judgment or order.  On its own, it is merely a preliminary step to the decision whether or not to grant leave to make the application.  It is neither a dominant feature of the case, nor a point going to the root of the case.  Nor can it really be said to be a substantive part of the final trial or even a crucial issue in the case.
+
+47.  But it is unnecessary to answer the question posed above because, as already indicated, as a matter of substance and practice, whenever a court refuses an extension of time for the making of an application for judicial review, it also consequently refuses leave to make the application.  The relevant decision on which to focus is therefore the refusal under O.53 r.3 of the grant of leave to apply for judicial review.  And that decision is one which is expressly excepted from the requirement to obtain leave to appeal to the Court of Appeal under s.14AA of the HCO.
+
+D.4b  Is the refusal of an extension of time a judgment or order determining in a summary way the substantive rights of a party to an action?
+
+48.  Whilst there might be some scope for arguing that a refusal of a request for an extension of time to apply for leave to make a judicial review application, albeit interlocutory, is a judgment or order which determines summarily the substantive rights of the intended applicant for judicial review, it is also unnecessary to answer the question posed above for the same reasons set out in the preceding paragraph.  A refusal of a request for an extension of time is not an order made in isolation but is always made at the same time as an order refusing to grant leave to apply for judicial review.  That refusal of leave being a judgment or order to which the leave to appeal requirement in s.14AA of the HCO does not apply, by reason of O.59 r.21(1)(g), leave to appeal will lie as of right in any event.  Being covered by that express exception, it is redundant to ask whether a refusal of a request for an extension of time to make an application for judicial review is appealable as of right also because it falls within the more general exception in O.59 r.21(1)(a).
+
+E.      The Constitutionality Issue
+
+49.  Since the Court concluded at the hearing that the appellants did not require leave to appeal pursuant to s.14AA of the HCO in order to appeal against Chow J’s judgments refusing to grant leave to apply for judicial review, the question of the compatibility of s.14AB of the HCO with Article 82 of the Basic Law does not arise for consideration.  The Court’s general practice is that, where a constitutional issue is raised but does not need to be determined for the purpose of determining the appeal before it, the Court will usually not address that constitutional issue: see, e.g., Fateh Muhammad v Commissioner of Registration & Another (2001) 4 HKCFAR 278 at p.287C-E; and GA v Director of Immigration (2014) 17 HKCFAR 60 at [42].  There is no reason to depart from that practice in these appeals.
+
+F.      A “rolled up” hearing
+
+50.  It is convenient to take this opportunity to say something about the expression, a “rolled up” hearing, since it is not always used consistently in this jurisdiction.
+
+51.  In the CFI Judgment in H, Chow J noted that he directed a “rolled up” hearing of: (i) the application for an extension of time; (ii) the application for leave to apply for judicial review; and (iii) the substantive judicial review if leave were granted.[66]  There are other examples of these three matters being directed to be dealt with together in a hearing described as “rolled up”.[67] But in another case, involving an application for (i) an extension of time and (ii) for leave to apply for judicial review, the application was described as being dealt with on a “rolled up” basis.[68]
+
+52.  The more orthodox use of the term “rolled up hearing” is where the court deals with stage (ii), the application for leave to apply for judicial review, and also stage (iii), the substantive judicial review application if leave is granted, together at the same hearing.[69]  It is this type of two-stage process,[70] dealing with leave and the substantive hearing (assuming leave is granted), that is properly termed a “rolled up” hearing.  Whilst it is certainly not a term of art, it might be preferable if its use were, in future, limited to such a two-stage process only and not used to refer to a hearing including an application for an extension of time to apply for leave to make the judicial review application, so as to avoid the erroneous impression that the hearing of an application for an extension of time is a discrete decision separate to the decision whether to grant or refuse leave to apply.  An application which involves undue delay will always require a request for an extension of time as part of the application for leave to apply for judicial review.  A hearing of such an application for leave, including the request for an extension of time, is a single composite hearing of the necessary issues to be determined before the court can be satisfied it should grant leave to make the judicial review application or refuse such leave.
+
+G.      Disposition
+
+53.  For the above reasons, I would answer the first question of law for which leave to appeal was granted (set out at [8] above) as follows: Leave to appeal is not required because the decision not to grant an extension of time to apply for leave to apply for judicial review leads to, and is part and parcel of, a decision to refuse to grant leave to apply and so is a decision to which s.14AA of the HCO does not apply by reason of RHC O.59 r.21(1)(g).  It is not necessary to address the second question of law for which leave to appeal was granted.
+
+54.  To the extent explained in Section D.3 above, the decision in MI is overruled and should not be followed.
+
+55.  I would allow the appeals to the extent that the appellants had a right of appeal to the Court of Appeal, without leave, against Chow J’s refusal to grant them respectively leave to apply for judicial review of the Director of Immigration’s respective decisions to refuse to grant them a dependant visa.  The further course of the appellants’ appeals will depend on the Appeal Committee’s consideration of the other questions of law for which leave to appeal to this Court is sought by the appellants.
+
+56.  Failing agreement between the parties, I would direct the filing of written submissions as to costs which, unless directed otherwise, the Court will deal with on the papers and without a further hearing.   The appellants should file their submissions within 14 days of the handing down of judgment in these appeals.  The respondent’s submissions should be filed within 14 days thereafter and any reply submissions from the appellants within 7 days of the filing of the respondent’s submissions.
+
+Mr Justice Cheung PJ:
+
+57.  I agree with the judgment of Mr Justice Fok PJ.
+
+Mr Justice Gleeson NPJ:
+
+58.  I agree with the judgment of Mr Justice Fok PJ.
+
+ 
+
+ 
+
+(Geoffrey Ma)	(R A V Ribeiro)	(Joseph Fok)
+Chief Justice	Permanent Judge	Permanent Judge
+ 
+
+ 
+
+(Andrew Cheung)	(Murray Gleeson)
+Permanent Judge	Non-Permanent Judge
+ 
+
+FACV 1/2020
+
+Mr Philip Dykes SC and Mr Timothy Parker, instructed by Daly & Associates, assigned by the Director of Legal Aid, for the Appellant (“H”)
+
+Mr Abraham Chan SC, Mr Jonathan Chang SC and Mr Harrison Miao, instructed by the Department of Justice, for the Respondent
+
+FACV 2/2020
+
+Mr Philip Dykes SC and Mr Geoffrey Yeung, instructed by Daly & Associates, assigned by the Director of Legal Aid, for the Appellant (“AH”)
+
+Mr Abraham Chan SC, Mr Jonathan Chang SC and Mr Harrison Miao, instructed by the Department of Justice, for the Respondent
+
+
+[1] “The power of final adjudication of the Hong Kong Special Administrative Region shall be vested in the Court of Final Appeal of the Region, which may as required invite judges from other common law jurisdictions to sit on the Court of Final Appeal.”
+
+[2] Also referred to as a Form 86 notice.
+
+[3] HCAL 172/2015, Judgment dated 3 November 2016 (“CFI Judgment in H”) at [3].
+
+[4] Ibid. at [64].
+
+[5] [2018] HKCA 419, [2018] 4 HKC 440 (“MI”).
+
+[6] CACV 5/2017, [2018] HKCA 750, (Lam VP, Kwan & Poon JJA) Judgment dated 29 October 2018 (“CA Judgment in H”).
+
+[7] CACV 5/2017, [2019] HKCA 1302, (Poon Ag CJHC, Lam & Kwan VPP) Judgment dated 22 November 2019 (“CA Leave Judgment in H”).
+
+[8] FAMV 415/2019.
+
+[9] HCAL 32/2015, Judgment dated 18 November 2015 (“CFI Judgment in AH”) at [1].
+
+[10] Ibid. at [57].
+
+[11] HCMP 196/2016, [2019] HKCA 952, (Poon Ag CJHC & Lam VP) Judgment dated 23 August 2019 (“CA Judgment in AH”).
+
+[12] Ibid. at [25].
+
+[13] (Lam VP, Barma & Au JJA).
+
+[14] FAMV 3/2020.
+
+[15] FAMV 415/2019 & 3/2020, [2020] HKCFA 5, (Ma CJ, Fok & Cheung PJJ) Determination dated 10 March 2020.
+
+[16] This provides: “Rules of court may specify a judgment or order of any prescribed description to which subsection (1) does not apply and accordingly an appeal lies as of right from the judgment or order.”
+
+[17] Such an appeal is as of right and leave to appeal to the Court of Appeal is not required.
+
+[18] Reflecting the requirement of “a sufficient interest” in s.21K(3) (supra).
+
+[19] (2007) 10 HKCFAR 676 at [14]-[17].
+
+[20] There is no statutory provision which applies any other time limit for an application for judicial review of the subject matter of the intended proceedings in these appeals, so the relevant time limit here is that provided for in O.53 r.4(1).
+
+[21] It should be noted that, in England and Wales, doubt was expressed as to whether the promptness test was sufficiently certain to meet the requirements of EU law and the ECHR: R v Hammersmith and Fulham LBC Ex parte Burkett [2002] UKHL 23, [2002] 1 WLR 1593 at [53] and [59].  The ECJ has held that the promptness test breaches EU law since it is subject to the discretion of the court and gives rise to uncertainty: Uniplex (UK) Ltd v NHS Business Services Authority (C-406/08) [2010] 2 CMLR 47 at [41]-[42]. But the promptness test continues to apply in domestic law in England and Wales: R (on the application of Berky) v Newport City Council [2012] EWCA Civ 378 at [34]-[35] and [53]; Springer v University Hospitals of Leicester NHS Trust [2018] EWCA Civ 436 at [52].
+
+[22] [1990] 2 AC 738 per Lord Goff of Chieveley at p.746G-H.  HCO s.21K is materially the same as s.31 of the Supreme Court Act 1981 (now called the Senior Courts Act 1981) (“SCA 1981”) and s.21K(6) and (7) reproduce s.31(6) and (7) of the SCA 1981.
+
+[23] Pursuant to recommendations in the Law Commission’s Report on Remedies in Administrative Law, Law Com. No. 73, Cmnd. 6407 (March 1976): see Hong Kong Civil Procedure 2020, Vol.1, at [53/14/1].
+
+[24] De Smith’s Judicial Review (8th Ed.), Lord Woolf et al. (eds.) (London: Sweet & Maxwell, 2018) at [15-080].
+
+[25] Ibid. at [15-081]; Applications for judicial review: the requirement of leave, A.P. Le Sueur and Maurice Sunkin [1992] PL 102.
+
+[26] [2018] 4 HKC 440 at [29].
+
+[27] The s.21K(6) considerations.
+
+[28] [2018] 4 HKC 440 at [45].
+
+[29] Ibid. at [44].
+
+[30] Ibid. at [39].
+
+[31] Ibid. at [17]-[29].
+
+[32] [1990] 2 AC 738 at pp.746-747.
+
+[33] [1999] 2 AC 330 at p.341.
+
+[34] The Court of Appeal were correct in referring to the English decisions, since that jurisprudence is based on materially identical statutory provisions to RHC O.53 r.4 and HCO s.21K(6) and (7), namely O.53 r.4 of the Rules of the Supreme Court and s.31(6) and (7) of the Supreme Court Act 1981: see Reg. v Dairy Tribunal, Ex parte Caswell [1990] 2 AC 738 at pp.744H-745E for the relevant English provisions and [20] and [22] above for the Hong Kong provisions.
+
+[35] Consolidated Case for the Respondent at Section C.
+
+[36] Shiu Wing Steel Ltd v Director of Environmental Protection & Airport Authority (No.2) (2006) 9 HKCFAR 478 at [77].
+
+[37] Ex parte A [1999] 2 AC 330 at p.340A.
+
+[38] I.e. a vicious circle: Ex parte Caswell [1989] 1 WLR 1089 per Lloyd LJ at p.1094F.
+
+[39] Shiu Wing Steel Ltd v Director of Environmental Protection & Airport Authority (No.2) (2006) 9 HKCFAR 478 at [78].
+
+[40] [1985] 1 WLR 1319 per Ackner LJ (as he then was) at p.1325.
+
+[41] Ex parte Caswell [1990] 2 AC 738 at p.747F.
+
+[42] See [20] and FN21 above.
+
+[43] Ex parte Jackson [1985] 1 WLR 1319 at p.1325E-F.
+
+[44] Which may be at an oral hearing or on the papers alone (see [19(2)] above).
+
+[45] [2014] 6 HKC 1 at [43]-[45].
+
+[46] [2016] 2 HKC 393, CACV 63/2015, 3 November 2015, at [23]-[28].
+
+[47] [1985] 1 WLR 1319 per Ackner LJ (as he then was) at p.1325, with whose conclusion Lord Goff agreed in Ex parte Caswell at pp.746E-747B.
+
+[48] Ex parte Caswell [1990] 2 AC 738 at p.747C-E.
+
+[49] Consolidated Case for the Respondent at [73(3)].
+
+[50] Ibid. at [75].
+
+[51] Patterson and Karim on Judicial Review (3rd Ed.), Sam Karim QC (ed.) (London: LexisNexis, 2019) at [1.15]; Administrative Law (8th Ed.), Professor Paul Craig (London: Sweet & Maxwell, 2016) at [27-48]; Judicial Remedies in Public Law (5th Ed.), Sir Clive Lewis (London: Sweet & Maxwell, 2015) at [9-042] and [12-009]; Judicial Review Handbook (6th Ed.) Michael Fordham QC (Oxford: Hart Publishing, 2012) at [26.1.1] and [26.1.7]; and De Smith’s Judicial Review (8th Ed.), Lord Woolf et al. (eds.) (London: Sweet & Maxwell, 2018) at [16-058].
+
+[52] Ex parte Jackson [1985] 1 WLR 1319 at p.1325G; Ex parte Caswell [1990] 2 AC 738 at p.747G-H.
+
+[53] Ex parte A [1999] 2 AC 330 at p.341D-E.
+
+[54] [2019] UKPC 5; [2019] 1 WLR 983.
+
+[55] Ibid. at [29], applying R v Comr for Local Administration, Ex p Croydon London Borough Council [1989] 1 All ER 1033 per Woolf LJ (as he then was) at p.1046.
+
+[56] Ibid. at [26].
+
+[57] Ibid. at [41].
+
+[58] See, e.g., R v The Stainforth and Keadby Canal Company (1813) 1 M. & S. 32, 105 ER 12; R v The Trustees of the Rochdale and Halifax Turnpike Road (1848) 12 Q.B. 448, 116 ER 935; The Queen v Sheward (1880) 9 QBD 741; and R v London County Council, Ex parte Swan and Edgar (1927) Limited (1929) 141 The Law Times 590 (30 November 1929).
+
+[59] See, e.g., R v Ashford, Kent, Justices, Ex parte Richley [1955] 1 WLR 562; R v Dorset Quarter Sessions Appeals Committee, Ex parte Weymouth Corporation [1960] 2 QB 230; R v Inner London Crown Court, Ex parte Greenwich London Borough Council [1976] QB 540.
+
+[60] [2001] EWHC Admin 245; [2001] A.C.D. 77.
+
+[61] [2016] 2 HKLRD 520 at [136].
+
+[62] Consolidated Printed Case of the Appellants at [64].
+
+[63] Hip Hing Timber Co Ltd v Tang Man Kit & Another (2004) 7 HKCFAR 212 per Lord Millett NPJ for the Court at [38].
+
+[64] (2003) 6 HKCFAR 222 at [26].
+
+[65] Ibid. at [27]-[31]; applied in HKSAR v Mak Wan Ling (No.1) (2019) 22 HKCFAR 51 at [12] (concerning when a judgment is a final judgment within s.31 of the Hong Kong Court of Final Appeal Ordinance (Cap.484)).
+
+[66] CFI Judgment in H at [3].
+
+[67] See, e.g., Win More Shipping Limited v Director of Marine, HCAL 1520/2018, [2019] HKCFI 1137 (unrep., 2 May 2019) per Chow J at [30]; and Nisa Azizan v Director of Immigration, HCAL 203/2015, [2016] HKEC 891 (unrep., 15 April 2016) per Chow J at [4].
+
+[68] AMZ v Torture Claims Appeal Board, HCAL 607/2017, [2018] HKCFI 700 (unrep., 3 April 2018) per DHCJ Marlene Ng (as she then was) at [7]. 
+
+[69] See: Hong Kong Civil Court Practice, W.S. Clarke (Hong Kong: LexisNexis) (updated in June 2020 in Issue 92) at [3732.1] referring to the decision of Hartmann J (as he then was) in Lo Siu Lan & Another v Hong Kong Housing Authority, HCAL 154/2004 (unrep., 15 December 2004) as an early example in Hong Kong of this procedure.  See also: Chee Fei Ming v Director of Food and Environmental Hygiene (No.2) [2016] 3 HKLRD 412 at [6(a)]; BI v Director of Immigration [2016] 2 HKLRD 520 at [135]; and Leung Kwok Hung v President of the Legislative Council (No.2) (2014) 17 HKCFAR 841 at [19(8)].
+
+[70] Described as a “common phenomenon”: see Judicial Review Handbook (6th Ed.) Michael Fordham QC (Oxford: Hart Publishing, 2012) at [21.2.3].
+
+ 

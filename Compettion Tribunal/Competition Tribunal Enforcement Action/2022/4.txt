@@ -1,0 +1,463 @@
+CTEA 1/2022
+
+[2025] HKCT 2
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ENFORCEMENT ACTION NO 1 OF 2022
+
+________________
+
+BETWEEN
+
+ 	COMPETITION COMMISSION	Applicant
+ 	and	 
+ 	GRAY LINE TOURS OF HONG KONG LIMITED	1st Respondent
+ 	HARBOUR PLAZA 8 DEGREES LIMITED	2nd Respondent
+ 	HARBOUR PLAZA HOTEL MANAGEMENT LIMITED	3rd Respondent
+ 	PRUDENTIAL HOTEL (BVI) LIMITED	4th Respondent
+TAK HOW INVESTMENT LIMITED (TRADING
+AS INTERCONTINENTAL GRAND STANFORD HONG KONG)	5th Respondent
+ 	WU SIU IENG MICHAEL	6th Respondent
+________________
+
+Before:	Hon Harris J, President of the Competition Tribunal in Court
+Date of Hearing:	29 November 2023
+Date of Judgment:	25 March 2025
+________________
+
+J U D G M E N T
+
+________________
+
+Introduction
+
+1.  The 4th Respondent in these enforcement proceedings brought by the Competition Commission (“Commission”) is Prudential Hotel (BVI) Limited (“Prudential”). The Commission seeks (1) a declaration that Prudential has contravened the first conduct rule (“FCR”), (2) a pecuniary penalty, and (3) an order requiring Prudential to adopt and implement an effective compliance programme. The relevant factual background is uncontroversial. It is contained in a comprehensive list of agreed facts (“Agreed Facts”). Rather than repeat them in the body of this judgment a copy of the Agreed Facts is appended to it. Prudential admits liability. What is in issue is the assessment of the pecuniary penalty and this turns on Prudential’s role in the price fixing arrangement made between Gray Line Tours of Hong Kong Limited (“Gray Line”) and Tink Labs Limited (“Tink Labs”) in connection with the prices of entrance tickets for tourist attractions and transportation services at Prudential’s hotel to its guests, which commenced on 27 May 2016 and continued to 8 May 2017 (“Arrangement”). The enforcement proceedings against Gray Line was concluded by agreement and a Kam Kwong application determined by my decisions dated 14 June 2023 and 26 July 2023, which contain a comprehensive explanation of the contraventions of the FCR by Gray Line, the 5th Respondent (“Tak How”) and the 6th Respondent. The salient facts are as follows.
+
+(1)  Prudential was and is the owner and manager of a hotel in Hong Kong trading under the name of Prudential Hotel.
+
+(2)  Gray Line engaged in the provision of travel-related services including sale of tickets for tourist attractions (“Tickets”). Tickets were sold at tour counters located within the premises of 12 hotels including the Prudential Hotel.
+
+(3)  Tink Labs engaged in the provision of travel-related services via its smartphone that was available to guests in their rooms (“Handy Device”), on which Tickets were sold to guests of the various hotels.
+
+(4)  Gray Line has been operating a tour counter for the sale of tickets at the Prudential Hotel since around February 2011. In particular, pursuant to two licence agreements between Gray Line and Prudential dated 22 February 2016 and 17 March 2017, Gray Line was granted an exclusive right to operate a tour desk on the lobby floor of the Prudential Hotel for a monthly licence fee of HK$15,000 payable by Gray Line to Prudential.
+
+(5)  From around April 2016, the guests at the Prudential Hotel could purchase Tickets via Handy Device, which were placed in the rooms of the Prudential Hotel. Tink Labs provided the Handy Device pursuant to a licence agreement between Tink Labs and Prudential dated 9 December 2015, under which Prudential was granted a non-exclusive licence to place Handy Device in the Prudential Hotel rooms.
+
+(6)  Gray Line and Tink Labs, together with Prudential as a facilitator, made and gave effect to an arrangement to fix the prices of the Tickets that were sold at the premises and/or to the guests of the Prudential Hotel, in contravention of the FCR, i.e., the Arrangement.
+
+(7)  The Arrangement commenced on 27 May 2016 and lasted until 8 May 2017 (“Relevant Period”).
+
+(8)  Prudential did not receive any income referable to or based on sales of the Tickets sold at the premises or to the guests of Prudential Hotel by either Gray Line or Tink Labs.
+
+(9)  However, during the Relevant Period, Prudential did receive a total sum of HK$171,290 from Gray Line, being the monthly licence fee for the counter operated by Gray Line at the premises of the Prudential Hotel.
+
+2.  The Parties have agreed a List of Agreed Disputed Issues. The List identifies the Issues as the following:
+
+(1)  Whether Prudential “actively procured” Tink Labs to agree to act in accordance with the Arrangement and “actively provided” Tink Labs with information from Gray Line with the intention that it enable Tink Labs to implement the Arrangement.
+
+(2)  Whether Prudential had any interest in actively monitoring, ensuring or otherwise policing compliance with the Arrangement and whether it did so.
+
+3.  The Commission says that the answer in both cases is yes. Prudential, of course, says the opposite. The evidence consists of documents, records of interview and witness statements of Agnes Poon of Tink Labs and Ronald Wu of Gray Line. Prudential did not wish to cross-examine either witness, consequently their evidence cannot be challenged, and the Tribunal should accept it[1].
+
+4.  The above summary suggests that the dispute to be resolved is a relatively simple one of fact. This is, however, misleading. In my view the material issues go to important legal questions concerning the methodology to be adopted by the Tribunal in determining penalties to be imposed for contravention of the FCR. This question was first considered comprehensively by Godfrey Lam J when he was the President of the Tribunal in the Competition Commission v W Hing Construction Co. Ltd[2]. I shall refer to it as the “structured methodology”. In the present case the Commission is advancing a different methodology. It is flexible and involves an assessment made by comparing behaviour and responsibility between Prudential and Gray Line and Tink Labs and a financial quantification of Prudential’s responsibility, which is derived from the penalties imposed (by agreement) on Gray Line and Tak How[3]. The reason for the Commission’s approach is that the structured methodology results in what the Commission considers an inappropriately low penalty. The approach advanced by the Commission in the present case is sometimes described as involving “instinctive synthesis”[4] or as a “lump sum” approach.
+
+5.  The dispute can most easily be understood by explaining the structured methodology first and Prudential’s submissions on the calculation of the penalty in the present case, followed by an examination of the approach advanced by the Commission.
+
+The Structured Methodology
+
+6.  The power to impose a pecuniary penalty upon the finding of a FCR contravention is conferred upon the Tribunal by section 93(1) of the Competition Ordinance (Cap. 619) (“Ordinance”). Section 93(2) of the Ordinance sets out a non-exhaustive list of matters which the Tribunal must have regard to while determining the amount of the penalty. Section 93(3) imposes a ceiling on the penalty.
+
+7.  In [18]-[44] of W Hing, Lam J considered whether, against this statutory backdrop, the Tribunal should adopt (1) a structured methodological approach when determining the appropriate penalty, or (2) an instinctive synthesis approach akin to the approach adopted in criminal sentencing. Lam J held that a structured methodological approach should be adopted in Hong Kong for the following reasons:
+
+(1)  A structured approach better serves the object of deterrence, which is the primary purpose of the pecuniary penalty. Contraventions of competition law are often the result of conscious attempts to achieve financial gain. Through the pecuniary penalty, the law imposes a “price on contravention” in order to deter undertakings. Such deterrence works better when the penalty is transparent and predictable: see [36]-[39].
+
+(2)  Starting with a base amount that is linked to the volume of commerce affected by the contravention, as the structured approach does, serves to take into account the likely gain made by the undertaking and the harm to society flowing from the contravention, thereby deterring any cynical calculation that it may be worth the risk of detection and sanction: see [40].
+
+(3)  Greater predictability of outcome also serves the public policy of promoting cooperation with the regulator: see [41].
+
+8.  Lam J explains the application of the structured methodology to determination of a pecuniary penalty in [46]–[76] of W Hing[5]. In short there are four main steps:
+
+(1)  Determining the Base Amount;
+
+(2)  Making adjustments for aggravating, mitigating and other factors;
+
+(3)  Applying the statutory cap; and
+
+(4)  Applying reduction for cooperation and considering any plea of inability to pay.
+
+9.  The starting point is the calculation of the Base Amount. Lam J describes this as in broad terms being intended as one of the mandatory considerations set out in section 93(2) of the Ordinance, namely, the nature and extent of the conduct which constitutes the contravention. The starting point is the value of the undertaking’s sales directly or indirectly related to the contravention in the relevant geographic area within Hong Kong in the financial year in question. This metric seeks to capture a sense of the scale of the infringement, which is relevant to its impact on consumers. The smaller the sales the less the impact is likely to be and vice versa. In the case of Prudential there was no income produced from sales of products or services, but there was income in the form of rent received from Gray Line for renting a tour counter. The amount was small, because, as is agreed, Prudential’s role was that of a facilitator of the Arrangement rather than a participant in the transactions between Gray Line and guests which generated revenue for Gray Line.
+
+Prudential’s argument
+
+10.  Prudential emphasises the following points. First, the structured methodology was not held to be a default position, to be discarded when considered unsatisfactory by the Commission. It was clearly envisaged to be the approach that would be applied in all cases: see W Hing [46]. This accords with the underlying objectives of transparency, certainty and predictability. Second, in determining the Base Amount, one starts with the undertaking’s value of sales, which was defined as “the value of the undertaking’s sales directly or indirectly related to the contravention in the relevant geographical area within Hong Kong in the financial year in question”: see W Hing [49][6]. Notably:
+
+(1)  The definition is a broad one. It is not limited to the sales of any particular type. It also encompasses all sales which are “directly or indirectly related” to the contravention.
+
+(2)  There is no suggestion that the relevant sales by the participating undertakings must all fall within a single product market. I understand the point here is said to be that what is relevant is the income attributable directly or indirectly to the contravention. It is not limited to the price of a good sold by the contravenor pursuant to the arrangement, or practice which constitutes the contravention.
+
+11.  Third, in cases involving serious anti-competitive conduct, it was envisaged that a gravity percentage within the range of 15-30% would be applied: see W Hing [50]. Fourth, it was envisaged that adjustments can be made at the second stage to increase the deterrent effect of the fine in appropriate cases: see W Hing [58]. This follows the EU approach[7].
+
+12.  In practice, the European Commission applies a multiplier of between 1 and 2 (i.e. an uplift of between 0% and 100%) in cases where the turnover of the undertaking is considerably larger than the relevant value of sales: see Faull & Nikpay: The EU Law of Competition (3rd ed.) at [8.661]-[8.665]. Even in extreme cases where the value of sales represents less than 0.01% of the undertaking’s turnover, the European Commission has never imposed a multiplier higher than 2: see Faull & Nikpay at [8.665], referring to the European Commission’s Decision dated 1 October 2008 in Case COMP/39181—Candle Waxes at [709]-[713].
+
+13.  Prudential argues that the relevant sales on the part of Prudential that were directly or indirectly related to the contravention was the renting out of the tour counter to Gray Line, being the business dealing that was directly benefitted by the Arrangement. Prudential points to the Commission’s averment in its Reply that Prudential had a financial interest in the contravention because:[8]
+
+“…Prudential BVI had (at least) an interest in maintaining its business relationship with Gray Line, which started since around February 2011, and from whom Prudential BVI earned a monthly licence fee. From the said relationship, Prudential BVI also benefitted from having a tour desk at Prudential which provided services for Prudential’s guests.”
+
+14.  Submissions to the same effect are advanced in the Commission’s skeleton. The relevant value of sales argues Prudential should, therefore, be HK$171,290 it received as a licence fee, which is an appropriate proxy for the economic importance of the contravention.
+
+15.  The gravity percentage is not calculated by any scientific method but involves a broad-brush assessment as to the gravity and blameworthiness of the conduct: see W Hing at [50]. A list of factors relevant to this assessment can be found in Bellamy & Child: European Union Law of Competition (8th ed.) at [14.026].
+
+16.  Prudential submits that a gravity percentage of 15%, being the low end of the usual 15-30% range for cartel conduct (see W Hing at [50]), should be adopted in light of the following factors:
+
+(1)  Prudential did not fix the prices of its own services. It is not in dispute that Prudential only played a facilitating role.
+
+(2)  Prudential was not the instigator of the Arrangement. The contemporaneous emails show that Prudential only became involved at the request of Gray Line.
+
+(3)  While it is accepted that Prudential had an interest in the Arrangement, it did not share in any increased profits gained by Gray Line or Tink Labs resulting from the sale of Tickets at inflated prices.
+
+(4)  There is no suggestion that Prudential engaged in cynical or knowing contravention of the FCR.
+
+(5)  Prudential’s facilitating conduct falls towards the less serious end of the scale. This is far from the type of case where the facilitator was effectively the leader of or mastermind behind the cartel.
+
+(6)  The scale of Arrangement was relatively limited. It involved only two undertakings engaged in price fixing on a relatively small market.
+
+(7)  The Arrangement was not carried out covertly with a view to avoiding detection.
+
+17.  The duration multiplier represents the number of years of the undertaking’s participation in the contravention: see W Hing at [51]. It is not in dispute that the Arrangement commenced on 27 May 2016 and ended on 8 May 2017, i.e. slightly less than a full year[9]. The duration multiplier should therefore be 1.
+
+18.  Prudential submits that a Base Amount of HK$26,000 is fair and just, being the rounded-up figure resulting from the following calculation:
+
+Value of sales	Gravity percentage	Duration multiplier	Base Amount
+HK$171,290	x 15%	x 1	= HK$25,693.50
+19.  Prudential accepts that an adjustment for deterrence purposes is appropriate, given that the relevant value of sales only forms a small percentage of its total yearly turnover. Prudential submits that a multiplier of 4 or less would be appropriate, having regard to the following factors:
+
+(1)  There is no suggestion that the present case involved knowing or cynical wrongdoing with a view to gaining a profit exceeding the likely penalty. Nor is this a case where the contravention was carried on covertly with a view to avoiding detection. This is therefore not a case where there is an exceptional need for deterrence.
+
+(2)  Applying multiplier of 4 to a Base Amount of HK$26,000 would result in a penalty of HK$104,000. That would result in the substantial disgorgement of the income (HK$171,290) generated by Prudential from its business dealings with Gray Line and Tink Labs.
+
+(3)  A multiplier of 4 already represents a very substantial uplift. It would represent triple the highest uplift which has ever been imposed by the European Commission in cartel cases: see Faull & Nikpay [8.655], referring to Candle Waxes [712]-[713].
+
+20.  While Prudential accepts that there is no fetter on the Tribunal’s power to impose a different multiplier, it submits that this is not the appropriate case to do so:
+
+(1)  The imposition of high multipliers would cause the multiplier (which is based on open-ended evaluative judgement) rather than the Base Amount to become the key determinant of the pecuniary penalty.
+
+(2)  The imposition of such multipliers would represent a step down the slippery slope towards the “instinctive synthesis” approach which was rejected in W Hing.
+
+(3)  There is no reason to impose such a multiplier in the present case.
+
+21.  Prudential submits that there are no other factors necessitating further upwards adjustment. Prudential accepts that no step 3 or step 4 adjustments are necessary in the circumstances of the present case. For the foregoing reasons, Prudential respectfully submits that a penalty of HK$104,000—being the Base Amount of HK$26,000 times the deterrence multiplier of 4—is a fair and appropriate penalty.
+
+The Commission’s alternative approach
+
+22.  The Commission argues that the penalty should be assessed on what it describes as a lump sum basis. By this it means that rather than use the structured methodology and, in particular, start with a base amount reflecting income attributable to the contravention, the Tribunal should derive a sum from an assessment of the matters, which are relevant to the gravity of the contravention and what represents an appropriate financial penalty for it. The Commission’s initial written submissions assumed that it was common ground that this was the correct approach because this was admitted in paragraph 33 of the affirmation appended to Prudential’s response and said to form part of the Response. The Originating Notice of Application (“ONA”) does not set out the basis on which the penalty should, in the submission of the Commission, be determined, it simply pleads in the prayer that Prudential should be ordered to pay the Government a pecuniary penalty of the amount the Tribunal considers appropriate. Unsurprisingly, Prudential does not plead to this. However, to flesh out its defence it appended to its Response the affirmation of Peter Man, which states in paragraph 33 that “Prudential does not believe that its turnover is relevant to the issue of the appropriate pecuniary penalty for the Subject Arrangement and will submit in due course that instead a ‘lump sum’ is the right approach.” In paragraph 4.5 of the Commission’s Reply it pleads “As to paragraph 33, it is admitted that a lump-sum approach is appropriate for the calculation of the pecuniary penalty against Prudential BVI, and further averred that Prudential BVI’s turnover is still relevant to such calculation.” It is not clear from these passages what precisely the Parties mean by “lump sum” or “turnover” and how they are to be determined.
+
+23.  I do not understand the Commission to dispute that the structured methodology is generally the method to be used in determining a penalty. It seems to have assumed in Written Submissions that in the present case it was not to be used and that instead it should be assessed in a similar way, but with the first step involving the determination of a base figure from factors said to be relevant on the facts of the present case. To support this approach the Commission referred me to the decision in the Competition Commission v Nutanix Hong Kong Limited[10]. Nutanix was also a decision on penalty by Lam J, following a trial on liability. In [3] and [11] of his judgment Lam J explains that in W Hing the Tribunal had “laid down ….. the proper approach to the determination of pecuniary penalties under section 93 of the Ordinance.” Lam J goes onto record that on the basis of that decision the parties had come to an agreement on the penalty and use the Kam Kwong[11] procedure to invite the Tribunal to make an order in the terms that they had agreed. As Lam J notes in [5], referring to Kam Kwong and Competition Commission v Quantr Ltd[12], for public policy reasons the Tribunal will exercise “a degree of restraint” when scrutinising the proposed settlement terms particularly when the parties are legally represented which other than for the 5th Respondent was the case in the matter before him. The Tribunal used the structured methodology for the Respondents other than BT, because it had not generated any sales from the transactions associated with the contravention. Instead the Commission had used what Lam J refers to as a “lump-sum approach”, which considers what an appropriate pecuniary penalty would be in all the circumstances. Lam J cites as an example of that approach AC-Treuhand AG v Commission[13].
+
+24.  The structured methodology is consistent with the EU Guidelines. The relevant finding of the European Court of Justice in AC-Treuhand AG[14] was that the Commission was permitted to depart from the EU Guidelines on the method of setting fines in certain circumstances. One such circumstances was no portion of a firm’s turnover being accounted for by the sale of goods in respect of which the contravention had been committed. In such a case the Court held that it might be appropriate to depart from the method of calculating fines set out in the EU Guidelines by fixing, on the basis of point 37 of those guidelines, the basic amount of the fines imposed as a lump sum. What the judgment does not suggest (and neither does Nutanix) is that if the turnover attributable to transactions associated with the contravention is small the structured methodology can be replaced if it results in a sum the Commission feels is too low. Obviously, if the relevant turnover is zero the EU Guidelines and the structured methodology cannot be used because it will always (as a matter of simple arithmetic) produce a figure of zero. This is not the case, however, where the turnover is small. The relevance of using turnover to assess the penalty is that it is an indicia of the economic benefit gained by the respondent as a result of the contravention and this is taken to be an appropriate starting point in determining the penalty. This is apparent from the reasons in W Hing and the commentary I have referred to in footnote 6. It does not follow that because the turnover is low it produces an inappropriate level of penalty; it may evidence that the economic benefit to the respondent of the contravention was small or that the economic damage done was not significant. In order to persuade the Tribunal to depart from the structured methodology the Commission needs to demonstrate that the turnover is not a genuine indicia or proxy for the economic effect of the respondent’s contravention. And I would add that this issue needs to be examined from the perspective of the respondent’s contribution to the contravention. It may be that different undertakings become involved in implementing an arrangement or practice in materially different ways and in such cases one would expect the penalty to vary materially.
+
+25.  In section D1 of his judgment in W Hing Lam J addresses “the proper approach for the determination of pecuniary penalties”. In [18] Lam J records the Commission’s submission that a principled methodological framework is desirable and that the Tribunal should adopt an approach similar to those applied in the European Union and the United Kingdom. In [23] Lam J records the Commission advocating a seven-step approach. Step 1 involves the determination of a base penalty, by applying a gravity percentage to the value of the undertaking’s sales directly or indirectly related to the contravention in the relevant geographic area within Hong Kong. The initial sum thus obtained is then multiplied by the number of years of the undertaking’s participation in the contravention to derive the base penalty. In [33] Lam J states that the overarching question raised by the competing submissions is whether it is open to and appropriate for the Tribunal to adopt a multi-step methodology for assessing the pecuniary penalty as advocated by the Commission. In [37], [39], [41] and [45] Lam J concludes that the object of deterrence is best served in Hong Kong by a structured and methodological approach and should be adopted in Hong Kong. Contraventions are often the result of conscious attempts to achieve financial gain. Through the pecuniary penalty, the law imposes a “price on contravention” to deter undertakings from engaging in anti-competitive conduct. Such deterrence works better the more transparent and predictable the process of determining the penalty. Predictability also promotes cooperation with the regulator. In [46] Lam J holds that the determination of the pecuniary penalty should be approached in four main steps, the first of which is determining the base amount to which I have referred earlier.
+
+26.  The Commission did not explain in its written submissions why this approach was wrong in the present case, which is clearly distinguishable from a case such as AC-Treuhand AG[15] in which there was no relevant turnover. The Commission seems to have assumed until it received Prudential’s written submissions that the structured methodology was not to be used in the present case. It does not seem to me that the reference to a lump sum in Mr Man’s affirmation acts as an admission that prevents Prudential arguing that, in accordance with the principles determined in W Hing, the structured methodology should be used. I note that there was nothing in the ONA to suggest that the method determined in W Hing was not to be applied. It seems to me that W Hing establishes, in my view correctly, that in Hong Kong the structured methodology should be used if there is turnover to which it can be applied. This can be turnover associated, even if indirectly with the commercial activity affected by the contravention (to borrow Lam J’s language in [40] of W Hing) such as the rent earned by Prudential in licencing use of a tour counter to Gray Line. The Commission has advanced no reason to explain why it should not. It seems to assume, contrary to what appears to have been its submissions in W Hing, that the Commission should decide which of the structured methodology and lump sum approach (and I note that the alternative method adopted in Australia was canvassed and considered by Lam J in W Hing[16]) is to be used in each case. This is wrong.
+
+27.  It seems implicit in the Commission’s case before me that if the turnover is low this might result in the base amount being too low to produce an appropriate penalty. I accept that there may be cases in which this is so; where the turnover is so low that using it would be artificial and produce a result as unsatisfactory as it would be if the figure was zero. As I explain in [24] that has to be proved in each case. Although, the Commission’s case was not framed like this before me, I shall proceed to treat its argument directed to what the initial figure should be, as implicitly an argument that this is an exceptional case to which the structured methodology is not appropriate.
+
+Is a departure from the Structured Methodology justified in the present case?
+
+28.  The FCR is contained in section 6 of the Competition Ordinance, Cap. 619 (“Ordinance”). Section 6 provides that:
+
+“6. Prohibition of anti-competitive agreements, concerted practices and decisions
+
+(1) An undertaking must not—
+
+(a) make or give effect to an agreement;
+
+(b) engage in a concerted practice; or
+
+(c) as a member of an association of undertakings, make or give effect to a decision of the association,
+
+if the object or effect of the agreement, concerted practice or decision is to prevent, restrict or distort competition in Hong Kong.
+
+(2) Unless the context otherwise requires, a provision of this Ordinance which is expressed to apply to, or in relation to, an agreement is to be read as applying equally to, or in relation to, a concerted practice and a decision by an association of undertakings (but with any necessary modifications).
+
+(3) The prohibition imposed by subsection (1) is referred to in this Ordinance as the first conduct rule.”
+
+29.  There is no dispute that Prudential is an undertaking within the definition contained in section 2(1) of the Ordinance, that it has contravened section 6 of the Ordinance by its facilitation of the Arrangement and that the Arrangement constituted “serious anti-competitive conduct” as also defined in section 2(1). The particulars of the contravention by Prudential are contained in paragraph 140 of the ONA. In sub-paragraph 140.3.3 it is pleaded that “Prudential actively procured Tink Labs to agree to and act in accordance with the Subject Arrangement, and actively provided Tink Labs with information from Gray Line as to the Published Prices to enable, and with the intention that, Tink Labs implement the Subject Arrangement;” (emphasis added). The difference between the Parties that has prevented them agreeing the penalties that should be sought from the Tribunal largely arise from the disagreement as to whether Prudential’s involvement in the implementation of the Arrangement is properly characterised as “active procurement” and/or “active provision” of information with a view to facilitating the implementation of the Arrangement[17]. In summary the Commission contends that Prudential actively facilitated implementation of the Arrangement by reason of the following:
+
+(1)  Prudential had an active interest in ensuring the Arrangement was implemented.
+
+(2)  Prudential ensured the Arrangement was implemented.
+
+(3)  Prudential took the initiative to assure Gray Line that prices would be aligned quickly by Tink Labs.
+
+(4)  Prudential of its own initiative followed up with Tink Labs to check that the prices were being changed.
+
+(5)  Prudential informed Gray Line that Tink Labs had changed its prices in line with the Arrangement.
+
+Prudential’s Interest in ensuring that the Arrangement was implemented
+
+30.  Although, not framed this way by the Commission this contention asks the Tribunal to infer from the matters I will deal with later that it was in Prudential’s commercial interests that the Arrangement was implemented, and this is relevant background in considering whether its staff’s conduct was incidental to the Arrangement’s implementation or can properly be characterised as actively facilitating it.
+
+31.  The Commission relies on statements by Jackey Fung of Prudential during his interview that having different prices quoted by Gray Line and Tink Labs was not good as it might confuse guests and lead to complaints. The Commission points to the evidence of Ronald Wu and Agnes Poon of Gray Line to the effect that hotel guests who noticed price differentials sometimes complained about it and it caused confusion. The Commission’s argument, however, ignores the illogicality that although it may be correct that some customers were confused if they noticed two prices and complained to hotels, if competition policy is correct, the concern was misconceived and that a sounder economic view would prescribe Prudential explaining to guests that having competition was beneficial. To talk in terms of Prudential having an interest in promoting an anti-competitive arrangement, because of the attitudes and interests of some of its customers, who are meant to be the ultimate beneficiaries of competition is analytically muddled in the context of a competition case. It does not seem to me that the Commission’s argument takes the matter anywhere useful.
+
+Prudential ensured implementation of the Arrangement
+
+32.  I accept that Prudential did more than suggest that Tink Labs brought its pricing in line with Gray Line’s prices. It would appear that Jackey Fung followed up with Tink Labs to check that it was changing its prices to match those of Gray Line.
+
+Prudential assured Gray Line that it would take steps to bring Tink Labs’ prices in line with Gray Line’s
+
+33.  Prudential says that it acted as a conduit for information rather than a facilitator and that it had no financial interest in the alignment of prices. The Commission contends that it did have a commercial interest in facilitating the Arrangement, namely, its relationship with hotel guests and business partners. Although, I accept that Prudential probably preferred the services offered by tour desk operators in its hotels to be free of controversy and for the tour operators to continue to operate within its hotels, it does not seem to me that this necessarily supports the inference that Prudential was an active facilitator, in the sense of procuring compliance with the Arrangement, as opposed to being an intermediary.
+
+Prudential followed up with Tink Labs to ensure that prices were being changed
+
+34.  Jackey Fung of Prudential called Agnes Poon of Tink Labs just over 24 hours from an earlier email dated 25 May 2016 chasing for an amendment to prices as soon as possible. I accept that Prudential was checking on whether the anticipated changes had been made.
+
+Prudential informed Gray Line that Tink Labs had changed its prices in the line with the Arrangement
+
+35.  On 27 May 2016 Jackey Fung had taken photographs of the adjusted prices and emailed them to Ronald Wu of Gray Line to confirm that Tink Tabs had changed its prices. I accept that Jackey Fung had done this in order that Gray Line knew that Tink Tabs had done so.
+
+Active procurement or active assistance
+
+36.  The Commission argues that the facts I have described are properly characterised as actively procuring or actively assisting the implementation of the Arrangement. The legislation does not use this language. The Commission has used it in [140.3] the ONA in which it asserts that “the Prudential undertaking, despite not being active in the same market as Gray Line and Tink Labs, had facilitated the price fixing agreement between Gray Line and Tink Labs. In particular: Insofar as Prudential was concerned, the Subject Arrangement constitutes an agreement and/or concerted practice to fix the prices of the Tickets Sold at Prudential sold by Gray Line and Tink Labs, which was facilitated by the Prudential BVI. Specifically, Tink Labs had agreed to fix the prices of the Tickets Sold at Prudential by adopting Gray Line’s prices (i.e. the Published Prices) in order to address Gray Line’s complaint to Prudential BVI; Prudential actively procured Tink Labs to agree to and act in accordance with the Subject Arrangement, and actively provided Tink Labs with information from Gray Line as to the Published Prices to enable, and with the intention that, Tink Labs implement the Subject Arrangement.”
+
+37.  As I have explained Prudential accepts that by virtue of the foregoing matters it contravened the FCR. In the Agreed Facts Prudential agrees in [22] that it contravened the FCR by facilitating the price fixing arrangement. In [17] Prudential admits that Gray Line and Tink Labs together with Prudential as a facilitator made and gave effect to the Arrangement.
+
+38.  It says that the assertion that it “actively procured” Tink Labs to agree to the Agreement adds nothing relevant to the determination of liability and nothing relevant to the determination of the penalty. To the extent that there is any difference in meaning between facilitating and procuring, Prudential has not agreed that it procured Tink Labs or Gray Line to make the Agreement or to act on it in contravention of the FCR.
+
+Is the structured methodology appropriate in this case?
+
+39.  It would seem to me that in the context in which I am considering the factual matters, the principal question is whether they demonstrate that a penalty determined in accordance with the structured methodology using the value of Prudential’s turnover directly or indirectly related to the contravention in the relevant geographical area within Hong Kong in the financial year in question[18], namely, the rental income generated by Gray Line licencing use of a tour counter as the base amount, results in an artificially low calculation of the penalty?
+
+40.  It is agreed that Gray Line paid rental income between 27 May 2016 and 8 May 2017 of HK$171,290[19]. Prudential says that this is properly treated as turnover related to the contravention. The Commission argues that these are not sales relevant to the FCR contravention, although it does not explain why not and, contradicting its central argument asserts in [7(1)] of its Written Reply Submissions that “Other than receiving HK$171,290 from Gray Line ………, R4 did not receive any income from the sales of Tickets Sold by Gray Line or Tink Labs”; language which suggests the rental was income related to the contravention, which in my view it is properly viewed as being. Although, I was not addressed on this point, in my view the language used by Lam J in [40] of W Hing (“the volume of commerce affected by the contravention”) connotes, in my view correctly, that what is relevant is income directly or indirectly derived from the acts or omissions constituting the contravention of the FCR, and the expression Lam J uses should be understood in this way. The first stage of the structured methodology is intended to identify the economic consequence of the contravention by the contravenor as this is a proxy for its economic significance. Rent earned by Prudential having Gray Line operating a counter in the hotel falls into this category. I note that there has been no suggestion that the Arrangement has had any material impact on any other source of Prudential’s revenue such as room income.
+
+41.  The Commission submits that the value of sales is intended to be a metric that captures a sense of the scale of the infringement[20], which is as I have stated correct, and the rental income is not indicative of the scale of the infringement. However, it does not necessarily follow that because the figure is small it cannot be the appropriate metric. It is possible that what it tells the Tribunal is that the economic benefit gained by the contravener was small and probably the economic damage is also commensurately small. These are matters that are relevant to the determination of the penalty, whatever approach is used. The relevant question is whether the Commission has demonstrated that the turnover derived from the economic activity as part of which a contravention of the FCR occurs is not an appropriate metric in the present case.
+
+42.  The Commission points to the penalties imposed (by agreement) on Gray Line of HK$4,177,000 and Tak How of HK$1,600,000 as indicia of the scale of the infringement[21].
+
+43.  The Commission did not adduce for this application any evidence in respect of the calculation of the penalty agreed with Gray Line. The only information I have is that contained in the relevant paragraphs of the Agreed Facts for the purposes of the Kam Kwong application, which disposed of the case against it. What the Commission’s submissions appear to have overlooked is that the Gray Line penalty was not calculated by reference to the Arrangement entered into between Gray Line and Prudential (and Tink Labs), which was alleged to constitute the contravention, and the contravention which Prudential has admitted. The base amount used to determine the penalty imposed on Gray Line (as is clear from Section D2 of the Commission’s submissions for the Kam Kwong application in respect of Gray Line and the 5th Respondent) was based on a total value of sales of HK$12,658,104 for the relevant period, which was derived from a turnover of HK$15,822,630 for the period 1 March 2016 and 31 May 2017. As is apparent from the Agreed Facts for that application this was the turnover for all Gray Line’s sales at 12 hotels of which only HK$767,501 was attributable to sales at Prudential during this period. This represents 4.85% of the turnover. In the case of the 5th Respondent according to the Agreed Facts for the Gray Line Kam Kwong application during the period 1 March 2016 and 31 May 2017 HK$2,196,990 of tickets were sold at the Tak How’s hotel by Gray Line and Tink Labs. From the Agreed Facts for the Kam Kwong proceedings between the Commission and Gray Line it would appear that between 1 March 2016 and 31 May 2017 the amount of tickets sold by Gray Line at Tak How’s hotel was HK$1,790,497 representing 11.32% of Gray Line’s total sale of tickets at all hotels. It seems to me that Gray Line’s sales figures spread over 12 hotels provide no meaningful equivalence to the economic value or impact of Prudential’s involvement in the contravention alleged against it, which is limited to its arrangement with Gray Line and Tink Labs.
+
+44.  In the case of Gray Line the structured methodology was used to calculate the penalty. As is apparent from the Agreed Facts for the 5th Respondent’s Kam Kwong application, Tak How and the Commission agreed a penalty, which is described as a lump sum. It is not, however, clear how either party assessed the agreed sum of HK$1,600,000. I would note, and I return to this later, that Prudential had no role in the Kam Kwong application and did not have the opportunity to make any submissions on whether a lump sum was the correct method to be used. I note that, like Prudential, Tak How did receive rental income from Gray Line (HK$232,000) during the relevant period.
+
+45.  What seems to me clear is that particularly in the case of Gray Line the penalty imposed on it by agreement provides no useful guide to the penalty that should be imposed on Prudential. In the case of Tak How the position is less clear. If the Tribunal was simply to calculate the penalty by making it pro rata to the sales made at Tak How’s hotel the figure would be HK$684,000[22], materially less than the penalty of HK$1,250,000 recommended by the Commission. If one uses Gray Line’s sales figures the discrepancy is even greater. It produces a figure of HK$202,584[23]. This serves to illustrate how unscientific is the Commission’s approach and how poorly thought through has been the calculation of the actual proposed penalty of HK$1,250,000. The Commission’s proposal seems little more than a guess. Importantly, it illustrates why in my view the matters relied on by the Commission as justifying using the lump sum method rather than structured methodology do not do so.
+
+46.  I am satisfied that in the circumstances, the penalty should be determined in accordance with the structured methodology and I accept Prudential’s calculation of it; I note the Commission has not provided an alternative. In my view this approach not only conforms with the established principles, but the facts of this case demonstrate that it produces a more consistent approach than the lump sum alternative. It also seems to me that the penalty it results in, HK$171,290, is appropriate given the nature of the contravention and its economic impact.
+
+47.  I would make one further point. The matters that I have referred to in [41]–[44] illustrate the danger of having penalties determined against different respondents at different stages of the proceedings and without all respondents being involved. This is a matter I addressed in my decisions in CTEA 2/2023 dated 25 October 2023, [4]–[5] and 11 January 2024, which I understand is under appeal.
+
+Disposition
+
+48.  It is not in dispute that the Tribunal should make declarations that Prudential has contravened the FCR. The Commission shall attempt to agree the terms of order with Prudential failing which the matter should be listed for a further case management conference. I shall make a costs order nisi that the Commission pays Prudential’s costs of and occasioned by the hearing on 29 November 2023.
+
+ 
+
+ 
+
+ 	(Jonathan Harris)
+President of the Competition Tribunal
+ 
+
+Mr Derek Chan SC and Mr Byron Chiu, instructed by Pinsent Masons, for the Applicant
+
+Mr Joshua Chan, instructed by YTL LLP, for the 4th Respondent
+
+ 
+
+ 
+
+LIST OF AGREED FACTS BETWEEN THE APPLICANT AND 4TH RESPONDENT
+
+1.  The 1st Respondent, Gray Line Tours of Hong Kong Limited (“Gray Line”), is, and was at all material times, a Hong Kong limited liability company with its registered office address located at Room 501, 5th Floor, Cheong Hing Building, 72 Nathan Road, Tsim Sha Tsui, Kowloon, Hong Kong, engaged in the provision of travel-related services such as local sightseeing tours, arrangement of hotel accommodation and the sale of, among other things, tickets for tourist attractions and transportation services in Hong Kong.
+
+2.  The 4th Respondent, Prudential Hotel (BVI) Limited (“Prudential BVI”), is, and was at all material times:
+
+(a)  a company incorporated in the British Virgin Islands and registered under Part XI of the predecessor of the Companies Ordinance (Cap. 622) with its registered office address located at Vistra Corporate Services Centre, Wickhams Cay II, Road Town, Tortola, VG1110 and a principal place of business in Hong Kong located at Suite 1210, 12th Floor, Tower 2, The Gateway, Harbour City, Tsim Sha Tsui, Kowloon, Hong Kong; and
+
+(b)  the owner and manager of the hotel in Hong Kong trading under the name of “Prudential Hotel” (“Prudential”), which is located at 222 Nathan Road, Tsim Sha Tsui, Kowloon, Hong Kong.
+
+3.  The 6th Respondent, Wu Siu Ieng Michael (“Michael Wu”), is, and was at all material times, a shareholder and a director of Gray Line holding the position of Managing Director of Gray Line.
+
+4.  Wu Ronald Keng Hou (“Ronald Wu”) is, and was at all material times, a shareholder of Gray Line, holding the position of (Executive Director) of Gray Line.
+
+5.  Wu Fuk Cheung Eddie (“Eddie Wu”) was at all material times an employee of Gray Line, holding the position of (Senior Manager, Quality Services and Marketing) of Gray Line, who reported to Ronald Wu.
+
+6.  Ho Yui Kin, Blondin (“Blondin Ho”) is, and was at all material times, the General Manager of Prudential.
+
+7.  Fung Siu Wa Jackey (“Jackey Fung”) was at all material times the Front Office Manager of Prudential.
+
+8.  Tink Labs Limited (“Tink Labs”) was at all material times a Hong Kong limited liability company with its registered office address located at 1/F, 101 King's Road, North Point, Hong Kong, which engaged in the provision of, among other things, travel-related services to patrons of licenced hotels in Hong Kong via its flagship smartphone known as “handy” (“Handy Devices”), on which tickets for tourist attractions and local tours were sold to guests of various hotels in Hong Kong (“Ticketing Function”).
+
+9.  In mid-2019, Tink Labs ceased its operations in Hong Kong, including the provision of the Handy Devices.
+
+10.  Poon Ka Kei Agnes (“Agnes Poon”) was at all material times an employee of Tink Labs, holding the position of the Hospitality Account Manager of Tink Labs.
+
+11.  At all material times, Gray Line sold, among other things, entrance tickets for tourist attractions and transportation services at tour counters located within the premises of a number of hotels in Hong Kong (“Hotels”), including Prudential.
+
+12.  Starting in around 2015, until it ceased operations in 2019, Tink Labs also sold tickets for tourist attractions and transportation services to guests of various of the Hotels (including Prudential), and eventually all of them, through the Ticketing Function of the Handy Devices. The Handy Devices were placed inside the rooms of the Hotels (including Prudential).
+
+13.  At all material times, Prudential’s guests could physically purchase tickets at Prudential from Gray Line (i.e. at Gray Line’s tour counters). Tink Lab’s Handy Devices provided Prudential’s guests with an alternative method to purchase tickets during their stay at Prudential.
+
+14.  Annex A to this List of Agreed Facts is a schedule setting out the tickets made available for sale by both Gray Line and Tink Labs in Prudential during the period between 27 May 2016 to 8 May 2017 (collectively, “Tickets Sold at Prudential”), which is relevant to the Subject Arrangement in relation to Prudential (as defined in paragraph 0 below).
+
+15.  Gray Line has been operating a tour counter for the sale of tickets at the hotel premises of Prudential since around February 2011. In particular, pursuant to 2 licence agreements dated 22 February 2016 and 17 March 2017 respectively entered into between Prudential BVI and Gray Line, Gray Line was granted an exclusive right to operate a tour desk adjacent to the reception desk on 2/F (the lobby floor) of Prudential for a monthly licence fee of HK$15,000 payable by Gray Line to Prudential BVI.
+
+16.  From around April 2016, Prudential’s guests could purchase tickets using the Handy Devices, which were placed in Prudential’s rooms. Tink Labs provided the Handy Devices pursuant to a licence agreement dated 9 December 2015 entered into between Prudential BVI and Tink Labs (as supplemented by an addendum dated 15 September 2016), under which Prudential BVI was granted a non-exclusive licence to place the Handy Devices in Prudential’s rooms for the use of its guests.
+
+17.  Gray Line and Tink Labs had, together with Prudential as a facilitator, made and gave effect to an agreement to, and/or had engaged in the concerted practice of, fixing and/or controlling the prices of the tickets that were being sold by Gray Line and Tink Labs at the premises or to guests of Prudential, in contravention of section 6 of the Competition Ordinance (Cap. 619) (“Subject Arrangement in relation to Prudential”). In particular:
+
+(a)  The object of the Subject Arrangement in relation to Prudential was to prevent, restrict, or distort competition between Gray Line and Tink Labs in relation to the sale of the tickets, including the Tickets Sold at Prudential.
+
+(b)  The Subject Arrangement in relation to Prudential constitutes a form of price-fixing between competitors.
+
+(c)  Such conduct constitutes “serious anti-competitive conduct” within the meaning of section 2(1) of the Competition Ordinance (Cap. 619).
+
+18.  The matters set out below constituted the making of and giving effect to a price-fixing arrangement between Gray Line and Tink Labs in relation to the Tickets Sold at Prudential, as facilitated by Prudential BVI :
+
+(a)  On 12 May 2016, Ronald Wu sent an email to Blondin Ho requesting Prudential to inform Tink Labs that Tink Labs could not provide sales of attraction tickets and sightseeing tours on Handy should Tink Labs approach Prudential for installing Handy in its guest rooms.
+
+(b)  On 20 May 2016, Ronald Wu sent an email to Blondin Ho stating that Handy’s sales of attraction tickets and walking tours directly affected the business of Gray Line at Prudential. Ronald Wu asked for a meeting with Blondin Ho. On the same day, Blondin Ho replied to Ronald Wu by email that Jackey Fung would contact Ronald Wu to schedule a meeting as soon as possible.
+
+(c)  On or around 20 May 2016, Eddie Wu and Jackey Fung had a telephone conversation in which Eddie Wu asked Prudential to request Tink Labs to adjust the selling prices of Tickets Sold at Prudential to the Published Prices so that the selling prices of Gray Line and Tink Labs would be aligned. On the same day, Jackey Fung conveyed the request to Agnes Poon by telephone. Afterwards, Jackey Fung informed Blondin Ho that he had passed the request to Tink Labs.
+
+(d)  On 24 May 2016, Gray Line (Ronald Wu and Michael Wu) and Prudential (Blondin Ho and Jackey Fung) had a meeting in a conference room on the 2nd Floor of Prudential. During the meeting, Michael Wu stated that the selling prices on the Handy Devices were different from the Published Prices and asked Prudential to remove the advertisements from the Handy Devices, including the advertisements for attraction tickets and tour products. Blondin Ho replied that Prudential could not ask Tink Labs to remove the advertisements as this was allowed in their contract. In reply to Gray Line’s complaint that Tink Labs was selling the Tickets Sold at Prudential at lower prices, Blondin Ho stated that Prudential would consider passing the published prices to Tink Labs for their consideration.
+
+(e)  On 25 May 2016, Ronald Wu sent an email to Jackey Fung, copying Blondin Ho and Michael Wu. In the email, Ronald Wu listed, among other things, the Published Prices of the Tickets Sold at Prudential and the corresponding prices of these tickets sold on the Handy Devices. Ronald Wu stated that having 2 different prices would cause questions and complaints from guests (which Prudential also agreed it was not ideal) and Prudential agreed to discuss with Tink Labs to switch to the Published Prices by the end of May 2016. By an undated letter that was sent by Ronald Wu to Jackey Fung by hand, Ronald Wu repeated verbatim the contents of the email dated 25 May 2016 and included, among other things, a table of the published prices of major theme parks and attractions in Hong Kong (“Table”).
+
+(f)  On 25 May 2016, Jackey Fung reproduced the Table and sent it to Agnes Poon by email requesting Tink Labs to amend the prices of the Tickets Sold at Prudential to the corresponding Published Prices. Thereafter on the same day, Jackey Fung replied to Ronald Wu by email stating that Prudential would follow up with Tink Labs for having the price adjustment completed by the end of May 2016.
+
+(g)  On 26 May 2016, Jackey Fung sent an email to Agnes Poon requesting Tink Labs arrange the amendment of ticket rate as soon as possible.
+
+(h)  On 27 May 2016, Jackey Fung sent an email to Ronald Wu, copying Blondin Ho and Michael Wu, stating that Tink Labs had changed the ticket selling price.
+
+(i)  On 1 June 2016, Ronald Wu sent an email to Blondin Ho and Jackey Fung, copying Michael Wu, thanking them for finding a solution that would benefit Prudential and its guests, and business partner.
+
+(j)  Pursuant to and in furtherance of the Subject Arrangement in relation to Prudential:
+
+(i)  On 15 March 2017, upon noting that Tink Labs had discounted the prices of the Tickets at some Hotels, Eddie Wu emailed Jackey Fung asking him to check whether there was any change in the prices sold by Tink Labs on the Handy Devices.
+
+(ii)  On 16 March 2017, Jackey Fung emailed Agnes Poon noting that the prices of the Tickets Sold at Prudential were back to discounted rate and requesting Tink Labs to change the prices back to the normal pricing.
+
+(iii)  By reply email sent on the same day, Agnes Poon informed Jackey Fung that Tink Labs will reinstate the higher prices today. This message was relayed by Jackey Fung to Eddie Wu by way of an email dated 29 March 2017.
+
+19.  The aforesaid conduct of Blondin Ho and Jackey Fung as particularized in paragraph 18 above was attributable to Prudential BVI, being the owner and operator of Prudential, for the purpose of the Subject Arrangement in relation to Prudential:
+
+(a)  Blondin Ho and Jackey Fung were staff of Prudential BVI.
+
+(b)  The aforesaid conduct fell within Blondin Ho and Jackey Fung's respective job responsibilities as General Manager and Front Office Manager of Prudential.
+
+(c)  Blondin Ho and Jackey Fung were part of the same economic unit and hence undertaking as Prudential BVI.
+
+20.  By reason of the matters set out in paragraphs 18 and 19, the fact that Tink Labs had, pursuant to the Subject Arrangement in relation to Prudential, matched its prices of the Tickets Sold at Prudential on the Handy Devices with the Published Prices was at all material times made known to Gray Line, Michael Wu and Prudential.
+
+21.  The price-fixing arrangement between Gray Line and Tink Labs in relation to the Tickets Sold at Prudential, as facilitated by Prudential BVI, commenced on 27 May 2016 (at the latest) and had continued until 8 May 2017 when Tink Labs ceased complying with the same.
+
+22.  Prudential BVI, as the Prudential undertaking, has contravened the First Conduct Rule under the Competition Ordinance (Cap. 619) in that it had facilitated the price fixing arrangement between Gray Line and Tink Labs in connection with the Tickets Sold at Prudential:
+
+(a)  Gray Line was an undertaking that was active in the market for the sale and purchase of the Tickets Sold at Prudential.
+
+(b)  Tink Labs was another undertaking that was active in the market for the sale and purchase of the Tickets Sold at Prudential.
+
+(c)  Prudential BVI, as the Prudential undertaking, despite not being active in the same market as Gray Line and Tink Labs, had facilitated the price fixing arrangement between Gray Line and Tink Labs. In particular:
+
+(i)  As competitors in the same market, Gray Line and Tink Labs should have independently determined the prices they would charge for the sale of the Tickets Sold at Prudential;
+
+(ii)  Insofar as Prudential was concerned, the Subject Arrangement in relation to Prudential constitutes an agreement and/or concerted practice to fix the prices of the Tickets Sold at Prudential sold by Gray Line and Tink Labs, which was facilitated by Prudential BVI. Specifically, as set out in paragraph 18 above, Tink Labs had agreed to fix the prices of the Tickets Sold at Prudential by adopting Gray Line’s prices (i.e. the Published Prices) in order to address Gray Line’s complaint to Prudential BVI; and
+
+(iii)  As set out in paragraphs 18 to 21 above, Tink Labs did, to the knowledge of Gray Line and Prudential, increase the prices of the Tickets Sold at Prudential from 27 May 2016 until 8 May 2017.
+
+23.  The financial year of Prudential BVI starts from 1 February and ends on 31 January of a calendar year.
+
+24.  During the period between 27 May 2016 (at the latest) and 8 May 2017, Prudential BVI received a total sum of HK$171,290 from Gray Line, being the monthly rental for the counter operated by Gray Line at the premises of Prudential. The said sum was a fixed fee and not determined by or dependent on the activities conducted by Gray Line at the counter including the sale of Tickets Sold at Prudential or any other revenue generating activity.
+
+25.  Prudential BVI did not receive any income referable to or based on sales of the Tickets Sold at Prudential by either Gray Line or Tink Labs.
+
+26.  During the period between 1 May 2016 to 31 May 2017, at least HK$665,167.53 worth of Prudential Tickets were sold by Gray Line at the premises of Prudential whereas during the period between 14 March 2016 to 17 May 2017, at least HK$188,343 worth of Prudential Tickets were sold by Tink Labs.
+
+27.  According to the definition of “turnover” under section 2 of the Competition (Turnover) Regulation (Cap. 619C), the turnover of Prudential BVI for each of its financial years ended 31 January 2017 and 31 January 2018 were HK$156,654,555 and HK$165,164,197 respectively.
+
+Dated this 6th day of October 2022.
+
+ 
+
+ 
+
+______________________________	_______________________________
+Pinsent Masons
+Solicitors for the Applicant	YTL LLP
+Solicitors for the 4th Respondent
+ 
+
+ 
+
+Annex A
+
+Tickets Sold at Prudential
+
+(1)  Hong Kong Disneyland
+
+(2)  Ocean Park Hong Kong
+
+(3)  Peak Tram (Peak Tram Combo Tour)
+
+(4)  Ngong Ping 360 Cable Car
+
+(5)  Big Bus
+
+(6)  Madame Tussauds Hong Kong
+
+(7)  Hong Kong 3D Museum
+
+(8)  Airport Express
+
+
+[1]  Leung Wing Yi Asther v Kwok Yu Wah (2015) 18 HKCFAR 605, [47] and footnote 27.
+
+[2]  [2020] 2 HKLRD 1229.
+
+[3]  Tink Labs has not been proceeded against by the Commission, having reported the contravention to the Commission. It ceased operations in mid-2019.
+
+[4]  A term used in some Australia authorities to describe the alternative methodology.
+
+[5]  Supra.
+
+[6]  This largely mirrors the method contained in [13] of the European Commission’s Guidelines in the method of setting fines (“EU Guidelines”). As is explained in [5] of the commentary on the EU Guidelines contained in the Official Journal of the European Union (2006/C 210/02) (“EU Guidelines”) the value of the sales to which the infringement relates and of the duration of the infringement is regarded as providing an appropriate proxy to reflect the economic importance of the infringement. This provides a good indication of the order of magnitude of the fine, but it should not be regarded as the basis for an automatic and arithmetical calculation method.
+
+[7]  See [30]-[31] ibid.
+
+[8]  See [5.2] [A/5/203-204].
+
+[9]  [21] of the Agreed Facts.
+
+[10]  [2020] HKCT 11.
+
+[11]  Competition Commission v Kam Kwong Engineering Co Ltd [2020] HKCT 3.
+
+[12]  [2020] HKCT 10.
+
+[13]  Case C-194/14P, Judgment of the European Court of Justice, 22 October 2015, [60]–[70].
+
+[14]  Ibid.
+
+[15]  Ibid.
+
+[16]  The Australian approach has been described as follows in Australian Competition and Consumer Commission v Australia and New Zealand Banking Group Ltd [2016] FCA 1516, [84]: “The fixing of a pecuniary penalty pursuant to s.76 of the Competition and Consumer Act involves the identification and balancing of all the factors relevant to the contravention and the circumstances of the contravenor, and making a value judgment as to what is the appropriate penalty in light of the protective and deterrent purpose of a pecuniary penalty.”
+
+[17]  Prudential’s Response [14].
+
+[18]  W Hing [49] supra.
+
+[19]  The figures are agreed as figures in [24] of the Agreed Facts.
+
+[20]  W Hing [49] supra.
+
+[21]  See my decision of 14 June 2023 in these proceedings, [7] & [8].
+
+[22]  1,600,000 x (4.85/11.32).
+
+[23]  HK$4,177,000 x 4.85%.
+
+ 
+
+ 
+

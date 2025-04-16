@@ -1,0 +1,637 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No. 5 of 2016
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 5 OF 2016 (CRIMINAL)
+
+(ON APPEAL FROM CACC NO. 231 OF 2014)
+
+_______________________
+
+BETWEEN
+ 	HKSAR	Respondent
+ 	and	
+ 	CHAN KAM SHING (陳錦成)	Appellant
+_______________________
+
+Before: Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Tang PJ, Mr Justice Fok PJ and Lord Hoffmann NPJ
+Date of Hearing: 28 November 2016
+Date of Judgment: 16 December 2016
+___________________________
+
+JUDGMENT
+
+___________________________
+
+
+Chief Justice Ma:
+
+1.  I agree with the judgment of Mr Justice Ribeiro PJ.
+
+ 
+
+Mr Justice Ribeiro PJ:
+
+2.  The doctrine of joint enterprise in criminal law as applied in Hong Kong has been based for many years on the Privy Council’s decision in Chan Wing Siu v R,[1] endorsed by this Court in Sze Kwan Lung v HKSAR.[2]  The question in the present appeal is whether that doctrine should continue to be applied in the light of the decision of the United Kingdom Supreme Court in R v Jogee and R v Ruddock[3] disapproving Chan Wing Siu and, one might add, in the light of the contrary decision of the Australian High Court in Miller v The Queen.[4]
+
+A.   The appellant’s conviction
+
+3.  After trial before M Poon J and a jury, the appellant was convicted of the murder of Kwok Hin Ching.[5]  The appellant, who was a member of the Sun Yee On triad society in Tuen Mun, received an order from his triad boss, along with fellow gang members, to “chop” members of a rival faction.  The appellant and other members of the gang therefore armed themselves with knives, water-pipes and torches and went in two cars in search of their rivals.  When those in the appellant’s car heard that the others had found the intended victims and had set about attacking them, they immediately drove to the scene to help.
+
+4.  The deceased, a member of the rival faction, was attacked by four or five persons with knives.  Whilst, having been injured, he was being helped to walk away by two others, a seven-seater vehicle ran him down and, when he was lying on the ground, deliberately ran over him again. The autopsy revealed that he died from multiple blunt force injuries and cut and stab wounds.[6] 
+
+5.  When the appellant arrived at the scene, the deceased was lying on the ground after the attack.  He and his party helped their fellow gang members who were facing a furious counter-attack by the rival faction to leave the scene. 
+
+6.  There was no evidence that the appellant had been present during the attack on the deceased or that he had himself done any act causing injury or death to the deceased.  His murder conviction, upheld by the Court of Appeal, was based on his active participation in a joint criminal enterprise, “namely an agreement with others to chop the followers of [the rival faction] with knives with the intent to cause such persons grievous bodily harm”.[7] The Court also held that the appellant’s conduct in giving effect to the joint enterprise constituted encouragement to the others in the gang.[8]
+
+7.  By their decision in Jogee, the UK Supreme Court held that the Privy Council in Chan Wing Siu had “taken a wrong turn”.  It decided that the doctrine of joint criminal enterprise, especially that aspect of it referred to as “parasitic accessory liability”, should be abolished and replaced by traditional accessorial liability principles, assigning culpability on the basis of the secondary party’s intention to aid, abet, counsel or procure a principal offence. It is therefore necessary to examine the Jogee decision against the background of existing accessorial liability principles and the doctrine of joint criminal enterprise.
+
+B.   Accessorial liability principles
+
+8.  At common law, a person is held to be an accessory to a crime if he or she aids, abets, counsels or procures the commission of an offence by another.  This is reflected in section 89 of the Criminal Procedure Ordinance[9] which states: “Any person who aids, abets, counsels or procures the commission by another person of any offence shall be guilty of the like offence.”
+
+9.  The principal offender is the person who carries out the prohibited conduct or actus reus with the requisite mental state or mens rea constituting the main offence.  Thus, in a murder case, the principal offender is the person who causes death to the victim with intent to cause death or to do grievous bodily harm.  He or she was also known as the principal in the first degree.  There may be more than one person acting together as joint principals.
+
+10.  A person who aids or abets the principal offence, sometimes referred to as an accessory at the fact (and in felony cases as the principal in the second degree), is one who is present and, by way of actus reus, renders assistance or encouragement to the principal in the commission of the offence.[10] The aider and abettor must provide active assistance or encouragement by words or action.  Mere presence at the scene may in some cases be evidence of encouragement, but in itself is not enough to constitute aiding and abetting.[11] 
+
+11.  The mens rea of aiding and abetting involves the accessory acting with knowledge of the essential matters constituting the offence and with the intention of assisting or encouraging the principal offender to do the things which constitute the offence.[12] 
+
+12.  A person who counsels or procures an offence (referred to also as an accessory before the fact) is not present but provides assistance or encouragement prior to the commission of the offence.[13]  Such a person performs the actus reus of “procuring” an offence “by setting out to see that it happens and taking the appropriate steps to produce that happening”.[14] A person “counsels” an offence by soliciting or encouraging its commission.
+
+13.  The actus reus of counselling or procuring therefore comprises assisting or encouraging commission of the principal offence by words or action prior to its occurrence and the mens rea is an intention to render the assistance or encouragement with a view to facilitating or bringing about commission of the offence. 
+
+14.  Under traditional accessorial rules, the secondary party’s liability is derivative.  Only if it is proved that the principal offence has been committed (even if the identity of the principal is not known) can a person’s liability as an accessory to that offence be established.[15] Otherwise the defendant may be guilty of an inchoate offence of conspiracy, incitement or attempt but not as an accessory.
+
+B.1   Stretching the boundaries of accessorial liability
+
+15.  The abovementioned rules are well adapted to clear-cut, static situations and place considerable evidential demands on the prosecution.  To establish the accessory’s guilt, the prosecution must be able to prove the commission of the principal offence and the accessory’s performance of intentional acts capable of assisting or encouraging that offence, with knowledge of the essential facts constituting the offence and an intention to assist or encourage its commission.
+
+16.  There will of course be many cases where such requirements can readily be met.  However, it will often be the case that the co-adventurers do not spell out their plans to each other.  Such cases have given rise to difficulties regarding proof of the accessory’s intention to assist or encourage the principal.  How is such intention to be proved if the accessory did not know what the principal was actually going to do?
+
+17.  R v Bainbridge,[16] provides an example of a blurring of the mens rea requirement in a counselling and procuring case.  A bank was broken into using oxyacetylene cutting equipment which was traced back to the defendant who had bought it some six weeks earlier.  The defendant testified that he had bought it on someone else’s behalf and admitted that he was suspicious that the equipment was “wanted ... for something illegal”, thinking “it was for breaking up stolen goods which [that person] had received”.  He denied knowing that it was intended for breaking and entering premises.  The English Court of Appeal held that the jury had correctly been directed that he should be convicted of counselling or procuring the bank robbery if they were satisfied that he had “knowledge that a crime of the type in question was intended”, meaning a crime involving “breaking and entering premises and the stealing of property from those premises”.  The submission that “there was no evidence which was more consistent with the equipment being needed for a felony of this type than for any other kind of illegal venture” was robustly brushed aside.
+
+18.  Maxwell v DPP for Northern Ireland,[17] furnishes another example.  Maxwell, who was a member of the Ulster Volunteer Force, drove a car acting as guide for fellow members of the UVF in a car following, to show them the way to a public house in a Catholic area where they launched a bombing attack.  It was accepted that Maxwell knew that a terrorist operation was being conducted but argued on his behalf that, as he did not know what form the attack would take, he could not be found guilty of aiding and abetting the commission of a crime which he did not know was to be committed.  Unsurprisingly, that argument was rejected, but it required the traditional mens rea rule on aiding and abetting to be enlarged by an exercise of judicial creativity. 
+
+19.  In the House of Lords, Lord Scarman acknowledged that it was “not possible in the present case to declare that it is proved, beyond reasonable doubt, that the appellant knew a bomb attack upon the inn was intended by those whom he was assisting.  It is not established, therefore, that he knew the particular type of crime intended.”[18]  His Lordship commended Lowry CJ’s approach to establishing accessory liability in this kind of case, noting that it went beyond the decision in Bainbridge:
+
+“The court, however, refused to limit criminal responsibility by reference to knowledge by the accused of the type or class of crime intended by those whom he assisted. Instead, the court has formulated a principle which avoids the uncertainties and ambiguities of classification. The guilt of an accessory springs, according to the court's formulation:
+
+‘... from the fact that he contemplates the commission of one (or more) of a number of crimes by the principal and he intentionally lends his assistance in order that such a crime will be committed’... ‘The relevant crime,’ the Lord Chief Justice continues, ... ‘must be within the contemplation of the accomplice, and only exceptionally would evidence be found to support the allegation that the accomplice had given the principal a completely blank cheque.’
+
+The principle thus formulated has great merit. It directs attention to the state of mind of the accused — not what he ought to have in contemplation, but what he did have: it avoids definition and classification, while ensuring that a man will not be convicted of aiding and abetting any offence his principal may commit, but only one which is within his contemplation. He may have in contemplation only one offence, or several: and the several which he contemplates he may see as alternatives. An accessory who leaves it to his principal to choose is liable, provided always the choice is made from the range of offences from which the accessory contemplates the choice will be made. Although the court's formulation of the principle goes further than the earlier cases, it is a sound development of the law and in no way inconsistent with them.  I accept it as good judge-made law in a field where there is no statute to offer guidance.”
+
+20.  Other frequently-encountered uncertainties have been less easily accommodated by enlarging traditional accessorial concepts. These arise especially in circumstances involving what one might call evidential and situational uncertainties. 
+
+B.2   Evidential uncertainties
+
+21.  Evidential uncertainty as to who struck the fatal blow often arises in homicide cases involving more than one defendant.  Thus, for instance, in R v Powell (Anthony),[19] three men went to purchase drugs from a drug dealer but one of them shot the dealer dead when he came to the door, the Crown being unable to prove which of them fired the gun.  Similarly, in Hui Chi-ming v The Queen,[20] the deceased was attacked by a group of youths and one of them – the prosecution could not say which – struck the fatal blow using a metal pipe.  Numerous other examples can be found.[21]
+
+22.  Such cases pose difficulties.  If several persons were present and possibly involved but the principal offender cannot be identified, prima facie all should be acquitted.  Thus, in R v Abbott,[22] Lord Goddard CJ stated:
+
+“If two people are jointly indicted for the commission of a crime and the evidence does not point to one rather than the other, and there is no evidence that they were acting in concert, the jury ought to return a verdict of not guilty against both because the prosecution have not proved the case.”
+
+23.  As his Lordship there indicated, the qualification is that a basis for liability may be found if those present “were acting in concert”.  As we shall see, resort has been had to the doctrine of joint criminal enterprise to deal with such cases.  But it has also been more problematically suggested that the accessorial liability rules can be relied on for the same purpose.  Thus, the learned editors of Smith and Hogan, take as an example an attack on V by a group of individuals where V’s death results from a single stab wound, commenting as follows:
+
+“Unless the evidence can establish that a particular member of the group must have been responsible for inflicting the fatal wound, the prosecution may have no alternative but to allege that each member was either the principal offender or an accessory. Considerable difficulty would arise in such cases if the prosecution had to choose. If there is only one fatal stab wound, the Crown cannot simply allege that each defendant was the principal. As a matter of fact that is most unlikely to be true; only one person will have plunged the knife in. Equally, the Crown would face difficulty if they alleged that each defendant was an accessory; unless the jury could be sure when considering the case against a particular defendant that he was not the principal, he would have to be acquitted. In view of these forensic difficulties, the pragmatic solution of being able to charge D with being either an accessory or a principal is understandable.” [23]
+
+24.  In Jogee,[24] a similar approach is suggested in the joint judgment of Lord Hughes and Lord Toulson JJSC: “In some cases the prosecution may not be able to prove whether a defendant was principal or accessory, but it is sufficient to be able to prove that he participated in the crime in one way or another.”
+
+25.  It should, however, be emphasised that that “pragmatic solution” is not available in every case where the prosecution cannot prove who acted as principal.  It can only apply, on accessorial liability principles, where there is sufficient evidence as against the relevant defendant to prove that he or she must at least have acted as an accessory, ie, had aided, abetted, counselled or procured the offence with the requisite intent. 
+
+26.  For example, in R v Swindall & Osborne,[25] a man was run down and killed as a result of two horse and cart drivers racing each other.  Each was convicted of manslaughter, Pollock CB holding that it did not matter which cart had run the victim over since the evidence showed that each defendant had encouraged the other to drive dangerously and so that they were each at least guilty as an accessory. 
+
+27.  The courts have sometimes relied on inaction when under a duty to act as evidence of such aiding and abetting.  Thus, in Du Cros v Lambourne,[26] the defendant was charged with driving a car at a speed dangerous to the public but claimed that he was not the driver but in the passenger seat next to the person doing the driving.  The Court of Appeal held that that was sufficient evidence of his aiding and abetting since it was his car and “he could, and ought to, have prevented her from driving at this excessive and dangerous speed, but ... he allowed her to do so and did not interfere in any way.”  Similarly, in R v Forman and Ford,[27] where it was unclear which of two police officers had assaulted the victim by striking him on the back of the head, the submission of no case to answer was rejected on the footing that it was open to the jury to find that each was at least guilty of aiding and abetting since the officer who had failed in his duty to intervene to prevent the other’s commission of the crime could be found thereby to have given encouragement to the principal offender.
+
+28.  But where the identity of the principal cannot be proved and there is insufficient evidence of the defendants’ conduct to found conviction on the basis that they must at least have acted as accessories, the limits of the accessorial liability rules and the role to be played by the joint criminal enterprise doctrine become apparent.  Brown v The State, to which I shall return,[28] illustrates this.
+
+B.3   Situational uncertainties
+
+29.  Where the parties agree upon a planned course of criminal conduct, experience shows that uncertainties inevitably exist as to what may happen in the situation actually faced by the co-adventurers when implementing the plan.
+
+30.  As Stephen J pointed out in Johns v The Queen,[29] one or more of the co-adventurers may commit an unplanned offence “as a reaction to whatever response is made by the victim, or by others who attempt to frustrate the venture, upon suddenly being confronted by the criminals.”   In cases involving multiple offenders, such as gang fights, as Lord Steyn noted in R v Powell (Anthony):[30] “Experience has shown that joint criminal enterprises only too readily escalate into the commission of greater offences.”  Ventures planned as robberies or burglaries or as an affray between gangs of youths may turn into murder cases. 
+
+31.  It is difficult to deal with unplanned contingencies within the framework of traditional accessorial liability concepts.  Their application may be straightforward in relation to the original object of the joint enterprise such as robbery or burglary.  But it is hard for the prosecution to prove that an accomplice has performed intentional acts to assist or encourage the principal in the commission of the further offence of say, murder, when it is an unplanned offence committed as a spontaneous reaction to the exigencies of the situation.  A workable principle is therefore needed for determining accomplice liability in such cases. 
+
+C.   A distinct doctrine of joint criminal enterprise
+
+32.  The common law’s approach has been to evolve the doctrine of joint criminal enterprise, also referred to as the doctrine of “common intention”, of “common purpose”, of “acting in concert” and of “common design”. 
+
+33.  The doctrine of joint criminal enterprise is distinct from the traditional rules on accessorial liability, although there are situations where those rules may overlap.   It is important to note – since consequences flow from this – that under the doctrine of joint criminal enterprise, liability is not derivative: it is not dependent on proving that one person (the principal) committed the main offence and that another (the accomplice) assisted or encouraged its commission.  Liability is independently based on each defendant’s participation in a joint criminal enterprise with the requisite mental state to constitute the offence relevant to the defendant in question.
+
+34.  Sir Robin Cooke noted the distinction between the doctrines in Chan Wing-siu v The Queen,[31] contrasting accessorial liability by “aiding, abetting, counselling, inciting or procuring” the primary offence with complicity based on participating in a “common unlawful enterprise” in which a crime is “foreseen as a possible incident of the common unlawful enterprise”.
+
+35.  In McAuliffe v The Queen,[32] the High Court of Australia explained that the doctrine of joint criminal enterprise provides an additional means of establishing complicity alongside the rules of accessorial liability:
+
+“... the complicity of a secondary party may also be established by reason of a common purpose shared with the principal offender or with that offender and others. Such a common purpose arises where a person reaches an understanding or arrangement amounting to an agreement between that person and another or others that they will commit a crime. The understanding or arrangement need not be express and may be inferred from all the circumstances. If one or other of the parties to the understanding or arrangement does, or they do between them, in accordance with the continuing understanding or arrangement, all those things which are necessary to constitute the crime, they are all equally guilty of the crime regardless of the part played by each in its commission. Not only that, but each of the parties to the arrangement or understanding is guilty of any other crime falling within the scope of the common purpose which is committed in carrying out that purpose.”
+
+36.  And in Clayton v The Queen, citing Professor A P Simester,[33] the High Court[34] highlighted the different factual bases upon which the respective doctrines rest:
+
+“... liability as an aider and abettor is grounded in the secondary party's contribution to another's crime. By contrast, in joint enterprise cases, the wrong lies in the mutual embarkation on a crime, and the participants are liable for what they foresee as the possible results of that venture. In some cases, the accused may be guilty both as an aider and abettor, and as participant in a joint criminal enterprise. That factual intersection of the two different sets of principles does not deny their separate utility.”
+
+37.  In R v Stewart and Schofield,[35] Hobhouse LJ pointed out that one consequence of the distinction, flowing from the independent rather than derivative liability of participants in a joint criminal enterprise, is that under the joint criminal enterprise doctrine, one defendant may be guilty of manslaughter while a co-defendant is convicted of murder in the same case:
+
+“The allegation that a defendant took part in the execution of a crime as a joint enterprise is not the same as an allegation that he aided, abetted, counselled or procured the commission of that crime. A person who is a mere aider or abettor, etc, is truly a secondary party to the commission of whatever crime it is that the principal has committed although he may be charged as a principal. If the principal has committed the crime of murder, the liability of the secondary party can only be a liability for aiding and abetting murder. In contrast, where the allegation is joint enterprise, the allegation is that one defendant participated in the criminal act of another. This is a different principle. It renders each of the parties to a joint enterprise criminally liable for the acts done in the course of carrying out that joint enterprise. Where the criminal liability of any given defendant depends upon the further proof that he had a certain state of mind, that state of mind must be proved against that defendant. Even though several defendants may, as a result of having engaged in a joint enterprise, be each criminally responsible for the criminal act of one of those defendants done in the course of carrying out the joint enterprise, their individual criminal responsibility will, in such a case, depend upon what individual state of mind or intention has been proved against them. Thus, each may be a party to the unlawful act which caused the victim's death. But one may have had the intent either to kill him or to cause him serious harm and be guilty of murder, whereas another may not have had that intent and may be guilty only of manslaughter.”
+
+38.  The difference between the doctrines was also recognized by this Court in Sze Kwan Lung v HKSAR,[36] where the consequence of the independent liability of each participant in a joint criminal enterprise was that a verdict of murder was available against a participant even where the actual killer was acquitted or was convicted of manslaughter.  Bokhary PJ stated:
+
+“The Court of Appeal appears to have misapprehended the basis of the prosecution's case and the defence submission in this context. The case was throughout fought on the basis of the doctrine of joint enterprise. However, the Court of Appeal's reasoning was appropriate only to a conviction based upon the common law principles of accessorial liability whereby the person charged with aiding, abetting, counselling or procuring an offence can only be convicted if the principal offender, charged at the same trial, is found guilty of the relevant principal offence. As further discussed below, a participant in a joint enterprise can be convicted of murder even though the actual killer is acquitted outright or convicted of the lesser offence of manslaughter only.[37]
+
+... While this is not the occasion for giving a definitive decision on the entirety of the doctrine of joint enterprise, it is my view, as indicated above, that the doctrine is distinct from the common law principles of aiding, abetting, counselling or procuring. Each participant is criminally liable for all the acts done in pursuance of the joint enterprise. And whether or not he intended it, he will be criminally liable for any such act if it was of a type which he foresaw as a possible incident of the execution of the joint enterprise and he participated in the joint enterprise with such foresight.”[38]
+
+39.  There are accordingly compelling reasons for differentiating between the doctrines.  However, eminent contrary views exist.[39]  For instance, in Smith & Hogan,[40] the learned editors argue against the separate existence of a joint criminal enterprise doctrine in these terms:
+
+“If D and P set out together to rape (or to murder), how does D ‘participate’ in P’s act of penile penetration of V (or P’s shooting of V) except by assisting him or encouraging him – that is, aiding, abetting, counselling or procuring him – to do the act? It is submitted that there is no other way. The only peculiarity of joint enterprise cases is that, once D has been shown to be aiding, abetting, counselling or procuring P in the commission of crime A, there is no need to look further for evidence of acts of assisting and encouraging in relation to crime B.”
+
+40.  With respect, that is an unconvincing objection.  In the first place, accomplice liability, whether under the joint enterprise or accessorial liability doctrines, is not dependent on the defendants sharing physical performance of the actus reus.  The essence of the joint criminal enterprise principle involves the accomplice’s culpability for the criminal act of another person, of a co-adventurer – not his own act – falling within the agreed scope of the joint enterprise or foreseen as a possible incident thereof.  Secondly, the absence of any need to look for acts of assistance or encouragement to establish crime B acknowledged in the second part of the quote, makes the very point that the doctrine is not, so far as crime B goes, based on traditional accessorial liability principles.
+
+C.1   Basic joint criminal enterprise
+
+41.  The common law has developed two forms of joint criminal enterprise which may be referred to as the basic and extended forms.  The basic version involves the co-adventurers simply agreeing to carry out and then executing a planned crime.  As it was put in the joint judgment of French CJ, Kiefel, Bell, Nettle and Gordon JJ, in Miller v The Queen:[41]
+
+“If the crime that is the object of the enterprise is committed while the agreement remains on foot, all the parties to the agreement are equally guilty, regardless of the part that each has played in the conduct that constitutes the actus reus.”
+
+42.  Since participation in the joint criminal enterprise makes all participants guilty whoever the actual perpetrator may have been, this doctrine is of particular value in murder cases where there is evidential uncertainty as to who struck the fatal blow. 
+
+43.  Brown v The State[42]provides an example. The two victims were seen being marched off by the two defendants and four gunshots were later heard.  No one saw what happened but the victims were later found dead, shot in the head.  The evidence strongly pointed to the defendants as the perpetrators but there was no way to tell who had actually fired the shots.  Traditional accessorial liability principles therefore could not be applied with any confidence.  Unlike cases like R v Swindall & Osborne,[43] there was no evidential basis for suggesting that the two defendants must at least have aided and abetted the murder.  The defendants’ guilt was established applying what Lord Hoffmann called “the simplest form of joint enterprise” (or “the plain vanilla version of joint enterprise”).[44]  His Lordship explained that (in murder cases) this basic version applies “when two or more people plan to murder someone and do so.  If both participated in carrying out the plan, both are liable.  It does not matter who actually inflicted the fatal injury”.  It was a simple case and the execution-style shootings strongly suggested intentional killings.  The trial judge did not have to concern himself with possible liability for manslaughter and it was held sufficient for him to instruct the jury that they had to be satisfied that there was indeed a common intention to murder.[45]
+
+44.  In some cases, the facts will be such that guilt can be established either under traditional accessorial principles or the basic joint criminal enterprise doctrine.  Thus, in Ramnath Mohan v The Queen,[46] the victim was attacked by the two appellants wielding “cutlasses” and died from a particularly serious leg wound.  The question arose “whether each of the appellants [could] be held responsible for the leg wound, when it may have been inflicted by the other of them.”  Lord Pearson, in the Privy Council, upheld the murder conviction on the basis of joint criminal enterprise stating:
+
+“... both the appellants were armed with cutlasses, both were attacking [the victim], and both struck him. It is impossible on the facts of this case to contend that the fatal blow was outside the scope of the common intention. The two appellants were attacking the same man at the same time with similar weapons and with the common intention that he should suffer grievous bodily harm.”
+
+His Lordship also held that each of the appellants “was present, and aiding and abetting the other of them in the wounding of [the victim]”.  As the High Court of Australia pointed out in Clayton,[47] “[the] factual intersection of the two different sets of principles does not deny their separate utility”.
+
+C.2   Extended joint criminal enterprise
+
+45.  The doctrine of extended joint criminal enterprise was developed to determine complicity when criminal co-adventurers react to situational uncertainties.  In its modern history,[48] the decision of the Australian High Court in Johns v The Queen, has been influential.  Stephen J explained the doctrine in the following terms:
+
+“The criminal responsibility here under discussion is not that relating to the crime which is the prime object of a criminal venture. ... [If], in carrying out that contemplated crime, another crime is committed there arises the question of the complicity of those not directly engaged in its commission. The concept of common purpose provides the measure of complicity, the scope of that common purpose determining whether the accessory before the fact to the original crime is also to share in complicity in the other crime. If the scope of the purpose common both to the principal offender and to the accessory is found to include the other crime, the accessory will be fixed with criminal responsibility for it.” [49]
+
+46.  While his Honour was speaking of the liability of an accessory before the fact, the principle plainly applies equally to aiders and abettors present at the scene.  Stephen J went on to hold that the scope of the common purpose included what the participants “regarded as possibly involved in the venture”, arguing powerfully against limiting its scope to what was regarded as probable.  The criterion of “probability” was “singularly inappropriate” since the wide range of possible spontaneous actions taken by victims and third parties when confronted by criminals would make it difficult to characterise any reaction to actions of such unpredictability as probable. Moreover, a standard of probability is not an appropriate standard for judging the co-adventurer’s blameworthiness:
+
+“... it would mean that an accessory before the fact to, say, armed robbery, who well knows that the robber is armed with a deadly weapon and is ready to use it on his victim if the need arises, will bear no criminal responsibility for the killing which in fact ensues so long as his state of mind was that, on balance, he thought it rather less likely than not that the occasion for the killing would arise. Yet his complicity seems clear enough; the killing was within the contemplation of the parties, who contemplated ‘a substantial risk’ that the killing would occur...”[50]
+
+47.  In their joint judgment in Johns v The Queen, Mason, Murphy and Wilson JJ explained that “the doctrine [of common purpose or common design] looks to the scope of the common purpose or design as the gravamen of complicity and criminal liability.”[51] After a survey of the authorities, their Honours endorsed Street CJ’s formulation of the extended joint criminal enterprise doctrine as follows:
+
+“‘... an accessory before the fact bears, as does a principal in the second degree, a criminal liability for an act which was within the contemplation of both himself and the principal in the first degree as an act which might be done in the course of carrying out the primary criminal intention - an act contemplated as a possible incident of the originally planned particular venture’. Such an act is one which falls within the parties' own purpose and design precisely because it is within their contemplation and is foreseen as a possible incident of the execution of their planned enterprise.”[52]
+
+48.  The requirement is therefore for the defendant to have “contemplated” commission of the relevant crime as possible – as an act which “might” be done – by one of the other participants in the course of carrying out the primary criminal enterprise.  Like Stephen J, their Honours rejected probability as a criterion since it unacceptably “stakes everything on the probability or improbability of an act, admittedly contemplated, occurring”. [53]
+
+49.  In Chan Wing Siu,[54] three men armed with knives forced their way into the deceased’s flat.  The defendants did not testify but statements given by them indicated that the third defendant (Tse) had asked the other two to help him collect a debt from the deceased and had armed them with knives for that purpose.  The evidence sufficiently established that two of them had “joined in an attack on the deceased with at least the intention of inflicting grievous bodily harm” but the evidence in relation to Tse was more equivocal, it being suggested that he had run away when the deceased put up a strong resistance and inflicted injuries on his two attackers.  This led the trial judge to direct the jury along the lines approved in Johns v The Queen to the effect that the accused would be guilty of murder “if proved to have had in contemplation that a knife might be used on the occasion by one of his co-adventurers with the intention of inflicting serious bodily injury.”[55]  This was criticised on appeal on the footing that “such an accused does at least have to be proved to have foreseen that, if such a contingency eventuated, it was more probable than not that one of his companions would use a weapon with intent to kill or cause grievous bodily harm.”[56]
+
+50.  Having referred to the principles of accessorial liability in cases where typically “the same or the same type of offence is actually intended by all the parties acting in concert”, Sir Robin Cooke noted that the case before the Privy Council had to “depend rather on the wider principle whereby a secondary party is criminally liable for acts by the primary offender of a type which the former foresees but does not necessarily intend.”[57] It was, in other words, an extended joint criminal enterprise case.  His Lordship elaborated as follows:
+
+“That there is such a principle is not in doubt. It turns on contemplation or, putting the same idea in other words, authorisation, which may be express but is more usually implied. It meets the case of a crime foreseen as a possible incident of the common unlawful enterprise. The criminal culpability lies in participating in the venture with that foresight.”[58]
+
+51.  After reviewing the authorities,[59] Sir Robin Cooke held in favour of the foresight of possibility and rejected a criterion of probability, holding:
+
+“In agreement with the courts in Hong Kong, Australia and New Zealand, their Lordships regard as wholly unacceptable any argument that would propose, as any part of the criteria of the guilt of an accomplice, whether on considering in advance the possibility of a crime of the kind in the event actually committed by his co-adventurers he thought that it was more than an even risk. ...
+
+What public policy requires was rightly identified in the submissions for the Crown. Where a man lends himself to a criminal enterprise knowing that potentially murderous weapons are to be carried, and in the event they are in fact used by his partner with an intent sufficient for murder, he should not escape the consequences by reliance upon a nuance of prior assessment, only too likely to have been optimistic.
+
+On the other hand, if it was not even contemplated by the particular accused that serious bodily harm would be intentionally inflicted, he is not a party to murder.”[60]
+
+52.  His Lordship approved the Judge’s direction that if Tse had “thought that the knives would be used to do no more than frighten the occupants, then he would be guilty not of murder but of manslaughter”[61] and also held that if a jury thought there was a reasonable possibility that “a risk may have occurred to an accused’s mind - fleetingly or even causing him some deliberation - but may genuinely have been dismissed by him as altogether negligible”, he should not be held complicit to the murder or wounding.[62]
+
+53.  Until the Jogee decision, extended joint criminal enterprise principles consistent with the doctrine as expounded in Chan Wing Siu have been applied in numerous cases and in the highest courts of Hong Kong,[63] England and Wales[64] and Australia.[65] 
+
+54.  In the House of Lords in R v Powell (Anthony),[66] Lord Hutton summarised the principle as follows:
+
+“... it is sufficient to found a conviction for murder for a secondary party to have realised that in the course of the joint enterprise the primary party might kill with intent to do so or with intent to cause grievous bodily harm.”
+
+55.  Having endorsed the rule that a defendant who did not foresee the principal’s act as a possibility falls outside the scope of the joint enterprise, his Lordship added:
+
+“However ... if the weapon used by the primary party is different to, but as dangerous as, the weapon which the secondary party contemplated he might use, the secondary party should not escape liability for murder because of the difference in the weapon ...”[67]
+
+56.  And, agreeing with Chan Wing Siu, Lord Hutton held that:
+
+“... the secondary party is subject to criminal liability if he contemplated the act causing the death as a possible incident of the joint venture, unless the risk was so remote that the jury take the view that the secondary party genuinely dismissed it as altogether negligible.”[68]
+
+D.   What Jogee decided
+
+57.  The UK Supreme Court in Jogee decided that Chan Wing Siu was wrongly decided.[69] It held that the Privy Council had (on the basis of an incomplete or faulty appreciation of the authorities) “taken a wrong turn” by adopting the doctrine of extended joint criminal enterprise, which it referred to as involving “parasitic accessory liability”, instead of basing secondary liability solely on traditional accessorial liability principles.  The extended doctrine, by founding liability on mere foresight that a co-adventurer might commit the further offence, “over-extends” secondary liability in a manner savouring of constructive crime.  It also gives rise to an anomaly by adopting the lower mens rea threshold of foresight for the secondary party’s liability as opposed to that of intention for the principal offender.  Jogee therefore decided that joint criminal enterprise, both basic and extended, should be abolished and secondary liability established solely on the basis of an intention to aid, abet, counsel or procure the principal offence.  Foresight is only to be relevant as evidence of such intention and not as a basis for establishing complicity.  The rules permitting manslaughter and murder convictions to be reached for different offenders involved in the same violent attack should be retained.  As to cases of evidential uncertainty, where the prosecution may not be able to prove that a defendant was principal or accessory, it suffices to prove that he participated in the crime “in one way or another”.[70]  And in cases of what I have called “situational uncertainty” Jogee proposes adoption of liability on the basis of “conditional intent”.
+
+58.  I respectfully do not agree with the decision in Jogee for three main reasons.  First, I do not share the view of the secondary party’s culpability there expressed.  Secondly, confining the secondary party’s liability to liability under the traditional accessorial liability rules and abolishing the joint criminal enterprise doctrine in my view creates a serious gap in the law of complicity in crime.  And thirdly, I consider that Jogee’s introduction of the concept of “conditional intent” in its restatement of the law gives rise to significant conceptual and practical problems.  I am respectfully largely in agreement with the views, differing from Jogee, expressed by the majority of the High Court of Australia in Miller v The Queen.[71]
+
+E.   The culpability of the secondary party
+
+59.  At the heart of Jogee is this passage[72] from the joint judgment of Lord Toulson and Lord Hughes JJSC, with whom the other members of the Court agreed:
+
+“...in the common law foresight of what might happen is ordinarily no more than evidence from which a jury can infer the presence of a requisite intention. It may be strong evidence, but its adoption as a test for the mental element for murder in the case of a secondary party is a serious and anomalous departure from the basic rule, which results in over-extension of the law of murder and reduction of the law of manslaughter. Murder already has a relatively low mens rea threshold, because it includes an intention to cause serious injury, without intent to kill or to cause risk to life. The Chan Wing-Siu principle extends liability for murder to a secondary party on the basis of a still lesser degree of culpability, namely foresight only of the possibility that the principal may commit murder but without there being any need for intention to assist him to do so. It savours, as Professor Smith suggested, of constructive crime.”
+
+60.  The central proposition is therefore that it is unjust to base the culpability of a secondary party on anything other than an intention to assist or encourage the principal offender in the commission of the offence. Foresight is deemed unacceptable as a basis for liability and is to be regarded at most as evidence of the requisite intention.[73]  With respect, I do not agree. 
+
+61.  An assessment of the secondary party’s culpability is skewed by characterising it as merely the culpability of a person derivatively liable as an accessory and thus somehow less blameworthy than the principal offender.  It is on this premise that Chan Wing Siu is said to produce an “anomalous” rule setting a lower threshold for the accessory’s, as opposed to the principal’s, liability.  But even viewed solely in terms of the traditional accessorial liability principles, it is by no means clear that the accessory should necessarily be regarded as having a lesser culpability.  The person who procures commission of a murder by a contract killer is at least as culpable as the killer himself.  Citing Glanville Williams, Stephen J in Johns v The Queen[74] pointed out that Lady Macbeth was surely more blameworthy than was her husband. 
+
+62.  As the authorities cited above show,[75] the liability of a party to a joint criminal enterprise is not derivative but arises independently by virtue of his or her participation in the joint criminal enterprise.  So viewed, there is no a priori reason for regarding different mens rea requirements considered appropriate to different individuals’ participation in the joint enterprise as anomalous.
+
+63.  In basic (or “plain vanilla”) cases where the co-adventurers agree to carry out and then implement a planned crime, there can hardly be any doubt as to the culpability of all the participants, whichever one of them actually carried out the actus reus.  Their culpability is little different from that of joint principals.  Jogee’s holding that where the prosecution cannot prove whether a defendant was principal or accessory, it is “sufficient to be able to prove that he participated in the crime in one way or another” indicates acceptance of culpability in such cases.
+
+64.  In an extended joint criminal enterprise case, the wrongdoing of the participants “lies in the mutual embarkation on a crime with the awareness that the incidental crime may be committed in executing their agreement.”[76]  Such a person agrees to carry out a criminal venture with others, foreseeing that one or more of them might, in certain contingencies, commit some further, more serious offence – where that further offence is murder, that one of them might kill someone with intent to kill or to cause grievous bodily harm – and proceeds with the venture nonetheless.  The foresight required under this rule is not open-ended.  It is foresight of the commission of the actual further offence as a possible incident of the execution of their planned enterprise.  And it is foresight of a real possibility of the offence being committed and excludes a risk fleetingly foreseen and dismissed as negligible.[77] As the joint judgment in Miller emphasises:
+
+“It is to be appreciated that in the paradigm case of murder, the secondary party's foresight is not that in executing the agreed criminal enterprise a person may die or suffer grievous bodily harm – it is that in executing the agreed criminal enterprise a party to it may commit murder. And with that knowledge, the secondary party must continue to participate in the agreed criminal enterprise.”[78]
+
+65.  A party who is proved to have satisfied the aforesaid conditions deserves to be regarded as gravely culpable.  I find it impossible to regard liability so imposed as verging on the constructive. 
+
+66.  In Gillard v The Queen,[79]Gleeson CJ and Callinan J took the view that an offender who foresaw as a possibility that a co-adventurer would fire a loaded gun at the victim and continued to participate with that foresight, should be regarded as “intentionally assisting in the commission of culpable homicide”. 
+
+67.  Another way in which the secondary party’s culpability has persuasively been put has been to regard that person as tacitly agreeing to or “authorising” the crime by the actual perpetrator which he foresaw as a possible incident of a joint criminal enterprise.  Thus, in R v Anderson and Morris,[80] in an often-cited passage, Lord Parker CJ approved Mr Geoffrey Lane QC’s formulation of a legal principle setting the boundaries of the joint enterprise by reference to tacit agreement or authorisation:
+
+“... where two persons embark on a joint enterprise, each is liable for the acts done in pursuance of that joint enterprise, [and] that includes liability for unusual consequences if they arise from the execution of the agreed joint enterprise but (and this is the crux of the matter) ..., if one of the adventurers goes beyond what has been tacitly agreed as part of the common enterprise, his co-adventurer is not liable for the consequences of that unauthorised act. ... it is for the jury in every case to decide whether what was done was part of the joint enterprise, or went beyond it and was in fact an act unauthorised by that joint enterprise.”
+
+68.  It was in that sense that Sir Robin Cooke in Chan Wing Siu,[81] speaking of the “wider principle whereby a secondary party is criminally liable for acts by the primary offender of a type which the former foresees but does not necessarily intend”, stated that such principle :
+
+“... turns on contemplation or, putting the same idea in other words, authorisation, which may be express but is more usually implied. It meets the case of a crime foreseen as a possible incident of the common unlawful enterprise. The criminal culpability lies in participating in the venture with that foresight.”
+
+69.  In Miller v The Queen,Keane J pointed out that:
+
+“... each participant in a joint criminal enterprise is not merely an accessory to a crime committed by someone else. Where parties commit to a joint criminal enterprise, each participant becomes, by reason of that commitment, both the principal and the agent of the other participants: for the purposes of that enterprise they are partners in crime. Each participant also necessarily authorises those acts which he or she foresees as possible incidents of carrying out the enterprise in which he or she has agreed, and continues, to participate.”[82]
+
+70.  Culpability of the secondary party may therefore be seen to be based on implied authorisation of the actual perpetrator to act “as the instrument of the other participants to deal with the foreseen exigencies of carrying their enterprise into effect.”[83]
+
+F.   Abolition of the joint criminal enterprise doctrine
+
+71.  In my view, Jogee’s abolition of the joint criminal enterprise doctrine, confining secondary liability to cases where the prosecution can prove intentional assistance or encouragement to a principal offender, deprives the law of a valuable principle for dealing with dynamic situations involving evidential and situational uncertainties which traditional accessorial liability rules are ill-adapted to addressing.
+
+72.  The need for an extended joint criminal enterprise doctrine was recognized by Lord Steyn in R v Powell (Anthony):[84]
+
+“If the law required proof of the specific intention on the part of a secondary party, the utility of the accessory principle would be gravely undermined. It is just that a secondary party who foresees that the primary offender might kill with the intent sufficient for murder, and assists and encourages the primary offender in the criminal enterprise on this basis, should be guilty of murder. He ought to be criminally liable for harm which he foresaw and which in fact resulted from the crime he assisted and encouraged. But it would in practice almost invariably be impossible for a jury to say that the secondary party wanted death to be caused or that he regarded it as virtually certain. In the real world proof of an intention sufficient for murder would be well nigh impossible in the vast majority of joint enterprise cases.”[85]
+
+73.  As previously noted and as explained by Hobhouse LJ, in R v Stewart and Schofield,[86] the availability of differing verdicts of manslaughter and murder in respect of two co-adventurers who had engaged in the same violent attack is explicable on the basis of the joint criminal enterprise doctrine.  It is unclear how, after confining liability to traditional accessorial liability principles, Jogee accommodates such availability.  If each co-adventurer’s liability is only derivative and the principal offender is convicted of murder, it is hard to see the basis for secondary parties to be independently convicted of manslaughter.
+
+74.  Similarly, if Jogee is applied,flexibility based on the joint criminal enterprise doctrine is lost in cases like Sze Kwan Lung v HKSAR,[87] where the liability of each participant in the criminal venture is independently assessed so that a verdict of murder against a participant is available notwithstanding the actual killer’s acquittal or conviction of the lesser offence of manslaughter.
+
+G.   Jogee’s concept of “conditional intent”
+
+75.  In its “Restatement of the principles”,[88] the Jogee judgment introduces the concept of “conditional intent” in the following three paragraphs which ought to be set out in full:
+
+“92. In cases of secondary liability arising out of a prior joint criminal venture, it will also often be necessary to draw the jury's attention to the fact that the intention to assist, and indeed the intention that the crime should be committed, may be conditional. The bank robbers who attack the bank when one or more of them is armed no doubt hope that it will not be necessary to use the guns, but it may be a perfectly proper inference that all were intending that if they met resistance the weapons should be used with the intent to do grievous bodily harm at least. The group of young men which faces down a rival group may hope that the rivals will slink quietly away, but it may well be a perfectly proper inference that all were intending that if resistance were to be met, grievous bodily harm at least should be done.
+
+93. Juries frequently have to decide questions of intent (including conditional intent) by a process of inference from the facts and circumstances proved. The same applies when the question is whether D2, who joined with others in a venture to commit crime A, shared a common purpose or common intent (the two are the same) which included, if things came to it, the commission of crime B, the offence or type of offence with which he is charged, and which was physically committed by D1. A time honoured way of inviting a jury to consider such a question is to ask the jury whether they are sure that D1's act was within the scope of the joint venture, that is, whether D2 expressly or tacitly agreed to a plan which included D1 going as far as he did, and committing crime B, if the occasion arose.
+
+94. If the jury is satisfied that there was an agreed common purpose to commit crime A, and if it is satisfied also that D2 must have foreseen that, in the course of committing crime A, D1 might well commit crime B, it may in appropriate cases be justified in drawing the conclusion that D2 had the necessary conditional intent that crime B should be committed, if the occasion arose; or in other words that it was within the scope of the plan to which D2 gave his assent and intentional support. But that will be a question of fact for the jury in all the circumstances.”
+
+76.  These paragraphs have no doubt introduced the concept of conditional intent in order to deal with situational uncertainties. However, they have done so in a highly problematical way.  In the first place, given that it is central to Jogee that the doctrine of joint criminal enterprise is abolished in favour of traditional accessorial liability, it is strikingly odd that the three paragraphs explain the conditional intent concept in the context of joint criminal enterprise (referring to acts pursuant to “prior joint criminal ventures”, “common purpose” and “common intent”) and give no indication of how the concept is meant to fit in with the actus reus and mens rea of traditional accessorial offences. 
+
+77.  Secondly, the treatment of conditional intent in the three paragraphs leaves one wondering whether there is any practical difference between that concept and the principle of assigning liability on the basis of foresight of the possible commission of an offence in an extended joint criminal enterprise situation.  Thus, paragraph 92 refers to a “prior joint criminal venture” in the pursuit of which it might prove necessary “if resistance were to be met” to do grievous bodily harm.  Paragraph 93 discusses “a common purpose or common intent” and how the “scope of the joint venture” (that is, “whether D2 expressly or tacitly agreed to a plan which included D1 going as far as he did, and committing crime B, if the occasion arose”) determines whether a co-adventurer is to be treated as complicit.  Paragraph 94, explicitly conditions liability on the jury being satisfied “that there was an agreed common purpose to commit crime A” and “that D2 must have foreseen that, in the course of committing crime A, D1 might well commit crime B”[89] as justifying an inference that “D2 had the necessary conditional intent that crime B should be committed, if the occasion arose”, adding “in other words that it was within the scope of the plan to which D2 gave his assent and intentional support”.  Secondary liability is therefore not here dependent on proof of intentional acts of aiding, abetting, counselling or procuring but rather on participation in a joint criminal enterprise envisaging commission of a further offence, crime B, in certain contingencies.
+
+78.  The only suggested difference between conditional intent so explained and the foresight principle in the extended joint criminal enterprise doctrine appears to involve Jogee’s proposition that foresight is only evidence upon which intention, including conditional intent, may be inferred.  That gives rise to a third difficulty.  Foresight and conditional intent are both mental states and can only be found to exist by drawing inferences from the conduct of the participant in question.  The jury have the task of deciding whether the relevant inference can be drawn beyond reasonable doubt, or, as it is usually put, whether the inference is irresistible.[90] If the jury were to decide that the irresistible inference is that the defendant foresaw that one of their number might, if necessary, commit the further offence B, that would be the inferential conclusion reached.  It would not be “evidence” upon which a further inference as to the existence of conditional intent might be drawn.  The proposition that a finding of foresight is only evidence of conditional intent is therefore difficult to follow.
+
+79.  It is possible that the proposition intended by Jogee is not that one should try to lay one inference on top of another, but that liability can only be established under Jogee if the irresistible inference to be drawn is that the participant harboured a conditional intent and not just foresight of the possible commission of crime B.  On this reading, proof of full blown intention is required, albeit conditional on the happening of a certain contingency.  In this sense, intention may be taken to involve a person acting with foresight of a particular consequence, desiring to cause it[91] or foreseeing that consequence as a virtually certain result of his act even though it is not the purpose of his act.[92]  This gives rise to a fourth difficulty.  On this understanding of “conditional intent”, the prosecution would be required to prove beyond reasonable doubt that the participant not only foresaw the possible commission of the further offence in the course of the joint enterprise but intended, that is, desired or believed as a virtual certainty, that it should contingently occur.  This would impose an unjustifiably high burden on the prosecution and inappropriately exculpate participants who commit themselves to a joint criminal enterprise fully foreseeing – but not desiring or viewing as virtually certain – the commission of the further offence as an incident of the joint criminal venture.  Such situations are not at all uncommon and prompted Sir Robin Cooke to adopt his “wider principle” assigning liability to a secondary party “for acts by the primary offender of a type which the former foresees but does not necessarily intend.”  And, as we have seen, Lord Steyn in R v Powell (Anthony)[93] thought it well nigh impossible for the prosecution to discharge such a burden.
+
+80.  Two post-Jogee decisions in the English Court of Appeal indicate that some of the abovementioned difficulties regarding the conditional intent concept have been encountered in practice.
+
+81.  In R v Anwar,[94] the prosecution’s case was that all six defendants were party to a conspiracy to rob the victim (Mr Samma) “and that the agreement, in which all participated, was accompanied by a decision that a loaded firearm would be carried to the scene of the planned robbery, the shared intention being that the gun would be used specifically to kill Mr Samma ‘if the need arose, eg if the victim put up any resistance’”. 
+
+82.  The trial judge, who was guided by paragraph 94 of Jogee, evidently reading itas laying down a highly demandingrequirement as to intention, accepted the defence submission that:
+
+“... in order to achieve a conviction, the prosecution would have to produce sufficient evidence to make the jury sure that, at the time the conspiracy to commit robbery was hatched, a defendant knew that – as part of the plan – a firearm loaded with live rounds, was to be carried to the scene of the intended robbery and, further, that the defendant (again, at the time he joined in the agreement to rob) intended that the firearm should be used to kill [Mr Samma] if he resisted the robbers.”[95]
+
+83.  His Honour accepted that Jogee required “that a distinction had to be drawn between conditional intent and foresight of the consequences” and consequently held that:
+
+“... the Crown’s case required not only proof of awareness that an accomplice carried a loaded firearm and that this might be used to kill during the robbery but also that the gunman shot Mr Samma with the requisite intention for attempted murder and the particular accomplice then being considered intentionally assisted or encouraged the gunman, intending him to use the gun to kill the victim if the need arose.”[96]
+
+84.  On that basis, the trial judge ruled that there was no case to answer because crucially, there was no evidence to establish a prima facie case of “any particular defendant being aware, by the time of travelling to the scene that the shotgun was loaded, or that he was intending that it should be used if necessary specifically to kill.”[97]  The trial was stayed while the prosecution appealed the ruling of no case to answer.
+
+85.  Sir Brian Leveson, giving the judgment of the Court of Appeal, appears to have understood Jogee to have laid down the law in a manner differing little in this context from pre-existing law:
+
+“... we find it difficult to foresee circumstances in which there might have been a case to answer under the law before Jogee but, because of the way in which the law is now articulated, there no longer is.”[98]
+
+86.  Citing paragraph 94 of Jogee and resorting expressly to the doctrine of joint criminal enterprise[99] his Lordship reversed the trial judge’s ruling of no case to answer.  His reasoning is illustrated by what he said in respect of one group of the defendants who were in an Astra motor car:
+
+“If the jury were to draw the inference that the planning for the robbery included agreement as to the means to threaten the victim and the willingness to use the weapon if occasion for its use occurred, then the acts of the man in possession of the firearm were acts in pursuance of the joint enterprise that there is prima facie evidence each defendant was party to. In that context, as Judge Pontius observed (and has not been disputed before us), there was undeniably a case to answer in respect of the men in the Astra, one of whom had the gun.”[100]
+
+87.  In R v Johnson and Others,[101] it fell to the English Court of Appeal to review a series of convictions mainly for murder in respect of which leave to appeal out of time was sought in the light of Jogee.  Again, so far as the mental element was concerned, little practical difference appears to have been made between conditional intent in Jogee and the foresight requirement under Chan Wing Siu.  In their joint judgment, Lord Thomas of Cwmgiedd, CJ, Sir Brian Leveson PQBD and Hallett LJ, V-P stated:
+
+“... by focussing on intention (or conditional intention, that is to say, in circumstances in which D2 expressly or tacitly agreed to a plan to commit crime A which included a common purpose or common intent, if it came to it, to commit crime B), the knowledge of a weapon (being a critical ingredient of parasitic accessory liability under Chan Wing-Siu v The Queen and R v Powell, R v English) remains highly material in relation to the inference of intention.”[102]
+
+88.  None of the cases under review was re-opened by virtue of the decision in Jogee and in two of those cases, the applications were refused applying joint criminal enterprise principles difficult to distinguish from those applicable under Chan Wing Siu. 
+
+89.  Thus, in R v Burton and Terrelonge,[103] the Court of Appeal noted that “...the jury convicted both Terrelonge and Burton of being party to a common criminal purpose to attack the deceased, knowing one of their number had a knife, and knowing that the knife might be used with the relevant intention.”[104] It dismissed the application holding:
+
+“The judge's directions may not have been in accordance with Jogee but, on the jury's findings, this court can safely draw the conclusion that the applicants had the necessary conditional intent (at the very least) that the knife would be used with intent to kill or cause grievous bodily harm should the occasion arise. In other words, the use of the knife with intent to kill or cause grievous bodily harm was within the scope of the plan to which they gave their assent and intentional support (see paragraph 94 of Jogee). Indeed, the prosecution case could be said to be stronger post-Jogee: knowledge of the precise weapon is no longer required but, if proved, may lead to an inference of intention. Here, the verdicts make it clear that there was a joint enterprise to cause grievous bodily harm.”[105]
+
+90.  The joint judgment concluded:
+
+“... in our judgment, a post Jogee direction would not have made a difference to the jury's verdicts; the convictions were and are safe.”[106]
+
+91.  R v Hall,[107] involved an escalating alcohol-fuelled brawl that ended in the killing of the victim who was attacked by assailants kicking him and using a knuckle duster and other weapons.  It was accepted that the conviction could not be challenged on the basis of the law as it stood at the time of the conviction.[108]  It was not the prosecution case that Hall was armed or that he was one of those who kicked the deceased on the ground.  However, after citing paragraph 94 of Jogee, the English Court of Appeal dismissed the application on the basis of Hall’s foresight of the murder being committed, holding that this satisfied the requirement of conditional intent:
+
+“The jury must by their verdict have concluded that he foresaw that Holmes would attack the third member of the group, the deceased, with intent to cause really serious bodily injury. In the circumstances it would have been open to them to infer that he had the necessary conditional intent now required.”[109]
+
+92.  It follows that the present indications are that the concept of conditional intent introduced by Jogee is being interpreted by the English Court of Appeal within a joint criminal enterprise framework as operating in much the same way as the foresight requirement in Chan Wing Siu, prompting questions as to the true extent of the changes effected by the UK Supreme Court’s decision.
+
+93.  If one ignores the apparent drift back to joint criminal enterprise suggested by the three paragraphs and the Court of Appeal decisions cited above and assumes that Jogee’s conditional intent concept is intended to operate solely in relation to traditional accessorial liability, problems remain.  Prof A P Simester[110] convincingly argues that in the context of traditional accessorial liability, Jogee “mishandles” conditional intent since it erroneously attributes conditionality to the accessory’s mental state when the only intent which might be conditional is not that of the accessory but of the principal offender.  One might add that since the accessory’s liability is derivative and since there must be proof that he intended to assist or encourage the commission of the principal offence, this requirement cannot be met so long as the principal offender’s intent is merely conditional and contingent.
+
+94.  As is to be expected, the reactions of eminent academics to Jogee’s departure from Chan Wing Siu and the cases following that decision are mixed.  A number of articles cited to the Court favour Jogee’s approach which is seen to be more consonant with the common law’s historical treatment of accessorial liability, criticising Chan Wing Siu for over-criminalising participants in joint criminal enterprises.[111] Other articles approve of the approach based on Chan Wing Siu also on historical, doctrinal and policy grounds.[112]  It will be apparent that my views are allied to those in the latter group.
+
+95.  It may be noted that David Ormerod QC and Karl Laird express the view that: “What is doubtful ... is the extent to which the Supreme Court has conclusively resolved the problems that bedevilled this area of the law”.[113] They proceed to identify “a number of key questions [which] require urgent attention”, referring particularly to uncertainties regarding the concepts of intention and foresight and difficulties associated with those concepts likely to be faced by judges directing juries.
+
+96.  Professor Simester highlights the gap in the law resulting from abolition of joint enterprise liability:
+
+“In principle, having two distinct channels of complicity liability affords the law greater flexibility and moral sensitivity when determining whether S [the secondary party] is a participant in P’s [the perpetrator’s] crime. Direct aiding/abetting doctrines are simply too blunt by themselves to capture, without substantial over- or under-inclusion, all forms of association with P’s crime that warrant a finding of guilt alongside P.”[114]
+
+Having noted Lord Steyn’s recognition of the need for a joint criminal enterprise doctrine to deal with dynamic contingencies,[115] the learned author argues that:
+
+“The Court in Jogee overestimates the capacity of aiding/abetting law to accommodate such difficulties. Joint criminal enterprises are a distinct moral phenomenon. Indeed, only by recognising that can we adequately protect the law of aiding and abetting. Absent legislative reform, the inadequacy of traditional aiding/abetting doctrine to deal with the complexity of multi-party wrongdoing will inevitably generate pressure, either to restore joint criminal enterprise liability or – disastrously – to water down the mens rea requirements of aiding and abetting itself.”[116]
+
+H.    Disposition of the present appeal
+
+97.  The Appeal Committee granted leave to appeal certifying the following question of law:
+
+“What is the law of Hong Kong regarding the doctrine of joint enterprise, namely should Chan Wing Siu v R [1985] 1 AC 168 and Sze Kwan Lung v HKSAR (2004) 7 HKCFAR 475 continue to be applied in the light of R v Jogee and R v Ruddock [2016] 2 WLR 681?”
+
+98.  I would answer it as follows:  Jogee should not be adopted in this jurisdiction.  The joint criminal enterprise doctrine based on Chan Wing Siu and the cases following it, endorsed by this Court in Sze Kwan Lung,continues to apply in Hong Kong, operating alongside the traditional accessorial liability principles.
+
+99.  Leave to appeal was granted because it was appropriate that the aforesaid question should be addressed for the guidance of our criminal courts. 
+
+100.  However, the appellant’s appeal must, on any view, be dismissed.  The principles of accessorial and joint criminal enterprise liability provide overlapping bases for establishing his guilt. Obeying orders from his triad boss, he and his fellows armed themselves with lethal weapons with the intention of “chopping” – that is, at least inflicting grievous bodily harm on – their rivals.  It was a basic joint criminal enterprise case and it mattered not that other members of the gang were the actual perpetrators of the fatal attack.  By arming himself and participating in the predatory hunt for victims, he also acted as an accessory, encouraging the other members of the gang, including the eventual perpetrators, to commit the intended offence, giving them “the comfort and spur of knowing that [they were] not on [their] own, but had the support of the [appellant] and the reasonable expectation that [he and other members of the gang] would come to his aid if he needed it.”[117]
+
+101.  I would accordingly dismiss the appeal.
+
+ 
+
+Mr Justice Tang PJ:
+
+102.  I agree with the judgment of Mr Justice Ribeiro PJ. 
+
+ 
+
+Mr Justice Fok PJ:
+
+103.  I agree with the judgment of Mr Justice Ribeiro PJ. 
+
+ 
+
+Lord Hoffmann NPJ:
+
+104.  I agree with the judgment of Mr Justice Ribeiro PJ. 
+
+ 
+
+Chief Justice Ma:
+
+105.  The Court unanimously dismisses the appeal.
+
+  
+
+ 
+
+(Geoffrey Ma)
+Chief Justice	(R A V Ribeiro)
+Permanent Judge	(Robert Tang)
+Permanent Judge
+  
+
+  
+
+(Joseph Fok)
+Permanent Judge	(Lord Hoffmann)
+Non-Permanent Judge
+ 
+
+Ms Felicity Gerry QC, Ms Margaret Ng and Mr Leonard Chow, instructed by Cheung, Chan & Chung, assigned by Director of Legal Aid, for the Appellant
+
+Mr Gerard McCoy SC and Mr Simon N.M. Young, on fiat, and Mr Raymond Cheng  ADPP (Ag.), of the Department of Justice, for the Respondent
+
+
+[1] [1985] 1 AC 168.
+
+[2] (2004) 7 HKCFAR 475.
+
+[3] [2016] 2 WLR 681.
+
+[4] Miller v The Queen; Presley v The Director of Public Prosecutions [2016] HCA 30.
+
+[5] HCCC 365/2013 (17 June 2014).  He was also convicted of acting as a member of a triad society.
+
+[6] Court of Appeal, Lunn VP, Macrae JA and Barnes J, CACC 231/2014 (30 June 2015) at §19.
+
+[7] Per Lunn VP, giving the judgment of the Court of Appeal at §83.  This reflected the prosecution case: Court of Appeal at §§31 and 63-64.
+
+[8] Court of Appeal at §84.
+
+[9] Cap 221.  It was originally enacted to duplicate section 8 of the Accessories and Abettors Act 1861 which provides: "Whosoever shall aid, abet, counsel or procure the commission of any misdemeanor, whether the same be a misdemeanor at common law or by virtue of any Act passed or to be passed, shall be liable to be tried, indicted and punished as a principal offender."  That section is generally held to be purely procedural and while section 89 appears to address substantive liability, it has not been regarded as adding anything to the established common law principles.
+
+[10] Ferguson v Weaving [1951] 1 KB 814 at 818-819; R v Stringer [2012] QB 160 at §43.
+
+[11] R v Coney (1881-82) LR 8 QBD 534; R v Stringer [2012] QB 160 at §43.
+
+[12] R v Coney (1881-82) LR 8 QBD 534 at 546; Maxwell v DPP for NI [1978] 1 WLR 1350 at 1359.  But it is of course unnecessary for the aider and abbettor to know that such conduct contravenes the law, ignorance of the law being no defence: Johnson v Youden [1950] 1 KB 544 at 546.
+
+[13] Ferguson v Weaving [1951] 1 KB 814. 
+
+[14] A-G’s Reference (No 1 of 1975) [1975] QB 773 at 779.
+
+[15] Osland v The Queen (1998) 197 CLR 316 at §71 and §207.
+
+[16] [1960] 1 QB 129.
+
+[17] [1978] 1 WLR 1350.
+
+[18] At 1362.
+
+[19] [1999] 1 AC 1 at 16.
+
+[20] [1992] 1 AC 34 at 44.
+
+[21] Eg, in R v Hyde [1991] 1 QB 134 at 136; R v Rahman [2009] 1 AC 129 at §4; Clayton v The Queen (2006) 81 ALJR 439 at §11; and Miller v The Queen [2016] HCA 30 at §35.
+
+[22] [1955] 2 QB 497 at 503.
+
+[23] D Ormerod QC and K Laird, Smith and Hogan’s Criminal Law (OUP, 14th Ed) (“Smith & Hogan”), p 206.
+
+[24] R v Jogee; Ruddock v The Queen [2016] 2 WLR 681 at §88.
+
+[25] (1846) 2 Car & K 230.
+
+[26] [1907] 1 KB 40 at 45-46.
+
+[27] [1988] Crim L R 677.
+
+[28] [2003] UKPC 10.  See Section C.1 below.
+
+[29] (1980) 143 CLR 108 at 118.
+
+[30] [1999] 1 AC 1 at 14.
+
+[31] [1985] 1 AC 168 at 175.
+
+[32] (1995) 183 CLR 108 at 114, per Brennan CJ, Deane, Dawson, Toohey and Gummow JJ.
+
+[33] Simester, “The Mental Element in Complicity” (2006) 122 LQR 578 at 596-599.
+
+[34] (2006) 81 ALJR 439 at §20, per Gleeson CJ, Gummow, Hayne, Callinan, Heydon and Crennan JJ (with Kirby J dissenting).
+
+[35] [1995] 1 Cr App R 441 at 447.
+
+[36] (2004) 7 HKCFAR 475.
+
+[37] At §19.
+
+[38] At §34, citing among other cases, Chan Wing Siu [1985] 1 AC 168at 175 and 177.
+
+[39] Eg, Hughes LJ asserted in A, B, C & D v The Queen [2010] EWCA Crim 1622 at §37 that joint criminal enterprise involves a derivative liability.
+
+[40] Smith & Hogan at p 260.
+
+[41] [2016] HCA 30 at §4.
+
+[42] [2003] UKPC 10.
+
+[43] (1846) 2 Car & K 230.
+
+[44] At §§8 and 13.
+
+[45] At §14.
+
+[46] [1967] 2 AC 187 at 194.
+
+[47] (2006) 81 ALJR 439 at §20.
+
+[48] As noted in the Miller joint judgment ([2016] HCA 30 at §5), Professor J C Smith has pointed out that the doctrine is no recent innovation and that “[the] rule imposing liability for offences committed in the course of committing the offence assisted or encouraged seems to be almost as old as the law of aiding and abetting itself.” (J C Smith, “Criminal liability of accessories: law and law reform” [1997] LQR 453 at 456) There were however differences in detail from the modern doctrine, for instance, in requiring the further felony to be “a probable consequence” of what the accessory had counselled or procured.  A detailed historical analysis is contained in Findlay Stark, “The Demise of ‘Parasitic Accessorial Liability’: Substantive Judicial Law Reform, Not Common Law Housekeeping” [2016] 75(3) CLJ 550; cf Dr Matthew Dyson, “Bases and Baselessness in Secondary Liability” University of Cambridge Faculty of Law Research paper 31/2015.
+
+[49] (1980) 143 CLR 108 at 118.
+
+[50] Johns at 119.
+
+[51] Johns at 125.
+
+[52] Johns at 130-131.
+
+[53] Johns at 131.  Johns proved influential in New Zealand even where the position is regulated by statute, section 66(2) of the Crimes Act 1961 making a participant liable “if the commission of that offence was known to be a probable consequence of the prosecution of the common purpose”. Acknowledging Johns,the Court of Appeal in R v Gush [1980] 2 NZLR 92 at 94-96 held that the word ‘probable’ was not used with the meaning ‘more probable than not’ but to mean “an event that could well happen”.
+
+[54] [1985] 1 AC 168.
+
+[55] Chan Wing Siu at 174-175.
+
+[56] Chan Wing Siu at 175.
+
+[57] Ibid.
+
+[58] Ibid.
+
+[59] R v Anderson and Morris [1966] 2 QB 110; Johns v The Queen (1980) 143 CLR 108; Miller v The Queen (1980) 32 ALR 321; R v Gush [1980] 2 NZLR 92; Davies v DPP [1954] AC 378.
+
+[60] Chan Wing Siu at 177.
+
+[61] Chan Wing Siu at 178.
+
+[62] Chan Wing Siu at 179.
+
+[63] Hui Chin-ming v The Queen [1992] 1 AC 34, Sze Kwan Lung v HKSAR (2004) 7 HKCFAR 475; HKSAR v Chu Yiu Keung Hartmann JA, Lunn and Barnes JJ, CACC 27/2009 (20 January 2011).
+
+[64] Eg, R v Ward (1987) 85 Cr App R 71; R v Slack [1989] QB 775; R v Hyde [1991] 1 QB 134; R v Powell (Anthony) [1999] 1 AC 1 (HL); R v Rook [1993] 1 WLR 1005; R v Rahman [2009] 1 AC 129.
+
+[65] McAuliffe v The Queen (1995) 183 CLR 108; Osland v The Queen (1998) 197 CLR 316; Gillard v The Queen (2003) 219 CLR 1; Clayton v The Queen (2006) 81 ALJR 439.
+
+[66] [1999] 1 AC 1 at 27.
+
+[67] Powell at 30.
+
+[68] Powell at 30-31.
+
+[69] Jogee at §79.
+
+[70] Jogee at §88.
+
+[71] Miller v The Queen; Presley v The Director of Public Prosecutions [2016] HCA 30.
+
+[72] Jogee at §83.
+
+[73] See also Jogee at §66. 
+
+[74] (1980) 143 CLR 108 at 117.
+
+[75] Section C.1 above.
+
+[76] Miller at §34, citing Clayton v The Queen at §20.
+
+[77] Although not a point arising in the present case, the doctrine is also tempered by rules recognizing that a participant may avoid liability by withdrawing from the joint enterprise: HKSAR v Chu Yiu Keung, Hartmann JA, Lunn and Barnes JJ, CACC 27/2009 (20 January 2011) at §§115-119 citing R v Becerra and Cooper (1976) 62 Cr App R 212 at 218; R v Whitehouse (1941) 1 WWR 112; and R v O’Flaherty [2004] 2 Cr App R 315 at 327.
+
+[78] Miller at §45.
+
+[79] (2003) 219 CLR 1 at §25.
+
+[80] [1966] 2 QB 110 at 118-119.
+
+[81] Chan Wing Siu at 175, citing R v Anderson and Morris at 175-176.
+
+[82] Miller at §139.
+
+[83] Miller at §138.
+
+[84] [1999] 1 AC 1.
+
+[85] Powell at 14.
+
+[86] [1995] 1 Cr App R 441 at 447, see Section C above.
+
+[87] (2004) 7 HKCFAR 475.
+
+[88] Jogee at§§88 et seq.
+
+[89] Italics supplied.
+
+[90] Winnie Lo v HKSAR (2012) 15 HKCFAR 16 at §§115-117.
+
+[91] Glanville Williams, Criminal Law, The General Part (Stevens, 2nd Ed, 1961), pp 34-36; Smith & Hogan p 117. 
+
+[92] Glanville Williams, op cit 1961, pp 38-42; Smith & Hogan p 117.
+
+[93] [1999] 1 AC 1 at 14.
+
+[94] [2016] EWCA Crim 551 at §9.
+
+[95] At §11.
+
+[96] At §12.
+
+[97] At §16.
+
+[98] At §20.
+
+[99] At §21.
+
+[100] At §25.
+
+[101] [2016] EWCA Crim 1613.
+
+[102] At §5.
+
+[103] At §59 et seq.
+
+[104] At §81.
+
+[105] At §82.
+
+[106] At §83.
+
+[107] At §161 et seq.
+
+[108] At §182.
+
+[109] At §189.
+
+[110] “Accessory Liability and Common Unlawful Purposes” (2017) 133 LQR 73 at 84-86 (Pre-publication proofs having helpfully been provided to the Court).
+
+[111] These include: Cheung Eric TM, The Dichotomy Between Foresight and Intention in Joint Enterprise Murder: Should our Top Court Depart from Chan Wing Siu and Sze Kwan Lung? Centre for Comparative and Public Law Occasional Paper No. 28, Faculty of Law, The University of Hong Kong, October 2016; Dyson M, Bases and Baselessness in Secondary Liability, University of Cambridge Faculty of Law Research Paper 31/2015 (submitted to the Supreme Court in Jogee); Dyson M, Might Alone Does Not Make right: Justifying Secondary Liability [2015] Crim LR 967; and McNamara L, A Judicial Contribution to Over-criminalisation? Extended Joint Criminal Enterprise Liability for Murder (2014) 38 Crim LJ 104.
+
+[112] These include the Law Commission, Participating in Crime (LAW COM No 305), London UK, May 2007, pp.87-89; D Ormerod QC & K Laird , Jogee: not the end of a legal saga but the start of one? [2016] Crim LR 539; Stark F, The demise of ‘parasitic accessorial liability’: substantive judicial law reform, not common law housekeeping (2016) 75(3) Cambridge LJ 550; and A P Simester, “Accessory Liability and Common Unlawful Purposes” (2017) 133 LQR 73 at 84-86.
+
+[113] [2016] Crim LR 539.
+
+[114] (2017) 133 LQR 73 at 89.
+
+[115] R v Powell (Anthony) [1999] 1 AC 1 at 14.
+
+[116] (2017) 133 LQR 73 at 89-90.  Professor Simester ends by hoping that “London opts for the former, and ultimately realigns itself with Canberra”.
+
+[117] R v Stringer [2012] QB 160 at §55.
+
+ 

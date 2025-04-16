@@ -1,0 +1,365 @@
+CTEA 1/2017
+
+[2020] HKCT 11
+
+IN THE COMPETITION TRIBUNAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+COMPETITION TRIBUNAL ENFORCEMENT ACTION NO 1 OF 2017
+
+____________
+
+BETWEEN	 	 
+ 	COMPETITION COMMISSION	Applicant
+and
+
+ 	NUTANIX HONG KONG LIMITED	1st Respondent
+ 	BT HONG KONG LIMITED	2nd Respondent
+ 	SIS INTERNATIONAL LIMITED	3rd Respondent
+ 	INNOVIX DISTRIBUTION LIMITED	4th Respondent
+ 	(trading as “INNOVIX DISTRIBUTION”)	 
+ 	TECH‑21 SYSTEMS LIMITED	5th Respondent
+____________
+
+Before:	Hon G Lam J, President of the Competition Tribunal in Court
+Dates of Written Submissions:	1 and 8 December 2020
+Date of Judgment:	16 December 2020
+_________________
+
+J U D G M E N T
+
+_________________
+
+Introduction
+
+1.  On 17 May 2019, this Tribunal issued its judgment in this enforcement action finding that the 1st, 2nd, 4th and 5th respondents (ie Nutanix, BT, Innovix and Tech‑21 respectively) had contravened the first conduct rule[1] in the Competition Ordinance (Cap 619) (“Ordinance”) and are liable to have orders made against them accordingly (“Main Judgment”).[2]  The abbreviations used in the Main Judgment will continue to be used in this judgment, which deals with the consequential orders to be made against those four respondents.
+
+2.  In summary, it was found by the Tribunal in the Main Judgment that:
+
+(1)     In July 2016, in connection with YWCA’s tender for the supply and installation of a Nutanix hyper‑converged server system, BT and Nutanix, knowing that YWCA required a minimum of five bids and that the previous tender had failed because there was only one bid from BT, agreed that Nutanix would obtain from friendly channel partners (namely, SiS, Innovix, Tech‑21 and iCON) four “dummy bids”, which were not intended to win, would have such low chance of winning that they would ensure that BT win, and were to be submitted solely for the purpose of making up the numbers.
+
+(2)     BT provided confidential information, including BT’s own bid prices, to Nutanix, and asked Nutanix to ensure that the friends’ bid prices or their cost would be marked up by 30%.  Nutanix then prepared the friends’ bids, inserting bid prices ranging from 16.7% to 44.6% higher than BT’s.
+
+(3)     Pursuant to the agreement with BT, and with BT’s knowledge, Nutanix approached Innovix to obtain a dummy bid.  Innovix, knowing that BT was entering a bid and that it was being asked to help BT win, agreed to help and submitted a bid prepared by Nutanix.  Nutanix, BT and Innovix all knew that Innovix’s bid was not intended or expected to win and was being submitted solely to help BT win.
+
+(4)     Pursuant to the agreement with BT, Nutanix approached Tech‑21 for help in submitting a dummy bid.  Tech‑21 knew that the bid documents had been prepared by Nutanix without reference to Tech‑21.  It agreed to submit the bid without any intention or expectation to win, knowing that the bid was submitted solely because of Nutanix’s request and as a favour.
+
+(5)     All of Nutanix, BT, Innovix and Tech‑21 intended that YWCA would take the respective dummy bids to be genuine bids.
+
+(6)     Although a bid was also submitted in the name of SiS in similar circumstances, the enforcement action as against SiS and as against Nutanix in relation to the alleged agreement with SiS was dismissed, on the ground that the conduct of SiS’s employee in question was not attributable to SiS.
+
+Procedure
+
+3.  In the time that has elapsed since the Main Judgment, this Tribunal has laid down in Competition Commission v W Hing Construction Co Ltd & others [2020] HKCT 1 the proper approach to the determination of pecuniary penalties under section 93 of the Ordinance.  On the basis of that decision, the Commission, Nutanix, BT and Innovix have commendably entered into discussions that have eventually proved fruitful.  A consent summons has recently been signed between the Commission and each of Nutanix, BT and Innovix, attaching the terms of the respective order that the Tribunal is invited to make based on the Main Judgment and a Statement of Agreed Facts in each case containing the agreed facts material to the question of penalty.  Extracts from the respective Statements of Agreed Facts are appended to this judgment.  The consent summonses cover the proposed declarations, orders for pecuniary penalties, and orders for costs.
+
+4.  A similar consensual approach, modelled on that used regularly in proceedings brought in the Court of First Instance for orders for the disqualification of company directors, was first adopted in this Tribunal by Harris J in Competition Commission v Kam Kwong Engineering Co Ltd & others [2020] HKCT 3, in relation to liability and declaration of contravention of the first conduct rule.  The procedure, which I shall refer to as the “Kam Kwong procedure”, has since then also been applied by Au‑Yeung J, Deputy President of the Tribunal, in Competition Commission v Fungs E&M Engineering Co Ltd & others [2020] HKCT 8 in relation to liability and declaration of contravention, and by Linda Chan J in Competition Commission v Quantr Ltd & another [2020] HKCT 10 in relation to liability, declaration of contravention as well as pecuniary penalties.
+
+5.  In the present case, I consider it appropriate to make the orders the Commission and Nutanix, BT and Innovix have agreed, which are described below along with the Commission’s explanation of the basis on which the proposed pecuniary penalties have been arrived at.  The declarations in question follow the findings made by this Tribunal after trial as set out in the Main Judgment.  The power to impose a pecuniary penalty is derived from section 93(1), under which the Tribunal “may” order a pecuniary penalty in “any amount it considers appropriate”, subject to the statutory cap in section 93(4).  Under section 93(2) the Tribunal “must” have regard to the matters set out in subsection (2)(a)‑(d) when determining the amount of the pecuniary penalty.  The parties’ consent does not remove the need for the Tribunal to be satisfied that the penalty agreed is appropriate having regard to the circumstances of the case including the specified matters.  But a relevant principle arising from the public interest in facilitating non-litigious resolution of enforcement proceedings, referred to by Harris J in Kam Kwong[3] and Linda Chan J in Quantr,[4] is that once the Tribunal is satisfied that it has the power to make the orders proposed and that the orders are appropriate, it should exercise “a degree of restraint” when scrutinizing the proposed settlement terms, particularly when both parties are legally represented and are able to evaluate the desirability of the settlement.[5]
+
+6.  Applying that approach, the Tribunal will assess if the amount of the agreed penalty is “appropriate” having regard to the circumstances of the case and in particular the matters specified in section 93(2)(a)‑(d).  But where it is within a proper range and does not appear to the Tribunal to be manifestly excessive or inadequate, or otherwise contrary to public interest, the Tribunal would be unlikely to depart from it, and should not in my view do so merely because the Tribunal might itself have been disposed to select some other figure.[6]
+
+7.  Tech‑21 stands in a different position.  It has ceased to be legally represented since September 2019.  It has produced certain financial documents to the Commission pursuant to the Tribunal’s order dated 27 May 2020, but has not lodged any further evidence or submissions in connection with the consequential orders to be made.  By email of one of its directors on 9 November 2020, it informed the Commission that it would not attend the hearing and had nothing to say to the Tribunal in submissions, except that it should not have to pay the costs of that hearing. The Tribunal has accordingly proceeded with the determination in the absence of any submissions from Tech‑21.
+
+8.  In view of the parties’ positions and public health considerations during the pandemic, the hearing originally fixed on 14 December 2020 was vacated.  The outstanding matters are dealt with based on the written materials.
+
+Confidentiality
+
+9.  As can be seen from W Hing Construction, the methodology for determining the pecuniary penalty for a particular respondent requires input from its financial information, including the Value of Sales and total annual turnover.  There was no claim for confidential treatment in that case.  In the present case, however, the Tribunal is satisfied that there is a need to preserve confidentiality, not only between the respondents who are actual or potential competitors but also as against other resellers of Nutanix products and also as against suppliers and resellers of competing products.  In the public version of this judgment, therefore, confidential financial information such as the Value of Sales and turnovers of the respondents, as well as certain percentages from which such financial information may be worked out, will be redacted.
+
+Declaration
+
+10.  Based on the findings in the Main Judgment, there will be a declaration that Nutanix, BT, Innovix and Tech‑21 have each contravened the first conduct rule under section 6 of the Ordinance.
+
+Pecuniary penalty
+
+11.  As set out in W Hing Construction at §46, the determination of pecuniary penalty involves four main steps: (1) determining the Base Amount; (2) making adjustments for aggravating, mitigating and other factors; (3) applying the statutory cap; and (4) applying cooperation reduction and considering plea of inability to pay, if any.
+
+12.  The Base Amount is the Value of Sales multiplied by the Gravity Percentage multiplied by the Duration Multiplier.  It reflects one of the mandatory considerations in section 93(2) of the Ordinance, ie the nature and extent of the conduct which constitutes the contravention.  The Value of Sales is the value of the undertaking’s sales directly or indirectly related to the contravention in Hong Kong in the financial year in question.  The Gravity Percentage is a percentage to reflect the gravity of the conduct in question. For serious anti‑competitive conduct, the range of 15% to 30% is appropriate. The Duration Multiplier reflects the number of years of the undertaking’s participation in the contravention.
+
+13.  Step 2 is a broad process that involves consideration of the surrounding circumstances that may have a bearing on the proper penalty, including the circumstances in which the conduct took place, the loss or damage, if any, caused by the conduct, and whether the person in question has previously been found to have contravened the Ordinance (ie the matters specified in section 93(2)(b)‑(d)).  Proportionality is relevant throughout the process of assessment but should in particular be considered at this stage to give an overall sense check.  It is important to stand back and look to see whether, subject to the subsequent steps, the amount arrived at would be a just and proportionate penalty for the contravention by the undertaking in the circumstances.
+
+14.  At Step 3, the statutory cap stipulated in section 93(3) is applied, as an ultimate backstop to ensure that the penalty for a contravention will not exceed 10% of the turnover of the undertaking concerned for each year in which the contravention occurred.[7]
+
+15.  At Step 4, any for cooperation with the Commission is applied.  Where relevant, an undertaking’s plea of financial inability to pay the penalty is also considered at this stage.
+
+Nutanix
+
+16.  The relevant Value of Sales is the revenue derived from the sales of the product which formed the subject of the YWCA tender, ie equipment comprising a Nutanix hyper‑converged server system and services relating to the supply of such system including installation and maintenance.  For the purposes of disposing of these proceedings pursuant to the Kam Kwong procedure, it is agreed that Nutanix’s Value of Sales for its financial year ended 31 July 2016 is approximately US$[●], or HK$[●].
+
+17.  The Gravity Percentage used by the Commission in arriving at the proposed penalty is 17%.  I accept this figure, towards the lower end of the range of 15% to 30%, as within appropriate limits having regard to the fact that the conduct was a “one‑off” relating to a single tender and the overall circumstances of the case including that there was no price inflation between the first and second tenders and there was no direct financial reward for the friendly firms who put in the dummy bids.
+
+18.  The Duration Multiplier used is 1.  I accept this for the purposes of this case.  Bid‑rigging may be very short in duration even though its effects on competition potentially last much longer.  If the number of days on which the relevant conduct occurred is turned into a fraction of a year to be applied as a multiplier, the Base Amount will end up being inordinately small.
+
+19.  For Step 2, the Commission has applied an uplift of 40% to the Base Amount for Nutanix, on the ground that it acted as the leader or instigator in the contravention, in the sense that it took part in formulating the bid‑rigging scheme and coordinated the dummy bids from the other respondents.
+
+20.  None of the respondents had previously been found to have contravened the Ordinance.
+
+21.  The Commission submits that a downward adjustment of 20% to the Base Amount is warranted given that YWCA did not ultimately award a contract pursuant to the tainted tender.  This also means that there was no loss or damage caused by the conduct.
+
+22.  The net adjustment for Nutanix for this stage is therefore +20%.
+
+23.  The Step 2 figure for Nutanix exceeds its statutory cap.  The statutory cap is therefore taken by the Commission as the Step 3 figure.
+
+24.  At Step 4, the Commission submits that a [●]% Cooperation Discount should be given to Nutanix given its cooperation at the penalty/costs stage of these proceedings by providing financial documents and information on a voluntary basis and agreeing to make a joint application to the Tribunal pursuant to the Kam Kwong procedure.
+
+25.  The end result is a penalty in the amount of HK$2,394,404 for Nutanix.
+
+BT
+
+26.  BT did not generate any turnover from sales of any Nutanix hyper-converged server system and related services in its financial year ended 31 March 2017.  The Commission has examined its Value of Sales in the preceding year but takes the view that it does not reflect the actual scale of the undertaking’s activities in the relevant product, and has therefore concluded that it is not practicable to apply an approach based on Value of Sales.
+
+27.  Instead, the Commission has adopted a “lump‑sum approach” which considers what an appropriate pecuniary penalty for BT would be in all the circumstances.  The Commission cites as an example of this approach the case of AC‑Treuhand AG v Commission.[8] The use of this approach is facilitated in this case by there being other respondents so that in fixing the lump sum, one may take into account the recommended pecuniary penalties for the other respondents and BT’s role and culpability relative to the other respondents, in addition to the other circumstances of the case.
+
+28.  On this basis the Commission submits that HK$[●] would be prima facie appropriate taking account of all the circumstances including the Step 2 figures for the other respondents, that BT’s culpability was on a par with that of Nutanix, and the proportion the figure bears to BT’s total Hong Kong turnover in the relevant year.
+
+29.  The lump sum of HK$[●] is below BT’s statutory cap.
+
+30.  For Step 4, the Commission recommends a total Cooperation Discount of [●]% for BT on the basis that:
+
+(1)     During the investigation, BT assisted the Commission to access devices seized from BT’s premises and made submissions on factors such as relevant market structure.  The Commission proposes a [●]% discount for such cooperation.
+
+(2)     The Commission proposes the same [●]% discount for BT’s cooperation in the penalty/costs stage as for Nutanix and Innovix.
+
+31.  On this basis, the penalty recommended for BT is HK$2,730,000, which is agreed by BT.
+
+Innovix
+
+32.  Following the same approach as in Nutanix’s case, the Value of Sales of Innovix for the financial year ended 31 December 2016 is HK$[●].  In arriving at the penalty, the Commission has selected a Gravity Percentage of 17% and a Duration Multiplier of 1.
+
+33.  In Step 2, for the reason stated in §21 above, Innovix is also given a discount of 20%.
+
+34.  However, the resultant figure in Step 2 for Innovix, if not further adjusted, would represent only [●]% of its total turnover for the year 2016.  In the Commission’s Policy on Recommended Pecuniary Penalties (published in June 2020) at §2.18, it is stated: “The Commission considers it necessary for pecuniary penalties to have a specific deterrent effect to promote the effectiveness of the competition regime. Accordingly, the Commission will consider whether the Base Amount is sufficient to achieve such effect or needs to be adjusted”.  The Commission submits that, in order to ensure the effectiveness of the competition regime, specific deterrence is called for in relation to Innovix and there should on that ground be an uplift of the result at Step 2 by 50%, to deter the particular undertaking from engaging in further anti‑competitive practices. 
+
+35.  The adjustments adopted in this Step are therefore a discount of 20% and an uplift of 50% to the resultant figure.
+
+36.  The Step 2 figure for Innovix is below its statutory cap.
+
+37.  A [●]% discount is likewise proposed by the Commission for Innovix, for its cooperation during the penalty/costs phase of the proceedings as referred to in §24 above.
+
+38.  The agreed penalty for Innovix is HK$1,857,542.
+
+Tech‑21
+
+39.  The relevant financial year of Tech‑21 is that ended 30 September 2016.  Based on the invoices disclosed, the Value of Sales of Tech‑21 in that year was HK$[●].  Applying a Gravity Percentage of 17% and Duration Multiplier of 1, which I consider to be appropriate, the Base Amount is HK$[●].
+
+40.  To account for the mitigating factor that YWCA did not ultimately award the contract based on the tainted tender, and in parity with the other respondents, it seems to me a 20% discount is appropriate in Step 2.
+
+41.  Tech‑21’s relevant turnover (being the amounts derived by Tech‑21 from its ordinary activities in Hong Kong after deduction of sales rebates and taxes directly related to the revenues (if any))[9] for the relevant year was HK$[●].[10]  The Step 2 figure of HK$[●] is therefore below Tech‑21’s statutory cap.
+
+42.  Tech‑21 has not cooperated with the Commission during any stage and no Cooperation Discount is warranted.
+
+43.  The penalty on Tech‑21 is therefore HK$187,740.
+
+Costs
+
+44.  Nutanix, BT and Innovix have further agreed to pay the Commission’s costs of the proceedings each in the sum of HK$2,887,680. This reflects the following:
+
+(1)     Overall relevant costs incurred by the Commission (excluding certain interlocutory matters) amount to about HK$18.8 million.
+
+(2)     In line with the approach adopted in W Hing Construction at §139, the amount is reduced by 20% to reflect the fact that this was the first case in the Tribunal and more costs would have been incurred because of the novelty of the law than otherwise.
+
+(3)     A further discount of 20% is made to take account of the fact that the Commission failed in relation to SiS and the standard of proof issue.
+
+(4)     A further discount of 20% is adopted in lieu of taxation of costs.
+
+(5)     The Commission, Nutanix, BT and Innovix will each bear their own costs in relation to the determination of the consequential orders.
+
+(6)     Nutanix, BT and Innovix will each bear 30% of the resultant costs figure of HK$9,625,600, ie HK$2,887,680 each.
+
+45.  There will be an order of costs against Nutanix, BT and Innovix accordingly.
+
+46.  As for Tech‑21, having regard to the role it played in the contravention and in the proceedings, I accept the Commission’s submission that it should be ordered to pay 10% of the Commission’s costs of these proceedings (subject to a discount of 20% referred to in §44(2) above, and excluding the costs relating to SiS and the standard of proof issue), with a certificate for three counsel for the trial.  It seems to me that it should also have to bear the costs of the consequential orders hearing, with a certificate for one counsel.  Tech-21 may elect to agree the costs at the sum of HK$962,560.  In the absence of agreement, the costs are to be taxed.
+
+47.  The Commission does not seek any costs of investigation against any respondent pursuant to section 96 of the Ordinance.
+
+Orders
+
+48.  In summary, there will be the following orders:
+
+(1)     A declaration that each of the 1st, 2nd, 4th and 5th respondents has contravened the first conduct rule under section 6 of the Ordinance.
+
+(2)     An order that:
+
+(a)     The 1st respondent do pay to the Government a pecuniary penalty in the sum of HK$2,394,404 pursuant to section 93 of the Ordinance within 14 days from the date hereof and provide to the applicant documentary evidence of such payment within 7 days from the date of payment.
+
+(b)     The 2nd respondent do pay to the Government a pecuniary penalty in the sum of HK$2,730,000 pursuant to section 93 of the Ordinance within 14 days from the date hereof and provide to the applicant documentary evidence of such payment within 7 days from the date of payment.
+
+(c)     The 4th respondent do pay to the Government a pecuniary penalty in the sum of HK$1,857,542 pursuant to section 93 of the Ordinance within 14 days from the date hereof and provide to the applicant documentary evidence of such payment within 7 days from the date of payment.
+
+(d)     The 5th respondent do pay to the Government a pecuniary penalty in the sum of HK$187,740 pursuant to section 93 of the Ordinance within 28 days from the date hereof.
+
+(3)     An order that:
+
+(a)     Each of the 1st, 2nd and 4th respondents do pay to the applicant the sum of HK$2,887,680 in respect of the applicant’s costs of these proceedings within 14 days hereof.
+
+(b)     The 5th respondent do pay 10% of 80% of the applicant’s costs of these proceedings (excluding the costs relating to the 3rd respondent and the standard of proof issue), to be taxed if not agreed at the sum of HK$962,560 or otherwise, with a certificate for three counsel for the trial and a certificate for one counsel for the consequential orders hearing.
+
+(4)     There be liberty to apply in relation to the time and manner of payment.
+
+ 
+
+ 
+
+ 	(Godfrey Lam)
+ 	President of the Competition Tribunal
+  
+
+Written submissions by Mr Mark Hoskins QC and Ms Catrina Lam, instructed by Winston & Strawn, for the Applicant
+
+Letter by Latham & Watkins, for the 1st Respondent
+
+Written Submissions by Mr Stephen Crosswell, Solicitor Advocate, of Baker McKenzie, for the 2nd Respondent
+
+Letter by Linklaters, for the 4th Respondent
+
+The 5th Respondent did not submit any letter or written submissions
+
+ 
+
+APPENDIX 1
+
+Extracts from the Statement of Agreed Facts
+
+between the Applicant and the 1st Respondent
+
+…
+
+5.     This Statement of Agreed Facts (“Statement”) is submitted pursuant to Rule 39 of the CTR and §72 of the CTPD1.  The Tribunal is asked to make the orders sought on the basis of the agreed facts set out in this Statement, as well as the Tribunal’s findings and conclusions regarding the 1stRespondent in the Judgment.
+
+6.     The facts as set out in this Statement are agreed by the Commission and the 1st Respondent.  The Statement is filed before the Tribunal solely for the purpose to support the joint application by the Commission and the 1st Respondent for an order to be made under Rule 39 of the CTR (“Joint Application”).
+
+7.     If the Tribunal for whatever reason is of the view that these proceedings shall not be dealt with by way of the Joint Application, no admission or concession by either the Commission or the 1st Respondent or liability to a pecuniary penalty or costs (save and except the matters set out in paragraph 9 below), shall be referred to or relied upon by either party at any adjourned or subsequent hearing or in any other proceedings without the prior written consent of both parties.
+
+8.     The Commission shall be at liberty to disclose a redacted version of this Statement to any third party where it considers proper to do so in the interests of the public.
+
+PART B - AGREED FACTS
+
+9.     The following information is relevant to the calculation of the recommended pecuniary penalty, the amount and underlying methodology of which is agreed by the Commission and the 1st Respondent.
+
+(a)     The subject of the YWCA tender was equipment comprising a Nutanix hyper‑converged server system and services relating to the supply of such equipment (including installation services and maintenance services) (“Nutanix Product”).
+
+(b)     The relevant events for the purposes of calculation of the recommended pecuniary penalty took place in the 1stRespondent’s financial year ended 31 July 2016 (“Relevant Year”).
+
+(c)     At the material time, the 1st Respondent did not make any sales of the Nutanix Product to customers in Hong Kong.  All the sales of the Nutanix Product into Hong Kong were made by its immediate holding company, Nutanix Netherlands, B.V. (“NBV”),which amounted to (US$[●]) for the Relevant Year.  Enclosed is a redacted copy of a spreadsheet produced by the 1st Respondent showing a breakdown of the sales of the Nutanix Product by NBV on a territorial basis for the Relevant Year (Confidential Annex 1).
+
+(d)     Based on the method stipulated in section 2(1) of the Competition (Turnover) Regulation (Cap. 619C), the 1st Respondent’s turnover for the Relevant Year is (HK$[●]), being the total gross revenue of (HK$[●]) after deducting taxes of (HK$[●])directly related to the revenues.  Enclosed is a copy of the Financial Statements of the 1st Respondent for the Relevant Year (Confidential Annex 2).
+
+10.     As for the Commission’s costs in these proceedings, as of June 2020, the Commission had incurred legal costs in the sum of HK$18,800,000 (Confidential Annex 3).
+
+11.     The 1st Respondent cooperated in the penalty/costs stage of the proceedings by providing financial documents and information on a voluntary and without prejudice basis, and reached agreement with the Applicant on its recommended pecuniary penalty and its share of the Applicant’s costs of the proceedings.
+
+PART C - CONCLUSION
+
+12.     Using the above information, and based on the approach for the determination of the pecuniary penalty for an undertaking that has contravened a competition rule as established by the Tribunal in its judgment in Competition Commission v W. Hing Construction Co Ltd & Ors [2020] HKCT 1 and as reflected in the Commission’s Policy on Recommended Pecuniary Penalties, the Commission recommends, and the 1st Respondent agrees to jointly apply for an order, that the Tribunal imposes a pecuniary penalty on the 1st Respondent in the sum of HK$2,394,404.
+
+13.     In addition, the Commission and the 1st Respondent agree to jointly apply to the Tribunal for an order that the 1st Respondent pays its share of the Commission’s costs of the proceedings, which are agreed at the sum of HK$2,887,680.
+
+ 
+
+APPENDIX 2
+
+Extracts from the Statement of Agreed Facts
+
+between the Applicant and the 2nd Respondent
+
+…
+
+5.     This Statement of Agreed Facts (“Statement”)is submitted pursuant to Rule 39 of the CTR and §72 of the CTPD1.  The Tribunal is asked to make the orders sought on the basis of the agreed facts set out in this Statement, as well as the Tribunal’s findings and conclusions regarding the 2nd Respondent in the Judgment.
+
+6.     The facts as set out in this Statement are agreed by the Commission and the 2nd Respondent.  The Statement is filed before the Tribunal solely for the purpose to support the joint application by the Commission and the 2nd Respondent for an order to be made under Rule 39 of the CTR (“Joint Application”).
+
+7.     If the Tribunal for whatever reason is of the view that these proceedings shall not be dealt with by way of the Joint Application, no admission or concession by either the Commission or the 2nd Respondent or liability to a pecuniary penalty or costs (save and except the matters set out in paragraph 9 below), shall be referred to or relied upon by either party at any adjourned or subsequent hearing or in any other proceedings without the prior written consent of both parties.
+
+8.     The Commission shall be at liberty to disclose a redacted version of this Statement to any third party where it considers proper to do so in the interests of the public.
+
+PART B - AGREED FACTS
+
+9.     The following information is relevant to the calculation of the recommended pecuniary penalty, the amount and underlying methodology of which is agreed by the Commission and the 2nd Respondent.
+
+(a)     The subject of the YWCA tender was equipment comprising a Nutanix hyper‑converged server system and services relating to the supply of such equipment (including installation services and maintenance services) (“Nutanix Product”).
+
+(b)     The relevant contravening conduct identified by the Tribunal in the Judgment took place in the 2nd Respondent’s financial year ended 31 March 2017 (“Relevant Year”).
+
+(c)     The 2nd Respondent did not generate any turnover from sales of the Nutanix Product in Hong Kong in the Relevant Year.
+
+(d)     The 2nd Respondent identified three invoices for sale of the Nutanix Product in the 2nd Respondent’s financial year preceding the Relevant Year.  Only one of the three invoices was ultimately paid, while the other two invoices were written off as a bad debt in October 2016.  Enclosed are copies of the three invoices issued by the 2nd Respondent (Confidential Annex 1).
+
+(e)     Based on the method stipulated in section 2(1) of the Competition (Turnover) Regulation (Cap. 619C), the 2nd Respondent’s turnover for the Relevant Year is HK$[●], being the total gross revenue of HK$[●]after deducting taxes of HK$[●]directly related to the revenues.  Enclosed is a copy of the Financial Statements of the 2nd Respondent for the Relevant Year (Confidential Annex 2).
+
+10.     As of June 2020, the Commission had incurred legal costs in these proceedings in the sum of HK$18,800,000 (Confidential Annex 3).
+
+11.     The 2nd Respondent cooperated with the Applicant’s investigation which led to the present proceedings. The correspondence relating to that cooperation, which evidences in full the cooperation framework agreed with the Applicant and the cooperation provided by the 2ndRespondent pursuant to that framework, is enclosed (Confidential Annex 4).  Information subject to a claim of without prejudice and/or public interest immunity privilege has been redacted from the correspondence.
+
+12.     In addition, during the penalty/costs stage of the proceedings, the 2nd Respondent provided financial documents and information on a voluntary and without prejudice basis, and reached agreement with the Applicant on its recommended pecuniary penalty and its share of the Applicant’s costs of the proceedings.
+
+PART C - CONCLUSION
+
+13.     Based on the above, the Commission applies for, and the 2nd Respondent does not contest the Commission seeking, a declaration that the 2nd Respondent has contravened the First Conduct Rule in the Ordinance.
+
+14.     In addition, using the above information, and based on paragraph 1.6 of the Commission’s Policy on Recommended Pecuniary Penalties, the Commission recommends, and the 2nd Respondent agrees to jointly apply for an order under Rule 39 of the CTR, that the Tribunal imposes a pecuniary penalty on the 2nd Respondent in the sum of HK$2,730,000.
+
+15.     Finally, the Commission and the 2nd Respondent agree to jointly apply to the Tribunal for an order that the 2nd Respondent pays its share of the Commission’s costs of the proceedings, which are agreed at the sum of HK$2,887,680.
+
+ 
+
+APPENDIX 3
+
+Extracts from the Statement of Agreed Facts
+
+between the Applicant and the 4th Respondent
+
+…
+
+5.     This Statement of Agreed Facts (“Statement”) is submitted pursuant to Rule 39 of the CTR and §72 of the CTPD1.  The Tribunal is asked to make the orders sought on the basis of the agreed facts set out in this Statement, as well as the Tribunal’s findings and conclusions regarding the 4th Respondent in the Judgment.
+
+6.     The facts as set out in this Statement are agreed by the Commission and the 4th Respondent.  The Statement is filed before the Tribunal solely for the purpose to support the joint application by the Commission and the 4th Respondent for an order to be made under Rule 39 of the CTR (“Joint Application”).
+
+7.      If the Tribunal for whatever reason is of the view that these proceedings shall not be dealt with by way of the Joint Application, no admission or concession by either the Commission or the 4th Respondent or liability to a pecuniary penalty or costs (save and except the matters set out in paragraph 9 below), shall be referred to or relied upon by either party at any adjourned or subsequent hearing or in any other proceedings without the prior written consent of both parties.
+
+8.     The Commission shall be at liberty to disclose a redacted version of this Statement to any third party where it considers proper to do so in the interests of the public.
+
+PART B - AGREED FACTS
+
+9.     The following information is relevant to the calculation of the recommended pecuniary penalty, the amount and underlying methodology of which is agreed by the Commission and the 4th Respondent.
+
+(a)      The subject of the YWCA tender was equipment comprising a Nutanix hyper‑converged server system and services relating to the supply of such equipment (including installation services and maintenance services) (“Nutanix Product”).
+
+(b)      The 4th Respondent’s contravention took place in part of its financial year which ended on 31 December 2016 (“Relevant Year”).
+
+(c)      In the Relevant Year, the 4thRespondent generated a value of sales of the Nutanix Product in Hong Kong in the sum of (HK$[●]).  Enclosed are redacted copies of invoices issued by the 4th Respondent for the Nutanix Product during the Relevant Year (Confidential Annex 1).
+
+(d)      Using the method stipulated in section 2(1) of the Competition (Turnover) Regulation (Cap. 619C), the 4th Respondent’s Hong Kong turnover for the Relevant Year was (HK$[●]), being the total gross revenue of (HK$[●]) after deducting (1) taxes of (HK$[●]) directly related to the revenues; and (2) sales rebates in the sum of (HK$[●]). Enclosed are a copy of the Audited Financial Statements of the 4th Respondent for the Relevant Year and a copy of the tax demand note issued by the Inland Revenue Department to the 4th Respondent for 2016/2017 (Confidential Annex 2).
+
+10.     As for the Commission’s costs in these proceedings, as of June 2020, the Commission had incurred legal costs in the sum ofHK$18,800,000 (Confidential Annex 3).
+
+11.     The 4th Respondent cooperated in the penalty/costs stage of the proceedings by actively seeking settlement with the Commission since September 2019, and in promptly providing financial documents and information on a voluntary and without prejudice basis, and reached agreement in timely manner with the Applicant on its recommended pecuniary penalty and its share of the Applicant’s costs of the proceedings.
+
+PART C - CONCLUSION
+
+12.     Using the above information, and based on the approach for the determination of the pecuniary penalty for an undertaking that has contravened a competition rule as established by the Tribunal in its judgment in Competition Commission v W. Hing Construction Co Ltd & Ors [2020] HKCT 1 and as reflected in the Commission’s Policy on Recommended Pecuniary Penalties, the Commission recommends, and the 4th Respondent agrees to jointly apply for an order under Rule 39 of the CTR, that the Tribunal imposes a pecuniary penalty on the 4th Respondent in the sum of HK$1,857,542.
+
+13.     In addition, the Commission and the 4th Respondent agree to jointly apply to the Tribunal for an order that the 4th Respondent pays its share of the Commission’s costs of the proceedings, which are based on an agreed methodology between the Commission and the 4th Respondent resulting in an agreed sum of HK$2,887,680.
+
+[1] Section 6 of the Competition Ordinance.
+
+[2] [2019] HKCT 2.
+
+[3] at §16(4).
+
+[4] at §5(2).
+
+[5] See Australian Competition and Consumer Commission v Coles Supermarkets Australia Pty Ltd [2014] FCA 1405 at §§70-73; Australian Competition and Consumer Commission v Real Estate Institute of Western Australia Incorporated [1999] FCA 18 at §§20-22, per French J.
+
+[6] NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 141 ALR 640, 644.
+
+[7] Or, if the contravention occurred in more than 3 years, 10% of the turnover of the undertaking for the 3 years in which the contravention occurred that saw the 3 highest turnovers.
+
+[8] Case C-194/14P, Judgment of the European Court of Justice, 22 October 2015, at §§60-70.
+
+[9] See section 93(4) of the Ordinance and section 2 of the Competition (Turnover) Regulation (Cap 619C).
+
+[10] Being the revenue less the income tax expense according to its Income Statement for the year ended 30 September 2016.
+
+ 
+

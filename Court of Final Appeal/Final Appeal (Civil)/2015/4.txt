@@ -1,0 +1,489 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACV No 4 of 2015
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO 4 OF 2015 (CIVIL)
+
+(ON APPEAL FROM CACV NO. 266 OF 2012)
+
+_____________________
+
+BETWEEN	 	 
+ 	KAM LEUNG SUI KWAN, PERSONAL REPRESENTATIVE OF THE ESTATE OF KAM KWAN SING (甘琨勝), THE DECEASED	Petitioner
+(Appellant)
+ 	and	 
+ 	KAM KWAN LAI (甘琨禮)	1st Respondent
+(1st Respondent)
+ 	KAM LIN WANG CARREL (甘連宏)	2nd Respondent
+(2nd Respondent)
+ 	LEGCO INC	3rd Respondent
+ 	EVERWAY HOLDINGS LIMITED	4th Respondent
+ 	YUNG KEE HOLDINGS LIMITED	5th Respondent
+_____________________
+
+Before: Chief Justice Ma, Mr Justice Ribeiro PJ,Mr Justice Tang PJ, Mr Justice Fok PJ and Lord Millett NPJ
+Dates of Hearing: 7-8 October 2015
+Date of Judgment: 11 November 2015
+____________________
+
+JUDGMENT
+____________________
+
+ 
+
+Chief Justice Ma and Lord Millett NPJ:
+
+A. INTRODUCTION
+
+1.  This is an appeal by the petitioner, the widow and personal representative of the estate of the late Kam Kwan Sing (“the deceased”), from the judgment dated 6 March 2014 of the Court of Appeal (Lam VP, Kwan and Barma JJA) dismissing her appeal from the judgment of the trial judge (Harris J) dated 31 October 2012.[1]  The trial judge had dismissed on jurisdictional grounds the petition which the deceased had brought in respect of Yung Kee Holdings Limited (“the Company”), the fifth respondent in these proceedings.  In the petition, the deceased alleged that the affairs of the Company were being carried on in a manner which was unfairly prejudicial towards him and sought an order pursuant to s 168A of the Companies Ordinance (Cap 32)[2] for his younger brother Kam Kwan Lai, the first respondent (“Kwan Lai”), to buy his shares in the Company.  In the alternative, and relying on substantially the same matters, he sought an order that the Company be wound up on the just and equitable ground under s 327(3)(c) of the Ordinance.[3]  The complaints made by the deceased in the petition were directed at Kwan Lai. The principal adversaries in the petition have been the deceased on the one side, and Kwan Lai and his son Kam Lin Wang, Carrel (“Carrel”), the second respondent, on the other.  There was a third brother, Kam Kwan Ki (“Kwan Ki”) who died in 2007.  There is also a sister, Kelly Kam (“Kelly”).  Like Kwan Ki, Kelly’s involvement in the present litigation is minimal.
+
+2.  At one stage, the two brothers had agreed in principle that one of them should buy the other’s shares, but they could not agree a price and their attempts to mediate proved unsuccessful.  Instead of referring the valuation of the Company to an agreed valuer or to arbitration, which would have been the sensible course, the parties resorted to litigation.  At the trial the primary remedy sought by the deceased was an order under s 168A that Kwan Lai should buy his shares in the Company or vice-versa; in the alternative he asked for the Company to be wound up as a precaution in case the court should find that it had no jurisdiction to make such an order, in which case a winding up order would be the only remedy available to him in Hong Kong.[4]  Before the Court of Appeal and this Court, however, the petitioner has made a winding up order her first choice.
+
+3.  The Company is incorporated in the British Virgin Islands (“BVI”) with its registered office in Tortola.  The trial judge held that (1) the court did not have jurisdiction to make an order under s 168A and (2) that the Company’s connection with Hong Kong was not sufficiently strong to justify it in exercising its jurisdiction to make a winding up order under s 327(3)(c).  However, notwithstanding these conclusions, the judge nevertheless heard evidence and argument on the substantive merits of the petition and found that the affairs of the Company had been carried on in a manner that was unfairly prejudicial to the deceased. Accordingly, if he had been wrong as to jurisdiction, he thought it would have been appropriate to make an order under s 168A for the deceased’s shares to be bought by Kwan Lai.  The Court of Appeal affirmed the judge’s rulings in relation to both s 168A and s 327(3)(c) but, while recognising that its comments were obiter, rejected the judge’s conclusion that the affairs of the Company had been conducted in a manner prejudicial to the deceased.  Like the lower courts, this Court must first consider whether it was open to the court to hear the petition under s 168A or s 327(3)(c) before considering the merits of the petitioner’s complaints.
+
+4.  As noted earlier, the deceased died after the conclusion of the trial and shortly before the judge gave judgment.  We shall deal further with the impact of this when considering the question of whether it would be just and equitable to wind up the Company.
+
+B. THE COMPANY
+
+B.1 Background
+
+5.  The Company was incorporated in 1994 in the BVI as the ultimate holding company of a group of companies.[5]  Although described by the courts below as “a passive investment company” this is potentially misleading unless the emphasis is on “passive”.  The Company does not carry on an investment or any other business; its sole function is that of a holding company.  As the parties agreed, “it carries on no business in its own right” or, we should add, of any kind, whether in its own right or not.  It has no employees and no bank account; its only asset consists of the shares in its wholly owned subsidiary; its only income consists of dividends distributed directly to its shareholders by its wholly owned subsidiary on its behalf; and it has never played any part in the business or operations of the group of which it is the ultimate holding company.
+
+6.  The history and structure of the group is set out in the judgments below and it is not necessary to repeat it at length.  The group’s business as operated through the group companies comprises a core restaurant business represented by the Yung Kee Restaurant now on Wellington Street (“the Restaurant”), associated businesses and also includes the ownership of various properties.  The founder of this business was the late Kam Shui Fai (“Kam Senior” as he has been called in the courts below).  Originating from a cooked food stall in Kwong Yuen West Street (in Sheung Wan) in the 1930s, the Restaurant came into existence in 1942 located at Wing Lok Street, eventually moving to Wellington Street in 1964 at a location purchased by Kam Senior.  By the 1970s a new building had been constructed and the Restaurant commenced business at its current location in 1977.  In the 1970s, the business developed a corporate structure.  In 1973, the restaurant business and assets were transferred to a company called Yung Kee Restaurant Ltd. (“YK Restaurant”).  This company was succeeded in 1994 by Yung Kee Restaurant Group Ltd (“YKRG”), which now runs the restaurant business. Other group companies run other aspects of the group’s business. 
+
+7.  Kam Senior passed away in December 2004.  In 1990, some years before his death, on financial advice and with a view to avoiding estate duty, which was payable exclusively on assets situate in Hong Kong, he took steps, which included the incorporation of the Company in the BVI, to create a corporate structure which would place the family’s shareholdings outside Hong Kong.  A company, Long Yau Limited (“Long Yau”) was incorporated in 1990 in the BVI. The majority shareholdings in each company, including YK Restaurant, were transferred into a unit-trust,[6] of which Long Yau was the trustee.  In 2006, estate duty in Hong Kong was abolished, and the unit trust was wound up in April 2009.  Following this, Long Yau became the majority shareholder of the various group companies (the shareholdings being formerly held by the unit trust).  The Company thus became the ultimate holding company as it was the sole shareholder of Long Yau.
+
+8.  The Company’s share capital consists of 20 ordinary shares.  On the termination of the Long Yau Unit Trust and the distribution of its assets in April 2009 to Long Yau, the shares were held as follows:
+
+7 shares (35%) by the deceased;
+
+9 shares (45%) by Kwan Lai either directly or through his company Legco Inc.[7], the third respondent;
+
+2 shares (10%) by Madam Mak, the widow of Kam Senior and mother of the deceased and Kwan Lai;
+
+2 shares (10%) by Everway Holdings Ltd., the fourth respondent, which is wholly owned by Kelly (“Everway”).
+
+9.  In the following month Madam Mak transferred her two shares to the deceased in order to equalise the brothers’ shares.  The shareholdings in the Company have not changed since then, so that at the time of the deceased’s death the two brothers each held directly or indirectly 45% of the shares in the Company, the remaining 10% being held by a company owned by their sister.
+
+B.2 The Corporate Structure: Summary
+
+10.  As stated earlier, the Company has one direct and eight indirect subsidiaries.  Its sole asset consists of the shares in its wholly owned subsidiary Long Yau, another BVI company whose sole function is also to act as a holding company.  Long Yau has two operating subsidiaries which are both incorporated and carry on business exclusively in Hong Kong.  One is YKRG, which is 80% owned by Long Yau, the remaining 20% being held equally by companies belonging to the two brothers.  The other is Life is not Limited, which runs a club[8] on two floors of the Yung Kee Building where the Yung Kee Restaurant is located.  It is a 40% indirect subsidiary of Long Yau.  The other companies in the group, which are all incorporated in Hong Kong, are property owning companies which own properties in Hong Kong which include the Yung Kee Building.
+
+C. SECTION 168A : JURISDICTION
+
+11.  Section 168A applies to a “specified corporation”. “Specified corporation” is defined in s 2(1) to mean “a company” or a “non-Hong Kong company”.  The same subsection defines a “non‑Hong Kong company” by reference to s 332.  This applies Part XI of the Ordinance (which contains s 168A) to
+
+“companies incorporated outside Hong Kong which establish a place of business in Hong Kong”.
+
+The Company is incorporated outside Hong Kong and accordingly the court’s jurisdiction to make an order under s 168A depends on whether it has established “a place of business” in Hong Kong. Section 341 so far as material provides that
+
+“place of business includes a share transfer or share registration office….”
+
+12.  The petitioner[9] submitted that the inclusion of a share transfer or registration office shows that “a place of business” may include a place where the company carries on purely administrative business, and stressed the fact that “establishing a place of business” is not the same as “carrying on business”[10].  In our opinion the first of these submissions is misconceived. Section 341 does not define “place of business” but extends its ordinary meaning to include places which would otherwise not normally be regarded as places of business.  The section tells against the petitioner’s submission rather than in its favour.
+
+13.  Nor in our view does the distinction between “establishing a place of business” and “carrying on business” support the petitioner’s contention that “business” includes the carrying on of purely internal activities, such as changes to the composition of its own board of directors, which do not affect outsiders or require the establishment of a particular place where they may be effected.  In our view “place of business” connotes a place where or from which the company either carries on or possibly intends to carry on business.  While “business” is not confined to commercial transactions or transactions which create legal obligations, there is no reason to suppose that it covers purely internal organisational changes in the governance of the company itself.  The notion that it does, seems to follow from a belief that a company must have a place of business somewhere, but (leaving aside the share transfer and registration office) there is nothing in fact or law which requires a company which does not carry on business at all to have a place of business, and there is nothing strange in finding that such a company has not established one anywhere.
+
+14.  The fact that a company’s directors discuss its affairs and hold their board meetings in a particular place is not sufficient by itself to make that place the company’s “place of business”: see Re Oriel Ltd[11].  In that case there was no evidence where any of the company’s activities were undertaken during a relevant period.  Oliver LJ acknowledged that in so far as the company’s directors formed any intentions about the company’s future they probably did so in whole or part at their home.  He continued[12]:
+
+“I entirely accept that, as the judge pointed out, the mere fact that Bridge House constituted the [directors’] private residence does not prevent it from being an established place of business of the company, but it is quite a different thing to assert that the mere presence of the company’s directors at their residence followed by the entry of the company into a transaction elsewhere constitutes the residence an established place of business.......”
+
+The present case is a fortiori, for the decisions of the Company’s directors in the Yung Kee Building were not followed by its entry into a transaction anywhere.
+
+15.  We also accept the judge’s statement[13] that the word “establish” indicates that some degree of regularity and permanence of location is required. The petitioner asserted that the Company had established a place of business either on the 5th or 8th floor of Yung Kee Building, but the evidence of this was exiguous in the extreme.  There was no evidence that the Company had or needed an office in the building or kept its books and records there; it kept no accounts and its register of members was kept in the BVI with a copy kept by the Company’s agent at its own office elsewhere in Hong Kong.  The Company did not keep a share transfer or share registration office in Hong Kong.  It held no board or general meetings prior to April 2009, and since then there were only 8 resolutions of the Company or its directors, which were all concerned with internal matters such as the payment of dividends or changes to the composition of the board.  Indeed, but for Kwan Lai’s decision to take control of the board[14] the only matters which would have occupied the attention of the Company’s directors in 2009 would have been the declaration of dividends.
+
+16.  Many of the resolutions in question were paper resolutions.  Thus the important resolution of the Company[15] amending its Articles (dealing with the quorum and length of notice for Board meetings) and appointing Carrel to be a director of the Company (as well as a director of its subsidiaries Long Yau and YKRG) was a written resolution of the shareholders of the Company and was signed by Kwan Lai alone.  He signed the document three times, once in his own right and once on behalf of each of his companies Legco and Everway who together held 55% of the shares in the Company.  It appears to have been signed on the 8th. Floor of the Yung Kee Building but could have been signed anywhere; and it is fanciful to suppose that by signing a document three times the sole signatory constituted the place where he signed it the Company’s place of business.
+
+C.1 Conclusion on jurisdiction under s 168A
+
+17.  Both courts below found that the Company had not established a place of business in Hong Kong, and we see no reason to disagree.  Accordingly we affirm their decision that the courts of Hong Kong have no jurisdiction to make an order under s 168A in the case of the Company.
+
+D. SECTION 327(3)(c)
+
+18.  Sections 327(1) and (3) are in the following terms:
+
+“(1) Subject to the provisions of this Part, any unregistered company may be wound up under this Ordinance, ….
+
+(3) The circumstances in which an unregistered company may be wound up are as follows-
+
+(a) if the company is dissolved, or has ceased to carry on business, or is carrying on business only for the purpose of winding up its affairs;
+
+(b) if the company is unable to pay its debts;
+
+(c) if the court is of opinion that it is just and equitable that the company should be wound up.”
+
+19.  As the courts below observed this is a discretionary jurisdiction, though this does not follow from the word “may”.  This word merely means “is liable to” and is appropriate to describe the conferment of jurisdiction.  Nevertheless the most appropriate jurisdiction in which to wind up a company is the jurisdiction where it is incorporated, and the jurisdiction to wind up a foreign company has often been described as “exorbitant” or as “usurping” the functions of the courts of the country of incorporation.[16]  These expressions are, however, unhelpful and potentially misleading except as a reminder that there must be good reason to exercise an abnormal jurisdiction even though it is one which statute has expressly conferred on the court.  It is well established that there must be some connection between the foreign company and the jurisdiction other than the petitioner’s decision, which would be present in every case, to present a winding up petition there rather than in the country of incorporation.[17]
+
+20.  In these circumstances the courts have adopted some necessary self-imposed constraints on the making of a winding up order against a foreign company.  There is no need to show that the company has ever had a place of business within the jurisdiction or has ever carried on business there[18]. As the law has developed, however, the courts have laid down three so-called core requirements which must be satisfied before the court will exercise its statutory jurisdiction to wind up a foreign company.  These were summarised by Kwan J (as she then was) in Re Beauty China Holdings Ltd.[19] as follows:
+
+“(1) there had to be a sufficient connection with Hong Kong, but this did not necessarily have to consist in the presence of assets within the jurisdiction;
+
+(2) there must be a reasonable possibility that the winding-up order would benefit those applying for it; and
+
+(3)the court must be able to exercise jurisdiction over one or more persons in the distribution of the company’s assets.”
+
+In the present appeal, the parties have focused on only the first of these core requirements. 
+
+21.  Some courts have treated these core requirements as going to the jurisdiction of the court under s 327(3)(c).  In our view, it is better to treat them as a part of the court’s discretion.  The origin of these requirements, which have been adopted in other cases both in England and Hong Kong, is to be found in the judgment of Knox J in Re Real Estate Development Co.[20]  In that case Knox J said that the proposition that there must be a sufficient connection between the company and the jurisdiction in which it is sought to wind it up prompted the question: sufficient for what?  He answered the question by saying that the connection must be
+
+“sufficient to justify the court setting in motion its winding up procedures over a body which prima facie is beyond the limits of territoriality”.
+
+22.  That caseandBeauty China Holdings Ltd. werebothconcerned with creditors’ petitions to wind up the company on the grounds of insolvency.  In such cases there is a substantial overlap between the different requirements, for the presence of significant assets within the jurisdiction normally means that a winding up order is likely to benefit the creditors applying for it.  But their presence within the jurisdiction is not essential; it is sufficient that the petitioner will derive significant benefit from a winding up order in the local jurisdiction even though the company is incorporated elsewhere.
+
+23.  While the benefit to a petitioning creditor will normally consist of the appointment of a liquidator with access to the company’s assets for distribution to the creditors, it is not necessary that the benefit should be derived from its assets or be channelled through the hands of a liquidator.  In Re Eloc Electro-Optieck and Communicatie BV[21] Nourse J made a winding up order against a company incorporated in The Netherlands which had traded in England but had ceased business some years before, had never had a place of business within the jurisdiction and no longer had assets there.  The petitioners were two former employees who had been dismissed by the company.  They had applied to the Department of Trade and Industry for payment out of the redundancy fund but under the statutory provisions no payment could be made until the company was wound up.  Finding that there was a reasonable possibility that the petitioners would derive a benefit from the making of a winding up order, the judge said[22]
+
+“The benefit would consist of assets coming into the hands of the petitioners not from the company but from an outside source which can only be tapped if an order is made. In the light of that consideration and of the facts, first, that the company did carry on business in England and Wales, secondly, that it employed the petitioners in that business, and, thirdly, that the potential source of assets is directly related to that employment, there is, in my judgment, sufficient to found the jurisdiction of the court. To put it another way, it would, in my judgment, be a lamentable state of affairs if the court's jurisdiction was excluded by the mere technicality that the assets, in respect of which the reasonable possibility of benefit accruing to the petitioners derived, belonged not to the company but to an outside source. I think that support for this view is to be found in the fourth and fifth essentials in Megarry J’s summary [1973] Ch. 75, 92:
+
+“(4) It suffices if the assets of the company within the jurisdiction are of any nature; they need not be ‘commercial’ assets, or assets which indicate that the company formerly carried on business here. (5) The assets need not be assets which will be distributable to creditors by the liquidator in the winding up:  it suffices if by the making of the winding up  order  they will be of benefit to a creditor  or creditors in some other way.”
+
+That shows, first, that the assets can be of any nature and. Secondly, that the consequential benefit accruing to a creditor or creditors need not be channelled through the hands of the liquidator. To my mind that confirms that the ownership of the assets by the company is not a matter of crucial importance” (our emphasis).
+
+24.  In our view the question in the case of a creditor’s petition is whether there is a sufficient connection between the company and this jurisdiction to justify the court in ordering a company to be wound up despite the fact that it is incorporated elsewhere; and that in deciding that question the fact that there is a reasonable prospect that the petitioner will derive a sufficient benefit from the making of a winding up order, whether by the distribution of its assets or otherwise, will always be necessary and will often be sufficient.
+
+25.  In the present case both courts below considered that a “more stringent” connection was required in the case of a shareholders’ petition.  We do not see why this should be so.  We of course recognise that, as the Court of Appeal observed, creditors are not personally attached to the state of incorporation whereas the shareholders of a foreign company or their predecessors will usually have voluntarily adopted and approved the law of the state of incorporation as the law governing the company’s legal status.  But that merely supports the starting point that the country of incorporation normally provides the most appropriate jurisdiction in which to seek a winding up order and is the reason for the adoption of the core requirements.  Moreover the judge’s approach, and that of the Court of Appeal, has an element of “they made their bed; now they must lie on it”.  But this merely begs the question since it assumes that the shareholders who caused the company to be incorporated knowingly chose not only to confer jurisdiction on the courts of the country of incorporation but also to abstain from invoking the concurrent jurisdiction which statute has conferred on the courts of Hong Kong.
+
+26.  Shareholders, no less than creditors, are entitled to bring winding up proceedings in Hong Kong in respect of a foreign company, and in either case they must establish a sufficient connection between the place of incorporation and Hong Kong; but the factors which are relevant to establish the connection are different in the two cases because the nature of the dispute and the purpose for which the winding up order is sought are different.  Creditors seek a winding up order against their debtor in order to obtain payment in or towards satisfaction of their debts.  The presence in Hong Kong of significant assets which may be made available to the liquidator for distribution among the creditors will usually suffice.  The claim itself is usually simple to establish; the petitioner need prove only that he is owed a debt which is due and unpaid.  If he considers it worthwhile he may chase the assets wherever they may be found and seek winding up orders in different jurisdictions until his debt is satisfied.
+
+27.  The case of a shareholders’ petition is different.  In the first place, the parties are different, for while the company is a necessary defendant to every winding up petition, in the case of a creditor’s petition the dispute is between the petitioner and the company; whereas in the case of a shareholders’ petition, the dispute is between the petitioner and the other shareholders, and the company is the subject of the dispute rather than a party to it.  Accordingly the presence of the other shareholders within the jurisdiction is an extremely weighty factor in establishing the sufficiency of the connection between the company and Hong Kong.  In the second place, the petitioner’s purpose in seeking a winding up order is also different, for the object is not so much to obtain payment of a debt but rather to realise the petitioner’s investment in the company.  This claim may involve a lengthy and detailed examination of the management of the company’s internal affairs which a petitioner is unlikely to be willing to undertake more than once.
+
+28.  From the dearth of authorities on such petitions, it would appear that shareholders’ petitions against foreign companies are a rarity, at least in England.  Shareholders’ petitions are normally brought only in the case of small, private, family or quasi-partnership companies and there is usually no occasion for English shareholders of such companies to cause them to be incorporated overseas.  Hong Kong is perhaps different and there are likely to be far more family companies in Hong Kong owned by a foreign holding company than in England.  Even so, despite the industry of counsel they could find only eight cases in Hong Kong of a shareholder’s petition to wind up a foreign company, most of these were concerned with purely interlocutory applications, and in only one of them was any point taken on jurisdiction.  The exception is  Re Gottinghen Trading Ltd[23] where Harris J struck the petition out for want of the necessary connection with Hong Kong.  That was an extreme case for neither the company’s business nor either of the shareholders had any connection with Hong Kong.
+
+29.  In the 7th edition of his book Shareholders’Rights Robin Hollington QC explains the sparing use of the just and equitable ground to wind up foreign companies at the suit of a shareholder differently[24]:
+
+“Nearly all the authorities are concerned with creditors’ petitions to wind up on the insolvency ground:……..These authorities show that, in the case of winding-up of insolvent companies sought by a creditor, it is for the petitioner to show either the presence of substantial assets within the jurisdiction or some other sufficient connection with the jurisdiction. In the case of solvent companies sought to be wound up by an aggrieved shareholder, it would have to be a very exceptional case for the court to exercise its jurisdiction to wind it up. For example, it might do so where the parties have concluded a shareholders’ agreement with an English choice‑of‑law and jurisdiction clause. But there would be a strong presumption in favour of the local court……”.
+
+30.  We see no reason why it should have to be a very exceptional case for the court to be willing to exercise its statutory jurisdiction to wind up a foreign company on the just and equitable ground.  The question is the same whatever the ground of winding up, even if the relevant factors may be different: it is whether there is a sufficient connection between the company and the jurisdiction in which the petitioner seeks to have it wound up on the ground relied on.  In the case of a shareholder’s petition on the just and equitable ground, the question is whether, having regard to all the circumstances, including the fact that the company is incorporated in another jurisdiction, it is just and equitable that the company should be wound up in Hong Kong.  Given the nature of the dispute and the fact that it is a dispute between the shareholders, their presence in the jurisdiction is highly relevant and will usually be the most important single factor.
+
+31.  The example given in the extract from Shareholders’ Rights seems to us to support the opposite conclusion from that for which the author contends.  The reason for considering it to be a proper case for the exercise of the jurisdiction of the English court appears to be that it is essentially concerned with a contractual dispute between shareholders whose contract is governed by English law, the company being merely the subject of the dispute.  If so, then it is difficult to see why a dispute between shareholders based, not on contract but on equitable principles, should be different, at least where those principles are applicable in the place where the shareholders live.
+
+D.1 The connecting factors with Hong Kong in the present case
+
+32.  The factors relied on by the petitioner to establish the relevant connection between the Company and Hong Kong are the following and they are in our view compelling:
+
+(1) The Company itself is merely a holding company of a group of directly and indirectly held subsidiary companies and carries on no business of any kind whether in the BVI or Hong Kong.
+
+(2) All the underlying assets of the Company, that is to say the assets of its wholly owned subsidiary Long Yau, are situate in Hong Kong.
+
+(3) The business of the group is wholly carried on by the Company’s indirectly held subsidiaries, that is to say subsidiaries of Long Yau, all of which are incorporated in Hong Kong and carry on business exclusively in Hong Kong.
+
+(4) The whole of the Company’s income is derived from businesses carried on in Hong Kong.
+
+(5) All the Company’s shareholders and directors are and always have been resident in Hong Kong and none of them has ever set foot in the BVI where the Company is incorporated.
+
+(6) All the directors of its directly and indirectly held subsidiaries are and always have been resident in Hong Kong and none of them has ever set foot in the BVI.
+
+(7) All board meetings of the Company and its subsidiaries are held in Hong Kong and all administrative matters relating to the Company are discussed and decided in Hong Kong.
+
+(8) Crucially the dispute is a family dispute between parties all of whom are and always have been resident in Hong Kong and the events giving rise to it and the conduct of which complaint is made all took place in Hong Kong.
+
+(9) The only connection which the Company has with the BVI is that both it and its wholly owned direct subsidiary Long Yau are incorporated there. The fact that the Company’s only asset, being its shareholding in Long Yau, is situate in the BVI is a consequence of this.
+
+33.  The respondents rightly concede that if the Company held all its subsidiaries directly instead of indirectly through the medium of its wholly owned subsidiary Long Yau, there would be sufficient connection with Hong Kong to justify the Court in exercising its jurisdiction to wind up the Company. That is plainly right.  Indeed Hong Kong would be the natural jurisdiction in which Hong Kong residents should resolve a dispute over the future of their Hong Kong business.  But, they submit, the interposition of Long Yau makes all the difference.  It means that the only asset of the Company consists of its shares in Long Yau, a BVI company, and these are situate in the BVI.  The underlying businesses and assets of the group, which are situate in Hong Kong, belong to Long Yau’s subsidiaries and not to Long Yau, while the shares in the Hong Kong subsidiaries belong to Long Yau and not to the Company.  Both courts below accepted this submission, which formed their ground for declining to exercise jurisdiction.
+
+34.  We recognise that a company and its shareholders are separate and distinct legal entities, but it does not follow that there is no connection between them or that a sufficient connection of a company with a particular jurisdiction to justify the court winding it up there cannot be established through its shareholders or subsidiaries.  The petitioner’s case does not, as the respondents submit, identify the Company with Long Yau or the group or seek “to lift the corporate veil”.  It does not ignore the fundamental principle that a company is separate and distinct from its shareholders.  But there is an obvious and close connection between a company and its wholly owned subsidiary, and there is no reason, because there is no need, to disregard their different personalities when considering whether the said core requirements are satisfied.
+
+35.  It is now established that the presence of assets within the jurisdiction is not essential, but the likelihood that the petitioner will derive some benefit from a winding up order clearly is.  In the present context where a shareholder seeks a winding up order in order to realise his investment in the company this does not depend on the presence within the jurisdiction of assets to which the company has title but the presence of assets which may be made available to a liquidator.  The question whether the Company has any such assets in the present case is a question to which we will return.
+
+36.  It must be remembered that the so called core requirements are not statutory but self-imposed constraints adopted by the courts.  In elucidating their meaning no question of statutory interpretation arises.  The question is whether the connection of a company with Hong Kong is sufficient to justify the Hong Kong court in exercising its jurisdiction to wind that company up, and that is a question of degree.  The nature of the connection will vary from case to case and is always a matter for the court.  There is no doctrinal reason to exclude a connection through a wholly owned subsidiary.
+
+37.  Where the connection is through an indirect subsidiary the question is similar to the one which arose in Waddington Ltd. v Chan Chun Hoo[25].  The question in that case waswhether a shareholderhad sufficient locus standi to bring a minority shareholders’ action to recover moneys misappropriated, not from the company of which he was a member, but from a subsidiary.  The primary argument for disallowing the action was that it contravened the fundamental principles of company law and in particular the principle that a company is a separate legal person from its members.  A member of a parent company has no title or interest in and is a stranger to the shares of its subsidiaries which belong to the company and not to him.  This court rejected the submission, on the ground that[26]
+
+“On a question of standing, the court must ask itself whether the plaintiff has a legitimate interest in the relief claimed sufficient to justify him in bringing proceedings to obtain it.”
+
+The court answered the question in the affirmative because any depletion of a subsidiary’s assets causes indirect but real loss to the parent company and its shareholders.  The value of a company resides in the value of its assets, and the value of a parent company resides in the value of its subsidiaries’ assets.
+
+38.  The question in the present case is whether a foreign company, all of whose shareholders and directors live in Hong Kong, and which is the ultimate holding company of a group of indirectly held subsidiaries which carry on business in Hong Kong, has a sufficient connection with Hong Kong to justify the Hong Kong court in exercising its jurisdiction to wind it up at the suit of one of the shareholders.  But the answer is the same as in Waddingtonand for much the same reason.  The shareholder who brings a petition to wind up a company does so in order to realise his investment, and if the company is a holding company then his purpose is to realise the value of its underlying assets, whether they belong to its direct or indirect subsidiaries.  Giving effect to the close connection between a holding company and the assets of its direct and indirectly held subsidiaries does not entail identifying the one with the other or treating the businesses and assets of the group as if they belonged to the holding company.  It merely reflects the nature of the dispute and the purpose for which the proceedings are brought.
+
+39.  Although there is no doctrinal reason to exclude a connection of a foreign company with the jurisdiction through a wholly owned subsidiary, there may be a practical reason for doing so where the subsidiary is also a foreign company.  It is necessary that the assets within the jurisdiction should be capable of being made available to a liquidator appointed by the court. Counsel for the petitioner was confident that this was the case even without the assistance of the court, since it would be sufficient for the liquidator to replace the directors of Long Yau by his own nominee.  We do not share his confidence, for a change in the composition of the board of a company must be effected by its shareholders, and we are not convinced that the registrar of companies in the BVI will alter the register of members of a BVI company in order to replace the shareholders by a liquidator appointed by a Hong Kong court.  Every court, however, has an implied jurisdiction to make whatever orders are necessary to give effect to its own judgments.  In the present case all the individual respondents reside in Hong Kong and are subject to the in personam jurisdiction of the Hong Kong court.  Accordingly were this Court to be of the view pursuant to the discussion which follows that a winding up order ought to be made, we would propose to give leave to the petitioner or the liquidator to apply to the Court of First Instance for such further orders whether by way of injunctions or otherwise as may be necessary to make the underlying assets of the Company available to the liquidator.
+
+D.2 Conclusion on connection with Hong Kong
+
+40.  For the above reasons, we are of the view that the requirement of a sufficient connection with Hong Kong for the purposes of s 327(3)(c) is satisfied, contrary to the conclusions of the courts below.  The court should therefore proceed to hear the petition on its merits.  It now becomes necessary to consider the question whether or not on the facts of the present case, it is just and equitable to wind up the Company.
+
+E IS IT JUST AND EQUITABLE TO WIND-UP THE COMPANY?
+
+41.  As stated earlier, even though both Harris J and the Court of Appeal declined jurisdiction to deal with the petition, they nevertheless proceeded to consider the facts on the assumption jurisdiction was established.  Harris J found for the deceased in this regard, concluding that he had been unfairly prejudiced (for the purposes of s168A) by Kwan Lai’s conduct.  He did so after considering the viva voce evidence given by the parties.  The judge’s conclusion was, however, reversed by the Court of Appeal even though it did not substitute any firm findings, in an attempt so as not to pre-empt the decision of the BVI courts (which the Court of Appeal regarded as having the necessary jurisdiction to determine the complaints contained in the petition).
+
+42.  In the light of our view that the court should deal with the merits of the petition under s327(3)(c) of the Ordinance, it therefore becomes necessary to turn to consider the facts in order to determine whether or not it is just and equitable to wind up the Company.[27] In the lower courts, it was accepted by the parties that if Harris J was correct that there existed unfair prejudice, this would be sufficient for the court to consider it just and equitable to wind up the Company under s 327(3)(c).  The respondents, however, submitted before us that even if we were to be of the view that the trial judge had been correct in finding unfair prejudice, nevertheless in the circumstances of the case as presented themselves before this Court, no order for the winding up of the Company ought to be made.  Briefly, two reasons were given: first, since the most appropriate relief (which is unavailable under s327(3)(c)) would in these circumstances be an order for a buyout of shares,[28] the Court ought not to wind up a solvent and thriving company but instead leave it to the BVI courts to grant the appropriate relief; secondly, as mentioned earlier, the deceased has passed away and accordingly, so it is submitted on behalf of the respondents, it is now inappropriate to grant any relief under s327(3) since any unfair prejudice has ceased.  We shall deal with these points later.
+
+43.  The applicable legal principles are not in dispute.  The jurisdiction to wind up under s 327(3)(c) is whether the court regards it as just and equitable to do so.  This is a wide jurisdiction but it is of course to be exercised in a principled manner.  All companies, whether small or large, family style companies or international conglomerates, possess a corporate structure governed by a Memorandum of Association and Articles of Association.  These documents provide for the way in which companies are to be run, governing the relation between shareholders, between shareholders and directors, and the directors as between themselves, in running the affairs of a company.  In the determination of the rights of shareholders as in the present case, a court must bear the structure of the relevant company firmly in mind.  As Lord Hoffmann said in his speech in O’Neill v Phillips:[29]
+
+“In the case of section 459 [s 327(3)(c)], the background has the following two features. First, a company is an association of persons for an economic purpose, usually entered into with legal advice and some degree of formality. The terms of the association are contained in the articles of association and sometimes in collateral agreements between the shareholders. Thus the manner in which the affairs of the company may be conducted is closely regulated by rules to which the shareholders have agreed.”
+
+44.  Immediately following this passage, Lord Hoffmann makes the point that company law has “seamlessly” developed from the law of partnership which was treated by equity by reference to notions of good faith, meaning that in certain circumstances equity would restrain the exercise of strict legal rights.  In terms of company law, depending of course on the relevant context and background in any given case, there may be situations in which equity might find sufficient unfairness or breaches of good faith so as to attract relief granted by the court.  It was put in this way[30]:
+
+“The first of these two features leads to the conclusion that a member of a company will not ordinarily be entitled to complain of unfairness unless there has been some breach of the terms on which he agreed that the affairs of the company should be conducted. But the second leads to the conclusion that there will be cases in which equitable considerations make it unfair for those conducting the affairs of the company to rely upon their strict legal powers. Thus unfairness may consist in a breach of the rules or in using the rules in a manner which equity would regard as contrary to good faith.”
+
+45.  As numerous cases make clear (and as Mr Joffe has reminded us),  this does not mean that a judge can do whatever he or she happens to regard as fair.  The law relating to corporations needs to be as clear and defined as possible so that companies (and their legal advisers) know as much as possible where they stand. In the present context, in what types of situation may a court take into account equitable considerations?  The classic exposition is contained in the much-quoted speech of Lord Wilberforce in Ebrahimi v Westbourne Galleries Ltd[31] :-
+
+“My Lords, in my opinion these authorities represent a sound and rational development of the law which should be endorsed. The foundation of it all lies in the words “just and equitable” and, if there is any respect in which some of the cases may be open to criticism, it is that the courts may sometimes have been too timorous in giving them full force. The words are a recognition of the fact that a limited company is more than a mere legal entity, with a personality in law of its own: that there is room in company law for recognition of the fact that behind it, or amongst it, there are individuals, with rights, expectations and obligations inter se which are not necessarily submerged in the company structure. That structure is defined by the Companies Act and by the articles of association by which shareholders agree to be bound. In most companies and in most contexts, this definition is sufficient and exhaustive, equally so whether the company is large or small. The ‘just and equitable’ provision does not, as the respondents suggest, entitle one party to disregard the obligation he assumes by entering a company, nor the court to dispense him from it. It does, as equity always does, enable the court to subject the exercise of legal rights to equitable considerations; considerations, that is, of a personal character arising between one individual and another, which may make it unjust, or inequitable, to insist on legal rights, or to exercise them in a particular way.
+
+It would be impossible, and wholly undesirable, to define the circumstances in which these considerations may arise. Certainly the fact that a company is a small one, or a private company, is not enough. There are very many of these where the association is a purely commercial one, of which it can safely be said that the basis of association is adequately and exhaustively laid down in the articles. The superimposition of equitable considerations requires something more, which typically may include one, or probably more, of the following elements: (i) an association formed or continued on the basis of a personal relationship, involving mutual confidence – this element will often be found where a pre-existing partnership has been converted into a limited company; (ii) an agreement, or understanding, that all, or some (for there may be ‘sleeping’ members), of the shareholders shall participate in the conduct of the business; (iii) restriction upon the transfer of the members’ interest in the company – so that if confidence is lost, or one member is removed from management, he cannot take out his stake and go elsewhere.”
+
+46.  This passage was referred to by Lord Hoffmann in O’Neill, and by the trial judge and the Court of Appeal in the present case in their judgments.  In terms of what may constitute considerations of a personal character involving mutual confidence, this may come in the form of mutual understandings between members of a company[32]  or what may have been “an accepted course of conduct between the parties whether or not cast into the mould of a contract.”[33] Much of course depends on the facts and background of each case and we accept that merely because a company is a small, private[34] or a family company does not necessarily attract equitable considerations in the sense used above, but it is equally uncontroversial that the peculiar characteristics of such companies are certainly relevant.
+
+47.  With these principles in mind, we now approach the facts in the present case.  What divided the parties was whether equitable considerations should come into play: the petitioner claimed they did and Kwan Lai had breached the mutual understandings between him and the deceased; the respondents say not and that the court must pay sufficient regard to the corporate structure of the Company.  In view of the reversal of the judge’s finding of unfair prejudice by the Court of Appeal, it becomes necessary to determine exactly just what the trial judge’s findings of fact were before testing the validity of the Court of Appeal’s analysis.
+
+48.  It is first convenient here to return to the Company’s structure.  We have already earlier in this Judgment outlined the structure of the group of companies headed by the Company.[35] The respondents emphasize that Kwan Lai is in control of effectively 55% of the shareholding of the Company.[36]  As such, his fundamental position in these proceedings is that as he controls the majority of the shareholding in the Company, to put it crudely, “majority rules”.  This is how the trial judge saw Kwan Lai’s stance.[37]
+
+49.  Nevertheless, it has to be borne in mind that the Company was at all material times – and this was common ground – a family company.  In his Judgment, Harris J first outlined, again uncontroversially, the history behind the Yung Kee Restaurant companies.  As we have seen, the restaurant business was started by Kam Senior.  When Kam Senior was alive, irrespective of what the corporate structure of the whole restaurant group may have been, he was firmly in control.  For example, YK Restaurant Ltd at one stage controlled the restaurant business.[38] As the Judge remarked,[39] Kam Senior decided who could hold shares in this company.  The Articles of Association of this company provided that Kam Senior could not be removed as a director.  When the Company was formed in 1994, the sole shareholder at that time was Madam Mak who was Kam Senior’s nominee. 
+
+50.  Although Kam Senior effectively ran operations during his lifetime,[40] it was clear that the intention was for his two sons, the deceased and Kwan Lai, to run the restaurant business together.  The judge describes,[41] and this too is uncontroversial, how the two sons began working in the restaurant from the bottom, learning different aspects of the business.  They were then given different responsibilities in the actual running of the restaurant: since 1973, the deceased was the general manager in charge of the day to day operations and was described as the “public face” of the Restaurant; for his part, Kwan Lai, since the mid-1970s, was responsible for the building, corporate and investment sides of the business.  Although described as more a “backstage” person, his contribution to the restaurant business was certainly no less important than the deceased’s contribution.  The judge used the phrase “integrated family operation”[42] to describe the way the business was run.
+
+51.  The petitioner’s position (and this was the way it was pleaded in the petition) was that the deceased and Kwan Lai were entrusted with co-running the day to day business and affairs of the restaurant and the business of the group of companies behind it.  On the basis of the facts referred to in the previous paragraph, this can readily be accepted.  This was also consistent with the composition of the board of directors of the various companies in the group. We need only refer to the position of the Company itself.  As the judgment of Harris J states, [43] after incorporation on 1 December 1994, the Company’s sole director was Madam Mak (who was, as noted earlier, Kam Senior’s nominee).  From 20 June 2000 to 7 April 2003, the directors of the Company were the deceased and his wife.  From 8 April 2006 to 8 November 2006, the directors were the deceased and a company called Capital Adex Ltd (the shares in which were eventually transferred to Kwan Lai).  From 9 November 2006 until a resolution of the Company dated 7 July 2009[44], the only directors of the company were the deceased and Kwan Lai.  Further, again until the said 7 July 2009 resolution, the requisite quorum for a meeting of the board of directors of the Company comprised the whole of the board.[45]
+
+52.  The complaint made in the petition was that there existed a common understanding between the deceased and Kwan Lai that the restaurant and group business would be jointly run or managed, and that this understanding was breached by Kwan Lai. In Part B4 of the petition, the “Fundamental Basis of Cooperation” is pleaded. Para 34 of the Petition states:-
+
+“34. Because of their relationship as brothers, and the fact that the business of the Group is the family business, the Petitioner [the deceased] and Kwan Lai reposed complete trust on and had full confidence in the probity of each other and consulted each other in respect of all major decisions required to be made.”
+
+The facet of proper consultation was repeated in para 36.2 of the petition:-
+
+“36.2 Each of them would be entitled to participate in the general management of the Group and be consulted on all major decisions concerning the affairs and business of the Group.”
+
+53.  So, against the background set out above, what were the findings of the trial Judge in relation to the deceased’s complaints?   They were as follows:
+
+(1) The judge found as a fact that the deceased and Kwan Lai (certainly at one stage) trusted each other and this was accepted by Kwan Lai in cross examination.[46]
+
+(2) The judge said[47] that as between the deceased and Kwan Lai,  taking into account their conduct in relation to the business since 1969 (when Kwan Lai returned from his studies in Taiwan and became involved in the family business), equitable considerations in the exercise of their legal rights as shareholders came into play.  Each was entitled to a say in the running of the business although there did not have to be unanimity.  This did not mean that either of them, in particular the deceased, had any power of veto.[48]
+
+(3) What the judge clearly meant was that the mutual understanding between the brothers was that each should fully participate in the running of the business and be properly consulted.  And of course, implicit in this understanding was mutual respect.  This is clear when one considers the relevant factual background and context of the present dispute and, as shown by the references in the petition made earlier,[49] was precisely what the deceased was complaining about.  In his judgment, Harris J referred to the deceased’s “reasonable expectation, in the light of previous practices, that his views and position within the group should be respected.”[50]   This went beyond the corporate structure of the Company.
+
+(4) Having found that there was a mutual understanding as to how the business should be run and that accordingly equitable considerations came into play, the judge further found that this understanding had been breached by Kwan Lai:-
+
+(a) He found that Kwan Lai’s intention was to “dictate” matters to the deceased with which his elder brother disagreed.[51]
+
+(b) The judge gave a stark example of this by referring to various resolutions that were passed within the space of two months in 2009.  We have earlier briefly referred to one such resolution.[52]  By a written resolution of the shareholders of the Company dated 7 July 2009 (signed only by Kwan Lai on behalf of himself, Legco and Everway), it was first resolved that Article 69(a) of the Company’s Articles of Association be amended so as to provide that the quorum for any meeting of the Company’s board of directors should only be half of the total number of directors; this was a significant change.[53] It was further resolved that Kwan Lai’s son, Carrel, be appointed a director of the Company as well as of its subsidiaries, Long Yau and YKRG.[54]  The importance of this resolution can readily be seen: by these changes, Kwan Lai ensured that he controlled the board of directors of all relevant companies running the restaurant and group business.  The notice for this meeting was given by Kwan Lai to the deceased without any prior consultation.  By a letter dated 3 July 2009, the deceased (through his solicitors to the solicitors for the party which had convened the meeting, being Everway) had requested that as the proposed resolutions represented a major change in the “structure, design and operation of the Company”, a meeting of the Company’s shareholders should be held first to discuss the proposals.  This was ignored.
+
+(c) Following this resolution, a meeting of the Company’s board of directors took place on 3 August 2009 at which it was resolved[55] that Kwan Lai be appointed the authorized representative of the Company to act on its behalf as the registered shareholder of Long Yau. Such authority included attending and voting at meetings, signing shareholder resolutions and other documents of Long Yau.  In short, full authority was given to Kwan Lai to act on behalf of Long Yau in all important matters concerning that company.  On 12 August 2009, Kwan Lai acted in this new capacity by signing three written resolutions of Long Yau first resolving that Carrel would become a director of Long Yau with immediate effect, next, further resolving that Carrel also be appointed a director of YKRG.  The third written resolution was that the board of directors of Long Yau[56] should choose one of its directors to represent the company (Long Yau) in the same way as Kwai Lai had been authorized to represent the Company.
+
+(d) A directors meeting of Long Yau took place on 31 August 2009 at which the deceased, Kwan Lai and the recently appointed director, Carrel, were present. The minutes of the meeting indicate that there was even disagreement as to who would chair the meeting as between the deceased and Kwan Lai.  Eventually, by 2 votes to 1,[57] Kwan Lai was elected chairman.  Discussions took place during which the deceased expressed his concerns both as to Carrel’s appointment as a director as well as the proposal that Carrel be appointed the authorized representative of Long Yau (as anticipated at the earlier shareholders meeting of 12 August 2009).  The deceased wanted an adjournment to consider these matters further and to suggest possible amendments.  The request for an adjournment was rejected – again by 2 to 1.  It was then resolved – also by 2 to 1 – that Kwan Lai be appointed the authorized representative of Long Yau.
+
+(e) The last in this series of resolutions followed the EGM of YKRG held on 24 September 2009.  The three shareholders of this company[58] were present.  The deceased represented Holly Join Ltd, Kwan Lai represented Long Yau and Carrel represented Capital Adex Ltd.  There was again disagreement over who should be Chairman and by 2 to 1, Kwan Lai was appointed chairman.  Despite opposition from the deceased, it was resolved that Carrel be appointed an additional director of YKRG.
+
+(f) These resolutions were considered by Harris J.  The judge described these actions as a “pre-emptive strike” on Kwan Lai’s part.[59]  He said it must have been appreciated by Kwan Lai that the deceased was obviously concerned about the addition of Kwan Lai’s son, Carrel, to the boards of directors of the various companies (as well, we add, to a greater management role within these companies) but no attempt was made to allay the deceased’s concerns.  In a significant passage, the judge said this[60]:-
+
+“In fact the opposite happened. If he had been behaving in a manner that was consistent with the way in which they had conducted matters in the past, and with due regard to the personal nature of the relationships involved, he would have ensured that the Petitioner [the deceased] was treated with respect, but instead he allowed the opposite to happen. It is clear from the emails sent by Carrel to his Uncle [the deceased] and the transcripts of meetings Carrel attended after the resolutions had been passed to appoint him a director of the Company that Carrel was frequently gratuitously rude to the Petitioner.”
+
+The judge’s conclusion was that “Kwan Lai had behaved in a manner which was inconsistent with the way in which he and the [deceased] had previously conducted the business and behaved towards one another.  In particular it is clear that Kwan Lai quite consciously took steps to control the Company and then exercised that control without proper regard to previous understandings.”[61]
+
+(g) To make good these conclusions, the judge then referred to two further incidents.[62] First, reference was made to a board meeting of YKRG on 30 November 2009 at which it was resolved, again despite the deceased’s objections, that Carrel and his sister Yvonne be given substantial increases in salary well beyond what the Petitioner’s own children were getting, even though they worked full time for the group companies.[63]  As the judge remarked, the point was not whether the previous salaries paid to the next generation were anachronistic, but quite simply, Kwan Lai preferred to pay his children substantially more than was the previous practice.  The judge said, “This was inconsistent with the maintenance of the type of trust and confidence that had existed in the past and Kwan Lai should have appreciated that it would add to the impression that he was taking control of the Group and paying little regard to the [deceased’s] views.”
+
+(h) The second matter concerned some industrial property in Chai Wan owned by a company in the group.  Up until April 2009, these premises were used to pack preserved sausages for the Restaurant and then left unused after Chinese New Year that year.  However, as from April, it was used by Carrel and Yvonne for their own business rent-free.  Despite objection from the deceased when he discovered this, Kwan Lai refused to do anything.  The judge said this about the incident:-
+
+“In my view the relevance of the complaint is not so much that there was self-dealing, which there does appear to have been, but rather that it demonstrates a lack of regard for the Petitioner’s reasonable expectation, in the light of previous practices, that his views and position within the Group should be respected and also what appears to have been a developing sense on Kwan Lai’s part that he could dictate matters to his older Brother.”
+
+54.  In reversing the judge’s overall conclusion that unfair prejudice existed, the Court of Appeal took the view essentially that the judge had not made sufficient findings on any mutual understanding between the deceased and Kwan Lai, and in any event made no findings on exclusion from management.[64]  It is necessary to look more closely at the Court of Appeal’s analysis in these respects.
+
+55.  As to mutual understanding, as we have seen, the judge found that each brother could fully participate and had to be properly consulted in the running of the restaurant and group business, and that in this way neither could be excluded from the management of the business.[65]  The Court of Appeal seems to have equated this participation (in the form of fully participating and being properly consulted) in the affairs of the restaurant and group business with a right of veto on the deceased’s part.[66]  An analysis was then made to why this could not have been the common understanding since, for example, the shareholding in the Company itself was completely at odds with such a suggestion.[67]  We would agree with this analysis if this had been the judge’s finding, but it was not.  On the contrary, the judge was at pains to stress that this was not his conclusion at all.[68] As to these passages in the judge’s judgment, the Court of Appeal thought that there was an inconsistency on his part between on the one hand, the concept that the two brothers would have an equal say in the running of the business and on the other, the power of the deceased to veto any proposal.  However, in our view, this was with respect to misunderstand the judge’s finding, which was that there was a common understanding that each brother was entitled to participate in the business and had to be properly consulted.  The references in the judge’s judgment to the lack of respect shown to the deceased reinforce this.[69]  These references to the lack of respect were not referred to at all in the judgment of the Court of Appeal.  The allegation made in para 36.2 of the Petition[70] that each of the brothers was entitled to participate in the general management of the group and be consulted on all major decisions was admittedly quoted by the Court of Appeal, but not thereafter referred to again in their judgment.
+
+56.  We now turn to what appears to be the view of the Court of Appeal that the judge had not made sufficient findings as to breaches of the mutual  understanding by Kwan Lai. With respect, this was an untenable view given the judge’s findings outlined earlier and the evidence that was before the court.  No reference was made in the Court of Appeal’s Judgment regarding the reference to Kwan Lai’s “pre-emptive strike”, the lack of respect shown by Kwan Lai and Carrel to the deceased and bare mention is made of the episodes regarding the increase in salary for Carrel and Yvonne, and the Chai Wan premises.[71]  The view of the Court of Appeal was this:-
+
+“Thus, the judge’s decision on unfair prejudicial conducts rested primarily on his conclusions on Kwan Lai taking steps to control the Company and the lack of regard for the petitioner’s expectation. There were allegations in the petition which were canvassed in the evidence and the submissions before the judge but on which he did not find it necessary to discuss in details. Importantly, we note that the judge did not make findings on the allegations of exclusion from management and the mutual understanding in that regard. He stopped at a finding of interference in the management of the Restaurant. Further, he did not base his conclusion on unfair prejudice upon a finding that Kwan Lai should not have intermeddled in the Restaurant management at all.”
+
+We have already remarked on the view that the Court of Appeal took as to the judge not having made findings.  The reference to there being no finding of “interference in the management” of the Restaurant is equally untenable.  The allegation made by the deceased was not undue interference in the management of the Restaurant; rather, it was his exclusion from being properly consulted in the restaurant and group business.
+
+57.  In his submissions before us, Mr Joffe sought essentially to uphold the reasoning of the Court of Appeal.  This was reflected in the written Case for the Respondents.
+
+58.  Contrary to the view of the Court of Appeal and to Mr Joffe’s submissions, we are of the view that there was no basis to interfere with the trial judge’s findings and conclusions on unfair prejudice.  Given the parties’ acceptance, which is correct in our view, that this would be sufficient to enable the Court to make an order under s 327(3)(c), we are of the view that relief can be granted under that provision.
+
+59.  The respondents, however, made two further points to contend that a winding up order ought not be made, namely, that such an order ought not to be made in view of the fact that obviously a buyout would be a better remedy in the circumstances and that this remedy is available in the BVI courts and secondly, any unfair prejudice has now ceased with the death of the deceased.[72]
+
+60.  These points can be quickly disposed of.
+
+61.  It is correct that s 327(3)(c) provides only for the remedy of winding up if the court is of the opinion it is just and equitable to do so.  We are however not aware of any case in which after trial a court has, despite being of the view that it is just and equitable to wind up, refused to do so merely on the basis that there is another jurisdiction which may be able to grant what may be regarded as more appropriate relief.  If such a point is to be taken at all, it ought to be taken at the earliest possible opportunity, whether on a strike out application or some other form of preliminary application.  In the present case, it is far too late to take such a point.  It surfaced for the first time in the course of submissions before this Court.  Further, given the spectre of yet another hard fought hearing in the BVI even before any relief can be considered, this possibility must be rejected.
+
+62.  In respect of the passing away of the deceased, the relevance of this was again only first canvassed by the Court during the hearing of the present appeal.  Neither party had hitherto regarded the deceased’s death as being relevant to the outcome of the appeal. This unfortunate event was made known to Harris J before the first instance judgment was handed down.  The parties were then asked to indicate whether this would have any bearing on the handing down of his judgment.  The solicitors for the deceased wrote to the court indicating that their position was that it did not.  The respondents did not even reply to the court’s inquiry.  Mr Joffe, however, now submits that even if the trial judge had been correct in his view on unfair prejudice, any mutual understanding as to how the restaurant and group business should be run must now have ceased with the deceased’s death.  He reminded us that there was no evidence to suggest just what was to happen in the event of the death of one of the brothers.  In our view, given the earlier stance of the parties before the first instance judgment was handed down, it is now also too late to raise any submissions based on the deceased’s death, particularly as a full consideration of this aspect would perhaps involve new evidence.  However, we would perhaps just make these observations.  With the deceased’s death, the mutual understanding as to how the business should be run is certainly at an end, and the business of the Restaurant and the group, essentially a family run group of companies, has now entered a new phase and has changed irrevocably. There has never been any suggestion that the deceased’s children and successors would have any part in the running of the business; in fact the evidence before the court suggested quite the contrary.  Further, given the background as set out above, it seems to us obvious that upon the death of either of the brothers, the survivor would have had to reach an agreement or understanding with in particular the successors of the deceased brother regarding the future running of the business.  However, with the breaches by Kwan Lai of the mutual understanding between him and the deceased, which the trial judge found to be destructive of the trust and confidence between them, this is now unlikely in the extreme.  Lastly, the Court of Appeal, in reversing Harris J, paid some regard to the fact that at least the deceased remained on the board of directors of various companies within the group, including the Company.[73] That factor no longer exists.
+
+63.  For the above reasons, we are of the view that the proper order to make in the present case is an order winding up the Company.
+
+F. CONCLUSION AND ORDERS
+
+64.  For the above reasons, we would allow the appeal.  While we are of the view that a winding up order should be made, there is some reason to think that all parties may consider that the better course would be for the petitioner’s shareholding to be bought out rather than that the Company be immediately wound up.  For this reason, we would order that there be a stay of the winding up order for 28 days to give the parties an opportunity to agree the terms on which the petitioner’s shares in the Company should be purchased at a price, if not agreed, to be determined in some agreed and appropriate manner, that is to say either by an appropriate expert or by arbitration.  If no such agreement is concluded before the expiration of the period (or such extended period as this Court may allow) the winding up order will take effect automatically.  The stay may, of course be made permanent by this Court at any time with the consent of all parties. There will accordingly be liberty to apply to a single Permanent Judge in relation to the order for a stay.  In the event a winding up order is confirmed, the parties will have liberty to apply in relation to those matters referred to in para 39 above to a judge of the Court of First Instance.
+
+65.  As to costs, we direct that the parties be at liberty to serve on each other and lodge with the Registrar of the Court within 21 days of the handing down of this judgment any written submissions, with liberty to serve and lodge any written submissions in reply within 14 days thereafter.
+
+ 
+
+Mr Justice Ribeiro PJ:
+
+66.  I agree with the judgment of the Chief Justice and Lord Millett NPJ.
+
+ 
+
+Mr Justice Tang PJ:
+
+67.  I agree with the judgment of the Chief Justice and Lord Millett NPJ.
+
+ 
+
+Mr Justice Fok PJ:
+
+68.  I agree with the judgment of the Chief Justice and Lord Millett NPJ.
+
+ 
+
+ 
+
+(Geoffrey Ma)	(R.A.V. Ribeiro)	(Robert Tang)
+Chief Justice	Permanent Judge	Permanent Judge
+  
+
+(Joseph Fok)	(Lord Millett)
+Permanent Judge	Non-Permanent Judge
+
+Mr Jat Sew-Tong SC, Ms Linda Chan SC and Mr Justin Ho, instructed by Tony Kan & Co., for the Petitioner (Appellant)
+
+Mr John Bleach SC, Mr Victor Joffe and Mr James Man, instructed by Minter Ellison, for the 1st & 2nd Respondents (1st & 2nd Respondents)
+
+[1] The deceased was the original petitioner. He died on 5 October 2012 before judgment was handed down by Harris J.  By an order dated 14 November 2012, Madam Kam Leung Sui Kwan was substituted as the petitioner in these proceedings.
+
+[2] Now superseded by ss 722 to 726 of the new Companies Ordinance Cap.622 which came into effect on 3 March 2014.
+
+[3]  This provision is retained as s 327(3)(c) of the new Cap 32, now renamed the Companies (Winding Up and Miscellaneous Provisions) Ordinance, which also came into effect on 3 March 2014.
+
+[4] This is the only remedy available under s 327 of the Ordinance.
+
+[5] The trial judge found that the Company had nine direct or indirect subsidiaries: CFI Judgment at para 8.
+
+[6] The Long Yau Unit Trust.
+
+[7] Legco was originally beneficially owned by Kwan Ki.  Kwan Ki bequeathed Legco to Kwan Lai.
+
+[8] The Kee Club.
+
+[9] The petitioner appellant was represented by Mr Jat Sew Tong SC, Ms Linda Chan SC and Mr Justin Ho.  The first and second respondents were represented by Mr John Bleach SC, Mr Victor Joffe and Mr James Man.  The other respondents took no part in the present appeal.
+
+[10] See Lord Advocate v Huron and Erie Loan and Savings Co. [1911] S.C.612 at p.616; Singamas Management Services Ltd. v Axis Intermodal (UK) Ltd. [2011] 5 HKLRD 145.
+
+[11] [1985] BCLC 343 at pp. 347, 352 per Oliver LJ.
+
+[12]At p. 350
+
+[13] CFI Judgment paras 30 and 33.
+
+[14]  This is dealt with below: see para 53(4).
+
+[15]  Dated 7 July 2009: see para 53(4)(b) below.
+
+[16] See for example In re Drax Holdings Ltd. [2004] 1 WLR 1049 at p.1054 [para 24] per Lawrence Collins J (as he then was).
+
+[17] See Gdanska SDA v Latreefers Inc (No.2) [2001] 2 BCLC 116
+
+[18] Re Cia Merabello San Nicholas SA[1973] Ch. 75 at p. 91 per Megarry J.
+
+[19] [2009] 6 HKC  351 at p. 355-6 [para 23]
+
+[20] [1991] BCLC 210 at p. 217.
+
+[21] [1982] Ch. 43.
+
+[22] At p.48
+
+[23] [2012] 3 HKLRD 453.
+
+[24] At para. 12-05
+
+[25] [2008] 11 HKCFAR 370
+
+[26] At p.398 [para 74].
+
+[27] It was for this reason that leave was given by the Appeal Committee on 4.2.2015 on the “or otherwise” ground.
+
+[28] This was the position of in particular the deceased at trial.  Initially, as stated above (para 2) he was of the view that Kwan Lai should purchase his shares in the event that unfair prejudice was established; by the conclusion of the trial, however, he sought an order that he should be the purchaser: see CFI Judgment at paras 2,120.  Harris J would have ordered, if the Hong Kong courts had jurisdiction under s.168A, that Kwan Lai purchase the deceased’s shares: CFI Judgment at para 128.
+
+[29] [1999] 1 WLR 1092 at p.1098 G-H.  This authority was endorsed by the Court in Wong Man Yin v Ricacorp Properties Ltd (2006) 6 HKCFAR 265.
+
+[30] At p.1098H – 1099B.
+
+[31] [1973] AC 360 at p.379B-G.
+
+[32] See O’Neill at p.1101G
+
+[33] Megarry J in Re Fildes Bros Ltd [1970] 1WLR 592 at p.596H
+
+[34] In re Westbourne Galleries Ltd, in the passage quoted above, Lord Wilberforce states the fact that the company is a small one or a private company may by itself not enough to attract equitable considerations:- at p.379E-F.
+
+[35] See paras 8 and 9 above.
+
+[36] The Petitioner held 9 shares in the Company (45%).  Kwan Lai held 7 shares (35%).  Legco, the corporate vehicle through which Kwan Lai held another part of his share holdings and Everway (the vehicle through which Kelly held her shares and who supports Kwan Lai in these proceedings) each held 2 shares (each 10%).
+
+[37] See CFI Judgment at para 110.
+
+[38] Before it was transferred to YKRG: see para 6 above.
+
+[39]See CFI Judgment at para 12.
+
+[40] Kam Senior passed away in December 2004.
+
+[41] CFI Judgment at para 93 et seq.
+
+[42] CFI Judgment at para 92.
+
+[43] CFI Judgment at para 7.
+
+[44] When Kwan Lai’s son, Carrel was appointed a director.  This resolution is dealt with later.
+
+[45] This was Article 69(a) of the Company’s Articles of Association.
+
+[46] CFI Judgment at para 95.  This was obviously the position before their relationship soured.
+
+[47] CFI Judgment at para 108.
+
+[48] CFI Judgment at para 112.
+
+[49] See para 52 above.
+
+[50] CFI Judgment at para 115.
+
+[51] See CFI Judgment at paras 111, 115.
+
+[52] In para 51 above.
+
+[53] It will be recalled that the original Article 69(a) required the quorum to be all directors of the Company.
+
+[54] This company was the company actually running the restaurant.
+
+[55] By 2 to 1 (Kwan Lai and Carrel against the deceased).
+
+[56] Before Carrel’s appointment as a director of Long Yau, its directors comprised only the deceased and Kwan Lai.
+
+[57] Again Kwan Lai and Carrel against the deceased.
+
+[58] Long Yau held 80% of the shares of this company.  The remaining shareholders were Holly Join Ltd (controlled by the deceased) and Capital Adex Ltd (controlled by Kwan Lai), each holding 10%.
+
+[59] CFI Judgment at para 113.
+
+[60]  CFI Judgment at para 113.
+
+[61] CFI Judgment at para 114.
+
+[62] CFI Judgment at paras 114 and 115.
+
+[63] In contrast to Yvonne who worked only half days on Saturdays and at other times as requested.
+
+[64] See CA Judgment at paras 113, 116.
+
+[65] See para 53(3) above.
+
+[66] CA Judgment paras 116 to 123.
+
+[67] It will be recalled that Kwan Lai controlled 55% of the shareholding of the Company.
+
+[68] See CFI Judgment at paras 112-113, 124.
+
+[69] See paras 13(4)(f) and (h) above referring to the CFI Judgment in paras 113 and 115.
+
+[70] Para 52 above.
+
+[71] CA Judgment at paras 111 and 112.
+
+[72] See para 42 above.
+
+[73] CA Judgment at paras 114, 115 and 124.
+
+ 

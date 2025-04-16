@@ -1,0 +1,456 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No. 7 of 2014
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO. 7 OF 2014 (CRIMINAL)
+
+(ON APPEAL FROM CACC NO. 460 OF 2012)
+
+_______________________
+
+BETWEEN	 	 
+ 	HKSAR	Respondent
+ 	and	
+ 	CHENG CHEE-TOCK THEODORE (成之德)	Appellant
+AND BETWEEN	 	 
+ 	HKSAR	Respondent
+ 	and	
+ 	LEONORA YUNG, the personal representative of the estate of CHENG CHEE-TOCK THEODORE (成之德), Deceased	Appellant
+(By order to carry on)
+
+____________________
+
+Before : Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Tang PJ, Mr Justice Fok PJ and Mr Justice Spigelman NPJ
+Date of Hearing :  25 February 2016
+Date of Judgment:  21 March 2016
+____________________
+
+J U D G M E N T
+
+____________________
+
+Chief Justice Ma :
+
+1.  I agree with the judgment of Mr Justice Ribeiro PJ.
+
+ 
+
+Mr Justice Ribeiro PJ :
+
+2.  Theodore Cheng Chee-tock (“Cheng”), was convicted after trial[1] before HH Judge Stanley Chan on a charge of having conspired with Kenny Nam Kok Teng (“Nam”) to defraud the board of directors and shareholders of CY Foundation Group Limited (“CYF”).  Cheng was sentenced to 5 months’ imprisonment and a disqualification order[2] was imposed for 3 years.  After his release from prison having served his sentence, his appeal to the Court of Appeal[3] was dismissed.
+
+3.  On 4 August 2014, the Appeal Committee[4] granted Cheng leave to appeal to this Court.  However, on 22 December 2014, the appellant unfortunately passed away.  After a full hearing before the Court, it was ordered on the application of Cheng’s widow, Leonora Yung, that she be made a party to the appeal in her capacity as the personal representative of Cheng’s estate in substitution for Cheng and that the pending appeal be continued in her name.[5]
+
+A.  The events leading to the charge of conspiracy to defraud
+
+4.  CYF is a company listed on the Hong Kong Stock Exchange and Cheng was its Chairman from February 2007 to 8 April 2011, spanning the relevant period. 
+
+5.  Cheng was also Chairman, Chief Executive Officer and controlling shareholder (holding some 57.65% of the shares) of Sino Strategic International Limited (“SSI”) an Australian company publicly listed in Australia.  He was also a director of China Entertainment Holdings Limited (“CEH”), a British Virgin Islands company which was a wholly-owned subsidiary of SSI. 
+
+6.  Until 29 June 2007, CEH owned 100% of the shares of Sino Joy Holdings Limited (“Sino Joy”), a Hong Kong company, which owned a property on the 17th floor of No 200 Gloucester Road, in Wan Chai (“the 17/F Property”).  The dealings with which the present appeal is concerned involved disposals of the companies which held the 17/F Property.  Annexed to this judgment is a chart provided by the prosecution at the trial showing a series of transfers (“the Annex”). The structure of the companies which initially held the 17/F Property, as described above, is shown in the first column of the Annex.
+
+A.1 The first transfer
+
+7.  It is the prosecution’s case that a decision was made to sell the 17/F Property to alleviate cash flow difficulties experienced by SSI which had to be resolved by 30 June 2007, the end of SSI’s financial year.[6] To that end, on 30 April 2007, it is alleged that CEH entered into a provisional agreement to sell all the shares of Sino Joy (which held that property) to Mansion Gains Holdings Ltd (“Mansion Gains”), a BVI company wholly owned by Nam.  The sale price agreed was AUD7.025 million (or HK$46.5 million[7]) and completion duly occurred on 29 June 2007.  Three instalments of HK$4.65 million each had been paid by or on behalf of CEH[8] to Mansion Gains, with the balance financed by facilities provided by the Bank of China.  As noted above, Nam was named as a co-conspirator with Cheng.  However, Nam died in 2008 and took no part in the trial.
+
+8.  As a result of the first transfer, the 17/F Property continued to be held by Sino Joy which became wholly owned by Mansion Gains which was in turn wholly owned by Nam, as shown in the second column of the Annex.
+
+A.2 The second transfer
+
+9.  In September 2007, Nam’s health took a turn for the worse.  This led to Nam transferring all his shares in Mansion Gains to Beauford Ltd (“Beauford”), a BVI company owned by Chong Ching-lai (“Chong”). At trial, Chong was charged with money laundering offences but was acquitted of all charges.
+
+10.  Although the disposal was stipulated to have taken place for a consideration of $53.5 million, no payment was in fact made.[9]
+
+11.  Consequently, after the second transfer, as shown in the third column of the Annex, Chong owned all the shares in Beauford, which in turn owned all the shares of Mansion Gains, which owned all of Sino Joy’s shares, with the 17/F Property continuing to be held by Sino Joy.
+
+A.3 The third transfer
+
+12.  The third and final disposal of relevance involved the sale (contracted on 9 October 2007 and completed on 30 November 2007) of all the shares in Mansion Gains by Beauford to Highsharp Investments Ltd (“Highsharp”), a BVI company wholly owned by CYF, for HK$53.5 million.  Cheng was one of three directors who resolved to approve the purchase. No Special General Meeting was held to obtain the shareholders’ consent to the acquisition.  Consequently, the 17/F Property was held by Sino Joy, a company wholly owned by Mansion Gains, in turn wholly owned by Highsharp, itself a wholly-owned subsidiary of CYF, as shown in the fourth column of the Annex.
+
+B. The charge
+
+13.  The particulars of the charge allege that Cheng and Yu [the 3rd defendant at the trial], between 2 April 2007 and 28 January 2008:
+
+... conspired together and with Nam Kok-teng ... to defraud the Board of Directors and shareholders of CYF by dishonestly:
+
+(i) falsely concealing from CYF that said Cheng Chee-tock, Theodore had a beneficiary [sic] or financial interest in a property at 17th floor, No. 200 Gloucester Road, Wan Chai; and
+
+(ii) falsely representing to CYF that the acquisition of the said property by CYF did not constitute a connected transaction for the purpose of the Rules Governing the Listing of Securities on the Stock Exchange of Hong Kong Limited (‘the Listing Rules’),
+
+thereby inducing CYF to complete the purchase of said property without convening the required company meeting(s) or complying with the Listing Rules.”
+
+14.  The prosecution was therefore alleging and was required to prove beyond reasonable doubt that:
+
+(a) Cheng and his co-conspirators conspired to effect a connected transaction constituted by CYF’s acquisition[10] of the 17/F Property;
+
+(b) They knew that it was a connected transaction but conspired falsely to represent to CYF that it was not;
+
+(c) Cheng had a beneficial or financial interest in the 17/F Property but conspired with his co-conspirators falsely to conceal that fact; and
+
+(d) that by such concealment and false representation, Cheng and his co-conspirators induced CYF to complete the acquisition without the necessary company resolutions and without complying with the relevant Listing Rules.
+
+15.  The first and crucial question is whether CYF’s acquisition was indeed a connected transaction.  If so, then by virtue of rule 14A.02 of the Listing Rules,[11] public announcements and the prior approval of the transaction by the shareholders in general meeting would have been required, with the person having a material interest in the transaction not being allowed to vote. 
+
+16.  It being a charge of conspiracy to defraud, as the Court held in Mo Yuk Ping v HKSAR:[12]
+
+“...the offence is constituted by becoming a party to an agreement with another or others to use dishonest means (a) with the purpose of causing economic loss to, or putting at risk the economic interests of, another; or (b) with the realization that the use of those means may cause such loss or put such interests at risk. The offence extends also to cases in which the dishonest means cause a person to act contrary to his public duty... [it being an open question whether the offence extends to cases where the victim is induced to act contrary to his or her private duty].”
+
+17.  Although it does not appear to have been made explicit in the judgments below, the prosecution’s case may be taken to be that the alleged conspiracy to conceal and misrepresent the facts regarding a connected transaction with a view to circumventing safeguards for shareholders was a conspiracy putting their economic interests at risk.
+
+18.  Of course, if the 17/F Property purchase was not a connected transaction, none of the associated obligations would have arisen, there would have been no question of any dishonest concealment or misrepresentation and accordingly no basis for finding a conspiracy to defraud.
+
+C. How was the connected transaction constituted?
+
+19.  For the 17/F Property acquisition to qualify as a connected transaction, it had to be a transaction[13] between a listed issuer (or its subsidiary) and a connected person.[14]  A connected person has for present purposes relevantly to be a “director, chief executive or substantial shareholder of the listed issuer”.[15] It follows that in a case like the present, before a transaction counts as a connected transaction, the party involved in the transaction with the listed issuer must be “connected” in two ways: (i) he or she must be one of the listed issuer’s directors, its chief executive or a substantial shareholder; and (ii) he or she must be a party to the transaction entered into with the listed issuer. 
+
+20.  The rule is aimed at preventing someone who is likely to have influence over a listed company’s affairs causing that company or its subsidiaries to enter into deals benefiting himself or his associates to the possible detriment of the shareholders, hence the requirements for disclosure, authorizing resolutions and a restriction on voting by the connected person.[16]
+
+21.  Here, the charge makes it clear that the relevant transaction was the purchase of the 17/F Property by Highsharp (a wholly owned subsidiary of CYF).  It obliquely suggests that Cheng is the “connected person” who is the other party to the transaction since it alleges that his “beneficiary or financial interest in the property” was falsely concealed.  Cheng would qualify as a “connected person” since he was “a director, chief executive or substantial shareholder of the listed issuer”.[17] However, on the face of each of the transfers resulting in CYF’s acquisition, Cheng was not a party. 
+
+22.  A “connected person” is defined to include an “associate” of a director, chief executive or substantial shareholder of the listed issuer.  And an “associate” for these purposes is relevantly defined by Rule 1.01 as follows:
+
+“ ‘associate’ ... in relation to an individual means: ... any company in the equity capital of which he ... [is] directly or indirectly interested so as to exercise or control the exercise of 30% ... or more of the voting power at general meetings, or to control the composition of a majority of the board of directors and any other company which is its subsidiary or holding company or a fellow subsidiary of any such holding company;…”
+
+23.  If the 17/F Property transaction was between CYF (or Highsharp) and SSI, it is likely that it would constitute a connected transaction since SSI would qualify under Rule 1.01 as an “associate” of Cheng (a connected person), being a “company in the equity capital of which he ... [was] directly or indirectly interested so as to exercise or control the exercise of 30% ... or more of the voting power at general meetings …”  However, Mr Nicholas Cooney SC,[18] expressly disclaims reliance on Rule 1.01.[19]
+
+24.  One might add that the Listing Rules cast a very wide net defining persons involved in relevant dealings as “associates” of a connected person.  For instance, Rule 14A.11(4)(a) defines an “associate” of a “connected person” to include :
+
+“... (a) any person or entity with whom [the connected person] has entered, or proposes to enter, into any agreement, arrangement, understanding or undertaking, whether formal or informal and whether express or implied, with respect to the transaction which is such that, in the opinion of the Exchange, that person or entity should be considered a connected person...”[20]
+
+25.  The prosecution does not rely on such provisions and it is no part of its case that any of the parties to the string of transfers mentioned above was an “associate” of Chengs so as to constitute the connected transaction with CYF.[21]  We are therefore left needing to identify the connected person from whom Highsharp can be said to have acquired the companies holding the 17/F Property. 
+
+26.  How then, is Cheng’s conviction justified notwithstanding the evident difficulty of locating the connected person who must be party to the transaction with Highsharp in order to make the acquisition a connected transaction? 
+
+D. The Judge’s basis for finding a connected transaction
+
+27.  It is not clear how the Judge resolved that problem. He states, unhelpfully:
+
+“... I find that the whole management of CYF, including the subsidiaries of CEH, Sino Joy, was involved one way or another in the property transaction.”[22]
+
+28.  He then adds:
+
+“The conspiracy originated from the liquidity problem of SSI, and capital injection was required so that the position of SSI in the Australian Stock Exchange would not be adversely affected. With the decision to sell the property, I find that D1 [Cheng] was eager to keep the property in his reach by having it transferred to CYF which had more funds.”[23]
+
+29.  He appears to find that Cheng would somehow “keep the property in his reach” with the help of Nam (and subsequently Beauford), although the juridical nature of the relationship between Cheng and Nam (and then Beauford) is not made clear:
+
+“Nam was a close associate of D1, and even without anything on paper, Nam was entrusted to set up Mansion Gains which would hold Sino Joy which in turn held the 17/F property. In September 2007, Nam’s health deteriorated drastically and even fainted on one occasion after dinner. The plan was changed to have D2 [Chong] taking up the role of Nam and, hence, a BVI company Beauford was set up. Beauford was to hold another BVI company, Mansion Gains, and that indirectly held the property. And then the final stage would be for D2’s Beauford to pass the property to CYF through Highsharp.”[24]
+
+30.  The thrust of the Judge’s reasoning appears to be that Cheng beneficially owned the 17/F Property.  Thus, Cheng’s aim was to “keep the property in his reach” and to this end, he decided to “entrust” it to Nam who set up a corporate structure to hold it.  This is reflected in the Judge’s finding that Cheng “did have the beneficiary or financial interests in the 17/F property through his co-conspirator Nam.”[25]  His Honour therefore appears to have concluded that Nam was in some sense a trustee of the 17/F Property for Cheng. 
+
+31.  Attempting to summarise that line of reasoning, it might be formulated as follows:
+
+The 17/F Property sale was a connected transaction because it was between the subsidiary (Highsharp) of a listed issuer (CYF) and a connected person (Cheng) because Cheng was and, through the trusteeship of Nam (who was replaced by Chong and Beauford after Nam fell ill) remained throughout, the beneficial owner of the 17/F Property.  Thus, when it came to be sold by Beauford to Highsharp, the transaction was in reality between CYF’s subsidiary and Cheng (the beneficial owner), making it a connected transaction.
+
+E. The Court of Appeal’s basis for finding a connected transaction
+
+32.  The Court of Appeal upheld the Judge’s findings and conclusion regarding the existence of a connected transaction, but with two modifications.
+
+33.  First, it started off with the proposition that Cheng had a “financial” rather than a beneficial interest in the 17/F Property by virtue of being a shareholder of SSI:
+
+“As a shareholder, enjoying the panoply of the rights of shareholders, including that in respect of the receipt of dividends paid by Sino Strategic, the 1st defendant had a financial interest in the 17/Floor property.”[26]
+
+34.  The Court of Appeal went on to state:
+
+“However, if the judge was correct to determine that Kenny Nam held his interest in the 17/Floor property on behalf of the 1st defendant, we are satisfied that the judge was correct to determine the latter continued to enjoy a financial interest in the 17/Floor property, albeit by a different route.”[27]
+
+35.  This attributes to the Judge a finding that Cheng “continued to enjoy a financial interest in the 17/Floor property” although, as noted above, His Honour held that Cheng enjoyed not merely a financial, but a beneficial, interest in the property, having “entrusted” Nam to set up a corporate structure to hold the same.  It is unclear what the “different route” contemplated by the Court of Appeal was. 
+
+36.  Secondly, the Court of Appeal went on to attribute to the Judge a finding that Nam was Cheng’s agent rather than his trustee:
+
+“The judge found that, having determined to keep the 17/Floor property, the 1st applicant ‘entrusted’ Kenny Nam ‘to set up Mansion Gains which would hold Sino Joy which in turn held the 17/ F property.’ Clearly, the judge’s finding was to the effect that Kenny Nam was to act as the 1st applicant’s agent and on his instructions. We are satisfied that the judge was entitled to make that finding.”[28]
+
+37.  It concluded:
+
+“... we are satisfied that the judge was entitled to determine that Kenny Nam acted, in effect, as the agent of the 1st defendant.”[29]
+
+38.  The Courts below therefore endeavoured to overcome the problem of tying Cheng to the 17/F Property transaction with Highsharp (so as to make it a connected transaction) in two ways. 
+
+(a) The Judge sought to achieve this by holding that Cheng had throughout a beneficial interest in the property (initially by virtue of his shareholding in SSI and thereafter by Nam acting as his trustee, having had the property entrusted to him; with Nam then being replaced by Chong and Beauford), so that the sale by Beauford to Highsharp was in reality a transaction between Cheng, the beneficial owner, and a subsidiary of a listed issuer, CYF.
+
+(b) The Court of Appeal’s approach was to find that, by virtue of his shareholding in SSI, Cheng had a financial interest in the 17/F Property and that he maintained that financial interest with Nam “in effect” dealing with it as his agent.  It treats the Judge as having found that such agency existed and was content to hold that the Judge was entitled to make that finding.  It was implicitly held that Beauford was also acting as Cheng’s agent in the sale to Highsharp.
+
+F. Problems with the approach of the Courts below
+
+F.1 Cheng’s alleged beneficial or financial interest in SSI’s property
+
+39.  Linguistically, there can be little objection to someone saying in a general commercial sense that a shareholder has a “financial interest” in the assets held by the company.  How a company’s assets are dealt with may have a material impact on the balance sheet and on dividends. If someone were to misappropriate those assets, the shareholder may be financially prejudiced.  He or she therefore has a financial interest in how the company treats its assets and so, loosely speaking, a financial interest in those assets.
+
+40.  However, it is trite law that a shareholder does not have any proprietary or beneficial interest in a company’s property.  This was summarised by Lord Millett NPJ in Waddington v Chan Chun Hoo,[30] in these terms:
+
+“A company is a legal entity separate and distinct from its members. It has its own assets and liabilities and its own creditors. The company’s property belongs to the company and not to its shareholders. If the company has a cause of action, this represents a legal chose in action which represents part of its assets. Accordingly, where a company suffers loss as a result of an actionable wrong done to it, the cause of action is vested in the company and the company alone can sue. This is the first rule in Foss v Harbottle(1843) 2 Hare 461. No action lies at the suit of a shareholder suing as such, though exceptionally he may be permitted to bring a derivative action in right of the company and recover damages on its behalf...”
+
+41.  Cheng’s legal rights were as a shareholder of SSI.  As such, his rights did not include any beneficial interest in the 17/F Property which was one of SSI’s assets held through CEH and Sino Joy.  It follows that the attempt to tie Cheng to Highsharp’s acquisition as a connected person on the basis that he had a beneficial interest in the 17/F Property must fail.
+
+42.  The Court of Appeal’s approach of regarding Cheng’s “financial interest” as one of the “panoply of rights” he enjoyed as a shareholder does not fare any better.  Upon SSI, through CEH, selling Sino Joy to Mansion Gains, Cheng could not any longer be said to have had a financial interest in the 17/F Property, even in the general commercial sense mentioned above.
+
+43.  It was the prosecution’s case, accepted in the Courts below, that the object of selling the 17/F Property was to alleviate “a cash flow difficulty experienced by Sino Strategic, which had to be resolved by its financial year-end of 30 June 2007”.[31]  The Court of Appeal summarised the payments and funding of the purchase price received on sale of the property.[32]  In its 2007 Annual Report, SSI reported a “Loss of Controlled Entity” arising out of its disposal on 29 June 2007 of its 100% interest in Sino Joy for a consideration of AUD7,025,108, stating the net proceeds from such disposal to be AUD7,021,195.
+
+44.  It follows that upon its sale by CEH to Mansion Gains, Cheng (as a shareholder in SSI) could no longer be said – even in a layman’s loose sense – to have any financial interest in the 17/F Property or in the shares of Sino Joy.  His interest as a shareholder of SSI was transformed into a financial interest in the net sale proceeds received by SSI’s subsidiary.  It follows that Cheng cannot be regarded in any sense as a party to Highsharp’s acquisition of the 17/F Property by reason of Cheng having either a beneficial or a financial interest in the  property. 
+
+45.  Moreover, the suggestion that Cheng wished to “keep the property in his reach by having it transferred to CYF” is hard to understand.  CYF was a listed company and Cheng was one of its directors and its chairman.  There is no evidence or finding that he held any shares in CYF.  It is therefore difficult to see how, upon the 17/F Property’s acquisition by CYF, Cheng could be said to have “kept the property in his reach”.  He did not thereby acquire via CYF some financial or beneficial interest in the property.  Any possible influence he might have been able to exert as chairman later to cause CYF to sell the property to himself would require independent shareholder approval as a connected transaction.  In any event, none of this helps to qualify Highsharp’s acquisition as a connected transaction with Cheng.
+
+F.2 No basis for agency
+
+46.  The Court of Appeal did not explain how Nam (succeeded by Chong and Beauford) could be said to have acted as Cheng’s agent.  It took it that the Judge had found such agency and held, without elaboration, that he was entitled so to find.[33]
+
+47.  It is possible that the Court of Appeal had in mind an e-mail from Cheng to Josiah Choi dated 2 April 2007 discussing the possible sale of the 17/F Property as the basis for finding an agency.  No other evidential basis is apparent.  The e-mail is referred to in the Court of Appeal’s judgment[34] as follows:
+
+“In an initial e-mail to solicitors, copied to the 1st defendant, Mr Josiah Choi noted that it was proposed that FGL [CYF][35] acquire Sino Joy, which company owned the 17/Floor property and was a subsidiary of Sino Strategic. Further, it was asserted that the 1st defendant was a shareholder and director of both FGL and Sino Strategic. It concluded by stating that the lawyers would handle the ‘SE and SGM’, the latter being a reference to a Special General Meeting of the shareholders of FGL. In response, the 1st defendant enquired:
+
+‘May we use Kenny Lam [sic] to buy first and transfer to 1182[36] at a later stage?’
+
+Mr Josiah Choi replied on 3 April 2007:
+
+‘…it is simple and viable to acquire Sino Joy by 1182 as we need to hold a SGM….
+
+It seems no good for Kenny to pay [sic] a significant role in 1182. Pls instruct your final decision.’
+
+No instructions or reply was forthcoming from the 1st defendant.”
+
+48.  This e-mail is referred to in several places in its judgment,[37] notably at §79 where Lunn JA describes this exchange as one where Cheng “had mooted using Kenny Nam to buy the 17/Floor property first and transferring it at a later stage to CYF”.
+
+49.  The agency theory for deeming Cheng a party to the 17/F Property acquisition is untenable.  It would require multiple agencies to be established involving: (i) SSI’s subsidiary CEH acting as Cheng’s agent in selling Sino Joy and the 17/F Property (necessarily implying that Cheng owned or had some beneficial interest in those assets to be sold on his behalf); (ii) Nam, via Mansion Gains holding the acquired shares in Sino Joy and thus the 17/F Property as agent for Cheng and then acting as his agent in transferring Mansion Gains to Beauford; and (iii) Beauford then selling Mansion Gains and, via its subsidiary Sino Joy, the 17/F Property, to Highsharp as agent for Cheng.  Only then could Cheng be regarded as a connected person (acting through this string of agents) selling the companies holding the 17/F Property to Highsharp.
+
+50.  The evidence falls far short of making good this theory.  In the first place, the e-mail merely contains an idea mooted by Cheng, not supported by Choi and evidently not further pursued.  In any event, Cheng was not saying that Nam should act as his or anyone else’s agent.  The floated suggestion was for Nam to buythe property first and then transfer it to “1182”, ie, to CYF.  The suggestion was in other words, that Nam should purchase for his own account and then on-sell to CYF. 
+
+51.  Secondly, an agent is a person authorized to act on behalf of a principal so as to affect the principal’s relations with third parties.  For the reasons already discussed,[38] Cheng did not, as a shareholder in SSI, have any proprietary or beneficial interest in the 17/F Property (or in the shares of Sino Joy).  Thus, when CEH sold the Sino Joy shares to Mansion Gains, it was not disposing of any property in which Cheng had an interest.  Cheng was not CEH’s principal and CEH was not acting as agent on Cheng’s behalf in transacting that sale. 
+
+52.  Thirdly, as indicated above,[39] the evidence showed that the shares in Sino Joy were paid for on behalf of Mansion Gains by Luck Continent, Sino Gain and facilities granted by the Bank of China, personally guaranteed by Nam.  The Judge, however, thought the source of these funds “dubious” and queried whether the money “actually belonged to Nam, even though Nam owned Sino Gain”, pointing out that a Sino Gain account had been used to defray certain expenses on behalf of Cheng and his wife.  This is a finding challenged by the appellant on the substantial and grave injustice ground as running counter to the evidence, counter to the prosecution’s case and as a procedurally unfair finding.  There was, in any event, no finding that Cheng had contributed to those funds so that it is hard to see how the Court of Appeal could conclude that it had been proved to the requisite standard that after transfer of the shares, “Kenny Nam held his interest in the 17/Floor property on behalf of” Cheng.
+
+53.  Fourthly, the evidence is that on the final sale, CYF paid Beauford the purchase price and acquired the 17/F Property to house its corporate offices.  There is no evidence that Cheng received any part of those funds.  Nor is there evidence of him having acquired any interest in the property in the hands of CYF.  There is thus no evidential basis for regarding Beauford as having sold on Cheng’s behalf.
+
+F.3 Conclusion as to the decisions below
+
+54.  It follows, in my view, that the convictions cannot be sustained on the reasoning of the decisions below.  There was no basis for finding a connected transaction established.  Consequently, the other elements involving dishonest concealment, misrepresentation and non-compliance with the Listing Rules were not made out.
+
+G. The prosecution’s submissions on this appeal
+
+55.  The argument advanced by the prosecution as to how the connected transaction is constituted has shifted in the course of the proceedings. As presented on this appeal, it involves a modified version of the beneficial ownership theory coupled with a novel approach to the construction of the Listing Rules. 
+
+56.  The conspiracy was hatched, it says, because “SSI faced a cash-flow problem and was in urgent need of money before 30 June 2007 in order to avoid suspension from trading on the Australian Stock Exchange”.  Accordingly:
+
+“With the aim of saving SSI, a plan was devised to sellSSI’s asset, the 17/F Property, to obtain cash but with the Appellant retaining his beneficiary or financial interest in the 17/F Property, which he had by virtue of his shareholding in SSI. The co-conspirators determined that CYF should be the candidate as buyer, of which the Applicant was the chairman and director.” (Emphasis supplied)[40]
+
+57.  However, so the prosecution alleges, to avoid delay and the risk that CYF’s shareholders might not approve the acquisition:
+
+“...the co-conspirators devised a conspiracy which involved the insertion of Kenny Nam as a dummy purchaser in between the underlying connected transaction between SSI and CYF in order to conceal that underlying connected transaction for the purpose of defrauding the Board of Directors and shareholders of CYF, thereby inducing CYF to complete the purchase of the 17/F Property without convening the required company meeting(s) or complying with the Listing Rules.” (Emphasis supplied)[41]
+
+58.  It will be noted that the prosecution’s assertion is now that the connected transaction is between SSI and CYF. Since it has disavowed any allegation that SSI was a connected person by virtue of being an “associate” of Cheng within Rule 1.01, the prosecution must confront the difficulty that SSI is not a “connected person”.  This is where the prosecution resorts to its novel construction.  The relevant rule is Rule 14A.13(1)(a) which defines a “connected transaction” as follows:
+
+“A connected transaction is any transaction between a listed issuer and a connected person ...”
+
+59.  The focus of the prosecution’s argument is on the word “between”.  It emphasises that:
+
+“It was never the prosecution case that the Appellant personally acquired the 17/F Property or that the connected transaction was one between CYF and the Appellant personally.” (Emphasis supplied)[42]
+
+60.  Although Cheng was not personally a party to the acquisition, the prosecution maintains that he is the “connected person” for the purposes of characterising the 17/F Property transaction as a connected transaction:
+
+“Regarding the identity of the ‘connected person’ in this case, the Respondent submits it is the Appellant for the reason that he is a director of the listed issuer (CYF).”[43]
+
+61.  The prosecution asserts that its case “has always been” that:
+
+“The connected transaction ... was between CYF and SSI, with the Appellant having a beneficiary or financial interest in the 17/F Property.”[44]
+
+62.  The contention is that the word “between” in the aforesaid definition of “connected transaction” should be construed to have an expanded meaning so that even though the transaction identified as the “connected transaction” is actually between SSI (not a connected person) and CYF,[45] it should nevertheless be regarded as a transaction “between” CYF and Cheng (a connected person) because of Cheng’s alleged beneficial or financial interest in the 17/F Property.  This, Mr Cooney argues, is achievable on a “purposive construction” of the word “between”.
+
+63.  That argument is elaborated in the respondent’s printed case as follows:
+
+“The Respondent submits that the Appellant’s submissions are wrongly based on a strict literal interpretation of the word “between” in the definition of connected transaction (i.e. a transaction between the listed issuer and the connected person). Instead, the Respondent submits that it is necessary to apply a purposive approach in interpreting the word ‘between’ in order not to defeat the purpose of the Listing Rules.”[46]
+
+“A purpose of the Listing Rules is to avoid connected persons taking advantage of their positions through transactions with the listed issuer or its subsidiaries at the cost of its minority shareholders. ... This purpose would be defeated if a connected person, who had a beneficiary or financial interest in an asset of which he wished to take advantage, could avoid the Listing Rules requirements only because his interest was indirect, as a shareholder, and not direct. For this reason, the circumstances of the present case fall within Rule 14A.13.”[47]
+
+“In view of the fact that a purpose of the Listing Rules is to avoid a connected person taking advantage of his position, the question is what role the connected person played, how the transaction was arranged and executed and what influence the connected person had. The percentage of shareholding of a connected person is not the only determinative factor of a connected transaction, but merely one of the indicia of the connected person’s interest in and influence over the connected transaction. Once such an interest is established, then the transaction may be a connected transaction under the Listing Rules.”[48]
+
+64.  Such an approach is impermissible.  A purposive interpretation does not permit plain words to be ignored or overridden because some purported purpose which is asserted to be desirable would not be achieved if effect is given to those words.  In China Field Ltd v Appeal Tribunal (Buildings) (No 2),[49] Lord Millett NPJ issued a warning precisely against such an erroneous approach, stating:
+
+“...There can be no quarrel with the principle that statutory provisions should be given a purposive interpretation, but there has been a distressing development by the courts which allows them to distort or even ignore the plain meaning of the text and construe the statute in whatever manner achieves a result which they consider desirable. It cannot be said too often that this is not permissible. Purposive construction means only that statutory provisions are to be interpreted to give effect to the intention of the legislature, and that intention must be ascertained by a proper application of the interpretative process. This does not permit the Court to attribute to a statutory provision a meaning which the language of the statute, understood in the light of it context and the statutory purpose, is incapable of bearing: see HKSAR v. Lam Kwong Wai.[50]”
+
+65.  As we have seen, Rule 14A.13(1)(a) defines a connected transaction as “any transaction between a listed issuer and a connected person”.  There can be no doubt as to what “between” means in that context: the listed issuer and the connected person must be mutual parties to the transaction.  There is no room for suggesting that the rule can be construed so that a “connected transaction” is constituted by a transaction between a listed issuer and someone who is not a “connected person”. 
+
+66.  It is wrong to suggest that the Listing Rules’ objectives regarding transactions in which connected persons are indirectly interested would be circumvented unless such an amorphous meaning is attributed to the word “between”.  The Rules cater expressly for a wide range of situations where a connected person is indirectly interested in a transaction with a listed issuer. [51] As noted above, two instances involve Rule 1.01 and Rule 14A.11(a) which deem a connected person’s deals done through an “associate” to be connected transactions.  The prosecution has disavowed reliance on such provisions and seeks instead to extend the definition of “connected transaction” to embrace a meaning that the words used cannot possibly bear.  The prosecution’s approach deprives the word “between” of all relevant content and would render otiose the Rules designed to catch indirect connected person transactions. 
+
+67.  Additionally, since the prosecution’s argument rests on the premise that, by virtue of being a shareholder in SSI, Cheng had a beneficial or financial interest the 17/F Property when it was acquired by Highsharp, it also fails for the reasons explained in Section F.1 above.
+
+Conclusion
+
+68.  It should be emphasised that this judgment examines the Listing Rules as applied to the decisions of the Courts below and to the way the case was analysed and presented by the prosecution on this appeal with a view to assessing whether criminal liability for conspiracy to defraud was properly established.  The case might of course have been quite differently presented.  The intervening share disposals might have been differently characterised and reliance might have been placed on other Listing Rules, including those involving “associates” of the connected person.  Differently approached in a future case, the context might call for particular concepts used in the Rules to be given a wider or narrower meaning.  Whether in some future case, a string of transfers or some other complex commercial arrangement might properly be characterised as a single connected transaction may depend on issues of fact and construction arising in the specific setting.
+
+69.  For all the foregoing reasons, I would allow the appeal and quash the conviction.  I would direct that the parties be at liberty to lodge written submissions as to costs within 14 days from the handing down of this judgment.
+
+ 
+
+Mr Justice Tang PJ:
+
+70.  I agree with the judgment of Mr Justice Ribeiro PJ.
+
+ 
+
+Mr Justice Fok PJ:
+
+71.  I agree with the judgment of Mr Justice Ribeiro PJ.
+
+ 
+
+Mr Justice Spigelman NPJ:
+
+72.  In this matter I have had the privilege of reading the judgment of Mr Justice Ribeiro PJ in draft. Subject to the following additional observations, I agree with his Lordship’s reasons and conclusion.
+
+73.  In this Court the Respondent asserted that its case ‘was and is that the connected transaction is the underlying transaction of the sale of the 17/F Property by SSI to CYF’.  This was not the only way the case was put below. However, it is not necessary to analyse that matter.  It is sufficient to proceed on the basis that, although the charge was not specific in this respect, that is the case with which this Court is concerned.
+
+74.  Mr Justice Ribeiro PJ rejects the submissions of the prosecution that somehow, a “transaction” expressed in that way can be extended to encompass the First Appellant.  I agree.
+
+75.  This is not to give a narrow meaning to the word “between” in Part 14A.  It is to recognize that the word “transaction” is itself a word of wide import capable of encompassing a series of inter-related steps. However, a “transaction” of which one party is SSI, is not a “connected transaction” because SSI was not a “Connected person” within Rule 14A.11 (1), which is the provision on which the Respondent relied.
+
+76.  For the reasons his Lordship gives on this aspect of the Respondent’s case, the appeal should be allowed.
+
+77.  My additional observations are directed to the Court of Appeal’s analysis of the intermediate transfers between SSI and Highsharp.  In my view that part of the Court of Appeal’s reasoning was correct.
+
+78.  The Court’s analysis begins by setting aside the reference in the charge to “beneficiary”, in the disjunctive to “financial”. That terminology was grammatically wrong, duplicitous and plainly inapplicable.  If Cheng retained any indirect “interest” in the property, it could only have been “financial”.
+
+79.  The Court stated that the trial judge’s finding that Cheng “entrusted” Nam with the 17th Floor property was “to the effect” that Nam was to act as his “agent and on his instructions” (Para 100) and that he “acted, in effect, as (his) agent” (Para 104).  I do not understand the words “entrusted” or “agent” to have been deployed in any technical sense. Rather they reflect a conclusion that Nam was used to warehouse the property, until it could be acquired by CYF, as Cheng intended.
+
+80.  There was a considerable body of evidence to support that conclusion.    The email of 2 April 2007 was in my opinion, an indication that Cheng had in mind a warehouse arrangement.  As the majority shareholder of SSI he was able to ensure that Sino Joy was sold, eventually to Nam’s company Mansion Gains. The inference that the property was always intended to be passed on to the CYF group is reinforced by the fact, that when Nam became ill and the complication of the estate becoming involved arose, the property was passed on to a straw corporation, Beauford.  The messy financial transactions involving Sino Gain, Mansion Gains, Nam, Cheng and Mrs Yung, set out in detail by the trial judge, are consistent with a warehousing arrangement on the occasion in question. 
+
+81.  The rejection by the Court of Appeal of the Appellant’s case that Nam or Mansion Gains acted as a principal was justified.  The fact the Nam may have used his own money is quite irrelevant to whether he was involved in an arrangement to warehouse and pass on the property in due course, and in accordance with Cheng’s intention.
+
+82.  I agree with the orders proposed by Mr Justice Ribeiro.
+
+ 
+
+Chief Justice Ma:
+
+83.  The appeal is unanimously allowed and the conviction quashed.  It is directed that the parties be at liberty to lodge written submissions as to costs within 14 days from the handing down of this judgment.
+
+ 
+
+ 
+
+(Geoffrey Ma)	(R.A.V. Ribeiro)	(Robert Tang)
+Chief Justice	Permanent Judge	Permanent Judge
+ 	 
+ 	 
+ 	 
+(Joseph Fok)	(James Spigelman)
+Permanent Judge	Non-Permanent Judge
+
+Ms Wing Kay Po, Ms Doris Li and Mr Newton Mak,instructed by Peter K.S.Chan & Co., for the Appellant
+
+Mr Nicholas Cooney SC, on fiat for and Ms Jessie Sham, PP of the Department of Justice, for the Respondent
+
+ 
+
+ 
+
+ANNEX: Prosecution Transaction Chart
+
+Transaction Chart
+
+[1] DCCC 476/2011 (4 October 2012).
+
+[2] Pursuant to s.168E of the Companies Ordinance (Cap.32).
+
+[3] Stock VP, Lunn JA and Barnes J, CACC 460/2012 (14 March 2014).
+
+[4] Ma CJ, Ribeiro and Tang PJJ (FAMC 23/2014).
+
+[5] HKSAR v Cheng Chee Tock Theodore (2015) 18 HKCFAR 292.
+
+[6] Court of Appeal §13.
+
+[7] Reflecting the property’s valuation dated 14 May 2007 obtained by CEH from BMI Appraisals as at 27 April 2007: Court of Appeal §16.
+
+[8] HK$4.65 million was paid to CEH by cheque dated 30 April 2007 drawn on Luck Continent Ltd (“Luck Continent”), a BVI company owned and controlled by Dato Poh Po Lian who was its sole shareholder and Chairman, as well as the majority shareholder on CYF.  The other two deposit amounts were paid to CEH by cheques drawn on Sino Gain Holdings Ltd (Sino Gain”), a BVI company wholly owned by Nam, who was also its sole director (Court of Appeal §§20-21).
+
+[9] Court of Appeal §23.
+
+[10] The charge does not distinguish between CYF and Highsharp.
+
+[11] All references to rules in this judgment are to the Listing Rules current at the time of the relevant transactions.
+
+[12] (2007) 10 HKCFAR 386 at §40.
+
+[13] Which includes the acquisition or disposal of assets: r 14.04 and r 14A.10(13).
+
+[14] Rule 14A.13(1)(a). 
+
+[15] Rule 14A.11(1).
+
+[16] “The connected transactions rules are intended to ensure that the interests of shareholders as a whole are taken into account by a listed issuer when the listed issuer enters into connected transactions.  The rules set out in [Chapter 14A] also provide certain safeguards against listed issuers’ directors, chief executives or substantial shareholders (or their associates) taking advantage of their positions”: r 14A.01.  “This is achieved through the general requirement for connected transactions to be disclosed and subject to independent shareholders’ approval.  Accordingly, where any connected transaction is proposed, the transaction must be announced publicly ... Prior approval of the shareholders in general meeting will be required before the transaction can proceed.  A connected person with a material interest in the transaction will not be permitted to vote at the meeting on the resolution approving the transaction”: r 14A.02.
+
+[17] Rule 14A.11(1).
+
+[18] Appearing for the prosecution with Ms Jessie Sham, Senior Public Prosecutor (Ag).
+
+[19] Respondent’s Case (“RC”) §44.
+
+[20] This particular rule, however, is likely to be inapplicable in a criminal context given the requirement for “the opinion of the Exchange”.
+
+[21] While r 14A.11(4)(a) which defines another category of “associate” was mentioned by the Court of Appeal (at §5), this was not taken further in its judgment.
+
+[22] Reasons for Verdict (“RFV”) §123.
+
+[23] Ibid.  See also Court of Appeal §13.
+
+[24] RFV§123.
+
+[25] RFV§131.
+
+[26] Court of Appeal §60.
+
+[27] Ibid.
+
+[28] Court of Appeal §100.
+
+[29] Court of Appeal §104.
+
+[30] (2008) 11 HKCFAR 370 at §47, citing Wallersteiner v Moir(No  2) [1975] 1 QB 373 CA at p 390; Prudential Assurance Co Ltd v Newman Industries Ltd(No 2) [1982] Ch 204 CA (“Prudential”) at p 210; Johnson v Gore Wood & Co[2002] 2 AC 1 at p 61 et seq. 
+
+[31] Court of Appeal §13.  The Judge (at §123) found that “The conspiracy originated from the liquidity problem of SSI, and capital injection was required so that the position of SSI in the Australian Stock Exchange would not be adversely affected.”
+
+[32] Court of Appeal §20.  One cheque of $4.65 million was issued by Luck Continent; two cheques in the same amount by Sino Gain and the balance by facilities granted on mortgage by the Bank of China, guaranteed by Nam.
+
+[33] Court of Appeal §§60, 100 and 104.  See Section D above.
+
+[34] Court of Appeal §14.
+
+[35] Prior to 25 May 2007, CYF’s name was Foundation Group Limited, hence FGL: Court of Appeal §7.
+
+[36] 1182 was CYF’s stock code at the Stock Exchange: Court of Appeal §7.
+
+[37] Court of Appeal §§38, 44, 63 and 79.
+
+[38] In Section F.1 above.
+
+[39] In Section A.1.
+
+[40] RC§10.
+
+[41] RC§11.  It adds that: “...the subsequent insertion of Chong Ching-lai’s Beauford (after Kenny Nam became ill) was also a dummy purchase inserted as part of the concealment of the underlying connected transaction.” (RC§12)
+
+[42] RC§18.
+
+[43] RC§35.
+
+[44] RC§13.  Ms Wing Kay Po, appearing with Ms Doris Li and Mr Newton Mak for the appellant, disputes this, pointing to several variants of the prosecution case on what constituted the alleged connected transaction.
+
+[45] Always assuming that the prosecution can successfully ignore the intermediate transactions.
+
+[46] RC§38.
+
+[47] RC§39.
+
+[48] RC§43.
+
+[49] (2009) 12 HKCFAR 342 at §36.
+
+[50] (2006) 9 HKCFAR 574.
+
+[51] See Section C above.  Rule 1.01 deals with a variety of situations involving relatives of a connected person; his or his family’s interests as beneficiaries under a discretionary trust and via any trust-controlled company; companies in which the connected person controls 30% or more of the voting power and the holding company, subsidiaries and companies related to such companies, etc.  As noted above, Rule 14A.11(4) further expands the concept of “associate” to cover, amongst others, persons with whom the connected person has entered into or proposes to enter into, any agreement, arrangement, understanding or undertaking which the Exchange considers makes that person or entity a connected person; persons cohabiting as a spouse, etc; and interests in non wholly-owned subsidiaries and related companies.
+
+ 

@@ -1,0 +1,321 @@
+Press Summary (English)
+
+Press Summary (Chinese)
+
+FACC No 8 of 2019
+
+[2020] HKCFA 21
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+FINAL APPEAL NO 8 OF 2019 (CRIMINAL)
+
+(ON APPEAL FROM HCMA NO 244 OF 2017)
+
+________________________
+
+BETWEEN	 	 
+HKSAR	Respondent
+and	
+KWAN KA HEI（關迦曦）	Appellant
+________________________
+
+Before:	Chief Justice Ma, Mr Justice Ribeiro PJ, Mr Justice Fok PJ, Mr Justice Cheung PJ and Mr Justice Gleeson NPJ
+Date of Hearing: 16 June 2020
+Date of Judgment: 9 July 2020
+____________________
+
+JUDGMENT
+
+____________________
+
+Chief Justice Ma:
+
+1.  I agree with the Judgment of Mr Justice Cheung PJ.
+
+Mr Justice Ribeiro PJ:
+
+2.  I agree with the Judgment of Mr Justice Cheung PJ.
+
+Mr Justice Fok PJ:
+
+3.  I agree with the Judgment of Mr Justice Cheung PJ.
+
+Mr Justice Cheung PJ:
+
+4.  The single issue of statutory construction raised in this appeal is whether the definition of “explosive” in section 2 of the Dangerous Goods Ordinance[1] applies to the offence of possession of an explosive substance under section 55(1) of the Crimes Ordinance,[2] such that possession of “smoke cakes” that emit a large volume of smoke when ignited but do not produce an explosion may amount to an offence under section 55.
+
+The facts
+
+5.  The facts are straightforward.  On 16 December 2015, the appellant was stopped and searched by the police at Admiralty Centre, Queensway.  He was found to be carrying in his backpack 16 smoke cakes, weighing a total of about 1 kilogramme.  The smoke cakes were made of potassium chlorate and ammonium chloride in about equal proportions in weight.  According to undisputed expert evidence,[3] upon igniting a 2-gramme sample in a single cake, the sample burnt vigorously and released a volume of white coloured smoke which filled an area of approximately 2 metres by 2 metres.  It was not disputed that the smoke cakes were a pyrotechnic substance, that is, a substance which “functions by non-detonative, self‑sustaining, energy producing, chemical reaction and creates the effects of heat, light, sound, gas or smoke or any combination of these.”[4]  In the present case, the smoke cakes produced smoke as the main effect.  Importantly, there was no evidence that the smoke cakes, when ignited, would cause an explosion.  However, they could cause potential physical harm.[5]
+
+6.  The appellant was charged with and convicted by a deputy magistrate[6] after trial of the offence of possession of an explosive substance under section 55 of the Crimes Ordinance.[7]  Although “explosive substance” is not defined under that Ordinance, the deputy magistrate was satisfied that the definition of “explosive” in section 2 of the Dangerous Goods Ordinance was applicable.  Section 2 of the latter Ordinance defines “explosive” to include “any substance used or manufactured with a view to producing a practical effect by explosion or a pyrotechnic effect”.  The appellant’s appeal to the Court of First Instance was unsuccessful.[8]  Like the deputy magistrate, Albert Wong J also concluded that the definition of “explosive” in the Dangerous Goods Ordinance was applicable to the offence under section 55 of the Crimes Ordinance.[9]   Nonetheless, the learned judge was prepared to certify a question of law of great and general importance on the construction of section 55, that is, whether an explosive substance includes a substance used or manufactured with a view to producing a pyrotechnic effect.[10]
+
+7.  With leave granted by the Appeal Committee,[11] the appellant now appealed to this court, contending that the definition of “explosive” in section 2 of the Dangerous Goods Ordinance has no application to section 55 of the Crimes Ordinance.  When the word “explosive” is given its ordinary and natural meaning, it can only refer to a substance which can produce an explosion, but not otherwise.   On that basis, the smoke cakes in question were not an explosive substance.
+
+Approach to statutory interpretation
+
+8.  The modern approach to statutory interpretation is well established.  The proper starting point is to look at the relevant words or provisions having regard to their context and purpose.  The context of a statutory provision should be taken in its widest sense and includes the other provisions of the statute and the existing state of the law.  The purpose of a statutory provision may be gleaned from the provision itself or from a relevant report of the Law Reform Commission or the explanatory memorandum to the bill or from a statement of a responsible official to the Legislative Council in respect of the bill: T v Commissioner of Police.[12]
+
+9.  Furthermore, it is a principle of statutory interpretation that a person should not be penalised except under clear law, and the court, when faced with opposing constructions of a statutory provision, should strive to avoid adopting a construction which penalises a person when the legislator’s intention to do so is doubtful.[13]
+
+Part VII of the Crimes Ordinance
+
+10.  Section 55 of the Crimes Ordinance is found in Part VII of that Ordinance entitled “Explosive Substances”.  There is no definition of what “explosive” means in this term but the Part starts off with a deeming              definition in section 52:
+
+“Explosive substance shall be deemed to include any materials for making any explosive substance; also any apparatus, machine, implement or materials used, or intended to be used, or adapted for causing, or aiding in causing, any explosion in or with any explosive substance; also any part of any such apparatus, machine or implement.”
+
+11.  Section 53 then makes it an offence for anyone unlawfully and maliciously to cause by any explosive substance an explosion of a nature likely to endanger life or to cause serious injury to property.  The maximum sentence on conviction upon indictment is imprisonment for life. 
+
+12.  Section 54 creates two further offences.  Section 54(a) makes it an offence for any person unlawfully and maliciously to do an act with intent to cause by an explosive substance, or to conspire to cause by an explosive substance, an explosion of a nature likely to endanger life or to cause serious injury to property.  Section 54(b) makes it an offence for a person unlawfully and maliciously to make or to have in his possession or under his control any explosive substance with intent by means thereof to endanger life or cause serious injury to property, or to enable any other person by means thereof to endanger life or cause serious injury to property.
+
+13.  The two offences under section 54 carry a maximum punishment of 20 years imprisonment.  They can be committed regardless of “whether any explosion does or does not take place and whether any injury to person or property has been actually caused.”
+
+14.  Section 55, with which we are concerned, reads:
+
+“(1) Any person who makes an explosive substance or, whether or not he knows it to be an explosive substance, knowingly has in his possession or custody or under his control anything which is an explosive substance shall, unless he can show that he made it or has it in his possession or custody or under his control for a lawful object, be guilty of an offence and shall be liable on conviction upon indictment to imprisonment for 14 years, and the explosive substance shall be forfeited.
+
+(2) Where in any prosecution for an offence under subsection (1) it is proved that the accused knowingly had in his possession or custody or under his control anything whatsoever, other than premises, containing any explosive substance, then, unless the accused can show that he had reasonable grounds for believing that the thing did not contain anything or contained only something other than an explosive substance, he shall be presumed knowingly to have had in his possession or custody or under his control the explosive substance contained in that thing.
+
+(3) No prosecution for an offence under subsection (1) shall be instituted without the consent of the Secretary for Justice.”
+
+15.  Section 56 deals with the position of accessories.  Section 57 provides for the exclusion of the public during the hearing of proceedings for an offence under Part VII. 
+
+16.  Section 58, the last provision in Part VII, provides that Part VII shall not exempt any person from any indictment or proceeding for any offence which is punishable at common law or by Ordinance other than Part VII, but no person shall be punished twice for the same criminal act.
+
+17.  Pausing here, several observations may be made.  First, the legislature obviously intended to give “explosive substance” an expansive meaning.  Section 52 deems any material for making any explosive substance – whatever it may cover – an explosive substance.  Moreover, it deems any apparatus, machine, implement or materials used, or intended to be used, or adapted for causing, or aiding in causing, any explosion in or with any explosive substance an explosive substance.  And any part of any such apparatus, machine or implement is also deemed to be an explosive substance.  In other words, what is intended to be caught under the offence-creating provisions that follow is much wider than what a layman would otherwise understand as constituting an explosive substance.
+
+18.  Secondly, in sections 52, 53 and 54(a), causing an explosion is mentioned in conjunction with “explosive substance”.  Thus, in section 52, any apparatus, machine, implement or materials used, or intended to be used, or adapted for causing, or aiding in causing, any explosion in or with any explosive substance is deemed an explosive substance. 
+
+19.  Likewise, the offence under section 53 can only be committed by causing an explosion of the defined nature.  By definition, it cannot be committed if the substance in question cannot explode. 
+
+20.  The same can also be said of the offence under section 54(a) which requires an intention to cause an explosion of the prescribed nature.
+
+21.  All this suggests that an explosive substance only includes something that can explode (subject to the expansive definition in section 52). 
+
+22.  Thirdly, however, the above analysis is thrown into doubt when one comes to the second offence created under section 54.  The offence under section 54(b) does not refer to an intention to cause an explosion.  It is committed by making or having in one’s possession or control an explosive substance with intent by means thereof to endanger life or cause serious injury to property.  There is no reference, unlike in section 54(a), to endangering life or causing serious injury to property by an explosion.  In fact, if there had been a reference to an explosion as being the intended means to endanger life or injury to property, there would be little difference between the two offences under section 54(a) and (b) and they could simply be combined as one offence, with perhaps only the addition of the elements of making, having in his possession or control referred to in section 54(b).
+
+23.  This distinction strongly suggests that at least for section 54(b), the explosive substance can be something that does not lead to an explosion.  Indeed, section 54 specifically says that the offences in that section can be committed regardless of “whether any explosion does or does not take place”. 
+
+24.  Fourthly, the offences created under sections 53 and 54 are concerned with the protection of life and property.  They are obviously serious offences, as evidenced by the heavy maximum penalties that may be imposed. Section 55, on the other hand, makes no reference to endangering life or causing serious injury to property.  The manufacture or possession offence under section 55 may be committed in relation to an explosive substance which may endanger life or cause serious injury to property, as well as to one that does not.  The maximum penalty is 14 years imprisonment on conviction upon indictment.  Depending on the seriousness of the facts, the offence may be tried summarily in the magistrates’ courts.[14]  No prosecution may be instituted without the consent of the Secretary for Justice.
+
+25.  Fifthly and finally, section 58 of Part VII makes it clear that the offences in Part VII and any other possible offences under the common law or any other legislation are not mutually exclusive, so long as there is no double punishment.  In other words, it is envisaged that it is possible for an act to be caught both under Part VII and under some other law.  Such other law may well deal with a different aspect of the same act or subject matter.  This immediately raises the question: what other law might be relevant in this context?
+
+The Dangerous Goods Ordinance
+
+26.  Whilst Part VII of the Crimes Ordinances does not define the word “explosive”, a definition of the word is found in the Dangerous Goods Ordinance.  Section 2 of the Ordinance defines “explosive” to include “any substance used or manufactured with a view to producing a practical effect by explosion or a pyrotechnic effect”.
+
+27.  This definition is given in the context of section 3 of the Dangerous Goods Ordinance which applies the Ordinance to all explosives, compressed gases, petroleum and other substances giving off inflammable vapours, substances giving off poisonous gas or vapour, corrosive substances, substances which become dangerous by interaction with water or air, substances liable to spontaneous combustion or of a readily combustible nature, radioactive material and to such substances to which it is applied by the Chief Executive in Council.  All these goods or substances mentioned in section 3 are referred to as “dangerous goods” under the Ordinance: section 2.
+
+28.  Part II of the Ordinance goes on to impose licensing requirements for the manufacture, storage, conveyance or use of any dangerous goods. Contraventions of these provisions are sanctioned by criminal offences created under Part IV of the Ordinance, carrying a maximum fine of $25,000 and imprisonment for 6 months.
+
+29.  Section 20 of the Dangerous Goods Ordinance provides that the provisions of the Ordinance shall be in addition to and not in derogation of the provisions of any other enactment relating to dangerous goods. 
+
+30.  Detailed regulations are made under the Ordinance in relation to the storage, conveyance etc of dangerous goods: the Dangerous Goods (General) Regulations.[15]
+
+31.  Three observations can be made.  First, the Dangerous Goods Ordinance and its regulations are obviously enacted to provide a regulatory regime to control and govern the manufacture, storage, conveyance and use of dangerous goods.  Essentially, a licensing system is imposed. 
+
+32.  Secondly, “explosive” is one kind of dangerous goods under the Ordinance, and it includes a substance which does not produce a practical effect by explosion, but only a pyrotechnic effect.  In other words, instead of directly including pyrotechnic substances as dangerous goods under section 3, they are included within the meaning of “explosive”, by means of which they are controlled and regulated under the Ordinance as dangerous goods in section 3.
+
+33.  Thirdly, section 20 of the Ordinance makes it clear that the provisions in the Ordinance shall be in addition to and not in derogation of the provisions of any other enactment relating to dangerous goods.  In other words, a substance regulated under the Ordinance may also be subject to provisions governing or controlling its manufacture, use and so forth under some other legislation.  It is therefore similar to section 58 of the Crimes Ordinance, in that it recognises the potential applicability of other statutes dealing with different aspects of the same act or subject matter.
+
+The English provisions
+
+34.  Both Part VII of the Crimes Ordinance and the relevant provisions in the Dangerous Goods Ordinance can be traced to English provisions enacted in the 19th century.  Specifically, the definition of “explosive” in section 2 of the Dangerous Goods Ordinance is derived from section 3 of the Explosives Act 1875 which was enacted to amend the law with respect to manufacturing, keeping, selling, carrying and importing gunpowder, nitro-glycerine, and other explosive substances.  The primary function of the Act was to regulate and control lawful operations undertaken by those who were concerned in manufacturing, keeping, selling, carrying and importing explosive substances.  It also created a number of criminal offences in relation to the handling of explosive substances.[16]
+
+35.  Eight years later in the United Kingdom, the Explosive Substances Act 1883 was enacted.  It was the statute on which the provisions in Part VII of the Crimes Ordinance were based.  The long title of the 1883 Act said it was enacted to amend the law relating to explosive substances.  Section 9(1) of the 1883 Act contained the expansive definition of “explosive substance”, from which the definition of the same term contained in section 52 of the Crimes Ordinance was copied.  Indeed, sections 53, 54 and 55 of the Crimes Ordinance are essentially based on sections 2, 3 and 4 of the 1883 Act. 
+
+36.  Like Part VII of the Crimes Ordinance, the 1883 Act did not define, what “explosive” meant in the term “explosive substance” but only contained the same expansive deeming provision for the term.  The same issue which the present appeal has to deal with arose before the English Court of Appeal in R v Wheatley, namely, whether the definition of “explosive” in the 1875 Act was applicable to the interpretation of “explosive substance” in the 1883 Act. In answering the question in the affirmative, Bridge LJ explained:
+
+“Looking at the two statutes, at the nature of the provisions which they both contain, and in particular at the short and long titles of both statutes, it appears to this court that clearly they are in pari materia, and that conclusion alone would seem to us to be sufficient to justify the conclusion which the judge reached that the definition of the word ‘explosive’ found in the 1875 Act is available to be adopted and applied under the provisions of the 1883 Act.”[17]
+
+37.  A further reason given in support of the court’s decision was the direct reference in section 8 of the 1883 Act to the provisions in the 1875 Act,[18] which is not the case with the Crimes Ordinance and the Dangerous Goods Ordinance in Hong Kong.  But what is of note is the existence of provisions in both Ordinances envisaging the applicability of other statutes or laws relating to the same acts or subject matter covered in these Ordinances.[19]
+
+Legislative history in Hong Kong
+
+38.  So much for the English position.  So far as the legislative history of Part VII of the Crimes Ordinance and the Dangerous Goods Ordinance is concerned, the picture is slightly more complicated.
+
+39.  The Dangerous Goods Ordinance can be traced to the Explosive Substances Ordinance 1872, which was “[a]n Ordinance to regulate the Manufacture, Importation, Storage and Carriage of Explosive Substances”.[20]  It contained no definition of “explosive substance”, nor was the term used in the body of the Ordinance.  Rather, section 1 listed various substances as “specially dangerous”[21] and they were made subject to the regulation under the Ordinance. 
+
+40.  One year later, the Ordinance was repealed and replaced by the Dangerous Goods Ordinance 1873.  It was “[a]n Ordinance for the amendment of the law with respect to the carriage and deposit of dangerous goods”.[22] Again,  “explosive substance” or “explosive” was not mentioned, and “dangerous goods” meant those goods or substances specified in sections 3 and 4[23] or which might be declared to be dangerous by the Governor in Council. 
+
+41.  In 1901, the Gunpowder and Fireworks Ordinance was enacted to consolidate and amend the laws relating to the manufacture of gunpowder and fireworks, and to regulate the sale and conveyance of gunpowder. 
+
+42.  Both the Dangerous Goods Ordinance 1873 and the Gunpowder and Fireworks Ordinance 1901 were repealed by, and their provisions consolidated under, the Dangerous Goods Ordinance enacted in 1956, which is the Dangerous Goods Ordinance we have today.  This new Ordinance contained in section 2 a definition for “explosive” which included any substance producing a pyrotechnic effect, and as mentioned, “explosive” was made one type of dangerous goods controlled and regulated under the new Ordinance.
+
+43.  Part VII of the Crimes Ordinance, on the other hand, can be traced to the Explosive Substances Ordinance 1913, which was “[a]n Ordinance to amend the law relating to explosive substances”.[24]  The Ordinance was heavily modelled on the 1883 Act.  As mentioned, like the 1883 Act, the 1913 Ordinance did not define the word “explosive” in the term “explosive substance”.  However, apart from the expansive deeming provision for the term, unlike the situation in the United Kingdom where a definition of the word “explosive” was already in existence (in the 1875 Act) when the 1883 Act was enacted, the word was not defined or even used in the Dangerous Goods Ordinance 1873 or the Gunpowder and Fireworks Ordinance 1901 when the 1913 Ordinance was enacted.  The definition of “explosive” only came into being in Hong Kong in the subsequent Dangerous Goods Ordinance enacted in 1956. 
+
+44.  To complete the picture, the Explosive Substances Ordinance 1913 underwent some amendments in 1966 in response to the needs of society at that time, and was eventually consolidated, without amendment, in 1972 and became Part VII of the Crimes Ordinance.
+
+The appellant’s arguments
+
+45.  Ms Draycott SC (Ms Van Ma with her), for the appellant, essentially argued that given the different legislative histories in the United Kingdom and Hong Kong, Wheatley can be distinguished.  In particular, counsel pointed out that in Wheatley, after referring to the long titles of the 1875 Act and 1883 Act, the English Court of Appeal said that, on the face of it, the law relating to explosive substances which the 1883 Act was intended to amend must include the 1875 Act.[25]  The latter Act, counsel submitted, was an Act which “amended and built on” the earlier Act.  The same could not be said about the 1913 Ordinance and the Dangerous Goods Ordinance 1956.  Counsel also argued that the legislature could have added the pyrotechnic definition to the 1913 Ordinance when it was first enacted or in 1956 but had chosen not to do so.  Ms Draycott contended that the Dangerous Goods Ordinance is regulatory in nature whereas Part VII of the Crimes Ordinance is penal in nature, and one cannot use the definition of “explosive” in the former to interpret what an “explosive substance” is in the latter.  Counsel submitted that any doubt regarding the applicability of the definition of “explosive” in section 2 of the Dangerous Goods Ordinance to the offence under section 55 of the Crimes Ordinance should be resolved in favour of the appellant particularly given the very heavy penalty involved.[26]
+
+Discussion
+
+46.  It is true that the legislative histories of the provisions in the United Kingdom and in Hong Kong are different.  When the Hong Kong legislature enacted the Explosive Substances Ordinance in 1913 by borrowing heavily from the provisions in the 1883 Act, it did not also copy the definition of “explosive” in the 1875 Act into the 1913 Ordinance or otherwise amend the then Dangerous Goods Ordinance 1873 along the lines of the 1875 Act.  However, this appeal is not about the true meaning of “explosive substance” in the 1913 Ordinance when it was first enacted, or the reason why the legislature did not at that time include in the Ordinance the same definition for “explosive” in the 1875 Act.  For the position in Hong Kong changed in 1956 when the current Dangerous Goods Ordinance was enacted to replace the 1873 Ordinance, and the new Ordinance contained in section 2 the same definition for “explosive” as in the 1875 Act. As from 1956, the relevant position in Hong Kong is no different from that in the United Kingdom. 
+
+47.  As mentioned, Wheatley decided that both the 1875 Act and the 1883 Act were “in pari materia”.  As Bennion on Statutory Interpretation[27] explained:
+
+“Two or more Acts may be described as in pari materia if … they otherwise deal with the same subject matter on similar lines. … Acts that are in pari materia are sometimes described as forming a single code on a particular matter in the sense that they deal with the same or a similar subject matter and are to be construed as one. They ‘are to be taken together as forming one system, and as interpreting and enforcing each other’. The principle underlying the treatment of Acts which are in pari materia is based on the idea that there is continuity of legislative approach and uniformity in the use of language. [28]
+
+“Where a term is used without definition in one Act, but is defined in another Act which is in pari materia with the first Act, the definition may be treated as applicable to the use of the term in the first Act. … An Act often defines a term for the purposes of that Act only. Where the same term is used in another Act that is in pari materia and no definition is included, reliance may be placed on the definition in the first Act. Whether it is appropriate to do so will ultimate[ly] depend on the context having regard to other interpretative criteria.”[29]
+
+48.  In a passage also cited by Bennion,[30] Lord Mansfield said:
+
+“Where there are different statutes in pari materia, though made at different times, or even expired and not referring to each other, they shall be taken and construed together, as one system, and as explanatory of each other.” [31]
+
+49.  In deciding whether the legislation concerned is in pari materia, what matters is not so much the sequence of the enactment of the legislation as the content or substance of the legislation.  Whilst in Wheatley, the fact that it appeared that the law relating to explosive substances which the 1883 Act was intended to amend must include the 1875 Act was no doubt a matter that the court took into account, the crucial issue in that case, as in the present case, was whether the statutes were in pari materia, that is, whether they dealt with the same subject matter on similar lines.
+
+50.  The subject matters of Part VII of the Crimes Ordinance and the Dangerous Goods Ordinance obviously overlap in that both cover, regulate and control the manufacture, possession, custody or use of explosive substances.    It is reasonable to assume that there is continuity of legislative approach and uniformity in the use of language so that the same word “explosive” bears the same meaning under the two Ordinances.
+
+51.  Ms Draycott pointed out that the Dangerous Goods Ordinance provides a regulatory regime, backed by relatively light sanctions, in relation to the lawful manufacture, storage etc of explosives, whereas Part VII of the Crimes Ordinance provides a penal regime carrying heavy penalties regarding unlawful manufacture, possession or use of explosive substances.  This is quite true.  However, it does not follow that the two Ordinances are not in pari materia.  Rather, it only means that they form different parts of a complete code covering, regulating and controlling the manufacture, possession, custody or use of explosive substances in Hong Kong. Indeed the same may be said of the 1875 and 1883 Acts in that the former was regulatory and the latter penal in nature.  Yet this did not prevent the English Court of Appeal from holding that the 1875 Act and 1883 Act were in pari materia.
+
+52.  It is also noteworthy that during the Second Reading of the Explosive Substances Bill 1913,[32] the Attorney General specifically said that there were “three parts of the law already in existence in the Colony which relate[d] more or less to explosive substances” and “the second part of the existing law [was] that part of the law which relate[d] to Dangerous Goods”.  There was, however, “a hiatus really in the law, and [the] Bill [was] intended to fill the gap.”  In other words, the 1913 Ordinance was meant to form an additional part of a statutory code dealing with explosive substances, of which the dangerous goods legislation already formed a part.
+
+53.  Furthermore, as already pointed out, both the Crimes Ordinance and the Dangerous Goods Ordinance contain specific provisions to the effect that the same act covered under one Ordinance may also be covered under another Ordinance, and the provisions in the respective Ordinances are meant to be in addition to, and not in derogation from, the provisions in other legislation.
+
+54.  Returning to the provisions in Part VII of the Crimes Ordinance, I have already highlighted the expansive definition in section 52, which means that when approaching the provisions in Part VII, one simply cannot use a narrow, layman’s concept of what an “explosive substance” is to understand what is covered by the provisions.   
+
+55.  I have also mentioned that whilst the word “explosion” is used in some of the provisions, the offence under section 54(b), particularly when read in contrast with that under section 54(a), strongly suggests that an explosive substance need not be a substance which can produce a practical effect by explosion.  And crucially, in section 55, which creates the offence with which we are concerned, the word “explosion” is not used at all.
+
+56.  The appellant relies on an apparent anomaly to argue that the definition of “explosive” in section 2 of the Dangerous Goods Ordinance cannot be applicable to the offence under section 55 of the Crimes Ordinance.  Very briefly stated, the argument is that under the Dangerous Goods (General) Regulations, section 153(6)(a), one may lawfully “store” up to 5 kilogrammes of potassium chlorate[33] without a licence.[34]  Section 2 of the Dangerous Goods Ordinance defines “store”, when used as a verb, to include having “possession or custody of or control over that to which the verb relates”.  Yet, if the section 2 definition of “explosive” in the Dangerous Goods Ordinance is applicable to the possession offence under section 55 of the Crimes Ordinance, such a person would be guilty of the offence for possessing the potassium chlorate and liable to heavy punishment notwithstanding that no offence would be committed under  the Dangerous Goods (General) Regulations.[35]  This would create, so the argument runs, a statutory anomaly.  It must follow, accordingly, that section 55 of the Crimes Ordinance and the Dangerous Goods Ordinance must be looked at entirely independently of each other.
+
+57.  However, it should be noted that, first, there is a specific definition of the word “store” in the regulations. Under the regulations, the word “store”, “when used as a verb, means to keep for any purpose whatsoever, and ‘storage’ shall be construed accordingly; but, when used as a noun, [the word] means a place which is licensed for the storage of dangerous goods … and, if used as a noun in relation to premises, means such part of the premises as is so licensed.”[36]
+
+58.  As has been submitted on behalf of the respondent,[37] when one looks at sections 150 to 153 in Part VIII of the regulations, it can be seen that a part of the context and purpose of this part of the regulations is to regulate the place or premises for the manufacture or storage of category 7 dangerous goods.[38] And the licensing exemption in section 153(6)(a) is only applicable when the category 7 dangerous goods are stored in a place or premises, and the quantity does not exceed 5 kilogrammes.  It has nothing to do with the situation where, as in the present case, the category 7 dangerous goods are being carried around on a person in a public place.  
+
+59.  Secondly, it is true that storage of up to 5 kilogrammes of potassium chlorate in a place or premises falling within the licensing exemption in section 153(6)(a) may still be caught by section 55 of the Crimes Ordinance if pyrotechnics are explosive substances, unless the storage is for “a lawful object”.[39]  I do not see this result as being inconsistent with the view that the Dangerous Goods Ordinance and Part VII of the Crimes Ordinance are in pari materia.   It simply provides an example of what section 58 of the Crimes Ordinance anticipates, namely that different laws may deal with different aspects of the same act or subject matter. 
+
+60.  Finally, the appellant’s printed case[40] also refers to the  Entertainment Special Effects Ordinance[41] which regulates the supply, use, conveyance and storage of special effects materials, including pyrotechnic special effects materials, for and incidental to the production of special effects in entertainment programmes.[42]  The Ordinance creates offences for the discharge, supply, conveyance and storage of such materials without a permit or licence.[43]  The appellant points out that mere possession of such materials is not an offence under the Ordinance, yet if pyrotechnics are explosive substances under Part VII of the Crimes Ordinance, it may constitute an offence under the latter.
+
+61.  With respect, this does not advance the appellant’s case.  The Entertainment Special Effects Ordinance, enacted in 2001, just forms another part of the statutory code in Hong Kong which deals with explosive substances.  Indeed the Entertainment Special Effects (General) Regulation[44] made under the Ordinance regulates the conveyance of pyrotechnic special effects materials for use in the entertainment industry by reference to the “net explosive quantity”[45] of the materials.[46]  Possession of the materials for their legitimate use in the entertainment industry would obviously constitute “a lawful object” under section 55(1) of the Crimes Ordinance and therefore would not amount to a crime under that section. There is simply no inconsistency between the two Ordinances.
+
+Conclusion
+
+62.  For these reasons, I would answer the certified question in the affirmative and dismiss the appeal.
+
+Mr Justice Gleeson NPJ:
+
+63.  I agree with the Judgment of Mr Justice Cheung PJ.
+
+Chief Justice Ma:
+
+64.  Accordingly, the court unanimously dismisses the appeal.
+
+ 
+
+ 
+
+(Geoffrey Ma)	(R A V Ribeiro)	(Joseph Fok)
+Chief Justice	Permanent Judge	Permanent Judge
+ 
+
+ 
+
+(Andrew Cheung)	(Murray Gleeson)
+Permanent Judge	Non-Permanent Judge
+ 
+
+Ms Charlotte Draycott, SC, instructed by C O Chan & Co, assigned by the Director of Legal Aid and Ms Van Ma, instructed by C O Chan & Co, for the appellant
+
+Mr Paul Ho, DDPP and Mr Andrew Li, ADPP (Ag), of the Department of Justice, for the respondent
+
+
+[1] Cap 295.
+
+[2] Cap 200.
+
+[3] Expert witness report of Mr Adam Roberts, a bomb disposal officer with the Explosive Ordnance Disposal Bureau of the Hong Kong Police Force, dated 25 March 2016, para 4.2.
+
+[4] Expert report, para 5.2.2.
+
+[5] According to the expert report of Dr Lam Wai-kwok, a senior forensic pathologist with the Forensic Pathology Service of the Department of Health, dated 30 August 2016:
+
+“Contact [potassium chlorate] with skin can cause irritation, blistering and skin burns.  Contact with eyes can result in corneal damage or blindness. Inhalation of [potassium chlorate] will produce irritation to the respiratory tract, causing burning sensation, sore throat, sneezing and coughing, etc.  At high levels it can interfere with the ability of the blood to carry oxygen, weakness, dizziness and a blue colour of the skin (methaemoglobinaemia). Severe over-exposure can produce lung damage, difficulty in breathing, unconsciousness and even death.”
+
+[6] Mr Jacky Ip.
+
+[7] ESCC 4136/2015, ESS 22161/2016, ESS 22163/2016, ESS 22165/2016.
+
+[8] HCMA 244/2017.
+
+[9] [2019] HKCFI 1093.
+
+[10] [2019] HKCFI 2067.
+
+[11] Cheung Ag CJ, Ribeiro PJ and Fok PJ, [2019] HKCFA 40, 14 November 2019.
+
+[12] (2014) 17 HKCFAR 593, para 194.
+
+[13] Ibid, para 196.
+
+[14] Sections 91 and 92 of the Magistrates Ordinance (Cap 227).
+
+[15] Cap 295B.
+
+[16] R v Wheatley [1979] 1 All ER 954, 956 h.
+
+[17] p 957 b-c.
+
+[18] p 957 d-g.
+
+[19] The Crimes Ordinance, section 58; the Dangerous Goods Ordinance, section 20.
+
+[20] The long title.
+
+[21] Nitro-glycerine or glonoine oil, petroleum, gun cotton, cartridges, and fulminating mercury.
+
+[22] The long title.
+
+[23] Petroleum, nitroglycerine or glonoine oil, gun cotton, fulminate of mercury or of other metals, dynamite, blasting powders, gunpowder, fuses (other than safety fuses), rockets, detonators, cartridges, ammunition of all descriptions (other than percussion caps or priming caps or empty sporting cases), phosphorus, aqua fortis, vitriol, naphtha and benzine.
+
+[24] The long title.
+
+[25] p 956 i.
+
+[26] Sweet v Parsley [1969] 1 All ER 347, 350 E/F, 364 B/C.
+
+[27] 7th edition.
+
+[28] p 520.
+
+[29] p 483.
+
+[30] p 520.
+
+[31] R v Loxdale (1758) 1 Burr 445, 447.
+
+[32] 31 July 1913.
+
+[33] As mentioned earlier, the smoke cakes in the present case contained potassium chlorate.
+
+[34] In fact, this was the reason why, on the same set of facts, the appellant was acquitted of a separate offence of storing dangerous goods without a licence, contrary to sections 6(1) and 14(1) of the Dangerous Goods Ordinance.
+
+[35] In the present case, the appellant was in possession of about 500g of potassium chlorate.
+
+[36] Section 2(1).
+
+[37] Printed case, paras 53 to 59.
+
+[38] It also deals with the conveyance and packing of category 7 dangerous goods.
+
+[39] Section 55(1), Crimes Ordinance.  No prosecution for an offence under section 55(1) may be instituted without the consent of the Secretary for Justice: section 55(3).
+
+[40] Paras 4.1 and 4.2.
+
+[41] Cap 560.
+
+[42] The long title.
+
+[43] Sections 10, 18, 21 and 23.
+
+[44] Cap 560A.
+
+[45] The term is defined in section 2 of the principal Ordinance, in relation to pyrotechnic special effects materials, to mean “the net weight of the chemical material in a pyrotechnic special effects material designed to produce heat, gas, sound, light, or a combination of these effects resulting from a self-sustaining and self-contained exothermic chemical reaction by combustion, deflagration or detonation”.
+
+[46] Sections 23, 24, 25 and 26.
+
+  

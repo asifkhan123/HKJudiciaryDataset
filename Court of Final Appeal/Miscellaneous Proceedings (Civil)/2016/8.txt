@@ -1,0 +1,101 @@
+FAMV No. 23 of 2016
+
+IN THE COURT OF FINAL APPEAL OF THE
+
+HONG KONG SPECIAL ADMINISTRATIVE REGION
+
+MISCELLANEOUS PROCEEDINGS NO. 23 OF 2016 (CIVIL)
+
+(ON APPLICATION FOR LEAVE TO APPEAL FROM
+
+CACV NO. 22 OF 2015)
+
+____________________
+
+BETWEEN
+
+ 	LAU CHUN MING	Plaintiff
+(Applicant)
+ 	and	
+ 	DELOITTE TOUCHE TOHMATSU (a firm)	Defendant
+(Respondent)
+____________________
+
+Appeal Committee : Mr Justice Ribeiro PJ, Mr Justice Tang PJ and Mr Justice Fok PJ
+Date of Hearing and Determination : 30 September 2016
+Date of Reasons for Determination : 6 October 2016
+_________________________________
+
+REASONS FOR DETERMINATION
+
+_________________________________
+
+Mr Justice Fok PJ :
+
+1.  At the hearing we dismissed this application for leave to appeal and now provide our reasons.
+
+2.  The applicant entered into a contract with the respondent firm of accountants for the firm to provide personnel to act as trustees in bankruptcy in relation to a bankruptcy in which the applicant was the principal creditor. A partner and supervisor from the firm were duly appointed as trustees in bankruptcy (“the trustees”) on 21 November 2002.
+
+3.  They were however removed and replaced by new trustees from a different firm of accountants (“the new trustees”) on 29 June 2009.  During July 2009, the trustees handed over the relevant books and records to the new trustees. Then on 27 August 2009, pursuant to rule 169 of the Bankruptcy Rules, the trustees gave notice of their intention to apply to the Court for release under section 94.  There was no objection and the Court made the release order on 28 January 2010.
+
+4.  The applicant’s action against the respondent firm for breach of contract and negligence was started on 26 July 2013.  It was met by a striking out summons on the basis that section 94 of the Bankruptcy Ordinance (Cap.6) had released the firm of all liability.  That section materially provides:
+
+“(1) When the trustee ... has resigned or has been removed from his office, he shall apply to the court for his release, and if all the requirements of the court with respect to accounts and with respect to any order of the court against the trustee have been fulfilled, the court may make an order for release accordingly.
+
+(2) Where the release of a trustee is withheld the court may, on the application of any creditor or person interested, make such order as it thinks just, charging the trustee with the consequences of any act or default he may have done or made contrary to his duty.
+
+(3)       An order of the court releasing the trustee shall discharge him from all liability in respect of any act done or default made by him in the administration of the affairs of the bankrupt, or otherwise in relation to his conduct as trustee, but any such order may be revoked on proof that it was obtained by fraud or by suppression or concealment of any material fact.”
+
+5.  Ng J dismissed the application, holding that section 94 only discharged the trustees but not the firm.[1] The Court of Appeal[2] allowed the appeal to the extent of striking out the tortious claim.  It held that that claim was founded on the joint and several liability of the partners in the firm for the torts of the trustees; and that consequent upon the trustees’ release from all liability pursuant to section 94, the tort claim against the firm had to fail.  The firm did not seek to strike out the claim in contract which remains for trial.
+
+6.  The applicant sought leave to appeal against the order of the Court of Appeal on the basis of the following three questions of law:
+
+“(1) Whether the mechanism and effect of a release order under section 94(3) of the Bankruptcy Ordinance, Cap 6 (‘the Release Order’) - which has the effect of releasing liability of a trustee in bankruptcy (‘the Trustee’) and therefore removing the bankrupt’s creditors’ right to judicial remedies against the Trustee - is inconsistent with Article 35 of the Basic Law when in United Kingdom, under section 299 of the Insolvency Act 1986 a different mechanism on release of the trustee was adopted so that despite there being a release order, the trustee still remains subject to a potential liability to be proceeded against him under section 304(1) of the Insolvency Act in relation to any loss to the bankrupt’s estate on grounds of misconduct or breach of fiduciary duty;
+
+(2) Without prejudice to Question 1 above, whether the effect of the Release Order extends to a sole owner of the firm or partner(s) of the firm or employee(s) of the firm even if the Trustee is a person from the firm which entered into a separate agreement with the creditor to put himself in as trustee (‘the Agreement’);
+
+(3) Without prejudice to Question 1 above, whether the effect of the Release Order has the effect of expunging the duty of care owed by the firm to the creditor arising from the Agreement when the creditor was separately charged by the firm for the services rendered by the firm.”
+
+7.  Article 35 of the Basic Law relevantly provides:
+
+“Hong Kong residents shall have the right to confidential legal advice, access to the courts, choice of lawyers for timely protection of their lawful rights and interests or for representation in the courts, and to judicial remedies.”
+
+8.  The argument sought to be advanced in Question 1 is, with respect, misconceived.  As was stated in Stock Exchange of Hong Kong Ltd v New World Development Co Ltd,[3] and reiterated in Leung Chun Ying v Ho Chun Yan Albert,[4] Article 35 ensures that fundamental rights as well as ordinary legal rights and obligations are enforceable by individuals and justiciable in the courts.  There is no question of the applicant having been denied access to the courts for such purposes.
+
+9.  Section 94 and the related rules do not deny access to the court.  They mark off the limits of liability of trustees in bankruptcy as a matter of substantive law and afford access to the court to enforce liability so defined.  They require the trustee to apply to the court for release and provide for creditors and the Official Receiver to notify the court of any objection to release.  Where release of a trustee is withheld, any creditor or person interested is enabled to apply to the court to make such order as it thinks just, charging the trustee with the consequences of any act or default he may have done or made contrary to his duty.  Even after the release order has been made, section 94 enables application to be made to the court to revoke such order on proof that it was obtained by fraud or by suppression or concealment of any material fact.
+
+10.  In the present case, the applicant and the new trustees were handed the trustees’ books and records in July 2009 and were told of the trustees’ intention to seek release some five months before they made the application and some six months before the Court made the order.  Throughout this time, the section 94 regime afforded the applicant access to the court to ask for release to be withheld.  For whatever reason, the applicant did not avail himself of such access.  In these circumstances, Article 35 is not engaged.
+
+11.  Questions 2 and 3 seek to raise issues concerning the effect of the release order.  It was contended that the release order is personal to the trustees and does not extend to release the liability of the firm and other partners of the firm. 
+
+12.  However, insofar as this contention relates to contractual liability, the Court of Appeal did not deal with any aspect of that claim since the respondent did not seek to strike it out.  Insofar as it relates to the tortious claim, which was struck out, the questions posed are fact sensitive, arising as they do in the circumstances of a tortious duty of care pleaded as being “coterminous and dependent” on the trustees’ contractual duties.[5] The rationale for the applicant’s continued pursuit of the tortious claim, which would appear to add nothing to the existing contractual claim which will proceed to trial in any event, is therefore not clear.  In the circumstances, we were not satisfied that the questions posed are of the necessary importance to warrant the grant of leave to appeal.  This is all the more so since the questions are posed in the context of a strike out application; even if leave to appeal were granted, the Court would not be making any determinative ruling on the effect of the release order.
+
+13.  For the above reasons, we dismissed the application for leave to appeal with costs to the respondent.
+
+ 
+
+ 
+
+(R A V Ribeiro)
+Permanent Judge	(Robert Tang)
+Permanent Judge	(Joseph Fok)
+Permanent Judge
+ 
+
+Mr Russell Coleman SC and Ms Queenie W S Ng, instructed by K H Lam & Co., for the Plaintiff (Applicant)
+
+Mr Jeremy Bartlett SC, instructed by O’Melveny & Myers, for the Defendant (Respondent)
+
+
+[1] HCCL 24/2013 (6 November 2014).
+
+[2] Cheung and Yuen JJA, CACV 22/2015 (12 October 2015).
+
+[3] (2006) 9 HKCFAR 234 at [50].
+
+[4] (2013) 16 HKCFAR 735 at [34], [36], [39-42].
+
+[5] Statement of Claim at para.9.
+
+ 
+
