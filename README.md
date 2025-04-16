@@ -1,2 +1,1297 @@
 # HKJudiciaryDataset
-This dataset contains case judgements extracted from the Hong Kong Judiciary, with a total of 1120 cases from 1997-2025.
+This dataset contains case judgements extracted from the Hong Kong Judiciary, with a total of 1119 (99 of which are Chinese) cases from 1997-2025. The folder structure is illustrated below, with around 7-10 publicly available cases scraped from each year.
+```
+└── 📁HKJudiciaryDataset
+    └── 📁Competition Tribunal
+        └── 📁Competition Tribunal Action
+            └── 📁2018
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+        └── 📁Competition Tribunal Enforcement Action
+            └── 📁2017
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2018
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+            └── 📁2019
+                └── 1.txt
+                └── 2 (chinese).txt
+                └── 3 (chinese).txt
+                └── 4 (chinese).txt
+                └── 5.txt
+            └── 📁2020
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+            └── 📁2021
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+            └── 📁2022
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+            └── 📁2023
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+    └── 📁Court of Appeal of the High Court
+        └── 📁Application for Review
+            └── 📁2014
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+            └── 📁2015
+                └── 1.txt
+            └── 📁2016
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+            └── 📁2017
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+            └── 📁2018
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+            └── 📁2019
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+            └── 📁2020
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2021
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2022
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2023
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+            └── 📁2024
+                └── 1.txt
+                └── 2.txt
+        └── 📁Civil Appeal
+            └── 📁2014
+                └── 1.txt
+                └── 10.txt
+                └── 2 (chinese).txt
+                └── 3 (chinese).txt
+                └── 4 (chinese).txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2015
+                └── 1 (chinese).txt
+                └── 10 (chinese).txt
+                └── 2.txt
+                └── 3.txt
+                └── 4 (chinese).txt
+                └── 5 (chinese).txt
+                └── 6 (chinese).txt
+                └── 7 (chinese).txt
+                └── 8 (chinese).txt
+                └── 9.txt
+            └── 📁2016
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5 (chinese).txt
+                └── 6 (chinese).txt
+                └── 7 (chinese).txt
+                └── 8 (chinese).txt
+                └── 9.txt
+            └── 📁2017
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2018
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2019
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2020
+                └── 1.txt
+                └── 10 (chinese).txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2021
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2022
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6 (chinese).txt
+                └── 7 (chinese).txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2023
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7 (chinese).txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2024
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+        └── 📁Criminal Appeal
+            └── 📁2014
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2015
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2016
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2017
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2018
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2019
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2020
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2021
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2022
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2023
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2024
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+        └── 📁Miscellaneous Proceedings
+            └── 📁2017
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4 (chinese).txt
+                └── 5 (chinese).txt
+                └── 6 (chinese).txt
+                └── 7 (chinese).txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2018
+                └── 1.txt
+                └── 10 (chinese).txt
+                └── 2 (chinese).txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6 (chinese).txt
+                └── 7 (chinese).txt
+                └── 8 (chinese).txt
+                └── 9 (chinese).txt
+            └── 📁2019
+                └── 1 (chinese).txt
+                └── 10.txt
+                └── 2 (chinese).txt
+                └── 3 (chinese).txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2020
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2021
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2022
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2023
+                └── 1.txt
+                └── 10 (chinese).txt
+                └── 2 (chinese).txt
+                └── 3 (chinese).txt
+                └── 4 (chinese).txt
+                └── 5 (chinese).txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2024
+                └── 1.txt
+                └── 10 (chinese).txt
+                └── 2.txt
+                └── 3.txt
+                └── 4 (chinese).txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8 (chinese).txt
+                └── 9 (chinese).txt
+            └── 📁2025
+                └── 1.txt
+        └── 📁Reservation of Question of Law
+            └── 📁1997
+                └── 1.txt
+            └── 📁2018
+                └── 1.txt
+                └── 2.txt
+        └── 📁Secretary for Justice's Reference
+            └── 📁2020
+                └── 1.txt
+                └── 2.txt
+            └── 📁2021
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+    └── 📁Court of Final Appeal
+        └── 📁Final Appeal (Civil)
+            └── 📁2014
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2015
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2016
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2017
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2018
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2019
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2020
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2021
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+            └── 📁2022
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2023
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2024
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+        └── 📁Final Appeal (Criminal)
+            └── 📁2014
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2015
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2016
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2017
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2018
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2019
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+            └── 📁2020
+                └── 1.txt
+                └── 2.txt
+            └── 📁2021
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+            └── 📁2022
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+            └── 📁2023
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2024
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+        └── 📁Miscellaneous Proceedings
+        └── 📁Miscellaneous Proceedings (Civil)
+            └── 📁2014
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2015
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2016
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2017
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2018
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2019
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2020
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2021
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2022
+                └── 1.txt
+                └── 10 (chinese).txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2023
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+            └── 📁2024
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+        └── 📁Miscellaneous Proceedings (Criminal)
+            └── 📁2014
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2015
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2016
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2017
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2018
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2019
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2020
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2021
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2022
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2023
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2024
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+            └── 📁2003
+                └── 1.txt
+            └── 📁2004
+                └── 1.txt
+            └── 📁2009
+                └── 1.txt
+            └── 📁2010
+                └── 1.txt
+            └── 📁2013
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+            └── 📁2014
+                └── 1.txt
+            └── 📁2020
+                └── 1.txt
+    └── 📁Family Court
+        └── 📁Joint Application
+            └── 📁2014
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+            └── 📁2015
+                └── 1.txt
+                └── 2.txt
+            └── 📁2016
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2017
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2018
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2019
+                └── 1.txt
+                └── 2.txt
+            └── 📁2021
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+            └── 📁2022
+                └── 1.txt
+        └── 📁Matrimonial Causes
+            └── 📁2014
+                └── 1.txt
+                └── 10 (chinese).txt
+                └── 2 (chinese).txt
+                └── 3 (chinese).txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8 (chinese).txt
+                └── 9.txt
+            └── 📁2015
+                └── 1.txt
+                └── 10 (chinese).txt
+                └── 2.txt
+                └── 3 (chinese).txt
+                └── 4 (chinese).txt
+                └── 5 (chinese).txt
+                └── 6 (chinese).txt
+                └── 7 (chinese).txt
+                └── 8 (chinese).txt
+                └── 9 (chinese).txt
+            └── 📁2016
+                └── 1 (chinese).txt
+                └── 10.txt
+                └── 2  (chinese).txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6  (chinese).txt
+                └── 7  (chinese).txt
+                └── 8.txt
+                └── 9 (chinese).txt
+            └── 📁2017
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3 (chinese).txt
+                └── 4.txt
+                └── 5.txt
+                └── 6 (chinese).txt
+                └── 7 (chinese).txt
+                └── 8 (chinese).txt
+                └── 9.txt
+            └── 📁2018
+                └── 1.txt
+                └── 10 (chinese).txt
+                └── 2 (chinese).txt
+                └── 3.txt
+                └── 4 (chinese).txt
+                └── 5.txt
+                └── 6 (chinese).txt
+                └── 7.txt
+                └── 8 (chinese).txt
+                └── 9 (chinese).txt
+            └── 📁2019
+                └── 1.txt
+                └── 10.txt
+                └── 2 (chinese).txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2020
+                └── 1 (chinese).txt
+                └── 10.txt
+                └── 2 (chinese).txt
+                └── 3 (chinese).txt
+                └── 4 (chinese).txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9 (chinese).txt
+            └── 📁2021
+                └── 1 (chinese).txt
+                └── 10.txt
+                └── 2 (chinese).txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2022
+                └── 1 (chinese).txt
+                └── 10.txt
+                └── 2 (chinese).txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7 (chinese).txt
+                └── 8 (chinese).txt
+                └── 9 (chinese).txt
+            └── 📁2023
+                └── 1 (chinese).txt
+                └── 10 (chinese).txt
+                └── 2 (chinese).txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+        └── 📁Miscellaneous Proceedings
+            └── 📁2014
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2015
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2016
+                └── 1 (chinese).txt
+                └── 10 (chinese).txt
+                └── 2 (chinese).txt
+                └── 3 (chinese).txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9 (chinese).txt
+            └── 📁2017
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2018
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2019
+                └── 1 (chinese).txt
+                └── 10.txt
+                └── 2.txt
+                └── 3 (chinese).txt
+                └── 4 (chinese).txt
+                └── 5 (chinese).txt
+                └── 6 (chinese).txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2020
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2021
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2022
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5 (chinese).txt
+                └── 6.txt
+                └── 7 (chinese).txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2024
+                └── 1.txt
+    └── 📁Miscellaneous
+        └── 📁Coroner's Court
+            └── 📁2012
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2013
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2022
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+        └── 📁Labour Tribunal
+            └── 📁2008
+                └── 1.txt
+                └── 2.txt
+                └── 3.txt
+            └── 📁2012
+                └── 1.txt
+                └── 2.txt
+        └── 📁Magistrates' Courts
+            └── 📁2011
+                └── 1.txt
+            └── 📁2019
+                └── 1.txt
+            └── 📁2020
+                └── 1.txt
+        └── 📁Obscene Articles Tribunal
+            └── 📁2006
+                └── 1.txt
+                └── 2.txt
+        └── 📁Small Claims Tribunal
+            └── 📁2001
+                └── 1.txt
+            └── 📁2012
+                └── 1.txt
+                └── 2.txt
+            └── 📁2015
+                └── 1.txt
+            └── 📁2020
+                └── 1.txt
+                └── 10.txt
+                └── 2.txt
+                └── 3.txt
+                └── 4.txt
+                └── 5.txt
+                └── 6.txt
+                └── 7.txt
+                └── 8.txt
+                └── 9.txt
+            └── 📁2021
+                └── 1.txt
+```
